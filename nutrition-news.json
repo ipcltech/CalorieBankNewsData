@@ -1,7 +1,812 @@
 {
-  "generatedAt": "2026-04-27T20:02:33.562Z",
-  "sourceCount": 4,
+  "generatedAt": "2026-04-27T20:28:15.828Z",
+  "sourceCount": 11,
   "articles": [
+    {
+      "id": "uk-retirement-2026-04-27",
+      "category": "aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-uk-outlasts-healthy-life-people.html",
+      "sourceTitle": "Why UK retirement now outlasts healthy life expectancy for many people",
+      "publishedAt": "Mon, 27 Apr 2026 14:57:00 EDT",
+      "languages": {
+        "en": {
+          "title": "UK retirement increasingly longer than healthy years",
+          "summary": "A recent study reports that over the past decade British people have lost more than two years of healthy life expectancy, meaning many now spend more years in retirement with health problems than in good health.",
+          "whyItMatters": "This shift affects how people plan for retirement, health care needs and public policy for aging populations.",
+          "takeaways": [
+            "Healthy life expectancy in the UK dropped by more than two years over ten years.",
+            "More people are experiencing health problems before or during retirement.",
+            "Findings have implications for retirement planning, caregiving and health services."
+          ]
+        },
+        "es": {
+          "title": "La jubilación en el Reino Unido dura cada vez más que los años de vida saludable",
+          "summary": "Un estudio reciente informa que en la última década las personas británicas han perdido más de dos años de esperanza de vida saludable, lo que significa que muchas ahora pasan más años en la jubilación con problemas de salud que con buena salud.",
+          "whyItMatters": "Este cambio afecta la planificación de la jubilación, las necesidades de atención sanitaria y las políticas públicas para poblaciones envejecidas.",
+          "takeaways": [
+            "La esperanza de vida saludable en el Reino Unido se redujo en más de dos años en diez años.",
+            "Más personas experimentan problemas de salud antes o durante la jubilación.",
+            "Los hallazgos tienen implicaciones para la planificación de la jubilación, el cuidado informal y los servicios de salud."
+          ]
+        },
+        "ru": {
+          "title": "Период выхода на пенсию в Великобритании всё чаще превышает годы здоровой жизни",
+          "summary": "Недавнее исследование показывает, что за последнее десятилетие британцы потеряли более двух лет ожидаемой продолжительности здоровой жизни, из‑за чего многие теперь проводят в пенсионном возрасте больше времени с проблемами здоровья, чем в хорошем самочувствии.",
+          "whyItMatters": "Это изменение влияет на планирование выхода на пенсию, потребности в медицинской помощи и государственную политику в отношении стареющего населения.",
+          "takeaways": [
+            "Ожидаемая продолжительность здоровой жизни в Великобритании сократилась более чем на два года за десять лет.",
+            "Больше людей сталкиваются с проблемами здоровья до или во время выхода на пенсию.",
+            "Результаты важны для планирования пенсии, ухода и организации медицинских услуг."
+          ]
+        },
+        "uk": {
+          "title": "Тривалість пенсії у Великій Британії все частіше перевищує роки здорового життя",
+          "summary": "Нещодавнє дослідження повідомляє, що за останнє десятиліття британці втратили понад два роки очікуваної тривалості життя в доброму здоров'ї, через що багато людей тепер проводять у пенсії більше років з проблемами зі здоров'ям, ніж у доброму стані.",
+          "whyItMatters": "Ця зміна впливає на планування виходу на пенсію, потреби у медичній допомозі та державну політику щодо старіння населення.",
+          "takeaways": [
+            "Очікувана тривалість життя в доброму здоров'ї у Великій Британії знизилася більш ніж на два роки за десять років.",
+            "Більше людей стикаються з проблемами зі здоров'ям до або під час пенсії.",
+            "Результати мають наслідки для планування пенсії, догляду та медичних послуг."
+          ]
+        },
+        "fr": {
+          "title": "La durée de la retraite au Royaume‑Uni dépasse de plus en plus les années en bonne santé",
+          "summary": "Une étude récente indique que, au cours de la dernière décennie, la population britannique a perdu plus de deux années d'espérance de vie en bonne santé, ce qui signifie que beaucoup passent désormais davantage d'années à la retraite avec des problèmes de santé qu'en bonne santé.",
+          "whyItMatters": "Ce changement affecte la planification de la retraite, les besoins en soins de santé et les politiques publiques pour les populations vieillissantes.",
+          "takeaways": [
+            "L'espérance de vie en bonne santé au Royaume‑Uni a diminué de plus de deux ans en dix ans.",
+            "Un plus grand nombre de personnes éprouvent des problèmes de santé avant ou pendant la retraite.",
+            "Les conclusions ont des implications pour la planification de la retraite, les soins et les services de santé."
+          ]
+        },
+        "de": {
+          "title": "In Großbritannien werden Ruhestandsjahre für viele Menschen zunehmend länger als gesunde Lebensjahre",
+          "summary": "Eine aktuelle Studie berichtet, dass die Briten in den letzten zehn Jahren mehr als zwei Jahre an gesunder Lebenserwartung verloren haben, sodass viele nun mehr Jahre im Ruhestand mit gesundheitlichen Problemen verbringen als in guter Gesundheit.",
+          "whyItMatters": "Diese Verschiebung beeinflusst, wie Menschen für den Ruhestand planen, welche Gesundheitsversorgung benötigt wird und wie die öffentliche Politik für alternde Bevölkerungen gestaltet werden sollte.",
+          "takeaways": [
+            "Die gesunde Lebenserwartung im Vereinigten Königreich ist über zehn Jahre um mehr als zwei Jahre gesunken.",
+            "Mehr Menschen erleben gesundheitliche Probleme vor oder während des Ruhestands.",
+            "Die Ergebnisse haben Folgen für Ruhestandsplanung, Pflege und Gesundheitsdienste."
+          ]
+        },
+        "pt-br": {
+          "title": "A aposentadoria no Reino Unido é, para muitos, cada vez mais longa que os anos de vida saudável",
+          "summary": "Um estudo recente relata que, na última década, os britânicos perderam mais de dois anos de expectativa de vida saudável, o que significa que muitos agora passam mais anos na aposentadoria com problemas de saúde do que em boa saúde.",
+          "whyItMatters": "Essa mudança afeta como as pessoas planejam a aposentadoria, as necessidades de cuidados de saúde e as políticas públicas para populações envelhecidas.",
+          "takeaways": [
+            "A expectativa de vida saudável no Reino Unido caiu mais de dois anos ao longo de dez anos.",
+            "Mais pessoas estão enfrentando problemas de saúde antes ou durante a aposentadoria.",
+            "As descobertas têm implicações para o planejamento da aposentadoria, cuidados e serviços de saúde."
+          ]
+        },
+        "hu": {
+          "title": "A brit nyugdíjas évek egyre gyakrabban hosszabbak az egészséges éveknél",
+          "summary": "Egy nemrégiben megjelent tanulmány szerint az elmúlt tíz évben a brit lakosság egészséges várható élettartama több mint két évvel csökkent, ami azt jelenti, hogy sokan ma több évet töltenek nyugdíjban egészségi problémákkal, mint jó egészségben.",
+          "whyItMatters": "Ez a változás befolyásolja a nyugdíj-tervezést, az egészségügyi szükségletek előrejelzését és az időskorúakra vonatkozó közpolitikai döntéseket.",
+          "takeaways": [
+            "Az Egyesült Királyságban az egészséges várható élettartam tíz év alatt több mint két évvel csökkent.",
+            "Egyre több ember tapasztal egészségi problémákat nyugdíj előtt vagy nyugdíjban.",
+            "Az eredmények hatással lehetnek a nyugdíjtervezésre, az ápolásra és az egészségügyi szolgáltatásokra."
+          ]
+        },
+        "ar": {
+          "title": "سنوات التقاعد في المملكة المتحدة صارت أطول من سنوات الصحة الجيدة لدى كثيرين",
+          "summary": "تفيد دراسة حديثة بأن متوسط سنوات الحياة بصحة جيدة لدى البريطانيين انخفض بأكثر من عامين خلال العقد الماضي، مما يعني أن كثيرين يقضون الآن سنوات تقاعد أكثر وهم يعانون من مشاكل صحية مقارنة بالسنوات بصحة جيدة.",
+          "whyItMatters": "هذا التحول يؤثر على كيفية التخطيط للتقاعد، وتوقع احتياجات الرعاية الصحية، والسياسات العامة المتعلقة بزيادة أعمار السكان.",
+          "takeaways": [
+            "انخفضت سنوات الحياة المتوقعة بصحة جيدة في المملكة المتحدة بأكثر من عامين خلال عشر سنوات.",
+            "عدد متزايد من الأشخاص يواجهون مشاكل صحية قبل التقاعد أو خلاله.",
+            "للاستنتاجات تبعات على تخطيط التقاعد، ورعاية المريض، وخدمات الرعاية الصحية."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/uk-retirement-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=uk-retirement-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/uk-retirement-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/uk-retirement-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/uk-retirement-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/uk-retirement-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/uk-retirement-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/uk-retirement-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/uk-retirement-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/uk-retirement-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/uk-retirement-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/uk-retirement-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/uk-retirement-2026-04-27.html"
+      }
+    },
+    {
+      "id": "menopause-epigenetics-2026-04-27",
+      "category": "women-health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-explanation-heart-disease-menopause.html",
+      "sourceTitle": "A new explanation for the rise in heart disease risk after menopause",
+      "publishedAt": "Mon, 27 Apr 2026 14:40:02 EDT",
+      "languages": {
+        "en": {
+          "title": "Epigenetic changes may help explain postmenopausal cardio-metabolic risk",
+          "summary": "Researchers at Virginia Tech suggest that falling estrogen levels after menopause may change gene activity through epigenetic mechanisms, which could contribute to higher rates of heart disease, diabetes and other metabolic conditions in postmenopausal women.",
+          "whyItMatters": "Understanding biological mechanisms behind rising midlife cardiometabolic risk in women can guide future research and targeted prevention strategies.",
+          "takeaways": [
+            "Declining estrogen may influence gene regulation (epigenetics) beyond direct hormone effects.",
+            "Epigenetic shifts could be one factor linked to increased heart disease and metabolic disorders after menopause.",
+            "The work points to biological pathways for further study rather than immediate clinical changes."
+          ]
+        },
+        "es": {
+          "title": "Los cambios epigenéticos podrían ayudar a explicar el riesgo cardiometabólico posmenopáusico",
+          "summary": "Investigadores de Virginia Tech sugieren que la disminución de estrógenos tras la menopausia puede modificar la actividad génica mediante mecanismos epigenéticos, lo que podría contribuir a tasas más altas de enfermedad cardíaca, diabetes y otras afecciones metabólicas en mujeres posmenopáusicas.",
+          "whyItMatters": "Comprender los mecanismos biológicos detrás del aumento del riesgo cardiometabólico en la mediana edad de las mujeres puede orientar futuras investigaciones y estrategias de prevención dirigidas.",
+          "takeaways": [
+            "La caída de estrógenos podría influir en la regulación génica (epigenética) además de sus efectos hormonales directos.",
+            "Los cambios epigenéticos podrían ser uno de los factores vinculados al mayor riesgo de enfermedad cardíaca y trastornos metabólicos tras la menopausia.",
+            "El trabajo señala vías biológicas para estudiar más a fondo y no implica cambios clínicos inmediatos."
+          ]
+        },
+        "ru": {
+          "title": "Эпигенетические изменения могут помочь объяснить кардиометаболический риск в постменопаузе",
+          "summary": "Исследователи из Вирджиния Тек полагают, что снижение уровня эстрогенов после менопаузы может менять активность генов через эпигенетические механизмы и тем самым способствовать более высоким показателям сердечных заболеваний, диабета и других метаболических состояний у женщин в постменопаузе.",
+          "whyItMatters": "Понимание биологических механизмов, лежащих в основе возрастания кардиометаболического риска у женщин в среднем возрасте, может направить будущие исследования и целевые профилактические стратегии.",
+          "takeaways": [
+            "Снижение уровня эстрогенов может влиять на регуляцию генов (эпигенетика), помимо прямых гормональных эффектов.",
+            "Эпигенетические сдвиги могут быть одним из факторов, связанных с повышенным риском сердечных заболеваний и метаболических расстройств после менопаузы.",
+            "Работа указывает на биологические пути для дальнейшего изучения и не предполагает немедленных изменений в клинической практике."
+          ]
+        },
+        "uk": {
+          "title": "Епігенетичні зміни можуть допомогти пояснити серцево‑метаболічний ризик після менопаузи",
+          "summary": "Дослідники з Вірджинського технологічного інституту припускають, що падіння рівня естрогену після менопаузи може змінювати активність генів через епігенетичні механізми, що потенційно може сприяти вищим показникам серцевих захворювань, діабету та інших метаболічних розладів у жінок після менопаузи.",
+          "whyItMatters": "Розуміння біологічних механізмів, що лежать в основі підвищеного кардіометаболічного ризику в середині життя у жінок, може спрямувати подальші дослідження та цілеспрямовані стратегії профілактики.",
+          "takeaways": [
+            "Зниження естрогену може впливати на регуляцію генів через епігенетику, не обмежуючись прямими ефектами гормону.",
+            "Епігенетичні зрушення можуть бути одним із факторів, пов'язаних зі збільшенням ризику серцевих та метаболічних захворювань після менопаузи.",
+            "Ця робота вказує на біологічні шляхи для подальшого вивчення, а не на негайні зміни в клінічній практиці."
+          ]
+        },
+        "fr": {
+          "title": "Des changements épigénétiques pourraient expliquer en partie le risque cardiométabolique après la ménopause",
+          "summary": "Des chercheurs de Virginia Tech suggèrent que la baisse des oestrogènes après la ménopause pourrait modifier l'activité des gènes via des mécanismes épigénétiques, ce qui pourrait contribuer aux taux plus élevés de maladies cardiaques, de diabète et d'autres troubles métaboliques chez les femmes postménopausées.",
+          "whyItMatters": "Comprendre les mécanismes biologiques derrière l'augmentation du risque cardiométabolique à l'âge moyen chez les femmes peut orienter de futures recherches et des stratégies de prévention ciblées.",
+          "takeaways": [
+            "La baisse des oestrogènes pourrait influencer la régulation des gènes (épigénétique) au‑delà des seuls effets hormonaux directs.",
+            "Les changements épigénétiques pourraient être l'un des facteurs liés à l'augmentation des maladies cardiaques et métaboliques après la ménopause.",
+            "Les travaux pointent vers des voies biologiques à étudier davantage plutôt que vers des changements cliniques immédiats."
+          ]
+        },
+        "de": {
+          "title": "Epigenetische Veränderungen könnten postmenopausales kardiometabolisches Risiko mit erklären",
+          "summary": "Forscher der Virginia Tech schlagen vor, dass sinkende Östrogenspiegel nach der Menopause die Genaktivität durch epigenetische Mechanismen verändern könnten, was zu höheren Raten von Herzkrankheiten, Diabetes und anderen Stoffwechselerkrankungen bei postmenopausalen Frauen beitragen könnte.",
+          "whyItMatters": "Das Verständnis biologischer Mechanismen hinter dem zunehmenden kardiometabolischen Risiko in mittleren Lebensjahren bei Frauen kann künftige Forschung und gezielte Präventionsstrategien leiten.",
+          "takeaways": [
+            "Abnehmendes Östrogen könnte die Genregulation (Epigenetik) über direkte Hormonwirkungen hinaus beeinflussen.",
+            "Epigenetische Verschiebungen könnten ein Faktor sein, der mit erhöhten Herz-Kreislauf- und Stoffwechselerkrankungen nach der Menopause zusammenhängt.",
+            "Die Arbeit verweist auf biologische Pfade für weitere Untersuchungen, nicht auf unmittelbare klinische Änderungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Alterações epigenéticas podem ajudar a explicar o risco cardiometabólico pós-menopausa",
+          "summary": "Pesquisadores da Virginia Tech sugerem que a queda dos níveis de estrogênio após a menopausa pode alterar a atividade gênica por mecanismos epigenéticos, o que poderia contribuir para taxas mais altas de doenças cardíacas, diabetes e outras condições metabólicas em mulheres pós-menopáusicas.",
+          "whyItMatters": "Compreender os mecanismos biológicos por trás do aumento do risco cardiometabólico em mulheres na meia-idade pode orientar pesquisas futuras e estratégias de prevenção mais direcionadas.",
+          "takeaways": [
+            "A queda do estrogênio pode influenciar a regulação gênica (epigenética) além dos efeitos diretos do hormônio.",
+            "Mudanças epigenéticas poderiam ser um dos fatores associados ao aumento de doenças cardíacas e metabólicas após a menopausa.",
+            "O trabalho aponta caminhos biológicos para estudo posterior, em vez de mudanças clínicas imediatas."
+          ]
+        },
+        "hu": {
+          "title": "Epigenetikai változások hozzájárulhatnak a menopauza utáni kardiometabolikus kockázathoz",
+          "summary": "A Virginia Tech kutatói szerint a menopauza után csökkenő ösztrogénszint epigenetikai mechanizmusokon keresztül megváltoztathatja a génműködést, ami hozzájárulhat a posztmenopauzális nők körében megfigyelt magasabb szív- és anyagcsere-betegségi arányokhoz.",
+          "whyItMatters": "A nők középkori kardiometabolikus kockázatának biológiai hátterének megértése irányt adhat a további kutatásoknak és célzott megelőző stratégiáknak.",
+          "takeaways": [
+            "Az ösztrogén csökkenése befolyásolhatja a génszabályozást epigenetikai úton, túl a közvetlen hormonhatásokon.",
+            "Az epigenetikai eltolódások egy lehetséges tényezőt jelölhetnek a menopauza utáni megnövekedett szív- és anyagcsere-betegségi kockázatban.",
+            "A munka biológiai útvonalakat jelez további vizsgálatra, és nem feltétlenül igényel azonnali klinikai változtatásokat."
+          ]
+        },
+        "ar": {
+          "title": "تغيرات فوق جينية قد تفسر جزئياً مخاطر القلب والأيض بعد انقطاع الطمث",
+          "summary": "يقترح باحثون في جامعة فيرجينيا للتكنولوجيا أن انخفاض مستويات الإستروجين بعد انقطاع الطمث قد يغير نشاط الجينات عبر آليات فوق جينية، ما قد يسهم في ارتفاع معدلات أمراض القلب والسكري وحالات أيضية أخرى لدى النساء بعد سن اليأس.",
+          "whyItMatters": "فهم الآليات البيولوجية وراء ارتفاع مخاطر القلب والأيض في منتصف العمر لدى النساء يمكن أن يوجّه البحث المستقبلي واستراتيجيات الوقاية المستهدفة.",
+          "takeaways": [
+            "قد يؤثر انخفاض الإستروجين على تنظيم الجينات عبر آليات فوق جينية، بالإضافة إلى التأثيرات الهرمونية المباشرة.",
+            "التغيرات فوق الجينية قد تكون أحد العوامل المرتبطة بزيادة أمراض القلب والاضطرابات الأيضية بعد انقطاع الطمث.",
+            "البحث يشير إلى مسارات بيولوجية لمزيد من الدراسة ولا يقتضي تغييرات سريرية فورية."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/menopause-epigenetics-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=menopause-epigenetics-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/menopause-epigenetics-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/menopause-epigenetics-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/menopause-epigenetics-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/menopause-epigenetics-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/menopause-epigenetics-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/menopause-epigenetics-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/menopause-epigenetics-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/menopause-epigenetics-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/menopause-epigenetics-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/menopause-epigenetics-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/menopause-epigenetics-2026-04-27.html"
+      }
+    },
+    {
+      "id": "prenatal-smoking-metabolism-2026-04-27",
+      "category": "developmental-origins",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-cigarette-exposure-womb-amplify-metabolic.html",
+      "sourceTitle": "Cigarette exposure in the womb may amplify risk of metabolic disease in adulthood",
+      "publishedAt": "Mon, 27 Apr 2026 11:00:10 EDT",
+      "languages": {
+        "en": {
+          "title": "Mouse study: prenatal cigarette exposure plus unhealthy adult diet worsens metabolic markers",
+          "summary": "In mice, maternal smoking during pregnancy combined with a later high-fat, high-sugar diet produced worse metabolic markers—such as higher body fat and cholesterol—than either exposure alone, with changes observed in liver and fat tissues.",
+          "whyItMatters": "The findings highlight how prenatal exposures may influence later metabolic health and support interest in life-course approaches to prevention, while translation to humans remains to be established.",
+          "takeaways": [
+            "Combined prenatal cigarette exposure and unhealthy adult diet led to poorer metabolic outcomes in mice than either factor alone.",
+            "Researchers observed tissue-level changes in liver and fat that might underlie those effects.",
+            "Results are from animal research and do not directly prove the same effects occur in people."
+          ]
+        },
+        "es": {
+          "title": "Estudio en ratones: exposición prenatal al tabaco más dieta adulta poco saludable empeora marcadores metabólicos",
+          "summary": "En ratones, la exposición materna al tabaco durante el embarazo combinada con una dieta posterior alta en grasas y azúcares produjo peores marcadores metabólicos —como mayor grasa corporal y colesterol— que cualquiera de las exposiciones por separado, con cambios observados en tejidos hepático y adiposo.",
+          "whyItMatters": "Los hallazgos subrayan cómo las exposiciones prenatales pueden influir en la salud metabólica posterior y respaldan el interés por enfoques de prevención a lo largo de la vida, aunque la traslación a humanos aún debe establecerse.",
+          "takeaways": [
+            "La combinación de exposición prenatal al tabaco y una dieta adulta poco saludable condujo a peores resultados metabólicos en ratones que cada factor por sí solo.",
+            "Los investigadores observaron cambios a nivel de tejido en hígado y grasa que podrían explicar esos efectos.",
+            "Los resultados provienen de investigación en animales y no prueban directamente que ocurra lo mismo en personas."
+          ]
+        },
+        "ru": {
+          "title": "Исследование на мышах: пренатальное воздействие табака и нездоровая взрослая диета ухудшают метаболические показатели",
+          "summary": "У мышей материнское курение во время беременности в сочетании с последующей высокожировой, высокосахарной диетой приводило к худшим метаболическим показателям — таким как больше жировой массы и повышенный холестерин — чем каждое воздействие по отдельности; наблюдались изменения в печени и жировой ткани.",
+          "whyItMatters": "Результаты подчёркивают, что пренатальные воздействия могут влиять на позднюю метаболическую систему и поддерживают интерес к пожизненным подходам к профилактике, при этом переносимость на людей ещё не установлена.",
+          "takeaways": [
+            "Сочетание пренатального воздействия табака и нездоровой взрослой диеты приводило к худшим метаболическим исходам у мышей, чем каждый фактор отдельно.",
+            "Исследователи зафиксировали изменения в тканях печени и жировой ткани, которые могут лежать в основе этих эффектов.",
+            "Результаты получены в эксперименте на животных и не доказывают прямо, что то же самое происходит у людей."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах: пренатальне вплив цигаркового диму та нездорова доросла дієта погіршують метаболічні показники",
+          "summary": "У мишей материнське куріння під час вагітності в поєднанні з пізнішою дієтою з високим вмістом жирів і цукру призвело до гірших метаболічних показників — таких як більша кількість жирової тканини та вищий рівень холестерину — ніж кожен із впливів окремо; зміни виявили в печінці та жирових тканинах.",
+          "whyItMatters": "Результати підкреслюють, як пренатальні впливи можуть впливати на пізніше метаболічне здоров'я і підтримують інтерес до підходів, що охоплюють весь життєвий цикл, натомість переносимість на людей потребує додаткових досліджень.",
+          "takeaways": [
+            "Поєднання пренатального впливу цигаркового диму та нездорової дорослої дієти призвело до гірших метаболічних результатів у мишей, ніж кожен фактор окремо.",
+            "Дослідники зафіксували зміни на рівні тканин у печінці та жировій тканині, які можуть лежати в основі цих ефектів.",
+            "Результати отримані на тваринах і прямо не доводять тих самих ефектів у людей."
+          ]
+        },
+        "fr": {
+          "title": "Étude chez la souris : exposition prénatale au tabac et alimentation adulte malsaine aggravent les marqueurs métaboliques",
+          "summary": "Chez la souris, le tabagisme maternel pendant la grossesse combiné à une alimentation ultérieure riche en graisses et en sucres a produit des marqueurs métaboliques plus défavorables — comme une masse grasse et un cholestérol plus élevés — que chaque exposition prise séparément, avec des changements observés dans le foie et les tissus adipeux.",
+          "whyItMatters": "Les résultats soulignent que les expositions prénatales peuvent influencer la santé métabolique ultérieure et soutiennent l'intérêt pour des approches tout au long de la vie, tandis que la transposition à l'humain reste à établir.",
+          "takeaways": [
+            "La combinaison d'une exposition prénatale au tabac et d'une alimentation adulte malsaine a entraîné des résultats métaboliques plus défavorables chez la souris que chaque facteur isolé.",
+            "Les auteurs ont observé des modifications tissulaires dans le foie et le tissu adipeux qui pourraient sous‑tendre ces effets.",
+            "Les résultats proviennent de recherches animales et ne prouvent pas directement que les mêmes effets se produisent chez l'humain."
+          ]
+        },
+        "de": {
+          "title": "Mausstudie: vorgeburtliche Zigarettenexposition plus ungesunde Erwachsenenernährung verschlechtert Stoffwechselmarker",
+          "summary": "Bei Mäusen führte mütterliches Rauchen während der Schwangerschaft kombiniert mit einer späteren fettreichen, zuckerreichen Ernährung zu schlechteren Stoffwechselmarkern – etwa höherem Körperfett und Cholesterin – als jede der Einflüsse allein, mit beobachteten Veränderungen in Leber- und Fettgewebe.",
+          "whyItMatters": "Die Ergebnisse verdeutlichen, wie vorgeburtliche Einflüsse spätere Stoffwechselgesundheit beeinflussen können, und stützen das Interesse an lebenslangen Präventionsansätzen, wobei die Übertragbarkeit auf Menschen noch nicht geklärt ist.",
+          "takeaways": [
+            "Kombinierte vorgeburtliche Zigarettenexposition und ungesunde erwachsene Ernährung führten bei Mäusen zu schlechteren metabolischen Ergebnissen als jeder Faktor allein.",
+            "Forscher beobachteten Gewebeveränderungen in Leber und Fett, die diesen Effekten zugrunde liegen könnten.",
+            "Die Ergebnisse stammen aus Tierversuchen und beweisen nicht direkt die gleichen Effekte beim Menschen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em camundongos: exposição pré-natal ao cigarro mais dieta adulta não saudável piora marcadores metabólicos",
+          "summary": "Em camundongos, o tabagismo materno durante a gravidez combinado com uma dieta rica em gordura e açúcar na idade adulta produziu piores marcadores metabólicos — como maior gordura corporal e colesterol — do que cada exposição isoladamente, com alterações observadas no fígado e em tecidos adiposos.",
+          "whyItMatters": "As descobertas destacam como exposições pré-natais podem influenciar a saúde metabólica posterior e reforçam o interesse em abordagens de prevenção ao longo da vida, enquanto a tradução para humanos ainda precisa ser estabelecida.",
+          "takeaways": [
+            "A combinação de exposição pré-natal ao cigarro e dieta adulta não saudável levou a piores desfechos metabólicos em camundongos do que cada fator isolado.",
+            "Os pesquisadores observaram mudanças em tecidos do fígado e da gordura que podem explicar esses efeitos.",
+            "Os resultados vêm de pesquisa animal e não provam diretamente que os mesmos efeitos ocorram em pessoas."
+          ]
+        },
+        "hu": {
+          "title": "Egérvizsgálat: születés előtti cigarettaexpozíció és egészségtelen felnőtt étrend rontotta az anyagcsere-markereket",
+          "summary": "Egerekben a terhesség alatti anyai dohányzás és a későbbi, magas zsír- és cukortartalmú étrend együttesen rosszabb anyagcsere-markereket eredményezett—például magasabb testzsírt és koleszterint—mint bármelyik hatás külön-külön, és elváltozásokat figyeltek meg a májban és a zsírszövetben.",
+          "whyItMatters": "Az eredmények rámutatnak, hogy a prenatális expozíciók befolyásolhatják a későbbi anyagcsere-egészséget, és támogatják az élethosszig tartó megközelítések iránti érdeklődést; az emberre való átültetés azonban még nem bizonyított.",
+          "takeaways": [
+            "A prenatális cigarettaexpozíció és az egészségtelen felnőtt étrend kombinációja egereknél rosszabb anyagcsere-kimenetekhez vezetett, mint bármelyik tényező külön-külön.",
+            "A kutatók máj- és zsírszöveti szintű elváltozásokat figyeltek meg, amelyek hozzájárulhatnak a hatásokhoz.",
+            "Az eredmények állatkísérletesek, és nem bizonyítják közvetlenül ugyanazokat az eredményeket embereknél."
+          ]
+        },
+        "ar": {
+          "title": "دراسة على الفئران: التعرض للتبغ قبل الولادة مع نظام غذائي بالغ الضراوة يفاقم مؤشرات الأيض",
+          "summary": "في الفئران، أدى تدخين الأم أثناء الحمل مقترناً لاحقاً بنظام غذائي غني بالدهون والسكر إلى مؤشرات أيضية أسوأ — مثل زيادة دهون الجسم والكوليسترول — مقارنة بكل تعرض منفرد، مع ملاحظات على تغيّرات في الكبد ونسيج الدهن.",
+          "whyItMatters": "تُبرز النتائج كيف قد تؤثر التعرضات قبل الولادة على صحة الأيض لاحقاً وتدعم الاهتمام بنهج حياة-مدى للوقاية، مع الإشارة إلى أن قابلية النقل إلى البشر لم تُثبَت بعد.",
+          "takeaways": [
+            "التعرض قبل الولادة للتبغ مع نظام غذائي بالغ الضراوة في البلوغ أدى إلى نتائج أيضية أسوأ في الفئران مقارنة بكل عامل بمفرده.",
+            "لوحظت تغيّرات على مستوى الأنسجة في الكبد والدهن قد تفسر هذه التأثيرات.",
+            "النتائج من بحوث حيوانية ولا تثبت حدوث نفس التأثيرات لدى البشر."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/prenatal-smoking-metabolism-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=prenatal-smoking-metabolism-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/prenatal-smoking-metabolism-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/prenatal-smoking-metabolism-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/prenatal-smoking-metabolism-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/prenatal-smoking-metabolism-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/prenatal-smoking-metabolism-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/prenatal-smoking-metabolism-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/prenatal-smoking-metabolism-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/prenatal-smoking-metabolism-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/prenatal-smoking-metabolism-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/prenatal-smoking-metabolism-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/prenatal-smoking-metabolism-2026-04-27.html"
+      }
+    },
+    {
+      "id": "tartrazine-microbiome-2026-04-27",
+      "category": "nutrition-microbiome",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-yellow-food-gut-microbiome-early.html",
+      "sourceTitle": "Yellow food coloring changes gut microbiome in early life",
+      "publishedAt": "Mon, 27 Apr 2026 09:40:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Common yellow food dye linked to gut microbiome changes in early life",
+          "summary": "Researchers reported that a widely used yellow food colorant (tartrazine) altered gut bacterial balance and may cause low-level inflammation in young rats; the findings were presented at APS 2026.",
+          "whyItMatters": "Parents, clinicians and regulators may be interested because additives commonly found in foods could affect gut development, though human relevance is unclear.",
+          "takeaways": [
+            "Tartrazine was associated with microbiome shifts and weight effects in male rats in the presented study.",
+            "The dye also correlated with markers suggesting low-level inflammation in the animal model.",
+            "These are experimental animal findings; implications for children and adults are not established."
+          ]
+        },
+        "es": {
+          "title": "Colorante alimentario amarillo común vinculado a cambios en el microbioma intestinal en etapas tempranas",
+          "summary": "Investigadores informaron que un colorante alimentario amarillo muy usado (tartrazina) alteró el equilibrio bacteriano intestinal y puede provocar inflamación de bajo grado en ratas jóvenes; los hallazgos se presentaron en APS 2026.",
+          "whyItMatters": "Padres, clínicos y reguladores pueden interesarse porque aditivos comunes en los alimentos podrían afectar el desarrollo intestinal, aunque la relevancia para humanos es incierta.",
+          "takeaways": [
+            "En el estudio presentado, la tartrazina se asoció con cambios en el microbioma y efectos sobre el peso en ratas macho.",
+            "El colorante también se correlacionó con marcadores que sugieren inflamación de bajo grado en el modelo animal.",
+            "Son hallazgos experimentales en animales; las implicaciones para niños y adultos no están establecidas."
+          ]
+        },
+        "ru": {
+          "title": "Распространённый жёлтый пищевой краситель связан с изменениями кишечного микробиома в раннем возрасте",
+          "summary": "Исследователи сообщили, что широко используемый жёлтый пищевой краситель (тартазин) изменял баланс кишечной микробиоты и мог вызывать слабый уровень воспаления у молодых крыс; результаты были представлены на APS 2026.",
+          "whyItMatters": "Родители, клиницисты и регуляторы могут обратить внимание, поскольку распространённые пищевые добавки могут влиять на развитие кишечника, хотя значимость для человека не ясна.",
+          "takeaways": [
+            "В представленном исследовании тартазин ассоциировался с изменениями микробиома и эффектами на вес у самцов крыс.",
+            "Краситель также коррелировал с маркёрами, указывающими на низкоуровневое воспаление в модели животных.",
+            "Это экспериментальные результаты на животных; последствия для детей и взрослых не установлены."
+          ]
+        },
+        "uk": {
+          "title": "Поширений жовтий харчовий барвник пов'язали зі змінами кишкового мікробіому в ранньому віці",
+          "summary": "Дослідники повідомили, що широко вживаний жовтий харчовий барвник (тартазин) змінював баланс кишкових бактерій і міг викликати низькорівневе запалення в молодих щурів; результати були представлені на конференції APS 2026.",
+          "whyItMatters": "Батьки, клініцисти та регулятори можуть зацікавитися, оскільки добавки, що часто містяться у продуктах, потенційно можуть впливати на розвиток кишкового мікробіому, хоча значущість для людей невизначена.",
+          "takeaways": [
+            "У представленому дослідженні тартазин асоціювався зі змінами мікробіому та ефектами на вагу у самців щурів.",
+            "Барвник також корелював з маркерами, що вказують на низькорівневе запалення в моделі тварини.",
+            "Це експериментальні результати на тваринах; наслідки для дітей та дорослих не встановлені."
+          ]
+        },
+        "fr": {
+          "title": "Un colorant alimentaire jaune courant associé à des changements du microbiote intestinal en bas âge",
+          "summary": "Des chercheurs ont rapporté qu'un colorant alimentaire jaune largement utilisé (tartrazine) modifiait l'équilibre bactérien intestinal et pouvait provoquer une inflammation de bas grade chez de jeunes rats ; ces résultats ont été présentés à l'APS 2026.",
+          "whyItMatters": "Parents, cliniciens et autorités réglementaires peuvent s'y intéresser, car des additifs courants pourraient affecter le développement du microbiote intestinal, bien que la pertinence chez l'humain soit incertaine.",
+          "takeaways": [
+            "Dans l'étude présentée, la tartrazine a été associée à des modifications du microbiote et à des effets sur le poids chez des rats mâles.",
+            "Le colorant a également été corrélé à des marqueurs suggérant une inflammation de bas grade dans le modèle animal.",
+            "Il s'agit de résultats expérimentaux sur animaux ; les implications pour les enfants et les adultes ne sont pas établies."
+          ]
+        },
+        "de": {
+          "title": "Häufiger gelber Lebensmittelfarbstoff mit Veränderungen des Darmmikrobioms in frühen Lebensphasen in Verbindung gebracht",
+          "summary": "Forscher berichteten, dass ein weit verbreiteter gelber Lebensmittelfarbstoff (Tartrazin) das bakterielle Gleichgewicht im Darm veränderte und bei jungen Ratten möglicherweise eine niedriggradige Entzündung verursachte; die Ergebnisse wurden auf der APS 2026 vorgestellt.",
+          "whyItMatters": "Eltern, Klinikpersonal und Regulierungsbehörden könnten interessiert sein, weil in Lebensmitteln häufig enthaltene Zusatzstoffe die Darmentwicklung beeinflussen könnten, obwohl die Relevanz für Menschen unklar ist.",
+          "takeaways": [
+            "In der vorgestellten Studie war Tartrazin mit Veränderungen des Mikrobioms und Gewichtseffekten bei männlichen Ratten verbunden.",
+            "Der Farbstoff korrelierte außerdem mit Markern, die auf eine niedriggradige Entzündung im Tiermodell hindeuten.",
+            "Dies sind experimentelle Tierversuchsergebnisse; die Bedeutung für Kinder und Erwachsene ist nicht geklärt."
+          ]
+        },
+        "pt-br": {
+          "title": "Corante alimentar amarelo comum associado a alterações do microbioma intestinal na primeira fase da vida",
+          "summary": "Pesquisadores relataram que um corante alimentar amarelo amplamente usado (tartrazina) alterou o equilíbrio bacteriano intestinal e pode causar inflamação de baixo grau em ratos jovens; os achados foram apresentados na APS 2026.",
+          "whyItMatters": "Pais, clínicos e reguladores podem se interessar porque aditivos comumente encontrados em alimentos podem afetar o desenvolvimento intestinal, embora a relevância para humanos seja incerta.",
+          "takeaways": [
+            "Na pesquisa apresentada, a tartrazina esteve associada a mudanças no microbioma e a efeitos no peso em ratos machos.",
+            "O corante também correlacionou-se com marcadores sugerindo inflamação de baixo grau no modelo animal.",
+            "São achados experimentais em animais; as implicações para crianças e adultos não estão estabelecidas."
+          ]
+        },
+        "hu": {
+          "title": "Gyakori sárga élelmiszer-színezék korai életbeli bélmikrobiom-változásokkal hozható kapcsolatba",
+          "summary": "A kutatók arról számoltak be, hogy egy széles körben használt sárga élelmiszer-színezék (tartrazin) megváltoztatta a bélbaktériumok egyensúlyát és fiatal patkányokban alacsony szintű gyulladást jelezhetett; az eredményeket az APS 2026 konferencián mutatták be.",
+          "whyItMatters": "A szülőknek, klinikusoknak és szabályozóknak érdekes lehet, hogy az élelmiszerekben gyakran előforduló adalékanyagok befolyásolhatják a bél fejlődését, bár az emberre gyakorolt jelentőség nem világos.",
+          "takeaways": [
+            "A tanulmányban a tartrazin összefüggésbe hozható mikrobiom-eltolódásokkal és testsúlyhatásokkal hím patkányokban.",
+            "A színezék kapcsolódott olyan markerekhez is, amelyek alacsony szintű gyulladást jeleztek az állatmodellben.",
+            "Ezek kísérleti állatkísérletes eredmények; a következmények gyerekekre és felnőttekre vonatkozóan nem tisztázottak."
+          ]
+        },
+        "ar": {
+          "title": "صبغة صفراء شائعة مرتبطة بتغييرات في ميكروبيوم الأمعاء في الحياة المبكرة",
+          "summary": "أفاد باحثون أن ملوناً غذائياً أصفر مستخدماً على نطاق واسع (التارترازين) غيّر توازن بكتيريا الأمعاء وقد يسبب التهاباً منخفض المستوى في جرذان صغيرة؛ وقد عُرضت النتائج في مؤتمر APS 2026.",
+          "whyItMatters": "قد يهم الآباء والمهنيين والمنظمين أن الإضافات الشائعة في الأطعمة قد تؤثر على تطور الأمعاء، مع الإشارة إلى أن دلالة ذلك لدى البشر غير واضحة.",
+          "takeaways": [
+            "في الدراسة، ارتبط التارترازين بتغيرات في الميكروبيوم وتأثيرات على الوزن لدى الجرذان الذكور.",
+            "الملون ارتبط أيضاً بعلامات تشير إلى التهاب منخفض المستوى في نموذج الحيوانات.",
+            "هذه نتائج تجريبية على الحيوانات؛ الآثار المترتبة على الأطفال والبالغين غير مثبتة."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tartrazine-microbiome-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tartrazine-microbiome-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tartrazine-microbiome-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tartrazine-microbiome-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/tartrazine-microbiome-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/tartrazine-microbiome-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/tartrazine-microbiome-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/tartrazine-microbiome-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/tartrazine-microbiome-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/tartrazine-microbiome-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/tartrazine-microbiome-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/tartrazine-microbiome-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/tartrazine-microbiome-2026-04-27.html"
+      }
+    },
+    {
+      "id": "obesity-lung-function-2026-04-27",
+      "category": "metabolic-health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-obesity-decreases-lung-function-older.html",
+      "sourceTitle": "Obesity decreases lung function in older adults",
+      "publishedAt": "Mon, 27 Apr 2026 09:20:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Study: obesity linked to lower lung function in older adults",
+          "summary": "A new study found that older adults with obesity had significantly reduced measures of lung function compared with those without obesity, with consistent results for both men and women.",
+          "whyItMatters": "Lower lung function in older adults with obesity could influence diagnosis and management of breathlessness and exercise testing in clinical settings.",
+          "takeaways": [
+            "Obesity was associated with decreased lung function measures in older adults.",
+            "This relationship was similar for men and women in the study.",
+            "Findings may be relevant when evaluating unexplained shortness of breath in older patients."
+          ]
+        },
+        "es": {
+          "title": "Estudio: la obesidad se asocia con menor función pulmonar en adultos mayores",
+          "summary": "Un nuevo estudio encontró que los adultos mayores con obesidad presentaron medidas de función pulmonar significativamente reducidas en comparación con quienes no tenían obesidad, con resultados consistentes tanto en hombres como en mujeres.",
+          "whyItMatters": "La menor función pulmonar en adultos mayores con obesidad podría influir en el diagnóstico y manejo de la disnea y en las pruebas de ejercicio en entornos clínicos.",
+          "takeaways": [
+            "La obesidad se asoció con disminución de medidas de función pulmonar en adultos mayores.",
+            "Esta relación fue similar para hombres y mujeres en el estudio.",
+            "Los hallazgos pueden ser relevantes al evaluar falta de aire inexplicada en pacientes mayores."
+          ]
+        },
+        "ru": {
+          "title": "Исследование: ожирение связано с ухудшением функции лёгких у пожилых людей",
+          "summary": "Новое исследование показало, что у пожилых людей с ожирением показатели функции лёгких были значительно ниже по сравнению с теми, у кого ожирения не было; результаты были сопоставимы для мужчин и женщин.",
+          "whyItMatters": "Снижение функции лёгких у пожилых пациентов с ожирением может влиять на диагностику и ведение одышки, а также на проведение нагрузочных тестов в клинической практике.",
+          "takeaways": [
+            "Ожирение ассоциировалось со снижением показателей функции лёгких у пожилых людей.",
+            "Эта связь была схожей у мужчин и женщин в исследовании.",
+            "Результаты могут иметь значение при оценке необъяснимой одышки у пожилых пациентов."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження: ожиріння пов'язане зі зниженням функції легень у літніх людей",
+          "summary": "Нове дослідження виявило, що літні люди з ожирінням мали значно знижені показники функції легень порівняно з тими, хто без ожиріння, причому результати були послідовними для чоловіків і жінок.",
+          "whyItMatters": "Зниження функції легень у літніх людей з ожирінням може впливати на діагностику та ведення задишки й тести на фізичну витривалість у клінічній практиці.",
+          "takeaways": [
+            "Ожиріння пов'язане зі зниженням показників функції легень у літніх людей.",
+            "Цей зв'язок був подібним як для чоловіків, так і для жінок у дослідженні.",
+            "Результати можуть бути корисними при оцінці нез'ясованої задишки у пацієнтів похилого віку."
+          ]
+        },
+        "fr": {
+          "title": "Étude : l'obésité associée à une baisse de la fonction pulmonaire chez les personnes âgées",
+          "summary": "Une nouvelle étude a trouvé que les personnes âgées présentant une obésité avaient des mesures de fonction pulmonaire significativement réduites par rapport à celles sans obésité, avec des résultats cohérents pour les hommes et les femmes.",
+          "whyItMatters": "Une fonction pulmonaire réduite chez les personnes âgées avec obésité peut influencer le diagnostic et la prise en charge de l'essoufflement et les tests d'effort en milieu clinique.",
+          "takeaways": [
+            "L'obésité a été associée à une diminution des mesures de la fonction pulmonaire chez les personnes âgées.",
+            "Cette relation était similaire chez les hommes et les femmes dans l'étude.",
+            "Les résultats peuvent être pertinents lors de l'évaluation d'une dyspnée inexpliquée chez des patients âgés."
+          ]
+        },
+        "de": {
+          "title": "Studie: Adipositas ist mit geringerer Lungenfunktion bei älteren Erwachsenen verbunden",
+          "summary": "Eine neue Studie fand, dass ältere Erwachsene mit Adipositas deutlich reduzierte Messwerte der Lungenfunktion im Vergleich zu Personen ohne Adipositas hatten, bei konsistenten Ergebnissen für Männer und Frauen.",
+          "whyItMatters": "Eine geringere Lungenfunktion bei älteren Menschen mit Adipositas kann die Diagnostik und das Management von Atemnot sowie Belastungstests in der klinischen Praxis beeinflussen.",
+          "takeaways": [
+            "Adipositas war mit verminderten Lungenfunktionswerten bei älteren Erwachsenen assoziiert.",
+            "Diese Beziehung zeigte sich in der Studie sowohl bei Männern als auch bei Frauen.",
+            "Die Ergebnisse könnten relevant sein bei der Beurteilung unerklärter Atemnot älterer Patientinnen und Patienten."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo: obesidade associada a menor função pulmonar em adultos mais velhos",
+          "summary": "Um novo estudo constatou que adultos mais velhos com obesidade apresentaram medidas de função pulmonar significativamente reduzidas em comparação com aqueles sem obesidade, com resultados consistentes para homens e mulheres.",
+          "whyItMatters": "A menor função pulmonar em adultos mais velhos com obesidade pode influenciar o diagnóstico e o manejo da falta de ar e testes de esforço em ambientes clínicos.",
+          "takeaways": [
+            "A obesidade foi associada à diminuição das medidas de função pulmonar em adultos mais velhos.",
+            "Essa relação foi semelhante para homens e mulheres no estudo.",
+            "As descobertas podem ser relevantes ao avaliar falta de ar sem explicação em pacientes idosos."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: az elhízás alacsonyabb tüdőfunkcióval társul idősebb felnőttekben",
+          "summary": "Egy új tanulmány kimutatta, hogy az elhízott idősebb felnőtteknél jelentősen csökkentek a légzésfunkciós mérések a nem elhízottakhoz képest, hasonló eredményekkel mind férfiaknál, mind nőknél.",
+          "whyItMatters": "Az alacsonyabb tüdőfunkció az elhízott időseknél befolyásolhatja a légszomj diagnózisát és kezelését, valamint a terheléses vizsgálatok értelmezését a klinikai gyakorlatban.",
+          "takeaways": [
+            "Az elhízás összefüggésbe hozható csökkent tüdőfunkciós értékekkel idősebb felnőtteknél.",
+            "A vizsgálatban ez a kapcsolat mindkét nemben hasonló volt.",
+            "Az eredmények relevánsak lehetnek ismeretlen eredetű légszomj értékelésekor idősebb betegeknél."
+          ]
+        },
+        "ar": {
+          "title": "دراسة: السمنة مرتبطة بوظيفة رئوية أقل لدى البالغين الأكبر سناً",
+          "summary": "وجدت دراسة جديدة أن البالغين الأكبر سناً المصابين بالسمنة لديهم مقاييس لوظيفة الرئتين أقل بشكل ملحوظ مقارنة بمن ليس لديهم سمنة، مع نتائج متسقة للرجال والنساء.",
+          "whyItMatters": "قد تؤثر وظيفة الرئة المنخفضة لدى كبار السن المصابين بالسمنة على تشخيص وإدارة ضيق التنفس واختبارات الأداء في السياق السريري.",
+          "takeaways": [
+            "ارتبطت السمنة بانخفاض مقاييس وظيفة الرئة لدى البالغين الأكبر سناً.",
+            "كان هذا الارتباط مشابهاً لدى الرجال والنساء في الدراسة.",
+            "قد تكون النتائج مهمة عند تقييم ضيق التنفس غير المفسر لدى المرضى المسنين."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/obesity-lung-function-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=obesity-lung-function-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/obesity-lung-function-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/obesity-lung-function-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/obesity-lung-function-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/obesity-lung-function-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/obesity-lung-function-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/obesity-lung-function-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/obesity-lung-function-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/obesity-lung-function-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/obesity-lung-function-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/obesity-lung-function-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/obesity-lung-function-2026-04-27.html"
+      }
+    },
+    {
+      "id": "ckm-syndrome-cancer-risk-2026-04-27",
+      "category": "cardio-metabolic",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-heart-kidney-metabolic-health-worsen.html",
+      "sourceTitle": "As heart, kidney and metabolic health worsen, cancer risk may rise, research indicates",
+      "publishedAt": "Mon, 27 Apr 2026 05:00:11 EDT",
+      "languages": {
+        "en": {
+          "title": "Worsening heart, kidney and metabolic health linked with higher cancer risk",
+          "summary": "New research published in Circulation: Population Health and Outcomes indicates that people with a combination of advanced heart, kidney and metabolic conditions—sometimes called CKM syndrome—may face an elevated risk of developing cancer.",
+          "whyItMatters": "The finding highlights connections between chronic conditions across organ systems and cancer risk, underscoring the importance of holistic approaches to chronic disease management.",
+          "takeaways": [
+            "Advanced multi-organ cardiometabolic dysfunction was associated with increased cancer risk in the study.",
+            "The concept of CKM syndrome describes combined heart, kidney and metabolic disease burden.",
+            "These are observational findings that identify associations warranting further investigation."
+          ]
+        },
+        "es": {
+          "title": "Empeoramiento de la salud cardíaca, renal y metabólica vinculado a mayor riesgo de cáncer",
+          "summary": "Una nueva investigación publicada en Circulation: Population Health and Outcomes indica que las personas con una combinación de afecciones avanzadas del corazón, los riñones y el metabolismo —a veces denominada síndrome CKM— pueden presentar un riesgo elevado de desarrollar cáncer.",
+          "whyItMatters": "El hallazgo destaca las conexiones entre enfermedades crónicas de distintos órganos y el riesgo de cáncer, subrayando la importancia de enfoques holísticos para el manejo de enfermedades crónicas.",
+          "takeaways": [
+            "La disfunción cardiometabólica multiorgánica avanzada se asoció con un mayor riesgo de cáncer en el estudio.",
+            "El concepto de síndrome CKM describe la carga combinada de enfermedad cardíaca, renal y metabólica.",
+            "Se trata de hallazgos observacionales que identifican asociaciones que merecen más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Ухудшение состояния сердца, почек и метаболизма связано с повышенным риском рака",
+          "summary": "Новое исследование, опубликованное в Circulation: Population Health and Outcomes, указывает, что люди с сочетанием выраженных заболеваний сердца, почек и метаболических нарушений — иногда называемым синдромом CKM — могут иметь повышенный риск развития рака.",
+          "whyItMatters": "Результат подчёркивает связи между хроническими заболеваниями разных органов и риском рака, указывая на важность комплексных подходов к управлению хроническими состояниями.",
+          "takeaways": [
+            "Продвинутая мультиорганная кардиометаболическая дисфункция ассоциировалась с повышенным риском рака в исследовании.",
+            "Понятие «синдром CKM» описывает совокупную нагрузку сердечных, почечных и метаболических заболеваний.",
+            "Это наблюдательные данные, выявляющие ассоциации, требующие дальнейшего изучения."
+          ]
+        },
+        "uk": {
+          "title": "Погіршення серцевого, ниркового та метаболічного здоров'я пов'язане з вищим ризиком раку",
+          "summary": "Нове дослідження, опубліковане в Circulation: Population Health and Outcomes, вказує, що люди з поєднанням виражених серцевих, ниркових і метаболічних захворювань — іноді називаних синдромом CKM — можуть мати підвищений ризик розвитку раку.",
+          "whyItMatters": "Це підкреслює зв'язки між хронічними станами в різних органах і ризиком раку, наголошуючи на важливості комплексного підходу до управління хронічними хворобами.",
+          "takeaways": [
+            "Просунута мультиорганна кардіометаболічна дисфункція була пов'язана з підвищеним ризиком раку у дослідженні.",
+            "Поняття синдрому CKM описує поєднаний тягар захворювань серця, нирок і метаболічних порушень.",
+            "Це спостережувальні результати, які виявляють асоціації і вимагають подальшого вивчення."
+          ]
+        },
+        "fr": {
+          "title": "La détérioration de la santé cardiaque, rénale et métabolique liée à un risque accru de cancer",
+          "summary": "De nouvelles recherches publiées dans Circulation: Population Health and Outcomes indiquent que les personnes présentant une combinaison d'affections cardiaques, rénales et métaboliques avancées — parfois appelées syndrome CKM — peuvent présenter un risque accru de développer un cancer.",
+          "whyItMatters": "La découverte met en lumière les liens entre les maladies chroniques touchant différents organes et le risque de cancer, soulignant l'importance d'approches holistiques pour la prise en charge des maladies chroniques.",
+          "takeaways": [
+            "Une dysfonction cardiométabolique multi‑organe avancée a été associée à un risque accru de cancer dans l'étude.",
+            "Le concept de syndrome CKM décrit la charge combinée des maladies cardiaques, rénales et métaboliques.",
+            "Ce sont des résultats observationnels qui identifient des associations justifiant des investigations supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Verschlechterte Herz-, Nieren- und Stoffwechselgesundheit mit erhöhtem Krebsrisiko verbunden",
+          "summary": "Neue Forschungsergebnisse, veröffentlicht in Circulation: Population Health and Outcomes, deuten darauf hin, dass Menschen mit einer Kombination fortgeschrittener Herz-, Nieren- und Stoffwechselerkrankungen – manchmal als CKM-Syndrom bezeichnet – einem erhöhten Risiko ausgesetzt sein könnten, an Krebs zu erkranken.",
+          "whyItMatters": "Der Befund unterstreicht Verbindungen zwischen chronischen Erkrankungen verschiedener Organsysteme und Krebsrisiko und betont die Bedeutung ganzheitlicher Ansätze im Management chronischer Krankheiten.",
+          "takeaways": [
+            "Fortgeschrittene multiorgane kardiometabolische Dysfunktion war in der Studie mit einem höheren Krebsrisiko verbunden.",
+            "Das Konzept des CKM-Syndroms beschreibt die kombinierte Belastung durch Herz-, Nieren- und Stoffwechselerkrankungen.",
+            "Dies sind beobachtende Befunde, die Zusammenhänge identifizieren, die weiter untersucht werden sollten."
+          ]
+        },
+        "pt-br": {
+          "title": "Piora da saúde cardíaca, renal e metabólica ligada a maior risco de câncer",
+          "summary": "Nova pesquisa publicada em Circulation: Population Health and Outcomes indica que pessoas com uma combinação de condições avançadas do coração, rins e metabolismo — às vezes chamada de síndrome CKM — podem enfrentar um risco elevado de desenvolver câncer.",
+          "whyItMatters": "A descoberta destaca conexões entre doenças crônicas em diferentes sistemas orgânicos e o risco de câncer, reforçando a importância de abordagens holísticas no manejo de doenças crônicas.",
+          "takeaways": [
+            "Disfunção cardiometabólica multiorgânica avançada foi associada a aumento do risco de câncer no estudo.",
+            "O conceito de síndrome CKM descreve a carga combinada de doenças cardíacas, renais e metabólicas.",
+            "São achados observacionais que identificam associações que merecem investigação adicional."
+          ]
+        },
+        "hu": {
+          "title": "A rosszabb szív-, vese- és anyagcsere-egészség összefüggésben állhat a megnövekedett rákkockázattal",
+          "summary": "A Circulation: Population Health and Outcomes folyóiratban megjelent új kutatás arra utal, hogy azoknál, akiknél súlyosbodik a szív-, vese- és anyagcsere-egészség—néha CKM-szindrómaként említve—nagyobb lehet a rák kialakulásának kockázata.",
+          "whyItMatters": "Az eredmény rámutat a krónikus állapotok közti kapcsolatra és a rák kockázatára, hangsúlyozva a holisztikus megközelítések fontosságát a krónikus betegségek kezelésében.",
+          "takeaways": [
+            "A több szervet érintő, súlyos kardiometabolikus működési zavar a tanulmány szerint összefüggött a megnövekedett rák kockázatával.",
+            "A CKM-szindróma fogalma a szív-, vese- és anyagcsere-betegségek együttes terhét írja le.",
+            "Ezek megfigyeléses eredmények, amelyek asszociációkat azonosítanak és további vizsgálatot indokolnak."
+          ]
+        },
+        "ar": {
+          "title": "تدهور صحة القلب والكلى والأيض قد يرتبط بارتفاع خطر السرطان",
+          "summary": "تشير أبحاث جديدة نُشرت في مجلة Circulation: Population Health and Outcomes إلى أن الأشخاص الذين تتفاقم لديهم حالات القلب والكلى والأيض—التي يُشار إليها أحياناً بمتلازمة CKM—قد يواجهون زيادة في خطر الإصابة بالسرطان.",
+          "whyItMatters": "تُبرز النتيجة الروابط بين الأمراض المزمنة في أجهزة مختلفة وخطر السرطان، مؤكدة أهمية النهج الشامل في إدارة الأمراض المزمنة.",
+          "takeaways": [
+            "ارتبطت الاضطرابات الكارديو-مَتْبُولية المتقدمة متعددة الأعضاء بزيادة خطر السرطان في الدراسة.",
+            "مفهوم متلازمة CKM يصف عبء الأمراض القلبية والكلوية والأيضية المشتركة.",
+            "هذه نتائج رصدية تحدد ارتباطات وتستدعي المزيد من التحقيق."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ckm-syndrome-cancer-risk-2026-04-27-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ckm-syndrome-cancer-risk-2026-04-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ckm-syndrome-cancer-risk-2026-04-27-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ckm-syndrome-cancer-risk-2026-04-27-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/ckm-syndrome-cancer-risk-2026-04-27.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/ckm-syndrome-cancer-risk-2026-04-27.html"
+      }
+    },
+    {
+      "id": "centenarian-offspring-diet-2026-04-26",
+      "category": "longevity-nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-parents-diets-clues-longevity.html",
+      "sourceTitle": "Their parents lived to 100. Do their diets have clues to longevity?",
+      "publishedAt": "Sun, 26 Apr 2026 19:00:05 EDT",
+      "languages": {
+        "en": {
+          "title": "Offspring of centenarians tend to report slightly healthier diets",
+          "summary": "Researchers at Tufts examined the dietary habits of people whose parents lived to 100 or beyond and found these offspring generally have marginally healthier eating patterns compared with peers without centenarian parents.",
+          "whyItMatters": "Studying families with exceptional longevity may help identify lifestyle patterns linked to long life, though genetic and environmental factors are both involved and causality is not established.",
+          "takeaways": [
+            "Children of centenarians reported somewhat healthier diets than comparison groups in this study.",
+            "The group shares about half their longevity genes plus life-course environmental factors with long-lived parents.",
+            "The study describes associations and does not prove diet caused longevity."
+          ]
+        },
+        "es": {
+          "title": "Los hijos de centenarios tienden a reportar dietas ligeramente más saludables",
+          "summary": "Investigadores de Tufts examinaron los hábitos alimentarios de personas cuyos padres vivieron hasta los 100 años o más y hallaron que estos hijos generalmente presentan patrones de consumo marginalmente más saludables en comparación con pares sin padres centenarios.",
+          "whyItMatters": "Estudiar familias con longevidad excepcional puede ayudar a identificar patrones de estilo de vida asociados con una vida larga, aunque intervienen factores genéticos y ambientales y no se establece causalidad.",
+          "takeaways": [
+            "Los hijos de centenarios informaron dietas algo más saludables que los grupos de comparación en este estudio.",
+            "El grupo comparte aproximadamente la mitad de sus genes relacionados con la longevidad, además de factores ambientales a lo largo de la vida, con padres de larga edad.",
+            "El estudio describe asociaciones y no prueba que la dieta haya causado la longevidad."
+          ]
+        },
+        "ru": {
+          "title": "Потомки долгожителей чаще сообщают о слегка более здоровом рационе",
+          "summary": "Исследователи из Тафтса изучили пищевые привычки людей, чьи родители дожили до 100 лет и более, и обнаружили, что эти потомки в целом сообщают о несколько более здоровых моделях питания по сравнению с ровесниками без родителей‑столетних.",
+          "whyItMatters": "Изучение семей с исключительной продолжительностью жизни может помочь выделить образ жизни, связанный с долгой жизнью, хотя в этом участвуют и генетические, и экологические факторы, и причинно‑следственная связь не установлена.",
+          "takeaways": [
+            "Дети долгожителей сообщили о несколько более здоровом питании, чем контрольные группы в этом исследовании.",
+            "Эта группа делит примерно половину генов, связанных с долголетием, а также жизненные экологические факторы со своими долгоживущими родителями.",
+            "Исследование описывает ассоциации и не доказывает, что диета стала причиной долголетия."
+          ]
+        },
+        "uk": {
+          "title": "Нащадки довгожителів зазвичай повідомляють про дещо здоровіший раціон",
+          "summary": "Дослідники з Туфтса вивчали харчові звички людей, чиї батьки дожили до 100 років або більше, і виявили, що ці нащадки загалом мають трохи здоровіші харчові звички в порівнянні з однолітками без батьків‑довгожителів.",
+          "whyItMatters": "Вивчення сімей з винятковою довголітністю може допомогти виявити моделі поведінки, пов'язані з довгим життям, хоча роль генетики й середовища обох важлива, і причинно‑наслідковий зв'язок не встановлений.",
+          "takeaways": [
+            "Діти довгожителів у цьому дослідженні повідомили про дещо здоровіший раціон, ніж контрольні групи.",
+            "Група поділяє приблизно половину генів, пов'язаних з довголіттям, а також фактори довгого життя, пов'язані з середовищем.",
+            "Дослідження описує асоціації і не доводить, що саме дієта спричинила довголіття."
+          ]
+        },
+        "fr": {
+          "title": "Les descendants de centenaires déclarent avoir des régimes légèrement plus sains",
+          "summary": "Des chercheurs de Tufts ont examiné les habitudes alimentaires de personnes dont les parents ont vécu jusqu'à 100 ans ou plus et ont constaté que ces descendants ont généralement des habitudes alimentaires un peu plus saines que leurs pairs sans parents centenaires.",
+          "whyItMatters": "Étudier des familles présentant une longévité exceptionnelle peut aider à identifier des comportements liés à une longue vie, bien que des facteurs génétiques et environnementaux soient impliqués et que la causalité ne soit pas établie.",
+          "takeaways": [
+            "Les enfants de centenaires ont déclaré avoir des régimes quelque peu plus sains que les groupes de comparaison dans cette étude.",
+            "Le groupe partage environ la moitié des gènes liés à la longévité ainsi que des facteurs environnementaux du parcours de vie avec les parents de longue vie.",
+            "L'étude décrit des associations et ne prouve pas que le régime ait causé la longévité."
+          ]
+        },
+        "de": {
+          "title": "Nachkommen von Hundertjährigen berichten tendenziell über etwas gesündere Ernährungsgewohnheiten",
+          "summary": "Forscher der Tufts University untersuchten die Essgewohnheiten von Menschen, deren Eltern 100 Jahre oder älter wurden, und fanden, dass diese Nachkommen im Allgemeinen geringfügig gesündere Ernährungsgewohnheiten angaben als Gleichaltrige ohne hunderjährigen Elternteil.",
+          "whyItMatters": "Das Studium von Familien mit außergewöhnlicher Langlebigkeit kann helfen, Lebensstilmuster zu identifizieren, die mit langem Leben verbunden sind, wobei genetische und Umweltfaktoren eine Rolle spielen und Kausalität nicht festgestellt ist.",
+          "takeaways": [
+            "Kinder von Hundertjährigen berichteten in dieser Studie über etwas gesündere Ernährungsweisen als Vergleichsgruppen.",
+            "Die Gruppe teilt etwa die Hälfte ihrer Langlebigkeitsgene sowie lebenslange Umweltfaktoren mit den langlebigen Eltern.",
+            "Die Studie beschreibt Zusammenhänge und beweist nicht, dass die Ernährung die Langlebigkeit verursacht hat."
+          ]
+        },
+        "pt-br": {
+          "title": "Filhos de centenários tendem a relatar dietas ligeiramente mais saudáveis",
+          "summary": "Pesquisadores da Tufts examinaram os hábitos alimentares de pessoas cujos pais viveram até 100 anos ou mais e descobriram que esses filhos geralmente apresentam padrões alimentares marginalmente mais saudáveis em comparação com pares sem pais centenários.",
+          "whyItMatters": "Estudar famílias com longevidade excepcional pode ajudar a identificar padrões de estilo de vida ligados à vida longa, embora fatores genéticos e ambientais estejam envolvidos e não se estabeleça causalidade.",
+          "takeaways": [
+            "Filhos de centenários relataram dietas um pouco mais saudáveis do que os grupos de comparação neste estudo.",
+            "O grupo compartilha cerca de metade de seus genes associados à longevidade, além de fatores ambientais ao longo da vida, com os pais longevos.",
+            "O estudo descreve associações e não prova que a dieta causou a longevidade."
+          ]
+        },
+        "hu": {
+          "title": "A százévesek gyerekei általában kissé egészségesebb étrendet jelentenek",
+          "summary": "A Tufts kutatói megvizsgálták azoknak az embereknek az étkezési szokásait, akiknek a szülei 100 évet vagy annál tovább éltek, és megállapították, hogy ezek az utódok általában kissé egészségesebb étkezési mintázatokat jelentenek, mint azok, akiknek nincsenek centenárius szüleik.",
+          "whyItMatters": "A kivételes hosszú életű családok vizsgálata segíthet azonosítani az élethez kapcsolódó szokásokat, amelyek a hosszú élethez köthetők, bár mind genetikai, mind környezeti tényezők szerepet játszanak, és az okság nincs bizonyítva.",
+          "takeaways": [
+            "A százévesek leszármazottai a vizsgálatban valamivel egészségesebb étrendet jelentettek, mint a kontrollcsoport.",
+            "A csoport megosztja a hosszú élethez kapcsolódó gének körülbelül felét, valamint az élet során szerzett környezeti tényezőket a hosszú életű szülőkkel.",
+            "A tanulmány összefüggéseket ír le, és nem bizonyítja, hogy az étrend okozta a hosszú életet."
+          ]
+        },
+        "ar": {
+          "title": "أبناء المئة عام يميلون للإبلاغ عن أنماط غذائية صحية إلى حد ما",
+          "summary": "فحص باحثون في تافتس عادات الأكل لدى أشخاص كانت والديهم قد عاشوا حتى 100 عام أو أكثر، ووجدوا أن هؤلاء الأبناء عمومًا يتمتعون بنمط غذائي سالم بدرجة طفيفة مقارنة بأقرانهم الذين ليس لديهم آباء مئة عام.",
+          "whyItMatters": "دراسة الأسر ذات طول العمر الاستثنائي قد تُساعد في التعرف على أنماط الحياة المرتبطة بطول العمر، مع الإشارة إلى أن العوامل الوراثية والبيئية معاً تلعبان دوراً ولا يُثبت السببية.",
+          "takeaways": [
+            "أبلغ أبناء المئة عام عن أنماط غذائية صحية إلى حد ما مقارنة بمجموعة المقارنة في هذه الدراسة.",
+            "تشارك هذه المجموعة حوالي نصف جيناتها المرتبطة بطول العمر إلى جانب العوامل البيئية خلال الحياة مع الآباء طويلّي العمر.",
+            "الدراسة تصف ارتباطات ولا تثبت أن الغذاء هو سبب طول العمر."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/centenarian-offspring-diet-2026-04-26-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=centenarian-offspring-diet-2026-04-26",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/centenarian-offspring-diet-2026-04-26-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/centenarian-offspring-diet-2026-04-26-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/centenarian-offspring-diet-2026-04-26.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/centenarian-offspring-diet-2026-04-26.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/centenarian-offspring-diet-2026-04-26.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/centenarian-offspring-diet-2026-04-26.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/centenarian-offspring-diet-2026-04-26.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/centenarian-offspring-diet-2026-04-26.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/centenarian-offspring-diet-2026-04-26.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/centenarian-offspring-diet-2026-04-26.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/centenarian-offspring-diet-2026-04-26.html"
+      }
+    },
     {
       "id": "fish-oil-brain-2026-04-26",
       "category": "Nutrition Research",
@@ -113,7 +918,248 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fish-oil-brain-2026-04-26-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fish-oil-brain-2026-04-26",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fish-oil-brain-2026-04-26-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fish-oil-brain-2026-04-26-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fish-oil-brain-2026-04-26-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/fish-oil-brain-2026-04-26.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/fish-oil-brain-2026-04-26.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/fish-oil-brain-2026-04-26.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/fish-oil-brain-2026-04-26.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/fish-oil-brain-2026-04-26.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/fish-oil-brain-2026-04-26.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/fish-oil-brain-2026-04-26.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/fish-oil-brain-2026-04-26.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/fish-oil-brain-2026-04-26.html"
+      }
+    },
+    {
+      "id": "ultraprocessed-cognition-2026-04-23",
+      "category": "nutrition-cognition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-ultra-foods-focus-healthily.html",
+      "sourceTitle": "Ultra-processed foods damage your focus even if you eat healthily",
+      "publishedAt": "Thu, 23 Apr 2026 22:20:04 EDT",
+      "languages": {
+        "en": {
+          "title": "High intake of ultra-processed foods tied to poorer focus and higher dementia risk",
+          "summary": "An observational study of more than 2,100 Australian middle-aged and older adults found diets high in heavily processed foods were linked with reduced attention and an increased risk of developing dementia.",
+          "whyItMatters": "The research adds to evidence connecting diet quality and cognitive health in midlife and later life, which could inform dietary choices and public health messaging.",
+          "takeaways": [
+            "Higher consumption of ultra-processed foods was associated with worse attention in this cohort.",
+            "The same dietary pattern correlated with a greater risk of dementia in the study population.",
+            "As an observational study, it shows association rather than proof of cause-and-effect."
+          ]
+        },
+        "es": {
+          "title": "Alta ingesta de alimentos ultraprocesados vinculada a peor atención y mayor riesgo de demencia",
+          "summary": "Un estudio observacional de más de 2.100 adultos australianos de mediana edad y mayores encontró que las dietas ricas en alimentos muy procesados se asociaron con reducción de la atención y un mayor riesgo de desarrollar demencia.",
+          "whyItMatters": "La investigación se suma a la evidencia que conecta la calidad de la dieta con la salud cognitiva en la mediana edad y la vejez, lo que puede informar elecciones dietéticas y mensajes de salud pública.",
+          "takeaways": [
+            "Una mayor ingesta de alimentos ultraprocesados se asoció con peor atención en esta cohorte.",
+            "El mismo patrón dietético se correlacionó con un mayor riesgo de demencia en la población estudiada.",
+            "Al ser un estudio observacional, muestra asociación y no prueba causalidad."
+          ]
+        },
+        "ru": {
+          "title": "Высокое потребление ультра‑переработанных продуктов связано с ухудшением внимания и повышенным риском деменции",
+          "summary": "Наблюдательное исследование более чем 2 100 австралийских взрослых среднего и пожилого возраста показало, что диеты с высоким содержанием сильно переработанных продуктов ассоциировались со снижением внимания и повышенным риском развития деменции.",
+          "whyItMatters": "Исследование добавляет данные о связи качества питания с когнитивным здоровьем в среднем и позднем возрасте, что может влиять на выбор диеты и общественные рекомендации.",
+          "takeaways": [
+            "Большее потребление ультра‑переработанных продуктов в этой когорте было связано с ухудшением внимания.",
+            "Тот же пищевой паттерн коррелировал с повышенным риском деменции у изучаемой популяции.",
+            "Это наблюдательное исследование, оно показывает ассоциацию, а не причинно‑следственную связь."
+          ]
+        },
+        "uk": {
+          "title": "Високе споживання ультраперероблених продуктів пов'язане з гіршою увагою та вищим ризиком деменції",
+          "summary": "Спостережувальне дослідження понад 2 100 австралійців середнього та старшого віку виявило, що дієти з великою кількістю сильно перероблених продуктів були пов'язані зі зниженням уваги та підвищеним ризиком розвитку деменції.",
+          "whyItMatters": "Дослідження додає докази зв'язку між якістю харчування та когнітивним здоров'ям у середньому та пізньому віці, що може інформувати вибір харчування та громадське здоров'я.",
+          "takeaways": [
+            "Вищий рівень споживання ультраперероблених продуктів асоціювався з гіршою увагою в цій когорті.",
+            "Такий же тип харчування корелював зі збільшеним ризиком деменції в досліджуваній популяції.",
+            "Оскільки це спостережувальне дослідження, воно демонструє асоціацію, а не причинно‑наслідковий зв'язок."
+          ]
+        },
+        "fr": {
+          "title": "Une forte consommation d'aliments ultra‑transformés liée à une moindre attention et à un risque de démence plus élevé",
+          "summary": "Une étude observationnelle portant sur plus de 2 100 Australiens d'âge moyen et plus âgés a trouvé que des régimes riches en aliments fortement transformés étaient associés à une attention réduite et à un risque accru de développer une démence.",
+          "whyItMatters": "La recherche apporte des éléments supplémentaires reliant la qualité du régime alimentaire à la santé cognitive à l'âge moyen et avancé, ce qui peut éclairer les choix alimentaires et les messages de santé publique.",
+          "takeaways": [
+            "Une consommation plus élevée d'aliments ultra‑transformés a été associée à une attention moindre dans cette cohorte.",
+            "Le même profil alimentaire a été corrélé à un risque plus élevé de démence dans la population étudiée.",
+            "Étant une étude observationnelle, elle montre une association plutôt qu'une preuve de causalité."
+          ]
+        },
+        "de": {
+          "title": "Hoher Konsum stark verarbeiteter Lebensmittel mit schlechterer Aufmerksamkeit und höherem Demenzrisiko verbunden",
+          "summary": "Eine Beobachtungsstudie mit mehr als 2.100 australischen Personen mittleren und höheren Alters fand, dass eine Ernährung mit hohem Anteil stark verarbeiteter Lebensmittel mit verringerter Aufmerksamkeit und einem erhöhten Risiko verbunden war, Demenz zu entwickeln.",
+          "whyItMatters": "Die Forschung fügt Belege hinzu, die Ernährung und kognitive Gesundheit in mittleren und späteren Lebensjahren verbinden, und könnte Ernährungsentscheidungen sowie öffentliche Gesundheitsbotschaften informieren.",
+          "takeaways": [
+            "Höherer Konsum ultra-verarbeiteter Lebensmittel war in dieser Kohorte mit schlechterer Aufmerksamkeit verbunden.",
+            "Dasselbe Ernährungsverhalten korrelierte in der Studie mit einem höheren Demenzrisiko.",
+            "Als Beobachtungsstudie zeigt sie eine Verbindung, keinen Beleg für Ursache und Wirkung."
+          ]
+        },
+        "pt-br": {
+          "title": "Alto consumo de alimentos ultraprocessados relacionado a pior atenção e maior risco de demência",
+          "summary": "Um estudo observacional com mais de 2.100 australianos de meia-idade e idosos encontrou que dietas ricas em alimentos altamente processados estavam associadas a redução da atenção e a um risco aumentado de desenvolver demência.",
+          "whyItMatters": "A pesquisa soma evidências que conectam qualidade da dieta e saúde cognitiva na meia-idade e na terceira idade, o que pode orientar escolhas alimentares e mensagens de saúde pública.",
+          "takeaways": [
+            "Maior consumo de ultraprocessados foi associado a pior atenção nesta coorte.",
+            "O mesmo padrão alimentar correlacionou-se com maior risco de demência na população estudada.",
+            "Por ser um estudo observacional, mostra associação e não prova relação de causa e efeito."
+          ]
+        },
+        "hu": {
+          "title": "Magas ultrafeldolgozott élelmiszerfogyasztás társult gyengébb figyelemmel és nagyobb demencia-kockázattal",
+          "summary": "Egy több mint 2 100 ausztrál középkorú és idősebb felnőttet vizsgáló megfigyeléses tanulmány szerint a nagymértékben feldolgozott élelmiszereket fogyasztó étrendek csökkent figyelemmel és megnövekedett demencia-kockázattal voltak összefüggésben.",
+          "whyItMatters": "A kutatás ráerősít az étrend minősége és a középkori illetve későbbi életkori kognitív egészség közötti kapcsolatra, ami befolyásolhatja az étrendi választásokat és a közegészségügyi üzeneteket.",
+          "takeaways": [
+            "A tanulmányban a nagyobb ultra-feldolgozott élelmiszerfogyasztás összefüggésben volt rosszabb figyelemmel.",
+            "Ugyanez az étrendi mintázat korrelált a demencia nagyobb kockázatával a vizsgált populációban.",
+            "Mivel megfigyeléses vizsgálatról van szó, az eredmény asszociációt mutat, nem bizonyít oksági összefüggést."
+          ]
+        },
+        "ar": {
+          "title": "ارتفاع تناول الأطعمة فائقة المعالجة مرتبط بانخفاض التركيز وزيادة خطر الخرف",
+          "summary": "أظهرت دراسة رصدية شملت أكثر من 2100 بالغ من أستراليا في منتصف العمر وكبار السن أن الأنماط الغذائية الغنية بالأطعمة المعالجة بكثافة ارتبطت بانخفاض الانتباه وزيادة خطر الإصابة بالخرف.",
+          "whyItMatters": "تُضيف الدراسة إلى الأدلة التي تربط نوعية النظام الغذائي بالصحة المعرفية في منتصف الحياة وما بعدها، وقد تؤثر في خيارات النظام الغذائي والرسائل الصحية العامة.",
+          "takeaways": [
+            "ارتبط الاستهلاك الأعلى للأطعمة فائقة المعالجة بانخفاض الانتباه في هذه العينة.",
+            "ارتبط نفس نمط التغذية بزيادة خطر الخرف في السكان الذين دُرسوا.",
+            "بما أنها دراسة رصدية، تظهر علاقة ارتباطية وليست إثباتاً للعلاقة السببية."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ultraprocessed-cognition-2026-04-23-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ultraprocessed-cognition-2026-04-23",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ultraprocessed-cognition-2026-04-23-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ultraprocessed-cognition-2026-04-23-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/ultraprocessed-cognition-2026-04-23.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/ultraprocessed-cognition-2026-04-23.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/ultraprocessed-cognition-2026-04-23.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/ultraprocessed-cognition-2026-04-23.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/ultraprocessed-cognition-2026-04-23.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/ultraprocessed-cognition-2026-04-23.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/ultraprocessed-cognition-2026-04-23.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/ultraprocessed-cognition-2026-04-23.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/ultraprocessed-cognition-2026-04-23.html"
+      }
+    },
+    {
+      "id": "young-microbiome-liver-2026-04-23",
+      "category": "microbiome-liver",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-secret-healthy-liver-young-microbiome.html",
+      "sourceTitle": "Secret to a healthy liver found in a young microbiome",
+      "publishedAt": "Thu, 23 Apr 2026 20:20:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Study suggests youthful gut microbiome may support liver health",
+          "summary": "Researchers reporting at DDW 2026 propose that restoring gut microbiome features typical of youth could help slow liver aging and reduce the risk of liver cancer, based on experimental findings.",
+          "whyItMatters": "The gut–liver connection is an active area of research; insights about the microbiome’s role in liver aging could inform future prevention or treatment strategies.",
+          "takeaways": [
+            "A microbiome resembling that of younger individuals was linked to markers of healthier liver function in the presented research.",
+            "Authors suggest the approach may help slow liver aging and lower liver cancer risk, pending further study.",
+            "Current results are early and need more research to determine human relevance."
+          ]
+        },
+        "es": {
+          "title": "Estudio sugiere que un microbioma intestinal juvenil podría favorecer la salud hepática",
+          "summary": "Investigadores presentando en DDW 2026 proponen que restaurar características del microbioma intestinal propias de la juventud podría ayudar a frenar el envejecimiento del hígado y reducir el riesgo de cáncer hepático, según hallazgos experimentales.",
+          "whyItMatters": "La conexión intestino‑hígado es un área activa de investigación; los conocimientos sobre el papel del microbioma en el envejecimiento hepático podrían orientar futuras estrategias de prevención o tratamiento.",
+          "takeaways": [
+            "Un microbioma similar al de individuos más jóvenes se asoció con marcadores de función hepática más saludable en la investigación presentada.",
+            "Los autores sugieren que el enfoque podría ayudar a ralentizar el envejecimiento hepático y disminuir el riesgo de cáncer de hígado, pero esto requiere más estudio.",
+            "Los resultados son iniciales y se necesita más investigación para determinar su relevancia en humanos."
+          ]
+        },
+        "ru": {
+          "title": "Исследование указывает, что «молодой» микробиом кишечника может поддерживать здоровье печени",
+          "summary": "Исследователи, выступающие на DDW 2026, предлагают, что восстановление характеристик микробиома кишечника, типичных для молодого возраста, может помочь замедлить старение печени и снизить риск рака печени, исходя из экспериментальных данных.",
+          "whyItMatters": "Связь между кишечником и печенью — активная область исследований; понимание роли микробиома в старении печени может помочь в разработке будущих подходов к профилактике или лечению.",
+          "takeaways": [
+            "Микробиом, напоминающий микробиом более молодых людей, ассоциировался с маркёрами более здоровой функции печени в представленных исследованиях.",
+            "Авторы предполагают, что такой подход может замедлить старение печени и снизить риск рака печени, но это требует дальнейших исследований.",
+            "Текущие результаты предварительны и нуждаются в дополнительных исследованиях для оценки значимости для людей."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження вказує, що молодий кишковий мікробіом може підтримувати здоров'я печінки",
+          "summary": "Дослідники, які доповідали на DDW 2026, пропонують, що відновлення характеристик мікробіому, типових для молодого віку, могло б допомогти уповільнити старіння печінки та знизити ризик раку печінки, на основі експериментальних результатів.",
+          "whyItMatters": "Зв'язок між кишечником і печінкою є активною областю досліджень; розуміння ролі мікробіому в старінні печінки може вплинути на майбутні стратегії профілактики або лікування.",
+          "takeaways": [
+            "Мікробіом, схожий на той, що характерний для молодих людей, був пов'язаний з маркерами більш здорової функції печінки у представленому дослідженні.",
+            "Автори припускають, що підхід може допомогти уповільнити старіння печінки та знизити ризик раку печінки за умови подальших досліджень.",
+            "Наявні результати є попередніми і потребують додаткових досліджень для встановлення значущості для людей."
+          ]
+        },
+        "fr": {
+          "title": "Une étude suggère qu'un microbiote intestinal jeune pourrait soutenir la santé du foie",
+          "summary": "Des chercheurs rapportant à DDW 2026 proposent que restaurer des caractéristiques du microbiote intestinal propres à la jeunesse pourrait aider à ralentir le vieillissement hépatique et réduire le risque de cancer du foie, sur la base de résultats expérimentaux.",
+          "whyItMatters": "La connexion intestin‑foie est un domaine de recherche actif ; des informations sur le rôle du microbiote dans le vieillissement du foie pourraient orienter de futures stratégies de prévention ou de traitement.",
+          "takeaways": [
+            "Un microbiote ressemblant à celui d'individus plus jeunes a été lié à des marqueurs d'une fonction hépatique plus saine dans la recherche présentée.",
+            "Les auteurs suggèrent que l'approche pourrait aider à ralentir le vieillissement du foie et à diminuer le risque de cancer du foie, sous réserve d'études complémentaires.",
+            "Les résultats actuels sont préliminaires et nécessitent davantage de recherches pour déterminer leur pertinence chez l'humain."
+          ]
+        },
+        "de": {
+          "title": "Studie deutet darauf hin, dass ein junges Darmmikrobiom die Lebergesundheit unterstützen könnte",
+          "summary": "Forscher, die auf dem DDW 2026 berichteten, schlagen vor, dass die Wiederherstellung von Mikrobiommerkmalen, die typisch für die Jugend sind, dazu beitragen könnte, die Leberalterung zu verlangsamen und das Risiko von Leberkrebs zu verringern, basierend auf experimentellen Befunden.",
+          "whyItMatters": "Die Verbindung zwischen Darm und Leber ist ein aktives Forschungsfeld; Erkenntnisse über die Rolle des Mikrobioms bei der Leberalterung könnten künftige Präventions- oder Behandlungsansätze beeinflussen.",
+          "takeaways": [
+            "Ein dem jüngeren Stadium ähnliches Mikrobiom war in der vorgestellten Forschung mit Markern einer gesünderen Leberfunktion verknüpft.",
+            "Die Autoren schlagen, dass der Ansatz helfen könnte, die Leberalterung zu verlangsamen und das Risiko von Leberkrebs zu senken, vorbehaltlich weiterer Studien.",
+            "Die aktuellen Ergebnisse sind vorläufig und benötigen weitere Forschung, um die Bedeutung für Menschen zu klären."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo sugere que microbioma jovem pode apoiar a saúde do fígado",
+          "summary": "Pesquisadores apresentados no DDW 2026 propõem que restaurar características do microbioma intestinal típicas da juventude poderia ajudar a retardar o envelhecimento do fígado e reduzir o risco de câncer de fígado, com base em achados experimentais.",
+          "whyItMatters": "A conexão entre intestino e fígado é uma área ativa de pesquisa; percepções sobre o papel do microbioma no envelhecimento hepático podem informar futuras estratégias de prevenção ou tratamento.",
+          "takeaways": [
+            "Um microbioma semelhante ao de indivíduos mais jovens foi associado a marcadores de função hepática mais saudável na pesquisa apresentada.",
+            "Os autores sugerem que a abordagem pode ajudar a retardar o envelhecimento do fígado e reduzir o risco de câncer hepático, sujeito a estudos adicionais.",
+            "Os resultados atuais são iniciais e precisam de mais pesquisa para determinar a relevância em humanos."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány szerint a fiatalos bélmikrobiom támogathatja a máj egészségét",
+          "summary": "A DDW 2026 konferencián bemutatott kutatás arra utal, hogy a bélmikrobiom fiatalokra jellemző jellemzőinek helyreállítása segíthet lassítani a máj öregedését és csökkenteni a májrák kockázatát, kísérleti eredményekre alapozva.",
+          "whyItMatters": "A bél–máj kapcsolat aktív kutatási terület; a mikrobiom szerepére vonatkozó ismeretek a máj öregedésében további megelőzési vagy kezelési stratégiák irányába mutathatnak.",
+          "takeaways": [
+            "A fiatalokra jellemző mikrobiomhoz hasonló állapot összefüggésben volt az egészségesebb májműködés markereivel a bemutatott kutatásban.",
+            "A szerzők azt sugallják, hogy a megközelítés lassíthatja a máj öregedését és csökkentheti a májrák kockázatát további vizsgálatok függvényében.",
+            "A jelenlegi eredmények kezdetiek, és további kutatások szükségesek az emberi jelentőség meghatározásához."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تشير إلى أن ميكروبيوم شاب قد يدعم صحة الكبد",
+          "summary": "يقترح باحثون عرضوا نتائجهم في مؤتمر DDW 2026 أن استعادة خصائص ميكروبيوم الأمعاء الشبيهة بما نجده في الشباب قد يساعد في إبطاء شيخوخة الكبد وتقليل خطر سرطان الكبد، استناداً إلى نتائج تجريبية.",
+          "whyItMatters": "ترابط الأمعاء والكبد مجال بحثي نشط؛ قد تؤدي الرؤى حول دور الميكروبيوم في شيخوخة الكبد إلى استراتيجيات وقائية أو علاجية مستقبلية.",
+          "takeaways": [
+            "ارتبط ميكروبيوم يشبه ذلك الخاص بالأشخاص الأصغر سناً بعلامات وظيفة كبد أكثر صحة في البحث المعروض.",
+            "يقترح الباحثون أن هذا النهج قد يساعد في إبطاء شيخوخة الكبد وخفض خطر سرطان الكبد، مع حاجة لمزيد من الدراسة.",
+            "النتائج مبكرة وتحتاج أبحاثاً إضافية لتحديد مدى صلتها بالبشر."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/young-microbiome-liver-2026-04-23-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=young-microbiome-liver-2026-04-23",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/young-microbiome-liver-2026-04-23-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/young-microbiome-liver-2026-04-23-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/young-microbiome-liver-2026-04-23.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/young-microbiome-liver-2026-04-23.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/young-microbiome-liver-2026-04-23.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/young-microbiome-liver-2026-04-23.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/young-microbiome-liver-2026-04-23.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/young-microbiome-liver-2026-04-23.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/young-microbiome-liver-2026-04-23.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/young-microbiome-liver-2026-04-23.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/young-microbiome-liver-2026-04-23.html"
+      }
     },
     {
       "id": "olive-oil-gut-brain-2026-04-17",
@@ -226,7 +1272,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/olive-oil-gut-brain-2026-04-17-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=olive-oil-gut-brain-2026-04-17",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/olive-oil-gut-brain-2026-04-17-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/olive-oil-gut-brain-2026-04-17-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/olive-oil-gut-brain-2026-04-17-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/olive-oil-gut-brain-2026-04-17.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/olive-oil-gut-brain-2026-04-17.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/olive-oil-gut-brain-2026-04-17.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/olive-oil-gut-brain-2026-04-17.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/olive-oil-gut-brain-2026-04-17.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/olive-oil-gut-brain-2026-04-17.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/olive-oil-gut-brain-2026-04-17.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/olive-oil-gut-brain-2026-04-17.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/olive-oil-gut-brain-2026-04-17.html"
+      }
     },
     {
       "id": "fruits-veg-lung-cancer-2026-04-17",
@@ -339,7 +1396,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruits-veg-lung-cancer-2026-04-17-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fruits-veg-lung-cancer-2026-04-17",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruits-veg-lung-cancer-2026-04-17-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruits-veg-lung-cancer-2026-04-17-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruits-veg-lung-cancer-2026-04-17-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/fruits-veg-lung-cancer-2026-04-17.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/fruits-veg-lung-cancer-2026-04-17.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/fruits-veg-lung-cancer-2026-04-17.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/fruits-veg-lung-cancer-2026-04-17.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/fruits-veg-lung-cancer-2026-04-17.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/fruits-veg-lung-cancer-2026-04-17.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/fruits-veg-lung-cancer-2026-04-17.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/fruits-veg-lung-cancer-2026-04-17.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/fruits-veg-lung-cancer-2026-04-17.html"
+      }
     },
     {
       "id": "sparkling-water-metabolism-2026-04-17",
@@ -452,7 +1520,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sparkling-water-metabolism-2026-04-17-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sparkling-water-metabolism-2026-04-17",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sparkling-water-metabolism-2026-04-17-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sparkling-water-metabolism-2026-04-17-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sparkling-water-metabolism-2026-04-17-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/sparkling-water-metabolism-2026-04-17.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/sparkling-water-metabolism-2026-04-17.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/sparkling-water-metabolism-2026-04-17.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/sparkling-water-metabolism-2026-04-17.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/sparkling-water-metabolism-2026-04-17.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/sparkling-water-metabolism-2026-04-17.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/sparkling-water-metabolism-2026-04-17.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/sparkling-water-metabolism-2026-04-17.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/sparkling-water-metabolism-2026-04-17.html"
+      }
     },
     {
       "id": "fgf21-obesity-mice-2026-04-16",
@@ -565,7 +1644,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fgf21-obesity-mice-2026-04-16-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fgf21-obesity-mice-2026-04-16",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fgf21-obesity-mice-2026-04-16-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fgf21-obesity-mice-2026-04-16-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fgf21-obesity-mice-2026-04-16-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/fgf21-obesity-mice-2026-04-16.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/fgf21-obesity-mice-2026-04-16.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/fgf21-obesity-mice-2026-04-16.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/fgf21-obesity-mice-2026-04-16.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/fgf21-obesity-mice-2026-04-16.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/fgf21-obesity-mice-2026-04-16.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/fgf21-obesity-mice-2026-04-16.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/fgf21-obesity-mice-2026-04-16.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/fgf21-obesity-mice-2026-04-16.html"
+      }
     },
     {
       "id": "natural-ozempic-brp-2026-04-12",
@@ -678,7 +1768,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/natural-ozempic-brp-2026-04-12-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=natural-ozempic-brp-2026-04-12",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/natural-ozempic-brp-2026-04-12-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/natural-ozempic-brp-2026-04-12-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/natural-ozempic-brp-2026-04-12-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/natural-ozempic-brp-2026-04-12.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/natural-ozempic-brp-2026-04-12.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/natural-ozempic-brp-2026-04-12.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/natural-ozempic-brp-2026-04-12.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/natural-ozempic-brp-2026-04-12.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/natural-ozempic-brp-2026-04-12.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/natural-ozempic-brp-2026-04-12.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/natural-ozempic-brp-2026-04-12.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/natural-ozempic-brp-2026-04-12.html"
+      }
     },
     {
       "id": "ozempic-resistance-2026-04-11",
@@ -791,7 +1892,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ozempic-resistance-2026-04-11-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ozempic-resistance-2026-04-11",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ozempic-resistance-2026-04-11-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ozempic-resistance-2026-04-11-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ozempic-resistance-2026-04-11-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/ozempic-resistance-2026-04-11.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/ozempic-resistance-2026-04-11.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/ozempic-resistance-2026-04-11.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/ozempic-resistance-2026-04-11.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/ozempic-resistance-2026-04-11.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/ozempic-resistance-2026-04-11.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/ozempic-resistance-2026-04-11.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/ozempic-resistance-2026-04-11.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/ozempic-resistance-2026-04-11.html"
+      }
     },
     {
       "id": "meal-timing-weight-2026-04-11",
@@ -904,7 +2016,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/meal-timing-weight-2026-04-11-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=meal-timing-weight-2026-04-11",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/meal-timing-weight-2026-04-11-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/meal-timing-weight-2026-04-11-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/meal-timing-weight-2026-04-11-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/meal-timing-weight-2026-04-11.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/meal-timing-weight-2026-04-11.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/meal-timing-weight-2026-04-11.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/meal-timing-weight-2026-04-11.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/meal-timing-weight-2026-04-11.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/meal-timing-weight-2026-04-11.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/meal-timing-weight-2026-04-11.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/meal-timing-weight-2026-04-11.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/meal-timing-weight-2026-04-11.html"
+      }
     },
     {
       "id": "vitamin-d-midlife-brain-2026-04-07",
@@ -1017,7 +2140,18 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/vitamin-d-midlife-brain-2026-04-07-source.webp",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=vitamin-d-midlife-brain-2026-04-07",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/vitamin-d-midlife-brain-2026-04-07-source.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/vitamin-d-midlife-brain-2026-04-07-share.svg"
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/vitamin-d-midlife-brain-2026-04-07-share.svg",
+      "sharePageUrls": {
+        "en": "https://ipcltech.github.io/CalorieBankNewsData/articles/en/vitamin-d-midlife-brain-2026-04-07.html",
+        "es": "https://ipcltech.github.io/CalorieBankNewsData/articles/es/vitamin-d-midlife-brain-2026-04-07.html",
+        "ru": "https://ipcltech.github.io/CalorieBankNewsData/articles/ru/vitamin-d-midlife-brain-2026-04-07.html",
+        "uk": "https://ipcltech.github.io/CalorieBankNewsData/articles/uk/vitamin-d-midlife-brain-2026-04-07.html",
+        "fr": "https://ipcltech.github.io/CalorieBankNewsData/articles/fr/vitamin-d-midlife-brain-2026-04-07.html",
+        "de": "https://ipcltech.github.io/CalorieBankNewsData/articles/de/vitamin-d-midlife-brain-2026-04-07.html",
+        "pt-br": "https://ipcltech.github.io/CalorieBankNewsData/articles/pt-br/vitamin-d-midlife-brain-2026-04-07.html",
+        "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/vitamin-d-midlife-brain-2026-04-07.html",
+        "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/vitamin-d-midlife-brain-2026-04-07.html"
+      }
     }
   ]
 }
