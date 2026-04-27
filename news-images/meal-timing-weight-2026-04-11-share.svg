@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c8e6c9"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9e8ff"/>
+    </linearGradient>
+    <clipPath id="imageClip">
+      <rect x="720" y="104" width="408" height="408" rx="42"/>
+    </clipPath>
+    <style>
+      .brand{font:700 30px Arial, sans-serif;fill:#2e7d32}
+      .label{font:800 22px Arial, sans-serif;fill:#2e7d32;text-transform:uppercase;letter-spacing:.8px}
+      .title{font:800 46px Arial, sans-serif;fill:#17212b}
+      .summary{font:500 25px Arial, sans-serif;fill:#4f6472}
+      .source{font:700 25px Arial, sans-serif;fill:#17212b}
+      .watermark{font:800 28px Arial, sans-serif;fill:#2e7d32}
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="38" fill="#ffffff" opacity=".88"/>
+  <rect x="60" y="60" width="1080" height="510" rx="30" fill="#ffffff"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="#c8e6c9"/>
+  <image href="https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/meal-timing-weight-2026-04-11-source.webp" x="720" y="104" width="408" height="408" preserveAspectRatio="xMidYMid slice" clip-path="url(#imageClip)"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="none" stroke="#ffffff" stroke-width="10" opacity=".82"/>
+  <rect x="720" y="448" width="408" height="64" rx="0" fill="#0f172a" opacity=".52" clip-path="url(#imageClip)"/>
+  <text x="72" y="100" class="brand">Calorie Bank Credit</text>
+  <text x="72" y="148" class="label">Nutrition Research</text>
+  <text x="72" y="204" class="title">Longer overnight fasting and earlier</text><text x="72" y="260" class="title">breakfasts were associated with lower</text><text x="72" y="316" class="title">BMI years later</text>
+  <text x="72" y="410" class="summary">A large study found people who extended the</text><text x="72" y="444" class="summary">overnight fast and tended to eat breakfast earlier</text>
+  <text x="72" y="528" class="source">sciencedaily.com</text>
+  <text x="756" y="490" class="watermark" fill="#ffffff">www.calorie-bank.com</text>
+</svg>
