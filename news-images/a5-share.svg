@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b3e5fc"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9e8ff"/>
+    </linearGradient>
+    <clipPath id="imageClip">
+      <rect x="720" y="104" width="408" height="408" rx="42"/>
+    </clipPath>
+    <style>
+      .brand{font:700 30px Arial, sans-serif;fill:#0288d1}
+      .label{font:800 22px Arial, sans-serif;fill:#0288d1;text-transform:uppercase;letter-spacing:.8px}
+      .title{font:800 46px Arial, sans-serif;fill:#17212b}
+      .summary{font:500 25px Arial, sans-serif;fill:#4f6472}
+      .source{font:700 25px Arial, sans-serif;fill:#17212b}
+      .watermark{font:800 28px Arial, sans-serif;fill:#0288d1}
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="38" fill="#ffffff" opacity=".88"/>
+  <rect x="60" y="60" width="1080" height="510" rx="30" fill="#ffffff"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="#b3e5fc"/>
+  <image href="https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-source.jpg" x="720" y="104" width="408" height="408" preserveAspectRatio="xMidYMid slice" clip-path="url(#imageClip)"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="none" stroke="#ffffff" stroke-width="10" opacity=".82"/>
+  <rect x="720" y="448" width="408" height="64" rx="0" fill="#0f172a" opacity=".52" clip-path="url(#imageClip)"/>
+  <text x="72" y="100" class="brand">Calorie Bank Credit</text>
+  <text x="72" y="148" class="label">aging biology</text>
+  <text x="72" y="204" class="title">Stronger senescence response linked to</text><text x="72" y="260" class="title">faster wound healing in mice</text>
+  <text x="72" y="410" class="summary">A mouse study found that younger animals show a</text><text x="72" y="444" class="summary">more robust activation of cellular senescence</text>
+  <text x="72" y="528" class="source">lifespan.io</text>
+  <text x="756" y="490" class="watermark" fill="#ffffff">www.calorie-bank.com</text>
+</svg>

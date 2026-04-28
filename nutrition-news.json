@@ -1,7 +1,319 @@
 {
-  "generatedAt": "2026-04-27T20:28:15.828Z",
+  "generatedAt": "2026-04-28T08:49:05.683Z",
   "sourceCount": 11,
   "articles": [
+    {
+      "id": "a1",
+      "category": "nutrition & family health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-good-body-image-habits-kids.html",
+      "sourceTitle": "How to model good eating and body image habits for your kids",
+      "publishedAt": "Mon, 27 Apr 2026 19:00:06 EDT",
+      "languages": {
+        "en": {
+          "title": "How to model good eating and body image habits for your kids",
+          "summary": "Advice-oriented piece on ways parents can encourage a healthy relationship with food and body image in children, with attention to how parents' own struggles can affect their approach.",
+          "whyItMatters": "Early habits around eating and self-image influence lifelong health and mental well-being; practical guidance can help caregivers reduce the risk of disordered eating and poor self-esteem in children.",
+          "takeaways": [
+            "Parental behavior and language around food and bodies shape children's attitudes.",
+            "Strategies focus on modeling balanced eating and positive body messages rather than perfection.",
+            "The article is guidance for parents, not a clinical protocol; seek professional help for serious concerns."
+          ]
+        },
+        "es": {
+          "title": "Cómo dar ejemplo de buenos hábitos alimentarios y de imagen corporal para tus hijos",
+          "summary": "Artículo con consejos sobre cómo los padres pueden fomentar una relación saludable con la comida y la imagen corporal en los niños, prestando atención a cómo las dificultades personales de los padres pueden influir en su enfoque.",
+          "whyItMatters": "Los hábitos tempranos respecto a la alimentación y la autoimagen influyen en la salud y el bienestar mental a lo largo de la vida; orientaciones prácticas pueden ayudar a las personas cuidadoras a reducir el riesgo de trastornos alimentarios y baja autoestima en los niños.",
+          "takeaways": [
+            "El comportamiento y el lenguaje de los padres en torno a la comida y los cuerpos moldean las actitudes de los niños.",
+            "Las estrategias se centran en modelar una alimentación equilibrada y mensajes positivos sobre el cuerpo en lugar de buscar la perfección.",
+            "El artículo ofrece orientación para padres, no un protocolo clínico; busque ayuda profesional ante preocupaciones graves."
+          ]
+        },
+        "ru": {
+          "title": "Как показывать детям правильные пищевые привычки и здоровое отношение к телу",
+          "summary": "Статья с практическими советами о том, как родители могут поощрять у детей здоровые отношения с едой и собственным телом, учитывая, как личные проблемы родителей могут влиять на их подход.",
+          "whyItMatters": "Ранние привычки в питании и самооценке влияют на долгосрочное физическое и психическое здоровье; практические рекомендации могут помочь опекунам снизить риск расстройств пищевого поведения и низкой самооценки у детей.",
+          "takeaways": [
+            "Поведение и манера говорить родителей о еде и телах формируют отношение детей.",
+            "Стратегии направлены на подачу примера сбалансированного питания и позитивных сообщений о теле, а не на стремление к совершенству.",
+            "Статья даёт советы для родителей, а не клинический протокол; при серьёзных проблемах обращайтесь к специалисту."
+          ]
+        },
+        "uk": {
+          "title": "Як подавати дітям приклад здорових харчових звичок та ставлення до тіла",
+          "summary": "Поради для батьків про способи заохотити у дітей здорове ставлення до їжі та власного тіла, з урахуванням того, як власні труднощі батьків можуть впливати на їхні підходи.",
+          "whyItMatters": "Ранні звички щодо харчування та самооцінки впливають на довгострокове здоров’я і психічне благополуччя; практичні поради можуть допомогти опікунам зменшити ризик порушень харчової поведінки та низької самоповаги у дітей.",
+          "takeaways": [
+            "Поведінка та мова батьків щодо їжі й тіл формують ставлення дітей.",
+            "Стратегії орієнтовані на демонстрацію збалансованого харчування та позитивних повідомлень про тіло, а не на прагнення досконалості.",
+            "Стаття дає поради для батьків, а не є клінічним протоколом; при серйозних проблемах слід звертатися до фахівців."
+          ]
+        },
+        "fr": {
+          "title": "Comment donner à vos enfants l'exemple de bonnes habitudes alimentaires et d'image corporelle",
+          "summary": "Article axé sur des conseils pour aider les parents à encourager chez les enfants une relation saine à la nourriture et à l'image corporelle, en prenant en compte la façon dont les difficultés personnelles des parents peuvent influencer leur approche.",
+          "whyItMatters": "Les habitudes précoces en matière d'alimentation et d'image de soi influencent la santé et le bien‑être mental à long terme; des conseils pratiques peuvent aider les tuteurs à réduire le risque de troubles du comportement alimentaire et de faible estime de soi chez les enfants.",
+          "takeaways": [
+            "Le comportement et le langage des parents autour de la nourriture et du corps façonnent les attitudes des enfants.",
+            "Les stratégies visent à modéliser une alimentation équilibrée et des messages corporels positifs plutôt que la perfection.",
+            "L'article propose des conseils pour les parents et ne remplace pas un protocole clinique; en cas de préoccupations sérieuses, consulter un professionnel."
+          ]
+        },
+        "de": {
+          "title": "Wie man Kindern gesunde Ess- und Körperbildgewohnheiten vorlebt",
+          "summary": "Ein ratgebender Artikel darüber, wie Eltern eine gesunde Beziehung zu Essen und Körperbild bei Kindern fördern können, mit Aufmerksamkeit dafür, wie die eigenen Probleme der Eltern ihre Herangehensweise beeinflussen können.",
+          "whyItMatters": "Frühe Gewohnheiten rund ums Essen und Selbstbild beeinflussen lebenslange Gesundheit und psychisches Wohlbefinden; praktische Hinweise können Betreuungspersonen helfen, das Risiko gestörter Essmuster und eines schlechten Selbstwertgefühls bei Kindern zu verringern.",
+          "takeaways": [
+            "Das Verhalten und die Sprache der Eltern im Umgang mit Essen und Körpern prägen die Einstellungen von Kindern.",
+            "Die Strategien betonen das Vorleben ausgewogener Essgewohnheiten und positiver Körperbotschaften statt Perfektion.",
+            "Der Artikel bietet Orientierung für Eltern, ist kein klinisches Protokoll; bei ernsthaften Problemen sollte professionelle Hilfe gesucht werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Como exemplificar bons hábitos alimentares e de imagem corporal para seus filhos",
+          "summary": "Texto com orientações sobre formas de os pais incentivarem uma relação saudável com a comida e a imagem corporal nas crianças, com atenção a como as dificuldades dos próprios pais podem influenciar sua abordagem.",
+          "whyItMatters": "Hábitos iniciais em relação à alimentação e à autoimagem influenciam a saúde e o bem-estar mental ao longo da vida; orientações práticas podem ajudar cuidadores a reduzir o risco de transtornos alimentares e baixa autoestima nas crianças.",
+          "takeaways": [
+            "O comportamento e a linguagem dos pais sobre comida e corpo moldam as atitudes das crianças.",
+            "As estratégias enfatizam modelar uma alimentação equilibrada e mensagens corporais positivas, em vez de buscar perfeição.",
+            "O artigo é uma orientação para pais, não um protocolo clínico; procure ajuda profissional em caso de preocupações sérias."
+          ]
+        },
+        "hu": {
+          "title": "Hogyan mutassunk jó példát az étkezési és testképpel kapcsolatos szokásokban a gyerekeknek",
+          "summary": "Gyakorlati tanácsok arról, hogyan ösztönözhetik a szülők a gyermekek egészséges viszonyát az étkezéssel és a testképpel kapcsolatban, különös figyelemmel arra, hogy a szülők saját nehézségei miként befolyásolhatják a hozzáállásukat.",
+          "whyItMatters": "A korai étkezési és önképhez kapcsolódó szokások befolyásolják az élethosszig tartó egészséget és mentális jólétet; a gyakorlati útmutatás segíthet a gondviselőknek csökkenteni az étkezési zavarok és az alacsony önbecsülés kockázatát a gyerekeknél.",
+          "takeaways": [
+            "A szülői viselkedés és a testtel, étellel kapcsolatos nyelvezet alakítja a gyerekek hozzáállását.",
+            "A stratégiák a kiegyensúlyozott étkezés és a pozitív testüzenetek modellezésére összpontosítanak a tökéletesség helyett.",
+            "A cikk szülői útmutatás, nem klinikai protokoll; komoly aggály esetén kérjenek szakmai segítséget."
+          ]
+        },
+        "ar": {
+          "title": "كيف تكون نموذجًا لعادات أكل وصورة جسد صحية لأطفالك",
+          "summary": "مقالة موجهة إلى تقديم نصائح حول طرق يمكن للآباء من خلالها تشجيع علاقة صحية مع الطعام وصورة الجسم لدى الأطفال، مع مراعاة كيف يمكن لصراعات الآباء الشخصية أن تؤثر على نهجهم.",
+          "whyItMatters": "تؤثر العادات المبكرة المتعلقة بالأكل والصورة الذاتية على الصحة والرفاهية النفسية مدى الحياة؛ يمكن للإرشادات العملية أن تساعد القائمين على الرعاية في تقليل خطر اضطرابات الأكل وضعف تقدير الذات لدى الأطفال.",
+          "takeaways": [
+            "سلوك اللغة والتصرفات الأبوية حول الطعام والأجسام تشكل مواقف الأطفال.",
+            "تركز الاستراتيجيات على تقديم نموذج للأكل المتوازن والرسائل الإيجابية عن الجسم بدلاً من السعي للكمال.",
+            "المقال موجه للآباء كمشورة عامة وليس بروتوكولًا طبيًا؛ اطلب مساعدة محترفة إذا كانت هناك مخاوف خطيرة."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-share.svg"
+    },
+    {
+      "id": "a2",
+      "category": "cardiometabolic health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-good-cumulative-cardiovascular-health-young.html",
+      "sourceTitle": "Good cumulative cardiovascular health during young mid-adulthood associated with delayed cardiovascular disease, death",
+      "publishedAt": "Mon, 27 Apr 2026 17:40:04 EDT",
+      "languages": {
+        "en": {
+          "title": "Cumulative cardiovascular health in mid-adulthood linked with later outcomes",
+          "summary": "Researchers used the American Heart Association's Life's Essential 8 (LE8) score over time and found that better cumulative cardiovascular health in young to mid-adulthood is associated with later onset of cardiovascular disease and lower mortality.",
+          "whyItMatters": "The finding highlights that sustained patterns across multiple risk factors—BMI, cholesterol, blood glucose, blood pressure, activity, diet, smoking and sleep—relate to long-term heart health rather than a single snapshot.",
+          "takeaways": [
+            "LE8 captures eight lifestyle and risk factors; cumulative scores may predict outcomes better than single measures.",
+            "Sustained healthy patterns over years were linked to delayed disease and lower death rates in the study.",
+            "This is observational research showing associations; it does not prove cause-and-effect for individuals."
+          ]
+        },
+        "es": {
+          "title": "Salud cardiovascular acumulada en la mediana edad vinculada con resultados posteriores",
+          "summary": "Investigadores utilizaron la puntuación Life's Essential 8 (LE8) de la American Heart Association a lo largo del tiempo y encontraron que una mejor salud cardiovascular acumulada desde la juventud hasta la mediana edad se asocia con un inicio más tardío de la enfermedad cardiovascular y con menor mortalidad.",
+          "whyItMatters": "El hallazgo subraya que los patrones sostenidos en múltiples factores de riesgo —IMC, colesterol, glucemia, presión arterial, actividad, dieta, tabaquismo y sueño— se relacionan con la salud cardiaca a largo plazo más que una medida puntual.",
+          "takeaways": [
+            "LE8 recoge ocho factores de estilo de vida y riesgo; las puntuaciones acumuladas pueden predecir resultados mejor que medidas únicas.",
+            "Patrones saludables sostenidos durante años se asociaron con retraso en la aparición de enfermedad y menores tasas de muerte en el estudio.",
+            "Se trata de investigación observacional que muestra asociaciones; no demuestra causalidad a nivel individual."
+          ]
+        },
+        "ru": {
+          "title": "Накопительное состояние сердечно‑сосудистой системы в среднем возрасте связано с дальнейшими исходами",
+          "summary": "Исследователи использовали показатель Life's Essential 8 (LE8) Американской ассоциации сердца по динамике и обнаружили, что лучшее накопительное состояние сердечно‑сосудистой системы в молодом и среднем взрослом возрасте связано с более поздним наступлением сердечно‑сосудистых заболеваний и снижением смертности.",
+          "whyItMatters": "Результат подчёркивает, что устойчивые модели по нескольким факторам риска — ИМТ, холестерин, уровень глюкозы, артериальное давление, физическая активность, питание, курение и сон — связаны с долгосрочным здоровьем сердца, а не отдельная разовая оценка.",
+          "takeaways": [
+            "LE8 охватывает восемь факторов образа жизни и риска; накопительные баллы могут лучше предсказывать исходы, чем единичные измерения.",
+            "Устойчивые здоровые модели в течение многих лет были связаны с отсроченным развитием заболеваний и более низкой смертностью в исследовании.",
+            "Это наблюдательное исследование, показывающее ассоциации; оно не доказывает причинно‑следственную связь для отдельных людей."
+          ]
+        },
+        "uk": {
+          "title": "Кумулятивний стан серцево‑судинного здоров’я в молодому та середньому віці пов’язаний із подальшими результатами",
+          "summary": "Дослідники використовували оцінку Life's Essential 8 Американської кардіологічної асоціації протягом часу й виявили, що кращий кумулятивний серцево‑судинний стан у молодому‑середньому віці пов’язаний із пізнішим початком серцево‑судинних хвороб і нижчою смертністю.",
+          "whyItMatters": "Результат підкреслює, що стійкі моделі поведінки щодо кількох факторів ризику — ІМТ, холестерин, глюкоза крові, тиск, активність, харчування, куріння і сон — мають значення для довгострокового серцевого здоров’я, а не лише одне вимірювання в один момент.",
+          "takeaways": [
+            "LE8 охоплює вісім факторів способу життя та ризику; кумулятивні бали можуть прогнозувати результати краще, ніж одиночні вимірювання.",
+            "Стійкі здорові моделі протягом років були пов’язані зі зсувом у часі виникнення хвороб і нижчими показниками смертності у дослідженні.",
+            "Це спостережне дослідження, яке показує асоціації; воно не доводить причинно‑наслідкового зв’язку для окремих людей."
+          ]
+        },
+        "fr": {
+          "title": "Santé cardiovasculaire cumulative à l'âge adulte moyen associée à des résultats ultérieurs",
+          "summary": "Des chercheurs ont utilisé le score Life's Essential 8 (LE8) de l'American Heart Association dans le temps et ont constaté qu'une meilleure santé cardiovasculaire cumulative chez les jeunes et les adultes d'âge moyen est associée à un début plus tardif des maladies cardiovasculaires et à une mortalité plus faible.",
+          "whyItMatters": "Cette observation souligne que des schémas soutenus concernant plusieurs facteurs de risque — IMC, cholestérol, glycémie, pression artérielle, activité, alimentation, tabagisme et sommeil — sont liés à la santé cardiaque à long terme plutôt qu’un seul instantané.",
+          "takeaways": [
+            "Le LE8 couvre huit facteurs de mode de vie et de risque; les scores cumulatifs peuvent mieux prédire les résultats que des mesures uniques.",
+            "Des habitudes saines maintenues pendant des années ont été liées à un retard d'apparition des maladies et à une mortalité moindre dans l'étude.",
+            "Il s'agit d'une recherche observationnelle montrant des associations; elle n'établit pas de lien de cause à effet pour les individus."
+          ]
+        },
+        "de": {
+          "title": "Kumulative kardiovaskuläre Gesundheit im mittleren Erwachsenenalter mit späteren Ergebnissen verknüpft",
+          "summary": "Forscher nutzten im Zeitverlauf den Life's Essential 8 (LE8)-Score der American Heart Association und fanden, dass bessere kumulative kardiovaskuläre Gesundheit im jungen bis mittleren Erwachsenenalter mit späterem Erkrankungsbeginn und geringerer Sterblichkeit verbunden ist.",
+          "whyItMatters": "Der Befund hebt hervor, dass anhaltende Muster über mehrere Risikofaktoren—BMI, Cholesterin, Blutzucker, Blutdruck, Aktivität, Ernährung, Rauchen und Schlaf—mit langfristiger Herzgesundheit zusammenhängen, statt nur eine Momentaufnahme zu sein.",
+          "takeaways": [
+            "LE8 erfasst acht Lebensstil- und Risikofaktoren; kumulative Scores könnten Ergebnisse besser vorhersagen als Einzelmessungen.",
+            "Anhaltend gesunde Muster über Jahre waren in der Studie mit verzögertem Erkrankungsbeginn und niedrigeren Sterberaten verbunden.",
+            "Dies ist Beobachtungsforschung, die Zusammenhänge zeigt; sie beweist keine Ursache-Wirkungs-Beziehung für Einzelne."
+          ]
+        },
+        "pt-br": {
+          "title": "Saúde cardiovascular cumulativa no início da meia-idade associada a desfechos posteriores",
+          "summary": "Pesquisadores usaram ao longo do tempo a pontuação Life's Essential 8 (LE8) da American Heart Association e descobriram que melhor saúde cardiovascular cumulativa no início e na meia-idade está associada a início tardio de doenças cardiovasculares e menor mortalidade.",
+          "whyItMatters": "A descoberta ressalta que padrões sustentados em múltiplos fatores de risco—IMC, colesterol, glicemia, pressão arterial, atividade, dieta, tabagismo e sono—se relacionam com a saúde cardíaca de longo prazo, em vez de uma medida isolada.",
+          "takeaways": [
+            "O LE8 captura oito fatores de estilo de vida e risco; pontuações cumulativas podem prever desfechos melhor do que medidas isoladas.",
+            "Padrões saudáveis mantidos ao longo dos anos foram associados na pesquisa a atraso no aparecimento de doenças e a menores taxas de mortalidade.",
+            "Trata‑se de pesquisa observacional mostrando associações; não prova relação de causa e efeito para indivíduos."
+          ]
+        },
+        "hu": {
+          "title": "A középkorú fiatal felnőttkorban felhalmozott kardiovaszkuláris egészség kapcsolatban áll a későbbi kimenetelekkel",
+          "summary": "A kutatók az Amerikai Szív Szövetség Life's Essential 8 (LE8) pontszámát vizsgálták időben, és azt találták, hogy a jobb kumulatív kardiovaszkuláris egészség a fiatal–középkorú felnőttkorban a szív-érrendszeri betegségek későbbi megjelenésével és alacsonyabb halálozással társult.",
+          "whyItMatters": "Az eredmény rámutat, hogy több kockázati tényező – például BMI, koleszterin, vércukor, vérnyomás, aktivitás, étrend, dohányzás és alvás – hosszú távon mutatott mintázatai fontosabbak lehetnek a szív egészsége szempontjából, mint egyetlen időpontbeli mérés.",
+          "takeaways": [
+            "A LE8 nyolc életmódbeli és kockázati tényezőt foglal össze; a kumulatív pontszámok előrejelzhetik a kimeneteleket jobban, mint az egyszeri mérések.",
+            "A hosszú éveken át fennálló egészséges minták a vizsgálatban késleltetett betegséghozamot és alacsonyabb halálozást kötöttek össze.",
+            "Ez megfigyelésen alapuló kutatás, amely összefüggéseket mutat; nem igazol egyéni okozati kapcsolatot."
+          ]
+        },
+        "ar": {
+          "title": "الصحة القلبية الوعائية التراكمية في منتصف البلوغ مرتبطة بالنتائج اللاحقة",
+          "summary": "استخدم الباحثون مقياس Life's Essential 8 (LE8) التابع لجمعية القلب الأمريكية على مدى الزمن، ووجدوا أن صحة قلبية ووعائية تراكمية أفضل في سن البلوغ المبكرة إلى المتوسطة ترتبط بتأخر ظهور أمراض القلب والأوعية الدموية وانخفاض الوفيات لاحقًا.",
+          "whyItMatters": "تسلط النتيجة الضوء على أن الأنماط المستمرة عبر عوامل خطر متعددة — مثل مؤشر كتلة الجسم، الكوليسترول، سكر الدم، ضغط الدم، النشاط، النظام الغذائي، التدخين والنوم — لها علاقة بصحة القلب على المدى الطويل بدلًا من الاعتماد على قياس واحد.",
+          "takeaways": [
+            "يقيس LE8 ثمانية عوامل نمط حياة ومخاطر؛ قد تتنبأ الدرجات التراكمية بالنتائج بشكل أفضل من القياسات المفردة.",
+            "ارتبطت الأنماط الصحية المستمرة على مدى سنوات بتأخر المرض ومعدلات وفاة أدنى في الدراسة.",
+            "هذه أبحاث رصدية تُظهر ارتباطات؛ لا تثبت سببًا ونتيجة على مستوى الأفراد."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a2-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a2",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a2-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a2-share.svg"
+    },
+    {
+      "id": "a3",
+      "category": "digital health & behavior",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-specially-cards-science-heart-mindful.html",
+      "sourceTitle": "Specially-designed cards help ensure science is at the heart of mindful eating technology design",
+      "publishedAt": "Mon, 27 Apr 2026 17:20:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Toolset guides evidence-based design for mindful-eating technologies",
+          "summary": "Lancaster University researchers developed a research-grounded set of design tools (presented as cards) to help developers build and evaluate digital products aimed at supporting mindful eating and healthier relationships with food.",
+          "whyItMatters": "As more apps and devices target eating behavior, a structured, research-informed design process can improve safety and effectiveness for users with problematic eating patterns.",
+          "takeaways": [
+            "The framework integrates health research into practical design steps for technology creators.",
+            "It aims to improve how digital tools support mindful eating, evaluation and user safety.",
+            "The toolset is intended for developers; it does not replace clinical care for eating disorders."
+          ]
+        },
+        "es": {
+          "title": "Conjunto de herramientas guía el diseño basado en evidencia de tecnologías para la alimentación consciente",
+          "summary": "Investigadores de la Universidad de Lancaster desarrollaron un conjunto de herramientas de diseño fundamentadas en la investigación (presentadas como tarjetas) para ayudar a desarrolladores a crear y evaluar productos digitales dirigidos a apoyar la alimentación consciente y relaciones más saludables con la comida.",
+          "whyItMatters": "A medida que más aplicaciones y dispositivos se enfocan en el comportamiento alimentario, un proceso de diseño estructurado e informado por la investigación puede mejorar la seguridad y la eficacia para usuarios con patrones alimentarios problemáticos.",
+          "takeaways": [
+            "El marco integra la investigación en salud en pasos prácticos de diseño para creadores de tecnología.",
+            "Pretende mejorar cómo las herramientas digitales apoyan la alimentación consciente, su evaluación y la seguridad de los usuarios.",
+            "El conjunto de herramientas está destinado a desarrolladores; no sustituye la atención clínica para trastornos alimentarios."
+          ]
+        },
+        "ru": {
+          "title": "Набор инструментов для проектирования технологий осознанного питания на основе доказательств",
+          "summary": "Исследователи Ланкастерского университета разработали набор инструментов, основанных на исследованиях (в виде карточек), чтобы помочь разработчикам создавать и оценивать цифровые продукты, направленные на поддержку осознанного питания и более здоровых отношений с едой.",
+          "whyItMatters": "По мере того как всё больше приложений и устройств ориентируются на изменение пищевого поведения, структурированный процесс проектирования, основанный на исследованиях, может повысить безопасность и эффективность для пользователей с проблемами питания.",
+          "takeaways": [
+            "Рамочная модель интегрирует исследования в области здоровья в практические шаги проектирования для разработчиков технологий.",
+            "Цель — улучшить, как цифровые инструменты поддерживают осознанное питание, их оценку и безопасность пользователей.",
+            "Набор инструментов предназначен для разработчиков; он не заменяет клиническую помощь при расстройствах пищевого поведения."
+          ]
+        },
+        "uk": {
+          "title": "Набір інструментів для проєктування технологій усвідомленого харчування на основі наукових даних",
+          "summary": "Дослідники Ланкастерського університету розробили підкріплений дослідженнями набір дизайнерських інструментів (у формі карток), щоб допомогти розробникам створювати й оцінювати цифрові продукти, які підтримують усвідомлене харчування та здоровіші стосунки з їжею.",
+          "whyItMatters": "Оскільки дедалі більше застосунків і пристроїв орієнтовані на поведінку щодо їжі, структурований, науково обґрунтований процес проєктування може підвищити безпеку та ефективність для користувачів із проблемною харчовою поведінкою.",
+          "takeaways": [
+            "Рамки інтегрують дослідження в галузі здоров’я у практичні кроки проєктування для розробників технологій.",
+            "Мета — покращити те, як цифрові інструменти підтримують усвідомленість під час їжі, їхню оцінку та безпеку користувачів.",
+            "Набір інструментів призначений для розробників; він не замінює клінічну допомогу при розладах харчової поведінки."
+          ]
+        },
+        "fr": {
+          "title": "Un kit d'outils guide la conception fondée sur les preuves des technologies d'alimentation consciente",
+          "summary": "Des chercheurs de l'université de Lancaster ont développé un ensemble d'outils de conception étayés par la recherche (présentés sous forme de cartes) pour aider les développeurs à créer et évaluer des produits numériques destinés à soutenir l'alimentation consciente et des relations plus saines avec la nourriture.",
+          "whyItMatters": "À mesure que de plus en plus d'applications et d'appareils ciblent le comportement alimentaire, un processus de conception structuré et informé par la recherche peut améliorer la sécurité et l'efficacité pour les utilisateurs présentant des troubles alimentaires problématiques.",
+          "takeaways": [
+            "Le cadre intègre la recherche en santé dans des étapes de conception pratiques pour les créateurs de technologies.",
+            "Il vise à améliorer la façon dont les outils numériques soutiennent l'alimentation consciente, leur évaluation et la sécurité des utilisateurs.",
+            "Ce kit d'outils s'adresse aux développeurs; il ne remplace pas les soins cliniques en cas de troubles alimentaires."
+          ]
+        },
+        "de": {
+          "title": "Werkzeugsatz leitet evidenzbasierte Gestaltung von Technologien für achtsames Essen",
+          "summary": "Forschende der Lancaster University entwickelten einen forschungsbasierten Satz von Designwerkzeugen (dargestellt als Karten), um Entwicklern zu helfen, digitale Produkte zu erstellen und zu bewerten, die darauf abzielen, achtsames Essen und eine gesündere Beziehung zur Nahrung zu unterstützen.",
+          "whyItMatters": "Da immer mehr Apps und Geräte essverhaltensbezogene Veränderungen ansprechen, kann ein strukturiertes, forschungsinformiertes Designverfahren die Sicherheit und Wirksamkeit für Nutzer mit problematischen Essmustern verbessern.",
+          "takeaways": [
+            "Der Rahmen integriert Gesundheitsforschung in praktische Designschritte für Technologiegestalter.",
+            "Er zielt darauf ab, zu verbessern, wie digitale Tools achtsames Essen, Evaluation und Nutzersicherheit unterstützen.",
+            "Das Werkzeugsatz ist für Entwickler gedacht; er ersetzt nicht die klinische Versorgung bei Essstörungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Conjunto de ferramentas orienta design baseado em evidências para tecnologias de alimentação consciente",
+          "summary": "Pesquisadores da Lancaster University desenvolveram um conjunto de ferramentas de design fundamentado em pesquisa (apresentado como cartas) para ajudar desenvolvedores a criar e avaliar produtos digitais voltados a apoiar a alimentação consciente e relações mais saudáveis com a comida.",
+          "whyItMatters": "À medida que mais apps e dispositivos miram o comportamento alimentar, um processo de design estruturado e informado por pesquisas pode melhorar a segurança e a efetividade para usuários com padrões alimentares problemáticos.",
+          "takeaways": [
+            "A estrutura integra pesquisa em saúde a passos práticos de design para criadores de tecnologia.",
+            "O objetivo é melhorar como ferramentas digitais apoiam a alimentação consciente, a avaliação e a segurança do usuário.",
+            "O conjunto de ferramentas é destinado a desenvolvedores; não substitui o cuidado clínico para transtornos alimentares."
+          ]
+        },
+        "hu": {
+          "title": "Eszközkészlet a bizonyítékalapú tervezéshez a tudatos étkezést támogató technológiákban",
+          "summary": "A Lancasteri Egyetem kutatói kutatásra alapozott tervezési eszközkészletet (kártyák formájában) fejlesztettek, hogy segítsék a fejlesztőket digitális termékek létrehozásában és értékelésében, amelyek a tudatos étkezést és az egészségesebb étkapcsolatot támogatják.",
+          "whyItMatters": "Mivel egyre több alkalmazás és eszköz célozza az étkezési viselkedést, egy strukturált, kutatással alátámasztott tervezési folyamat javíthatja a problémás étkezési mintázattal küzdő felhasználók biztonságát és hatékonyságát.",
+          "takeaways": [
+            "A keretrendszer beépíti az egészségügyi kutatásokat gyakorlati tervezési lépésekbe a technológiafejlesztők számára.",
+            "Célja a digitális eszközök jobb támogatása a tudatos étkezés, az értékelés és a felhasználói biztonság terén.",
+            "A készlet fejlesztőknek szól; nem helyettesíti az étkezési zavarokra irányuló klinikai ellátást."
+          ]
+        },
+        "ar": {
+          "title": "مجموعة أدوات توجه التصميم القائم على الأدلة لتقنيات الأكل الواعي",
+          "summary": "طور باحثون من جامعة لانكستر مجموعة أدوات تصميم مبنية على البحث (مقدمة على شكل بطاقات) لمساعدة المطورين على بناء وتقييم منتجات رقمية تهدف إلى دعم الأكل الواعي وعلاقات أكثر صحة مع الطعام.",
+          "whyItMatters": "مع تزايد عدد التطبيقات والأجهزة التي تستهدف سلوكيات الأكل، يمكن لعملية تصميم منظمة ومستندة إلى البحث أن تحسّن السلامة والفعالية للمستخدمين الذين لديهم أنماط أكل إشكالية.",
+          "takeaways": [
+            "يُدمج الإطار البحث الصحي في خطوات تصميم عملية لمطوري التكنولوجيا.",
+            "يهدف إلى تحسين كيفية دعم الأدوات الرقمية للأكل الواعي والتقييم وسلامة المستخدم.",
+            "المجموعة موجهة للمطورين؛ ولا تحل محل الرعاية السريرية لاضطرابات الأكل."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-share.svg"
+    },
     {
       "id": "uk-retirement-2026-04-27",
       "category": "aging",
@@ -233,6 +545,214 @@
       }
     },
     {
+      "id": "a4",
+      "category": "women's health & aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-explanation-heart-disease-menopause.html",
+      "sourceTitle": "A new explanation for the rise in heart disease risk after menopause",
+      "publishedAt": "Mon, 27 Apr 2026 14:40:02 EDT",
+      "languages": {
+        "en": {
+          "title": "Epigenetic changes linked to increased cardiometabolic risk after menopause",
+          "summary": "Researchers report that declining estrogen at menopause may trigger changes in gene regulation (epigenetics) that help explain the rise in heart disease, diabetes and other metabolic conditions seen in postmenopausal women.",
+          "whyItMatters": "Understanding molecular mechanisms behind postmenopausal risk may guide future research into prevention or treatment strategies tailored to women's biology.",
+          "takeaways": [
+            "The study focuses on how hormone changes could alter gene activity, potentially affecting cardiometabolic risk.",
+            "Findings are mechanistic and contribute to research rather than immediate clinical recommendations.",
+            "Further work is needed to translate epigenetic insights into interventions or guidelines."
+          ]
+        },
+        "es": {
+          "title": "Cambios epigenéticos vinculados al aumento del riesgo cardiometabólico tras la menopausia",
+          "summary": "Investigadores reportan que la disminución de estrógenos en la menopausia puede desencadenar cambios en la regulación génica (epigenética) que ayudan a explicar el aumento de enfermedades cardíacas, diabetes y otras condiciones metabólicas observadas en mujeres posmenopáusicas.",
+          "whyItMatters": "Comprender los mecanismos moleculares detrás del riesgo posmenopáusico puede orientar futuras investigaciones sobre estrategias de prevención o tratamiento adaptadas a la biología de la mujer.",
+          "takeaways": [
+            "El estudio se centra en cómo los cambios hormonales podrían alterar la actividad génica, afectando potencialmente el riesgo cardiometabólico.",
+            "Los hallazgos son mecanísticos y contribuyen a la investigación más que a recomendaciones clínicas inmediatas.",
+            "Se necesita más trabajo para traducir los conocimientos epigenéticos en intervenciones o guías."
+          ]
+        },
+        "ru": {
+          "title": "Эпигенетические изменения, связанные с повышенным кардиометаболическим риском после менопаузы",
+          "summary": "Исследователи сообщают, что снижение уровня эстрогенов при менопаузе может вызывать изменения в регуляции генов (эпигенетика), что помогает объяснить рост заболеваемости сердечно‑сосудистыми заболеваниями, диабетом и другими метаболическими состояниями у женщин в постменопаузе.",
+          "whyItMatters": "Понимание молекулярных механизмов, лежащих в основе повышенного риска после менопаузы, может направлять будущие исследования по профилактике или лечению, учитывающие женскую биологию.",
+          "takeaways": [
+            "Исследование сосредоточено на том, как гормональные изменения могут изменять активность генов и потенциально влиять на кардиометаболический риск.",
+            "Результаты имеют механистический характер и больше обогащают научное понимание, чем дают немедленные клинические рекомендации.",
+            "Необходимы дополнительные исследования, чтобы превратить эпигенетические данные в вмешательства или руководства."
+          ]
+        },
+        "uk": {
+          "title": "Епігенетичні зміни пов’язані зі збільшенням кардіометаболічного ризику після менопаузи",
+          "summary": "Дослідники повідомляють, що зниження естрогену під час менопаузи може ініціювати зміни в регуляції генів (епігенетику), що частково пояснює зростання ризику серцевих захворювань, діабету й інших метаболічних станів у постменопаузальних жінок.",
+          "whyItMatters": "Розуміння молекулярних механізмів, які лежать в основі підвищеного ризику після менопаузи, може спрямувати майбутні дослідження з профілактики або лікування, адаптованого до біології жінок.",
+          "takeaways": [
+            "Дослідження зосереджене на тому, як гормональні зміни можуть змінювати активність генів, потенційно впливаючи на кардіометаболічний ризик.",
+            "Результати носять механістичний характер і сприяють науковому розумінню, а не формують негайні клінічні рекомендації.",
+            "Потрібні подальші дослідження, щоб перевести епігенетичні висновки у практичні інтервенції чи керівництва."
+          ]
+        },
+        "fr": {
+          "title": "Des changements épigénétiques liés à une augmentation du risque cardiométabolique après la ménopause",
+          "summary": "Des chercheurs rapportent que la diminution des œstrogènes à la ménopause pourrait déclencher des modifications de la régulation des gènes (épigénétique) qui contribuent à expliquer l'augmentation des maladies cardiovasculaires, du diabète et d'autres troubles métaboliques observée chez les femmes postménopausées.",
+          "whyItMatters": "Comprendre les mécanismes moléculaires à l'origine du risque postménopausique peut orienter de futures recherches sur des stratégies de prévention ou de traitement adaptées à la biologie féminine.",
+          "takeaways": [
+            "L'étude se concentre sur la façon dont les changements hormonaux pourraient modifier l'activité des gènes, affectant potentiellement le risque cardiométabolique.",
+            "Les résultats sont de nature mécanistique et enrichissent la recherche plutôt que de fournir des recommandations cliniques immédiates.",
+            "Des travaux supplémentaires sont nécessaires pour traduire ces connaissances épigénétiques en interventions ou recommandations."
+          ]
+        },
+        "de": {
+          "title": "Epigenetische Veränderungen mit erhöhtem kardiometabolischem Risiko nach der Menopause verbunden",
+          "summary": "Forschende berichten, dass abnehmendes Östrogen in der Menopause Veränderungen in der Genregulation (Epigenetik) auslösen kann, die zum Anstieg von Herzkrankheiten, Diabetes und anderen Stoffwechselerkrankungen bei postmenopausalen Frauen beitragen könnten.",
+          "whyItMatters": "Das Verständnis molekularer Mechanismen hinter dem Risiko nach der Menopause kann künftige Forschung zu Präventions‑ oder Behandlungsstrategien leiten, die auf die weibliche Biologie abgestimmt sind.",
+          "takeaways": [
+            "Die Studie untersucht, wie Hormonveränderungen die Genaktivität verändern könnten und damit das kardiometabolische Risiko beeinflussen.",
+            "Die Ergebnisse sind mechanistischer Natur und tragen zur Forschung bei, statt unmittelbare klinische Empfehlungen zu liefern.",
+            "Weitere Arbeiten sind nötig, um epigenetische Erkenntnisse in Interventionen oder Leitlinien zu übersetzen."
+          ]
+        },
+        "pt-br": {
+          "title": "Alterações epigenéticas associadas ao aumento do risco cardiometabólico após a menopausa",
+          "summary": "Pesquisadores relatam que a queda de estrogênio na menopausa pode desencadear mudanças na regulação gênica (epigenética) que ajudam a explicar o aumento de doenças cardíacas, diabetes e outras condições metabólicas observadas em mulheres pós-menopausa.",
+          "whyItMatters": "Compreender os mecanismos moleculares por trás do risco pós-menopausa pode orientar pesquisas futuras sobre estratégias de prevenção ou tratamento adaptadas à biologia feminina.",
+          "takeaways": [
+            "O estudo foca em como mudanças hormonais podem alterar a atividade gênica, potencialmente afetando o risco cardiometabólico.",
+            "As descobertas têm caráter mecanístico e contribuem para a pesquisa, em vez de fornecer recomendações clínicas imediatas.",
+            "São necessários mais estudos para traduzir as percepções epigenéticas em intervenções ou diretrizes."
+          ]
+        },
+        "hu": {
+          "title": "Epigenetikai változások társulnak a megnövekedett kardiometabolikus kockázathoz a menopauza után",
+          "summary": "A kutatók arról számolnak be, hogy a menopauzával járó ösztrogénszint-csökkenés epigenetikai jellegű génszabályozási változásokat indíthat el, amelyek részben magyarázhatják a szívbetegség, cukorbetegség és egyéb anyagcserezavarok emelkedett arányát a posztmenopauzás nőknél.",
+          "whyItMatters": "A posztmenopauzás kockázat mögötti molekuláris mechanizmusok megértése irányt adhat a jövőbeli kutatásoknak a nők biológiájához igazított megelőzési vagy kezelési stratégiák felé.",
+          "takeaways": [
+            "A tanulmány azt vizsgálja, hogyan változtathatják meg a hormonális változások a génaktivitást, ami befolyásolhatja a kardiometabolikus kockázatot.",
+            "Az eredmények mechanisztikus jellegűek és hozzájárulnak a kutatáshoz, nem jelentenek azonnali klinikai ajánlásokat.",
+            "További munkára van szükség ahhoz, hogy az epigenetikai felismerések beavatkozásokba vagy iránymutatásokba forduljanak át."
+          ]
+        },
+        "ar": {
+          "title": "تغيرات فوق جينية مرتبطة بزيادة مخاطر القلب والأيض بعد انقطاع الطمث",
+          "summary": "يبلغ الباحثون أن انخفاض هرمون الأستروجين عند انقطاع الطمث قد يطلق تغييرات في تنظيم الجينات (تغيرات فوق جينية) قد تساهم في تفسير الزيادة في أمراض القلب والسكري وحالات أيضية أخرى التي تُرى لدى النساء بعد انقطاع الطمث.",
+          "whyItMatters": "فهم الآليات الجزيئية وراء مخاطر ما بعد انقطاع الطمث قد يوجه البحوث المستقبلية نحو استراتيجيات وقاية أو علاج مصممة وفقًا لبيولوجيا النساء.",
+          "takeaways": [
+            "تركز الدراسة على كيفية تأثير التغيرات الهرمونية على نشاط الجينات، ما قد يؤثر على المخاطر القلبية والتمثيل الغذائي.",
+            "النتائج ذات طابع آلي وتساهم في البحث العلمي أكثر منها في تقديم توصيات سريرية فورية.",
+            "مطلوب مزيد من العمل لترجمة رؤى التغيرات فوق الجينية إلى تدخلات أو إرشادات."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-share.svg"
+    },
+    {
+      "id": "a5",
+      "category": "aging biology",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/a-robust-senescence-response-helps-wounds-heal/?utm_source=rss&",
+      "sourceTitle": "A Robust Senescence Response Helps Wounds Heal",
+      "publishedAt": "Mon, 27 Apr 2026 16:20:15 +0000",
+      "languages": {
+        "en": {
+          "title": "Stronger senescence response linked to faster wound healing in mice",
+          "summary": "A mouse study found that younger animals show a more robust activation of cellular senescence during wound repair, which was associated with quicker healing compared with older mice.",
+          "whyItMatters": "The research sheds light on how age-related changes in cell behavior can affect tissue repair, informing basic understanding of aging and potential therapeutic targets.",
+          "takeaways": [
+            "Senescent cells can play beneficial roles in healing in controlled contexts according to this animal study.",
+            "Differences between young and old mice highlight how aging alters repair processes.",
+            "These are preclinical results; implications for human treatments require more research."
+          ]
+        },
+        "es": {
+          "title": "Respuesta senescente más intensa asociada a una cicatrización más rápida en ratones",
+          "summary": "Un estudio en ratones halló que los animales más jóvenes muestran una activación más robusta de la senescencia celular durante la reparación de heridas, lo que se asoció con una cicatrización más rápida en comparación con ratones mayores.",
+          "whyItMatters": "La investigación aporta información sobre cómo los cambios relacionados con la edad en el comportamiento celular pueden afectar la reparación tisular, informando la comprensión básica del envejecimiento y posibles dianas terapéuticas.",
+          "takeaways": [
+            "Según este estudio en animales, las células senescentes pueden desempeñar roles beneficiosos en la curación en contextos controlados.",
+            "Las diferencias entre ratones jóvenes y viejos destacan cómo el envejecimiento altera los procesos de reparación.",
+            "Son resultados preclínicos; las implicaciones para tratamientos humanos requieren más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Более выраженная сенесцентная реакция связана с более быстрым заживлением ран у мышей",
+          "summary": "Исследование на мышах показало, что у молодых животных при заживлении ран активируется более мощная сенесцентная реакция, что было связано с более быстрым заживлением по сравнению со старыми мышами.",
+          "whyItMatters": "Исследование проливает свет на то, как возраст‑связанные изменения в поведении клеток влияют на восстановление тканей, обогащая фундаментальное понимание старения и потенциальные терапевтические мишени.",
+          "takeaways": [
+            "По данным этого исследования на животных, сенесцентные клетки в контролируемых условиях могут играть благоприятную роль в заживлении.",
+            "Различия между молодыми и старыми мышами показывают, как старение меняет процессы восстановления.",
+            "Это доклинические результаты; выводы для лечения людей требуют дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Сильніша реакція сенесценції пов’язана зі швидшим загоєнням ран у мишей",
+          "summary": "Дослідження на мишах показало, що у молодших тварин під час ремонту ран активується більш виражена клітинна сенесценція, яка була пов'язана з швидшим загоєнням у порівнянні зі старішими мишами.",
+          "whyItMatters": "Дослідження висвітлює, як вікові зміни в поведінці клітин можуть впливати на відновлення тканин, що дає уявлення для базового розуміння старіння та потенційних терапевтичних мішеней.",
+          "takeaways": [
+            "За даними цього дослідження на тваринах, сенесцентні клітини можуть відігравати корисну роль у загоєнні в контрольованих умовах.",
+            "Різниця між молодими та старими мишами підкреслює, як старіння змінює процеси відновлення.",
+            "Це преклінічні результати; їхнє значення для людських методів лікування потребує подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Une réponse de sénescence plus robuste liée à une cicatrisation plus rapide chez la souris",
+          "summary": "Une étude sur des souris a montré que les animaux plus jeunes présentent une activation plus marquée de la sénescence cellulaire lors de la réparation des plaies, ce qui était associé à une cicatrisation plus rapide que chez les souris plus âgées.",
+          "whyItMatters": "La recherche éclaire la façon dont les changements liés à l'âge dans le comportement cellulaire peuvent affecter la réparation des tissus, contribuant à la compréhension fondamentale du vieillissement et à l'identification de cibles thérapeutiques potentielles.",
+          "takeaways": [
+            "Selon cette étude animale, les cellules sénescentes peuvent jouer des rôles bénéfiques dans la cicatrisation dans certains contextes contrôlés.",
+            "Les différences entre jeunes et vieux animaux mettent en évidence la modification des processus de réparation avec l'âge.",
+            "Ce sont des résultats précliniques; les implications pour les traitements humains nécessitent davantage de recherches."
+          ]
+        },
+        "de": {
+          "title": "Stärkere Seneszenzreaktion mit schnellerer Wundheilung bei Mäusen verbunden",
+          "summary": "Eine Mausstudie fand, dass jüngere Tiere während der Wundheilung eine robustere Aktivierung zellulärer Seneszenz zeigten, was mit schnellerer Heilung im Vergleich zu älteren Mäusen einherging.",
+          "whyItMatters": "Die Forschung beleuchtet, wie altersbedingte Veränderungen im Zellverhalten die Gewebereparatur beeinflussen können, und trägt zum grundlegenden Verständnis des Alterns sowie zu möglichen therapeutischen Zielstrukturen bei.",
+          "takeaways": [
+            "Seneszente Zellen können in kontrollierten Kontexten laut dieser Tierstudie positive Rollen bei der Heilung spielen.",
+            "Unterschiede zwischen jungen und alten Mäusen zeigen, wie das Altern Reparaturprozesse verändert.",
+            "Dies sind präklinische Ergebnisse; Aussagen zu Behandlungen beim Menschen erfordern weitere Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Resposta de senescência mais forte ligada à cicatrização mais rápida em camundongos",
+          "summary": "Um estudo em camundongos encontrou que animais mais jovens apresentam uma ativação mais robusta da senescência celular durante a reparação de feridas, associada a uma cicatrização mais rápida em comparação com camundongos mais velhos.",
+          "whyItMatters": "A pesquisa esclarece como mudanças relacionadas à idade no comportamento celular podem afetar a reparação tecidual, informando o entendimento básico do envelhecimento e potenciais alvos terapêuticos.",
+          "takeaways": [
+            "Células senescentes podem desempenhar papéis benéficos na cicatrização em contextos controlados, segundo este estudo em animais.",
+            "As diferenças entre camundongos jovens e velhos destacam como o envelhecimento altera processos de reparo.",
+            "São resultados pré-clínicos; implicações para tratamentos em humanos exigem mais pesquisa."
+          ]
+        },
+        "hu": {
+          "title": "Erősebb sejtes szeneszcencia-válasz gyorsabb sebgyógyulással kapcsolódott egerekben",
+          "summary": "Egy egérkísérletben a fiatal állatokban a sejtes szeneszcencia erőteljesebb aktiválódását figyelték meg a sebgyógyulás során, ami gyorsabb gyógyulással társult az idősebb egerekhez képest.",
+          "whyItMatters": "A kutatás rávilágít, hogy az életkorral összefüggő változások a sejtek viselkedésében hogyan befolyásolhatják a szövetek regenerálódását, ami alapvető betekintést adhat az öregedésbe és potenciális terápiás célpontokat jelezhet.",
+          "takeaways": [
+            "A sejtes szeneszcencia kontrollált környezetben előnyös szerepet játszhat a gyógyulásban az állatkísérlet szerint.",
+            "A fiatal és idős egerek közötti különbségek rávilágítanak arra, hogyan változik az öregedéssel a javító folyamat.",
+            "Ezek preklinikai eredmények; az emberi alkalmazhatóság további kutatást igényel."
+          ]
+        },
+        "ar": {
+          "title": "استجابة الشيخوخة الخلوية الأقوى مرتبطة بالتئام الجروح بشكل أسرع في الفئران",
+          "summary": "في دراسة على الفئران وُجد أن الحيوانات الأصغر سنًا تُظهر نشاطًا أقوى للشيخوخة الخلوية أثناء إصلاح الجروح، وكان ذلك مرتبطًا بشفاء أسرع مقارنة بالفئران الأكبر سنًا.",
+          "whyItMatters": "توضح الأبحاث كيف يمكن أن تؤثر التغيرات المرتبطة بالعمر في سلوك الخلايا على إصلاح الأنسجة، مما يثري الفهم الأساسي للشيخوخة ويشير إلى أهداف علاجية محتملة.",
+          "takeaways": [
+            "يمكن للخلايا الشيخوخية أن تلعب أدوارًا مفيدة في الشفاء ضمن سياقات محكومة وفقًا لهذه الدراسة على الحيوانات.",
+            "تُبرز الفروق بين الفئران الشابة والعجوز كيف يغير الشيخوخة عمليات الإصلاح.",
+            "هذه نتائج قبل سريرية؛ تتطلب آثارها على البشر مزيدًا من البحث."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-share.svg"
+    },
+    {
       "id": "prenatal-smoking-metabolism-2026-04-27",
       "category": "developmental-origins",
       "sourceName": "medicalxpress.com",
@@ -348,6 +868,110 @@
       }
     },
     {
+      "id": "a6",
+      "category": "developmental & metabolic health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-cigarette-exposure-womb-amplify-metabolic.html",
+      "sourceTitle": "Cigarette exposure in the womb may amplify risk of metabolic disease in adulthood",
+      "publishedAt": "Mon, 27 Apr 2026 11:00:10 EDT",
+      "languages": {
+        "en": {
+          "title": "Prenatal cigarette exposure plus unhealthy adult diet worsened metabolic markers in mice",
+          "summary": "In mice, prenatal exposure to cigarette smoke combined with a later-life high-fat, high-sugar diet produced worse metabolic outcomes—such as increased body fat and cholesterol—than either exposure alone.",
+          "whyItMatters": "The study supports the idea that early-life exposures can change tissue function into adulthood and interact with adult lifestyle to influence metabolic health.",
+          "takeaways": [
+            "This was an animal study; findings suggest combined early and later-life exposures can compound metabolic effects.",
+            "Researchers observed changes in liver and fat tissue that may underlie the metabolic differences.",
+            "Human implications are not direct; the results inform avenues for further research on developmental origins of disease."
+          ]
+        },
+        "es": {
+          "title": "La exposición prenatal al cigarrillo más una dieta poco saludable en la edad adulta empeoraron marcadores metabólicos en ratones",
+          "summary": "En ratones, la exposición prenatal al humo de cigarrillo combinada con una dieta rica en grasas y azúcares en la vida adulta produjo peores resultados metabólicos —como mayor grasa corporal y colesterol— que cualquiera de las exposiciones por sí sola.",
+          "whyItMatters": "El estudio apoya la idea de que las exposiciones tempranas pueden alterar la función tisular hasta la edad adulta e interactuar con el estilo de vida adulto para influir en la salud metabólica.",
+          "takeaways": [
+            "Fue un estudio en animales; los hallazgos sugieren que exposiciones combinadas en etapas tempranas y tardías de la vida pueden agravar los efectos metabólicos.",
+            "Los investigadores observaron cambios en hígado y tejido graso que podrían explicar las diferencias metabólicas.",
+            "Las implicaciones para humanos no son directas; los resultados orientan investigaciones futuras sobre los orígenes del desarrollo de enfermedades."
+          ]
+        },
+        "ru": {
+          "title": "Пренатальное воздействие сигарет и нездоровая диета во взрослом возрасте ухудшили метаболические показатели у мышей",
+          "summary": "У мышей пренатальное воздействие табачного дыма в сочетании с поздней по жизни диетой с высоким содержанием жиров и сахара приводило к худшим метаболическим показателям — таким как повышение жировой массы и холестерина — чем каждое воздействие по‑отдельности.",
+          "whyItMatters": "Исследование подтверждает идею, что ранние воздействия могут менять функцию тканей во взрослом возрасте и взаимодействовать с образом жизни взрослого, влияя на метаболическое здоровье.",
+          "takeaways": [
+            "Это было исследование на животных; результаты указывают, что сочетание ранних и поздних воздействий может усиливать метаболические эффекты.",
+            "Исследователи наблюдали изменения в печени и жировой ткани, которые могли лежать в основе метаболических различий.",
+            "Непосредственные выводы для людей ограничены; результаты задают направление для дальнейших исследований причин происхождения заболеваний."
+          ]
+        },
+        "uk": {
+          "title": "Вплив сигарет у внутрішньоутробному періоді плюс нездорова дієта у дорослому віці погіршували метаболічні показники в мишей",
+          "summary": "У мишей пренатальний вплив тютюнового диму в поєднанні з пізнішою дієтою з високим вмістом жирів і цукру призвели до гірших метаболічних результатів — наприклад, збільшення жирової маси й холестерину — ніж кожен фактор окремо.",
+          "whyItMatters": "Дослідження підтримує ідею, що ранні експозиції можуть змінювати функцію тканин у дорослому віці і взаємодіяти зі способом життя дорослої людини, впливаючи на метаболічне здоров’я.",
+          "takeaways": [
+            "Це було дослідження на тваринах; результати вказують, що поєднані ранні та пізні експозиції можуть посилювати метаболічні ефекти.",
+            "Дослідники спостерігали зміни в печінці та жировій тканині, які можуть лежати в основі метаболічних відмінностей.",
+            "Наслідки для людей не є безпосередніми; результати окреслюють напрями для подальших досліджень походження захворювань."
+          ]
+        },
+        "fr": {
+          "title": "L'exposition prénatale à la cigarette combinée à une mauvaise alimentation adulte a aggravé les marqueurs métaboliques chez la souris",
+          "summary": "Chez la souris, une exposition prénatale à la fumée de cigarette, associée à un régime riche en graisses et en sucres à l'âge adulte, a entraîné des résultats métaboliques plus défavorables — par exemple une augmentation de la masse grasse et du cholestérol — que chaque exposition prise isolément.",
+          "whyItMatters": "L'étude soutient l'idée que les expositions précoces peuvent modifier la fonction des tissus à l'âge adulte et interagir avec le mode de vie adulte pour influencer la santé métabolique.",
+          "takeaways": [
+            "Il s'agit d'une étude animale; les résultats suggèrent que des expositions combinées au cours de la vie peuvent aggraver les effets métaboliques.",
+            "Les chercheurs ont observé des modifications du foie et du tissu adipeux qui pourraient expliquer ces différences métaboliques.",
+            "Les implications pour l'humain ne sont pas directes; les résultats indiquent des pistes pour de futures recherches sur l'origine développementale des maladies."
+          ]
+        },
+        "de": {
+          "title": "Pränatale Zigarettenexposition plus ungesunde Ernährung im Erwachsenenalter verschlechterten metabolische Marker bei Mäusen",
+          "summary": "Bei Mäusen führten pränatale Exposition gegenüber Zigarettenrauch kombiniert mit einer späteren fettreichen, zuckerreichen Ernährung zu schlechteren metabolischen Ergebnissen—wie erhöhtem Körperfett und Cholesterin—als jede Exposition allein.",
+          "whyItMatters": "Die Studie stützt die Idee, dass frühkindliche Einflüsse die Funktion von Geweben bis ins Erwachsenenalter verändern können und mit dem Lebensstil im Erwachsenenalter interagieren, um die metabolische Gesundheit zu beeinflussen.",
+          "takeaways": [
+            "Dies war eine Tierstudie; die Ergebnisse deuten darauf hin, dass kombinierte frühe und spätere Expositionen metabolische Effekte verstärken können.",
+            "Forscher beobachteten Veränderungen in Leber- und Fettgewebe, die den metabolischen Unterschieden zugrunde liegen könnten.",
+            "Die Übertragbarkeit auf Menschen ist nicht direkt; die Ergebnisse geben Hinweise für weitere Forschungen zu den entwicklungsbedingten Ursachen von Krankheiten."
+          ]
+        },
+        "pt-br": {
+          "title": "Exposição a cigarros no útero mais dieta adulta não saudável pioraram marcadores metabólicos em camundongos",
+          "summary": "Em camundongos, a exposição pré‑natal à fumaça de cigarro combinada com uma dieta rica em gordura e açúcar na vida adulta produziu desfechos metabólicos piores—como aumento de gordura corporal e colesterol—do que cada exposição isoladamente.",
+          "whyItMatters": "O estudo apoia a ideia de que exposições no início da vida podem alterar a função de tecidos até a idade adulta e interagir com o estilo de vida adulto para influenciar a saúde metabólica.",
+          "takeaways": [
+            "Foi um estudo em animais; os achados sugerem que exposições combinadas no início e depois da vida podem somar efeitos metabólicos.",
+            "Os pesquisadores observaram mudanças no fígado e no tecido adiposo que podem explicar as diferenças metabólicas.",
+            "Implicações humanas não são diretas; os resultados orientam futuras pesquisas sobre as origens desenvolvimentistas das doenças."
+          ]
+        },
+        "hu": {
+          "title": "A méhben történt cigarettafüst-expozíció súlyosbította a metabolikus markerokat felnőtt egerekben, ha később egészségtelen diétát követtek",
+          "summary": "Egerekben a magzati cigarettafüst-expozíció kombinálva egy későbbi, magas zsír- és cukortartalmú étrenddel rosszabb metabolikus eredményeket — például megnövekedett testzsírt és koleszterint — eredményezett, mint bármelyik expozíció önmagában.",
+          "whyItMatters": "A vizsgálat alátámasztja azt az elképzelést, hogy a korai életben bekövetkező expozíciók megváltoztathatják a szövetek működését a felnőttkorban, és kölcsönhatásba léphetnek a felnőttkori életmóddal a metabolikus egészség befolyásolása érdekében.",
+          "takeaways": [
+            "Ez állatkísérlet volt; az eredmények azt sugallják, hogy a korai és későbbi életbeli expozíciók együttesen fokozhatják a metabolikus hatásokat.",
+            "A kutatók a májban és a zsírszövetben észleltek változásokat, amelyek a metabolikus különbségek hátterében állhatnak.",
+            "Az emberre vonatkozó következtetések nem közvetlenek; az eredmények további kutatási irányokat jelölnek a betegség fejlődési eredetének vizsgálatára."
+          ]
+        },
+        "ar": {
+          "title": "التعرض للسجائر قبل الولادة إلى جانب نظام غذائي بالغ غير الصحي في البلوغ زاد من سوء مؤشرات الأيض في الفئران",
+          "summary": "في الفئران، أدت التعرض للدخان أثناء الحمل مع اتباع نظام غذائي عالي الدسم وعالي السكر في مرحلة البلوغ إلى نتائج أيضية أسوأ — مثل زيادة نسبة الدهون في الجسم والكوليسترول — مقارنةً بكل تعرض على حدة.",
+          "whyItMatters": "تدعم الدراسة الفكرة القائلة بأن التعرضات المبكرة في الحياة قد تغير وظيفة الأنسجة حتى البلوغ وتتفاعل مع نمط الحياة في الكبر لتؤثر على الصحة الأيضية.",
+          "takeaways": [
+            "كانت هذه دراسة على الحيوانات؛ تشير النتائج إلى أن التعرضات المتكررة في مراحل الحياة المختلفة قد تجمع تأثيراتها الأيضية.",
+            "لاحظ الباحثون تغيرات في الكبد ونسيج الدهون قد تفسر الاختلافات الأيضية.",
+            "لا يمكن تعميم النتائج مباشرة على البشر؛ تُشير النتائج إلى مسارات لمزيد من البحث حول أصول الأمراض التطورية."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-share.svg"
+    },
+    {
       "id": "tartrazine-microbiome-2026-04-27",
       "category": "nutrition-microbiome",
       "sourceName": "medicalxpress.com",
@@ -461,6 +1085,110 @@
         "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/tartrazine-microbiome-2026-04-27.html",
         "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/tartrazine-microbiome-2026-04-27.html"
       }
+    },
+    {
+      "id": "a7",
+      "category": "food additives & microbiome",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-yellow-food-gut-microbiome-early.html",
+      "sourceTitle": "Yellow food coloring changes gut microbiome in early life",
+      "publishedAt": "Mon, 27 Apr 2026 09:40:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Common yellow food dye linked to gut microbiome changes in young animals",
+          "summary": "Researchers reporting at a physiology conference found that the food colorant tartrazine altered gut bacterial balance and was associated with low-level inflammation and weight changes in emerging-adulthood male rats.",
+          "whyItMatters": "As food additives are widely consumed early in life, findings that they can affect gut microbiota raise questions about long-term impacts on development and health—warranting further study.",
+          "takeaways": [
+            "The findings come from an animal model and were presented as a conference abstract.",
+            "Tartrazine exposure was associated with microbiota changes and physiological effects in this study.",
+            "More research is needed before drawing conclusions about human dietary guidance."
+          ]
+        },
+        "es": {
+          "title": "Colorante alimentario amarillo común vinculado a cambios en la microbiota intestinal en animales jóvenes",
+          "summary": "Investigadores que presentaron en una conferencia de fisiología hallaron que el colorante alimentario tartrazina alteró el equilibrio bacteriano intestinal y se asoció con inflamación de bajo grado y cambios de peso en ratas macho en etapa de adultez emergente.",
+          "whyItMatters": "Dado que los aditivos alimentarios se consumen ampliamente desde edades tempranas, los hallazgos de que pueden afectar la microbiota intestinal plantean preguntas sobre posibles impactos a largo plazo en el desarrollo y la salud, lo que requiere más estudio.",
+          "takeaways": [
+            "Los hallazgos provienen de un modelo animal y se presentaron como un resumen de conferencia.",
+            "La exposición a tartrazina se asoció con cambios en la microbiota y efectos fisiológicos en este estudio.",
+            "Se necesita más investigación antes de sacar conclusiones sobre recomendaciones dietarias para humanos."
+          ]
+        },
+        "ru": {
+          "title": "Распространённый жёлтый пищевой краситель связан с изменениями микробиоты кишечника у молодых животных",
+          "summary": "Исследователи, представившие доклад на физиологической конференции, обнаружили, что пищевой краситель тартразин изменял баланс кишечной микробиоты и ассоциировался с низкоуровневым воспалением и изменениями массы тела у самцов крыс в период ранней взрослости.",
+          "whyItMatters": "Поскольку пищевые добавки широко используются с раннего возраста, результаты о влиянии на микробиоту вызывают вопросы о возможных отдалённых последствиях для развития и здоровья и требуют дальнейшего изучения.",
+          "takeaways": [
+            "Результаты получены на животных и были представлены в виде тезисов конференции.",
+            "Воздействие тартразина было связано с изменениями микробиоты и физиологическими эффектами в этом исследовании.",
+            "Перед выводами о рекомендациях для людей необходимы дополнительные исследования."
+          ]
+        },
+        "uk": {
+          "title": "Поширений жовтий харчовий барвник пов’язаний зі змінами мікробіому кишечника у молодих тварин",
+          "summary": "Дослідники, які доповідали на конференції з фізіології, виявили, що харчовий барвник тартразин змінював баланс бактерій у кишечнику і був пов’язаний із низькорівневим запаленням та змінами ваги у молодих дорослих самців щурів.",
+          "whyItMatters": "Оскільки харчові добавки широко споживаються з раннього віку, результати про їхній вплив на мікробіоту кишечника ставлять питання про довгострокові наслідки для розвитку й здоров’я — це потребує подальшого вивчення.",
+          "takeaways": [
+            "Результати отримані в моделі тварин і були представлені у вигляді конференційного реферату.",
+            "Експозиція до тартразину була пов’язана зі змінами мікробіому та фізіологічними ефектами в цьому дослідженні.",
+            "Перш ніж робити висновки щодо харчових рекомендацій для людей, потрібні додаткові дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Un colorant alimentaire jaune courant associé à des changements du microbiote intestinal chez les jeunes animaux",
+          "summary": "Des chercheurs, présentant à une conférence de physiologie, ont trouvé que le colorant alimentaire tartrazine modifiait l'équilibre bactérien intestinal et était associé à une inflammation de bas grade et à des variations de poids chez des rats mâles en émergence d'âge adulte.",
+          "whyItMatters": "Comme les additifs alimentaires sont largement consommés dès le plus jeune âge, des résultats montrant qu'ils peuvent affecter le microbiote intestinal soulèvent des questions sur les impacts à long terme sur le développement et la santé — ce qui mérite des études supplémentaires.",
+          "takeaways": [
+            "Les résultats proviennent d'un modèle animal et ont été présentés sous forme de résumé de conférence.",
+            "L'exposition à la tartrazine a été associée à des changements du microbiote et à des effets physiologiques dans cette étude.",
+            "Davantage de recherches sont nécessaires avant de tirer des conclusions pour les recommandations alimentaires humaines."
+          ]
+        },
+        "de": {
+          "title": "Häufiger gelber Lebensmittelfarbstoff verändert das Darmmikrobiom in früher Lebensphase",
+          "summary": "Forschende, die auf einer Physiologiekonferenz berichteten, fanden heraus, dass der Farbstoff Tartrazin das Gleichgewicht der Darmbakterien veränderte und mit niedriggradiger Entzündung sowie Gewichtsveränderungen bei männlichen Ratten im jungen Erwachsenenalter assoziiert war.",
+          "whyItMatters": "Da Lebensmittelzusatzstoffe schon früh im Leben weit verbreitet konsumiert werden, werfen Befunde, dass sie das Darmmikrobiom beeinflussen können, Fragen zu langfristigen Auswirkungen auf Entwicklung und Gesundheit auf—was weitere Studien rechtfertigt.",
+          "takeaways": [
+            "Die Ergebnisse stammen aus einem Tiermodell und wurden als Konferenzabstract präsentiert.",
+            "Tartrazinexposition war in dieser Studie mit Veränderungen der Mikrobiota und physiologischen Effekten verbunden.",
+            "Bevor Schlussfolgerungen zur menschlichen Ernährung gezogen werden, sind weitere Forschungen nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Corante alimentar amarelo comum altera microbioma intestinal em fase inicial da vida",
+          "summary": "Pesquisadores que apresentaram dados em uma conferência de fisiologia descobriram que o corante alimentar tartrazina alterou o equilíbrio de bactérias intestinais e foi associado a inflamação de baixo grau e variações de peso em ratos machos no início da fase adulta.",
+          "whyItMatters": "Como aditivos alimentares são amplamente consumidos desde cedo, achados de que eles podem afetar o microbioma levantam questões sobre impactos de longo prazo no desenvolvimento e na saúde—o que justifica estudos adicionais.",
+          "takeaways": [
+            "Os achados vêm de um modelo animal e foram apresentados como resumo de conferência.",
+            "A exposição à tartrazina foi associada a mudanças na microbiota e a efeitos fisiológicos neste estudo.",
+            "Mais pesquisas são necessárias antes de tirar conclusões sobre orientações alimentares para humanos."
+          ]
+        },
+        "hu": {
+          "title": "Egy gyakori sárga ételszínezék megváltoztatja a bélmikrobiomot korai életben",
+          "summary": "Egy élettani konferencián bemutatott eredmények szerint a tartrazin nevű ételszínezék megváltoztatta a bélbaktériumok egyensúlyát, és alacsony fokú gyulladással és testsúlyváltozással társult fiatal felnőttkor felé tartó hím patkányokban.",
+          "whyItMatters": "Mivel az élelmiszer-adalékanyagokat széles körben fogyasztják korai életkorban, az, hogy befolyásolhatják a bélmikrobiotát, kérdéseket vet fel a fejlődésre és az egészségre gyakorolt hosszú távú hatásokról — további vizsgálatot indokolva.",
+          "takeaways": [
+            "Az eredmények állatmodellből származnak, és konferencia-absztrakt formájában mutatták be.",
+            "A tartrazin-expozíció ebben a vizsgálatban összefüggött a mikrobiota változásaival és fiziológiai hatásokkal.",
+            "Mielőtt emberi étrendi következtetéseket vonnánk le, további kutatás szükséges."
+          ]
+        },
+        "ar": {
+          "title": "صبغة الطعام الصفراء الشائعة تغير ميكروبيوم الأمعاء في مرحلة مبكرة من الحياة",
+          "summary": "أفاد باحثون في مؤتمر فيزيولوجي أن أصباغ الطعام الصفراء المعروفة باسم تارتراتزين غيّرت توازن البكتيريا المعوية وكانت مرتبطة بالتهاب منخفض الدرجة وتغيرات في الوزن لدى ذكور الجرذان في مرحلة البلوغ المبكر.",
+          "whyItMatters": "نظرًا لأن المضافات الغذائية تُستهلك على نطاق واسع في مراحل مبكرة من الحياة، فإن العثور على أثر لها على الميكروبيوتا يطرح تساؤلات حول التأثيرات طويلة المدى على النمو والصحة — ما يستدعي مزيدًا من الدراسة.",
+          "takeaways": [
+            "النتائج مستمدة من نموذج حيواني وعُرضت كملخص مؤتمر.",
+            "كان التعرض للتارتراتزين مرتبطًا بتغيرات في الميكروبيوتا وتأثيرات فسيولوجية في هذه الدراسة.",
+            "هناك حاجة إلى مزيد من الأبحاث قبل استخلاص استنتاجات توجيهية بشأن النظام الغذائي لدى البشر."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-share.svg"
     },
     {
       "id": "obesity-lung-function-2026-04-27",
@@ -693,6 +1421,110 @@
       }
     },
     {
+      "id": "a10",
+      "category": "multisystem health & cancer risk",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-heart-kidney-metabolic-health-worsen.html",
+      "sourceTitle": "As heart, kidney and metabolic health worsen, cancer risk may rise, research indicates",
+      "publishedAt": "Mon, 27 Apr 2026 05:00:11 EDT",
+      "languages": {
+        "en": {
+          "title": "Worsening heart, kidney and metabolic health linked to higher cancer risk",
+          "summary": "New research published in Circulation: Population Health and Outcomes reports that people with more advanced combinations of heart, kidney and metabolic problems (CKM syndrome) tend to have higher rates of cancer.",
+          "whyItMatters": "The finding underscores the interconnected nature of chronic diseases and suggests that declining multisystem health may accompany increased cancer risk, highlighting the potential value of integrated health monitoring.",
+          "takeaways": [
+            "The study describes associations between combined cardiometabolic-kidney conditions and cancer incidence.",
+            "Results support a view of chronic diseases as interrelated across organ systems rather than isolated issues.",
+            "Observational findings do not prove that one condition causes the other; further research is needed to understand mechanisms."
+          ]
+        },
+        "es": {
+          "title": "Empeoramiento de la salud cardíaca, renal y metabólica vinculado a mayor riesgo de cáncer",
+          "summary": "Nueva investigación publicada en Circulation: Population Health and Outcomes informa que las personas con combinaciones más avanzadas de problemas cardíacos, renales y metabólicos (síndrome CKM) tienden a tener tasas más altas de cáncer.",
+          "whyItMatters": "El hallazgo subraya la naturaleza interconectada de las enfermedades crónicas y sugiere que el deterioro multisistémico de la salud puede acompañar un mayor riesgo de cáncer, destacando el posible valor de la vigilancia integrada de la salud.",
+          "takeaways": [
+            "El estudio describe asociaciones entre condiciones combinadas cardiometabólicas y renales y la incidencia de cáncer.",
+            "Los resultados respaldan la visión de las enfermedades crónicas como interrelacionadas entre sistemas de órganos en lugar de problemas aislados.",
+            "Los hallazgos observacionales no prueban que una condición cause la otra; se necesita más investigación para entender los mecanismos."
+          ]
+        },
+        "ru": {
+          "title": "Ухудшение сердечно‑сосудистого, почечного и метаболического здоровья связано с повышенным риском рака",
+          "summary": "Новое исследование, опубликованное в Circulation: Population Health and Outcomes, сообщает, что у людей с более выраженными сочетаниями сердечно‑сосудистых, почечных и метаболических проблем (синдром CKM) наблюдаются более высокие показатели заболеваемости раком.",
+          "whyItMatters": "Это наблюдение подчёркивает взаимосвязанность хронических заболеваний и указывает, что ухудшение мультисистемного здоровья может сопровождаться повышенным риском рака, что подчёркивает потенциальную ценность интегрированного мониторинга здоровья.",
+          "takeaways": [
+            "В исследовании описаны ассоциации между сочетанными кардиометаболическими и почечными состояниями и заболеваемостью раком.",
+            "Результаты поддерживают представление о хронических заболеваниях как взаимосвязанных проблемах органов, а не изолированных случаях.",
+            "Наблюдательные результаты не доказывают, что одно состояние вызывает другое; необходимы дополнительные исследования для выяснения механизмов."
+          ]
+        },
+        "uk": {
+          "title": "Погіршення серцевого, ниркового та метаболічного здоров’я пов’язане з вищим ризиком раку",
+          "summary": "Нове дослідження, опубліковане в Circulation: Population Health and Outcomes, повідомляє, що люди з більш вираженими поєднаннями серцевих, ниркових і метаболічних проблем (синдром CKM) мають тенденцію до вищих показників захворюваності на рак.",
+          "whyItMatters": "Висновок підкреслює взаємозв'язок хронічних захворювань і вказує, що погіршення мультисистемного здоров’я може супроводжуватися підвищеним ризиком раку, що виділяє потенційну цінність інтегрованого моніторингу стану здоров’я.",
+          "takeaways": [
+            "Дослідження описує асоціації між поєднаними кардіометаболічно‑нирковими станами й інцидентністю раку.",
+            "Результати підтримують уявлення про хронічні хвороби як взаємопов’язані процеси в різних органах, а не ізольовані проблеми.",
+            "Спостережні дані не доводять, що одна хвороба спричиняє іншу; потрібні додаткові дослідження для з'ясування механізмів."
+          ]
+        },
+        "fr": {
+          "title": "L'aggravation de la santé cardiaque, rénale et métabolique liée à un risque de cancer plus élevé",
+          "summary": "Une nouvelle recherche publiée dans Circulation: Population Health and Outcomes rapporte que les personnes présentant des combinaisons plus avancées de problèmes cardiaques, rénaux et métaboliques (syndrome CKM) tendent à avoir des taux de cancer plus élevés.",
+          "whyItMatters": "Cette constatation souligne la nature interconnectée des maladies chroniques et suggère que la détérioration de la santé multisystémique peut s'accompagner d'un risque accru de cancer, mettant en évidence la valeur potentielle d'un suivi de santé intégré.",
+          "takeaways": [
+            "L'étude décrit des associations entre des conditions combinées cardiométaboliques‑rénales et l'incidence du cancer.",
+            "Les résultats soutiennent une vision des maladies chroniques comme interdépendantes entre les organes plutôt que comme des problèmes isolés.",
+            "Les résultats observationnels n'établissent pas qu'une condition cause l'autre; des recherches supplémentaires sont nécessaires pour comprendre les mécanismes."
+          ]
+        },
+        "de": {
+          "title": "Verschlechterung von Herz-, Nieren- und Stoffwechselgesundheit mit erhöhtem Krebsrisiko verbunden",
+          "summary": "Neue Forschung, veröffentlicht in Circulation: Population Health and Outcomes, berichtet, dass Menschen mit fortgeschritteneren Kombinationen von Herz-, Nieren‑ und Stoffwechselproblemen (CKM‑Syndrom) tendenziell höhere Krebsraten aufwiesen.",
+          "whyItMatters": "Der Befund unterstreicht die vernetzte Natur chronischer Krankheiten und legt nahe, dass abnehmende multisystemische Gesundheit mit erhöhtem Krebsrisiko einhergehen kann, was den möglichen Wert integrierter Gesundheitsüberwachung hervorhebt.",
+          "takeaways": [
+            "Die Studie beschreibt Assoziationen zwischen kombinierten kardiometabolisch‑nierenbezogenen Erkrankungen und Krebsinzidenz.",
+            "Ergebnisse stützen die Sicht, dass chronische Krankheiten über Organsysteme hinweg verknüpft sind und nicht isoliert betrachtet werden sollten.",
+            "Beobachtungsbefunde beweisen nicht, dass eine Erkrankung die andere verursacht; weitere Forschung ist nötig, um Mechanismen zu verstehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Piora da saúde cardíaca, renal e metabólica ligada a maior risco de câncer",
+          "summary": "Nova pesquisa publicada em Circulation: Population Health and Outcomes relata que pessoas com combinações mais avançadas de problemas cardíacos, renais e metabólicos (síndrome CKM) tendem a apresentar taxas mais altas de câncer.",
+          "whyItMatters": "O achado destaca a natureza interconectada das doenças crônicas e sugere que a piora da saúde multissistêmica pode acompanhar um aumento do risco de câncer, ressaltando o possível valor do monitoramento integrado da saúde.",
+          "takeaways": [
+            "O estudo descreve associações entre condições combinadas cardiometabólicas‑renais e incidência de câncer.",
+            "Os resultados apoiam a visão de doenças crônicas como interrelacionadas entre sistemas orgânicos, e não como problemas isolados.",
+            "Achados observacionais não provam que uma condição causa a outra; mais pesquisas são necessárias para entender os mecanismos."
+          ]
+        },
+        "hu": {
+          "title": "A szív-, vese- és anyagcserezavarok romlása összefüggésben állhat a magasabb rák kockázattal",
+          "summary": "Új kutatás a Circulation: Population Health and Outcomes folyóiratban azt jelenti, hogy azoknál, akiknél súlyosabb kombinációi állnak fenn a szív-, vese- és anyagcserezavaroknak (CKM-szindróma), magasabb a rák előfordulási aránya.",
+          "whyItMatters": "Az eredmény hangsúlyozza a krónikus betegségek összefüggését, és arra utal, hogy a több rendszert érintő egészségromlás együtt járhat a megnövekedett rákkockázattal, ezáltal támogatva az integrált egészségmonitorozás értékét.",
+          "takeaways": [
+            "A tanulmány a kombinált kardiometabolikus és vesefunkciós problémák és a rák incidenciája közötti összefüggéseket írja le.",
+            "Az eredmények azt a nézetet támogatják, hogy a krónikus betegségek egymással összefüggő rendszereket érintenek, nem elszigetelt problémákat.",
+            "A megfigyeléses eredmények nem bizonyítják, hogy az egyik állapot okozza a másikat; további kutatás szükséges a mechanizmusok megértéséhez."
+          ]
+        },
+        "ar": {
+          "title": "تدهور صحة القلب والكلى والتمثيل الغذائي مرتبط بزيادة خطر السرطان",
+          "summary": "أبحاث جديدة منشورة في مجلة Circulation: Population Health and Outcomes تفيد بأن الأشخاص الذين يعانون من مجموعات متقدمة من مشاكل القلب والكلى والتمثيل الغذائي (متلازمة CKM) يميلون إلى أن تكون لديهم معدلات أعلى للإصابة بالسرطان.",
+          "whyItMatters": "تؤكد النتيجة الطبيعة المترابطة للأمراض المزمنة وتشير إلى أن تدهور الصحة عبر أنظمة متعددة قد يصاحبه زيادة في خطر السرطان، مما يبرز قيمة المراقبة الصحية المتكاملة.",
+          "takeaways": [
+            "تصف الدراسة ارتباطات بين الحالات القلبية-التمثيلية-الكلوية المشتركة وحدوث السرطان.",
+            "تدعم النتائج رؤية الأمراض المزمنة كقضايا مترابطة عبر أجهزة الجسم بدلاً من مشاكل معزولة.",
+            "النتائج الرصدية لا تثبت أن حالة واحدة تسبب الأخرى؛ هناك حاجة لأبحاث إضافية لفهم الآليات."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a10",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-share.svg"
+    },
+    {
       "id": "centenarian-offspring-diet-2026-04-26",
       "category": "longevity-nutrition",
       "sourceName": "medicalxpress.com",
@@ -806,6 +1638,110 @@
         "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/centenarian-offspring-diet-2026-04-26.html",
         "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/centenarian-offspring-diet-2026-04-26.html"
       }
+    },
+    {
+      "id": "a8",
+      "category": "longevity & diet",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-parents-diets-clues-longevity.html",
+      "sourceTitle": "Their parents lived to 100. Do their diets have clues to longevity?",
+      "publishedAt": "Sun, 26 Apr 2026 19:00:05 EDT",
+      "languages": {
+        "en": {
+          "title": "Children of centenarians show slightly healthier eating patterns",
+          "summary": "A Tufts study comparing dietary habits found that offspring of parents who lived to 100 tend to have modestly healthier diets than peers without centenarian parents, offering an early look at lifestyle patterns in a longevity-linked group.",
+          "whyItMatters": "Examining diet in people with familial longevity may help identify lifestyle factors that coexist with genetic advantages and could inform future research into healthy aging.",
+          "takeaways": [
+            "Differences in eating habits were modest; genetics and shared environments both likely play roles.",
+            "The study provides descriptive data rather than proving specific diet causes longer life.",
+            "Results can guide further research but are not a prescriptive diet plan."
+          ]
+        },
+        "es": {
+          "title": "Los hijos de centenarios muestran patrones alimentarios algo más saludables",
+          "summary": "Un estudio de Tufts que comparó hábitos dietarios encontró que los descendientes de padres que vivieron hasta los 100 años tienden a tener dietas modestamente más saludables que sus pares sin padres centenarios, ofreciendo una mirada inicial a los patrones de estilo de vida en un grupo vinculado a la longevidad.",
+          "whyItMatters": "Examinar la dieta en personas con longevidad familiar puede ayudar a identificar factores de estilo de vida que coexisten con ventajas genéticas y podría orientar investigaciones futuras sobre el envejecimiento saludable.",
+          "takeaways": [
+            "Las diferencias en hábitos alimentarios fueron modestas; la genética y los entornos compartidos probablemente influyen.",
+            "El estudio ofrece datos descriptivos y no demuestra que dietas específicas causen mayor longevidad.",
+            "Los resultados pueden guiar investigaciones posteriores pero no constituyen un plan de dieta prescriptivo."
+          ]
+        },
+        "ru": {
+          "title": "Дети столетних родителей демонстрируют слегка более здоровые пищевые привычки",
+          "summary": "Исследование Тафтса, сравнивавшее привычки в питании, показало, что потомки людей, проживших до 100 лет, склонны иметь несколько более здоровые диеты по сравнению со сверстниками без столетних родителей, давая предварительное представление о привычках образа жизни в группе, связанной с долголетием.",
+          "whyItMatters": "Изучение питания у людей с семейной историей долголетия может помочь выявить факторы образа жизни, которые сосуществуют с генетическими преимуществами, и направить будущие исследования по здоровому старению.",
+          "takeaways": [
+            "Различия в пищевых привычках были умеренными; и генетика, и общая среда, по‑видимому, играют роль.",
+            "Исследование носит описательный характер и не доказывает, что конкретные диеты вызывают более долгую жизнь.",
+            "Результаты могут направить дальнейшие исследования, но не являются предписывающим планом питания."
+          ]
+        },
+        "uk": {
+          "title": "Діти довгожителів демонструють дещо здоровіші харчові звички",
+          "summary": "Дослідження з Тафту порівняло харчові звички й виявило, що нащадки батьків, які дожили до 100 років, мають помірно здоровіші дієтичні моделі, ніж їхні однолітки без батьків‑довгожителів, пропонуючи початковий погляд на стилі життя в групі, пов'язаній з довголіттям.",
+          "whyItMatters": "Вивчення харчування у людей із сімейним довголіттям може допомогти виявити фактори способу життя, що співіснують із генетичними перевагами, і може спрямувати майбутні дослідження щодо здорового старіння.",
+          "takeaways": [
+            "Різниці в харчуванні були помірними; і генетика, і спільне оточення ймовірно відіграють роль.",
+            "Дослідження надає описові дані, а не доводить, що конкретна дієта подовжує життя.",
+            "Результати можуть спрямувати подальші дослідження, але не є прескриптивним планом харчування."
+          ]
+        },
+        "fr": {
+          "title": "Les enfants de centenaires présentent des habitudes alimentaires légèrement plus saines",
+          "summary": "Une étude de Tufts comparant les habitudes alimentaires a trouvé que les descendants de parents ayant vécu jusqu'à 100 ans ont tendance à avoir des régimes modestement plus sains que des pairs sans parents centenaires, offrant un premier aperçu des comportements de vie dans un groupe lié à la longévité.",
+          "whyItMatters": "Examiner l'alimentation chez des personnes bénéficiant d'une longévité familiale peut aider à identifier des facteurs de mode de vie qui coexistent avec des avantages génétiques et orienter de futures recherches sur le vieillissement en bonne santé.",
+          "takeaways": [
+            "Les différences dans les habitudes alimentaires étaient modestes; la génétique et l'environnement partagé jouent probablement un rôle.",
+            "L'étude fournit des données descriptives et ne prouve pas qu'un régime spécifique prolonge la vie.",
+            "Les résultats peuvent guider des recherches ultérieures mais ne constituent pas un plan alimentaire prescriptif."
+          ]
+        },
+        "de": {
+          "title": "Kinder von Hundertjährigen zeigen geringfügig gesündere Essgewohnheiten",
+          "summary": "Eine Tufts‑Studie zum Vergleich von Essgewohnheiten fand, dass Nachkommen von Eltern, die 100 Jahre alt wurden, tendenziell etwas gesündere Ernährungsweisen haben als Gleichaltrige ohne hundertjährige Eltern, und bietet einen ersten Blick auf Lebensstilmuster in einer mit Langlebigkeit verknüpften Gruppe.",
+          "whyItMatters": "Die Untersuchung der Ernährung von Menschen mit familiärer Langlebigkeit kann helfen, Lebensstilfaktoren zu identifizieren, die mit genetischen Vorteilen zusammenlaufen, und könnte zukünftige Forschung zum gesunden Altern informieren.",
+          "takeaways": [
+            "Unterschiede in den Essgewohnheiten waren modest; sowohl Genetik als auch gemeinsame Umgebungen spielen wahrscheinlich eine Rolle.",
+            "Die Studie liefert beschreibende Daten, statt zu beweisen, dass eine bestimmte Ernährung zu längerem Leben führt.",
+            "Die Ergebnisse können weitere Forschung leiten, sind aber kein verschreibungspflichtiger Ernährungsplan."
+          ]
+        },
+        "pt-br": {
+          "title": "Filhos de centenários apresentam padrões alimentares ligeiramente mais saudáveis",
+          "summary": "Um estudo da Tufts que comparou hábitos alimentares constatou que os descendentes de pais que viveram até 100 anos tendem a ter dietas modestamente mais saudáveis do que pares sem pais centenários, oferecendo um olhar inicial sobre padrões de estilo de vida em um grupo associado à longevidade.",
+          "whyItMatters": "Examinar a dieta de pessoas com longevidade familiar pode ajudar a identificar fatores de estilo de vida que coexistem com vantagens genéticas e pode orientar pesquisas futuras sobre envelhecimento saudável.",
+          "takeaways": [
+            "As diferenças nos hábitos alimentares foram modestas; genética e ambientes compartilhados provavelmente desempenham papéis.",
+            "O estudo fornece dados descritivos em vez de provar que dietas específicas causam maior longevidade.",
+            "Os resultados podem orientar pesquisas adicionais, mas não constituem um plano alimentar prescritivo."
+          ]
+        },
+        "hu": {
+          "title": "A százéves korú szülők gyerekei kissé egészségesebb étkezési mintákat mutatnak",
+          "summary": "Egy Tufts-vizsgálat összehasonlította az étkezési szokásokat, és megállapította, hogy a százéves korú szülők leszármazottai hajlamosak némileg egészségesebb étrendre, mint azok a kortársaik, akinek nincsenek centenárius szüleik — ez korai bepillantást ad a hosszú élettartammal összefüggő csoport életmódmintáiba.",
+          "whyItMatters": "A családi hosszú élettartamú emberek étrendjének vizsgálata segíthet azonosítani azokat az életmódbeli tényezőket, amelyek együtt járhatnak genetikai előnyökkel, és irányt adhatnak a hosszú távú egészséges öregedés kutatásának.",
+          "takeaways": [
+            "Az étkezési különbségek mérsékeltnek bizonyultak; valószínűleg a genetika és a közösen megosztott környezet egyaránt szerepet játszik.",
+            "A tanulmány leíró adatokat szolgáltat, és nem bizonyítja, hogy egy adott étrend hosszabb életet okoz.",
+            "Az eredmények további kutatások irányát adhatják, de nem jelentenek előíró étrendi tervet."
+          ]
+        },
+        "ar": {
+          "title": "أبناء المئوين: تظهر أنماط غذائية صحية بدرجة طفيفة",
+          "summary": "درست جامعة توفتس عادات الأكل ووجدت أن أبناء الأشخاص الذين عاشوا حتى 100 عام يميلون إلى أن يكون لديهم أنماط غذائية أفضَل بشكل طفيف مقارنةً بالأقران الذين ليس لديهم آباء مئويون، ما يقدم لمحة أولية عن أنماط أسلوب الحياة في مجموعة مرتبطة بطول العمر.",
+          "whyItMatters": "قد تساعد دراسة النظام الغذائي لدى الأشخاص ذوي الأطوال العمرية العائلية الطويلة في تحديد عوامل نمط الحياة التي تتزامن مع المزايا الوراثية، وقد تُرشد البحث المستقبلي حول الشيخوخة الصحية.",
+          "takeaways": [
+            "كانت الفروق في عادات الأكل متواضعة؛ من المرجح أن يلعب كل من الجينات والبيئات المشتركة دورًا.",
+            "توفر الدراسة بيانات وصفية بدلاً من إثبات أن حمية معينة تسبب طول العمر.",
+            "يمكن أن توجه النتائج أبحاثًا لاحقة لكنها ليست خطة نظام غذائي موصوفة."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-share.svg"
     },
     {
       "id": "fish-oil-brain-2026-04-26",
@@ -1045,6 +1981,110 @@
         "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/ultraprocessed-cognition-2026-04-23.html",
         "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/ultraprocessed-cognition-2026-04-23.html"
       }
+    },
+    {
+      "id": "a9",
+      "category": "brain health & diet",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-ultra-foods-focus-healthily.html",
+      "sourceTitle": "Ultra-processed foods damage your focus even if you eat healthily",
+      "publishedAt": "Thu, 23 Apr 2026 22:20:04 EDT",
+      "languages": {
+        "en": {
+          "title": "High intake of ultra-processed foods linked to poorer concentration and dementia risk",
+          "summary": "A cohort study of over 2,100 middle-aged and older Australian adults found that diets high in heavily processed foods were associated with reduced attention and a higher risk of developing dementia-related outcomes.",
+          "whyItMatters": "The results add to growing evidence connecting food processing level with cognitive health in later life and may be relevant for midlife dietary choices that influence long-term brain aging.",
+          "takeaways": [
+            "This is an observational study showing associations, not proving causation.",
+            "Researchers linked a higher proportion of ultra-processed foods in the diet with worse attention measures and greater dementia risk over follow-up.",
+            "The study complements other research on diet quality and cognitive aging but does not establish specific clinical recommendations."
+          ]
+        },
+        "es": {
+          "title": "Alta ingesta de alimentos ultraprocesados vinculada a peor concentración y mayor riesgo de demencia",
+          "summary": "Un estudio de cohorte con más de 2.100 adultos australianos de mediana edad y mayores encontró que dietas altas en alimentos muy procesados se asociaron con menor atención y un mayor riesgo de desarrollar resultados relacionados con la demencia.",
+          "whyItMatters": "Los resultados se suman a la evidencia que vincula el nivel de procesamiento de los alimentos con la salud cognitiva en la vejez y pueden ser relevantes para las decisiones dietarias en la mediana edad que influyen en el envejecimiento cerebral a largo plazo.",
+          "takeaways": [
+            "Es un estudio observacional que muestra asociaciones, no prueba causalidad.",
+            "Los investigadores relacionaron una mayor proporción de ultraprocesados en la dieta con peores medidas de atención y mayor riesgo de demencia durante el seguimiento.",
+            "El estudio complementa otras investigaciones sobre calidad de la dieta y envejecimiento cognitivo, pero no establece recomendaciones clínicas específicas."
+          ]
+        },
+        "ru": {
+          "title": "Высокое потребление ультрапроцессированных продуктов связано с ухудшением концентрации и риском деменции",
+          "summary": "Когортное исследование более чем 2 100 австралийских взрослых среднего и старшего возраста показало, что диеты с высокой долей сильно переработанных продуктов были связаны с ухудшением внимания и повышенным риском развития исходов, связанных с деменцией.",
+          "whyItMatters": "Результаты добавляют к накопившимся данным о взаимосвязи уровня переработки пищи и когнитивного здоровья в позднем возрасте и могут быть релевантны для пищевых выборов в среднем возрасте, которые влияют на долговременное старение мозга.",
+          "takeaways": [
+            "Это наблюдательное исследование, показывающее ассоциации, а не доказывающее причинно‑следственную связь.",
+            "Исследователи связали большую долю ультрапроцессированных продуктов в рационе с худшими показателями внимания и повышенным риском деменции в ходе наблюдения.",
+            "Исследование дополняет другие данные о качестве диеты и когнитивном старении, но не устанавливает конкретных клинических рекомендаций."
+          ]
+        },
+        "uk": {
+          "title": "Високе споживання ультраперероблених продуктів пов’язане з гіршою увагою та ризиком деменції",
+          "summary": "Когортне дослідження понад 2 100 дорослих середнього та старшого віку в Австралії виявило, що раціони з великою часткою сильно перероблених продуктів були пов’язані зі зниженням уваги та вищим ризиком виникнення наслідків, пов’язаних із деменцією.",
+          "whyItMatters": "Результати додають доказів на користь зв’язку між рівнем обробки продуктів харчування та когнітивним здоров’ям у пізнішому віці і можуть бути релевантними для вибору дієти в середньому віці, що впливає на старіння мозку в довгостроковій перспективі.",
+          "takeaways": [
+            "Це спостережне дослідження, яке показує асоціації, але не доводить причинність.",
+            "Дослідники пов’язали більшу частку ультраперероблених продуктів у раціоні з гіршими показниками уваги та вищим ризиком деменції в подальшому спостереженні.",
+            "Дослідження доповнює інші роботи про якість харчування і когнітивне старіння, але не встановлює конкретних клінічних рекомендацій."
+          ]
+        },
+        "fr": {
+          "title": "Une forte consommation d'aliments ultra‑transformés liée à une concentration plus faible et au risque de démence",
+          "summary": "Une étude de cohorte menée auprès de plus de 2 100 adultes d'âge moyen et âgés en Australie a trouvé que des régimes riches en aliments fortement transformés étaient associés à une attention réduite et à un risque plus élevé de développer des issues liées à la démence.",
+          "whyItMatters": "Les résultats s'ajoutent aux preuves croissantes reliant le niveau de transformation des aliments à la santé cognitive à long terme et peuvent être pertinents pour les choix alimentaires en milieu de vie susceptibles d'influencer le vieillissement cérébral.",
+          "takeaways": [
+            "Il s'agit d'une étude observationnelle montrant des associations et non une causalité.",
+            "Les chercheurs ont associé une proportion plus élevée d'aliments ultra‑transformés dans l'alimentation à de moins bonnes mesures d'attention et à un risque accru de démence au suivi.",
+            "L'étude complète d'autres recherches sur la qualité de l'alimentation et le vieillissement cognitif, sans établir de recommandations cliniques spécifiques."
+          ]
+        },
+        "de": {
+          "title": "Hoher Konsum ultra-verarbeiteter Lebensmittel mit schlechterer Konzentration und erhöhtem Demenzrisiko in Verbindung gebracht",
+          "summary": "Eine Kohortenstudie mit über 2.100 mittelalten und älteren australischen Erwachsenen fand, dass Diäten mit hohem Anteil stark verarbeiteter Lebensmittel mit verringerter Aufmerksamkeit und einem höheren Risiko für demenzbezogene Ergebnisse verbunden waren.",
+          "whyItMatters": "Die Ergebnisse fügen der wachsenden Evidenz hinzu, die den Verarbeitungsgrad von Lebensmitteln mit kognitiver Gesundheit im höheren Alter verbindet, und können für Ernährungsentscheidungen in der Lebensmitte relevant sein, die die langfristige Gehirnalterung beeinflussen.",
+          "takeaways": [
+            "Dies ist eine Beobachtungsstudie, die Zusammenhänge zeigt, nicht kausale Wirkungen.",
+            "Forscher verknüpften einen höheren Anteil ultra‑verarbeiteter Lebensmittel in der Ernährung mit schlechteren Aufmerksamkeitswerten und einem größeren Demenzrisiko während der Nachverfolgung.",
+            "Die Studie ergänzt andere Forschungen zu Ernährungsqualität und kognitivem Altern, stellt aber keine konkreten klinischen Empfehlungen auf."
+          ]
+        },
+        "pt-br": {
+          "title": "Alto consumo de alimentos ultraprocessados associado a pior concentração e risco de demência",
+          "summary": "Um estudo de coorte com mais de 2.100 adultos australianos de meia‑idade e idosos encontrou que dietas ricas em alimentos altamente processados estavam associadas a atenção reduzida e maior risco de desfechos relacionados à demência.",
+          "whyItMatters": "Os resultados acrescentam evidências crescentes que ligam o nível de processamento dos alimentos à saúde cognitiva em idades mais avançadas e podem ser relevantes para escolhas alimentares na meia‑idade que influenciam o envelhecimento cerebral a longo prazo.",
+          "takeaways": [
+            "Trata‑se de um estudo observacional que mostra associações, não prova causalidade.",
+            "Os pesquisadores associaram uma maior proporção de alimentos ultraprocessados na dieta a piores medidas de atenção e maior risco de demência ao longo do acompanhamento.",
+            "O estudo complementa outras pesquisas sobre qualidade da dieta e envelhecimento cognitivo, mas não estabelece recomendações clínicas específicas."
+          ]
+        },
+        "hu": {
+          "title": "Magas arányú ultrafeldolgozott élelmiszerfogyasztás összefüggésben áll a gyengébb koncentrációval és a demencia kockázatával",
+          "summary": "Egy több mint 2100 középkorú és idősebb ausztrál felnőttet követő kohorszvizsgálat azt találta, hogy a nagy arányban erősen feldolgozott élelmiszereket fogyasztó étrendek a figyelem csökkenésével és a demenciához kapcsolódó kimenetelek nagyobb kockázatával társultak.",
+          "whyItMatters": "Az eredmények hozzájárulnak a növekvő bizonyítékokhoz, amelyek összekapcsolják a feldolgozottsági szintet az életkorral összefüggő kognitív egészséggel, és relevánsak lehetnek a középkori étrendi döntések számára, amelyek befolyásolhatják a hosszú távú agyi öregedést.",
+          "takeaways": [
+            "Ez megfigyeléses tanulmány, amely összefüggéseket mutat; nem bizonyít okozati kapcsolatot.",
+            "A kutatók a diéta nagyobb arányú ultrafeldolgozott élelmiszerekkel való bevitelét összekapcsolták rosszabb figyelmi eredményekkel és nagyobb demenciakockázattal a követés során.",
+            "A tanulmány kiegészíti az étrendi minőségről és a kognitív öregedésről szóló további kutatásokat, de nem állít fel konkrét klinikai ajánlásokat."
+          ]
+        },
+        "ar": {
+          "title": "استهلاك مرتفع من الأطعمة فائقة المعالجة مرتبط بتشتت انتباه وأخطر للإصابة بالخرف",
+          "summary": "وجدت دراسة طولية شملت أكثر من 2100 بالغ أسترالي في منتصف العمر وكبار السن أن الأنظمة الغذائية التي تحتوي على نسبة عالية من الأطعمة المعالجة للغاية ارتبطت بتراجع الانتباه وزيادة خطر حدوث نتائج مرتبطة بالخرف.",
+          "whyItMatters": "تضيف النتائج إلى الأدلة المتزايدة التي تربط مستوى معالجة الطعام بالصحة الإدراكية مع التقدم في العمر، وقد تكون ذات صلة بخيارات النظام الغذائي في منتصف العمر التي تؤثر على شيخوخة الدماغ على المدى الطويل.",
+          "takeaways": [
+            "هذه دراسة رصدية تُظهر ارتباطات، ليست دليلاً على سبب ونتيجة.",
+            "ربط الباحثون نسبة أعلى من الأطعمة فائقة المعالجة في النظام الغذائي بتدني مقاييس الانتباه وزيادة خطر الخرف خلال المتابعة.",
+            "تُكمل الدراسة أبحاثًا أخرى حول جودة النظام الغذائي وشيخوخة الإدراك، لكنها لا تضع توصيات سريرية محددة."
+          ]
+        }
+      },
+      "sourceImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-source.jpg",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-source.jpg",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-share.svg"
     },
     {
       "id": "young-microbiome-liver-2026-04-23",
