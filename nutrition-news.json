@@ -1,7 +1,863 @@
 {
-  "generatedAt": "2026-04-29T08:41:06.800Z",
+  "generatedAt": "2026-04-29T17:08:22.339Z",
   "sourceCount": 11,
   "articles": [
+    {
+      "id": "oxidative-stress-brain-2026-04-29",
+      "category": "brain health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-oxidative-stress-brain.html",
+      "sourceTitle": "Oxidative stress slows down the brain, but the brake can be released again",
+      "publishedAt": "Wed, 29 Apr 2026 13:00:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Oxidative stress impairs neuronal protein control — but effects may be reversible",
+          "summary": "Researchers describe how aging-associated oxidative stress disrupts neuronal protein quality control, reducing cellular efficiency. The report indicates mechanisms that can restore protein processing and cellular balance after oxidative damage.",
+          "whyItMatters": "Understanding reversible mechanisms that restore protein quality control could point to strategies for preserving cognitive function as the brain ages.",
+          "takeaways": [
+            "Aging and oxidative stress impair neurons by disrupting protein handling systems.",
+            "The study identifies mechanisms that can restore cellular protein quality control.",
+            "Findings are mechanistic and exploratory; implications for humans require further research."
+          ]
+        },
+        "es": {
+          "title": "El estrés oxidativo perjudica el control de proteínas neuronales, pero los efectos pueden ser reversibles",
+          "summary": "Los investigadores describen cómo el estrés oxidativo asociado al envejecimiento interrumpe el control de la calidad de las proteínas en las neuronas, reduciendo la eficiencia celular. El informe señala mecanismos que pueden restaurar el procesamiento de proteínas y el equilibrio celular tras el daño oxidativo.",
+          "whyItMatters": "Comprender mecanismos reversibles que restauran el control de la calidad proteica podría orientar estrategias para preservar la función cognitiva durante el envejecimiento cerebral.",
+          "takeaways": [
+            "El envejecimiento y el estrés oxidativo dañan las neuronas al alterar los sistemas de manejo de proteínas.",
+            "El estudio identifica mecanismos capaces de restaurar el control de calidad de las proteínas celulares.",
+            "Los hallazgos son mecanísticos y exploratorios; sus implicaciones para humanos requieren más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Окислительный стресс нарушает контроль белков нейронов — но эффекты могут быть обратимы",
+          "summary": "Исследователи описывают, как связанный со старением окислительный стресс нарушает контроль качества белков в нейронах, снижая клеточную эффективность. В отчёте указаны механизмы, которые могут восстановить обработку белков и клеточное равновесие после окислительного повреждения.",
+          "whyItMatters": "Понимание обратимых механизмов восстановления контроля качества белков может помочь в поиске подходов к сохранению когнитивной функции при старении мозга.",
+          "takeaways": [
+            "Старение и окислительный стресс ухудшают работу нейронов, нарушая системы обращения с белками.",
+            "В исследовании выявлены механизмы, которые могут восстановить клеточный контроль качества белков.",
+            "Результаты имеют механистический и исследовательский характер; их значение для человека требует дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Окисний стрес порушує контроль білків у нейронах — але ефекти можуть бути оборотними",
+          "summary": "Дослідники описують, як старінню‑асоційований окисний стрес порушує систему контролю якості білків у нейронах, що знижує ефективність клітин. У звіті вказано механізми, які можуть відновити обробку білків і клітинну рівновагу після окисного ушкодження.",
+          "whyItMatters": "Розуміння оборотних механізмів відновлення контролю якості білків може вказувати на підходи до збереження когнітивних функцій під час старіння мозку.",
+          "takeaways": [
+            "Старіння і окисний стрес порушують роботу нейронів, впливаючи на системи обробки білків.",
+            "Дослідження виокремлює механізми, що можуть відновити клітинний контроль якості білків.",
+            "Результати є механістичними й експлоративними; їхнє значення для людей потребує подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Le stress oxydatif altère le contrôle des protéines neuronales — mais les effets peuvent être réversibles",
+          "summary": "Des chercheurs décrivent comment le stress oxydatif lié au vieillissement perturbe le contrôle de la qualité des protéines dans les neurones, réduisant l'efficacité cellulaire. Le rapport identifie des mécanismes susceptibles de restaurer le traitement des protéines et l'équilibre cellulaire après des dommages oxydatifs.",
+          "whyItMatters": "Comprendre des mécanismes réversibles de restauration du contrôle de qualité des protéines pourrait indiquer des pistes pour préserver les fonctions cognitives avec l'âge.",
+          "takeaways": [
+            "Le vieillissement et le stress oxydatif altèrent les neurones en perturbant les systèmes de gestion des protéines.",
+            "L'étude identifie des mécanismes pouvant rétablir le contrôle de qualité des protéines au niveau cellulaire.",
+            "Les constatations sont de nature mécanistique et exploratoire; leurs implications pour l'humain nécessitent des recherches supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Oxidativer Stress beeinträchtigt die Kontrolle neuronaler Proteine – Effekte könnten reversibel sein",
+          "summary": "Forscher beschreiben, wie altersassoziierter oxidativer Stress die Qualitätskontrolle von Proteinen in Neuronen stört und dadurch die zelluläre Effizienz verringert. Der Bericht nennt Mechanismen, die nach oxidativem Schaden die Proteinverarbeitung und das zelluläre Gleichgewicht wiederherstellen können.",
+          "whyItMatters": "Das Verständnis reversibler Mechanismen zur Wiederherstellung der Protein‑Qualitätskontrolle könnte Hinweise auf Strategien geben, die zur Erhaltung der kognitiven Funktion im alternden Gehirn beitragen.",
+          "takeaways": [
+            "Altern und oxidativer Stress beeinträchtigen Neuronen, indem sie die Systeme zur Handhabung von Proteinen stören.",
+            "Die Studie identifiziert Mechanismen, die die zelluläre Protein‑Qualitätskontrolle wiederherstellen können.",
+            "Die Ergebnisse sind mechanistisch und explorativ; Aussagen zur Bedeutung für Menschen erfordern weitere Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Estresse oxidativo prejudica o controle de proteínas neuronais — mas os efeitos podem ser reversíveis",
+          "summary": "Pesquisadores descrevem como o estresse oxidativo associado ao envelhecimento atrapalha o controle de qualidade das proteínas em neurônios, reduzindo a eficiência celular. O relatório indica mecanismos que podem restaurar o processamento de proteínas e o equilíbrio celular após danos oxidativos.",
+          "whyItMatters": "Compreender mecanismos reversíveis que restabelecem o controle de qualidade das proteínas pode apontar para estratégias para preservar a função cognitiva à medida que o cérebro envelhece.",
+          "takeaways": [
+            "Envelhecimento e estresse oxidativo prejudicam neurônios ao interromper sistemas de manejo de proteínas.",
+            "O estudo identifica mecanismos que podem restaurar o controle de qualidade das proteínas celulares.",
+            "As descobertas são mecanísticas e exploratórias; as implicações para humanos exigem mais pesquisas."
+          ]
+        },
+        "hu": {
+          "title": "Oxidatív stressz rontja az idegsejtek fehérjéinek szabályozását — de a hatások visszafordíthatók lehetnek",
+          "summary": "A korral járó oxidatív stressz felborítja az idegsejtek fehérje-minőségellenőrzését, csökkentve a sejtek hatékonyságát. A jelentés olyan mechanizmusokat ír le, amelyek az oxidatív károsodás után helyreállíthatják a fehérje-feldolgozást és a sejtes egyensúlyt.",
+          "whyItMatters": "Azoknak a visszafordítható mechanizmusoknak a megértése, amelyek helyreállítják a fehérje-minőségellenőrzést, utalhat olyan stratégiákra, amelyek segíthetnek megőrizni a kognitív funkciókat az agy öregedése során.",
+          "takeaways": [
+            "Az öregedés és az oxidatív stressz rontja az idegsejteket azáltal, hogy megszakítja a fehérjék kezelésének rendszereit.",
+            "A tanulmány azonosít olyan mechanizmusokat, amelyek helyreállíthatják a sejtes fehérje-minőségellenőrzést.",
+            "Az eredmények mechanisztikusak és feltáró jellegűek; az emberi következmények további kutatást igényelnek."
+          ]
+        },
+        "ar": {
+          "title": "الإجهاد التأكسدي يضعف ضبط بروتينات الخلايا العصبية — لكن التأثيرات قد تكون قابلة للانعكاس",
+          "summary": "يصف الباحثون كيف يعرقل الإجهاد التأكسدي المرتبط بالتقدم في العمر ضبط جودة البروتينات في الخلايا العصبية، مما يقلل كفاءة الخلايا. يشير التقرير إلى آليات قد تستعيد معالجة البروتينات وتوازن الخلايا بعد الضرر التأكسدي.",
+          "whyItMatters": "فهم الآليات القابلة للانعكاس التي تستعيد ضبط جودة البروتينات قد يشير إلى استراتيجيات للحفاظ على الوظائف الإدراكية مع تقدم سن الدماغ.",
+          "takeaways": [
+            "يضعف التقدّم في العمر والإجهاد التأكسدي الخلايا العصبية عبر تعطيل أنظمة تعامل البروتينات.",
+            "تحدّد الدراسة آليات يمكنها استعادة ضبط جودة بروتينات الخلايا.",
+            "النتائج ذات طابع آلي واستكشافي؛ وتتطلب آثارها على البشر مزيدًا من البحث."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=oxidative-stress-brain-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oxidative-stress-brain-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oxidative-stress-brain-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Oxidative stress impairs neuronal protein control — but effects may be reversible.\nStory summary: Researchers describe how aging-associated oxidative stress disrupts neuronal protein quality control, reducing cellular efficiency. The report indicates mechanisms that can restore protein processing and cellular balance after oxidative damage..\nCategory: brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "safer-diabetes-meds-older-adults-2026-04-29",
+      "category": "medication safety",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-safer-diabetes-medications-older-adults.html",
+      "sourceTitle": "Choosing safer diabetes medications for older adults",
+      "publishedAt": "Wed, 29 Apr 2026 12:40:06 EDT",
+      "languages": {
+        "en": {
+          "title": "Large real-world study examines safety of common diabetes drugs in older adults",
+          "summary": "A large-scale, real-world analysis led by Yuan Lu and co-led by Marc Suchard evaluates safety outcomes of commonly used type 2 diabetes medications in older people, a group often underrepresented in trials.",
+          "whyItMatters": "Older adults face higher medication-related risks, so broader safety evidence from real-world data can inform treatment choices and discussions between patients and clinicians.",
+          "takeaways": [
+            "The study provides large-scale safety data specific to older adults with type 2 diabetes.",
+            "Real-world evidence complements randomized trials, especially for underrepresented groups.",
+            "Results may inform prescribing but do not replace individualized clinical judgment."
+          ]
+        },
+        "es": {
+          "title": "Gran estudio en condiciones reales examina la seguridad de fármacos comunes para la diabetes en adultos mayores",
+          "summary": "Un análisis a gran escala en condiciones reales dirigido por Yuan Lu y codirigido por Marc Suchard evalúa resultados de seguridad de fármacos utilizados para la diabetes tipo 2 en personas mayores, un grupo a menudo subrepresentado en ensayos.",
+          "whyItMatters": "Los adultos mayores afrontan mayores riesgos relacionados con los medicamentos, por lo que la evidencia de seguridad obtenida en datos del mundo real puede orientar las decisiones de tratamiento y las conversaciones entre pacientes y clínicos.",
+          "takeaways": [
+            "El estudio aporta datos de seguridad a gran escala específicos para adultos mayores con diabetes tipo 2.",
+            "La evidencia del mundo real complementa los ensayos aleatorizados, especialmente para grupos subrepresentados.",
+            "Los resultados pueden informar la prescripción, pero no sustituyen el juicio clínico individualizado."
+          ]
+        },
+        "ru": {
+          "title": "Крупное исследование в реальных условиях изучает безопасность распространённых препаратов от диабета у пожилых людей",
+          "summary": "Масштабный анализ в реальных условиях, возглавляемый Юанем Лу и со-руководимый Марком Сухардом, оценивает показатели безопасности препаратов, часто применяемых при сахарном диабете 2‑го типа у пожилых людей — группы, которая часто недопредставлена в клинических испытаниях.",
+          "whyItMatters": "Пожилые пациенты сталкиваются с повышенными рисками, связанными с лекарствами, поэтому более широкие данные о безопасности из реальной практики могут помочь при выборе лечения и обсуждениях между пациентами и врачами.",
+          "takeaways": [
+            "Исследование предоставляет масштабные данные по безопасности, специфичные для пожилых пациентов с СД2.",
+            "Данные из реальной практики дополняют рандомизированные испытания, особенно для недопредставленных групп.",
+            "Результаты могут учитывать при назначении, но не заменяют индивидуального клинического решения."
+          ]
+        },
+        "uk": {
+          "title": "Велике реальне дослідження оцінює безпеку поширених ліків від діабету у літніх дорослих",
+          "summary": "Велике реальне дослідження під керівництвом Юаня Лу та співкерівництвом Марка Сучарда оцінює результати безпеки поширених препаратів для лікування цукрового діабету 2 типу у старших людей, групі, яка часто недостатньо представлена в клінічних випробуваннях.",
+          "whyItMatters": "Літні дорослі стикаються з вищими ризиками, пов'язаними з ліками, тому ширша база даних про безпеку з реальної практики може інформувати вибір лікування і обговорення між пацієнтами та лікарями.",
+          "takeaways": [
+            "Дослідження надає великі дані про безпеку, специфічні для літніх пацієнтів з діабетом 2 типу.",
+            "Докази з реальної практики доповнюють рандомізовані випробування, особливо для недостатньо представлених груп.",
+            "Результати можуть допомагати при призначенні ліків, але не замінюють індивідуальний клінічний вибір."
+          ]
+        },
+        "fr": {
+          "title": "Une vaste étude en conditions réelles examine la sécurité des traitements courants du diabète chez les personnes âgées",
+          "summary": "Une analyse à grande échelle en conditions réelles, dirigée par Yuan Lu et co-dirigée par Marc Suchard, évalue les résultats de sécurité des médicaments couramment utilisés pour le diabète de type 2 chez les personnes âgées, un groupe souvent sous‑représenté dans les essais.",
+          "whyItMatters": "Les personnes âgées présentent des risques accrus liés aux médicaments; des preuves de sécurité issues de la pratique réelle peuvent aider à orienter les choix thérapeutiques et les discussions entre patients et cliniciens.",
+          "takeaways": [
+            "L'étude fournit des données de sécurité à grande échelle spécifiques aux personnes âgées atteintes de diabète de type 2.",
+            "Les preuves en conditions réelles complètent les essais randomisés, notamment pour les groupes sous‑représentés.",
+            "Les résultats peuvent éclairer la prescription, sans toutefois remplacer le jugement clinique individualisé."
+          ]
+        },
+        "de": {
+          "title": "Große Real‑World‑Studie untersucht Sicherheit gängiger Diabetes‑Medikamente bei älteren Erwachsenen",
+          "summary": "Eine groß angelegte Analyse aus der Versorgungspraxis unter Leitung von Yuan Lu und mitbeteiligt von Marc Suchard bewertet Sicherheitsereignisse bei häufig eingesetzten Medikamenten zur Behandlung von Typ‑2‑Diabetes in älteren Menschen, einer Gruppe, die in klinischen Studien oft unterrepräsentiert ist.",
+          "whyItMatters": "Ältere Erwachsene haben ein höheres Risiko für medikamentenbezogene Schäden, daher können umfassendere Sicherheitsdaten aus der realen Praxis die Auswahl von Therapien und die Gespräche zwischen Patientinnen/Patienten und Behandelnden besser informieren.",
+          "takeaways": [
+            "Die Studie liefert groß angelegte Sicherheitsdaten speziell für ältere Menschen mit Typ‑2‑Diabetes.",
+            "Echtwelt‑Evidenz ergänzt randomisierte Studien, besonders für unterrepräsentierte Gruppen.",
+            "Ergebnisse können die Verschreibungspraxis informieren, ersetzen aber nicht die individuelle klinische Entscheidungsfindung."
+          ]
+        },
+        "pt-br": {
+          "title": "Grande estudo em dados do mundo real examina segurança de medicamentos comuns para diabetes em idosos",
+          "summary": "Uma análise em grande escala baseada em dados do mundo real, liderada por Yuan Lu e co‑liderada por Marc Suchard, avalia desfechos de segurança de medicamentos comumente usados para o tratamento do diabetes tipo 2 em pessoas idosas, grupo frequentemente subrepresentado em ensaios clínicos.",
+          "whyItMatters": "Pessoas idosas enfrentam riscos maiores relacionados a medicamentos; assim, evidências de segurança vindas da prática clínica podem orientar escolhas de tratamento e o diálogo entre pacientes e profissionais.",
+          "takeaways": [
+            "O estudo fornece dados de segurança em grande escala específicos para idosos com diabetes tipo 2.",
+            "Evidência do mundo real complementa ensaios randomizados, especialmente para grupos subrepresentados.",
+            "Os resultados podem orientar prescrições, mas não substituem o juízo clínico individualizado."
+          ]
+        },
+        "hu": {
+          "title": "Nagy, valós világbeli vizsgálat a gyakori cukorbetegség-gyógyszerek biztonságosságáról időseknél",
+          "summary": "Egy nagy léptékű, valós világbeli elemzést vezetett Yuan Lu, társvezetője Marc Suchard; a vizsgálat a gyakran használt 2-es típusú diabétesz gyógyszerek biztonsági kimeneteleit értékeli idősebb felnőtteknél, akik gyakran alulreprezentáltak a vizsgálatokban.",
+          "whyItMatters": "Az idősebb felnőttek nagyobb gyógyszerrel kapcsolatos kockázatokkal néznek szembe, ezért a valós világbeli adatokból származó szélesebb körű biztonsági bizonyítékok segíthetnek a kezelési választások és a beteg–orvos párbeszéd tájékoztatásában.",
+          "takeaways": [
+            "A vizsgálat nagy léptékű biztonsági adatokat szolgáltat kifejezetten idősebb, 2-es típusú diabéteszes betegek számára.",
+            "A valós világbeli bizonyíték kiegészíti a randomizált vizsgálatokat, különösen az alulreprezentált csoportok esetében.",
+            "Az eredmények iránymutatóak lehetnek a felírásnál, de nem helyettesítik az egyéni klinikai megítélést."
+          ]
+        },
+        "ar": {
+          "title": "دراسة واسعة في العالم الحقيقي تفحص سلامة الأدوية الشائعة لمرضى السكري من النوع 2 لدى كبار السن",
+          "summary": "أجرى يوان لو، وبالتشارك مع مارك سوتشارد، تحليلًا واسع النطاق في ظروف العالم الحقيقي لتقييم مآلات السلامة للأدوية الشائعة لمرضى السكري من النوع 2 لدى البالغين كبار السن، وهم فئة غالبًا ما تكون ممثلة تمثيلاً ناقصًا في التجارب.",
+          "whyItMatters": "يواجه كبار السن مخاطر أعلى مرتبطة بالأدوية، لذا فإن أدلة السلامة الأوسع المستمدة من بيانات العالم الحقيقي يمكن أن تُثري قرارات العلاج والحوار بين المرضى والأطباء.",
+          "takeaways": [
+            "توفر الدراسة بيانات سلامة واسعة النطاق مخصصة لكبار السن المصابين بالسكري من النوع 2.",
+            "تكمل أدلة العالم الحقيقي التجارب العشوائية، خاصةً للفئات الممثلة تمثيلاً ناقصًا.",
+            "قد تُعلم النتائج وصف الأدوية لكنها لا تغني عن الحكم السريري الفردي."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=safer-diabetes-meds-older-adults-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/safer-diabetes-meds-older-adults-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/safer-diabetes-meds-older-adults-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Large real-world study examines safety of common diabetes drugs in older adults.\nStory summary: A large-scale, real-world analysis led by Yuan Lu and co-led by Marc Suchard evaluates safety outcomes of commonly used type 2 diabetes medications in older people, a group often underrepresented in trials..\nCategory: medication safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "daytime-napping-mortality-2026-04-29",
+      "category": "sleep & aging",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/daytime-napping-and-mortality-association-in-older-adults/?utm_source=rss&",
+      "sourceTitle": "Daytime Napping and Mortality Association in Older Adults",
+      "publishedAt": "Wed, 29 Apr 2026 16:12:07 +0000",
+      "languages": {
+        "en": {
+          "title": "Longer and more frequent daytime naps linked to higher mortality in older adults (association only)",
+          "summary": "A recent study found that older adults who nap more often or for longer durations had a higher likelihood of mortality. The authors suggest using nap patterns as potential behavioral markers of health.",
+          "whyItMatters": "Napping habits may reflect underlying health or sleep problems; tracking nap frequency and duration could help identify individuals who merit medical review, but the study does not establish causation.",
+          "takeaways": [
+            "Longer and more frequent naps were associated with increased mortality risk in this study.",
+            "Association does not prove that napping causes harm; naps may signal other health issues.",
+            "Researchers propose nap patterns as behavioral markers to study further."
+          ]
+        },
+        "es": {
+          "title": "Siestas diurnas más largas y frecuentes vinculadas a mayor mortalidad en adultos mayores (solo asociación)",
+          "summary": "Un estudio reciente encontró que los adultos mayores que duermen siestas con mayor frecuencia o por más tiempo tenían una mayor probabilidad de mortalidad. Los autores sugieren que los patrones de siesta podrían servir como marcadores conductuales potenciales de salud.",
+          "whyItMatters": "Los hábitos de siesta pueden reflejar problemas subyacentes de salud o sueño; rastrear la frecuencia y duración de las siestas podría ayudar a identificar personas que merecen revisión médica, pero el estudio no establece causalidad.",
+          "takeaways": [
+            "En este estudio, siestas más largas y frecuentes se asociaron con mayor riesgo de mortalidad.",
+            "La asociación no demuestra que las siestas causen daño; pueden señalar otros problemas de salud.",
+            "Los investigadores proponen los patrones de siesta como marcadores conductuales que conviene estudiar más."
+          ]
+        },
+        "ru": {
+          "title": "Длительные и частые дневные дремы связаны с более высокой смертностью у пожилых (только ассоциация)",
+          "summary": "Недавнее исследование показало, что пожилые люди, которые дремлют чаще или дольше, имели более высокую вероятность смерти. Авторы предлагают рассматривать шаблоны дневного сна как потенциальные поведенческие маркёры состояния здоровья.",
+          "whyItMatters": "Привычки дневного сна могут отражать скрытые проблемы со здоровьем или со сном; отслеживание частоты и продолжительности дремот может помочь выявить людей, которым целесообразно пройти медицинское обследование, однако исследование не устанавливает причинно‑следственную связь.",
+          "takeaways": [
+            "В исследовании длительные и частые дремы ассоциировались с повышенным риском смертности.",
+            "Ассоциация не доказывает, что дремы причиняют вред; они могут быть признаком других проблем со здоровьем.",
+            "Исследователи предлагают рассматривать шаблоны дневного сна как поведенческие маркёры для дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Довші та частіші денні дрімки пов'язані з вищою смертністю у літніх людей (тільки асоціація)",
+          "summary": "Нещодавнє дослідження виявило, що літні люди, які дрімають частіше або довше, мали вищу ймовірність смертності. Автори пропонують використовувати патерни дрімання як потенційні поведінкові маркери стану здоров'я.",
+          "whyItMatters": "Звички дрімання можуть відображати приховані проблеми зі здоров'ям або сном; відстеження частоти і тривалості дрімок може допомогти визначити людей, які потребують медичного огляду, але дослідження не встановлює причинно‑наслідкового зв'язку.",
+          "takeaways": [
+            "У цьому дослідженні довші і частіші дрімки були пов'язані з підвищеним ризиком смертності.",
+            "Асоціація не доводить, що дрімання спричиняє шкоду; дрімки можуть сигналізувати про інші проблеми зі здоров'ям.",
+            "Дослідники пропонують вивчати патерни дрімання як поведінкові маркери для подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Siestes diurnes plus longues et plus fréquentes associées à une mortalité accrue chez les personnes âgées (association uniquement)",
+          "summary": "Une étude récente a constaté que les personnes âgées qui faisaient des siestes plus souvent ou plus longtemps présentaient une probabilité de mortalité plus élevée. Les auteurs suggèrent d'utiliser les habitudes de sieste comme marqueurs comportementaux potentiels de l'état de santé.",
+          "whyItMatters": "Les habitudes de sieste peuvent refléter des problèmes de santé ou de sommeil sous‑jacents; suivre la fréquence et la durée des siestes pourrait aider à identifier des personnes nécessitant un examen médical, mais l'étude n'établit pas de causalité.",
+          "takeaways": [
+            "Dans cette étude, des siestes plus longues et plus fréquentes ont été associées à un risque de mortalité accru.",
+            "Une association n'implique pas que la sieste cause un préjudice; elle peut signaler d'autres problèmes de santé.",
+            "Les chercheurs proposent d'explorer davantage les habitudes de sieste comme marqueurs comportementaux."
+          ]
+        },
+        "de": {
+          "title": "Längere und häufigere Tagesschläfchen mit höherer Mortalität bei älteren Erwachsenen verbunden (nur Assoziation)",
+          "summary": "Eine aktuelle Studie fand, dass ältere Menschen, die öfter oder länger tagsüber schlafen, eine höhere Sterblichkeitswahrscheinlichkeit aufwiesen. Die Autoren schlagen vor, Schlafmuster als mögliche Verhaltensmarker für den Gesundheitszustand zu nutzen.",
+          "whyItMatters": "Schlafgewohnheiten am Tag können Hinweise auf zugrundeliegende Gesundheits‑ oder Schlafprobleme geben; das Beobachten von Häufigkeit und Dauer von Nickerchen könnte helfen, Personen für eine medizinische Abklärung zu identifizieren, jedoch stellt die Studie keinen ursächlichen Zusammenhang her.",
+          "takeaways": [
+            "In dieser Studie waren längere und häufigere Nickerchen mit einem erhöhten Mortalitätsrisiko verbunden.",
+            "Eine Assoziation beweist nicht, dass Nickerchen schädlich sind; Nickerchen können andere Gesundheitsprobleme widerspiegeln.",
+            "Forscher schlagen vor, Nickerchenmuster als Verhaltensmarker für weitergehende Untersuchungen zu nutzen."
+          ]
+        },
+        "pt-br": {
+          "title": "Sonecas diurnas mais longas e frequentes associadas a maior mortalidade em idosos (apenas associação)",
+          "summary": "Um estudo recente encontrou que idosos que cochilam com mais frequência ou por períodos mais longos apresentaram maior probabilidade de mortalidade. Os autores sugerem que padrões de cochilo podem servir como potenciais marcadores comportamentais de saúde.",
+          "whyItMatters": "Hábitos de cochilo podem refletir problemas de saúde ou de sono subjacentes; monitorar frequência e duração dos cochilos pode ajudar a identificar pessoas que merecem avaliação médica, mas o estudo não estabelece causalidade.",
+          "takeaways": [
+            "Cochilos diurnos mais longos e frequentes foram associados a maior risco de mortalidade neste estudo.",
+            "Associação não prova que cochilar causa dano; cochilos podem sinalizar outros problemas de saúde.",
+            "Pesquisadores propõem estudar padrões de cochilo como marcadores comportamentais para investigações futuras."
+          ]
+        },
+        "hu": {
+          "title": "Hosszabb és gyakoribb nappali szunyókálások összefüggése magasabb halálozással időseknél (csak összefüggés)",
+          "summary": "Egy friss tanulmány azt találta, hogy azoknál az időseknél, akik gyakrabban vagy hosszabban szundikáltak, nagyobb volt a halálozás valószínűsége. A szerzők azt javasolják, hogy a szunyókálási mintázatokat potenciális magatartásos jelzőként használják az egészség állapotának felméréséhez.",
+          "whyItMatters": "A szunyókálási szokások tükrözhetik a háttérben álló egészségi vagy alvási problémákat; a szunyókálás gyakoriságának és időtartamának nyomon követése segíthet azonosítani az orvosi kivizsgálást igénylő személyeket, de a tanulmány nem állapít meg ok-okozati kapcsolatot.",
+          "takeaways": [
+            "Ebben a tanulmányban a hosszabb és gyakoribb szunyókálások összefüggtek a megnövekedett halálozási kockázattal.",
+            "Az összefüggés nem bizonyítja, hogy a szunyókálás ártalmas; a szunyókálás más egészségi problémák jele lehet.",
+            "A kutatók további tanulmányozásra javasolják a szunyókálási mintákat mint viselkedéses marker."
+          ]
+        },
+        "ar": {
+          "title": "قِيلَات نهارية أطول وأكثر تكرارًا مرتبطة بارتفاع الوفيات لدى كبار السن (ارتباط فقط)",
+          "summary": "وجدت دراسة حديثة أن البالغين كبار السن الذين ينامون قيلولة أكثر تواترًا أو مدة أطول ارتفعت لديهم احتمالية الوفيات. يقترح المؤلفون اعتبار أنماط القيلولة مؤشرات سلوكية محتملة للحالة الصحية.",
+          "whyItMatters": "قد تعكس عادات القيلولة مشكلات صحية أو نوم كامنة؛ وقد يساعد تتبّع تكرار ومدّة القيلولات في تحديد الأشخاص الذين يستدعيهم تقييم طبي، لكن الدراسة لا تثبت علاقة سببية.",
+          "takeaways": [
+            "في هذه الدراسة، ارتبطت القيلولات الأطول والأكثر تواترًا بزيادة مخاطر الوفيات.",
+            "الارتباط لا يثبت أن القيلولة تسبب ضررًا؛ فقد تكون علامة على مشاكل صحية أخرى.",
+            "اقترح الباحثون مواصلة دراسة أنماط القيلولة كعلامات سلوكية محتملة."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=daytime-napping-mortality-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/daytime-napping-mortality-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/daytime-napping-mortality-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Longer and more frequent daytime naps linked to higher mortality in older adults (association only).\nStory summary: A recent study found that older adults who nap more often or for longer durations had a higher likelihood of mortality. The authors suggest using nap patterns as potential behavioral markers of health..\nCategory: sleep & aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "eating-primes-immune-cells-2026-04-29",
+      "category": "immunology & nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-primes-immune-cells-future-responses.html",
+      "sourceTitle": "How eating primes immune cells for future responses",
+      "publishedAt": "Wed, 29 Apr 2026 11:00:23 EDT",
+      "languages": {
+        "en": {
+          "title": "Meals can rapidly modify immune cell behavior, researchers report",
+          "summary": "New work explores how eating affects the immune system in the short term, showing that dietary intake can prime immune cells and influence their future responses.",
+          "whyItMatters": "Acute effects of meals on immune function are less studied than long-term diet; understanding these rapid changes may help refine nutritional strategies related to infection and inflammation research.",
+          "takeaways": [
+            "Diet can produce rapid, measurable changes in immune cell activity after a meal.",
+            "Short-term nutritional effects add a layer to longer-term diet–immune relationships.",
+            "Research is early-stage; applications for clinical guidance are not established."
+          ]
+        },
+        "es": {
+          "title": "Las comidas pueden modificar rápidamente el comportamiento de las células inmunitarias, informan los investigadores",
+          "summary": "Un nuevo trabajo explora cómo la ingesta alimentaria afecta al sistema inmunitario a corto plazo, mostrando que la dieta puede preparar (primar) a las células inmunitarias e influir en sus respuestas futuras.",
+          "whyItMatters": "Los efectos agudos de las comidas sobre la función inmunitaria están menos estudiados que la dieta a largo plazo; entender estos cambios rápidos podría ayudar a afinar estrategias nutricionales en la investigación sobre infecciones e inflamación.",
+          "takeaways": [
+            "La dieta puede producir cambios rápidos y medibles en la actividad de las células inmunitarias tras una comida.",
+            "Los efectos nutricionales a corto plazo añaden una capa a las relaciones dieta‑inmunidad a largo plazo.",
+            "La investigación está en fases iniciales; no se han establecido aplicaciones para la orientación clínica."
+          ]
+        },
+        "ru": {
+          "title": "Приёмы пищи могут быстро изменять поведение иммунных клеток, сообщают исследователи",
+          "summary": "Новое исследование изучает, как питание влияет на иммунную систему в краткосрочной перспективе, показывая, что приём пищи может «подготовить» иммунные клетки и повлиять на их будущие реакции.",
+          "whyItMatters": "Острые эффекты приёма пищи на иммунную функцию изучены хуже, чем влияние долгосрочной диеты; понимание этих быстрых изменений может помочь уточнить нутриционные подходы в исследованиях инфекций и воспаления.",
+          "takeaways": [
+            "Диета может вызывать быстрые и измеримые изменения активности иммунных клеток после приёма пищи.",
+            "Краткосрочные пищевые эффекты дополняют понимание долгосрочных взаимоотношений между диетой и иммунитетом.",
+            "Исследование ранней стадии; применение в клической практике не установлено."
+          ]
+        },
+        "uk": {
+          "title": "Прийом їжі може швидко змінювати поведінку імунних клітин, повідомляють дослідники",
+          "summary": "Нова робота вивчає, як їжа впливає на імунну систему в короткостроковій перспективі, показуючи, що харчування може підготувати імунні клітини і впливати на їхні майбутні відповіді.",
+          "whyItMatters": "Гострі ефекти прийому їжі на імунну функцію вивчені гірше, ніж тривала дієта; розуміння цих швидких змін може допомогти уточнити харчові підходи у дослідженнях інфекцій і запалення.",
+          "takeaways": [
+            "Дієта може викликати швидкі, вимірні зміни активності імунних клітин після прийому їжі.",
+            "Короткострокові харчові ефекти додають шар до довгострокових взаємозв'язків між дієтою та імунітетом.",
+            "Дослідження знаходиться на ранньому етапі; застосування в клінічних рекомендаціях не встановлене."
+          ]
+        },
+        "fr": {
+          "title": "Les repas peuvent modifier rapidement le comportement des cellules immunitaires, rapportent les chercheurs",
+          "summary": "Un nouveau travail explore comment l'alimentation affecte à court terme le système immunitaire, montrant que la prise alimentaire peut « préparer » les cellules immunitaires et influencer leurs réponses ultérieures.",
+          "whyItMatters": "Les effets aigus des repas sur la fonction immunitaire sont moins étudiés que l'impact alimentaire à long terme; comprendre ces changements rapides pourrait aider à affiner des stratégies nutritionnelles liées à la recherche sur les infections et l'inflammation.",
+          "takeaways": [
+            "L'alimentation peut provoquer des changements rapides et mesurables de l'activité des cellules immunitaires après un repas.",
+            "Les effets nutritionnels à court terme ajoutent une dimension aux relations diète–immunité à long terme.",
+            "La recherche en est à un stade précoce; les applications pour la pratique clinique ne sont pas établies."
+          ]
+        },
+        "de": {
+          "title": "Mahlzeiten können das Verhalten von Immunzellen rasch verändern, berichten Forschende",
+          "summary": "Neue Arbeiten untersuchen, wie Essen das Immunsystem kurzfristig beeinflusst und zeigen, dass Nahrungsaufnahme Immunzellen ‚primen‘ kann und deren künftige Reaktionen beeinflusst.",
+          "whyItMatters": "Kurzfristige Effekte von Mahlzeiten auf die Immunfunktion sind weniger untersucht als langfristige Ernährungswirkungen; das Verständnis dieser schnellen Veränderungen könnte dazu beitragen, Ernährungsstrategien im Zusammenhang mit Infektions‑ und Entzündungsforschung zu verfeinern.",
+          "takeaways": [
+            "Ernährung kann nach einer Mahlzeit schnelle, messbare Veränderungen in der Aktivität von Immunzellen bewirken.",
+            "Kurzfristige ernährungsbedingte Effekte ergänzen die längerfristigen Beziehungen zwischen Ernährung und Immunsystem.",
+            "Die Forschung befindet sich in einem frühen Stadium; Anwendungen für klinische Empfehlungen sind nicht etabliert."
+          ]
+        },
+        "pt-br": {
+          "title": "Refeições podem modificar rapidamente o comportamento de células imunes, relatam pesquisadores",
+          "summary": "Novo trabalho explora como a alimentação afeta o sistema imune a curto prazo, mostrando que a ingestão de alimentos pode 'preparar' células imunes e influenciar suas respostas futuras.",
+          "whyItMatters": "Os efeitos agudos das refeições na função imune são menos estudados do que os efeitos de longo prazo da dieta; entender essas mudanças rápidas pode ajudar a aprimorar estratégias nutricionais relacionadas à pesquisa sobre infecção e inflamação.",
+          "takeaways": [
+            "A dieta pode provocar mudanças rápidas e mensuráveis na atividade de células imunes após uma refeição.",
+            "Efeitos nutricionais de curto prazo adicionam uma camada às relações dieta–imunidade de longo prazo.",
+            "A pesquisa ainda é inicial; aplicações para orientação clínica não estão estabelecidas."
+          ]
+        },
+        "hu": {
+          "title": "Az étkezés gyorsan módosíthatja az immunsejtek viselkedését, jelentik a kutatók",
+          "summary": "Új kutatás azt vizsgálja, hogyan hat rövid távon az étkezés az immunrendszerre, és kimutatja, hogy a táplálékbevitel gyorsan „felkészítheti” az immunsejteket, befolyásolva későbbi válaszaikat.",
+          "whyItMatters": "Az étkezések akut hatásait kevesebb kutatás vizsgálta, mint a hosszú távú étrendet; ezeknek a gyors változásoknak a megértése hozzájárulhat az olyan táplálkozási megközelítések finomításához, amelyek kapcsolatban állnak a fertőzés- és gyulladáskutatással.",
+          "takeaways": [
+            "A táplálkozás gyors, mérhető változásokat idézhet elő az immunsejtek aktivitásában egy étkezést követően.",
+            "A rövid távú táplálkozási hatások réteget adnak a hosszabb távú étrend–immun kapcsolat megértéséhez.",
+            "A kutatás még korai stádiumban van; klinikai iránymutatásokra vonatkozó alkalmazások nem állnak rendelkezésre."
+          ]
+        },
+        "ar": {
+          "title": "الوجبات يمكن أن تغير سلوك الخلايا المناعية بسرعة، وفقًا للباحثين",
+          "summary": "تستكشف دراسة جديدة كيف يؤثر تناول الطعام قصيرًا على الجهاز المناعي، وتظهر أن المدخول الغذائي يمكن أن يهيئ الخلايا المناعية ويؤثر في استجابتها المستقبلية.",
+          "whyItMatters": "تمت دراسة التأثيرات الحادة للوجبات أقل من تأثيرات النظام الغذائي طويلة الأمد؛ وقد يساعد فهم هذه التغيرات السريعة في تحسين استراتيجيات التغذية المرتبطة بأبحاث العدوى والالتهاب.",
+          "takeaways": [
+            "يمكن أن ينتج عن النظام الغذائي تغييرات سريعة وقابلة للقياس في نشاط الخلايا المناعية بعد الوجبة.",
+            "تضيف التأثيرات القصيرة الأمد بعدًا لعلاقات النظام الغذائي طويلة الأمد مع المناعة.",
+            "الأبحاث في مهدها؛ ولا توجد تطبيقات موجهة للإرشاد السريري حتى الآن."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=eating-primes-immune-cells-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eating-primes-immune-cells-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eating-primes-immune-cells-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Meals can rapidly modify immune cell behavior, researchers report.\nStory summary: New work explores how eating affects the immune system in the short term, showing that dietary intake can prime immune cells and influence their future responses..\nCategory: immunology & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "prehab-exercise-nutrition-surgery-2026-04-29",
+      "category": "perioperative nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-optimizing-nutrition-surgery-boosts-patient.html",
+      "sourceTitle": "Optimizing exercise and nutrition before surgery boosts patient outcomes, review finds",
+      "publishedAt": "Wed, 29 Apr 2026 10:00:05 EDT",
+      "languages": {
+        "en": {
+          "title": "Pre-surgery exercise and nutritional support linked to fewer complications and shorter hospital stays",
+          "summary": "A JACS review reports that structured preoperative programs combining exercise and nutrition—often called prehabilitation—can reduce surgical complications and shorten hospital length of stay.",
+          "whyItMatters": "Preparing patients physically and nutritionally before elective surgery may improve recovery and resource use; this supports integrating prehabilitation into surgical planning where appropriate.",
+          "takeaways": [
+            "Combined exercise and nutrition support before surgery showed benefits in a review.",
+            "Prehabilitation was associated with fewer complications and shorter hospital stays.",
+            "Implementation details and patient selection vary; clinicians should consider individual circumstances."
+          ]
+        },
+        "es": {
+          "title": "El ejercicio y el apoyo nutricional antes de la cirugía se asocian con menos complicaciones y estancias hospitalarias más cortas",
+          "summary": "Una revisión en JACS informa que los programas preoperatorios estructurados que combinan ejercicio y nutrición —a menudo denominados prehabilitación— pueden reducir las complicaciones quirúrgicas y acortar la estancia hospitalaria.",
+          "whyItMatters": "Preparar a los pacientes física y nutricionalmente antes de una cirugía electiva puede mejorar la recuperación y el uso de recursos; esto respalda integrar la prehabilitación en la planificación quirúrgica cuando sea apropiado.",
+          "takeaways": [
+            "La combinación de ejercicio y apoyo nutricional antes de la cirugía mostró beneficios en una revisión.",
+            "La prehabilitación se asoció con menos complicaciones y estancias hospitalarias más cortas.",
+            "Los detalles de implementación y la selección de pacientes varían; los clínicos deben considerar las circunstancias individuales."
+          ]
+        },
+        "ru": {
+          "title": "Упражнения и нутриционная поддержка перед операцией связаны с меньшим числом осложнений и сокращением сроков госпитализации",
+          "summary": "Обзор в JACS сообщает, что структурированные предоперационные программы, объединяющие упражнения и питание — часто называемые прехабилитацией — могут снизить хирургические осложнения и сократить продолжительность пребывания в больнице.",
+          "whyItMatters": "Физическая и нутриционная подготовка пациентов перед плановой операцией может улучшить восстановление и экономно использовать ресурсы; это поддерживает включение прехабилитации в планирование операций при соответствующих показаниях.",
+          "takeaways": [
+            "Сочетание упражнений и нутриционной поддержки перед операцией показало пользу в обзоре.",
+            "Прехабилитация ассоциировалась с меньшим числом осложнений и более короткой госпитализацией.",
+            "Детали реализации и выбор пациентов варьируются; врачам следует учитывать индивидуальные обстоятельства."
+          ]
+        },
+        "uk": {
+          "title": "Підготовчі вправи та нутріційна підтримка перед операцією пов'язані з меншою кількістю ускладнень і коротшою госпіталізацією",
+          "summary": "Огляд у JACS повідомляє, що структуровані передопераційні програми, що поєднують вправи та харчову підтримку — часто звані препабілітацією — можуть зменшити хірургічні ускладнення та скоротити тривалість перебування в лікарні.",
+          "whyItMatters": "Фізична та нутріційна підготовка пацієнтів перед плановою операцією може покращити відновлення та використання ресурсів; це підсилює аргумент на користь інтеграції препабілітації в планування операцій за наявності показань.",
+          "takeaways": [
+            "Поєднані програми вправ і харчової підтримки перед операцією показали користь у огляді.",
+            "Препабілітація була пов'язана з меншою кількістю ускладнень і коротшим перебуванням у лікарні.",
+            "Деталі впровадження та підбір пацієнтів варіюють; клініцисти повинні враховувати індивідуальні обставини."
+          ]
+        },
+        "fr": {
+          "title": "Exercice et soutien nutritionnel avant chirurgie associés à moins de complications et à des séjours hospitaliers plus courts",
+          "summary": "Une revue dans le JACS rapporte que des programmes préopératoires structurés combinant exercice et nutrition — souvent appelés préhabilitation — peuvent réduire les complications chirurgicales et raccourcir la durée d'hospitalisation.",
+          "whyItMatters": "Préparer les patients physiquement et nutritionnellement avant une chirurgie élective peut améliorer la récupération et l'utilisation des ressources; cela soutient l'intégration de la préhabilitation dans la planification chirurgicale lorsque cela est approprié.",
+          "takeaways": [
+            "Un soutien combiné en exercice et nutrition avant la chirurgie a montré des bénéfices dans la revue.",
+            "La préhabilitation a été associée à moins de complications et à des séjours hospitaliers plus courts.",
+            "Les modalités d'implémentation et la sélection des patients varient; les cliniciens doivent considérer les circonstances individuelles."
+          ]
+        },
+        "de": {
+          "title": "Vor Operation: Kombinierte Trainings‑ und Ernährungsunterstützung mit weniger Komplikationen und kürzeren Krankenhausaufenthalten verbunden",
+          "summary": "Ein JACS‑Review berichtet, dass strukturierte präoperative Programme, die Bewegung und Ernährung kombinieren (häufig als Prähabilitation bezeichnet), chirurgische Komplikationen reduzieren und die Krankenhausverweildauer verkürzen können.",
+          "whyItMatters": "Patienten körperlich und ernährungsmäßig vor elektiven Operationen vorzubereiten, kann die Erholung und den Ressourceneinsatz verbessern; dies spricht dafür, Prähabilitation dort in die chirurgische Planung zu integrieren, wo es angemessen ist.",
+          "takeaways": [
+            "Kombinierte Trainings‑ und Ernährungsunterstützung vor Operationen zeigte in einer Übersichtsarbeit Vorteile.",
+            "Prähabilitation war mit weniger Komplikationen und kürzeren Krankenhausaufenthalten verbunden.",
+            "Details zur Umsetzung und die Auswahl passender Patientinnen/Patienten variieren; Kliniker sollten individuelle Umstände berücksichtigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Exercício e suporte nutricional antes da cirurgia associados a menos complicações e estadias hospitalares mais curtas",
+          "summary": "Uma revisão do JACS relata que programas pré‑operatórios estruturados que combinam exercício e nutrição — frequentemente chamados de pré‑habilitação — podem reduzir complicações cirúrgicas e encurtar o tempo de internação hospitalar.",
+          "whyItMatters": "Preparar pacientes fisicamente e nutricionalmente antes de cirurgias eletivas pode melhorar a recuperação e o uso de recursos; isso apoia a integração da pré‑habilitação no planejamento cirúrgico quando apropriado.",
+          "takeaways": [
+            "Suporte combinado de exercício e nutrição antes da cirurgia mostrou benefícios em uma revisão.",
+            "A pré‑habilitação associou‑se a menos complicações e estadias hospitalares mais curtas.",
+            "Detalhes de implementação e seleção de pacientes variam; os clínicos devem considerar circunstâncias individuais."
+          ]
+        },
+        "hu": {
+          "title": "Műtét előtti testmozgás és táplálkozási támogatás összefüggése kevesebb komplikációval és rövidebb kórházi tartózkodással",
+          "summary": "Egy JACS-áttekintés szerint a strukturált, műtét előtti programok, amelyek kombinálják a testmozgást és a táplálkozást (prehabilitáció), csökkenthetik a műtéti komplikációkat és lerövidíthetik a kórházi tartózkodás hosszát.",
+          "whyItMatters": "A betegek fizikai és táplálkozási előkészítése elektív műtét előtt javíthatja a felépülést és az erőforrás-használatot; ez alátámasztja a prehabilitáció integrálását a műtéti tervezésbe, ahol indokolt.",
+          "takeaways": [
+            "A műtét előtti, kombinált testmozgás és táplálkozási támogatás előnyöket mutatott egy áttekintés szerint.",
+            "A prehabilitáció összefüggött kevesebb komplikációval és rövidebb kórházi tartózkodással.",
+            "A megvalósítás részletei és a betegek kiválasztása változó; a klinikusoknak egyéni körülményeket kell figyelembe venniük."
+          ]
+        },
+        "ar": {
+          "title": "التمارين والدعم الغذائي قبل الجراحة مرتبطان بمضاعفات أقل وفترات إقامة أقصر في المستشفى",
+          "summary": "تُفيد مراجعة في JACS أن برامج ما قبل التأهيل المنظمة، التي تجمع بين التمارين والدعم الغذائي قبل الجراحة، يمكن أن تقلل من المضاعفات وتجعل مدة الإقامة في المستشفى أقصر.",
+          "whyItMatters": "يمكن أن يحسّن تجهيز المرضى بدنيًا وغذائيًا قبل الجراحة الاختيارية التعافي واستخدام الموارد؛ وتدعم النتائج دمج ما قبل التأهيل في تخطيط الجراحة حينما يكون ذلك مناسبًا.",
+          "takeaways": [
+            "أظهر الدعم الجمعي للتمارين والتغذية قبل الجراحة فوائد في المراجعة.",
+            "كان ما قبل التأهيل مرتبطًا بمضاعفات أقل وإقامات أقصر بالمستشفى.",
+            "تختلف تفاصيل التطبيق واختيار المرضى؛ وينبغي على الأطباء مراعاة الظروف الفردية."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=prehab-exercise-nutrition-surgery-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/prehab-exercise-nutrition-surgery-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/prehab-exercise-nutrition-surgery-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pre-surgery exercise and nutritional support linked to fewer complications and shorter hospital stays.\nStory summary: A JACS review reports that structured preoperative programs combining exercise and nutrition—often called prehabilitation—can reduce surgical complications and shorten hospital length of stay..\nCategory: perioperative nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "energy-network-patterns-alzheimers-2026-04-29",
+      "category": "Alzheimer's research",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-scientists-energy-network-patterns-brain.html",
+      "sourceTitle": "Scientists map &#039;energy network patterns&#039; in brain to track Alzheimer&#039;s disease across disease spectrum",
+      "publishedAt": "Wed, 29 Apr 2026 07:20:01 EDT",
+      "languages": {
+        "en": {
+          "title": "New method maps brain 'energy networks' to track Alzheimer's progression",
+          "summary": "Investigators at Indiana University developed an approach to analyze the brain's energy network patterns, providing new markers that reflect Alzheimer’s disease progression across different stages.",
+          "whyItMatters": "Improved tools to detect and stage Alzheimer's could refine diagnosis and monitoring, but clinical utility depends on further validation and translation into practice.",
+          "takeaways": [
+            "Energy network mapping offers a novel way to read brain function in Alzheimer's disease.",
+            "The method may help detect and stage disease progression across the spectrum.",
+            "Further testing is needed to determine clinical relevance and reliability."
+          ]
+        },
+        "es": {
+          "title": "Nuevo método mapea 'patrones de redes energéticas' cerebrales para seguir la progresión del Alzheimer",
+          "summary": "Investigadores de la Universidad de Indiana desarrollaron un enfoque para analizar los patrones de redes energéticas del cerebro, proporcionando nuevos marcadores que reflejan la progresión de la enfermedad de Alzheimer a lo largo de diferentes etapas.",
+          "whyItMatters": "Mejorar las herramientas para detectar y estadificar el Alzheimer podría afinar el diagnóstico y el seguimiento, pero la utilidad clínica depende de validación adicional y de su traducción a la práctica.",
+          "takeaways": [
+            "El mapeo de redes energéticas ofrece una forma novedosa de interpretar la función cerebral en la enfermedad de Alzheimer.",
+            "El método podría ayudar a detectar y estadificar la progresión de la enfermedad a lo largo del espectro.",
+            "Se necesita más ensayo para determinar la relevancia clínica y la fiabilidad."
+          ]
+        },
+        "ru": {
+          "title": "Новый метод картирует «энергетические сети» мозга для отслеживания прогрессирования болезни Альцгеймера",
+          "summary": "Исследователи из Университета Индианы разработали подход для анализа закономерностей энергетических сетей мозга, предоставив новые маркёры, отражающие прогрессирование болезни Альцгеймера на разных стадиях.",
+          "whyItMatters": "Усовершенствованные инструменты для диагностики и стадирования Альцгеймера могут уточнить диагноз и мониторинг, но клиническая ценность зависит от дальнейшей валидации и внедрения в практику.",
+          "takeaways": [
+            "Картирование энергетических сетей предлагает новый способ интерпретации мозговой активности при болезни Альцгеймера.",
+            "Метод может помочь в выявлении и стадировании прогрессирования заболевания по всему спектру.",
+            "Необходимо дополнительное тестирование для определения клинической значимости и надёжности."
+          ]
+        },
+        "uk": {
+          "title": "Новий метод відображає «енергетичні мережі» мозку для відстеження прогресування хвороби Альцгеймера",
+          "summary": "Дослідники з Індіани розробили підхід для аналізу моделей енергетичних мереж мозку, що дає нові маркери, які відображають прогресування хвороби Альцгеймера на різних стадіях.",
+          "whyItMatters": "Кращі інструменти для виявлення та стадіювання Альцгеймера можуть удосконалити діагностику та моніторинг, але клінічна користь залежить від подальшої валідації та впровадження в практику.",
+          "takeaways": [
+            "Картування енергетичних мереж пропонує новий спосіб інтерпретувати функцію мозку при хворобі Альцгеймера.",
+            "Метод може допомогти виявляти та оцінювати стадію розвитку хвороби в її спектрі.",
+            "Потрібні додаткові випробування, щоб встановити клінічну релевантність і надійність."
+          ]
+        },
+        "fr": {
+          "title": "Une nouvelle méthode cartographie les « réseaux énergétiques » du cerveau pour suivre la progression de l'Alzheimer",
+          "summary": "Des chercheurs de l'Indiana University ont développé une approche pour analyser les modèles de réseaux énergétiques du cerveau, fournissant de nouveaux marqueurs qui reflètent la progression de la maladie d'Alzheimer à différents stades.",
+          "whyItMatters": "Des outils améliorés pour détecter et stadifier l'Alzheimer pourraient affiner le diagnostic et le suivi, mais l'utilité clinique dépend de validations supplémentaires et de la traduction en pratique.",
+          "takeaways": [
+            "La cartographie des réseaux énergétiques offre une nouvelle façon d'interpréter la fonction cérébrale dans la maladie d'Alzheimer.",
+            "La méthode pourrait aider à détecter et à stadifier la progression de la maladie à travers son spectre.",
+            "Des tests complémentaires sont nécessaires pour déterminer la pertinence clinique et la fiabilité."
+          ]
+        },
+        "de": {
+          "title": "Neue Methode kartiert Gehirn‑'Energienetzwerke', um Alzheimer‑Fortschreiten nachzuverfolgen",
+          "summary": "Wissenschaftler der Indiana University entwickelten einen Ansatz zur Analyse von Energienetzwerkmustern im Gehirn, der neue Marker liefert, die das Fortschreiten der Alzheimer‑Krankheit über verschiedene Stadien widerspiegeln.",
+          "whyItMatters": "Verbesserte Werkzeuge zur Erkennung und Stadieneinteilung von Alzheimer könnten Diagnose und Verlaufskontrolle verfeinern, aber der klinische Nutzen hängt von weiterer Validierung und Umsetzung in die Praxis ab.",
+          "takeaways": [
+            "Die Kartierung von Energienetzwerken bietet eine neuartige Möglichkeit, Gehirnfunktion bei Alzheimer zu analysieren.",
+            "Die Methode könnte helfen, Krankheitsprogression über das Spektrum hinweg zu erkennen und zu stufen.",
+            "Weitere Tests sind nötig, um die klinische Relevanz und Zuverlässigkeit zu bestimmen."
+          ]
+        },
+        "pt-br": {
+          "title": "Novo método mapeia 'redes de energia' cerebrais para acompanhar a progressão do Alzheimer",
+          "summary": "Pesquisadores da Indiana University desenvolveram uma abordagem para analisar padrões das redes de energia do cérebro, fornecendo novos marcadores que refletem a progressão da doença de Alzheimer em diferentes estágios.",
+          "whyItMatters": "Ferramentas aprimoradas para detectar e estadiar o Alzheimer podem refinar o diagnóstico e o monitoramento, mas a utilidade clínica depende de validação adicional e tradução para a prática clínica.",
+          "takeaways": [
+            "Mapeamento das redes de energia oferece uma nova forma de interpretar a função cerebral no Alzheimer.",
+            "O método pode ajudar a detectar e estadiar a progressão da doença ao longo do espectro.",
+            "São necessários mais testes para determinar relevância clínica e confiabilidade."
+          ]
+        },
+        "hu": {
+          "title": "Új módszer térképezi az agy „energiahálózatait” az Alzheimer-betegség előrehaladásának nyomon követéséhez",
+          "summary": "Indiana Egyetem kutatói olyan megközelítést dolgoztak ki az agy energiahálózati mintázatainak elemzésére, amely új markereket szolgáltathat az Alzheimer-kór előrehaladásának tükrözésére a különböző stádiumokban.",
+          "whyItMatters": "A jobb eszközök az Alzheimer felismerésére és stádiumának meghatározására finomíthatják a diagnózist és a követést, de a klinikai hasznosság további validálástól és gyakorlati átalakítástól függ.",
+          "takeaways": [
+            "Az energiahálózat-térképezés újszerű módot kínál az agyi működés olvasására Alzheimer-betegségben.",
+            "A módszer segíthet a betegség előrehaladásának kimutatásában és stádiumozásában.",
+            "További tesztelés szükséges a klinikai jelentőség és megbízhatóság megállapításához."
+          ]
+        },
+        "ar": {
+          "title": "طريقة جديدة ترسم 'شبكات الطاقة' في الدماغ لتتبع تقدم مرض الزهايمر",
+          "summary": "طور باحثون في جامعة إنديانا نهجًا لتحليل نمط شبكات الطاقة في الدماغ، مما يوفر مؤشرات جديدة تعكس تقدم مرض الزهايمر عبر مراحله المختلفة.",
+          "whyItMatters": "قد تساعد أدوات محسنة لاكتشاف وتحديد مراحل الزهايمر في تحسين التشخيص والرصد، لكن الفائدة السريرية تعتمد على مزيد من التوثيق والتحويل إلى الممارسة العملية.",
+          "takeaways": [
+            "يقدّم رسم شبكات الطاقة طريقة جديدة لقراءة وظيفة الدماغ في مرض الزهايمر.",
+            "قد تساعد الطريقة في اكتشاف وتحديد مرحلة تقدم المرض عبر الطيف.",
+            "ثمة حاجة لاختبارات إضافية لتحديد الصلة والموثوقية السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=energy-network-patterns-alzheimers-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/energy-network-patterns-alzheimers-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/energy-network-patterns-alzheimers-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New method maps brain 'energy networks' to track Alzheimer's progression.\nStory summary: Investigators at Indiana University developed an approach to analyze the brain's energy network patterns, providing new markers that reflect Alzheimer’s disease progression across different stages..\nCategory: Alzheimer's research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "menopause-ai-molecular-impact-2026-04-29",
+      "category": "women's health & aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-04-age-alike-ai-unveils-molecular.html",
+      "sourceTitle": "Not all organs age alike: AI unveils the molecular impact of menopause across the female body",
+      "publishedAt": "Wed, 29 Apr 2026 05:00:03 EDT",
+      "languages": {
+        "en": {
+          "title": "AI analysis reveals organ-specific molecular changes linked to menopause",
+          "summary": "Using artificial intelligence, researchers characterized how menopause influences molecular signatures across different organs, highlighting that menopausal changes are not uniform throughout the body.",
+          "whyItMatters": "The findings emphasize the complexity of postmenopausal biology and the need for targeted research and care approaches for women in midlife and beyond.",
+          "takeaways": [
+            "Menopause produces distinct molecular effects in different organs rather than a uniform aging pattern.",
+            "AI can uncover complex, system-wide changes that warrant focused follow-up studies.",
+            "Results underline gaps in research on menopause and postmenopausal health."
+          ]
+        },
+        "es": {
+          "title": "El análisis con IA revela cambios moleculares específicos por órgano vinculados a la menopausia",
+          "summary": "Usando inteligencia artificial, los investigadores caracterizaron cómo la menopausia influye en las firmas moleculares de distintos órganos, subrayando que los cambios menopáusicos no son uniformes en todo el cuerpo.",
+          "whyItMatters": "Los hallazgos enfatizan la complejidad de la biología posmenopáusica y la necesidad de investigaciones y enfoques de atención dirigidos para las mujeres en la mediana edad y más allá.",
+          "takeaways": [
+            "La menopausia provoca efectos moleculares distintos en diferentes órganos, en lugar de un patrón uniforme de envejecimiento.",
+            "La IA puede descubrir cambios complejos a nivel de sistemas que requieren estudios de seguimiento centrados.",
+            "Los resultados ponen de manifiesto las lagunas en la investigación sobre la menopausia y la salud posmenopáusica."
+          ]
+        },
+        "ru": {
+          "title": "Анализ с помощью ИИ выявляет органоспецифические молекулярные изменения, связанные с менопаузой",
+          "summary": "Используя искусственный интеллект, исследователи охарактеризовали, как менопауза влияет на молекулярные сигнатуры разных органов, подчёркивая, что менопаузальные изменения не одинаковы по всему организму.",
+          "whyItMatters": "Результаты подчёркивают сложность биологии после менопаузы и необходимость целенаправленных исследований и подходов к уходу за женщинами в среднем возрасте и старше.",
+          "takeaways": [
+            "Менопауза вызывает различные молекулярные эффекты в разных органах, а не единый паттерн старения.",
+            "ИИ позволяет обнаружить сложные системные изменения, требующие дальнейших целенаправленных исследований.",
+            "Результаты подчёркивают пробелы в исследованиях менопаузы и постменопаузального здоровья."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз ШІ виявляє орган‑специфічні молекулярні зміни, пов'язані з менопаузою",
+          "summary": "Використовуючи штучний інтелект, дослідники охарактеризували, як менопауза впливає на молекулярні відбитки в різних органах, підкреслюючи, що менопаузні зміни не є одноманітними по всьому тілу.",
+          "whyItMatters": "Результати підкреслюють складність постменопаузної біології і потребу в цільових дослідженнях та підходах до спостереження і догляду за жінками середнього віку та старше.",
+          "takeaways": [
+            "Менопауза спричиняє різні молекулярні ефекти в різних органах, а не є універсальним патерном старіння.",
+            "ШІ може виявляти складні системні зміни, що вимагають цілеспрямованого подальшого дослідження.",
+            "Результати підкреслюють прогалини в дослідженнях менопаузи та здоров'я в постменопаузі."
+          ]
+        },
+        "fr": {
+          "title": "Une analyse par IA révèle des changements moléculaires spécifiques aux organes liés à la ménopause",
+          "summary": "En utilisant l'intelligence artificielle, des chercheurs ont caractérisé comment la ménopause influence les signatures moléculaires à travers différents organes, soulignant que les changements ménopausiques ne sont pas uniformes dans tout le corps.",
+          "whyItMatters": "Les résultats mettent en évidence la complexité de la biologie postménopausique et la nécessité de recherches ciblées et d'approches de prise en charge pour les femmes en milieu de vie et au‑delà.",
+          "takeaways": [
+            "La ménopause produit des effets moléculaires distincts selon les organes plutôt qu'un modèle uniforme de vieillissement.",
+            "L'IA peut déceler des changements complexes à l'échelle des systèmes qui méritent des études de suivi ciblées.",
+            "Les résultats soulignent des lacunes dans la recherche sur la ménopause et la santé postménopausique."
+          ]
+        },
+        "de": {
+          "title": "KI‑Analyse zeigt organspezifische molekulare Veränderungen im Zusammenhang mit der Menopause",
+          "summary": "Mithilfe künstlicher Intelligenz charakterisierten Forschende, wie die Menopause molekulare Signaturen in verschiedenen Organen beeinflusst und hob hervor, dass menopausale Veränderungen nicht einheitlich im gesamten Körper verlaufen.",
+          "whyItMatters": "Die Ergebnisse betonen die Komplexität der postmenopausalen Biologie und den Bedarf an zielgerichteter Forschung und Versorgung für Frauen in der Lebensmitte und darüber hinaus.",
+          "takeaways": [
+            "Die Menopause verursacht in verschiedenen Organen unterschiedliche molekulare Effekte statt eines einheitlichen Alterungsmusters.",
+            "KI kann komplexe, systemweite Veränderungen aufdecken, die vertiefende Folgestudien rechtfertigen.",
+            "Die Ergebnisse machen Lücken in der Forschung zu Menopause und postmenopausaler Gesundheit deutlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise por IA revela mudanças moleculares específicas por órgão associadas à menopausa",
+          "summary": "Usando inteligência artificial, pesquisadores caracterizaram como a menopausa influencia assinaturas moleculares em diferentes órgãos, destacando que as mudanças menopausais não são uniformes por todo o corpo.",
+          "whyItMatters": "As descobertas enfatizam a complexidade da biologia pós‑menopausa e a necessidade de pesquisa direcionada e abordagens de cuidado para mulheres na meia‑idade e além.",
+          "takeaways": [
+            "A menopausa produz efeitos moleculares distintos em diferentes órgãos, em vez de um padrão uniforme de envelhecimento.",
+            "IA pode revelar mudanças complexas e em todo o sistema que merecem estudos de acompanhamento focados.",
+            "Os resultados ressaltam lacunas na pesquisa sobre menopausa e saúde pós‑menopausa."
+          ]
+        },
+        "hu": {
+          "title": "A mesterséges intelligencia elemzése szervspecifikus molekuláris változásokat tár fel, amelyek a menopauzához kapcsolódnak",
+          "summary": "AI segítségével a kutatók jellemezték, hogyan befolyásolja a menopauza a különböző szervek molekuláris ujjlenyomatait, kiemelve, hogy a menopauzához kapcsolódó változások nem egységesek az egész testen.",
+          "whyItMatters": "Az eredmények hangsúlyozzák a posztmenopauzális biológia összetettségét és a célzott kutatásra, valamint a középkorú és idősebb nők ellátására irányuló megközelítések szükségességét.",
+          "takeaways": [
+            "A menopauza eltérő molekuláris hatásokat fejt ki különböző szervekben, nem egységes öregedési mintát eredményezve.",
+            "Az AI képes feltárni összetett, rendszerszintű változásokat, amelyek további részletes vizsgálatot igényelnek.",
+            "Az eredmények rámutatnak a menopauza és a posztmenopauzális egészség kutatásának hiányosságaira."
+          ]
+        },
+        "ar": {
+          "title": "تحليل بالذكاء الاصطناعي يكشف تغيّرات جزيئية خاصة بكل عضو مرتبطة بسن اليأس",
+          "summary": "بواسطة الذكاء الاصطناعي، وصف الباحثون كيف يؤثر انقطاع الطمث على البصمات الجزيئية عبر أعضاء مختلفة، مؤكّدين أن تغيّرات سن اليأس ليست موحدة في كافة أنحاء الجسم.",
+          "whyItMatters": "تؤكد النتائج تعقيد بيولوجيا ما بعد انقطاع الطمث والحاجة إلى أبحاث ونهج رعاية مستهدفة للنساء في منتصف العمر وما بعده.",
+          "takeaways": [
+            "يُحدث سن اليأس تأثيرات جزيئية مميزة في أعضاء مختلفة بدلاً من نمط شيخوخة موحّد.",
+            "يمكن للذكاء الاصطناعي كشف تغيّرات نظاميّة معقّدة تستدعي متابعة ودراسات مركّزة.",
+            "تسلّط النتائج الضوء على ثغرات في البحث حول سن اليأس وصحة ما بعده."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=menopause-ai-molecular-impact-2026-04-29",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/menopause-ai-molecular-impact-2026-04-29-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/menopause-ai-molecular-impact-2026-04-29-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI analysis reveals organ-specific molecular changes linked to menopause.\nStory summary: Using artificial intelligence, researchers characterized how menopause influences molecular signatures across different organs, highlighting that menopausal changes are not uniform throughout the body..\nCategory: women's health & aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ndma-children-vulnerability-2026-04-28",
+      "category": "environmental health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260428045546.htm",
+      "sourceTitle": "MIT study finds children more vulnerable to cancer-causing chemical in water",
+      "publishedAt": "Wed, 29 Apr 2026 01:06:52 EDT",
+      "languages": {
+        "en": {
+          "title": "MIT mouse study suggests higher cancer susceptibility to NDMA in young animals",
+          "summary": "In mouse experiments, young animals exposed to NDMA—an environmental contaminant found in some water, medicines, and processed foods—developed more DNA damage and cancers than adults given the same exposure, potentially due to faster cell division in young tissues.",
+          "whyItMatters": "If similar vulnerabilities apply to humans, childhood exposure to NDMA could carry greater long-term risk, informing public-health monitoring and regulation of contaminants in water and food.",
+          "takeaways": [
+            "NDMA exposure produced more DNA damage and cancer in young versus adult mice in this study.",
+            "Faster cell division in young animals may amplify early DNA lesions into lasting mutations.",
+            "Findings point to the importance of evaluating age-specific risks for environmental contaminants."
+          ]
+        },
+        "es": {
+          "title": "Estudio en ratones del MIT sugiere mayor susceptibilidad al cáncer por NDMA en animales jóvenes",
+          "summary": "En experimentos con ratones, animales jóvenes expuestos a NDMA —un contaminante ambiental presente en algunas aguas, medicamentos y alimentos procesados— desarrollaron más daño del ADN y cánceres que los adultos sometidos a la misma exposición, posiblemente debido a una división celular más rápida en los tejidos jóvenes.",
+          "whyItMatters": "Si vulnerabilidades similares se aplicaran a humanos, la exposición infantil a NDMA podría comportar un mayor riesgo a largo plazo, lo que informaría la vigilancia de la salud pública y la regulación de contaminantes en agua y alimentos.",
+          "takeaways": [
+            "En este estudio, la exposición a NDMA produjo más daño en el ADN y cánceres en ratones jóvenes frente a adultos.",
+            "La división celular más rápida en animales jóvenes puede amplificar lesiones tempranas del ADN en mutaciones duraderas.",
+            "Los hallazgos subrayan la importancia de evaluar riesgos según la edad para contaminantes ambientales."
+          ]
+        },
+        "ru": {
+          "title": "Исследование MIT на мышах указывает на повышенную восприимчивость к раку от NDMA у молодых животных",
+          "summary": "В экспериментах на мышах молодые особи, подвергавшиеся воздействию NDMA — экологического загрязнителя, встречающегося в некоторых источниках воды, лекарствах и переработанных продуктах — демонстрировали больше повреждений ДНК и случаев рака, чем взрослые при той же экспозиции, возможно из‑за более быстрой делящейся природы тканей у молодых животных.",
+          "whyItMatters": "Если сходная уязвимость имеет место и у людей, детская экспозиция NDMA может нести более высокий долгосрочный риск, что важно учитывать при общественном контроле и регулировании загрязнителей в воде и пище.",
+          "takeaways": [
+            "В исследовании воздействие NDMA вызывало больше повреждений ДНК и развития рака у молодых мышей по сравнению со взрослыми.",
+            "Более быстрая клеточная пролиферация у молодых животных может превратить ранние повреждения ДНК в стойкие мутации.",
+            "Результаты указывают на важность оценки рисков загрязнителей с учётом возраста."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах MIT припускає вищу сприйнятливість до раку після впливу NDMA у молодих тварин",
+          "summary": "В експериментах на мишах молоді тварини, яким давали NDMA — екологічний забруднювач, що зустрічається іноді у воді, ліках і перероблених продуктах — мали більше ушкоджень ДНК та більше випадків раку, ніж дорослі за тих же умов впливу, можливо через швидше ділення клітин у молодих тканинах.",
+          "whyItMatters": "Якщо подібна вразливість існує у людей, дитячий вплив NDMA може нести більш тривалий ризик, що має значення для моніторингу громадського здоров'я і регулювання забруднювачів у воді та харчуванні.",
+          "takeaways": [
+            "У цьому дослідженні вплив NDMA спричиняв більше ушкоджень ДНК і раку у молодих мишей порівняно з дорослими.",
+            "Швидше ділення клітин у молодих тварин може посилювати перші ушкодження ДНК до стійких мутацій.",
+            "Результати підкреслюють важливість оцінки ризиків для забруднювачів з урахуванням віку."
+          ]
+        },
+        "fr": {
+          "title": "Une étude sur souris du MIT suggère une susceptibilité accrue au cancer liée au NDMA chez les jeunes animaux",
+          "summary": "Dans des expériences chez la souris, de jeunes animaux exposés au NDMA — un contaminant environnemental présent parfois dans l'eau, certains médicaments et aliments transformés — ont présenté davantage de dommages à l'ADN et de cancers que des adultes exposés de la même manière, possiblement en raison d'une division cellulaire plus rapide dans les tissus jeunes.",
+          "whyItMatters": "Si des vulnérabilités similaires s'appliquent aux humains, l'exposition infantile au NDMA pourrait entraîner un risque à plus long terme, ce qui influe sur la surveillance de santé publique et la réglementation des contaminants dans l'eau et l'alimentation.",
+          "takeaways": [
+            "L'exposition au NDMA a provoqué plus de dommages à l'ADN et de cancers chez les jeunes souris que chez les adultes dans cette étude.",
+            "Une division cellulaire plus rapide chez les jeunes animaux pourrait transformer des lésions initiales de l'ADN en mutations durables.",
+            "Les résultats soulignent l'importance d'évaluer les risques des contaminants environnementaux en tenant compte de l'âge."
+          ]
+        },
+        "de": {
+          "title": "MIT‑Mausstudie legt nahe, dass junge Tiere gegenüber NDMA krebsanfälliger sind",
+          "summary": "In Mausversuchen entwickelten junge Tiere, die NDMA ausgesetzt wurden — ein Umweltkontaminant, das in einigen Wasserquellen, Arzneimitteln und verarbeiteten Lebensmitteln vorkommen kann — mehr DNA‑Schäden und Tumoren als erwachsene Tiere bei gleicher Exposition. Dies könnte auf die schnellere Zellteilung in jungen Geweben zurückzuführen sein.",
+          "whyItMatters": "Falls ähnliche Verwundbarkeiten beim Menschen gelten, könnte eine Kindexposition gegenüber NDMA ein größeres langfristiges Risiko bedeuten und wäre relevant für Überwachung und Regulierung von Kontaminanten in Wasser und Lebensmitteln.",
+          "takeaways": [
+            "In der Studie verursachte NDMA bei jungen Mäusen mehr DNA‑Schäden und Krebs als bei erwachsenen Mäusen.",
+            "Schnellere Zellteilung in jungen Tieren könnte frühe DNA‑Schäden in dauerhafte Mutationen verstärken.",
+            "Die Befunde heben hervor, wie wichtig die Bewertung altersabhängiger Risiken für Umweltkontaminanten ist."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em camundongos do MIT sugere maior suscetibilidade ao câncer por NDMA em animais jovens",
+          "summary": "Em experimentos com camundongos, animais jovens expostos ao NDMA — um contaminante ambiental encontrado em algumas águas, medicamentos e alimentos processados — desenvolveram mais danos ao DNA e mais cânceres do que adultos expostos à mesma dose, possivelmente devido à divisão celular mais rápida nos tecidos jovens.",
+          "whyItMatters": "Se vulnerabilidades semelhantes ocorrerem em humanos, a exposição infantil ao NDMA poderia acarretar maior risco a longo prazo, o que tem implicações para monitoramento e regulação de contaminantes em água e alimentos.",
+          "takeaways": [
+            "A exposição ao NDMA produziu mais danos ao DNA e câncer em camundongos jovens do que em adultos neste estudo.",
+            "Divisão celular mais rápida em animais jovens pode amplificar lesões iniciais no DNA em mutações persistentes.",
+            "Os achados apontam para a importância de avaliar riscos específicos por faixa etária de contaminantes ambientais."
+          ]
+        },
+        "hu": {
+          "title": "MIT egérkísérlet arra utal, hogy a fiatal állatok nagyobb rákérzékenységet mutatnak az NDMA-val szemben",
+          "summary": "Egérkísérletekben a fiatal állatok, amelyek NDMA-nak voltak kitéve — egy környezeti szennyező anyagnak, amely egyes vizekben, gyógyszerekben és feldolgozott élelmiszerekben előfordulhat — több DNS-károsodást és rákot fejlesztettek ki, mint a felnőttek azonos expozíció esetén; ez részben a fiatal szövetek gyorsabb sejtosztódásának tulajdonítható.",
+          "whyItMatters": "Ha hasonló érzékenység emberre is érvényes, a gyermekkori NDMA-expozíció hosszú távon nagyobb kockázatot jelenthet; ez befolyásolhatja a közegészségügyi ellenőrzést és a vízben/élelmiszerekben lévő szennyezők szabályozását.",
+          "takeaways": [
+            "A tanulmányban az NDMA-expozíció több DNS-károsodást és rákot eredményezett fiatal egerekben, mint felnőttekben.",
+            "A fiatal állatok gyorsabb sejtosztódása felerősítheti a korai DNS-sérülések rögzülését mutációkká.",
+            "Az eredmények hangsúlyozzák az életkor-specifikus kockázatok vizsgálatának fontosságát környezeti szennyezők esetén."
+          ]
+        },
+        "ar": {
+          "title": "دراسة على الفئران بمعهد MIT تشير إلى حساسية أعلى للسرطان تجاه NDMA لدى الحيوانات الصغيرة",
+          "summary": "في تجارب على الفئران، ظهر أن الحيوانات الصغيرة المعرضة لمركب NDMA — وهو ملوث بيئي يوجد أحيانًا في بعض المياه والأدوية والأطعمة المصنعة — تعرّضت لمزيد من تلف الـDNA وحدوث أورام مقارنة بالبالغين المعرّضين لنفس الجرعة، وقد يعود ذلك جزئيًا إلى انقسام الخلايا الأسرع في أنسجة الصغار.",
+          "whyItMatters": "إذا كانت هذه الحساسية المماثلة تنطبق على البشر، فقد يعني تعرّض الأطفال لـNDMA مخاطر طويلة الأمد أكبر، مما قد يؤثر على مراقبة الصحة العامة وتنظيم الملوثات في المياه والأغذية.",
+          "takeaways": [
+            "أدى التعرض لـNDMA إلى مزيد من تلف الـDNA وحدوث سرطانات في الفئران الصغيرة مقارنة بالبالغين في هذه الدراسة.",
+            "قد يضخّم الانقسام الخلوي الأسرع في الحيوانات الصغيرة الإصابات المبكرة في الـDNA إلى طفرات دائمة.",
+            "تشير النتائج إلى أهمية تقييم مخاطر الملوثات البيئية حسب الفئة العمرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ndma-children-vulnerability-2026-04-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ndma-children-vulnerability-2026-04-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ndma-children-vulnerability-2026-04-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: MIT mouse study suggests higher cancer susceptibility to NDMA in young animals.\nStory summary: In mouse experiments, young animals exposed to NDMA—an environmental contaminant found in some water, medicines, and processed foods—developed more DNA damage and cancers than adults given the same exposure, potentially due to faster cell division in young tissues..\nCategory: environmental health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "cognitive-decline-precedes-cvd-2026-04-28",
       "category": "cardiometabolic health",
@@ -342,120 +1198,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Research clarifies how lingering PCBs affect gene activity differently by sex and other factors.\nStory summary: Two UC Davis MIND Institute studies examined how polychlorinated biphenyls (PCBs), though banned long ago, continue to influence genetic activity. The work identified differences in biological responses by sex and suggested interactions with genetic background and a common vitamin..\nCategory: environment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "dasatinib-quercetin-brain-2026-04-28",
-      "category": "longevity research",
+      "id": "senolytic-dq-brain-damage-2026-04-28",
+      "category": "anti-aging therapy safety",
       "sourceName": "lifespan.io",
       "sourceUrl": "https://lifespan.io/a-popular-senolytic-treatment-causes-brain-damage-in-mice/?utm_source=rss&",
       "sourceTitle": "A Popular Senolytic Treatment Causes Brain Damage in Mice",
       "publishedAt": "Tue, 28 Apr 2026 19:52:24 +0000",
       "languages": {
         "en": {
-          "title": "Common senolytic combo linked to brain damage in a mouse study",
-          "summary": "A new experiment reports that the widely used senolytic combination dasatinib plus quercetin produced damage in certain brain regions in mice, prompting calls for caution and more safety research.",
-          "whyItMatters": "Senolytic therapies are being explored for age-related benefits; evidence of potential brain harm in animals highlights the importance of rigorous safety evaluation before broader use.",
+          "title": "Study raises safety concerns after senolytic combo harms mouse brain regions",
+          "summary": "A preclinical study reports that the commonly studied senolytic combination dasatinib plus quercetin (D+Q) caused damage in certain brain regions of mice, with patterns resembling aspects of multiple sclerosis.",
+          "whyItMatters": "Senolytics are being explored for longevity benefits; these animal safety signals suggest the need for careful preclinical and clinical safety evaluation before wider human use.",
           "takeaways": [
-            "Dasatinib + quercetin (D+Q) is a commonly studied senolytic pairing.",
-            "In this mouse study, D+Q was associated with region-specific brain damage.",
-            "Animal findings raise safety questions that need more investigation in other models and humans.",
-            "The result underscores that anti-aging interventions can have complex, context-dependent effects."
+            "Dasatinib plus quercetin caused region-specific brain damage in mice in this study.",
+            "Effects resembled pathology seen in demyelinating conditions, prompting caution.",
+            "Additional safety studies are needed before considering clinical translation."
           ]
         },
         "es": {
-          "title": "Combinación senolítica común vinculada a daño cerebral en un estudio en ratones",
-          "summary": "Un nuevo experimento informa que la combinación senolítica ampliamente utilizada dasatinib más quercetina produjo daño en ciertas regiones cerebrales en ratones, lo que ha motivado llamados a la precaución y a más investigaciones de seguridad.",
-          "whyItMatters": "Las terapias senolíticas se exploran por posibles beneficios relacionados con la edad; la evidencia de daño cerebral potencial en animales subraya la importancia de una evaluación rigurosa de seguridad antes de un uso más amplio.",
+          "title": "Estudio plantea preocupaciones de seguridad tras daño cerebral por combinación senolítica en ratones",
+          "summary": "Un estudio preclínico informa que la combinación senolítica comúnmente estudiada dasatinib más quercetina (D+Q) causó daños en ciertas regiones cerebrales de ratones, con patrones que recuerdan aspectos de la esclerosis múltiple.",
+          "whyItMatters": "Las senolíticas se exploran por sus posibles beneficios sobre la longevidad; estas señales de seguridad en animales sugieren la necesidad de evaluaciones de seguridad rigurosas en estudios preclínicos y clínicos antes de un uso humano más amplio.",
           "takeaways": [
-            "Dasatinib + quercetina (D+Q) es una combinación senolítica estudiada con frecuencia.",
-            "En este estudio en ratones, D+Q se asoció con daño cerebral específico por regiones.",
-            "Los hallazgos en animales plantean preguntas de seguridad que requieren investigación adicional en otros modelos y en humanos.",
-            "El resultado subraya que las intervenciones contra el envejecimiento pueden tener efectos complejos y dependientes del contexto."
+            "Dasatinib más quercetina causó daño en regiones cerebrales específico en ratones en este estudio.",
+            "Los efectos mostraron semejanzas con la patología de condiciones desmielinizantes, lo que llama a la precaución.",
+            "Se requieren estudios de seguridad adicionales antes de considerar la traducción clínica."
           ]
         },
         "ru": {
-          "title": "Популярная сенолитическая комбинация связана с повреждением мозга в исследовании на мышах",
-          "summary": "Новое экспериментальное исследование сообщает, что широко используемая сенолитическая комбинация дазатиниб плюс кверцетин вызвала повреждение в отдельных областях мозга у мышей, что привело к призывам к осторожности и дополнительной проверке безопасности.",
-          "whyItMatters": "Сенолитические терапии исследуются на предмет пользы при старении; свидетельства возможного вреда для мозга у животных подчёркивают важность строгой оценки безопасности перед широким применением.",
+          "title": "Исследование вызывает опасения по безопасности после повреждения мозга у мышей при применении сенолитиков",
+          "summary": "Предклиническое исследование сообщает, что часто изучаемая сенолитическая комбинация дазатиниб плюс кверцетин (D+Q) вызвала повреждения в отдельных областях мозга у мышей, с паттернами, напоминающими некоторые аспекты рассеянного склероза.",
+          "whyItMatters": "Сенолитики изучаются в контексте продления жизни; эти сигналы безопасности у животных указывают на необходимость тщательной предклинической и клинической оценки безопасности перед более широким применением у людей.",
           "takeaways": [
-            "Дазатиниб + кверцетин (D+Q) — часто изучаемая сенолитическая пара.",
-            "В этом исследовании на мышах D+Q была связана с повреждением мозга, ограниченным определёнными регионами.",
-            "Результаты у животных вызывают вопросы безопасности, требующие дальнейшего изучения в других моделях и у людей.",
-            "Исход подчёркивает, что интервенции против старения могут иметь сложные эффекты, зависящие от контекста."
+            "В исследовании дазатиниб в сочетании с кверцетином вызвал регионально‑специфические повреждения мозга у мышей.",
+            "Эффекты имели некоторое сходство с патологией при демиелинизирующих состояниях, что вызывает осторожность.",
+            "Требуются дополнительные исследования безопасности перед клинической трансляцией."
           ]
         },
         "uk": {
-          "title": "Поширена сенолітична комбінація пов'язана з ушкодженнями мозку в дослідженні на мишах",
-          "summary": "Нове експериментальне дослідження повідомляє, що широко вживана сенолітична комбінація дазатиніб плюс кверцетин спричинила ушкодження в окремих ділянках мозку в мишей, що викликає заклики до обережності та додаткових досліджень безпеки.",
-          "whyItMatters": "Сенолітичні терапії вивчаються на предмет користі при старінні; дані про можливу шкоду мозку в тварин підкреслюють важливість ретельної оцінки безпеки перед ширшим застосуванням.",
+          "title": "Дослідження викликає побоювання за безпеку після того, як комбінація сенолітиків ушкодила ділянки мозку мишей",
+          "summary": "Дослідження на доклінічній моделі повідомляє, що широко вивчена комбінація сенолітиків дазатиніб плюс кверцетин (D+Q) спричинила ушкодження в певних регіонах мозку мишей, з патернами, що нагадують деякі аспекти розсіяного склерозу.",
+          "whyItMatters": "Сенолітики досліджуються як можливі засоби для продовження тривалості життя; ці сигнали безпеки у тварин підкреслюють необхідність ретельної доклінічної та клінічної оцінки безпеки перед широким застосуванням у людей.",
           "takeaways": [
-            "Дазатиніб + кверцетин (D+Q) — часто досліджуване поєднання сенолітиків.",
-            "У цьому дослідженні на мишах D+Q асоціювався з регіонально‑специфічними ушкодженнями мозку.",
-            "Результати у тварин породжують питання безпеки, які потребують дослідження в інших моделях та людей.",
-            "Робота підкреслює, що інтервенції проти старіння можуть мати складні, залежні від контексту ефекти."
+            "У цьому дослідженні дазатиніб плюс кверцетин спричинили регіонально‑специфічне ушкодження мозку у мишей.",
+            "Ефекти нагадували патологію, спостережувану при демієлінізуючих станах, що викликає пересторогу.",
+            "Потрібні додаткові дослідження з безпеки перед розглядом клінічної трансляції."
           ]
         },
         "fr": {
-          "title": "Une combinaison sénolytique courante liée à des lésions cérébrales dans une étude chez la souris",
-          "summary": "Une nouvelle expérience rapporte que la combinaison sénolytique largement utilisée dasatinib plus quercétine a provoqué des lésions dans certaines régions du cerveau chez des souris, ce qui appelle à la prudence et à des recherches supplémentaires sur la sécurité.",
-          "whyItMatters": "Les thérapies sénolytiques sont étudiées pour leurs bénéfices potentiels liés au vieillissement ; des preuves de dommages cérébraux chez des animaux soulignent l'importance d'une évaluation rigoureuse de la sécurité avant un usage plus large.",
+          "title": "Une étude soulève des inquiétudes de sécurité après que la combinaison sénolytique a endommagé des régions cérébrales chez la souris",
+          "summary": "Une étude préclinique rapporte que la combinaison sénolytique couramment étudiée dasatinib plus quercétine (D+Q) a provoqué des lésions dans certaines régions du cerveau de souris, avec des schémas rappelant certains aspects de la sclérose en plaques.",
+          "whyItMatters": "Les sénolytiques sont explorés pour leurs potentiels effets sur la longévité; ces signaux de sécurité chez l'animal suggèrent la nécessité d'évaluations rigoureuses en préclinique et en clinique avant une utilisation plus large chez l'humain.",
           "takeaways": [
-            "Dasatinib + quercétine (D+Q) est un couple de sénolytiques couramment étudié.",
-            "Dans cette étude sur la souris, D+Q a été associé à des lésions cérébrales spécifiques à certaines régions.",
-            "Les constatations chez l'animal soulèvent des questions de sécurité qui nécessitent des investigations dans d'autres modèles et chez l'humain.",
-            "Le résultat souligne que les interventions anti‑âge peuvent avoir des effets complexes et dépendants du contexte."
+            "Dasatinib plus quercétine a provoqué des dommages cérébraux régionaux chez la souris dans cette étude.",
+            "Les effets ressemblaient à une pathologie observée dans des affections démyélinisantes, ce qui appelle à la prudence.",
+            "Des études de sécurité supplémentaires sont nécessaires avant toute traduction clinique."
           ]
         },
         "de": {
-          "title": "Geläufige senolytische Kombination mit Hirnschäden in Mausstudie in Verbindung gebracht",
-          "summary": "Ein neues Experiment berichtet, dass die weit verbreitete senolytische Kombination Dasatinib plus Quercetin in Mäusen Schäden in bestimmten Hirnregionen verursachte, was zu Appellen nach Vorsicht und weiterer Sicherheitsforschung führte.",
-          "whyItMatters": "Senolytische Therapien werden auf potenzielle altersbezogene Vorteile untersucht; Hinweise auf mögliche Gehirnschäden bei Tieren heben die Bedeutung rigoroser Sicherheitsbewertungen vor breiterer Anwendung hervor.",
+          "title": "Studie wirft Sicherheitsbedenken auf: Senolytische Kombi verursacht Hirnschäden bei Mäusen",
+          "summary": "Eine präklinische Studie berichtet, dass die häufig untersuchte senolytische Kombination Dasatinib plus Quercetin (D+Q) in bestimmten Hirnregionen von Mäusen Schäden verursachte, mit Mustern, die Aspekten der Multiplen Sklerose ähneln.",
+          "whyItMatters": "Senolytika werden als potenzielle Mittel zur Lebensverlängerung erforscht; diese Sicherheitssignale in Tierstudien sprechen für sorgfältige präklinische und klinische Sicherheitsprüfungen, bevor eine breitere Anwendung beim Menschen erwogen wird.",
           "takeaways": [
-            "Dasatinib + Quercetin (D+Q) ist eine häufig untersuchte senolytische Kombination.",
-            "In dieser Mausstudie war D+Q mit regionsspezifischen Hirnschäden assoziiert.",
-            "Tierbefunde werfen Sicherheitsfragen auf, die in anderen Modellen und beim Menschen weiter untersucht werden müssen.",
-            "Das Ergebnis unterstreicht, dass Anti‑Aging‑Interventionen komplexe, kontextabhängige Effekte haben können."
+            "Dasatinib plus Quercetin verursachte in dieser Studie regionenspezifische Hirnschäden bei Mäusen.",
+            "Die Effekte ähnelten Pathologien, die bei demyelinisierenden Erkrankungen beobachtet werden, was Vorsicht gebietet.",
+            "Weitere Sicherheitsstudien sind erforderlich, bevor eine klinische Übertragung in Betracht gezogen wird."
           ]
         },
         "pt-br": {
-          "title": "Combinação senolítica comum ligada a danos cerebrais em estudo com camundongos",
-          "summary": "Um novo experimento relata que a combinação senolítica amplamente usada dasatinibe mais quercetina produziu danos em certas regiões do cérebro em camundongos, o que gerou pedidos de cautela e mais pesquisas de segurança.",
-          "whyItMatters": "Terapias senolíticas estão sendo exploradas por benefícios relacionados ao envelhecimento; evidências de potenciais danos cerebrais em animais destacam a importância de avaliações rigorosas de segurança antes de uso mais amplo.",
+          "title": "Estudo levanta preocupações de segurança após combinação senolítica prejudicar regiões cerebrais em camundongos",
+          "summary": "Um estudo pré‑clínico relata que a combinação senolítica amplamente estudada dasatinibe mais quercetina (D+Q) causou danos em certas regiões cerebrais de camundongos, com padrões que lembram aspectos da esclerose múltipla.",
+          "whyItMatters": "Senolíticos estão sendo explorados por potenciais benefícios de longevidade; esses sinais de segurança em animais indicam a necessidade de avaliação cuidadosa em pré‑clínicos e ensaios clínicos antes de um uso mais amplo em humanos.",
           "takeaways": [
-            "Dasatinibe + quercetina (D+Q) é uma combinação senolítica comumente estudada.",
-            "Neste estudo com camundongos, D+Q esteve associado a danos cerebrais específicos por região.",
-            "Achados em animais levantam questões de segurança que precisam ser investigadas em outros modelos e em humanos.",
-            "O resultado ressalta que intervenções anti‑idade podem ter efeitos complexos e dependentes do contexto."
+            "Dasatinibe mais quercetina causou danos cerebrais regionais em camundongos neste estudo.",
+            "Os efeitos lembraram patologias vistas em condições desmielinizantes, sugerindo cautela.",
+            "São necessários estudos adicionais de segurança antes de considerar tradução clínica."
           ]
         },
         "hu": {
-          "title": "Egy gyakori szenolitikus kombináció agykárosodással hozható összefüggésbe egérkísérletben",
-          "summary": "Egy új kísérlet szerint a széles körben tanulmányozott szenolitikus kombináció, dasatinib és quercetin, bizonyos agyi régiókban károsodást okozott egerekben, ami óvatosságra és több biztonsági kutatásra hívja fel a figyelmet.",
-          "whyItMatters": "A szenolitikus terápiákat az öregedéssel kapcsolatos előnyök vizsgálatára használják; állati bizonyítékok a lehetséges agykárosodásról kiemelik a szigorú biztonsági értékelés fontosságát a szélesebb alkalmazás előtt.",
+          "title": "A tanulmány biztonsági aggodalmakat vet fel, miután egy szenolitikus kombináció károsította egerek agyterületeit",
+          "summary": "Egy preklinikai tanulmány szerint a gyakran vizsgált szenolitikus kombináció, a dasatinib plus quercetin (D+Q), bizonyos egéragy-területeken károsodást okozott, amely mintázataiban hasonlóságot mutatott a demyelinizáló állapotok egyes jellemzőivel, mint például a sclerosis multiplex.",
+          "whyItMatters": "A szenolitikumokat a várható élettartam-növelő hatások miatt vizsgálják; ezek az állati biztonsági jelek óvatosságra intenek, és alaposabb preklinikai és klinikai biztonsági vizsgálat szükségességét jelzik, mielőtt szélesebb emberi alkalmazásra kerülne sor.",
           "takeaways": [
-            "A dasatinib + quercetin (D+Q) gyakran tanulmányozott szenolitikus párosítás.",
-            "Ebben az egérvizsgálatban a D+Q régióspecifikus agykárosodással állt összefüggésben.",
-            "Az állati eredmények biztonsági kérdéseket vetnek fel, amelyeket más modellekben és emberekben is vizsgálni kell.",
-            "Az eredmény hangsúlyozza, hogy az öregedés elleni beavatkozások komplex, kontextusfüggő hatásokkal járhatnak."
+            "A dasatinib és quercetin kombinációja területspecifikus agykárosodást okozott egerekben ebben a tanulmányban.",
+            "A hatások emlékeztettek a demyelinizáló betegségek egyes patológiai jellemzőire, ami óvatosságot indokol.",
+            "További biztonsági vizsgálatok szükségesek a klinikai áttérés előtt."
           ]
         },
         "ar": {
-          "title": "تركيبة سِنوليتية شائعة ارتبطت بتلف الدماغ في دراسة على الفئران",
-          "summary": "تفيد تجربة جديدة أن التركيبة السِنوليتية المستخدمة على نطاق واسع داساتينيب مع كويرسيتين تسببت في تلف في مناطق عقلية معينة لدى الفئران، مما دعا إلى الحذر وإلى إجراء المزيد من أبحاث السلامة.",
-          "whyItMatters": "تُستكشف علاجات السِنوليتكس لفوائد مرتبطة بالعمر؛ وتبرز الأدلة على احتمال حدوث ضرر في الدماغ لدى الحيوانات أهمية إجراء تقييمات سلامة دقيقة قبل الاستخدام الأوسع.",
+          "title": "دراسة تثير مخاوف تتعلق بالسلامة بعد أن ألحق مزيج سِنوليتك ضررًا بمناطق دماغية لدى الفئران",
+          "summary": "تُبلغ دراسة قبل سريرية أن مزيج الداساتينيب مع الكيرسيتين (D+Q) تسبب في تلف مناطق دماغية معينة لدى الفئران، وأظهر أنماطًا تشابه بعض جوانب حالات فقدان الميالين، بما في ذلك ما يُشبه بعض سمات التصلب المتعدد.",
+          "whyItMatters": "يُستكشف استخدام السنوليتكس لفوائد تتعلق بالإطالة الحيوية؛ وتشير هذه الإشارات الأمنية في الحيوانات إلى الحاجة إلى تقييم سلامة دقيق قبل التفكير في تعميمها على البشر.",
           "takeaways": [
-            "داساتينيب + كويرسيتين (D+Q) زوج سِنوليتكي يتم دراسته بشكل شائع.",
-            "في هذه الدراسة على الفئران، ارتبطت D+Q بتلف دماغي محدد للمناطق.",
-            "تثير النتائج الحيوانية تساؤلات حول السلامة تتطلب مزيدًا من التحقيق في نماذج أخرى وفي البشر.",
-            "تشدد النتيجة على أن التدخلات المضادة للشيخوخة قد يكون لها آثار معقدة وتعتمد على السياق."
+            "تسبب مزيج داساتينيب+كيرسيتين في تلف دماغي محدد المناطق لدى الفئران في هذه الدراسة.",
+            "شابهت الآثار بعضًا من باثولوجيا حالات فقدان الميالين، ما يبرر الحذر.",
+            "هناك حاجة إلى مزيد من دراسات السلامة قبل الانتقال إلى التجارب السريرية."
           ]
         }
       },
-      "generatedAt": "2026-04-29T08:41:06.800Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dasatinib-quercetin-brain-2026-04-28",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dasatinib-quercetin-brain-2026-04-28-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dasatinib-quercetin-brain-2026-04-28-news.webp",
+      "generatedAt": "2026-04-29T17:08:22.339Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=senolytic-dq-brain-damage-2026-04-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/senolytic-dq-brain-damage-2026-04-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/senolytic-dq-brain-damage-2026-04-28-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Common senolytic combo linked to brain damage in a mouse study.\nStory summary: A new experiment reports that the widely used senolytic combination dasatinib plus quercetin produced damage in certain brain regions in mice, prompting calls for caution and more safety research..\nCategory: longevity research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study raises safety concerns after senolytic combo harms mouse brain regions.\nStory summary: A preclinical study reports that the commonly studied senolytic combination dasatinib plus quercetin (D+Q) caused damage in certain brain regions of mice, with patterns resembling aspects of multiple sclerosis..\nCategory: anti-aging therapy safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "adversity-frailty-aging-2026-04-28",
@@ -914,119 +1761,110 @@
     },
     {
       "id": "fruit-nuts-nafld-2026-04-28",
-      "category": "nutrition",
+      "category": "nutrition & liver health",
       "sourceName": "medicalxpress.com",
       "sourceUrl": "https://medicalxpress.com/news/2026-04-fruit-nuts-alcoholic-fatty-liver.html",
       "sourceTitle": "Fruit and nuts fight non-alcoholic fatty liver disease",
       "publishedAt": "Tue, 28 Apr 2026 09:20:05 EDT",
       "languages": {
         "en": {
-          "title": "Fruit and nuts may protect against non-alcoholic fatty liver disease, study reports",
-          "summary": "Researchers report that consuming fruit and nuts was associated with reduced risk of non-alcoholic fatty liver disease in a new paper, while a commonly used fiber supplement (inulin) showed potentially adverse effects that were counteracted in the study when combined with ellagic acid.",
-          "whyItMatters": "Dietary choices and supplements can influence liver-related conditions in unexpected ways; understanding which foods and additives help or harm could guide safer nutrition strategies and research.",
+          "title": "Study links fruit and nut intake with lower NAFLD risk; some fiber supplements may worsen it",
+          "summary": "Research from Edith Cowan University found associations suggesting fruit and nuts may help protect against non-alcoholic fatty liver disease, while the popular fiber supplement inulin was associated with worsening in experimental models; the researchers also report that ellagic acid reduced inulin's adverse effects in their work.",
+          "whyItMatters": "Dietary components can have differing impacts on liver health; the findings caution that not all supplements provide expected benefits and underline the need for nuanced dietary guidance backed by more research.",
           "takeaways": [
-            "Study authors found fruit and nuts linked with protective associations for NAFLD.",
-            "A popular fiber supplement (inulin) was reported to worsen aspects of the condition in the study context.",
-            "Combining ellagic acid with inulin reduced the reported adverse effects in this research.",
-            "Findings highlight the need for more trials before changing supplement or treatment choices."
+            "Fruit and nut consumption was associated with protection against NAFLD in this study.",
+            "Inulin, a common fiber supplement, was linked to adverse effects on liver health in the reported research.",
+            "Ellagic acid reduced inulin's negative effects in the study, but results require replication and clinical confirmation."
           ]
         },
         "es": {
-          "title": "Frutas y frutos secos podrían proteger contra la enfermedad hepática grasa no alcohólica, según un estudio",
-          "summary": "Investigadores informan que el consumo de frutas y frutos secos se asoció con un menor riesgo de enfermedad hepática grasa no alcohólica en un nuevo artículo, mientras que un suplemento de fibra de uso común (inulina) mostró efectos potencialmente adversos que en el estudio se contrarrestaron al combinarse con ácido elágico.",
-          "whyItMatters": "Las elecciones dietéticas y los suplementos pueden influir en afecciones relacionadas con el hígado de maneras inesperadas; entender qué alimentos y aditivos ayudan o perjudican podría orientar estrategias de nutrición más seguras y futuras investigaciones.",
+          "title": "Estudio asocia consumo de frutas y frutos secos con menor riesgo de NAFLD; algunos suplementos de fibra podrían empeorarlo",
+          "summary": "Investigadores de Edith Cowan University encontraron asociaciones que sugieren que las frutas y los frutos secos pueden proteger contra la enfermedad hepática grasa no alcohólica (NAFLD), mientras que el popular suplemento de fibra inulina se asoció con empeoramiento en modelos experimentales; los autores también informan que el ácido elágico redujo los efectos adversos de la inulina en su trabajo.",
+          "whyItMatters": "Los componentes dietéticos pueden tener impactos distintos en la salud hepática; los hallazgos advierten de que no todos los suplementos ofrecen beneficios esperados y subrayan la necesidad de una orientación dietética matizada respaldada por más investigación.",
           "takeaways": [
-            "Los autores del estudio encontraron que el consumo de frutas y frutos secos se asoció con efectos protectores frente a la enfermedad hepática grasa no alcohólica.",
-            "Un suplemento de fibra popular (inulina) se informó que empeoró aspectos de la afección en el contexto del estudio.",
-            "Combinar ácido elágico con inulina redujo los efectos adversos informados en esta investigación.",
-            "Los hallazgos subrayan la necesidad de más ensayos antes de cambiar elecciones de suplementos o tratamientos."
+            "El consumo de frutas y frutos secos se asoció con protección frente a NAFLD en este estudio.",
+            "La inulina, un suplemento de fibra común, se vinculó con efectos adversos sobre la salud hepática en la investigación reportada.",
+            "El ácido elágico redujo los efectos negativos de la inulina en el estudio, pero los resultados requieren replicación y confirmación clínica."
           ]
         },
         "ru": {
-          "title": "Фрукты и орехи могут защищать от неалкогольной жировой болезни печени, сообщает исследование",
-          "summary": "Исследователи сообщают, что потребление фруктов и орехов было связано со сниженным риском неалкогольной жировой болезни печени в новой работе, тогда как широко используемая добавка клетчатки (инулин) продемонстрировала потенциально неблагоприятные эффекты, которые в исследовании были ослаблены при сочетании с эллаговой кислотой.",
-          "whyItMatters": "Диетические выборы и добавки могут влиять на заболевания печени неожиданными способами; понимание того, какие продукты и добавки полезны или вредны, может помочь в разработке более безопасных рекомендаций по питанию и направить дальнейшие исследования.",
+          "title": "Исследование связывает употребление фруктов и орехов с пониженным риском NAFLD; некоторые пищевые волокна могут усугублять состояние",
+          "summary": "Исследователи из Edith Cowan University обнаружили ассоциации, указывающие на то, что фрукты и орехи могут защищать от неалкогольной жировой болезни печени (NAFLD), в то время как популярный волокнистый добавка инулин в экспериментальных моделях ассоциировалась с ухудшением; авторы также сообщают, что эллаговая кислота уменьшала вредные эффекты инулина в их работе.",
+          "whyItMatters": "Диетические компоненты могут по‑разному влиять на здоровье печени; эти выводы предупреждают, что не все добавки приносят ожидаемую пользу, и подчёркивают необходимость дифференцированных рекомендаций, основанных на дополнительных исследованиях.",
           "takeaways": [
-            "Авторы исследования обнаружили, что фрукты и орехи связаны с защитными ассоциациями в отношении неалкогольной жировой болезни печени.",
-            "Популярная добавка клетчатки (инулин) в ходе исследования была связана с ухудшением некоторых аспектов состояния.",
-            "Сочетание эллаговой кислоты с инулином снизило зарегистрированные неблагоприятные эффекты в этом исследовании.",
-            "Результаты подчёркивают необходимость проведения дополнительных испытаний перед изменением выбора добавок или методов лечения."
+            "В исследовании потребление фруктов и орехов ассоциировалось с защитой от NAFLD.",
+            "Инулин, популярная волоконная добавка, в представленном исследовании связана с неблагоприятными эффектами на печень.",
+            "Эллаговая кислота снизила негативные эффекты инулина в исследовании, но результаты требуют повторения и клинического подтверждения."
           ]
         },
         "uk": {
-          "title": "Фрукти та горіхи можуть захищати від неалкогольної жирової хвороби печінки, повідомляють дослідження",
-          "summary": "Дослідники повідомляють, що споживання фруктів і горіхів було пов'язане зі зниженим ризиком неалкогольної жирової хвороби печінки в новій публікації, тоді як популярна добавка клітковини (інулин) показала потенційно шкідливі ефекти, які в дослідженні були послаблені при поєднанні з еллаговою кислотою.",
-          "whyItMatters": "Харчові вибори та добавки можуть впливати на захворювання печінки непередбачуваними способами; розуміння того, які продукти та добавки допомагають або шкодять, може спрямувати безпечніші стратегії харчування та дослідження.",
+          "title": "Дослідження пов'язує вживання фруктів і горіхів з нижчим ризиком НАЖХП; деякі волокнисті добавки можуть погіршувати стан",
+          "summary": "Дослідження з Edith Cowan University виявило асоціації, що свідчать про те, що фрукти й горіхи можуть захищати від неалкогольної жирової хвороби печінки, тоді як популярна волокниста добавка інулін була асоційована з погіршенням в експериментальних моделях; дослідники також повідомили, що елагова кислота зменшила негативні ефекти інуліну в їхній роботі.",
+          "whyItMatters": "Харчові компоненти можуть мати різний вплив на здоров'я печінки; висновки застерігають, що не всі добавки дають очікувану користь і підкреслюють потребу в тонкому харчовому консультуванні, підкріпленому додатковими дослідженнями.",
           "takeaways": [
-            "Автори дослідження виявили, що фрукти й горіхи були пов’язані з захисними асоціаціями щодо НАЖХП.",
-            "Популярна добавка клітковини (інулин) у контексті дослідження повідомлялася як така, що погіршує окремі аспекти стану.",
-            "Комбінація еллагової кислоти з інуліном зменшила повідомлені шкідливі ефекти в цьому дослідженні.",
-            "Результати підкреслюють необхідність проведення додаткових випробувань перед зміною вибору добавок або підходів до лікування."
+            "Споживання фруктів і горіхів було пов'язане із захистом від НАЖХП у цьому дослідженні.",
+            "Інулін, поширена харчова добавка з клітковини, у повідомлених дослідженнях був пов'язаний з негативним впливом на здоров'я печінки.",
+            "Елагова кислота зменшила негативні ефекти інуліну в дослідженні, але результати потребують відтворення та клінічного підтвердження."
           ]
         },
         "fr": {
-          "title": "Les fruits et les noix pourraient protéger contre la stéatose hépatique non alcoolique, selon une étude",
-          "summary": "Des chercheurs rapportent que la consommation de fruits et de noix était associée à un risque réduit de stéatose hépatique non alcoolique dans un nouvel article, tandis qu'un supplément de fibres couramment utilisé (inuline) a montré des effets potentiellement néfastes qui ont été atténués dans l'étude lorsqu'il était combiné avec de l'acide ellagique.",
-          "whyItMatters": "Les choix alimentaires et les compléments peuvent influencer les affections hépatiques de manière inattendue ; comprendre quels aliments et additifs aident ou nuisent pourrait orienter des stratégies nutritionnelles et des recherches plus sûres.",
+          "title": "Une étude associe la consommation de fruits et de noix à un risque moindre de NAFLD ; certaines fibres en supplément pourraient l'aggraver",
+          "summary": "Des travaux de l'Edith Cowan University ont trouvé des associations suggérant que les fruits et les noix pourraient aider à protéger contre la stéatose hépatique non alcoolique, tandis que le supplément de fibres populaire inuline a été associé à un effet aggravant dans des modèles expérimentaux ; les chercheurs rapportent aussi que l'acide ellagique a réduit les effets indésirables de l'inuline dans leur étude.",
+          "whyItMatters": "Les composants alimentaires peuvent avoir des impacts différents sur la santé du foie ; les résultats mettent en garde contre l'idée que tous les suppléments apportent les bénéfices escomptés et soulignent la nécessité d'un conseil alimentaire nuancé soutenu par des recherches supplémentaires.",
           "takeaways": [
-            "Les auteurs de l'étude ont trouvé une association protectrice entre la consommation de fruits et de noix et la NAFLD.",
-            "Un supplément de fibres populaire (inuline) a été rapporté comme aggravant certains aspects de la condition dans le contexte de l'étude.",
-            "L'association de l'acide ellagique avec l'inuline a réduit les effets indésirables rapportés dans cette recherche.",
-            "Les résultats soulignent la nécessité de davantage d'essais avant de modifier le choix des compléments ou des traitements."
+            "La consommation de fruits et de noix a été associée à une protection contre la NAFLD dans cette étude.",
+            "L'inuline, un supplément de fibres courant, a été liée à des effets défavorables sur la santé hépatique dans les travaux rapportés.",
+            "L'acide ellagique a réduit les effets négatifs de l'inuline dans l'étude, mais les résultats nécessitent réplication et confirmation clinique."
           ]
         },
         "de": {
-          "title": "Obst und Nüsse könnten vor nicht-alkoholischer Fettlebererkrankung schützen, berichtet Studie",
-          "summary": "Forscher berichten, dass der Verzehr von Obst und Nüssen in einer neuen Arbeit mit einem geringeren Risiko für nicht-alkoholische Fettlebererkrankung (NAFLD) verbunden war, während ein häufig verwendetes Ballaststoffpräparat (Inulin) potenziell negative Effekte zeigte, die in der Studie durch die Kombination mit Ellagsäure abgeschwächt wurden.",
-          "whyItMatters": "Ernährungsentscheidungen und Supplemente können Leberzustände unerwartet beeinflussen; zu wissen, welche Nahrungsmittel und Zusatzstoffe nützlich oder schädlich sein könnten, kann sicherere Ernährungsstrategien und Forschung leiten.",
+          "title": "Studie verknüpft Obst‑ und Nusskonsum mit geringerem NAFLD‑Risiko; manche Ballstoffpräparate könnten es verschlechtern",
+          "summary": "Forschende der Edith Cowan University fanden Assoziationen, die darauf hindeuten, dass Obst und Nüsse vor nichtalkoholischer Fettlebererkrankung schützen könnten, während das verbreitete Ballstoffpräparat Inulin in den berichteten experimentellen Modellen mit einer Verschlechterung verbunden war; die Forschenden berichten zudem, dass Ellagsäure die negativen Effekte von Inulin in ihrer Arbeit verringerte.",
+          "whyItMatters": "Ernährungsbestandteile können unterschiedliche Auswirkungen auf die Lebergesundheit haben; die Ergebnisse mahnen, dass nicht alle Präparate erwartete Vorteile liefern und unterstreichen den Bedarf an differenzierter Ernährungsberatung, die durch weitere Forschung gestützt wird.",
           "takeaways": [
-            "Die Autorinnen und Autoren der Studie fanden, dass Obst und Nüsse mit schützenden Zusammenhängen für NAFLD verbunden waren.",
-            "Ein beliebtes Ballaststoffpräparat (Inulin) wurde in der Studie mit einer Verschlechterung bestimmter Aspekte der Erkrankung in Verbindung gebracht.",
-            "Die Kombination von Ellagsäure mit Inulin verringerte in dieser Forschung die berichteten negativen Effekte.",
-            "Die Ergebnisse unterstreichen den Bedarf an weiteren Studien, bevor Supplement- oder Behandlungsentscheidungen geändert werden."
+            "Obst‑ und Nusskonsum war in dieser Studie mit Schutz vor NAFLD assoziiert.",
+            "Inulin, ein häufig genutztes Ballstoffpräparat, wurde in der berichteten Forschung mit negativen Effekten auf die Lebergesundheit in Verbindung gebracht.",
+            "Ellagsäure milderte die negativen Effekte von Inulin in der Studie, aber die Ergebnisse müssen repliziert und klinisch bestätigt werden."
           ]
         },
         "pt-br": {
-          "title": "Frutas e nozes podem proteger contra doença hepática gordurosa não alcoólica, relata estudo",
-          "summary": "Pesquisadores relatam que o consumo de frutas e nozes esteve associado a um menor risco de doença hepática gordurosa não alcoólica (DHGNA) em um novo trabalho, enquanto um suplemento de fibra de uso comum (inulina) mostrou efeitos potencialmente adversos que foram atenuados no estudo quando combinado com ácido elágico.",
-          "whyItMatters": "Escolhas alimentares e suplementos podem influenciar condições hepáticas de maneiras inesperadas; entender quais alimentos e aditivos ajudam ou prejudicam pode orientar estratégias nutricionais e pesquisas mais seguras.",
+          "title": "Estudo associa consumo de frutas e nozes a menor risco de NAFLD; alguns suplementos de fibra podem piorar",
+          "summary": "Pesquisas da Edith Cowan University encontraram associações sugerindo que frutas e nozes podem ajudar a proteger contra a doença hepática gordurosa não alcoólica (NAFLD), enquanto o popular suplemento de fibra inulina foi associado à piora em modelos experimentais; os pesquisadores também relatam que o ácido elágico reduziu os efeitos adversos da inulina em seu trabalho.",
+          "whyItMatters": "Componentes da dieta podem ter impactos diferentes na saúde do fígado; os achados alertam que nem todos os suplementos oferecem os benefícios esperados e enfatizam a necessidade de orientações dietéticas nuançadas respaldadas por mais pesquisas.",
           "takeaways": [
-            "Os autores do estudo encontraram associação protetora entre frutas e nozes e DHGNA.",
-            "Um suplemento de fibra popular (inulina) foi relatado como piorador de aspectos da condição no contexto do estudo.",
-            "Combinar ácido elágico com inulina reduziu os efeitos adversos relatados nesta pesquisa.",
-            "Os achados destacam a necessidade de mais ensaios antes de alterar escolhas de suplementos ou tratamentos."
+            "O consumo de frutas e nozes foi associado a proteção contra NAFLD neste estudo.",
+            "A inulina, um suplemento de fibra comum, foi ligada a efeitos adversos na saúde do fígado nas pesquisas relatadas.",
+            "O ácido elágico reduziu os efeitos negativos da inulina no estudo, mas os resultados requerem replicação e confirmação clínica."
           ]
         },
         "hu": {
-          "title": "A gyümölcsök és a diófélék védelmet nyújthatnak a nem alkoholos zsírmájbetegség ellen, állítja egy tanulmány",
-          "summary": "A kutatók arról számolnak be, hogy a gyümölcsök és diófélék fogyasztása összefüggésben állt a nem alkoholos zsírmájbetegség csökkent kockázatával egy új közlemény szerint, míg egy gyakran használt rostkiegészítő (inulin) a vizsgálat körülményei között potenciálisan kedvezőtlen hatásokat mutatott, amelyeket a tanulmányban ellagsavval kombinálva mérsékeltek.",
-          "whyItMatters": "Az étrendi választások és a kiegészítők váratlan módon befolyásolhatják a májjal kapcsolatos állapotokat; annak ismerete, hogy mely ételek és adalékok segítenek vagy ártanak, hozzájárulhat a biztonságosabb táplálkozási stratégiákhoz és további kutatáshoz.",
+          "title": "Tanulmány összekapcsolta a gyümölcs- és diófogyasztást alacsonyabb NAFLD-kockázattal; egyes rostkiegészítők ronthatnak rajta",
+          "summary": "Az Edith Cowan Egyetem kutatása asszociációkat talált, amelyek szerint a gyümölcs- és diófogyasztás védelmet nyújthat a nem alkoholos zsírmáj (NAFLD) ellen, míg az inulin — egy népszerű rostkiegészítő — kísérleti modellekben romlást mutatott; a kutatók azt is jelentik, hogy ellaginsav csökkentette az inulin kedvezőtlen hatásait a vizsgálataikban.",
+          "whyItMatters": "Az étrendi összetevők eltérő hatásokat gyakorolhatnak a máj egészségére; az eredmények óvatosságra intenek, hogy nem minden kiegészítő nyújtja a várt előnyöket, és hangsúlyozzák a részletes, további kutatást igénylő táplálkozási iránymutatások szükségességét.",
           "takeaways": [
-            "A tanulmány szerzői szerint a gyümölcsök és diófélék védő összefüggésben álltak a NAFLD-vel.",
-            "Egy népszerű rostkiegészítőt (inulint) a vizsgálatban jelentették úgy, hogy rontotta a betegség bizonyos jellemzőit.",
-            "Az inulin ellagsavval való kombinálása a kutatásban csökkentette a jelentett kedvezőtlen hatásokat.",
-            "Az eredmények rámutatnak, hogy több kontrollált vizsgálatra van szükség, mielőtt kiegészítő- vagy kezelési döntéseket változtatnánk."
+            "A gyümölcs- és diófogyasztás ebben a tanulmányban a NAFLD elleni védelemmel volt összefüggésben.",
+            "Az inulin, egy gyakori rostkiegészítő, a vizsgált kutatásban a máj egészségére kedvezőtlen hatást mutatott.",
+            "Az ellaginsav csökkentette az inulin negatív hatásait a tanulmányban, de az eredmények megismétlést és klinikai megerősítést igényelnek."
           ]
         },
         "ar": {
-          "title": "الفواكه والمكسرات قد تحمي من مرض الكبد الدهني غير الكحولي، بحسب دراسة",
-          "summary": "أفاد الباحثون أن تناول الفواكه والمكسرات ارتبط بانخفاض مخاطر الإصابة بمرض الكبد الدهني غير الكحولي في ورقة جديدة، بينما أظهر مكمل ألياف شائع الاستخدام (الإينولين) آثارًا سلبية محتملة تم التخفيف منها في الدراسة عند الجمع بينه وبين حمض الإيلاجيك.",
-          "whyItMatters": "يمكن أن تؤثر الخيارات الغذائية والمكمّلات على حالات الكبد بطرق غير متوقعة؛ وفهم الأطعمة والمواد المضافة التي تساعد أو تضر قد يوجّه استراتيجيات تغذية أكثر أمانًا والبحث المستقبلي.",
+          "title": "دراسة تربط تناول الفواكه والمكسرات بانخفاض خطر NAFLD؛ وبعض مكملات الألياف قد تفاقم الحالة",
+          "summary": "وجدت أبحاث من جامعة Edith Cowan روابط تُشير إلى أن الفواكه والمكسرات قد تساهم في الحماية من مرض الكبد الدهني غير الكحولي (NAFLD)، بينما ارتبط إنولين — وهو مكمل ألياف شائع — بتفاقم الحالة في نماذج تجريبية؛ وأفاد الباحثون أن حمض الإلاجيك خفّض الآثار السلبية للإنولين في دراستهم.",
+          "whyItMatters": "يمكن أن يكون لمكونات النظام الغذائي تأثيرات متفاوتة على صحة الكبد؛ وتحث النتائج على الحذر من أن ليست كل المكملات توفر الفوائد المتوقعة، وتؤكد الحاجة لتوجيهات غذائية مدروسة ومزيد من البحوث.",
           "takeaways": [
-            "وجد مؤلفو الدراسة أن الفواكه والمكسرات ارتبطت بعلاقات وقائية بالنسبة لمرض الكبد الدهني غير الكحولي.",
-            "أفيد أن مكمل الألياف الشائع (الإينولين) زاد من سوء جوانب الحالة في سياق الدراسة.",
-            "جمع حمض الإيلاجيك مع الإينولين قلل من الآثار الضارة المذكورة في هذا البحث.",
-            "تُبرز النتائج حاجة إجراء مزيد من التجارب قبل تغيير خيارات المكملات أو العلاجات."
+            "ارتبط تناول الفواكه والمكسرات في هذه الدراسة بحماية من NAFLD.",
+            "ارتبط الإينولين، مكمل ألياف شائع، بتأثيرات سلبية على صحة الكبد في البحث المذكور.",
+            "حدّ حمض الإلاجيك من الآثار السلبية للإينولين في الدراسة، لكن النتائج تتطلب تكرارًا وتحققًا سريريًا."
           ]
         }
       },
-      "generatedAt": "2026-04-29T08:41:06.800Z",
+      "generatedAt": "2026-04-29T17:08:22.339Z",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fruit-nuts-nafld-2026-04-28",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruit-nuts-nafld-2026-04-28-news.webp",
       "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fruit-nuts-nafld-2026-04-28-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Fruit and nuts may protect against non-alcoholic fatty liver disease, study reports.\nStory summary: Researchers report that consuming fruit and nuts was associated with reduced risk of non-alcoholic fatty liver disease in a new paper, while a commonly used fiber supplement (inulin) showed potentially adverse effects that were counteracted in the study when combined with ellagic acid..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links fruit and nut intake with lower NAFLD risk; some fiber supplements may worsen it.\nStory summary: Research from Edith Cowan University found associations suggesting fruit and nuts may help protect against non-alcoholic fatty liver disease, while the popular fiber supplement inulin was associated with worsening in experimental models; the researchers also report that ellagic acid reduced inulin's adverse effects in their work..\nCategory: nutrition & liver health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "vitamin-d-breast-cancer-small-study-2026-04-28",
