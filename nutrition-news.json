@@ -1,7 +1,935 @@
 {
-  "generatedAt": "2026-05-04T08:49:55.190Z",
+  "generatedAt": "2026-05-05T08:35:09.752Z",
   "sourceCount": 11,
   "articles": [
+    {
+      "id": "travel-antiaging-2026-05-04-sciencedaily",
+      "category": "healthy aging",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+      "sourceTitle": "Scientists say travel could slow aging and boost your health",
+      "publishedAt": "Mon, 04 May 2026 22:42:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Travel experiences may support resilience and some markers of aging, study suggests",
+          "summary": "Researchers framed tourism in terms of entropy and report that enjoyable travel—active exploration, new environments and social connection—could help the body maintain balance and recover from stress. The paper notes that negative or unsafe travel experiences could negate these potential benefits.",
+          "whyItMatters": "If confirmed, the findings suggest lifestyle experiences beyond diet and exercise—such as restorative travel—could play a role in factors tied to aging, immunity and stress recovery.",
+          "takeaways": [
+            "Study views travel through a physical/physiological resilience framework rather than as a simple leisure activity.",
+            "Positive travel activities named include exploring new places, staying active, and social connection.",
+            "Stressful or unsafe travel may have opposite effects, so context matters.",
+            "Findings are preliminary and framed at a population/research level rather than offering individual guidance."
+          ]
+        },
+        "es": {
+          "title": "Las experiencias de viaje pueden apoyar la resiliencia y algunos marcadores del envejecimiento, sugiere un estudio",
+          "summary": "Los investigadores enmarcaron el turismo en términos de entropía y señalan que viajar de forma placentera —exploración activa, entornos nuevos y conexión social— podría ayudar al cuerpo a mantener el equilibrio y recuperarse del estrés. El artículo advierte que experiencias de viaje negativas o inseguras podrían anular estos beneficios potenciales.",
+          "whyItMatters": "Si se confirma, los hallazgos sugieren que experiencias de estilo de vida más allá de la dieta y el ejercicio —como viajes restauradores— podrían influir en factores relacionados con el envejecimiento, la inmunidad y la recuperación del estrés.",
+          "takeaways": [
+            "El estudio analiza el viaje desde un marco de resiliencia física/fisiológica en lugar de verlo solo como ocio.",
+            "Actividades de viaje positivas mencionadas incluyen explorar lugares nuevos, mantenerse activo y la conexión social.",
+            "Viajes estresantes o inseguros pueden producir efectos opuestos, por lo que el contexto importa.",
+            "Los resultados son preliminares y se presentan a nivel poblacional/investigativo, no como orientación individual."
+          ]
+        },
+        "ru": {
+          "title": "Путешествия могут поддерживать устойчивость и влиять на некоторые маркеры старения, предполагает исследование",
+          "summary": "Исследователи описали туризм через призму энтропии и сообщают, что приятные поездки — активное изучение, новые окружения и социальные связи — могли бы помочь организму поддерживать равновесие и восстанавливаться после стресса. В работе отмечают, что негативный или небезопасный опыт путешествий может свести на нет эти предполагаемые преимущества.",
+          "whyItMatters": "Если подтвердится, это укажет на то, что жизненные события помимо диеты и упражнений — например, восстановительные поездки — могут играть роль в факторах, связанных со старением, иммунитетом и восстановлением после стресса.",
+          "takeaways": [
+            "Исследование рассматривает путешествия в рамках физической/физиологической устойчивости, а не просто как отдых.",
+            "К положительным действиям в путешествиях относят изучение новых мест, активность и социальные связи.",
+            "Стрессовые или небезопасные поездки могут иметь противоположный эффект; важен контекст.",
+            "Результаты предварительные и сформулированы на уровне популяционных исследований, а не как персональные рекомендации."
+          ]
+        },
+        "uk": {
+          "title": "Досвід подорожей може підтримувати стійкість і впливати на деякі маркери старіння, свідчать дослідження",
+          "summary": "Дослідники розглянули туризм у термінах ентропії та повідомляють, що приємні подорожі — активне дослідження, нове оточення та соціальна взаємодія — можуть допомагати організму підтримувати рівновагу та відновлюватися після стресу. У роботі також зазначається, що негативний або небезпечний досвід подорожей може скасувати ці потенційні переваги.",
+          "whyItMatters": "Якщо ці висновки підтвердяться, вони вказують, що досвіди способу життя поза харчуванням і вправами — наприклад відновлювальні подорожі — можуть впливати на фактори, пов’язані зі старінням, імунітетом та відновленням після стресу.",
+          "takeaways": [
+            "Дослідження розглядає подорожі через призму фізичного/фізіологічного каркасу стійкості, а не просто як дозвілля.",
+            "Позитивні види подорожей включають дослідження нових місць, активний відпочинок і соціальну взаємодію.",
+            "Стресові або небезпечні подорожі можуть мати протилежний ефект, тому важливий контекст.",
+            "Висновки попередні й подані на рівні популяційних/наукових спостережень, а не як індивідуальні рекомендації."
+          ]
+        },
+        "fr": {
+          "title": "Les expériences de voyage pourraient soutenir la résilience et certains marqueurs du vieillissement, selon une étude",
+          "summary": "Les chercheurs ont encadré le tourisme en termes d'entropie et rapportent que des voyages agréables — exploration active, nouveaux environnements et lien social — pourraient aider le corps à maintenir son équilibre et à se remettre du stress. L'article note que des expériences de voyage négatives ou dangereuses pourraient annuler ces bénéfices potentiels.",
+          "whyItMatters": "Si ces résultats sont confirmés, ils suggèrent que des expériences de vie au‑delà de l'alimentation et de l'exercice — comme des voyages réparateurs — pourraient jouer un rôle dans des facteurs liés au vieillissement, à l'immunité et à la récupération après le stress.",
+          "takeaways": [
+            "L'étude considère le voyage dans un cadre de résilience physique/physiologique plutôt que comme une simple activité de loisir.",
+            "Les activités de voyage positives citées incluent l'exploration de nouveaux lieux, le maintien d'une activité et la connexion sociale.",
+            "Les voyages stressants ou dangereux peuvent avoir des effets opposés, le contexte est donc important.",
+            "Les conclusions sont préliminaires et présentées au niveau populationnel/recherche plutôt que comme des conseils individuels."
+          ]
+        },
+        "de": {
+          "title": "Reiseerlebnisse könnten Resilienz und einige Altersmarker unterstützen, legt Studie nahe",
+          "summary": "Forscher betrachteten Tourismus im Rahmen von Entropie und berichten, dass angenehmes Reisen – aktives Erkunden, neue Umgebungen und soziale Verbindung – dem Körper helfen könnte, Gleichgewicht zu erhalten und sich von Stress zu erholen. Die Arbeit weist darauf hin, dass negative oder unsichere Reiseerfahrungen diese potenziellen Vorteile aufheben könnten.",
+          "whyItMatters": "Wenn sich die Ergebnisse bestätigen, deuten sie darauf hin, dass erholsame Lebenserfahrungen jenseits von Ernährung und Bewegung – etwa regenerative Reisen – eine Rolle bei Faktoren spielen könnten, die mit Altern, Immunität und Stressregeneration verbunden sind.",
+          "takeaways": [
+            "Die Studie betrachtet Reisen durch ein physikalisch/physiologisches Resilienz‑Modell statt nur als Freizeitaktivität.",
+            "Als positive Reiseaktivitäten genannt werden das Erkunden neuer Orte, Aktivität und soziale Vernetzung.",
+            "Stressige oder unsichere Reisen können gegenteilige Effekte haben, daher ist der Kontext wichtig.",
+            "Die Ergebnisse sind vorläufig und auf Populationen/Forschungsebene formuliert, nicht als individuelle Anleitung."
+          ]
+        },
+        "pt-br": {
+          "title": "Experiências de viagem podem apoiar resiliência e alguns marcadores de envelhecimento, sugere estudo",
+          "summary": "Pesquisadores enquadraram o turismo em termos de entropia e relatam que viagens agradáveis — exploração ativa, ambientes novos e conexão social — podem ajudar o corpo a manter o equilíbrio e se recuperar do estresse. O artigo observa que experiências de viagem negativas ou inseguras podem anular esses potenciais benefícios.",
+          "whyItMatters": "Se confirmado, o achado sugere que experiências de estilo de vida além da dieta e do exercício — como viagens restauradoras — podem influenciar fatores ligados ao envelhecimento, imunidade e recuperação do estresse.",
+          "takeaways": [
+            "O estudo vê a viagem através de uma perspectiva de resiliência física/ fisiológica, não apenas como lazer.",
+            "Atividades de viagem positivas citadas incluem explorar lugares novos, manter-se ativo e conexão social.",
+            "Viagens estressantes ou inseguras podem ter efeitos opostos, então o contexto importa.",
+            "Os achados são preliminares e apresentados em nível populacional/pesquisador, não como orientação individual."
+          ]
+        },
+        "hu": {
+          "title": "A tanulmány szerint az utazási élmények támogathatják a rezilienciát és az öregedés bizonyos jelzőit",
+          "summary": "A kutatók a turizmust az entrópia fogalmán keresztül értelmezték, és arról számolnak be, hogy az élvezetes utazás — aktív felfedezés, új környezetek és társas kapcsolódás — segíthet a szervezet egyensúlyának megőrzésében és a stresszből való regenerálódásban. A tanulmány megjegyzi, hogy negatív vagy veszélyes utazási élmények semlegesíthetik ezeket a lehetséges előnyöket.",
+          "whyItMatters": "Ha megerősítik, az eredmények azt jelzik, hogy a táplálkozáson és mozgáson túli életmóbbeli élmények — például helyreállító jellegű utazások — szerepet játszhatnak az öregedéssel, az immunitással és a stresszből való helyreállással kapcsolatos tényezőkben.",
+          "takeaways": [
+            "A tanulmány a turizmust fizikai/élettani reziliencia-keretben vizsgálja, nem csupán szabadidős tevékenységként.",
+            "Pozitív utazási tevékenységekként említik új helyek felfedezését, aktív részvételt és társas kapcsolódást.",
+            "A stresszes vagy veszélyes utazás ellentétes hatást válthat ki, tehát a kontextus fontos.",
+            "Az eredmények előzetesek és populációs/kutatási szinten értelmezendők, nem egyéni útmutatásként."
+          ]
+        },
+        "ar": {
+          "title": "تقترح الدراسة أن تجارب السفر قد تدعم الصمود وبعض مؤشرات الشيخوخة",
+          "summary": "صوَّر الباحثون السياحة من منظور الإنتروبيا، وأفادوا أن السفر الممتع — مثل الاستكشاف النشط، والبيئات الجديدة، والاتصال الاجتماعي — قد يساعد الجسد على الحفاظ على التوازن والتعافي من الضغوط. وتشير الورقة إلى أن التجارب السفرية السلبية أو غير الآمنة قد تضيّع هذه الفوائد المحتملة.",
+          "whyItMatters": "إذا تأكدت، فتوحي النتائج أن تجارب نمط الحياة بخلاف النظام الغذائي والتمارين — مثل السفر التعويضي — قد تلعب دورًا في عوامل مرتبطة بالشيخوخة والمناعة والتعافي من الإجهاد.",
+          "takeaways": [
+            "تنظر الدراسة إلى السفر عبر إطار الصمود الفيزيائي/الفسيولوجي بدلًا من اعتباره نشاطًا ترفيهيًا بسيطًا.",
+            "تُذكر أنشطة سفر إيجابية مثل استكشاف أماكن جديدة، والبقاء نشطًا، والتواصل الاجتماعي.",
+            "السفر المجهد أو غير الآمن قد يكون له تأثير معاكس، لذا فالسياق ذو أهمية.",
+            "النتائج تمهيدية ومصوغة على مستوى السكان/البحث، وليست دليلًا إرشاديًا فرديًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=travel-antiaging-2026-05-04-sciencedaily",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/travel-antiaging-2026-05-04-sciencedaily-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/travel-antiaging-2026-05-04-sciencedaily-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Travel experiences may support resilience and some markers of aging, study suggests.\nStory summary: Researchers framed tourism in terms of entropy and report that enjoyable travel—active exploration, new environments and social connection—could help the body maintain balance and recover from stress. The paper notes that negative or unsafe travel experiences could negate these potential benefits..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "biological-age-tests-2026-05-04-medicalxpress",
+      "category": "longevity research",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-biological-age-reveal-hastens-aging.html",
+      "sourceTitle": "Biological age tests reveal what slows or hastens aging, but they&#039;re useful only for researchers, not consumers",
+      "publishedAt": "Mon, 04 May 2026 15:00:04 EDT",
+      "languages": {
+        "en": {
+          "title": "Biological age tests offer research insights but limited consumer utility, experts say",
+          "summary": "The article discusses tests that estimate biological age and how they can identify factors that accelerate or slow biological aging. The authors highlight limitations that restrict current tests’ usefulness for individuals and emphasize their primary value for research.",
+          "whyItMatters": "Biological age measures are increasingly available commercially; understanding their current capabilities and limits helps consumers and researchers set realistic expectations about what test results mean.",
+          "takeaways": [
+            "Biological age tests can reveal discrepancies between physical and chronological age in research settings.",
+            "Current approaches have methodological and interpretive limits that reduce their reliability for personal decision-making.",
+            "These tools are most valuable for studying population-level patterns and testing interventions.",
+            "Further validation is needed before routine consumer use is warranted."
+          ]
+        },
+        "es": {
+          "title": "Las pruebas de edad biológica ofrecen información para la investigación pero utilidad limitada para consumidores, dicen expertos",
+          "summary": "El artículo analiza pruebas que estiman la edad biológica y cómo pueden identificar factores que aceleran o ralentizan el envejecimiento biológico. Los autores destacan limitaciones que restringen la utilidad actual de estas pruebas para individuos y subrayan su valor principal en la investigación.",
+          "whyItMatters": "Las medidas de edad biológica están cada vez más disponibles comercialmente; comprender sus capacidades y límites actuales ayuda a consumidores e investigadores a fijar expectativas realistas sobre lo que significan los resultados.",
+          "takeaways": [
+            "Las pruebas de edad biológica pueden revelar discrepancias entre la edad física y la cronológica en contextos de investigación.",
+            "Los enfoques actuales tienen límites metodológicos e interpretativos que reducen su fiabilidad para decisiones personales.",
+            "Estas herramientas son más valiosas para estudiar patrones a nivel poblacional y evaluar intervenciones.",
+            "Se necesita más validación antes de justificar su uso rutinario por consumidores."
+          ]
+        },
+        "ru": {
+          "title": "Тесты биологического возраста дают исследовательские данные, но ограниченно полезны для потребителей, — считают эксперты",
+          "summary": "В статье обсуждаются тесты, оценивающие биологический возраст, и то, как они могут выявлять факторы, ускоряющие или замедляющие биологическое старение. Авторы отмечают ограничения, которые снижают нынешнюю полезность этих тестов для отдельных людей, и подчёркивают их основную ценность для исследований.",
+          "whyItMatters": "Измерения биологического возраста становятся более доступными на коммерческом рынке; понимание их текущих возможностей и ограничений помогает потребителям и исследователям выработать реалистичные ожидания относительно значимости результатов.",
+          "takeaways": [
+            "Тесты биологического возраста могут выявлять расхождения между физическим и хронологическим возрастом в исследовательских условиях.",
+            "Текущие подходы имеют методологические и интерпретационные ограничения, снижающие их надёжность для личных решений.",
+            "Эти инструменты наиболее полезны для изучения популяционных закономерностей и оценки вмешательств.",
+            "Необходима дополнительная валидация прежде чем рекомендовать их широкое использование потребителями."
+          ]
+        },
+        "uk": {
+          "title": "Тести біологічного віку дають наукові дані, але мають обмежену користь для споживачів, кажуть експерти",
+          "summary": "Стаття обговорює тести, які оцінюють біологічний вік, та те, як вони можуть виявляти фактори, що прискорюють або сповільнюють біологічне старіння. Автори підкреслюють обмеження, що зменшують корисність сучасних тестів для окремих людей, і наголошують на їхній первинній цінності для досліджень.",
+          "whyItMatters": "Вимірювання біологічного віку стають доступнішими на комерційному ринку; розуміння їхніх поточних можливостей і меж допомагає споживачам і дослідникам встановлювати реалістичні очікування щодо того, що означають результати тестів.",
+          "takeaways": [
+            "Тести біологічного віку можуть виявляти розбіжності між фізичним і хронологічним віком у дослідницьких умовах.",
+            "Поточні підходи мають методологічні та інтерпретаційні обмеження, що знижують їхню надійність для особистих рішень.",
+            "Ці інструменти найбільш цінні для вивчення закономірностей на рівні популяції та тестування втручань.",
+            "Необхідна подальша валідація, перш ніж доцільно широко використовувати їх споживачам."
+          ]
+        },
+        "fr": {
+          "title": "Les tests d'âge biologique offrent des insights pour la recherche mais une utilité limitée pour les consommateurs, disent les experts",
+          "summary": "L'article traite des tests qui estiment l'âge biologique et de la façon dont ils peuvent identifier des facteurs qui accélèrent ou ralentissent le vieillissement biologique. Les auteurs soulignent des limites qui restreignent l'utilité actuelle de ces tests pour les individus et insistent sur leur valeur principale pour la recherche.",
+          "whyItMatters": "Les mesures d'âge biologique sont de plus en plus disponibles commercialement ; comprendre leurs capacités et leurs limites actuelles aide les consommateurs et les chercheurs à fixer des attentes réalistes sur la signification des résultats.",
+          "takeaways": [
+            "Les tests d'âge biologique peuvent révéler des écarts entre l'âge physique et l'âge chronologique dans des contextes de recherche.",
+            "Les approches actuelles présentent des limites méthodologiques et d'interprétation qui réduisent leur fiabilité pour la prise de décision personnelle.",
+            "Ces outils sont surtout utiles pour étudier des tendances au niveau de la population et tester des interventions.",
+            "Une validation supplémentaire est nécessaire avant un usage consommateur courant."
+          ]
+        },
+        "de": {
+          "title": "Biologische Alterstests liefern Forschungseinblicke, aber begrenzten Nutzen für Verbraucher, sagen Experten",
+          "summary": "Der Artikel behandelt Tests, die das biologische Alter schätzen, und wie sie Faktoren identifizieren können, die biologisches Altern beschleunigen oder verlangsamen. Die Autoren heben Einschränkungen hervor, die die Nützlichkeit der derzeitigen Tests für Einzelpersonen begrenzen, und betonen ihren primären Wert für die Forschung.",
+          "whyItMatters": "Messungen des biologischen Alters sind kommerziell zunehmend verfügbar; das Verständnis ihrer aktuellen Fähigkeiten und Grenzen hilft Verbrauchern und Forschern, realistische Erwartungen darüber zu setzen, was Testergebnisse bedeuten.",
+          "takeaways": [
+            "Biologische Alterstests können in Forschungsumgebungen Diskrepanzen zwischen physischem und chronologischem Alter aufzeigen.",
+            "Aktuelle Ansätze haben methodische und interpretative Grenzen, die ihre Zuverlässigkeit für persönliche Entscheidungen reduzieren.",
+            "Diese Werkzeuge sind am wertvollsten, um Muster auf Bevölkerungsebene zu untersuchen und Interventionen zu testen.",
+            "Weitere Validierung ist nötig, bevor ein routinemäßiger Verbrauchereinsatz gerechtfertigt wäre."
+          ]
+        },
+        "pt-br": {
+          "title": "Testes de idade biológica oferecem insights para pesquisa, mas utilidade limitada para consumidores, dizem especialistas",
+          "summary": "O artigo discute testes que estimam a idade biológica e como eles podem identificar fatores que aceleram ou retardam o envelhecimento biológico. Os autores destacam limitações que restringem a utilidade atual desses testes para indivíduos e enfatizam seu valor principal para a pesquisa.",
+          "whyItMatters": "Medidas de idade biológica estão cada vez mais disponíveis comercialmente; entender capacidades e limites atuais ajuda consumidores e pesquisadores a ter expectativas realistas sobre o que os resultados significam.",
+          "takeaways": [
+            "Testes de idade biológica podem revelar discrepâncias entre idade física e cronológica em contextos de pesquisa.",
+            "Abordagens atuais têm limites metodológicos e interpretativos que reduzem sua confiabilidade para decisões pessoais.",
+            "Essas ferramentas são mais valiosas para estudar padrões populacionais e testar intervenções.",
+            "Mais validação é necessária antes que o uso rotineiro por consumidores seja recomendado."
+          ]
+        },
+        "hu": {
+          "title": "A biológiai életkor-tesztek kutatási betekintést nyújtanak, de fogyasztói hasznuk korlátozott, mondják a szakértők",
+          "summary": "A cikk azokat a teszteket tárgyalja, amelyek biológiai életkort becsülnek, és hogy ezek hogyan azonosíthatják azokat a tényezőket, amelyek felgyorsítják vagy lassítják a biológiai öregedést. A szerzők kiemelik azokat a korlátokat, amelyek jelenleg csökkentik a tesztek egyéni hasznosságát, és hangsúlyozzák, hogy elsősorban kutatási értéket képviselnek.",
+          "whyItMatters": "A biológiai életkor mérése egyre inkább kereskedelmi forgalomban elérhető; a jelenlegi képességek és korlátok megértése segít a fogyasztóknak és a kutatóknak reális elvárásokat felállítani az eredmények jelentésével kapcsolatban.",
+          "takeaways": [
+            "A biológiai életkor-tesztek kutatási környezetben feltárhatják a fizikai és kronológiai életkor közötti eltéréseket.",
+            "A jelenlegi megközelítések módszertani és értelmezési korlátokkal rendelkeznek, amelyek csökkentik megbízhatóságukat személyes döntéshozatalhoz.",
+            "Ezek az eszközök leginkább populációs mintázatok vizsgálatára és beavatkozások tesztelésére alkalmasak.",
+            "További validálás szükséges, mielőtt rutinszerű fogyasztói használat indokolt lenne."
+          ]
+        },
+        "ar": {
+          "title": "اختبارات العمر البيولوجي تقدم رؤى بحثية لكن فائدتها للمستهلك محدودة، بحسب خبراء",
+          "summary": "تتناول المقالة اختبارات تقدير العمر البيولوجي وكيف يمكنها تحديد العوامل التي تسرّع أو تبطئ الشيخوخة البيولوجية. ويبرز المؤلفون القيود التي تقيد فائدة هذه الاختبارات للأفراد حاليًا، ويؤكدون أن قيمتها الأساسية تكمن في البحث.",
+          "whyItMatters": "أصبحت قياسات العمر البيولوجي متاحة تجاريًا بشكل متزايد؛ وفهم قدراتها وحدودها يساعد المستهلكين والباحثين على وضع توقعات واقعية حول ما تعنيه نتائج الاختبارات.",
+          "takeaways": [
+            "يمكن أن تكشف اختبارات العمر البيولوجي عن فروق بين العمر الجسدي والزمني في سياقات بحثية.",
+            "النهج الحالية لديها حدود منهجية وتفسيرية تقلل من موثوقيتها للاستخدام الشخصي في اتخاذ القرار.",
+            "هذه الأدوات أكثر قيمة لدراسة أنماط على مستوى السكان واختبار التدخلات.",
+            "هناك حاجة لمزيد من التحقق قبل التوصية باستخدامها روتينيًا من قبل المستهلكين."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=biological-age-tests-2026-05-04-medicalxpress",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biological-age-tests-2026-05-04-medicalxpress-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biological-age-tests-2026-05-04-medicalxpress-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Biological age tests offer research insights but limited consumer utility, experts say.\nStory summary: The article discusses tests that estimate biological age and how they can identify factors that accelerate or slow biological aging. The authors highlight limitations that restrict current tests’ usefulness for individuals and emphasize their primary value for research..\nCategory: longevity research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "mushroom-vitamin-d-uv-2026-05-04-medicalxpress",
+      "category": "nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-moderate-uv-boosting-vitamin-d.html",
+      "sourceTitle": "Moderate UV light is best when it comes to boosting the vitamin D content of edible mushrooms, study finds",
+      "publishedAt": "Mon, 04 May 2026 13:40:05 EDT",
+      "languages": {
+        "en": {
+          "title": "Moderate ultraviolet exposure yields the best vitamin D2 increases in mushrooms, researchers report",
+          "summary": "McGill University scientists evaluated UV treatment for edible mushrooms and concluded that moderate UV doses maximize vitamin D2 enhancement. Excessive UV either plateaus the benefit or degrades nutrients; the paper also offers quantitative guidance on exposure levels.",
+          "whyItMatters": "For producers and consumers seeking food-based vitamin D sources, optimized UV treatment could improve mushroom vitamin D content without causing nutrient loss.",
+          "takeaways": [
+            "Moderate UV exposure is more effective than heavy exposure for raising vitamin D2 in mushrooms.",
+            "Too much UV can lead to nutrient degradation or no further benefit.",
+            "The study provides quantitative recommendations useful for food processing and cultivation.",
+            "This is a food-industry and research-focused finding, not direct nutrition advice for individuals."
+          ]
+        },
+        "es": {
+          "title": "La exposición ultravioleta moderada produce los mejores aumentos de vitamina D2 en los champiñones, informan los investigadores",
+          "summary": "Científicos de la Universidad McGill evaluaron el tratamiento con UV para hongos comestibles y concluyeron que dosis moderadas de UV maximizan el aumento de vitamina D2. La exposición excesiva a UV puede hacer que el beneficio se estanque o degradar otros nutrientes; el artículo también ofrece orientación cuantitativa sobre niveles de exposición.",
+          "whyItMatters": "Para productores y consumidores que buscan fuentes alimentarias de vitamina D, un tratamiento UV optimizado podría mejorar el contenido de vitamina D en los champiñones sin causar pérdida de nutrientes.",
+          "takeaways": [
+            "La exposición UV moderada es más efectiva que la intensa para aumentar la vitamina D2 en champiñones.",
+            "Demasiada radiación UV puede provocar degradación de nutrientes o no aportar más beneficio.",
+            "El estudio proporciona recomendaciones cuantitativas útiles para el procesamiento y cultivo alimentario.",
+            "Se trata de un hallazgo orientado a la industria alimentaria y a la investigación, no de un consejo nutricional directo para individuos."
+          ]
+        },
+        "ru": {
+          "title": "Умеренное ультрафиолетовое облучение даёт наилучшее повышение витамина D2 в съедобных грибах, сообщают исследователи",
+          "summary": "Учёные из Университета Макгилла оценили обработку съедобных грибов УФ‑излучением и пришли к выводу, что умеренные дозы УФ максимально повышают содержание витамина D2. Чрезмерное УФ‑облучение либо не даёт дополнительного эффекта, либо приводит к разрушению других питательных веществ; в статье также приведены количественные рекомендации по уровням воздействия.",
+          "whyItMatters": "Для производителей и потребителей, ищущих пищевые источники витамина D, оптимизированная УФ‑обработка может повысить содержание витамина D в грибах без потери питательных веществ.",
+          "takeaways": [
+            "Умеренное УФ‑облучение эффективнее сильного для повышения уровня витамина D2 в грибах.",
+            "Слишком большое УФ‑воздействие может привести к деградации питательных веществ или не дать дополнительной пользы.",
+            "Исследование содержит количественные рекомендации, полезные для пищевой обработки и выращивания.",
+            "Это вывод, ориентированный на пищевую промышленность и исследования, а не прямой совет по питанию для отдельных людей."
+          ]
+        },
+        "uk": {
+          "title": "Помірне ультрафіолетове опромінення дає найкраще збільшення вітаміну D2 у грибах, повідомляють дослідники",
+          "summary": "Вчені з McGill University оцінили УФ‑обробку їстівних грибів і дійшли висновку, що помірні дози УФ максимально підвищують вміст вітаміну D2. Надмірне УФ‑опромінення або призводить до плато в користі, або руйнує поживні речовини; робота також містить кількісні рекомендації щодо рівнів опромінення.",
+          "whyItMatters": "Для виробників і споживачів, що шукають джерела вітаміну D у харчах, оптимізована УФ‑обробка може збільшити вміст вітаміну D у грибах без втрати поживних якостей.",
+          "takeaways": [
+            "Помірне УФ‑опромінення ефективніше за інтенсивне для підвищення вмісту вітаміну D2 у грибах.",
+            "Занадто багато УФ може призвести до деградації поживних речовин або відсутності подальшого ефекту.",
+            "Дослідження надає кількісні рекомендації, корисні для харчової переробки та вирощування.",
+            "Це висновок орієнтований на харчову промисловість і дослідження, а не пряма харчова порада для окремих осіб."
+          ]
+        },
+        "fr": {
+          "title": "Une exposition ultraviolette modérée offre les meilleures augmentations en vitamine D2 dans les champignons, rapportent les chercheurs",
+          "summary": "Des scientifiques de l'Université McGill ont évalué le traitement UV des champignons comestibles et conclu que des doses UV modérées maximisent l'enrichissement en vitamine D2. Un excès d'UV mène soit à un plateau de bénéfice, soit à la dégradation des nutriments ; l'article propose également des indications quantitatives sur les niveaux d'exposition.",
+          "whyItMatters": "Pour les producteurs et les consommateurs cherchant des sources alimentaires de vitamine D, un traitement UV optimisé pourrait améliorer la teneur en vitamine D des champignons sans entraîner de pertes nutritives.",
+          "takeaways": [
+            "Une exposition UV modérée est plus efficace qu'une exposition forte pour augmenter la vitamine D2 dans les champignons.",
+            "Trop d'UV peut entraîner une dégradation des nutriments ou n'apporter aucun bénéfice supplémentaire.",
+            "L'étude fournit des recommandations quantitatives utiles pour la transformation et la culture alimentaires.",
+            "Il s'agit d'un résultat axé sur l'industrie alimentaire et la recherche, et non d'un conseil nutritionnel direct pour les individus."
+          ]
+        },
+        "de": {
+          "title": "Moderate UV‑Exposition führt zu den besten Vitamin‑D2‑Zuwächsen in essbaren Pilzen, berichten Forscher",
+          "summary": "Wissenschaftler der McGill University bewerteten UV‑Behandlungen für essbare Pilze und kamen zu dem Schluss, dass moderate UV‑Dosen die Vitamin‑D2‑Anreicherung maximieren. Übermäßige UV‑Strahlung bewirkt entweder ein Plateau des Nutzens oder baut Nährstoffe ab; die Arbeit liefert auch quantitative Hinweise zu geeigneten Expositionsniveaus.",
+          "whyItMatters": "Für Produzenten und Verbraucher, die nach lebensmittelbasierten Vitamin‑D‑Quellen suchen, könnte optimierte UV‑Behandlung den Vitamin‑D‑Gehalt von Pilzen verbessern, ohne Nährstoffverluste zu verursachen.",
+          "takeaways": [
+            "Moderate UV‑Exposition ist effektiver als starke Exposition, um Vitamin‑D2 in Pilzen zu erhöhen.",
+            "Zu viel UV kann zu Nährstoffabbau führen oder keinen weiteren Nutzen bringen.",
+            "Die Studie bietet quantitative Empfehlungen, die für Lebensmittelverarbeitung und -anbau nützlich sind.",
+            "Dies ist ein forschungs- und lebensmittelindustriebezogenes Ergebnis, keine direkte Ernährungsberatung für Einzelpersonen."
+          ]
+        },
+        "pt-br": {
+          "title": "Exposição moderada à radiação UV gera os melhores aumentos de vitamina D2 em cogumelos comestíveis, relatam pesquisadores",
+          "summary": "Cientistas da McGill avaliaram o tratamento por UV para cogumelos comestíveis e concluíram que doses moderadas de UV maximizam o aumento de vitamina D2. Excesso de UV pode levar a um platô no benefício ou degradar nutrientes; o artigo também oferece orientações quantitativas sobre níveis de exposição.",
+          "whyItMatters": "Para produtores e consumidores que buscam fontes alimentares de vitamina D, o tratamento otimizado por UV poderia melhorar o conteúdo de vitamina D dos cogumelos sem causar perda de nutrientes.",
+          "takeaways": [
+            "Exposição moderada ao UV é mais eficaz do que exposição intensa para aumentar a vitamina D2 em cogumelos.",
+            "Exposição excessiva ao UV pode causar degradação de nutrientes ou não trazer benefício adicional.",
+            "O estudo fornece recomendações quantitativas úteis para processamento e cultivo de alimentos.",
+            "Trata‑se de um achado voltado para a indústria alimentícia e pesquisa, não de aconselhamento nutricional direto para indivíduos."
+          ]
+        },
+        "hu": {
+          "title": "A mérsékelt UV‑expozíció hozza a legjobb D2-vitamin-növekedést a gombákban, jelentik a kutatók",
+          "summary": "A McGill Egyetem kutatói értékelték az ehető gombák UV-kezelését, és arra jutottak, hogy a mérsékelt UV-dózisok maximalizálják a D2-vitamin növekedését. A túlzott UV vagy a hasznot telíti, vagy tápanyagromláshoz vezet; a cikk mennyiségi útmutatást is ad az expozíciós szintekre vonatkozóan.",
+          "whyItMatters": "A gombákból származó élelmiszer-alapú D-vitaminforrást kereső termelők és fogyasztók számára az optimalizált UV-kezelés javíthatja a gombák D‑vitamin-tartalmát anélkül, hogy tápanyagveszteséget okozna.",
+          "takeaways": [
+            "A mérsékelt UV‑expozíció hatékonyabb, mint az erős expozíció a gombák D2-szintjének növelésében.",
+            "Túl sok UV tápanyagromláshoz vagy további előny hiányához vezethet.",
+            "A tanulmány mennyiségi ajánlásokat nyújt, amelyek hasznosak lehetnek élelmiszer-feldolgozásban és termesztésben.",
+            "Ez elsősorban élelmiszeripari és kutatási eredmény, nem közvetlen táplálkozási tanács egyének számára."
+          ]
+        },
+        "ar": {
+          "title": "تعرض متوسط للأشعة فوق البنفسجية يعطي أفضل زيادة في فيتامين D2 في الفطر، حسب الباحثين",
+          "summary": "قيّم علماء من جامعة ماكغيل معالجة الفطر الصالح للأكل بالأشعة فوق البنفسجية وخلصوا إلى أن جرعات متوسطة من الأشعة UV تعظم زيادة فيتامين D2. التعرض المفرط قد يوصل إلى مرحلة تشبع الفائدة أو يؤدي إلى تدهور المغذيات؛ وتقدم الورقة أيضًا إرشادات كمية حول مستويات التعرض.",
+          "whyItMatters": "بالنسبة للمنتجين والمستهلكين الساعين إلى مصادر غذائية لفيتامين D، قد تحسّن معالجة UV المحسنة محتوى فيتامين D في الفطر دون التسبب في فقدان مغذيات.",
+          "takeaways": [
+            "التعرض المتوسط للأشعة فوق البنفسجية أكثر فعالية من التعرض الشديد في رفع فيتامين D2 في الفطر.",
+            "الافراط في التعرض قد يؤدي إلى تدهور المغذيات أو عدم تحقيق فائدة إضافية.",
+            "توفر الدراسة توصيات كمية قد تفيد قطاع التصنيع والزراعة الغذائية.",
+            "هذا نتيجة موجهة للصناعة والبحث، وليست نصيحة تغذوية مباشرة للأفراد."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mushroom-vitamin-d-uv-2026-05-04-medicalxpress",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mushroom-vitamin-d-uv-2026-05-04-medicalxpress-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mushroom-vitamin-d-uv-2026-05-04-medicalxpress-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Moderate ultraviolet exposure yields the best vitamin D2 increases in mushrooms, researchers report.\nStory summary: McGill University scientists evaluated UV treatment for edible mushrooms and concluded that moderate UV doses maximize vitamin D2 enhancement. Excessive UV either plateaus the benefit or degrades nutrients; the paper also offers quantitative guidance on exposure levels..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "visceral-fat-brain-2026-05-04-medicalxpress",
+      "category": "metabolic health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-sustained-reduction-abdominal-fat-cognitive.html",
+      "sourceTitle": "Sustained reduction in abdominal fat can preserve cognitive function",
+      "publishedAt": "Mon, 04 May 2026 13:20:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Long-term lower visceral fat linked to slower brain atrophy and better midlife cognition",
+          "summary": "A repeated-MRI study found that people with consistently lower accumulation of abdominal (visceral) fat over follow-up showed less brain atrophy, preserved brain structures and better cognitive performance in late midlife. The relationship appeared independent of overall weight loss and was likely tied to glucose control and insulin sensitivity.",
+          "whyItMatters": "This research highlights visceral fat as a metabolic factor associated with brain aging trajectories, pointing to mechanisms involving glucose regulation rather than weight change alone.",
+          "takeaways": [
+            "Cumulative measurements of visceral fat were associated with long-term brain structure and function outcomes.",
+            "Effects observed were independent of total body weight loss, implicating metabolic pathways such as insulin sensitivity.",
+            "Findings come from MRI-based longitudinal data and add detail to how abdominal fat and brain aging may be linked.",
+            "Results inform research directions rather than prescribing specific interventions."
+          ]
+        },
+        "es": {
+          "title": "Menor grasa visceral a largo plazo vinculada con menos atrofia cerebral y mejor cognición en la mediana edad",
+          "summary": "Un estudio con resonancias magnéticas repetidas encontró que las personas con una acumulación consistentemente menor de grasa abdominal (visceral) durante el seguimiento presentaron menos atrofia cerebral, estructuras cerebrales más preservadas y mejor rendimiento cognitivo en la etapa tardía de la mediana edad. La relación pareció independiente de la pérdida de peso total y probablemente vinculada al control de la glucosa y la sensibilidad a la insulina.",
+          "whyItMatters": "Esta investigación destaca la grasa visceral como un factor metabólico asociado a las trayectorias de envejecimiento cerebral, apuntando a mecanismos relacionados con la regulación de la glucosa más que con el cambio de peso per se.",
+          "takeaways": [
+            "Mediciones acumuladas de grasa visceral se asociaron con resultados a largo plazo en estructura y función cerebral.",
+            "Los efectos observados fueron independientes de la pérdida total de peso, implicando vías metabólicas como la sensibilidad a la insulina.",
+            "Los hallazgos provienen de datos longitudinales con MRI y aportan detalles sobre cómo la grasa abdominal y el envejecimiento cerebral pueden estar relacionados.",
+            "Los resultados orientan direcciones de investigación en vez de prescribir intervenciones específicas."
+          ]
+        },
+        "ru": {
+          "title": "Длительно низкий уровень висцерального жира связан с меньшей атрофией мозга и лучшей когницией в среднем возрасте",
+          "summary": "Исследование с повторными МРТ показало, что у людей с постоянно низкой накопительной массой висцерального (абдоминального) жира в ходе наблюдения отмечалось меньшее снижение объёма мозга, более сохранённые структуры и лучшее когнитивное выполнение в позднем среднем возрасте. Эта связь оказалась независимой от общей потери веса и, по-видимому, связана с контролем глюкозы и чувствительностью к инсулину.",
+          "whyItMatters": "Исследование подчёркивает висцеральный жир как метаболический фактор, ассоциированный с траекториями старения мозга, указывая на механизмы, связанные с регуляцией глюкозы, а не только с изменением веса.",
+          "takeaways": [
+            "Кумулятивные измерения висцерального жира ассоциировались с долгосрочными исходами структуры и функции мозга.",
+            "Наблюдаемые эффекты были независимы от общей потери массы тела, что указывает на участие метаболических путей, таких как чувствительность к инсулину.",
+            "Выводы основаны на продольных данных с МРТ и уточняют возможные связи между абдоминальным жиром и старением мозга.",
+            "Результаты информируют направления исследований, а не предписывают конкретные вмешательства."
+          ]
+        },
+        "uk": {
+          "title": "Довготривале низьке вміщення вісцерального жиру пов’язане зі сповільненим атрофуванням мозку та кращою когніцією у середньому віці",
+          "summary": "Дослідження з повторними МРТ виявило, що люди з постійно нижчим накопиченням абдомінального (вісцерального) жиру протягом спостереження мали менше атрофії мозку, збережені структури мозку та кращі когнітивні показники у пізньому середньому віці. Цей зв’язок, ймовірно, був пов’язаний із контролем глюкози та інсуліновою чутливістю і здавався незалежним від загальної втрати ваги.",
+          "whyItMatters": "Це дослідження підкреслює вісцеральний жир як метаболічний фактор, пов’язаний із траєкторіями старіння мозку, вказуючи на механізми, пов’язані з регуляцією глюкози, а не лише зі зміною ваги.",
+          "takeaways": [
+            "Накопичувальні вимірювання вісцерального жиру були пов’язані з довгостроковими показниками структури та функції мозку.",
+            "Спостережені ефекти були незалежні від загальної втрати маси тіла, що вказує на метаболічні шляхи, такі як інсулінова чутливість.",
+            "Висновки базуються на продовжених МРТ‑даних і додають деталей щодо зв’язку між абдомінальним жиром і старінням мозку.",
+            "Результати інформують напрямки досліджень, а не призначають конкретні втручання."
+          ]
+        },
+        "fr": {
+          "title": "Une réduction soutenue de la graisse viscérale liée à un ralentissement de l'atrophie cérébrale et à une meilleure cognition en milieu de vie",
+          "summary": "Une étude à base d'IRM répétées a montré que les personnes présentant une accumulation constamment plus faible de graisse abdominale (viscérale) au fil du suivi présentaient moins d'atrophie cérébrale, des structures cérébrales préservées et de meilleures performances cognitives à la fin de la moyenne d'âge. La relation semblait indépendante de la perte de poids globale et était probablement liée au contrôle de la glycémie et à la sensibilité à l'insuline.",
+          "whyItMatters": "Cette recherche met en évidence la graisse viscérale comme facteur métabolique associé aux trajectoires de vieillissement cérébral, pointant vers des mécanismes impliquant la régulation du glucose plutôt que la seule variation de poids.",
+          "takeaways": [
+            "Des mesures cumulées de la graisse viscérale ont été associées à des résultats à long terme sur la structure et la fonction cérébrales.",
+            "Les effets observés étaient indépendants de la perte de poids totale, impliquant des voies métaboliques comme la sensibilité à l'insuline.",
+            "Les conclusions proviennent de données longitudinales basées sur l'IRM et apportent des précisions sur le lien entre graisse abdominale et vieillissement cérébral.",
+            "Les résultats orientent les directions de recherche plutôt que de prescrire des interventions spécifiques."
+          ]
+        },
+        "de": {
+          "title": "Langfristig geringere viszerale Fettansammlungen stehen im Zusammenhang mit langsamerer Gehirnatrophie und besserer Kognition in der Lebensmitte",
+          "summary": "Eine wiederholte MRT‑Studie ergab, dass Personen mit konsistent geringerer Akkumulation von Bauch‑(viszeralem) Fett während der Nachbeobachtung weniger Gehirnatrophie, erhaltenere Hirnstrukturen und bessere kognitive Leistungen im späten mittleren Alter zeigten. Die Beziehung schien unabhängig von generellem Gewichtsverlust zu sein und hing wahrscheinlich mit Glukosekontrolle und Insulinsensitivität zusammen.",
+          "whyItMatters": "Diese Forschung hebt viszerales Fett als metabolischen Faktor hervor, der mit Trajektorien des Gehirnalterns assoziiert ist, und verweist auf Mechanismen, die die Glukoseregulation betreffen, statt nur auf Gewichtsveränderung.",
+          "takeaways": [
+            "Kumulative Messungen des viszeralen Fetts standen in Zusammenhang mit langfristigen Ergebnissen der Gehirnstruktur und -funktion.",
+            "Beobachtete Effekte waren unabhängig vom gesamten Körpergewichtsverlust und deuten auf metabolische Wege wie Insulinsensitivität hin.",
+            "Die Ergebnisse stammen aus longitudinalen MRT‑Daten und liefern Details dazu, wie Bauchfett und Gehirnalterung verknüpft sein können.",
+            "Die Befunde informieren Forschungsrichtungen und stellen keine konkreten Interventionsanweisungen dar."
+          ]
+        },
+        "pt-br": {
+          "title": "Redução sustentada da gordura visceral está ligada a menor atrofia cerebral e melhor cognição na meia‑idade",
+          "summary": "Um estudo com ressonâncias magnéticas repetidas constatou que pessoas com acúmulo consistentemente menor de gordura abdominal (visceral) ao longo do acompanhamento apresentaram menos atrofia cerebral, estruturas cerebrais mais preservadas e melhor desempenho cognitivo no final da meia‑idade. A relação pareceu independente da perda de peso total e provavelmente estava associada ao controle da glicose e à sensibilidade à insulina.",
+          "whyItMatters": "A pesquisa destaca a gordura visceral como um fator metabólico associado às trajetórias de envelhecimento do cérebro, apontando para mecanismos que envolvem regulação da glicose em vez de apenas mudança de peso.",
+          "takeaways": [
+            "Medições acumuladas da gordura visceral foram associadas a resultados de longo prazo na estrutura e função cerebral.",
+            "Os efeitos observados foram independentes da perda de peso corporal total, implicando vias metabólicas como sensibilidade à insulina.",
+            "Os achados provêm de dados longitudinais baseados em RM e acrescentam detalhe sobre como gordura abdominal e envelhecimento cerebral podem estar ligados.",
+            "Resultados informam direções de pesquisa, não prescrevem intervenções específicas."
+          ]
+        },
+        "hu": {
+          "title": "Hosszan tartó alacsonyabb zsigeri zsír összefüggött lassabb agyi atrófiával és jobb középkori kognícióval",
+          "summary": "Egy ismételt MRI-vizsgálat megállapította, hogy azoknál, akiknél a követés során következetesen alacsonyabb volt a hasi (zsigeri) zsír felhalmozódása, kevesebb agyi atrófia, megőrzött agyi szerkezetek és jobb kognitív teljesítmény jelentkezett késői középkorban. A kapcsolat látszólag független volt az össztömegvesztéstől, és valószínűleg a glükóz-szabályozáshoz és az inzulinérzékenységhez kötődött.",
+          "whyItMatters": "A kutatás a zsigeri zsírt mint olyan anyagcsere-tényezőt emeli ki, amely összefüggésbe hozható az agy öregedésének pályáival, és a glükózszabályozással kapcsolatos mechanizmusokra mutat rá a puszta testsúlyváltozás helyett.",
+          "takeaways": [
+            "A zsigeri zsír kumulatív mérési adatai összefüggtek hosszú távú agyi szerkezeti és funkcionális kimenetekkel.",
+            "A megfigyelt hatások függetlenek voltak a teljes testtömeg-csökkenéstől, ami anyagcsere-útvonalakat, például az inzulinérzékenységet vet fel.",
+            "Az eredmények MRI-alapú longitudinális adatokból származnak, és részletezik, hogyan kapcsolódhat a hasi zsír az agy öregedéséhez.",
+            "A következtetések a kutatás irányait támasztják alá, nem konkrét beavatkozási előírásokat."
+          ]
+        },
+        "ar": {
+          "title": "انخفاض طويل الأمد في الدهون الحشوية مرتبط بتباطؤ ضمور الدماغ وأداء معرفي أفضل في منتصف العمر",
+          "summary": "أظهرت دراسة متكررة بالتصوير بالرنين المغناطيسي أن الأشخاص الذين حافظوا على تراكم أقل للدهون البطنية (الحشوية) خلال المتابعة أظهروا ضمورًا دماغيًا أقل، وهياكل دماغية محفوظة، وأداءً معرفيًا أفضل في أواخر منتصف العمر. بدا أن العلاقة مستقلة عن خسارة الوزن الكلية، وربما ترتبط بتنظيم الجلوكوز وحساسية الإنسولين.",
+          "whyItMatters": "تسلط هذه الأبحاث الضوء على الدهون الحشوية كعامل أيضي مرتبط بمسارات شيخوخة الدماغ، مشيرة إلى آليات تتعلق بتنظيم الجلوكوز بدلاً من تغيّر الوزن وحده.",
+          "takeaways": [
+            "ارتبطت قياسات تراكم الدهون الحشوية التراكمية بنتائج طويلة الأمد في بنية الدماغ ووظيفته.",
+            "بدت التأثيرات مستقلة عن فقدان الوزن الكلي، مشيرة إلى مسارات أيضية مثل حساسية الإنسولين.",
+            "النتائج مستمدة من بيانات طولية معتمدة على التصوير بالرنين المغناطيسي وتفصّل كيف قد يرتبط دهون البطن بشيخوخة الدماغ.",
+            "النتائج توجه اتجاهات البحث بدلًا من وصف إجراءات محددة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=visceral-fat-brain-2026-05-04-medicalxpress",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/visceral-fat-brain-2026-05-04-medicalxpress-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/visceral-fat-brain-2026-05-04-medicalxpress-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Long-term lower visceral fat linked to slower brain atrophy and better midlife cognition.\nStory summary: A repeated-MRI study found that people with consistently lower accumulation of abdominal (visceral) fat over follow-up showed less brain atrophy, preserved brain structures and better cognitive performance in late midlife. The relationship appeared independent of overall weight loss and was likely tied to glucose control and insulin sensitivity..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "omega3-cognitive-decline-2026-05-04-medicalxpress",
+      "category": "nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-omega-supplements-linked-faster-cognitive.html",
+      "sourceTitle": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds",
+      "publishedAt": "Mon, 04 May 2026 12:40:08 EDT",
+      "languages": {
+        "en": {
+          "title": "New study reports an association between omega-3 supplements and quicker cognitive decline in older adults",
+          "summary": "A paper in The Journal of Prevention of Alzheimer's Disease described a link between taking oral omega-3 supplements and a faster decline in cognitive function among older adults. The report contrasts with common marketing claims that these supplements protect against cognitive aging.",
+          "whyItMatters": "Many older adults use omega-3s to support brain and heart health; a study suggesting a possible adverse association warrants attention and further research to understand causality and context.",
+          "takeaways": [
+            "The study observed an association—rather than proven causation—between omega-3 supplements and cognitive decline in seniors.",
+            "Findings challenge common perceptions that omega-3 capsules universally slow cognitive aging.",
+            "Details such as dose, formulation and participant health status matter for interpreting results.",
+            "More research is needed before changing broad recommendations."
+          ]
+        },
+        "es": {
+          "title": "Nuevo estudio informa una asociación entre los suplementos de omega‑3 y un declive cognitivo más rápido en adultos mayores",
+          "summary": "Un artículo en The Journal of Prevention of Alzheimer's Disease describió una asociación entre el consumo oral de suplementos de omega‑3 y un declive más rápido de la función cognitiva en adultos mayores. El informe contrasta con las afirmaciones comerciales habituales de que estos suplementos protegen contra el envejecimiento cognitivo.",
+          "whyItMatters": "Muchos adultos mayores usan omega‑3 para apoyar la salud cerebral y cardíaca; un estudio que sugiere una posible asociación adversa merece atención y más investigación para entender causalidad y contexto.",
+          "takeaways": [
+            "El estudio observó una asociación —no una causalidad probada— entre suplementos de omega‑3 y declive cognitivo en personas mayores.",
+            "Los hallazgos desafían la percepción común de que las cápsulas de omega‑3 frenan universalmente el envejecimiento cognitivo.",
+            "Detalles como la dosis, la formulación y el estado de salud de los participantes importan para interpretar los resultados.",
+            "Se necesita más investigación antes de cambiar recomendaciones generales."
+          ]
+        },
+        "ru": {
+          "title": "Новое исследование сообщает об ассоциации между добавками омега‑3 и более быстрым когнитивным снижением у пожилых людей",
+          "summary": "Статья в The Journal of Prevention of Alzheimer's Disease описывает связь между приёмом оральных добавок омега‑3 и более быстрым снижением когнитивных функций у пожилых людей. Этот отчёт контрастирует с распространёнными маркетинговыми утверждениями о том, что такие добавки защищают от когнитивного старения.",
+          "whyItMatters": "Многие пожилые люди принимают омега‑3 для поддержки мозга и сердца; исследование, указывающее на возможную неблагоприятную ассоциацию, требует внимания и дальнейших исследований для выяснения причинно‑следственных связей и контекстов.",
+          "takeaways": [
+            "В исследовании наблюдалась ассоциация — не доказанная причинность — между добавками омега‑3 и когнитивным снижением у пожилых.",
+            "Результаты ставят под сомнение распространённое представление о том, что капсулы омега‑3 универсально замедляют когнитивное старение.",
+            "Для интерпретации результатов важны такие детали, как доза, форма препарата и состояние здоровья участников.",
+            "Необходимы дополнительные исследования прежде чем менять общие рекомендации."
+          ]
+        },
+        "uk": {
+          "title": "Нове дослідження повідомляє про асоціацію між омега‑3 добавками та швидшим когнітивним занепадом у літніх людей",
+          "summary": "Стаття в The Journal of Prevention of Alzheimer's Disease описує зв’язок між прийомом пероральних омега‑3 добавок і більш швидким зниженням когнітивних функцій серед літніх людей. Ця доповідь протиставляє поширеним маркетинговим твердженням, що ці добавки захищають від когнітивного старіння.",
+          "whyItMatters": "Багато людей старшого віку використовують омега‑3 для підтримки здоров’я мозку і серця; дослідження, яке вказує на можливу несприятливу асоціацію, заслуговує уваги і додаткових досліджень для з’ясування причинно‑наслідкових зв’язків і контексту.",
+          "takeaways": [
+            "Дослідження виявило асоціацію — а не доведену каузальність — між омега‑3 добавками та когнітивним занепадом у людей похилого віку.",
+            "Висновки кидають виклик поширеному уявленню, що капсули омега‑3 завжди сповільнюють когнітивне старіння.",
+            "Деталі, як‑от доза, форма препарату та стан здоров’я учасників, важливі для інтерпретації результатів.",
+            "Потрібні додаткові дослідження перед внесенням широких змін у рекомендації."
+          ]
+        },
+        "fr": {
+          "title": "Une nouvelle étude rapporte une association entre les suppléments d'oméga‑3 et un déclin cognitif plus rapide chez les personnes âgées",
+          "summary": "Un article dans The Journal of Prevention of Alzheimer's Disease décrit un lien entre la prise d'oméga‑3 par voie orale et une diminution plus rapide des fonctions cognitives chez les personnes âgées. Le rapport contraste avec les affirmations commerciales courantes selon lesquelles ces suppléments protégeraient contre le vieillissement cognitif.",
+          "whyItMatters": "De nombreuses personnes âgées utilisent des oméga‑3 pour soutenir la santé du cerveau et du cœur ; une étude suggérant une association potentiellement défavorable mérite attention et recherches supplémentaires pour comprendre la causalité et le contexte.",
+          "takeaways": [
+            "L'étude a observé une association — et non une causalité prouvée — entre les suppléments d'oméga‑3 et le déclin cognitif chez les seniors.",
+            "Les résultats remettent en question la perception courante selon laquelle les gélules d'oméga‑3 ralentissent universellement le vieillissement cognitif.",
+            "Des détails tels que la dose, la formulation et l'état de santé des participants sont importants pour interpréter les résultats.",
+            "Davantage de recherches sont nécessaires avant de modifier des recommandations larges."
+          ]
+        },
+        "de": {
+          "title": "Neue Studie berichtet einen Zusammenhang zwischen Omega‑3‑Supplementen und schnellerem kognitiven Abbau bei älteren Erwachsenen",
+          "summary": "Eine Arbeit in The Journal of Prevention of Alzheimer's Disease beschrieb einen Zusammenhang zwischen der Einnahme oraler Omega‑3‑Präparate und einem schnelleren Rückgang kognitiver Funktionen bei älteren Erwachsenen. Der Bericht steht im Gegensatz zu gängigen Werbeaussagen, dass diese Präparate vor kognitivem Altern schützen.",
+          "whyItMatters": "Viele ältere Erwachsene nutzen Omega‑3 zur Unterstützung von Gehirn und Herz; eine Studie, die eine mögliche nachteilige Verbindung nahelegt, verdient Aufmerksamkeit und weitere Forschung, um Kausalität und Kontext zu klären.",
+          "takeaways": [
+            "Die Studie beobachtete eine Assoziation — keine nachgewiesene Kausalität — zwischen Omega‑3‑Supplementen und kognitivem Abbau bei Senioren.",
+            "Die Ergebnisse stellen gängige Wahrnehmungen in Frage, dass Omega‑3‑Kapseln allgemein das kognitive Altern verlangsamen.",
+            "Detailfragen wie Dosis, Formulierung und Gesundheitsstatus der Teilnehmenden sind wichtig für die Interpretation.",
+            "Weitere Forschung ist nötig, bevor breite Empfehlungen geändert werden sollten."
+          ]
+        },
+        "pt-br": {
+          "title": "Novo estudo relata associação entre suplementos de ômega‑3 e declínio cognitivo mais rápido em idosos",
+          "summary": "Um artigo no The Journal of Prevention of Alzheimer's Disease descreveu uma associação entre a tomada oral de suplementos de ômega‑3 e um declínio mais rápido da função cognitiva entre adultos mais velhos. O relatório contrasta com alegações comuns de marketing de que esses suplementos protegem contra o envelhecimento cognitivo.",
+          "whyItMatters": "Muitos idosos usam ômega‑3 para apoiar a saúde do cérebro e do coração; um estudo que sugere uma possível associação adversa merece atenção e mais pesquisas para entender causalidade e contexto.",
+          "takeaways": [
+            "O estudo observou uma associação — não comprovação de causalidade — entre suplementos de ômega‑3 e declínio cognitivo em idosos.",
+            "Os achados desafiam percepções comuns de que cápsulas de ômega‑3 retardam universalmente o envelhecimento cognitivo.",
+            "Detalhes como dose, formulação e estado de saúde dos participantes importam para interpretar os resultados.",
+            "Mais pesquisas são necessárias antes de alterar recomendações amplas."
+          ]
+        },
+        "hu": {
+          "title": "Új tanulmány összefüggést jelentett az omega‑3 kiegészítők és a gyorsabb kognitív hanyatlás között időseknél",
+          "summary": "A The Journal of Prevention of Alzheimer's Disease folyóiratban megjelent közlemény kapcsolatot írt le az orális omega‑3 kiegészítők szedése és a kognitív funkció gyorsabb hanyatlása között idősebb felnőttek körében. A jelentés ellentmond a gyakori marketingállításoknak, amelyek szerint ezek a kiegészítők védik a kognitív öregedéstől.",
+          "whyItMatters": "Sok idős ember használ omega‑3-at az agy és a szív támogatására; egy, az esetlegesen kedvezőtlen összefüggést sugalló tanulmány figyelmet érdemel és további kutatást igényel az oksági viszonyok és a kontextus megértéséhez.",
+          "takeaways": [
+            "A tanulmány összefüggést figyelt meg — nem bizonyított oksági kapcsolatot — az omega‑3 kiegészítők és az időskori kognitív hanyatlás között.",
+            "Az eredmények kihívást jelentenek a széles körben elterjedt nézettel szemben, miszerint az omega‑3 kapszulák minden esetben lassítják a kognitív öregedést.",
+            "Az értelmezéshez fontosak a részletek, például az adag, a készítmény és a résztvevők egészségi állapota.",
+            "További kutatás szükséges, mielőtt széles körű ajánlásváltozások történnének."
+          ]
+        },
+        "ar": {
+          "title": "دراسة جديدة تُبلغ عن ارتباط بين مكملات أوميغا‑3 وتدهور معرفي أسرع لدى البالغين الأكبر سنًا",
+          "summary": "نشرت ورقة في مجلة The Journal of Prevention of Alzheimer's Disease علاقة بين تناول مكملات أوميغا‑3 الفموية وتدهور أسرع في الوظيفة المعرفية لدى كبار السن. تتناقض هذه النتيجة مع الادعاءات الإعلانية الشائعة التي تزعم أن هذه المكملات تحمي من شيخوخة الإدراك.",
+          "whyItMatters": "يستخدم العديد من كبار السن أوميغا‑3 لدعم صحة الدماغ والقلب؛ وتشير دراسة توحي بوجود ارتباط سلبي محتمل إلى ضرورة الانتباه ومواصلة البحث لفهم السببية والسياق.",
+          "takeaways": [
+            "لوحظ ارتباط في الدراسة — وليس إثبات علاقة سببية — بين مكملات أوميغا‑3 وتدهور معرفي أسرع لدى المسنين.",
+            "تتحدى النتائج التصورات الشائعة بأن كبسولات أوميغا‑3 تبطئ دومًا شيخوخة الوظائف المعرفية.",
+            "تفاصيل مثل الجرعة، والتركيبة، وحالة صحة المشاركين مهمة لتفسير النتائج.",
+            "هناك حاجة إلى مزيد من البحث قبل تغيير التوصيات العامة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=omega3-cognitive-decline-2026-05-04-medicalxpress",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/omega3-cognitive-decline-2026-05-04-medicalxpress-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/omega3-cognitive-decline-2026-05-04-medicalxpress-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New study reports an association between omega-3 supplements and quicker cognitive decline in older adults.\nStory summary: A paper in The Journal of Prevention of Alzheimer's Disease described a link between taking oral omega-3 supplements and a faster decline in cognitive function among older adults. The report contrasts with common marketing claims that these supplements protect against cognitive aging..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tb-food-baskets-costeffectiveness-2026-05-04-medicalxpress",
+      "category": "public health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-food-baskets-people-tuberculosis-effective.html",
+      "sourceTitle": "Providing food baskets to people with tuberculosis is cost-effective, could avert over 100,000 deaths annually in India",
+      "publishedAt": "Mon, 04 May 2026 11:00:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Modeling suggests food support for TB patients in India could be cost-effective and save lives",
+          "summary": "Researchers collaborating with India's tuberculosis program modeled nutritional support and found that providing household food baskets to people with TB could be a cost-effective intervention with the potential to avert tens of thousands of deaths annually, addressing undernutrition as a modifiable TB risk factor.",
+          "whyItMatters": "Undernutrition substantially worsens TB outcomes; this analysis indicates integrating nutritional support into treatment programs could have major public-health and economic benefits at scale.",
+          "takeaways": [
+            "Undernutrition is a key modifiable risk factor for TB outcomes and mortality.",
+            "Providing food baskets to TB patients and households was modeled as cost-effective with large potential lives saved in India.",
+            "The work was done in collaboration with national TB programs, highlighting implementation relevance.",
+            "These are modeled projections that inform policy discussions rather than clinical prescriptions."
+          ]
+        },
+        "es": {
+          "title": "Modelos sugieren que el apoyo alimentario a pacientes con TB en la India podría ser rentable y salvar vidas",
+          "summary": "Investigadores que colaboraron con el programa nacional de tuberculosis de India modelaron el apoyo nutricional y encontraron que proporcionar canastas alimentarias a hogares con personas con TB podría ser una intervención coste-efectiva con el potencial de prevenir decenas de miles de muertes anuales, al abordar la desnutrición como factor de riesgo modificable para la TB.",
+          "whyItMatters": "La desnutrición empeora sustancialmente los resultados de la TB; este análisis indica que integrar el apoyo nutricional en los programas de tratamiento podría tener grandes beneficios de salud pública y económicos a escala.",
+          "takeaways": [
+            "La desnutrición es un factor de riesgo modificable clave para los resultados y la mortalidad por TB.",
+            "Modelaron que proporcionar canastas alimentarias a pacientes con TB y sus hogares sería coste‑efectivo y podría salvar muchas vidas en India.",
+            "El trabajo se realizó en colaboración con programas nacionales de TB, subrayando la relevancia para la implementación.",
+            "Son proyecciones modeladas que informan debates de políticas más que prescripciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Моделирование показывает, что предоставление продуктовых наборов пациентам с туберкулёзом в Индии может быть рентабельным и спасать жизни",
+          "summary": "Исследователи в сотрудничестве с национальной программой по туберкулёзу Индии смоделировали питаниеальную поддержку и пришли к выводу, что обеспечение домохозяйств продуктовыми наборами для людей с ТБ может быть экономически эффективным вмешательством с потенциалом предотвратить десятки тысяч случаев смерти ежегодно, учитывая недоедание как изменяемый фактор риска ТБ.",
+          "whyItMatters": "Недоедание существенно ухудшает исходы при ТБ; этот анализ показывает, что интеграция питания в программы лечения может иметь крупные общественно‑здоровые и экономические преимущества в масштабе страны.",
+          "takeaways": [
+            "Недоедание — ключевой изменяемый фактор риска для исходов и смертности при ТБ.",
+            "Моделирование показало, что предоставление продуктовых наборов пациентам с ТБ и их семьям было бы экономически эффективным и могло бы спасти множество жизней в Индии.",
+            "Работа выполнена в сотрудничестве с национальными программами по ТБ, что подчёркивает практическую значимость.",
+            "Это смоделированные прогнозы, которые информируют политические обсуждения, а не клинические предписания."
+          ]
+        },
+        "uk": {
+          "title": "Моделювання свідчить, що харчова підтримка для пацієнтів з туберкульозом в Індії може бути рентабельною та врятувати життя",
+          "summary": "Дослідники, що співпрацювали з програмою контролю туберкульозу в Індії, змоделювали надання харчової підтримки і виявили, що забезпечення домашніх продуктових наборів людям з ТБ може бути економічно ефективним заходом із потенціалом запобігти десяткам тисяч смертей щорічно, усуваючи недоїдання як змінний фактор ризику ТБ.",
+          "whyItMatters": "Недоїдання суттєво погіршує результати ТБ; цей аналіз вказує, що інтеграція харчової підтримки в програми лікування може мати значні громадсько‑охоронні та економічні переваги в масштабі населення.",
+          "takeaways": [
+            "Недоїдання є ключовим змінним фактором ризику для результатів і смертності від ТБ.",
+            "Моделювання показало, що надання продуктових наборів пацієнтам із ТБ і їхнім домогосподарствам було економічно ефективним і могло б врятувати багато життів в Індії.",
+            "Робота виконана у співпраці з національними програмами боротьби з ТБ, що підкреслює значущість для впровадження.",
+            "Це змодельовані прогнози, які інформують політичні дискусії, а не клінічні призначення."
+          ]
+        },
+        "fr": {
+          "title": "La modélisation suggère qu'un soutien alimentaire aux patients atteints de TB en Inde pourrait être rentable et sauver des vies",
+          "summary": "Des chercheurs collaborant avec le programme indien de lutte contre la tuberculose ont modélisé un soutien nutritionnel et trouvé que la fourniture de paniers alimentaires aux ménages des personnes atteintes de TB pourrait être une intervention rentable avec le potentiel d'éviter des dizaines de milliers de décès annuels, en traitant la sous‑nutrition comme un facteur de risque modifiable pour la TB.",
+          "whyItMatters": "La sous‑nutrition aggrave substantiellement les résultats de la TB ; cette analyse indique que l'intégration d'un soutien nutritionnel aux programmes de traitement pourrait avoir d'importants bénéfices de santé publique et économiques à grande échelle.",
+          "takeaways": [
+            "La sous‑nutrition est un facteur de risque modifiable clé pour les issues et la mortalité liées à la TB.",
+            "La fourniture de paniers alimentaires aux patients TB et à leurs ménages a été modélisée comme rentable avec un fort potentiel de vies sauvées en Inde.",
+            "Le travail a été réalisé en collaboration avec des programmes nationaux de lutte contre la TB, soulignant la pertinence pour la mise en œuvre.",
+            "Ce sont des projections modélisées qui éclairent les débats politiques plutôt que des prescriptions cliniques."
+          ]
+        },
+        "de": {
+          "title": "Modellrechnungen legen nahe, dass Lebensmittelkörbe für Tuberkulosepatienten in Indien kosteneffektiv sein und Leben retten könnten",
+          "summary": "Forscher, die mit Indiens Tuberkuloseprogramm zusammenarbeiteten, modellierten ernährungsbezogene Unterstützung und fanden, dass die Bereitstellung von Haushaltsernährungskörben für Menschen mit TB eine kosteneffektive Intervention sein könnte, die Zehntausende von Todesfällen jährlich verhindern kann, indem Unterernährung als veränderbarer Risikofaktor adressiert wird.",
+          "whyItMatters": "Unterernährung verschlechtert TB‑Verläufe erheblich; diese Analyse zeigt, dass die Integration von Ernährungshilfe in Behandlungsprogramme auf großer Skala erhebliche gesundheitliche und wirtschaftliche Vorteile haben könnte.",
+          "takeaways": [
+            "Unterernährung ist ein wesentlicher veränderbarer Risikofaktor für TB‑Ergebnisse und Sterblichkeit.",
+            "Die Modellierung ergab, dass die Bereitstellung von Lebensmittelkörben an TB‑Patienten und Haushalte kosteneffektiv sein und viele Leben in Indien retten könnte.",
+            "Die Arbeit erfolgte in Zusammenarbeit mit nationalen TB‑Programmen und betont die Relevanz für die Umsetzung.",
+            "Es handelt sich um modellierte Projektionen, die politische Diskussionen informieren sollen, nicht um klinische Vorgaben."
+          ]
+        },
+        "pt-br": {
+          "title": "Modelagem sugere que cestas alimentares para pessoas com tuberculose na Índia podem ser custo‑efetivas e salvar vidas",
+          "summary": "Pesquisadores em colaboração com o programa nacional de tuberculose da Índia modelaram apoio nutricional e constataram que fornecer cestas alimentares domiciliares às pessoas com TB pode ser uma intervenção custo‑efetiva com potencial para evitar dezenas de milhares de mortes anualmente, ao abordar a desnutrição como um fator de risco modificável para TB.",
+          "whyItMatters": "A desnutrição piora substancialmente os desfechos da TB; esta análise indica que integrar suporte nutricional aos programas de tratamento pode trazer grandes benefícios de saúde pública e econômicos em escala.",
+          "takeaways": [
+            "A desnutrição é um importante fator de risco modificável para desfechos e mortalidade por TB.",
+            "Fornecer cestas alimentares a pacientes com TB e seus domicílios foi modelado como custo‑efetivo, com grande potencial de vidas salvas na Índia.",
+            "O trabalho foi realizado em parceria com programas nacionais de TB, destacando relevância para implementação.",
+            "São projeções modeladas que informam discussões de políticas, não prescrições clínicas."
+          ]
+        },
+        "hu": {
+          "title": "Modellezés szerint élelmiszercsomagok nyújtása a TB-betegeknek Indiában költséghatékony lehet és életeket menthet",
+          "summary": "Kutatók, az indiai tuberkulózis-programmal együttműködve, modellezték a táplálkozási támogatást, és megállapították, hogy háztartási élelmiszercsomagok biztosítása a TB-betegeknek költséghatékony beavatkozás lehet, amely évi több tízezer életet képes megmenteni, mivel a alultápláltság módosítható kockázati tényező a TB esetében.",
+          "whyItMatters": "Az alultápláltság jelentősen rontja a TB kimenetelét; ez az elemzés azt jelzi, hogy a táplálkozási támogatás integrálása a kezelésbe nagy közegészségügyi és gazdasági hasznot hozhat nagy léptékben.",
+          "takeaways": [
+            "Az alultápláltság kulcsfontosságú, módosítható kockázati tényező a TB kimenetelére és halálozásra.",
+            "A TB-betegeknek és háztartásaiknak adott élelmiszercsomagok modellje költséghatékonynak mutatkozott és nagy számú élet megmentését vetíti előre Indiában.",
+            "A munka nemzeti TB programokkal együtt készült, kiemelve a megvalósítási relevanciát.",
+            "Ezek modellezett előrejelzések, amelyek a politikai vitákat informálják, nem pedig klinikai előírások."
+          ]
+        },
+        "ar": {
+          "title": "تفترض النمذجة أن توفير سلال غذائية لمرضى السل في الهند قد يكون مجديًا اقتصاديًا ويمكن أن ينقذ أرواحًا",
+          "summary": "نمذج باحثون بالتعاون مع برنامج السل في الهند دعمًا غذائيًا ووجدوا أن توفير سلال غذائية للأسر التي تضم أشخاصًا مصابين بالسل قد يكون تدخلًا مجديًا من حيث التكلفة مع إمكانية تجنّب عشرات الآلاف من الوفيات سنويًا، ماضعين في الاعتبار أن نقص التغذية عامل خطر قابل للتعديل للسل.",
+          "whyItMatters": "يزيد نقص التغذية بشكل كبير من سوء نتائج السل؛ وتشير هذه التحليلات إلى أن دمج الدعم الغذائي في برامج العلاج قد يحقق فوائد كبيرة للصحة العامة والاقتصاد على نطاق واسع.",
+          "takeaways": [
+            "يعد نقص التغذية عامل خطر رئيسي وقابل للتعديل يؤثر على نتائج السل والوفيات.",
+            "تم نموذج توفير سلال غذائية لمرضى السل وأسرهم كخيار مجدٍ اقتصاديًا مع إمكانات كبيرة لإنقاذ الأرواح في الهند.",
+            "أُنجز العمل بالتعاون مع برامج وطنية للسل، مما يبرز الصلة بالتنفيذ العملي.",
+            "هذه توقعات نموذجية تهدف إلى إطلاع السياسات العامة وليست وصفات طبية."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tb-food-baskets-costeffectiveness-2026-05-04-medicalxpress",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tb-food-baskets-costeffectiveness-2026-05-04-medicalxpress-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tb-food-baskets-costeffectiveness-2026-05-04-medicalxpress-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Modeling suggests food support for TB patients in India could be cost-effective and save lives.\nStory summary: Researchers collaborating with India's tuberculosis program modeled nutritional support and found that providing household food baskets to people with TB could be a cost-effective intervention with the potential to avert tens of thousands of deaths annually, addressing undernutrition as a modifiable TB risk factor..\nCategory: public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "creatine-beyond-muscle-2026-05-04-sciencedaily",
+      "category": "nutrition",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+      "sourceTitle": "Scientists reveal creatine’s hidden power beyond muscle gains",
+      "publishedAt": "Mon, 04 May 2026 04:13:48 EDT",
+      "languages": {
+        "en": {
+          "title": "Researchers highlight creatine’s broader cellular roles, including brain function",
+          "summary": "The report emphasizes creatine’s role in rapidly regenerating cellular ATP, a key energy currency. Beyond short bursts of physical performance, supplementary creatine is linked in some studies to improvements in memory, mood and processing speed—particularly in people with lower baseline creatine levels.",
+          "whyItMatters": "Creatine is widely used for athletic performance; this work summarizes evidence that its effects extend to other tissues such as the brain and heart, which may interest people following cognitive and metabolic health research.",
+          "takeaways": [
+            "Creatine supports rapid ATP regeneration across multiple tissues, not just muscle.",
+            "Supplement studies report possible benefits for memory, mood and cognitive speed in certain groups.",
+            "Benefits appear stronger when baseline creatine levels are low.",
+            "The summary synthesizes research findings rather than presenting new clinical recommendations."
+          ]
+        },
+        "es": {
+          "title": "Investigadores destacan los papeles celulares más amplios de la creatina, incluida la función cerebral",
+          "summary": "El informe enfatiza el papel de la creatina en la regeneración rápida de ATP celular, una moneda energética clave. Más allá de los esfuerzos físicos cortos, en algunos estudios la suplementación con creatina se ha relacionado con mejoras en la memoria, el ánimo y la velocidad de procesamiento, especialmente en personas con niveles basales de creatina más bajos.",
+          "whyItMatters": "La creatina se usa ampliamente para el rendimiento deportivo; este trabajo resume la evidencia de que sus efectos se extienden a otros tejidos como el cerebro y el corazón, lo que puede interesar a quienes siguen investigaciones sobre salud cognitiva y metabólica.",
+          "takeaways": [
+            "La creatina ayuda a la regeneración rápida de ATP en varios tejidos, no solo en el músculo.",
+            "Estudios con suplementos informan posibles beneficios para la memoria, el ánimo y la velocidad cognitiva en ciertos grupos.",
+            "Los beneficios parecen ser más evidentes cuando los niveles basales de creatina son bajos.",
+            "El resumen sintetiza hallazgos de investigación y no presenta nuevas recomendaciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи подчёркивают более широкие клеточные роли креатина, включая функцию мозга",
+          "summary": "В отчёте подчёркивается роль креатина в быстром восстановлении клеточного АТФ — ключевой «энергетической валюты». Помимо кратковременных физических нагрузок, в некоторых исследованиях приём креатиновых добавок связывали с улучшением памяти, настроения и скорости обработки информации — особенно у людей с низким исходным уровнем креатина.",
+          "whyItMatters": "Креатин широко используется для повышения спортивных результатов; эта работа суммирует данные о том, что его эффекты затрагивают и другие ткани, такие как мозг и сердце, что может быть интересно тем, кто следит за исследованиями когнитивного и метаболического здоровья.",
+          "takeaways": [
+            "Креатин поддерживает быстрое восстановление АТФ в разных тканях, а не только в мышцах.",
+            "Исследования добавок сообщают о возможных преимуществах для памяти, настроения и скорости когнитивных процессов в определённых группах.",
+            "Эффекты кажутся сильнее при низком исходном уровне креатина.",
+            "Материал представляет собой синтез исследований, а не новые клинические рекомендации."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники висвітлюють ширші клітинні ролі креатину, зокрема для мозку",
+          "summary": "У звіті підкреслюється роль креатину у швидкій регенерації клітинного АТФ, ключової енергетичної «валюти». Поза короткими спалахами фізичної продуктивності, у деяких дослідженнях додатковий креатин пов'язували з поліпшеннями пам’яті, настрою та швидкості обробки інформації — особливо в людей із нижчим початковим рівнем креатину.",
+          "whyItMatters": "Креатин широко використовується для спортивних цілей; ця робота підсумовує докази, що його ефекти поширюються на інші тканини, такі як мозок і серце, що може зацікавити тих, хто слідкує за дослідженнями когнітивного та метаболічного здоров’я.",
+          "takeaways": [
+            "Креатин підтримує швидку регенерацію АТФ у різних тканинах, а не лише в м'язах.",
+            "Дослідження з додатковим прийомом повідомляють про можливі користі для пам'яті, настрою та когнітивної швидкості в певних групах.",
+            "Користь, здається, сильніша, коли початкові рівні креатину низькі.",
+            "Огляд синтезує наявні дослідження, а не пропонує нових клінічних рекомендацій."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs soulignent les rôles cellulaires plus larges de la créatine, y compris pour le cerveau",
+          "summary": "Le rapport met l'accent sur le rôle de la créatine dans la régénération rapide de l'ATP cellulaire, une « monnaie » énergétique clé. Au‑delà des efforts physiques brefs, des études sur la supplémentation en créatine associent parfois celle‑ci à des améliorations de la mémoire, de l'humeur et de la vitesse de traitement — en particulier chez les personnes ayant des niveaux de créatine de base plus faibles.",
+          "whyItMatters": "La créatine est largement utilisée pour la performance sportive ; ce travail résume des preuves que ses effets s'étendent à d'autres tissus comme le cerveau et le cœur, ce qui peut intéresser les personnes suivant la recherche sur la santé cognitive et métabolique.",
+          "takeaways": [
+            "La créatine soutient la régénération rapide d'ATP dans plusieurs tissus, pas seulement dans les muscles.",
+            "Les études sur la supplémentation rapportent des bénéfices possibles pour la mémoire, l'humeur et la vitesse cognitive dans certains groupes.",
+            "Les bénéfices semblent plus marqués lorsque les niveaux de créatine de base sont faibles.",
+            "Le résumé synthétise des résultats de recherche plutôt que de présenter de nouvelles recommandations cliniques."
+          ]
+        },
+        "de": {
+          "title": "Forscher heben die umfassenderen zellulären Rollen von Kreatin hervor, einschließlich der Gehirnfunktion",
+          "summary": "Der Bericht betont die Rolle von Kreatin bei der schnellen Regeneration von zellulärem ATP, einer wichtigen Energieeinheit. Über kurzzeitige körperliche Leistungsphasen hinaus wird in einigen Studien die ergänzende Einnahme von Kreatin mit Verbesserungen von Gedächtnis, Stimmung und Verarbeitungsgeschwindigkeit in Verbindung gebracht – insbesondere bei Personen mit niedrigeren Ausgangs-Kreatinwerten.",
+          "whyItMatters": "Kreatin wird häufig zur Unterstützung sportlicher Leistung eingesetzt; diese Arbeit fasst Hinweise zusammen, dass seine Effekte auch auf andere Gewebe wie Gehirn und Herz reichen, was für Personen, die kognitive und metabolische Gesundheit verfolgen, von Interesse sein kann.",
+          "takeaways": [
+            "Kreatin unterstützt die schnelle ATP‑Regeneration in mehreren Geweben, nicht nur im Muskel.",
+            "Studien zu Ergänzungen berichten mögliche Vorteile für Gedächtnis, Stimmung und kognitive Geschwindigkeit in bestimmten Gruppen.",
+            "Die Effekte scheinen stärker zu sein, wenn die Ausgangs‑Kreatinwerte niedrig sind.",
+            "Die Zusammenfassung synthetisiert Forschungsergebnisse, stellt aber keine neuen klinischen Empfehlungen auf."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores destacam papéis celulares mais amplos da creatina, incluindo a função cerebral",
+          "summary": "O relatório enfatiza o papel da creatina na regeneração rápida de ATP celular, uma moeda energética chave. Além de rajadas curtas de desempenho físico, a suplementação de creatina foi associada em alguns estudos a melhorias na memória, no humor e na velocidade de processamento — particularmente em pessoas com níveis basais de creatina mais baixos.",
+          "whyItMatters": "A creatina é amplamente usada para desempenho atlético; este trabalho resume evidências de que seus efeitos se estendem a outros tecidos, como cérebro e coração, o que pode interessar a quem acompanha pesquisas sobre saúde cognitiva e metabólica.",
+          "takeaways": [
+            "A creatina apoia a regeneração rápida de ATP em múltiplos tecidos, não apenas no músculo.",
+            "Estudos com suplementos relatam possíveis benefícios para memória, humor e velocidade cognitiva em certos grupos.",
+            "Os benefícios parecem ser maiores quando os níveis basais de creatina são baixos.",
+            "O resumo sintetiza achados de pesquisa, sem apresentar novas recomendações clínicas."
+          ]
+        },
+        "hu": {
+          "title": "A kutatók kiemelik a kreatin szélesebb sejtszintű szerepeit, köztük az agyműködésre gyakorolt hatást",
+          "summary": "A jelentés hangsúlyozza a kreatin szerepét a sejtek ATP-jének gyors regenerálásában, amely a kulcsenergiakészlet. A rövid fizikai teljesítményen túl egyes kiegészítést vizsgáló tanulmányok összefüggést találnak a kreatinkiegészítéssel a memória, a hangulat és a feldolgozási sebesség javulásával — különösen azoknál, akiknek alacsonyabb a kiindulási kreatinszintjük.",
+          "whyItMatters": "A kreatint széles körben használják sportteljesítményhez; ez a munka összegzi a bizonyítékokat arról, hogy hatásai kiterjedhetnek más szövetekre, például az agyra és a szívre, ami érdekes lehet azok számára, akik a kognitív és anyagcsere-egészség kutatását követik.",
+          "takeaways": [
+            "A kreatin több szövetben támogatja az ATP gyors regenerálódását, nem csupán az izomban.",
+            "Kiegészítőket vizsgáló tanulmányok bizonyos csoportoknál lehetséges előnyöket jelentenek a memória, a hangulat és a kognitív sebesség terén.",
+            "Az előnyök erősebbnek tűnnek, ha a kiindulási kreatinszint alacsony.",
+            "A összefoglaló kutatási eredményeket szintetizál, nem pedig új klinikai ajánlásokat ad."
+          ]
+        },
+        "ar": {
+          "title": "يسلّط الباحثون الضوء على الأدوار الخلوية الأوسع للكرياتين، بما في ذلك وظائف الدماغ",
+          "summary": "تؤكد النشرة دور الكرياتين في تجديد ATP الخلوي بسرعة، وهو عملة الطاقة الأساسية. بخلاف الفترات القصيرة من الأداء البدني، ربطت بعض الدراسات تناول مكملات الكرياتين بتحسينات في الذاكرة والمزاج وسرعة المعالجة — خصوصًا لدى الأشخاص ذوي مستويات الكرياتين الأساسية المنخفضة.",
+          "whyItMatters": "يُستخدم الكرياتين على نطاق واسع للأداء الرياضي؛ تلخّص هذه الورقة أدلة تفيد بأن تأثيراته تمتد إلى أنسجة أخرى مثل الدماغ والقلب، مما قد يهم الأشخاص المهتمين بأبحاث الصحة الإدراكية والتمثيل الغذائي.",
+          "takeaways": [
+            "يدعم الكرياتين تجديد ATP السريع في أنسجة متعددة، وليس في العضلات فقط.",
+            "تشير دراسات المكملات إلى فوائد محتملة للذاكرة والمزاج وسرعة الإدراك في مجموعات معينة.",
+            "تبدو الفوائد أقوى عندما تكون مستويات الكرياتين الأساسية منخفضة.",
+            "التلخيص يجمع نتائج بحثية ولا يقدم توصيات إكلينيكية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=creatine-beyond-muscle-2026-05-04-sciencedaily",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/creatine-beyond-muscle-2026-05-04-sciencedaily-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/creatine-beyond-muscle-2026-05-04-sciencedaily-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers highlight creatine’s broader cellular roles, including brain function.\nStory summary: The report emphasizes creatine’s role in rapidly regenerating cellular ATP, a key energy currency. Beyond short bursts of physical performance, supplementary creatine is linked in some studies to improvements in memory, mood and processing speed—particularly in people with lower baseline creatine levels..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "blood-test-depression-2026-05-04-sciencedaily",
+      "category": "mental health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260504023827.htm",
+      "sourceTitle": "This simple blood test might detect depression before symptoms appear",
+      "publishedAt": "Mon, 04 May 2026 03:17:17 EDT",
+      "languages": {
+        "en": {
+          "title": "Accelerated immune-cell aging may signal future depression, study reports",
+          "summary": "Investigators tracked aging markers in monocytes and found that faster cellular aging in these immune cells was associated with emotional and cognitive features of depression rather than physical symptoms. The authors suggest a blood-based signal could emerge for earlier detection or research purposes.",
+          "whyItMatters": "A measurable immune-cell signature linked to depressive symptoms could help research into causes and timing of depression and, if validated, might inform earlier identification strategies in the future.",
+          "takeaways": [
+            "The study connects accelerated 'aging' in monocytes with emotional and cognitive depressive symptoms.",
+            "Findings focus on a potential biomarker for research; clinical use would require more validation.",
+            "The signal was tied to mood and cognition rather than to fatigue or other physical complaints.",
+            "This is an early-stage result intended to guide further investigation, not diagnosis."
+          ]
+        },
+        "es": {
+          "title": "El envejecimiento acelerado de células inmunitarias podría señalar depresión futura, informa un estudio",
+          "summary": "Los investigadores siguieron marcadores de envejecimiento en monocitos y encontraron que un envejecimiento celular más rápido en estas células inmunitarias se asoció con rasgos emocionales y cognitivos de la depresión más que con síntomas físicos. Los autores sugieren que podría emerger una señal en sangre para detección temprana o fines de investigación.",
+          "whyItMatters": "Una firma medible en células inmunitarias vinculada a síntomas depresivos podría ayudar a investigar las causas y la cronología de la depresión y, si se valida, podría informar estrategias de identificación más temprana en el futuro.",
+          "takeaways": [
+            "El estudio conecta el 'envejecimiento' acelerado en monocitos con síntomas depresivos emocionales y cognitivos.",
+            "Los hallazgos se centran en un posible biomarcador para investigación; el uso clínico requeriría más validación.",
+            "La señal se relacionó con el estado de ánimo y la cognición, más que con fatiga u otras quejas físicas.",
+            "Es un resultado en etapa temprana pensado para guiar investigaciones posteriores, no para diagnóstico."
+          ]
+        },
+        "ru": {
+          "title": "Ускоренное старение иммунных клеток может сигнализировать о будущей депрессии, сообщает исследование",
+          "summary": "Исследователи отслеживали маркёры старения в моноцитах и обнаружили, что более быстрое клеточное старение этих иммунных клеток ассоциировалось с эмоциональными и когнитивными чертами депрессии, а не с физическими симптомами. Авторы предполагают, что в крови может появиться сигнал для более раннего выявления или для исследовательских целей.",
+          "whyItMatters": "Измеримая сигнатура в иммунных клетках, связанная с депрессивными симптомами, может помочь в исследовании причин и временных аспектов депрессии и, при валидации, способствовать более ранним стратегиям выявления в будущем.",
+          "takeaways": [
+            "Исследование связывает ускоренное «старение» моноцитов с эмоциональными и когнитивными симптомами депрессии.",
+            "Результаты ориентированы на возможный биомаркер для исследований; клиническое применение потребует дополнительной валидации.",
+            "Сигнал был связан с настроением и когницией, а не с усталостью или другими физическими жалобами.",
+            "Это ранний результат, предназначенный для направления дальнейших исследований, а не для диагностики."
+          ]
+        },
+        "uk": {
+          "title": "Прискорене «старіння» імунних клітин може сигналізувати про майбутню депресію, повідомляє дослідження",
+          "summary": "Дослідники відстежували маркери старіння в моноцитах і виявили, що швидше клітинне старіння в цих імунних клітинах було пов’язане з емоційними та когнітивними ознаками депресії, а не з фізичними симптомами. Автори припускають, що у крові може виявитися сигнал для раннього виявлення або для досліджень.",
+          "whyItMatters": "Вимірювана імунна сигнатура, пов’язана з депресивними симптомами, може допомогти в дослідженні причин і хронології депресії та, якщо буде верифікована, потенційно інформувати стратегії раннього виявлення в майбутньому.",
+          "takeaways": [
+            "Дослідження пов'язує прискорене «старіння» моноцитів з емоційними та когнітивними симптомами депресії.",
+            "Висновки зосереджені на потенційному біомаркері для досліджень; для клінічного використання потрібна додаткова валідація.",
+            "Сигнал був пов'язаний із настроєм і когніцією, а не з втомою чи іншими фізичними скаргами.",
+            "Це ранній результат, призначений для подальшого вивчення, а не для діагнозу."
+          ]
+        },
+        "fr": {
+          "title": "Un vieillissement accéléré des cellules immunitaires pourrait signaler une dépression future, rapporte une étude",
+          "summary": "Les chercheurs ont suivi des marqueurs de vieillissement dans les monocytes et ont constaté qu'un vieillissement cellulaire plus rapide de ces cellules immunitaires était associé à des caractéristiques émotionnelles et cognitives de la dépression plutôt qu'à des symptômes physiques. Les auteurs suggèrent qu'un signal détectable dans le sang pourrait émerger pour un dépistage précoce ou à des fins de recherche.",
+          "whyItMatters": "Une signature immunitaire mesurable liée aux symptômes dépressifs pourrait aider la recherche sur les causes et le calendrier de la dépression et, si elle est validée, pourrait informer des stratégies d'identification plus précoce à l'avenir.",
+          "takeaways": [
+            "L'étude relie un « vieillissement » accéléré des monocytes aux symptômes dépressifs émotionnels et cognitifs.",
+            "Les résultats portent sur un biomarqueur potentiel pour la recherche ; une utilisation clinique nécessiterait davantage de validation.",
+            "Le signal était lié à l'humeur et à la cognition plutôt qu'à la fatigue ou à d'autres plaintes physiques.",
+            "Il s'agit d'un résultat de stade précoce destiné à guider des recherches supplémentaires, pas un diagnostic."
+          ]
+        },
+        "de": {
+          "title": "Beschleunigtes Altern von Immunzellen könnte künftige Depression signalisieren, berichtet Studie",
+          "summary": "Untersucher verfolgten Altersmarker in Monozyten und fanden, dass schnelleres zelluläres Altern in diesen Immunzellen mit emotionalen und kognitiven Merkmalen von Depressionen verbunden war, nicht mit körperlichen Symptomen. Die Autoren schlagen vor, dass ein blutbasierter Hinweis für frühere Erkennung oder Forschungszwecke auftauchen könnte.",
+          "whyItMatters": "Eine messbare Immunzell‑Signatur, die mit depressiven Symptomen verbunden ist, könnte die Forschung zu Ursachen und Zeitpunkt von Depressionen unterstützen und, falls validiert, künftig frühere Identifikationsstrategien informieren.",
+          "takeaways": [
+            "Die Studie verbindet beschleunigtes 'Altern' in Monozyten mit emotionalen und kognitiven depressiven Symptomen.",
+            "Die Ergebnisse konzentrieren sich auf einen potenziellen Biomarker für die Forschung; klinische Nutzung würde mehr Validierung benötigen.",
+            "Das Signal war eher mit Stimmung und Kognition als mit Müdigkeit oder anderen körperlichen Beschwerden verknüpft.",
+            "Dies ist ein Ergebnisergebnis in frühem Stadium, das weitere Untersuchungen leiten soll, nicht eine Diagnose."
+          ]
+        },
+        "pt-br": {
+          "title": "Envelhecimento acelerado de células imunes pode sinalizar depressão futura, relata estudo",
+          "summary": "Investigadores acompanharam marcadores de envelhecimento em monócitos e constataram que um envelhecimento celular mais rápido nessas células imunes estava associado a características emocionais e cognitivas da depressão, em vez de sintomas físicos. Os autores sugerem que um sinal detectável no sangue poderia surgir para detecção precoce ou fins de pesquisa.",
+          "whyItMatters": "Uma assinatura mensurável de células imunes ligada a sintomas depressivos poderia ajudar a pesquisa sobre causas e timing da depressão e, se validada, informar estratégias de identificação mais precoce no futuro.",
+          "takeaways": [
+            "O estudo conecta envelhecimento acelerado em monócitos com sintomas depressivos emocionais e cognitivos.",
+            "Os achados focam em um possível biomarcador para pesquisa; uso clínico exigiria mais validação.",
+            "O sinal estava ligado ao humor e à cognição, não à fadiga ou outras queixas físicas.",
+            "Trata‑se de um resultado em estágio inicial destinado a orientar investigações adicionais, não a realizar diagnóstico."
+          ]
+        },
+        "hu": {
+          "title": "A tanulmány szerint felgyorsult immunsejt-öregedés jelezheti a későbbi depressziót",
+          "summary": "A vizsgálók monociták öregedési markereit követték, és megállapították, hogy ezeknek az immunsejteknek a gyorsabb sejtes öregedése inkább a depresszió érzelmi és kognitív jellegzetességeivel volt összefüggésben, mint a fizikai tünetekkel. A szerzők szerint véralapú jelzés megjelenhet korábbi felismerésre vagy kutatási célokra.",
+          "whyItMatters": "Egy mérhető immunsejt-aláírás, amely összekapcsolható a depressziós tünetekkel, segítheti a depresszió okainak és időbeli lefolyásának kutatását, és ha validálják, a jövőben hozzájárulhat korábbi azonosítási stratégiákhoz.",
+          "takeaways": [
+            "A tanulmány a monocitákban felgyorsult „öregedést” kapcsolta az érzelmi és kognitív depressziós tünetekhez.",
+            "Az eredmények egy potenciális biomarkerre fókuszálnak a kutatáshoz; klinikai alkalmazáshoz több validálás szükséges.",
+            "A jel a hangulathoz és a kognícióhoz kötődött, nem a fáradtsághoz vagy más fizikai panaszokhoz.",
+            "Ez korai stádiumú eredmény, amely a további vizsgálatokat kívánja irányítani, nem diagnózist jelent."
+          ]
+        },
+        "ar": {
+          "title": "تفحّص الدراسة تسارع شيخوخة خلايا المناعة قد يشير إلى اكتئاب مستقبلي",
+          "summary": "تتبّع الباحثون مؤشرات الشيخوخة في الخلايا الوحيدة (الوحيدات) ووجدوا أن تسارع الشيخوخة الخلوية في هذه الخلايا المناعية ارتبط أكثر بالصفات العاطفية والمعرفية للاكتئاب منه بالأعراض الجسدية. يقترح المؤلفون أن إشارة قائمة على الدم قد تظهر لاكتشاف أبكر أو لأغراض بحثية.",
+          "whyItMatters": "قد يساعد وجود بصمة مناعية قابلة للقياس مرتبطة بأعراض الاكتئاب في أبحاث أسباب وتوقيت الاكتئاب، وإذا تم التحقق منها فقد تسهم مستقبلاً في استراتيجيات تحديد مبكرة.",
+          "takeaways": [
+            "تربط الدراسة بين تسارع 'الشيخوخة' في الخلايا الوحيدة والأعراض العاطفية والمعرفية للاكتئاب.",
+            "تركز النتائج على علامة حيوية محتملة للأبحاث؛ الاستخدام السريري يتطلب مزيدًا من التحقق.",
+            "كانت الإشارة مرتبطة بالمزاج والقدرات المعرفية وليس بالإرهاق أو الشكاوى الجسدية الأخرى.",
+            "هذه نتيجة مبكرة تهدف لتوجيه المزيد من التحقيقات، وليست تشخيصًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=blood-test-depression-2026-05-04-sciencedaily",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/blood-test-depression-2026-05-04-sciencedaily-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/blood-test-depression-2026-05-04-sciencedaily-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Accelerated immune-cell aging may signal future depression, study reports.\nStory summary: Investigators tracked aging markers in monocytes and found that faster cellular aging in these immune cells was associated with emotional and cognitive features of depression rather than physical symptoms. The authors suggest a blood-based signal could emerge for earlier detection or research purposes..\nCategory: mental health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "exercise-parkinsons-2026",
       "category": "exercise-neurology",
@@ -110,111 +1038,120 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Research emphasizes exercise as a powerful tool in Parkinson’s care.\nStory summary: With no cure for Parkinson’s, recent research highlights that physical activity can slow disease progression, potentially by lowering brain inflammation according to specialists and clinical observations..\nCategory: exercise-neurology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "coffee-gut-brain-2026",
-      "category": "gut-brain",
+      "id": "coffee-gut-brain-2026-05-02-sciencedaily",
+      "category": "nutrition",
       "sourceName": "sciencedaily.com",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
       "sourceTitle": "Scientists just discovered what coffee is really doing to your gut and brain",
       "publishedAt": "Sun, 03 May 2026 12:18:40 EDT",
       "languages": {
         "en": {
-          "title": "New research links both caffeinated and decaf coffee to changes in gut bacteria and brain-related outcomes",
-          "summary": "Researchers reported that both regular and decaffeinated coffee altered gut microbiota in ways associated with mood and stress, with decaf tied to improvements in learning and memory and caffeine linked to enhanced focus but more anxiety in the study context.",
-          "whyItMatters": "Coffee’s effects may extend beyond caffeine alone, involving gut microbial and brain pathways; this helps explain why different forms of coffee can produce different psychological and cognitive responses.",
+          "title": "Study links both caffeinated and decaf coffee to changes in gut bacteria and neural effects",
+          "summary": "Researchers report that drinking coffee—whether caffeinated or decaffeinated—alters gut microbiota in ways associated with mood and stress. In this work decaf was associated with improvements in learning and memory, while caffeinated coffee related to enhanced focus and reduced anxiety in the study context.",
+          "whyItMatters": "Millions of people drink coffee daily; this research points to microbiome- and brain-related pathways beyond caffeine that could help explain varied effects on mood, cognition and stress.",
           "takeaways": [
-            "Both caffeinated and decaf coffee were found to change gut bacterial communities in the study.",
-            "Decaf was associated with benefits in learning and memory measures, while caffeine related to sharper focus and increased anxiety in this research.",
-            "Findings suggest multiple components of coffee can affect gut–brain interactions, but broader confirmation is needed."
+            "Both caffeinated and decaffeinated coffee produced measurable changes in gut bacteria in the study.",
+            "Decaf and caffeinated coffee showed different apparent effects on learning, memory and focus.",
+            "Findings suggest multiple biological routes link coffee intake to brain and mood outcomes.",
+            "Results are from research contexts and do not constitute personalized health advice."
           ]
         },
         "es": {
-          "title": "Nueva investigación vincula tanto el café con cafeína como el descafeinado con cambios en la microbiota intestinal y resultados relacionados con el cerebro",
-          "summary": "Los investigadores informaron que tanto el café regular como el descafeinado alteraron la microbiota intestinal de formas asociadas con el estado de ánimo y el estrés; en el estudio, el descafeinado se asoció con mejoras en el aprendizaje y la memoria y la cafeína con mayor atención pero más ansiedad.",
-          "whyItMatters": "Los efectos del café pueden ir más allá de la cafeína e implicar vías microbianas y cerebrales, lo que ayuda a explicar por qué distintas formas de café pueden producir respuestas psicológicas y cognitivas diferentes.",
+          "title": "Un estudio vincula tanto el café con cafeína como el descafeinado con cambios en la microbiota intestinal y efectos neuronales",
+          "summary": "Los investigadores informan que beber café —con cafeína o descafeinado— altera la microbiota intestinal de maneras asociadas con el estado de ánimo y el estrés. En este trabajo, el descafeinado se asoció con mejoras en el aprendizaje y la memoria, mientras que el café con cafeína se relacionó con mayor concentración y reducción de la ansiedad en el contexto del estudio.",
+          "whyItMatters": "Millones de personas beben café a diario; esta investigación apunta a vías relacionadas con el microbioma y el cerebro más allá de la cafeína que podrían ayudar a explicar efectos variados sobre el ánimo, la cognición y el estrés.",
           "takeaways": [
-            "En el estudio, tanto el café con cafeína como el descafeinado cambiaron las comunidades bacterianas intestinales.",
-            "El descafeinado se asoció con beneficios en medidas de aprendizaje y memoria, mientras que la cafeína se relacionó con mayor nitidez de atención y aumento de la ansiedad en este contexto de investigación.",
-            "Los hallazgos sugieren que múltiples componentes del café pueden afectar las interacciones intestino–cerebro, pero se necesita confirmación más amplia."
+            "En el estudio, tanto el café con cafeína como el descafeinado produjeron cambios medibles en las bacterias intestinales.",
+            "Descafeinado y café con cafeína mostraron efectos aparentes distintos sobre el aprendizaje, la memoria y la concentración.",
+            "Los hallazgos sugieren múltiples vías biológicas que vinculan el consumo de café con resultados cerebrales y de estado de ánimo.",
+            "Los resultados proceden de contextos de investigación y no constituyen consejo de salud personalizado."
           ]
         },
         "ru": {
-          "title": "Новое исследование связывает кофе с кофеином и без с изменениями кишечной микробиоты и показателями, связанными с мозгом",
-          "summary": "Исследователи сообщили, что и обычный, и безкофеиновый кофе изменяли кишечную микробиоту в направлениях, ассоциированных с настроением и стрессом: в исследовании безкофеиновый кофе связывали с улучшением обучения и памяти, а кофеин — с повышенной концентрацией, но большей тревожностью.",
-          "whyItMatters": "Эффекты кофе могут выходить за рамки действия кофеина и включать микробные и мозговые механизмы, что помогает объяснить, почему разные виды кофе дают разные психологические и когнитивные реакции.",
+          "title": "Исследование связывает как кофе с кофеином, так и декаф с изменениями микробиоты кишечника и нейронными эффектами",
+          "summary": "Исследователи сообщают, что употребление кофе — с кофеином или без — изменяет микробиоту кишечника способами, ассоциированными с настроением и стрессом. В этой работе декаф был связан с улучшением обучения и памяти, тогда как кофе с кофеином — с усилением внимания и снижением тревожности в условиях исследования.",
+          "whyItMatters": "Миллионы людей пьют кофе ежедневно; это исследование указывает на микробиомные и мозговые пути, помимо действия кофеина, которые могут объяснять разные эффекты на настроение, когнитивные функции и реакцию на стресс.",
           "takeaways": [
-            "В исследовании и кофе с кофеином, и безкофеиновый кофе изменяли состав кишечных бактерий.",
-            "Безкофеиновый кофе ассоциировался с улучшением показателей обучения и памяти, тогда как кофеин — с остротой внимания и повышенной тревожностью в условиях этого исследования.",
-            "Результаты указывают, что несколько компонентов кофе могут влиять на взаимодействие кишечника и мозга, но требуются дополнительные подтверждения."
+            "В исследовании и кофе с кофеином, и декаф вызывали измеримые изменения в кишечной микробиоте.",
+            "Декаф и кофе с кофеином демонстрировали разные предполагаемые эффекты на обучение, память и внимание.",
+            "Результаты указывают на несколько биологических путей, связывающих потребление кофе с состоянием мозга и настроением.",
+            "Это исследования в научном контексте и не являются персональным медицинским советом."
           ]
         },
         "uk": {
-          "title": "Нове дослідження пов’язує як каву з кофеїном, так і безкофеїнову з змінами в кишкових бактеріях і показниках, пов’язаних із мозком",
-          "summary": "Дослідники повідомили, що і звичайна, і декофеїнізована кава змінювали мікробіоту кишківника у напрямках, пов’язаних із настроєм і стресом: декофеїн була пов’язана з покращенням навчання та пам’яті, а кофеїн — з гострішою увагою, але й більшою тривожністю у контексті дослідження.",
-          "whyItMatters": "Ефекти кави можуть виходити за межі дії лише кофеїну й задіювати мікробні та мозкові шляхи; це допомагає пояснити, чому різні види кави дають різні психологічні та когнітивні реакції.",
+          "title": "Дослідження пов’язує як кофеїнову, так і безкофеїнову каву зі змінами мікробіоти кишечника та нейронними ефектами",
+          "summary": "Дослідники повідомляють, що вживання кави — як з кофеїном, так і без — змінює кишкову мікробіоту в напрямках, пов’язаних із настроєм і стресом. У цій роботі безкофеїн була пов’язана з покращенням навчання й пам’яті, тоді як кофеїнова кава — з підвищенням фокусування та зменшенням тривоги в умовах дослідження.",
+          "whyItMatters": "Мільйони людей п’ють каву щодня; це дослідження вказує на шляхи, пов’язані з мікробіомом і мозком, поза впливом кофеїну, які можуть допомогти пояснити різні ефекти на настрій, когніцію та стрес.",
           "takeaways": [
-            "У дослідженні і кава з кофеїном, і безкофеїнова виявилися здатними змінювати спільноти кишкових бактерій.",
-            "Безкофеїн асоціювався з перевагами в показниках навчання й пам’яті, тоді як кофеїн — із кращою увагою та підвищеною тривожністю в межах цього дослідження.",
-            "Результати свідчать, що кілька компонентів кави можуть впливати на взаємодію кишківник–мозок, але потрібне ширше підтвердження."
+            "І кофеїнова, і безкофеїнова кава викликали вимірювані зміни в кишкових бактеріях у дослідженні.",
+            "Безкофеїн і кофеїн показали різні очевидні ефекти на навчання, пам'ять і концентрацію.",
+            "Висновки вказують на кілька біологічних шляхів, що пов’язують споживання кави з результатами для мозку та настрою.",
+            "Результати отримані в науковому контексті й не є персоналізованою медичною порадою."
           ]
         },
         "fr": {
-          "title": "Nouvelle recherche : café avec ou sans caféine lié à des changements du microbiote intestinal et à des effets cérébraux",
-          "summary": "Les chercheurs ont rapporté que le café régulier et le décaféiné modifiaient le microbiote intestinal de manières associées à l’humeur et au stress ; le décaféiné était lié à des améliorations de l’apprentissage et de la mémoire, tandis que la caféine était associée à une attention accrue mais à plus d’anxiété dans le contexte de l’étude.",
-          "whyItMatters": "Les effets du café pourraient dépasser la seule caféine et impliquer des voies microbiennes et cérébrales ; cela aide à expliquer pourquoi différentes formes de café peuvent produire des réponses psychologiques et cognitives différentes.",
+          "title": "Une étude associe café caféiné et décaféiné à des changements du microbiote intestinal et à des effets neuronaux",
+          "summary": "Les chercheurs rapportent que la consommation de café — qu'il soit caféiné ou décaféiné — modifie le microbiote intestinal de façons associées à l'humeur et au stress. Dans ce travail, le décaféiné a été associé à des améliorations de l'apprentissage et de la mémoire, tandis que le café caféiné était lié à une attention accrue et à une réduction de l'anxiété dans le contexte de l'étude.",
+          "whyItMatters": "Des millions de personnes boivent du café chaque jour ; cette recherche pointe vers des voies liées au microbiome et au cerveau au‑delà de la caféine qui pourraient aider à expliquer des effets variés sur l'humeur, la cognition et le stress.",
           "takeaways": [
-            "Dans l’étude, le café avec et sans caféine a modifié les communautés bactériennes intestinales.",
-            "Le décaféiné a été associé à des bénéfices en apprentissage et mémoire, alors que la caféine était liée à une attention plus nette et à une augmentation de l’anxiété dans cette recherche.",
-            "Les résultats suggèrent que plusieurs composants du café peuvent affecter les interactions intestin–cerveau, mais une confirmation plus large est nécessaire."
+            "Le café caféiné et décaféiné ont tous deux entraîné des modifications mesurables des bactéries intestinales dans l'étude.",
+            "Le décaféiné et le café caféiné ont montré des effets apparents différents sur l'apprentissage, la mémoire et la concentration.",
+            "Les résultats suggèrent plusieurs voies biologiques reliant la consommation de café aux effets sur le cerveau et l'humeur.",
+            "Les résultats proviennent de contextes de recherche et ne constituent pas un conseil de santé personnalisé."
           ]
         },
         "de": {
-          "title": "Neue Forschung verbindet entkoffeinierten und koffeinhaltigen Kaffee mit Veränderungen im Darmmikrobiom und gehirnbezogenen Ergebnissen",
-          "summary": "Forschende berichteten, dass sowohl normaler als auch entkoffeinierter Kaffee das Darmmikrobiom in einer Weise veränderten, die mit Stimmung und Stress in Verbindung gebracht wird; in der Studie hing Entkoffeinierter Kaffee mit Verbesserungen beim Lernen und Gedächtnis zusammen, während Koffein mit verbesserter Konzentration, aber auch erhöhter Angst verknüpft war.",
-          "whyItMatters": "Die Effekte von Kaffee gehen möglicherweise über das Koffein hinaus und betreffen mikrobiologische und gehirnbezogene Wege; das hilft zu erklären, warum unterschiedliche Kaffeeformen verschiedene psychologische und kognitive Reaktionen hervorrufen können.",
+          "title": "Studie verknüpft koffeinhaltigen und entkoffeinierten Kaffee mit Veränderungen der Darmbakterien und neuronalen Effekten",
+          "summary": "Forscher berichten, dass Kaffeekonsum – egal ob koffeinhaltig oder entkoffeiniert – die Darmmikrobiota in einer Weise verändert, die mit Stimmung und Stress in Verbindung steht. In dieser Studie war Entkoffeinierter mit Verbesserungen beim Lernen und Gedächtnis assoziiert, während koffeinhaltiger Kaffee im Studienkontext mit erhöhter Konzentration und verringerter Angst in Verbindung gebracht wurde.",
+          "whyItMatters": "Millionen Menschen trinken täglich Kaffee; diese Forschung weist auf mikrobiom‑ und gehirnbezogene Wege jenseits des Koffeins hin, die helfen könnten, unterschiedliche Effekte auf Stimmung, Kognition und Stress zu erklären.",
           "takeaways": [
-            "Sowohl koffeinhaltiger als auch entkoffeinierter Kaffee veränderten in der Studie bakterielle Gemeinschaften im Darm.",
-            "Entkoffeinierter Kaffee war mit Vorteilen bei Lern‑ und Gedächtnismessungen assoziiert, während Koffein mit schärferer Fokusleistung und erhöhter Angst in diesem Forschungszusammenhang verbunden war.",
-            "Die Befunde deuten darauf hin, dass mehrere Komponenten des Kaffees Darm‑Gehirn‑Interaktionen beeinflussen können, doch sind breitere Bestätigungen erforderlich."
+            "Sowohl koffeinhaltiger als auch entkoffeinierter Kaffee führten in der Studie zu messbaren Veränderungen der Darmbakterien.",
+            "Entkoffeinierter und koffeinhaltiger Kaffee zeigten unterschiedliche scheinbare Effekte auf Lernen, Gedächtnis und Konzentration.",
+            "Die Befunde deuten auf mehrere biologische Wege hin, die Kaffeekonsum mit Gehirn‑ und Stimmungsergebnissen verbinden.",
+            "Ergebnisse stammen aus Forschungszusammenhängen und stellen keine personalisierte Gesundheitsberatung dar."
           ]
         },
         "pt-br": {
-          "title": "Nova pesquisa liga café com e sem cafeína a mudanças na microbiota intestinal e em desfechos cerebrais",
-          "summary": "Pesquisadores relataram que tanto o café comum quanto o descafeinado alteraram a microbiota intestinal de formas associadas a humor e estresse; no estudo, o descafeinado esteve ligado a melhorias em aprendizado e memória, enquanto a cafeína se relacionou a maior foco, porém também a mais ansiedade.",
-          "whyItMatters": "Os efeitos do café podem ir além da cafeína e envolver vias microbianas e cerebrais; isso ajuda a explicar por que formas diferentes de café podem produzir respostas psicológicas e cognitivas distintas.",
+          "title": "Estudo associa café com e sem cafeína a mudanças nas bactérias intestinais e efeitos neurais",
+          "summary": "Pesquisadores relatam que beber café — seja com cafeína ou descafeinado — altera a microbiota intestinal de formas associadas ao humor e ao estresse. Neste trabalho, o descafeinado foi associado a melhorias em aprendizado e memória, enquanto o café com cafeína esteve relacionado, no contexto do estudo, a maior foco e redução da ansiedade.",
+          "whyItMatters": "Milhões de pessoas consomem café diariamente; esta pesquisa aponta para vias relacionadas ao microbioma e ao cérebro além da cafeína, que podem ajudar a explicar efeitos variados sobre humor, cognição e estresse.",
           "takeaways": [
-            "Tanto o café com cafeína quanto o descafeinado mudaram comunidades bacterianas intestinais no estudo.",
-            "O descafeinado foi associado a benefícios em medidas de aprendizagem e memória, enquanto a cafeína relacionou‑se a foco mais aguçado e aumento da ansiedade nesse contexto de pesquisa.",
-            "Os achados sugerem que múltiplos componentes do café podem afetar as interações intestino–cérebro, mas confirmações mais amplas são necessárias."
+            "Tanto o café com cafeína quanto o descafeinado produziram mudanças mensuráveis nas bactérias intestinais no estudo.",
+            "Descafeinado e café com cafeína mostraram efeitos aparentes diferentes sobre aprendizado, memória e foco.",
+            "Os achados sugerem múltiplas rotas biológicas ligando a ingestão de café a desfechos cerebrais e de humor.",
+            "Resultados vêm de contextos de pesquisa e não constituem aconselhamento de saúde personalizado."
           ]
         },
         "hu": {
-          "title": "Új kutatás: koffeines és koffeinmentes kávé egyaránt összefügg a bélbaktériumok és agyi eredmények változásával",
-          "summary": "A kutatók azt jelentették, hogy mind a rendes, mind a koffeinmentes kávé megváltoztatta a bélmikrobiota összetételét olyan módon, amely a hangulattal és stresszel kapcsolatos volt; a koffeinmentes kávé a tanulás és memória javulásához kötődött, míg a koffein a fokozott figyelemhez, ugyanakkor nagyobb szorongáshoz társult a vizsgálati környezetben.",
-          "whyItMatters": "A kávé hatásai túlnyúlhatnak a koffeinen: a bélmikrobiota és agyi útvonalak közreműködése magyarázhatja, miért okozhatnak a különböző kávéfajták eltérő pszichológiai és kognitív reakciókat.",
+          "title": "A tanulmány mind a koffeines, mind a koffeinmentes kávét összekapcsolja a bélbaktériumok és idegi hatások változásaival",
+          "summary": "A kutatók arról számolnak be, hogy a kávéfogyasztás — legyen az koffeines vagy koffeinmentes — megváltoztatja a bélmikrobiomot olyan módokon, amelyek hangulathoz és stresszhez köthetők. Ebben a munkában a koffeinmentes kávé a tanulmányban a tanulás és memória javulásával, míg a koffeines kávé a fókusz erősödésével és a szorongás csökkenésével kapcsolódott a vizsgálati környezetben.",
+          "whyItMatters": "Több millió ember iszik kávét naponta; ez a kutatás a koffeinen túli mikrobiom- és agyhoz kapcsolódó útvonalakra mutat rá, amelyek segíthetnek megmagyarázni a hangulatra, kognícióra és stresszre gyakorolt eltérő hatásokat.",
           "takeaways": [
-            "A tanulmányban mind a koffeines, mind a koffeinmentes kávé megváltoztatta a bélbaktériumok közösségét.",
-            "A koffeinmentes kávé a tanulási és emlékezeti mutatók javulásával kapcsolódott, míg a koffein élesebb fókuszt és a vizsgálat körülményei között nagyobb szorongást társított.",
-            "Az eredmények azt sugallják, hogy a kávé több összetevője befolyásolhatja a bél–agy kölcsönhatásokat, de szélesebb körű megerősítés szükséges."
+            "A tanulmányban mind a koffeines, mind a koffeinmentes kávé mérhető változásokat okozott a bélbaktériumok összetételében.",
+            "A koffeinmentes és a koffeines kávé különböző látszólagos hatásokat mutatott a tanulásra, memóriára és fókuszra.",
+            "Az eredmények több biológiai útra utalnak, amelyek összekapcsolhatják a kávéfogyasztást az agyi és hangulati kimenetekkel.",
+            "Az eredmények kutatási környezetből származnak, és nem tekintendők személyre szabott egészségügyi tanácsnak."
           ]
         },
         "ar": {
-          "title": "بحث جديد يربط بين القهوة (مقهوة ومُنقاة من الكافيين) وتغيرات في بكتيريا الأمعاء ونتائج متعلقة بالدماغ",
-          "summary": "أفاد الباحثون أن كلًا من القهوة العادية والمُنقاة من الكافيين غيّرت ميكروبيوتا الأمعاء بطرق ارتبطت بالمزاج والتوتر، حيث ارتبطت القهوة منزوعة الكافيين بتحسُّن في التعلم والذاكرة، فيما رُبطت القهوة المحتوية على الكافيين بتركيز أفضل لكن بمزيد من القلق في سياق الدراسة.",
-          "whyItMatters": "قد تمتد آثار القهوة إلى ما هو أبعد من الكافيين وحده، إذ قد تشارك مسارات ميكروبية ومعرفية عصبية؛ وهذا يساعد على تفسير سبب اختلاف الاستجابات النفسية والمعرفية بين أشكال القهوة.",
+          "title": "دراسة تربط كلًا من القهوة المحتوية على الكافيين والخالية منه بتغيرات في بكتيريا الأمعاء وتأثيرات عصبية",
+          "summary": "يفيد الباحثون بأن شرب القهوة — سواء المحتوية على الكافيين أو الخالية منه — يغيّر ميكروبيوم الأمعاء بطرق مرتبطة بالمزاج والإجهاد. في هذه الدراسة رُبطت القهوة الخالية من الكافيين بتحسّن في التعلم والذاكرة، في حين ارتبطت القهوة المحتوية على الكافيين بتركيز أفضل وتقليل القلق في سياق الدراسة.",
+          "whyItMatters": "يشرب الملايين القهوة يوميًا؛ وتشير هذه الأبحاث إلى مسارات متعلقة بالميكروبيوم والدماغ تتجاوز الكافيين وقد تفسر الآثار المتباينة على المزاج والإدراك والتوتر.",
           "takeaways": [
-            "وجدت الدراسة أن كلًا من القهوة المحتوية على الكافيين والمنزوعة منه غيرت مجتمعات بكتيريا الأمعاء.",
-            "ارتبطت القهوة منزوعة الكافيين بفوائد في مقاييس التعلم والذاكرة، بينما رُبطت الكافيين بتركيز أعلى وزيادة القلق في هذا البحث.",
-            "تشير النتائج إلى أن مكونات متعددة في القهوة قد تؤثر على تفاعلات الأمعاء-الدماغ، لكن هناك حاجة إلى تأكيد أوسع."
+            "أحدثت كل من القهوة المحتوية على الكافيين والخالية منه تغييرات قابلة للقياس في بكتيريا الأمعاء في الدراسة.",
+            "أظهرت القهوة الخالية من الكافيين والمحتوية على الكافيين آثارًا مختلفة ظاهريًا على التعلم والذاكرة والتركيز.",
+            "تشير النتائج إلى وجود مسارات بيولوجية متعددة تربط تناول القهوة بنتائج متعلقة بالدماغ والمزاج.",
+            "النتائج مستمدة من سياقات بحثية ولا تشكل نصيحة صحية شخصية."
           ]
         }
       },
-      "generatedAt": "2026-05-04T08:49:55.190Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=coffee-gut-brain-2026",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coffee-gut-brain-2026-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coffee-gut-brain-2026-news.webp",
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=coffee-gut-brain-2026-05-02-sciencedaily",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coffee-gut-brain-2026-05-02-sciencedaily-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coffee-gut-brain-2026-05-02-sciencedaily-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New research links both caffeinated and decaf coffee to changes in gut bacteria and brain-related outcomes.\nStory summary: Researchers reported that both regular and decaffeinated coffee altered gut microbiota in ways associated with mood and stress, with decaf tied to improvements in learning and memory and caffeine linked to enhanced focus but more anxiety in the study context..\nCategory: gut-brain.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links both caffeinated and decaf coffee to changes in gut bacteria and neural effects.\nStory summary: Researchers report that drinking coffee—whether caffeinated or decaffeinated—alters gut microbiota in ways associated with mood and stress. In this work decaf was associated with improvements in learning and memory, while caffeinated coffee related to enhanced focus and reduced anxiety in the study context..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "pancreatic-ferroptosis-2026",
@@ -6385,6 +7322,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-05-05-motivation-1-planning-01",
+      "category": "planning",
+      "languages": {
+        "en": {
+          "title": "Pack-and-go lunch",
+          "story": "Maya used to decide lunch at her desk, which left her guessing and sometimes flustered by midafternoon. She started spending five minutes the night before to plan and pack a lunch template: a main, a veggie, and a small snack. Logging that planned meal in her tracker made it easier to stick to the plan and notice how different lunches affected her energy. The change was simple, repeatable, and took the stress out of midday decisions.",
+          "habit": "Plan and log one meal the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Almuerzo listo para llevar",
+          "story": "A Maya le pasaba decidir el almuerzo en su escritorio, lo que la dejaba adivinando y a veces cansada a media tarde. Empezó a dedicar cinco minutos la noche anterior para planear y preparar un almuerzo tipo: un plato principal, una verdura y un pequeño tentempié. Registrar esa comida planificada en su app le facilitó seguir el plan y notar cómo distintos almuerzos afectaban su energía. El cambio fue sencillo, repetible y redujo el estrés de decidir a mediodía.",
+          "habit": "Planifica y registra una comida la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Обед с собой",
+          "story": "Майя раньше решала, что съесть на обед, прямо за рабочим столом — часто наугад и к середине дня уставала. Она стала тратить пять минут вечером, чтобы спланировать и собрать обед: основное блюдо, овощи и небольшой перекус. Когда она вносила этот спланированный приём пищи в трекер, стало проще следовать плану и замечать, как разные обеды влияют на энергию. Изменение оказалось простым, повторяемым и сняло напряжение при выборе в середине дня.",
+          "habit": "Спланируйте и внесите в трекер одну еду накануне.",
+          "appCta": "Откройте Calorie Bank Credit и зарегистрируйте сегодня."
+        },
+        "uk": {
+          "title": "Обід з собою",
+          "story": "Майя раніше вирішувала, що їсти на обід, прямо за робочим столом — часто навмання, і до середини дня вона втомлювалася. Вона почала витрачати п’ять хвилин ввечері, щоб спланувати і зібрати обід: головна страва, овочі і невеликий перекус. Коли вона записувала цей запланований прийом їжі в трекері, стало простіше дотримуватися плану й помічати, як різні обіди впливають на енергію. Зміна виявилась простою, повторюваною і зняла напруження від вибору в середині дня.",
+          "habit": "Сплануйте і занотуйте одну їжу напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Déjeuner préparé",
+          "story": "Maya choisissait souvent son déjeuner sur le pouce, ce qui la laissait deviner et parfois fatiguée en milieu d’après‑midi. Elle a commencé à consacrer cinq minutes la veille au soir pour planifier et préparer un déjeuner type : un plat principal, un légume et un petit encas. En enregistrant ce repas planifié dans son suivi, elle a trouvé plus facile de s’y tenir et de constater l’impact des différents déjeuners sur son niveau d’énergie. Le changement était simple, récurrent et a réduit le stress des décisions de midi.",
+          "habit": "Planifiez et enregistrez un repas la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Lunch zum Mitnehmen",
+          "story": "Früher entschied Maya mittags spontan, was sie isst — oft geraten und gegen Nachmittag müde. Sie nimmt sich seitdem abends fünf Minuten, um eine Mahlzeit zu planen und vorzubereiten: Hauptgericht, Gemüse und einen kleinen Snack. Wenn sie diese geplante Mahlzeit im Tracker festhält, fällt es ihr leichter, beim Plan zu bleiben und zu bemerken, wie unterschiedliche Mittagsmahlzeiten ihre Energie beeinflussen. Die Änderung war einfach, leicht wiederholbar und nahm den Stress aus der Mittagsentscheidung.",
+          "habit": "Plane und erfasse eine Mahlzeit am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und erfasse heute."
+        },
+        "pt-br": {
+          "title": "Almoço pronto para levar",
+          "story": "A Maya costumava decidir o almoço na hora, o que a deixava sem saber e às vezes cansada no meio da tarde. Ela passou a gastar cinco minutos na noite anterior para planejar e preparar um almoço tipo: prato principal, vegetal e um lanchinho. Registrar essa refeição planejada no aplicativo tornou mais fácil seguir o plano e perceber como diferentes almoços afetavam sua energia. A mudança foi simples, repetível e tirou o estresse das decisões do meio do dia.",
+          "habit": "Planeje e registre uma refeição na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Előre csomagolt ebéd",
+          "story": "Maya korábban az asztalnál döntött ebéd közben, sokszor találomra, és délutánra kifáradt. Elkezdett este öt percet szánni az ebéd megtervezésére és összeállítására: egy főétel, zöldség és egy kis nasi. Amikor ezt a tervezett étkezést rögzítette a követőjében, könnyebb volt a tervhez tartani magát és észrevenni, hogyan hatnak az különböző ebédek az energiaszintjére. A változtatás egyszerű, ismételhető volt, és csökkentette a délben hozott döntések okozta stresszt.",
+          "habit": "Tervezd meg és jegyezd fel az egyik étkezést előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "غداء جاهز",
+          "story": "كانت مايا تقرر غداءها أثناء العمل، فغالبًا ما تخمن وتشعر بالتعب بعد الظهر. بدأت تقضي خمس دقائق ليلة البارحة لتخطيط وتجهيز غداء بسيط: طبق رئيسي، خضار ووجبة خفيفة صغيرة. عندما سجّلت تلك الوجبة المخطط لها في متتبعها، أصبح من الأسهل الالتزام بالخطة وملاحظة كيف تؤثر وجبات الغداء المختلفة على طاقتها. كان التغيير بسيطًا وقابلًا للتكرار وخفف الضغط عند اتخاذ قرار الغداء.",
+          "habit": "خططي وسجّلي وجبة واحدة في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-1-planning-01-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-1-planning-01-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Pack-and-go lunch.\nStory: Maya used to decide lunch at her desk, which left her guessing and sometimes flustered by midafternoon. She started spending five minutes the night before to plan and pack a lunch template: a main, a veggie, and a small snack. Logging that planned meal in her tracker made it easier to stick to the plan and notice how different lunches affected her energy. The change was simple, repeatable, and took the stress out of midday decisions..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-05-motivation-2-honest-02",
+      "category": "logging",
+      "languages": {
+        "en": {
+          "title": "No-judgment snack log",
+          "story": "Daniel kept skipping small snacks from his tracker because he thought they didn’t matter. Over time he noticed his daily totals didn’t match how he felt. He started logging every bite without judging it — a handful of nuts, a cookie at a party, a few fries — and used the honest log to see real patterns. Instead of aiming for perfection, he used the record to understand choices and adjust when he wanted to. The habit made tracking feel useful, not punitive.",
+          "habit": "Log every bite today, without judgment.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Registro de tentempiés sin juicio",
+          "story": "Daniel dejaba fuera del registro pequeños tentempiés porque pensaba que no importaban. Con el tiempo notó que los totales diarios no encajaban con lo que sentía. Empezó a registrar cada bocado sin juzgar —un puñado de nueces, una galleta en una fiesta, unas papas— y usó ese registro honesto para ver patrones reales. En vez de buscar la perfección, usó la información para entender sus elecciones y ajustar cuando quiso. El hábito hizo que registrar fuera útil, no castigador.",
+          "habit": "Registra todo lo que comas hoy, sin juzgar.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Честный учёт перекусов",
+          "story": "Даниэль исключал небольшие перекусы из трекера, думая, что они неважны. Со временем он заметил, что суммарные числа не совпадают с тем, как он себя ощущает. Он начал записывать каждый кусочек без осуждения — горсть орехов, печенье на вечеринке, пару картофелин — и честный журнал помог увидеть реальные закономерности. Вместо стремления к совершенству он использовал записи, чтобы понять выборы и при необходимости скорректировать их. Привычка сделала отслеживание полезным, а не наказанием.",
+          "habit": "Запишите сегодня каждый кусочек, без осуждения.",
+          "appCta": "Откройте Calorie Bank Credit и зарегистрируйте сегодня."
+        },
+        "uk": {
+          "title": "Чесний журнал перекусів",
+          "story": "Даніель не вносив у трекер дрібні перекуси, бо вважав їх неважливими. З часом він помітив, що щоденні підсумки не відповідають його самопочуттю. Він почав записувати кожен шматочок без оцінок — жменьку горіхів, печиво на вечірці, кілька картоплин — і чесний журнал допоміг побачити реальні закономірності. Замість прагнення до досконалості він використовував записи, щоб зрозуміти свої вибори і при необхідності їх скоригувати. Звичка зробила відстеження корисним, а не покаранням.",
+          "habit": "Зафіксуйте сьогодні кожен шматочок без осуду.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Journal honnête des encas",
+          "story": "Daniel omettait souvent les petites collations de son suivi, pensant qu’elles n’avaient pas d’importance. Avec le temps, il a constaté que les totaux quotidiens ne correspondaient pas à ce qu’il ressentait. Il s’est mis à enregistrer chaque bouchée sans jugement — une poignée de noix, un biscuit à une fête, quelques frites — et ce journal honnête lui a permis de repérer de vrais motifs. Plutôt que viser la perfection, il utilise ses enregistrements pour comprendre ses choix et ajuster quand il le souhaite. L’habitude rend le suivi utile, pas punitif.",
+          "habit": "Enregistrez chaque bouchée aujourd’hui, sans jugement.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Urteilsloses Snack-Protokoll",
+          "story": "Daniel ließ kleine Snacks oft aus dem Tracker raus, weil er dachte, sie seien unwichtig. Mit der Zeit fiel ihm auf, dass die Tagesgesamtwerte nicht zu seinem Gefühl passten. Er begann, jeden Bissen ohne Bewertung zu protokollieren — eine Handvoll Nüsse, ein Keks auf einer Feier, ein paar Pommes — und das ehrliche Protokoll half ihm, Muster zu erkennen. Statt Perfektion anzustreben, nutzte er die Aufzeichnungen, um Entscheidungen zu verstehen und bei Bedarf anzupassen. Die Gewohnheit machte Tracking nützlich, nicht bestrafend.",
+          "habit": "Protokolliere heute jeden Bissen ohne Bewertung.",
+          "appCta": "Öffne Calorie Bank Credit und erfasse heute."
+        },
+        "pt-br": {
+          "title": "Registro de lanches sem julgamento",
+          "story": "Daniel deixava de registrar lanchinhos porque achava que não importavam. Com o tempo percebeu que os totais diários não combinavam com o que sentia. Começou a anotar cada pedaço sem julgamento — um punhado de nozes, um biscoito numa festa, algumas batatas — e o registro honesto mostrou padrões reais. Em vez de buscar perfeição, ele usou os dados para entender escolhas e ajustar quando quisesse. O hábito tornou o acompanhamento útil, não punitivo.",
+          "habit": "Registre cada pedacinho hoje, sem julgamentos.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Ítélkezés nélküli nassolás-nyilvántartás",
+          "story": "Dániel kihagyta a kisebb nassokat a naplójából, mert úgy gondolta, nem számítanak. Idővel észrevette, hogy a napi összeg nem tükrözi, hogyan érzi magát. Elkezdte minden falatot rögzíteni ítélkezés nélkül — egy marék diót, egy süteményt a bulin, néhány sült krumplit — és az őszinte napló valós mintázatokat mutatott. Ahelyett, hogy a tökéletességre törekedett volna, az adatok segítségével megértette döntéseit és finomított, ha szükséges. A szokás hasznos, nem büntető lett.",
+          "habit": "Rögzítsd ma minden falatot ítélkezés nélkül.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "سجل الوجبات الخفيفة بلا حكم",
+          "story": "كان دانيال يحذف الوجبات الخفيفة الصغيرة من متتبعه لأنه ظن أنها لا تهم. مع الوقت لاحظ أن المجاميع اليومية لا تتطابق مع شعوره. بدأ يسجل كل لقمة دون إصدار أحكام — قبضة مكسرات، قطعة بسكويت في حفلة، بضع بطاطس — واستخدم السجل الصادق لرؤية أنماط حقيقية. بدل السعي إلى الكمال، استعمل السجل لفهم خياراته وإجراء تعديلات عند الرغبة. جعلته هذه العادة يرى التتبع كأداة مفيدة وليس كعقوبة.",
+          "habit": "سجّل كل لقمة اليوم بلا حكم.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-2-honest-02-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-2-honest-02-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: No-judgment snack log.\nStory: Daniel kept skipping small snacks from his tracker because he thought they didn’t matter. Over time he noticed his daily totals didn’t match how he felt. He started logging every bite without judging it — a handful of nuts, a cookie at a party, a few fries — and used the honest log to see real patterns. Instead of aiming for perfection, he used the record to understand choices and adjust when he wanted to. The habit made tracking feel useful, not punitive..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-05-motivation-3-patterns-03",
+      "category": "patterns",
+      "languages": {
+        "en": {
+          "title": "Evening cravings clue",
+          "story": "Fatima noticed she felt ravenous most evenings and blamed late‑night snacking. After a week of logging meals, she saw a pattern: nights when she skipped a midafternoon snack she crashed and then reached for quick, high‑flavor foods. She started adding a small, filling snack each afternoon and recorded how she felt for three evenings. The change reduced surprise cravings and helped her plan better. Tracking gave her a clear clue about a repeatable pattern she could address with tiny adjustments.",
+          "habit": "Check your logs for one repeating pattern this week.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pistas sobre antojos nocturnos",
+          "story": "Fatima notó que tenía mucha hambre por las noches y echó la culpa a comer tarde. Tras una semana registrando comidas, vio un patrón: las noches en que se saltaba el tentempié de media tarde se venía abajo y buscaba comidas rápidas y sabrosas. Empezó a añadir un pequeño y saciante tentempié cada tarde y anotó cómo se sentía durante tres noches. El cambio redujo los antojos inesperados y le ayudó a planificar mejor. El registro le dio una pista clara sobre un patrón repetible que pudo ajustar con pequeños cambios.",
+          "habit": "Busca un patrón repetido en tus registros esta semana.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Подсказка про вечерние тяги",
+          "story": "Фатима заметила, что по вечерам у неё сильный аппетит, и винила ночные перекусы. После недели ведения записей она увидела закономерность: в те вечера, когда она пропускала полдника, наступал спад, и она тянулась к быстро вкусной еде. Она начала добавлять небольшой сытный перекус после обеда и вела записи о самочувствии три вечера подряд. Это уменьшило внезапные тяги и помогло ей лучше планировать. Трекер дал ясную подсказку о повторяющемся паттерне, который можно поправить малыми изменениями.",
+          "habit": "Проверь записи на наличие одного повторяющегося паттерна на этой неделе.",
+          "appCta": "Откройте Calorie Bank Credit и зарегистрируйте сегодня."
+        },
+        "uk": {
+          "title": "Підказка щодо вечірніх бажань",
+          "story": "Фатіма помітила, що вечорами дуже голодна, і звинувачувала нічні перекуси. Після тижня записів вона побачила закономірність: у ті вечори, коли вона пропускала полуденний перекус, відчувала спад і тягнулася до швидкої жирної їжі. Вона почала додавати невеликий ситний перекус вдень і записувала самопочуття три вечори поспіль. Це зменшило несподівані бажання і допомогло краще планувати. Трекер дав чітку підказку про повторюваний патерн, який можна виправити маленькими змінами.",
+          "habit": "Перевірте записи на наявність одного повторюваного патерну цього тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Indice sur les fringales du soir",
+          "story": "Fatima constatait qu’elle avait très faim la plupart des soirs et incriminait les grignotages tardifs. Après une semaine d’enregistrement, elle a repéré un schéma : les soirs où elle sautait le goûter de l’après‑midi, elle avait un coup de fatigue puis allait vers des aliments très savoureux et rapides. Elle a commencé à ajouter un petit encas rassasiant l’après‑midi et a noté son ressenti pendant trois soirs. Le changement a réduit les fringales surprises et l’a aidée à mieux planifier. Le suivi lui a donné une piste claire sur un schéma répétitif corrigible par de petits ajustements.",
+          "habit": "Cherchez un motif répétitif dans vos enregistrements cette semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Hinweis zu Abendgelüsten",
+          "story": "Fatima stellte fest, dass sie abends oft großen Hunger hatte und schob es auf spätes Naschen. Nach einer Woche Protokollieren erkannte sie ein Muster: An Abenden, an denen sie den Nachmittagssnack ausließ, war sie erschöpft und griff zu schnellen, sehr geschmacksintensiven Lebensmitteln. Sie begann, nachmittags einen kleinen, sättigenden Snack einzubauen und notierte drei Abende lang ihr Befinden. Die Veränderung verringerte überraschende Gelüste und half ihr, besser zu planen. Das Tracking gab ihr einen klaren Hinweis auf ein wiederkehrendes Muster, das sich mit kleinen Anpassungen angehen lässt.",
+          "habit": "Suche diese Woche ein wiederkehrendes Muster in deinen Aufzeichnungen.",
+          "appCta": "Öffne Calorie Bank Credit und erfasse heute."
+        },
+        "pt-br": {
+          "title": "Pista sobre desejos noturnos",
+          "story": "Fatima percebeu que sentia muita fome à noite e culpava os lanches tardios. Depois de uma semana registrando as refeições, viu um padrão: nas noites em que pulava o lanche da tarde, ela desabava e acabava pegando comidas rápidas e mais saborosas. Ela começou a incluir um pequeno lanche saciante à tarde e anotou como se sentia por três noites. A mudança reduziu os desejos surpresa e ajudou a planejar melhor. O registro deu uma pista clara sobre um padrão repetível que ela poderia ajustar com pequenas mudanças.",
+          "habit": "Verifique seus registros em busca de um padrão repetido esta semana.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Esti kívánósságok nyoma",
+          "story": "Fatima észrevette, hogy estéken gyakran nagyon éhes, és a késő esti nassolást okolta. Egy hetes naplózás után észrevett egy mintát: azokban az estékben, amikor kihagyta a délutáni nasit, energiavesztést érzett, és gyors, ízes ételekhez nyúlt. Elkezdett délutánonként egy kis, laktató nasit beiktatni, és három estén át feljegyezte, hogyan érzi magát. A változtatás csökkentette a meglepetésszerű vágyakat és segített jobban tervezni. A naplózás világos jelzést adott egy ismétlődő mintáról, amin apró módosításokkal lehet dolgozni.",
+          "habit": "Keress egy ismétlődő mintát a naplódban ezen a héten.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "دليل عن الرغبات المسائية",
+          "story": "لاحظت فاطمة أنها تشعر بجوع شديد في المساء وأرجعت ذلك إلى الوجبات المتأخرة. بعد أسبوع من التسجيل رأت نمطاً: في الليالي التي كانت تفوّت فيها وجبة خفيفة بعد الظهر كانت تنهار ثم تتجه إلى أطعمة سريعة ذات نكهات قوية. بدأت تضيف وجبة خفيفة مشبعة كل بعد ظهر وتدوّن شعورها لثلاث أمسيات. الحدث قلل من الرغبات المفاجئة وساعدها على التخطيط بشكل أفضل. منحها التتبع دليلاً واضحاً على نمط متكرر يمكن التعامل معه بتعديلات بسيطة.",
+          "habit": "تفحص سجلاتك عن نمط متكرر هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-3-patterns-03-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-3-patterns-03-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Evening cravings clue.\nStory: Fatima noticed she felt ravenous most evenings and blamed late‑night snacking. After a week of logging meals, she saw a pattern: nights when she skipped a midafternoon snack she crashed and then reached for quick, high‑flavor foods. She started adding a small, filling snack each afternoon and recorded how she felt for three evenings. The change reduced surprise cravings and helped her plan better. Tracking gave her a clear clue about a repeatable pattern she could address with tiny adjustments..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-05-motivation-4-small-changes-04",
+      "category": "small_adjustments",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, noticed effects",
+          "story": "Noah liked his usual sandwich but wanted to feel less bloated after lunch. He tried one small swap for a week — whole grain bread instead of white — and logged how he felt after each meal. The tracker helped him compare days and he noticed a small but consistent difference in comfort. He didn’t overhaul his eating, just experimented with tiny changes and recorded the results. Seeing the outcome in his log made it easy to repeat what worked and leave what didn’t, without pressure.",
+          "habit": "Try one small ingredient swap this week and log it.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pequeños cambios, grandes pistas",
+          "story": "A Noah le gustaba su sándwich habitual, pero quería sentirse menos hinchado después del almuerzo. Probó un pequeño cambio durante una semana —pan integral en lugar de blanco— y registró cómo se sintió tras cada comida. El registro le ayudó a comparar días y notó una diferencia pequeña pero constante en comodidad. No cambió toda su alimentación, solo experimentó con ajustes mínimos y anotó los resultados. Ver el efecto en su registro le hizo fácil repetir lo que funcionaba y descartar lo que no, sin presión.",
+          "habit": "Haz un pequeño cambio de ingrediente esta semana y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Маленькие замены, заметный эффект",
+          "story": "Ноа любил свой привычный бутерброд, но хотел чувствовать себя менее раздутым после обеда. Он поменял одну мелочь на неделю — цельнозерновой хлеб вместо белого — и фиксировал самочувствие после каждого приёма пищи. Трекер помог сравнить дни, и он заметил небольшую, но постоянную разницу в комфорте. Он не менял весь рацион, а просто экспериментировал с мелкими заменами и записывал результаты. Видеть эффект в журнале было легко: повторять то, что работало, и отказываться от того, что не подходило.",
+          "habit": "Попробуйте одну небольшую замену ингредиента на этой неделе и запишите её.",
+          "appCta": "Откройте Calorie Bank Credit и зарегистрируйте сегодня."
+        },
+        "uk": {
+          "title": "Дрібні заміни, помітний ефект",
+          "story": "Ноа любив свій звичний сендвіч, але хотів менше відчувати здуття після обіду. Він спробував одну маленьку заміну на тиждень — цільнозерновий хліб замість білого — і записував, як почувається після кожного прийому їжі. Трекер допоміг порівняти дні, і він помітив невелику, але стійку різницю в комфорті. Він не змінював весь раціон, просто експериментував з дрібними змінами й фіксував результати. Побачити результат у записах допомогло повторити те, що працювало, і відмовитись від зайвого без тиску.",
+          "habit": "Спробуйте одну маленьку заміну інгредієнта цього тижня і занотуйте її.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Petits changements, effets visibles",
+          "story": "Noah aimait son sandwich habituel mais souhaitait se sentir moins ballonné après le déjeuner. Il a tenté un petit changement pendant une semaine — du pain complet à la place du pain blanc — et a noté son ressenti après chaque repas. Le suivi lui a permis de comparer les journées et il a constaté une différence légère mais régulière dans son confort. Il n’a pas bouleversé son alimentation, il a juste expérimenté de petites modifications et enregistré les résultats. Voir l’effet dans son journal l’a aidé à reproduire ce qui marchait sans pression.",
+          "habit": "Faites un petit échange d’ingrédient cette semaine et notez-le.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Änderungen, spürbare Wirkung",
+          "story": "Noah mochte sein übliches Sandwich, wollte sich nach dem Mittagessen aber weniger aufgebläht fühlen. Eine Woche lang probierte er einen kleinen Tausch — Vollkornbrot statt Weißbrot — und protokollierte, wie er sich nach jeder Mahlzeit fühlte. Der Tracker half ihm beim Vergleichen der Tage, und er bemerkte einen kleinen, aber beständigen Unterschied im Wohlbefinden. Er stellte seine Ernährung nicht komplett um, sondern experimentierte mit kleinen Änderungen und hielt die Ergebnisse fest. Den Effekt im Protokoll zu sehen, machte es leicht, das zu wiederholen, was funktionierte.",
+          "habit": "Probiere diese Woche einen kleinen Zutaten-Tausch und notiere ihn.",
+          "appCta": "Öffne Calorie Bank Credit und erfasse heute."
+        },
+        "pt-br": {
+          "title": "Pequenas trocas, efeitos notados",
+          "story": "Noah gostava do seu sanduíche habitual, mas queria sentir menos inchaço após o almoço. Ele tentou uma pequena troca por uma semana — pão integral no lugar do branco — e registrou como se sentiu após cada refeição. O app o ajudou a comparar os dias e ele percebeu uma diferença pequena, porém consistente, no conforto. Ele não mudou totalmente a alimentação, apenas experimentou pequenas alterações e anotou os resultados. Ver o efeito no registro facilitou repetir o que funcionou sem pressão.",
+          "habit": "Experimente uma pequena troca de ingrediente esta semana e registre.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, észlelt hatás",
+          "story": "Noah szerette a megszokott szendvicsét, de kevesebb puffadást akart érezni ebéd után. Egy hétig kipróbált egy apró cserét — teljes kiőrlésű kenyér fehér helyett — és feljegyezte, hogyan érzi magát minden étkezés után. A napló segített összehasonlítani a napokat, és egy kicsi, de következetes különbséget észrevett a komfortérzetében. Nem alakította át teljesen az étrendjét, csak kísérletezett apró változtatásokkal és rögzítette az eredményeket. A naplóban látni az eredményt megkönnyítette, hogy ismételje, ami működött, nyomás nélkül.",
+          "habit": "Próbálj ki egy apró összetevő‑cserét ezen a héten és jegyezd fel.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "تبديلات صغيرة وتأثيرها",
+          "story": "كان نوح يحب ساندويشه المعتاد لكنه أراد أن يشعر بأقل انتفاخ بعد الغداء. جرب تبديلًا صغيرًا لمدة أسبوع — خبز من الحبوب الكاملة بدلًا من الأبيض — وسجل شعوره بعد كل وجبة. ساعده المتتبع على مقارنة الأيام فلاحظ فرقًا صغيرًا لكنه ثابتًا في الراحة. لم يغير نظامه الغذائي كليًا، بل جرّب تغييرات بسيطة وسجل النتائج. رؤية النتائج في سجله جعل تكرار ما نجح أمرًا سهلاً دون أي ضغط.",
+          "habit": "جرب تبديل مكوّن صغير هذا الأسبوع وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-05T08:35:09.752Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-4-small-changes-04-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-05-motivation-4-small-changes-04-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, noticed effects.\nStory: Noah liked his usual sandwich but wanted to feel less bloated after lunch. He tried one small swap for a week — whole grain bread instead of white — and logged how he felt after each meal. The tracker helped him compare days and he noticed a small but consistent difference in comfort. He didn’t overhaul his eating, just experimented with tiny changes and recorded the results. Seeing the outcome in his log made it easy to repeat what worked and leave what didn’t, without pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-05-04-motivation-1-story-1",
       "category": "calorie-tracking",
