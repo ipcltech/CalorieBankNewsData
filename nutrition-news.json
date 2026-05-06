@@ -1,336 +1,934 @@
 {
-  "generatedAt": "2026-05-06T12:07:02.209Z",
-  "sourceCount": 11,
+  "generatedAt": "2026-05-06T12:50:44.105Z",
+  "sourceCount": 21,
   "articles": [
     {
-      "id": "a1",
-      "category": "metabolic health",
+      "id": "s7",
+      "category": "Cancer immunometabolism",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00109-9?rss=yes",
+      "sourceTitle": "Fasting opens a metabolic window that favors anti-tumor immunity",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Short‑term fasting reshapes tumor metabolism and may boost CD8+ T cell responses",
+          "summary": "Research reports that brief fasting alters nutrient availability within tumors, leading to intratumoral accumulation of isoleucine that supports CD8+ T cell effector functions and can enhance responses to immune checkpoint inhibitors in mouse models and in some human observations.",
+          "whyItMatters": "Metabolic interventions such as fasting could transiently improve the tumor microenvironment for immune therapies, suggesting a potential adjunctive strategy to investigate alongside established treatments.",
+          "takeaways": [
+            "Short‑term fasting changes the tumor microenvironment and nutrient landscape in ways that can favor cytotoxic T cell programs.",
+            "Isoleucine accumulation during fasting was implicated as supporting T cell effector activity.",
+            "Enhanced responses to immune checkpoint blockade were observed in preclinical models and in some human data reported by the authors.",
+            "Clinical implications require additional trials to define safety, timing and which patients could benefit."
+          ]
+        },
+        "es": {
+          "title": "Ayuno a corto plazo remodela el metabolismo tumoral y puede potenciar respuestas de células T CD8+",
+          "summary": "Investigaciones indican que el ayuno breve altera la disponibilidad de nutrientes dentro de los tumores, conduciendo a la acumulación intratumoral de isoleucina que favorece las funciones efectoras de las células T CD8+ y puede mejorar las respuestas a inhibidores de puntos de control inmunitario en modelos de ratón y en algunas observaciones humanas.",
+          "whyItMatters": "Intervenciones metabólicas como el ayuno podrían mejorar de forma transitoria el microambiente tumoral para las terapias inmunitarias, lo que sugiere una posible estrategia complementaria a investigar junto a tratamientos establecidos.",
+          "takeaways": [
+            "El ayuno a corto plazo cambia el microambiente tumoral y el panorama de nutrientes de maneras que pueden favorecer los programas de las células T citotóxicas.",
+            "La acumulación de isoleucina durante el ayuno se implicó como factor que apoya la actividad efectora de las células T.",
+            "Se observaron respuestas mejoradas a la inhibición de puntos de control inmunitario en modelos preclínicos y en algunos datos humanos reportados por los autores.",
+            "Las implicaciones clínicas requieren ensayos adicionales para definir seguridad, temporización y qué pacientes podrían beneficiarse."
+          ]
+        },
+        "ru": {
+          "title": "Кратковременное голодание перестраивает метаболизм опухоли и может усиливать ответы CD8+ Т‑клеток",
+          "summary": "Исследования показывают, что короткое голодание изменяет доступность питательных веществ в опухолях, приводя к внутритуморной аккумуляции изолейцина, что поддерживает эффекторные функции CD8+ Т‑клеток и может усиливать ответы на ингибиторы контрольных точек в моделях на мышах и в некоторых наблюдениях у людей.",
+          "whyItMatters": "Метаболические вмешательства, такие как голодание, могут временно улучшать микроокружение опухоли для иммунных терапий, что указывает на потенциальную дополнительную стратегию для изучения вместе с установленными методами лечения.",
+          "takeaways": [
+            "Кратковременное голодание меняет микроокружение опухоли и ландшафт доступных нутриентов таким образом, что это может благоприятствовать цитотоксическим программам Т‑клеток.",
+            "Аккумуляция изолейцина во время голодания была связана с поддержкой эффекторной активности Т‑клеток.",
+            "Улучшенные ответы на блокаду контрольных точек наблюдались в доклинических моделях и в некоторых представленных человеческих данных.",
+            "Клинические выводы требуют дополнительных испытаний для определения безопасности, тайминга и того, какие пациенты могли бы получить пользу."
+          ]
+        },
+        "uk": {
+          "title": "Короткотривале голодування змінює метаболізм пухлини і може посилювати відповідь CD8+ Т‑клітин",
+          "summary": "Дослідження повідомляє, що короткочасне голодування змінює доступність поживних речовин у пухлинах, призводячи до накопичення ізолейцину в межах пухлин, що підтримує ефекторні функції CD8+ Т‑клітин і може підсилювати відповіді на інгібітори контрольних точок імунітету в мишачих моделях та в деяких людських спостереженнях.",
+          "whyItMatters": "Метаболічні втручання, такі як голодування, можуть тимчасово поліпшувати мікрооточення пухлини для імунних терапій, що пропонує потенційну допоміжну стратегію для подальшого вивчення поруч із встановленими методами лікування.",
+          "takeaways": [
+            "Короткотривале голодування змінює мікрооточення пухлини та ландшафт поживних речовин таким чином, що може сприяти програмам цитотоксичних Т‑клітин.",
+            "Накопичення ізолейцину під час голодування вказане як фактор, що підтримує ефекторну активність Т‑клітин.",
+            "Покращені відповіді на блокаду імунних контрольних точок були помічені в доклінічних моделях та в деяких людських даних, наведених авторами.",
+            "Клінічні наслідки вимагають додаткових випробувань для визначення безпеки, таймінгу та груп пацієнтів, які можуть отримати вигоду."
+          ]
+        },
+        "fr": {
+          "title": "Le jeûne de courte durée reconfigure le métabolisme tumoral et pourrait améliorer les réponses des cellules T CD8+",
+          "summary": "La recherche rapporte que le jeûne bref modifie la disponibilité des nutriments au sein des tumeurs, entraînant une accumulation intratumorale d’isoleucine qui soutient les fonctions effectrices des cellules T CD8+ et peut renforcer les réponses aux inhibiteurs de points de contrôle immunitaire dans des modèles murins et dans certaines observations humaines.",
+          "whyItMatters": "Des interventions métaboliques telles que le jeûne pourraient améliorer temporairement le microenvironnement tumoral pour les immunothérapies, suggérant une stratégie adjuvante potentielle à étudier aux côtés des traitements établis.",
+          "takeaways": [
+            "Le jeûne de courte durée modifie le microenvironnement tumoral et le paysage nutritionnel de façon à pouvoir favoriser les programmes des cellules T cytotoxiques.",
+            "L’accumulation d’isoleucine pendant le jeûne a été impliquée dans le soutien de l’activité effectrice des cellules T.",
+            "Des réponses améliorées au blocage des points de contrôle immunitaire ont été observées dans des modèles précliniques et dans certaines données humaines rapportées par les auteurs.",
+            "Les implications cliniques nécessitent des essais supplémentaires pour définir la sécurité, le calendrier et les patients susceptibles d’en bénéficier."
+          ]
+        },
+        "de": {
+          "title": "Kurzfristiges Fasten verändert Tumorstoffwechsel und könnte CD8+‑T‑Zell‑Antworten stärken",
+          "summary": "Forschungsberichte zeigen, dass kurzes Fasten die Nährstoffverfügbarkeit in Tumoren verändert, wodurch sich intratumoral Isoleucin anreichert, was CD8+‑T‑Zell‑Effektor‑Funktionen unterstützen und die Antwort auf Immun‑Checkpoint‑Inhibitoren in Mausmodellen und in einigen menschlichen Beobachtungen verbessern kann.",
+          "whyItMatters": "Metabolische Interventionen wie Fasten könnten die Tumormikroumgebung vorübergehend so beeinflussen, dass Immuntherapien besser wirken, was auf eine mögliche ergänzende Strategie hinweist, die neben etablierten Behandlungen untersucht werden sollte.",
+          "takeaways": [
+            "Kurzfristiges Fasten verändert die Tumormikroumgebung und die Nährstofflandschaft in einer Weise, die zytotoxische T‑Zell‑Programme begünstigen kann.",
+            "Eine Anreicherung von Isoleucin während des Fastens wurde als unterstützend für T‑Zell‑Effektoraktivität identifiziert.",
+            "Verbesserte Antworten auf Checkpoint‑Blockade wurden in präklinischen Modellen und in einigen vom Autorenteam berichteten menschlichen Daten beobachtet.",
+            "Klinische Implikationen erfordern zusätzliche Studien, um Sicherheit, Zeitpunkt und die Patienten zu definieren, die potenziell profitieren könnten."
+          ]
+        },
+        "pt-br": {
+          "title": "Jejum de curto prazo reconfigura metabolismo tumoral e pode reforçar respostas de células T CD8+",
+          "summary": "Pesquisas relatam que o jejum breve altera a disponibilidade de nutrientes dentro dos tumores, levando ao acúmulo intratumoral de isoleucina, o que sustenta funções efetoras de células T CD8+ e pode melhorar respostas a inibidores de checkpoint imunológico em modelos murinos e em algumas observações humanas.",
+          "whyItMatters": "Intervenções metabólicas, como o jejum, poderiam melhorar temporariamente o microambiente tumoral para terapias imunológicas, sugerindo uma possível estratégia adjuvante a ser investigada junto com tratamentos estabelecidos.",
+          "takeaways": [
+            "O jejum de curto prazo muda o microambiente tumoral e o panorama de nutrientes de formas que podem favorecer programas de células T citotóxicas.",
+            "O acúmulo de isoleucina durante o jejum foi implicado no suporte à atividade efetora das células T.",
+            "Respostas aprimoradas à inibição de checkpoints imunológicos foram observadas em modelos pré‑clínicos e em alguns dados humanos reportados pelos autores.",
+            "Implicações clínicas exigem ensaios adicionais para definir segurança, timing e quais pacientes poderiam se beneficiar."
+          ]
+        },
+        "hu": {
+          "title": "Rövid böjt átalakítja a tumor anyagcseréjét és elősegítheti a CD8+ T‑sejt választ",
+          "summary": "A kutatás szerint a rövid távú böjt megváltoztatja a tumoron belüli tápanyag‑elérhetőséget, ami izoleucin felhalmozódáshoz vezet a daganatban, és ez támogatja a CD8+ T‑sejtek effektor funkcióit, továbbá javíthatja az immunellenőrző pont gátlókra adott választ egérmodellekben és egyes emberi megfigyelésekben.",
+          "whyItMatters": "Anyagcsere‑beavatkozások, például a böjt, átmenetileg javíthatják a tumor mikro‑környezetét az immunterápiák számára, ami egy potenciális kiegészítő stratégiát jelezhet a vizsgálatra a meglévő kezelések mellett.",
+          "takeaways": [
+            "A rövid távú böjt megváltoztatja a tumor mikro‑környezetét és a tápanyag‑viszonyokat olyan módon, amely előnyös lehet a citotoxikus T‑sejt programok számára.",
+            "A böjt során az izoleucin felhalmozódását hozták összefüggésbe a T‑sejtek effektor aktivitásának támogatásával.",
+            "Az immunellenőrző pont gátlókra adott fokozott válaszokat preklinikai modellekben és egyes emberi adatokban figyelték meg a szerzők jelentése szerint.",
+            "A klinikai jelentőség további vizsgálatokat igényel a biztonságosság, az időzítés és a potenciálisan előnyös betegek meghatározásához."
+          ]
+        },
+        "ar": {
+          "title": "الصيام القصير يعيد تشكيل أيض الورم وقد يعزز استجابات خلايا CD8+ T",
+          "summary": "تفيد الأبحاث أن الصيام القصير يغير توفر المغذيات داخل الأورام، ما يؤدي إلى تراكم الإيزوليوسين داخل الورم يدعم وظائف خلايا CD8+ القاتلة ويمكن أن يعزّز الاستجابة لمثبطات نقاط التفتيش المناعية في نماذج الفئران وفي بعض الملاحظات البشرية.",
+          "whyItMatters": "قد تعمل تدخلات التمثيل الغذائي مثل الصيام مؤقتًا على تحسين بيئة الورم الدقيقة للعلاجات المناعية، مما يقترح استراتيجية مكملة محتملة يجب دراستها إلى جانب العلاجات القائمة.",
+          "takeaways": [
+            "يغيّر الصيام القصير بيئة الورم الدقيقة ومشهد المغذيات بطرق قد تُفيد البرامج الفعّالة لخلايا T السامة.",
+            "تم ربط تراكم الإيزوليوسين أثناء الصيام بدعم نشاط خلايا T الفعّالة.",
+            "لوحظت استجابات محسنة لمثبطات نقاط التفتيش المناعية في نماذج ما قبل السريرية وفي بعض البيانات البشرية التي أوردها المؤلفون.",
+            "تتطلب الدلالات السريرية تجارب إضافية لتحديد السلامة والتوقيت والمرضى الذين قد يستفيدون."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short‑term fasting reshapes tumor metabolism and may boost CD8+ T cell responses.\nStory summary: Research reports that brief fasting alters nutrient availability within tumors, leading to intratumoral accumulation of isoleucine that supports CD8+ T cell effector functions and can enhance responses to immune checkpoint inhibitors in mouse models and in some human observations..\nCategory: Cancer immunometabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s9",
+      "category": "Geroscience methodology",
+      "sourceName": "nature.com",
+      "sourceUrl": "http://feeds.nature.com/nataging/rss/current",
+      "sourceTitle": "Nature Aging",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Comment: Hawthorne effects can mimic aging‑intervention signals in geroscience trials",
+          "summary": "A Nature Aging Comment highlights that behavioral and other changes from being observed (the Hawthorne effect) can produce biomarker shifts that rival those from tested anti‑aging interventions, and proposes a methodological framework to separate participation effects from true biological modulation of aging.",
+          "whyItMatters": "Distinguishing true intervention effects from study participation artifacts is critical for reliable aging research and for identifying treatments that genuinely modify biological aging.",
+          "takeaways": [
+            "Observation‑induced behavior change can alter biomarkers used in geroscience trials, sometimes as much as interventions do.",
+            "The Hawthorne effect is particularly notable in aging studies and can confound interpretation.",
+            "The Comment offers a framework to help researchers design trials that better separate participation effects from real biological changes.",
+            "Improved trial methods could lead to more trustworthy evidence about interventions that target aging processes."
+          ]
+        },
+        "es": {
+          "title": "Comentario: los efectos Hawthorne pueden imitar señales de intervención antienvejecimiento en ensayos de gerociencia",
+          "summary": "Un Comentario en Nature Aging destaca que los cambios conductuales y otros derivados de ser observado (el efecto Hawthorne) pueden producir cambios en biomarcadores que rivalizan con los de intervenciones anti‑envejecimiento probadas, y propone un marco metodológico para separar los efectos de la participación de la verdadera modulación biológica del envejecimiento.",
+          "whyItMatters": "Distinguir los efectos reales de una intervención de los artefactos derivados de la participación en el estudio es crucial para la investigación fiable sobre envejecimiento y para identificar tratamientos que modifiquen genuinamente el envejecimiento biológico.",
+          "takeaways": [
+            "El cambio de comportamiento inducido por la observación puede alterar biomarcadores usados en ensayos de gerociencia, a veces tanto como las intervenciones mismas.",
+            "El efecto Hawthorne es especialmente notable en estudios de envejecimiento y puede confundir la interpretación.",
+            "El Comentario ofrece un marco para ayudar a los investigadores a diseñar ensayos que separen mejor los efectos de participación de los cambios biológicos reales.",
+            "Mejoras en los métodos de ensayo podrían conducir a evidencia más fiable sobre intervenciones dirigidas a procesos de envejecimiento."
+          ]
+        },
+        "ru": {
+          "title": "Комментарий: эффект Хоторна может имитировать сигналы вмешательства против старения в геронаучных исследованиях",
+          "summary": "Комментарий в Nature Aging подчёркивает, что поведенческие и другие изменения, возникающие из‑за факта наблюдения (эффект Хоторна), могут вызывать сдвиги в биомаркерах, сопоставимые с теми, которые приписывают антивозрастным вмешательствам, и предлагает методологическую рамку для разделения эффектов участия и истинной биологической модуляции старения.",
+          "whyItMatters": "Отделение реальных эффектов вмешательства от артефактов участия в исследовании критично для надёжной науки о старении и для выявления методов, которые действительно изменяют биологическое старение.",
+          "takeaways": [
+            "Изменение поведения, вызванное наблюдением, может модифицировать биомаркеры, используемые в геронаучных исследованиях, иногда в той же степени, что и сами вмешательства.",
+            "Эффект Хоторна особенно заметен в исследованиях старения и может запутать интерпретацию результатов.",
+            "Комментарий предлагает рамку, помогающую исследователям проектировать испытания так, чтобы лучше отделять эффекты участия от реальных биологических изменений.",
+            "Улучшение методологии испытаний может привести к более достоверным данным о вмешательствах, направленных на процессы старения."
+          ]
+        },
+        "uk": {
+          "title": "Коментар: ефекти Хоторна можуть імітувати сигнали втручань проти старіння в геронаукових випробуваннях",
+          "summary": "Коментар у Nature Aging підкреслює, що поведінкові та інші зміни через факт спостереження (ефект Хоторна) можуть спричиняти зрушення біомаркерів, що конкурують із сигналами від тестованих анти‑старіючих втручань, і пропонує методологічну рамку для відокремлення ефектів участі від істинної біологічної модуляції старіння.",
+          "whyItMatters": "Відділення справжніх ефектів втручання від артефактів, пов’язаних із участю в дослідженні, критично важливе для надійних досліджень старіння та для виявлення лікувань, які дійсно модифікують біологічне старіння.",
+          "takeaways": [
+            "Зміна поведінки під впливом спостереження може змінювати біомаркери, що використовуються в геронаукових випробуваннях, іноді настільки ж, як і самі втручання.",
+            "Ефект Хоторна особливо помітний у дослідженнях старіння і може сплутувати інтерпретацію результатів.",
+            "Коментар пропонує рамку, яка допоможе дослідникам проєктувати випробування, що краще відокремлюють ефекти участі від реальних біологічних змін.",
+            "Покращені методи проведення випробувань можуть привести до більш надійних доказів щодо втручань, що впливають на процеси старіння."
+          ]
+        },
+        "fr": {
+          "title": "Commentaire : les effets Hawthorne peuvent imiter des signaux d’interventions anti‑âge dans les essais de gérontoscience",
+          "summary": "Un commentaire dans Nature Aging souligne que des changements de comportement et autres dus au fait d’être observé (effet Hawthorne) peuvent produire des variations de biomarqueurs rivalisant avec celles des interventions anti‑âge testées, et propose un cadre méthodologique pour séparer les effets de participation des véritables modulations biologiques du vieillissement.",
+          "whyItMatters": "Distinguer les vrais effets d’une intervention des artefacts liés à la participation à l’étude est crucial pour une recherche fiable sur le vieillissement et pour identifier des traitements qui modifient réellement le vieillissement biologique.",
+          "takeaways": [
+            "Le changement de comportement induit par l’observation peut modifier les biomarqueurs utilisés dans les essais de gérontoscience, parfois autant que les interventions elles‑mêmes.",
+            "L’effet Hawthorne est particulièrement notable dans les études sur le vieillissement et peut confondre l’interprétation.",
+            "Le commentaire propose un cadre pour aider les chercheurs à concevoir des essais qui séparent mieux les effets de participation des changements biologiques réels.",
+            "Des méthodes d’essai améliorées pourraient conduire à des preuves plus fiables concernant les interventions ciblant les processus du vieillissement."
+          ]
+        },
+        "de": {
+          "title": "Kommentar: Hawthorne‑Effekte können Alterungs‑Interventionssignale in Gerowissenschafts‑Studien nachahmen",
+          "summary": "Ein Kommentar in Nature Aging hebt hervor, dass Verhaltens‑ und andere Änderungen durch Beobachtung (der Hawthorne‑Effekt) Biomarker‑Veränderungen bewirken können, die denen getesteter Anti‑Aging‑Interventionen ähneln, und schlägt einen methodischen Rahmen vor, um Teilnahmeeffekte von echter biologischer Beeinflussung des Alterns zu trennen.",
+          "whyItMatters": "Die Unterscheidung zwischen echten Interventionseffekten und Artefakten durch Studienteilnahme ist entscheidend für verlässliche Alternsforschung und für die Identifizierung von Behandlungen, die tatsächlich biologische Altersprozesse verändern.",
+          "takeaways": [
+            "Beobachtungsinduziertes Verhaltensänderung kann Biomarker beeinflussen, die in Gerowissenschafts‑Studien verwendet werden, teils in ähnlichem Ausmaß wie Interventionen.",
+            "Der Hawthorne‑Effekt ist in Alterungsstudien besonders relevant und kann die Interpretation verfälschen.",
+            "Der Kommentar bietet einen Rahmen, der Forschenden helfen soll, Studien so zu gestalten, dass Teilnahmeeffekte besser von echten biologischen Veränderungen getrennt werden.",
+            "Verbesserte Versuchsdesigns könnten zu vertrauenswürdigeren Belegen über Interventionen führen, die Altersprozesse anvisieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Comentário: efeitos Hawthorne podem imitar sinais de intervenção no envelhecimento em estudos de gerociência",
+          "summary": "Um Comentário na Nature Aging destaca que mudanças comportamentais e outras decorrentes de se estar sendo observado (efeito Hawthorne) podem produzir alterações em biomarcadores que rivalizam com as de intervenções anti‑envelhecimento testadas, e propõe um quadro metodológico para separar efeitos de participação de verdadeira modulação biológica do envelhecimento.",
+          "whyItMatters": "Distinguir efeitos verdadeiros de intervenção de artefatos gerados pela participação no estudo é crítico para pesquisas confiáveis sobre envelhecimento e para identificar tratamentos que realmente modulam o envelhecimento biológico.",
+          "takeaways": [
+            "Mudanças de comportamento induzidas pela observação podem alterar biomarcadores usados em ensaios de gerociência, às vezes tanto quanto as intervenções.",
+            "O efeito Hawthorne é particularmente notável em estudos de envelhecimento e pode confundir a interpretação dos resultados.",
+            "O Comentário oferece um quadro para ajudar pesquisadores a desenhar estudos que separem melhor efeitos de participação de mudanças biológicas reais.",
+            "Métodos de ensaio aprimorados podem gerar evidências mais confiáveis sobre intervenções que miram processos de envelhecimento."
+          ]
+        },
+        "hu": {
+          "title": "Kommentár: a Hawthorne‑hatás utánzathatja az öregedés‑beavatkozás jeleit a geroszcienciás vizsgálatokban",
+          "summary": "A Nature Aging kommentár rámutat, hogy a megfigyelés miatti viselkedés‑ és egyéb változások (Hawthorne‑hatás) olyan biomarkerváltozásokat idézhetnek elő, amelyek vetekednek a vizsgált anti‑aging beavatkozások hatásával, és módszertani keretrendszert javasol a részvétel hatásainak és a valódi biológiai öregedés‑moduláció elválasztására.",
+          "whyItMatters": "A valódi beavatkozási hatások megkülönböztetése a vizsgálati részvételből adódó artefaktumoktól kritikus az öregedéskutatás megbízhatósága és az öregedési biológia valódi módosítói azonosítása szempontjából.",
+          "takeaways": [
+            "A megfigyelés által kiváltott viselkedésváltozás megváltoztathatja az öregedést vizsgáló kísérletekben használt biomarkereket, néha ugyanakkora mértékben, mint a beavatkozások.",
+            "A Hawthorne‑hatás különösen feltűnő lehet az öregedési tanulmányokban és összezavarhatja az értelmezést.",
+            "A kommentár egy keretrendszert kínál a kutatóknak, hogy jobban elválasszák a részvétel hatásait a valódi biológiai változásoktól.",
+            "A jobb kísérlettervezés megbízhatóbb bizonyítékokhoz vezethet az öregedési folyamatokat célzó beavatkozásokkal kapcsolatban."
+          ]
+        },
+        "ar": {
+          "title": "تعليق: تأثير هاوثورن يمكن أن يُحاكي إشارات التدخل في تجارب علوم الشيخوخة",
+          "summary": "يسلّط تعليق في Nature Aging الضوء على أن التغيرات السلوكية وغيرها الناتجة عن كون الأشخاص تحت الملاحظة (تأثير هاوثورن) يمكن أن تُحدث تحولات في المؤشرات الحيوية تضاهي ما تسببه التدخلات المضادة للشيخوخة، ويقترح إطارًا منهجيًا لفصل آثار المشاركة عن التعديل البيولوجي الحقيقي للشيخوخة.",
+          "whyItMatters": "تمييز التأثير الحقيقي للتدخل عن المُخرجات الناجمة عن المشاركة في الدراسة أمر بالغ الأهمية لموثوقية أبحاث الشيخوخة ولتحديد العلاجات التي تُعدّل الشيخوخة البيولوجية فعلاً.",
+          "takeaways": [
+            "يمكن أن يغيّر التغير السلوكي الناجم عن المراقبة المؤشرات الحيوية المستخدمة في تجارب علوم الشيخوخة، أحيانًا بنفس قدر تأثير التدخّلات.",
+            "تأثير هاوثورن بارز بشكل خاص في دراسات الشيخوخة ويمكن أن يربك التفسير.",
+            "يقدّم التعليق إطارًا يساعد الباحثين على تصميم تجارب تميّز أفضلًا بين آثار المشاركة والتغيرات البيولوجية الحقيقية.",
+            "قد تؤدي طرق التجربة المحسّنة إلى أدلة أكثر موثوقية حول التدخلات التي تستهدف عمليات الشيخوخة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s9-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Comment: Hawthorne effects can mimic aging‑intervention signals in geroscience trials.\nStory summary: A Nature Aging Comment highlights that behavioral and other changes from being observed (the Hawthorne effect) can produce biomarker shifts that rival those from tested anti‑aging interventions, and proposes a methodological framework to separate participation effects from true biological modulation of aging..\nCategory: Geroscience methodology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s1",
+      "category": "Metabolic health",
       "sourceName": "medicalxpress.com",
       "sourceUrl": "https://medicalxpress.com/news/2026-05-bariatric-surgery-effective-glp-drugs.html",
       "sourceTitle": "Bariatric surgery more effective than GLP-1 drugs at preventing heart attacks, stroke and death in older adults",
       "publishedAt": "Wed, 06 May 2026 07:00:05 EDT",
       "languages": {
         "en": {
-          "title": "Surgery outperforms GLP-1 drugs for long-term vascular outcomes in older adults with obesity and diabetes",
-          "summary": "A real-world analysis presented at ASMBS2026 found that metabolic/bariatric surgery was associated with larger long-term reductions in heart attack, stroke and all-cause death than commonly prescribed GLP-1 medications in older adults with obesity and diabetes.",
-          "whyItMatters": "This comparison highlights different long-term outcomes tied to surgical versus pharmacologic approaches for metabolic disease in older patients; treatment choices matter for cardiovascular risk over time.",
+          "title": "Bariatric surgery linked to stronger long-term cardiovascular protection than GLP‑1 drugs in older adults (real‑world study)",
+          "summary": "A real-world analysis presented at ASMBS2026 reports that metabolic and bariatric surgery provided greater long-term reductions in heart attack, stroke and mortality than widely used GLP‑1 medications among older people with obesity and diabetes.",
+          "whyItMatters": "This comparative finding could influence discussions about treatment options for older patients with obesity and diabetes, highlighting differing long-term cardiovascular outcomes associated with surgical versus pharmacologic approaches.",
           "takeaways": [
-            "Study compared long-term clinical outcomes between bariatric surgery and GLP-1 drug treatment in older adults with obesity plus diabetes.",
-            "Surgery was linked with greater reductions in heart attack, stroke and mortality in the reported analysis.",
-            "Real-world observational data can show associations but do not by themselves establish cause-and-effect for individual treatment decisions.",
-            "Treatment selection should consider patient-specific factors, risks, and clinical guidance."
+            "Analysis presented at ASMBS2026 compared bariatric surgery outcomes with GLP‑1 drug use in older adults with obesity and diabetes.",
+            "Surgery was associated with significantly greater long-term protection against heart attack, stroke and death in this dataset.",
+            "The result comes from real‑world observational data; details about patient selection, risks, and follow‑up are important for interpreting applicability.",
+            "Findings may inform clinician–patient conversations but do not by themselves establish the best choice for any individual."
           ]
         },
         "es": {
-          "title": "La cirugía supera a los fármacos GLP‑1 en resultados vasculares a largo plazo en adultos mayores con obesidad y diabetes",
-          "summary": "Un análisis del mundo real presentado en ASMBS2026 encontró que la cirugía metabólica/bariátrica se asoció con reducciones a largo plazo mayores en ataques cardíacos, ictus y mortalidad por todas las causas que los medicamentos GLP‑1 comúnmente prescritos en adultos mayores con obesidad y diabetes.",
-          "whyItMatters": "Esta comparación destaca distintas consecuencias a largo plazo vinculadas a enfoques quirúrgicos frente a farmacológicos para la enfermedad metabólica en pacientes mayores; la elección del tratamiento influye en el riesgo cardiovascular a lo largo del tiempo.",
+          "title": "Cirugía bariátrica vinculada a mayor protección cardiovascular a largo plazo que los medicamentos GLP‑1 en adultos mayores (estudio en condiciones reales)",
+          "summary": "Un análisis en condiciones reales presentado en ASMBS2026 informa que la cirugía metabólica y bariátrica proporcionó mayores reducciones a largo plazo en infarto, ictus y mortalidad que los medicamentos GLP‑1 ampliamente usados entre personas mayores con obesidad y diabetes.",
+          "whyItMatters": "Este hallazgo comparativo puede influir en las conversaciones sobre opciones de tratamiento para pacientes mayores con obesidad y diabetes, al mostrar diferencias en resultados cardiovasculares a largo plazo entre enfoques quirúrgicos y farmacológicos.",
           "takeaways": [
-            "El estudio comparó resultados clínicos a largo plazo entre la cirugía bariátrica y el tratamiento con fármacos GLP‑1 en adultos mayores con obesidad y diabetes.",
-            "En el análisis informado, la cirugía se asoció con mayores reducciones en ataques cardíacos, ictus y mortalidad.",
-            "Los datos observacionales del mundo real muestran asociaciones, pero por sí solos no establecen causalidad para decisiones de tratamiento individuales.",
-            "La selección del tratamiento debe considerar factores específicos del paciente, riesgos y las pautas clínicas."
+            "El análisis presentado en ASMBS2026 comparó resultados de cirugía bariátrica con el uso de fármacos GLP‑1 en adultos mayores con obesidad y diabetes.",
+            "En este conjunto de datos, la cirugía se asoció con una protección significativamente mayor a largo plazo frente a infarto, ictus y muerte.",
+            "El resultado proviene de datos observacionales del mundo real; los detalles sobre la selección de pacientes, los riesgos y el seguimiento son importantes para interpretar la aplicabilidad.",
+            "Los hallazgos pueden informar conversaciones entre clínicos y pacientes, pero por sí solos no establecen la mejor opción para un individuo."
           ]
         },
         "ru": {
-          "title": "Хирургия превосходит препараты GLP‑1 по долгосрочным сосудистым исходам у пожилых людей с ожирением и диабетом",
-          "summary": "Реальное исследование, представленное на ASMBS2026, показало, что метаболическая/бариатрическая хирургия была связана с большим долгосрочным снижением числа инфарктов, инсультов и смертности по всем причинам по сравнению с обычно назначаемыми препаратами GLP‑1 у пожилых пациентов с ожирением и диабетом.",
-          "whyItMatters": "Это сравнение подчёркивает различные долгосрочные исходы, связанные с хирургическими и фармакологическими подходами к лечению метаболических заболеваний у пожилых пациентов; выбор терапии влияет на сердечно‑сосудистый риск с течением времени.",
+          "title": "Бариатрическая операция связана с более сильной долгосрочной кардиологической защитой по сравнению с препаратами GLP‑1 у пожилых людей (исследование в реальных условиях)",
+          "summary": "Реальный анализ, представленный на ASMBS2026, показывает, что метаболическая и бариатрическая хирургия обеспечила более выраженное долгосрочное снижение рисков инфаркта, инсульта и смертности по сравнению с широко применяемыми препаратами GLP‑1 у пожилых людей с ожирением и диабетом.",
+          "whyItMatters": "Это сравнительное наблюдение может повлиять на обсуждение вариантов лечения пожилых пациентов с ожирением и диабетом, поскольку показывает разные долгосрочные кардиологические исходы при хирургическом и фармакологическом подходах.",
           "takeaways": [
-            "Исследование сравнивало долгосрочные клинические исходы после бариатрической операции и лечения препаратами GLP‑1 у пожилых людей с ожирением и диабетом.",
-            "В представленном анализе хирургическое вмешательство связывалось с большим снижением числа инфарктов, инсультов и смертности.",
-            "Наблюдательные данные из реальной практики показывают ассоциации, но сами по себе не доказывают причинно‑следственную связь для индивидуальных решений о лечении.",
-            "Выбор лечения должен учитывать индивидуальные факторы пациента, риски и клинические рекомендации."
+            "Анализ, представленный на ASMBS2026, сравнивал исходы бариатрической хирургии и применение препаратов GLP‑1 у пожилых пациентов с ожирением и диабетом.",
+            "В этих данных операция была связана со значительно большей долгосрочной защитой от инфаркта, инсульта и смерти.",
+            "Результат получен из наблюдательных данных реального мира; важны детали отбора пациентов, рисков и длительности наблюдения для оценки применимости.",
+            "Выводы могут помочь в беседах между врачом и пациентом, но сами по себе не определяют оптимальный выбор для конкретного человека."
           ]
         },
         "uk": {
-          "title": "Хірургічне лікування переважає препарати GLP‑1 за довгостроковими судинними результатами в літніх пацієнтів з ожирінням і діабетом",
-          "summary": "Аналіз реальних даних, представлений на конференції ASMBS2026, показав, що метаболічна/баріатрична хірургія була пов’язана з більшим довгостроковим зниженням ризику інфаркту, інсульту та загальної смертності порівняно з часто призначуваними препаратами GLP‑1 у літніх людей з ожирінням та діабетом.",
-          "whyItMatters": "Це порівняння підкреслює різні довгострокові наслідки хірургічного та фармакологічного підходів при метаболічних захворюваннях у старших пацієнтів; вибір лікування має значення для серцево‑судинного ризику з часом.",
+          "title": "Баріатрична операція пов’язана з більшою довгостроковою кардіоваскулярною захищеністю, ніж препарати GLP‑1, у людей похилого віку (дослідження в реальних умовах)",
+          "summary": "Аналіз реальних даних, представлений на ASMBS2026, показав, що метаболічна та баріатрична хірургія забезпечила більші довгострокові скорочення ризику інфаркту, інсульту та смертності, ніж широко вживані препарати GLP‑1 серед людей похилого віку з ожирінням і діабетом.",
+          "whyItMatters": "Це порівняльне спостереження може вплинути на обговорення варіантів лікування для літніх пацієнтів з ожирінням і діабетом, привертаючи увагу до різних довгострокових кардіоваскулярних наслідків, пов’язаних із хірургічним та фармакологічним підходами.",
           "takeaways": [
-            "Дослідження порівнювало довгострокові клінічні результати після баріатричної операції та лікування препаратами GLP‑1 у літніх пацієнтів з ожирінням і діабетом.",
-            "У повідомленому аналізі операція була пов’язана з більшим зниженням ризику інфаркту, інсульту та смертності.",
-            "Спостережні реальні дані показують асоціації, але самі по собі не встановлюють причинно‑наслідкових зв’язків для індивідуального вибору лікування.",
-            "Вибір терапії має враховувати індивідуальні особливості пацієнта, ризики та клінічні рекомендації."
+            "Аналіз, представлений на ASMBS2026, порівнював результати баріатричної хірургії та застосування препаратів GLP‑1 у людей похилого віку з ожирінням і діабетом.",
+            "У цій вибірці операція була пов’язана зі значно більшою довгостроковою захищеністю від інфаркту, інсульту та смерті.",
+            "Результат отримано з даних спостережного дослідження в реальних умовах; відбор пацієнтів, ризики та тривалість спостереження важливі для оцінки застосовності.",
+            "Знахідки можуть інформувати розмови між лікарем і пацієнтом, але самі по собі не визначають найкращий вибір для конкретної особи."
           ]
         },
         "fr": {
-          "title": "La chirurgie dépasse les médicaments GLP‑1 pour les résultats vasculaires à long terme chez les personnes âgées obèses et diabétiques",
-          "summary": "Une analyse en conditions réelles présentée à l’ASMBS2026 a montré que la chirurgie métabolique/bar iatrique était associée à des réductions à long terme plus importantes des infarctus, des AVC et de la mortalité toutes causes confondues que les médicaments GLP‑1 couramment prescrits chez les personnes âgées atteintes d’obésité et de diabète.",
-          "whyItMatters": "Cette comparaison met en évidence des résultats à long terme différents selon l’approche chirurgicale ou pharmacologique pour les maladies métaboliques chez les patients âgés ; le choix du traitement influence le risque cardiovasculaire au fil du temps.",
+          "title": "La chirurgie bariatrique liée à une protection cardiovasculaire à long terme supérieure aux médicaments GLP‑1 chez les personnes âgées (étude en conditions réelles)",
+          "summary": "Une analyse en conditions réelles présentée à ASMBS2026 rapporte que la chirurgie métabolique et bariatrique a entraîné des réductions à long terme plus importantes des infarctus, AVC et mortalité que les médicaments GLP‑1 largement utilisés chez des personnes âgées atteintes d’obésité et de diabète.",
+          "whyItMatters": "Cette comparaison pourrait influencer les discussions sur les options de traitement pour les patients âgés atteints d’obésité et de diabète, en soulignant des différences de résultats cardiovasculaires à long terme entre approches chirurgicales et pharmacologiques.",
           "takeaways": [
-            "L’étude a comparé les résultats cliniques à long terme entre la chirurgie bariatrique et le traitement par médicaments GLP‑1 chez des personnes âgées ayant obésité et diabète.",
-            "Dans l’analyse rapportée, la chirurgie était liée à des réductions plus importantes des infarctus, AVC et de la mortalité.",
-            "Les données observationnelles en conditions réelles montrent des associations, mais n’établissent pas à elles seules des relations de cause à effet pour les décisions thérapeutiques individuelles.",
-            "Le choix du traitement doit tenir compte des caractéristiques du patient, des risques et des recommandations cliniques."
+            "L’analyse présentée à ASMBS2026 a comparé les résultats de la chirurgie bariatrique et l’utilisation de médicaments GLP‑1 chez des personnes âgées atteintes d’obésité et de diabète.",
+            "Dans cet ensemble de données, la chirurgie était associée à une protection à long terme significativement plus importante contre l’infarctus, l’AVC et le décès.",
+            "Le résultat provient de données observationnelles en conditions réelles ; la sélection des patients, les risques et le suivi sont importants pour interpréter la généralisabilité.",
+            "Les conclusions peuvent éclairer les échanges clinicien–patient, mais ne déterminent pas à elles seules le meilleur choix pour un individu."
           ]
         },
         "de": {
-          "title": "Chirurgie übertrifft GLP‑1‑Medikamente bei langfristigen Gefäß­ergebnissen älterer Menschen mit Adipositas und Diabetes",
-          "summary": "Eine Real‑World‑Analyse, die auf der ASMBS2026 vorgestellt wurde, zeigte, dass metabolische/bariatrische Chirurgie mit stärkeren langfristigen Reduktionen von Herzinfarkt, Schlaganfall und Gesamtmortalität verbunden war als häufig verschriebene GLP‑1‑Medikamente bei älteren Menschen mit Adipositas und Diabetes.",
-          "whyItMatters": "Der Vergleich macht deutlich, dass chirurgische und pharmakologische Ansätze bei metabolischen Erkrankungen unterschiedliche langfristige Ergebnisse haben können; die Wahl der Behandlung beeinflusst das kardiovaskuläre Risiko über die Zeit.",
+          "title": "Bariatrische Chirurgie mit stärkerem langfristigen kardiovaskulären Schutz als GLP‑1‑Medikamente bei älteren Erwachsenen verbunden (Echtwelt‑Studie)",
+          "summary": "Eine Echtwelt‑Analyse, die auf der ASMBS2026 vorgestellt wurde, berichtet, dass metabolische und bariatrische Chirurgie langfristig stärkere Verringerungen von Herzinfarkt, Schlaganfall und Sterblichkeit zeigte als weit verbreitete GLP‑1‑Medikamente bei älteren Menschen mit Adipositas und Diabetes.",
+          "whyItMatters": "Dieser Vergleich könnte die Diskussion über Behandlungsoptionen für ältere Patientinnen und Patienten mit Adipositas und Diabetes beeinflussen, weil er unterschiedliche langfristige kardiovaskuläre Ergebnisse für chirurgische versus pharmakologische Ansätze hervorhebt.",
           "takeaways": [
-            "Studie verglich langfristige klinische Outcomes zwischen bariatrischer Chirurgie und GLP‑1‑Medikamenten bei älteren Personen mit Adipositas und Diabetes.",
-            "In der berichteten Analyse war die Chirurgie mit größeren Reduktionen von Herzinfarkt, Schlaganfall und Sterblichkeit verbunden.",
-            "Echtwelt‑Beobachtungsdaten zeigen Assoziationen, stellen aber allein keine Ursache‑Wirkungs‑Beziehung für individuelle Behandlungsentscheidungen dar.",
-            "Die Behandlungswahl sollte patientenspezifische Faktoren, Risiken und klinische Leitlinien berücksichtigen."
+            "Auf der ASMBS2026 vorgestellte Analyse verglich Ergebnisse bariatrischer Operationen mit der Anwendung von GLP‑1‑Medikamenten bei älteren Personen mit Adipositas und Diabetes.",
+            "In diesen Daten war die Operation mit einem deutlich größeren langfristigen Schutz gegen Herzinfarkt, Schlaganfall und Tod verbunden.",
+            "Das Ergebnis beruht auf Echtwelt‑Beobachtungsdaten; Details zur Patientenauswahl, zu Risiken und zur Nachverfolgung sind für die Beurteilung der Übertragbarkeit wichtig.",
+            "Die Befunde können Gespräche zwischen Klinikern und Patientinnen/Patienten informieren, begründen aber für sich genommen nicht die beste Wahl für Einzelne."
           ]
         },
         "pt-br": {
-          "title": "Cirurgia supera medicamentos GLP‑1 em desfechos vasculares de longo prazo em idosos com obesidade e diabetes",
-          "summary": "Uma análise do mundo real apresentada na ASMBS2026 encontrou que a cirurgia metabólica/bariátrica esteve associada a reduções maiores a longo prazo em infarto, AVC e mortalidade por todas as causas do que medicamentos GLP‑1 comumente prescritos em idosos com obesidade e diabetes.",
-          "whyItMatters": "A comparação destaca que abordagens cirúrgicas e farmacológicas para doenças metabólicas podem levar a desfechos de longo prazo diferentes; a escolha do tratamento influencia o risco cardiovascular ao longo do tempo.",
+          "title": "Cirurgia bariátrica associada a proteção cardiovascular de longo prazo mais forte que medicamentos GLP‑1 em adultos mais velhos (estudo em mundo real)",
+          "summary": "Uma análise em cenário real apresentada na ASMBS2026 relata que cirurgia metabólica e bariátrica proporcionou reduções de longo prazo maiores em infarto, AVC e mortalidade do que medicamentos GLP‑1 amplamente usados entre pessoas mais velhas com obesidade e diabetes.",
+          "whyItMatters": "Esse achado comparativo pode influenciar discussões sobre opções de tratamento para pacientes idosos com obesidade e diabetes, ao destacar resultados cardiovasculares de longo prazo diferentes entre abordagens cirúrgicas e farmacológicas.",
           "takeaways": [
-            "O estudo comparou desfechos clínicos de longo prazo entre cirurgia bariátrica e tratamento com GLP‑1 em idosos com obesidade e diabetes.",
-            "Na análise relatada, a cirurgia esteve ligada a reduções maiores em infarto, AVC e mortalidade.",
-            "Dados observacionais do mundo real mostram associações, mas não estabelecem, por si só, relação de causa e efeito para decisões individuais de tratamento.",
-            "A seleção do tratamento deve considerar fatores específicos do paciente, riscos e orientações clínicas."
+            "A análise apresentada na ASMBS2026 comparou desfechos da cirurgia bariátrica com o uso de medicamentos GLP‑1 em adultos mais velhos com obesidade e diabetes.",
+            "Na base de dados examinada, a cirurgia esteve associada a uma proteção de longo prazo significativamente maior contra infarto, AVC e morte.",
+            "O resultado provém de dados observacionais em mundo real; detalhes sobre seleção de pacientes, riscos e acompanhamento são importantes para interpretar a aplicabilidade.",
+            "As conclusões podem informar conversas entre clínicos e pacientes, mas não determinam isoladamente a melhor escolha para um indivíduo."
           ]
         },
         "hu": {
-          "title": "A műtét jobb hosszú távú érrendszeri eredményeket hozott, mint a GLP‑1 gyógyszerek idősebb, elhízott és cukorbeteg felnőtteknél",
-          "summary": "Egy, az ASMBS2026-on bemutatott valós világra vonatkozó elemzés szerint a metabolikus/bariátriai műtét nagyobb hosszú távú csökkenéssel kötődött a szívinfarktus, a stroke és az összhalálozás tekintetében, mint a gyakran felírt GLP‑1 gyógyszerek idősebb, elhízott és cukorbeteg emberek között.",
-          "whyItMatters": "A vizsgálat rámutat, hogy a sebészi és a gyógyszeres megközelítések eltérő hosszú távú eredményeket hozhatnak az idősebb betegek metabolikus betegségeinek kezelésében; a kezelés megválasztása befolyásolhatja a kardiovaszkuláris kockázatot az idő során.",
+          "title": "A bariátriai műtét hosszú távon erősebb kardiovaszkuláris védelmet társított az idősebbeknél, mint a GLP‑1 gyógyszerek (valós világ tanulmány)",
+          "summary": "Az ASMBS2026 konferencián bemutatott valós világ elemzés szerint a metabolikus és bariátriai sebészet nagyobb hosszú távú csökkenést eredményezett a szívinfarktus, a stroke és a halálozás tekintetében, mint a széles körben használt GLP‑1 típusú gyógyszerek az elhízásban és cukorbetegségben szenvedő idősebb emberek körében.",
+          "whyItMatters": "Ez az összehasonlító megállapítás befolyásolhatja a kezelési lehetőségekről folytatott megbeszéléseket idősebb, elhízott és cukorbeteg betegek esetében, mivel kiemeli a sebészi és gyógyszeres megközelítések közötti különbségeket a hosszú távú kardiovaszkuláris eredmények tekintetében.",
           "takeaways": [
-            "A tanulmány összehasonlította a bariátriai műtét és a GLP‑1 gyógyszeres kezelés hosszú távú klinikai kimeneteleit idősebb, elhízott és cukorbeteg betegek körében.",
-            "A jelentett elemzés szerint a műtét nagyobb összefüggést mutatott a szívinfarktus, a stroke és a halálozás csökkenésével.",
-            "A valós világon gyűjtött megfigyelési adatok összefüggéseket mutathatnak, de önmagukban nem igazolják az oksági kapcsolatot egyéni kezelési döntések esetén.",
-            "A kezelés kiválasztásakor figyelembe kell venni a betegre jellemző tényezőket, a kockázatokat és a klinikai irányelveket."
+            "Az ASMBS2026‑on bemutatott elemzés bariátriai műtét eredményeit hasonlította össze GLP‑1 gyógyszerhasználattal idősebb, elhízott és cukorbeteg felnőtteknél.",
+            "A műtét ezen adathalmaz alapján jelentősen nagyobb hosszú távú védelmet társított a szívinfarktus, a stroke és a halálozás ellen.",
+            "Az eredmény valós, megfigyelési adatokon alapul; a betegkiválasztás, a kockázatok és a követés részletei fontosak az alkalmazhatóság értelmezéséhez.",
+            "Az eredmények tájékoztathatják az orvos–beteg konzultációkat, de önmagukban nem határozzák meg az egyéni legjobb kezelési választást."
           ]
         },
         "ar": {
-          "title": "الجراحة تتفوق على أدوية GLP‑1 في النتائج الوعائية الطويلة الأمد لدى البالغين الأكبر سناً المصابين بالسمنة والسكري",
-          "summary": "أشارت تحليلات واقعية عُرضت في ASMBS2026 إلى أن الجراحة الأيضية/الجراحية المتعلقة بالسمنة ارتبطت بتقليل أطول مدىً للنوبات القلبية والسكتة والوفيات بنسب أكبر مقارنةً بالأدوية من نوع GLP‑1 التي تُصرف عادةً لدى البالغين الأكبر سناً المصابين بالسمنة والسكري.",
-          "whyItMatters": "تُظهر المقارنة اختلافات في النتائج الطويلة الأمد المرتبطة بالمقاربات الجراحية مقابل الدوائية لأمراض التمثيل الغذائي لدى المرضى الأكبر سناً؛ إذ يمكن أن تؤثر خيارات العلاج على مخاطر القلب والأوعية الدموية بمرور الوقت.",
+          "title": "رابطة بين جراحة السمنة وحماية قلبية وعائية أقوى على المدى الطويل لدى كبار السن مقارنة بأدوية GLP‑1 (دراسة في العالم الواقعي)",
+          "summary": "أظهر تحليل من بيانات العالم الواقعي مقدم في ASMBS2026 أن الجراحة الأيضية والبارياتريّة وفّرت انخفاضات أكبر على المدى الطويل في حالات النوبات القلبية والسكتة والوفيات مقارنة بالأدوية الشائعة من نوع GLP‑1 لدى أشخاص مسنين يعانون من السمنة والسكري.",
+          "whyItMatters": "قد تؤثر هذه المقارنة على مناقشات خيارات العلاج للمرضى المسنين الذين يعانون من السمنة والسكري، إذ تبرز اختلافات في النتائج القلبية الوعائية على المدى الطويل بين النهج الجراحي والنهج الدوائي.",
           "takeaways": [
-            "قارنَت الدراسة النتائج السريرية الطويلة الأمد بين الجراحة الباطنية/البارياتريكية وعلاج أدوية GLP‑1 لدى بالغين أكبر سناً يعانون من السمنة والسكري.",
-            "ربطت التحليلات الجراحة بتقليل أكبر في النوبات القلبية والسكتات والوفيات.",
-            "بيانات الملاحظة الواقعية يمكن أن تظهر ارتباطات لكنها لا تثبت سببًا ونتيجة بمفردها عند اتخاذ قرارات علاجية فردية.",
-            "ينبغي أن يأخذ اختيار العلاج بعين الاعتبار عوامل المريض الخاصة والمخاطر والإرشاد السريري."
+            "المقارنة المقدمة في ASMBS2026 قارنت نتائج جراحة البدانة باستخدام بيانات لعلاج أدوية GLP‑1 لدى كبار السن المصابين بالسمنة والسكري.",
+            "ارتبطت الجراحة في هذه المجموعة البينية بحماية أكبر وبشكل ملحوظ على المدى الطويل ضد النوبة القلبية والسكتة والوفاة.",
+            "النتيجة مبنية على بيانات ملاحظة من العالم الواقعي؛ وتفاصيل اختيار المرضى والمخاطر والمتابعة مهمة لفهم مدى إمكانية تعميمها.",
+            "قد تساعد النتائج في محادثات الطبيب والمريض لكنها لا تثبت بمفردها أن هذا هو الخيار الأفضل لكل فرد."
           ]
         }
       },
-      "generatedAt": "2026-05-06T12:07:02.209Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a1",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-news.webp",
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s1-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Surgery outperforms GLP-1 drugs for long-term vascular outcomes in older adults with obesity and diabetes.\nStory summary: A real-world analysis presented at ASMBS2026 found that metabolic/bariatric surgery was associated with larger long-term reductions in heart attack, stroke and all-cause death than commonly prescribed GLP-1 medications in older adults with obesity and diabetes..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Bariatric surgery linked to stronger long-term cardiovascular protection than GLP‑1 drugs in older adults (real‑world study).\nStory summary: A real-world analysis presented at ASMBS2026 reports that metabolic and bariatric surgery provided greater long-term reductions in heart attack, stroke and mortality than widely used GLP‑1 medications among older people with obesity and diabetes..\nCategory: Metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a8",
-      "category": "public health nutrition",
+      "id": "s2",
+      "category": "Nutrition policy",
       "sourceName": "gainhealth.org",
       "sourceUrl": "https://www.gainhealth.org/blogs/how-cleaner-salt-production-tanga-improving-nutrition-outcomes",
       "sourceTitle": "How Cleaner Salt Production in Tanga Is Improving Nutrition Outcomes",
       "publishedAt": "Wed, 06 May 2026 09:09:48 +0000",
       "languages": {
         "en": {
-          "title": "Improving salt production in Tanga supports safer iodized salt and better nutrition",
-          "summary": "A program to modernize salt-making practices in parts of Tanga addressed contamination, inconsistent iodization, and low yields, which had implications for household nutrition—especially for pregnant women and children.",
-          "whyItMatters": "Small-scale improvements in food production and fortification can have meaningful effects on population iodine status and maternal-child health in low-resource settings.",
+          "title": "Cleaner salt production in Tanga is improving local nutrition outcomes",
+          "summary": "An initiative in Tanga addressed unsafe, inconsistent salt production—unlined pans, contaminated crystals and uneven iodization—and helped producers improve purity, yields and the consistency of iodized salt reaching households.",
+          "whyItMatters": "Salt quality and reliable iodization affect household nutrition, particularly for pregnant people and children; supply‑chain improvements can reduce local micronutrient gaps.",
           "takeaways": [
-            "Producers moved from unlined, contamination-prone pans to cleaner production methods that stabilize yields and iodization.",
-            "Consistent iodized salt supply helps prevent iodine deficiency in vulnerable groups like pregnant women and children.",
-            "Local production changes can complement broader nutrition programs and policy efforts."
+            "Local salt manufacturing in Tongoni and Masiwani had issues with contamination, variable yields and inconsistent iodization.",
+            "Interventions focused on cleaner production and more reliable iodization to improve the safety and nutrition value of salt sold locally.",
+            "Improved salt quality can have downstream benefits for maternal and child nutrition where iodine deficiency is a concern.",
+            "Community‑level production changes offer a practical route to strengthen micronutrient delivery in everyday diets."
           ]
         },
         "es": {
-          "title": "Mejorar la producción de sal en Tanga respalda sal yodada más segura y mejor nutrición",
-          "summary": "Un programa para modernizar las prácticas de producción de sal en partes de Tanga abordó la contaminación, la iodización inconsistente y los bajos rendimientos, lo que tenía implicaciones para la nutrición del hogar, especialmente en mujeres embarazadas y niños.",
-          "whyItMatters": "Pequeñas mejoras en la producción y fortificación de alimentos pueden tener efectos significativos sobre el estado de yodo de la población y la salud materno‑infantil en entornos con recursos limitados.",
+          "title": "Producción de sal más limpia en Tanga mejora los resultados nutricionales locales",
+          "summary": "Una iniciativa en Tanga abordó una producción de sal insegura e inconsistente —balsas sin revestir, cristales contaminados y yodación desigual— y ayudó a los productores a mejorar la pureza, los rendimientos y la consistencia de la sal yodada que llega a los hogares.",
+          "whyItMatters": "La calidad de la sal y una yodación fiable afectan la nutrición en los hogares, especialmente en personas embarazadas y niños; mejoras en la cadena de suministro pueden reducir brechas locales de micronutrientes.",
           "takeaways": [
-            "Los productores pasaron de piletas sin revestimiento y propensas a la contaminación a métodos de producción más limpios que estabilizan los rendimientos y la iodización.",
-            "Un suministro constante de sal yodada ayuda a prevenir la deficiencia de yodo en grupos vulnerables, como embarazadas y niños.",
-            "Los cambios en la producción local pueden complementar programas de nutrición y políticas más amplias."
+            "La fabricación local de sal en Tongoni y Masiwani presentaba problemas de contaminación, rendimientos variables y yodación inconsistente.",
+            "Las intervenciones se centraron en una producción más limpia y en una yodación más confiable para mejorar la seguridad y el valor nutricional de la sal vendida localmente.",
+            "Mejorar la calidad de la sal puede tener beneficios posteriores para la nutrición materna e infantil donde la deficiencia de yodo es una preocupación.",
+            "Los cambios en la producción a nivel comunitario ofrecen una vía práctica para fortalecer la entrega de micronutrientes en la dieta cotidiana."
           ]
         },
         "ru": {
-          "title": "Улучшение производства соли в Танге обеспечивает более безопасную йодированную соль и лучшую питательную поддержку",
-          "summary": "Программа по модернизации методов производства соли в отдельных районах Танга устранила проблемы загрязнения, нерегулярной йодирования и низкой отдачи, которые влияли на питание домохозяйств, особенно беременных женщин и детей.",
-          "whyItMatters": "Небольшие улучшения в производстве и обогащении продуктов питания могут значительно повлиять на йодный статус населения и здоровье матери и ребёнка в условиях с ограниченными ресурсами.",
+          "title": "Более чистое производство соли в Танге улучшает местные показатели питания",
+          "summary": "Инициатива в Танге устранила небезопасные и непоследовательные практики производства соли — непокрытые бассейны, загрязнённые кристаллы и нерегулярная йодизация — и помогла производителям улучшить чистоту, урожайность и стабильность поставок иодированной соли в домохозяйства.",
+          "whyItMatters": "Качество соли и надёжная йодизация влияют на питание в семьях, особенно у беременных и детей; улучшения в цепочке поставок могут сократить местные дефициты микронутриентов.",
           "takeaways": [
-            "Производители перешли от негерметичных, восприимчивых к загрязнению чанів к более чистым методам производства, что стабилизировало выход и процесс йодирования.",
-            "Постоянное снабжение йодированной солью помогает предотвратить дефицит йода в уязвимых группах, таких как беременные и дети.",
-            "Локальные изменения в производстве могут дополнять более широкие программы питания и политические усилия."
+            "Местное производство соли в Тонгони и Масиувани испытывало проблемы с загрязнением, переменной урожайностью и нерегулярной йодизацией.",
+            "Меры вмешательства были направлены на более чистое производство и более надёжную йодизацию с целью повысить безопасность и питательную ценность продаваемой соли.",
+            "Повышение качества соли может приносить преимущества для питания матерей и детей в регионах, где йодная недостаточность представляет проблему.",
+            "Изменения на уровне общины в производстве предлагают практичный путь для усиления доставки микронутриентов в повседневный рацион."
           ]
         },
         "uk": {
-          "title": "Покращення виробництва солі в Танзі сприяє безпечнішій йодованій солі та кращому харчуванню",
-          "summary": "Програма модернізації технологій виробництва солі в частинах Танзи усунула проблеми забруднення, нестабільної йодування та низької продуктивності, що впливало на харчування домогосподарств—особливо вагітних жінок і дітей.",
-          "whyItMatters": "Невеликі покращення у виробництві та фортифікації продуктів харчування можуть мати помітний вплив на популяційний статус йоду та здоров’я матері і дитини в умовах з обмеженими ресурсами.",
+          "title": "Чистіше виробництво солі в Танзі покращує місцеві показники харчування",
+          "summary": "Ініціатива в Танзі вирішувала проблеми небезпечного та непослідовного виробництва солі — непідстелені басейни, забруднені кристали та нерівномірна йодування — і допомогла виробникам підвищити чистоту, вихід продукції та постачання йодованої солі до домогосподарств.",
+          "whyItMatters": "Якість солі та надійне йодування впливають на харчування в родинах, особливо для вагітних і дітей; поліпшення ланцюга постачання може зменшити локальні дефіцити мікроелементів.",
           "takeaways": [
-            "Виробники перейшли від негерметичних, схильних до забруднення ставків до чистіших методів виробництва, що стабілізували врожайність і йодування.",
-            "Стабільне постачання йодованої солі допомагає запобігати дефіциту йоду у вразливих груп, таких як вагітні жінки та діти.",
-            "Місцеві зміни у виробництві можуть доповнювати ширші програми з харчування та політику."
+            "Місцеве виробництво солі в Тонгоні та Масівані мало проблеми з забрудненням, змінним виходом та непослідовним йодуванням.",
+            "Інтервенції були спрямовані на чистіше виробництво та надійніше йодування, щоб підвищити безпеку й живильну цінність солі, що продається місцево.",
+            "Покращення якості солі може мати позитивні наслідки для харчування матері та дитини в регіонах, де існує ризик дефіциту йоду.",
+            "Зміни на рівні громади у виробництві дають практичний шлях для посилення доставки мікронутрієнтів у повсякденному харчуванні."
           ]
         },
         "fr": {
-          "title": "L’amélioration de la production de sel à Tanga favorise du sel iodé plus sûr et une meilleure nutrition",
-          "summary": "Un programme de modernisation des pratiques de production du sel dans certaines zones de Tanga a traité des problèmes de contamination, d’iodation inconsistante et de faibles rendements, qui avaient des répercussions sur la nutrition des ménages—en particulier pour les femmes enceintes et les enfants.",
-          "whyItMatters": "De petites améliorations dans la production alimentaire et la fortification peuvent avoir des effets significatifs sur l’état en iode de la population et sur la santé mère‑enfant dans des contextes à ressources limitées.",
+          "title": "Une production de sel plus propre à Tanga améliore les résultats nutritionnels locaux",
+          "summary": "Une initiative à Tanga a traité des problèmes de production de sel dangereuse et incohérente — bassins non étanchéifiés, cristaux contaminés et iodation irrégulière — et a aidé les producteurs à améliorer la pureté, les rendements et la constance du sel iodé parvenant aux ménages.",
+          "whyItMatters": "La qualité du sel et une iodation fiable influencent la nutrition des ménages, en particulier chez les femmes enceintes et les enfants ; des améliorations de la chaîne d’approvisionnement peuvent réduire les carences locales en micronutriments.",
           "takeaways": [
-            "Les producteurs sont passés de bassins non revêtus et sujets à la contamination à des méthodes de production plus propres qui stabilisent les rendements et l’iodation.",
-            "Un approvisionnement constant en sel iodé aide à prévenir les carences en iode chez les groupes vulnérables comme les femmes enceintes et les enfants.",
-            "Les changements locaux de production peuvent compléter les programmes de nutrition et les politiques plus larges."
+            "La fabrication locale de sel à Tongoni et Masiwani présentait des problèmes de contamination, de rendements variables et d’iodation inconsistante.",
+            "Les interventions ont porté sur une production plus propre et une iodation plus fiable pour améliorer la sécurité et la valeur nutritionnelle du sel vendu localement.",
+            "Une meilleure qualité du sel peut avoir des bénéfices en aval pour la nutrition maternelle et infantile où la carence en iode est préoccupante.",
+            "Des changements au niveau communautaire de la production offrent une voie pratique pour renforcer la distribution de micronutriments dans l’alimentation quotidienne."
           ]
         },
         "de": {
-          "title": "Verbesserte Salzproduktion in Tanga fördert sichereres jodiertes Salz und bessere Ernährung",
-          "summary": "Ein Programm zur Modernisierung der Salzherstellung in Teilen von Tanga beseitigte Kontaminationsquellen, ungleichmäßige Jodierung und geringe Erträge, die Folgen für die Haushaltsnahrungssicherheit hatten – insbesondere für Schwangere und Kinder.",
-          "whyItMatters": "Kleine Verbesserungen in Produktion und Anreicherung von Lebensmitteln können in ressourcenbegrenzten Umgebungen bedeutsame Effekte auf den Jodstatus der Bevölkerung und die Gesundheit von Müttern und Kindern haben.",
+          "title": "Sauberere Salzproduktion in Tanga verbessert lokale Ernährungs‑ergebnisse",
+          "summary": "Eine Initiative in Tanga ging unsichere, inkonsistente Salzproduktion an – ungezinntete Becken, kontaminierte Kristalle und ungleichmäßige Jodierung – und unterstützte Produzenten dabei, Reinheit, Erträge und die Konsistenz der an Haushalte gelieferten jodierten Salze zu verbessern.",
+          "whyItMatters": "Salzqualität und verlässliche Jodierung beeinflussen die Ernährung in Haushalten, insbesondere für schwangere Personen und Kinder; Verbesserungen in der Lieferkette können lokale Mikronährstofflücken verringern.",
           "takeaways": [
-            "Produzentinnen und Produzenten wechselten von ungefeuerten, kontaminationsanfälligen Pfannen zu saubereren Produktionsmethoden, die Erträge und Jodierung stabilisieren.",
-            "Eine verlässliche Versorgung mit jodiertem Salz hilft, Jodmangel bei vulnerablen Gruppen wie Schwangeren und Kindern zu verhindern.",
-            "Lokale Änderungen in der Produktion können größere Ernährungsprogramme und politische Maßnahmen ergänzen."
+            "Die lokale Salzherstellung in Tongoni und Masiwani wies Probleme mit Kontamination, schwankenden Erträgen und uneinheitlicher Jodierung auf.",
+            "Interventionen konzentrierten sich auf sauberere Produktion und zuverlässigere Jodierung, um Sicherheit und ernährungsphysiologischen Wert des lokal verkauften Salzes zu verbessern.",
+            "Bessere Salzqualität kann sich positiv auf die Ernährung von Müttern und Kindern auswirken, wo Jodmangel eine Rolle spielt.",
+            "Änderungen auf Gemeindeebene bieten einen praktischen Weg, die Versorgung mit Mikronährstoffen in der alltäglichen Ernährung zu stärken."
           ]
         },
         "pt-br": {
-          "title": "Melhoria na produção de sal em Tanga apoia sal iodado mais seguro e melhor nutrição",
-          "summary": "Um programa de modernização das práticas de produção de sal em áreas de Tanga tratou problemas de contaminação, iodação inconsistente e baixos rendimentos, que tinham implicações para a nutrição doméstica — especialmente para gestantes e crianças.",
-          "whyItMatters": "Pequimas melhorias na produção e fortificação de alimentos podem ter efeitos significativos sobre o estado de iodo da população e a saúde materno‑infantil em contextos de poucos recursos.",
+          "title": "Produção de sal mais limpa em Tanga está melhorando resultados nutricionais locais",
+          "summary": "Uma iniciativa em Tanga abordou produção de sal insegura e inconsistente — tanques sem revestimento, cristais contaminados e iodização irregular — e ajudou produtores a melhorar a pureza, os rendimentos e a consistência do sal iodado que chega às residências.",
+          "whyItMatters": "A qualidade do sal e uma iodização confiável afetam a nutrição domiciliar, especialmente para gestantes e crianças; melhorias na cadeia de suprimento podem reduzir lacunas locais de micronutrientes.",
           "takeaways": [
-            "Produtores passaram de tanques sem revestimento e suscetíveis à contaminação para métodos de produção mais limpos que estabilizam rendimentos e iodação.",
-            "Fornecimento consistente de sal iodado ajuda a prevenir deficiência de iodo em grupos vulneráveis, como gestantes e crianças.",
-            "Mudanças na produção local podem complementar programas de nutrição mais amplos e esforços de política."
+            "A produção local de sal em Tongoni e Masiwani apresentava problemas de contaminação, rendimentos variáveis e iodização inconsistente.",
+            "As intervenções focaram em produção mais limpa e em iodização mais confiável para melhorar a segurança e o valor nutricional do sal comercializado localmente.",
+            "Melhorias na qualidade do sal podem trazer benefícios posteriores para a nutrição materno‑infantil onde a deficiência de iodo é uma preocupação.",
+            "Mudanças em nível comunitário oferecem uma rota prática para fortalecer a entrega de micronutrientes nas dietas diárias."
           ]
         },
         "hu": {
-          "title": "A tisztább sótermelés Tanga térségében javítja a biztonságos jódozott só ellátását és a táplálkozási eredményeket",
-          "summary": "Egy program, amely modernizálta a sókészítési gyakorlatokat Tanga egyes részein, kezelte a szennyeződés problémáját, az egyenetlen jódozást és az alacsony hozamot, amelyek hatással voltak a háztartások táplálkozására—különösen a várandós nők és gyermekek esetében.",
-          "whyItMatters": "A kis léptékű élelmiszer‑termelési és dúsítási javítások jelentős hatással lehetnek a népesség jódfelvételére és az anyák‑gyermekek egészségére erőforráshiányos környezetben.",
+          "title": "Tisztabb sótermelés Tangában javítja a helyi táplálkozási eredményeket",
+          "summary": "Egy tanzániai, tangai kezdeményezés a nem megfelelő, egyenetlenül jódozott és szennyezett sóelőállítással foglalkozott—például nem kibélelt pályák, szennyezett kristályok és változó jódozási szintek—és segítette a termelőket a tisztább, nagyobb hozamú és megbízhatóbb jódozott só előállításában, amely eljut a háztartásokhoz.",
+          "whyItMatters": "A só minősége és a megbízható jódozás hatással van a háztartások táplálkozására, különösen a várandósok és a gyermekek esetében; az ellátólánc javítása csökkentheti a helyi mikrotápanyag-hiányokat.",
           "takeaways": [
-            "A termelők áttértek a béleletlen, szennyeződésre hajlamos medencékről tisztább gyártási módszerekre, amelyek stabilizálják a hozamot és a jódozást.",
-            "A következetes jódozott só ellátás segít megelőzni a jódhiányt a sérülékeny csoportoknál, például a várandós nőknél és a gyermekeknél.",
-            "A helyi termelési változtatások kiegészíthetik a szélesebb táplálkozási programokat és politikai erőfeszítéseket."
+            "A Tongoni és Masiwani helyi sógyártásában problémák voltak a szennyeződésekkel, változó hozamokkal és következetlen jódozással.",
+            "A beavatkozások a tisztább előállításra és a megbízhatóbb jódozásra összpontosítottak, hogy javítsák a helyi forgalmazott só biztonságát és táplálkozási értékét.",
+            "A só minőségének javulása előnyökkel járhat az anyák és gyermekek táplálkozása szempontjából ott, ahol az jódhiány aggodalomra ad okot.",
+            "A közösségi szintű gyártási változások gyakorlati módot kínálnak a mikrotápanyag‑ellátás erősítésére a mindennapi étrendekben."
           ]
         },
         "ar": {
-          "title": "تحسين إنتاج الملح في تانغا يدعم توفر ملح معبأ باليود أكثر أماناً ويحسن التغذية",
-          "summary": "عالج برنامج لتحديث ممارسات إنتاج الملح في أجزاء من تانغا مشكلة التلوث، وعدم انتظام إضافة اليود، وقلة الإنتاجية، والتي كانت لها آثار على تغذية الأسر—وخاصة على الحوامل والأطفال.",
-          "whyItMatters": "يمكن أن يكون لتحسينات صغيرة في إنتاج الغذاء والتعزيز الآلي أثر ملموس على حالة اليود لدى السكان وصحة الأم والطفل في سياقات الموارد المحدودة.",
+          "title": "إنتاج ملح أنظف في تانغا يُحسّن نتائج التغذية المحلية",
+          "summary": "عالجت مبادرة في تانغا مشكلات إنتاج الملح غير الآمن وغير المتسق—مثل الحوضات غير المبطنة، والبلورات الملوَّثة وعدم انتظام اليود—وساعدت المنتجين على تحسين نقاوة المنتج، وزيادة الغلة، وضمان اتساق الملح الميُود الذي يصل إلى الأسر.",
+          "whyItMatters": "جودة الملح والموثوقية في إضافة اليود تؤثران على تغذية الأسر، لا سيما الحوامل والأطفال؛ ويمكن لتحسينات سلسلة الإمداد أن تقلل الفجوات المحلية في المغذيات الدقيقة.",
           "takeaways": [
-            "انتقل المنتجون من أحواض غير مبطنة ومعرضة للتلوث إلى طرق إنتاج أنظف تُثبت الإنتاجية وإضافة اليود.",
-            "يساعد التوفر المستمر للملح الميودن في الوقاية من نقص اليود لدى الفئات الضعيفة مثل الحوامل والأطفال.",
-            "يمكن لتغييرات الإنتاج المحلي أن تكمل برامج وسياسات تغذية أوسع نطاقاً."
+            "كان لإنتاج الملح المحلي في تونجوني وماسيواني مشاكل تتعلق بالتلوث، وتفاوت في الغلة، وعدم انتظام في عملية اليُد.",
+            "تركزت التدخلات على إنتاج أنظف ويُد موثوق لتحسين سلامة الملح وقيمته الغذائية في السوق المحلي.",
+            "تحسين جودة الملح قد يعود بفوائد لاحقة على تغذية الأمهات والأطفال في الأماكن التي يَعتبر فيها نقص اليود مشكلة.",
+            "تغييرات الإنتاج على مستوى المجتمع توفر مسارًا عمليًا لتعزيز إيصال المغذيات الدقيقة ضمن الأنظمة الغذائية اليومية."
           ]
         }
       },
-      "generatedAt": "2026-05-06T12:07:02.209Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a8",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s2",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s2-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s2-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Improving salt production in Tanga supports safer iodized salt and better nutrition.\nStory summary: A program to modernize salt-making practices in parts of Tanga addressed contamination, inconsistent iodization, and low yields, which had implications for household nutrition—especially for pregnant women and children..\nCategory: public health nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cleaner salt production in Tanga is improving local nutrition outcomes.\nStory summary: An initiative in Tanga addressed unsafe, inconsistent salt production—unlined pans, contaminated crystals and uneven iodization—and helped producers improve purity, yields and the consistency of iodized salt reaching households..\nCategory: Nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a6",
-      "category": "nutrition science",
+      "id": "s3",
+      "category": "Oncology",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260505234618.htm",
+      "sourceTitle": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years",
+      "publishedAt": "Wed, 06 May 2026 02:20:17 EDT",
+      "languages": {
+        "en": {
+          "title": "Short pre‑surgery pembrolizumab produced prolonged cancer‑free outcomes in a colorectal trial",
+          "summary": "In a UK‑led trial, a nine‑week course of the immunotherapy drug pembrolizumab given before surgery led to patients with a particular colorectal cancer subtype remaining cancer‑free for almost three years, a result that challenges the typical pathway of surgery followed by lengthy chemotherapy.",
+          "whyItMatters": "If replicated, short‑course neoadjuvant immunotherapy could change perioperative care for select colorectal cancers and reduce exposure to postoperative chemotherapy—but trial specifics and longer follow‑up matter for generalization.",
+          "takeaways": [
+            "Patients in the trial received nine weeks of pembrolizumab before surgery and showed durable cancer‑free outcomes approaching three years.",
+            "The finding applies to a defined colorectal cancer subtype studied in the trial rather than all colon cancers.",
+            "Results challenge the standard sequence of immediate surgery then extended chemotherapy for these patients.",
+            "Further studies are needed to confirm benefits, safety and which patients are most likely to benefit."
+          ]
+        },
+        "es": {
+          "title": "Curso corto de pembrolizumab previo a la cirugía produjo resultados prolongados sin cáncer en un ensayo de colorrectal",
+          "summary": "En un ensayo dirigido desde el Reino Unido, un tratamiento de nueve semanas con el fármaco inmunoterápico pembrolizumab administrado antes de la cirugía hizo que pacientes con un subtipo específico de cáncer colorrectal permanecieran libres de cáncer durante casi tres años, un resultado que cuestiona la vía típica de cirugía seguida de quimioterapia prolongada.",
+          "whyItMatters": "Si se replica, la inmunoterapia neoadyuvante de curso corto podría cambiar la atención perioperatoria para ciertos cánceres colorrectales y reducir la exposición a quimioterapia posoperatoria; sin embargo, los detalles del ensayo y un seguimiento más largo son importantes para generalizar.",
+          "takeaways": [
+            "Los pacientes del ensayo recibieron nueve semanas de pembrolizumab antes de la cirugía y mostraron resultados duraderos sin cáncer acercándose a los tres años.",
+            "El hallazgo se aplica a un subtipo definido de cáncer colorrectal estudiado en el ensayo, no a todos los cánceres de colon.",
+            "Los resultados cuestionan la secuencia estándar de cirugía inmediata seguida de quimioterapia prolongada para estos pacientes.",
+            "Se necesitan más estudios para confirmar los beneficios, la seguridad y qué pacientes son más propensos a beneficiarse."
+          ]
+        },
+        "ru": {
+          "title": "Короткий курс пембролизумаба перед операцией дал длительные ремиссии в колоректальном исследовании",
+          "summary": "В руководимом из Великобритании клиническом испытании девятинедельный курс иммуннотерапии пембролизумабом, применённый до операции, привёл к тому, что пациенты с определённым подтипом колоректального рака оставались свободными от болезни почти три года — результат, ставящий под вопрос обычную последовательность: операция, за которой следует длительная химиотерапия.",
+          "whyItMatters": "Если результаты подтвердятся, краткий неоадъювантный курс иммуннотерапии может изменить периоперационную тактику для избранных колоректальных опухолей и снизить необходимость послеоперационной химиотерапии; однако важны детали испытания и длительное наблюдение для обобщения.",
+          "takeaways": [
+            "Пациенты в испытании получали пембролизумаб в течение девяти недель перед операцией и демонстрировали длительную безраковую ремиссию, приближающуюся к трём годам.",
+            "Открытие относится к определённому подтипу колоректального рака, изученному в испытании, а не ко всем ракам толстой кишки.",
+            "Результаты ставят под сомнение стандартную последовательность: немедленная операция, а затем длительная химиотерапия для этих пациентов.",
+            "Необходимы дополнительные исследования, чтобы подтвердить преимущества, оценить безопасность и определить, кто из пациентов может извлечь наибольшую пользу."
+          ]
+        },
+        "uk": {
+          "title": "Короткий курс пембролізумабу перед операцією дав тривалі безракові результати в дослідженні колоректального раку",
+          "summary": "У британсько‑очолюваному випробуванні дев’ятитижневий курс імунотерапевтичного препарату пембролізумабу, який давали перед операцією, призвів до того, що пацієнти з певним підтипом колоректального раку залишалися без ознак хвороби майже три роки, що ставить під сумнів звичний шлях: операція, а потім тривала хіміотерапія.",
+          "whyItMatters": "Якщо результати будуть відтворені, короткий неоад’ювантний курс імунотерапії може змінити періопераційний догляд для вибраних випадків колоректального раку та зменшити вплив післяопераційної хіміотерапії — але специфіка випробування й довший період спостереження важливі для узагальнення.",
+          "takeaways": [
+            "Пацієнти у випробуванні отримували девʼять тижнів пембролізумабу перед операцією й демонстрували стійкі безракові результати, що наближалися до трьох років.",
+            "Знахідка стосується визначеного підтипу колоректального раку, вивченого в дослідженні, а не всіх випадків раку товстої кишки.",
+            "Результати ставлять під сумнів стандартну послідовність: негайна операція, а потім тривала хіміотерапія для цих пацієнтів.",
+            "Потрібні додаткові дослідження, щоб підтвердити користь, безпеку та визначити, кому саме це підходить."
+          ]
+        },
+        "fr": {
+          "title": "Un court traitement préopératoire par pembrolizumab a produit des résultats prolongés sans cancer dans un essai colorectal",
+          "summary": "Dans un essai dirigé par le Royaume‑Uni, une cure de neuf semaines du médicament d’immunothérapie pembrolizumab administrée avant la chirurgie a conduit des patients atteints d’un sous‑type particulier de cancer colorectal à rester sans cancer pendant presque trois ans, remettant en cause la voie habituelle: chirurgie suivie d’une chimiothérapie prolongée.",
+          "whyItMatters": "Si ces résultats sont reproduits, une immunothérapie néoadjuvante de courte durée pourrait modifier la prise en charge périopératoire de certains cancers colorectaux et réduire l’exposition à la chimiothérapie postopératoire — mais les détails de l’essai et un suivi plus long sont importants pour généraliser.",
+          "takeaways": [
+            "Les patients de l’essai ont reçu neuf semaines de pembrolizumab avant la chirurgie et ont montré des résultats durables sans cancer approchant trois ans.",
+            "La découverte s’applique à un sous‑type défini de cancer colorectal étudié dans l’essai, et non à tous les cancers du côlon.",
+            "Les résultats remettent en question la séquence standard d’intervention immédiate puis de chimiothérapie prolongée pour ces patients.",
+            "D’autres études sont nécessaires pour confirmer les bénéfices, la sécurité et déterminer quels patients sont les plus susceptibles d’en bénéficier."
+          ]
+        },
+        "de": {
+          "title": "Kurzzeit‑Pembrolizumab vor Operation führte zu anhaltend krebsfreien Ergebnissen in einer kolorektalen Studie",
+          "summary": "In einer von UK geleiteten Studie führte ein neunwöchiger Kurs des Immuntherapeutikums Pembrolizumab vor der Operation dazu, dass Patientinnen und Patienten mit einem bestimmten kolorektalen Krebsuntertyp fast drei Jahre krebsfrei blieben; das stellt die übliche Reihenfolge von Operation gefolgt von langer Chemotherapie in Frage.",
+          "whyItMatters": "Wird das Ergebnis reproduziert, könnte eine kurzzeitige neoadjuvante Immuntherapie die perioperative Versorgung für ausgewählte kolorektale Tumoren verändern und die Exposition gegenüber postoperativer Chemotherapie reduzieren — doch Studiendetails und längere Nachbeobachtung sind für die Verallgemeinerung wichtig.",
+          "takeaways": [
+            "Die Teilnehmenden erhielten neun Wochen Pembrolizumab vor der Operation und zeigten anhaltende krebsfreie Ergebnisse von nahezu drei Jahren.",
+            "Der Befund gilt für einen definierten kolorektalen Subtyp, der in der Studie untersucht wurde, und nicht für alle Darmkrebserkrankungen.",
+            "Die Ergebnisse stellen die übliche Abfolge von sofortiger Operation gefolgt von verlängerter Chemotherapie bei diesen Patientinnen und Patienten in Frage.",
+            "Weitere Studien sind erforderlich, um Nutzen, Sicherheit und die Patientengruppen zu bestätigen, die am ehesten profitieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Curto curso de pembrolizumabe pré‑operatório produziu resultados prolongados sem câncer em estudo colorretal",
+          "summary": "Em um ensaio liderado pelo Reino Unido, um curso de nove semanas do imunoterápico pembrolizumabe administrado antes da cirurgia levou pacientes com um subtipo específico de câncer colorretal a permanecerem livres de câncer por quase três anos, um resultado que desafia a via típica de cirurgia seguida por quimioterapia prolongada.",
+          "whyItMatters": "Se replicado, imunoterapia neoadjuvante de curta duração poderia alterar os cuidados perioperatórios para certos cânceres colorretais e reduzir a exposição à quimioterapia pós‑operatória — mas detalhes do ensaio e seguimento mais longo são importantes para generalização.",
+          "takeaways": [
+            "Os pacientes no estudo receberam nove semanas de pembrolizumabe antes da cirurgia e exibiram resultados duradouros sem câncer por quase três anos.",
+            "O achado aplica‑se a um subtipo definido de câncer colorretal estudado no ensaio, e não a todos os cânceres de cólon.",
+            "Os resultados questionam a sequência padrão de cirurgia imediata seguida por quimioterapia prolongada para esses pacientes.",
+            "São necessários mais estudos para confirmar benefícios, segurança e quais pacientes têm maior probabilidade de se beneficiar."
+          ]
+        },
+        "hu": {
+          "title": "Rövid előműtéti pembrolizumab hosszú távú daganatmentességet eredményezett vastagbélrák‑vizsgálatban",
+          "summary": "Egy brit vezetésű vizsgálatban kilenc hét pembrolizumab adása a műtét előtt azon vastagbélrák‑altípusban szenvedő pácienseknek azt eredményezte, hogy a betegek közel három évig daganatmentesek maradtak, ami kihívást jelent a tipikus, műtét után hosszú kemoterápiával járó kezelési útvonal számára.",
+          "whyItMatters": "Ha megismételhető, a rövid kurzusú neoadjuváns immunterápia megváltoztathatja egyes vastagbélrákok perioperatív ellátását és csökkentheti a posztoperatív kemoterápiának való kitettséget—de a vizsgálati részletek és a hosszabb követés fontosak a generalizálhatóság szempontjából.",
+          "takeaways": [
+            "A vizsgálatban a betegek kilenc héten át kaptak pembrolizumabot a műtét előtt, és tartós, közel három éves daganatmentességet mutattak.",
+            "Az eredmény a vizsgált, meghatározott vastagbélrák‑altípusra vonatkozik, nem pedig minden colonrákra általánosan.",
+            "Az eredmények kihívást jelentenek az azonnali műtétet majd kiterjedt kemoterápiát követő szokásos sorrendre ezen betegek esetében.",
+            "További tanulmányokra van szükség az előnyök, a biztonságosság és annak meghatározására, hogy mely betegek profitálhatnak leginkább."
+          ]
+        },
+        "ar": {
+          "title": "دورة قصيرة من بيمبروليزوماب قبل الجراحة أسفرت عن نتائج خالية من السرطان لفترة ممتدة في تجربة سرطان القولون والمستقيم",
+          "summary": "في تجربة قادها فريق بريطاني، أدت دورة مدتها تسعة أسابيع من عقار المناعة بيمبروليزوماب المعطاة قبل الجراحة لمرضى يعانون من نوع معيّن من سرطان القولون والمستقيم إلى بقاء المرضى خالين من السرطان لما يقارب ثلاث سنوات، وهو ما يتحدى المسار المعتاد المتمثل في إجراء الجراحة ثم الخضوع لكيمياوي طويل.",
+          "whyItMatters": "إذا تكررت النتائج، قد تغيّر المعالجة المناعية القصيرة قبل الجراحة رعاية الفترة المحيطة بالعملية لبعض سرطانات القولون والمستقيم وتقلل التعرض للعلاج الكيماوي بعد الجراحة—مع ضرورة مراعاة تفاصيل الدراسة والمتابعة الأطول للتعميم.",
+          "takeaways": [
+            "تلقّى المرضى في التجربة بيمبروليزوماب لمدة تسعة أسابيع قبل الجراحة وأظهروا نتائج خالية من السرطان دامت قرابة ثلاث سنوات.",
+            "ينطبق الاكتشاف على نوع محدد من سرطان القولون والمستقيم الذي تم دراسته وليس على جميع حالات سرطان القولون.",
+            "النتائج تتعارض مع التسلسل القياسي المتمثل في إجراء الجراحة فورًا ثم الخضوع لعلاج كيماوي ممتد لهؤلاء المرضى.",
+            "هناك حاجة لدراسات إضافية لتأكيد الفوائد والسلامة ولتحديد المرضى الأكثر احتمالاً للاستفادة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s3-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s3-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short pre‑surgery pembrolizumab produced prolonged cancer‑free outcomes in a colorectal trial.\nStory summary: In a UK‑led trial, a nine‑week course of the immunotherapy drug pembrolizumab given before surgery led to patients with a particular colorectal cancer subtype remaining cancer‑free for almost three years, a result that challenges the typical pathway of surgery followed by lengthy chemotherapy..\nCategory: Oncology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s4",
+      "category": "Aging research",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260505/Human-telomerase-shows-limited-function-across-different-animal-species.aspx",
+      "sourceTitle": "Human telomerase shows limited function across different animal species",
+      "publishedAt": "Tue, 05 May 2026 22:44:32 -0400",
+      "languages": {
+        "en": {
+          "title": "Study finds human telomerase component has limited activity across animal species",
+          "summary": "A research paper published in Aging‑US examined the cross‑species activity of the human telomerase reverse transcriptase (TERT) component and reported that its function is limited when tested in different animal species.",
+          "whyItMatters": "Telomerase is central to many aging studies; evidence that human telomerase components do not function uniformly across species highlights translation challenges when using animal models to study aging mechanisms.",
+          "takeaways": [
+            "The study focused on the cross‑species activity of the human TERT telomerase component.",
+            "Human TERT showed restricted or diminished function in multiple non‑human species tested.",
+            "Findings underscore limits of cross‑species extrapolation for telomerase‑centered aging research.",
+            "Additional work is needed to understand species‑specific mechanisms and implications for therapeutic strategies."
+          ]
+        },
+        "es": {
+          "title": "Estudio halla que componente humano de la telomerasa tiene actividad limitada entre distintas especies animales",
+          "summary": "Un artículo publicado en Aging‑US examinó la actividad entre especies del componente TERT (telomerasa transcriptasa inversa humana) y reportó que su función es limitada cuando se prueba en diferentes especies animales.",
+          "whyItMatters": "La telomerasa es central en muchos estudios sobre envejecimiento; la evidencia de que componentes humanos de la telomerasa no funcionan de manera uniforme entre especies subraya los retos de traducción al usar modelos animales para estudiar mecanismos del envejecimiento.",
+          "takeaways": [
+            "El estudio se centró en la actividad entre especies del componente humano TERT de la telomerasa.",
+            "El TERT humano mostró función restringida o disminuida en varias especies no humanas probadas.",
+            "Los hallazgos subrayan los límites de extrapolación entre especies en investigaciones sobre telomerasa y envejecimiento.",
+            "Se necesita trabajo adicional para entender los mecanismos específicos por especie y las implicaciones para estrategias terapéuticas."
+          ]
+        },
+        "ru": {
+          "title": "Исследование показало, что человеческий компонент теломеразы имеет ограниченную активность у разных животных видов",
+          "summary": "Статья в Aging‑US исследовала кроссвидовую активность человеческого компонента теломеразы TERT (обратная транскриптаза теломеразы) и сообщила, что его функция ограничена при тестировании в разных животных видах.",
+          "whyItMatters": "Теломераза играет ключевую роль во многих исследованиях старения; данные о том, что компоненты человеческой теломеразы не работают одинаково в разных видах, подчёркивают сложности трансляции при использовании модельных животных для изучения механизмов старения.",
+          "takeaways": [
+            "Исследование было сосредоточено на кроссвидовой активности человеческого компонента TERT теломеразы.",
+            "Человеческий TERT проявлял ограниченную или уменьшенную функцию у нескольких тестируемых не‑человеческих видов.",
+            "Результаты подчёркивают ограничения экстраполяции между видами в исследованиях теломеразы и старения.",
+            "Требуются дополнительные работы для понимания видоспецифических механизмов и последствий для терапевтических стратегий."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє обмежену активність компонента теломерази людини в інших видів тварин",
+          "summary": "Стаття в журналі Aging‑US дослідила міжвидову активність людського компонента зворотної транскриптази теломерази (TERT) і повідомила, що його функція обмежена під час випробувань у різних тваринних видах.",
+          "whyItMatters": "Теломераза є центральною темою багатьох досліджень старіння; докази того, що компоненти людської теломерази не функціонують однаково в різних видах, підкреслюють труднощі трансляції результатів із тваринних моделей у дослідження старіння.",
+          "takeaways": [
+            "Дослідження зосереджувалося на міжвидовій активності людського компонента TERT теломерази.",
+            "Людський TERT проявив обмежену або знижену функцію в кількох нематеринських видах, які тестували.",
+            "Знахідки підкреслюють обмеження екстраполяції між видами в дослідженнях старіння, орієнтованих на теломеразу.",
+            "Потрібна додаткова робота, щоб зрозуміти видоспецифічні механізми та наслідки для терапевтичних стратегій."
+          ]
+        },
+        "fr": {
+          "title": "L’étude trouve que le composant de la télomérase humaine a une activité limitée selon les espèces animales",
+          "summary": "Un article publié dans Aging‑US a examiné l’activité inter‑espèces du composant humain de la télomérase inverse (TERT) et rapporte que sa fonction est limitée lorsqu’elle est testée dans différentes espèces animales.",
+          "whyItMatters": "La télomérase est centrale dans de nombreux travaux sur le vieillissement ; la preuve que les composants humains de la télomérase ne fonctionnent pas uniformément selon les espèces souligne les défis de la traduction des résultats issus de modèles animaux dans la recherche sur le vieillissement.",
+          "takeaways": [
+            "L’étude s’est concentrée sur l’activité inter‑espèces du composant humain TERT de la télomérase.",
+            "Le TERT humain a montré une fonction restreinte ou diminuée dans plusieurs espèces non humaines testées.",
+            "Les résultats soulignent les limites de l’extrapolation inter‑espèces pour la recherche sur le vieillissement centrée sur la télomérase.",
+            "Des travaux supplémentaires sont nécessaires pour comprendre les mécanismes spécifiques à chaque espèce et les implications pour les stratégies thérapeutiques."
+          ]
+        },
+        "de": {
+          "title": "Studie findet, dass menschliche Telomerase‑Komponente in verschiedenen Tierarten nur begrenzte Aktivität zeigt",
+          "summary": "Eine in Aging‑US veröffentlichte Forschungsarbeit untersuchte die artübergreifende Aktivität der menschlichen Telomerase‑Reverse‑Transkriptase (TERT)‑Komponente und berichtete, dass ihre Funktion beim Test in unterschiedlichen Tierarten eingeschränkt ist.",
+          "whyItMatters": "Telomerase spielt eine zentrale Rolle in vielen Alternsstudien; Hinweise darauf, dass menschliche Telomerase‑Komponenten nicht einheitlich über Arten hinweg funktionieren, heben Übersetzungsprobleme hervor, wenn Tiermodelle zur Untersuchung von Alternsmechanismen verwendet werden.",
+          "takeaways": [
+            "Die Studie konzentrierte sich auf die artübergreifende Aktivität der menschlichen TERT‑Telomerasekomponente.",
+            "In mehreren getesteten Nicht‑Mensch‑Arten zeigte menschliches TERT eingeschränkte oder verminderte Funktion.",
+            "Die Ergebnisse unterstreichen die Grenzen einer artübergreifenden Übertragung bei telomerasezentrierter Alternsforschung.",
+            "Zusätzliche Arbeit ist nötig, um artspezifische Mechanismen und die Konsequenzen für therapeutische Strategien zu verstehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo constata que componente da telomerase humana tem atividade limitada entre espécies animais",
+          "summary": "Um artigo publicado em Aging‑US examinou a atividade interespécies da componente da telomerase humana, a transcriptase reversa TERT, e relatou que sua função é limitada quando testada em diferentes espécies animais.",
+          "whyItMatters": "A telomerase é central em muitos estudos sobre envelhecimento; evidências de que componentes humanos da telomerase não funcionam de forma uniforme entre espécies destacam desafios de translação ao usar modelos animais para estudar mecanismos do envelhecimento.",
+          "takeaways": [
+            "O estudo focou na atividade interespécies da componente humana TERT da telomerase.",
+            "A TERT humana mostrou função restrita ou diminuída em várias espécies não humanas testadas.",
+            "Os achados salientam limites na extrapolação entre espécies em pesquisas sobre telomerase e envelhecimento.",
+            "Trabalhos adicionais são necessários para compreender mecanismos específicos por espécie e implicações para estratégias terapêuticas."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: az emberi telomeráz komponens korlátozott aktivitást mutat különböző állatfajokban",
+          "summary": "Az Aging‑US folyóiratban megjelent kutatás az emberi telomeráz reverz transzkriptáz (TERT) komponensének fajok közötti aktivitását vizsgálta, és azt jelentette, hogy funkciója korlátozottnak bizonyult, amikor különböző állatfajokban tesztelték.",
+          "whyItMatters": "A telomeráz számos öregedéskutatási vizsgálat központi eleme; az a bizonyíték, hogy az emberi telomeráz komponensek nem működnek egyformán minden fajban, rávilágít az állatmodellek használatának fordítási nehézségeire az öregedési mechanizmusok tanulmányozásában.",
+          "takeaways": [
+            "A tanulmány az emberi TERT telomeráz‑komponens fajok közötti aktivitására összpontosított.",
+            "Az emberi TERT több tesztelt nem emberi fajban korlátozott vagy csökkentett funkciót mutatott.",
+            "Az eredmények aláhúzzák a telomeráz‑központú öregedéskutatás fajok közötti kiterjesztésének korlátait.",
+            "További munkára van szükség a fajspecifikus mechanizmusok és a terápiás stratégiákra gyakorolt következmények megértéséhez."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تجد أن مكوّن التيلوميراز البشري يظهر نشاطًا محدودًا عبر أنواع حيوانية مختلفة",
+          "summary": "فحصت ورقة بحثية منشورة في Aging‑US نشاط المكوّن العكسي للنسخ للتيلوميراز البشري (TERT) عبر الأنواع، وأفادت أن وظيفته كانت محدودة عندما اختُبرت في أنواع حيوانية مختلفة.",
+          "whyItMatters": "يُعد التيلوميراز مركزيًا في العديد من دراسات الشيخوخة؛ وتشير الأدلة على أن مكونات التيلوميراز البشرية لا تعمل بانتظام عبر الأنواع إلى تحديات في تحويل نتائج الأبحاث من النماذج الحيوانية إلى الإنسان عند دراسة آليات الشيخوخة.",
+          "takeaways": [
+            "ركزت الدراسة على نشاط مكوّن TERT من التيلوميراز البشري عبر الأنواع.",
+            "أظهر TERT البشري وظيفة مقيدة أو متناقصة في عدة أنواع غير بشرية تم اختبارها.",
+            "تُبرز النتائج حدود التعميم عبر الأنواع في أبحاث الشيخوخة التي تتمحور حول التيلوميراز.",
+            "هناك حاجة لمزيد من العمل لفهم الآليات الخاصة بكل نوع والتبعات على الاستراتيجيات العلاجية."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds human telomerase component has limited activity across animal species.\nStory summary: A research paper published in Aging‑US examined the cross‑species activity of the human telomerase reverse transcriptase (TERT) component and reported that its function is limited when tested in different animal species..\nCategory: Aging research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s5",
+      "category": "Neurology",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/neurology/dementia/121131",
+      "sourceTitle": "What a U.S. Study Found About the Shingles Vaccine and Dementia",
+      "publishedAt": "Tue, 05 May 2026 17:43:16 -0400",
+      "languages": {
+        "en": {
+          "title": "Large Medicare analysis links shingles vaccination (Shingrix) with lower dementia incidence",
+          "summary": "An analysis of 1.5 million Medicare beneficiaries found that older adults who received the recombinant subunit zoster vaccine (Shingrix) had a lower incidence of dementia compared with those who did not, according to the study reported.",
+          "whyItMatters": "The association between vaccination and reduced dementia risk could prompt further investigation into immune‑related factors in neurodegeneration, but observational findings do not demonstrate causation.",
+          "takeaways": [
+            "The study examined dementia incidence in a large cohort of Medicare beneficiaries in relation to Shingrix vaccination.",
+            "Vaccinated older adults had lower reported rates of any type of dementia in this analysis.",
+            "Observational studies can show associations but cannot prove that vaccination prevents dementia.",
+            "Further research is needed to explore mechanisms and to confirm whether the link holds in other datasets."
+          ]
+        },
+        "es": {
+          "title": "Análisis amplio de Medicare asocia la vacunación contra el herpes zóster (Shingrix) con menor incidencia de demencia",
+          "summary": "Un análisis de 1,5 millones de beneficiarios de Medicare encontró que los adultos mayores que recibieron la vacuna recombinante subunitaria contra el herpes zóster (Shingrix) presentaron una menor incidencia de demencia en comparación con quienes no la recibieron, según el estudio informado.",
+          "whyItMatters": "La asociación entre la vacunación y el menor riesgo de demencia podría impulsar investigaciones adicionales sobre factores inmunes en la neurodegeneración, pero hallazgos observacionales no demuestran causalidad.",
+          "takeaways": [
+            "El estudio examinó la incidencia de demencia en una cohorte amplia de beneficiarios de Medicare en relación con la vacunación con Shingrix.",
+            "Los adultos mayores vacunados mostraron tasas reportadas más bajas de cualquier tipo de demencia en este análisis.",
+            "Los estudios observacionales pueden mostrar asociaciones, pero no pueden probar que la vacunación prevenga la demencia.",
+            "Se necesita más investigación para explorar mecanismos y confirmar si el vínculo se mantiene en otros conjuntos de datos."
+          ]
+        },
+        "ru": {
+          "title": "Крупный анализ данных Medicare связывает вакцинацию от опоясывающего лишая (Shingrix) с более низкой заболеваемостью деменцией",
+          "summary": "Анализ 1,5 млн получателей Medicare показал, что пожилые люди, получившие рекомбинантную субъединичную вакцину против опоясывающего лишая (Shingrix), имели более низкую заболеваемость деменцией по сравнению с теми, кто не был вакцинирован, согласно сообщению об исследовании.",
+          "whyItMatters": "Ассоциация между вакцинацией и снижением риска деменции может стимулировать дальнейшие исследования роли иммунных факторов в нейродегенерации, однако наблюдательные данные не доказывают причинно‑следственную связь.",
+          "takeaways": [
+            "Исследование оценивало заболеваемость деменцией в большой когорте получателей Medicare в связи с вакцинацией Shingrix.",
+            "Вакцинированные пожилые люди имели более низкие зарегистрированные показатели любой формы деменции в этом анализе.",
+            "Наблюдательные исследования могут выявлять ассоциации, но не могут доказать, что вакцинация предотвращает деменцию.",
+            "Требуются дальнейшие исследования для изучения механизмов и проверки, сохраняется ли связь в других наборах данных."
+          ]
+        },
+        "uk": {
+          "title": "Великий аналіз Medicare пов’язує вакцинацію від оперізуючого герпесу (Shingrix) з нижчою частотою деменції",
+          "summary": "Аналіз 1,5 мільйона бенефіціарів Medicare виявив, що дорослі похилого віку, які отримали рекомбінантну субодиничну вакцину проти герпесу зостер (Shingrix), мали нижчу частоту деменції порівняно з тими, хто не отримував вакцину, згідно з повідомленим дослідженням.",
+          "whyItMatters": "Асоціація між вакцинацією та зниженим ризиком деменції може спричинити подальші дослідження імунних факторів у нейродегенерації, але спостережні результати не доводять причинно‑наслідкового зв’язку.",
+          "takeaways": [
+            "Дослідження вивчало частоту деменції в великій когорті бенефіціарів Medicare щодо вакцинації Shingrix.",
+            "У вакцинованих старших дорослих у цьому аналізі були нижчі повідомлені рівні будь‑якої форми деменції.",
+            "Спостережні дослідження виявляють асоціації, але не можуть довести, що вакцинація запобігає деменції.",
+            "Необхідні додаткові дослідження, щоб вивчити механізми та підтвердити чи зберігається зв’язок в інших наборах даних."
+          ]
+        },
+        "fr": {
+          "title": "Une vaste analyse Medicare relie la vaccination contre le zona (Shingrix) à une incidence réduite de démence",
+          "summary": "Une analyse de 1,5 million de bénéficiaires Medicare a trouvé que les personnes âgées ayant reçu le vaccin recombinant sous‑unitaire contre le zona (Shingrix) présentaient une incidence plus faible de démence comparativement à celles qui ne l’avaient pas reçu, selon l’étude rapportée.",
+          "whyItMatters": "L’association entre la vaccination et un risque réduit de démence pourrait susciter de nouvelles enquêtes sur les facteurs immunitaires dans la neurodégénérescence, mais des résultats observationnels ne démontrent pas la causalité.",
+          "takeaways": [
+            "L’étude a examiné l’incidence de la démence dans une large cohorte de bénéficiaires Medicare en relation avec la vaccination Shingrix.",
+            "Les personnes âgées vaccinées présentaient des taux rapportés plus faibles de tout type de démence dans cette analyse.",
+            "Les études observationnelles peuvent montrer des associations mais ne peuvent pas prouver que la vaccination prévient la démence.",
+            "D’autres recherches sont nécessaires pour explorer les mécanismes et confirmer si le lien se maintient dans d’autres jeux de données."
+          ]
+        },
+        "de": {
+          "title": "Große Medicare‑Analyse verknüpft Gürtelrose‑Impfung (Shingrix) mit niedrigerer Demenz‑Inzidenz",
+          "summary": "Eine Analyse von 1,5 Millionen Medicare‑Versicherten fand, dass ältere Erwachsene, die den rekombinanten Untereinheiten‑Zosterimpfstoff (Shingrix) erhielten, eine geringere Demenz‑Inzidenz aufwiesen als diejenigen, die nicht geimpft waren, so die berichtete Studie.",
+          "whyItMatters": "Die Assoziation zwischen Impfung und reduziertem Demenzrisiko könnte weitere Untersuchungen zu immunbezogenen Faktoren bei Neurodegeneration anstoßen; beobachtende Befunde weisen jedoch nicht auf Kausalität hin.",
+          "takeaways": [
+            "Die Studie untersuchte die Demenzinzidenz in einer großen Kohorte von Medicare‑Versicherten in Bezug auf die Shingrix‑Impfung.",
+            "Geimpfte ältere Erwachsene hatten in dieser Analyse geringere gemeldete Raten jeder Art von Demenz.",
+            "Beobachtungsstudien können Zusammenhänge zeigen, aber nicht nachweisen, dass eine Impfung Demenz verhindert.",
+            "Weitere Forschung ist nötig, um Mechanismen zu erforschen und zu bestätigen, ob der Zusammenhang in anderen Datensätzen besteht."
+          ]
+        },
+        "pt-br": {
+          "title": "Grande análise do Medicare associa vacinação contra herpes zóster (Shingrix) a menor incidência de demência",
+          "summary": "Uma análise de 1,5 milhão de beneficiários do Medicare encontrou que adultos mais velhos que receberam a vacina recombinante por subunidade para zóster (Shingrix) apresentaram menor incidência de demência em comparação com os não vacinados, segundo o estudo relatado.",
+          "whyItMatters": "A associação entre vacinação e menor risco de demência pode motivar investigações adicionais sobre fatores imunológicos na neurodegeneração, mas achados observacionais não demonstram causalidade.",
+          "takeaways": [
+            "O estudo examinou a incidência de demência em uma grande coorte de beneficiários do Medicare em relação à vacinação com Shingrix.",
+            "Adultos vacinados apresentaram taxas reportadas menores de qualquer tipo de demência nessa análise.",
+            "Estudos observacionais podem mostrar associações, mas não provam que a vacinação previne demência.",
+            "Mais pesquisas são necessárias para investigar mecanismos e confirmar se a ligação se mantém em outros conjuntos de dados."
+          ]
+        },
+        "hu": {
+          "title": "Nagy Medicare‑elemzés: a zona elleni (Shingrix) vakcináció összefügg a demencia előfordulásának csökkenésével",
+          "summary": "Egy 1,5 millió Medicare‑kisérletet vizsgáló elemzés szerint azok az idősebb felnőttek, akik megkapták a rekombináns szubegység zoster vakcinát (Shingrix), alacsonyabb demencia‑előfordulást mutattak, mint azok, akik nem kapták meg a vakcinát, a jelentés szerint.",
+          "whyItMatters": "A vakcináció és az alacsonyabb demencia kockázata közötti összefüggés további vizsgálatokat indíthat az immunrendszerrel kapcsolatos tényezők szerepéről a neurodegenerációban, de a megfigyelési eredmények nem bizonyítják az oksági kapcsolatot.",
+          "takeaways": [
+            "A tanulmány egy nagy Medicare‑kohorsz demencia‑előfordulását vizsgálta a Shingrix vakcinációval kapcsolatban.",
+            "A beoltott idősebb felnőttek ezen elemzés szerint alacsonyabb bejelentett bármely típusú demencia arányt mutattak.",
+            "A megfigyelési vizsgálatok kapcsolatokat mutathatnak, de nem képesek bizonyítani, hogy a vakcináció megakadályozza a demenciát.",
+            "További kutatások szükségesek a mechanizmusok feltárásához és annak megerősítéséhez, hogy az összefüggés más adathalmazokban is fennáll‑e."
+          ]
+        },
+        "ar": {
+          "title": "تحليل واسع لبيانات Medicare يربط تلقي لقاح الحزام الناري (Shingrix) بانخفاض حدوث الخرف",
+          "summary": "وجد تحليل شمل 1.5 مليون مستفيد من Medicare أن البالغين الأكبر سنًا الذين تلقوا لقاح الهربس النطاقي من النوع البروتيني المعاد التركيب (Shingrix) كان لديهم معدل حدوث خرف أقل مقارنة بمن لم يتلقوه، وفقًا للتقرير.",
+          "whyItMatters": "قد تدفع الارتباطات بين التطعيم وانخفاض مخاطر الخرف إلى المزيد من التحقيق في العوامل المناعية المرتبطة بالاضطرابات العصبية التنكسية، لكن النتائج الملاحظة لا تثبت علاقة سببية.",
+          "takeaways": [
+            "فحصت الدراسة حدوث الخرف في cohert كبيرة من مستفيدي Medicare بالنسبة لتلقي لقاح Shingrix.",
+            "أظهر البالغون المتلقون للقاح معدلات أقل من الخرف المبلغ عنه من أي نوع في هذا التحليل.",
+            "الدراسات الرصدية يمكن أن تكشف عن ارتباطات لكنها لا تثبت أن التطعيم يمنع الخرف.",
+            "هناك حاجة لمزيد من الأبحاث لاستكشاف الآليات ولتأكيد ما إذا كانت العلاقة قائمة في مجموعات بيانات أخرى."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s5-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Large Medicare analysis links shingles vaccination (Shingrix) with lower dementia incidence.\nStory summary: An analysis of 1.5 million Medicare beneficiaries found that older adults who received the recombinant subunit zoster vaccine (Shingrix) had a lower incidence of dementia compared with those who did not, according to the study reported..\nCategory: Neurology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s6",
+      "category": "Healthy aging",
       "sourceName": "lifespan.io",
       "sourceUrl": "https://lifespan.io/creatine-shows-synergy-with-exercise-in-older-adults/?utm_source=rss&",
       "sourceTitle": "Creatine Shows Synergy With Exercise in Older Adults",
       "publishedAt": "Tue, 05 May 2026 16:13:22 +0000",
       "languages": {
         "en": {
-          "title": "Creatine may enhance some benefits of resistance training in older adults",
-          "summary": "A new study reported that adding creatine supplementation to power training produced additional improvements on certain measures in older participants, indicating potential synergistic effects between the supplement and exercise.",
-          "whyItMatters": "Understanding how common supplements interact with exercise can help shape safe, evidence-informed approaches for preserving strength and function with age.",
+          "title": "Study suggests creatine adds to benefits of power training in older adults",
+          "summary": "A recent study evaluated creatine supplementation alongside power training in older people and reported that creatine appeared to augment some of the exercise‑related benefits.",
+          "whyItMatters": "Finding accessible ways to boost the effectiveness of resistance and power training could help maintain strength and function with age; supplementation effects vary by outcome and population.",
           "takeaways": [
-            "Study tested creatine combined with power/resistance training in older adults and observed additive benefits on some outcomes.",
-            "Findings relate to specific exercise protocols and study conditions; effects can vary across individuals.",
-            "Those considering supplements should weigh evidence, safety, and consult healthcare professionals when appropriate."
+            "Creatine combined with power training produced added benefits on certain measured outcomes in older participants.",
+            "The reported synergy applies to specific exercise regimens and study endpoints rather than a universal enhancement.",
+            "Details such as dose, duration, and participant health status determine whether benefits are likely.",
+            "More research can clarify which older adults may gain the most from combined creatine and training programs."
           ]
         },
         "es": {
-          "title": "La creatina puede potenciar algunos beneficios del entrenamiento de resistencia en adultos mayores",
-          "summary": "Un nuevo estudio reportó que añadir suplementación con creatina al entrenamiento de potencia produjo mejoras adicionales en ciertas medidas en participantes mayores, lo que indica posibles efectos sinérgicos entre el suplemento y el ejercicio.",
-          "whyItMatters": "Comprender cómo interactúan los suplementos comunes con el ejercicio puede ayudar a diseñar enfoques basados en la evidencia y seguros para preservar la fuerza y la función con la edad.",
+          "title": "Estudio sugiere que la creatina añade beneficios al entrenamiento de potencia en adultos mayores",
+          "summary": "Un estudio reciente evaluó la suplementación con creatina junto al entrenamiento de potencia en personas mayores y reportó que la creatina pareció aumentar algunos de los beneficios relacionados con el ejercicio.",
+          "whyItMatters": "Encontrar formas accesibles de potenciar la eficacia del entrenamiento de resistencia y potencia podría ayudar a mantener fuerza y función con la edad; los efectos de la suplementación varían según el resultado y la población.",
           "takeaways": [
-            "El estudio probó la combinación de creatina con entrenamiento de potencia/resistencia en adultos mayores y observó beneficios adicionales en algunos resultados.",
-            "Los hallazgos se refieren a protocolos de ejercicio y condiciones de estudio específicas; los efectos pueden variar entre individuos.",
-            "Quienes consideren suplementos deberían valorar la evidencia, la seguridad y, cuando corresponda, consultar a profesionales de la salud."
+            "La creatina combinada con entrenamiento de potencia produjo beneficios añadidos en ciertos resultados medidos en participantes mayores.",
+            "La sinergia reportada se aplica a regímenes de ejercicio y puntos finales específicos del estudio, no a una mejora universal.",
+            "Detalles como la dosis, la duración y el estado de salud de los participantes determinan si es probable que se obtengan beneficios.",
+            "Se necesita más investigación para aclarar qué adultos mayores pueden beneficiarse más de la combinación de creatina y programas de entrenamiento."
           ]
         },
         "ru": {
-          "title": "Креатин может усиливать некоторые эффекты силовых тренировок у пожилых людей",
-          "summary": "Новое исследование показало, что добавление креатиновой добавки к упражнениям на мощность дало дополнительные улучшения по ряду показателей у пожилых участников, указывая на возможный синергизм между добавкой и физической нагрузкой.",
-          "whyItMatters": "Понимание взаимодействия распространённых добавок с упражнениями может помочь сформировать безопасные и основанные на доказательствах подходы к сохранению силы и функциональности с возрастом.",
+          "title": "Исследование указывает, что креатин усиливает эффекты силовых тренировок у пожилых людей",
+          "summary": "Недавнее исследование оценивало добавление креатина к силовым/плиометрическим тренировкам у пожилых людей и сообщило, что креатин, по-видимому, усиливал некоторые преимущества от упражнений.",
+          "whyItMatters": "Поиск доступных способов повысить эффективность силовых и взрывных тренировок может помочь сохранять силу и функцию с возрастом; эффекты добавок зависят от показателя и популяции.",
           "takeaways": [
-            "В исследовании оценивали креатин в сочетании с силовыми/плиометрическими тренировками у пожилых и наблюдали дополнительные преимущества по некоторым показателям.",
-            "Результаты касаются конкретных протоколов упражнений и условий исследования; эффекты могут различаться у разных людей.",
-            "Тем, кто рассматривает приём добавок, следует учитывать доказательную базу, безопасность и при необходимости консультироваться с врачами."
+            "Креатин в сочетании с тренировками мощности обеспечил дополнительные преимущества по ряду измеряемых исходов у участников пожилого возраста.",
+            "Сообщённая синергия относится к конкретным режимам упражнений и конечным точкам исследования, а не к универсальному улучшению.",
+            "Доза, продолжительность и состояние здоровья участников влияют на вероятность получения эффекта.",
+            "Требуются дополнительные исследования, чтобы уточнить, какие пожилые люди могут больше всего выиграть от сочетания креатина и тренировок."
           ]
         },
         "uk": {
-          "title": "Креатин може посилювати окремі переваги силових тренувань у літніх людей",
-          "summary": "Нове дослідження повідомляє, що додавання креатину до силових/пауер‑тренувань дало додаткові покращення за певними показниками у старших учасників, що вказує на потенційний синергічний ефект між добавкою та вправами.",
-          "whyItMatters": "Розуміння взаємодії поширених добавок з фізичними тренуваннями може допомогти сформувати безпечні та обґрунтовані підходи до збереження сили й функції під час старіння.",
+          "title": "Дослідження вказує, що креатин додає користь до силових тренувань у людей похилого віку",
+          "summary": "Недавнє дослідження оцінило креатинові добавки поряд із силовими (потужнісними) тренуваннями у старших людей і повідомило, що креатин, здається, підсилював деякі наслідки, пов’язані з вправами.",
+          "whyItMatters": "Знахідки про доступні способи підвищити ефективність силових та потужнісних тренувань можуть допомогти зберегти силу та функцію з віком; ефекти добавок залежать від конкретних показників та популяції.",
           "takeaways": [
-            "Дослідження перевіряло креатин у поєднанні з пауер/силовим тренуванням у літніх людей і зафіксувало додаткові переваги за деякими показниками.",
-            "Висновки стосуються конкретних протоколів вправ і умов дослідження; ефекти можуть варіюватися між людьми.",
-            "Ті, хто розглядає добавки, мають зважати на наявні докази, питання безпеки й за потреби консультуватися з медичними фахівцями."
+            "Креатин у поєднанні з потужнісними тренуваннями дав додаткові переваги за певними виміряними показниками у старших учасників.",
+            "Повідомлена синергія стосується конкретних режимів вправ і кінцевих точок дослідження, а не універсального покращення.",
+            "Деталі, такі як доза, тривалість і стан здоров’я учасників, визначають, чи очікувані переваги.",
+            "Потрібні подальші дослідження, щоб уточнити, які старші люди отримають найбільшу користь від поєднання креатину та тренувань."
           ]
         },
         "fr": {
-          "title": "La créatine pourrait renforcer certains bénéfices de l’entraînement en résistance chez les personnes âgées",
-          "summary": "Une nouvelle étude rapporte que l’ajout de créatine à un entraînement de puissance a produit des améliorations supplémentaires sur certaines mesures chez des participants âgés, indiquant des effets potentiellement synergiques entre le supplément et l’exercice.",
-          "whyItMatters": "Comprendre comment des compléments courants interagissent avec l’exercice peut aider à élaborer des approches fondées sur les preuves pour préserver la force et la fonction avec l’âge en toute sécurité.",
+          "title": "Une étude suggère que la créatine renforce les bénéfices de l’entraînement en puissance chez les personnes âgées",
+          "summary": "Une étude récente a évalué la supplémentation en créatine en parallèle d’un entraînement en puissance chez des personnes âgées et a rapporté que la créatine semblait augmenter certains des bénéfices liés à l’exercice.",
+          "whyItMatters": "Trouver des moyens accessibles d’accroître l’efficacité de l’entraînement en résistance et en puissance pourrait aider à maintenir la force et la fonction avec l’âge ; les effets de la supplémentation varient selon les résultats et les populations.",
           "takeaways": [
-            "L’étude a testé la créatine combinée à un entraînement de puissance/ résistance chez des personnes âgées et a observé des bénéfices additifs sur certains résultats.",
-            "Les résultats concernent des protocoles d’exercice et des conditions d’étude spécifiques ; les effets peuvent varier selon les individus.",
-            "Les personnes envisageant des compléments doivent considérer les preuves, la sécurité et, si nécessaire, consulter un professionnel de santé."
+            "La créatine combinée à un entraînement en puissance a produit des bénéfices additionnels sur certains paramètres mesurés chez des participants âgés.",
+            "La synergie rapportée concerne des protocoles d’exercice spécifiques et des critères d’évaluation particuliers, et non une amélioration universelle.",
+            "Des éléments tels que la dose, la durée et l’état de santé des participants déterminent la probabilité d’observer des bénéfices.",
+            "Davantage de recherches peuvent clarifier quels seniors peuvent bénéficier le plus de l’association créatine‑entraînement."
           ]
         },
         "de": {
-          "title": "Kreatin kann einige Vorteile von Krafttraining bei älteren Erwachsenen verstärken",
-          "summary": "Eine neue Studie berichtete, dass die Ergänzung mit Kreatin in Kombination mit Kraft-/Power‑Training zusätzliche Verbesserungen bei bestimmten Messgrößen älterer Teilnehmender brachte, was auf potenzielle synergistische Effekte zwischen Supplement und Training hindeutet.",
-          "whyItMatters": "Zu wissen, wie geläufige Nahrungsergänzungen mit Bewegung interagieren, kann helfen, evidenzbasierte und sichere Ansätze zur Erhaltung von Kraft und Funktion im Alter zu gestalten.",
+          "title": "Studie deutet an, dass Kreatin die Vorteile von Kraft‑/Power‑Training bei älteren Erwachsenen ergänzen kann",
+          "summary": "Eine aktuelle Studie bewertete Kreatinergänzung zusammen mit Power‑Training bei älteren Menschen und berichtete, dass Kreatin offenbar einige der trainingsbedingten Vorteile verstärkte.",
+          "whyItMatters": "Zugängliche Wege zu finden, die Wirksamkeit von Kraft‑ und Power‑Training zu erhöhen, könnte helfen, Kraft und Funktion im Alter zu erhalten; Effekte von Ergänzungen variieren je nach Ergebnis und Population.",
           "takeaways": [
-            "Die Studie prüfte Kreatin kombiniert mit Kraft‑/Power‑Training bei älteren Erwachsenen und beobachtete additive Vorteile bei einigen Ergebnissen.",
-            "Die Befunde beziehen sich auf spezifische Trainingsprotokolle und Studienbedingungen; Effekte können zwischen Individuen variieren.",
-            "Wer Supplemente in Erwägung zieht, sollte Evidenz, Sicherheit abwägen und bei Bedarf mit medizinischem Fachpersonal sprechen."
+            "Kreatin in Kombination mit Power‑Training erzeugte zusätzliche Vorteile bei bestimmten gemessenen Endpunkten der älteren Teilnehmenden.",
+            "Die berichtete Synergie gilt für spezifische Trainingsregime und Studienendpunkte, nicht für eine universelle Verbesserung.",
+            "Details wie Dosis, Dauer und Gesundheitsstatus der Teilnehmenden bestimmen, ob Vorteile wahrscheinlich sind.",
+            "Weitere Forschung kann klären, welche älteren Personen am meisten von der Kombination aus Kreatin und Training profitieren."
           ]
         },
         "pt-br": {
-          "title": "Creatina pode potencializar alguns benefícios do treinamento de resistência em idosos",
-          "summary": "Um estudo recente relatou que adicionar suplementação de creatina ao treinamento de potência resultou em melhorias adicionais em certas medidas em participantes mais velhos, indicando possíveis efeitos sinérgicos entre o suplemento e o exercício.",
-          "whyItMatters": "Entender como suplementos comuns interagem com o exercício pode ajudar a orientar abordagens seguras e baseadas em evidências para preservar força e função com a idade.",
+          "title": "Estudo sugere que creatina acrescenta benefícios ao treinamento de potência em pessoas mais velhas",
+          "summary": "Um estudo recente avaliou suplementação com creatina em conjunto com treinamento de potência em pessoas mais velhas e relatou que a creatina pareceu aumentar alguns dos benefícios relacionados ao exercício.",
+          "whyItMatters": "Encontrar formas acessíveis de ampliar a eficácia do treinamento de resistência e potência pode ajudar a manter força e função com a idade; os efeitos da suplementação variam conforme o desfecho e a população.",
           "takeaways": [
-            "O estudo testou creatina combinada com treinamento de potência/força em idosos e observou benefícios adicionais em alguns desfechos.",
-            "Os achados se referem a protocolos de exercício e condições específicas do estudo; os efeitos podem variar entre indivíduos.",
-            "Quem considera usar suplementos deve avaliar a evidência e a segurança e, quando apropriado, consultar profissionais de saúde."
+            "Creatina combinada com treinamento de potência produziu benefícios adicionais em determinados desfechos medidos em participantes mais velhos.",
+            "A sinergia relatada aplica‑se a regimes de exercício e desfechos específicos, e não a uma melhoria universal.",
+            "Detalhes como dose, duração e estado de saúde dos participantes determinam se os benefícios são prováveis.",
+            "Mais pesquisas podem esclarecer quais pessoas mais velhas podem obter maior ganho com a combinação de creatina e treinamento."
           ]
         },
         "hu": {
-          "title": "A kreatin fokozhatja az erőedzés egyes előnyeit idősebb felnőtteknél",
-          "summary": "Egy új tanulmány azt jelentette, hogy a kreatin-kiegészítés hozzáadása a power/ellenállásos edzéshez további javulásokat eredményezett bizonyos mérőszámokban az idősebb résztvevőknél, ami potenciális szinergiára utal a kiegészítő és az edzés között.",
-          "whyItMatters": "Az olyan gyakori kiegészítők és az edzés kölcsönhatásainak megértése segíthet biztonságos, bizonyítékokon alapuló megközelítések kialakításában az erő és funkció megőrzése érdekében az öregedés során.",
+          "title": "Tanulmány: a kreatin kiegészítés hozzájárulhat az idősek erőnléti edzésének előnyeihez",
+          "summary": "Egy nemrégiben végzett vizsgálat a kreatin kiegészítést és a power‑edzést kombinálva értékelte idősebbeknél, és arról számolt be, hogy a kreatin bizonyos, a testedzéssel kapcsolatos előnyöket kiegészítő hatással növelte.",
+          "whyItMatters": "Elérhető módszerek megtalálása az ellenállásos és power‑edzés hatékonyságának növelésére segíthet az erő és funkció megőrzésében öregedés során; a kiegészítés hatásai azonban kimenetenként és populációnként eltérnek.",
           "takeaways": [
-            "A tanulmány kreatin és power/ellenállásos edzés kombinációját vizsgálta idősebb felnőttek körében, és egyes eredményeknél hozzáadott előnyöket észlelt.",
-            "Az eredmények konkrét edzésprotokollokra és vizsgálati körülményekre vonatkoznak; az hatások egyénenként eltérhetnek.",
-            "A kiegészítők mérlegelésekor figyelembe kell venni a bizonyítékokat és a biztonságot, és szükség esetén érdemes egészségügyi szakemberrel konzultálni."
+            "A kreatin és a power‑edzés kombinációja bizonyos mérhető eredményekben további előnyöket hozott az idősebb résztvevők esetében.",
+            "A jelentett szinergia specifikus edzésprogramokra és vizsgálati végpontokra vonatkozik, nem általánosításra minden területre.",
+            "A dózis, az időtartam és a résztvevők egészségi állapota meghatározza, hogy várható‑e előny.",
+            "További kutatások tisztázhatják, hogy mely idősebb felnőttek profitálhatnak leginkább a kreatin és az edzés kombinációjából."
           ]
         },
         "ar": {
-          "title": "قد يعزز الكرياتين بعض فوائد تمارين المقاومة لدى كبار البالغين",
-          "summary": "أفادت دراسة جديدة أن إضافة مكمل الكرياتين إلى تمارين القوة/المقاومة أدت إلى تحسينات إضافية في مقاييس معينة لدى المشاركين الأكبر سناً، مما يشير إلى تأثيرات تآزرية محتملة بين المكمل والتمرين.",
-          "whyItMatters": "فهم تداخل المكملات الشائعة مع التمارين قد يساعد في تكوين نهج آمن ومستند إلى الأدلة للحفاظ على القوة والوظيفة مع التقدم في العمر.",
+          "title": "دراسة تقترح أن الكرياتين يضاف إلى فوائد التدريب القوي لدى كبار السن",
+          "summary": "قَيَّمت دراسة حديثة مُكمّلات الكرياتين إلى جانب تدريب القوة السريع لدى كبار السن وأفادت أن الكرياتين بدا أنه يعزز بعض الفوائد المرتبطة بالتمرين.",
+          "whyItMatters": "إيجاد طرق متاحة لتعزيز فعالية تدريب المقاومة والقوى قد يساعد في الحفاظ على القوة والوظيفة مع التقدم في العمر؛ وتأثيرات المكملات تختلف باختلاف النتائج والسكان المدروسين.",
           "takeaways": [
-            "اختبرت الدراسة الكرياتين مع تمارين القوة/المقاومة لدى كبار البالغين وراقبت فوائد مضافة في بعض النتائج.",
-            "تتعلق النتائج ببروتوكولات وتمارين وظروف دراسية محددة؛ وقد تختلف التأثيرات بين الأفراد.",
-            "ينبغي للمقبلين على استخدام المكملات أن يوازنوا بين الأدلة والسلامة، وأن يستشيروا المختصين عند الاقتضاء."
+            "أنتجت مزيج الكرياتين مع تدريب القوة فوائد إضافية في بعض النتائج المقاسة لدى المشاركين الأكبر سنًا.",
+            "التكامل المبلغ عنه ينطبق على برامج تمرين محددة ونقاط نهاية دراسية معينة وليس تعزيزًا عامًا شاملًا.",
+            "الجرعة والمدة والحالة الصحية للمشاركين تحدد ما إذا كانت الفوائد متوقعة.",
+            "تُساهم أبحاث إضافية في توضيح أي فئات من كبار السن قد تستفيد أكثر من الجمع بين الكرياتين والتدريب."
           ]
         }
       },
-      "generatedAt": "2026-05-06T12:07:02.209Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a6",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s6-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s6-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Creatine may enhance some benefits of resistance training in older adults.\nStory summary: A new study reported that adding creatine supplementation to power training produced additional improvements on certain measures in older participants, indicating potential synergistic effects between the supplement and exercise..\nCategory: nutrition science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study suggests creatine adds to benefits of power training in older adults.\nStory summary: A recent study evaluated creatine supplementation alongside power training in older people and reported that creatine appeared to augment some of the exercise‑related benefits..\nCategory: Healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a2",
@@ -1437,6 +2035,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Accelerated immune-cell aging may signal future depression, study reports.\nStory summary: Investigators tracked aging markers in monocytes and found that faster cellular aging in these immune cells was associated with emotional and cognitive features of depression rather than physical symptoms. The authors suggest a blood-based signal could emerge for earlier detection or research purposes..\nCategory: mental health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "s10",
+      "category": "Global health",
+      "sourceName": "who.int",
+      "sourceUrl": "https://www.who.int/news/item/04-05-2026-joint-call-by-the-president-of-the-icrc--the-director-general-of-who-and-the-international-president-of-msf",
+      "sourceTitle": "Joint call by the President of the ICRC, the Director-General of WHO and the International President of MSF",
+      "publishedAt": "Mon, 04 May 2026 06:44:57 Z",
+      "languages": {
+        "en": {
+          "title": "ICRC, WHO and MSF issue joint call: decade after Resolution 2286, attacks on health care have worsened",
+          "summary": "Leaders from the International Committee of the Red Cross, WHO and Médecins Sans Frontières say that ten years after UN Security Council Resolution 2286, violence affecting health facilities, transport and personnel has intensified rather than diminished, and they issue a joint appeal for action.",
+          "whyItMatters": "Escalating attacks on health care in conflict settings impede services, put patients and health workers at risk, and complicate efforts to deliver essential care and public health measures.",
+          "takeaways": [
+            "A decade after Resolution 2286, leaders report that violence against health care has not decreased and in many contexts has worsened.",
+            "The joint statement highlights ongoing harm to facilities, transport, and medical personnel in armed conflicts.",
+            "The call urges renewed attention and action to protect health care in conflict zones.",
+            "Sustained threats to health infrastructure have wide implications for population health and humanitarian response."
+          ]
+        },
+        "es": {
+          "title": "CICR, OMS y MSF lanzan llamado conjunto: una década después de la Resolución 2286, los ataques contra la atención sanitaria han empeorado",
+          "summary": "Líderes del Comité Internacional de la Cruz Roja, la OMS y Médicos Sin Fronteras afirman que diez años después de la Resolución 2286 del Consejo de Seguridad de la ONU, la violencia que afecta a instalaciones sanitarias, transporte y personal se ha intensificado en lugar de disminuir, y hacen un llamado conjunto a la acción.",
+          "whyItMatters": "El aumento de los ataques contra la atención sanitaria en contextos de conflicto impide los servicios, pone en riesgo a pacientes y trabajadores sanitarios y complica los esfuerzos para prestar atención esencial y medidas de salud pública.",
+          "takeaways": [
+            "Una década después de la Resolución 2286, los líderes informan que la violencia contra la atención sanitaria no ha disminuido y en muchos contextos ha empeorado.",
+            "La declaración conjunta destaca el daño continuo a instalaciones, medios de transporte y personal médico en conflictos armados.",
+            "El llamado insta a renovar la atención y la acción para proteger la atención sanitaria en zonas de conflicto.",
+            "Las amenazas sostenidas a la infraestructura sanitaria tienen amplias implicaciones para la salud de la población y la respuesta humanitaria."
+          ]
+        },
+        "ru": {
+          "title": "МККК, ВОЗ и «Врачи без границ» выступили с совместным призывом: через десять лет после Резолюции 2286 атаки на здравоохранение стали хуже",
+          "summary": "Руководители Международного комитета Красного Креста, ВОЗ и «Врачи без границ» заявляют, что через десять лет после Резолюции 2286 Совета Безопасности ООН насилие, затрагивающее медицинские учреждения, транспорт и персонал, усилилось, а не уменьшилось, и они обращаются с совместным призывом к действию.",
+          "whyItMatters": "Усиление атак на здравоохранение в условиях конфликта препятствует оказанию услуг, ставит под угрозу пациентов и медицинских работников и осложняет доставку необходимой помощи и мер общественного здравоохранения.",
+          "takeaways": [
+            "Через десять лет после Резолюции 2286 руководители сообщают, что насилие против здравоохранения не снизилось и во многих контекстах ухудшилось.",
+            "Совместное заявление подчёркивает продолжающийся вред объектам, транспорту и медицинскому персоналу в вооружённых конфликтах.",
+            "Призыв настаивает на возобновлении внимания и действия для защиты здравоохранения в зонах конфликта.",
+            "Постоянные угрозы инфраструктуре здравоохранения имеют широкие последствия для общественного здоровья и гуманитарного реагирования."
+          ]
+        },
+        "uk": {
+          "title": "МКЧХ, ВООЗ і Лікарі без кордонів роблять спільний заклик: через десять років після Резолюції 2286 атаки на охорону здоров’я посилилися",
+          "summary": "Керівники Міжнародного комітету Червоного Хреста, ВООЗ і Médecins Sans Frontières заявляють, що через десять років після Резолюції РБ ООН 2286 насильство, яке зачіпає медичні заклади, транспорт і персонал, посилилося замість того, щоб зменшитися, і вони роблять спільний заклик до дій.",
+          "whyItMatters": "Ескалація атак на систему охорони здоров’я в умовах конфлікту перешкоджає наданню послуг, ставить під загрозу пацієнтів і медичних працівників та ускладнює доставку необхідної допомоги й заходів громадської охорони здоров’я.",
+          "takeaways": [
+            "За десять років після Резолюції 2286 лідери повідомляють, що насильство проти системи охорони здоров’я не зменшилося і в багатьох контекстах посилилося.",
+            "Спільна заява підкреслює постійні шкоду для закладів, транспорту та медичного персоналу в умовах збройних конфліктів.",
+            "Заклик вимагає оновленої уваги та дій для захисту охорони здоров’я в зонах конфлікту.",
+            "Тривалі загрози інфраструктурі охорони здоров’я мають широкі наслідки для здоров’я населення та гуманітарної реакції."
+          ]
+        },
+        "fr": {
+          "title": "CICR, OMS et MSF lancent un appel conjoint : une décennie après la résolution 2286, les attaques contre les soins de santé se sont aggravées",
+          "summary": "Les dirigeants du Comité international de la Croix‑Rouge, de l’OMS et de Médecins Sans Frontières déclarent que dix ans après la résolution 2286 du Conseil de sécurité des Nations Unies, la violence affectant les établissements de santé, les transports et le personnel s’est intensifiée plutôt que diminuée, et ils lancent un appel conjoint à l’action.",
+          "whyItMatters": "La multiplication des attaques contre les soins de santé en contexte de conflit entrave les services, met en danger les patients et les travailleurs de la santé, et complique les efforts pour fournir des soins essentiels et des mesures de santé publique.",
+          "takeaways": [
+            "Une décennie après la résolution 2286, les dirigeants rapportent que la violence contre les soins de santé n’a pas diminué et s’est aggravée dans de nombreux contextes.",
+            "La déclaration conjointe met en lumière les dommages continus aux établissements, aux transports et au personnel médical dans les conflits armés.",
+            "L’appel exhorte à une attention et des actions renouvelées pour protéger les soins de santé dans les zones de conflit.",
+            "Les menaces durables pesant sur les infrastructures de santé ont de larges implications pour la santé des populations et la réponse humanitaire."
+          ]
+        },
+        "de": {
+          "title": "IKRK, WHO und MSF fordern gemeinsam: Ein Jahrzehnt nach Resolution 2286 haben Angriffe auf die Gesundheitsversorgung zugenommen",
+          "summary": "Vertreter des Internationalen Komitees vom Roten Kreuz, der WHO und Médecins Sans Frontières erklären, dass zehn Jahre nach der UN‑Sicherheitsratsresolution 2286 Gewalt gegen Gesundheitseinrichtungen, Transport und Personal sich eher verstärkt als vermindert hat, und richten einen gemeinsamen Appell an die Verantwortlichen.",
+          "whyItMatters": "Zunehmende Angriffe auf die Gesundheitsversorgung in Konfliktgebieten behindern Leistungen, gefährden Patienten und Gesundheitspersonal und erschweren die Lieferung lebenswichtiger Versorgung und gesundheitlicher Maßnahmen.",
+          "takeaways": [
+            "Ein Jahrzehnt nach Resolution 2286 berichten die Führungskräfte, dass Gewalt gegen die Gesundheitsversorgung nicht abgenommen hat und sich in vielen Kontexten verschlechtert hat.",
+            "Die gemeinsame Erklärung hebt fortdauernden Schaden an Einrichtungen, Transportmitteln und medizinischem Personal in bewaffneten Konflikten hervor.",
+            "Der Aufruf fordert erneute Aufmerksamkeit und Maßnahmen zum Schutz der Gesundheitsversorgung in Konfliktzonen.",
+            "Anhaltende Bedrohungen der Gesundheitsinfrastruktur haben weitreichende Folgen für die öffentliche Gesundheit und humanitäre Hilfe."
+          ]
+        },
+        "pt-br": {
+          "title": "CICV, OMS e MSF em apelo conjunto: uma década após a Resolução 2286, ataques à saúde pioraram",
+          "summary": "Líderes do Comitê Internacional da Cruz Vermelha, da OMS e da Médecins Sans Frontières afirmam que, dez anos após a Resolução 2286 do Conselho de Segurança da ONU, a violência contra instalações de saúde, transporte e pessoal se intensificou em vez de diminuir, e fazem um apelo conjunto por ação.",
+          "whyItMatters": "O aumento de ataques aos serviços de saúde em cenários de conflito impede a prestação de serviços, coloca pacientes e trabalhadores de saúde em risco e complica os esforços para fornecer cuidados essenciais e medidas de saúde pública.",
+          "takeaways": [
+            "Uma década após a Resolução 2286, líderes relatam que a violência contra a assistência à saúde não diminuiu e em muitos contextos piorou.",
+            "A declaração conjunta destaca danos contínuos a instalações, transporte e pessoal médico em conflitos armados.",
+            "O apelo insta a atenção renovada e ação para proteger a assistência à saúde em zonas de conflito.",
+            "Ameaças persistentes à infraestrutura de saúde têm amplas implicações para a saúde da população e a resposta humanitária."
+          ]
+        },
+        "hu": {
+          "title": "Vöröskereszt (ICRC), WHO és MSF közös felhívása: tíz évvel a 2286‑os határozat után rosszabbodtak a támadások az egészségügyi ellátás ellen",
+          "summary": "A Nemzetközi Vöröskereszt, a WHO és a Médecins Sans Frontières vezetői közös közleményben állítják, hogy tíz évvel az ENSZ BT 2286‑os határozata után az egészségügyi létesítményekre, szállításra és személyzetre irányuló erőszak erősödött ahelyett, hogy csökkent volna, és közös felhívást intéznek a cselekvésre.",
+          "whyItMatters": "Az egészségügyi ellátás elleni fokozódó támadások a konfliktuszónákban akadályozzák a szolgáltatásokat, veszélyeztetik a betegeket és egészségügyi dolgozókat, és megnehezítik az alapvető ellátás és közegészségügyi intézkedések nyújtását.",
+          "takeaways": [
+            "Tíz évvel az 2286‑os határozat után a vezetők szerint a fegyveres konfliktusokban az egészségügyi ellátás elleni erőszak nem csökkent, sok helyen rosszabbodott.",
+            "A közös nyilatkozat rávilágít a létesítményekre, a szállításra és az egészségügyi személyzetre irányuló folyamatos károkra a fegyveres összecsapások során.",
+            "A felhívás megújult figyelmet és intézkedéseket sürget az egészségügyi ellátás védelmére a konfliktuszónákban.",
+            "Az egészségügyi infrastruktúrát ért tartós fenyegetések széles körű következményekkel járnak a népegészségügyre és a humanitárius reagálásra."
+          ]
+        },
+        "ar": {
+          "title": "اللجنة الدولية للصليب الأحمر ومنظمة الصحة العالمية وأطباء بلا حدود يطلقون نداءً مشتركًا: بعد عقد من قرار 2286، ازدادت الهجمات على الرعاية الصحية سوءًا",
+          "summary": "قال قادة اللجنة الدولية للصليب الأحمر ومنظمة الصحة العالمية ومنظمة أطباء بلا حدود إن العنف الذي يؤثر على المنشآت الصحية ووسائل النقل والكوادر قد تفاقم بدل أن يتراجع بعد مرور عشر سنوات على قرار مجلس الأمن التابع للأمم المتحدة رقم 2286، وأصدروا نداءً مشتركًا للعمل.",
+          "whyItMatters": "تعرقل الهجمات المتصاعدة على الرعاية الصحية في سياقات النزاع تقديم الخدمات، وتعرض المرضى والعاملين الصحيين للخطر، وتعقّد جهود توفير الرعاية الأساسية والإجراءات الصحية العامة.",
+          "takeaways": [
+            "بعد عقد من القرار 2286، يذكر القادة أن العنف ضد الرعاية الصحية لم يقل وفي كثير من السياقات ازداد سوءًا.",
+            "تسلّط الرسالة المشتركة الضوء على الأضرار المستمرة التي تُلحق بالمنشآت والوسائط والكوادر الطبية في النزاعات المسلحة.",
+            "النداء يدعو إلى تجديد الاهتمام واتخاذ إجراءات لحماية الرعاية الصحية في مناطق النزاع.",
+            "للتهديدات المستمرة للبنية الصحية آثار واسعة على صحة السكان واستجابة العمل الإنساني."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s10",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s10-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s10-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ICRC, WHO and MSF issue joint call: decade after Resolution 2286, attacks on health care have worsened.\nStory summary: Leaders from the International Committee of the Red Cross, WHO and Médecins Sans Frontières say that ten years after UN Security Council Resolution 2286, violence affecting health facilities, transport and personnel has intensified rather than diminished, and they issue a joint appeal for action..\nCategory: Global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "exercise-parkinsons-2026",
@@ -7827,6 +8541,122 @@
         "hu": "https://ipcltech.github.io/CalorieBankNewsData/articles/hu/vitamin-d-midlife-brain-2026-04-07.html",
         "ar": "https://ipcltech.github.io/CalorieBankNewsData/articles/ar/vitamin-d-midlife-brain-2026-04-07.html"
       }
+    },
+    {
+      "id": "s8",
+      "category": "Dietary guidance",
+      "sourceName": "nutritionsource.hsph.harvard.edu",
+      "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
+      "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
+      "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
+      "languages": {
+        "en": {
+          "title": "2025–2030 Dietary Guidelines emphasize whole foods and limit added sugars while retaining saturated fat cap",
+          "summary": "The 2025–2030 Dietary Guidelines for Americans promote eating 'real food' and take a firmer stance on limiting added sugars and highly processed items. Despite a graphic that elevates foods like steak and full‑fat dairy visually, the Guidelines maintain a 10% upper limit for calories from saturated fat.",
+          "whyItMatters": "The new Guidelines shape public nutrition messaging and policy; consumers may see mixed signals from imagery versus nutrient limits, so clarity on saturated fat and processed food guidance matters for dietary choices.",
+          "takeaways": [
+            "Guidelines strengthen recommendations to limit added sugars and highly processed foods.",
+            "A prominent visual in the report highlights protein and full‑fat dairy, which could be misread as overturning saturated fat limits.",
+            "The explicit saturated fat recommendation remains at no more than 10% of total daily calories.",
+            "Focus on whole, minimally processed foods is a central message of the 2025–2030 Guidelines."
+          ]
+        },
+        "es": {
+          "title": "Las Guías Dietéticas 2025–2030 enfatizan alimentos enteros y limitan azúcares añadidos manteniendo el tope de grasas saturadas",
+          "summary": "Las Guías Dietéticas para los Estadounidenses 2025–2030 promueven comer 'alimentos reales' y adoptan una postura más firme sobre limitar azúcares añadidos y productos altamente procesados. A pesar de un gráfico que eleva visualmente alimentos como el filete y lácteos enteros, las Guías mantienen un límite máximo del 10% de calorías provenientes de grasas saturadas.",
+          "whyItMatters": "Las nuevas Guías configuran el mensaje público y las políticas nutricionales; los consumidores pueden percibir señales contradictorias entre las imágenes y los límites de nutrientes, por lo que la claridad sobre grasas saturadas y alimentos procesados importa para las elecciones dietarias.",
+          "takeaways": [
+            "Las Guías refuerzan las recomendaciones de limitar azúcares añadidos y alimentos altamente procesados.",
+            "Un gráfico destacado en el informe resalta proteínas y lácteos enteros, lo que podría interpretarse erróneamente como una revocación de los límites de grasas saturadas.",
+            "La recomendación explícita sobre grasas saturadas se mantiene en no más del 10% del total de calorías diarias.",
+            "El enfoque en alimentos enteros y mínimamente procesados es un mensaje central de las Guías 2025–2030."
+          ]
+        },
+        "ru": {
+          "title": "Руководство по питанию 2025–2030 подчёркивает цельные продукты и ограничение добавленных сахаров, сохраняя потолок по насыщенным жирам",
+          "summary": "Руководство по питанию для американцев 2025–2030 продвигает идею «реальной пищи» и занимает более жёсткую позицию в отношении ограничения добавленных сахаров и сильно переработанных продуктов. Несмотря на изображение, которое визуально подчёркивает такие продукты, как стейк и цельные молочные продукты, руководство сохраняет верхний предел: 10% калорий из насыщенных жиров.",
+          "whyItMatters": "Новое руководство формирует общественные сообщения и политику в области питания; потребители могут получать смешанные сигналы между визуальными материалами и ограничениями по нутриентам, поэтому ясность в вопросах насыщенных жиров и переработанных продуктов важна для принятия решений о питании.",
+          "takeaways": [
+            "Руководство усиливает рекомендации по ограничению добавленных сахаров и сильно переработанных продуктов.",
+            "Видимый график в отчёте выделяет белки и цельные молочные продукты, что может быть неверно истолковано как отмена ограничений по насыщенным жирам.",
+            "Явная рекомендация по насыщенным жирам остаётся — не более 10% от общей суточной калорийности.",
+            "Упор на цельные, минимально переработанные продукты — центральный месседж Руководства 2025–2030."
+          ]
+        },
+        "uk": {
+          "title": "Дієтичні рекомендації США 2025–2030 підкреслюють цілісні продукти та обмеження доданих цукрів, зберігаючи ліміт на насичені жири",
+          "summary": "Дієтичні рекомендації США на 2025–2030 роки пропагують вживання «справжньої їжі» і займають жорсткішу позицію щодо обмеження доданих цукрів та сильно оброблених продуктів. Незважаючи на графіку, що візуально підкреслює продукти на зразок стейка та повножирних молочних продуктів, рекомендації зберігають верхню межу у 10% калорій із насичених жирів.",
+          "whyItMatters": "Нові рекомендації формують публічні повідомлення та політику в галузі харчування; споживачі можуть отримувати суперечливі сигнали від образів і від обмежень по нутрієнтах, тому ясність щодо насичених жирів і порад щодо оброблених продуктів важлива для вибору харчування.",
+          "takeaways": [
+            "Рекомендації посилюють поради щодо обмеження доданих цукрів та сильно оброблених продуктів.",
+            "Помітна візуалізація у звіті виділяє білки та повножирні молочні продукти, що може бути неправильно інтерпретовано як скасування обмежень на насичені жири.",
+            "Явна рекомендація щодо насичених жирів залишається на рівні не більше 10% від добової калорійності.",
+            "Акцент на цілісних, мінімально оброблених продуктах є центральним повідомленням рекомендацій 2025–2030 років."
+          ]
+        },
+        "fr": {
+          "title": "Les directives alimentaires 2025–2030 mettent l’accent sur les aliments complets et limitent les sucres ajoutés tout en maintenant le plafond des graisses saturées",
+          "summary": "Les Dietary Guidelines for Americans 2025–2030 promeuvent la consommation d’« aliments réels » et prennent une position plus ferme sur la limitation des sucres ajoutés et des produits ultra‑transformés. Malgré un graphique qui met visuellement en valeur des aliments comme le steak et les produits laitiers entiers, les directives maintiennent une limite supérieure de 10 % des calories provenant des graisses saturées.",
+          "whyItMatters": "Ces nouvelles directives influencent les messages publics et les politiques nutritionnelles ; les consommateurs peuvent percevoir des signaux contradictoires entre l’imagerie et les limites nutritionnelles, d’où l’importance de la clarté sur les graisses saturées et les conseils concernant les aliments transformés.",
+          "takeaways": [
+            "Les directives renforcent les recommandations visant à limiter les sucres ajoutés et les aliments hautement transformés.",
+            "Un visuel marquant du rapport met en avant les protéines et les produits laitiers entiers, ce qui pourrait être interprété à tort comme une remise en cause des limites sur les graisses saturées.",
+            "La recommandation explicite sur les graisses saturées demeure à maximum 10 % de l’apport énergétique quotidien.",
+            "L’accent sur les aliments entiers et peu transformés est un message central des directives 2025–2030."
+          ]
+        },
+        "de": {
+          "title": "Ernährungsleitlinien 2025–2030 betonen Vollwertkost und Begrenzung zugesetzter Zucker bei beibehaltenem Limit für gesättigte Fette",
+          "summary": "Die Dietary Guidelines for Americans 2025–2030 empfehlen vermehrt den Verzehr von ‚echten Lebensmitteln‘ und vertreten eine striktere Haltung zur Begrenzung zugesetzter Zucker und stark verarbeiteter Produkte. Trotz einer Grafik, die Lebensmittel wie Steak und Vollfett‑Milchprodukte optisch hervorhebt, behalten die Leitlinien eine obere Grenze von 10 % der Kalorien für gesättigte Fette bei.",
+          "whyItMatters": "Die neuen Leitlinien prägen öffentliche Ernährungsbotschaften und politische Maßnahmen; Konsumentinnen und Konsumenten könnten von widersprüchlichen Signalen durch Bildsprache versus Nährstofflimits verwirrt werden, sodass Klarheit zu gesättigten Fetten und verarbeiteten Lebensmitteln für Ernährungsentscheidungen wichtig ist.",
+          "takeaways": [
+            "Die Leitlinien verschärfen Empfehlungen zur Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel.",
+            "Eine prominente Grafik hebt Protein und Vollfettmilchprodukte hervor, was fälschlich so gelesen werden könnte, als werde das Limit für gesättigte Fette aufgehoben.",
+            "Die explizite Empfehlung für gesättigte Fette bleibt bei maximal 10 % der täglichen Kalorien.",
+            "Der Fokus auf ganze, minimal verarbeitete Lebensmittel ist eine zentrale Botschaft der Guidelines 2025–2030."
+          ]
+        },
+        "pt-br": {
+          "title": "Diretrizes Alimentares 2025–2030 enfatizam alimentos integrais e limitam açúcares adicionados mantendo teto para gorduras saturadas",
+          "summary": "As Dietary Guidelines for Americans 2025–2030 promovem o consumo de “alimentos de verdade” e adotam uma posição mais firme para limitar açúcares adicionados e itens altamente processados. Apesar de um gráfico que destaca visualmente alimentos como bife e laticínios integrais, as Diretrizes mantêm um limite máximo de 10% das calorias diárias provenientes de gorduras saturadas.",
+          "whyItMatters": "As novas Diretrizes moldam a mensagem pública sobre nutrição e políticas; consumidores podem receber sinais mistos da imagem versus os limites de nutrientes, portanto clareza sobre gorduras saturadas e orientação sobre alimentos processados é importante para escolhas alimentares.",
+          "takeaways": [
+            "As diretrizes reforçam recomendações para limitar açúcares adicionados e alimentos altamente processados.",
+            "Um gráfico proeminente destaca proteínas e laticínios integrais, o que pode ser interpretado equivocadamente como uma reversão do limite para gorduras saturadas.",
+            "A recomendação explícita para gorduras saturadas permanece em no máximo 10% das calorias diárias.",
+            "O foco em alimentos inteiros e minimamente processados é uma mensagem central das Diretrizes 2025–2030."
+          ]
+        },
+        "hu": {
+          "title": "A 2025–2030‑as irányelvek a teljes ételekre helyezik a hangsúlyt, korlátozzák a hozzáadott cukrokat és megtartják a telített zsír 10%-os felső korlátját",
+          "summary": "Az Amerikai Táplálkozási Irányelvek 2025–2030 kiemeli a „valódi ételek” fogyasztását és szigorúbb álláspontra helyezkedik a hozzáadott cukrok és a feldolgozott élelmiszerek korlátozását illetően. Annak ellenére, hogy egy grafika vizuálisan kiemeli a marhahúst és a teljes zsírtartalmú tejtermékeket, az irányelvek továbbra is fenntartják a telített zsír napi kalóriákból számított legfeljebb 10%-os korlátját.",
+          "whyItMatters": "Az új irányelvek alakítják a nyilvános táplálkozási üzeneteket és politikát; a fogyasztók félreérthetik a képi elemeket a tápanyagkorlátokkal szemben, ezért fontos a telített zsírra és a feldolgozott ételekre vonatkozó útmutatás tisztázása a táplálkozási választásokhoz.",
+          "takeaways": [
+            "Az irányelvek erősítik a javaslatokat a hozzáadott cukrok és a magas fokon feldolgozott élelmiszerek korlátozására.",
+            "A jelentésben egy feltűnő ábra a fehérjét és a teljes zsírtartalmú tejtermékeket emeli ki, amit félre lehet érteni úgy, mintha felülírná a telített zsír‑korlátokat.",
+            "A kifejezett ajánlás a telített zsírra továbbra is legfeljebb a napi kalóriabevitel 10%-a.",
+            "A feldolgozatlan, minimálisan feldolgozott ételekre való fókusz az 2025–2030 irányelvek egyik központi üzenete."
+          ]
+        },
+        "ar": {
+          "title": "توجيهات النظام الغذائي 2025–2030 تؤكد على الأطعمة الكاملة وتحد من السكريات المضافة مع الإبقاء على حد الدهون المشبعة",
+          "summary": "تشجع توجيهات النظام الغذائي للأمريكيين 2025–2030 على تناول «الأطعمة الحقيقية» وتتخذ موقفًا أكثر صرامة بشأن الحد من السكريات المضافة والمنتجات شديدة المعالجة. وعلى الرغم من وجود رسم توضيحي يبرز أطعمة مثل الستيك ومنتجات الألبان كاملة الدسم بصريًا، تظل التوجيهات محافظة على حد أعلى للدهون المشبعة يعادل 10% من السعرات الحرارية.",
+          "whyItMatters": "تشكل التوجيهات الجديدة الرسائل والسياسات العامة المتعلقة بالتغذية؛ وقد تخلط الصور البصرية بين الرسائل والمحددات الغذائية، لذا فإن توضيح موقف التوجيهات بشأن الدهون المشبعة والأطعمة المصنعة مهم لاختيار النظم الغذائية.",
+          "takeaways": [
+            "تعزز التوجيهات التوصيات للحد من السكريات المضافة والأطعمة عالية المعالجة.",
+            "صورة بارزة في التقرير تبرز البروتين ومنتجات الألبان كاملة الدسم، ما قد يُفهم خطأً على أنه إلغاء لقيود الدهون المشبعة.",
+            "تظل التوصية الصريحة بشأن الدهون المشبعة عند عدم تجاوز 10% من مجمل السعرات الحرارية اليومية.",
+            "التركيز على الأطعمة الكاملة والأقل معالجة هو رسالة مركزية في توجيهات 2025–2030."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-06T12:50:44.105Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize whole foods and limit added sugars while retaining saturated fat cap.\nStory summary: The 2025–2030 Dietary Guidelines for Americans promote eating 'real food' and take a firmer stance on limiting added sugars and highly processed items. Despite a graphic that elevates foods like steak and full‑fat dairy visually, the Guidelines maintain a 10% upper limit for calories from saturated fat..\nCategory: Dietary guidance.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
