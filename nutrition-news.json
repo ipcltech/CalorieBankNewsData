@@ -1,7 +1,863 @@
 {
-  "generatedAt": "2026-05-07T09:14:32.513Z",
+  "generatedAt": "2026-05-08T08:10:31.903Z",
   "sourceCount": 21,
   "articles": [
+    {
+      "id": "fasting-immunity-2026",
+      "category": "Metabolism / Cancer research",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00109-9?rss=yes",
+      "sourceTitle": "Fasting opens a metabolic window that favors anti-tumor immunity",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Fasting opens a metabolic window that favors anti-tumor immunity",
+          "summary": "Research reported by Chen and colleagues indicates short‑term fasting changes nutrient availability in tumors, including increased intratumoral isoleucine, which appears to support CD8+ T cell effector activity and improve responses to immune checkpoint blockade in experimental settings.",
+          "whyItMatters": "The study suggests metabolic interventions such as fasting can transiently reshape the tumor microenvironment in ways that affect immune cell function. These findings are early and primarily mechanistic.",
+          "takeaways": [
+            "Short‑term fasting alters tumor nutrient landscapes and may boost T cell activity in studies.",
+            "Isoleucine accumulation inside tumors was implicated in supporting T cell programs.",
+            "Findings come from controlled research settings and require further testing before clinical application."
+          ]
+        },
+        "es": {
+          "title": "El ayuno abre una ventana metabólica que favorece la inmunidad antitumoral",
+          "summary": "Investigaciones de Chen y colegas indican que el ayuno a corto plazo cambia la disponibilidad de nutrientes en tumores, incluida la acumulación intratumoral de isoleucina, lo que parece apoyar la actividad efectora de las células T CD8+ y mejorar las respuestas al bloqueo de puntos de control inmunitarios en entornos experimentales.",
+          "whyItMatters": "El estudio sugiere que intervenciones metabólicas como el ayuno pueden remodelar de forma transitoria el microambiente tumoral de maneras que afectan la función de las células inmunitarias. Estos hallazgos son tempranos y principalmente mecanísticos.",
+          "takeaways": [
+            "El ayuno a corto plazo altera el paisaje de nutrientes tumorales y puede potenciar la actividad de células T en estudios experimentales.",
+            "Se implicó la acumulación de isoleucina dentro de tumores en el soporte de programas de células T.",
+            "Los hallazgos proceden de entornos de investigación controlada y requieren más pruebas antes de cualquier aplicación clínica."
+          ]
+        },
+        "ru": {
+          "title": "Голодание открывает метаболическое окно, благоприятное для антив tumor-иммунитета",
+          "summary": "Исследование Чена и коллег показывает, что кратковременное голодание изменяет доступность нутриентов в опухолях, включая повышение внутритуморного уровня изолейцина, что, по-видимому, поддерживает эффекторную активность CD8+ T‑клеток и улучшает ответы на блокаду иммунных контрольных точек в экспериментальных условиях.",
+          "whyItMatters": "Исследование предполагает, что метаболические вмешательства, такие как голодание, могут временно перестроить микросреду опухоли таким образом, что это влияет на функцию иммунных клеток. Эти выводы ранние и в основном механистические.",
+          "takeaways": [
+            "Кратковременное голодание изменяет нутриентный ландшафт опухоли и может усиливать активность T‑клеток в исследовательских условиях.",
+            "Во внутритуморном накоплении изолейцина усматривают роль в поддержке программ T‑клеток.",
+            "Результаты получены в контролируемых исследованиях и требуют дальнейшей проверки до клинического применения."
+          ]
+        },
+        "uk": {
+          "title": "Голодування відкриває метаболічне вікно, яке сприяє анти‑пухлинному імунітету",
+          "summary": "Дослідження, описане Ченом і співавт., показує, що короткострокове голодування змінює доступність поживних речовин у пухлинах, зокрема підвищення рівня ізолейцину всередині пухлин, що, схоже, підтримує ефекторну активність CD8+ T‑клітин і поліпшує відповіді на блокаду імунних контрольно‑перевірних точок у експериментальних умовах.",
+          "whyItMatters": "Дослідження натякає, що метаболічні втручання, такі як голодування, можуть тимчасово змінювати мікрооточення пухлин таким чином, що впливає на функцію імунних клітин. Ці висновки є ранніми і переважно механістичними.",
+          "takeaways": [
+            "Короткострокове голодування змінює метаболічний ландшафт пухлини й може підсилювати активність Т‑клітин у дослідженнях.",
+            "Накопичення ізолейцину в пухлинах було пов’язане зі сприянням програмам Т‑клітин.",
+            "Висновки отримані в контрольованих дослідних умовах і потребують подальшого тестування перед клінічним застосуванням."
+          ]
+        },
+        "fr": {
+          "title": "Le jeûne ouvre une fenêtre métabolique favorable à l’immunité anti‑tumorale",
+          "summary": "Des recherches rapportées par Chen et ses collègues indiquent que le jeûne de courte durée modifie la disponibilité des nutriments dans les tumeurs, y compris une augmentation de l’isoleucine intratumorale, qui semble soutenir l’activité effectrice des cellules T CD8+ et améliorer les réponses à la blockade des points de contrôle immunitaire en conditions expérimentales.",
+          "whyItMatters": "L’étude suggère que des interventions métaboliques comme le jeûne peuvent temporairement remodeler le microenvironnement tumoral de façons qui affectent la fonction des cellules immunitaires. Ces conclusions sont préliminaires et principalement mécanistiques.",
+          "takeaways": [
+            "Le jeûne de courte durée modifie le paysage nutritif tumoral et peut stimuler l’activité des cellules T dans les études.",
+            "L’accumulation d’isoleucine à l’intérieur des tumeurs a été impliquée dans le soutien des programmes des cellules T.",
+            "Ces résultats proviennent d’expérimentations contrôlées et nécessitent des tests supplémentaires avant toute application clinique."
+          ]
+        },
+        "de": {
+          "title": "Fasten öffnet ein metabolisches Fenster, das die antitumorale Immunität begünstigt",
+          "summary": "Forschungsarbeiten von Chen und Kollegen zeigen, dass kurzzeitiges Fasten die Nährstoffverfügbarkeit in Tumoren verändert, einschließlich erhöhter intratumoraler Isoleucin, was offenbar CD8+‑T‑Zell‑Effektorprogramme unterstützt und die Ansprechraten auf Checkpoint‑Inhibitoren in experimentellen Modellen verbessert.",
+          "whyItMatters": "Die Studie legt nahe, dass metabolische Interventionen wie Fasten das Tumormikromilieu vorübergehend so umgestalten können, dass die Funktion von Immunzellen beeinflusst wird. Diese Befunde sind früh und hauptsächlich mechanistisch.",
+          "takeaways": [
+            "Kurzzeitiges Fasten verändert das Nährstoffmilieu von Tumoren und kann in Studien die T‑Zell‑Aktivität steigern.",
+            "Intratumorale Anreicherung von Isoleucin wurde als unterstützend für T‑Zell‑Programme identifiziert.",
+            "Die Ergebnisse stammen aus kontrollierten Forschungssettings und erfordern weitere Tests, bevor sie klinisch angewendet werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Jejum abre uma janela metabólica que favorece a imunidade antitumoral",
+          "summary": "Pesquisas relatadas por Chen e colegas indicam que o jejum de curto prazo altera a disponibilidade de nutrientes nos tumores, incluindo aumento de isoleucina intratumoral, que parece apoiar a atividade efetora de células T CD8+ e melhorar respostas a bloqueio de checkpoints imunológicos em cenários experimentais.",
+          "whyItMatters": "O estudo sugere que intervenções metabólicas, como o jejum, podem reconfigurar temporariamente o microambiente tumoral de maneiras que afetam a função de células imunes. Esses achados são iniciais e primariamente mecanísticos.",
+          "takeaways": [
+            "Jejum de curto prazo altera o panorama de nutrientes do tumor e pode impulsionar a atividade de células T em estudos.",
+            "Acúmulo de isoleucina dentro do tumor foi implicado em apoiar programas de células T.",
+            "Os resultados vêm de contextos de pesquisa controlados e requerem mais testes antes de aplicação clínica."
+          ]
+        },
+        "hu": {
+          "title": "A böjt egy anyagcsere‑ablakot nyit, amely kedvez az anti‑tumor immunitásnak",
+          "summary": "Chen és munkatársai által közölt kutatás azt jelzi, hogy a rövid távú böjt megváltoztatja a tumorok tápanyag‑elérhetőségét, többek között növeli az intratumorális izoleucin szintjét, ami úgy tűnik, hogy támogatja a CD8+ T‑sejtek effektor programját és javítja az immunkontrollgátlásra adott választ kísérleti körülmények között.",
+          "whyItMatters": "A tanulmány arra utal, hogy anyagcsere‑beavatkozások, például a böjt, átmenetileg át tudják alakítani a tumor mikrokörnyezetét oly módon, hogy az befolyásolja az immunsejtek működését. Ezek az eredmények koraiak és elsősorban mechanisztikus jellegűek.",
+          "takeaways": [
+            "A rövid távú böjt megváltoztatja a tumor tápanyag‑összetételét és tanulmányok szerint növelheti a T‑sejtek aktivitását.",
+            "Az intratumorális izoleucin felhalmozódása szerepet játszhatott a T‑sejt programok támogatásában.",
+            "Az eredmények kontrollált kutatási környezetből származnak, és további vizsgálatokat igényelnek, mielőtt klinikai alkalmazásról lehetne beszélni."
+          ]
+        },
+        "ar": {
+          "title": "الصيام يفتح نافذة أيضية تُفضل المناعة المضادة للأورام",
+          "summary": "تشير أبحاث قدمها تشن وزملاؤه إلى أن الصيام قصير المدى يغير توفر المغذيات داخل الأورام، بما في ذلك زيادة الإيزوليوسين داخل الورم، والذي يبدو أنه يدعم نشاط الخلايا التائية CD8+ الفاعل ويحسّن الاستجابة لمنع نقاط التفتيش المناعية في ظروف تجريبية.",
+          "whyItMatters": "تشير الدراسة إلى أن تدخلات أيضية مثل الصيام يمكنها إعادة تشكيل بيئة الورم بشكل عابر بطريقة تؤثر على وظيفة الخلايا المناعية. هذه النتائج مبكرة وبالأساس تفسيرية/ميكانيستية.",
+          "takeaways": [
+            "يغيّر الصيام قصير المدى مشهد المغذيات داخل الورم وقد يعزز نشاط الخلايا التائية في الدراسات.",
+            "تورُّم الإيزوليوسين داخل الورم أُشير إليه كمساهم في دعم برامج الخلايا التائية.",
+            "النتائج مأخوذة من بيئات بحث محكومة وتتطلب اختبارات إضافية قبل التطبيق السريري."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fasting-immunity-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fasting-immunity-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fasting-immunity-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Fasting opens a metabolic window that favors anti-tumor immunity.\nStory summary: Research reported by Chen and colleagues indicates short‑term fasting changes nutrient availability in tumors, including increased intratumoral isoleucine, which appears to support CD8+ T cell effector activity and improve responses to immune checkpoint blockade in experimental settings..\nCategory: Metabolism / Cancer research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ecm-senescence-2026",
+      "category": "Aging biology",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01127-w",
+      "sourceTitle": "The aging extracellular matrix as a missing link in senescent cell accumulation and persistence",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "The aging extracellular matrix as a missing link in senescent cell accumulation and persistence",
+          "summary": "This Nature Aging article outlines evidence that changes in the extracellular matrix (ECM) during aging can promote entry into and persistence of cellular senescence by affecting integrin signaling and mechanosensing, and proposes a self‑reinforcing circuit where senescent cells further remodel the ECM.",
+          "whyItMatters": "The hypothesis links tissue‑level mechanical and structural changes with cellular aging processes, offering a framework that could inform development of therapies targeting tissue niches as well as senescent cells themselves.",
+          "takeaways": [
+            "Aging ECM may create conditions that favor senescence through altered integrin and mechanical signaling.",
+            "Senescent cells can remodel the ECM, potentially amplifying dysfunctional tissue microenvironments.",
+            "This conceptual model may guide future research into tissue‑targeted anti‑aging strategies."
+          ]
+        },
+        "es": {
+          "title": "La matriz extracelular envejecida como vínculo faltante en la acumulación y persistencia de células senescentes",
+          "summary": "Este artículo en Nature Aging resume la evidencia de que los cambios en la matriz extracelular (MEC) durante el envejecimiento pueden promover la entrada y la persistencia de la senescencia celular al afectar la señalización por integrinas y la detección mecánica, y propone un circuito autorreforzante en el que las células senescentes remodelan a su vez la MEC.",
+          "whyItMatters": "La hipótesis enlaza cambios mecánicos y estructurales a nivel tisular con procesos de envejecimiento celular, ofreciendo un marco que podría informar el desarrollo de terapias dirigidas tanto a los nichos tisulares como a las propias células senescentes.",
+          "takeaways": [
+            "La MEC envejecida puede crear condiciones que favorecen la senescencia mediante alteraciones en la señalización de integrinas y la detección mecánica.",
+            "Las células senescentes pueden remodelar la MEC, potencialmente amplificando microambientes tisulares disfuncionales.",
+            "Este modelo conceptual puede guiar investigaciones futuras sobre estrategias anti‑edad dirigidas a tejidos."
+          ]
+        },
+        "ru": {
+          "title": "Стареющий внеклеточный матрикс как недостающая связь в накоплении и персистенции сенесцентных клеток",
+          "summary": "Статья в Nature Aging излагает данные о том, что изменения внеклеточного матрикса (ВКМ) при старении могут способствовать входу в состояние сенесценции и её персистенции, влияя на интегриновую сигнализацию и мехачувствительность, и предлагает самоподдерживающийся цикл, в котором сенесцентные клетки дополнительно ремоделируют ВКМ.",
+          "whyItMatters": "Гипотеза связывает механические и структурные изменения на уровне тканей с клеточными процессами старения, что даёт основу для разработки терапий, нацеленных как на тканевые ниши, так и на сами сенесцентные клетки.",
+          "takeaways": [
+            "Стареющий ВКМ может создавать условия, благоприятные для сенесценции, через изменение интегриновой сигнализации и механочувствительности.",
+            "Сенесцентные клетки способны ремоделировать ВКМ, потенциально усиливая дисфункциональные микросреды ткани.",
+            "Эта концептуальная модель может направить будущие исследования по тканево‑ориентированным антивозрастным стратегиям."
+          ]
+        },
+        "uk": {
+          "title": "Старіючий екстрацелюлярний матрикс як відсутнє ланка в накопиченні та персистуванні сенесцентних клітин",
+          "summary": "Стаття в Nature Aging окреслює докази того, що зміни в екстрацелюлярному матриксі (ECM) під час старіння можуть сприяти входженню в клітинну сенесценцію та її персистуванню шляхом впливу на інтегрин‑сигнування та механосприйняття, і пропонує самопідсилювальний контур, в якому сенесцентні клітини додатково ремоделюють ECM.",
+          "whyItMatters": "Гіпотеза пов’язує механічні та структурні зміни на рівні тканин із процесами клітинного старіння, пропонуючи рамку, яка може спрямувати розробку терапій, орієнтованих як на нішу тканини, так і на самі сенесцентні клітини.",
+          "takeaways": [
+            "Старіючий ECM може створювати умови, що сприяють сенесценції через змінене інтегрин‑ та механосигнування.",
+            "Сенесцентні клітини можуть ремоделювати ECM, потенційно посилюючи дисфункціональні мікросередовища тканин.",
+            "Ця концептуальна модель може спрямувати майбутні дослідження у бік тканинно‑орієнтованих антистаріючих стратегій."
+          ]
+        },
+        "fr": {
+          "title": "La matrice extracellulaire vieillissante comme lien manquant dans l’accumulation et la persistance des cellules sénescentes",
+          "summary": "Cet article de Nature Aging présente des preuves que les modifications de la matrice extracellulaire (MEC) au cours du vieillissement peuvent favoriser l’entrée en sénescence cellulaire et sa persistance en affectant le signalement des intégrines et la mécanotransduction, et propose un circuit auto‑renforçant où les cellules sénescentes remodèlent à leur tour la MEC.",
+          "whyItMatters": "L’hypothèse relie des changements mécaniques et structurels au niveau tissulaire aux processus du vieillissement cellulaire, offrant un cadre pouvant orienter le développement de thérapies ciblant les niches tissulaires ainsi que les cellules sénescentes elles‑mêmes.",
+          "takeaways": [
+            "La MEC vieillissante peut créer des conditions favorisant la sénescence via des altérations du signalement des intégrines et de la mécanique.",
+            "Les cellules sénescentes peuvent remodeler la MEC, amplifiant potentiellement des microenvironnements tissulaires dysfonctionnels.",
+            "Ce modèle conceptuel peut guider la recherche future sur des stratégies anti‑âge ciblant les tissus."
+          ]
+        },
+        "de": {
+          "title": "Die alternde extrazelluläre Matrix als fehlende Verbindung bei Akkumulation und Persistenz seneszenter Zellen",
+          "summary": "Dieser Artikel in Nature Aging fasst Hinweise zusammen, dass altersbedingte Veränderungen der extrazellulären Matrix (EZM) das Einsetzen und die Persistenz zellulärer Seneszenz fördern können, indem sie Integrin‑Signalwege und Mechanosensing beeinflussen, und schlägt einen sich selbst verstärkenden Kreislauf vor, in dem seneszente Zellen die EZM weiter umbauen.",
+          "whyItMatters": "Die Hypothese verknüpft mechanische und strukturelle Veränderungen auf Gewebeebene mit zellulären Alterungsprozessen und bietet einen Rahmen, der die Entwicklung von Therapien ins Zentrum stellen könnte, die Gewebenischen sowie seneszente Zellen adressieren.",
+          "takeaways": [
+            "Eine alternde EZM kann Bedingungen schaffen, die Seneszenz durch veränderte Integrin‑ und mechanische Signalwege begünstigen.",
+            "Seneszente Zellen können die EZM umgestalten und so dysfunktionale Gewebemikroumgebungen verstärken.",
+            "Dieses konzeptionelle Modell kann künftige Forschung zu gewebespezifischen Anti‑Alterungs‑Strategien leiten."
+          ]
+        },
+        "pt-br": {
+          "title": "A matriz extracelular envelhecida como elo ausente no acúmulo e persistência de células senescentes",
+          "summary": "Este artigo da Nature Aging descreve evidências de que mudanças na matriz extracelular (MEC) durante o envelhecimento podem favorecer a entrada em senescência celular e sua persistência ao afetar sinalização por integrinas e mecanossensoriamento, propondo um circuito autorreforçador em que células senescentes remodelam ainda mais a MEC.",
+          "whyItMatters": "A hipótese conecta mudanças mecânicas e estruturais ao nível dos tecidos com processos celulares de envelhecimento, oferecendo um quadro que pode orientar o desenvolvimento de terapias que visem nichos teciduais além das próprias células senescentes.",
+          "takeaways": [
+            "A MEC envelhecida pode criar condições que favorecem a senescência por meio de sinalização integrina e mecânica alterada.",
+            "Células senescentes podem remodelar a MEC, potencialmente amplificando microambientes teciduais disfuncionais.",
+            "Esse modelo conceitual pode orientar pesquisas futuras sobre estratégias anti‑envelhecimento dirigidas aos tecidos."
+          ]
+        },
+        "hu": {
+          "title": "Az öregedő extracelluláris mátrix, mint a seneszcens sejtek felhalmozódásának és fennmaradásának hiányzó láncszeme",
+          "summary": "A Nature Aging cikk összeveti azokat az bizonyítékokat, amelyek szerint az extracelluláris mátrix (ECM) öregedése elősegítheti a sejtes senescenciába való belépést és a seneszcens sejtek fennmaradását az integrin jelátvitel és a mechanoszenzoros folyamatok megváltoztatásával, és egy olyan önfelerősítő kört javasol, ahol a seneszcens sejtek tovább alakítják az ECM‑et.",
+          "whyItMatters": "A hipotézis összekapcsolja a szöveti szintű mechanikai és szerkezeti változásokat a sejtes öregedési folyamatokkal, és olyan keretet kínál, amely elősegítheti olyan terápiák kifejlesztését, amelyek a szöveti mikrokörnyezetet célozzák, valamint magukat a seneszcens sejteket.",
+          "takeaways": [
+            "Az öregedő ECM olyan körülményeket teremthet, amelyek elősegítik a senescenciát az integrin és mechanikai jelátviteli utak megváltoztatásával.",
+            "A seneszcens sejtek képesek az ECM átalakítására, ami potenciálisan felerősítheti a diszfunkcionális szöveti mikrokörnyezeteket.",
+            "Ez a koncepcionális modell irányt adhat a jövőbeni kutatásoknak a szöveti célzású anti‑öregedési stratégiák felé."
+          ]
+        },
+        "ar": {
+          "title": "المصفوفة خارج الخلوية المسنة كحلقة مفقودة في تراكم واستمرار الخلايا المسنة",
+          "summary": "تستعرض هذه المقالة في Nature Aging أدلة تفيد بأن التغيرات في المصفوفة خارج الخلوية (ECM) أثناء الشيخوخة يمكن أن تعزز الدخول إلى حالة الخلايا المسنة واستمرارها عبر التأثير على إشارات الإنتغرين والاستشعار الميكانيكي، وتقترح دائرة تقوية ذاتية حيث تقوم الخلايا المسنة بإعادة تشكيل الـ ECM.",
+          "whyItMatters": "تربط الفرضية التغيرات الميكانيكية والبنائية على مستوى النسيج مع العمليات الخلوية للشيخوخة، وتوفر إطارًا قد يوجّه تطوير علاجات تستهدف بيئات الأنسجة بالإضافة إلى الخلايا المسنة نفسها.",
+          "takeaways": [
+            "قد تخلق المصفوفة خارج الخلوية المسنة ظروفًا تُفضّل حدوث السننة عبر تغيّر إشارات الإنتغرين والاستشعار الميكانيكي.",
+            "يمكن للخلايا المسنة أن تعيد تشكيل الـ ECM، مما قد يضخم البيئات النسيجية المعطلة.",
+            "قد يوجّه هذا النموذج المفاهيمي البحوث المستقبلية نحو استراتيجيات مضادة للشيخوخة تستهدف الأنسجة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ecm-senescence-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ecm-senescence-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ecm-senescence-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: The aging extracellular matrix as a missing link in senescent cell accumulation and persistence.\nStory summary: This Nature Aging article outlines evidence that changes in the extracellular matrix (ECM) during aging can promote entry into and persistence of cellular senescence by affecting integrin signaling and mechanosensing, and proposes a self‑reinforcing circuit where senescent cells further remodel the ECM..\nCategory: Aging biology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tcf7l2-review-2026",
+      "category": "Genetics / Metabolic health",
+      "sourceName": "nutrition.bmj.com",
+      "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/8/2/664?rss=1",
+      "sourceTitle": "Association of the TCF7L2 rs7903146 variant with type 2 diabetes mellitus and related biomarkers: a systematic review",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Association of the TCF7L2 rs7903146 variant with type 2 diabetes mellitus and related biomarkers: a systematic review",
+          "summary": "A systematic review examines the relationship between the common TCF7L2 rs7903146 genetic variant and type 2 diabetes and related biomarkers, within the context of rising T2D prevalence in Asia and interactions among genetics, diet, and lifestyle.",
+          "whyItMatters": "Understanding genetic contributors to diabetes risk helps researchers parse how biology and environment combine to drive disease trends and may inform targeted research and prevention strategies.",
+          "takeaways": [
+            "TCF7L2 rs7903146 has been widely studied for links to T2D and metabolic biomarkers.",
+            "Genetic risk acts alongside dietary, lifestyle, and environmental factors in diabetes development.",
+            "Further research is needed to clarify how genetic findings translate across diverse populations."
+          ]
+        },
+        "es": {
+          "title": "Asociación de la variante TCF7L2 rs7903146 con diabetes tipo 2 y biomarcadores relacionados: una revisión sistemática",
+          "summary": "Una revisión sistemática examina la relación entre la variante genética común TCF7L2 rs7903146 y la diabetes tipo 2 y biomarcadores relacionados, en el contexto del aumento de la prevalencia de T2D en Asia y de las interacciones entre genética, dieta y estilo de vida.",
+          "whyItMatters": "Comprender los contribuyentes genéticos al riesgo de diabetes ayuda a los investigadores a desentrañar cómo la biología y el entorno se combinan para impulsar las tendencias de la enfermedad y puede informar la investigación dirigida y las estrategias de prevención.",
+          "takeaways": [
+            "La variante TCF7L2 rs7903146 ha sido ampliamente estudiada por su relación con la T2D y biomarcadores metabólicos.",
+            "El riesgo genético actúa junto con factores dietéticos, de estilo de vida y ambientales en el desarrollo de la diabetes.",
+            "Se necesita más investigación para aclarar cómo los hallazgos genéticos se traducen en distintas poblaciones."
+          ]
+        },
+        "ru": {
+          "title": "Ассоциация варианта TCF7L2 rs7903146 с сахарным диабетом 2 типа и связанными биомаркерами: систематический обзор",
+          "summary": "Систематический обзор исследует связь между распространённым генетическим вариантом TCF7L2 rs7903146 и сахарным диабетом 2 типа, а также связанными биомаркерами, в контексте роста распространённости СД2 в Азии и взаимодействий между генетикой, диетой и образом жизни.",
+          "whyItMatters": "Понимание генетических факторов риска диабета помогает исследователям понять, как биология и окружение взаимодействуют и вызывают тенденции заболевания, и может информировать целевые исследования и меры профилактики.",
+          "takeaways": [
+            "Вариант TCF7L2 rs7903146 широко изучался в связи с СД2 и метаболическими биомаркерами.",
+            "Генетический риск действует вместе с диетическими, поведенческими и экологическими факторами в развитии диабета.",
+            "Необходимы дополнительные исследования, чтобы прояснить переносимость генетических находок на разные популяции."
+          ]
+        },
+        "uk": {
+          "title": "Асоціація варіанту TCF7L2 rs7903146 із діабетом 2 типу та суміжними біомаркерами: систематичний огляд",
+          "summary": "Систематичний огляд досліджує зв’язок між поширеним генетичним варіантом TCF7L2 rs7903146 і діабетом 2 типу та пов’язаними біомаркерами, у контексті зростання поширеності T2D в Азії та взаємодій між генетикою, харчуванням і способом життя.",
+          "whyItMatters": "Розуміння генетичних чинників ризику діабету допомагає дослідникам розібратися, як біологія і довкілля поєднуються в розвитку хвороби, і може інформувати спрямовані дослідження та стратегії профілактики.",
+          "takeaways": [
+            "TCF7L2 rs7903146 широко вивчався на предмет зв’язків з T2D та метаболічними біомаркерами.",
+            "Генетичний ризик діє поряд із харчовими, поведінковими та екологічними факторами у розвитку діабету.",
+            "Потрібні подальші дослідження, щоб уточнити, як генетичні результати переносяться на різні популяції."
+          ]
+        },
+        "fr": {
+          "title": "Association du variant TCF7L2 rs7903146 avec le diabète de type 2 et des biomarqueurs associés : une revue systématique",
+          "summary": "Une revue systématique examine la relation entre le variant génétique courant TCF7L2 rs7903146 et le diabète de type 2 ainsi que des biomarqueurs associés, dans le contexte de l’augmentation de la prévalence du DT2 en Asie et des interactions entre génétique, alimentation et mode de vie.",
+          "whyItMatters": "Comprendre les contributions génétiques au risque de diabète aide les chercheurs à analyser comment la biologie et l’environnement se combinent pour favoriser la maladie et peut éclairer des recherches et stratégies de prévention ciblées.",
+          "takeaways": [
+            "TCF7L2 rs7903146 a été largement étudié pour ses liens avec le DT2 et des biomarqueurs métaboliques.",
+            "Le risque génétique agit aux côtés de facteurs alimentaires, de mode de vie et environnementaux dans le développement du diabète.",
+            "Des recherches supplémentaires sont nécessaires pour préciser la transférabilité des résultats génétiques entre diverses populations."
+          ]
+        },
+        "de": {
+          "title": "Zusammenhang der TCF7L2‑Variante rs7903146 mit Typ‑2‑Diabetes und zugehörigen Biomarkern: eine systematische Übersichtsarbeit",
+          "summary": "Eine systematische Übersichtsarbeit untersucht die Beziehung zwischen der häufigen genetischen Variante TCF7L2 rs7903146 und Typ‑2‑Diabetes sowie zugehörigen Biomarkern, vor dem Hintergrund der steigenden T2D‑Prävalenz in Asien und der Wechselwirkungen zwischen Genetik, Ernährung und Lebensstil.",
+          "whyItMatters": "Das Verständnis genetischer Beiträge zum Diabetesrisiko hilft Forschern zu klären, wie Biologie und Umwelt zusammenwirken, um Krankheitsmuster zu erzeugen, und kann zielgerichtete Forschung und Präventionsstrategien informieren.",
+          "takeaways": [
+            "TCF7L2 rs7903146 wurde umfangreich auf Zusammenhänge mit T2D und metabolischen Biomarkern untersucht.",
+            "Genetisches Risiko wirkt zusammen mit Ernährungs‑, Lebensstil‑ und Umweltfaktoren bei der Entwicklung von Diabetes.",
+            "Weitere Forschung ist nötig, um zu klären, wie genetische Befunde über verschiedene Populationen hinweg übersetzbar sind."
+          ]
+        },
+        "pt-br": {
+          "title": "Associação da variante TCF7L2 rs7903146 com diabetes tipo 2 e biomarcadores relacionados: uma revisão sistemática",
+          "summary": "Uma revisão sistemática examina a relação entre a variante genética comum TCF7L2 rs7903146 e diabetes tipo 2 e biomarcadores relacionados, no contexto do aumento da prevalência de T2D na Ásia e das interações entre genética, dieta e estilo de vida.",
+          "whyItMatters": "Compreender contribuições genéticas para o risco de diabetes ajuda pesquisadores a entender como biologia e ambiente se combinam para impulsionar tendências da doença e pode informar pesquisas direcionadas e estratégias de prevenção.",
+          "takeaways": [
+            "TCF7L2 rs7903146 tem sido amplamente estudada por suas ligações com T2D e biomarcadores metabólicos.",
+            "O risco genético atua juntamente com fatores dietéticos, de estilo de vida e ambientais no desenvolvimento do diabetes.",
+            "Mais pesquisas são necessárias para esclarecer como achados genéticos se traduzem entre populações diversas."
+          ]
+        },
+        "hu": {
+          "title": "A TCF7L2 rs7903146 variáns összefüggése a 2‑es típusú cukorbetegséggel és kapcsolódó biomarkerekkel: szisztematikus áttekintés",
+          "summary": "Egy szisztematikus áttekintés vizsgálja a gyakori TCF7L2 rs7903146 genetikai variáns és a 2‑es típusú cukorbetegség, valamint a kapcsolódó biomarkerek közötti kapcsolatot az Ázsiában növekvő T2D‑elterjedtség és a genetika, étrend és életmód kölcsönhatásainak kontextusában.",
+          "whyItMatters": "A cukorbetegség kockázatához hozzájáruló genetikai tényezők megértése segít a kutatóknak szétválasztani, hogyan járul hozzá a biológia és a környezet a betegség trendjeihez, és informálhatja a célzott kutatási és megelőzési stratégiákat.",
+          "takeaways": [
+            "A TCF7L2 rs7903146‑ot széles körben tanulmányozták a 2‑es típusú cukorbetegséghez és a metabolikus biomarkerekhez fűződő kapcsolatok miatt.",
+            "A genetikai kockázat az étrendi, életmódbeli és környezeti tényezőkkel együtt hat a cukorbetegség kialakulására.",
+            "További kutatások szükségesek annak tisztázására, hogyan érvényesülnek a genetikai eredmények különböző populációkban."
+          ]
+        },
+        "ar": {
+          "title": "الارتباط بين متغير TCF7L2 rs7903146 وداء السكري من النوع الثاني والعلامات البيولوجية ذات الصلة: مراجعة منهجية",
+          "summary": "تفحص مراجعة منهجية العلاقة بين المتغير الجيني الشائع TCF7L2 rs7903146 وداء السكري من النوع الثاني والعلامات البيولوجية ذات الصلة، في سياق ازدياد انتشار مرض السكري من النوع الثاني في آسيا وتفاعلات الجينات مع النظام الغذائي ونمط الحياة.",
+          "whyItMatters": "يساعد فهم المساهمات الجينية في خطر السكري الباحثين على تفكيك كيفية تضافر العوامل البيولوجية والبيئية في دفع اتجاهات المرض، وقد يوجّه أبحاثًا واستراتيجيات وقائية مستهدفة.",
+          "takeaways": [
+            "تمت دراسة TCF7L2 rs7903146 على نطاق واسع فيما يتعلق بالروابط مع مرض السكري من النوع الثاني والمؤشرات الأيضية.",
+            "تعمل المخاطر الجينية جنبًا إلى جنب مع العوامل الغذائية ونمط الحياة والبيئية في تطور السكري.",
+            "هناك حاجة إلى مزيد من البحث لتوضيح كيفية ترجمة النتائج الجينية عبر مجموعات سكانية متنوعة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tcf7l2-review-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tcf7l2-review-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tcf7l2-review-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Association of the TCF7L2 rs7903146 variant with type 2 diabetes mellitus and related biomarkers: a systematic review.\nStory summary: A systematic review examines the relationship between the common TCF7L2 rs7903146 genetic variant and type 2 diabetes and related biomarkers, within the context of rising T2D prevalence in Asia and interactions among genetics, diet, and lifestyle..\nCategory: Genetics / Metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "bharat-2026",
+      "category": "Aging / Research",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260508/The-BHARAT-study-Indiae28099s-first-large-scale-search-for-aging-biomarkers.aspx",
+      "sourceTitle": "The BHARAT study: India’s first large-scale search for aging biomarkers",
+      "publishedAt": "Fri, 08 May 2026 02:43:05 -0400",
+      "languages": {
+        "en": {
+          "title": "The BHARAT study: India’s first large-scale search for aging biomarkers",
+          "summary": "A paper published in Aging‑US describes the BHARAT study, a multi‑modal, multi‑omics effort to identify aging signatures in an Indian cohort. The project applies multiple molecular and physiological measures to search for biomarkers linked to aging in a population that has been underrepresented in biomarker research.",
+          "whyItMatters": "Large, diverse biomarker studies can improve understanding of aging across populations and help ensure discoveries are applicable beyond Western cohorts. This is a first major effort focused on the Indian population.",
+          "takeaways": [
+            "BHARAT uses multi‑omics and other measurement methods to profile aging signatures.",
+            "The study addresses a geographic and population gap in aging biomarker research.",
+            "Findings could guide future studies and help develop population‑relevant biomarkers, but validation will be needed."
+          ]
+        },
+        "es": {
+          "title": "El estudio BHARAT: la primera búsqueda a gran escala de biomarcadores del envejecimiento en India",
+          "summary": "Un artículo publicado en Aging‑US describe el estudio BHARAT, un esfuerzo multimodal y multi-ómico para identificar firmas de envejecimiento en una cohorte india. El proyecto aplica múltiples medidas moleculares y fisiológicas para buscar biomarcadores vinculados al envejecimiento en una población que ha estado poco representada en la investigación de biomarcadores.",
+          "whyItMatters": "Los estudios de biomarcadores grandes y diversos pueden mejorar la comprensión del envejecimiento entre distintas poblaciones y ayudar a garantizar que los hallazgos sean aplicables más allá de cohortes occidentales. Este es el primer esfuerzo importante centrado en la población india.",
+          "takeaways": [
+            "BHARAT emplea enfoques multi-ómicos y otros métodos de medición para perfilar firmas de envejecimiento.",
+            "El estudio aborda una brecha geográfica y poblacional en la investigación de biomarcadores del envejecimiento.",
+            "Los hallazgos podrían orientar estudios futuros y ayudar a desarrollar biomarcadores relevantes para la población, pero será necesaria su validación."
+          ]
+        },
+        "ru": {
+          "title": "Исследование BHARAT: первый в Индии масштабный поиск биомаркеров старения",
+          "summary": "Статья в Aging‑US описывает исследование BHARAT — мультимодальный и мульти‑омический проект по выявлению сигнатур старения в индийской когорте. Проект применяет различные молекулярные и физиологические измерения для поиска биомаркеров, связанных со старением, в популяции, которая ранее была мало представлена в исследованиях биомаркеров.",
+          "whyItMatters": "Крупные и разнообразные исследования биомаркеров могут улучшить понимание процессов старения в разных популяциях и помочь сделать открытия применимыми за пределами западных когорт. Это первая крупная работа, сосредоточенная на населении Индии.",
+          "takeaways": [
+            "BHARAT использует мульти‑омные и другие методы измерений для профилирования сигнатур старения.",
+            "Исследование восполняет географический и популяционный пробел в исследованиях биомаркеров старения.",
+            "Результаты могут направить будущие исследования и помочь в разработке релевантных для популяции биомаркеров, но потребуется их валидация."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження BHARAT: перший в Індії масштабний пошук біомаркерів старіння",
+          "summary": "У статті в Aging‑US описано дослідження BHARAT — багатомодальний, мультиомічний проєкт з виявлення підписів старіння в індійській когорті. Проєкт застосовує кілька молекулярних та фізіологічних вимірювань, щоб шукати біомаркери, пов’язані зі старінням, у популяції, яка була недостатньо представлена в дослідженнях біомаркерів.",
+          "whyItMatters": "Великі й різноманітні дослідження біомаркерів можуть покращити розуміння процесів старіння в різних популяціях і допомогти зробити відкриття застосовними за межами західних когорт. Це перша велика ініціатива, сфокусована на індійському населенні.",
+          "takeaways": [
+            "BHARAT використовує мультиоміку та інші методи вимірювань для профілювання підписів старіння.",
+            "Дослідження заповнює географічну та популяційну прогалину в дослідженнях біомаркерів старіння.",
+            "Результати можуть сприяти майбутнім дослідженням і допомогти розробити біомаркери, релевантні для конкретних популяцій, але їх потрібно буде підтвердити."
+          ]
+        },
+        "fr": {
+          "title": "L'étude BHARAT : la première grande recherche indienne sur les biomarqueurs du vieillissement",
+          "summary": "Un article publié dans Aging‑US décrit l'étude BHARAT, un projet multimodal et multi‑omique visant à identifier des signatures du vieillissement dans une cohorte indienne. Le projet applique plusieurs mesures moléculaires et physiologiques pour rechercher des biomarqueurs liés au vieillissement dans une population sous‑représentée dans la recherche sur les biomarqueurs.",
+          "whyItMatters": "De vastes études de biomarqueurs menées sur des populations diversifiées peuvent améliorer la compréhension du vieillissement à l’échelle des populations et aider à garantir que les découvertes s’appliquent au‑delà des cohortes occidentales. Il s’agit du premier effort majeur centré sur la population indienne.",
+          "takeaways": [
+            "BHARAT utilise la multi‑omique et d’autres méthodes de mesure pour profiler les signatures du vieillissement.",
+            "L’étude comble une lacune géographique et populationnelle dans la recherche sur les biomarqueurs du vieillissement.",
+            "Les résultats pourraient orienter de futurs travaux et aider à développer des biomarqueurs adaptés aux populations, mais une validation sera nécessaire."
+          ]
+        },
+        "de": {
+          "title": "Die BHARAT‑Studie: Indiens erste großangelegte Suche nach Biomarkern des Alterns",
+          "summary": "Ein in Aging‑US veröffentlichter Artikel beschreibt die BHARAT‑Studie, einen multimodalen, multi‑omics Ansatz zur Identifikation von Alterns‑Signaturen in einer indischen Kohorte. Das Projekt kombiniert verschiedene molekulare und physiologische Messungen, um nach Biomarkern zu suchen, die mit dem Altern in einer bislang unterrepräsentierten Population verknüpft sind.",
+          "whyItMatters": "Große, vielfältige Biomarkerstudien können das Verständnis des Alterns über verschiedene Populationen hinweg verbessern und dazu beitragen, dass Entdeckungen nicht nur auf westeuropäische Kohorten beschränkt sind. Dies ist der erste größere Versuch mit Schwerpunkt auf der indischen Bevölkerung.",
+          "takeaways": [
+            "BHARAT nutzt Multi‑omics und weitere Messmethoden, um Alterns‑Signaturen zu erfassen.",
+            "Die Studie schließt eine geografische und populationsbezogene Lücke in der Biomarkerforschung zum Altern.",
+            "Ergebnisse könnten künftige Studien leiten und helfen, populationsrelevante Biomarker zu entwickeln, erfordern aber Validierung."
+          ]
+        },
+        "pt-br": {
+          "title": "O estudo BHARAT: a primeira busca em grande escala por biomarcadores de envelhecimento na Índia",
+          "summary": "Um artigo publicado em Aging‑US descreve o estudo BHARAT, uma iniciativa multimodal e multi‑ômica para identificar assinaturas de envelhecimento em uma coorte indiana. O projeto aplica múltiplas medidas moleculares e fisiológicas para procurar biomarcadores relacionados ao envelhecimento em uma população até agora subrepresentada em pesquisas desse tipo.",
+          "whyItMatters": "Estudos de biomarcadores grandes e diversificados podem melhorar a compreensão do envelhecimento entre diferentes populações e ajudar a garantir que descobertas não se apliquem apenas a coortes ocidentais. Este é o primeiro esforço importante focado na população indiana.",
+          "takeaways": [
+            "O BHARAT usa abordagens multi‑ômicas e outros métodos de medição para mapear assinaturas de envelhecimento.",
+            "O estudo aborda uma lacuna geográfica e populacional na pesquisa de biomarcadores do envelhecimento.",
+            "As descobertas podem orientar estudos futuros e ajudar a desenvolver biomarcadores relevantes para a população, mas precisarão ser validadas."
+          ]
+        },
+        "hu": {
+          "title": "A BHARAT‑tanulmány: India első nagyszabású keresése az öregedés biomarkereire",
+          "summary": "Az Aging‑US folyóiratban megjelent tanulmány a BHARAT‑vizsgálatot írja le, egy többmódusú, több‑omics megközelítésű erőfeszítést, amelynek célja az öregedésre jellemző mintázatok azonosítása egy indiai kohorszban. A projekt több molekuláris és fiziológiai mérőszámot alkalmaz, hogy olyan biomarkereket keressen, amelyek az öregedéssel kapcsolatosak egy, a biomarker‑kutatásban alulreprezentált populációban.",
+          "whyItMatters": "A nagyméretű, sokszínű biomarker‑vizsgálatok javíthatják az öregedésről alkotott képünket különböző populációkban, és segíthetnek abban, hogy a felfedezések ne csak nyugati kohorszokra legyenek alkalmazhatók. Ez az első jelentősebb erőfeszítés, amely kifejezetten az indiai populációra fókuszál.",
+          "takeaways": [
+            "A BHARAT több‑omics és egyéb mérési módszereket használ az öregedési aláírások profilozására.",
+            "A vizsgálat egy földrajzi és populációs hiányosságot céloz meg az öregedés biomarker‑kutatásában.",
+            "Az eredmények irányt mutathatnak a jövőbeli kutatásoknak és segíthetik a populációra releváns biomarkerek fejlesztését, de validálásra lesz szükség."
+          ]
+        },
+        "ar": {
+          "title": "دراسة BHARAT: أول بحث واسع النطاق في الهند عن مؤشرات الشيخوخة",
+          "summary": "تصف ورقة نُشرت في Aging‑US دراسة BHARAT، وهو جهد متعدد الوسائط ومتعدد‑الأوميكس يهدف إلى تحديد بصمات الشيخوخة في عينة هندية. يطبّق المشروع مقاييس جزيئية وفسيولوجية متعددة للبحث عن مؤشرات حيوية مرتبطة بالشيخوخة في مجموعة سكانية كانت ممثلة بشكل ضعيف في أبحاث المؤشرات الحيوية.",
+          "whyItMatters": "يمكن للدراسات الكبيرة والمتنوعة عن المؤشرات الحيوية أن تحسّن فهمنا للشيخوخة عبر مجموعات سكانية مختلفة وتساعد في ضمان أن تكون النتائج قابلة للتطبيق خارج العينات الغربية. هذه محاولة رئيسية أولى تركز على السكان الهنود.",
+          "takeaways": [
+            "تستخدم BHARAT نهجًا متعدد‑الأوميكس وطرق قياس أخرى لتوصيف بصمات الشيخوخة.",
+            "تتعامل الدراسة مع فجوة جغرافية وسكانية في أبحاث مؤشرات الشيخوخة.",
+            "قد ترشد النتائج الدراسات المستقبلية وتساعد في تطوير مؤشرات حيوية ملائمة للسكان، لكن سيكون من الضروري التحقق منها."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bharat-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bharat-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bharat-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: The BHARAT study: India’s first large-scale search for aging biomarkers.\nStory summary: A paper published in Aging‑US describes the BHARAT study, a multi‑modal, multi‑omics effort to identify aging signatures in an Indian cohort. The project applies multiple molecular and physiological measures to search for biomarkers linked to aging in a population that has been underrepresented in biomarker research..\nCategory: Aging / Research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "coral-microbes-2026",
+      "category": "Biotech / Natural products",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
+      "sourceTitle": "What scientists found inside coral reefs could change the future of medicine",
+      "publishedAt": "Fri, 08 May 2026 00:10:10 EDT",
+      "languages": {
+        "en": {
+          "title": "What scientists found inside coral reefs could change the future of medicine",
+          "summary": "Researchers report that individual coral species host distinct microbial communities, many previously unstudied, which produce a wide array of chemical compounds. Those chemicals are of interest for potential applications in medicine and biotechnology.",
+          "whyItMatters": "Coral‑associated microbes are a potential source of novel bioactive molecules. Loss of reef biodiversity could mean losing unique microbial chemistry that might inform future therapies or biotechnologies.",
+          "takeaways": [
+            "Each coral species appears to support its own specialized microbes.",
+            "Many of these microbes and their compounds are not yet characterized.",
+            "Protecting reefs preserves both ecological value and potential scientific resources."
+          ]
+        },
+        "es": {
+          "title": "Lo que encontraron los científicos dentro de los arrecifes de coral podría cambiar el futuro de la medicina",
+          "summary": "Investigadores informan que especies individuales de coral albergan comunidades microbianas distintas, muchas no estudiadas previamente, que producen una amplia variedad de compuestos químicos. Esos compuestos son de interés para posibles aplicaciones en medicina y biotecnología.",
+          "whyItMatters": "Los microbios asociados a corales son una fuente potencial de moléculas bioactivas novedosas. La pérdida de biodiversidad de los arrecifes podría implicar la pérdida de química microbiana única que podría informar terapias o biotecnologías futuras.",
+          "takeaways": [
+            "Cada especie de coral parece sostener comunidades microbianas especializadas.",
+            "Muchos de estos microbios y sus compuestos aún no están caracterizados.",
+            "Proteger los arrecifes conserva tanto el valor ecológico como recursos científicos potenciales."
+          ]
+        },
+        "ru": {
+          "title": "То, что учёные нашли внутри коралловых рифов, может изменить будущее медицины",
+          "summary": "Исследователи сообщают, что отдельные виды кораллов содержат отличающиеся микробные сообщества, многие из которых ранее не изучались, и которые производят широкий спектр химических соединений. Эти соединения представляют интерес для потенциальных применений в медицине и биотехнологии.",
+          "whyItMatters": "Микробы, связанные с кораллами, могут быть источником новых биоактивных молекул. Утрата биоразнообразия рифов может означать утрату уникальной микробной химии, которая могла бы быть полезна для будущих терапий или биотехнологий.",
+          "takeaways": [
+            "Каждый вид коралла, по-видимому, поддерживает собственные специализированные микробы.",
+            "Многие из этих микробов и их соединений ещё не охарактеризованы.",
+            "Защита рифов сохраняет как экологическую ценность, так и потенциальные научные ресурсы."
+          ]
+        },
+        "uk": {
+          "title": "Те, що вчені знайшли в коралових рифах, може змінити майбутнє медицини",
+          "summary": "Дослідники повідомляють, що окремі види коралів мають відмінні мікробні спільноти, багато з яких раніше не вивчалися, і які продукують широкий спектр хімічних сполук. Ці хімікати становлять інтерес для потенційних застосувань у медицині та біотехнологіях.",
+          "whyItMatters": "Мікроби, пов’язані з коралами, є потенційним джерелом нових біоактивних молекул. Втрата біорізноманіття рифів може позбавити нас унікальної мікробної хімії, що могла б інформувати майбутні терапії чи біотехнології.",
+          "takeaways": [
+            "Кожен вид коралу, здається, підтримує власні спеціалізовані мікроби.",
+            "Багато з цих мікробів та їх сполук ще не охарактеризовані.",
+            "Захист рифів зберігає як екологічну цінність, так і потенційні наукові ресурси."
+          ]
+        },
+        "fr": {
+          "title": "Ce que les scientifiques ont trouvé dans les récifs coralliens pourrait changer l’avenir de la médecine",
+          "summary": "Des chercheurs rapportent que des espèces de coraux individuelles hébergent des communautés microbiennes distinctes, dont beaucoup n’avaient pas été étudiées, et qui produisent une grande diversité de composés chimiques. Ces substances suscitent l’intérêt pour d’éventuelles applications en médecine et en biotechnologie.",
+          "whyItMatters": "Les microbes associés aux coraux constituent une source potentielle de nouvelles molécules bioactives. La perte de biodiversité des récifs pourrait signifier la disparition de chimies microbiennes uniques susceptibles d’informer de futures approches thérapeutiques ou biotechnologiques.",
+          "takeaways": [
+            "Chaque espèce de corail semble soutenir ses propres microbes spécialisés.",
+            "Beaucoup de ces microbes et de leurs composés ne sont pas encore caractérisés.",
+            "Protéger les récifs préserve à la fois la valeur écologique et des ressources scientifiques potentielles."
+          ]
+        },
+        "de": {
+          "title": "Was Forscher in Korallenriffen fanden, könnte die Zukunft der Medizin verändern",
+          "summary": "Forscher berichten, dass einzelne Korallenarten jeweils charakteristische mikrobiologische Gemeinschaften beherbergen, viele davon bislang nicht untersucht, die eine breite Palette chemischer Verbindungen produzieren. Diese Substanzen sind für mögliche Anwendungen in Medizin und Biotechnologie von Interesse.",
+          "whyItMatters": "Mit Korallen assoziierte Mikroben sind eine potenzielle Quelle neuartiger bioaktiver Moleküle. Der Verlust an Riff‑Biodiversität könnte den Verlust einzigartiger mikrobieller Chemie bedeuten, die für künftige Therapien oder Biotechnologien relevant sein könnte.",
+          "takeaways": [
+            "Jede Korallenart scheint spezialisierte Mikrobengemeinschaften zu unterstützen.",
+            "Viele dieser Mikroben und ihre Verbindungen sind noch nicht charakterisiert.",
+            "Der Schutz von Riffen bewahrt sowohl ökologischen Wert als auch potenzielle wissenschaftliche Ressourcen."
+          ]
+        },
+        "pt-br": {
+          "title": "O que cientistas encontraram em recifes de corais pode mudar o futuro da medicina",
+          "summary": "Pesquisadores relatam que espécies individuais de coral abrigam comunidades microbianas distintas, muitas até então não estudadas, que produzem uma ampla variedade de compostos químicos. Esses químicos interessam por suas potenciais aplicações na medicina e na biotecnologia.",
+          "whyItMatters": "Microorganismos associados a corais são uma fonte potencial de moléculas bioativas novas. A perda da biodiversidade de recifes pode significar a perda de química microbiana única que poderia informar terapias ou biotecnologias futuras.",
+          "takeaways": [
+            "Cada espécie de coral parece sustentar seus próprios micróbios especializados.",
+            "Muitos desses micróbios e seus compostos ainda não foram caracterizados.",
+            "Proteger os recifes preserva tanto o valor ecológico quanto potenciais recursos científicos."
+          ]
+        },
+        "hu": {
+          "title": "Amit a kutatók a korallzátonyokban találtak, megváltoztathatja az orvoslás jövőjét",
+          "summary": "A kutatók arról számolnak be, hogy az egyes korallfajok jellegzetes mikrobaközösségeket hordoznak, sok közülük korábban nem volt tanulmányozva, és ezek számos kémiai vegyületet termelnek. Ezek a vegyületek érdeklődésre tarthatnak számot az orvoslás és a biotechnológia lehetséges alkalmazásai szempontjából.",
+          "whyItMatters": "A korallokhoz kapcsolódó mikroorganizmusok potenciális forrást jelenthetnek új bioaktív molekulákhoz. A zátonyok biodiverzitásának csökkenése olyan egyedi mikrobiológiai kémia elvesztését jelentheti, amely később terápiákhoz vagy biotechnológiákhoz adhatna támpontot.",
+          "takeaways": [
+            "Úgy tűnik, hogy minden korallfaj saját, specializált mikrobáit támogatja.",
+            "E közösségek és vegyületeik nagy része még jellemzetlen.",
+            "A zátonyok védelme megőrzi mind az ökológiai értéket, mind a lehetséges tudományos forrásokat."
+          ]
+        },
+        "ar": {
+          "title": "ما وجده العلماء داخل الشعاب المرجانية قد يغير مستقبل الطب",
+          "summary": "يُبلغ الباحثون أن كل نوعٍ من المرجان يستضيف مجتمعات ميكروبية مميزة، العديد منها لم تُدرس سابقًا، وهذه الميكروبات تنتج مجموعة واسعة من المركبات الكيميائية. تثير هذه المركبات اهتمامًا لإمكانات تطبيقها في الطب والبيوتكنولوجيا.",
+          "whyItMatters": "تُعد الميكروبات المرتبطة بالشعاب مصدرًا محتملاً لجزيئات بيو‑نشطة جديدة. قد يعني فقدان تنوع الشعاب ضياع كيمياء ميكروبية فريدة قد تُفيد في تطوير علاجات أو تقنيات بيو‑تكنولوجية مستقبلية.",
+          "takeaways": [
+            "يبدو أن كل نوع من أنواع المرجان يدعم ميكروبات متخصصة خاصة به.",
+            "العديد من هذه الميكروبات ومركباتها لم تُوصَف بعد.",
+            "حماية الشعاب تحافظ على القيمة البيئية وعلى موارد علمية محتملة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=coral-microbes-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coral-microbes-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/coral-microbes-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: What scientists found inside coral reefs could change the future of medicine.\nStory summary: Researchers report that individual coral species host distinct microbial communities, many previously unstudied, which produce a wide array of chemical compounds. Those chemicals are of interest for potential applications in medicine and biotechnology..\nCategory: Biotech / Natural products.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "glp1-teens-case-2026",
+      "category": "Metabolic health / Clinical report",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/endocrinology/type1diabetes/121164",
+      "sourceTitle": "Teens With T1D, Obesity Reaped Benefits of GLP-1s, Case Studies Suggest",
+      "publishedAt": "Fri, 08 May 2026 00:01:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Teens With T1D, Obesity Reaped Benefits of GLP-1s, Case Studies Suggest",
+          "summary": "A small case series describes two adolescents with type 1 diabetes and obesity who experienced metabolic improvements after adding low‑dose injectable semaglutide to lifestyle measures, with outcomes reported at one year.",
+          "whyItMatters": "GLP‑1 receptor agonists are widely used for obesity and type 2 diabetes; reports in insulin‑dependent teens highlight possible effects in a different clinical group but are preliminary and limited to case observations.",
+          "takeaways": [
+            "The report covers only two patients and cannot establish safety or effectiveness broadly.",
+            "Improvements were observed after adding low‑dose semaglutide alongside lifestyle measures.",
+            "Controlled studies are needed before drawing conclusions about routine use in this population."
+          ]
+        },
+        "es": {
+          "title": "Casos sugieren que adolescentes con diabetes tipo 1 y obesidad se beneficiaron de agonistas GLP‑1",
+          "summary": "Una pequeña serie de casos describe a dos adolescentes con diabetes tipo 1 y obesidad que experimentaron mejoras metabólicas tras añadir semaglutida inyectable de baja dosis a medidas de estilo de vida, con resultados informados a un año.",
+          "whyItMatters": "Los agonistas del receptor GLP‑1 se usan de forma generalizada para la obesidad y la diabetes tipo 2; los informes en adolescentes dependientes de insulina resaltan efectos posibles en un grupo clínico distinto pero son preliminares y limitados a observaciones de casos.",
+          "takeaways": [
+            "El informe cubre solo a dos pacientes y no puede establecer seguridad o eficacia de forma general.",
+            "Se observaron mejoras después de añadir semaglutida de baja dosis junto con medidas de estilo de vida.",
+            "Se necesitan estudios controlados antes de sacar conclusiones sobre su uso rutinario en esta población."
+          ]
+        },
+        "ru": {
+          "title": "Кейсы показывают, что подростки с СД1 и ожирением получили пользу от препаратов GLP‑1",
+          "summary": "Небольшая серия случаев описывает двух подростков с сахарным диабетом 1 типа и ожирением, у которых наблюдались метаболические улучшения после добавления низкодозной инъекционной семаглутида к мерам по образу жизни; результаты представлены за один год наблюдения.",
+          "whyItMatters": "Агонисты рецептора GLP‑1 широко используются при ожирении и сахарном диабете 2 типа; сообщения о применении у подростков, зависящих от инсулина, показывают возможные эффекты в другой клинической группе, но они предварительны и ограничены наблюдениями в отдельных случаях.",
+          "takeaways": [
+            "В отчёте рассматриваются лишь два пациента, поэтому нельзя делать выводы о безопасности или эффективности в целом.",
+            "Улучшения были отмечены после добавления низкодозной семаглутиды вместе с изменениями образа жизни.",
+            "Необходимы контролируемые исследования, прежде чем делать выводы о рутинном применении в этой популяции."
+          ]
+        },
+        "uk": {
+          "title": "Кейс‑серія: підлітки з ЦД1 та ожирінням отримали користь від GLP‑1",
+          "summary": "Невелика серія клінічних випадків описує двох підлітків із цукровим діабетом 1‑го типу та ожирінням, які зазнали метаболічних покращень після додавання низької дози ін’єкційного семаглютиду до змін способу життя, з результатами, описаними через рік.",
+          "whyItMatters": "Агоністи рецептора GLP‑1 широко використовуються при ожирінні та діабеті 2‑го типу; повідомлення про ефекти у підлітків з інсулінозалежним діабетом підкреслюють можливі наслідки в іншій клінічній групі, але це попередні спостереження, обмежені окремими випадками.",
+          "takeaways": [
+            "Звіт охоплює лише двох пацієнтів і не може встановити загальну безпеку чи ефективність.",
+            "Покращення спостерігалися після додавання низької дози семаглютиду поряд зі змінами способу життя.",
+            "Потрібні контрольовані дослідження, перш ніж робити висновки про рутинне застосування в цій групі."
+          ]
+        },
+        "fr": {
+          "title": "Des cas suggèrent des bénéfices des agonistes GLP‑1 chez des adolescents atteints de DT1 et d’obésité",
+          "summary": "Une petite série de cas décrit deux adolescents atteints de diabète de type 1 et d’obésité qui ont présenté des améliorations métaboliques après l’ajout d’une faible dose de sémaglutide injectable aux mesures de mode de vie, avec des résultats rapportés à un an.",
+          "whyItMatters": "Les agonistes du récepteur GLP‑1 sont largement utilisés pour l’obésité et le diabète de type 2 ; des rapports chez des adolescents dépendants de l’insuline mettent en lumière des effets possibles dans un groupe clinique différent, mais il s’agit d’observations préliminaires et limitées à des cas.",
+          "takeaways": [
+            "Le rapport porte sur seulement deux patients et ne peut établir la sécurité ou l’efficacité à grande échelle.",
+            "Des améliorations ont été observées après l’ajout d’une faible dose de sémaglutide en complément des modifications du mode de vie.",
+            "Des études contrôlées sont nécessaires avant de tirer des conclusions sur une utilisation systématique dans cette population."
+          ]
+        },
+        "de": {
+          "title": "Teenager mit Typ‑1‑Diabetes und Adipositas profitierten von GLP‑1‑Medikamenten, Fallberichte deuten darauf hin",
+          "summary": "Eine kleine Fallserie beschreibt zwei Jugendliche mit Typ‑1‑Diabetes und Adipositas, die ein Jahr nach Ergänzung zu Lebensstilmaßnahmen mit niedrig dosiertem injizierbarem Semaglutid metabolische Verbesserungen zeigten.",
+          "whyItMatters": "GLP‑1‑Rezeptoragonisten werden häufig bei Adipositas und Typ‑2‑Diabetes eingesetzt; Berichte über insulinpflichtige Jugendliche zeigen mögliche Effekte in einer anderen klinischen Gruppe, sind jedoch vorläufig und beruhen nur auf Einzelfallbeobachtungen.",
+          "takeaways": [
+            "Der Bericht umfasst nur zwei Patienten und kann weder Sicherheit noch Wirksamkeit allgemein belegen.",
+            "Nach Ergänzung mit niedrig dosiertem Semaglutid zusammen mit Lebensstilmaßnahmen wurden Verbesserungen beobachtet.",
+            "Kontrollierte Studien sind erforderlich, bevor Schlussfolgerungen über den routinemäßigen Einsatz in dieser Population gezogen werden können."
+          ]
+        },
+        "pt-br": {
+          "title": "Adolescentes com DM1 e obesidade apresentaram benefícios com GLP‑1s, sugerem estudos de caso",
+          "summary": "Uma pequena série de casos descreve dois adolescentes com diabetes tipo 1 e obesidade que apresentaram melhora metabólica um ano após acrescentar semaglutida injetável em baixa dose às medidas de estilo de vida.",
+          "whyItMatters": "Agonistas do receptor GLP‑1 são amplamente usados para obesidade e diabetes tipo 2; relatos em adolescentes dependentes de insulina apontam possíveis efeitos em um grupo clínico diferente, mas são preliminares e limitados a observações de casos.",
+          "takeaways": [
+            "O relato inclui apenas dois pacientes e não pode estabelecer segurança ou eficácia de forma ampla.",
+            "Melhorias foram observadas após a adição de semaglutida em baixa dose juntamente com medidas de estilo de vida.",
+            "São necessários estudos controlados antes de tirar conclusões sobre o uso rotineiro nessa população."
+          ]
+        },
+        "hu": {
+          "title": "Esettanulmányok szerint előnyöket hoztak a GLP‑1 készítmények T1D‑s, elhízott serdülőknek",
+          "summary": "Egy kis esetsor két, 1‑es típusú cukorbetegségben és elhízásban szenvedő serdülőről számol be, akik metabolikus javulást tapasztaltak miután az életmódbeli intézkedésekhez alacsony dózisú, injekciós semaglutidot adtak; az eredményeket egyéves követéssel jelentették.",
+          "whyItMatters": "A GLP‑1 receptor agonisták széles körben használatosak elhízás és 2‑es típusú cukorbetegség kezelésére; a beszámolók inzulinfüggő serdülőkben tapasztalt hatásokról egy másik klinikai csoportban lehetséges hatásokat jeleznek, de ezek előzetiek és csupán eseti megfigyeléseken alapulnak.",
+          "takeaways": [
+            "A jelentés csak két beteget tárgyal, ezért nem alapoz meg általános biztonsági vagy hatékonysági következtetéseket.",
+            "Javulások figyelhetők meg az alacsony dózisú semaglutid életmódbeli intézkedésekkel kombinált alkalmazása után.",
+            "Kontrollált vizsgálatok szükségesek, mielőtt következtetéseket vonnánk le a rutinszerű alkalmazásról ebben a populációban."
+          ]
+        },
+        "ar": {
+          "title": "دراسات حالة تشير إلى فوائد أدوية GLP‑1 لمراهقين مصابين بداء السكري النمط الأول والسمنة",
+          "summary": "تصف سلسلة حالات صغيرة مريضين مراهقين يعانيان من داء السكري من النوع الأول والسمنة، واللذان سجلا تحسّنًا في المؤشرات الأيضية بعد إضافة سيمياغلوتيد قابل للحقن بجرعة منخفضة إلى إجراءات تعديل نمط الحياة، مع نتائج مُبلغ عنها بعد عام.",
+          "whyItMatters": "تُستخدم ناهضات مستقبل GLP‑1 على نطاق واسع لعلاج السمنة ومرض السكري من النوع الثاني؛ وتبرز هذه التقارير التأثيرات المحتملة في مجموعة سريرية مختلفة (المراهقون المعتمدون على الأنسولين)، لكنها أولية ومحدودة بالملاحظات الحالة‑بحالة.",
+          "takeaways": [
+            "التقرير يغطي مريضين فقط ولا يمكنه إثبات السلامة أو الفعالية على نطاق واسع.",
+            "لوحظت تحسّنات بعد إضافة سيمياغلوتيد بجرعة منخفضة إلى إجراءات تعديل نمط الحياة.",
+            "هناك حاجة إلى دراسات محكمة قبل استخلاص استنتاجات حول الاستخدام الروتيني في هذه الفئة السكانية."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glp1-teens-case-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1-teens-case-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1-teens-case-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Teens With T1D, Obesity Reaped Benefits of GLP-1s, Case Studies Suggest.\nStory summary: A small case series describes two adolescents with type 1 diabetes and obesity who experienced metabolic improvements after adding low‑dose injectable semaglutide to lifestyle measures, with outcomes reported at one year..\nCategory: Metabolic health / Clinical report.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "muscle-stroke-risk-2026",
+      "category": "Aging / Neurology",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-muscle-loss-weak-pace-linked.html",
+      "sourceTitle": "Muscle loss, weak grip and slow walking pace linked to higher stroke risk",
+      "publishedAt": "Thu, 07 May 2026 23:20:02 EDT",
+      "languages": {
+        "en": {
+          "title": "Muscle loss, weak grip and slow walking pace linked to higher stroke risk",
+          "summary": "A study published in Stroke found associations between measures of physical function and future stroke risk. Low muscle strength was linked to higher risk for several stroke types, weaker grip strength had smaller associations, and a slower walking pace showed the largest relative increase in risk compared with a brisk pace.",
+          "whyItMatters": "Simple, widely measurable indicators of physical function—muscle mass, grip strength, and walking speed—may help identify adults at elevated stroke risk, complementing traditional risk assessments.",
+          "takeaways": [
+            "Low muscle strength associated with roughly 30% higher risk of any stroke in this study.",
+            "Lower grip strength showed a smaller association (about 7% higher risk).",
+            "Slow walking pace was linked to the largest relative increase in stroke risk (about 64% vs. brisk pace)."
+          ]
+        },
+        "es": {
+          "title": "Pérdida de masa muscular, agarre débil y ritmo de marcha lento vinculados a mayor riesgo de ictus",
+          "summary": "Un estudio publicado en Stroke encontró asociaciones entre medidas de función física y el riesgo futuro de ictus. La baja fuerza muscular se relacionó con un mayor riesgo para varios tipos de ictus, la menor fuerza de agarre mostró asociaciones más pequeñas, y un ritmo de marcha más lento mostró el mayor aumento relativo de riesgo en comparación con un paso rápido.",
+          "whyItMatters": "Indicadores simples y fácilmente medibles de la función física —masa muscular, fuerza de agarre y velocidad de marcha— pueden ayudar a identificar a adultos con riesgo elevado de ictus, complementando las evaluaciones de riesgo tradicionales.",
+          "takeaways": [
+            "La baja fuerza muscular se asoció con aproximadamente 30% más de riesgo de cualquier ictus en este estudio.",
+            "La menor fuerza de agarre mostró una asociación menor (unos 7% más de riesgo).",
+            "El ritmo de marcha lento se vinculó al mayor aumento relativo del riesgo de ictus (aprox. 64% frente a paso rápido)."
+          ]
+        },
+        "ru": {
+          "title": "Потеря мышечной массы, слабый захват и медленная ходьба связаны с повышенным риском инсульта",
+          "summary": "Исследование, опубликованное в Stroke, выявило ассоциации между показателями физической функции и будущим риском инсульта. Низкая мышечная силу связывали с повышенным риском для нескольких типов инсульта, слабее выраженные ассоциации были у силы захвата, а медленная скорость ходьбы показала наибольшее относительное повышение риска по сравнению с быстрой ходьбой.",
+          "whyItMatters": "Простые, широко измеримые показатели физической функции — мышечная масса, сила захвата и скорость ходьбы — могут помочь выявить взрослых с повышенным риском инсульта и дополнять традиционные оценки риска.",
+          "takeaways": [
+            "Низкая мышечная сила в этом исследовании ассоциировалась примерно с 30% повышением риска любого инсульта.",
+            "Низкая сила захвата показала меньшую ассоциацию (около 7% повышенного риска).",
+            "Медленная скорость ходьбы была связана с наибольшим относительным увеличением риска инсульта (примерно 64% по сравнению с быстрой ходьбой)."
+          ]
+        },
+        "uk": {
+          "title": "Втрата м’язової маси, слабкий захват і повільна ходьба пов’язані з вищим ризиком інсульту",
+          "summary": "Дослідження, опубліковане в Stroke, виявило асоціації між показниками фізичної функції та майбутнім ризиком інсульту. Низька м’язова сила була пов’язана з підвищеним ризиком для кількох типів інсульту, слабший захват мав менші асоціації, а повільніша швидкість ходьби показала найбільше відносне підвищення ризику порівняно з швидкою ходьбою.",
+          "whyItMatters": "Прості та загальнодоступні показники фізичної функції — м’язова маса, сила захвату та швидкість ходьби — можуть допомогти виявити дорослих із підвищеним ризиком інсульту та доповнити традиційну оцінку ризику.",
+          "takeaways": [
+            "У цьому дослідженні низька м’язова сила була пов’язана приблизно з 30% більшим ризиком будь‑якого інсульту.",
+            "Нижча сила захвату показала меншу асоціацію (приблизно 7% вищий ризик).",
+            "Повільна швидкість ходьби була пов’язана з найбільшим відносним підвищенням ризику інсульту (приблизно 64% порівняно з швидкою ходьбою)."
+          ]
+        },
+        "fr": {
+          "title": "Perte musculaire, faible force de préhension et allure de marche lente associées à un risque d’accident vasculaire cérébral plus élevé",
+          "summary": "Une étude publiée dans Stroke a trouvé des associations entre des mesures de la fonction physique et le risque futur d’AVC. Une faible force musculaire était liée à un risque accru pour plusieurs types d’AVC, une force de préhension plus faible présentait des associations plus modestes, et une allure de marche plus lente montrait la plus grande augmentation relative du risque par rapport à une allure rapide.",
+          "whyItMatters": "Des indicateurs simples et facilement mesurables de la fonction physique — masse musculaire, force de préhension et vitesse de marche — peuvent aider à identifier des adultes à risque accru d’AVC et compléter les évaluations de risque traditionnelles.",
+          "takeaways": [
+            "Dans cette étude, une faible force musculaire était associée à environ 30 % de risque plus élevé d’un AVC quelconque.",
+            "Une force de préhension plus faible montrait une association plus faible (environ 7 % de risque en plus).",
+            "Une allure de marche lente était liée à la plus grande augmentation relative du risque d’AVC (environ 64 % vs. allure rapide)."
+          ]
+        },
+        "de": {
+          "title": "Muskelabbau, schwacher Griff und langsames Gehen mit erhöhtem Schlaganfallrisiko verknüpft",
+          "summary": "Eine in Stroke veröffentlichte Studie fand Assoziationen zwischen Messwerten der körperlichen Funktion und dem späteren Schlaganfallrisiko. Geringe Muskelkraft war mit einem höheren Risiko für mehrere Schlaganfalltypen verknüpft, schwächere Griffstärke zeigte kleinere Assoziationen, und langsames Gehen wies die größte relative Risikoerhöhung im Vergleich zu zügigem Gehen auf.",
+          "whyItMatters": "Einfache, breit messbare Indikatoren der körperlichen Funktion — Muskelmasse, Griffstärke und Gehgeschwindigkeit — könnten helfen, Erwachsene mit erhöhtem Schlaganfallrisiko zu identifizieren und traditionelle Risikobewertungen zu ergänzen.",
+          "takeaways": [
+            "In dieser Studie war geringe Muskelkraft mit etwa 30 % höherem Risiko für beliebige Schlaganfälle verbunden.",
+            "Niedrigere Griffstärke zeigte eine kleinere Assoziation (etwa 7 % höheres Risiko).",
+            "Langsames Gehen war mit der größten relativen Risikoerhöhung verbunden (etwa 64 % im Vergleich zu zügigem Gehen)."
+          ]
+        },
+        "pt-br": {
+          "title": "Perda muscular, força de preensão fraca e ritmo de caminhada lento ligados a maior risco de AVC",
+          "summary": "Um estudo publicado em Stroke encontrou associações entre medidas de função física e risco futuro de AVC. Baixa força muscular esteve ligada a risco maior para vários tipos de AVC, força de preensão mais fraca teve associações menores, e ritmo de caminhada mais lento mostrou o maior aumento relativo de risco em comparação com ritmo rápido.",
+          "whyItMatters": "Indicadores simples e amplamente mensuráveis da função física — massa muscular, força de preensão e velocidade de caminhada — podem ajudar a identificar adultos com risco elevado de AVC, complementando as avaliações de risco tradicionais.",
+          "takeaways": [
+            "Baixa força muscular esteve associada a aproximadamente 30% mais risco de qualquer AVC neste estudo.",
+            "Força de preensão mais baixa mostrou uma associação menor (cerca de 7% a mais de risco).",
+            "Ritmo de caminhada lento esteve ligado ao maior aumento relativo de risco (cerca de 64% versus ritmo rápido)."
+          ]
+        },
+        "hu": {
+          "title": "Izomvesztés, gyenge kézfogás és lassú járás összefüggésben a nagyobb stroke‑kockázattal",
+          "summary": "A Stroke folyóiratban megjelent tanulmány összefüggéseket talált a fizikai funkció mérőszámai és a későbbi stroke‑kockázat között. Az alacsony izomerő több stroke‑típussal állt kapcsolatban, a gyengébb kézfogás kisebb mértékű összefüggést mutatott, és a lassabb járástempó relatíve a legnagyobb kockázatemelkedéssel hozták kapcsolatba a gyors tempóhoz képest.",
+          "whyItMatters": "Az egyszerűen, széles körben mérhető fizikai funkciós indikátorok — izomtömeg, kézerő és járássebesség — segíthetnek azonosítani az emelkedett stroke‑kockázatú felnőtteket, kiegészítve a hagyományos rizikóbecsléseket.",
+          "takeaways": [
+            "Ebben a tanulmányban az alacsony izomerő körülbelül 30%-kal magasabb kockázattal társult bármely stroke‑ra nézve.",
+            "A gyengébb kézfogás kisebb összefüggést mutatott (kb. 7%‑kal magasabb kockázat).",
+            "A lassú járás volt az összekapcsolt legnagyobb relatív kockázatemelkedés (kb. 64% a gyors tempóhoz képest)."
+          ]
+        },
+        "ar": {
+          "title": "فقدان العضلات، ضعف قوة القبضة وبطء المشي مرتبطة بزيادة خطر السكتة الدماغية",
+          "summary": "وجدت دراسة نُشرت في مجلة Stroke ارتباطات بين مقاييس الوظيفة البدنية وخطر الإصابة بالسكتة الدماغية في المستقبل. كان انخفاض قوة العضلات مرتبطًا بزيادة خطر عدة أنواع من السكتة، أما ضعف قوة القبضة فكان له ارتباطات أصغر، وبطء المشي أظهر أكبر زيادة نسبية في المخاطر مقارنةً بالمشي السريع.",
+          "whyItMatters": "قد تساعد مؤشرات الوظيفة البدنية البسيطة والقابلة للقياس على نطاق واسع — كتلة العضلات، قوة القبضة، وسرعة المشي — في تحديد البالغين ذوي الخطر المرتفع للسكتة الدماغية، كمكمل لتقييمات الخطر التقليدية.",
+          "takeaways": [
+            "ارتبط انخفاض قوة العضلات في هذه الدراسة بخطر أعلى للإصابة بأي سكتة بنحو 30٪ تقريبًا.",
+            "أظهر انخفاض قوة القبضة ارتباطًا أصغر (حوالي 7٪ زيادة في الخطر).",
+            "كان بطء المشي مرتبطًا بأكبر زيادة نسبية في خطر السكتة (حوالي 64٪ مقارنةً بالمشي السريع)."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=muscle-stroke-risk-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/muscle-stroke-risk-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/muscle-stroke-risk-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Muscle loss, weak grip and slow walking pace linked to higher stroke risk.\nStory summary: A study published in Stroke found associations between measures of physical function and future stroke risk. Low muscle strength was linked to higher risk for several stroke types, weaker grip strength had smaller associations, and a slower walking pace showed the largest relative increase in risk compared with a brisk pace..\nCategory: Aging / Neurology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "intestinal-aging-gut-2026",
+      "category": "Aging / Microbiome",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/how-intestinal-aging-encourages-harmful-bacteria/?utm_source=rss&",
+      "sourceTitle": "How Intestinal Aging Encourages Harmful Bacteria",
+      "publishedAt": "Thu, 07 May 2026 19:09:58 +0000",
+      "languages": {
+        "en": {
+          "title": "How Intestinal Aging Encourages Harmful Bacteria",
+          "summary": "A report in Aging Cell describes interactions between age‑related changes in the intestine and shifts in the gut microbiome. The work outlines how alterations in the aging intestinal environment can favor the expansion of bacteria that may be detrimental to host physiology.",
+          "whyItMatters": "Understanding how the aging gut environment shapes microbial communities can help researchers target interventions that maintain a healthier microbiome in older adults.",
+          "takeaways": [
+            "Intestinal aging and microbiome changes are interconnected processes.",
+            "Age‑related intestinal changes may create conditions that favor harmful bacterial species.",
+            "Research is ongoing to translate these mechanistic insights into interventions."
+          ]
+        },
+        "es": {
+          "title": "Cómo el envejecimiento intestinal favorece bacterias potencialmente dañinas",
+          "summary": "Un informe en Aging Cell describe interacciones entre los cambios intestinales relacionados con la edad y los desplazamientos en el microbioma intestinal. El trabajo explica cómo las alteraciones en el entorno intestinal envejecido pueden favorecer la expansión de bacterias que podrían ser perjudiciales para la fisiología del huésped.",
+          "whyItMatters": "Comprender cómo el entorno intestinal relacionado con la edad moldea las comunidades microbianas puede ayudar a los investigadores a enfocarse en intervenciones que mantengan un microbioma más saludable en adultos mayores.",
+          "takeaways": [
+            "El envejecimiento intestinal y los cambios del microbioma son procesos interconectados.",
+            "Los cambios intestinales relacionados con la edad pueden crear condiciones que favorecen especies bacterianas potencialmente dañinas.",
+            "La investigación continúa para traducir estos conocimientos mecanísticos en intervenciones."
+          ]
+        },
+        "ru": {
+          "title": "Как старение кишечника способствует размножению вредных бактерий",
+          "summary": "Отчёт в Aging Cell описывает взаимодействия между возрастными изменениями в кишечнике и перестройкой микробиоты. Работа показывает, как изменения в стареющей кишечной среде могут способствовать росту бактерий, потенциально вредных для физиологии хозяина.",
+          "whyItMatters": "Понимание того, как стареющая кишечная среда формирует микробные сообщества, может помочь исследователям разрабатывать вмешательства для поддержания более здорового микробиома у пожилых людей.",
+          "takeaways": [
+            "Старение кишечника и изменения микробиоты связаны между собой.",
+            "Возрастные изменения в кишечнике могут создавать условия, благоприятные для потенциально вредных бактериальных видов.",
+            "Исследования продолжаются, чтобы перевести эти механистические выводы в практические интервенции."
+          ]
+        },
+        "uk": {
+          "title": "Як старіння кишечника сприяє поширенню шкідливих бактерій",
+          "summary": "У статті в Aging Cell описано взаємодії між віковими змінами в кишечнику та зсувами мікробіому. Робота окреслює, як зміни в старіючому кишковому середовищі можуть сприяти розростанню бактерій, які можуть бути шкідливими для фізіології господаря.",
+          "whyItMatters": "Розуміння того, як старіюче кишкове середовище формує мікробні спільноти, може допомогти дослідникам розробляти втручання для підтримки більш здорового мікробіома в літніх людей.",
+          "takeaways": [
+            "Старіння кишечника та зміни мікробіому є взаємопов’язаними процесами.",
+            "Вікові зміни в кишечнику можуть створювати умови, що сприяють розмноженню шкідливих видів бактерій.",
+            "Дослідження тривають, щоб перенести ці механістичні висновки у практичні втручання."
+          ]
+        },
+        "fr": {
+          "title": "Comment le vieillissement intestinal favorise des bactéries potentiellement nuisibles",
+          "summary": "Un rapport dans Aging Cell décrit les interactions entre les changements liés à l’âge dans l’intestin et les modifications du microbiote intestinal. Le travail décrit comment les altérations de l’environnement intestinal vieillissant peuvent favoriser l’expansion de bactéries pouvant être délétères pour la physiologie de l’hôte.",
+          "whyItMatters": "Comprendre comment l’environnement intestinal lié à l’âge façonne les communautés microbiennes peut aider les chercheurs à cibler des interventions pour maintenir un microbiote plus sain chez les personnes âgées.",
+          "takeaways": [
+            "Le vieillissement intestinal et les changements du microbiote sont des processus interconnectés.",
+            "Les modifications intestinales liées à l’âge peuvent créer des conditions favorables à des espèces bactériennes potentiellement nuisibles.",
+            "La recherche se poursuit pour traduire ces connaissances mécanistiques en interventions."
+          ]
+        },
+        "de": {
+          "title": "Wie das Altern des Darms schädliche Bakterien begünstigt",
+          "summary": "Ein Bericht in Aging Cell beschreibt Wechselwirkungen zwischen altersbedingten Veränderungen im Darm und Verschiebungen im Mikrobiom. Die Arbeit skizziert, wie Veränderungen im alternden intestinalen Umfeld die Ausbreitung von Bakterien begünstigen können, die für die Wirtsphysiologie nachteilig sein könnten.",
+          "whyItMatters": "Zu verstehen, wie das alternde Darmmilieu mikrobielle Gemeinschaften formt, kann Forschern helfen, Interventionen zu entwickeln, die ein gesünderes Mikrobiom bei älteren Menschen fördern.",
+          "takeaways": [
+            "Darmalterung und Veränderungen des Mikrobioms sind miteinander verknüpfte Prozesse.",
+            "Altersbedingte Veränderungen im Darm können Bedingungen schaffen, die schädliche Bakterien begünstigen.",
+            "Die Forschung arbeitet daran, diese mechanistischen Erkenntnisse in Interventionen zu übersetzen."
+          ]
+        },
+        "pt-br": {
+          "title": "Como o envelhecimento intestinal favorece bactérias nocivas",
+          "summary": "Um relatório em Aging Cell descreve interações entre alterações intestinais relacionadas à idade e mudanças no microbioma intestinal. O trabalho expõe como alterações no ambiente intestinal envelhecido podem favorecer a expansão de bactérias que podem ser prejudiciais à fisiologia do hospedeiro.",
+          "whyItMatters": "Entender como o ambiente intestinal envelhecido molda comunidades microbianas pode ajudar pesquisadores a mirar intervenções que mantenham um microbioma mais saudável em adultos mais velhos.",
+          "takeaways": [
+            "Envelhecimento intestinal e mudanças no microbioma são processos interconectados.",
+            "Alterações intestinais relacionadas à idade podem criar condições que favorecem espécies bacterianas potencialmente nocivas.",
+            "Pesquisas seguem em andamento para traduzir esses insights mecanísticos em intervenções."
+          ]
+        },
+        "hu": {
+          "title": "Hogyan kedvez a bélöregedés a káros baktériumok elterjedésének",
+          "summary": "Az Aging Cellben megjelent jelentés leírja az időskorral összefüggő bélváltozások és a bélmikrobiom eltolódásai közötti kölcsönhatásokat. A munka vázolja, hogyan teremthet az öregedő bélkörnyezet feltételeket olyan baktériumok terjedéséhez, amelyek hátrányosak lehetnek a gazda fiziológiája szempontjából.",
+          "whyItMatters": "Az, hogy az öregedő bélkörnyezet miként formálja a mikrobiális közösségeket, segíthet a kutatóknak célzott beavatkozások kidolgozásában, amelyek idősebb felnőttekben a egészségesebb mikrobiom fenntartását célozzák.",
+          "takeaways": [
+            "A bélöregedés és a mikrobiom változásai kölcsönösen összefüggő folyamatok.",
+            "Az életkorral együtt járó bélváltozások olyan körülményeket teremthetnek, amelyek kedveznek káros baktériumfajoknak.",
+            "A kutatás folyamatos, és célja ezen mechanisztikus ismeretek beavatkozásokká fordítása."
+          ]
+        },
+        "ar": {
+          "title": "كيف تشجع شيخوخة الأمعاء تكاثر البكتيريا الضارة",
+          "summary": "تصف دراسة نُشرت في Aging Cell تفاعلات بين التغيرات المرتبطة بالعمر في الأمعاء وتحولات الميكروبيوم المعوي. توضح الورقة كيف يمكن أن تهيء التغيرات في بيئة الأمعاء المسنة ظروفًا تُفضّل توسع أنواع بكتيرية قد تكون ضارة بفسيولوجيا العائل.",
+          "whyItMatters": "فهم كيف تشكّل بيئة الأمعاء المسنة التجمعات الميكروبية يمكن أن يساعد الباحثين في استهداف تدخلات تحافظ على ميكروبيوم أكثر صحة لدى البالغين الأكبر سنًا.",
+          "takeaways": [
+            "شيخوخة الأمعاء وتغيرات الميكروبيوم عمليتان مترابطتان.",
+            "قد تخلق التغيرات المرتبطة بالعمر في الأمعاء ظروفًا تُفضّل أنواعًا بكتيرية ضارة.",
+            "الأبحاث جارية لتحويل هذه الرؤى الميكانيكية إلى تدخلات."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=intestinal-aging-gut-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/intestinal-aging-gut-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/intestinal-aging-gut-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: How Intestinal Aging Encourages Harmful Bacteria.\nStory summary: A report in Aging Cell describes interactions between age‑related changes in the intestine and shifts in the gut microbiome. The work outlines how alterations in the aging intestinal environment can favor the expansion of bacteria that may be detrimental to host physiology..\nCategory: Aging / Microbiome.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "newsmed-smart-home-2026-05",
       "category": "technology & aging",
@@ -536,122 +1392,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ASN names interim editor for Current Developments in Nutrition.\nStory summary: The American Society for Nutrition has appointed Brian Lindshield, PhD, as interim editor-in-chief of its journal Current Developments in Nutrition, tasking him with guiding the publication’s editorial direction..\nCategory: professional news.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "s7",
-      "category": "Cancer immunometabolism",
-      "sourceName": "cell.com",
-      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00109-9?rss=yes",
-      "sourceTitle": "Fasting opens a metabolic window that favors anti-tumor immunity",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Short‑term fasting reshapes tumor metabolism and may boost CD8+ T cell responses",
-          "summary": "Research reports that brief fasting alters nutrient availability within tumors, leading to intratumoral accumulation of isoleucine that supports CD8+ T cell effector functions and can enhance responses to immune checkpoint inhibitors in mouse models and in some human observations.",
-          "whyItMatters": "Metabolic interventions such as fasting could transiently improve the tumor microenvironment for immune therapies, suggesting a potential adjunctive strategy to investigate alongside established treatments.",
-          "takeaways": [
-            "Short‑term fasting changes the tumor microenvironment and nutrient landscape in ways that can favor cytotoxic T cell programs.",
-            "Isoleucine accumulation during fasting was implicated as supporting T cell effector activity.",
-            "Enhanced responses to immune checkpoint blockade were observed in preclinical models and in some human data reported by the authors.",
-            "Clinical implications require additional trials to define safety, timing and which patients could benefit."
-          ]
-        },
-        "es": {
-          "title": "Ayuno a corto plazo remodela el metabolismo tumoral y puede potenciar respuestas de células T CD8+",
-          "summary": "Investigaciones indican que el ayuno breve altera la disponibilidad de nutrientes dentro de los tumores, conduciendo a la acumulación intratumoral de isoleucina que favorece las funciones efectoras de las células T CD8+ y puede mejorar las respuestas a inhibidores de puntos de control inmunitario en modelos de ratón y en algunas observaciones humanas.",
-          "whyItMatters": "Intervenciones metabólicas como el ayuno podrían mejorar de forma transitoria el microambiente tumoral para las terapias inmunitarias, lo que sugiere una posible estrategia complementaria a investigar junto a tratamientos establecidos.",
-          "takeaways": [
-            "El ayuno a corto plazo cambia el microambiente tumoral y el panorama de nutrientes de maneras que pueden favorecer los programas de las células T citotóxicas.",
-            "La acumulación de isoleucina durante el ayuno se implicó como factor que apoya la actividad efectora de las células T.",
-            "Se observaron respuestas mejoradas a la inhibición de puntos de control inmunitario en modelos preclínicos y en algunos datos humanos reportados por los autores.",
-            "Las implicaciones clínicas requieren ensayos adicionales para definir seguridad, temporización y qué pacientes podrían beneficiarse."
-          ]
-        },
-        "ru": {
-          "title": "Кратковременное голодание перестраивает метаболизм опухоли и может усиливать ответы CD8+ Т‑клеток",
-          "summary": "Исследования показывают, что короткое голодание изменяет доступность питательных веществ в опухолях, приводя к внутритуморной аккумуляции изолейцина, что поддерживает эффекторные функции CD8+ Т‑клеток и может усиливать ответы на ингибиторы контрольных точек в моделях на мышах и в некоторых наблюдениях у людей.",
-          "whyItMatters": "Метаболические вмешательства, такие как голодание, могут временно улучшать микроокружение опухоли для иммунных терапий, что указывает на потенциальную дополнительную стратегию для изучения вместе с установленными методами лечения.",
-          "takeaways": [
-            "Кратковременное голодание меняет микроокружение опухоли и ландшафт доступных нутриентов таким образом, что это может благоприятствовать цитотоксическим программам Т‑клеток.",
-            "Аккумуляция изолейцина во время голодания была связана с поддержкой эффекторной активности Т‑клеток.",
-            "Улучшенные ответы на блокаду контрольных точек наблюдались в доклинических моделях и в некоторых представленных человеческих данных.",
-            "Клинические выводы требуют дополнительных испытаний для определения безопасности, тайминга и того, какие пациенты могли бы получить пользу."
-          ]
-        },
-        "uk": {
-          "title": "Короткотривале голодування змінює метаболізм пухлини і може посилювати відповідь CD8+ Т‑клітин",
-          "summary": "Дослідження повідомляє, що короткочасне голодування змінює доступність поживних речовин у пухлинах, призводячи до накопичення ізолейцину в межах пухлин, що підтримує ефекторні функції CD8+ Т‑клітин і може підсилювати відповіді на інгібітори контрольних точок імунітету в мишачих моделях та в деяких людських спостереженнях.",
-          "whyItMatters": "Метаболічні втручання, такі як голодування, можуть тимчасово поліпшувати мікрооточення пухлини для імунних терапій, що пропонує потенційну допоміжну стратегію для подальшого вивчення поруч із встановленими методами лікування.",
-          "takeaways": [
-            "Короткотривале голодування змінює мікрооточення пухлини та ландшафт поживних речовин таким чином, що може сприяти програмам цитотоксичних Т‑клітин.",
-            "Накопичення ізолейцину під час голодування вказане як фактор, що підтримує ефекторну активність Т‑клітин.",
-            "Покращені відповіді на блокаду імунних контрольних точок були помічені в доклінічних моделях та в деяких людських даних, наведених авторами.",
-            "Клінічні наслідки вимагають додаткових випробувань для визначення безпеки, таймінгу та груп пацієнтів, які можуть отримати вигоду."
-          ]
-        },
-        "fr": {
-          "title": "Le jeûne de courte durée reconfigure le métabolisme tumoral et pourrait améliorer les réponses des cellules T CD8+",
-          "summary": "La recherche rapporte que le jeûne bref modifie la disponibilité des nutriments au sein des tumeurs, entraînant une accumulation intratumorale d’isoleucine qui soutient les fonctions effectrices des cellules T CD8+ et peut renforcer les réponses aux inhibiteurs de points de contrôle immunitaire dans des modèles murins et dans certaines observations humaines.",
-          "whyItMatters": "Des interventions métaboliques telles que le jeûne pourraient améliorer temporairement le microenvironnement tumoral pour les immunothérapies, suggérant une stratégie adjuvante potentielle à étudier aux côtés des traitements établis.",
-          "takeaways": [
-            "Le jeûne de courte durée modifie le microenvironnement tumoral et le paysage nutritionnel de façon à pouvoir favoriser les programmes des cellules T cytotoxiques.",
-            "L’accumulation d’isoleucine pendant le jeûne a été impliquée dans le soutien de l’activité effectrice des cellules T.",
-            "Des réponses améliorées au blocage des points de contrôle immunitaire ont été observées dans des modèles précliniques et dans certaines données humaines rapportées par les auteurs.",
-            "Les implications cliniques nécessitent des essais supplémentaires pour définir la sécurité, le calendrier et les patients susceptibles d’en bénéficier."
-          ]
-        },
-        "de": {
-          "title": "Kurzfristiges Fasten verändert Tumorstoffwechsel und könnte CD8+‑T‑Zell‑Antworten stärken",
-          "summary": "Forschungsberichte zeigen, dass kurzes Fasten die Nährstoffverfügbarkeit in Tumoren verändert, wodurch sich intratumoral Isoleucin anreichert, was CD8+‑T‑Zell‑Effektor‑Funktionen unterstützen und die Antwort auf Immun‑Checkpoint‑Inhibitoren in Mausmodellen und in einigen menschlichen Beobachtungen verbessern kann.",
-          "whyItMatters": "Metabolische Interventionen wie Fasten könnten die Tumormikroumgebung vorübergehend so beeinflussen, dass Immuntherapien besser wirken, was auf eine mögliche ergänzende Strategie hinweist, die neben etablierten Behandlungen untersucht werden sollte.",
-          "takeaways": [
-            "Kurzfristiges Fasten verändert die Tumormikroumgebung und die Nährstofflandschaft in einer Weise, die zytotoxische T‑Zell‑Programme begünstigen kann.",
-            "Eine Anreicherung von Isoleucin während des Fastens wurde als unterstützend für T‑Zell‑Effektoraktivität identifiziert.",
-            "Verbesserte Antworten auf Checkpoint‑Blockade wurden in präklinischen Modellen und in einigen vom Autorenteam berichteten menschlichen Daten beobachtet.",
-            "Klinische Implikationen erfordern zusätzliche Studien, um Sicherheit, Zeitpunkt und die Patienten zu definieren, die potenziell profitieren könnten."
-          ]
-        },
-        "pt-br": {
-          "title": "Jejum de curto prazo reconfigura metabolismo tumoral e pode reforçar respostas de células T CD8+",
-          "summary": "Pesquisas relatam que o jejum breve altera a disponibilidade de nutrientes dentro dos tumores, levando ao acúmulo intratumoral de isoleucina, o que sustenta funções efetoras de células T CD8+ e pode melhorar respostas a inibidores de checkpoint imunológico em modelos murinos e em algumas observações humanas.",
-          "whyItMatters": "Intervenções metabólicas, como o jejum, poderiam melhorar temporariamente o microambiente tumoral para terapias imunológicas, sugerindo uma possível estratégia adjuvante a ser investigada junto com tratamentos estabelecidos.",
-          "takeaways": [
-            "O jejum de curto prazo muda o microambiente tumoral e o panorama de nutrientes de formas que podem favorecer programas de células T citotóxicas.",
-            "O acúmulo de isoleucina durante o jejum foi implicado no suporte à atividade efetora das células T.",
-            "Respostas aprimoradas à inibição de checkpoints imunológicos foram observadas em modelos pré‑clínicos e em alguns dados humanos reportados pelos autores.",
-            "Implicações clínicas exigem ensaios adicionais para definir segurança, timing e quais pacientes poderiam se beneficiar."
-          ]
-        },
-        "hu": {
-          "title": "Rövid böjt átalakítja a tumor anyagcseréjét és elősegítheti a CD8+ T‑sejt választ",
-          "summary": "A kutatás szerint a rövid távú böjt megváltoztatja a tumoron belüli tápanyag‑elérhetőséget, ami izoleucin felhalmozódáshoz vezet a daganatban, és ez támogatja a CD8+ T‑sejtek effektor funkcióit, továbbá javíthatja az immunellenőrző pont gátlókra adott választ egérmodellekben és egyes emberi megfigyelésekben.",
-          "whyItMatters": "Anyagcsere‑beavatkozások, például a böjt, átmenetileg javíthatják a tumor mikro‑környezetét az immunterápiák számára, ami egy potenciális kiegészítő stratégiát jelezhet a vizsgálatra a meglévő kezelések mellett.",
-          "takeaways": [
-            "A rövid távú böjt megváltoztatja a tumor mikro‑környezetét és a tápanyag‑viszonyokat olyan módon, amely előnyös lehet a citotoxikus T‑sejt programok számára.",
-            "A böjt során az izoleucin felhalmozódását hozták összefüggésbe a T‑sejtek effektor aktivitásának támogatásával.",
-            "Az immunellenőrző pont gátlókra adott fokozott válaszokat preklinikai modellekben és egyes emberi adatokban figyelték meg a szerzők jelentése szerint.",
-            "A klinikai jelentőség további vizsgálatokat igényel a biztonságosság, az időzítés és a potenciálisan előnyös betegek meghatározásához."
-          ]
-        },
-        "ar": {
-          "title": "الصيام القصير يعيد تشكيل أيض الورم وقد يعزز استجابات خلايا CD8+ T",
-          "summary": "تفيد الأبحاث أن الصيام القصير يغير توفر المغذيات داخل الأورام، ما يؤدي إلى تراكم الإيزوليوسين داخل الورم يدعم وظائف خلايا CD8+ القاتلة ويمكن أن يعزّز الاستجابة لمثبطات نقاط التفتيش المناعية في نماذج الفئران وفي بعض الملاحظات البشرية.",
-          "whyItMatters": "قد تعمل تدخلات التمثيل الغذائي مثل الصيام مؤقتًا على تحسين بيئة الورم الدقيقة للعلاجات المناعية، مما يقترح استراتيجية مكملة محتملة يجب دراستها إلى جانب العلاجات القائمة.",
-          "takeaways": [
-            "يغيّر الصيام القصير بيئة الورم الدقيقة ومشهد المغذيات بطرق قد تُفيد البرامج الفعّالة لخلايا T السامة.",
-            "تم ربط تراكم الإيزوليوسين أثناء الصيام بدعم نشاط خلايا T الفعّالة.",
-            "لوحظت استجابات محسنة لمثبطات نقاط التفتيش المناعية في نماذج ما قبل السريرية وفي بعض البيانات البشرية التي أوردها المؤلفون.",
-            "تتطلب الدلالات السريرية تجارب إضافية لتحديد السلامة والتوقيت والمرضى الذين قد يستفيدون."
-          ]
-        }
-      },
-      "generatedAt": "2026-05-06T12:50:44.105Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=s7",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s7-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/s7-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short‑term fasting reshapes tumor metabolism and may boost CD8+ T cell responses.\nStory summary: Research reports that brief fasting alters nutrient availability within tumors, leading to intratumoral accumulation of isoleucine that supports CD8+ T cell effector functions and can enhance responses to immune checkpoint inhibitors in mouse models and in some human observations..\nCategory: Cancer immunometabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "s9",
@@ -3205,111 +3945,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links absence of a particular maternal blood fatty acid to higher childhood asthma rates.\nStory summary: Researchers report an association between mothers lacking a particular fatty acid in their blood during pregnancy and a higher occurrence of asthma or asthmatic bronchitis in their children..\nCategory: Pediatrics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "lowcarb-endurance-debate-2026-05-01",
-      "category": "Sports Nutrition",
+      "id": "low-carb-endurance-2026",
+      "category": "Sports nutrition / Debate",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/does-a-low-carbohydrate-diet-impede-endurance-sports-performance/",
       "sourceTitle": "Does a Low-Carbohydrate Diet Impede Endurance Sports Performance?",
       "publishedAt": "Fri, 01 May 2026 14:17:07 +0000",
       "languages": {
         "en": {
-          "title": "Review/debate: low‑carbohydrate diets and endurance performance",
-          "summary": "An article in AJCN’s Great Debates in Nutrition explores whether low‑carbohydrate diets hinder endurance sports performance, summarizing evidence and arguments relevant to athletes and coaches.",
-          "whyItMatters": "Carbohydrate intake is a central topic in sports nutrition; this discussion examines current evidence to inform training and fueling strategies.",
+          "title": "Does a Low-Carbohydrate Diet Impede Endurance Sports Performance?",
+          "summary": "An American Society for Nutrition Great Debates piece reviews evidence and arguments about whether low‑carbohydrate diets hinder endurance performance, weighing carbohydrate roles in training and competition.",
+          "whyItMatters": "Athletes and active people frequently ask how macronutrient choices affect performance. This debate summarizes current perspectives and evidence to help readers understand tradeoffs.",
           "takeaways": [
-            "The piece presents competing viewpoints on the role of carbohydrates for endurance activities.",
-            "It synthesizes evidence used in a formal debate format rather than presenting a single definitive conclusion.",
-            "Coaches and athletes may find the review useful for weighing trade-offs between dietary approaches."
+            "Carbohydrates remain a key fuel source for many endurance activities, but the impact of low‑carb approaches can depend on event type and training context.",
+            "Evidence is mixed and often context‑specific; individual response and goals matter.",
+            "Coaches and athletes typically consider sport demands, training, and personal tolerance when choosing dietary strategies."
           ]
         },
         "es": {
-          "title": "Revisión/debate: dietas bajas en carbohidratos y rendimiento en deportes de resistencia",
-          "summary": "Un artículo en 'Great Debates in Nutrition' de AJCN explora si las dietas bajas en carbohidratos perjudican el rendimiento en deportes de resistencia, resumiendo evidencias y argumentos relevantes para atletas y entrenadores.",
-          "whyItMatters": "La ingesta de carbohidratos es un tema central en nutrición deportiva; esta discusión examina la evidencia actual para informar estrategias de entrenamiento y suministro de energía.",
+          "title": "¿Una dieta baja en carbohidratos perjudica el rendimiento en deportes de resistencia?",
+          "summary": "Un artículo de la serie Great Debates de la American Society for Nutrition revisa evidencias y argumentos sobre si las dietas bajas en carbohidratos dificultan el rendimiento en resistencia, sopesando el papel de los carbohidratos en el entrenamiento y la competición.",
+          "whyItMatters": "Atletas y personas activas preguntan con frecuencia cómo las elecciones de macronutrientes afectan el rendimiento. Este debate resume perspectivas y evidencias actuales para ayudar a los lectores a entender los compromisos.",
           "takeaways": [
-            "El texto presenta puntos de vista contrapuestos sobre el papel de los carbohidratos en actividades de resistencia.",
-            "Sintetiza la evidencia usada en un formato de debate formal en lugar de ofrecer una única conclusión definitiva.",
-            "Entrenadores y atletas pueden encontrar útil la revisión para sopesar las compensaciones entre distintos enfoques dietarios."
+            "Los carbohidratos siguen siendo una fuente clave de combustible para muchas actividades de resistencia, pero el impacto de enfoques bajos en carbohidratos puede depender del tipo de prueba y del contexto de entrenamiento.",
+            "La evidencia es mixta y a menudo específica del contexto; la respuesta individual y los objetivos importan.",
+            "Entrenadores y atletas suelen considerar las demandas del deporte, el entrenamiento y la tolerancia personal al elegir estrategias dietéticas."
           ]
         },
         "ru": {
-          "title": "Обзор/дебаты: низкоуглеводные диеты и выносливость в спорте",
-          "summary": "Статья в рамках серии AJCN «Great Debates in Nutrition» рассматривает, мешают ли низкоуглеводные диеты спортивной выносливости, суммируя доказательства и аргументы, актуальные для спортсменов и тренеров.",
-          "whyItMatters": "Потребление углеводов — ключевая тема в спортивном питании; данная дискуссия изучает современные данные, чтобы помочь в вопросах подготовки и пополнения энергии при тренировках.",
+          "title": "Препятствует ли низкоуглеводная диета выносливостному спорту?",
+          "summary": "Материал из серии Great Debates Американского общества питания рассматривает доказательства и аргументы о том, мешают ли низкоуглеводные диеты выносливостному спорту, оценивая роль углеводов в тренировках и соревнованиях.",
+          "whyItMatters": "Спортсмены и активные люди часто интересуются, как выбор макронутриентов влияет на показатели. Этот дебат суммирует текущие точки зрения и доказательства, чтобы помочь читателям понять компромиссы.",
           "takeaways": [
-            "Материал представляет конкурирующие точки зрения о роли углеводов в выносливых нагрузках.",
-            "Он синтезирует доказательства в формате формальных дебатов, а не даёт единую окончательную рекомендацию.",
-            "Тренерам и спортсменам обзор может быть полезен при оценке компромиссов между разными диетическими подходами."
+            "Углеводы остаются ключевым источником топлива для многих видов выносливости, но влияние низкоуглеводных подходов зависит от типа соревнования и контекста тренировки.",
+            "Доказательства противоречивы и часто зависят от контекста; важна индивидуальная реакция и цели.",
+            "Тренеры и спортсмены обычно учитывают потребности вида спорта, тренировочный процесс и личную переносимость при выборе диетической стратегии."
           ]
         },
         "uk": {
-          "title": "Огляд/дебати: низьковуглеводні дієти та витривалість",
-          "summary": "Стаття в рубриці Great Debates in Nutrition від AJCN розглядає, чи заважають низьковуглеводні дієти результатам у видах спорту на витривалість, підсумовуючи докази й аргументи, актуальні для спортсменів і тренерів.",
-          "whyItMatters": "Споживання вуглеводів є центральною темою спортивного харчування; це обговорення аналізує наявні докази, щоб інформувати стратегії тренувань і підживлення.",
+          "title": "Чи перешкоджає низьковуглеводна дієта витривалісним спортивним виступам?",
+          "summary": "Матеріал American Society for Nutrition Great Debates розглядає докази та аргументи про те, чи заважають низьковуглеводні дієти витривалому спорту, зважуючи роль вуглеводів у тренуваннях і змаганнях.",
+          "whyItMatters": "Спортсмени та активні люди часто цікавляться, як вибір макроелементів впливає на продуктивність. Ця дискусія узагальнює поточні погляди й докази, щоб допомогти читачам зрозуміти компроміси.",
           "takeaways": [
-            "Матеріал представляє суперечливі точки зору щодо ролі вуглеводів у видах спорту на витривалість.",
-            "Він синтезує докази у форматі формальної дискусії, а не пропонує однозначного висновку.",
-            "Тренери і спортсмени можуть знайти цей огляд корисним для зважування компромісів між різними підходами до харчування."
+            "Вуглеводи залишаються ключовим джерелом палива для багатьох видів витривалості, але вплив низьковуглеводних підходів залежить від типу змагання та контексту тренувань.",
+            "Докази є змішаними і часто специфічними для контексту; має значення індивідуальна реакція та цілі.",
+            "Тренери та спортсмени зазвичай враховують вимоги спорту, тренування та особисту переносимість при виборі дієтичної стратегії."
           ]
         },
         "fr": {
-          "title": "Revue/débat : régimes pauvres en glucides et performance d’endurance",
-          "summary": "Un article dans la rubrique Great Debates in Nutrition de l’AJCN explore la question de savoir si les régimes pauvres en glucides entravent la performance dans les sports d’endurance, en résumant les preuves et les arguments pertinents pour les athlètes et les entraîneurs.",
-          "whyItMatters": "L’apport en glucides est un sujet central en nutrition sportive ; cette discussion examine les preuves actuelles pour informer les stratégies d’entraînement et d’alimentation.",
+          "title": "Un régime pauvre en glucides nuit‑il à la performance en sports d’endurance ?",
+          "summary": "Une contribution des Great Debates de l’American Society for Nutrition passe en revue les preuves et les arguments sur la question de savoir si les régimes pauvres en glucides entravent la performance en endurance, en évaluant le rôle des glucides à l’entraînement et en compétition.",
+          "whyItMatters": "Les athlètes et les personnes actives se demandent souvent comment le choix des macronutriments affecte la performance. Ce débat résume les perspectives et les preuves actuelles pour aider les lecteurs à comprendre les compromis.",
           "takeaways": [
-            "L’article présente des points de vue concurrents sur le rôle des glucides pour les activités d’endurance.",
-            "Il synthétise les preuves dans un format de débat formel plutôt que de donner une conclusion définitive unique.",
-            "Entraîneurs et athlètes peuvent trouver cette revue utile pour peser les compromis entre différentes approches alimentaires."
+            "Les glucides restent une source d’énergie clé pour de nombreuses activités d’endurance, mais l’impact des approches faibles en glucides dépend du type d’épreuve et du contexte d’entraînement.",
+            "Les preuves sont mitigées et souvent spécifiques au contexte ; la réponse individuelle et les objectifs comptent.",
+            "En général, entraîneurs et athlètes prennent en compte les exigences du sport, l’entraînement et la tolérance personnelle pour choisir une stratégie alimentaire."
           ]
         },
         "de": {
-          "title": "Review/Debatte: kohlenhydratarme Diäten und Ausdauerleistung",
-          "summary": "Ein Beitrag in AJCNs 'Great Debates in Nutrition' untersucht, ob kohlenhydratarme Diäten die Ausdauerleistung beeinträchtigen, und fasst Belege sowie Argumente zusammen, die für Sportler und Trainer relevant sind.",
-          "whyItMatters": "Die Kohlenhydratzufuhr ist ein zentrales Thema der Sporternährung; diese Diskussion prüft den aktuellen Evidenzstand, um Trainings‑ und Ernährungsstrategien zu informieren.",
+          "title": "Beeinträchtigt eine kohlenhydratarme Ernährung die Ausdauerleistung?",
+          "summary": "Ein Great Debates‑Beitrag der American Society for Nutrition fasst Belege und Argumente dazu zusammen, ob kohlenhydratarme Ernährungsweisen die Ausdauerleistung beeinträchtigen, wobei die Rolle von Kohlenhydraten im Training und Wettkampf abgewogen wird.",
+          "whyItMatters": "Sportler und aktive Personen fragen häufig, wie Makronährstoffwahl die Leistung beeinflusst. Diese Debatte fasst aktuelle Perspektiven und Evidenz zusammen, um Lesern die Abwägung der Vor‑ und Nachteile zu erleichtern.",
           "takeaways": [
-            "Der Beitrag stellt konkurrierende Standpunkte zur Rolle von Kohlenhydraten bei Ausdauertätigkeiten dar.",
-            "Er synthetisiert Belege in einem formalen Debattenformat, statt eine einzige abschließende Schlussfolgerung zu präsentieren.",
-            "Trainer und Athletinnen/Athleten können die Übersicht nutzen, um Vor‑ und Nachteile verschiedener Ernährungsansätze abzuwägen."
+            "Kohlenhydrate bleiben für viele Ausdauertätigkeiten eine zentrale Energiequelle, aber die Auswirkungen kohlenhydratarmer Ansätze hängen von Wettkampftyp und Trainingskontext ab.",
+            "Die Evidenz ist gemischt und oft kontextspezifisch; individuelle Reaktion und Ziele sind wichtig.",
+            "Trainer und Athleten berücksichtigen typischerweise Anforderungen der Sportart, Training und persönliche Verträglichkeit bei der Wahl der Ernährungsstrategie."
           ]
         },
         "pt-br": {
-          "title": "Revisão/debate: dietas com baixo carboidrato e desempenho em esportes de endurance",
-          "summary": "Um artigo na série 'Great Debates in Nutrition' da AJCN explora se dietas com baixo teor de carboidrato prejudicam o desempenho em esportes de endurance, resumindo evidências e argumentos relevantes para atletas e treinadores.",
-          "whyItMatters": "A ingestão de carboidratos é um tema central na nutrição esportiva; esta discussão examina as evidências atuais para orientar estratégias de treinamento e alimentação.",
+          "title": "Uma dieta com baixo carboidrato prejudica o desempenho em esportes de endurance?",
+          "summary": "Um artigo da série Great Debates da American Society for Nutrition revisa evidências e argumentos sobre se dietas com baixo teor de carboidrato prejudicam o desempenho de endurance, ponderando o papel dos carboidratos no treino e na competição.",
+          "whyItMatters": "Atletas e pessoas ativas frequentemente perguntam como escolhas de macronutrientes afetam o desempenho. Esse debate resume perspectivas e evidências atuais para ajudar os leitores a entender os trade‑offs.",
           "takeaways": [
-            "O texto apresenta pontos de vista opostos sobre o papel dos carboidratos em atividades de endurance.",
-            "Ele sintetiza evidências em formato de debate formal, em vez de oferecer uma conclusão definitiva única.",
-            "Treinadores e atletas podem achar a revisão útil para avaliar os trade‑offs entre diferentes abordagens dietéticas."
+            "Carboidratos continuam sendo uma fonte de combustível chave para muitas atividades de endurance, mas o impacto de abordagens low‑carb pode depender do tipo de prova e do contexto de treino.",
+            "As evidências são mistas e frequentemente dependentes do contexto; resposta individual e objetivos importam.",
+            "Treinadores e atletas normalmente consideram as exigências do esporte, o treinamento e a tolerância pessoal ao escolher estratégias dietéticas."
           ]
         },
         "hu": {
-          "title": "Áttekintés/vita: alacsony szénhidráttartalmú étrendek és állóképességi teljesítmény",
-          "summary": "Az AJCN Great Debates in Nutrition rovatában megjelent cikk azt vizsgálja, hogy az alacsony szénhidráttartalmú étrendek hátráltatják‑e az állóképességi sportolók teljesítményét, összefoglalva az eddigi bizonyítékokat és érveket, amelyek hasznosak lehetnek sportolók és edzők számára.",
-          "whyItMatters": "A szénhidrátbevitel központi téma a sporttáplálkozásban; ez a vita áttekinti a jelenlegi bizonyítékokat, hogy támpontot adjon az edzésre és üzemanyag‑stratégiákra vonatkozó döntésekhez.",
+          "title": "Gátolja-e a kevés szénhidrátot tartalmazó étrend az állóképességi sportteljesítményt?",
+          "summary": "Az American Society for Nutrition Great Debates írás áttekinti az érveket és a bizonyítékokat arról, hogy a csökkentett szénhidrátbevitel hátráltatja‑e az állóképességi teljesítményt, mérlegelve a szénhidrátok szerepét az edzésben és a versenyben.",
+          "whyItMatters": "A sportolók és aktív emberek gyakran kérdezik, miként befolyásolják a makrotápanyag‑választások a teljesítményt. Ez a vita összegzi a jelenlegi nézeteket és bizonyítékokat, hogy segítsen megérteni a kompromisszumokat.",
           "takeaways": [
-            "A cikk ellentétes nézőpontokat mutat be a szénhidrátok szerepéről az állóképességi tevékenységek során.",
-            "A szerzők bizonyítékokat szintetizálnak formális vitastílusban, nem egyetlen, végső következtetést közölve.",
-            "Edzőknek és sportolóknak hasznos lehet a munka a különböző étrendi megközelítések előnyeinek és hátrányainak mérlegeléséhez."
+            "A szénhidrátok sok állóképességi tevékenységhez kulcsfontosságú energiaforrást jelentenek, de a low‑carb megközelítés hatása az esemény típusától és az edzés kontextusától függhet.",
+            "A bizonyítékok vegyesek és gyakran kontextusfüggő; az egyéni válasz és célok számítanak.",
+            "Az edzők és sportolók általában a sport követelményeit, az edzésmunkát és a személyes toleranciát veszik figyelembe étrendi stratégia választásakor."
           ]
         },
         "ar": {
-          "title": "مراجعة/مناظرة: الحميات منخفضة الكربوهيدرات وأداء التحمل",
-          "summary": "تستعرض مقالة في سلسلة 'المناظرات الكبرى في التغذية' بجريدة AJCN سؤال ما إذا كانت الحميات منخفضة الكربوهيدرات تعيق أداء رياضات التحمل، مجمعةً الأدلة والحجج ذات الصلة للرياضيين والمدرّبين.",
-          "whyItMatters": "استهلاك الكربوهيدرات موضوع محوري في تغذية الرياضة؛ وتستعرض هذه المناقشة الأدلة الحالية لتوجيه استراتيجيات التدريب والتزود بالوقود.",
+          "title": "هل تعيق الحمية منخفضة الكربوهيدرات أداء الرياضات التحملية؟",
+          "summary": "تستعرض مقالة في سلسلة الجدل الكبرى للجمعية الأميركية للتغذية الأدلة والحجج حول ما إذا كانت الحميات منخفضة الكربوهيدرات تعيق أداء التحمل، مع وزن دور الكربوهيدرات في التدريب والمنافسة.",
+          "whyItMatters": "غالبًا ما يتساءل الرياضيون والنشاطون عن تأثيرات اختيار المكونات الكبرى على الأداء. يجمع هذا الجدل وجهات النظر والأدلة الحالية لمساعدة القراء على فهم المقايضات.",
           "takeaways": [
-            "تقدم القطعة وجهات نظر متنافسة حول دور الكربوهيدرات للأنشطة التحملية.",
-            "تجمّع الأدلة في شكل نقاش رسمي بدلاً من تقديم استنتاج قاطع واحد.",
-            "قد يجد المدرّبون والرياضيون المراجعة مفيدة عند موازنة المزايا والسلبيات بين النهج الغذائية."
+            "تظل الكربوهيدرات مصدر وقود رئيسيًا للعديد من أنشطة التحمل، لكن أثر المناهج منخفضة الكربوهيدرات قد يعتمد على نوع الحدث وسياق التدريب.",
+            "الأدلة متباينة وغالبًا ما تكون محددة بالسياق؛ الاستجابة الفردية والأهداف مهمة.",
+            "عادةً ما يأخذ المدربون والرياضيون مطالب الرياضة والتدريب والتسامح الشخصي بعين الاعتبار عند اختيار الاستراتيجيات الغذائية."
           ]
         }
       },
-      "generatedAt": "2026-05-02T08:05:36.438Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lowcarb-endurance-debate-2026-05-01",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lowcarb-endurance-debate-2026-05-01-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lowcarb-endurance-debate-2026-05-01-news.webp",
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=low-carb-endurance-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/low-carb-endurance-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/low-carb-endurance-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Review/debate: low‑carbohydrate diets and endurance performance.\nStory summary: An article in AJCN’s Great Debates in Nutrition explores whether low‑carbohydrate diets hinder endurance sports performance, summarizing evidence and arguments relevant to athletes and coaches..\nCategory: Sports Nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Does a Low-Carbohydrate Diet Impede Endurance Sports Performance?.\nStory summary: An American Society for Nutrition Great Debates piece reviews evidence and arguments about whether low‑carbohydrate diets hinder endurance performance, weighing carbohydrate roles in training and competition..\nCategory: Sports nutrition / Debate.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "ultraprocessed-marketing-2026",
@@ -9158,114 +9898,378 @@
       }
     },
     {
-      "id": "harvard-dga-2026-01",
-      "category": "dietary guidance",
+      "id": "dga-2025-2030-harvard-2026",
+      "category": "Public health / Nutrition policy",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "New Dietary Guidelines emphasize whole foods and added sugar limits while retaining saturated fat cap",
-          "summary": "The 2025–2030 Dietary Guidelines for Americans promote eating minimally processed foods and take a firmer stance on limiting added sugars. Although visuals highlight a broader range of foods, the guidance maintains the longstanding recommendation to keep saturated fat under 10% of daily calories.",
-          "whyItMatters": "Updates in national dietary guidance can influence public nutrition messaging, food industry practices, and clinical counseling; understanding both visual and numeric elements helps interpret the recommendations.",
+          "title": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
+          "summary": "The 2025–2030 Dietary Guidelines emphasize whole foods, stronger limits on added sugars and highly processed items, and introduce a new, inverted pyramid graphic that gives prominent placement to some animal foods while retaining the longstanding recommendation that saturated fat remain under 10% of daily calories.",
+          "whyItMatters": "National dietary guidelines shape public messaging, programs, and policy. Changes in emphasis and visuals can influence how people interpret recommendations, so clarity about key numeric limits remains important.",
           "takeaways": [
-            "Guidelines stress eating 'real' or minimally processed foods and reducing added sugars.",
-            "A graphical presentation includes higher-profile items, but the saturated fat limit remains in place.",
-            "Changes may affect consumer guidance, food labeling, and institutional nutrition policies."
+            "Guidelines stress limiting added sugars and highly processed foods.",
+            "A new graphic highlights certain foods visually, but numeric limits on saturated fat persist.",
+            "Readers should note the difference between visual emphasis and the actual nutrient recommendations."
           ]
         },
         "es": {
-          "title": "Las nuevas Guías Alimentarias enfatizan alimentos integrales y límites de azúcares añadidos mientras mantienen el tope de grasas saturadas",
-          "summary": "Las Guías Alimentarias para estadounidenses 2025–2030 promueven consumir alimentos mínimamente procesados y adoptan una postura más firme sobre limitar los azúcares añadidos. Aunque las representaciones visuales destacan una gama más amplia de alimentos, la guía mantiene la recomendación de mantener las grasas saturadas por debajo del 10% de las calorías diarias.",
-          "whyItMatters": "Las actualizaciones en la orientación dietética nacional pueden influir en los mensajes de salud pública, las prácticas de la industria alimentaria y el asesoramiento clínico; comprender tanto los elementos visuales como los numéricos ayuda a interpretar las recomendaciones.",
+          "title": "Pautas Dietéticas para Americanos 2025‑2030: avances en azúcar añadido, el bombo de la proteína y contradicciones sobre grasas saturadas",
+          "summary": "Las Pautas Dietéticas 2025–2030 enfatizan alimentos enteros, límites más estrictos sobre azúcares añadidos y artículos altamente procesados, e introducen un nuevo gráfico de pirámide invertida que da un lugar destacado a algunos alimentos de origen animal mientras mantiene la recomendación de largo plazo de que las grasas saturadas permanezcan por debajo del 10% de las calorías diarias.",
+          "whyItMatters": "Las pautas dietéticas nacionales moldean la comunicación pública, programas y políticas. Los cambios en el énfasis y los elementos visuales pueden influir en cómo las personas interpretan las recomendaciones, por lo que la claridad sobre los límites numéricos clave sigue siendo importante.",
           "takeaways": [
-            "Las guías insisten en consumir alimentos 'reales' o mínimamente procesados y en reducir los azúcares añadidos.",
-            "Una presentación gráfica incluye alimentos de mayor perfil, pero el límite de grasas saturadas permanece vigente.",
-            "Los cambios pueden afectar la orientación al consumidor, el etiquetado de alimentos y las políticas nutricionales institucionales."
+            "Las pautas subrayan limitar azúcares añadidos y alimentos altamente procesados.",
+            "Un nuevo gráfico destaca ciertos alimentos visualmente, pero persisten límites numéricos sobre las grasas saturadas.",
+            "Los lectores deberían notar la diferencia entre el énfasis visual y las recomendaciones numéricas reales."
           ]
         },
         "ru": {
-          "title": "Новые Диетические рекомендации подчеркивают цельные продукты и ограничения добавленного сахара при сохранении предела по насыщенным жирам",
-          "summary": "Диетические рекомендации США на 2025–2030 годы пропагандируют употребление минимально переработанных продуктов и занимают более жёсткую позицию по ограничению добавленного сахара. Хотя визуальные представления подчёркивают более широкий спектр продуктов, руководство сохраняет давнее рекомендованное ограничение насыщенных жиров до менее чем 10% от суточной калорийности.",
-          "whyItMatters": "Обновления в национальных рекомендациях по питанию могут повлиять на информационные сообщения о питании, практики пищевой промышленности и клинические рекомендации; понимание визуальных и числовых элементов помогает интерпретировать рекомендации.",
+          "title": "Диетические рекомендации для американцев 2025–2030: прогресс по добавленному сахару, ажиотаж вокруг белка и противоречия по насыщенным жирам",
+          "summary": "Рекомендации 2025–2030 подчёркивают цельные продукты, более жёсткие ограничения на добавленный сахар и сильно обработанные продукты, а также вводят новую инвертированную пірамидальную графику, которая визуально выделяет некоторые продукты животного происхождения, при этом сохраняя давнюю рекомендацию держать насыщенные жиры ниже 10% от суточной калорийности.",
+          "whyItMatters": "Национальные диетические рекомендации формируют общественные сообщения, программы и политику. Изменения в акцентах и визуальных элементах могут влиять на то, как люди интерпретируют рекомендации, поэтому важно сохранять ясность по ключевым числовым ограничениям.",
           "takeaways": [
-            "Рекомендации подчёркивают потребление «реальной» или минимально переработанной пищи и сокращение добавленного сахара.",
-            "Графическое представление включает более заметные пункты, но предел по насыщенным жирам сохраняется.",
-            "Изменения могут повлиять на рекомендации для потребителей, маркировку продуктов и институциональные политики в области питания."
+            "Рекомендации подчёркивают ограничение добавленного сахара и сильно обработанных продуктов.",
+            "Новая визуализация выделяет некоторые продукты, но численные ограничения по насыщенным жирам сохраняются.",
+            "Читателям стоит различать визуальный акцент и фактические нутриционные рекомендации."
           ]
         },
         "uk": {
-          "title": "Нові дієтичні рекомендації підкреслюють цілісні продукти й обмеження доданого цукру, зберігаючи ліміт на насичені жири",
-          "summary": "Дієтичні рекомендації для американців 2025–2030 заохочують вживати мінімально оброблені продукти та займають більш твердий підхід до обмеження доданого цукру. Хоча графічні матеріали висвітлюють ширший спектр продуктів, рекомендації зберігають давнє положення про тримати насичені жири нижче 10% добової калорійності.",
-          "whyItMatters": "Оновлення національних дієтичних настанов можуть впливати на громадські повідомлення про харчування, практики харчової промисловості та клінічні консультації; розуміння як візуальних, так і числових елементів допомагає інтерпретувати ці рекомендації.",
+          "title": "Дієтичні рекомендації США 2025–2030: прогрес щодо доданих цукрів, ажіотаж навколо білка та суперечності щодо насичених жирів",
+          "summary": "Дієтичні рекомендації 2025–2030 підкреслюють споживання цільних продуктів, більш жорсткі обмеження доданих цукрів та високоперероблених продуктів, і вводять нову інверсну пірамідну графіку, яка візуально виділяє деякі продукти тваринного походження, водночас зберігаючи давню рекомендацію тримати насичені жири нижче 10% добових калорій.",
+          "whyItMatters": "Національні дієтичні рекомендації формують громадські повідомлення, програми та політику. Зміни в акцентах і візуалах можуть впливати на те, як люди інтерпретують рекомендації, тому важлива ясність щодо ключових числових обмежень.",
           "takeaways": [
-            "Рекомендації наголошують на вживанні «справжніх» або мінімально оброблених продуктів і зниженні доданого цукру.",
-            "Графічні презентації включають товари в більшій видимості, але ліміт на насичені жири залишається в силі.",
-            "Зміни можуть вплинути на рекомендації для споживачів, маркування продуктів і політику харчування в установах."
+            "Рекомендації наголошують на обмеженні доданих цукрів і високоперероблених продуктів.",
+            "Нова графіка візуально виділяє певні продукти, але числові межі щодо насичених жирів зберігаються.",
+            "Читачам слід звертати увагу на різницю між візуальним наголошенням і фактичними рекомендаціями щодо нутрієнтів."
           ]
         },
         "fr": {
-          "title": "Les nouvelles directives alimentaires mettent l'accent sur les aliments peu transformés et la réduction des sucres ajoutés tout en maintenant la limite sur les graisses saturées",
-          "summary": "Les Dietary Guidelines for Americans 2025–2030 encouragent la consommation d'aliments peu transformés et adoptent une position plus ferme sur la limitation des sucres ajoutés. Bien que les visuels mettent en avant une gamme plus large d'aliments, les recommandations conservent la limite de longue date visant à maintenir les graisses saturées sous 10 % des calories quotidiennes.",
-          "whyItMatters": "Les mises à jour des recommandations diététiques nationales peuvent influencer les messages publics sur la nutrition, les pratiques de l'industrie alimentaire et le conseil clinique; comprendre à la fois les éléments visuels et numériques aide à interpréter les recommandations.",
+          "title": "Lignes directrices alimentaires pour les Américains 2025‑2030 : progrès sur les sucres ajoutés, engouement pour les protéines et contradictions sur les graisses saturées",
+          "summary": "Les recommandations alimentaires 2025–2030 insistent sur les aliments complets, des limites renforcées pour les sucres ajoutés et les aliments hautement transformés, et introduisent un nouveau graphique en pyramide inversée qui met en avant certains aliments d’origine animale tout en conservant la recommandation de longue date de maintenir les graisses saturées en dessous de 10 % des calories quotidiennes.",
+          "whyItMatters": "Les directives nationales en matière d’alimentation influencent la communication publique, les programmes et les politiques. Les changements d’accent et de visuels peuvent influencer la façon dont les gens interprètent les recommandations ; la clarté sur les limites numériques clés reste donc importante.",
           "takeaways": [
-            "Les directives insistent sur la consommation d'aliments « réels » ou peu transformés et la réduction des sucres ajoutés.",
-            "Une présentation graphique met en avant des éléments plus visibles, mais la limite sur les graisses saturées demeure.",
-            "Les changements peuvent affecter l'orientation pour les consommateurs, l'étiquetage des aliments et les politiques nutritionnelles institutionnelles."
+            "Les directives insistent sur la limitation des sucres ajoutés et des aliments hautement transformés.",
+            "Un nouveau graphique met visuellement en avant certains aliments, mais les limites chiffrées sur les graisses saturées persistent.",
+            "Les lecteurs doivent noter la différence entre l’emphase visuelle et les recommandations nutritionnelles effectives."
           ]
         },
         "de": {
-          "title": "Neue US‑Ernährungsrichtlinien betonen Vollwertkost und Begrenzung zugesetzten Zuckers, behalten Obergrenze für gesättigte Fette bei",
-          "summary": "Die Dietary Guidelines for Americans 2025–2030 empfehlen den Verzehr minimal verarbeiteter Lebensmittel und vertreten eine klarere Haltung zur Begrenzung zugesetzter Zucker. Obwohl grafische Darstellungen eine breitere Palette von Lebensmitteln hervorheben, bleibt die Empfehlung bestehen, gesättigte Fette unter 10 % der täglichen Kalorienzufuhr zu halten.",
-          "whyItMatters": "Aktualisierungen nationaler Ernährungsempfehlungen können öffentliche Ernährungsbotschaften, Branchenpraktiken und die klinische Beratung beeinflussen; das Verständnis sowohl visueller als auch numerischer Elemente hilft bei der Interpretation der Empfehlungen.",
+          "title": "Ernährungsleitlinien für Amerikaner 2025–2030: Fortschritte bei zugesetztem Zucker, Proteinhype, Widersprüche bei gesättigten Fetten",
+          "summary": "Die Dietary Guidelines 2025–2030 betonen Vollwertkost, strengere Begrenzungen für zugesetzten Zucker und stark verarbeitete Lebensmittel und führen eine neue, umgekehrte Pyramiden‑Grafik ein, die einigen tierischen Lebensmitteln prominente Darstellung gibt, während die langjährige Empfehlung bestehen bleibt, dass gesättigte Fette unter 10 % der täglichen Kalorien bleiben sollten.",
+          "whyItMatters": "Nationale Ernährungsrichtlinien prägen öffentliche Botschaften, Programme und Politik. Änderungen in Betonung und Visualisierung können beeinflussen, wie Menschen Empfehlungen interpretieren, daher ist Klarheit über wichtige numerische Grenzwerte weiterhin wichtig.",
           "takeaways": [
-            "Die Richtlinien betonen den Verzehr von 'echten' bzw. minimal verarbeiteten Lebensmitteln und die Reduzierung zugesetzten Zuckers.",
-            "Eine grafische Darstellung umfasst stärker sichtbare Lebensmittel, doch die Grenze für gesättigte Fette bleibt bestehen.",
-            "Änderungen können Verbraucherberatung, Lebensmittelkennzeichnung und institutionelle Ernährungsrichtlinien beeinflussen."
+            "Die Leitlinien betonen die Begrenzung zugesetzten Zuckers und stark verarbeiteter Lebensmittel.",
+            "Eine neue Grafik rückt bestimmte Lebensmittel visuell in den Vordergrund, aber numerische Grenzwerte für gesättigte Fette bleiben bestehen.",
+            "Leser sollten den Unterschied zwischen visueller Hervorhebung und den tatsächlichen Nährstoffempfehlungen beachten."
           ]
         },
         "pt-br": {
-          "title": "Novas Diretrizes Alimentares dos EUA enfatizam alimentos integrais e limites para açúcares adicionados, mantendo teto para gorduras saturadas",
-          "summary": "As Dietary Guidelines for Americans 2025–2030 promovem o consumo de alimentos minimamente processados e adotam posição mais firme na limitação de açúcares adicionados. Embora as ilustrações incluam uma gama mais ampla de alimentos, a orientação mantém a recomendação de manter gorduras saturadas abaixo de 10% das calorias diárias.",
-          "whyItMatters": "Atualizações nas diretrizes alimentares nacionais podem influenciar mensagens públicas sobre nutrição, práticas da indústria de alimentos e aconselhamento clínico; entender tanto os elementos visuais quanto os numéricos ajuda a interpretar as recomendações.",
+          "title": "Diretrizes Alimentares para Americanos 2025–2030: avanços sobre açúcar adicionado, exagero em proteína e contradições sobre gorduras saturadas",
+          "summary": "As Dietary Guidelines 2025–2030 enfatizam alimentos integrais, limites mais rígidos para açúcares adicionados e itens altamente processados, e introduzem um novo gráfico em pirâmide invertida que dá destaque visual a alguns alimentos de origem animal, mantendo a recomendação de longa data de que gorduras saturadas permaneçam abaixo de 10% das calorias diárias.",
+          "whyItMatters": "Diretrizes dietéticas nacionais moldam mensagens públicas, programas e políticas. Mudanças em ênfase e elementos visuais podem influenciar como as pessoas interpretam as recomendações, portanto a clareza sobre limites numéricos importantes continua sendo importante.",
           "takeaways": [
-            "As diretrizes enfatizam comer alimentos 'reais' ou minimamente processados e reduzir açúcares adicionados.",
-            "Uma apresentação gráfica inclui itens de maior destaque, mas o limite para gorduras saturadas permanece.",
-            "As mudanças podem afetar orientação ao consumidor, rotulagem de alimentos e políticas nutricionais institucionais."
+            "As diretrizes enfatizam limitar açúcares adicionados e alimentos altamente processados.",
+            "Um novo gráfico destaca certos alimentos visualmente, mas os limites numéricos sobre gorduras saturadas permanecem.",
+            "Leitores devem notar a diferença entre ênfase visual e as recomendações nutricionais reais."
           ]
         },
         "hu": {
-          "title": "Az új étrendi irányelvek a teljes értékű élelmiszerekre és a hozzáadott cukor korlátozására helyezik a hangsúlyt, miközben megtartják a telített zsírra vonatkozó felső határt",
-          "summary": "A 2025–2030-as Dietary Guidelines for Americans a minimálisan feldolgozott élelmiszerek fogyasztását és a hozzáadott cukrok csökkentését javasolja. Bár a vizuális megjelenítés szélesebb élelmiszerkört emel ki, az iránymutatás továbbra is megtartja a telített zsír napi kalóriabevitel 10% alatti korlátját.",
-          "whyItMatters": "A nemzeti étrendi iránymutatások frissítése befolyásolhatja a közegészségügyi üzeneteket, az élelmiszeripari gyakorlatokat és a klinikai tanácsadást; a vizuális és számszerű elemek együttes értelmezése segít a javaslatok megértésében.",
+          "title": "Az amerikai étrendi irányelvek 2025–2030: előrelépés a hozzáadott cukorral kapcsolatban, a fehérje túlértékelése és a telített zsír ellentmondásai",
+          "summary": "A 2025–2030-as Dietary Guidelines a teljes értékű élelmiszerekre, a hozzáadott cukrok és az erősen feldolgozott termékek szigorúbb korlátozására helyezi a hangsúlyt, és bevezet egy új, megfordított piramis grafikát, amely bizonyos állati eredetű ételeket kiemel, miközben megőrzi a régi ajánlást, hogy a telített zsír továbbra is maradjon a napi kalóriabevitel kevesebb mint 10%-án belül.",
+          "whyItMatters": "A nemzeti táplálkozási irányelvek alakítják a közösségi üzeneteket, programokat és politikákat. A hangsúlyok és a vizuális elemek változása befolyásolhatja, hogyan értelmezik az emberek az ajánlásokat, ezért fontos a kulcsfontosságú numerikus korlátok egyértelmű kommunikálása.",
           "takeaways": [
-            "Az irányelvek hangsúlyozzák a 'valódi', minimálisan feldolgozott élelmiszerek fogyasztását és a hozzáadott cukrok csökkentését.",
-            "A grafikai megjelenítés többféle élelmiszert is kiemel, de a telített zsírra vonatkozó 10%-os korlátozás továbbra is érvényben marad.",
-            "A változások hatással lehetnek a fogyasztói útmutatásra, élelmiszercímkézésre és intézményi táplálkozási politikákra."
+            "Az irányelvek hangsúlyozzák a hozzáadott cukrok és az erősen feldolgozott élelmiszerek korlátozását.",
+            "Egy új grafika bizonyos ételeket vizuálisan kiemel, de a telített zsírra vonatkozó numerikus korlátok továbbra is érvényben vannak.",
+            "Az olvasóknak érdemes megkülönböztetni a vizuális hangsúlyt és a tényleges tápanyag‑ajánlásokat."
           ]
         },
         "ar": {
-          "title": "إرشادات غذائية جديدة تؤكد على الأطعمة الكاملة والحد من السكّر المضاف مع الإبقاء على حدّ للدهون المشبعة",
-          "summary": "تشجّع إرشادات النظام الغذائي الأمريكية 2025–2030 تناول الأطعمة الأقل معالجة وتتبنى موقفاً أكثر صرامة تجاه الحد من السكّر المضاف. وعلى الرغم من أن العناصر البصرية تبرز نطاقاً أوسع من الأطعمة، تحتفظ الإرشادات بالتوصية طويلة الأمد بالحفاظ على الدهون المشبعة دون 10% من السعرات اليومية.",
-          "whyItMatters": "قد تؤثر تحديثات الإرشادات الغذائية الوطنية في رسائل التغذية العامة وممارسات صناعة الأغذية والإرشاد السريري؛ يساعد فهم العناصر البصرية والرقمية معاً في تفسير التوصيات.",
+          "title": "إرشادات التغذية للأميركيين 2025–2030: تقدم بشأن السكر المضاف، المبالغة في البروتين وتناقضات الدهون المشبعة",
+          "summary": "تؤكد إرشادات 2025–2030 على تناول الأطعمة الكاملة، وقيود أقوى على السكر المضاف والمواد الغذائية المعالجة بشدة، وتُدخل رسمًا هرميًا مقلوبًا جديدًا يمنح إبرازًا بصريًا لبعض الأطعمة الحيوانية مع الاحتفاظ بالتوصية القائمة منذ زمن طويل بأن تظل الدهون المشبعة أقل من 10٪ من السعرات الحرارية اليومية.",
+          "whyItMatters": "تشكل الإرشادات الغذائية الوطنية الرسائل العامة والبرامج والسياسات. قد تؤثر التغييرات في التركيز والمرئيات على كيفية تفسير الناس للتوصيات، لذا يظل الوضوح بشأن الحدود العددية الأساسية مهمًا.",
           "takeaways": [
-            "الإرشادات تشدد على تناول الأطعمة 'الحقيقية' أو الأقل معالجة وتقليل السكّر المضاف.",
-            "تتضمن العروض الرسومية عناصر غذائية بارزة أكثر، لكن حدّ الدهون المشبعة يبقى سارياً.",
-            "قد تؤثر التغييرات على توجيه المستهلكين ووضع علامات الأغذية وسياسات التغذية المؤسسية."
+            "تشدد الإرشادات على تقليل السكر المضاف والأطعمة المعالجة بشدة.",
+            "يبرز الرسم الجديد بعض الأطعمة بصريًا، لكن الحدود العددية للدهون المشبعة لا تزال سارية.",
+            "ينبغي على القراء ملاحظة الفرق بين التأكيد البصري والتوصيات الغذائية الفعلية."
           ]
         }
       },
-      "generatedAt": "2026-05-07T09:14:32.513Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=harvard-dga-2026-01",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dga-2026-01-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dga-2026-01-news.webp",
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dga-2025-2030-harvard-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-harvard-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-harvard-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New Dietary Guidelines emphasize whole foods and added sugar limits while retaining saturated fat cap.\nStory summary: The 2025–2030 Dietary Guidelines for Americans promote eating minimally processed foods and take a firmer stance on limiting added sugars. Although visuals highlight a broader range of foods, the guidance maintains the longstanding recommendation to keep saturated fat under 10% of daily calories..\nCategory: dietary guidance.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions.\nStory summary: The 2025–2030 Dietary Guidelines emphasize whole foods, stronger limits on added sugars and highly processed items, and introduce a new, inverted pyramid graphic that gives prominent placement to some animal foods while retaining the longstanding recommendation that saturated fat remain under 10% of daily calories..\nCategory: Public health / Nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-05-08-motivation-1-s1",
+      "category": "tracking-habit",
+      "languages": {
+        "en": {
+          "title": "Maya's Monday Lunch Plan",
+          "story": "Maya started using short check-ins after discovering she often grabbed a sugary snack between meetings. Each Sunday she spends ten minutes planning lunches and logging them in the app so Monday feels less rushed. By tracking honestly — even the small treats — she noticed patterns and made one simple swap: a piece of fruit instead of a cookie twice a week. It didn’t have to be perfect; the habit of planning and logging helped her feel more in control of choices across the day.",
+          "habit": "Plan and log tomorrow’s meals tonight.",
+          "appCta": "Open Calorie Bank Credit and log one meal today."
+        },
+        "es": {
+          "title": "El plan de almuerzo de Maya",
+          "story": "Maya notó que solía coger un snack azucarado entre reuniones, así que empezó a hacer registros rápidos. Cada domingo dedica diez minutos a planear y registrar los almuerzos para que el lunes sea más tranquilo. Al registrar con honestidad —incluso los caprichos— detectó patrones y empezó a sustituir la galleta por una pieza de fruta un par de veces a la semana. No tiene que ser perfecto: el hábito de planear y anotar le dio más control sobre sus decisiones diarias.",
+          "habit": "Planea y registra las comidas de mañana esta noche.",
+          "appCta": "Abre Calorie Bank Credit y registra una comida hoy."
+        },
+        "ru": {
+          "title": "План ланча Майи",
+          "story": "Майя заметила, что часто перекусывает сладким между встречами, и начала делать короткие записи. По воскресеньям она тратит десять минут на планирование и внесение ланча в приложение, чтобы понедельник прошёл спокойнее. Честно записывая даже небольшие угощения, она заметила закономерности и заменила печенье на фрукт пару раз в неделю. Это не должно быть идеально; привычка планировать и отмечать приёмы пищи дала ей больше уверенности в ежедневных выборах.",
+          "habit": "Спланируй и зафиксируй приёмы пищи на завтра сегодня вечером.",
+          "appCta": "Открой Calorie Bank Credit и запиши одну приём пищи сегодня."
+        },
+        "uk": {
+          "title": "План обіду Майї",
+          "story": "Майя помітила, що часто перекушує солодким між зустрічами, тож почала робити короткі записи. Щонеділі вона витрачає десять хвилин на планування обідів і їхнє внесення в додаток, щоб у понеділок усе було спокійніше. Чесно фіксуючи навіть невеликі смаколики, вона помітила закономірності й замінила печиво на фрукт пару разів на тиждень. Не потрібно бути ідеальним — звичка планувати й записувати допомогла їй відчувати більше контролю над виборами протягом дня.",
+          "habit": "Заплануй і занотуй прийоми їжі на завтра сьогодні ввечері.",
+          "appCta": "Відкрий Calorie Bank Credit і занотуй один прийом їжі сьогодні."
+        },
+        "fr": {
+          "title": "Le déjeuner anticipé de Maya",
+          "story": "Maya s’est rendu compte qu’elle prenait souvent une viennoiserie sucrée entre deux réunions. Désormais, chaque dimanche, elle prend dix minutes pour planifier ses déjeuners et les noter dans l’application, ce qui rend le lundi plus serein. En notant avec honnêteté — même les petites envies — elle a repéré des tendances et a remplacé le cookie par un fruit deux fois par semaine. Pas besoin de perfection : le simple geste de planifier et d’enregistrer l’aide à mieux gérer ses choix au quotidien.",
+          "habit": "Planifie et note les repas de demain ce soir.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre un repas aujourd’hui."
+        },
+        "de": {
+          "title": "Mayas Mittagsplan",
+          "story": "Maya stellte fest, dass sie zwischen Meetings oft etwas Süßes holte. Deshalb plant sie sonntags zehn Minuten für ihre Mittagsmahlzeiten und trägt sie ins App ein, damit der Montag entspannter wird. Indem sie ehrlich — auch kleine Snacks — protokollierte, erkannte sie Muster und tauschte zweimal pro Woche einen Keks gegen Obst. Es muss nicht perfekt sein; die Gewohnheit zu planen und zu dokumentieren gibt ihr mehr Sicherheit bei den täglichen Entscheidungen.",
+          "habit": "Plane und trage die Mahlzeiten für morgen heute Abend ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute eine Mahlzeit ein."
+        },
+        "pt-br": {
+          "title": "O plano de almoço da Maya",
+          "story": "Maya percebeu que pegava um lanche doce entre reuniões e passou a fazer registros rápidos. Aos domingos ela reserva dez minutos para planejar e anotar os almoços no app, deixando a segunda-feira mais tranquila. Ao registrar com honestidade — até os pequenos desejos — ela notou padrões e trocou o biscoito por uma fruta duas vezes por semana. Não precisa ser perfeito; o hábito de planejar e registrar a ajudou a sentir mais controle sobre as escolhas do dia a dia.",
+          "habit": "Planeje e registre as refeições de amanhã hoje à noite.",
+          "appCta": "Abra Calorie Bank Credit e registre uma refeição hoje."
+        },
+        "hu": {
+          "title": "Maya ebédterve",
+          "story": "Maya észrevette, hogy gyakran nassol valami édeset a megbeszélések között, és rövid bejegyzéseket kezdett írni. Minden vasárnap tíz percet szán arra, hogy megtervezze és beírja az ebédeket az alkalmazásba, így a hétfő kevésbé hektikus. Ha őszintén rögzíti még a kis bűnöket is, mint a süti, mintákat fedez fel, és heti kétszer cserélte a sütit gyümölcsre. Nem kell tökéletesnek lennie; a tervezés és rögzítés szokása több kontrollt ad a napi döntésekhez.",
+          "habit": "Tervezd meg és rögzítsd holnapi étkezéseidet ma este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzíts ma egy étkezést."
+        },
+        "ar": {
+          "title": "خطة غداء مايا",
+          "story": "لاحظت مايا أنها كثيرًا ما تتناول وجبة خفيفة محلاة بين الاجتماعات، فبدأت بتدوين تسجيلات قصيرة. كل يوم أحد تخصص عشر دقائق لتخطيط وجبات الغداء وتسجيلها في التطبيق ليكون يوم الاثنين أقل انشغالًا. عبر التدوين بصراحة — حتى عن الوجبات الصغيرة — لاحظت نمطًا واستبدلت البسكويت بفاكهة مرتين في الأسبوع. ليس مطلوبًا أن تكون مثالية؛ عادة التخطيط والتسجيل منحتها شعورًا أكبر بالتحكم عند اتخاذ الخيارات اليومية.",
+          "habit": "خطط وسجل وجبات الغد هذه الليلة.",
+          "appCta": "افتح Calorie Bank Credit وسجل وجبة واحدة اليوم."
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya's Monday Lunch Plan.\nStory: Maya started using short check-ins after discovering she often grabbed a sugary snack between meetings. Each Sunday she spends ten minutes planning lunches and logging them in the app so Monday feels less rushed. By tracking honestly — even the small treats — she noticed patterns and made one simple swap: a piece of fruit instead of a cookie twice a week. It didn’t have to be perfect; the habit of planning and logging helped her feel more in control of choices across the day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-08-motivation-2-s2",
+      "category": "tracking-habit",
+      "languages": {
+        "en": {
+          "title": "Tom's Honest Coffee Moment",
+          "story": "Tom realized he hadn’t been counting the extra milk and syrup in his morning café coffees. Instead of cutting out his favorite drink, he started logging it exactly as he ordered—medium size, added syrup—so his records matched real life. That small habit of honest logging showed him where a few extra calories were sneaking in and helped him make tiny adjustments, like asking for less syrup sometimes. Tracking let Tom make choices without losing the things he enjoys.",
+          "habit": "Log beverages and add-ons exactly as ordered.",
+          "appCta": "Open Calorie Bank Credit and log a drink today."
+        },
+        "es": {
+          "title": "El café sincero de Tom",
+          "story": "Tom se dio cuenta de que no contabilizaba la leche y el jarabe extra de sus cafés matutinos. En lugar de dejar su bebida favorita, empezó a registrarla tal cual la pedía —mediana, con jarabe— para que sus registros reflejaran la realidad. Ese pequeño hábito de registrar con honestidad le mostró dónde se acumulaban calorías y le permitió hacer pequeños ajustes, como pedir menos jarabe de vez en cuando. Registrar le ayudó a decidir sin renunciar a lo que disfruta.",
+          "habit": "Registra bebidas y añadidos tal como se piden.",
+          "appCta": "Abre Calorie Bank Credit y registra una bebida hoy."
+        },
+        "ru": {
+          "title": "Честный кофе Тома",
+          "story": "Том заметил, что не учитывал лишнее молоко и сироп в утреннем кофе. Вместо того чтобы отказываться от любимого напитка, он стал запивать его так, как заказывал — средний размер, с сиропом — чтобы записи соответствовали реальности. Эта небольшая привычка честно отмечать показала, где скрываются дополнительные калории, и позволила вносить маленькие изменения, например просить меньше сиропа. Отслеживание помогло Тому делать осознанные выборы, не отказываясь от удовольствий.",
+          "habit": "Записывай напитки и добавки точно как заказываешь.",
+          "appCta": "Открой Calorie Bank Credit и запиши сегодня напиток."
+        },
+        "uk": {
+          "title": "Чесна кава Тома",
+          "story": "Том помітив, що не враховував додаткове молоко та сироп у своїй ранковій каві. Замість того, щоб відмовлятися від улюбленого напою, він почав записувати його таким, яким замовляв — середній розмір, з сиропом — щоб записи відповідали реальності. Ця дрібна звичка чесного запису показала, де «ховались» зайві калорії, і допомогла робити невеликі корективи, наприклад просити менше сиропу. Відстеження допомогло Тому приймати усвідомлені рішення, не відмовляючись від приємного.",
+          "habit": "Записуй напої та добавки точно як замовляєш.",
+          "appCta": "Відкрий Calorie Bank Credit і запиши сьогодні напій."
+        },
+        "fr": {
+          "title": "Le café sincère de Tom",
+          "story": "Tom s’est aperçu qu’il n’ajoutait pas le lait et le sirop supplémentaires de son café du matin dans ses comptes. Plutôt que de supprimer sa boisson préférée, il a commencé à la noter exactement comme il la commande — taille moyenne, sirop ajouté — pour que ses enregistrements reflètent la réalité. Cette petite habitude d’honnêteté lui a révélé d’où venaient quelques calories superflues et lui a permis d’ajuster légèrement, par exemple en demandant moins de sirop parfois.",
+          "habit": "Enregistre les boissons et extras tels qu’ils sont commandés.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre une boisson aujourd’hui."
+        },
+        "de": {
+          "title": "Toms ehrlicher Kaffee",
+          "story": "Tom bemerkte, dass er die zusätzliche Milch und den Sirup in seinem Morgenkaffee nicht registrierte. Statt auf sein Lieblingsgetränk zu verzichten, begann er, es genau so zu protokollieren, wie er es bestellt — medium, mit Sirup — damit die Einträge der Realität entsprechen. Diese kleine Gewohnheit des ehrlichen Eintragens zeigte ihm, wo sich ein paar Extra-Kalorien einschlichen, und ermöglichte kleine Anpassungen, etwa seltener Sirup zu bestellen. Das Tracking half Tom, Entscheidungen zu treffen, ohne auf Genuss zu verzichten.",
+          "habit": "Trage Getränke und Extras genau so ein, wie sie bestellt wurden.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein Getränk ein."
+        },
+        "pt-br": {
+          "title": "O café honesto do Tom",
+          "story": "Tom percebeu que não contabilizava o leite e o xarope extra dos seus cafés matinais. Em vez de abrir mão da bebida preferida, ele passou a registrá-la exatamente como pedia — tamanho médio, xarope — para que o registro refletisse a realidade. Esse pequeno hábito de registrar com honestidade mostrou onde algumas calorias extras apareciam e permitiu ajustes sutis, como pedir menos xarope às vezes. Registrar ajudou Tom a fazer escolhas conscientes sem renunciar aos prazeres.",
+          "habit": "Registre bebidas e complementos exatamente como são pedidos.",
+          "appCta": "Abra Calorie Bank Credit e registre uma bebida hoje."
+        },
+        "hu": {
+          "title": "Tom őszinte kávépillanata",
+          "story": "Tom észrevette, hogy nem számolja bele a reggeli kávéjába tett plusz tejet és szirupot. Ahelyett, hogy lemondott volna kedvenc italáról, elkezdte pontosan úgy naplózni, ahogy rendeli — közepes méret, hozzáadott szirup — így a bejegyzések megfeleltek a valóságnak. Ez a kis őszinteség megmutatta, hol csúsznak be a plusz kalóriák, és lehetővé tett apró változtatásokat, például ritkábban kérni szirupot. A naplózás segített neki tudatos döntéseket hozni anélkül, hogy lemondana az örömökről.",
+          "habit": "Naplózd a italokat és hozzávalókat pontosan, ahogy kéred.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és naplózz ma egy italt."
+        },
+        "ar": {
+          "title": "لحظة القهوة الصادقة لدى توم",
+          "story": "أدرك توم أنه لا يحسب كمية الحليب والشراب الإضافية في قهوته الصباحية. بدلاً من التخلي عن مشروبه المفضل، بدأ بتسجيله كما يطلبه — حجم متوسط مع شراب — حتى تعكس السجلات الواقع. ساعده هذا السلوك البسيط في معرفة مصدر بعض السعرات الإضافية وأتاح له تعديلًا صغيرًا أحيانًا مثل طلب كمية شراب أقل. سمح له التسجيل باتخاذ خيارات واعية دون التخلي عن ما يستمتع به.",
+          "habit": "سجل المشروبات والإضافات كما تطلبها تمامًا.",
+          "appCta": "افتح Calorie Bank Credit وسجل مشروبًا واحدًا اليوم."
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tom's Honest Coffee Moment.\nStory: Tom realized he hadn’t been counting the extra milk and syrup in his morning café coffees. Instead of cutting out his favorite drink, he started logging it exactly as he ordered—medium size, added syrup—so his records matched real life. That small habit of honest logging showed him where a few extra calories were sneaking in and helped him make tiny adjustments, like asking for less syrup sometimes. Tracking let Tom make choices without losing the things he enjoys..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-08-motivation-3-s3",
+      "category": "tracking-habit",
+      "languages": {
+        "en": {
+          "title": "Ana's Family Dinner Tweak",
+          "story": "Ana enjoys cooking for her family but found dinner leftovers were slipping by unlogged. She began photographing plates before they were passed around and adding a quick note afterwards. Seeing the photos helped her estimate portions and notice when seconds were typical. Instead of overhauling meals, she made small, realistic tweaks — extra veggies on the side or slightly smaller serving spoons — and logged honestly. The visual habit kept tracking simple and made it easier to spot patterns over a week.",
+          "habit": "Take a photo of your plate and add a quick note after eating.",
+          "appCta": "Open Calorie Bank Credit and log one dinner today."
+        },
+        "es": {
+          "title": "El ajuste en la cena de Ana",
+          "story": "A Ana le encanta cocinar para su familia, pero se daba cuenta de que las sobras a menudo quedaban sin registrar. Empezó a fotografiar los platos antes de repartirlos y a añadir una nota rápida después. Ver las fotos le ayudó a estimar porciones y a detectar cuándo era normal repetir. En vez de cambiar las recetas, hizo ajustes pequeños y realistas —más verduras al lado o cucharas de servir más pequeñas— y registró con honestidad. La foto facilitó el registro y la identificación de patrones durante la semana.",
+          "habit": "Toma una foto de tu plato y añade una nota rápida después.",
+          "appCta": "Abre Calorie Bank Credit y registra una cena hoy."
+        },
+        "ru": {
+          "title": "Небольшая правка семейного ужина Анны",
+          "story": "Анна любит готовить для семьи, но заметила, что остатки еды часто остаются незаписанными. Она начала фотографировать тарелки перед тем, как разносить, и добавлять краткую пометку потом. Фото помогали прикинуть порции и увидеть, когда добавки становятся обычным делом. Вместо кардинальных изменений она ввела небольшие реалистичные правки — больше овощей рядом или более мелкие ложки для подачи — и честно записывала. Визуальная привычка упростила ведение записей и помогла увидеть закономерности за неделю.",
+          "habit": "Сфотографируй тарелку и добавь короткую пометку после еды.",
+          "appCta": "Открой Calorie Bank Credit и запиши один ужин сегодня."
+        },
+        "uk": {
+          "title": "Невелика зміна вечері в родині Ані",
+          "story": "Аня любить готувати для родини, але помітила, що залишки їжі часто лишаються незаписаними. Вона почала фотографувати тарілки перед роздачею та додавати коротку нотатку після. Фото допомагали оцінити порції й помітити, коли добавки стали звичкою. Замість кардинальних змін вона ввела невеликі реалістичні корективи — більше овочів окремо або менші ложки для сервірування — і чесно записувала. Такий візуальний підхід спростив відстеження й допоміг помітити шаблони протягом тижня.",
+          "habit": "Зроби фото тарілки і додай коротку нотатку після їжі.",
+          "appCta": "Відкрий Calorie Bank Credit і занотуй одну вечерю сьогодні."
+        },
+        "fr": {
+          "title": "Le petit ajustement du dîner d'Ana",
+          "story": "Ana aime cuisiner pour sa famille, mais constatait que les restes n'étaient souvent pas notés. Elle a commencé à photographier les assiettes avant de les servir et à ajouter une petite note ensuite. Les photos l'ont aidée à estimer les portions et à repérer quand les seconds services étaient fréquents. Plutôt que de tout changer, elle a opéré des ajustements modestes et réalistes — davantage de légumes en accompagnement ou des cuillères de service plus petites — et noté avec honnêteté. Le visuel a rendu le suivi simple et utile sur la semaine.",
+          "habit": "Prends une photo de ton assiette et ajoute une note rapide après avoir mangé.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre un dîner aujourd’hui."
+        },
+        "de": {
+          "title": "Annas kleiner Abendessen-Hack",
+          "story": "Anna kocht gern für ihre Familie, merkte aber, dass Reste oft nicht erfasst wurden. Sie begann, Teller vor dem Verteilen zu fotografieren und danach eine kurze Notiz hinzuzufügen. Die Fotos halfen ihr, Portionen besser einzuschätzen und zu erkennen, wann Nachschlag üblich wurde. Statt die Gerichte komplett umzubauen, nahm sie kleine, realistische Anpassungen vor — mehr Gemüse als Beilage oder kleinere Servierlöffel — und protokollierte ehrlich. Die visuelle Gewohnheit machte das Tracking einfacher und half, Muster über die Woche zu erkennen.",
+          "habit": "Mach ein Foto von deinem Teller und füge nach dem Essen eine kurze Notiz hinzu.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein Abendessen ein."
+        },
+        "pt-br": {
+          "title": "O ajuste no jantar de Ana",
+          "story": "Ana gosta de cozinhar para a família, mas viu que as sobras muitas vezes não eram registradas. Ela começou a fotografar os pratos antes de servir e adicionar uma nota rápida depois. As fotos ajudaram-na a estimar porções e perceber quando o segundo prato virava rotina. Em vez de reformular as receitas, fez pequenas mudanças realistas — mais legumes ao lado ou conchas de servir menores — e registrou com honestidade. O hábito visual deixou o registro mais simples e mostrou padrões durante a semana.",
+          "habit": "Tire uma foto do seu prato e adicione uma nota rápida depois de comer.",
+          "appCta": "Abra Calorie Bank Credit e registre um jantar hoje."
+        },
+        "hu": {
+          "title": "Ana apró vacsora-változtatása",
+          "story": "Ana szeret a családjának főzni, de észrevette, hogy a maradékok gyakran kimaradnak a naplóból. Elkezdte lefotózni a tányérokat tálalás előtt, majd rövid megjegyzést fűzött hozzá később. A fotók segítettek a porsionok becslésében és abban, hogy észrevegye, mikor szokássá válnak a második adagok. Ahelyett, hogy mindent átformált volna, apró, reális változtatásokat vezetett be — több zöldség köretként vagy kisebb adagolókanalak — és őszintén rögzítette. A vizuális szokás leegyszerűsítette a naplózást és segített mintákat felismerni a héten.",
+          "habit": "Készíts fotót a tányérról és írj egy rövid megjegyzést evés után.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma egy vacsorát."
+        },
+        "ar": {
+          "title": "تعديل عشاء عائلة آنا",
+          "story": "تحب آنا الطهي لعائلتها لكنها لاحظت أن بقايا الطعام غالبًا ما تُترك دون تسجيل. بدأت بتصوير الأطباق قبل توزيعها وإضافة ملاحظة سريعة بعدها. مساعدتها الصور في تقدير الحصص ولاحظت متى يصبح أخذ الحصة الثانية أمرًا معتادًا. بدلًا من تغيير الوصفات كلها، أجرت تعديلات صغيرة وواقعية — مزيد من الخضروات بجانب الطبق أو ملاعق تقديم أصغر — وسجلت بصراحة. جعل هذا الروتين البصري التسجيل أبسط وسهل اكتشاف النماذج خلال الأسبوع.",
+          "habit": "التقط صورة لطبقك وأضف ملاحظة سريعة بعد الأكل.",
+          "appCta": "افتح Calorie Bank Credit وسجل عشاءً واحدًا اليوم."
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Ana's Family Dinner Tweak.\nStory: Ana enjoys cooking for her family but found dinner leftovers were slipping by unlogged. She began photographing plates before they were passed around and adding a quick note afterwards. Seeing the photos helped her estimate portions and notice when seconds were typical. Instead of overhauling meals, she made small, realistic tweaks — extra veggies on the side or slightly smaller serving spoons — and logged honestly. The visual habit kept tracking simple and made it easier to spot patterns over a week..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-08-motivation-4-s4",
+      "category": "tracking-habit",
+      "languages": {
+        "en": {
+          "title": "Sam's Weekend Bite Strategy",
+          "story": "Sam enjoys weekends with friends and used to skip tracking when plans changed. He introduced a tiny goal: three entries a day on weekends — breakfast, one main meal, and one snack — to keep momentum without feeling chained to the app. Some days he logged more, some days only two, and that was fine. The point was consistency over time, not perfection in a single day. This small, flexible rule made tracking fit his social life and helped him spot when certain gatherings usually meant extra snacking.",
+          "habit": "Set a simple daily minimum (e.g., 3 entries) and be flexible.",
+          "appCta": "Open Calorie Bank Credit and log one entry today."
+        },
+        "es": {
+          "title": "La estrategia de fin de semana de Sam",
+          "story": "A Sam le gustan los fines de semana con amigos y antes dejaba de registrar cuando cambiaban los planes. Introdujo un objetivo pequeño: tres registros al día en fin de semana — desayuno, una comida principal y un snack — para mantener continuidad sin sentirse atado a la app. Unos días registraba más, otros solo dos, y estaba bien. Lo importante era la constancia a lo largo del tiempo, no la perfección de un día. Esa regla pequeña y flexible hizo que el registro encajara con su vida social.",
+          "habit": "Fija un mínimo diario sencillo (p. ej., 3 entradas) y sé flexible.",
+          "appCta": "Abre Calorie Bank Credit y registra una entrada hoy."
+        },
+        "ru": {
+          "title": "Уикенд-стратегия Сэма",
+          "story": "Сэму нравятся выходные с друзьями, и раньше он переставал следить за записями, если планы менялись. Он ввёл маленькую цель: три записи в день на выходных — завтрак, основное блюдо и перекус — чтобы не терять ритм и не чувствовать себя привязанным к приложению. В некоторые дни он записывал больше, в другие — только две записи, и это было нормально. Важна была последовательность со временем, а не идеальный день. Это простое и гибкое правило помогло вписать отслеживание в его соцжизнь.",
+          "habit": "Установи простой ежедневный минимум (например, 3 записи) и будь гибким.",
+          "appCta": "Открой Calorie Bank Credit и запиши одну запись сегодня."
+        },
+        "uk": {
+          "title": "Стратегія вихідного Сема",
+          "story": "Сему подобаються вихідні з друзями, і раніше він кидав відстеження, коли плани змінювалися. Він встановив маленьку мету: три записи на день у вихідні — сніданок, одна основна страва і перекус — щоб зберегти ритм без відчуття прив’язаності до додатка. Деколи він записував більше, іноді лише два, і це було нормально. Важлива була послідовність у часі, а не ідеальний день. Це просте, гнучке правило допомогло вписати відстеження в його соціальне життя.",
+          "habit": "Постав простий щоденний мінімум (напр., 3 записи) і будь гнучким.",
+          "appCta": "Відкрий Calorie Bank Credit і занотуй одну позицію сьогодні."
+        },
+        "fr": {
+          "title": "La stratégie week-end de Sam",
+          "story": "Sam aime les week-ends entre amis et ne suivait plus ses enregistrements quand les plans changeaient. Il a instauré un petit objectif : trois entrées par jour le week-end — petit-déjeuner, un repas principal et une collation — pour garder le rythme sans se sentir prisonnier de l’appli. Certains jours il en notait plus, d’autres seulement deux, et ce n’était pas grave. L’important était la constance sur la durée, pas la perfection d’une journée. Cette règle simple et flexible a permis au suivi de s’adapter à sa vie sociale.",
+          "habit": "Fixe un minimum quotidien simple (ex. 3 entrées) et reste flexible.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre une entrée aujourd’hui."
+        },
+        "de": {
+          "title": "Sams Wochenend-Strategie",
+          "story": "Sam genießt Wochenenden mit Freunden und ließ das Tracking oft weg, wenn sich Pläne änderten. Er führte ein kleines Ziel ein: drei Einträge pro Tag am Wochenende — Frühstück, eine Hauptmahlzeit und ein Snack — um in Schwung zu bleiben, ohne sich ans App gebunden zu fühlen. An manchen Tagen trug er mehr ein, an anderen nur zwei, und das war völlig in Ordnung. Wichtig war Konsistenz über die Zeit, nicht Perfektion an einem Tag. Diese einfache flexible Regel passte das Tracking gut in sein Sozialleben ein.",
+          "habit": "Setze ein einfaches tägliches Minimum (z. B. 3 Einträge) und sei flexibel.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute einen Eintrag ein."
+        },
+        "pt-br": {
+          "title": "A estratégia de fim de semana do Sam",
+          "story": "Sam gosta dos fins de semana com amigos e costumava parar de registrar quando os planos mudavam. Ele adotou uma meta pequena: três registros por dia nos fins de semana — café da manhã, uma refeição principal e um lanche — para manter o ritmo sem se sentir preso ao app. Alguns dias registrava mais, outros só dois, e tudo bem. O importante é a consistência ao longo do tempo, não a perfeição em um único dia. Essa regra simples e flexível permitiu que o registro se ajustasse à vida social dele.",
+          "habit": "Defina um mínimo diário simples (ex.: 3 entradas) e seja flexível.",
+          "appCta": "Abra Calorie Bank Credit e registre uma entrada hoje."
+        },
+        "hu": {
+          "title": "Sam hétvégi stratégiája",
+          "story": "Sam szeret hétvégén barátokkal lenni, és korábban kihagyta a naplózást, ha változtak a tervek. Bevezetett egy apró célt: hétvégén napi három bejegyzés — reggeli, egy főétkezés és egy nassolás — hogy tartsa a lendületet anélkül, hogy az app rabszolgájának érezte volna magát. Egyes napokon többet, máskor csak kettőt rögzített, és ez rendben volt. A lényeg az időbeli következetesség, nem az egy nap tökéletessége. Ez a kis, rugalmas szabály segített, hogy a naplózás illeszkedjen a társas életéhez.",
+          "habit": "Állíts be egy egyszerű napi minimumot (pl. 3 bejegyzés) és légy rugalmas.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma egy bejegyzést."
+        },
+        "ar": {
+          "title": "استراتيجية عطلة نهاية الأسبوع لدى سام",
+          "story": "يستمتع سام بعطل نهاية الأسبوع مع الأصدقاء وكان يتوقف عن التسجيل عندما تتغير الخطط. وضع هدفًا صغيرًا: ثلاث تسجيلات يوميًا في عطلة نهاية الأسبوع — الإفطار، وجبة رئيسية واحدة، ووجبة خفيفة — للحفاظ على الاستمرارية دون الشعور بالتقييد بالتطبيق. في بعض الأيام يسجل أكثر، وفي أيام أخرى فقط اثنين، وهذا مقبول. المهم هو الاتساق على المدى الطويل، وليس الكمال في يوم واحد. هذه القاعدة الصغيرة والمرنة جعلت التسجيل يتناسب مع حياته الاجتماعية.",
+          "habit": "حدد حدًا يوميًا بسيطًا (مثلاً 3 تسجيلات) وكن مرنًا.",
+          "appCta": "افتح Calorie Bank Credit وسجل مدخلاً واحدًا اليوم."
+        }
+      },
+      "generatedAt": "2026-05-08T08:10:31.903Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-08-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Sam's Weekend Bite Strategy.\nStory: Sam enjoys weekends with friends and used to skip tracking when plans changed. He introduced a tiny goal: three entries a day on weekends — breakfast, one main meal, and one snack — to keep momentum without feeling chained to the app. Some days he logged more, some days only two, and that was fine. The point was consistency over time, not perfection in a single day. This small, flexible rule made tracking fit his social life and helped him spot when certain gatherings usually meant extra snacking..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-05-07-motivation-1-story-1",
       "category": "planning",
