@@ -1,7 +1,756 @@
 {
-  "generatedAt": "2026-05-13T09:28:40.431Z",
+  "generatedAt": "2026-05-14T09:18:27.404Z",
   "sourceCount": 21,
   "articles": [
+    {
+      "id": "urinary-nanoprobe-senescence-2026",
+      "category": "aging research",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01116-z",
+      "sourceTitle": "Urinary detection of therapy-induced senescence and fibrosis using an injectable albumin-based nanoprobe",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Albumin-based nanoprobe enables urine monitoring of therapy-induced senescence",
+          "summary": "Researchers developed an injectable albumin nanoprobe that detects senescence-associated activity (via MMP-7) and can be measured in urine to track senescent cell burden and treatment response in lung cancer and related pulmonary conditions.",
+          "whyItMatters": "A non-invasive method to monitor senescence could help evaluate senolytic or anti-fibrotic therapies and personalize treatment strategies in diseases where cellular senescence is implicated.",
+          "takeaways": [
+            "The nanoprobe leverages MMP-7 activity to generate a urine-detectable signal of senescence.",
+            "The approach aims to monitor treatment response in lung cancer and pulmonary fibrosis contexts.",
+            "This is a research-stage tool; clinical utility will depend on further validation."
+          ]
+        },
+        "es": {
+          "title": "Nansonda a base de albúmina permite monitorizar en orina la senescencia inducida por tratamiento",
+          "summary": "Los investigadores desarrollaron una nansonda inyectable basada en albúmina que detecta actividad asociada a la senescencia (vía MMP-7) y puede medirse en orina para seguir la carga de células senescentes y la respuesta al tratamiento en cáncer de pulmón y condiciones pulmonares relacionadas.",
+          "whyItMatters": "Un método no invasivo para monitorear la senescencia podría ayudar a evaluar terapias senolíticas o antifibróticas y personalizar estrategias de tratamiento en enfermedades donde la senescencia celular está implicada.",
+          "takeaways": [
+            "La nansonda aprovecha la actividad de MMP-7 para generar una señal detectable en orina de la senescencia.",
+            "El enfoque pretende monitorear la respuesta al tratamiento en contextos de cáncer de pulmón y fibrosis pulmonar.",
+            "Esta es una herramienta en fase de investigación; su utilidad clínica dependerá de validación adicional."
+          ]
+        },
+        "ru": {
+          "title": "Нанозонд на основе альбумина позволяет отслеживать терапевтически индуцированную сенесценцию по анализу мочи",
+          "summary": "Исследователи разработали инъекционный нанозонд на основе альбумина, который обнаруживает активность, связанную с сенесценцией (через MMP‑7), и может измеряться в моче для отслеживания нагрузки сенесцентных клеток и ответа на лечение при раке лёгкого и связанных с ним заболеваниях лёгких.",
+          "whyItMatters": "Неинвазивный метод мониторинга сенесценции мог бы помочь оценивать сенолитическую или антифибротическую терапию и персонализировать стратегии лечения при заболеваниях, где участвует клеточная сенесценция.",
+          "takeaways": [
+            "Нанозонд использует активность MMP‑7 для генерации сигнала сенесценции, обнаруживаемого в моче.",
+            "Подход нацелен на мониторинг ответа на лечение в контексте рака лёгкого и лёгочной фиброзы.",
+            "Это инструмент на стадии исследования; клиническая ценность потребует дальнейшей валидации."
+          ]
+        },
+        "uk": {
+          "title": "Альбуміновий нанозонд дозволяє відстежувати терапією індуковану сенесценцію за аналізом сечі",
+          "summary": "Дослідники створили інʼєкційний нанозонд на основі альбуміну, який виявляє активність, повʼязану зі сенесценцією (через MMP‑7), і дає сигнал, вимірний у сечі для відстеження навантаження сенесцентних клітин і відповіді на лікування в раку легенів та споріднених захворюваннях органів дихання.",
+          "whyItMatters": "Неінвазивний метод моніторингу сенесценції може допомогти оцінювати сенолітичні або антифібротичні препарати та персоналізувати стратегії лікування у захворюваннях, де клітинна сенесценція має значення.",
+          "takeaways": [
+            "Нанозонд використовує активність MMP‑7 для створення сигналу, виявного в сечі, що відображає сенесценцію.",
+            "Підхід спрямований на моніторинг відповіді на лікування в контексті раку легенів і легеневого фіброзу.",
+            "Це інструмент на стадії досліджень; клінічна корисність залежатиме від подальшої валідації."
+          ]
+        },
+        "fr": {
+          "title": "Une nanoprobe à base d'albumine permet de surveiller la sénescence induite par un traitement dans les urines",
+          "summary": "Des chercheurs ont développé une nanoprobe injectable à base d'albumine qui détecte une activité associée à la sénescence (via MMP‑7) et peut être mesurée dans les urines pour suivre la charge de cellules sénescentes et la réponse au traitement dans le cancer du poumon et les affections pulmonaires apparentées.",
+          "whyItMatters": "Une méthode non invasive pour surveiller la sénescence pourrait aider à évaluer des thérapies sénolytiques ou anti‑fibrotiques et à personnaliser les stratégies thérapeutiques dans des maladies où la sénescence cellulaire est impliquée.",
+          "takeaways": [
+            "La nanoprobe exploite l'activité de MMP‑7 pour générer un signal détectable dans les urines reflétant la sénescence.",
+            "L'approche vise à suivre la réponse au traitement dans le contexte du cancer du poumon et de la fibrose pulmonaire.",
+            "Il s'agit d'un outil en phase de recherche; son utilité clinique dépendra de validations complémentaires."
+          ]
+        },
+        "de": {
+          "title": "Albumin-basierte Nanoprobe ermöglicht Urinüberwachung therapieinduzierter Seneszenz",
+          "summary": "Forscher entwickelten eine injizierbare Albumin-Nanoprobe, die seneszenzassoziierte Aktivität (über MMP‑7) detektiert und im Urin messbar ist, um die Belastung durch seneszente Zellen und die Behandlungsantwort bei Lungenkrebs und verwandten pulmonalen Erkrankungen zu verfolgen.",
+          "whyItMatters": "Eine nichtinvasive Methode zur Überwachung von Seneszenz könnte helfen, senolytische oder antifibrotische Therapien zu bewerten und Behandlungsstrategien in Erkrankungen zu personalisieren, bei denen zelluläre Seneszenz eine Rolle spielt.",
+          "takeaways": [
+            "Die Nanoprobe nutzt MMP‑7‑Aktivität, um ein im Urin detektierbares Signal der Seneszenz zu erzeugen.",
+            "Der Ansatz zielt darauf ab, die Behandlungsantwort bei Lungenkrebs und pulmonaler Fibrose zu überwachen.",
+            "Dies ist ein forschungsorientiertes Werkzeug; der klinische Nutzen hängt von weiterer Validierung ab."
+          ]
+        },
+        "pt-br": {
+          "title": "Nansonda à base de albumina permite monitorização urinária da senescência induzida por tratamento",
+          "summary": "Pesquisadores desenvolveram uma nansonda injetável à base de albumina que detecta atividade associada à senescência (via MMP‑7) e pode ser medida na urina para acompanhar a carga de células senescentes e a resposta ao tratamento em câncer de pulmão e condições pulmonares relacionadas.",
+          "whyItMatters": "Um método não invasivo para monitorar a senescência pode ajudar a avaliar terapias senolíticas ou antifibróticas e personalizar estratégias de tratamento em doenças nas quais a senescência celular está implicada.",
+          "takeaways": [
+            "A nansonda aproveita a atividade de MMP‑7 para gerar um sinal detectável na urina da senescência.",
+            "A abordagem visa monitorar a resposta ao tratamento em contextos de câncer de pulmão e fibrose pulmonar.",
+            "Trata-se de uma ferramenta em estágio de pesquisa; a utilidade clínica dependerá de validações adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Albuminalapú nanopróba lehetővé teszi a terápiával indukált szeneszcencia vizeletből történő nyomon követését",
+          "summary": "Kutatók kifejlesztettek egy injekciózható albumin-nanopróbát, amely a szeneszcencia-asszociált aktivitást (MMP-7 révén) kimutatja és vizeletben mérhető jelet ad, hogy nyomon kövessék az elöregedett sejtek terhelését és a kezelésre adott választ tüdőrákban és kapcsolódó tüdőbetegségekben.",
+          "whyItMatters": "A nem invazív módszer a szeneszcencia monitorozására segíthet értékelni szenolitikus vagy anti-fibrotikus terápiák hatását, és személyre szabott kezelési stratégiák kidolgozását olyan betegségekben, ahol a sejtes szeneszcencia szerepet játszik.",
+          "takeaways": [
+            "A nanopróba az MMP-7 aktivitását használja arra, hogy vizeletben kimutatható jelet generáljon a szeneszcenciára.",
+            "A megközelítés célja a kezelési válasz nyomon követése tüdőrák és tüdőfibrózis összefüggéseiben.",
+            "Kutatási stádiumban lévő eszközről van szó; a klinikai hasznossága további validálástól függ."
+          ]
+        },
+        "ar": {
+          "title": "مسبار نانوي قائم على الألبومين يمكّن رصد الشيخوخة الخلوية المحفزة بالعلاج عبر البول",
+          "summary": "طور الباحثون مسبارًا نانويًا قابلًا للحقن يعتمد على الألبومين يكتشف نشاطًا مرتبطًا بالشيخوخة الخلوية (عبر MMP-7) ويمكن قياسه في البول لتتبع عبء الخلايا المتشيخة والاستجابة للعلاج في حالات سرطان الرئة والأمراض الرئوية المرتبطة.",
+          "whyItMatters": "قد تساعد طريقة غير جراحية لمراقبة الشيخوخة الخلوية في تقييم العلاجات السِنُوليتية أو المضادة للتليف وتخصيص الاستراتيجيات العلاجية في الأمراض التي تُشارك فيها الشيخوخة الخلوية.",
+          "takeaways": [
+            "يستفيد المسبار من نشاط MMP-7 لتوليد إشارة قابلة للاكتشاف في البول للشيخوخة الخلوية.",
+            "تهدف المقاربة إلى رصد استجابة العلاج في سياقات سرطان الرئة والتليف الرئوي.",
+            "هذه أداة في مرحلة البحث؛ ستعتمد فائدتها السريرية على مزيد من التحقق."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=urinary-nanoprobe-senescence-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/urinary-nanoprobe-senescence-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/urinary-nanoprobe-senescence-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Albumin-based nanoprobe enables urine monitoring of therapy-induced senescence.\nStory summary: Researchers developed an injectable albumin nanoprobe that detects senescence-associated activity (via MMP-7) and can be measured in urine to track senescent cell burden and treatment response in lung cancer and related pulmonary conditions..\nCategory: aging research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "heart-attack-cognition-2026",
+      "category": "cardiometabolic health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-prior-heart-linked-faster-declines.html",
+      "sourceTitle": "Prior heart attack linked to faster declines in thinking and memory skills",
+      "publishedAt": "Thu, 14 May 2026 05:00:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Prior heart attack associated with faster declines in thinking and memory",
+          "summary": "A study reported in Stroke found that people who previously had a heart attack faced a higher likelihood of developing cognitive impairment compared with those without such a history.",
+          "whyItMatters": "If confirmed, the association links cardiovascular events and later cognitive health, which could influence monitoring and support for people after heart attacks.",
+          "takeaways": [
+            "Researchers observed a higher chance of cognitive impairment among people with a past heart attack.",
+            "The finding comes from a study published in the journal Stroke.",
+            "The result describes an association and does not establish cause and effect."
+          ]
+        },
+        "es": {
+          "title": "Un infarto previo asociado con un declive más rápido en el pensamiento y la memoria",
+          "summary": "Un estudio publicado en Stroke encontró que las personas que habían sufrido previamente un infarto tenían una probabilidad mayor de desarrollar deterioro cognitivo en comparación con quienes no tenían ese antecedente.",
+          "whyItMatters": "Si se confirma, la asociación vincula eventos cardiovasculares con la salud cognitiva posterior, lo que podría influir en el seguimiento y el apoyo a las personas tras un infarto.",
+          "takeaways": [
+            "Los investigadores observaron una mayor probabilidad de deterioro cognitivo entre personas con un infarto previo.",
+            "El hallazgo proviene de un estudio publicado en la revista Stroke.",
+            "El resultado describe una asociación y no establece causalidad."
+          ]
+        },
+        "ru": {
+          "title": "Перенесённый инфаркт связан с более быстрым снижением мыслительных и памятных способностей",
+          "summary": "Исследование, опубликованное в журнале Stroke, показало, что у людей, ранее перенёсших инфаркт, была более высокая вероятность развития когнитивных нарушений по сравнению с теми, у кого такого анамнеза не было.",
+          "whyItMatters": "Если это подтвердится, связь указывает на взаимосвязь между сердечно‑сосудистыми событиями и последующим когнитивным здоровьем, что может повлиять на мониторинг и поддержку пациентов после инфаркта.",
+          "takeaways": [
+            "Исследователи обнаружили повышенную вероятность когнитивных нарушений у людей с анамнезом инфаркта.",
+            "Результат получен в исследовании, опубликованном в журнале Stroke.",
+            "Это наблюдение — ассоциативное; оно не доказывает причинно‑следственную связь."
+          ]
+        },
+        "uk": {
+          "title": "Попередній інфаркт асоціюється зі швидшим погіршенням мислення та пам’яті",
+          "summary": "Дослідження, опубліковане в журналі Stroke, показало, що у людей із попереднім інфарктом ймовірність розвитку когнітивних порушень була вищою порівняно з тими, хто не мав такого анамнезу.",
+          "whyItMatters": "Якщо це підтвердять, виявлена асоціація поєднує серцево‑судинні події з подальшим когнітивним здоров’ям і може вплинути на підходи до моніторингу та підтримки людей після інфаркту.",
+          "takeaways": [
+            "Дослідники виявили підвищену ймовірність когнітивних порушень у людей із перенесеним інфарктом.",
+            "Результат отримано в дослідженні, опублікованому в журналі Stroke.",
+            "Це опис асоціації; він не встановлює причинно‑наслідкового звʼязку."
+          ]
+        },
+        "fr": {
+          "title": "Antécédent d'infarctus associé à un déclin plus rapide des fonctions cognitives et de la mémoire",
+          "summary": "Une étude publiée dans Stroke a constaté que les personnes ayant déjà eu un infarctus présentaient une probabilité plus élevée de développer un trouble cognitif que celles sans tel antécédent.",
+          "whyItMatters": "Si cela est confirmé, l'association relie un événement cardiovasculaire à la santé cognitive ultérieure et pourrait influencer la surveillance et le soutien apportés aux personnes après un infarctus.",
+          "takeaways": [
+            "Les chercheurs ont observé une probabilité accrue de déficience cognitive chez les personnes ayant un antécédent d'infarctus.",
+            "La constatation provient d'une étude publiée dans la revue Stroke.",
+            "Il s'agit d'une association et non d'une preuve de causalité."
+          ]
+        },
+        "de": {
+          "title": "Frühere Herzinfarkte mit schnellerem Rückgang von Denk- und Gedächtnisleistungen verbunden",
+          "summary": "Eine in Stroke veröffentlichte Studie fand, dass Menschen, die zuvor einen Herzinfarkt hatten, eine höhere Wahrscheinlichkeit für die Entwicklung kognitiver Beeinträchtigungen aufwiesen als Personen ohne solche Vorgeschichte.",
+          "whyItMatters": "Wenn die Befunde bestätigt werden, verbinden sie kardiovaskuläre Ereignisse mit späterer kognitiver Gesundheit und könnten die Überwachung und Unterstützung von Menschen nach einem Herzinfarkt beeinflussen.",
+          "takeaways": [
+            "Forscher beobachteten eine höhere Wahrscheinlichkeit für kognitive Beeinträchtigungen bei Personen mit früherem Herzinfarkt.",
+            "Die Erkenntnis stammt aus einer Studie, die im Fachjournal Stroke veröffentlicht wurde.",
+            "Das Ergebnis beschreibt eine Assoziation und stellt keinen ursächlichen Zusammenhang dar."
+          ]
+        },
+        "pt-br": {
+          "title": "Ataque cardíaco anterior associado a declínios mais rápidos no raciocínio e na memória",
+          "summary": "Um estudo relatado na revista Stroke encontrou que pessoas que tiveram previamente um ataque cardíaco apresentaram maior probabilidade de desenvolver comprometimento cognitivo em comparação com aquelas sem esse histórico.",
+          "whyItMatters": "Se confirmado, o achado liga eventos cardiovasculares à saúde cognitiva posterior, o que pode influenciar o acompanhamento e o suporte a pessoas após um ataque cardíaco.",
+          "takeaways": [
+            "Pesquisadores observaram maior chance de comprometimento cognitivo entre pessoas com histórico de ataque cardíaco.",
+            "A descoberta vem de um estudo publicado na revista Stroke.",
+            "O resultado descreve uma associação e não estabelece relação de causa e efeito."
+          ]
+        },
+        "hu": {
+          "title": "Korábbi szívinfarktus a gondolkodás és memória gyorsabb hanyatlásával társult",
+          "summary": "A Stroke című folyóiratban közölt tanulmány szerint azoknál, akiknek korábban volt szívinfarktusa, nagyobb valószínűséggel alakult ki kognitív károsodás, mint azoknál, akiknél nem volt ilyen kórtörténet.",
+          "whyItMatters": "Ha megerősítik, az összefüggés kapcsolatot jelez a szív- és érrendszeri események és a későbbi kognitív egészség között, ami befolyásolhatja a szívinfarktuson átesettek nyomon követését és támogatását.",
+          "takeaways": [
+            "A kutatók nagyobb esélyt észleltek a kognitív károsodásra a korábbi szívinfarktuson átesettek körében.",
+            "Az eredmény a Stroke című folyóiratban megjelent tanulmányból származik.",
+            "Az eredmény összefüggést ír le, és nem állítja, hogy okozati kapcsolatot bizonyítana."
+          ]
+        },
+        "ar": {
+          "title": "ارتباط نوبة قلبية سابقة بتسارع التراجع في التفكير والذاكرة",
+          "summary": "أظهرت دراسة نُشرت في مجلة Stroke أن الأشخاص الذين أصيبوا سابقًا بنوبة قلبية كانوا أكثر عرضة للإصابة بضعف إدراكي مقارنةً بمن ليس لديهم تاريخ مماثل.",
+          "whyItMatters": "إذا تأكدت هذه النتيجة، فإنها تربط بين الأحداث القلبية الوعائية والصحة المعرفية اللاحقة، ما قد يؤثر على مراقبة ودعم الأشخاص بعد النوبات القلبية.",
+          "takeaways": [
+            "لاحظ الباحثون احتمالا أعلى لحدوث ضعف إدراكي لدى الأشخاص الذين مرّوا بنوبة قلبية سابقة.",
+            "النتيجة مستمدة من دراسة نُشرت في دورية Stroke.",
+            "النتيجة تصف ارتباطًا ولا تثبت علاقة سببية."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=heart-attack-cognition-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/heart-attack-cognition-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/heart-attack-cognition-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Prior heart attack associated with faster declines in thinking and memory.\nStory summary: A study reported in Stroke found that people who previously had a heart attack faced a higher likelihood of developing cognitive impairment compared with those without such a history..\nCategory: cardiometabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "plant-based-4-week-aging-biomarkers-2026",
+      "category": "healthy aging",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260514/Four-week-diet-intervention-shifts-biological-aging-markers.aspx",
+      "sourceTitle": "Four-week diet intervention shifts biological aging markers",
+      "publishedAt": "Thu, 14 May 2026 03:49:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Short-term whole-food, plant-based diet changes biological aging markers",
+          "summary": "A brief dietary shift toward whole-food, plant-based eating in older adults produced measurable changes in biomarkers associated with aging, indicating rapid physiological responses rather than reversal of age.",
+          "whyItMatters": "The report suggests some aging-related biomarkers can respond quickly to dietary changes, which is relevant for studies on lifestyle interventions and aging biology.",
+          "takeaways": [
+            "A four-week dietary intervention altered biomarkers tied to aging in older participants.",
+            "Changes suggest fast physiological adaptation rather than true reversal of biological age.",
+            "Short-term diet studies can help identify responsive markers for larger intervention trials."
+          ]
+        },
+        "es": {
+          "title": "Dieta a corto plazo basada en alimentos integrales vegetales cambia marcadores biológicos del envejecimiento",
+          "summary": "Un cambio dietético breve hacia una alimentación basada en alimentos integrales de origen vegetal en adultos mayores produjo cambios medibles en biomarcadores asociados con el envejecimiento, indicando respuestas fisiológicas rápidas en lugar de una reversión de la edad.",
+          "whyItMatters": "El informe sugiere que algunos biomarcadores relacionados con el envejecimiento pueden responder rápidamente a cambios dietéticos, lo cual es relevante para estudios sobre intervenciones de estilo de vida y biología del envejecimiento.",
+          "takeaways": [
+            "Una intervención dietética de cuatro semanas alteró biomarcadores vinculados al envejecimiento en participantes mayores.",
+            "Los cambios sugieren una rápida adaptación fisiológica en lugar de una verdadera reversión de la edad biológica.",
+            "Los estudios dietéticos a corto plazo pueden ayudar a identificar marcadores sensibles para ensayos de intervención más amplios."
+          ]
+        },
+        "ru": {
+          "title": "Краткосрочная диета из цельных растительных продуктов изменяет биологические маркеры старения",
+          "summary": "Кратковременное изменение питания в сторону цельной растительной диеты у пожилых людей привело к измеримым изменениям в биомаркерах, связанных со старением, что указывает на быстрые физиологические реакции, а не на обращение процесса старения.",
+          "whyItMatters": "Отчёт показывает, что некоторые маркёры старения могут быстро реагировать на изменения в питании, что важно для исследований вмешательств образа жизни и биологии старения.",
+          "takeaways": [
+            "Четырёхнедельное диетическое вмешательство изменило маркёры, связанные со старением, у пожилых участников.",
+            "Изменения указывают на быструю физиологическую адаптацию, а не на истинное обращение биологического возраста.",
+            "Краткосрочные диетические исследования помогают выявлять отзывчивые маркёры для крупных клинических испытаний."
+          ]
+        },
+        "uk": {
+          "title": "Короткочасна дієта з цілісних рослинних продуктів змінює маркери біологічного старіння",
+          "summary": "Коротка зміна раціону в бік цілісних рослинних продуктів у людей літнього віку спричинила вимірні зміни біомаркерів, пов’язаних зі старінням, що свідчить про швидку фізіологічну реакцію, а не про «повернення віку». ",
+          "whyItMatters": "Звіт вказує, що деякі маркери, пов’язані зі старінням, можуть швидко реагувати на зміни харчування, що важливо для досліджень способу життя і біології старіння.",
+          "takeaways": [
+            "Чотиритижневе втручання в харчування змінило маркери, пов’язані зі старінням, у літніх учасників.",
+            "Зміни вказують на швидку фізіологічну адаптацію, а не на справжню «реверсію» біологічного віку.",
+            "Короткострокові дослідження раціону можуть допомогти виявити маркери, чутливі до втручань для подальших великих випробувань."
+          ]
+        },
+        "fr": {
+          "title": "Un régime végétal à base d'aliments complets à court terme modifie des marqueurs du vieillissement biologique",
+          "summary": "Un bref changement alimentaire vers une alimentation végétale composée d'aliments complets chez des adultes âgés a entraîné des modifications mesurables de biomarqueurs associés au vieillissement, indiquant des réponses physiologiques rapides plutôt qu'une inversion de l'âge.",
+          "whyItMatters": "Le rapport suggère que certains marqueurs liés au vieillissement peuvent réagir rapidement aux modifications alimentaires, information utile pour les études sur les interventions liées au mode de vie et la biologie du vieillissement.",
+          "takeaways": [
+            "Une intervention diététique de quatre semaines a modifié des biomarqueurs liés au vieillissement chez des participants âgés.",
+            "Les changements suggèrent une adaptation physiologique rapide plutôt qu'une véritable « inversion » de l'âge biologique.",
+            "Les études diététiques à court terme peuvent aider à identifier des marqueurs réactifs pour de plus grands essais d'intervention."
+          ]
+        },
+        "de": {
+          "title": "Kurzfristige Vollwertkost auf Pflanzenbasis verändert altersbezogene Biomarker",
+          "summary": "Eine kurzfristige Ernährungsumstellung hin zu einer vollwertigen, pflanzenbasierten Kost bei älteren Erwachsenen führte zu messbaren Veränderungen von Biomarkern, die mit dem Altern in Verbindung stehen, was auf schnelle physiologische Reaktionen und nicht auf eine Umkehr des Alters hinweist.",
+          "whyItMatters": "Der Bericht legt nahe, dass einige altersbezogene Biomarker schnell auf Ernährungsänderungen reagieren können, was für Studien zu Lebensstilinterventionen und der Biologie des Alterns relevant ist.",
+          "takeaways": [
+            "Eine vierwöchige Ernährungsintervention veränderte Biomarker, die mit dem Altern in Verbindung stehen, bei älteren Teilnehmenden.",
+            "Die Veränderungen deuten auf eine schnelle physiologische Anpassung hin und nicht auf eine tatsächliche Umkehr des biologischen Alters.",
+            "Kurzfristige Ernährungsstudien können helfen, empfindliche Marker für größere Interventionsstudien zu identifizieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Dieta de curto prazo, à base de alimentos integrais e vegetais, altera biomarcadores do envelhecimento",
+          "summary": "Uma mudança dietética breve em direção a uma alimentação vegetal baseada em alimentos integrais em adultos mais velhos produziu alterações mensuráveis em biomarcadores associados ao envelhecimento, indicando respostas fisiológicas rápidas em vez de reversão da idade.",
+          "whyItMatters": "O relatório sugere que alguns biomarcadores relacionados ao envelhecimento podem responder rapidamente a mudanças dietéticas, o que é relevante para estudos sobre intervenções de estilo de vida e a biologia do envelhecimento.",
+          "takeaways": [
+            "Uma intervenção dietética de quatro semanas alterou biomarcadores ligados ao envelhecimento em participantes mais velhos.",
+            "As mudanças sugerem adaptação fisiológica rápida e não uma reversão verdadeira da idade biológica.",
+            "Estudos dietéticos de curto prazo podem ajudar a identificar marcadores responsivos para ensaios de intervenção maiores."
+          ]
+        },
+        "hu": {
+          "title": "Rövid távú teljes értékű növényi alapú étrend megváltoztatja az öregedés biomarkereit",
+          "summary": "Egy rövid, teljes értékű növényi alapú étrendre történő átállás idősebb felnőtteknél mérhető változásokat eredményezett az öregedéssel összefüggő biomarkerekben, ami gyors fiziológiai válaszokat jelez, nem pedig az életkor visszafordítását.",
+          "whyItMatters": "A jelentés arra utal, hogy egyes öregedéssel kapcsolatos biomarkerek gyorsan reagálhatnak étrendi változásokra, ami releváns az életmódbeli beavatkozásokat és az öregedés biológiáját vizsgáló kutatások számára.",
+          "takeaways": [
+            "Egy négyhetes étrendi beavatkozás megváltoztatta az öregedéshez kötődő biomarkereket idősebb résztvevőkben.",
+            "A változások gyors fiziológiai alkalmazkodást sugallnak, nem pedig a biológiai kor valódi visszafordítását.",
+            "A rövid távú diétás vizsgálatok segíthetnek azonosítani az érzékeny markereket nagyobb beavatkozási vizsgálatokhoz."
+          ]
+        },
+        "ar": {
+          "title": "تغيير مؤشرات الشيخوخة البيولوجية بنظام غذائي نباتي كامل المكونات قصير الأمد",
+          "summary": "أدى تحول غذائي قصير الأمد نحو نظام نباتي قائم على الأطعمة الكاملة لدى البالغين الأكبر سنًا إلى تغييرات قابلة للقياس في مؤشرات حيوية مرتبطة بالشيخوخة، ما يشير إلى استجابات فسيولوجية سريعة بدلاً من عكس العمر.",
+          "whyItMatters": "تقترح النتائج أن بعض المؤشرات الحيوية المرتبطة بالشيخوخة يمكن أن تستجيب بسرعة لتغييرات النظام الغذائي، وهو أمر مهم لأبحاث التدخلات المتعلقة بنمط الحياة وبيولوجيا الشيخوخة.",
+          "takeaways": [
+            "غيّر تدخل غذائي لمدة أربعة أسابيع مؤشرات مرتبطة بالشيخوخة لدى مشاركين أكبر سنًا.",
+            "تشير التغيرات إلى تكيف فسيولوجي سريع وليس إلى عكس حقيقي للعمر البيولوجي.",
+            "يمكن للدراسات الغذائية قصيرة المدى أن تساعد في تحديد المؤشرات المستجيبة لتجارب تدخلية أوسع."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=plant-based-4-week-aging-biomarkers-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/plant-based-4-week-aging-biomarkers-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/plant-based-4-week-aging-biomarkers-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short-term whole-food, plant-based diet changes biological aging markers.\nStory summary: A brief dietary shift toward whole-food, plant-based eating in older adults produced measurable changes in biomarkers associated with aging, indicating rapid physiological responses rather than reversal of age..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "japan-genomes-third-ancestry-2026",
+      "category": "genomics & population health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+      "sourceTitle": "Who are the Japanese? Huge DNA discovery rewrites history",
+      "publishedAt": "Thu, 14 May 2026 01:00:37 EDT",
+      "languages": {
+        "en": {
+          "title": "Large-scale genomic study identifies a previously overlooked ancestral group in Japan",
+          "summary": "Analysis of genomes from thousands across Japan revealed evidence for a third ancestral group—potentially linked to the ancient Emishi—and identified inherited Neanderthal and Denisovan DNA segments that researchers associate with risk for conditions such as diabetes, heart disease and cancer.",
+          "whyItMatters": "Discoveries about population ancestry and archaic DNA can inform research on genetic contributions to disease risk and help refine population-specific health studies.",
+          "takeaways": [
+            "Researchers found genomic evidence for a third ancestral group in Japan, challenging the dual-origin model.",
+            "The newly detected ancestry may relate to the historical Emishi people of northeastern Japan.",
+            "Analyses also detected Neanderthal and Denisovan DNA fragments linked by researchers to several disease-related traits."
+          ]
+        },
+        "es": {
+          "title": "Estudio genómico a gran escala identifica un grupo ancestral previamente pasado por alto en Japón",
+          "summary": "El análisis de genomas de miles de personas en Japón reveló evidencia de un tercer grupo ancestral —posiblemente vinculado a los antiguos Emishi— y detectó segmentos de ADN neandertal y denisovano que los investigadores asocian con riesgo para afecciones como diabetes, enfermedades del corazón y cáncer.",
+          "whyItMatters": "Los descubrimientos sobre la ascendencia poblacional y el ADN arcaico pueden informar la investigación sobre las contribuciones genéticas al riesgo de enfermedad y ayudar a afinar estudios de salud específicos por población.",
+          "takeaways": [
+            "Los investigadores encontraron evidencia genómica de un tercer grupo ancestral en Japón, lo que desafía el modelo de doble origen.",
+            "La ascendencia recién detectada podría relacionarse con el histórico pueblo Emishi del noreste de Japón.",
+            "Los análisis también identificaron fragmentos de ADN neandertal y denisovano que los investigadores vinculan con varios rasgos relacionados con enfermedades."
+          ]
+        },
+        "ru": {
+          "title": "Крупномасштабное геномное исследование выявляет ранее упущенную группу предков в Японии",
+          "summary": "Анализ геномов тысяч жителей Японии выявил свидетельства существования третьей группы предков — возможно связанной с древними эмиси — и обнаружил фрагменты ДНК неандертальцев и денисовцев, которые исследователи связывают с риском таких состояний, как диабет, болезни сердца и рак.",
+          "whyItMatters": "Открытия в области происхождения популяций и архаичной ДНК могут помочь исследовать генетический вклад в риск заболеваний и уточнить исследования здоровья, ориентированные на конкретные популяции.",
+          "takeaways": [
+            "Исследователи нашли геномные доказательства третьей предковой группы в Японии, что ставит под сомнение модель двойного происхождения.",
+            "Новую обнаруженную предковую линию могут связывать с историческими эмиси с северо‑востока Японии.",
+            "Анализы также выявили фрагменты ДНК неандертальцев и денисовцев, которые исследователи связывают с несколькими признаками, связанными с заболеваниями."
+          ]
+        },
+        "uk": {
+          "title": "Велике геномне дослідження виявило раніше не помічену предкову групу в Японії",
+          "summary": "Аналіз геномів тисяч людей по всій Японії виявив докази третьої предкової групи — можливо пов’язаної зі стародавніми емісі — і виявив фрагменти ДНК неандертальців та денисівців, які дослідники повʼязують із ризиками таких станів, як діабет, серцеві хвороби і рак.",
+          "whyItMatters": "Відкриття про предків і архаїчну ДНК може допомогти в дослідженнях генетичного внеску у ризик захворювань і уточнити дослідження, орієнтовані на певні популяції.",
+          "takeaways": [
+            "Дослідники знайшли геномні докази третьої предкової групи в Японії, що ставить під сумнів модель подвійного походження.",
+            "Нова виявлена предковість може бути повʼязана з історичними емісі північно‑східної Японії.",
+            "Аналізи також виявили фрагменти ДНК неандертальців та денисівців, які дослідники повʼязують із кількома ознаками, повʼязаними з хворобами."
+          ]
+        },
+        "fr": {
+          "title": "Étude génomique à grande échelle identifie un groupe ancestral jusque‑là négligé au Japon",
+          "summary": "L'analyse des génomes de milliers de personnes à travers le Japon a révélé des preuves d'un troisième groupe ancestral — potentiellement lié aux anciens Emishi — et a identifié des segments d'ADN néandertalien et denisovien que les chercheurs associent à des risques pour des affections telles que le diabète, les maladies cardiaques et le cancer.",
+          "whyItMatters": "Ces découvertes sur l'ascendance des populations et l'ADN archaïque peuvent éclairer les recherches sur les contributions génétiques au risque de maladie et aider à affiner les études de santé spécifiques à une population.",
+          "takeaways": [
+            "Les chercheurs ont trouvé des preuves génomiques d'un troisième groupe ancestral au Japon, remettant en cause le modèle à double origine.",
+            "La nouvelle ascendance détectée pourrait être liée aux Emishi historiques du nord‑est du Japon.",
+            "Les analyses ont aussi détecté des fragments d'ADN néandertalien et denisovien que les chercheurs relient à plusieurs traits associés à des maladies."
+          ]
+        },
+        "de": {
+          "title": "Großangelegte Genomanalyse identifiziert bislang übersehene Abstammungsgruppe in Japan",
+          "summary": "Die Analyse von Genomen Tausender Menschen in Japan ergab Hinweise auf eine dritte Abstammungsgruppe—möglicherweise verbunden mit den alten Emishi—and erkannte erbliches Neandertaler- und Denisova-DNA-Material, das Forscher mit Risiken für Erkrankungen wie Diabetes, Herzkrankheiten und Krebs in Verbindung bringen.",
+          "whyItMatters": "Entdeckungen über Bevölkerungsabstammung und archaische DNA können die Forschung zu genetischen Beiträgen von Krankheitsrisiken informieren und bevölkerungsspezifische Gesundheitsstudien verfeinern.",
+          "takeaways": [
+            "Forscher fanden genomische Hinweise auf eine dritte Abstammungsgruppe in Japan und stellten damit das Zwei-Herkunfts-Modell infrage.",
+            "Die neu entdeckte Abstammung könnte mit dem historischen Volk der Emishi im Nordosten Japans in Zusammenhang stehen.",
+            "Analysen detektierten außerdem Neandertaler- und Denisova-DNA-Fragmente, die von Forschern mit mehreren krankheitsbezogenen Merkmalen in Verbindung gebracht werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo genômico em grande escala identifica grupo ancestral antes negligenciado no Japão",
+          "summary": "A análise de genomas de milhares de pessoas no Japão revelou evidências de um terceiro grupo ancestral — possivelmente ligado aos antigos Emishi — e identificou trechos de DNA de Neandertais e Denisovanos que pesquisadores associam a risco para condições como diabetes, doenças cardíacas e câncer.",
+          "whyItMatters": "Descobertas sobre ancestralidade populacional e DNA arcaico podem informar pesquisas sobre contribuições genéticas ao risco de doenças e ajudar a refinar estudos de saúde específicos por população.",
+          "takeaways": [
+            "Pesquisadores encontraram evidências genômicas de um terceiro grupo ancestral no Japão, desafiando o modelo de dupla origem.",
+            "A ancestralidade recém-detectada pode estar relacionada ao histórico povo Emishi do nordeste do Japão.",
+            "As análises também detectaram fragmentos de DNA de Neandertais e Denisovanos que os pesquisadores ligaram a diversos traços relacionados a doenças."
+          ]
+        },
+        "hu": {
+          "title": "Nagy léptékű genomikai vizsgálat új, korábban figyelmen kívül hagyott ősi csoportot azonosít Japánban",
+          "summary": "Több ezer japán genomjának elemzése bizonyítékot talált egy harmadik ősi leszármazási csoportra—amely potenciálisan kapcsolatba hozható az ókori Emishi népcsoporttal—és öröklődő neandervölgyi és deniszovai DNS-szegmenseket azonosított, amelyeket a kutatók összefüggésbe hoznak olyan betegségek kockázatával, mint a cukorbetegség, a szívbetegség és a rák.",
+          "whyItMatters": "A populációs eredet és az archaikus DNS felfedezései befolyásolhatják a genetikai hozzájárulást a betegségkockázathoz kapcsolódó kutatásokat, és segíthetnek a populációspecifikus egészségügyi vizsgálatok finomításában.",
+          "takeaways": [
+            "A kutatók genomikai bizonyítékot találtak egy harmadik leszármazási csoportra Japánban, ami kihívja a kettős eredet modelljét.",
+            "A frissen felfedezett eredet kapcsolatba hozható lehet a történelmi Emishi néppel Északkelet-Japánban.",
+            "Az elemzések neandervölgyi és deniszovai DNS-töredékeket is kimutattak, amelyeket a kutatók több, betegségekkel kapcsolatos tulajdonsághoz kötnek."
+          ]
+        },
+        "ar": {
+          "title": "دراسة جينومية واسعة تكشف مجموعة سلفية ثالثة كانت مُهملة سابقًا في اليابان",
+          "summary": "كشفت تحليلات لمئات إلى آلاف من الجينومات عبر اليابان عن دليل لوجود مجموعة سلفية ثالثة — قد تكون مرتبطة بالـEmishi القديمة — وحددت مقاطع من الحمض النووي الموروث من النياندرتال والدينيسوفان ربطها الباحثون بخطر حالات مثل السكري وأمراض القلب والسرطان.",
+          "whyItMatters": "يمكن لاكتشافات حول أصل السكان والحمض النووي القديم أن تُعلم البحث في المساهمات الجينية لمخاطر المرض وأن تساعد في تحسين الدراسات الصحية المخصصة للسكان.",
+          "takeaways": [
+            "وجد الباحثون دليلًا جينوميًا لوجود مجموعة سلفية ثالثة في اليابان، مما يتحدى نموذج الأصل الثنائي.",
+            "قد ترتبط الأنساب المكتشفة حديثًا بشعب Emishi التاريخي في شمال شرق اليابان.",
+            "كشفت التحليلات أيضًا عن مقاطع من حمض نووي نياندرتالي ودينيسوفاني ربطها الباحثون بسمات متعلقة بعدة أمراض."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=japan-genomes-third-ancestry-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/japan-genomes-third-ancestry-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/japan-genomes-third-ancestry-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Large-scale genomic study identifies a previously overlooked ancestral group in Japan.\nStory summary: Analysis of genomes from thousands across Japan revealed evidence for a third ancestral group—potentially linked to the ancient Emishi—and identified inherited Neanderthal and Denisovan DNA segments that researchers associate with risk for conditions such as diabetes, heart disease and cancer..\nCategory: genomics & population health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ensitrelvir-household-prophylaxis-2026",
+      "category": "infectious disease",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/infectiousdisease/covid19/121257",
+      "sourceTitle": "COVID Antiviral Can Prevent Household Contacts From Catching Virus",
+      "publishedAt": "Wed, 13 May 2026 18:15:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Antiviral ensitrelvir reduced household transmission in a randomized trial",
+          "summary": "A randomized trial found that people who took the antiviral ensitrelvir had more than a 50% lower risk of getting symptomatic COVID-19 after a household exposure compared with placebo, based on a modified intention-to-treat analysis.",
+          "whyItMatters": "The result suggests a potential role for oral antivirals in reducing transmission among close contacts, which could affect guidance for outbreak control if confirmed by regulators and public health bodies.",
+          "takeaways": [
+            "Ensitrelvir was tested as post-exposure prevention in household contacts of COVID-19 cases.",
+            "The trial reported a greater than half reduction in risk of symptomatic infection versus placebo in the analyzed group.",
+            "Details such as safety profile, regulatory status, and broader applicability were not provided in the summary."
+          ]
+        },
+        "es": {
+          "title": "El antiviral ensitrelvir redujo la transmisión en el hogar en un ensayo aleatorizado",
+          "summary": "Un ensayo aleatorizado halló que las personas que tomaron el antiviral ensitrelvir tuvieron más de un 50% menos de riesgo de desarrollar COVID-19 sintomático tras una exposición en el hogar en comparación con placebo, basado en un análisis de intención de tratar modificado.",
+          "whyItMatters": "El resultado sugiere un posible papel de los antivirales orales para reducir la transmisión entre contactos cercanos, lo que podría influir en las recomendaciones para el control de brotes si lo confirman reguladores y organismos de salud pública.",
+          "takeaways": [
+            "Ensitrelvir se probó como prevención postexposición en contactos domiciliarios de casos de COVID-19.",
+            "El ensayo informó una reducción de más de la mitad en el riesgo de infección sintomática frente a placebo en el grupo analizado.",
+            "El resumen no incluyó detalles sobre el perfil de seguridad, el estado regulatorio ni la aplicabilidad más amplia."
+          ]
+        },
+        "ru": {
+          "title": "Антивирусный препарат энситрелвир снизил внутрисемейную передачу в рандомизированном исследовании",
+          "summary": "Рандомизированное исследование показало, что у людей, принимавших энситрелвир, риск развития симптоматического COVID‑19 после бытового контакта был более чем на 50% ниже по сравнению с плацебо, согласно модифицированному анализу по принципу «намерения лечить».",
+          "whyItMatters": "Результат указывает на возможную роль пероральных антивирусов в снижении передачи среди близких контактов, что может повлиять на рекомендации по контролю вспышек, если данные подтвердят регуляторы и органы общественного здравоохранения.",
+          "takeaways": [
+            "Энситрелвир тестировали как постэкспозиционную профилактику у членов домохозяйств, контактировавших с больными COVID‑19.",
+            "В исследовании сообщается о более чем двукратном снижении риска симптоматической инфекции по сравнению с плацебо в анализируемой группе.",
+            "В резюме не приведены подробности о безопасности, регуляторном статусе и широкой применимости."
+          ]
+        },
+        "uk": {
+          "title": "Антивірус енситрелвір зменшив передачу в домогосподарствах у рандомізованому дослідженні",
+          "summary": "Рандомізоване дослідження показало, що люди, які приймали антивірус енситрелвір, мали більш ніж на 50% нижчий ризик розвитку симптоматичного COVID‑19 після побутового контакту порівняно з плацебо, на основі модифікованого аналізу за принципом наміру лікування.",
+          "whyItMatters": "Результат вказує на можливу роль пероральних антивірусних препаратів у зниженні передачі серед близьких контактів, що може вплинути на рекомендації з контролю спалахів за умови підтвердження регуляторами та органами охорони здоровʼя.",
+          "takeaways": [
+            "Енситрелвір тестували як постекспозиційну профілактику у членів домогосподарств хворих на COVID‑19.",
+            "У проаналізованій групі повідомляли про зниження ризику симптоматичної інфекції більш ніж на 50% порівняно з плацебо.",
+            "У короткому огляді не наведено деталей про профіль безпеки, статус регулювання та ширшу застосовність."
+          ]
+        },
+        "fr": {
+          "title": "L'antiviral ensitrelvir a réduit la transmission intrafamiliale dans un essai randomisé",
+          "summary": "Un essai randomisé a montré que les personnes ayant reçu l'antiviral ensitrelvir avaient plus de 50 % moins de risque de développer un COVID‑19 symptomatique après une exposition au sein du foyer par rapport au placebo, sur la base d'une analyse en intention de traiter modifiée.",
+          "whyItMatters": "Le résultat suggère un rôle potentiel des antiviraux oraux pour réduire la transmission entre contacts rapprochés, ce qui pourrait influencer les recommandations de contrôle des flambées si confirmé par les autorités réglementaires et de santé publique.",
+          "takeaways": [
+            "L'ensitrelvir a été testé en prophylaxie post‑exposition chez des contacts domestiques de cas de COVID‑19.",
+            "L'essai a rapporté, dans le groupe analysé, une réduction de plus de la moitié du risque d'infection symptomatique par rapport au placebo.",
+            "Le résumé n'a pas fourni de détails sur le profil de sécurité, le statut réglementaire ni l'applicabilité plus large."
+          ]
+        },
+        "de": {
+          "title": "Antiviralum Ensitrelvir verringerte die Übertragung in Haushalten in einer randomisierten Studie",
+          "summary": "Eine randomisierte Studie ergab, dass Personen, die das antivirale Mittel Ensitrelvir einnahmen, ein um mehr als 50 % geringeres Risiko hatten, nach einem Haushaltskontakt eine symptomatische COVID-19-Infektion zu erleiden als mit Placebo, basierend auf einer modifizierten Intention-to-treat-Analyse.",
+          "whyItMatters": "Das Ergebnis deutet auf eine mögliche Rolle oraler Antivirenmittel bei der Reduzierung der Übertragung unter engen Kontakten hin, was die Empfehlungen zur Ausbruchskontrolle beeinflussen könnte, falls die Befunde von Regulierungsbehörden und Gesundheitsbehörden bestätigt werden.",
+          "takeaways": [
+            "Ensitrelvir wurde als Postexpositionsprophylaxe bei Haushaltskontakten von COVID-19-Fällen getestet.",
+            "Die Studie berichtete in der analysierten Gruppe über eine mehr als halbierte Reduktion des Risikos einer symptomatischen Infektion gegenüber Placebo.",
+            "Details wie Sicherheitsprofil, Zulassungsstatus und breitere Anwendbarkeit wurden in der Zusammenfassung nicht angegeben."
+          ]
+        },
+        "pt-br": {
+          "title": "Antiviral ensitrelvir reduziu a transmissão doméstica em um ensaio randomizado",
+          "summary": "Um ensaio randomizado constatou que pessoas que tomaram o antiviral ensitrelvir tiveram mais de 50% menos risco de desenvolver COVID-19 sintomática após exposição doméstica em comparação com placebo, com base em uma análise por intenção de tratar modificada.",
+          "whyItMatters": "O resultado sugere um papel potencial de antivirais orais na redução da transmissão entre contatos próximos, o que poderia afetar orientações para controle de surtos se confirmado por reguladores e órgãos de saúde pública.",
+          "takeaways": [
+            "Ensitrelvir foi testado como prevenção pós-exposição em contatos domésticos de casos de COVID-19.",
+            "O ensaio relatou, no grupo analisado, uma redução superior a metade no risco de infecção sintomática versus placebo.",
+            "Detalhes como perfil de segurança, situação regulatória e aplicabilidade mais ampla não foram fornecidos no resumo."
+          ]
+        },
+        "hu": {
+          "title": "Ensitrelvir antivirális csökkentette a háztartási átvitel kockázatát randomizált vizsgálatban",
+          "summary": "Egy randomizált vizsgálat megállapította, hogy azoknál, akik ensitrelvir antivírális szert szedtek, több mint 50%-kal alacsonyabb volt a tünetes COVID-19 kialakulásának kockázata háztartási expozíció után a módosított intention-to-treat elemzés alapján, összehasonlítva a placebóval.",
+          "whyItMatters": "Az eredmény arra utal, hogy az orális antivirális szereknek lehet szerepük a közeli kontaktszemélyek közötti átvitel csökkentésében, ami befolyásolhatja a járványügyi iránymutatásokat, ha a hatóságok és közegészségügyi szervezetek megerősítik.",
+          "takeaways": [
+            "Az ensitrelvirt posztexpozíciós megelőzésként tesztelték COVID-19-es esetek háztartási kontaktjain.",
+            "A vizsgálat a vizsgált csoportban több mint felére csökkentette a tünetes fertőzés kockázatát a placebóhoz képest.",
+            "A rövid összefoglaló nem adott részleteket a biztonsági profilról, a szabályozási státuszról és a szélesebb alkalmazhatóságról."
+          ]
+        },
+        "ar": {
+          "title": "مضاد الفيروسات إنسيتريلفير خفّض انتقال العدوى داخل الأسر في تجربة عشوائية",
+          "summary": "وجدت تجربة عشوائية أن الأشخاص الذين تناولوا مضاد الفيروسات إنسيتريلفير كان لديهم أكثر من انخفاض بنسبة 50% في خطر الإصابة بمرض كوفيد-19 المصحوب بأعراض بعد التعرض داخل المنزل مقارنةً بالدواء الوهمي، بناءً على تحليل النية إلى العلاج المعدل.",
+          "whyItMatters": "تشير النتيجة إلى احتمال دور للأدوية المضادة للفيروسات الفموية في تقليل الانتقال بين المخالطين المقربين، وهو ما قد يؤثر على إرشادات مكافحة التفشي إذا أكدت الجهات المنظمة والصحة العامة ذلك.",
+          "takeaways": [
+            "اختبر الباحثون إنسيتريلفير كوقاية بعد التعرض لدى المخالطين داخل الأسرة لحالات كوفيد-19.",
+            "أبلغت التجربة عن انخفاض يزيد عن النصف في خطر العدوى العرضية مقابل الدواء الوهمي في المجموعة المحللة.",
+            "لم يتضمن الملخص تفاصيل حول ملف السلامة أو الحالة التنظيمية أو مدى التطبيق الأوسع."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ensitrelvir-household-prophylaxis-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ensitrelvir-household-prophylaxis-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ensitrelvir-household-prophylaxis-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Antiviral ensitrelvir reduced household transmission in a randomized trial.\nStory summary: A randomized trial found that people who took the antiviral ensitrelvir had more than a 50% lower risk of getting symptomatic COVID-19 after a household exposure compared with placebo, based on a modified intention-to-treat analysis..\nCategory: infectious disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "alzheimers-clinical-trials-2026",
+      "category": "neuroscience & aging",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/current-clinical-trials-of-alzheimers-drugs/?utm_source=rss&",
+      "sourceTitle": "Current Clinical Trials of Alzheimer’s Drugs",
+      "publishedAt": "Wed, 13 May 2026 16:18:25 +0000",
+      "languages": {
+        "en": {
+          "title": "Annual report shows growth in Alzheimer's drug trials",
+          "summary": "An annual review summarized the current landscape of drugs in clinical trials for Alzheimer’s disease and reported an overall increase in the number of trials compared with prior years.",
+          "whyItMatters": "Tracking trial activity provides insight into where research efforts and investment are concentrated, helping the public and clinicians understand progress and gaps in Alzheimer’s treatment development.",
+          "takeaways": [
+            "Researchers published an annual overview of clinical trials testing Alzheimer’s drugs.",
+            "The report noted an increase in the number of active trials.",
+            "Such overviews help identify promising approaches and areas needing more study."
+          ]
+        },
+        "es": {
+          "title": "El informe anual muestra crecimiento en los ensayos de fármacos para el Alzheimer",
+          "summary": "Una revisión anual resumió el panorama actual de fármacos en ensayos clínicos para la enfermedad de Alzheimer y reportó un aumento general en el número de ensayos en comparación con años anteriores.",
+          "whyItMatters": "Seguir la actividad de los ensayos ofrece perspectiva sobre dónde se concentran los esfuerzos de investigación y la inversión, ayudando al público y a los clínicos a entender avances y lagunas en el desarrollo de tratamientos para el Alzheimer.",
+          "takeaways": [
+            "Se publicó una revisión anual de los ensayos clínicos que prueban fármacos para el Alzheimer.",
+            "El informe señaló un aumento en el número de ensayos activos.",
+            "Estos resúmenes ayudan a identificar enfoques prometedores y áreas que requieren más estudio."
+          ]
+        },
+        "ru": {
+          "title": "Ежегодный отчёт показывает рост числа клинических испытаний препаратов от болезни Альцгеймера",
+          "summary": "Ежегодный обзор обобщил текущую картину препаратов в клинических испытаниях при болезни Альцгеймера и сообщил об общем увеличении числа испытаний по сравнению с предыдущими годами.",
+          "whyItMatters": "Отслеживание активности испытаний даёт представление о том, куда направлены исследовательские усилия и инвестиции, помогая общественности и клиницистам понять прогресс и пробелы в разработке терапии при Альцгеймере.",
+          "takeaways": [
+            "Исследователи опубликовали ежегодный обзор клинических испытаний препаратов при болезни Альцгеймера.",
+            "В отчёте отмечено увеличение числа активных испытаний.",
+            "Такие обзоры помогают выявлять перспективные подходы и области, требующие дополнительных исследований."
+          ]
+        },
+        "uk": {
+          "title": "Щорічний звіт показує зростання кількості клінічних випробувань препаратів від хвороби Альцгеймера",
+          "summary": "Щорічний огляд підсумував поточний ландшафт препаратів у клінічних випробуваннях для хвороби Альцгеймера і повідомив про загальне збільшення кількості випробувань порівняно з попередніми роками.",
+          "whyItMatters": "Відстеження активності випробувань дає уявлення про те, куди спрямовані дослідницькі зусилля і вкладення, допомагаючи громадськості та клініцистам розуміти прогрес і прогалини в розробці лікувань Альцгеймера.",
+          "takeaways": [
+            "Опубліковано щорічний огляд клінічних випробувань препаратів проти хвороби Альцгеймера.",
+            "У звіті зафіксовано збільшення кількості активних випробувань.",
+            "Такі огляди допомагають виявити перспективні підходи та області, що потребують додаткових досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Le rapport annuel montre une augmentation des essais cliniques sur les médicaments contre la maladie d'Alzheimer",
+          "summary": "Un bilan annuel a résumé le paysage actuel des médicaments en essais cliniques pour la maladie d'Alzheimer et a rapporté une augmentation globale du nombre d'essais par rapport aux années précédentes.",
+          "whyItMatters": "Suivre l'activité des essais permet de comprendre où se concentrent les efforts de recherche et les investissements, aidant le public et les cliniciens à apprécier les progrès et les lacunes dans le développement de traitements contre Alzheimer.",
+          "takeaways": [
+            "Un aperçu annuel des essais cliniques testant des médicaments contre la maladie d'Alzheimer a été publié.",
+            "Le rapport note une augmentation du nombre d'essais actifs.",
+            "Ces bilans aident à identifier les approches prometteuses et les domaines nécessitant davantage d'études."
+          ]
+        },
+        "de": {
+          "title": "Jahresbericht zeigt Zunahme von Alzheimer-Arzneimittelstudien",
+          "summary": "Ein jährlicher Überblick fasste das aktuelle Umfeld der in klinischen Studien getesteten Alzheimer-Medikamente zusammen und berichtete insgesamt über eine Zunahme der Anzahl von Studien im Vergleich zu früheren Jahren.",
+          "whyItMatters": "Die Verfolgung von Studienaktivitäten bietet Einblick, wo Forschungsbemühungen und Investitionen konzentriert sind, und hilft Öffentlichkeit und Klinikerinnen/Klinikern, Fortschritte und Lücken in der Entwicklung von Alzheimer-Therapien zu verstehen.",
+          "takeaways": [
+            "Forscher veröffentlichten einen jährlichen Überblick über klinische Studien zu Alzheimer-Medikamenten.",
+            "Der Bericht vermerkte eine Zunahme der aktiven Studienzahlen.",
+            "Solche Übersichten helfen, vielversprechende Ansätze und Bereiche zu identifizieren, die mehr Forschung brauchen."
+          ]
+        },
+        "pt-br": {
+          "title": "Relatório anual mostra crescimento em ensaios de medicamentos para Alzheimer",
+          "summary": "Uma revisão anual resumiu o panorama atual dos medicamentos em ensaios clínicos para a doença de Alzheimer e relatou um aumento geral no número de ensaios em comparação com anos anteriores.",
+          "whyItMatters": "Acompanhar a atividade de ensaios fornece percepção sobre onde os esforços de pesquisa e investimento estão concentrados, ajudando o público e os clínicos a entender progresso e lacunas no desenvolvimento de tratamentos para Alzheimer.",
+          "takeaways": [
+            "Pesquisadores publicaram uma visão geral anual dos ensaios clínicos de medicamentos para Alzheimer.",
+            "O relatório observou um aumento no número de ensaios ativos.",
+            "Essas visões gerais ajudam a identificar abordagens promissoras e áreas que precisam de mais estudos."
+          ]
+        },
+        "hu": {
+          "title": "Éves jelentés növekedést mutat az Alzheimer-kór gyógyszeres vizsgálataiban",
+          "summary": "Egy éves áttekintés összegezte az Alzheimer-kór gyógyszereinek klinikai vizsgálatait, és az előző évekkel összehasonlítva általános növekedést jelentett a vizsgálatok számában.",
+          "whyItMatters": "A vizsgálati tevékenység nyomon követése betekintést ad abba, hogy mely területekre összpontosulnak a kutatási erőfeszítések és a befektetések, segítve a közvéleményt és a klinikusokat a fejlődés és a hiányosságok megértésében.",
+          "takeaways": [
+            "A kutatók éves áttekintést tettek közzé az Alzheimer elleni gyógyszerek klinikai vizsgálatairól.",
+            "A jelentés növekedést jegyzett az aktív vizsgálatok számában.",
+            "Az ilyen áttekintések segítenek az ígéretes megközelítések és a további vizsgálatot igénylő területek azonosításában."
+          ]
+        },
+        "ar": {
+          "title": "تقرير سنوي يظهر نموًا في تجارب أدوية الزهايمر",
+          "summary": "لخصت مراجعة سنوية المشهد الحالي للأدوية في التجارب السريرية لمرض الزهايمر وذكرت زيادة عامة في عدد التجارب مقارنة بالسنوات السابقة.",
+          "whyItMatters": "يوفر تتبع نشاط التجارب نظرة على أماكن تركيز الجهود البحثية والاستثمار، مما يساعد الجمهور والأطباء على فهم التقدم والفجوات في تطوير علاجات الزهايمر.",
+          "takeaways": [
+            "نشر الباحثون نظرة عامة سنوية على التجارب السريرية لاختبار أدوية الزهايمر.",
+            "لاحظ التقرير زيادة في عدد التجارب النشطة.",
+            "تساعد مثل هذه المراجعات في تحديد الأساليب الواعدة والمجالات التي تحتاج إلى مزيد من الدراسة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=alzheimers-clinical-trials-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/alzheimers-clinical-trials-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/alzheimers-clinical-trials-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Annual report shows growth in Alzheimer's drug trials.\nStory summary: An annual review summarized the current landscape of drugs in clinical trials for Alzheimer’s disease and reported an overall increase in the number of trials compared with prior years..\nCategory: neuroscience & aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "patient-doctor-cultural-connection-2026",
+      "category": "healthcare communication",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/immigrant-patients-often-choose-doctors-with-a-shared-cultural-background-what-they-are-seeking-isnt-sameness-but-connection-271676",
+      "sourceTitle": "Immigrant patients often choose doctors with a shared cultural background – what they are seeking isn’t sameness but connection",
+      "publishedAt": "2026-05-13T12:49:01Z",
+      "languages": {
+        "en": {
+          "title": "Immigrant patients often select doctors who share cultural background to feel heard",
+          "summary": "Research indicates that immigrant patients frequently prefer clinicians with a similar cultural background because they want to feel understood and listened to, rather than simply seeking sameness.",
+          "whyItMatters": "Understanding patient preferences around cultural connection can inform workforce planning, clinician communication training, and efforts to improve patient experience and equity in care.",
+          "takeaways": [
+            "Shared cultural background can help patients feel heard and understood by clinicians.",
+            "The preference reflects a desire for connection and effective communication rather than identical identities.",
+            "Health systems might consider cultural competence and workforce diversity as components of patient-centered care."
+          ]
+        },
+        "es": {
+          "title": "Los pacientes inmigrantes suelen elegir médicos con antecedentes culturales compartidos para sentirse escuchados",
+          "summary": "La investigación indica que los pacientes inmigrantes frecuentemente prefieren clínicos con un trasfondo cultural similar porque desean sentirse comprendidos y escuchados, más que buscar simplemente la semejanza.",
+          "whyItMatters": "Comprender las preferencias de los pacientes respecto a la conexión cultural puede informar la planificación de la fuerza laboral, la formación en comunicación clínica y los esfuerzos para mejorar la experiencia del paciente y la equidad en la atención.",
+          "takeaways": [
+            "Compartir el trasfondo cultural puede ayudar a que los pacientes se sientan escuchados y comprendidos por los clínicos.",
+            "La preferencia refleja un deseo de conexión y comunicación efectiva más que identidades idénticas.",
+            "Los sistemas de salud podrían considerar la competencia cultural y la diversidad del personal como componentes de una atención centrada en el paciente."
+          ]
+        },
+        "ru": {
+          "title": "Иммигранты часто выбирают врачей с похожим культурным фоном, чтобы чувствовать себя услышанными",
+          "summary": "Исследования показывают, что иммигранты нередко предпочитают клиницистов с похожим культурным фоном, потому что хотят чувствовать себя понятыми и услышанными, а не просто искать тождественность.",
+          "whyItMatters": "Понимание предпочтений пациентов в отношении культурной близости может помочь в планировании кадров, обучении коммуникации клиницистов и в усилиях по улучшению опыта пациентов и равенства в здравоохранении.",
+          "takeaways": [
+            "Общий культурный фон может помочь пациентам чувствовать себя услышанными и понятыми клиницистами.",
+            "Предпочтение отражает стремление к связи и эффективной коммуникации, а не к полностью одинаковым идентичностям.",
+            "Системы здравоохранения могли бы рассматривать культурную компетентность и разнообразие персонала как элементы ориентированной на пациента помощи."
+          ]
+        },
+        "uk": {
+          "title": "Іммігрантські пацієнти часто обирають лікарів зі спільним культурним походженням, щоб почуватись почутими",
+          "summary": "Дослідження свідчить, що іммігрантські пацієнти часто надають перевагу клініцистам із подібним культурним походженням, оскільки прагнуть відчувати розуміння і бути вислуханими, а не просто шукати тотожність.",
+          "whyItMatters": "Розуміння переваг пацієнтів щодо культурного звʼязку може вплинути на планування кадрової політики, навчання клініцистів із комунікації та заходи щодо покращення досвіду пацієнтів і рівності в доступі до медичної допомоги.",
+          "takeaways": [
+            "Спільне культурне походження може допомогти пацієнтам відчувати себе почутими та зрозумілими клініцистами.",
+            "Ця перевага відображає прагнення до звʼязку та ефективної комунікації, а не до тотожності осіб у всьому.",
+            "Системи охорони здоровʼя можуть розглядати культурну компетентність і різноманіття персоналу як частину орієнтованої на пацієнта допомоги."
+          ]
+        },
+        "fr": {
+          "title": "Les patients immigrés choisissent souvent des médecins partageant une culture commune pour se sentir entendus",
+          "summary": "Des recherches indiquent que les patients immigrés préfèrent fréquemment des cliniciens issus d'un même contexte culturel parce qu'ils veulent se sentir compris et écoutés, plutôt que de rechercher une simple similarité.",
+          "whyItMatters": "Comprendre les préférences des patients en matière de lien culturel peut éclairer la planification des effectifs, la formation en communication des cliniciens et les efforts visant à améliorer l'expérience des patients et l'équité des soins.",
+          "takeaways": [
+            "Un même contexte culturel peut aider les patients à se sentir entendus et compris par leur clinicien.",
+            "Cette préférence traduit un désir de connexion et de communication efficace plutôt que d'identité strictement identique.",
+            "Les systèmes de santé pourraient intégrer la compétence culturelle et la diversité du personnel comme éléments des soins centrés sur le patient."
+          ]
+        },
+        "de": {
+          "title": "Immigrantische Patientinnen und Patienten wählen häufig Ärztinnen/Ärzte mit gleichem kulturellen Hintergrund, um sich gehört zu fühlen",
+          "summary": "Forschungsergebnisse zeigen, dass Patientinnen und Patienten mit Migrationshintergrund häufig Kliniker mit ähnlichem kulturellem Hintergrund bevorzugen, weil sie verstanden und angehört werden wollen, nicht nur aus dem Wunsch nach Gleichheit.",
+          "whyItMatters": "Das Verständnis von Patientenvorlieben hinsichtlich kultureller Verbindungen kann die Personalplanung, Kommunikationsschulungen für Kliniker und Maßnahmen zur Verbesserung der Patientenerfahrung und Versorgungs­gerechtigkeit informieren.",
+          "takeaways": [
+            "Ein geteilter kultureller Hintergrund kann Patientinnen und Patienten helfen, sich von Klinikerinnen und Klinikern gehört und verstanden zu fühlen.",
+            "Die Präferenz spiegelt das Bedürfnis nach Verbindung und effektiver Kommunikation wider und nicht unbedingt identische Identitäten.",
+            "Gesundheitssysteme könnten kulturelle Kompetenz und Vielfalt in der Belegschaft als Teil patientenzentrierter Versorgung berücksichtigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pacientes imigrantes frequentemente escolhem médicos com origem cultural semelhante para se sentirem ouvidos",
+          "summary": "Pesquisas indicam que pacientes imigrantes frequentemente preferem profissionais de saúde com um histórico cultural semelhante porque querem se sentir compreendidos e escutados, em vez de simplesmente buscar igualdade de características.",
+          "whyItMatters": "Entender as preferências dos pacientes em relação à conexão cultural pode orientar o planejamento da força de trabalho, o treinamento de comunicação para profissionais e esforços para melhorar a experiência do paciente e a equidade no atendimento.",
+          "takeaways": [
+            "Compartilhar um background cultural pode ajudar pacientes a se sentirem ouvidos e compreendidos pelos profissionais de saúde.",
+            "A preferência reflete desejo de conexão e comunicação eficaz, não necessariamente identidades idênticas.",
+            "Sistemas de saúde podem considerar competência cultural e diversidade da força de trabalho como componentes do cuidado centrado no paciente."
+          ]
+        },
+        "hu": {
+          "title": "Bevándorló betegek gyakran olyan orvost választanak, aki kulturálisan hasonló, hogy meghallgatva érezzék magukat",
+          "summary": "A kutatások szerint a bevándorló betegek gyakran előnyben részesítik az olyan klinikusokat, akik hasonló kulturális háttérrel rendelkeznek, mert meg akarják érteni őket és meghallgatva lenni, nem csupán az egyformaság miatt.",
+          "whyItMatters": "A betegek kulturális kapcsolódására vonatkozó preferenciák megértése tájékoztathatja a munkaerő-tervezést, a kommunikációs képzést és az erőfeszítéseket a betegélmény és az ellátás egyenlőségének javítására.",
+          "takeaways": [
+            "A megosztott kulturális háttér segíthet a betegeknek úgy érezni, hogy a klinikus meghallja és megérti őket.",
+            "A preferencia a kapcsolódás és a hatékony kommunikáció iránti vágyat tükrözi, nem azonos identitás keresését.",
+            "Az egészségügyi rendszerekben fontolóra vehetik a kulturális kompetenciát és a munkaerő sokszínűségét a betegközpontú ellátás részeként."
+          ]
+        },
+        "ar": {
+          "title": "المرضى المهاجرون غالبًا ما يختارون أطباء يشاركونهم الخلفية الثقافية ليشعروا بأنهم مسموعون",
+          "summary": "تشير الأبحاث إلى أن المرضى المهاجرين يفضّلون كثيرًا الأطباء الذين لديهم خلفية ثقافية مماثلة لأنهم يريدون أن يشعروا بأنهم مفهومة ومُستمع إليهم، وليس لمجرد التماثل.",
+          "whyItMatters": "يمكن لفهم تفضيلات المرضى المتعلقة بالارتباط الثقافي أن يوجّه تخطيط القوى العاملة، وتدريب التواصل لدى الأطباء، والجهود لتحسين تجربة المريض والإنصاف في الرعاية.",
+          "takeaways": [
+            "يمكن أن تساعد الخلفية الثقافية المشتركة المرضى على الشعور بأن الطبيب يسمعهم ويفهمهم.",
+            "تعكس الأفضليات رغبة في التواصل والاتصال الفعّال أكثر من بحث عن هوية متماثلة.",
+            "قد تنظر أنظمة الرعاية الصحية في الكفاءة الثقافية وتنوع القوى العاملة كعناصر من رعاية متمحورة حول المريض."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=patient-doctor-cultural-connection-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/patient-doctor-cultural-connection-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/patient-doctor-cultural-connection-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Immigrant patients often select doctors who share cultural background to feel heard.\nStory summary: Research indicates that immigrant patients frequently prefer clinicians with a similar cultural background because they want to feel understood and listened to, rather than simply seeking sameness..\nCategory: healthcare communication.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "cell-fasting-immunity-2026",
       "category": "cancer & metabolism",
@@ -1999,6 +2748,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Structured showering protocol improved patient experience without raising infection risk in dialysis units.\nStory summary: A quality‑improvement initiative across four dialysis centers introduced a standardized showering protocol for hemodialysis patients. Reporters say the program improved patients’ comfort and well‑being and did not lead to higher rates of infection in the participating clinics..\nCategory: Clinical practice / Patient safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tenerife-hantavirus-who-message-2026",
+      "category": "public health",
+      "sourceName": "who.int",
+      "sourceUrl": "https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response",
+      "sourceTitle": "Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response",
+      "publishedAt": "Sat, 09 May 2026 11:14:23 Z",
+      "languages": {
+        "en": {
+          "title": "WHO Director-General addresses the people of Tenerife on hantavirus response",
+          "summary": "The WHO Director-General issued a direct message to residents of Tenerife about the hantavirus response, acknowledging public concern and communicating with the community beyond technical briefings.",
+          "whyItMatters": "Direct communication from global health leadership can clarify risk, support local response efforts, and help communities understand public health actions during an outbreak.",
+          "takeaways": [
+            "The WHO Director-General wrote directly to the people of Tenerife regarding the hantavirus situation.",
+            "The communication aimed to acknowledge worries and provide a human-facing message alongside technical updates.",
+            "The message complements WHO briefings and local public health measures."
+          ]
+        },
+        "es": {
+          "title": "El Director General de la OMS se dirige a la población de Tenerife sobre la respuesta al hantavirus",
+          "summary": "El Director General de la OMS emitió un mensaje directo a los residentes de Tenerife sobre la respuesta al hantavirus, reconociendo la preocupación pública y comunicándose con la comunidad más allá de los informes técnicos.",
+          "whyItMatters": "La comunicación directa desde el liderazgo de salud global puede clarificar el riesgo, apoyar los esfuerzos de respuesta locales y ayudar a las comunidades a comprender las acciones de salud pública durante un brote.",
+          "takeaways": [
+            "El Director General de la OMS se dirigió directamente a la población de Tenerife respecto a la situación del hantavirus.",
+            "La comunicación buscó reconocer las inquietudes y ofrecer un mensaje con enfoque humano junto a las actualizaciones técnicas.",
+            "El mensaje complementa los informes de la OMS y las medidas de salud pública locales."
+          ]
+        },
+        "ru": {
+          "title": "Генеральный директор ВОЗ обратился к жителям Тенерифе по поводу реагирования на хантавирус",
+          "summary": "Генеральный директор ВОЗ направил прямое послание жителям Тенерифе о мерах по хантавирусу, признав общественные беспокойства и общаясь с сообществом помимо технических брифингов.",
+          "whyItMatters": "Прямое общение со стороны руководства глобального здравоохранения может прояснить риски, поддержать местные ответные меры и помочь сообществам понять действия общественного здравоохранения во время вспышки.",
+          "takeaways": [
+            "Генеральный директор ВОЗ обратился непосредственно к жителям Тенерифе по ситуации с хантавирусом.",
+            "Сообщение стремилось признать опасения и донести человечный посыл наряду с техническими обновлениями.",
+            "Это послание дополняет брифинги ВОЗ и местные меры общественного здравоохранения."
+          ]
+        },
+        "uk": {
+          "title": "Директор‑генерал ВООЗ звернувся до жителів Тенерифе щодо реагування на хантавірус",
+          "summary": "Директор‑генерал ВООЗ звернувся безпосередньо до мешканців Тенерифе щодо реагування на хантавірус, визнав громадське занепокоєння та встановив контакт із громадою нарівні з технічними брифінгами.",
+          "whyItMatters": "Пряме звернення від керівництва глобального громадського здоровʼя може прояснити ризики, підтримати місцеві заходи реагування та допомогти спільнотам краще зрозуміти дії громадського здоровʼя під час спалаху.",
+          "takeaways": [
+            "Директор‑генерал ВООЗ звернувся безпосередньо до людей Тенерифе щодо ситуації з хантавірусом.",
+            "Комунікація мала на меті визнати занепокоєння та надати людський, зрозумілий меседж поряд із технічними оновленнями.",
+            "Повідомлення доповнює брифінги ВООЗ та місцеві заходи громадського здоровʼя."
+          ]
+        },
+        "fr": {
+          "title": "Le Directeur général de l'OMS s'adresse aux habitants de Tenerife au sujet de la réponse au hantavirus",
+          "summary": "Le Directeur général de l'OMS a adressé un message direct aux résidents de Tenerife concernant la réponse au hantavirus, reconnaissant les préoccupations du public et communiquant avec la communauté au‑delà des briefings techniques.",
+          "whyItMatters": "Une communication directe de la part de la direction de la santé publique mondiale peut clarifier les risques, soutenir les efforts locaux de riposte et aider les communautés à comprendre les actions de santé publique lors d'une épidémie.",
+          "takeaways": [
+            "Le Directeur général de l'OMS a écrit directement aux habitants de Tenerife au sujet de la situation liée au hantavirus.",
+            "Le message visait à reconnaître les inquiétudes et à fournir un message plus humain en complément des mises à jour techniques.",
+            "Le message complète les briefings de l'OMS et les mesures de santé publique locales."
+          ]
+        },
+        "de": {
+          "title": "WHO‑Generaldirektor richtet sich an die Bevölkerung Teneriffas zur Hantavirus-Reaktion",
+          "summary": "Der WHO‑Generaldirektor richtete eine direkte Botschaft an die Bewohner Teneriffas zur Hantavirus-Reaktion, erkannte öffentliche Besorgnis an und kommunizierte mit der Gemeinschaft über technische Briefings hinaus.",
+          "whyItMatters": "Direkte Kommunikation von globaler Gesundheitsführung kann Risiken klären, lokale Reaktionsmaßnahmen unterstützen und Gemeinschaften helfen, die öffentlichen Gesundheitsmaßnahmen während eines Ausbruchs zu verstehen.",
+          "takeaways": [
+            "Der WHO‑Generaldirektor schrieb sich direkt an die Menschen in Teneriffa bezüglich der Hantavirus-Situation.",
+            "Die Mitteilung zielte darauf ab, Sorgen anzuerkennen und eine menschliche Ansprache zusätzlich zu technischen Updates zu bieten.",
+            "Die Botschaft ergänzt WHO‑Briefings und lokale Gesundheitsmaßnahmen."
+          ]
+        },
+        "pt-br": {
+          "title": "Diretor‑Geral da OMS dirige‑se ao povo de Tenerife sobre a resposta ao hantavírus",
+          "summary": "O Diretor‑Geral da OMS emitiu uma mensagem direta aos residentes de Tenerife sobre a resposta ao hantavírus, reconhecendo a preocupação pública e comunicando‑se com a comunidade além dos briefings técnicos.",
+          "whyItMatters": "A comunicação direta da liderança em saúde global pode esclarecer riscos, apoiar os esforços de resposta locais e ajudar as comunidades a compreender as ações de saúde pública durante um surto.",
+          "takeaways": [
+            "O Diretor‑Geral da OMS escreveu diretamente ao povo de Tenerife sobre a situação do hantavírus.",
+            "A comunicação visou reconhecer apreensões e oferecer uma mensagem com tom humano além das atualizações técnicas.",
+            "A mensagem complementa os briefings da OMS e as medidas de saúde pública locais."
+          ]
+        },
+        "hu": {
+          "title": "A WHO főigazgatója üzenetet intézett Tenerife lakóihoz a hantavírus-válaszról",
+          "summary": "A WHO főigazgatója közvetlen üzenetet küldött a Tenerife lakosságának a hantavírusra adott válaszról, elismerve a közösség aggodalmait és kommunikálva a helyiekkel a technikai tájékoztatásokon túl.",
+          "whyItMatters": "A globális egészségügyi vezetés közvetlen kommunikációja tisztázhatja a kockázatot, támogathatja a helyi válaszintézkedéseket, és segíthet a közösségeknek megérteni a közegészségügyi intézkedéseket járvány idején.",
+          "takeaways": [
+            "A WHO főigazgatója közvetlenül írt a tenerifei embereknek a hantavírussal kapcsolatban.",
+            "Az üzenet célja volt, hogy elismerje az aggodalmakat és emberi hangon kiegészítse a technikai tájékoztatásokat.",
+            "Az üzenet kiegészíti a WHO tájékoztatásait és a helyi közegészségügyi intézkedéseket."
+          ]
+        },
+        "ar": {
+          "title": "مدير عام منظمة الصحة العالمية يُخاطب أهالي تينيريفي بشأن استجابة فيروس هانتا",
+          "summary": "وجّه مدير عام منظمة الصحة العالمية رسالة مباشرة إلى سكان تينيريفي حول الاستجابة لفيروس هانتا، معترفا بقلق الجمهور ومتواصلا مع المجتمع إلى جانب الإحاطات الفنية.",
+          "whyItMatters": "يمكن للتواصل المباشر من قيادة الصحة العالمية أن يوضّح المخاطر، ويدعم جهود الاستجابة المحلية، ويساعد المجتمعات على فهم الإجراءات الصحية العامة أثناء تفشٍ.",
+          "takeaways": [
+            "كتب مدير عام منظمة الصحة العالمية مباشرة إلى أهالي تينيريفي بشأن وضع فيروس هانتا.",
+            "هدفت الرسالة إلى الاعتراف بالمخاوف وتقديم رسالة إنسانية بالتوازي مع الإحاطات الفنية.",
+            "تكمل الرسالة إحاطات المنظمة والإجراءات المحلية للصحة العامة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tenerife-hantavirus-who-message-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tenerife-hantavirus-who-message-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tenerife-hantavirus-who-message-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO Director-General addresses the people of Tenerife on hantavirus response.\nStory summary: The WHO Director-General issued a direct message to residents of Tenerife about the hantavirus response, acknowledging public concern and communicating with the community beyond technical briefings..\nCategory: public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "older-adults-cannabis-2026-05",
@@ -4088,111 +4944,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Bariatric surgery linked to stronger long-term cardiovascular protection than GLP‑1 drugs in older adults (real‑world study).\nStory summary: A real-world analysis presented at ASMBS2026 reports that metabolic and bariatric surgery provided greater long-term reductions in heart attack, stroke and mortality than widely used GLP‑1 medications among older people with obesity and diabetes..\nCategory: Metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "gainhealth-salt-tanga-2026-05-06",
-      "category": "food systems & nutrition",
+      "id": "tanga-salt-iodization-nutrition-2026",
+      "category": "global nutrition",
       "sourceName": "gainhealth.org",
       "sourceUrl": "https://www.gainhealth.org/blogs/how-cleaner-salt-production-tanga-improving-nutrition-outcomes",
       "sourceTitle": "How Cleaner Salt Production in Tanga Is Improving Nutrition Outcomes",
       "publishedAt": "Wed, 06 May 2026 09:09:48 +0000",
       "languages": {
         "en": {
-          "title": "Cleaner salt production in Tanga linked to better nutrition outcomes",
-          "summary": "Improvements in salt production practices in Tongoni and Masiwani, Tanga—such as reducing contamination and achieving consistent iodization—are helping to improve the quality and safety of salt sold locally, with potential benefits for children and pregnant women.",
-          "whyItMatters": "Salt quality and reliable iodization can directly affect population nutrition and maternal-child health, showing how production practices influence frontline nutrition outcomes.",
+          "title": "Cleaner salt production in Tanga boosts purity and iodization, supporting nutrition",
+          "summary": "Efforts to improve salt production practices in Tanga—reducing contamination and ensuring consistent iodization—are helping local households, especially children and pregnant women, receive safer, more nutritious salt.",
+          "whyItMatters": "Improvements in a staple like salt can have population-level effects on micronutrient intake and food safety, particularly in communities where iodized salt is a primary source of iodine.",
           "takeaways": [
-            "Local producers moved away from unlined pans and contaminated crystals to cleaner methods.",
-            "More consistent iodization increases the nutritional value of the salt supply.",
-            "Improved production practices can have measurable impacts on household nutrition, especially for vulnerable groups."
+            "Producers in Tanga adopted cleaner methods and measures to make salt safer and more consistently iodized.",
+            "Better salt quality can benefit vulnerable groups such as children and pregnant people by improving iodine intake.",
+            "Local production improvements can complement broader nutrition and public health strategies."
           ]
         },
         "es": {
-          "title": "Producción de sal más limpia en Tanga vinculada a mejores resultados nutricionales",
-          "summary": "Mejoras en las prácticas de producción de sal en Tongoni y Masiwani, Tanga—como reducir la contaminación y lograr una yodación consistente—están contribuyendo a mejorar la calidad y seguridad de la sal vendida localmente, con beneficios potenciales para niños y mujeres embarazadas.",
-          "whyItMatters": "La calidad de la sal y una yodación fiable pueden afectar directamente la nutrición poblacional y la salud materno‑infantil, mostrando cómo las prácticas de producción influyen en los resultados nutricionales en primera línea.",
+          "title": "La producción de sal más limpia en Tanga mejora la pureza y la yodación, favoreciendo la nutrición",
+          "summary": "Los esfuerzos para mejorar las prácticas de producción de sal en Tanga —reduciendo la contaminación y asegurando una yodación consistente— están ayudando a los hogares locales, especialmente a niños y mujeres embarazadas, a recibir sal más segura y nutritiva.",
+          "whyItMatters": "Las mejoras en un alimento básico como la sal pueden tener efectos a nivel poblacional sobre la ingesta de micronutrientes y la seguridad alimentaria, particularmente en comunidades donde la sal yodada es la principal fuente de yodo.",
           "takeaways": [
-            "Los productores locales abandonaron el uso de salineras sin revestimiento y cristales contaminados en favor de métodos más limpios.",
-            "Una yodación más coherente aumenta el valor nutricional del suministro de sal.",
-            "Las prácticas de producción mejoradas pueden tener impactos mensurables en la nutrición de los hogares, especialmente para grupos vulnerables."
+            "Los productores en Tanga adoptaron métodos más limpios y medidas para que la sal sea más segura y yodada de forma más consistente.",
+            "Una mejor calidad de la sal puede beneficiar a grupos vulnerables, como niños y mujeres embarazadas, al mejorar la ingesta de yodo.",
+            "Las mejoras en la producción local pueden complementar estrategias más amplias de nutrición y salud pública."
           ]
         },
         "ru": {
-          "title": "Более чистое производство соли в Танге связано с лучшими показателями питания",
-          "summary": "Улучшение практик производства соли в Тонгони и Масиуани, Танга — такие как сокращение загрязнения и обеспечение равномерного йодирования — помогает повышать качество и безопасность местно продаваемой соли, что может принести пользу детям и беременным женщинам.",
-          "whyItMatters": "Качество соли и надёжное йодирование могут прямо влиять на питание населения и материнско‑детское здоровье, показывая, как производственные практики влияют на результаты в области питания на местах.",
+          "title": "Более чистое производство соли в Танга повышает её чистоту и йодирование, поддерживая питание",
+          "summary": "Меры по улучшению практики производства соли в Танга — сокращение загрязнений и обеспечение стабильного йодирования — помогают домохозяйствам, особенно детям и беременным женщинам, получать более безопасную и питательную соль.",
+          "whyItMatters": "Улучшения в таком базовом продукте, как соль, могут оказать влияние на популяционный уровень потребления микронутриентов и безопасность пищевых продуктов, особенно в сообществах, где йодированная соль является основным источником йода.",
           "takeaways": [
-            "Местные производители отказались от невыстланных бассейнов и загрязнённых кристаллов в пользу более чистых методов.",
-            "Более последовательное йодирование повышает питательную ценность поставок соли.",
-            "Улучшенные производственные практики могут оказывать измеримое влияние на питание домохозяйств, особенно у уязвимых групп."
+            "Производители в Танга внедрили более чистые методы и меры для повышения безопасности и равномерности йодирования соли.",
+            "Более качественная соль может принести пользу уязвимым группам, таким как дети и беременные, улучшая потребление йода.",
+            "Местные улучшения производства могут дополнять более широкие стратегии в области питания и общественного здравоохранения."
           ]
         },
         "uk": {
-          "title": "Чистіші методи виробництва солі в Танзі пов'язані з кращими результатами у харчуванні",
-          "summary": "Покращення практик виробництва солі в Тонгоні та Масівані (Танга) — наприклад, зниження забруднення та забезпечення більш послідовної йодування — сприяють підвищенню якості та безпечності солі, що продається місцево, з потенційними перевагами для дітей і вагітних жінок.",
-          "whyItMatters": "Якість солі та надійне йодування можуть безпосередньо впливати на харчування населення та здоров'я матері й дитини, демонструючи, як виробничі практики впливають на результати в сфері харчування на передовій.",
+          "title": "Чистіші методи виробництва солі в Танзі підвищують її чистоту та йодування, сприяючи харчуванню",
+          "summary": "Заходи щодо покращення практик виробництва солі в Танзі — зменшення забруднення та забезпечення послідовного йодування — допомагають місцевим домогосподарствам, особливо дітям і вагітним, отримувати безпечнішу, більш поживну сіль.",
+          "whyItMatters": "Покращення якості основного продукту, як-от сіль, може мати вплив на рівень споживання мікронутрієнтів і безпеку харчових продуктів у масштабі населення, особливо в громадах, де йодована сіль є основним джерелом йоду.",
           "takeaways": [
-            "Місцеві виробники відмовилися від незахищених (неутеплених) ванн і забруднених кристалів на користь чистіших методів.",
-            "Більш послідовне йодування підвищує харчову цінність постачання солі.",
-            "Покращені виробничі практики можуть мати вимірюваний вплив на харчування домогосподарств, особливо вразливих груп."
+            "Виробники в Танзі запровадили чистіші методи та заходи для виготовлення безпечнішої та більш рівномірно йодованої солі.",
+            "Покращена якість солі може принести користь уразливим групам, таким як діти та вагітні, підвищуючи надходження йоду.",
+            "Покращення місцевого виробництва може доповнювати ширші стратегії з харчування та громадського здоров'я."
           ]
         },
         "fr": {
-          "title": "Une production de sel plus propre à Tanga liée à de meilleurs résultats nutritionnels",
-          "summary": "Des améliorations des pratiques de production du sel à Tongoni et Masiwani (Tanga) — telles que la réduction de la contamination et une iodation plus régulière — contribuent à améliorer la qualité et la sécurité du sel vendu localement, avec des bénéfices potentiels pour les enfants et les femmes enceintes.",
-          "whyItMatters": "La qualité du sel et une iodation fiable peuvent affecter directement la nutrition des populations et la santé materno‑infantile, montrant comment les pratiques de production influencent les résultats nutritionnels de première ligne.",
+          "title": "Une production de sel plus propre à Tanga améliore la pureté et l'iodation, soutenant la nutrition",
+          "summary": "Des efforts pour améliorer les pratiques de production de sel à Tanga — en réduisant la contamination et en assurant une iodation régulière — aident les ménages locaux, en particulier les enfants et les femmes enceintes, à disposer d'un sel plus sûr et plus nutritif.",
+          "whyItMatters": "L'amélioration d'un aliment de base comme le sel peut avoir des effets au niveau de la population sur l'apport en micronutriments et la sécurité alimentaire, notamment dans les communautés où le sel iodé est une source principale d'iode.",
           "takeaways": [
-            "Les producteurs locaux sont passés de bassins non revêtus et de cristaux contaminés à des méthodes plus propres.",
-            "Une iodation plus régulière augmente la valeur nutritionnelle de l'offre de sel.",
-            "Des pratiques de production améliorées peuvent avoir des impacts mesurables sur la nutrition des ménages, en particulier pour les groupes vulnérables."
+            "Les producteurs de Tanga ont adopté des méthodes plus propres et des mesures pour obtenir un sel plus sûr et plus régulièrement iodé.",
+            "Une meilleure qualité du sel peut bénéficier aux groupes vulnérables tels que les enfants et les femmes enceintes en améliorant l'apport en iode.",
+            "Les améliorations de la production locale peuvent compléter des stratégies plus larges en matière de nutrition et de santé publique."
           ]
         },
         "de": {
-          "title": "Reinere Salzproduktion in Tanga mit besseren Ernährungsergebnissen verbunden",
-          "summary": "Verbesserungen in der Salzproduktion in Tongoni und Masiwani, Tanga—etwa durch Reduzierung von Kontamination und konsistente Jodierung—helfen, die Qualität und Sicherheit des lokal verkauften Salzes zu verbessern, mit potenziellen Vorteilen für Kinder und Schwangere.",
-          "whyItMatters": "Salzqualität und verlässliche Jodierung können die Bevölkerungsernährung und die Mütter‑Kind‑Gesundheit direkt beeinflussen und zeigen, wie Produktionspraktiken die Ernährung an der Basis formen.",
+          "title": "Sauberere Salzproduktion in Tanga verbessert Reinheit und Jodierung und unterstützt die Ernährung",
+          "summary": "Bemühungen zur Verbesserung der Salzproduktionspraktiken in Tanga—zur Reduzierung von Kontaminationen und Gewährleistung konsistenter Jodierung—helfen Haushalten, insbesondere Kindern und schwangeren Frauen, sichereres, nährstoffreicheres Salz zu erhalten.",
+          "whyItMatters": "Verbesserungen bei einem Grundnahrungsmittel wie Salz können auf Bevölkerungsebene die Aufnahme von Mikronährstoffen und die Lebensmittelsicherheit positiv beeinflussen, insbesondere in Gemeinschaften, in denen jodiertes Salz eine primäre Jodquelle ist.",
           "takeaways": [
-            "Lokale Produzenten stellten von ungepufferten Becken und kontaminierten Kristallen auf sauberere Methoden um.",
-            "Konstantere Jodierung erhöht den Nährwert der Salzversorgung.",
-            "Verbesserte Produktionspraktiken können messbare Auswirkungen auf die Haushaltsnahrung haben, besonders für verletzliche Gruppen."
+            "Produzenten in Tanga haben sauberere Methoden und Maßnahmen eingeführt, um Salz sicherer und gleichmäßiger jodiert zu machen.",
+            "Bessere Salzqualität kann besonders verletzlichen Gruppen wie Kindern und Schwangeren durch verbesserte Jodaufnahme zugutekommen.",
+            "Lokale Verbesserungen in der Produktion können breitere Ernährungs‑ und Gesundheitsstrategien ergänzen."
           ]
         },
         "pt-br": {
-          "title": "Produção de sal mais limpa em Tanga relacionada a melhores resultados nutricionais",
-          "summary": "Melhorias nas práticas de produção de sal em Tongoni e Masiwani, Tanga—como redução da contaminação e iodização consistente—estão ajudando a melhorar a qualidade e a segurança do sal vendido localmente, com benefícios potenciais para crianças e gestantes.",
-          "whyItMatters": "A qualidade do sal e a iodização confiável podem afetar diretamente a nutrição populacional e a saúde materno‑infantil, mostrando como práticas de produção influenciam resultados nutricionais na linha de frente.",
+          "title": "Produção de sal mais limpa em Tanga aumenta pureza e iodização, apoiando a nutrição",
+          "summary": "Esforços para melhorar as práticas de produção de sal em Tanga — reduzindo contaminação e garantindo iodização consistente — estão ajudando domicílios, especialmente crianças e mulheres grávidas, a receberem sal mais seguro e nutritivo.",
+          "whyItMatters": "Melhorias em um alimento básico como o sal podem ter efeitos em nível populacional na ingestão de micronutrientes e na segurança alimentar, particularmente em comunidades onde o sal iodado é a principal fonte de iodo.",
           "takeaways": [
-            "Produtores locais deixaram de usar tanques não revestidos e cristais contaminados, adotando métodos mais limpos.",
-            "Iodização mais consistente aumenta o valor nutricional do fornecimento de sal.",
-            "Práticas de produção melhoradas podem ter impactos mensuráveis na nutrição domiciliar, especialmente para grupos vulneráveis."
+            "Produtores em Tanga adotaram métodos mais limpos e medidas para tornar o sal mais seguro e mais consistentemente iodado.",
+            "Melhor qualidade do sal pode beneficiar grupos vulneráveis, como crianças e gestantes, ao melhorar a ingestão de iodo.",
+            "Melhorias na produção local podem complementar estratégias mais amplas de nutrição e saúde pública."
           ]
         },
         "hu": {
-          "title": "Tisztabb sótermelés Tangában jobb táplálkozási eredményekhez kapcsolódik",
-          "summary": "A Tongoni és Masiwani (Tanga) sótermelési gyakorlatainak javulása — például a szennyeződés csökkentése és az egyenletes jódosítás elérése — javítja a helyben árusított só minőségét és biztonságát, ami potenciális előnyökkel járhat gyermekek és várandós nők számára.",
-          "whyItMatters": "A só minősége és a megbízható jódosítás közvetlenül befolyásolhatja a népesség táplálkozási állapotát és a anyai‑gyermek egészséget, jól illusztrálva, hogy a termelési gyakorlatok hogyan hatnak a napi táplálkozásra.",
+          "title": "Tisztább sótermelés Tangában növeli a tisztaságot és a jódosítást, támogatva a táplálkozást",
+          "summary": "A Tanga sótermelésének javítása — a szennyeződés csökkentése és a következetes jódosítás biztosítása — segíti a helyi háztartásokat, különösen a gyermekeket és a várandósokat, abban, hogy biztonságosabb, táplálóbb sóhoz jussanak.",
+          "whyItMatters": "Egy alapélelmiszer javítása népességszintű hatással lehet a mikrotápanyag-bevitelre és az élelmiszerbiztonságra, különösen olyan közösségekben, ahol a jódozott só a jód elsődleges forrása.",
           "takeaways": [
-            "A helyi termelők elmozdultak az olajozatlan, szennyezett panelektől és kristályoktól a tisztább módszerek felé.",
-            "A következetesebb jódosítás növeli a só ellátásának tápértékét.",
-            "A jobb termelési gyakorlatok mérhető hatással lehetnek a háztartási táplálkozásra, különösen a sérülékeny csoportoknál."
+            "A Tanga-i termelők tisztább módszereket és intézkedéseket vezettek be, hogy a só biztonságosabb és következetesebben jódozott legyen.",
+            "A jobb sóminőség előnyös lehet a sérülékeny csoportoknak, például a gyermekeknek és a várandósoknak az élelmezési jódbevitel javítása révén.",
+            "A helyi termelési fejlesztések kiegészíthetik a szélesebb táplálkozási és közegészségügyi stratégiákat."
           ]
         },
         "ar": {
-          "title": "تحسين إنتاج الملح في تانغا مرتبط بنتائج تغذوية أفضل",
-          "summary": "تحسّن ممارسات إنتاج الملح في تونغوني وماسيواني (تانغا) — مثل تقليل التلوث وتحقيق توحّد اليود في المنتج — يساعد على رفع جودة وسلامة الملح المباع محليًا، مما قد يعود بفوائد محتملة على الأطفال والحوامل.",
-          "whyItMatters": "يمكن أن تؤثر جودة الملح والتأكد من اليود المضاف على تغذية السكان وصحة الأم والطفل، مما يبرز كيف تؤثر ممارسات الإنتاج على النتائج التغذوية على مستوى القاعدة.",
+          "title": "تحسين إنتاج الملح في تانغا يزيد النقاء ويعزز إضافة اليود، داعمًا التغذية",
+          "summary": "تسهم جهود تحسين ممارسات إنتاج الملح في تانغا — عبر تقليل التلوث وضمان إضافة اليود بشكل متسق — في مساعدة الأسر المحلية، خاصة الأطفال والحوامل، على الحصول على ملح أكثر أمانًا وغذاءً غنيًا بالمعادن.",
+          "whyItMatters": "يمكن أن يكون لتحسين سلعة أساسية مثل الملح آثار على مستوى السكان على تناول المغذيات الدقيقة وسلامة الغذاء، لا سيما في المجتمعات التي يعتمد فيها السكان على الملح المُيوَّد كمصدر أساسي لليود.",
           "takeaways": [
-            "ابتعد المنتجون المحليون عن الأحواض غير المبطّنة والبلورات الملوثة إلى أساليب أنظف.",
-            "تزيد الزيادة في توحيد اليود من القيمة التغذوية لإمدادات الملح.",
-            "يمكن للممارسات الإنتاجية المحسّنة أن تؤثر بشكل ملموس على تغذية الأسر، خاصة المجموعات الضعيفة."
+            "اعتمد المنتجون في تانغا طرقًا أنظف وإجراءات لجعل الملح أكثر أمانًا ومُيوّدًا بشكل متسق.",
+            "يمكن أن تفيد جودة الملح المحسنة الفئات الضعيفة مثل الأطفال والحوامل بتحسين تناول اليود.",
+            "يمكن لتحسينات الإنتاج المحلي أن تكمل استراتيجيات التغذية والصحة العامة الأوسع."
           ]
         }
       },
-      "generatedAt": "2026-05-13T09:28:40.431Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=gainhealth-salt-tanga-2026-05-06",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-salt-tanga-2026-05-06-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-salt-tanga-2026-05-06-news.webp",
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tanga-salt-iodization-nutrition-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tanga-salt-iodization-nutrition-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tanga-salt-iodization-nutrition-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cleaner salt production in Tanga linked to better nutrition outcomes.\nStory summary: Improvements in salt production practices in Tongoni and Masiwani, Tanga—such as reducing contamination and achieving consistent iodization—are helping to improve the quality and safety of salt sold locally, with potential benefits for children and pregnant women..\nCategory: food systems & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cleaner salt production in Tanga boosts purity and iodization, supporting nutrition.\nStory summary: Efforts to improve salt production practices in Tanga—reducing contamination and ensuring consistent iodization—are helping local households, especially children and pregnant women, receive safer, more nutritious salt..\nCategory: global nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "s3",
@@ -12262,114 +13118,378 @@
       }
     },
     {
-      "id": "harvard-dga-2026-01-09",
-      "category": "dietary guidance",
+      "id": "dga-2025-2030-summary-2026",
+      "category": "dietary guidelines",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "2025–2030 Dietary Guidelines emphasize real food and limits on added sugar",
-          "summary": "The 2025–2030 Dietary Guidelines for Americans promote eating 'real food' and take a firmer stance on limiting added sugars and highly processed foods, while retaining an upper limit of 10% of daily calories from saturated fat despite graphics that give prominence to certain animal-based foods.",
-          "whyItMatters": "The Guidelines influence nutrition advice, public programs, and policy; updates on sugars, processing, and visual messaging may affect public perceptions and dietary decisions.",
+          "title": "Key points from the 2025–2030 Dietary Guidelines for Americans",
+          "summary": "The 2025–2030 Dietary Guidelines emphasize eating minimally processed foods and stronger limits on added sugars, while retaining an upper limit of 10% of daily calories from saturated fat despite graphic elements spotlighting higher-fat animal foods.",
+          "whyItMatters": "The Guidelines influence public nutrition messaging, policy, and dietary recommendations; understanding both their priorities and apparent contradictions helps consumers and professionals interpret guidance.",
           "takeaways": [
-            "Guidelines strengthen recommendations to limit added sugars and highly processed foods.",
-            "A new graphic highlights foods such as steak and full‑fat dairy, but the saturated fat cap remains at 10% of calories.",
-            "Interpretation of visuals versus numerical limits may influence consumer and policy responses."
+            "The Guidelines reiterate a focus on whole, minimally processed foods and limiting added sugars.",
+            "A new visual puts greater prominence on certain animal foods, but the 10% saturated fat limit remains in the text.",
+            "Readers should consider both the narrative recommendations and the numeric limits when evaluating the guidance."
           ]
         },
         "es": {
-          "title": "Las Guías Alimentarias 2025–2030 enfatizan alimentos reales y límites al azúcar añadido",
-          "summary": "Las Guías Alimentarias para los Estadounidenses 2025–2030 promueven comer 'alimentos reales' y adoptan una postura más firme sobre limitar azúcares añadidos y alimentos altamente procesados, mientras mantienen un límite superior del 10% de las calorías diarias provenientes de grasas saturadas a pesar de gráficos que dan protagonismo a ciertos alimentos de origen animal.",
-          "whyItMatters": "Las Guías influyen en el asesoramiento nutricional, programas públicos y políticas; las actualizaciones sobre azúcares, procesado y el mensaje visual pueden afectar percepciones públicas y decisiones dietéticas.",
+          "title": "Puntos clave de las Directrices Alimentarias para los Estadounidenses 2025–2030",
+          "summary": "Las Directrices 2025–2030 enfatizan el consumo de alimentos mínimamente procesados y límites más estrictos sobre azúcares añadidos, mientras mantienen un límite superior del 10% de las calorías diarias provenientes de grasas saturadas pese a elementos gráficos que destacan alimentos animales con más grasa.",
+          "whyItMatters": "Las Directrices influyen en la comunicación pública sobre nutrición, políticas y recomendaciones dietéticas; entender tanto sus prioridades como las aparentes contradicciones ayuda a consumidores y profesionales a interpretar las orientaciones.",
           "takeaways": [
-            "Las guías refuerzan las recomendaciones para limitar azúcares añadidos y alimentos altamente procesados.",
-            "Un nuevo gráfico destaca alimentos como el filete y los lácteos enteros, pero el límite de grasas saturadas sigue siendo del 10% de las calorías.",
-            "La interpretación de los elementos visuales frente a los límites numéricos puede influir en las respuestas de consumidores y políticas."
+            "Las Directrices reiteran el enfoque en alimentos integrales, mínimamente procesados y en limitar los azúcares añadidos.",
+            "Un nuevo elemento visual da mayor prominencia a ciertos alimentos animales, pero el límite del 10% de grasas saturadas se mantiene en el texto.",
+            "Los lectores deben considerar tanto las recomendaciones narrativas como los límites numéricos al evaluar la guía."
           ]
         },
         "ru": {
-          "title": "Диетические рекомендации 2025–2030 подчёркивают натуральную пищу и ограничения добавленного сахара",
-          "summary": "Диетические рекомендации для американцев на 2025–2030 годы продвигают потребление «натуральной пищи» и занимают более жёсткую позицию по ограничению добавленных сахаров и сильно обработанных продуктов, при этом сохраняя верхний предел в 10% суточной калорийности за счёт насыщенных жиров, несмотря на графику, выделяющую некоторые продукты животного происхождения.",
-          "whyItMatters": "Рекомендации влияют на пищевые советы, государственные программы и политику; обновления по сахару, степени переработки и визуальным сообщениям могут повлиять на восприятие публикой и пищевые решения.",
+          "title": "Ключевые положения Руководства по питанию для американцев 2025–2030",
+          "summary": "Руководство 2025–2030 подчёркивает потребление минимально обработанных продуктов и более жёсткие ограничения на добавленные сахара, при этом сохраняя верхний предел в 10% от суточных калорий, приходящихся на насыщенные жиры, несмотря на графические элементы, выделяющие более жирные животные продукты.",
+          "whyItMatters": "Руководство влияет на публичные сообщения о питании, политику и диетические рекомендации; понимание как приоритетов, так и кажущихся противоречий помогает потребителям и профессионалам интерпретировать рекомендации.",
           "takeaways": [
-            "Рекомендации усиливают требования по ограничению добавленных сахаров и сильно обработанных продуктов.",
-            "Новая графика подчёркивает такие продукты, как стейк и цельномолочные продукты, но потолок по насыщенным жирам остаётся на уровне 10% калорий.",
-            "Толкование визуальных элементов по сравнению с числовыми ограничениями может повлиять на реакции потребителей и политику."
+            "Руководство вновь акцентирует внимание на цельных, минимально обработанных продуктах и ограничении добавленных сахаров.",
+            "Новый визуальный элемент придаёт большее значение некоторым животным продуктам, но числовой предел в 10% насыщенных жиров остаётся в тексте.",
+            "Читателям следует учитывать как нарративные рекомендации, так и числовые лимиты при оценке руководства."
           ]
         },
         "uk": {
-          "title": "Дієтичні рекомендації США 2025–2030 підкреслюють їжу «як є» та обмеження доданого цукру",
-          "summary": "Дієтичні рекомендації для американців 2025–2030 пропагують споживання «реальної їжі» і посилюють акцент на обмеженні доданих цукрів та сильно оброблених продуктів, водночас зберігаючи верхню межу насичених жирів на рівні 10% добової калорійності, хоча графічні матеріали виділяють певні продукти тваринного походження.",
-          "whyItMatters": "Ці рекомендації впливають на харчові поради, державні програми та політику; оновлення щодо цукрів, ступеня переробки та візуальних повідомлень можуть змінити сприйняття населення і харчові рішення.",
+          "title": "Основні пункти дієтичних рекомендацій для американців 2025–2030",
+          "summary": "Рекомендації 2025–2030 наголошують на вживанні мінімально оброблених продуктів і посиленні обмежень на додані цукри, при цьому зберігається верхня межа в 10% добових калорій від насичених жирів, незважаючи на графічні елементи, що виділяють продукти з вищим вмістом тваринних жирів.",
+          "whyItMatters": "Ці Рекомендації впливають на громадське харчове повідомлення, політику та дієтичні поради; розуміння їхніх пріоритетів і видимих суперечностей допомагає споживачам і професіоналам інтерпретувати настанови.",
           "takeaways": [
-            "Рекомендації посилюють обмеження щодо доданих цукрів і сильно перероблених продуктів.",
-            "Нове зображення виділяє такі продукти, як стейк і повножирові молочні продукти, але верхня межа насичених жирів залишається на рівні 10% калорій.",
-            "Інтерпретація візуального представлення в порівнянні з числовими обмеженнями може вплинути на реакцію споживачів і політику."
+            "Рекомендації повторно підкреслюють увагу на цілісних, мінімально оброблених продуктах і обмеженні доданих цукрів.",
+            "Новий візуальний матеріал робить більш помітними певні тваринні продукти, але в тексті збережено межу 10% для насичених жирів.",
+            "Читачам слід враховувати як наративні рекомендації, так і числові обмеження при оцінці вказівок."
           ]
         },
         "fr": {
-          "title": "Les recommandations alimentaires 2025–2030 insistent sur les aliments naturels et la limitation des sucres ajoutés",
-          "summary": "Les Dietary Guidelines for Americans 2025–2030 encouragent la consommation d'« aliments vrais » et adoptent une position plus ferme sur la limitation des sucres ajoutés et des aliments hautement transformés, tout en maintenant une limite supérieure de 10 % des calories quotidiennes provenant des graisses saturées, bien que des graphiques mettent en avant certains aliments d'origine animale.",
-          "whyItMatters": "Ces recommandations influencent les conseils nutritionnels, les programmes publics et les politiques ; les mises à jour sur les sucres, la transformation et le message visuel peuvent affecter la perception du public et les choix alimentaires.",
+          "title": "Points clés des Dietary Guidelines for Americans 2025–2030",
+          "summary": "Les recommandations 2025–2030 insistent sur la consommation d'aliments peu transformés et sur des limites renforcées des sucres ajoutés, tout en maintenant une limite supérieure de 10 % des calories quotidiennes provenant des graisses saturées, malgré des éléments graphiques qui mettent en avant des aliments d'origine animale plus riches en graisses.",
+          "whyItMatters": "Ces recommandations influencent les messages nutritionnels publics, les politiques et les conseils alimentaires ; comprendre leurs priorités et leurs contradictions apparentes aide les consommateurs et les professionnels à interpréter les recommandations.",
           "takeaways": [
-            "Les recommandations renforcent la recommandation de limiter les sucres ajoutés et les aliments hautement transformés.",
-            "Un nouveau graphique met en avant des aliments tels que le steak et les produits laitiers entiers, mais le plafond de graisses saturées reste à 10 % des calories.",
-            "L'interprétation des visuels par rapport aux limites chiffrées peut influencer les réponses des consommateurs et les décisions politiques."
+            "Les recommandations réitèrent l'accent sur les aliments entiers et peu transformés et la limitation des sucres ajoutés.",
+            "Un nouveau visuel met davantage en avant certains aliments d'origine animale, mais la limite de 10 % de graisses saturées reste dans le texte.",
+            "Les lecteurs doivent prendre en compte à la fois les recommandations narratives et les limites chiffrées lors de l'évaluation des consignes."
           ]
         },
         "de": {
-          "title": "Ernährungsrichtlinien 2025–2030 betonen echte Lebensmittel und Begrenzung von zugesetztem Zucker",
-          "summary": "Die Dietary Guidelines for Americans 2025–2030 fördern das Essen von 'echten Lebensmitteln' und vertreten eine strengere Haltung zur Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel, während ein Obergrenzwert von 10 % der täglichen Kalorien aus gesättigten Fettsäuren beibehalten wird, trotz Grafiken, die bestimmte tierische Lebensmittel betonen.",
-          "whyItMatters": "Die Richtlinien beeinflussen Ernährungsberatung, öffentliche Programme und Politik; Aktualisierungen zu Zucker, Verarbeitung und visueller Darstellung können Wahrnehmungen und Ernährungsentscheidungen in der Öffentlichkeit beeinflussen.",
+          "title": "Wesentliche Punkte der Dietary Guidelines for Americans 2025–2030",
+          "summary": "Die Dietary Guidelines 2025–2030 betonen den Verzehr minimal verarbeiteter Lebensmittel und strengere Begrenzungen für zugesetzten Zucker, während sie gleichzeitig ein Oberlimit von 10 % der täglichen Kalorien aus gesättigten Fettsäuren beibehalten, trotz grafischer Elemente, die fettreichere tierische Lebensmittel stärker hervorheben.",
+          "whyItMatters": "Die Leitlinien beeinflussen öffentliche Ernährungsbotschaften, Politik und Ernährungsempfehlungen; das Verständnis sowohl ihrer Prioritäten als auch scheinbarer Widersprüche hilft Konsumentinnen/Konsumenten und Fachkräften, die Empfehlungen einzuordnen.",
           "takeaways": [
-            "Die Richtlinien verschärfen Empfehlungen zur Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel.",
-            "Eine neue Grafik hebt Lebensmittel wie Steak und Vollfettmilch hervor, doch die Obergrenze für gesättigte Fette bleibt bei 10 % der Kalorien.",
-            "Die Interpretation von Visualisierungen gegenüber numerischen Grenzwerten kann Verbraucher‑ und Politikreaktionen beeinflussen."
+            "Die Leitlinien bekräftigen den Fokus auf vollwertige, minimal verarbeitete Lebensmittel und die Begrenzung zugesetzter Zucker.",
+            "Eine neue Grafik stellt bestimmte tierische Lebensmittel stärker in den Vordergrund, aber das 10‑%‑Limit für gesättigte Fette bleibt im Fließtext bestehen.",
+            "Lesende sollten sowohl die narrativen Empfehlungen als auch die numerischen Grenzen berücksichtigen, wenn sie die Leitlinien bewerten."
           ]
         },
         "pt-br": {
-          "title": "Diretrizes Alimentares 2025–2030 enfatizam alimentos reais e limites para açúcares adicionados",
-          "summary": "As Dietary Guidelines for Americans 2025–2030 promovem o consumo de 'alimentos de verdade' e adotam uma posição mais firme sobre limitar açúcares adicionados e alimentos ultraprocessados, ao mesmo tempo em que mantêm um limite superior de 10% das calorias diárias provenientes de gorduras saturadas, apesar de gráficos que destacam certos alimentos de origem animal.",
-          "whyItMatters": "As diretrizes influenciam aconselhamento nutricional, programas públicos e políticas; atualizações sobre açúcares, processamento e mensagens visuais podem afetar percepções públicas e decisões alimentares.",
+          "title": "Pontos-chave das Dietary Guidelines for Americans 2025–2030",
+          "summary": "As Diretrizes Alimentares 2025–2030 enfatizam o consumo de alimentos minimamente processados e limites mais rígidos para açúcares adicionados, ao mesmo tempo que mantêm um limite superior de 10% das calorias diárias provenientes de gorduras saturadas, apesar de elementos gráficos que destacam alimentos animais com maior teor de gordura.",
+          "whyItMatters": "As Diretrizes influenciam mensagens públicas sobre nutrição, políticas e recomendações dietéticas; entender tanto suas prioridades quanto aparentes contradições ajuda consumidores e profissionais a interpretar as orientações.",
           "takeaways": [
-            "As diretrizes reforçam recomendações para limitar açúcares adicionados e alimentos ultraprocessados.",
-            "Um novo gráfico destaca alimentos como bife e laticínios integrais, mas o limite para gorduras saturadas permanece em 10% das calorias.",
-            "A interpretação de visuais em relação a limites numéricos pode influenciar respostas de consumidores e formuladores de políticas."
+            "As Diretrizes reiteram o foco em alimentos integrais, minimamente processados, e na limitação de açúcares adicionados.",
+            "Uma nova representação gráfica dá maior destaque a certos alimentos de origem animal, mas o limite de 10% para gorduras saturadas permanece no texto.",
+            "Os leitores devem considerar tanto as recomendações narrativas quanto os limites numéricos ao avaliar as orientações."
           ]
         },
         "hu": {
-          "title": "A 2025–2030-as táplálkozási irányelvek a „valódi ételek” fogyasztását és a hozzáadott cukor korlátozását hangsúlyozzák",
-          "summary": "A 2025–2030-as Dietary Guidelines for Americans a „valódi ételek” fogyasztását népszerűsíti, határozottabb álláspontot képvisel a hozzáadott cukrok és a magas fokon feldolgozott élelmiszerek korlátozása ügyében, miközben megőrzi a telített zsír napi kalóriabevitelének 10%-os felső határát, még ha a grafikai megjelenítés bizonyos állati eredetű ételeket kiemel is.",
-          "whyItMatters": "Az irányelvek befolyásolják a táplálkozási tanácsadást, a közprogramokat és a politikát; a cukrokra, feldolgozásra és a vizuális üzenetekre vonatkozó frissítések hatással lehetnek a közvéleményre és az étrendi döntésekre.",
+          "title": "Főbb pontok a 2025–2030-as amerikai étrendi irányelvekből",
+          "summary": "A 2025–2030-as irányelvek hangsúlyozzák a minimálisan feldolgozott élelmiszerek fogyasztását és a hozzáadott cukrok erősebb korlátozását, miközben megtartják a napi kalóriabevitel 10%-os felső határát a telített zsírokra, annak ellenére, hogy vizuális elemek nagyobb hangsúlyt adnak magasabb zsírtartalmú állati ételeknek.",
+          "whyItMatters": "Az irányelvek befolyásolják a közétkeztetési üzeneteket, politikát és étrendi ajánlásokat; a prioritásaik és látszólagos ellentmondásaik megértése segít a fogyasztóknak és a szakembereknek az útmutatás értelmezésében.",
           "takeaways": [
-            "Az irányelvek erősítik a hozzáadott cukrok és a magas fokon feldolgozott élelmiszerek korlátozására vonatkozó ajánlásokat.",
-            "Egy új grafika kiemel olyan ételeket, mint a steaket és a teljes zsírtartalmú tejtermékeket, de a telített zsír korlátja továbbra is a kalóriabevitel 10%-a.",
-            "A vizuális ábrázolások és a numerikus határok értelmezése befolyásolhatja a fogyasztói és politikai reakciókat."
+            "Az irányelvek ismét hangsúlyozzák a teljes, minimálisan feldolgozott ételeket és a hozzáadott cukrok korlátozását.",
+            "Egy új vizuális elem nagyobb hangsúlyt helyez bizonyos állati eredetű élelmiszerekre, de a 10%-os telített zsírfelső határ továbbra is a szövegben szerepel.",
+            "Az olvasóknak érdemes figyelembe venniük mind a narratív ajánlásokat, mind a numerikus korlátokat az útmutatás értékelésekor."
           ]
         },
         "ar": {
-          "title": "إرشادات النظام الغذائي 2025–2030 تؤكد على الأطعمة الحقيقية والحد من السكريات المضافة",
-          "summary": "تشجع إرشادات النظام الغذائي للأمريكيين 2025–2030 تناول «الأطعمة الحقيقية» وتتبنى موقفًا أشد تجاه تقييد السكريات المضافة والأطعمة المعالجة بشدة، بينما تُبقي على حد علوي لدهون التشبع يعادل 10% من السعرات اليومية على الرغم من أن الرسوم التوضيحية تُبرز بعض الأطعمة ذات الأصل الحيواني.",
-          "whyItMatters": "تؤثر هذه الإرشادات على النصائح التغذوية والبرامج العامة والسياسات؛ وقد تؤثر التحديثات حول السكريات والمعالجة والرسائل البصرية على تصورات الجمهور وقراراتهم الغذائية.",
+          "title": "نقاط رئيسية من إرشادات التغذية الأمريكية 2025–2030",
+          "summary": "تشدد إرشادات 2025–2030 على تناول الأطعمة القليلة المعالجة ووضع قيود أقوى على السكريات المضافة، مع الاحتفاظ بحد أقصى قدره 10% من السعرات اليومية للدهون المشبعة، رغم وجود عناصر بصرية تبرز بعض الأطعمة الحيوانية الأعلى دهونًا.",
+          "whyItMatters": "تؤثر الإرشادات على رسائل التغذية العامة والسياسات والتوصيات الغذائية؛ فهم أولوياتها وتناقضاتها الظاهرة يساعد المستهلكين والمتخصصين على تفسير التوجيه.",
           "takeaways": [
-            "تعزز الإرشادات التوصيات للحد من السكريات المضافة والأطعمة المعالجة بشدة.",
-            "تُبرز رسم توضيحي جديد أطعمة مثل شرائح اللحم ومنتجات الألبان كاملة الدسم، لكن حد دهون التشبع يبقى 10% من السعرات.",
-            "قد يؤثر تفسير الرسوم البصرية مقابل الحدود العددية على استجابة المستهلكين وصانعي السياسات."
+            "تكرر الإرشادات التركيز على الأطعمة الكاملة قليلة المعالجة والحد من السكريات المضافة.",
+            "تضع عناصر بصرية جديدة أهمية أكبر على بعض الأطعمة الحيوانية، لكن حد 10% للدهون المشبعة يبقى واردًا في النص.",
+            "ينبغي للقراء مراعاة كل من التوصيات السردية والحدود الرقمية عند تقييم الإرشاد."
           ]
         }
       },
-      "generatedAt": "2026-05-13T09:28:40.431Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=harvard-dga-2026-01-09",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dga-2026-01-09-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dga-2026-01-09-news.webp",
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dga-2025-2030-summary-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-summary-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-summary-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize real food and limits on added sugar.\nStory summary: The 2025–2030 Dietary Guidelines for Americans promote eating 'real food' and take a firmer stance on limiting added sugars and highly processed foods, while retaining an upper limit of 10% of daily calories from saturated fat despite graphics that give prominence to certain animal-based foods..\nCategory: dietary guidance.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Key points from the 2025–2030 Dietary Guidelines for Americans.\nStory summary: The 2025–2030 Dietary Guidelines emphasize eating minimally processed foods and stronger limits on added sugars, while retaining an upper limit of 10% of daily calories from saturated fat despite graphic elements spotlighting higher-fat animal foods..\nCategory: dietary guidelines.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-05-14-motivation-1-s1",
+      "category": "everyday-tracking",
+      "languages": {
+        "en": {
+          "title": "Lunch by design",
+          "story": "Sarah started packing lunches three times a week and made a small change: she logged her meals before eating. Writing down what she planned helped her pick a balanced plate and avoid last-minute choices. After a few weeks of simple logging, she noticed patterns — which days left her sluggish and which gave steady energy. That insight let Sarah try tiny swaps that fit her life without stress. Tracking became a quiet tool for understanding, not a test of will.",
+          "habit": "Log meals before you eat.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Almuerzo con propósito",
+          "story": "María empezó a preparar el almuerzo tres veces por semana y añadió algo sencillo: registrar lo que iba a comer antes de sentarse. Anotar su plan la ayudó a elegir platos más equilibrados y evitar decisiones apresuradas. Tras unas semanas de registro sencillo, notó patrones: qué días se sentía más pesada y qué días mantenía energía. Esos hallazgos le permitieron probar pequeños cambios que encajaban con su rutina sin agobios. Registrar pasó a ser una herramienta práctica para aprender sobre su día a día.",
+          "habit": "Registra tus comidas antes de comer.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Обед по плану",
+          "story": "Алексей стал готовить обеды заранее три раза в неделю и решил записывать, что собирается съесть, до шага к столу. Запись плана помогла ему выбирать более сбалансированные блюда и не принимать импульсивных решений. Через несколько недель простого учёта он заметил закономерности — в какие дни ощущал упадок сил, а в какие был бодрее. Эти наблюдения позволили внести небольшие изменения, которые легко вписались в распорядок. Отслеживание стало способом понять себя, а не проверкой на силу воли.",
+          "habit": "Записывайте приём пищи до того, как съедите.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Обід заздалегідь",
+          "story": "Олена почала готувати обіди три рази на тиждень і додала просту звичку: записувати, що збирається з’їсти, до їди. Це допомогло їй вибирати більш збалансовані варіанти й уникати спонтанних рішень. За кілька тижнів щоденного запису вона помітила закономірності — коли відчуває втому, а коли має стабільну енергію. Ці спостереження дозволили внести невеликі зміни, які підходять її ритму життя. Відстежування стало тихим інструментом розуміння, а не випробуванням.",
+          "habit": "Записуйте прийом їжі до того, як поїсти.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежте сьогодні."
+        },
+        "fr": {
+          "title": "Déjeuner réfléchi",
+          "story": "Sophie a commencé à préparer son déjeuner trois fois par semaine et a ajouté une petite habitude : noter ce qu’elle allait manger avant de passer à table. Planifier ainsi l’aidait à composer des assiettes plus équilibrées et à éviter les choix impulsifs. Après quelques semaines de suivi simple, elle a repéré des tendances — quels jours la fatiguaient et quels jours lui apportaient de l’énergie. Ces observations lui ont permis d’essayer de petits ajustements faciles à garder. Le suivi est devenu un outil discret pour mieux se connaître.",
+          "habit": "Notez votre repas avant de le manger.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Mittagessen mit Plan",
+          "story": "Jana begann, drei Mal pro Woche ihr Mittagessen vorzubereiten, und führte eine kleine Gewohnheit ein: sie trug ein, was sie vor dem Essen essen wollte. Das Planen half ihr, ausgewogenere Mahlzeiten zu wählen und spontane Entscheidungen zu vermeiden. Nach ein paar Wochen einfachen Eintragens bemerkte sie Muster — an welchen Tagen sie sich schlapp fühlte und an welchen sie Energie hatte. Diese Erkenntnisse erlaubten ihr, kleine Änderungen vorzunehmen, die gut in ihren Alltag passten. Das Tracking wurde ein ruhiges Werkzeug zum Verstehen.",
+          "habit": "Trage deine Mahlzeit ein, bevor du isst.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Almoço com intenção",
+          "story": "Marcos começou a preparar o almoço três vezes por semana e adotou uma mudança simples: registrar o que ia comer antes de sentar-se. Anotar o plano ajudou a escolher pratos mais equilibrados e evitar decisões de última hora. Depois de algumas semanas de registro simples, percebeu padrões — quais dias o deixavam mais cansado e quais davam energia constante. Essas percepções permitiram ajustar pequenos detalhes de forma prática. O registro virou uma ferramenta tranquila para entender suas escolhas, sem pressão.",
+          "habit": "Registre sua refeição antes de comer.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Ebéd tudatosan",
+          "story": "Réka háromszor egy héten elkezdett előre ebédet készíteni, és bevezetett egy egyszerű szokást: felírta, mit fog enni, még az evés előtt. A tervezés segített kiegyensúlyozottabb fogásokat választani és elkerülni az impulzív döntéseket. Néhány hét egyszerű rögzítése után mintákat fedezett fel — mely napokon volt fáradtabb, és mikor volt stabil energiája. Ezek az észrevételek lehetővé tették, hogy apró, könnyen tartható változtatásokat próbáljon ki. A rögzítés a megértés eszközévé vált.",
+          "habit": "Írd le a fogást, mielőtt megeszed.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et, és rögzíts ma."
+        },
+        "ar": {
+          "title": "غداء مخطط",
+          "story": "ليلى بدأت تحضّر غداءها ثلاث مرات أسبوعياً وأضافت عادة بسيطة: تسجيل ما ستأكله قبل الجلوس. كتابة الخطة ساعدتها في اختيار أطباق متوازنة وتجنب القرارات السريعة. بعد أسابيع من التسجيل البسيط لاحظت أنماطاً — أيام تشعر فيها بالخمول وأيام تمنحها طاقة ثابتة. هذه الملاحظات سمحت لها بتجربة تغييرات صغيرة تتناسب مع روتينها دون ضغوط. أصبح التتبع أداة هادئة للفهم وليس اختباراً للإرادة.",
+          "habit": "سجّل وجبتك قبل أن تأكل.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Lunch by design.\nStory: Sarah started packing lunches three times a week and made a small change: she logged her meals before eating. Writing down what she planned helped her pick a balanced plate and avoid last-minute choices. After a few weeks of simple logging, she noticed patterns — which days left her sluggish and which gave steady energy. That insight let Sarah try tiny swaps that fit her life without stress. Tracking became a quiet tool for understanding, not a test of will..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-14-motivation-2-s2",
+      "category": "everyday-tracking",
+      "languages": {
+        "en": {
+          "title": "Honest dinners",
+          "story": "Marco kept a quick log each evening, including the little snacks he’d normally shrug off. Writing everything down — the handful of nuts, the extra spoonful of sauce — helped him see where extra calories crept in. Rather than judging himself, Marco used the notes to make one small change at a time: a lighter sauce twice a week, a pre-portion of nuts. Over time, the habit of honest logging made choices clearer and less stressful, and he felt more in control of his daily patterns.",
+          "habit": "Log snacks and small extras honestly.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Cenas sinceras",
+          "story": "Javier empezó a registrar cada noche, incluyendo esos pequeños tentempiés que antes pasaba por alto. Anotar todo —el puñado de frutos secos, la cucharada extra de salsa— le mostró por dónde se colaban calorías de más. Sin juzgarse, usó las notas para cambiar una cosa pequeña a la vez: salsa más ligera dos veces por semana, raciones ya medidas de frutos secos. Con el tiempo, el hábito de registrar con franqueza hizo las decisiones más sencillas y menos estresantes.",
+          "habit": "Registra honestamente snacks y extras.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Честные ужины",
+          "story": "Ирина вечером быстро записывала всё, даже мелкие перекусы, которые раньше не считала. Фиксация — горсть орехов, лишняя ложка соуса — помогла увидеть, откуда берутся дополнительные калории. Без самокритики она стала вносить по одной простой правке: более лёгкий соус два раза в неделю, заранее порционированные орехи. Со временем честный учёт сделал решения очевиднее и спокойнее, и Ирине было легче отслеживать свои повседневные привычки.",
+          "habit": "Записывайте перекусы и мелкие добавки честно.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Чесні вечері",
+          "story": "Олег ввечері швидко записував усе, навіть ті дрібні перекуси, на які раніше не звертав уваги. Фіксація — жменька горіхів чи зайва ложка соусу — допомогла побачити, звідки з’являються додаткові калорії. Без осуду до себе він почав вносити по одному невеликому зміненню: легший соус двічі на тиждень, порційовані горіхи. З часом чесне відстеження зробило вибір зрозумілішим і спокійнішим, і йому було легше помічати щоденні шаблони.",
+          "habit": "Записуйте перекуси та дрібні додатки чесно.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежте сьогодні."
+        },
+        "fr": {
+          "title": "Dîners sincères",
+          "story": "Karim notait rapidement chaque soir, y compris les petites collations qu’il négligeait auparavant. Tout écrire — la poignée de noix, la cuillerée de sauce — lui a permis de repérer où les calories s’accumulaient. Sans jugement, il a choisi d’opérer un petit changement à la fois : une sauce plus légère deux fois par semaine, des portions prédéfinies de noix. Au fil du temps, l’habitude de noter honnêtement a rendu les choix plus clairs et moins stressants.",
+          "habit": "Notez honnêtement les collations et petits extras.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Ehrliche Abendessen",
+          "story": "Thomas führte abends ein kurzes Protokoll und notierte auch die kleinen Snacks, die er sonst ignoriert hätte. Alles aufzuschreiben — die Handvoll Nüsse, der extra Löffel Sauce — machte sichtbar, wo sich zusätzliche Kalorien einschlichen. Ohne sich zu verurteilen, nahm er eine kleine Änderung nach der anderen vor: zweimal pro Woche eine leichtere Sauce, abgepackte Nussportionen. Über die Zeit machte das ehrliche Eintragen Entscheidungen klarer und weniger belastend.",
+          "habit": "Notiere Snacks und Extras ehrlich.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Jantares sinceros",
+          "story": "Beatriz passou a anotar rapidamente todas as noites, inclusive os lanchinhos que antes ignorava. Registrar tudo — o punhado de castanhas, a colher extra de molho — mostrou onde as calorias apareciam. Sem se culpar, ela começou a fazer uma pequena mudança de cada vez: molho mais leve duas vezes por semana, porções de castanhas já medidas. Com o tempo, o hábito de registrar com honestidade deixou as decisões mais claras e menos cansativas.",
+          "habit": "Registre lanches e extras com honestidade.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Őszinte vacsorák",
+          "story": "Bence minden este röviden feljegyezte az étkezéseit, beleértve az apró nassokat is, amiket korábban figyelmen kívül hagyott. Mindent felírni — egy marék diót, egy extra kanál szószt — megmutatta, honnan jönnek a plusz kalóriák. Önbírálat nélkül apró változtatásokat vezetett be: kétszer egy héten könnyebb szósz, előre kimért adagok. Idővel az őszinte rögzítés segített tisztábban látni a döntéseket és csökkentette a feszültséget.",
+          "habit": "Rögzítsd őszintén a nassokat és kiegészítőket.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et, és rögzíts ma."
+        },
+        "ar": {
+          "title": "عشاء صادق",
+          "story": "محمد بدأ يُسجل بسرعة كل مساء، بما في ذلك الوجبات الخفيفة البسيطة التي كان يتغاضى عنها سابقاً. كتابة كل شيء — حفنة مكسرات، ملعقة إضافية من الصوص — أظهرت أماكن تسلل السعرات. دون توبيخ لنفسه، بدأ بإدخال تغيير صغير واحد في كل مرة: صوص أخف مرتين أسبوعياً، تقسيم المكسرات بحصص محددة. مع الوقت أصبح التتبع الصادق يجعل القرارات أوضح وأقل توتراً.",
+          "habit": "سجّل الوجبات الخفيفة والإضافات بأمانة.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Honest dinners.\nStory: Marco kept a quick log each evening, including the little snacks he’d normally shrug off. Writing everything down — the handful of nuts, the extra spoonful of sauce — helped him see where extra calories crept in. Rather than judging himself, Marco used the notes to make one small change at a time: a lighter sauce twice a week, a pre-portion of nuts. Over time, the habit of honest logging made choices clearer and less stressful, and he felt more in control of his daily patterns..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-14-motivation-3-s3",
+      "category": "everyday-tracking",
+      "languages": {
+        "en": {
+          "title": "Busy days, simple logs",
+          "story": "Aisha’s jobdays got hectic, and she worried tracking would take too long. She tried a two-minute evening note: list main meals and one line about how she felt. Those short logs revealed a habit she hadn’t noticed — on busy days she skipped vegetables and reached for quick carbs. With that insight she added one simple tweak: a prepped vegetable box on hectic mornings. The two-minute habit made tracking manageable and gave clear, useful signals without extra pressure.",
+          "habit": "Spend two minutes logging at night.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Días ocupados, registros sencillos",
+          "story": "Lucía tenía jornadas de trabajo muy ocupadas y pensaba que registrar le robaría tiempo. Probó a dedicar dos minutos por la noche: escribir las comidas principales y una frase sobre cómo se sintió. Esos apuntes cortos le mostraron un patrón: los días ajetreados evitaba las verduras y optaba por carbohidratos rápidos. Con esa información agregó una solución práctica: una caja de verduras ya listas las mañanas complicadas. El registro de dos minutos hizo todo manejable y revelador sin presión.",
+          "habit": "Dedica dos minutos a registrar por la noche.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Занятые дни, простые записи",
+          "story": "Ольга работала много и думала, что учёт займёт слишком много времени. Она попробовала тратить по две минуты вечером: записывать основные приёмы пищи и одну фразу о самочувствии. Эти короткие записи выявили привычку — в загруженные дни она пропускала овощи и тянулась к быстрым углеводам. С этими данными она добавила простое решение: подготовленные овощи на сдачу утра. Двухминутная привычка сделала учёт выполнимым и полезным без лишнего давления.",
+          "habit": "Тратьте две минуты на запись вечером.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Зайняті дні, прості записи",
+          "story": "Наталя мала насичені робочі дні й боялася, що відстеження займе забагато часу. Вона спробувала дві хвилини ввечері: записати основні прийоми їжі й коротко, як почувалася. Ці короткі нотатки показали звичку — у напружені дні вона пропускала овочі й обирала швидкі вуглеводи. З цією інформацією додала просте рішення: підготовлена коробочка з овочами в ранкові поспіхи. Дворічна звичка зробила відстеження керованим і корисним без зайвого тиску.",
+          "habit": "Приділяй дві хвилини вечірньому запису.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежте сьогодні."
+        },
+        "fr": {
+          "title": "Journées chargées, suivis simples",
+          "story": "Nadia avait des journées de travail très remplies et craignait que le suivi prenne trop de temps. Elle a essayé une note de deux minutes le soir : lister les repas principaux et ajouter une ligne sur son ressenti. Ces courts enregistrements ont révélé une habitude — les jours chargés, elle oubliait les légumes et choisissait des glucides rapides. Grâce à ce constat, elle a ajouté une solution simple : une boîte de légumes prêts pour les matins pressés. Deux minutes suffisaient pour des informations utiles sans pression.",
+          "habit": "Consacrez deux minutes au suivi le soir.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Viel los? Kurze Einträge",
+          "story": "Fatima hatte hektische Arbeitstage und befürchtete, Tracking dauere zu lange. Sie probierte abends zwei Minuten: Hauptmahlzeiten notieren und eine Zeile zum Befinden. Diese kurzen Einträge zeigten ein Muster — an stressigen Tagen fehlten Gemüse und schnelle Kohlenhydrate kamen häufiger vor. Mit dieser Erkenntnis packte sie eine vorbereitete Gemüseschale für hektische Morgen in den Kühlschrank. Die Zwei-Minuten-Gewohnheit machte Tracking machbar und lieferte klare Hinweise ohne Druck.",
+          "habit": "Verbringe zwei Minuten mit dem abendlichen Eintrag.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Dias corridos, registros simples",
+          "story": "Fernanda tinha dias de trabalho muito cheios e achava que registrar levaria muito tempo. Ela testou anotar por dois minutos à noite: listar as refeições principais e uma linha sobre como se sentiu. Esses registros curtos mostraram um padrão — nos dias agitados ela pulava vegetais e buscava carboidratos rápidos. Com essa percepção, passou a preparar uma caixa de vegetais para manhãs corridas. O hábito de dois minutos tornou o registro viável e deu informações úteis sem pressão.",
+          "habit": "Gaste dois minutos registrando à noite.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Mozgalmas napok, egyszerű napló",
+          "story": "Anettnek zsúfoltak voltak a munkanapjai, és attól tartott, hogy a rögzítés túl sok időt venne el. Kipróbált egy kétperces esti jegyzetet: felsorolta a főétkezéseket és egy mondatot az érzéseiről. Ezek a rövid bejegyzések feltárták a mintát — zsúfolt napokon kihagyta a zöldségeket és a gyors szénhidrátok felé fordult. Ezt látva előkészített egy zöldséges dobozt a rohanós reggelekre. A kétperces szokás kezelhetővé tette a rögzítést és hasznos visszajelzést adott.",
+          "habit": "Szánj két percet az esti rögzítésre.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et, és rögzíts ma."
+        },
+        "ar": {
+          "title": "أيام مزدحمة، تسجيلات بسيطة",
+          "story": "هدى كانت أيام عملها مزدحمة وخافت أن التتبع سيأخذ وقتاً طويلاً. جرّبت ملاحظة لمدة دقيقتين في المساء: تذكر الوجبات الرئيسية وسطر عن شعورها. هذه الملاحظات القصيرة كشفت نمطاً — في الأيام المزدحمة كانت تتجاهل الخضروات وتلجأ إلى الكربوهيدرات السريعة. بناءً على ذلك أضافت حلّاً بسيطاً: صندوق خضار مُحضّر للصباحات المزدحمة. عادة الدقيقتين جعلت التتبع ممكنًا وقدمت إشارات واضحة دون ضغط.",
+          "habit": "اقضِ دقيقتين في تسجيل المساء.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Busy days, simple logs.\nStory: Aisha’s jobdays got hectic, and she worried tracking would take too long. She tried a two-minute evening note: list main meals and one line about how she felt. Those short logs revealed a habit she hadn’t noticed — on busy days she skipped vegetables and reached for quick carbs. With that insight she added one simple tweak: a prepped vegetable box on hectic mornings. The two-minute habit made tracking manageable and gave clear, useful signals without extra pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-14-motivation-4-s4",
+      "category": "everyday-tracking",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, steady insights",
+          "story": "Daniel noticed his afternoon coffee habit showed up in his logs as sweetened drinks and pastries on the same days. He didn’t overhaul his routine; he tried one small swap: a plain coffee twice a week and a piece of fruit instead of a pastry. Logging continued without pressure, and the pattern shifted slowly. The key for Daniel was patience and consistency—small adjustments informed by honest tracking, not perfection. Over time the log became a map of manageable changes.",
+          "habit": "Try one small swap and log the result.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pequeños cambios, grandes señales",
+          "story": "Carlos vio en sus registros que las tardes con café solían incluir bebidas azucaradas y bollería. No cambió todo de golpe; probó una sola variación: café solo dos veces por semana y una fruta en lugar de un bollo. Siguió registrando sin presión y el patrón cambió poco a poco. La clave fue paciencia y constancia: pequeños ajustes basados en un registro honesto, no en la perfección. Con el tiempo su historial fue un mapa de cambios manejables.",
+          "habit": "Prueba un pequeño cambio y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Небольшие замены — понятные выводы",
+          "story": "Дмитрий заметил в записях, что послеобеденный кофе часто сопровождался сладкими напитками и выпечкой. Он не стал резко всё менять, а попробовал небольшую замену: два раза в неделю — кофе без сахара и вместо булочки — фрукт. Записи продолжались без давления, и со временем шаблон стал меняться. Для Дмитрия важны были терпение и последовательность — небольшие корректировки, подкреплённые честным учётом, а не стремлением к идеалу. Журнал стал картой управляемых изменений.",
+          "habit": "Попробуйте маленькую замену и запишите результат.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Малі заміни, помітні висновки",
+          "story": "Михайло помітив у своїх записах, що післяобідня кава часто супроводжується солодкими напоями та випічкою. Він не міняв усе відразу, а спробував невелику заміну: двічі на тиждень — кава без цукру та замість булочки — фрукт. Записи тривали без тиску, і згодом цей шаблон почав змінюватися. Для нього важливими були терпіння й послідовність — невеликі корегування на основі чесного відстеження, а не прагнення до досконалості. Журнал став картою керованих змін.",
+          "habit": "Спробуй одну маленьку заміну й запиши результат.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежте сьогодні."
+        },
+        "fr": {
+          "title": "Petits gestes, grandes idées",
+          "story": "Louis a remarqué dans ses enregistrements que ses après-midis café étaient souvent accompagnés de boissons sucrées et de viennoiseries. Plutôt que de tout changer, il a testé une petite substitution : un café nature deux fois par semaine et un fruit à la place d’une pâtisserie. Il a continué à noter sans pression, et la tendance a lentement évolué. Pour lui, patience et régularité comptaient plus que la perfection : des ajustements modestes guidés par le suivi honnête.",
+          "habit": "Faites un petit changement et notez le résultat.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Änderungen, klare Hinweise",
+          "story": "Max fiel in seinen Einträgen auf, dass der Nachmittagkaffee oft mit gesüßten Getränken und Gebäck zusammenfiel. Er warf nicht alles über den Haufen, sondern probierte eine kleine Änderung: zweimal pro Woche schwarzen Kaffee und statt Gebäck ein Stück Obst. Er führte das Tracking stressfrei fort, und Muster verschoben sich langsam. Für Max zählten Geduld und Beständigkeit — kleine Anpassungen, die aus ehrlichem Tracking resultierten, statt Perfektion. Das Protokoll wurde zur Landkarte machbarer Schritte.",
+          "habit": "Probiere eine kleine Änderung und notiere das Ergebnis.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Pequenas trocas, grandes percepções",
+          "story": "Rafael percebeu nos registros que o café da tarde vinha acompanhado de bebidas adoçadas e doces. Ele não mudou tudo, testou uma troca pequena: café puro duas vezes por semana e uma fruta no lugar de um doce. Continuou registrando sem pressão, e o padrão mudou aos poucos. Paciência e consistência foram o que fizeram diferença — ajustes pequenos guiados por registros honestos, não perfeição. O histórico virou um mapa de mudanças fáceis de manter.",
+          "habit": "Faça uma pequena troca e registre o resultado.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, biztos felismerések",
+          "story": "Ádám észrevette a naplóban, hogy délutáni kávéja gyakran együtt jár édes italokkal és péksüteménnyel. Nem alakította át azonnal az egész szokást; kipróbált egy apró cserét: heti kétszer natúr kávé és péksütemény helyett gyümölcs. Továbbra is nyugodtan rögzített, és a minta lassan változni kezdett. Neki a türelem és a következetesség számított — kis, őszinte naplózásra alapozott lépések, nem a tökéletesség. A napló egy kezelhető változásokat mutató térképpé vált.",
+          "habit": "Próbálj ki egy apró cserét és rögzítsd.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et, és rögzíts ma."
+        },
+        "ar": {
+          "title": "تغييرات صغيرة، رؤى ثابتة",
+          "story": "عَلم يوسف من سجلاته أن عادة القهوة بعد الظهر غالباً ما ترافقها مشروبات محلاة ومعجنات. لم يغيّر روتينه كلياً؛ جرب تبديلًا بسيطًا: قهوة سادة مرتين أسبوعياً وقطعة فاكهة بدل المعجنات. استمر في التسجيل دون ضغط، وتحول النمط تدريجياً. كان السر لدى يوسف الصبر والاتساق — تعديلات صغيرة مستندة إلى تتبع صادق، لا السعي للكمال. مع الوقت أصبح السجل خريطة لتغييرات قابلة للتطبيق.",
+          "habit": "جرّب تبديلاً صغيراً وسجّل النتيجة.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-14T09:18:27.404Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-14-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, steady insights.\nStory: Daniel noticed his afternoon coffee habit showed up in his logs as sweetened drinks and pastries on the same days. He didn’t overhaul his routine; he tried one small swap: a plain coffee twice a week and a piece of fruit instead of a pastry. Logging continued without pressure, and the pattern shifted slowly. The key for Daniel was patience and consistency—small adjustments informed by honest tracking, not perfection. Over time the log became a map of manageable changes..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-05-13-motivation-1-story1",
       "category": "meal-planning",
