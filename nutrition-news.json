@@ -1,238 +1,755 @@
 {
-  "generatedAt": "2026-05-20T10:03:44.287Z",
+  "generatedAt": "2026-05-21T10:13:24.235Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "a5",
-      "category": "Cancer & metabolic immunology",
+      "id": "cell-fasting-tumor-immunity-2026",
+      "category": "metabolic health",
       "sourceName": "cell.com",
       "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00109-9?rss=yes",
       "sourceTitle": "Fasting opens a metabolic window that favors anti-tumor immunity",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Short-term fasting may change tumor metabolism to support T cell responses",
-          "summary": "A study reports that brief fasting alters nutrient availability within tumors — notably increasing intratumoral isoleucine — which can support CD8+ T cell effector functions and enhance responses to immune checkpoint therapy in experimental models and some human observations.",
-          "whyItMatters": "These findings indicate metabolic state can influence anti-tumor immunity and suggest short-term dietary interventions might modulate immunotherapy effects, but clinical application remains to be established.",
+          "title": "Short-term fasting may change tumor metabolism to boost T cell responses",
+          "summary": "Researchers report that brief fasting alters nutrient composition within tumors, leading to an accumulation of isoleucine that supports cytotoxic CD8+ T cell activity. Laboratory and early human data suggest this metabolic shift can enhance responses to immune checkpoint therapies.",
+          "whyItMatters": "If metabolic states like fasting can transiently improve anti-tumor immune function, it could influence how dietary interventions are timed around cancer immunotherapies — though clinical validation is needed.",
           "takeaways": [
-            "Fasting reshapes the tumor microenvironment's nutrient landscape.",
-            "Isoleucine accumulation during fasting was linked to stronger CD8+ T cell programs.",
-            "Evidence includes preclinical models and limited human data reported in the study.",
-            "Clinical implications for combining fasting with immunotherapy require careful testing."
+            "Fasting reshapes the tumor microenvironment’s nutrient profile in ways that can aid T cells.",
+            "Experiments included both animal models and supporting human observations.",
+            "Findings are early-stage and do not constitute a treatment recommendation."
           ]
         },
         "es": {
-          "title": "El ayuno a corto plazo podría cambiar el metabolismo tumoral para favorecer las respuestas de células T",
-          "summary": "Un estudio informa que el ayuno breve altera la disponibilidad de nutrientes dentro de los tumores —sobre todo aumentando la isoleucina intratumoral—, lo que puede apoyar las funciones efectoras de las células T CD8+ y potenciar las respuestas a la terapia con inhibidores de puntos de control en modelos experimentales y en algunas observaciones humanas.",
-          "whyItMatters": "Estos hallazgos indican que el estado metabólico puede influir en la inmunidad antitumoral y sugieren que intervenciones dietarias a corto plazo podrían modular los efectos de la inmunoterapia, pero la aplicación clínica aún no está establecida.",
+          "title": "El ayuno a corto plazo puede cambiar el metabolismo tumoral para potenciar las respuestas de las células T",
+          "summary": "Los investigadores informan que un ayuno breve altera la composición de nutrientes dentro de los tumores, provocando una acumulación de isoleucina que apoya la actividad citotóxica de las células T CD8+. Datos de laboratorio y observaciones humanas tempranas sugieren que este cambio metabólico puede mejorar las respuestas a terapias con inhibidores de puntos de control inmunitario.",
+          "whyItMatters": "Si estados metabólicos como el ayuno pueden mejorar de forma transitoria la función inmune antitumoral, podría influir en el momento de intervenciones dietéticas alrededor de inmunoterapias contra el cáncer, aunque hace falta validación clínica.",
           "takeaways": [
-            "El ayuno remodela el paisaje de nutrientes en el microambiente tumoral.",
-            "La acumulación de isoleucina durante el ayuno se vinculó a programas más fuertes de células T CD8+.",
-            "La evidencia incluye modelos preclínicos y datos humanos limitados reportados en el estudio.",
-            "Las implicaciones clínicas de combinar ayuno con inmunoterapia requieren pruebas cuidadosas."
+            "El ayuno remodela el perfil de nutrientes del microambiente tumoral de formas que pueden ayudar a las células T.",
+            "Los experimentos incluyeron modelos animales y observaciones humanas de apoyo.",
+            "Los hallazgos están en etapa temprana y no constituyen una recomendación de tratamiento."
           ]
         },
         "ru": {
-          "title": "Краткосрочное голодание может менять метаболизм опухоли в пользу ответа Т‑клеток",
-          "summary": "В исследовании сообщается, что кратковременное голодание изменяет доступность питательных веществ внутри опухолей — в частности повышая внутритканевую изолейцин — что может поддерживать эффекторные функции CD8+ Т‑клеток и усиливать ответ на иммунотерапию ингибиторами контрольных точек в экспериментальных моделях и в некоторых наблюдениях у людей.",
-          "whyItMatters": "Эти данные показывают, что метаболическое состояние может влиять на противоопухолевый иммунитет и предполагают, что краткосрочные диетические вмешательства могут модулировать эффекты иммунотерапии, однако клиническое применение ещё не подтверждено.",
+          "title": "Кратковременное голодание может изменить метаболизм опухоли и усилить ответы Т‑клеток",
+          "summary": "Исследователи сообщают, что кратковременное голодание изменяет состав питательных веществ в опухолях, приводя к накоплению изолейцина, который поддерживает цитотоксическую активность CD8+ Т‑клеток. Лабораторные данные и ранние наблюдения у людей указывают, что этот метаболический сдвиг может усиливать ответы на терапию ингибиторами контрольных точек иммунитета.",
+          "whyItMatters": "Если метаболические состояния, такие как голодание, временно улучшают противоопухолевую иммунную функцию, это может повлиять на выбор времени пищевых вмешательств в сочетании с иммунотерапией — однако требуется клиническая проверка.",
           "takeaways": [
-            "Голодание перестраивает профиль доступных питательных веществ в микросреде опухоли.",
-            "Накопление изолейцина при голодании связывали с усилением программ CD8+ Т‑клеток.",
-            "Доказательства включают доклинические модели и ограниченные человеческие данные, представленные в исследовании.",
-            "Клинические последствия комбинирования голодания с иммунотерапией требуют тщательной проверки."
+            "Голодание изменяет профиль питательных веществ в микроокружении опухоли так, что это может помочь Т‑клеткам.",
+            "В экспериментах использовали как животные модели, так и подтверждающие человеческие наблюдения.",
+            "Результаты ранние и не являются рекомендацией к лечению."
           ]
         },
         "uk": {
-          "title": "Короткочасне голодування може змінювати метаболізм пухлини на користь відповіді Т‑клітин",
-          "summary": "Дослідження повідомляє, що короткочасне голодування змінює доступність поживних речовин у пухлинах — зокрема підвищує рівень ізолейцину в межах пухлини — що може підтримувати ефекторні функції CD8+ Т‑клітин і посилювати відповіді на терапію інгібіторами контрольних точок в експериментальних моделях та в деяких людських спостереженнях.",
-          "whyItMatters": "Ці результати вказують, що метаболічний стан може впливати на анти‑пухлинний імунітет і натякають, що короткочасні дієтичні втручання можуть модулювати ефекти імунотерапії, але клінічне застосування поки не встановлене.",
+          "title": "Короткочасне голодування може змінювати метаболізм пухлини та посилювати реакцію Т‑клітин",
+          "summary": "Дослідники повідомляють, що коротке голодування змінює склад поживних речовин у пухлині, призводячи до накопичення ізолейцину, що підтримує активність цитотоксичних CD8+ Т‑клітин. Лабораторні дані та перші спостереження у людей свідчать, що цей метаболічний зсув може покращувати відповіді на терапії блокування імунних контрольних точок.",
+          "whyItMatters": "Якщо метаболічні стани, наприклад голодування, тимчасово покращують антикарцинальну імунну функцію, це може вплинути на те, як планувати харчові втручання навколо імунних терапій — проте необхідна клінічна валідація.",
           "takeaways": [
-            "Голодування перебудовує ландшафт доступних поживних речовин у мікросередовищі пухлини.",
-            "Накопичення ізолейцину під час голодування було пов'язане зі зміцненням програм CD8+ Т‑клітин.",
-            "Докази включають доклінічні моделі та обмежені людські дані, згадані в дослідженні.",
-            "Клінічні наслідки комбінування голодування з імунотерапією потребують ретельного тестування."
+            "Голодування змінює профіль поживних речовин у мікросередовищі пухлини таким чином, що це може допомагати Т‑клітинам.",
+            "Експерименти включали як моделі на тваринах, так і підтверджувальні спостереження у людей.",
+            "Результати перебувають на ранній стадії і не є рекомендацією щодо лікування."
           ]
         },
         "fr": {
-          "title": "Le jeûne court peut modifier le métabolisme tumoral pour soutenir les réponses des cellules T",
-          "summary": "Une étude rapporte que le jeûne bref modifie la disponibilité des nutriments au sein des tumeurs — en augmentant notamment l'isoleucine intratumorale — ce qui peut soutenir les fonctions effectrices des cellules T CD8+ et renforcer les réponses à la thérapie par inhibition des points de contrôle immunitaire dans des modèles expérimentaux et dans certaines observations humaines.",
-          "whyItMatters": "Ces résultats indiquent que l'état métabolique peut influencer l'immunité anti‑tumorale et suggèrent que de brèves interventions alimentaires pourraient moduler les effets de l'immunothérapie, mais une application clinique reste à établir.",
+          "title": "Le jeûne court peut modifier le métabolisme tumoral pour renforcer la réponse des cellules T",
+          "summary": "Les chercheurs rapportent qu’un jeûne bref modifie la composition en nutriments au sein des tumeurs, entraînant une accumulation d’isoleucine qui soutient l’activité des lymphocytes T CD8+ cytotoxiques. Des données en laboratoire et des observations humaines préliminaires suggèrent que ce changement métabolique peut améliorer les réponses aux thérapies ciblant les points de contrôle immunitaires.",
+          "whyItMatters": "Si des états métaboliques comme le jeûne peuvent transitoirement améliorer la fonction immunitaire antitumorale, cela pourrait influer sur le moment d’intervention nutritionnelle autour des immunothérapies contre le cancer — mais une validation clinique est nécessaire.",
           "takeaways": [
-            "Le jeûne reconfigure le paysage nutritif du microenvironnement tumoral.",
-            "L'accumulation d'isoleucine pendant le jeûne a été liée à des programmes renforcés des cellules T CD8+.",
-            "Les preuves incluent des modèles précliniques et des données humaines limitées rapportées dans l'étude.",
-            "Les implications cliniques pour combiner jeûne et immunothérapie nécessitent des tests soigneux."
+            "Le jeûne reconfigure le profil nutritionnel du microenvironnement tumoral de manière favorable aux cellules T.",
+            "Les expériences comprenaient des modèles animaux et des observations humaines complémentaires.",
+            "Les résultats sont précoces et ne constituent pas une recommandation thérapeutique."
           ]
         },
         "de": {
-          "title": "Kurzzeitfasten kann Tumorstoffwechsel verändern und T‑Zell‑Antworten unterstützen",
-          "summary": "Eine Studie berichtet, dass kurzes Fasten die Nährstoffverfügbarkeit innerhalb von Tumoren verändert — insbesondere eine erhöhte intratumorale Isoleucin-Konzentration —, was CD8+-T‑Zell‑Effektor­funktionen unterstützen und in experimentellen Modellen sowie in einigen menschlichen Beobachtungen die Reaktion auf Checkpoint‑Therapie verbessern kann.",
-          "whyItMatters": "Die Ergebnisse zeigen, dass der metabolische Zustand die anti‑tumorale Immunität beeinflussen kann und legen nahe, dass kurzfristige diätetische Interventionen die Wirkung von Immuntherapien modulieren könnten. Eine klinische Anwendung ist jedoch noch nicht etabliert.",
+          "title": "Kurzzeitfasten kann den Tumorstoffwechsel verändern und T‑Zell‑Antworten stärken",
+          "summary": "Forscher berichten, dass kurzes Fasten die Nährstoffzusammensetzung in Tumoren verändert und zur Anreicherung von Isoleucin führt, was die Aktivität zytotoxischer CD8+-T-Zellen unterstützt. Laborbefunde und erste Humanbeobachtungen deuten darauf hin, dass diese Stoffwechselverschiebung die Reaktionen auf Immun-Checkpoint-Therapien verbessern kann.",
+          "whyItMatters": "Wenn metabolische Zustände wie Fasten vorübergehend die anti‑tumorale Immunfunktion verbessern können, könnte das die zeitliche Planung diätetischer Interventionen rund um Krebsimmuntherapien beeinflussen – klinische Bestätigung ist jedoch erforderlich.",
           "takeaways": [
-            "Fasten verändert die Nährstofflandschaft des Tumormikromilieus.",
-            "Eine Anreicherung von Isoleucin während des Fastens wurde mit stärkeren CD8+-T‑Zell‑Programmen in Verbindung gebracht.",
-            "Die Evidenz umfasst präklinische Modelle und begrenzte menschliche Daten, wie in der Studie berichtet.",
-            "Klinische Implikationen einer Kombination von Fasten und Immuntherapie müssen sorgfältig geprüft werden."
+            "Fasten verändert das Nährstoffprofil im Tumormikromilieu auf Weisen, die T‑Zellen unterstützen können.",
+            "Die Studien umfassen Tierversuche und unterstützende Beobachtungen beim Menschen.",
+            "Die Befunde sind frühe Forschungsergebnisse und stellen keine Behandlungsempfehlung dar."
           ]
         },
         "pt-br": {
-          "title": "Jejum de curto prazo pode alterar metabolismo tumoral para favorecer respostas de células T",
-          "summary": "Um estudo relata que o jejum breve altera a disponibilidade de nutrientes dentro de tumores — notadamente aumentando a isoleucina intratumoral — o que pode apoiar funções efetoras de células T CD8+ e melhorar respostas à terapia com inibidores de checkpoint em modelos experimentais e em algumas observações humanas.",
-          "whyItMatters": "Esses achados indicam que o estado metabólico pode influenciar a imunidade antitumoral e sugerem que intervenções dietéticas de curto prazo podem modular os efeitos da imunoterapia, mas a aplicação clínica ainda precisa ser estabelecida.",
+          "title": "Jejum de curto prazo pode alterar o metabolismo tumoral para aumentar respostas de células T",
+          "summary": "Pesquisadores relatam que o jejum breve altera a composição de nutrientes dentro de tumores, levando ao acúmulo de isoleucina, o que apoia a atividade de células T CD8+ citotóxicas. Dados de laboratório e observações iniciais em humanos sugerem que essa mudança metabólica pode melhorar respostas a terapias com inibidores de checkpoint imunológico.",
+          "whyItMatters": "Se estados metabólicos como o jejum puderem melhorar temporariamente a função imune antitumoral, isso pode influenciar o momento de intervenções dietéticas em torno de imunoterapias contra o câncer — embora seja necessária validação clínica.",
           "takeaways": [
-            "O jejum remodela a paisagem de nutrientes do microambiente tumoral.",
-            "Acúmulo de isoleucina durante o jejum foi associado a programas mais fortes de células T CD8+.",
-            "A evidência inclui modelos pré-clínicos e dados humanos limitados relatados no estudo.",
-            "Implicações clínicas para combinar jejum com imunoterapia exigem testes cuidadosos."
+            "O jejum remodela o perfil de nutrientes do microambiente tumoral de maneiras que podem ajudar células T.",
+            "Os experimentos incluíram modelos animais e observações que apoiam os achados em humanos.",
+            "Os resultados são preliminares e não constituem recomendação de tratamento."
           ]
         },
         "hu": {
-          "title": "Rövid távú böjt megváltoztathatja a tumor anyagcseréjét, hogy támogassa a T-sejt választ",
-          "summary": "Egy tanulmány szerint az rövid böjt megváltoztatja a tumoron belüli tápanyagellátottságot — különösen növeli az intratumorális izoleucint —, ami támogathatja a CD8+ T‑sejtek effektor funkcióit és fokozhatja az immunellenőrzőpont‑terápiára adott választ kísérleti modellekben és néhány emberi megfigyelés szerint.",
-          "whyItMatters": "Az eredmények arra utalnak, hogy az anyagcsere‑állapot befolyásolhatja az anti-tumor immunitást, és azt sugallják, hogy rövid távú étrendi beavatkozások módosíthatják az immunterápiás hatásokat, de a klinikai alkalmazás még nem tisztázott.",
+          "title": "A rövid távú böjt megváltoztathatja a daganat anyagcseréjét és fokozhatja a T‑sejtes választ",
+          "summary": "A kutatók arról számolnak be, hogy az átmeneti böjt megváltoztatja a daganaton belüli tápanyagösszetételt, ami izoleucin felhalmozódásához vezetett, és ez támogatja a citotoxikus CD8+ T‑sejtek aktivitását. Laboratóriumi és korai emberi megfigyelések azt sugallják, hogy ez az anyagcsere‑eltolódás javíthatja az immunellenőrzőpont‑terápiákra adott válaszokat.",
+          "whyItMatters": "Ha anyagcsere‑állapotok (például böjt) átmenetileg javítják az antitumor immunképességet, az befolyásolhatja, hogyan időzítik az étrendi beavatkozásokat a rákimmunterápiák körül — ugyanakkor klinikai megerősítés szükséges.",
           "takeaways": [
-            "A böjt átrendezi a tumor mikro­környezetének tápanyag‑összetételét.",
-            "A böjt alatt megfigyelt izoleucin‑felhalmozódás összefüggött a erősebb CD8+ T‑sejt programokkal.",
-            "A bizonyítékok preklinikai modellekből és korlátozott emberi adatokból származnak.",
-            "A böjt és az immunterápia kombinációjának klinikai következményeit óvatos tesztelés szükséges."
+            "A böjt átalakítja a daganat mikro környezetének tápanyagprofilját olyan módon, amely segítheti a T‑sejteket.",
+            "A kísérletek állatmodelleket és támogató emberi megfigyeléseket is tartalmaztak.",
+            "Az eredmények korai stádiumúak, és nem jelentenek kezelési ajánlást."
           ]
         },
         "ar": {
-          "title": "الصيام قصير المدى قد يغير استقلاب الورم لدعم استجابات الخلايا التائية",
-          "summary": "تفيد دراسة أن الصيام القصير يغير توفر المغذيات داخل الأورام — بزيادة ملحوظة في الإيزوليوسين داخل الورم — مما قد يدعم وظائف الخلايا التائية CD8+ ويعزز الاستجابات للعلاج بمثبطات نقاط التفتيش المناعي في نماذج تجريبية وبعض الملاحظات البشرية.",
-          "whyItMatters": "تشير النتائج إلى أن الحالة الأيضية يمكن أن تؤثر على المناعة المضادة للأورام وتلمّح إلى أن تدخلات غذائية قصيرة الأمد قد تعدّل تأثيرات العلاج المناعي، لكن التطبيق السريري لم يُثبَت بعد.",
+          "title": "الصيام القصير قد يغيّر أيض الورم ويعزز استجابات الخلايا التائية",
+          "summary": "يبلغ الباحثون أن الصيام القصير يغيّر تركيبة المغذيات داخل الأورام، مما يؤدي إلى تراكم الإيزوليوسين الذي يدعم نشاط الخلايا التائية السامة CD8+. تشير بيانات مخبرية وملاحظات بشرية مبكرة إلى أن هذا التحوّل الأيضي قد يعزّز الاستجابات للعلاجات المناعية التي تستهدف نقاط الضبط.",
+          "whyItMatters": "إذا كانت حالات أيضية مثل الصيام تستطيع مؤقتًا تحسين وظيفة المناعة المضادة للأورام، فقد يؤثر ذلك في توقيت التدخلات الغذائية حول العلاجات المناعية للسرطان — ومع ذلك يلزم التحقق السريري.",
           "takeaways": [
-            "الصيام يعيد تشكيل مشهد المغذيات في بيئة الورم الدقيقة.",
-            "ارتبطت تراكمات الإيزوليوسين أثناء الصيام ببرامج أقوى لخلايا CD8+ التائية.",
-            "تتضمن الأدلة نماذج قبل سريرية وبيانات بشرية محدودة.",
-            "تتطلب الآثار السريرية المحتملة للجمع بين الصيام والعلاج المناعي اختبارات دقيقة."
+            "يُعيد الصيام تشكيل ملف المغذيات في بيئة الورم بطريقة قد تساعد الخلايا التائية.",
+            "شملت التجارب نماذج حيوانية وملاحظات بشرية داعمة.",
+            "النتائج في مرحلة مبكرة ولا تُشكل توصية علاجية."
           ]
         }
       },
-      "generatedAt": "2026-05-20T10:03:44.287Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a5",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cell-fasting-tumor-immunity-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-fasting-tumor-immunity-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-fasting-tumor-immunity-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short-term fasting may change tumor metabolism to support T cell responses.\nStory summary: A study reports that brief fasting alters nutrient availability within tumors — notably increasing intratumoral isoleucine — which can support CD8+ T cell effector functions and enhance responses to immune checkpoint therapy in experimental models and some human observations..\nCategory: Cancer & metabolic immunology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short-term fasting may change tumor metabolism to boost T cell responses.\nStory summary: Researchers report that brief fasting alters nutrient composition within tumors, leading to an accumulation of isoleucine that supports cytotoxic CD8+ T cell activity. Laboratory and early human data suggest this metabolic shift can enhance responses to immune checkpoint therapies..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a9",
-      "category": "Genetics & metabolic health",
+      "id": "bmj-nutrition-tcf7l2-systematic-review-2026",
+      "category": "genetics & metabolism",
       "sourceName": "nutrition.bmj.com",
       "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/8/2/664?rss=1",
       "sourceTitle": "Association of the TCF7L2 rs7903146 variant with type 2 diabetes mellitus and related biomarkers: a systematic review",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Systematic review examines TCF7L2 rs7903146 and links to type 2 diabetes and biomarkers",
-          "summary": "A systematic review explored the association between the common TCF7L2 rs7903146 genetic variant and type 2 diabetes risk as well as related metabolic biomarkers, with attention to evidence from Asian populations amid rising diabetes incidence.",
-          "whyItMatters": "Understanding how specific genetic variants relate to diabetes risk and metabolic markers helps clarify disease mechanisms and population differences, but genetics is only one part of diabetes risk alongside environment and lifestyle.",
+          "title": "Systematic review links a TCF7L2 genetic variant with type 2 diabetes and markers",
+          "summary": "A systematic review evaluated studies on the TCF7L2 rs7903146 variant and its relationship to type 2 diabetes and related metabolic biomarkers, particularly in Asian populations experiencing rising diabetes rates.",
+          "whyItMatters": "Understanding genetic contributors to diabetes risk can help researchers untangle how genetics and lifestyle interact, and can inform population-specific research and prevention strategies.",
           "takeaways": [
-            "rs7903146 in TCF7L2 has been widely studied for links to T2D and metabolic traits.",
-            "Genetic susceptibility interacts with diet, activity, and other environmental factors.",
-            "Systematic review synthesizes available evidence but does not change individual risk prediction.",
-            "Findings may inform future research into personalized prevention strategies."
+            "TCF7L2 rs7903146 has been widely studied for associations with diabetes and metabolic traits.",
+            "The review considers genetic and environmental factors influencing diabetes risk.",
+            "Findings emphasize the need for context-specific research across populations."
           ]
         },
         "es": {
-          "title": "Revisión sistemática examina el rs7903146 de TCF7L2 y su relación con la diabetes tipo 2 y biomarcadores",
-          "summary": "Una revisión sistemática exploró la asociación entre la variante genética común TCF7L2 rs7903146 y el riesgo de diabetes tipo 2, así como biomarcadores metabólicos relacionados, prestando atención a la evidencia en poblaciones asiáticas en el contexto del aumento de la incidencia de diabetes.",
-          "whyItMatters": "Comprender cómo variantes genéticas específicas se relacionan con el riesgo de diabetes y marcadores metabólicos ayuda a clarificar mecanismos de enfermedad y diferencias entre poblaciones, pero la genética es solo una parte del riesgo de diabetes junto con factores ambientales y de estilo de vida.",
+          "title": "Revisión sistemática vincula una variante genética de TCF7L2 con diabetes tipo 2 y marcadores",
+          "summary": "Una revisión sistemática evaluó estudios sobre la variante TCF7L2 rs7903146 y su relación con la diabetes tipo 2 y biomarcadores metabólicos relacionados, en particular en poblaciones asiáticas que enfrentan un aumento en las tasas de diabetes.",
+          "whyItMatters": "Comprender los contribuyentes genéticos al riesgo de diabetes puede ayudar a los investigadores a desenmarañar cómo interactúan genética y estilo de vida, y puede informar investigaciones y estrategias de prevención específicas por población.",
           "takeaways": [
-            "rs7903146 en TCF7L2 ha sido ampliamente estudiada por su vínculo con T2D y rasgos metabólicos.",
-            "La susceptibilidad genética interactúa con la dieta, la actividad y otros factores ambientales.",
-            "La revisión sistemática sintetiza la evidencia disponible pero no cambia la predicción de riesgo individual.",
-            "Los hallazgos pueden informar investigaciones futuras sobre estrategias de prevención personalizadas."
+            "La variante TCF7L2 rs7903146 ha sido ampliamente estudiada por su relación con la diabetes y rasgos metabólicos.",
+            "La revisión considera factores genéticos y ambientales que influyen en el riesgo de diabetes.",
+            "Los hallazgos enfatizan la necesidad de investigación contextualizada en distintas poblaciones."
           ]
         },
         "ru": {
-          "title": "Систематический обзор изучает вариант TCF7L2 rs7903146 и связь с сахарным диабетом 2 типа и биомаркерами",
-          "summary": "Систематический обзор исследовал связь между распространённым генетическим вариантом TCF7L2 rs7903146 и риском развития сахарного диабета 2 типа, а также связанными метаболическими биомаркерами, уделяя внимание данным из азиатских популяций на фоне роста заболеваемости диабетом.",
-          "whyItMatters": "Понимание того, как конкретные генетические варианты связаны с риском диабета и метаболическими маркерами, помогает прояснить механизмы заболевания и различия между популяциями, но генетика — лишь одна часть риска наряду с факторами окружающей среды и образом жизни.",
+          "title": "Систематический обзор связывает вариант TCF7L2 rs7903146 с сахарным диабетом 2 типа и маркерами",
+          "summary": "Систематический обзор оценил исследования варианта TCF7L2 rs7903146 и его связь с сахарным диабетом 2 типа и связанными метаболическими биомаркерами, особенно в азиатских популяциях, где наблюдается рост заболеваемости диабетом.",
+          "whyItMatters": "Понимание генетических факторов риска диабета помогает исследователям выяснять взаимодействие генетики и образа жизни и может информировать исследовательские и превентивные стратегии, ориентированные на конкретные популяции.",
           "takeaways": [
-            "Вариант rs7903146 в гене TCF7L2 широко изучался на предмет связи с СД2 и метаболическими признаками.",
-            "Генетическая предрасположенность взаимодействует с диетой, физической активностью и другими факторами среды.",
-            "Систематический обзор обобщает доступные данные, но не меняет предсказание риска для конкретного человека.",
-            "Результаты могут направлять будущие исследования персонализированной профилактики."
+            "Вариант TCF7L2 rs7903146 широко изучался в связи с диабетом и метаболическими признаками.",
+            "В обзоре рассматриваются генетические и экологические факторы, влияющие на риск диабета.",
+            "Результаты подчёркивают необходимость проведения исследований с учётом контекста в разных популяциях."
           ]
         },
         "uk": {
-          "title": "Систематичний огляд TCF7L2 rs7903146 та зв'язків із типом 2 діабету й біомаркерами",
-          "summary": "Систематичний огляд дослідив асоціацію між поширеним генетичним варіантом TCF7L2 rs7903146 та ризиком розвитку цукрового діабету 2-го типу, а також пов'язаними метаболічними біомаркерами, приділяючи увагу доказам з азійських популяцій на тлі зростання поширеності діабету.",
-          "whyItMatters": "Розуміння того, як конкретні генетичні варіанти пов'язані з ризиком діабету та метаболічними маркерами, допомагає прояснити механізми захворювання і відмінності між популяціями, але генетика — лише одна частина ризику діабету поряд із середовищем і способом життя.",
+          "title": "Систематичний огляд пов’язує варіант гена TCF7L2 з діабетом 2‑го типу та маркерами",
+          "summary": "Систематичний огляд оцінив дослідження щодо варіанту TCF7L2 rs7903146 і його зв’язку з діабетом 2‑го типу та пов’язаними метаболічними біомаркерами, особливо в азіатських популяціях, де спостерігається зростання захворюваності на діабет.",
+          "whyItMatters": "Розуміння генетичних чинників ризику діабету допомагає дослідникам відокремити вплив генетики й способу життя, а також може інформувати дослідження й профілактику, орієнтовані на конкретні популяції.",
           "takeaways": [
-            "Варіант rs7903146 в TCF7L2 широко вивчали щодо зв'язків з T2D та метаболічними ознаками.",
-            "Генетична сприйнятливість взаємодіє з харчуванням, активністю та іншими факторами середовища.",
-            "Систематичний огляд синтезує наявні докази, але не змінює індивідуальну оцінку ризику.",
-            "Висновки можуть інформувати майбутні дослідження персоналізованої профілактики."
+            "Варіант TCF7L2 rs7903146 широко досліджувався щодо асоціацій з діабетом та метаболічними показниками.",
+            "Огляд розглядає генетичні й екологічні фактори, що впливають на ризик діабету.",
+            "Висновки підкреслюють необхідність досліджень з урахуванням контексту для різних популяцій."
           ]
         },
         "fr": {
-          "title": "Revue systématique examinant le TCF7L2 rs7903146 et les liens avec le diabète de type 2 et les biomarqueurs",
-          "summary": "Une revue systématique a exploré l'association entre le variant génétique fréquent TCF7L2 rs7903146 et le risque de diabète de type 2 ainsi que les biomarqueurs métaboliques associés, en portant une attention particulière aux preuves provenant des populations asiatiques dans un contexte d'augmentation de l'incidence du diabète.",
-          "whyItMatters": "Comprendre comment des variants génétiques spécifiques se rapportent au risque de diabète et aux marqueurs métaboliques aide à clarifier les mécanismes de la maladie et les différences entre populations, mais la génétique n'est qu'un élément du risque de diabète aux côtés de l'environnement et du mode de vie.",
+          "title": "Revue systématique liant le variant TCF7L2 rs7903146 au diabète de type 2 et à des marqueurs",
+          "summary": "Une revue systématique a évalué les études portant sur le variant TCF7L2 rs7903146 et sa relation avec le diabète de type 2 et des biomarqueurs métaboliques associés, en particulier dans des populations asiatiques où l’incidence du diabète augmente.",
+          "whyItMatters": "Comprendre les contributeurs génétiques au risque de diabète peut aider les chercheurs à démêler les interactions entre génétique et mode de vie, et à orienter la recherche et la prévention spécifiques à certaines populations.",
           "takeaways": [
-            "Le rs7903146 du gène TCF7L2 a été largement étudié pour ses liens avec le DMT2 et des traits métaboliques.",
-            "La susceptibilité génétique interagit avec l'alimentation, l'activité et d'autres facteurs environnementaux.",
-            "La revue systématique synthétise les preuves disponibles mais ne modifie pas la prédiction du risque individuel.",
-            "Les résultats peuvent orienter de futures recherches sur des stratégies de prévention personnalisée."
+            "Le variant TCF7L2 rs7903146 a été largement étudié pour ses associations avec le diabète et les traits métaboliques.",
+            "La revue prend en compte les facteurs génétiques et environnementaux influençant le risque de diabète.",
+            "Les résultats soulignent le besoin de recherches tenant compte du contexte propre à chaque population."
           ]
         },
         "de": {
-          "title": "Systematische Übersichtsarbeit untersucht TCF7L2 rs7903146 und Verknüpfungen zu Typ‑2‑Diabetes und Biomarkern",
-          "summary": "Eine systematische Übersichtsarbeit untersuchte die Assoziation zwischen der häufigen genetischen Variante TCF7L2 rs7903146 und dem Risiko für Typ‑2‑Diabetes sowie verwandten metabolischen Biomarkern, wobei ein Augenmerk auf Evidenz aus asiatischen Populationen angesichts steigender Diabetesinzidenz gelegt wurde.",
-          "whyItMatters": "Zu verstehen, wie spezifische genetische Varianten mit Diabetesrisiko und metabolischen Markern zusammenhängen, hilft, Krankheitsmechanismen und Populationsunterschiede zu klären. Genetik ist jedoch nur ein Teil des Diabetesrisikos neben Umwelt und Lebensstil.",
+          "title": "Systematische Übersichtsarbeit verknüpft TCF7L2‑Variante mit Typ‑2‑Diabetes und Biomarkern",
+          "summary": "Eine systematische Übersichtsarbeit bewertete Studien zur TCF7L2‑Variante rs7903146 und ihrer Beziehung zu Typ‑2‑Diabetes und verwandten Stoffwechsel‑Biomarkern, insbesondere in asiatischen Populationen mit steigenden Diabetesraten.",
+          "whyItMatters": "Das Verständnis genetischer Beiträge zum Diabetesrisiko kann Forschern helfen, wie Genetik und Lebensstil interagieren, und populationsspezifische Forschung und Präventionsstrategien informieren.",
           "takeaways": [
-            "rs7903146 im Gen TCF7L2 wurde umfangreich auf Zusammenhänge mit T2D und metabolischen Merkmalen untersucht.",
-            "Genetische Anfälligkeit interagiert mit Ernährung, Aktivität und anderen Umweltfaktoren.",
-            "Die systematische Übersicht fasst verfügbare Evidenz zusammen, ändert aber nicht die individuelle Risikovorhersage.",
-            "Die Befunde können künftige Forschung zu personalisierten Präventionsstrategien informieren."
+            "TCF7L2 rs7903146 wurde vielfach auf Assoziationen mit Diabetes und metabolischen Merkmalen untersucht.",
+            "Die Übersicht berücksichtigt genetische und umweltbedingte Faktoren, die das Diabetesrisiko beeinflussen.",
+            "Die Befunde betonen die Notwendigkeit kontextspezifischer Forschung in verschiedenen Populationen."
           ]
         },
         "pt-br": {
-          "title": "Revisão sistemática examina rs7903146 em TCF7L2 e ligações com diabetes tipo 2 e biomarcadores",
-          "summary": "Uma revisão sistemática explorou a associação entre a variante genética comum TCF7L2 rs7903146 e o risco de diabetes tipo 2, bem como biomarcadores metabólicos relacionados, com atenção às evidências de populações asiáticas diante do aumento da incidência de diabetes.",
-          "whyItMatters": "Entender como variantes genéticas específicas se relacionam ao risco de diabetes e a marcadores metabólicos ajuda a esclarecer mecanismos da doença e diferenças entre populações, mas a genética é apenas uma parte do risco de diabetes, ao lado do ambiente e estilo de vida.",
+          "title": "Revisão sistemática relaciona variante TCF7L2 com diabetes tipo 2 e marcadores",
+          "summary": "Uma revisão sistemática avaliou estudos sobre a variante TCF7L2 rs7903146 e sua relação com diabetes tipo 2 e biomarcadores metabólicos associados, particularmente em populações asiáticas que apresentam aumento nas taxas de diabetes.",
+          "whyItMatters": "Compreender contribuições genéticas ao risco de diabetes pode ajudar pesquisadores a desvendar como genética e estilo de vida interagem, além de orientar pesquisas e estratégias de prevenção específicas por população.",
           "takeaways": [
-            "rs7903146 em TCF7L2 tem sido amplamente estudado por suas ligações com T2D e traços metabólicos.",
-            "A susceptibilidade genética interage com dieta, atividade e outros fatores ambientais.",
-            "A revisão sistemática sintetiza a evidência disponível, mas não altera a previsão de risco individual.",
-            "Os achados podem informar pesquisas futuras sobre estratégias de prevenção personalizadas."
+            "A variante TCF7L2 rs7903146 tem sido amplamente estudada por suas associações com diabetes e traços metabólicos.",
+            "A revisão considera fatores genéticos e ambientais que influenciam o risco de diabetes.",
+            "Os resultados ressaltam a necessidade de pesquisas contextualizadas em diferentes populações."
           ]
         },
         "hu": {
-          "title": "Rendszerszemlélet a TCF7L2 rs7903146 és a 2‑es típusú cukorbetegséghez és biomarkerekhez fűződő kapcsolatáról",
-          "summary": "Egy szisztematikus áttekintés vizsgálta a gyakori TCF7L2 rs7903146 genetikai variáns és a 2‑es típusú cukorbetegség kockázata, valamint kapcsolódó anyagcsere‑biomarkerek közötti összefüggést, különös tekintettel az ázsiai populációkra a cukorbetegség növekvő előfordulása közepette.",
-          "whyItMatters": "A specifikus genetikai variánsok és a cukorbetegséghez kapcsolódó biomarkerek közötti kapcsolatok megismerése segít tisztázni a betegség mechanizmusait és a populációs különbségeket, de a genetika csak egy része a cukorbetegség kockázatának a környezeti és életmódbeli tényezők mellett.",
+          "title": "Rendszerszintű áttekintés: a TCF7L2 rs7903146 variáns összefüggése a 2‑es típusú cukorbetegséggel és markerjeivel",
+          "summary": "Egy szisztematikus áttekintés értékelte a TCF7L2 rs7903146 variáns és a 2‑es típusú cukorbetegséghez, valamint ahhoz kapcsolódó metabolikus biomarkerekhez fűződő kapcsolatokat, különös tekintettel az ázsiai populációkra, ahol a cukorbetegség előfordulása növekszik.",
+          "whyItMatters": "A cukorbetegség kockázatához hozzájáruló genetikai tényezők megértése segíthet a genetika és az életmód kölcsönhatásainak feltárásában, és tájékoztathatja a populációspecifikus kutatásokat és megelőzési stratégiákat.",
           "takeaways": [
-            "A TCF7L2 rs7903146 jellegzetes kapcsolatban áll széles körben tanulmányozott T2D és anyagcsere‑jellemzők tekintetében.",
-            "A genetikai hajlam kölcsönhatásban áll az étrenddel, fizikai aktivitással és egyéb környezeti tényezőkkel.",
-            "A szisztematikus áttekintés összegzi a rendelkezésre álló bizonyítékokat, de nem változtatja meg az egyéni kockázatbecslést.",
-            "Az eredmények irányt adhatnak a jövőbeni, személyre szabott megelőzési stratégiákról szóló kutatásoknak."
+            "A TCF7L2 rs7903146 variánst széles körben vizsgálták a cukorbetegséghez és metabolikus jellemzőkhöz való kapcsolódás miatt.",
+            "Az áttekintés figyelembe veszi a genetikai és környezeti tényezőket, amelyek befolyásolhatják a cukorbetegség kockázatát.",
+            "Az eredmények hangsúlyozzák a kontextus‑specifikus kutatás szükségességét különböző populációkban."
           ]
         },
         "ar": {
-          "title": "مراجعة منهجية تبحث ارتباط متغير TCF7L2 rs7903146 بداء السكري من النوع الثاني والمؤشرات الحيوية المرتبطة",
-          "summary": "استعرضت مراجعة منهجية العلاقة بين التحور الجيني الشائع TCF7L2 rs7903146 وخطر داء السكري من النوع الثاني وكذلك المؤشرات الحيوية الأيضية ذات الصلة، مع إيلاء اهتمام للأدلة من السكان الآسيويين في ظل زيادة حدوث مرض السكري.",
-          "whyItMatters": "يساعد فهم كيفية ارتباط متغيرات جينية محددة بخطر السكري والمؤشرات الأيضية على توضيح آليات المرض والاختلافات بين السكان، لكن الوراثة جزء واحد فقط من خطر السكري إلى جانب العوامل البيئية ونمط الحياة.",
+          "title": "مراجعة منهجية تربط متغير TCF7L2 rs7903146 بمرض السكري من النوع 2 ومؤشرات مرتبطة",
+          "summary": "قيّمت مراجعة منهجية الدراسات حول متغير TCF7L2 rs7903146 وعلاقته بمرض السكري من النوع الثاني والمؤشرات الأيضية المرتبطة به، مع تركيز خاص على السكان الآسيويين الذين تشهد معدلات داء السكري لديهم ارتفاعًا.",
+          "whyItMatters": "فهم المساهمات الجينية في خطر السكري يمكن أن يساعد الباحثين على تفكيك كيفية تداخل الجينات ونمط الحياة، ويمكن أن يوجّه بحوثًا واستراتيجيات وقائية مخصّصة لكل مجموعة سكانية.",
           "takeaways": [
-            "تمت دراسة rs7903146 في جين TCF7L2 على نطاق واسع لارتباطه بمرض السكري من النوع الثاني وسمات أيضية.",
-            "يتفاعل القابلية الوراثية مع النظام الغذائي والنشاط وعوامل بيئية أخرى.",
-            "تجمع المراجعة المنهجية الأدلة المتاحة لكنها لا تغير التنبؤ بخطر الفرد.",
-            "قد تُوجّه النتائج أبحاثًا مستقبلية حول استراتيجيات الوقاية المخصصة."
+            "درس كثيرون ارتباط متغير TCF7L2 rs7903146 بمرض السكري والسمات الأيضية.",
+            "تتناول المراجعة العوامل الوراثية والبيئية التي تؤثر على خطر الإصابة بالسكري.",
+            "تؤكد النتائج على ضرورة إجراء بحوث تأخذ السياق السكاني في الحسبان عبر مجموعات مختلفة."
           ]
         }
       },
-      "generatedAt": "2026-05-20T10:03:44.287Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a9",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-news.webp",
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bmj-nutrition-tcf7l2-systematic-review-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmj-nutrition-tcf7l2-systematic-review-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmj-nutrition-tcf7l2-systematic-review-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Systematic review examines TCF7L2 rs7903146 and links to type 2 diabetes and biomarkers.\nStory summary: A systematic review explored the association between the common TCF7L2 rs7903146 genetic variant and type 2 diabetes risk as well as related metabolic biomarkers, with attention to evidence from Asian populations amid rising diabetes incidence..\nCategory: Genetics & metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Systematic review links a TCF7L2 genetic variant with type 2 diabetes and markers.\nStory summary: A systematic review evaluated studies on the TCF7L2 rs7903146 variant and its relationship to type 2 diabetes and related metabolic biomarkers, particularly in Asian populations experiencing rising diabetes rates..\nCategory: genetics & metabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "nature-organ-specific-aging-clocks-2026",
+      "category": "aging",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01113-2",
+      "sourceTitle": "From whole-body to organ-specific biological age clocks",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "The move from whole-body to organ-specific aging clocks",
+          "summary": "A review discusses how aging clocks have progressed from whole-body predictors to organ-level measures that combine omics and imaging. The authors summarize methods, what organ-specific readouts reveal about differential aging, and priorities for future research.",
+          "whyItMatters": "Organ-specific clocks could detect which tissues age faster or respond to interventions, improving research precision and potentially guiding more targeted strategies to maintain organ health.",
+          "takeaways": [
+            "Organ-level clocks provide finer resolution than whole-body measures.",
+            "Integrating multiple data types (omics, imaging) is key to these advances.",
+            "The approach may reveal different aging trajectories across organs and help prioritize interventions."
+          ]
+        },
+        "es": {
+          "title": "La transición de relojes de envejecimiento de todo el cuerpo a específicos por órgano",
+          "summary": "Una revisión discute cómo los relojes de envejecimiento han evolucionado de predictores a nivel corporal a medidas a nivel de órgano que combinan ómicas e imágenes. Los autores resumen métodos, lo que las lecturas específicas de órganos revelan sobre el envejecimiento diferencial y las prioridades para futuras investigaciones.",
+          "whyItMatters": "Los relojes específicos por órgano podrían detectar qué tejidos envejecen más rápido o responden a intervenciones, mejorando la precisión de la investigación y potencialmente orientando estrategias más específicas para mantener la salud de los órganos.",
+          "takeaways": [
+            "Los relojes a nivel de órgano ofrecen mayor resolución que las medidas de todo el cuerpo.",
+            "Integrar distintos tipos de datos (ómicas, imágenes) es clave para estos avances.",
+            "El enfoque puede revelar trayectorias de envejecimiento diferentes entre órganos y ayudar a priorizar intervenciones."
+          ]
+        },
+        "ru": {
+          "title": "Переход от общего «часа» старения к органоспецифическим моделям",
+          "summary": "Обзор рассматривает, как часы биологического возраста развились от показателей всего организма до мер на уровне органов, объединяющих омics‑данные и визуализацию. Авторы суммируют методы, что показывают органоспецифические показатели о различном старении, и приоритеты для будущих исследований.",
+          "whyItMatters": "Органоспецифические часы могут выявлять, какие ткани стареют быстрее или реагируют на вмешательства, повышая точность исследований и потенциально помогая разрабатывать более целевые стратегии для поддержания здоровья органов.",
+          "takeaways": [
+            "Часы на уровне отдельных органов дают более детальную картину, чем показатели всего организма.",
+            "Ключевым для этих достижений является интеграция различных типов данных (omics, изображения).",
+            "Подход может выявлять разные траектории старения между органами и помогать в приоритезации вмешательств."
+          ]
+        },
+        "uk": {
+          "title": "Перехід від загаломорганізмових до органо‑специфічних годинників старіння",
+          "summary": "Огляд описує, як годинники біологічного віку еволюціонували від показників для всього організму до вимірювань на рівні окремих органів, що поєднують оміку і візуалізацію. Автори узагальнюють методи, те, що дають органо‑специфічні показники про різницю в старінні, і пріоритети для майбутніх досліджень.",
+          "whyItMatters": "Органо‑специфічні годинники можуть виявляти, які тканини старіють швидше або реагують на втручання, що підвищує точність досліджень і може допомогти у розробці більш адресних стратегій для збереження здоров’я органів.",
+          "takeaways": [
+            "Годинники на рівні органів дають більш детальну картину, ніж загаломорганізмові показники.",
+            "Ключове значення має інтеграція різних типів даних (оміка, візуалізація).",
+            "Підхід може виявити різні траєкторії старіння між органами й допомогти визначити пріоритети втручань."
+          ]
+        },
+        "fr": {
+          "title": "Du tout‑corps aux horloges de vieillissement spécifiques aux organes",
+          "summary": "Une revue traite de l’évolution des horloges du vieillissement, qui sont passées d’indicateurs à l’échelle de l’ensemble du corps à des mesures au niveau des organes combinant omiques et imagerie. Les auteurs résument les méthodes, ce que révèlent les mesures spécifiques aux organes sur le vieillissement différentiel, et les priorités pour la recherche future.",
+          "whyItMatters": "Les horloges spécifiques aux organes pourraient détecter quels tissus vieillissent plus vite ou répondent à des interventions, améliorant ainsi la précision des recherches et potentiellement guidant des stratégies plus ciblées pour préserver la santé des organes.",
+          "takeaways": [
+            "Les horloges au niveau des organes offrent une résolution plus fine que les mesures globales.",
+            "L’intégration de plusieurs types de données (omics, imagerie) est essentielle à ces avancées.",
+            "Cette approche peut révéler des trajectoires de vieillissement différentes entre organes et aider à prioriser les interventions."
+          ]
+        },
+        "de": {
+          "title": "Der Übergang von Ganzkörper- zu organspezifischen Alterungsuhren",
+          "summary": "Eine Übersicht diskutiert, wie Alterungsuhren sich von Ganzkörper‑Vorhersagen zu organspezifischen Messungen entwickelt haben, die Omics‑Daten und Bildgebung kombinieren. Die Autorinnen und Autoren fassen Methoden zusammen, erläutern, was organspezifische Messgrößen über unterschiedliche Alterungsprozesse verraten, und nennen Forschungsprioritäten.",
+          "whyItMatters": "Organspezifische Uhren könnten zeigen, welche Gewebe schneller altern oder auf Interventionen reagieren, was die Forschung präziser macht und möglicherweise gezieltere Strategien zur Erhaltung der Organfunktion ermöglicht.",
+          "takeaways": [
+            "Uhren auf Organebene bieten feinere Auflösung als Ganzkörper‑Maße.",
+            "Die Integration mehrerer Datentypen (Omics, Bildgebung) ist entscheidend für diese Fortschritte.",
+            "Der Ansatz kann unterschiedliche Alterungstrajektorien zwischen Organen aufdecken und bei der Priorisierung von Interventionen helfen."
+          ]
+        },
+        "pt-br": {
+          "title": "A transição de relógios de envelhecimento do corpo inteiro para específicos de órgãos",
+          "summary": "Uma revisão discute como os relógios de envelhecimento evoluíram de preditores do corpo inteiro para medidas em nível de órgão que combinam dados ômicos e imagem. Os autores resumem métodos, o que leituras específicas de órgãos revelam sobre envelhecimento diferencial e prioridades para pesquisas futuras.",
+          "whyItMatters": "Relógios específicos de órgãos podem detectar quais tecidos envelhecem mais rápido ou respondem a intervenções, melhorando a precisão da pesquisa e potencialmente orientando estratégias mais direcionadas para preservar a saúde dos órgãos.",
+          "takeaways": [
+            "Relógios em nível de órgão fornecem resolução mais fina que medidas do corpo inteiro.",
+            "Integrar múltiplos tipos de dados (ômica, imagem) é fundamental para esses avanços.",
+            "A abordagem pode revelar trajetórias de envelhecimento diferentes entre órgãos e ajudar a priorizar intervenções."
+          ]
+        },
+        "hu": {
+          "title": "Áttérés a teljes testtől a szervspecifikus öregedési órák felé",
+          "summary": "Egy áttekintés tárgyalja, hogyan fejlődtek az öregedési órák a teljes testet jellemző előrejelzőktől az omika‑ és képalkotó adatokon alapuló szervszintű mérésekig. A szerzők összefoglalják a módszereket, azt, mit mutatnak a szervspecifikus eredmények a különböző öregedési ütemekről, és milyen kutatási prioritások szükségesek a jövőben.",
+          "whyItMatters": "A szervspecifikus órák képesek feltárni, mely szövetek öregednek gyorsabban vagy reagálnak beavatkozásokra, ami javíthatja a kutatási pontosságot és potenciálisan célzottabb stratégiákat segíthet kidolgozni a szervek egészségének megőrzésére.",
+          "takeaways": [
+            "A szervszintű órák finomabb felbontást adnak, mint az egész testet jellemző mérések.",
+            "Többféle adat (omika, képalkotás) integrálása kulcsfontosságú ezekhez az előrelépésekhez.",
+            "A megközelítés feltárhat különböző öregedési pályákat szervek szerint, és segíthet a beavatkozások priorizálásában."
+          ]
+        },
+        "ar": {
+          "title": "الانتقال من ساعات الشيخوخة على مستوى الجسم إلى ساعات خاصة بالأعضاء",
+          "summary": "تستعرض ورقة كيف تطورت ساعات الشيخوخة من مؤشرات تغطي الجسم كله إلى مقاييس على مستوى الأعضاء تجمع بين بيانات الأوميكس والتصوير. يلخّص المؤلفون الأساليب وما تكشفه القراءات الخاصة بالأعضاء عن اختلافات الشيخوخة، ويحدّدون أولويات البحث المستقبلية.",
+          "whyItMatters": "قد تكتشف الساعات الخاصة بالأعضاء أي الأنسجة تتقدم في السن أسرع أو تستجيب للتدخلات، مما يحسّن دقة البحث وقد يوجّه استراتيجيات أكثر استهدافًا للحفاظ على صحة الأعضاء.",
+          "takeaways": [
+            "ساعات المستوى العضوي توفر دقة أعلى من مقاييس الجسم كله.",
+            "دمج أنواع بيانات متعددة (أوميكس، تصوير) أمر أساسي لهذه التقدّمات.",
+            "قد تكشف هذه المقاربة مسارات شيخوخة مختلفة بين الأعضاء وتساعد في تحديد أولويات التدخلات."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nature-organ-specific-aging-clocks-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-organ-specific-aging-clocks-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-organ-specific-aging-clocks-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: The move from whole-body to organ-specific aging clocks.\nStory summary: A review discusses how aging clocks have progressed from whole-body predictors to organ-level measures that combine omics and imaging. The authors summarize methods, what organ-specific readouts reveal about differential aging, and priorities for future research..\nCategory: aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sciencedaily-cysteine-gut-healing-2026-05-21",
+      "category": "nutrition",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260520233223.htm",
+      "sourceTitle": "MIT scientists discover amino acid that helps the gut heal itself",
+      "publishedAt": "Thu, 21 May 2026 00:40:33 EDT",
+      "languages": {
+        "en": {
+          "title": "Cysteine found to trigger intestinal repair in mice",
+          "summary": "MIT researchers report that dietary cysteine activated immune cells that released signals promoting stem cell–driven repair of radiation-damaged intestinal tissue in mice. The finding points to a nutrient-driven mechanism for gut recovery after injury.",
+          "whyItMatters": "If nutrient signals can support tissue repair, they may inspire new approaches to reduce gastrointestinal damage from cancer therapies — though results in animals need careful clinical follow-up.",
+          "takeaways": [
+            "Cysteine intake activated immune-mediated repair pathways in mouse intestines after radiation.",
+            "Mechanism involved immune signals that helped stem cells rebuild damaged tissue.",
+            "Findings are preclinical; further research is required before human application."
+          ]
+        },
+        "es": {
+          "title": "La cisteína desencadena la reparación intestinal en ratones",
+          "summary": "Investigadores del MIT informan que la cisteína en la dieta activó células inmunitarias que liberaron señales que promovieron la reparación impulsada por células madre del tejido intestinal dañado por radiación en ratones. El hallazgo apunta a un mecanismo dependiente de nutrientes para la recuperación intestinal tras una lesión.",
+          "whyItMatters": "Si señales nutricionales pueden apoyar la reparación tisular, podrían inspirar nuevas aproximaciones para reducir el daño gastrointestinal por terapias contra el cáncer, aunque los resultados en animales requieren un seguimiento clínico cuidadoso.",
+          "takeaways": [
+            "La ingesta de cisteína activó vías de reparación mediadas por el sistema inmune en intestinos de ratones tras radiación.",
+            "El mecanismo implicó señales inmunitarias que ayudaron a las células madre a reconstruir el tejido dañado.",
+            "Los hallazgos son preclínicos; se requiere más investigación antes de cualquier aplicación en humanos."
+          ]
+        },
+        "ru": {
+          "title": "Цистеин запускает восстановление кишечника у мышей",
+          "summary": "Учёные из MIT сообщают, что диетарный цистеин активировал иммунные клетки, которые выделяли сигналы, способствовавшие восстановлению кишечной ткани, повреждённой радиацией, за счёт стволовых клеток у мышей. Открытие указывает на механизм, зависящий от питательного вещества, для восстановления кишечника после повреждения.",
+          "whyItMatters": "Если питательные сигналы могут поддерживать восстановление тканей, это может вдохновить новые подходы к уменьшению гастроинтестинального ущерба от противораковых терапий — однако результаты на животных требуют тщательной клинической проверки.",
+          "takeaways": [
+            "Потребление цистеина активировало иммуноопосредованные пути восстановления в кишечнике мышей после облучения.",
+            "Механизм включал иммунные сигналы, которые помогали стволовым клеткам восстанавливать повреждённую ткань.",
+            "Результаты носят доклинический характер; перед применением у людей нужно провести дополнительные исследования."
+          ]
+        },
+        "uk": {
+          "title": "Цистеїн стимулює відновлення кишечника у мишей",
+          "summary": "Дослідники з MIT повідомляють, що дієтичний цистеїн активував імунні клітини, які виділяли сигнали, що сприяли відновленню тканини кишечника за участі стовбурових клітин після опромінення у мишей. Це вказує на механізм, при якому нутрієнт сприяє відновленню кишечника після ушкодження.",
+          "whyItMatters": "Якщо сигнали, пов’язані з нутрієнтами, можуть підтримувати відновлення тканин, це може надихнути нові підходи для зменшення пошкоджень травної системи під час онкотерапій — проте результати на тваринах потребують ретельного клінічного підтвердження.",
+          "takeaways": [
+            "Споживання цистеїну активувало імуно‑опосередковані шляхи відновлення в кишечнику мишей після опромінення.",
+            "Механізм включав імунні сигнали, що допомагали стовбуровим клітинам відновлювати ушкоджену тканину.",
+            "Результати є доклінічними; для застосування в людей потрібні подальші дослідження."
+          ]
+        },
+        "fr": {
+          "title": "La cystéine déclenche la réparation intestinale chez la souris",
+          "summary": "Des chercheurs du MIT rapportent que la cystéine alimentaire a activé des cellules immunitaires qui ont libéré des signaux favorisant la réparation dirigée par les cellules souches des tissus intestinaux endommagés par irradiation chez la souris. Cette découverte pointe vers un mécanisme dépendant d’un nutriment pour la récupération intestinale après une lésion.",
+          "whyItMatters": "Si des signaux nutritionnels peuvent soutenir la réparation tissulaire, ils pourraient inspirer de nouveaux approches pour réduire les dommages gastro‑intestinaux liés aux traitements contre le cancer — toutefois les résultats animaux nécessitent une validation clinique prudente.",
+          "takeaways": [
+            "L’apport en cystéine a activé des voies de réparation immuno‑médiées dans l’intestin de souris après irradiation.",
+            "Le mécanisme impliquait des signaux immunitaires aidant les cellules souches à reconstruire le tissu endommagé.",
+            "Les résultats sont précliniques; des recherches supplémentaires sont nécessaires avant une application humaine."
+          ]
+        },
+        "de": {
+          "title": "Cystein löst intestinale Reparatur bei Mäusen aus",
+          "summary": "MIT‑Forscher berichten, dass diätetisches Cystein Immunzellen aktivierte, die Signale aussandten und so die stammzellgetriebene Reparatur strahlenbeschädigter Darmgewebe bei Mäusen förderten. Der Befund weist auf einen nährstoffgesteuerten Mechanismus für die Darmregeneration nach Verletzung hin.",
+          "whyItMatters": "Wenn Nährstoffsignale die Gewebe­reparatur unterstützen können, könnten sie neue Ansätze inspirieren, um gastrointestinale Schäden durch Krebstherapien zu verringern – Tierexperimente benötigen jedoch sorgfältige klinische Folgeuntersuchungen.",
+          "takeaways": [
+            "Cysteinaufnahme aktivierte immunvermittelte Reparaturwege im Darm von Mäusen nach Strahlen­schäden.",
+            "Der Mechanismus umfasste Immunsignale, die Stammzellen beim Wiederaufbau beschädigten Gewebes unterstützten.",
+            "Die Ergebnisse sind präklinisch; vor einer Anwendung beim Menschen sind weitere Forschungen nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Cisteína é identificada como gatilho para reparo intestinal em camundongos",
+          "summary": "Pesquisadores do MIT relatam que a cisteína na dieta ativou células imunes que liberaram sinais promovendo o reparo conduzido por células‑tronco do tecido intestinal danificado por radiação em camundongos. A descoberta aponta para um mecanismo dependente de nutrientes para recuperação intestinal após lesão.",
+          "whyItMatters": "Se sinais nutricionais puderem apoiar a reparação tecidual, eles podem inspirar novas abordagens para reduzir danos gastrointestinais de terapias contra o câncer — embora resultados em animais exijam continuidade cuidadosa em estudos clínicos.",
+          "takeaways": [
+            "A ingestão de cisteína ativou vias de reparo mediadas pelo sistema imune no intestino de camundongos após radiação.",
+            "O mecanismo envolveu sinais imunológicos que ajudaram células‑tronco a reconstruir o tecido danificado.",
+            "Os achados são pré‑clínicos; mais pesquisas são necessárias antes de aplicação em humanos."
+          ]
+        },
+        "hu": {
+          "title": "A cisztein serkenti a bél regenerációját egerekben",
+          "summary": "MIT‑kutatók arról számoltak be, hogy az étrendi cisztein aktiválta azokat az immunsejteket, amelyek jeleket bocsátottak ki, és ezek a jelek elősegítették a sugárzás által károsított bél szövetének őssejt‑vezérelt helyreállítását egerekben. A felfedezés egy tápanyag‑vezérelt mechanizmust jelez a bél regenerációjára sérülés után.",
+          "whyItMatters": "Ha a tápanyagjelzések támogatni tudják a szöveti helyreállítást, új megközelítések inspirálhatják a gasztrointesztinális károsodás csökkentését a rákkezelések során — ugyanakkor az állati eredményeket óvatos klinikai vizsgálatokkal kell követni.",
+          "takeaways": [
+            "A ciszteinbevitel aktiválta az immunmediált javító útvonalakat az irradiációt követően az egérbélben.",
+            "A mechanizmus immunjelek bevonásával segítette az őssejtek által a sérült szövet újjáépítését.",
+            "Az eredmények előklinikai jellegűek; további kutatás szükséges, mielőtt emberi alkalmazásról beszélhetnénk."
+          ]
+        },
+        "ar": {
+          "title": "وُجد أن السيستئين يحفّز شفاء الأمعاء في الفئران",
+          "summary": "يُبلغ باحثون في MIT أن السيستئين الغذائي فعّل خلايا مناعية أطلقت إشارات حافظت على تجدد النسيج المعوي المدفوع بالخلايا الجذعية بعد تلف إشعاعي لدى الفئران. تشير النتيجة إلى آلية يغذيها عنصر غذائي لدعم تعافٍ معوي بعد الإصابة.",
+          "whyItMatters": "إذا كانت إشارات مغذّية تدعم إصلاح الأنسجة، فقد تلهم طرقًا جديدة لتقليل الضرر المعوي الناتج عن علاجات السرطان — مع التأكيد على أن نتائج الحيوانات تتطلب متابعة سريرية دقيقة.",
+          "takeaways": [
+            "أدى تناول السيستئين إلى تفعيل مسارات إصلاح مناعية في أمعاء الفئران بعد التعرض للإشعاع.",
+            "اشتملت الآلية على إشارات مناعية ساعدت الخلايا الجذعية على إعادة بناء النسيج التالف.",
+            "النتائج قبل سريرية؛ يلزم مزيد من البحث قبل التطبيق البشري."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sciencedaily-cysteine-gut-healing-2026-05-21",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-cysteine-gut-healing-2026-05-21-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-cysteine-gut-healing-2026-05-21-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cysteine found to trigger intestinal repair in mice.\nStory summary: MIT researchers report that dietary cysteine activated immune cells that released signals promoting stem cell–driven repair of radiation-damaged intestinal tissue in mice. The finding points to a nutrient-driven mechanism for gut recovery after injury..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medicalxpress-nmn-nad-resveratrol-2026-05-20",
+      "category": "aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-supplements-nmn-nad-resveratrol-aging.html",
+      "sourceTitle": "Can supplements containing NMN, NAD+ and resveratrol really slow aging? Here&#039;s what the evidence says",
+      "publishedAt": "Wed, 20 May 2026 22:40:02 EDT",
+      "languages": {
+        "en": {
+          "title": "What the evidence says about NMN, NAD+ and resveratrol supplements",
+          "summary": "An overview article assesses claims that supplements such as NMN, NAD+ precursors and resveratrol can slow biological aging by acting on cellular pathways. The piece reviews available studies and highlights the gap between marketing promises and current scientific support.",
+          "whyItMatters": "Many people buy anti-aging supplements; a clear, evidence-focused review helps readers understand what is and isn’t supported by research before spending money or expecting clinical benefits.",
+          "takeaways": [
+            "These supplements target cellular aging pathways but the human evidence remains limited.",
+            "Claims of slowing aging often exceed what current studies demonstrate.",
+            "More rigorous trials are needed to establish long-term benefits and safety."
+          ]
+        },
+        "es": {
+          "title": "Qué dice la evidencia sobre los suplementos de NMN, NAD+ y resveratrol",
+          "summary": "Un artículo de síntesis evalúa las afirmaciones de que suplementos como NMN, precursores de NAD+ y resveratrol pueden ralentizar el envejecimiento biológico al actuar sobre vías celulares. La pieza revisa los estudios disponibles y subraya la brecha entre las promesas del marketing y el respaldo científico actual.",
+          "whyItMatters": "Mucha gente compra suplementos antienvejecimiento; una revisión clara y centrada en la evidencia ayuda a los lectores a entender qué está y qué no está respaldado por la investigación antes de gastar dinero o esperar beneficios clínicos.",
+          "takeaways": [
+            "Estos suplementos apuntan a vías celulares relacionadas con el envejecimiento, pero la evidencia en humanos sigue siendo limitada.",
+            "Las afirmaciones sobre ralentizar el envejecimiento con frecuencia superan lo que demuestran los estudios actuales.",
+            "Se necesitan ensayos más rigurosos para establecer beneficios y seguridad a largo plazo."
+          ]
+        },
+        "ru": {
+          "title": "Что говорит доказательная база о добавках NMN, NAD+ и ресвератроле",
+          "summary": "Обзорная статья оценивает утверждения о том, что добавки, такие как NMN, предшественники NAD+ и ресвератрол, могут замедлять биологическое старение, воздействуя на клеточные пути. В материале рассматриваются доступные исследования и отмечается разрыв между маркетинговыми обещаниями и текущей научной поддержкой.",
+          "whyItMatters": "Многие люди покупают добавки против старения; ясный обзор, основанный на доказательствах, помогает читателям понять, что подтверждено исследованиями, а что — нет, прежде чем тратить деньги или ожидать клинических эффектов.",
+          "takeaways": [
+            "Эти добавки направлены на клеточные пути старения, но доказательств в отношении человека пока мало.",
+            "Утверждения о замедлении старения часто превышают то, что показывают текущие исследования.",
+            "Необходимы более строгие клинические испытания для оценки долгосрочной пользы и безопасности."
+          ]
+        },
+        "uk": {
+          "title": "Що каже доказова база про добавки з NMN, NAD+ і ресвератролом",
+          "summary": "Оглядова стаття оцінює твердження, що добавки, такі як NMN, прекурсори NAD+ і ресвератрол, можуть уповільнювати біологічне старіння, впливаючи на клітинні шляхи. Матеріал переглядає наявні дослідження та підкреслює розрив між маркетинговими обіцянками й поточною науковою підтримкою.",
+          "whyItMatters": "Багато людей купують засоби проти старіння; огляд, сфокусований на доказах, допомагає читачам зрозуміти, що підтримується дослідженнями, а що — ні, перш ніж витрачати гроші або чекати клінічних ефектів.",
+          "takeaways": [
+            "Ці добавки націлені на клітинні шляхи старіння, але доказова база у людей залишається обмеженою.",
+            "Твердження про уповільнення старіння часто перевищують те, що демонструють наявні дослідження.",
+            "Потрібні більш суворі випробування, щоб встановити довгострокову користь і безпеку."
+          ]
+        },
+        "fr": {
+          "title": "Ce que disent les preuves sur les compléments à base de NMN, NAD+ et resvératrol",
+          "summary": "Un article de synthèse évalue les affirmations selon lesquelles des compléments tels que le NMN, les précurseurs du NAD+ et le resvératrol pourraient ralentir le vieillissement biologique en agissant sur des voies cellulaires. L’article passe en revue les études disponibles et souligne l’écart entre le discours marketing et le soutien scientifique actuel.",
+          "whyItMatters": "Beaucoup de personnes achètent des compléments anti‑âge; une revue centrée sur les preuves aide les lecteurs à comprendre ce qui est ou n’est pas étayé par la recherche avant de dépenser de l’argent ou d’attendre des bénéfices cliniques.",
+          "takeaways": [
+            "Ces compléments ciblent des voies cellulaires du vieillissement, mais les preuves chez l’humain restent limitées.",
+            "Les affirmations sur le ralentissement du vieillissement dépassent souvent ce que montrent les études actuelles.",
+            "Des essais plus rigoureux sont nécessaires pour établir les bénéfices et la sécurité à long terme."
+          ]
+        },
+        "de": {
+          "title": "Was die Belege zu NMN-, NAD+- und Resveratrol-Präparaten sagen",
+          "summary": "Ein Übersichtsartikel bewertet Behauptungen, dass Präparate wie NMN, NAD+-Vorstufen und Resveratrol das biologische Altern durch Eingriffe in zelluläre Signalwege verlangsamen können. Der Beitrag fasst verfügbare Studien zusammen und zeigt die Lücke zwischen Werbeversprechen und der aktuellen wissenschaftlichen Unterstützung auf.",
+          "whyItMatters": "Viele Menschen kaufen Anti‑Aging‑Präparate; eine klare, evidenzorientierte Übersicht hilft Leserinnen und Lesern zu verstehen, was durch Forschung gestützt wird und was nicht, bevor sie Geld ausgeben oder klinische Wirkungen erwarten.",
+          "takeaways": [
+            "Diese Präparate zielen auf zelluläre Alterungswege ab, doch die Evidenz beim Menschen bleibt begrenzt.",
+            "Aussagen über das Verlangsamen des Alterns gehen häufig über das hinaus, was aktuelle Studien zeigen.",
+            "Es werden strengere, langfristige Studien benötigt, um Nutzen und Sicherheit zu belegen."
+          ]
+        },
+        "pt-br": {
+          "title": "O que as evidências dizem sobre suplementos de NMN, NAD+ e resveratrol",
+          "summary": "Um artigo de revisão avalia afirmações de que suplementos como NMN, precursores de NAD+ e resveratrol podem retardar o envelhecimento biológico atuando em vias celulares. O texto analisa os estudos disponíveis e destaca a diferença entre o marketing e o suporte científico atual.",
+          "whyItMatters": "Muitas pessoas compram suplementos anti‑envelhecimento; uma revisão clara e focada em evidências ajuda os leitores a entenderem o que é ou não respaldado pela pesquisa antes de gastar dinheiro ou esperar benefícios clínicos.",
+          "takeaways": [
+            "Esses suplementos atuam em vias celulares relacionadas ao envelhecimento, mas as evidências em humanos são limitadas.",
+            "Afirmar que retardam o envelhecimento frequentemente excede o que os estudos atuais demonstram.",
+            "São necessários ensaios mais rigorosos e de maior duração para determinar benefícios a longo prazo e segurança."
+          ]
+        },
+        "hu": {
+          "title": "Mit mondanak a bizonyítékok az NMN-, NAD+- és rezveratrol-kiegészítőkről",
+          "summary": "Egy áttekintő cikk azt vizsgálja, hogy az olyan kiegészítők, mint az NMN, a NAD+ előanyagai és a rezveratrol valóban lassíthatják-e a biológiai öregedést sejtes útvonalakon keresztül. A szerzők áttekintik a rendelkezésre álló vizsgálatokat, és kiemelik a marketingígéretek és a jelenlegi tudományos bizonyítékok közötti különbséget.",
+          "whyItMatters": "Sokan vásárolnak anti‑aging kiegészítőket; egy világos, bizonyítékokra összpontosító áttekintés segít megérteni, mi áll a kutatások által alátámasztva és mi nem, mielőtt pénzt költenének vagy klinikai hatást várnának.",
+          "takeaways": [
+            "Ezek a kiegészítők a sejtes öregedési útvonalakat célozzák, de az emberi bizonyítékok korlátozottak.",
+            "A „öregedés lassítása” jellegű állítások gyakran meghaladják a jelenlegi vizsgálatok által alátámasztottakat.",
+            "További szigorú, hosszabb távú vizsgálatok szükségesek a tartós előnyök és a biztonság megállapításához."
+          ]
+        },
+        "ar": {
+          "title": "ماذا تقول الأدلة عن مكملات NMN وNAD+ والريسفيراترول",
+          "summary": "مقالة استعراضية تُقيّم الادعاءات القائلة بأن مكملات مثل NMN ومقدّمات NAD+ والريسفيراترول قد تُبطئ الشيخوخة البيولوجية عبر التأثير على مسارات خلوية. يستعرض المقال الدراسات المتاحة ويبيّن الفجوة بين وعود التسويق والدعم العلمي الحالي.",
+          "whyItMatters": "يشتري الكثيرون مكملات مضادة للشيخوخة؛ ومراجعة واضحة ومبنية على الأدلة تساعد القرّاء على فهم ما تدعمه الأبحاث وما لا تدعمه قبل إنفاق المال أو توقع فوائد سريرية.",
+          "takeaways": [
+            "تستهدف هذه المكملات مسارات الشيخوخة الخلوية، لكن الأدلة البشرية لا تزال محدودة.",
+            "ادعاءات إبطاء الشيخوخة تتجاوز في كثير من الأحيان ما تُظهره الدراسات الحالية.",
+            "هناك حاجة إلى تجارب أكثر صرامة لإثبات الفوائد طويلة الأمد وسلامة الاستخدام."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medicalxpress-nmn-nad-resveratrol-2026-05-20",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-nmn-nad-resveratrol-2026-05-20-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-nmn-nad-resveratrol-2026-05-20-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: What the evidence says about NMN, NAD+ and resveratrol supplements.\nStory summary: An overview article assesses claims that supplements such as NMN, NAD+ precursors and resveratrol can slow biological aging by acting on cellular pathways. The piece reviews available studies and highlights the gap between marketing promises and current scientific support..\nCategory: aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lifespan-senescence-2026-05-20",
+      "category": "aging research",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/untangling-cellular-senescence-at-its-roots/?utm_source=rss&",
+      "sourceTitle": "Untangling Cellular Senescence at Its Roots",
+      "publishedAt": "Wed, 20 May 2026 16:58:33 +0000",
+      "languages": {
+        "en": {
+          "title": "New work examines differences between types of senescent cells",
+          "summary": "A report on research in Aging Cell compares primary (directly damaged) versus secondary (SASP-induced) senescent cells, using radiation and secreted-factor models. The analysis highlights heterogeneity among senescent cell populations.",
+          "whyItMatters": "Recognizing distinct senescent cell types and triggers matters for designing therapies that aim to remove or modulate senescent cells without unintended effects.",
+          "takeaways": [
+            "Senescent cells are heterogeneous; their origin affects behaviour and secretions.",
+            "Comparing radiation-induced and SASP-driven senescence helps map these differences.",
+            "Therapeutic strategies may need to account for senescence subtype diversity."
+          ]
+        },
+        "es": {
+          "title": "Nuevos trabajos examinan diferencias entre tipos de células senescentes",
+          "summary": "Un informe sobre investigación en Aging Cell compara células senescentes primarias (daño directo) frente a secundarias (inducidas por SASP), usando modelos de radiación y de factores secretados. El análisis destaca la heterogeneidad entre las poblaciones de células senescentes.",
+          "whyItMatters": "Reconocer tipos y desencadenantes distintos de senescencia es importante para diseñar terapias que busquen eliminar o modular células senescentes sin efectos no deseados.",
+          "takeaways": [
+            "Las células senescentes son heterogéneas; su origen afecta su conducta y secreciones.",
+            "Comparar senescencia inducida por radiación y por SASP ayuda a mapear esas diferencias.",
+            "Las estrategias terapéuticas pueden necesitar tener en cuenta la diversidad de subtipos de senescencia."
+          ]
+        },
+        "ru": {
+          "title": "Новое исследование изучает различия между типами сенесцентных клеток",
+          "summary": "Отчёт об исследованиях в Aging Cell сравнивает первичную (при прямом повреждении) и вторичную (индуцированную SASP) сенесценцию, используя модели радиации и секретируемых факторов. Анализ подчёркивает гетерогенность популяций сенесцентных клеток.",
+          "whyItMatters": "Понимание различных типов и триггеров сенесценции важно при разработке терапий, направленных на удаление или модуляцию сенесцентных клеток без нежелательных эффектов.",
+          "takeaways": [
+            "Сенесцентные клетки гетерогенны; их происхождение влияет на поведение и секреторный профиль.",
+            "Сравнение радиационно-индуцированной и SASP‑опосредованной сенесценции помогает выявить эти различия.",
+            "Терапевтические подходы, вероятно, должны учитывать разнообразие подтипов сенесценции."
+          ]
+        },
+        "uk": {
+          "title": "Нове дослідження розглядає відмінності між типами сенесцентних клітин",
+          "summary": "Звіт про роботу в Aging Cell порівнює первинні (безпосередньо ушкоджені) і вторинні (індуковані SASP) сенесцентні клітини, використовуючи моделі опромінення та моделі, засновані на секреції факторів. Аналіз підкреслює гетерогенність серед популяцій сенесцентних клітин.",
+          "whyItMatters": "Уточнення різних типів сенесцентних клітин і механізмів їх виникнення важливе для розробки терапій, що мають на меті видаляти або модулювати сенесцентні клітини без небажаних ефектів.",
+          "takeaways": [
+            "Сенесцентні клітини є гетерогенними; їх походження впливає на поведінку та профіль секреції.",
+            "Порівняння опромінення‑індукованого та SASP‑зумовленого сенесценції допомагає відобразити ці відмінності.",
+            "Терапевтичні стратегії, ймовірно, повинні враховувати різноманіття підтипів сенесценції."
+          ]
+        },
+        "fr": {
+          "title": "Nouvelle étude examine les différences entre types de cellules sénescentes",
+          "summary": "Un compte rendu de recherches publiées dans Aging Cell compare les cellules sénescentes primaires (endommagement direct) et secondaires (induites par le SASP), en utilisant des modèles d’irradiation et des modèles basés sur des facteurs sécrétés. L’analyse met en évidence l’hétérogénéité des populations de cellules sénescentes.",
+          "whyItMatters": "Reconnaître les différents types de cellules sénescentes et leurs déclencheurs est important pour concevoir des thérapies visant à éliminer ou moduler ces cellules sans effets indésirables.",
+          "takeaways": [
+            "Les cellules sénescentes sont hétérogènes; leur origine affecte leur comportement et leur profil sécrétoire.",
+            "Comparer la sénescence induite par irradiation et celle induite par le SASP aide à cartographier ces différences.",
+            "Les stratégies thérapeutiques pourraient devoir tenir compte de la diversité des sous‑types de sénescence."
+          ]
+        },
+        "de": {
+          "title": "Neue Arbeit untersucht Unterschiede zwischen Seneszenz‑Zelltypen",
+          "summary": "Ein Bericht zu Forschung in Aging Cell vergleicht primäre (direkt geschädigte) und sekundäre (SASP‑induziere) seneszente Zellen mithilfe von Strahlungs‑ und sekretorischen Faktor‑Modellen. Die Analyse hebt die Heterogenität innerhalb seneszenter Zellpopulationen hervor.",
+          "whyItMatters": "Das Erkennen unterschiedlicher Seneszenztypen und Auslöser ist wichtig für die Entwicklung von Therapien, die seneszente Zellen entfernen oder modulieren sollen, ohne unbeabsichtigte Effekte zu verursachen.",
+          "takeaways": [
+            "Seneszente Zellen sind heterogen; ihr Ursprung beeinflusst Verhalten und Sekretionsmuster.",
+            "Der Vergleich von strahlungsinduzierten und SASP‑getriebenen Seneszenzen hilft, diese Unterschiede zu kartieren.",
+            "Therapeutische Strategien müssen möglicherweise die Vielfalt der Seneszenz‑Subtypen berücksichtigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Novo estudo examina diferenças entre tipos de células senescentes",
+          "summary": "Um relatório sobre pesquisa publicada em Aging Cell compara células senescentes primárias (diretamente danificadas) versus secundárias (induzidas por SASP), usando modelos de radiação e de fatores secretados. A análise destaca a heterogeneidade entre populações de células senescentes.",
+          "whyItMatters": "Reconhecer tipos e gatilhos distintos de senescência é relevante para projetar terapias que visem remover ou modular células senescentes sem efeitos adversos indesejados.",
+          "takeaways": [
+            "Células senescentes são heterogêneas; sua origem afeta comportamento e secreções.",
+            "Comparar senescência induzida por radiação e por SASP ajuda a mapear essas diferenças.",
+            "Estratégias terapêuticas podem precisar levar em conta a diversidade de subtipos de senescência."
+          ]
+        },
+        "hu": {
+          "title": "Új kutatás a különböző típusú szeneszcens sejtek közti különbségekről",
+          "summary": "Egy Aging Cell‑ben megjelent munkát bemutató beszámoló összehasonlítja az elsődleges (közvetlen károsodás által kiváltott) és a másodlagos (SASP‑hoz kötődő) szeneszcens sejteket sugárzásos és kiválasztott faktorokon alapuló modellekben. Az elemzés rámutat a szeneszcens sejtek populációin belüli heterogenitásra.",
+          "whyItMatters": "A különböző szeneszcens sejttípusok és kiváltó okok felismerése fontos olyan terápiák tervezéséhez, amelyek célzottan távolítanák el vagy módosítanák a szeneszcens sejteket nem kívánt hatások nélkül.",
+          "takeaways": [
+            "A szeneszcens sejtek heterogének; eredetük befolyásolja viselkedésüket és kiválasztott molekuláikat.",
+            "A sugárzás által kiváltott és SASP‑vezérelt szeneszcenciák összehasonlítása segít e különbségek feltérképezésében.",
+            "A terápiás stratégiáknak figyelembe kell venniük a szeneszcencia altípusainak sokféleségét."
+          ]
+        },
+        "ar": {
+          "title": "عمل جديد يفحص الفروقات بين أنواع الخلايا المتشيخة",
+          "summary": "تقدّم تغطية بحث نُشر في Aging Cell يقارن بين الخلايا المتشيخة الأولية (الناتجة عن تلف مباشر) والثانوية (الناتجة عن العامل الإفرازي المرتبط بالشيخوخة، SASP) باستخدام نماذج إشعاعية ونماذج تعتمد على عوامل مُفرزة. يبرز التحليل التغاير داخل مجموعات الخلايا المتشيخة.",
+          "whyItMatters": "التعرف على أنواع الخلايا المتشيخة المختلفة ومحفزاتها مهم لتصميم علاجات تهدف إلى إزالة هذه الخلايا أو تعديلها دون آثار غير مقصودة.",
+          "takeaways": [
+            "الخلايا المتشيخة متغايرة؛ ومصدرها يؤثر على سلوكها وإفرازاتها.",
+            "مقارنة السِنّ الناتج عن الإشعاع مع السِنّ المدفوع بـSASP تساعد في رسم هذه الاختلافات.",
+            "قد تحتاج الاستراتيجيات العلاجية لأخذ تنوع نوع السِنّ في الاعتبار."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lifespan-senescence-2026-05-20",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-senescence-2026-05-20-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-senescence-2026-05-20-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New work examines differences between types of senescent cells.\nStory summary: A report on research in Aging Cell compares primary (directly damaged) versus secondary (SASP-induced) senescent cells, using radiation and secreted-factor models. The analysis highlights heterogeneity among senescent cell populations..\nCategory: aging research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "who-wha-prizes-2026-05-20",
+      "category": "global health",
+      "sourceName": "who.int",
+      "sourceUrl": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
+      "sourceTitle": "Seventy-ninth World Health Assembly honours global champions advancing primary health care",
+      "publishedAt": "Wed, 20 May 2026 10:57:07 Z",
+      "languages": {
+        "en": {
+          "title": "WHA recognizes individuals and institutions strengthening primary health care",
+          "summary": "The World Health Assembly awarded six laureates for contributions that advanced primary health care in diverse settings. The ceremony highlighted long-term efforts by individuals and organizations to expand access and strengthen systems.",
+          "whyItMatters": "Primary health care underpins prevention, early treatment and population health; recognizing effective programs and leaders can promote broader adoption and funding of successful approaches.",
+          "takeaways": [
+            "Six laureates were honored for work advancing primary health care.",
+            "The awards underscore the global importance of strengthening primary health systems.",
+            "Recognition can help amplify effective models and attract support."
+          ]
+        },
+        "es": {
+          "title": "La Asamblea Mundial de la Salud reconoce a personas e instituciones que fortalecen la atención primaria",
+          "summary": "La Asamblea Mundial de la Salud galardonó a seis laureados por contribuciones que avanzaron la atención primaria en entornos diversos. La ceremonia destacó esfuerzos a largo plazo de personas y organizaciones para ampliar el acceso y reforzar los sistemas.",
+          "whyItMatters": "La atención primaria sustenta la prevención, el tratamiento temprano y la salud poblacional; reconocer programas y líderes efectivos puede favorecer la adopción y la financiación de enfoques exitosos.",
+          "takeaways": [
+            "Seis laureados fueron honrados por su trabajo en el avance de la atención primaria.",
+            "Los premios subrayan la importancia global de reforzar los sistemas de atención primaria.",
+            "El reconocimiento puede ayudar a amplificar modelos efectivos y atraer apoyo."
+          ]
+        },
+        "ru": {
+          "title": "Всемирная ассамблея здравоохранения отметила людей и организации, укрепляющие первичную медико‑санитарную помощь",
+          "summary": "На Всемирной ассамблее здравоохранения вручили награды шести лауреатам за вклад в развитие первичной медико‑санитарной помощи в разных условиях. Церемония отметила долгосрочные усилия отдельных лиц и организаций по расширению доступа и укреплению систем.",
+          "whyItMatters": "Первичная медико‑санитарная помощь является основой профилактики, раннего лечения и общественного здоровья; признание эффективных программ и лидеров может способствовать более широкому внедрению и привлечению финансирования.",
+          "takeaways": [
+            "Шесть лауреатов были отмечены за работу по развитию первичной медико‑санитарной помощи.",
+            "Эти награды подчёркивают глобальную важность укрепления систем первичной помощи.",
+            "Признание может помочь распространить эффективные модели и привлечь поддержку."
+          ]
+        },
+        "uk": {
+          "title": "Всесвітня асамблея охорони здоров’я вшанувала лідерів, що зміцнюють первинну медичну допомогу",
+          "summary": "На Всесвітній асамблеї охорони здоров’я було нагороджено шість лауреатів за внесок у розвиток первинної медичної допомоги в різних умовах. На церемонії відзначили тривалу працю окремих осіб та організацій з розширення доступу й зміцнення систем.",
+          "whyItMatters": "Первинна медична допомога лежить в основі профілактики, раннього лікування та здоров’я населення; визнання ефективних програм і лідерів може сприяти ширшому впровадженню та фінансуванню успішних підходів.",
+          "takeaways": [
+            "Шість лауреатів були вшановані за роботу зі зміцнення первинної медичної допомоги.",
+            "Нагороди підкреслюють глобальну важливість зміцнення первинних систем охорони здоров’я.",
+            "Визнання може допомогти поширити ефективні моделі та залучити підтримку."
+          ]
+        },
+        "fr": {
+          "title": "L’Assemblée mondiale de la santé honore des acteurs renforçant les soins de santé primaires",
+          "summary": "La 79e Assemblée mondiale de la santé a décerné des prix à six lauréats pour des contributions ayant fait progresser les soins de santé primaires dans des contextes variés. La cérémonie a mis en lumière les efforts de longue date d’individus et d’institutions pour étendre l’accès et renforcer les systèmes.",
+          "whyItMatters": "Les soins de santé primaires sont au cœur de la prévention, du traitement précoce et de la santé des populations; reconnaître des programmes et des leaders efficaces peut promouvoir leur adoption plus large et le financement de modèles réussis.",
+          "takeaways": [
+            "Six lauréats ont été honorés pour leur travail en faveur des soins de santé primaires.",
+            "Les prix soulignent l’importance mondiale du renforcement des systèmes de soins primaires.",
+            "La reconnaissance peut aider à amplifier les modèles efficaces et attirer du soutien."
+          ]
+        },
+        "de": {
+          "title": "WHA würdigt Personen und Institutionen, die die Primärversorgung stärken",
+          "summary": "Die Weltgesundheitsversammlung zeichnete sechs Laureaten für Beiträge aus, die die Primärversorgung in verschiedenen Kontexten vorangebracht haben. Die Zeremonie hob langfristige Anstrengungen von Einzelpersonen und Organisationen hervor, den Zugang zu erweitern und Systeme zu stärken.",
+          "whyItMatters": "Primärversorgung ist die Grundlage für Prävention, frühe Behandlung und Bevölkerungs­gesundheit; die Anerkennung erfolgreicher Programme und Führungskräfte kann zur breiteren Übernahme und Finanzierung wirksamer Ansätze beitragen.",
+          "takeaways": [
+            "Sechs Preisträger wurden für ihre Arbeit zur Stärkung der Primärversorgung geehrt.",
+            "Die Auszeichnungen betonen die globale Bedeutung robuster Primärversorgungssysteme.",
+            "Anerkennung kann helfen, wirksame Modelle sichtbarer zu machen und Unterstützung anzuziehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Assembleia Mundial da Saúde reconhece indivíduos e instituições que fortalecem a atenção primária",
+          "summary": "A Assembleia Mundial da Saúde premiou seis laureados por contribuições que avançaram a atenção primária à saúde em contextos diversos. A cerimônia destacou esforços de longo prazo de pessoas e organizações para ampliar o acesso e fortalecer sistemas.",
+          "whyItMatters": "A atenção primária sustenta prevenção, tratamento precoce e saúde populacional; reconhecer programas e líderes eficazes pode promover adoção mais ampla e captação de recursos para abordagens bem‑sucedidas.",
+          "takeaways": [
+            "Seis laureados foram homenageados por trabalhos que avançam a atenção primária à saúde.",
+            "Os prêmios ressaltam a importância global de fortalecer sistemas de atenção primária.",
+            "O reconhecimento pode ajudar a ampliar modelos eficazes e atrair apoio."
+          ]
+        },
+        "hu": {
+          "title": "A WHA elismeri az alapellátást erősítő személyeket és intézményeket",
+          "summary": "A World Health Assembly hat díjazottat ismert el az alapellátás előmozdításáért különböző környezetekben. A ceremónia kiemelte egyének és szervezetek hosszú távú erőfeszítéseit a hozzáférés kiterjesztése és a rendszerek megerősítése érdekében.",
+          "whyItMatters": "Az alapellátás alátámasztja a megelőzést, a korai kezelést és a népegészségügyet; hatékony programok és vezetők elismerése elősegítheti, hogy sikeres modelleket szélesebb körben alkalmazzanak és többen támogassák őket.",
+          "takeaways": [
+            "Hat díjazottat tüntettek ki az alapellátás előmozdításáért.",
+            "A díjak hangsúlyozzák az alapellátási rendszerek megerősítésének globális jelentőségét.",
+            "Az elismerés segíthet hatékony modellek népszerűsítésében és támogatásuk megszerzésében."
+          ]
+        },
+        "ar": {
+          "title": "جمعية الصحة العالمية تكرّم من قدموا مساهمات لتعزيز الرعاية الصحية الأولية",
+          "summary": "كرّمت جمعية الصحة العالمية ستة حائزين لإسهاماتهم في تعزيز الرعاية الصحية الأولية في سياقات متنوعة. وأبرز الحفل جهود الأفراد والمؤسسات على المدى الطويل لتوسيع الوصول وتقوية الأنظمة.",
+          "whyItMatters": "تشكل الرعاية الأولية أساس الوقاية والعلاج المبكر وصحة السكان؛ وقد يساعد تكريم البرامج والقادة الفعّالين على نشر النماذج الناجحة وجذب المزيد من التمويل والدعم.",
+          "takeaways": [
+            "تم تكريم ستة حائزين لجهودهم في تعزيز الرعاية الصحية الأولية.",
+            "تؤكد الجوائز الأهمية العالمية لتعزيز نظم الرعاية الأولية.",
+            "يمكن أن يساعد التكريم في تضخيم النماذج الفعّالة وجذب الدعم."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=who-wha-prizes-2026-05-20",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/who-wha-prizes-2026-05-20-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/who-wha-prizes-2026-05-20-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHA recognizes individuals and institutions strengthening primary health care.\nStory summary: The World Health Assembly awarded six laureates for contributions that advanced primary health care in diverse settings. The ceremony highlighted long-term efforts by individuals and organizations to expand access and strengthen systems..\nCategory: global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a7",
@@ -583,120 +1100,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Topical senolytic speeds wound healing and activates regeneration genes in aged mice.\nStory summary: Researchers report that a topical formulation of ABT-263, which removes senescent cells, markedly improved wound healing in aged mice and upregulated genes involved in collagen production and tissue repair..\nCategory: Anti-aging & regenerative medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a4",
-      "category": "Research methodology",
+      "id": "nutritionorg-standardizing-animal-diets-2026-05-20",
+      "category": "research methods",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/standardizing-laboratory-animal-diets-a-practical-step-toward-better-science/",
       "sourceTitle": "Standardizing Laboratory Animal Diets: A Practical Step Toward Better Science",
       "publishedAt": "Wed, 20 May 2026 00:29:58 +0000",
       "languages": {
         "en": {
-          "title": "ASN commentary: standardizing lab animal diets to improve reproducibility",
-          "summary": "The American Society for Nutrition argues that harmonizing diets fed to laboratory animals is a practical way to reduce variability across studies and strengthen the reliability of preclinical nutrition and disease research.",
-          "whyItMatters": "Diet differences can alter experimental outcomes in animal studies; standardization could improve comparability between studies and help translation of findings to human health research.",
+          "title": "Why standardized diets for lab animals matter for research",
+          "summary": "A perspective argues that using consistent, well-defined diets for laboratory animals would improve reproducibility and comparability across studies, strengthening the reliability of animal models for human disease research.",
+          "whyItMatters": "Dietary differences in animal studies can confound results and slow translation of findings to humans; standardization is a practical step to reduce that variability.",
           "takeaways": [
-            "Animal diet composition can influence experimental results and reproducibility.",
-            "Standardized diets may reduce variability across labs and studies.",
-            "Implementing standards poses logistical and scientific challenges.",
-            "Improved preclinical consistency could help interpretation of nutrition research."
+            "Variable lab animal diets can create inconsistent experimental outcomes.",
+            "Standardizing diets supports reproducibility and clearer interpretation of results.",
+            "Implementing practical standards could improve the quality of preclinical research."
           ]
         },
         "es": {
-          "title": "Comentario de la ASN: estandarizar las dietas de animales de laboratorio para mejorar la reproducibilidad",
-          "summary": "La American Society for Nutrition sostiene que armonizar las dietas ofrecidas a animales de laboratorio es una medida práctica para reducir la variabilidad entre estudios y fortalecer la fiabilidad de la investigación preclínica en nutrición y enfermedad.",
-          "whyItMatters": "Las diferencias en la dieta pueden alterar los resultados experimentales en estudios con animales; la estandarización podría mejorar la comparabilidad entre estudios y ayudar a la traslación de hallazgos a la investigación en salud humana.",
+          "title": "Por qué las dietas estandarizadas para animales de laboratorio importan para la investigación",
+          "summary": "Una perspectiva sostiene que usar dietas consistentes y bien definidas para animales de laboratorio mejoraría la reproducibilidad y la comparabilidad entre estudios, fortaleciendo la fiabilidad de los modelos animales en la investigación de enfermedades humanas.",
+          "whyItMatters": "Las diferencias dietarias en estudios con animales pueden sesgar resultados y frenar la traducción de hallazgos a humanos; la estandarización es un paso práctico para reducir esa variabilidad.",
           "takeaways": [
-            "La composición de la dieta de los animales puede influir en los resultados experimentales y en la reproducibilidad.",
-            "Dietas estandarizadas pueden reducir la variabilidad entre laboratorios y estudios.",
-            "Implementar estándares plantea desafíos logísticos y científicos.",
-            "Una mayor consistencia preclínica podría facilitar la interpretación de la investigación en nutrición."
+            "Las dietas variables en animales de laboratorio pueden generar resultados experimentales inconsistentes.",
+            "Estandarizar las dietas favorece la reproducibilidad y una interpretación más clara de los resultados.",
+            "Implementar estándares prácticos podría mejorar la calidad de la investigación preclínica."
           ]
         },
         "ru": {
-          "title": "Комментарий ASN: стандартизация рационов лабораторных животных для улучшения воспроизводимости",
-          "summary": "Американское общество по питанию утверждает, что унификация рационов лабораторных животных — практический способ снизить вариабельность между исследованиями и повысить надёжность доклинических исследований по питанию и заболеваниям.",
-          "whyItMatters": "Различия в диетах могут менять экспериментальные результаты в животных исследованиях; стандартизация может улучшить сопоставимость между работами и помочь переносимости выводов на исследования в области здоровья человека.",
+          "title": "Почему стандартизация рационов лабораторных животных важна для науки",
+          "summary": "Позиционная статья утверждает, что использование согласованных, хорошо определённых рационов для лабораторных животных улучшит воспроизводимость и сопоставимость между исследованиями, что укрепит надёжность животных моделей при изучении человеческих заболеваний.",
+          "whyItMatters": "Различия в питании в экспериментах на животных могут искажать результаты и замедлять трансляцию находок на человека; стандартизация — практический шаг для снижения этой вариабельности.",
           "takeaways": [
-            "Состав рациона животных может влиять на экспериментальные результаты и воспроизводимость.",
-            "Стандартизированные диеты могут снизить вариабельность между лабораториями и исследованиями.",
-            "Внедрение стандартов сопряжено с логистическими и научными трудностями.",
-            "Повышение согласованности в доклинических исследованиях может облегчить интерпретацию результатов в питании."
+            "Разнообразие рационов лабораторных животных может приводить к непоследовательным экспериментальным результатам.",
+            "Стандартизация рационов поддерживает воспроизводимость и более чёткую интерпретацию результатов.",
+            "Внедрение практических стандартов может повысить качество доклинических исследований."
           ]
         },
         "uk": {
-          "title": "Коментар ASN: стандартизація дієт лабораторних тварин для підвищення відтворюваності",
-          "summary": "Американське товариство харчування стверджує, що гармонізація дієт, якими годують лабораторних тварин, є практичним способом зменшити варіабельність між дослідженнями та посилити надійність доклінічних досліджень з харчування та хвороб.",
-          "whyItMatters": "Відмінності в дієтах можуть змінювати експериментальні результати в дослідженнях на тваринах; стандартизація може покращити порівнянність між роботами та допомогти трансляції висновків у дослідження здоров'я людини.",
+          "title": "Чому стандартизовані дієти для лабораторних тварин важливі для науки",
+          "summary": "Погляд аргументує, що використання послідовних, чітко визначених дієт для лабораторних тварин покращило б відтворюваність і порівнянність досліджень, посиливши надійність тваринних моделей у дослідженнях людських хвороб.",
+          "whyItMatters": "Різниця в харчуванні тваринних моделей може спотворювати результати і гальмувати трансляцію висновків на людей; стандартизація — практичний крок для зменшення такої варіабельності.",
           "takeaways": [
-            "Склад дієти тварин може впливати на експериментальні результати та відтворюваність.",
-            "Стандартизовані дієти можуть зменшити варіабельність між лабораторіями та дослідженнями.",
-            "Впровадження стандартів супроводжується логістичними та науковими викликами.",
-            "Покращена доклінічна узгодженість може допомогти інтерпретації досліджень у харчуванні."
+            "Різні дієти у лабораторних тварин можуть створювати непослідовні експериментальні результати.",
+            "Стандартизація дієт сприяє відтворюваності й яснішій інтерпретації результатів.",
+            "Впровадження практичних стандартів може покращити якість доклінічних досліджень."
           ]
         },
         "fr": {
-          "title": "Commentaire de l'ASN : standardiser les régimes des animaux de laboratoire pour améliorer la reproductibilité",
-          "summary": "L'American Society for Nutrition soutient que l'harmonisation des régimes donnés aux animaux de laboratoire est une démarche pratique pour réduire la variabilité entre les études et renforcer la fiabilité des recherches nutritionnelles et pathologiques précliniques.",
-          "whyItMatters": "Les différences de régime peuvent modifier les résultats expérimentaux dans les études animales ; la standardisation pourrait améliorer la comparabilité entre études et aider la transposition des résultats à la santé humaine.",
+          "title": "Pourquoi standardiser les régimes des animaux de laboratoire importe pour la recherche",
+          "summary": "Un point de vue soutient que l’utilisation de régimes cohérents et bien définis pour les animaux de laboratoire améliorerait la reproductibilité et la comparabilité des études, renforçant la fiabilité des modèles animaux pour la recherche sur les maladies humaines.",
+          "whyItMatters": "Les différences alimentaires dans les études animales peuvent biaiser les résultats et ralentir la traduction des découvertes à l’homme; la standardisation est une mesure pratique pour réduire cette variabilité.",
           "takeaways": [
-            "La composition des régimes animaux peut influencer les résultats expérimentaux et la reproductibilité.",
-            "Des régimes standardisés pourraient réduire la variabilité entre laboratoires et études.",
-            "La mise en œuvre de normes pose des défis logistiques et scientifiques.",
-            "Une meilleure cohérence préclinique pourrait faciliter l'interprétation des recherches en nutrition."
+            "La variabilité des régimes des animaux de laboratoire peut produire des résultats expérimentaux incohérents.",
+            "La standardisation des régimes favorise la reproductibilité et une interprétation plus claire des résultats.",
+            "La mise en œuvre de normes pratiques pourrait améliorer la qualité de la recherche préclinique."
           ]
         },
         "de": {
-          "title": "ASN-Kommentar: Standardisierung von Tierfuttermitteln in Laboren zur Verbesserung der Reproduzierbarkeit",
-          "summary": "Die American Society for Nutrition argumentiert, dass die Harmonisierung der in Laboren verwendeten Tierfuttermittel ein praktischer Weg ist, um Variabilität zwischen Studien zu verringern und die Zuverlässigkeit präklinischer Ernährungs- und Krankheitsforschung zu stärken.",
-          "whyItMatters": "Unterschiede in der Fütterung können experimentelle Ergebnisse in Tierversuchen verändern; Standardisierung könnte die Vergleichbarkeit zwischen Studien verbessern und die Übersetzung von Befunden in die Forschung zur menschlichen Gesundheit unterstützen.",
+          "title": "Warum standardisierte Diäten für Labortiere für die Forschung wichtig sind",
+          "summary": "Eine Perspektive argumentiert, dass die Verwendung konsistenter, gut definierter Diäten für Labortiere die Reproduzierbarkeit und Vergleichbarkeit zwischen Studien verbessern würde und damit die Zuverlässigkeit tierexperimenteller Modelle für die Erforschung menschlicher Krankheiten stärkt.",
+          "whyItMatters": "Diätetische Unterschiede in Tierversuchen können Ergebnisse verfälschen und die Übersetzung von Befunden auf den Menschen verlangsamen; Standardisierung ist ein praktischer Schritt, um diese Variabilität zu reduzieren.",
           "takeaways": [
-            "Zusammensetzung von Tierfutter kann experimentelle Ergebnisse und Reproduzierbarkeit beeinflussen.",
-            "Standardisierte Futtermittel können Variabilität zwischen Laboren und Studien verringern.",
-            "Die Umsetzung von Standards bringt logistische und wissenschaftliche Herausforderungen mit sich.",
-            "Bessere präklinische Konsistenz könnte die Interpretation ernährungswissenschaftlicher Forschung erleichtern."
+            "Variable Fütterungsprotokolle für Labortiere können zu inkonsistenten experimentellen Ergebnissen führen.",
+            "Die Standardisierung von Diäten unterstützt Reproduzierbarkeit und klarere Interpretation der Resultate.",
+            "Die Umsetzung praktischer Standards könnte die Qualität der präklinischen Forschung verbessern."
           ]
         },
         "pt-br": {
-          "title": "Comentário da ASN: padronizar dietas de animais de laboratório para melhorar a reprodutibilidade",
-          "summary": "A American Society for Nutrition defende que harmonizar as dietas fornecidas a animais de laboratório é uma maneira prática de reduzir a variabilidade entre estudos e fortalecer a confiabilidade da pesquisa pré-clínica em nutrição e doenças.",
-          "whyItMatters": "Diferenças alimentares podem alterar os resultados experimentais em estudos com animais; a padronização pode melhorar a comparabilidade entre estudos e ajudar na tradução dos achados para a pesquisa em saúde humana.",
+          "title": "Por que padronizar dietas de animais de laboratório é importante para a pesquisa",
+          "summary": "Uma perspectiva defende que usar dietas consistentes e bem definidas para animais de laboratório melhoraria a reprodutibilidade e a comparabilidade entre estudos, fortalecendo a confiabilidade dos modelos animais para pesquisa de doenças humanas.",
+          "whyItMatters": "Diferenças alimentares em estudos com animais podem confundir resultados e atrasar a tradução dos achados para humanos; a padronização é um passo prático para reduzir essa variabilidade.",
           "takeaways": [
-            "A composição da dieta animal pode influenciar resultados experimentais e a reprodutibilidade.",
-            "Dietas padronizadas podem reduzir a variabilidade entre laboratórios e estudos.",
-            "Implementar padrões apresenta desafios logísticos e científicos.",
-            "Maior consistência pré-clínica pode ajudar na interpretação da pesquisa em nutrição."
+            "Dietas variáveis em estudos com animais de laboratório podem gerar resultados experimentais inconsistentes.",
+            "Padronizar dietas apoia a reprodutibilidade e uma interpretação mais clara dos resultados.",
+            "Implementar padrões práticos pode melhorar a qualidade da pesquisa pré‑clínica."
           ]
         },
         "hu": {
-          "title": "ASN kommentár: laboratóriumi állatok étrendjének szabványosítása a reprodukálhatóság javítása érdekében",
-          "summary": "Az American Society for Nutrition azt állítja, hogy a laboratóriumi állatoknak adott étrend harmonizálása gyakorlati módja lehet a tanulmányok közötti variabilitás csökkentésének és a preklinikai táplálkozási és betegségkutatások megbízhatóságának erősítésének.",
-          "whyItMatters": "Az étrendi különbségek befolyásolhatják a kísérleti eredményeket állatkísérletekben; a szabványosítás javíthatja a tanulmányok összehasonlíthatóságát és elősegítheti az eredmények emberi egészségre való lefordítását.",
+          "title": "Miért fontosak a standardizált laboratóriumi állati étrendek a kutatásban",
+          "summary": "Egy véleménycikk azzal érvel, hogy a laboratóriumi állatok számára következetes, jól definiált étrendek használata javítaná a reprodukálhatóságot és az eredmények összehasonlíthatóságát, ezáltal erősítve az állatmodellek megbízhatóságát az emberi betegségek kutatásában.",
+          "whyItMatters": "Az állati kísérletekben alkalmazott étrendi különbségek összezavarhatják az eredményeket és lassíthatják az eredmények emberre történő átvitelét; a standardizáció gyakorlati lépés a variabilitás csökkentésére.",
           "takeaways": [
-            "Az állati étrend összetétele befolyásolhatja a kísérleti eredményeket és a reprodukálhatóságot.",
-            "A szabványosított étrendek csökkenthetik a laborok és tanulmányok közötti variabilitást.",
-            "A szabványok bevezetése logisztikai és tudományos kihívásokkal jár.",
-            "A preklinikai következetesség javítása segítheti a táplálkozástudomány eredményeinek értelmezését."
+            "A változó laboratóriumi állati étrendek következetlen kísérleti eredményekhez vezethetnek.",
+            "A diéták standardizálása támogatja a reprodukálhatóságot és a tisztább eredményértelmezést.",
+            "Gyakorlati szabványok bevezetése javíthatja az előklinikai kutatás minőségét."
           ]
         },
         "ar": {
-          "title": "تعليق جمعية التغذية: توحيد أعلاف حيوانات المختبر لتحسين قابلية التكرار",
-          "summary": "تجادل الجمعية الأمريكية للتغذية بأن توحيد الأعلاف المقدمة لحيوانات المختبر يعد وسيلة عملية لتقليل التباين بين الدراسات وتقوية مصداقية أبحاث التغذية والأمراض قبل السريرية.",
-          "whyItMatters": "يمكن أن تؤدي اختلافات النظام الغذائي إلى تغيير نتائج التجارب في الدراسات الحيوانية؛ وقد يحسّن التوحيد قابلية المقارنة بين الدراسات ويساعد في تطبيق النتائج على صحة الإنسان.",
+          "title": "لماذا تهم توحيد أنظمة تغذية الحيوانات المخبرية للبحوث",
+          "summary": "يجادل مقال رأي أن استخدام أنظمة غذائية متسقة ومحددة جيدًا للحيوانات المخبرية سيحسّن قابلية التكرار وقابلية المقارنة بين الدراسات، مما يعزّز موثوقية نماذج الحيوانات لأبحاث الأمراض البشرية.",
+          "whyItMatters": "يمكن لاختلافات الغذاء في الدراسات الحيوانية أن تُشوّش النتائج وتبطئ ترجمة الاكتشافات إلى الإنسان؛ وتُعدّ التوحيد خطوة عملية لتقليل تلك المتغيرات.",
           "takeaways": [
-            "يمكن أن تؤثر تركيبة غذاء الحيوانات على نتائج التجارب وإمكانية تكرارها.",
-            "قد تقلل الأعلاف الموحدة التباين بين المختبرات والدراسات.",
-            "تطبيق المعايير يواجه تحديات لوجستية وعلمية.",
-            "قد يساعد تحسين الاتساق قبل السريري في تفسير أبحاث التغذية."
+            "تتسبب الأنظمة الغذائية المتغيرة للحيوانات المخبرية في نتائج تجريبية غير متسقة.",
+            "توحيد الأنظمة الغذائية يدعم قابلية التكرار وتفسيرًا أوضح للنتائج.",
+            "تنفيذ معايير عملية قد يحسّن جودة البحوث قبل السريرية."
           ]
         }
       },
-      "generatedAt": "2026-05-20T10:03:44.287Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a4",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionorg-standardizing-animal-diets-2026-05-20",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-standardizing-animal-diets-2026-05-20-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-standardizing-animal-diets-2026-05-20-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ASN commentary: standardizing lab animal diets to improve reproducibility.\nStory summary: The American Society for Nutrition argues that harmonizing diets fed to laboratory animals is a practical way to reduce variability across studies and strengthen the reliability of preclinical nutrition and disease research..\nCategory: Research methodology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Why standardized diets for lab animals matter for research.\nStory summary: A perspective argues that using consistent, well-defined diets for laboratory animals would improve reproducibility and comparability across studies, strengthening the reliability of animal models for human disease research..\nCategory: research methods.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a2",
@@ -16356,123 +16864,378 @@
       }
     },
     {
-      "id": "a8",
-      "category": "Nutrition policy",
+      "id": "harvard-nutritionsource-dga-2026-01-09",
+      "category": "nutrition policy",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "Harvard commentary on the 2025–2030 Dietary Guidelines highlights mixed messages",
-          "summary": "Harvard's Nutrition Source reviewed the new Dietary Guidelines, noting a clearer recommendation to limit added sugars and highly processed foods alongside a prominent new graphic that gives visual emphasis to items like steak and full-fat dairy, while the longstanding saturated fat limit of 10% of calories remains.",
-          "whyItMatters": "The Guidelines influence public guidance and food policy; the combination of stronger messaging on sugars with a visual layout that elevates certain animal-based foods may create mixed signals for consumers and policymakers.",
+          "title": "Key points from the 2025–2030 Dietary Guidelines for Americans",
+          "summary": "The updated Guidelines emphasize whole foods and stronger limits on added sugars and highly processed items. A new visual highlights foods like red meat and full-fat dairy more prominently, but the Guidelines retain a 10% cap on calories from saturated fat.",
+          "whyItMatters": "Shifts in messaging and visuals can shape public perceptions and food choices; understanding what changed — and what didn’t — helps people interpret the recommendations accurately.",
           "takeaways": [
-            "Guidelines stress reducing added sugars and highly processed foods.",
-            "A new inverted-pyramid graphic visually emphasizes some animal foods.",
-            "The 10% saturated fat limit remains in place despite the graphic.",
-            "Readers should interpret visual elements alongside the written recommendations."
+            "The Guidelines reaffirm limiting added sugars and highly processed foods.",
+            "A redesigned visual gives greater prominence to some animal-based foods, which could be confusing.",
+            "Despite the visual change, the saturated fat limit (10% of calories) remains in place."
           ]
         },
         "es": {
-          "title": "Comentario de Harvard sobre las Guías Alimentarias 2025–2030 destaca mensajes contradictorios",
-          "summary": "La Nutrition Source de Harvard revisó las nuevas Guías Alimentarias, señalando una recomendación más clara para limitar azúcares añadidos y alimentos altamente procesados junto con un nuevo gráfico destacado que da énfasis visual a elementos como el filete y los lácteos enteros, mientras que el límite de grasa saturada del 10% de calorías se mantiene.",
-          "whyItMatters": "Las Guías influyen en la orientación pública y la política alimentaria; la combinación de un mensaje más firme sobre azúcares con una presentación visual que eleva ciertos alimentos de origen animal puede crear señales mixtas para consumidores y responsables de políticas.",
+          "title": "Puntos clave de las Guías Alimentarias para los estadounidenses 2025–2030",
+          "summary": "Las Guías actualizadas enfatizan alimentos enteros y límites más estrictos sobre azúcares añadidos y productos altamente procesados. Una nueva imagen da mayor protagonismo a alimentos como la carne roja y los lácteos enteros, pero las Guías mantienen el límite del 10% de las calorías procedentes de grasas saturadas.",
+          "whyItMatters": "Los cambios en mensajes y elementos visuales pueden influir en las percepciones públicas y en las elecciones alimentarias; entender qué cambió —y qué no— ayuda a interpretar las recomendaciones con precisión.",
           "takeaways": [
-            "Las guías enfatizan reducir azúcares añadidos y alimentos altamente procesados.",
-            "Un nuevo gráfico de pirámide invertida enfatiza visualmente algunos alimentos animales.",
-            "El límite del 10% de calorías procedentes de grasa saturada se mantiene a pesar del gráfico.",
-            "Los lectores deben interpretar los elementos visuales junto con las recomendaciones escritas."
+            "Las Guías reafirman la limitación de azúcares añadidos y alimentos altamente procesados.",
+            "Un visual rediseñado otorga mayor prominencia a ciertos alimentos de origen animal, lo que podría generar confusión.",
+            "A pesar del cambio visual, el límite de grasa saturada (10% de las calorías) se mantiene."
           ]
         },
         "ru": {
-          "title": "Комментарий Гарварда по Руководству по питанию 2025–2030 подчёркивает смешанные сигналы",
-          "summary": "Издание Nutrition Source Гарвардского университета рассмотрело новое Руководство по питанию, отмечая более чёткую рекомендацию ограничивать добавленные сахара и сильно переработанные продукты наряду с новым заметным графиком, который визуально подчёркивает такие позиции, как стейк и цельные молочные продукты, в то время как долгосрочный предел по насыщенным жирам в 10% от калорий сохранён.",
-          "whyItMatters": "Руководство влияет на общественные рекомендации и пищевую политику; сочетание более жёсткого послания по сахарам и визуального оформления, возвышающего некоторые продукты животного происхождения, может создавать противоречивые сигналы для потребителей и политиков.",
+          "title": "Основные положения Руководства по питанию для американцев на 2025–2030 гг.",
+          "summary": "Обновлённое руководство подчёркивает цельные продукты и более строгие ограничения на добавленные сахара и сильно переработанные продукты. Новый визуальный образ делает более заметными такие продукты, как красное мясо и цельномолочные продукты, но в руководстве по‑прежнему сохранён предел в 10% калорий из насыщенных жиров.",
+          "whyItMatters": "Изменения в формулировках и визуалах могут формировать общественное восприятие и выбор продуктов; понимание того, что изменилось — и что осталось прежним — помогает правильно интерпретировать рекомендации.",
           "takeaways": [
-            "Руководство настаивает на сокращении добавленных сахаров и сильно переработанных продуктов.",
-            "Новый перевёрнутый пирамидальный график визуально подчёркивает некоторые животные продукты.",
-            "Предел по насыщенным жирам в 10% от калорий остаётся в силе несмотря на график.",
-            "Читателям следует сопоставлять визуальные элементы с письменными рекомендациями."
+            "Руководство подтверждает необходимость ограничения добавленных сахаров и сильно переработанных продуктов.",
+            "Переработанный визуал придаёт большее значение некоторым животным продуктам, что может вызывать путаницу.",
+            "Несмотря на визуальные изменения, предел по насыщенным жирам (10% калорий) остаётся в силе."
           ]
         },
         "uk": {
-          "title": "Коментар Гарварда до Дієтичних рекомендацій 2025–2030: змішані сигнали щодо доданих цукрів, захоплення білком і суперечностей щодо насичених жирів",
-          "summary": "Nutrition Source Гарвардської школи охорони здоров'я переглянув нові Дієтичні рекомендації, відзначивши чіткішу рекомендацію обмежувати додані цукри і сильно оброблені продукти поруч із новою графікою, яка візуально підкреслює такі продукти, як стейк і повножирні молочні вироби, тоді як давня межа насичених жирів у 10% калорій зберігається.",
-          "whyItMatters": "Рекомендації впливають на громадське керівництво та харчову політику; поєднання сильніших меседжів щодо цукрів з візуальним оформленням, що піднімає деякі продукти тваринного походження, може створити змішані сигнали для споживачів і політиків.",
+          "title": "Ключові положення Дієтичних рекомендацій для американців 2025–2030",
+          "summary": "Оновлені Рекомендації наголошують на цілісних продуктах і суворішому обмеженні доданих цукрів та сильно оброблених продуктів. Нова візуалізація виразніше підкреслює такі продукти, як червоне м’ясо і цілісні молочні продукти, але ліміт насичених жирів залишається на рівні 10% від калорій.",
+          "whyItMatters": "Зміни в меседжах і візуальному представленні можуть формувати сприйняття і харчові вибори; розуміння того, що змінилося — і що залишилось без змін — допомагає правильно інтерпретувати рекомендації.",
           "takeaways": [
-            "Рекомендації наголошують на зменшенні доданих цукрів і сильно оброблених продуктів.",
-            "Нова інвертована пірамідальна графіка візуально підкреслює деякі продукти тваринного походження.",
-            "Ліміт у 10% калорій з насичених жирів залишається в силі, незважаючи на графіку.",
-            "Читачам слід інтерпретувати візуальні елементи разом із письмовими рекомендаціями."
+            "Рекомендації підтверджують обмеження доданих цукрів і сильно оброблених продуктів.",
+            "Перероблена візуалізація більше виділяє деякі продукти тваринного походження, що може спричинити плутанину.",
+            "Незважаючи на зміну візуалу, ліміт на насичені жири (10% від калорій) залишається в силі."
           ]
         },
         "fr": {
-          "title": "Commentaire de Harvard sur les Dietary Guidelines 2025–2030 : messages contrastés",
-          "summary": "Le Nutrition Source de Harvard a passé en revue les nouvelles Dietary Guidelines, notant une recommandation plus claire de limiter les sucres ajoutés et les aliments ultra‑transformés, aux côtés d'un nouveau graphique mettant visuellement en avant des aliments comme le steak et les produits laitiers entiers, tandis que la limite historique de 10 % des calories provenant des graisses saturées est maintenue.",
-          "whyItMatters": "Les recommandations influencent les orientations publiques et les politiques alimentaires ; la combinaison d'un message renforcé sur les sucres avec une présentation visuelle qui valorise certains aliments d'origine animale peut envoyer des signaux contradictoires aux consommateurs et aux décideurs.",
+          "title": "Points clés des Dietary Guidelines for Americans 2025–2030",
+          "summary": "Les recommandations mises à jour insistent sur les aliments peu transformés et des limites renforcées pour les sucres ajoutés et les produits fortement transformés. Une nouvelle représentation graphique met davantage en avant certains aliments comme la viande rouge et les produits laitiers riches en matières grasses, mais la limite des graisses saturées reste fixée à 10 % des calories.",
+          "whyItMatters": "Les changements de message et de visuel peuvent influencer la perception du public et les choix alimentaires; comprendre ce qui a changé — et ce qui n’a pas changé — aide à interpréter correctement les recommandations.",
           "takeaways": [
-            "Les recommandations insistent sur la réduction des sucres ajoutés et des aliments fortement transformés.",
-            "Un nouveau graphique en pyramide inversée met visuellement en avant certains aliments d'origine animale.",
-            "La limite de 10 % des calories issue des graisses saturées demeure, malgré le graphique.",
-            "Les lecteurs devraient interpréter les éléments visuels en conjonction avec les recommandations écrites."
+            "Les recommandations réaffirment la nécessité de limiter les sucres ajoutés et les aliments fortement transformés.",
+            "Un visuel repensé donne plus de visibilité à certains aliments d’origine animale, ce qui peut prêter à confusion.",
+            "Malgré le changement visuel, la limite des graisses saturées (10 % des calories) demeure."
           ]
         },
         "de": {
-          "title": "Harvard‑Kommentar zu den US‑Ernährungsrichtlinien 2025–2030 hebt gemischte Botschaften hervor",
-          "summary": "Harvards Nutrition Source überprüfte die neuen Dietary Guidelines und stellte eine klarere Empfehlung zur Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel fest, zusammen mit einer auffälligen neuen Grafik, die Lebensmitteln wie Steak und Vollfettmilchprodukte visuell mehr Gewicht verleiht, während das langjährige Limit von 10 % der Kalorien für gesättigte Fette bestehen bleibt.",
-          "whyItMatters": "Die Richtlinien beeinflussen öffentliche Empfehlungen und Lebensmittelpolitik; die Kombination aus stärkerer Botschaft zu Zucker und einer visuellen Darstellung, die bestimmte tierische Lebensmittel hervorhebt, kann für Verbraucherinnen, Verbraucher und Entscheidungsträger gemischte Signale erzeugen.",
+          "title": "Wesentliche Punkte der Dietary Guidelines for Americans 2025–2030",
+          "summary": "Die aktualisierten Leitlinien betonen Vollwertkost und strengere Grenzen für zugesetzten Zucker und stark verarbeitete Produkte. Eine neue Visualisierung stellt Lebensmittel wie rotes Fleisch und vollfette Milchprodukte prominenter dar, während das Limit von 10 % der Kalorien aus gesättigten Fettsäuren beibehalten wird.",
+          "whyItMatters": "Änderungen in Botschaften und Visualisierungen können die öffentliche Wahrnehmung und Essensentscheidungen beeinflussen; zu verstehen, was sich geändert hat – und was nicht – hilft dabei, die Empfehlungen korrekt einzuordnen.",
           "takeaways": [
-            "Die Richtlinien betonen die Reduzierung zugesetzter Zucker und stark verarbeiteter Lebensmittel.",
-            "Eine neue umgekehrte‑Pyramiden‑Grafik betont visuell einige tierische Lebensmittel.",
-            "Die 10‑%‑Grenze für gesättigte Fette bleibt trotz der Grafik bestehen.",
-            "Leser sollten visuelle Elemente im Kontext der schriftlichen Empfehlungen interpretieren."
+            "Die Leitlinien bekräftigen die Begrenzung von zugesetztem Zucker und stark verarbeiteten Lebensmitteln.",
+            "Eine überarbeitete Visualisierung gibt einigen tierischen Lebensmitteln stärkere Sichtbarkeit, was verwirrend sein kann.",
+            "Trotz der visuellen Änderung bleibt die Obergrenze für gesättigte Fettsäuren (10 % der Kalorien) bestehen."
           ]
         },
         "pt-br": {
-          "title": "Comentário de Harvard sobre as Diretrizes Alimentares 2025–2030 destaca mensagens mistas",
-          "summary": "O Nutrition Source de Harvard revisou as novas Dietary Guidelines e observou uma recomendação mais clara para limitar açúcares adicionados e alimentos altamente processados, junto com um novo gráfico proeminente que dá ênfase visual a itens como bife e laticínios integrais, enquanto o limite de gordura saturada de 10% das calorias permanece.",
-          "whyItMatters": "As Diretrizes influenciam orientações públicas e políticas alimentares; a combinação de mensagem mais forte sobre açúcares com uma apresentação visual que valoriza certos alimentos de origem animal pode criar sinais mistos para consumidores e formuladores de políticas.",
+          "title": "Pontos-chave das Dietary Guidelines for Americans 2025–2030",
+          "summary": "As Diretrizes atualizadas enfatizam alimentos integrais e limites mais rígidos para açúcares adicionados e itens altamente processados. Uma nova ilustração destaca alimentos como carnes vermelhas e laticínios integrais de forma mais proeminente, mas o limite de 10% das calorias provenientes de gorduras saturadas foi mantido.",
+          "whyItMatters": "Mudanças na mensagem e nas imagens podem moldar percepções públicas e escolhas alimentares; entender o que mudou — e o que não mudou — ajuda as pessoas a interpretar corretamente as recomendações.",
           "takeaways": [
-            "As diretrizes enfatizam reduzir açúcares adicionados e alimentos altamente processados.",
-            "Um novo gráfico em forma de pirâmide invertida enfatiza visualmente alguns alimentos de origem animal.",
-            "O limite de 10% de gorduras saturadas permanece apesar do gráfico.",
-            "Leitores devem interpretar elementos visuais em conjunto com as recomendações escritas."
+            "As Diretrizes reafirmam a limitação de açúcares adicionados e alimentos altamente processados.",
+            "Uma visualização redesenhada dá maior destaque a alguns alimentos de origem animal, o que pode causar confusão.",
+            "Apesar da mudança visual, o limite para gordura saturada (10% das calorias) permanece."
           ]
         },
         "hu": {
-          "title": "Harvard kommentár a 2025–2030-as étrendi irányelvekről: kevert üzenetek",
-          "summary": "A Harvard Nutrition Source áttekintette az új 2025–2030-as Dietary Guidelines irányelveket, megjegyezve, hogy egyértelműbb javaslat született a hozzáadott cukrok és a nagyfokú feldolgozott élelmiszerek korlátozására, miközben egy új, hangsúlyos grafika vizuálisan kiemeli az olyan ételeket, mint a marhahús és a teljes zsírtartalmú tejtermékek; ugyanakkor a korábbi, 10%-os telítettzsír‑korlát megmaradt.",
-          "whyItMatters": "Az irányelvek befolyásolják a közirányítást és az élelmiszerpolitikát; a cukrokra vonatkozó erősebb üzenet és a bizonyos állati eredetű ételeket kiemelő vizuális elrendezés együtt kevert jelzéseket küldhet a fogyasztóknak és a döntéshozóknak.",
+          "title": "Főbb pontok az amerikai étrendi irányelvek 2025–2030 kiadásából",
+          "summary": "A frissített irányelvek hangsúlyozzák a teljes értékű ételeket, valamint szigorúbb korlátokat javasolnak a hozzáadott cukrokra és az erősen feldolgozott termékekre. Egy új vizuális megjelenítés bizonyos élelmiszereket — például vörös húsokat és teljes zsírtartalmú tejtermékeket — nagyobb hangsúllyal mutat be, ugyanakkor az irányelvek megtartják a telített zsírra vonatkozó, a kalóriák 10%-ára vonatkozó korlátot.",
+          "whyItMatters": "Az üzenetek és a vizuális megjelenés változásai befolyásolhatják a közvélekedést és az élelmiszerválasztást; annak ismerete, mi változott és mi nem, segít pontosan értelmezni az ajánlásokat.",
           "takeaways": [
-            "Az irányelvek hangsúlyozzák a hozzáadott cukrok és a nagy mértékben feldolgozott ételek csökkentését.",
-            "Egy új, fordított piramis grafika vizuálisan kiemel néhány állati eredetű ételt.",
-            "A telített zsírokra vonatkozó 10%-os határ továbbra is érvényben van a szöveg szerint.",
-            "Az olvasóknak a vizuális elemeket a leírt ajánlásokkal együtt kell értelmezniük."
+            "Az irányelvek megerősítik a hozzáadott cukrok és az erősen feldolgozott élelmiszerek korlátozását.",
+            "Az átdolgozott vizuális megjelenés nagyobb hangsúlyt ad egyes állati eredetű ételeknek, ami félreérthető lehet.",
+            "A vizuális változás ellenére a telített zsírokra vonatkozó korlátozás (a kalóriák 10%-a) továbbra is érvényben marad."
           ]
         },
         "ar": {
-          "title": "تعليق هارفارد على إرشادات التغذية 2025–2030 يبرز رسائل متضاربة",
-          "summary": "راجع مصدر تغذية هارفارد الإرشادات الغذائية الجديدة ولاحظ وجود توصية أوضح للحد من السكريات المضافة والأطعمة المعالجة بشدة إلى جانب رسم بياني جديد يبرز بصريًا عناصر مثل لحم البقر ومنتجات الألبان كاملة الدسم، بينما يبقى الحد المتوافق عليه لسمنة الدهون المشبعة عند 10% من السعرات.",
-          "whyItMatters": "تؤثر الإرشادات على التوجيه العام وسياسات الغذاء؛ قد تولّد موازنة الرسائل الأقوى بشأن السكريات مع عناصر مرئية ترفع من شأن بعض الأغذية الحيوانية رسائل متضاربة للمستهلكين وصانعي السياسات.",
+          "title": "النقاط الرئيسية من إرشادات النظام الغذائي للأمريكيين 2025–2030",
+          "summary": "تؤكد الإرشادات المحدثة على الأطعمة الكاملة وتضع قيودًا أشد على السكريات المضافة والمنتجات المعالجة بشدة. تعرض إضافةً صورة مرئية جديدة بعض الأطعمة — مثل اللحوم الحمراء ومنتجات الألبان كاملة الدسم — بشكل أكثر بروزًا، ومع ذلك تحتفظ الإرشادات بحد سكر على الدهون المشبعة عند 10% من السعرات الحرارية.",
+          "whyItMatters": "يمكن أن تؤثر تغييرات الرسائل والمرئيات في تشكيل تصورات الجمهور واختيارات الطعام؛ وفهم ما تغيّر وما لم يتغير يساعد الناس على تفسير التوصيات بدقة.",
           "takeaways": [
-            "تشدد الإرشادات على تقليل السكريات المضافة والأطعمة المعالجة بشدة.",
-            "يوضح الرسم الهرمي المقلوب الجديد بصريًا إبراز بعض الأطعمة الحيوانية.",
-            "يبقى حد 10% للدهون المشبعة ساريًا رغم الرسم التوضيحي.",
-            "ينبغي على القراء تفسير العناصر البصرية جنبًا إلى جنب مع التوصيات المكتوبة."
+            "تؤكد الإرشادات على ضرورة تقييد السكريات المضافة والمواد الغذائية المعالجة بشدة.",
+            "التصميم المرئي المعاد يمكن أن يبرز بعض الأطعمة الحيوانية بشكل أكبر، وقد يسبب التباسًا.",
+            "على الرغم من التغيير البصري، يبقى حد الدهون المشبعة (10% من السعرات) ساريًا."
           ]
         }
       },
-      "generatedAt": "2026-05-20T10:03:44.287Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a8",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=harvard-nutritionsource-dga-2026-01-09",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-nutritionsource-dga-2026-01-09-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-nutritionsource-dga-2026-01-09-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Harvard commentary on the 2025–2030 Dietary Guidelines highlights mixed messages.\nStory summary: Harvard's Nutrition Source reviewed the new Dietary Guidelines, noting a clearer recommendation to limit added sugars and highly processed foods alongside a prominent new graphic that gives visual emphasis to items like steak and full-fat dairy, while the longstanding saturated fat limit of 10% of calories remains..\nCategory: Nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Key points from the 2025–2030 Dietary Guidelines for Americans.\nStory summary: The updated Guidelines emphasize whole foods and stronger limits on added sugars and highly processed items. A new visual highlights foods like red meat and full-fat dairy more prominently, but the Guidelines retain a 10% cap on calories from saturated fat..\nCategory: nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-05-21-motivation-1-story-1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Maya's small planning win",
+          "story": "Maya used to skip breakfast and guess later what she'd eat. She began spending ten minutes each Sunday planning three simple breakfasts and taking a quick photo when she ate. Logging before or right after meals helped her notice when she felt hungrier mid-morning and choose fuller options. The routine made tracking manageable — not perfect, just useful. On busy days she leans on photos and quick entries. Seeing a week of honest entries gave her confidence to keep going.",
+          "habit": "Plan simple meals and log them.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "La pequeña victoria de Maya",
+          "story": "Maya solía saltarse el desayuno y luego adivinar qué comería. Empezó a dedicar diez minutos cada domingo a planear tres desayunos sencillos y a tomar una foto rápida cuando comía. Registrar antes o justo después de las comidas le ayudó a identificar cuándo tenía más hambre por la mañana y a elegir opciones más saciantes. La rutina hizo que el seguimiento fuera manejable —no perfecto, pero útil. En los días ocupados usa las fotos y entradas rápidas. Ver una semana de registros sinceros le dio confianza para seguir.",
+          "habit": "Planifica comidas sencillas y regístralas.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Небольшая победа Майи",
+          "story": "Майя раньше пропускала завтрак и потом догадывалась, что съест. Она стала тратить по десять минут в воскресенье на планирование трёх простых завтраков и фотографировать еду. Запись перед приёмом пищи или сразу после помогла ей заметить, когда она проголодается к середине утра, и выбирать более сытные варианты. Режим сделал отслеживание управляемым — не идеальным, но полезным. В загруженные дни она опирается на фото и быстрые записи. Неделя честных записей дала ей уверенность продолжать.",
+          "habit": "Планируй простые приёмы пищи и записывай их.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Мала перемога Майї",
+          "story": "Майя раніше пропускала сніданок і потім вгадувала, що з’їсть. Вона стала витрачати по десять хвилин щонеділі на планування трьох простих сніданків і робити швидке фото під час їжі. Запис наперед або одразу після допоміг їй помітити, коли вона проголоджується в середині ранку, і обирати більш ситні варіанти. Режим зробив відстеження керованим — не ідеальним, але корисним. У зайві дні вона користується фото та швидкими записами. Тиждень чесних записів дав їй впевненість продовжувати.",
+          "habit": "Плануй прості страви і занотовуй їх.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "La petite victoire de Maya",
+          "story": "Maya avait l’habitude de sauter le petit-déjeuner et d’improviser plus tard. Elle a commencé à passer dix minutes chaque dimanche à planifier trois petits-déjeuners simples et à prendre une photo rapide lorsqu’elle mangeait. Noter avant ou juste après les repas l’aidait à repérer les moments où elle avait plus faim le matin et à choisir des options plus rassasiantes. La routine a rendu le suivi plus gérable — pas parfait, mais utile. Les jours chargés, elle s’appuie sur les photos et les entrées rapides. Une semaine d’entrées honnêtes lui a donné confiance pour continuer.",
+          "habit": "Planifie des repas simples et note-les.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Mayas kleine Planerfolg",
+          "story": "Maya hat früher das Frühstück ausgelassen und später geraten, was sie essen würde. Sie begann, sich sonntags zehn Minuten Zeit zu nehmen, um drei einfache Frühstücke zu planen und beim Essen schnell ein Foto zu machen. Das Eintragen vor oder direkt nach den Mahlzeiten half ihr, zu bemerken, wann sie am Vormittag hungriger war und sättigendere Optionen zu wählen. Die Routine machte das Tracking überschaubar — nicht perfekt, aber nützlich. An stressigen Tagen nutzt sie Fotos und schnelle Einträge. Eine Woche ehrlicher Einträge gab ihr Mut weiterzumachen.",
+          "habit": "Plane einfache Mahlzeiten und trage sie ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "A pequena conquista da Maya",
+          "story": "Maya costumava pular o café da manhã e depois adivinhar o que comer. Ela passou a dedicar dez minutos todo domingo para planejar três cafés da manhã simples e tirar uma foto rápida ao comer. Registrar antes ou logo depois das refeições a ajudou a perceber quando ficava com mais fome pela manhã e a escolher opções mais saciantes. A rotina tornou o acompanhamento viável — não perfeito, mas útil. Nos dias corridos, ela conta com fotos e registros rápidos. Ver uma semana de entradas sinceras deu confiança para seguir em frente.",
+          "habit": "Planeje refeições simples e registre-as.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Maya kis tervezési sikere",
+          "story": "Maya korábban kihagyta a reggelit, és később találgatott, mit egyen. Elkezdett minden vasárnap tíz percet szánni három egyszerű reggeli megtervezésére, és evés közben gyors fényképet készíteni. Az étkezés előtti vagy utáni bejegyzés segített meglátni, mikor éhesebb a délelőtt folyamán, és tartalmasabb opciót választania. A rutin kezelhetővé tette a naplózást — nem tökéletes, de hasznos. Forróbb napokon a képekre és gyors bejegyzésekre támaszkodik. Egy hét őszinte bejegyzése magabiztosságot adott a folytatáshoz.",
+          "habit": "Tervezd meg az egyszerű ételeket és jegyezd fel őket.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "انتصار صغير لمايا",
+          "story": "كانت مايا تتخطى الإفطار ثم تُخمن ما ستأكل لاحقًا. بدأت بأن تخصص عشر دقائق كل أحد لتخطيط ثلاثة إفطارات بسيطة والتقاط صورة سريعة عند الأكل. ساعدها تسجيل الوجبات قبلها أو بعدها مباشرة على ملاحظة متى كانت تشعر بالجوع في منتصف الصباح واختيار وجبات أكثر إشباعًا. جعلت هذه الروتين عملية التتبع قابلة للإدارة — ليست مثالية، لكنها مفيدة. في الأيام المزدحمة تعتمد على الصور والإدخالات السريعة. رؤية أسبوع من الإدخالات الصادقة أكسبها ثقة للاستمرار.",
+          "habit": "خطط وجبات بسيطة وسجلها.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya's small planning win.\nStory: Maya used to skip breakfast and guess later what she'd eat. She began spending ten minutes each Sunday planning three simple breakfasts and taking a quick photo when she ate. Logging before or right after meals helped her notice when she felt hungrier mid-morning and choose fuller options. The routine made tracking manageable — not perfect, just useful. On busy days she leans on photos and quick entries. Seeing a week of honest entries gave her confidence to keep going..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-21-motivation-2-story-2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Tom's honest log",
+          "story": "Tom noticed his evening snacks added up, and he chose a different approach: honest logging without self-blame. He started writing down small bites, sauces, and takeout extras instead of skipping them. Seeing everything on the screen revealed which treats were habitual and which were occasional. Rather than chasing perfection, Tom made one small change at a time—like swapping a dip for a lighter option—and watched how his usual patterns shifted. Tracking became a way to learn about habits, not a pass/fail test.",
+          "habit": "Log small bites and extras honestly.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "El registro sincero de Tom",
+          "story": "Tom se dio cuenta de que las meriendas nocturnas sumaban, así que probó otra forma: registrar con sinceridad sin culparse. Empezó a anotar bocados pequeños, salsas y extras de comida para llevar en lugar de omitirlos. Ver todo en la pantalla le mostró qué caprichos eran habituales y cuáles ocasionales. En vez de buscar la perfección, Tom hizo un cambio pequeño a la vez —por ejemplo, cambiar una salsa por una opción más ligera— y vio cómo cambiaban sus patrones. El seguimiento se volvió una forma de aprender sobre sus hábitos, no una prueba de aprobado o suspenso.",
+          "habit": "Registra bocados y extras con sinceridad.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честные записи Тома",
+          "story": "Том заметил, что вечерние перекусы складываются, и решил другой подход: честные записи без упрёков. Он стал фиксировать маленькие кусочки, соусы и добавки из доставки, вместо того чтобы пропускать их. Видение всего на экране показало, какие угощения были привычкой, а какие — случайными. Вместо стремления к совершенству Том менял по одному небольшому моменту — например, заменял соус на более лёгкий — и наблюдал, как меняются его повседневные шаблоны. Отслеживание стало способом понять привычки, а не тестом.",
+          "habit": "Записывай честно маленькие кусочки и добавки.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Чесний журнал Тома",
+          "story": "Том помітив, що вечірні перекуси накопичуються, і вибрав інший підхід: чесні записи без самоупередження. Він почав фіксувати маленькі шматочки, соуси та додаткові страви з доставки замість того, щоб пропускати їх. Бачачи все в додатку, він зрозумів, які частування стали звичкою, а які — випадковістю. Замість гонитви за досконалістю Том змінював по одному невеликому пункту — наприклад, замінив соус на легший — і бачив, як змінюється звичний ритм. Відстеження стало способом вивчити звички, а не тестом на «правильно/неправильно».",
+          "habit": "Записуй чесно маленькі перекуси й доповнення.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Le journal honnête de Tom",
+          "story": "Tom a remarqué que ses en-cas du soir s’accumulaient et a choisi une autre voie : noter honnêtement sans se blâmer. Il a commencé à inscrire les petites bouchées, les sauces et les extras de plats à emporter au lieu de les ignorer. Voir tout réuni dans l’appli a révélé quels plaisirs étaient devenus automatiques et lesquels étaient occasionnels. Plutôt que de viser la perfection, Tom a fait un petit changement à la fois — par exemple remplacer une sauce par une version plus légère — et a observé l’évolution de ses habitudes. Le suivi est devenu un outil d’apprentissage, pas un test.",
+          "habit": "Note honnêtement les petites bouchées et extras.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Toms ehrliches Protokoll",
+          "story": "Tom merkte, dass sich seine Abend-Snacks summierten und entschied sich für einen anderen Weg: ehrliches Eintragen ohne Vorwürfe. Er begann, kleine Bissen, Soßen und Extras von Lieferessen aufzuschreiben, statt sie wegzulassen. Alles in der App zu sehen zeigte ihm, welche Leckereien Gewohnheit waren und welche nur gelegentlich auftauchten. Statt nach Perfektion zu streben, änderte Tom eine kleine Sache nach der anderen — zum Beispiel eine leichtere Soße — und beobachtete, wie sich seine Muster verschoben. Tracking wurde ein Lernwerkzeug, kein Test.",
+          "habit": "Trage kleine Bissen und Extras ehrlich ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "O registro sincero do Tom",
+          "story": "Tom percebeu que os lanches noturnos somavam e escolheu uma abordagem diferente: registrar com honestidade, sem culpa. Começou a anotar pequenas mordidas, molhos e extras do delivery, em vez de omiti-los. Ver tudo no app mostrou quais guloseimas eram hábito e quais eram ocasiões. Em vez de buscar perfeição, Tom fez uma mudança pequena por vez — como trocar um molho por uma opção mais leve — e viu como seus padrões mudaram. O acompanhamento virou uma maneira de aprender sobre hábitos, não um teste.",
+          "habit": "Registre mordidas e extras com honestidade.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Tom őszinte naplója",
+          "story": "Tom észrevette, hogy az esti nassolások összeadódnak, és más megközelítést választott: őszinte bejegyzéseket hibáztatás nélkül. Elkezdte feljegyezni a kis falatokat, szószokat és házhoz rendelt extra hozzávalókat ahelyett, hogy kihagyta volna őket. Ha mindent a képernyőn látott, kiderült, melyik jutalom vált rendszeressé és mi volt alkalmi. A tökéletesség helyett Tom apró változtatásokat tett — például könnyebb mártogató választott — és figyelte, hogyan módosulnak a szokásai. A naplózás így inkább tanulás lett, mint vizsga.",
+          "habit": "Jegyezd fel őszintén a kis falatokat és extrákat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "سجل توم الصادق",
+          "story": "لاحظ توم أن وجباته الخفيفة المسائية تتكدس، فاختار نهجًا مختلفًا: التسجيل بصدق دون لوم الذات. بدأ بكتابة اللقيمات الصغيرة والصوصات والإضافات من الوجبات الجاهزة بدل حذفها. رؤية كل شيء في التطبيق أظهر له أي المتع أصبحت عادة وأيها مناسبة خاصة. بدل السعي إلى الكمال، قام توم بتغيير بسيط واحد في كل مرة — مثل استبدال صلصة بخيار أخف — ولاحظ كيف تغيرت أنماطه المعتادة. أصبح التتبع وسيلة للتعلم عن العادات، لا امتحانًا.",
+          "habit": "سجل بصدق اللقيمات والإضافات الصغيرة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tom's honest log.\nStory: Tom noticed his evening snacks added up, and he chose a different approach: honest logging without self-blame. He started writing down small bites, sauces, and takeout extras instead of skipping them. Seeing everything on the screen revealed which treats were habitual and which were occasional. Rather than chasing perfection, Tom made one small change at a time—like swapping a dip for a lighter option—and watched how his usual patterns shifted. Tracking became a way to learn about habits, not a pass/fail test..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-21-motivation-3-story-3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Aisha's weekly check-in",
+          "story": "Aisha sets aside fifteen minutes each Sunday to scan her week’s entries with curiosity. She looks for patterns — late dinners, rushed lunches, or meals that left her energized. Instead of judging past choices, she asks simple questions: what helped her feel full longer, and when did she reach for snacks? Those insights lead to tiny experiments, like shifting dinner earlier or adding a protein-rich snack before a long meeting. The weekly check turns tracking into a helpful habit rather than a chore.",
+          "habit": "Do a short weekly scan of your entries.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "El repaso semanal de Aisha",
+          "story": "Aisha reserva quince minutos cada domingo para revisar sus registros de la semana con curiosidad. Busca patrones: cenas tarde, almuerzos apresurados o comidas que le daban más energía. En lugar de juzgar elecciones pasadas, se hace preguntas sencillas: ¿qué la mantuvo satisfecha más tiempo? ¿cuándo buscó un tentempié? Esas pistas la llevan a pequeños experimentos, como cenar un poco antes o añadir un snack proteico antes de una reunión larga. El repaso semanal convierte el seguimiento en un hábito útil en vez de una tarea pesada.",
+          "habit": "Haz un breve repaso semanal de tus registros.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Еженедельная проверка Айши",
+          "story": "Айша выделяет пятнадцать минут каждое воскресенье, чтобы с любопытством просмотреть записи за неделю. Она ищет закономерности — поздние ужины, поспешные обеды или блюда, после которых у неё больше энергии. Вместо осуждения прошлых выборов она задаёт простые вопросы: что дольше утоляло голод и когда она тянулась за перекусом? Эти выводы приводят к маленьким экспериментам, например, к более раннему ужину или добавлению белкового перекуса перед длительной встречей. Еженедельный обзор превращает отслеживание в полезную привычку, а не в обязанность.",
+          "habit": "Проводите короткий еженедельный обзор записей.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Щотижневий огляд Айші",
+          "story": "Айша відводить п’ятнадцять хвилин щонеділі, щоб з допитливістю переглянути записи тижня. Вона шукає закономірності — пізні вечері, поспішні обіди чи страви, після яких більше енергії. Замість засудження минулих виборів вона ставить прості запитання: що довше втамовувало голод, і коли вона тягнулася за перекусом? Ці висновки призводять до маленьких експериментів, наприклад, зміни часу вечері або додавання білкового перекусу перед довгою зустріччю. Щотижневий огляд робить відстеження корисною звичкою, а не тягарем.",
+          "habit": "Роби короткий щотижневий огляд записів.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "La revue hebdo d'Aisha",
+          "story": "Aisha réserve quinze minutes chaque dimanche pour parcourir ses entrées de la semaine avec curiosité. Elle repère des tendances — dîners tardifs, déjeuners pressés, ou repas qui lui apportent de l’énergie. Plutôt que de juger ses choix passés, elle se pose des questions simples : qu’est-ce qui la rassasiait plus longtemps ? Quand grignotait-elle ? Ces enseignements mènent à de petits tests, comme avancer le dîner ou ajouter une collation protéinée avant une longue réunion. La revue hebdomadaire rend le suivi utile et durable.",
+          "habit": "Fais un court bilan hebdomadaire de tes entrées.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Aishas Wochencheck",
+          "story": "Aisha nimmt sich sonntags fünfzehn Minuten Zeit, um ihre Einträge der Woche neugierig zu überfliegen. Sie sucht nach Mustern — späte Abendessen, hektische Mittagspausen oder Mahlzeiten, nach denen sie länger Energie hatte. Statt vergangene Entscheidungen zu verurteilen, stellt sie einfache Fragen: Was hat länger satt gehalten? Wann griff sie zu Snacks? Diese Erkenntnisse führen zu kleinen Tests, etwa Abendessen etwas früher oder ein proteinreicher Snack vor einer langen Sitzung. Der wöchentliche Check macht Tracking hilfreich statt lästig.",
+          "habit": "Mach einen kurzen wöchentlichen Blick auf deine Einträge.",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "A checagem semanal da Aisha",
+          "story": "Aisha reserva quinze minutos todo domingo para olhar as entradas da semana com curiosidade. Ela procura padrões — jantares tarde, almoços corridos ou refeições que a deixaram mais disposta. Em vez de julgar escolhas passadas, ela faz perguntas simples: o que a manteve satisfeita por mais tempo? Quando ela buscou um lanche? Essas percepções levam a pequenos experimentos, como adiantar o jantar ou incluir um lanche rico em proteína antes de uma reunião longa. A revisão semanal transforma o acompanhamento em um hábito útil, não uma tarefa.",
+          "habit": "Faça uma revisão breve semanal das suas entradas.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Aisha heti ellenőrzése",
+          "story": "Aisha minden vasárnap szán tizenöt percet arra, hogy kíváncsian áttekintse a hét bejegyzéseit. Keresi a mintákat — késői vacsorák, kapkodós ebédek vagy olyan ételek, amelyek energikusabbá tették. A múltbéli döntéseket nem ítéli el, hanem egyszerű kérdéseket tesz fel: mi tartott jóllakottnak tovább? Mikor nyúlt nassoláshoz? Ezek az észrevételek apró kísérletekhez vezetnek, például a vacsora időpontjának előbbre hozásához vagy egy fehérjedús snack hozzáadásához hosszú megbeszélés előtt. A heti áttekintés a követést hasznossá és fenntarthatóvá teszi.",
+          "habit": "Tarts rövid heti áttekintést a bejegyzésekről.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "مراجعة أسبوعية لعايشة",
+          "story": "تخصص عايشة خمسة عشر دقيقة كل أحد لمراجعة إدخالاتها الأسبوعية بفضول. تبحث عن أنماط — عشاء متأخر، غداء مستعجل، أو وجبات تمنحها طاقة. بدلاً من الحكم على اختياراتها الماضية، تطرح أسئلة بسيطة: ماذا جعلني أشعر بالشبع أطول؟ متى لجأت إلى وجبة خفيفة؟ تؤدي هذه الرؤى إلى تجارب صغيرة، مثل تقديم وقت العشاء أو إضافة وجبة خفيفة غنية بالبروتين قبل اجتماع طويل. تجعل المراجعة الأسبوعية التتبع عادة مفيدة بدلاً من مهمة مرهقة.",
+          "habit": "قم بمراجعة قصيرة لأدخالاتك كل أسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Aisha's weekly check-in.\nStory: Aisha sets aside fifteen minutes each Sunday to scan her week’s entries with curiosity. She looks for patterns — late dinners, rushed lunches, or meals that left her energized. Instead of judging past choices, she asks simple questions: what helped her feel full longer, and when did she reach for snacks? Those insights lead to tiny experiments, like shifting dinner earlier or adding a protein-rich snack before a long meeting. The weekly check turns tracking into a helpful habit rather than a chore..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-21-motivation-4-story-4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Luca's tiny swaps",
+          "story": "Luca committed to one simple rule: log every drink. As he tracked, he noticed where liquid calories and extras appeared. He tried one small swap—water instead of a sugary drink at lunch—and logged the change. Seeing the daily entries reflect that small choice motivated him to try other tiny adjustments, like a side salad or a different snack. On social days he focuses on honest entries rather than perfection. Those gradual swaps plus consistent logging helped him feel steady and more aware of his daily habits.",
+          "habit": "Pick one small swap and log it.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Los pequeños cambios de Luca",
+          "story": "Luca se comprometió con una regla sencilla: registrar todas las bebidas. Al hacerlo, vio dónde aparecían las calorías líquidas y los extras. Probó un pequeño cambio: agua en lugar de una bebida azucarada en el almuerzo, y lo registró. Ver esa elección reflejada cada día le motivó a intentar otros ajustes pequeños, como una ensalada al lado o un snack distinto. En días sociales prioriza entradas honestas en vez de perfección. Esos cambiosgraduales junto con el registro constante le ayudaron a sentirse más estable y consciente de sus hábitos diarios.",
+          "habit": "Elige un pequeño cambio y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие замены Лука",
+          "story": "Лука взял на себя простое правило: записывать все напитки. В процессе он заметил, где появляются жидкие калории и «вставки». Он сделал одну небольшую замену — вода вместо сладкого напитка за обедом — и отметил это в записях. Видеть, как ежедневные записи отражают этот выбор, вдохновило его на другие маленькие изменения, например добавить гарнир-салат или выбрать другой перекус. В социальные дни он ориентируется на честные записи, а не на идеальность. Постепенные замены в сочетании с регулярным ведением дневника помогли ему чувствовать стабильность и внимательность к привычкам.",
+          "habit": "Выбери одну маленькую замену и записывай её.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Малі заміни Лука",
+          "story": "Лука взяв на себе просте правило: записувати всі напої. При відстеженні він помітив, де з’являються рідкі калорії й додатки. Він спробував одну маленьку заміну — воду замість солодкого напою на обід — і занотував це. Бачити, як щоденні записи відображають цей вибір, мотивувало його робити інші невеликі зміни, наприклад додати салат або обрати інший перекус. У соціальні дні він зосереджується на чесних записах, а не на досконалості. Такі поступові заміни разом з постійним записуванням допомогли йому відчувати стійкість і більшу усвідомленість у щоденних звичках.",
+          "habit": "Вибери одну маленьку заміну й запиши її.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Les petites substitutions de Luca",
+          "story": "Luca s’est tenu à une règle simple : noter chaque boisson. En suivant, il a repéré où se glissaient les calories liquides et autres extras. Il a essayé une petite substitution — de l’eau à la place d’une boisson sucrée au déjeuner — et l’a notée. Voir cette décision apparaître chaque jour l’a encouragé à tester d’autres petits ajustements, comme une salade en accompagnement ou un snack différent. Les jours sociaux, il privilégie l’honnêteté plutôt que la perfection. Ces substitutions graduelles et le suivi régulier lui ont permis de se sentir plus serein et attentif à ses habitudes.",
+          "habit": "Choisis une petite substitution et note-la.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Lucas kleine Veränderungen",
+          "story": "Luca hielt sich an eine einfache Regel: Jede Getränkebucheintragung. Beim Tracking fiel ihm auf, wo flüssige Kalorien und Extras auftauchen. Er probierte eine kleine Änderung — Wasser statt eines süßen Getränks zum Mittag — und trug diese Änderung ein. Zu sehen, wie sich diese Entscheidung täglich in den Einträgen zeigt, motivierte ihn zu weiteren kleinen Anpassungen, etwa einem Beilagensalat oder einem anderen Snack. An geselligen Tagen setzt er auf ehrliche Einträge statt Perfektion. Diese schrittweisen Änderungen plus konsequentes Eintragen halfen ihm, sich stabiler und aufmerksamer zu fühlen.",
+          "habit": "Wähle eine kleine Änderung und trage sie ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "As pequenas trocas do Luca",
+          "story": "Luca adotou uma regra simples: registrar todas as bebidas. Ao acompanhar, percebeu onde apareciam calorias líquidas e extras. Fez uma troca pequena — água no lugar de uma bebida açucarada no almoço — e registrou a mudança. Ver essa escolha refletida diariamente o motivou a tentar outros ajustes pequenos, como uma salada como acompanhamento ou outro lanche. Em dias sociais ele prioriza registros honestos em vez de perfeição. Essas trocas graduais e o registro consistente o ajudaram a se sentir mais estável e atento aos hábitos do dia a dia.",
+          "habit": "Escolha uma troca pequena e registre-a.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Luca apró cseréi",
+          "story": "Luca egy egyszerű szabályt vállalt: minden italt rögzít. Ahogy naplózott, észrevette, hol bújnak meg a folyékony kalóriák és a pluszok. Kipróbált egy kis cserét — vizet ivott édes ital helyett az ebédnél — és bejegyezte a változást. Amikor napi szinten látta a bejegyzésekben ezt a döntést, motiválta ez más apró igazításokra is, például egy köret-salátára vagy másik nassolnivalóra. Társas helyzetekben az őszinteséget helyezi előtérbe a tökéletesség helyett. Ezek a fokozatos cserék és a következetes naplózás segítettek neki kiegyensúlyozottabbnak és tudatosabbnak érezni magát.",
+          "habit": "Válassz egy apró cserét és jegyezd fel.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "تغييرات لوكا الصغيرة",
+          "story": "اتفق لوكا على قاعدة بسيطة: تسجيل كل مشروب. أثناء التتبع لاحظ أين تتسلل السعرات السائلة والإضافات. جرب تغييرًا بسيطًا — الماء بدل المشروب المحلى في الغداء — وسجل هذا التغيير. رؤية هذا الخيار يظهر في الإدخالات اليومية شجعَه على تجريب تعديلات صغيرة أخرى، مثل سلطة جانبية أو وجبة خفيفة مختلفة. في المناسبات الاجتماعية يركّز على الصدق في التسجيل بدل السعي للكمال. ساعدته هذه التغييرات التدريجية مع التتبع المنتظم على الشعور بالثبات وزيادة الوعي بعاداته اليومية.",
+          "habit": "اختر تغييرًا صغيرًا وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-05-21T10:13:24.235Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-21-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Luca's tiny swaps.\nStory: Luca committed to one simple rule: log every drink. As he tracked, he noticed where liquid calories and extras appeared. He tried one small swap—water instead of a sugary drink at lunch—and logged the change. Seeing the daily entries reflect that small choice motivated him to try other tiny adjustments, like a side salad or a different snack. On social days he focuses on honest entries rather than perfection. Those gradual swaps plus consistent logging helped him feel steady and more aware of his daily habits..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-05-20-motivation-1-story-1",
       "category": "calorie_tracking",
