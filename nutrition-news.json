@@ -1,113 +1,755 @@
 {
-  "generatedAt": "2026-05-26T10:36:30.424Z",
+  "generatedAt": "2026-05-27T10:38:24.689Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "cell-2026-fasting-immunity",
-      "category": "Metabolic health",
+      "id": "fasting-immunity-2026",
+      "category": "metabolism & oncology",
       "sourceName": "cell.com",
       "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00109-9?rss=yes",
       "sourceTitle": "Fasting opens a metabolic window that favors anti-tumor immunity",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Short-term fasting may create a metabolic state that supports anti-tumor T cell activity",
-          "summary": "Researchers show that brief fasting can alter nutrient levels inside tumors, notably increasing intratumoral isoleucine, which supports CD8+ T cell effector functions. In mouse models and some human data, this metabolic shift enhanced responses to immune checkpoint therapies.",
-          "whyItMatters": "The work suggests timing of eating and fasting could influence how immune cells perform in tumors, a consideration for ongoing research combining diet-based interventions with cancer immunotherapy.",
+          "title": "Fasting opens a metabolic window that favors anti-tumor immunity",
+          "summary": "Short-term fasting was reported to change nutrient availability inside tumors, creating conditions—such as intratumoral isoleucine accumulation—that support cytotoxic CD8+ T cell activity. The study suggests these metabolic shifts can enhance responses to immune checkpoint blockade in preclinical models and in some human data.",
+          "whyItMatters": "The work points to diet-related timing as a factor that might modify how the immune system interacts with tumors during therapy, a concept that could inform clinical research but is not a treatment recommendation.",
           "takeaways": [
-            "Short-term fasting reshapes tumor nutrient availability and may favor cytotoxic T cell programs.",
-            "Isoleucine accumulation in tumors during fasting was linked with stronger T cell responses.",
-            "This is mechanistic research; clinical implications require more testing in controlled trials."
+            "Fasting transiently alters tumor nutrient landscapes, affecting immune cell metabolism.",
+            "Isoleucine accumulation during fasting was linked to stronger CD8+ T cell effector programs.",
+            "Findings span animal models and preliminary human observations; clinical implications require more study."
           ]
         },
         "es": {
-          "title": "El ayuno a corto plazo podría crear un estado metabólico que favorece la actividad antitumoral de las células T",
-          "summary": "Investigadores muestran que el ayuno breve puede alterar los niveles de nutrientes dentro de los tumores, aumentando de forma notable el isoleucina intratumoral, lo que respalda las funciones efectoras de las células T CD8+. En modelos de ratón y algunos datos humanos, este cambio metabólico potenció las respuestas a terapias que actúan sobre puntos de control inmunitario.",
-          "whyItMatters": "El trabajo sugiere que el momento de la ingesta y el ayuno podría influir en el rendimiento de las células inmunitarias en tumores, lo que es relevante para la investigación que combina intervenciones dietéticas con la inmunoterapia contra el cáncer.",
+          "title": "El ayuno abre una ventana metabólica que favorece la inmunidad antitumoral",
+          "summary": "Se informó que el ayuno a corto plazo cambia la disponibilidad de nutrientes dentro de los tumores, creando condiciones —como la acumulación intratumoral de isoleucina— que favorecen la actividad de las células T CD8+ citotóxicas. El estudio sugiere que estos cambios metabólicos pueden potenciar las respuestas al bloqueo de puntos de control inmunitario en modelos preclínicos y en algunos datos humanos.",
+          "whyItMatters": "El trabajo señala la sincronización relacionada con la dieta como un factor que podría modificar la interacción del sistema inmunitario con los tumores durante la terapia, un concepto que puede orientar la investigación clínica pero que no constituye una recomendación de tratamiento.",
           "takeaways": [
-            "El ayuno a corto plazo remodela la disponibilidad de nutrientes en tumores y puede favorecer programas de células T citotóxicas.",
-            "La acumulación de isoleucina en tumores durante el ayuno se relacionó con respuestas T más fuertes.",
-            "Se trata de investigación mecanística; las implicaciones clínicas requieren ensayos controlados adicionales."
+            "El ayuno altera de forma transitoria el paisaje nutritivo dentro de los tumores, afectando el metabolismo de las células inmunitarias.",
+            "La acumulación de isoleucina durante el ayuno se vinculó a programas efectoras más fuertes en células T CD8+.",
+            "Los hallazgos abarcan modelos animales y observaciones humanas preliminares; las implicaciones clínicas requieren más estudio."
           ]
         },
         "ru": {
-          "title": "Краткосрочное голодание может создавать метаболическое состояние, поддерживающее противоопухолевую активность Т‑клеток",
-          "summary": "Исследователи показали, что кратковременное голодание может изменять уровни питательных веществ внутри опухолей, в частности увеличивая внутритканевую концентрацию изолейцина, что поддерживает эффекторные функции CD8+ Т‑клеток. В моделях на мышах и в некоторых человеческих данных это метаболическое изменение усиливало ответы на иммунотерапию, нацеленную на контрольные точки.",
-          "whyItMatters": "Работа указывает, что синхронизация питания и голодания может влиять на работу иммунных клеток в опухолях — это соображение для дальнейших исследований по сочетанию диетических вмешательств и противоопухолевой иммунотерапии.",
+          "title": "Голодание открывает метаболическое окно, благоприятствующее антиопухолевому иммунитету",
+          "summary": "Сообщается, что кратковременное голодание изменяет доступность нутриентов внутри опухолей, создавая условия — например, внутритуморное накопление изолейцина — которые поддерживают активность цитотоксических CD8+ Т‑клеток. Исследование предполагает, что эти метаболические сдвиги могут усиливать ответы на ингибиторы иммунных контрольных точек в доклинических моделях и в некоторых человеческих данных.",
+          "whyItMatters": "Работа указывает на влияние временных диетических вмешательств на взаимодействие иммунной системы с опухолями во время терапии — концепцию, которая может направлять клинические исследования, но не является рекомендацией по лечению.",
           "takeaways": [
-            "Краткосрочное голодание изменяет доступность питательных веществ в опухолях и может поддерживать цитотоксические программы Т‑клеток.",
-            "Накопление изолейцина в опухолях во время голодания связывали с более сильными Т‑клеточными ответами.",
-            "Это механистическое исследование; клинические выводы требуют дополнительных контролируемых испытаний."
+            "Голодание кратковременно изменяет нутриентный ландшафт опухолей, влияя на метаболизм иммунных клеток.",
+            "Накопление изолейцина при голодании связывали с усилением эффекторных программ CD8+ Т‑клеток.",
+            "Результаты получены в моделях животных и на предварительных человеческих наблюдениях; клинические последствия требуют дальнейших исследований."
           ]
         },
         "uk": {
-          "title": "Короткочасне голодування може створювати метаболічний стан, що сприяє активності антиопухлинних Т-клітин",
-          "summary": "Дослідники показують, що короткочасне голодування може змінювати рівні поживних речовин у пухлинах, зокрема підвищуючи вміст ізолейцину всередині пухлин, що підтримує ефекторні функції CD8+ Т-клітин. У моделях на мишах і в окремих людських даних цей метаболічний зсув посилював відповіді на терапію контрольних точок імунітету.",
-          "whyItMatters": "Робота свідчить про те, що час прийому їжі та періоди голодування можуть впливати на функціонування імунних клітин у пухлині — важливий аспект для подальших досліджень поєднання дієтичних підходів із імунотерапією проти раку.",
+          "title": "Голодування відкриває метаболічне вікно, що сприяє анти‑опухольному імунітету",
+          "summary": "У короткостроковому голодуванні повідомлялося про зміни доступності поживних речовин у пухлинах, що створює умови — наприклад, накопичення ізолейцину в межах пухлини — які підтримують активність цитотоксичних CD8+ T‑клітин. Дослідження свідчить, що такі метаболічні зрушення можуть посилювати відповіді на блокаду імунних контрольних точок у доклінічних моделях і в деяких людських даних.",
+          "whyItMatters": "Робота вказує, що часові фактори, пов’язані з харчуванням, можуть модифікувати взаємодію імунної системи з пухлинами під час терапії — концепція, яка може вплинути на клінічні дослідження, але не є рекомендацією до лікування.",
           "takeaways": [
-            "Короткочасне голодування змінює доступність поживних речовин у пухлинах і може сприяти програмам цитотоксичних Т-клітин.",
-            "Накопичення ізолейцину в пухлинах під час голодування пов’язували зі зміцненням Т‑клітинних відповідей.",
-            "Це механістичне дослідження; клінічні наслідки потребують додаткової перевірки в контрольованих випробуваннях."
+            "Голодування тимчасово змінює нутрієнтний ландшафт пухлин, впливаючи на метаболізм імунних клітин.",
+            "Накопичення ізолейцину під час голодування було пов’язане зі зміцненням ефекторних програм CD8+ Т‑клітин.",
+            "Результати охоплюють моделі на тваринах та попередні спостереження у людей; клінічні наслідки потребують подальшого вивчення."
           ]
         },
         "fr": {
-          "title": "Le jeûne court peut créer un état métabolique favorisant l’activité des cellules T anti‑tumeurs",
-          "summary": "Les chercheurs montrent qu’un jeûne bref peut modifier les niveaux de nutriments à l’intérieur des tumeurs, augmentant notamment l’isoleucine intratumorale, ce qui soutient les fonctions effectrices des cellules T CD8+. Dans des modèles murins et certaines données humaines, ce changement métabolique a renforcé les réponses aux thérapies ciblant les points de contrôle immunitaires.",
-          "whyItMatters": "Ce travail suggère que le moment des repas et des périodes de jeûne pourrait influencer la performance des cellules immunitaires dans les tumeurs, un point à considérer pour les recherches combinant interventions alimentaires et immunothérapie anticancéreuse.",
+          "title": "Le jeûne ouvre une fenêtre métabolique favorable à l’immunité anti‑tumeur",
+          "summary": "Un jeûne de courte durée aurait modifié la disponibilité des nutriments au sein des tumeurs, créant des conditions — telles que l’accumulation intratumorale d’isoleucine — qui soutiennent l’activité des cellules T CD8+ cytotoxiques. L’étude suggère que ces modifications métaboliques peuvent renforcer les réponses à la blockade des points de contrôle immunitaire dans des modèles précliniques et dans certaines données humaines.",
+          "whyItMatters": "Ce travail indique que le timing lié à l’alimentation pourrait modifier la façon dont le système immunitaire interagit avec les tumeurs lors d’un traitement — une idée pouvant orienter la recherche clinique, sans constituer une recommandation thérapeutique.",
           "takeaways": [
-            "Le jeûne court reconfigure la disponibilité des nutriments dans les tumeurs et peut favoriser les programmes des lymphocytes T cytotoxiques.",
-            "L’accumulation d’isoleucine dans les tumeurs pendant le jeûne a été liée à des réponses T plus fortes.",
-            "Il s’agit de recherches mécanistiques ; les implications cliniques nécessitent davantage d’essais contrôlés."
+            "Le jeûne altère temporairement le paysage nutritionnel tumoral, affectant le métabolisme des cellules immunitaires.",
+            "L’accumulation d’isoleucine pendant le jeûne a été liée à un renforcement des programmes effecteurs des cellules T CD8+.",
+            "Les constatations reposent sur des modèles animaux et des observations humaines préliminaires ; les implications cliniques nécessitent davantage d’études."
           ]
         },
         "de": {
-          "title": "Kurzzeitfasten kann einen metabolischen Zustand schaffen, der antitumorale T‑Zellaktivität unterstützt",
-          "summary": "Forscher zeigen, dass kurzes Fasten die Nährstoffverhältnisse innerhalb von Tumoren verändern kann, insbesondere durch eine Zunahme von intratumoralem Isoleucin, das die Effektor‑Funktionen von CD8+‑T‑Zellen unterstützt. In Mausmodellen und einigen menschlichen Daten verstärkte diese metabolische Verschiebung die Reaktion auf Immun‑Checkpoint‑Therapien.",
-          "whyItMatters": "Die Arbeit legt nahe, dass das Timing von Essen und Fasten beeinflussen kann, wie Immunzellen in Tumoren arbeiten — ein Aspekt für laufende Forschung, die ernährungsbasierte Interventionen mit Krebsimmuntherapie kombiniert.",
+          "title": "Fasten öffnet ein metabolisches Zeitfenster, das anti‑Tumor‑Immunität begünstigt",
+          "summary": "Kurzzeitiges Fasten wurde berichtet, die Nährstoffverfügbarkeit innerhalb von Tumoren zu verändern und Bedingungen zu schaffen — etwa eine intratumorale Anreicherung von Isoleucin —, die zytotoxische CD8+‑T‑Zell‑Aktivität unterstützen. Die Studie legt nahe, dass solche metabolischen Verschiebungen die Reaktionen auf Checkpoint‑Blockaden des Immunsystems in präklinischen Modellen und in einigen humanen Daten verbessern können.",
+          "whyItMatters": "Die Arbeit legt nahe, dass zeitliche Aspekte der Ernährung die Wechselwirkung des Immunsystems mit Tumoren während Therapien beeinflussen können; das ist ein Konzept für klinische Forschung, stellt jedoch keine Behandlungsempfehlung dar.",
           "takeaways": [
-            "Kurzzeitfasten verändert die Nährstoffverfügbarkeit im Tumor und könnte zytotoxische T‑Zell‑Programme begünstigen.",
-            "Die Anreicherung von Isoleucin in Tumoren während des Fastens wurde mit stärkeren T‑Zell‑Antworten in Verbindung gebracht.",
-            "Dies ist mechanistische Forschung; klinische Implikationen erfordern weitere Tests in kontrollierten Studien."
+            "Fasten verändert vorübergehend die Nährstofflandschaft in Tumoren und beeinflusst den Metabolismus von Immunzellen.",
+            "Die Anreicherung von Isoleucin während des Fastens wurde mit stärkeren Effektorprogrammen von CD8+‑T‑Zellen in Verbindung gebracht.",
+            "Die Befunde umfassen Tiermodelle und vorläufige menschliche Beobachtungen; klinische Implikationen erfordern weitere Studien."
           ]
         },
         "pt-br": {
-          "title": "Jejum de curto prazo pode criar um estado metabólico que favorece a atividade de células T antitumorais",
-          "summary": "Pesquisadores mostram que o jejum breve pode alterar os níveis de nutrientes dentro de tumores, aumentando notavelmente a isoleucina intratumoral, que apoia as funções efetoras de células T CD8+. Em modelos de camundongo e em alguns dados humanos, essa mudança metabólica melhorou respostas a terapias de checkpoint imunológico.",
-          "whyItMatters": "O trabalho sugere que o momento de comer e jejuar pode influenciar o desempenho das células imunes nos tumores, um ponto a considerar em pesquisas que combinam intervenções dietéticas com imunoterapia contra o câncer.",
+          "title": "Jejum abre uma janela metabólica que favorece a imunidade antitumoral",
+          "summary": "Relata‑se que o jejum de curto prazo altera a disponibilidade de nutrientes dentro de tumores, criando condições — como o acúmulo intratumoral de isoleucina — que favorecem a atividade citotóxica de células T CD8+. O estudo sugere que essas mudanças metabólicas podem melhorar as respostas ao bloqueio de pontos de verificação imunológicos em modelos pré‑clínicos e em alguns dados humanos.",
+          "whyItMatters": "O trabalho aponta a temporização relacionada à dieta como um fator que pode modificar a interação do sistema imune com tumores durante a terapia, um conceito que pode orientar pesquisa clínica, mas não é uma recomendação de tratamento.",
           "takeaways": [
-            "Jejum de curto prazo remodela a disponibilidade de nutrientes no tumor e pode favorecer programas de células T citotóxicas.",
-            "O acúmulo de isoleucina em tumores durante o jejum foi associado a respostas mais fortes de células T.",
-            "Trata‑se de pesquisa mecanística; implicações clínicas exigem mais testes em ensaios controlados."
+            "O jejum altera transientemente o ambiente de nutrientes do tumor, afetando o metabolismo das células imunes.",
+            "O acúmulo de isoleucina durante o jejum foi ligado a programas efetores mais fortes em células T CD8+.",
+            "As descobertas abrangem modelos animais e observações humanas preliminares; as implicações clínicas exigem mais estudo."
           ]
         },
         "hu": {
-          "title": "Rövid távú böjt olyan anyagcsere‑állapotot teremthet, amely támogatja a tumorellenes T‑sejtek működését",
-          "summary": "A kutatók kimutatták, hogy a rövid böjt megváltoztathatja a daganatok belső tápanyagösszetételét, különösen növelve az intratumorális izoleucin szintjét, amely támogatja a CD8+ T‑sejtek effektor funkcióit. Egérmodellekben és néhány emberi adaton ez az anyagcsere‑eltolódás erősítette az immun‑ellenőrzőpont terápiákra adott válaszokat.",
-          "whyItMatters": "A munka arra utal, hogy az étkezés és a böjt időzítése befolyásolhatja az immunsejtek teljesítményét a daganatokban, ami fontos szempont a diétán alapuló beavatkozások és a rákimmunterápia kombinációját vizsgáló kutatásoknál.",
+          "title": "A böjt olyan anyagcsere-ablakot nyit, amely kedvezhet a tumorelleni immunitásnak",
+          "summary": "Rövid távú böjtöt jelentettek, amely megváltoztatja a tumorokon belüli tápanyagellátottságot, olyan körülményeket teremtve — például intratumorális izoleucin-felhalmozódást —, amelyek támogatják a citotoxikus CD8+ T-sejtek működését. A tanulmány azt sugallja, hogy ezek az anyagcsere-eltolódások elősegíthetik az immunellenőrzőpont-gátlásra adott válaszokat preklinikai modellekben és néhány emberi megfigyelésben.",
+          "whyItMatters": "A munka rámutat, hogy az étrendi időzítés módosíthatja az immunrendszer és a daganatok közti kölcsönhatást a kezelés során; ez olyan koncepció, amely befolyásolhatja a klinikai kutatásokat, de nem jelent kezelési ajánlást.",
           "takeaways": [
-            "A rövid távú böjt átformálja a daganatok tápanyag‑ellátottságát, és előnyös lehet a citotoxikus T‑sejt programok számára.",
-            "A böjt alatt a daganatokban felhalmozódó izoleucin erősebb T‑sejt választ hozott létre.",
-            "Ez mechanisztikus kutatás; a klinikai következmények tisztázásához több kontrollált vizsgálat szükséges."
+            "A böjt átmenetileg megváltoztatja a tumorok tápanyag-környezetét, ami hatással van az immunsejtek anyagcseréjére.",
+            "A böjt során megfigyelt izoleucin-felhalmozódás összefüggésbe hozható erősebb CD8+ T-sejt effektor programokkal.",
+            "Az eredmények állati modellekre és előzetes humán megfigyelésekre is kiterjednek; a klinikai következmények további vizsgálatot igényelnek."
           ]
         },
         "ar": {
-          "title": "الصوم القصير قد يخلق حالة أيضية تدعم نشاط خلايا T المضادة للأورام",
-          "summary": "يُظهر الباحثون أن الصوم القصير قد يغير مستويات المغذيات داخل الأورام، لا سيما زيادة الإيزوليوسين داخل الورم، وهو ما يدعم وظائف الخلايا التائية CD8+ القاتلة. في نماذج فأرية وبعض بيانات بشرية، عزز هذا التحول الأيضي الاستجابات للعلاجات المناعية التي تستهدف نقاط التفتيش المناعية.",
-          "whyItMatters": "تشير الدراسة إلى أن توقيت الأكل والصوم يمكن أن يؤثر على أداء الخلايا المناعية داخل الأورام، وهو اعتبار مهم للأبحاث الجارية التي تجمع بين تدخلات غذائية والعلاج المناعي للسرطان.",
+          "title": "الصيام يفتح نافذة أيضية تفضّل المناعة المضادة للأورام",
+          "summary": "أُبلغ أن الصيام قصير المدى يغير توفر المغذيات داخل الأورام، مكوّنًا ظروفًا—مثل تراكم الإيزوليوسين داخل الورم—تدعم نشاط الخلايا التائية السامة CD8+. تشير الدراسة إلى أن هذه التحولات الأيضية قد تعزّز الاستجابة لمثبطات نقاط التفتيش المناعية في نماذج ما قبل السريرية وبعض الملاحظات البشرية.",
+          "whyItMatters": "تشير الدراسة إلى أن توقيت النظام الغذائي قد يؤثر على كيفية تفاعل الجهاز المناعي مع الأورام أثناء العلاج؛ هذا مفهوم قد يوجّه الأبحاث السريرية لكنه ليس توصية علاجية.",
           "takeaways": [
-            "الصوم القصير يعيد تشكيل توفر المغذيات داخل الورم وقد يفضّل برامج الخلايا التائية السامة.",
-            "ارتبط تراكم الإيزوليوسين داخل الأورام خلال الصوم باستجابات تائية أقوى.",
-            "هذا بحث آلي (آلي/آليّة)؛ تتطلب الآثار السريرية مزيدًا من الاختبارات في تجارب محكمة."
+            "يؤدي الصيام إلى تغييرات مؤقتة في مشهد المغذيات داخل الورم تؤثر على أيض الخلايا المناعية.",
+            "ارتبط تراكم الإيزوليوسين أثناء الصيام بتعزيز برامج الخلايا التائية CD8+ الفعّالة.",
+            "تشمل النتائج نماذج حيوانية وملاحظات بشرية أولية؛ وتتطلب الآثار السريرية مزيدًا من الدراسة."
           ]
         }
       },
-      "generatedAt": "2026-05-26T10:36:30.424Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cell-2026-fasting-immunity",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-2026-fasting-immunity-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-2026-fasting-immunity-news.webp",
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fasting-immunity-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fasting-immunity-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fasting-immunity-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short-term fasting may create a metabolic state that supports anti-tumor T cell activity.\nStory summary: Researchers show that brief fasting can alter nutrient levels inside tumors, notably increasing intratumoral isoleucine, which supports CD8+ T cell effector functions. In mouse models and some human data, this metabolic shift enhanced responses to immune checkpoint therapies..\nCategory: Metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Fasting opens a metabolic window that favors anti-tumor immunity.\nStory summary: Short-term fasting was reported to change nutrient availability inside tumors, creating conditions—such as intratumoral isoleucine accumulation—that support cytotoxic CD8+ T cell activity. The study suggests these metabolic shifts can enhance responses to immune checkpoint blockade in preclinical models and in some human data..\nCategory: metabolism & oncology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "peroxisome-aging-worms-2026-05-20",
+      "category": "aging biology",
+      "sourceName": "nature.com",
+      "sourceUrl": "http://feeds.nature.com/nataging/rss/current",
+      "sourceTitle": "Nature Aging",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Nature Aging",
+          "summary": "A study in Caenorhabditis elegans found that age-associated loss of peroxisomal function disrupts lipid mobilization, leading to lipid droplet buildup, reduced metabolic flexibility and secondary mitochondrial problems. Restoring peroxisomal activity reversed those deficits and improved metabolic resilience in the worms.",
+          "whyItMatters": "The research links peroxisome decline to broader metabolic breakdown during aging in a model organism, offering a potential mechanistic target for further aging research where relevance to humans remains to be established.",
+          "takeaways": [
+            "Peroxisomal decline with age can impair lipid handling and contribute to metabolic inflexibility in worms.",
+            "Lipid droplet accumulation was associated with downstream mitochondrial dysfunction.",
+            "Restoring peroxisomal activity improved metabolic resilience in the model, prompting further research in other species."
+          ]
+        },
+        "es": {
+          "title": "Nature Aging",
+          "summary": "Un estudio en Caenorhabditis elegans encontró que la pérdida asociada a la edad de la función peroxisomal altera la movilización de lípidos, provocando acumulación de gotas lipídicas, menor flexibilidad metabólica y problemas mitocondriales secundarios. Restaurar la actividad peroxisomal revirtió esos déficits y mejoró la resiliencia metabólica en los gusanos.",
+          "whyItMatters": "La investigación vincula el declive de los peroxisomas con una degradación metabólica más amplia durante el envejecimiento en un organismo modelo, ofreciendo un posible objetivo mecánico para investigaciones adicionales sobre el envejecimiento cuya relevancia para los humanos debe establecerse.",
+          "takeaways": [
+            "El declive peroxisomal con la edad puede afectar el manejo de lípidos y contribuir a la inflexibilidad metabólica en gusanos.",
+            "La acumulación de gotas lipídicas se asoció con disfunción mitocondrial secundaria.",
+            "Restaurar la actividad peroxisomal mejoró la resiliencia metabólica en el modelo, lo que motiva investigaciones en otras especies."
+          ]
+        },
+        "ru": {
+          "title": "Nature Aging",
+          "summary": "Исследование на Caenorhabditis elegans показало, что возрастная утрата функции пероксисом нарушает мобилизацию липидов, приводя к накоплению липидных капель, снижению метаболической гибкости и вторичным митохондриальным проблемам. Восстановление пероксисомальной активности обратило эти дефициты и улучшило метаболическую устойчивость у червей.",
+          "whyItMatters": "Работа связывает снижение функции пероксисом с более широким метаболическим нарушением при старении в модельном организме и предлагает потенциальную механистическую мишень для дальнейших исследований старения, при этом её значение для человека ещё предстоит установить.",
+          "takeaways": [
+            "Возрастное снижение функции пероксисом может нарушать обработку липидов и способствовать метаболической негибкости у червей.",
+            "Накопление липидных капель было связано с последующей митохондриальной дисфункцией.",
+            "Восстановление активности пероксисом улучшало метаболическую устойчивость в модели, что побуждает к исследованиям в других видах."
+          ]
+        },
+        "uk": {
+          "title": "Зв’язок зниження функції пероксисом зі старінням у нематодах",
+          "summary": "Дослідження на Caenorhabditis elegans показало, що вікова втрата функціонування пероксисом порушує мобілізацію ліпідів, що призводить до накопичення ліпідних крапель, зниження метаболічної гнучкості та вторинних проблем з мітохондріями. Відновлення активності пероксисом звернуло ці дефіцити і покращило метаболічну стійкість у нематод.",
+          "whyItMatters": "Дослідження пов’язує упадок пероксисом зі ширшою метаболічною деградацією під час старіння в модельному організмі, даючи потенційну механістичну мішень для подальших досліджень, при цьому її релевантність для людини має бути встановлена додатково.",
+          "takeaways": [
+            "У нематод з віком зниження функції пероксисом може порушувати обробку ліпідів і сприяти метаболічній негнучкості.",
+            "Накопичення ліпідних крапель було пов’язане з подальшою дисфункцією мітохондрій.",
+            "Відновлення активності пероксисом покращило метаболічну стійкість у моделі, що стимулює подальші дослідження в інших видах."
+          ]
+        },
+        "fr": {
+          "title": "Le déclin des péroxysomes lié au vieillissement chez les vers",
+          "summary": "Une étude chez Caenorhabditis elegans a montré que la perte liée à l’âge de la fonction péroxysomale perturbe la mobilisation des lipides, entraînant une accumulation de gouttelettes lipidiques, une réduction de la flexibilité métabolique et des problèmes mitochondriaux secondaires. La restauration de l’activité des péroxysomes a inversé ces déficits et amélioré la résilience métabolique chez les vers.",
+          "whyItMatters": "La recherche relie le déclin des péroxysomes à une dégradation métabolique plus large lors du vieillissement dans un organisme modèle, offrant une cible mécanistique potentielle pour des recherches ultérieures, tandis que la pertinence pour l’humain reste à établir.",
+          "takeaways": [
+            "Le déclin péroxysomal avec l’âge peut altérer la gestion des lipides et contribuer à une inflexibilité métabolique chez les vers.",
+            "L’accumulation de gouttelettes lipidiques était associée à une dysfonction mitochondriale en aval.",
+            "La restauration de l’activité des péroxysomes a amélioré la résilience métabolique dans ce modèle, invitant à des recherches dans d’autres espèces."
+          ]
+        },
+        "de": {
+          "title": "Nature Aging",
+          "summary": "Eine Studie an Caenorhabditis elegans fand, dass altersbedingter Verlust peroxisomaler Funktion die Lipidmobilisierung stört, was zu Ansammlung von Lipidtropfen, verminderter metabolischer Flexibilität und sekundären mitochondrialen Problemen führt. Die Wiederherstellung peroxisomaler Aktivität kehrte diese Defizite um und verbesserte die metabolische Widerstandsfähigkeit der Würmer.",
+          "whyItMatters": "Die Forschung verknüpft den Peroxisom‑Abbau mit breiterem metabolischen Zusammenbruch während des Alterns in einem Modellorganismus und bietet ein potentielles mechanistisches Ziel für weitere Alternsforschung; die Relevanz für Menschen bleibt noch zu klären.",
+          "takeaways": [
+            "Altersbedingter Rückgang peroxisomaler Funktion kann die Lipidverarbeitung beeinträchtigen und zu metabolischer Inflexibilität in Würmern beitragen.",
+            "Die Ansammlung von Lipidtropfen war mit nachgelagerter mitochondrialer Dysfunktion verbunden.",
+            "Die Wiederherstellung peroxisomaler Aktivität verbesserte die metabolische Widerstandskraft im Modell und fordert weitere Forschung in anderen Arten heraus."
+          ]
+        },
+        "pt-br": {
+          "title": "Nature Aging",
+          "summary": "Um estudo em Caenorhabditis elegans encontrou que a perda relacionada à idade da função peroxissomal prejudica a mobilização de lipídios, levando ao acúmulo de gotas lipídicas, redução da flexibilidade metabólica e problemas mitocondriais secundários. Restaurar a atividade peroxissomal reverteu esses déficits e melhorou a resiliência metabólica nos vermes.",
+          "whyItMatters": "A pesquisa liga o declínio dos peroxissomos a uma quebra metabólica mais ampla durante o envelhecimento em um organismo modelo, oferecendo um possível alvo mecanístico para investigações adicionais sobre envelhecimento; a relevância para humanos ainda precisa ser estabelecida.",
+          "takeaways": [
+            "O declínio peroxissomal com a idade pode prejudicar o manejo de lipídios e contribuir para inflexibilidade metabólica em vermes.",
+            "O acúmulo de gotas lipídicas esteve associado a disfunção mitocondrial subsequente.",
+            "Restaurar a atividade peroxissomal melhorou a resiliência metabólica no modelo, incentivando mais pesquisas em outras espécies."
+          ]
+        },
+        "hu": {
+          "title": "Nature Aging",
+          "summary": "Egy Caenorhabditis elegans-ban végzett tanulmány szerint az életkorral járó peroxiszóma-funkció csökkenése megzavarja a lipidmobilizációt, ami lipidcseppek felhalmozódásához, csökkent anyagcsere-rugalmassághoz és másodlagos mitokondriális problémákhoz vezet. A peroxiszómális aktivitás helyreállítása visszafordította ezeket a hiányosságokat és javította az anyagcsere-ellenálló képességet a férgekben.",
+          "whyItMatters": "A kutatás összekapcsolja a peroxiszóma hanyatlását az öregedés során bekövetkező szélesebb anyagcsere-bomlással egy modellorganizmusban, és potenciális mechanisztikus célpontot kínál további öregedéskutatásokhoz; az emberre való vonatkozás még tisztázásra vár.",
+          "takeaways": [
+            "Az életkorral járó peroxiszómális hanyatlás ronthatja a lipidkezelést és hozzájárulhat az anyagcsere-rugalmasság csökkenéséhez a férgekben.",
+            "A lipidcseppek felhalmozódása összefüggésben állt a későbbi mitokondriális diszfunkcióval.",
+            "A peroxiszómális aktivitás helyreállítása javította az anyagcsere-ellenálló képességet a modellben, ami további kutatást indokol más fajokban."
+          ]
+        },
+        "ar": {
+          "title": "Nature Aging",
+          "summary": "وجدت دراسة على Caenorhabditis elegans أن فقدان وظيفة البيروكسيسومات المرتبط بالعمر يعطل تعبئة الشحوم، مما يؤدي إلى تراكم قطرات دهنية وانخفاض المرونة الأيضية ومشكلات ثانوية في الميتوكوندريا. أدى استعادة نشاط البيروكسيسومات إلى عكس هذه العيوب وتحسين الصمود الأيضي في الديدان.",
+          "whyItMatters": "يربط البحث تراجع البيروكسيسومات بانهيار أيضي أوسع خلال الشيخوخة في كائن نموذجي، مما يقدّم هدفًا ميكانيكيًا محتملاً لمزيد من أبحاث الشيخوخة، بينما تظل صلة النتائج بالبشر بحاجة إلى توضيح.",
+          "takeaways": [
+            "يمكن أن يؤثر تراجع وظيفة البيروكسيسومات مع التقدم في العمر على معالجة الشحوم ويُسهم في قلة مرونة الأيض في الديدان.",
+            "ارتبط تراكم قطرات الشحوم بخلل لاحق في الميتوكوندريا.",
+            "أدى استعادة نشاط البيروكسيسومات إلى تحسين الصمود الأيضي في النموذج، ما يستدعي مزيدًا من البحث في أنواع أخرى."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=peroxisome-aging-worms-2026-05-20",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/peroxisome-aging-worms-2026-05-20-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/peroxisome-aging-worms-2026-05-20-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nature Aging.\nStory summary: A study in Caenorhabditis elegans found that age-associated loss of peroxisomal function disrupts lipid mobilization, leading to lipid droplet buildup, reduced metabolic flexibility and secondary mitochondrial problems. Restoring peroxisomal activity reversed those deficits and improved metabolic resilience in the worms..\nCategory: aging biology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "guava-iron-2026-05-27",
+      "category": "nutrition",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260527023200.htm",
+      "sourceTitle": "Scientists say guava juice could make iron supplements work better",
+      "publishedAt": "Wed, 27 May 2026 03:09:36 EDT",
+      "languages": {
+        "en": {
+          "title": "Scientists say guava juice could make iron supplements work better",
+          "summary": "A review of 17 studies found that drinking guava juice was linked with measurable rises in hemoglobin among women and teenage girls, particularly when consumed alongside iron supplements. Researchers note guava’s high vitamin C content compared with oranges as a likely factor in improved iron absorption.",
+          "whyItMatters": "If confirmed by further research, a commonly available fruit juice could be a low-cost way to boost iron uptake, which matters in regions where anemia is common and iron supplementation programs are used.",
+          "takeaways": [
+            "The finding comes from a review synthesizing 17 studies rather than a single trial.",
+            "Effects were most notable when guava juice was taken with iron supplements.",
+            "Guava contains substantially more vitamin C than oranges, which may help iron absorption."
+          ]
+        },
+        "es": {
+          "title": "Científicos dicen que el jugo de guayaba podría mejorar la eficacia de los suplementos de hierro",
+          "summary": "Una revisión de 17 estudios encontró que beber jugo de guayaba se asoció con aumentos medibles en la hemoglobina entre mujeres y adolescentes, especialmente cuando se consumía junto con suplementos de hierro. Los investigadores señalan que el alto contenido de vitamina C de la guayaba en comparación con las naranjas es un factor probable en la mejora de la absorción de hierro.",
+          "whyItMatters": "Si lo confirman investigaciones posteriores, un jugo de fruta de uso común podría ser una forma de bajo costo para aumentar la absorción de hierro, lo que es relevante en regiones donde la anemia es frecuente y se usan programas de suplementación con hierro.",
+          "takeaways": [
+            "El hallazgo proviene de una revisión que sintetiza 17 estudios, no de un solo ensayo.",
+            "Los efectos fueron más notables cuando el jugo de guayaba se tomó con suplementos de hierro.",
+            "La guayaba contiene sustancialmente más vitamina C que las naranjas, lo que puede ayudar a la absorción de hierro."
+          ]
+        },
+        "ru": {
+          "title": "Ученые считают, что сок гуавы может повысить эффективность железосодержащих добавок",
+          "summary": "Обзор 17 исследований показал, что употребление сока гуавы было связано с измеримым повышением уровня гемоглобина у женщин и подростков, особенно при приеме вместе с железосодержащими добавками. Исследователи указывают на более высокое содержание витамина C в гуаве по сравнению с апельсинами как на возможный фактор, улучшающий всасывание железа.",
+          "whyItMatters": "Если это подтвердят последующие исследования, широко доступный фруктовый сок может стать недорогим способом повысить усвоение железа, что важно в регионах с высокой распространённостью анемии и программами добавок железа.",
+          "takeaways": [
+            "Вывод основан на обзоре 17 исследований, а не на одном испытании.",
+            "Эффекты были наиболее выражены при совместном приеме с добавками железа.",
+            "Гуава содержит значительно больше витамина C, чем апельсины, что может способствовать усвоению железа."
+          ]
+        },
+        "uk": {
+          "title": "Вчені: сік гуава може підвищувати ефективність залізовмісних добавок",
+          "summary": "Огляд 17 досліджень виявив, що вживання соку гуава було пов’язане з вимірними підвищеннями рівня гемоглобіну у жінок та дівчат-підлітків, особливо коли його вживали разом із залізовмісними добавками. Дослідники відзначають, що гуава містить значно більше вітаміну C, ніж апельсини, що, ймовірно, сприяє кращому всмоктуванню заліза.",
+          "whyItMatters": "Якщо ці висновки підтвердять подальші дослідження, загальнодоступний фруктовий сік може стати недорогим способом підвищити засвоєння заліза — важливо в регіонах, де анемія поширена і застосовують програми з прийому заліза.",
+          "takeaways": [
+            "Висновок базується на огляді 17 досліджень, а не на одному клінічному випробуванні.",
+            "Ефекти були найпомітнішими при одночасному вживанні соку гуава й залізовмісних добавок.",
+            "Гуава містить істотно більше вітаміну C, ніж апельсини, що може допомагати всмоктуванню заліза."
+          ]
+        },
+        "fr": {
+          "title": "Des scientifiques disent que le jus de goyave pourrait améliorer l’efficacité des suppléments de fer",
+          "summary": "Une revue de 17 études a montré que la consommation de jus de goyave était associée à des augmentations mesurables d’hémoglobine chez les femmes et les adolescentes, en particulier lorsqu’elle était prise avec des suppléments de fer. Les chercheurs notent que la goyave contient sensiblement plus de vitamine C que l’orange, ce qui est probablement un facteur favorisant une meilleure absorption du fer.",
+          "whyItMatters": "Si ces résultats sont confirmés par des recherches supplémentaires, un jus de fruit largement disponible pourrait constituer une façon peu coûteuse d’augmenter l’absorption du fer, ce qui importe dans les régions où l’anémie est fréquente et où des programmes de supplémentation en fer sont utilisés.",
+          "takeaways": [
+            "Il s’agit d’une synthèse de 17 études, et non d’un seul essai.",
+            "Les effets étaient les plus marqués lorsque le jus de goyave était pris avec des suppléments de fer.",
+            "La goyave contient beaucoup plus de vitamine C que l’orange, ce qui peut aider l’absorption du fer."
+          ]
+        },
+        "de": {
+          "title": "Wissenschaftler sagen, Guavensaft könnte die Wirkung von Eisenpräparaten verbessern",
+          "summary": "Eine Übersichtsarbeit zu 17 Studien fand, dass der Konsum von Guavensaft mit messbaren Anstiegen des Hämoglobins bei Frauen und heranwachsenden Mädchen verbunden war, besonders wenn er zusammen mit Eisenpräparaten eingenommen wurde. Forschende nennen den im Vergleich zu Orangen deutlich höheren Vitamin‑C‑Gehalt der Guave als wahrscheinlichen Faktor für die bessere Eisenaufnahme.",
+          "whyItMatters": "Wenn weitere Forschung die Ergebnisse bestätigt, könnte ein weit verbreiteter Fruchtsaft eine kostengünstige Möglichkeit sein, die Eisenaufnahme zu erhöhen — relevant in Regionen, in denen Anämie häufig ist und Eisensupplementierungsprogramme eingesetzt werden.",
+          "takeaways": [
+            "Die Schlussfolgerung basiert auf einer Übersichtsarbeit, die 17 Studien synthetisiert, nicht auf einer einzelnen Studie.",
+            "Effekte waren am deutlichsten, wenn Guavensaft zusammen mit Eisenpräparaten eingenommen wurde.",
+            "Guave enthält deutlich mehr Vitamin C als Orangen, was die Eisenaufnahme unterstützen könnte."
+          ]
+        },
+        "pt-br": {
+          "title": "Cientistas dizem que suco de goiaba pode melhorar a eficácia de suplementos de ferro",
+          "summary": "Uma revisão de 17 estudos constatou que beber suco de goiaba esteve associado a aumentos mensuráveis na hemoglobina em mulheres e adolescentes do sexo feminino, especialmente quando consumido junto com suplementos de ferro. Os pesquisadores apontam o maior teor de vitamina C da goiaba em comparação com a laranja como um fator provável para a melhora na absorção de ferro.",
+          "whyItMatters": "Se confirmado por pesquisas adicionais, um suco de fruta amplamente disponível poderia ser uma maneira de baixo custo para aumentar a captação de ferro, o que é importante em regiões onde a anemia é comum e existem programas de suplementação de ferro.",
+          "takeaways": [
+            "A conclusão vem de uma revisão que sintetiza 17 estudos, e não de um único ensaio.",
+            "Os efeitos foram mais evidentes quando o suco de goiaba foi tomado com suplementos de ferro.",
+            "A goiaba contém substancialmente mais vitamina C que a laranja, o que pode ajudar na absorção do ferro."
+          ]
+        },
+        "hu": {
+          "title": "A tudósok szerint a guava-lé javíthatja a vas-kiegészítők hatását",
+          "summary": "17 tanulmány áttekintése szerint a guava-lé fogyasztása mérhető hemoglobinszint-emelkedéssel társult nők és tinilányok körében, különösen akkor, ha vas-kiegészítőkkel együtt fogyasztották. A kutatók megjegyzik, hogy a guava C‑vitamin-tartalma jelentősen magasabb a narancsénál, ami valószínűsíthetően hozzájárult a jobb vasfelszívódáshoz.",
+          "whyItMatters": "Ha további kutatások megerősítik az eredményeket, egy könnyen hozzáférhető gyümölcslé olcsó mód lehet a vasfelvétel növelésére — ez különösen fontos lehet olyan térségekben, ahol gyakori a vérszegénység és működnek vasellátási programok.",
+          "takeaways": [
+            "Az eredmény egy 17 tanulmányt összegző áttekintésből származik, nem egyetlen klinikai vizsgálatból.",
+            "A hatás leginkább akkor volt észlelhető, amikor a guava-lét vas-kiegészítőkkel együtt fogyasztották.",
+            "A guava jóval több C‑vitamint tartalmaz, mint a narancs, ami segítheti a vas felszívódását."
+          ]
+        },
+        "ar": {
+          "title": "يقول العلماء إن عصير الجوافة قد يحسن فعالية مكملات الحديد",
+          "summary": "وجدت مراجعة لـ17 دراسة ارتباط شرب عصير الجوافة بزيادات قابلة للقياس في مستوى الهيموغلوبين لدى النساء والفتيات المراهقات، لا سيما عند تناوله مع مكملات الحديد. يذكر الباحثون أن احتواء الجوافة على فيتامين C بكمية أكبر مقارنة بالبرتقال قد يكون عاملاً محتملاً في تحسين امتصاص الحديد.",
+          "whyItMatters": "إذا أكدت أبحاث إضافية هذه النتائج، فقد يكون عصير فاكهة متوفر على نطاق واسع وسيلة منخفضة التكلفة لتعزيز امتصاص الحديد، وهو أمر مهم في المناطق التي ينتشر فيها فقر الدم وتُطبّق برامج مكملات الحديد.",
+          "takeaways": [
+            "النتيجة مستمدة من مراجعة تلخّص 17 دراسة وليس من تجربة سريرية واحدة.",
+            "كانت التأثيرات أوضح عندما تم تناول عصير الجوافة مع مكملات الحديد.",
+            "تحتوي الجوافة على فيتامين C بكميات أكبر بكثير من البرتقال، ما قد يساعد على امتصاص الحديد."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=guava-iron-2026-05-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/guava-iron-2026-05-27-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/guava-iron-2026-05-27-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Scientists say guava juice could make iron supplements work better.\nStory summary: A review of 17 studies found that drinking guava juice was linked with measurable rises in hemoglobin among women and teenage girls, particularly when consumed alongside iron supplements. Researchers note guava’s high vitamin C content compared with oranges as a likely factor in improved iron absorption..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "bp-women-midlife-2026-05-27",
+      "category": "cardiometabolic health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260527/Why-blood-pressure-rises-faster-in-women-after-midlife.aspx",
+      "sourceTitle": "Why blood pressure rises faster in women after midlife",
+      "publishedAt": "Wed, 27 May 2026 00:35:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Why blood pressure rises faster in women after midlife",
+          "summary": "A recent review explores how genetics, sex hormones, metabolic risk factors, lifestyle, environmental stressors and medical treatments combine to shape blood pressure trajectories differently in women and men. The authors highlight that women tend to have lower blood pressure earlier in life but can show steeper increases around and after menopause.",
+          "whyItMatters": "Understanding sex-specific patterns in blood pressure can help inform monitoring and prevention efforts, and may explain why midlife changes affect women differently than men.",
+          "takeaways": [
+            "Multiple biological and environmental factors interact to shape blood pressure over the life course.",
+            "Women often experience a faster rise in blood pressure around and after menopause.",
+            "External stressors and treatments may have a relatively larger impact on blood pressure in women."
+          ]
+        },
+        "es": {
+          "title": "Por qué la presión arterial aumenta más rápido en las mujeres después de la mediana edad",
+          "summary": "Una revisión reciente explora cómo la genética, las hormonas sexuales, los factores metabólicos, el estilo de vida, los factores ambientales y los tratamientos médicos se combinan para moldear las trayectorias de la presión arterial de forma diferente en mujeres y hombres. Los autores destacan que las mujeres tienden a tener presión arterial más baja en etapas tempranas de la vida, pero pueden mostrar aumentos más pronunciados alrededor y después de la menopausia.",
+          "whyItMatters": "Comprender los patrones específicos según el sexo en la presión arterial puede ayudar a orientar los esfuerzos de vigilancia y prevención, y puede explicar por qué los cambios de la mediana edad afectan a las mujeres de forma distinta que a los hombres.",
+          "takeaways": [
+            "Varios factores biológicos y ambientales interactúan para dar forma a la presión arterial a lo largo de la vida.",
+            "Las mujeres suelen experimentar un aumento más rápido de la presión arterial alrededor y después de la menopausia.",
+            "Los factores externos y los tratamientos pueden tener un impacto relativamente mayor en la presión arterial de las mujeres."
+          ]
+        },
+        "ru": {
+          "title": "Почему артериальное давление у женщин после среднего возраста растет быстрее",
+          "summary": "Недавний обзор изучает, как генетика, половые гормоны, метаболические факторы риска, образ жизни, экологические стрессоры и медицинские вмешательства в совокупности формируют траектории артериального давления у женщин и мужчин по-разному. Авторы подчёркивают, что у женщин давление часто ниже в ранние периоды жизни, но вокруг и после менопаузы наблюдаются более резкие повышения.",
+          "whyItMatters": "Понимание пол-специфичных закономерностей артериального давления может помочь в мониторинге и профилактике и может объяснять, почему изменения в среднем возрасте по-разному влияют на женщин и мужчин.",
+          "takeaways": [
+            "Множество биологических и внешних факторов взаимодействуют, формируя артериальное давление на протяжении жизни.",
+            "У женщин зачастую наблюдается более быстрое повышение давления вокруг и после менопаузы.",
+            "Внешние стрессоры и медицинские вмешательства могут оказывать относительно больший эффект на давление у женщин."
+          ]
+        },
+        "uk": {
+          "title": "Чому у жінок артеріальний тиск підвищується швидше після середнього віку",
+          "summary": "Нещодавній огляд досліджень розглядає, як генетика, статеві гормони, метаболічні фактори ризику, спосіб життя, стресові фактори довкілля та медичні втручання поєднуються, формуючи траєкторії артеріального тиску по-різному у жінок і чоловіків. Автори підкреслюють, що жінки зазвичай мають нижчий тиск у молодшому віці, але можуть демонструвати стрімкіші підвищення під час і після менопаузи.",
+          "whyItMatters": "Розуміння статеспецифічних закономірностей артеріального тиску може допомогти у моніторингу й профілактиці та пояснити, чому зміни в середині життя впливають на жінок інакше, ніж на чоловіків.",
+          "takeaways": [
+            "Багато біологічних і зовнішніх факторів взаємодіють, формуючи рівень артеріального тиску протягом життя.",
+            "У жінок часто спостерігається швидше зростання артеріального тиску під час і після менопаузи.",
+            "Зовнішні стресори та лікування можуть мати відносно більший вплив на тиск у жінок."
+          ]
+        },
+        "fr": {
+          "title": "Pourquoi la pression artérielle augmente plus rapidement chez les femmes après la mi‑vie",
+          "summary": "Une revue récente examine comment la génétique, les hormones sexuelles, les facteurs de risque métaboliques, le mode de vie, les facteurs de stress environnementaux et les traitements médicaux se combinent pour façonner différemment les trajectoires de la pression artérielle chez les femmes et les hommes. Les auteurs soulignent que les femmes ont tendance à avoir une pression artérielle plus basse plus tôt dans la vie, mais peuvent connaître des augmentations plus marquées autour de la ménopause et après.",
+          "whyItMatters": "Comprendre les schémas spécifiques au sexe de la pression artérielle peut aider à orienter la surveillance et la prévention, et peut expliquer pourquoi les changements en milieu de vie affectent différemment les femmes et les hommes.",
+          "takeaways": [
+            "Plusieurs facteurs biologiques et environnementaux interagissent pour façonner la pression artérielle au cours de la vie.",
+            "Les femmes connaissent souvent une augmentation plus rapide de la pression artérielle autour de la ménopause et après.",
+            "Les facteurs externes et les traitements peuvent avoir un impact relativement plus important sur la pression artérielle des femmes."
+          ]
+        },
+        "de": {
+          "title": "Warum der Blutdruck bei Frauen nach der Lebensmitte schneller steigt",
+          "summary": "Eine aktuelle Übersichtsarbeit untersucht, wie Genetik, Geschlechtshormone, metabolische Risikofaktoren, Lebensstil, Umwelteinflüsse und medizinische Behandlungen zusammenwirken und bei Frauen und Männern unterschiedliche Blutdruckverläufe prägen. Die Autoren betonen, dass Frauen tendenziell früher im Leben niedrigere Blutdruckwerte haben, aber um die Menopause herum und danach stärkere Anstiege zeigen können.",
+          "whyItMatters": "Das Verständnis geschlechtsspezifischer Blutdruckmuster kann Überwachungs‑ und Präventionsmaßnahmen informieren und erklären, warum Veränderungen in der Lebensmitte Frauen anders betreffen als Männer.",
+          "takeaways": [
+            "Mehrere biologische und umweltbedingte Faktoren interagieren über die Lebensspanne und beeinflussen den Blutdruck.",
+            "Frauen erfahren häufig einen schnelleren Anstieg des Blutdrucks um und nach der Menopause.",
+            "Externe Stressoren und Behandlungen können beim Blutdruck von Frauen vergleichsweise größeren Einfluss haben."
+          ]
+        },
+        "pt-br": {
+          "title": "Por que a pressão arterial sobe mais rápido em mulheres após a meia-idade",
+          "summary": "Uma revisão recente explora como genética, hormônios sexuais, fatores de risco metabólicos, estilo de vida, estressores ambientais e tratamentos médicos se combinam para moldar trajetórias de pressão arterial de forma diferente em mulheres e homens. Os autores destacam que mulheres tendem a ter pressão arterial mais baixa mais cedo na vida, mas podem apresentar aumentos mais acentuados ao redor e após a menopausa.",
+          "whyItMatters": "Compreender padrões de pressão arterial específicos por sexo pode ajudar a orientar esforços de monitoramento e prevenção e pode explicar por que mudanças na meia-idade afetam mulheres de forma diferente que homens.",
+          "takeaways": [
+            "Múltiplos fatores biológicos e ambientais interagem para moldar a pressão arterial ao longo da vida.",
+            "Mulheres frequentemente experimentam uma elevação mais rápida da pressão arterial ao redor e após a menopausa.",
+            "Estressores externos e tratamentos podem ter impacto relativamente maior na pressão arterial das mulheres."
+          ]
+        },
+        "hu": {
+          "title": "Miért emelkedik gyorsabban a vérnyomás a nőkben a középkor után",
+          "summary": "Egy közelmúltbeli áttekintés vizsgálta, hogyan kombinálódnak a genetikai tényezők, a nemi hormonok, a metabolikus kockázatok, az életmód, a környezeti stresszorok és az orvosi kezelések, hogy eltérő vérnyomáspályákat alakítsanak ki nőknél és férfiaknál. A szerzők rámutatnak, hogy a nők gyakran alacsonyabb vérnyomással rendelkeznek korábban az életben, de a menopauza körül és azt követően meredekebb emelkedést mutathatnak.",
+          "whyItMatters": "A nemekre jellemző vérnyomásminták megértése segíthet a monitorozás és a megelőzés tervezésében, és magyarázatot nyújthat arra, miért érintik a középkori változások a nőket másként, mint a férfiakat.",
+          "takeaways": [
+            "Több biológiai és környezeti tényező kölcsönhatása alakítja a vérnyomást az élet során.",
+            "A nők gyakran gyorsabb vérnyomásnövekedést tapasztalnak a menopauza környékén és azután.",
+            "A külső stresszorok és kezelések viszonylag nagyobb hatással lehetnek a vérnyomásra nők esetében."
+          ]
+        },
+        "ar": {
+          "title": "لماذا يرتفع ضغط الدم أسرع لدى النساء بعد منتصف العمر",
+          "summary": "تستعرض مراجعة حديثة كيف تتفاعل العوامل الوراثية والهرمونات الجنسية وعوامل الخطر الأيضية ونمط الحياة والضغوط البيئية والعلاجات الطبية لتشكيل مسارات ضغط الدم بشكل مختلف لدى النساء والرجال. يشير المؤلفون إلى أن النساء عادة ما يكنّ أقل ضغطًا دمويًا في وقت مبكر من الحياة، لكن قد تظهر لديهن زيادة أسرع حول وبعد سن اليأس.",
+          "whyItMatters": "يمكن أن يساعد فهم أنماط ضغط الدم الخاصة بكل جنس في توجيه جهود المراقبة والوقاية، وقد يفسر سبب تأثير التغيرات في منتصف العمر على النساء بشكل مختلف عن الرجال.",
+          "takeaways": [
+            "تتفاعل عوامل بيولوجية وبيئية متعددة لتشكيل ضغط الدم على مدار الحياة.",
+            "غالبًا ما تشهد النساء ارتفاعًا أسرع في ضغط الدم حول وبعد سن اليأس.",
+            "قد يكون للضغوط الخارجية والعلاجات تأثير أكبر نسبيًا على ضغط الدم لدى النساء."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bp-women-midlife-2026-05-27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bp-women-midlife-2026-05-27-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bp-women-midlife-2026-05-27-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Why blood pressure rises faster in women after midlife.\nStory summary: A recent review explores how genetics, sex hormones, metabolic risk factors, lifestyle, environmental stressors and medical treatments combine to shape blood pressure trajectories differently in women and men. The authors highlight that women tend to have lower blood pressure earlier in life but can show steeper increases around and after menopause..\nCategory: cardiometabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "unneeded-routines-older-people-2026-05-26",
+      "category": "medical care",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-05-medical-routines-older-people.html",
+      "sourceTitle": "Three medical routines that older people may not need",
+      "publishedAt": "Tue, 26 May 2026 21:20:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Three medical routines that older people may not need",
+          "summary": "The article discusses medical procedures and follow-up practices that may be unnecessary for some older adults when guideline criteria have been met. As an example, a patient whose previous colonoscopy interval met current recommendations was eligible to delay repeat screening.",
+          "whyItMatters": "Reducing unnecessary routines can lower patient burden and health system costs while focusing care where it’s most beneficial, but decisions should follow current guidelines and individual clinical judgment.",
+          "takeaways": [
+            "Not all routine tests or repeat procedures are needed for every older patient—timing and guideline criteria matter.",
+            "Appropriate intervals can prevent unnecessary interventions and related harms.",
+            "Decisions should involve clinicians and patients, considering guidelines and individual health status."
+          ]
+        },
+        "es": {
+          "title": "Tres rutinas médicas que las personas mayores pueden no necesitar",
+          "summary": "El artículo aborda procedimientos médicos y prácticas de seguimiento que pueden ser innecesarios para algunos adultos mayores cuando se cumplen los criterios de las guías. Como ejemplo, un paciente cuyo intervalo previo de colonoscopia cumplía las recomendaciones vigentes era elegible para posponer la repetición del cribado.",
+          "whyItMatters": "Reducir rutinas innecesarias puede disminuir la carga para el paciente y los costos del sistema sanitario, al tiempo que se concentra la atención donde más beneficia, pero las decisiones deben seguir las guías vigentes y el juicio clínico individual.",
+          "takeaways": [
+            "No todas las pruebas de rutina o procedimientos repetidos son necesarios para cada paciente mayor: el momento y los criterios de las guías importan.",
+            "Intervalos apropiados pueden prevenir intervenciones innecesarias y daños relacionados.",
+            "Las decisiones deben tomarlas clínicos y pacientes, considerando las guías y el estado de salud individual."
+          ]
+        },
+        "ru": {
+          "title": "Три медицинские процедуры, которые пожилым людям могут не понадобиться",
+          "summary": "В статье рассматриваются медицинские процедуры и практики последующего наблюдения, которые могут быть избыточными для некоторых пожилых людей, если выполнены критерии руководств. В качестве примера приводят пациента, чей предыдущий интервал между колоноскопиями соответствовал текущим рекомендациям, поэтому повторную проверку можно было отложить.",
+          "whyItMatters": "Сокращение ненужных процедур может снизить нагрузку на пациентов и затраты системы здравоохранения, одновременно сосредоточив уход там, где он наиболее полезен, но решения должны основываться на действующих руководствах и клиническом суждении.",
+          "takeaways": [
+            "Не все рутинные тесты или повторные процедуры нужны каждому пожилому пациенту — важны сроки и критерии руководств.",
+            "Соответствующие интервалы могут предотвратить ненужные вмешательства и связанные с ними вреды.",
+            "Решения должны приниматься совместно врачами и пациентами с учётом руководств и индивидуального состояния здоровья."
+          ]
+        },
+        "uk": {
+          "title": "Три медичні рутинні практики, які можуть бути непотрібні людям похилого віку",
+          "summary": "Матеріал обговорює медичні процедури й практику спостереження, які можуть бути непотрібними для деяких літніх пацієнтів за умови виконання критеріїв керівних рекомендацій. Наприклад, пацієнт, у якого попередній інтервал між колоноскопіями відповідав чинним рекомендаціям, міг відкласти повторне скринінгове обстеження.",
+          "whyItMatters": "Скорочення непотрібних рутинних процедур може зменшити навантаження на пацієнтів і витрати системи охорони здоров’я та зосередити увагу на найбільш корисній допомозі, але рішення мають ухвалюватися з урахуванням чинних рекомендацій і індивідуальної клінічної оцінки.",
+          "takeaways": [
+            "Не всі рутинні тести чи повторні процедури потрібні кожному літньому пацієнтові — важливі строки та відповідність рекомендаціям.",
+            "Дотримання відповідних інтервалів може запобігти непотрібним втручанням і пов’язаним ушкодженням.",
+            "Рішення мають ухвалюватися за участю клініцистів та пацієнтів з урахуванням рекомендацій і стану здоров’я конкретної людини."
+          ]
+        },
+        "fr": {
+          "title": "Trois pratiques médicales de routine dont les personnes âgées peuvent ne pas avoir besoin",
+          "summary": "L’article traite de procédures médicales et de pratiques de suivi qui peuvent être inutiles pour certains adultes âgés lorsque les critères des directives sont remplis. Par exemple, un patient dont l’intervalle antérieur de coloscopie respectait les recommandations en vigueur pouvait reporter le dépistage répété.",
+          "whyItMatters": "Réduire les routines inutiles peut alléger la charge pour les patients et les coûts du système de santé tout en concentrant les soins là où ils sont les plus bénéfiques, mais les décisions doivent suivre les directives en vigueur et le jugement clinique individuel.",
+          "takeaways": [
+            "Tous les tests de routine ou procédures répétées ne sont pas nécessaires pour chaque patient âgé — le calendrier et la conformité aux recommandations comptent.",
+            "Des intervalles appropriés peuvent éviter des interventions inutiles et les préjudices associés.",
+            "Les décisions devraient impliquer cliniciens et patients, en tenant compte des directives et de l’état de santé individuel."
+          ]
+        },
+        "de": {
+          "title": "Drei medizinische Routinen, die ältere Menschen möglicherweise nicht brauchen",
+          "summary": "Der Artikel behandelt medizinische Verfahren und Nachsorgepraktiken, die für einige ältere Erwachsene unnötig sein können, wenn die Kriterien der Leitlinien erfüllt sind. Als Beispiel war ein Patient, dessen früheres Koloskopie‑Intervall den aktuellen Empfehlungen entsprach, berechtigt, die erneute Untersuchung zu verschieben.",
+          "whyItMatters": "Weniger unnötige Routinen können die Belastung für Patient:innen und die Kosten des Gesundheitssystems senken und die Versorgung dort konzentrieren, wo sie am meisten nützt. Entscheidungen sollten jedoch Leitlinien und individueller klinischer Beurteilung folgen.",
+          "takeaways": [
+            "Nicht alle Routineuntersuchungen oder Wiederholungsverfahren sind für jeden älteren Patienten nötig — Timing und Leitlinienkriterien sind entscheidend.",
+            "Angemessene Intervalle können unnötige Eingriffe und damit verbundene Schäden vermeiden.",
+            "Entscheidungen sollten gemeinsam von Klinikern und Patient:innen getroffen werden, unter Berücksichtigung von Leitlinien und dem individuellen Gesundheitszustand."
+          ]
+        },
+        "pt-br": {
+          "title": "Três rotinas médicas que pessoas idosas podem não precisar",
+          "summary": "O artigo discute procedimentos médicos e práticas de seguimento que podem ser desnecessários para alguns idosos quando os critérios das diretrizes são atendidos. Por exemplo, um paciente cujo intervalo anterior de colonoscopia cumpria as recomendações atuais era elegível para adiar a repetição do rastreamento.",
+          "whyItMatters": "Reduzir rotinas desnecessárias pode diminuir o ônus para o paciente e os custos do sistema de saúde, ao mesmo tempo que foca o cuidado onde é mais benéfico; decisões, entretanto, devem seguir diretrizes vigentes e julgamento clínico individual.",
+          "takeaways": [
+            "Nem todos os exames rotineiros ou procedimentos repetidos são necessários para todo idoso — o momento e os critérios das diretrizes importam.",
+            "Intervalos apropriados podem prevenir intervenções desnecessárias e danos relacionados.",
+            "Decisões devem envolver clínicos e pacientes, considerando diretrizes e o estado de saúde individual."
+          ]
+        },
+        "hu": {
+          "title": "Három orvosi rutinszerű beavatkozás, amire az idősebbeknek nem mindig van szükségük",
+          "summary": "A cikk olyan orvosi eljárásokat és követési gyakorlatokat tárgyal, amelyek egyes idősebb felnőttek számára szükségtelenek lehetnek, ha a jelenlegi irányelvek szerinti kritériumok teljesülnek. Példaként említik, hogy egy beteg, akinek korábbi kolonoszkópiája az ajánlott időköznek megfelelt, jogosult volt elhalasztani az ismételt szűrést.",
+          "whyItMatters": "A felesleges rutinszerű eljárások csökkentése mérsékelheti a betegek terhelését és az egészségügyi rendszer költségeit, miközben a gondozást ott fókuszálja, ahol a leginkább hasznos — a döntéseknek azonban meg kell felelniük az irányelveknek és az egyéni klinikai megítélésnek.",
+          "takeaways": [
+            "Nem minden rutinvizsgálat vagy ismétlődő beavatkozás szükséges minden idős beteg számára — az időzítés és az irányelvek számítanak.",
+            "A megfelelő időközök segíthetnek elkerülni a szükségtelen beavatkozásokat és az azokkal járó károkat.",
+            "A döntéseknek a klinikusokkal és a betegekkel együtt kell születniük, figyelembe véve az irányelveket és az egyéni egészségi állapotot."
+          ]
+        },
+        "ar": {
+          "title": "ثلاث روتينات طبية قد لا يحتاجها كبار السن",
+          "summary": "يناقش المقال إجراءات طبية وممارسات متابعة قد تكون غير ضرورية لبعض البالغين الأكبر سنًا عندما تُستوفى معايير الإرشادات. على سبيل المثال، كان المريض الذي كانت فترة تنظير القولون السابقة لديه تتوافق مع التوصيات الحالية مؤهلاً لتأجيل الفحص المتكرر.",
+          "whyItMatters": "يمكن لتقليل الروتينات غير الضرورية أن يقلل من عبء المرضى وتكاليف النظام الصحي مع تركيز الرعاية حيث تكون أكثر فائدة، لكن يجب أن تستند القرارات إلى الإرشادات الحالية والحكم السريري الفردي.",
+          "takeaways": [
+            "ليست كل الفحوصات الروتينية أو الإجراءات المتكررة ضرورية لكل مريض مسنّ — التوقيت ومعايير الإرشادات مهمة.",
+            "يمكن للفواصل الزمنية المناسبة أن تمنع التدخلات غير الضرورية والأضرار المرتبطة بها.",
+            "يجب أن تُتخذ القرارات بمشاركة الأطباء والمرضى مع مراعاة الإرشادات والحالة الصحية الفردية."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=unneeded-routines-older-people-2026-05-26",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/unneeded-routines-older-people-2026-05-26-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/unneeded-routines-older-people-2026-05-26-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Three medical routines that older people may not need.\nStory summary: The article discusses medical procedures and follow-up practices that may be unnecessary for some older adults when guideline criteria have been met. As an example, a patient whose previous colonoscopy interval met current recommendations was eligible to delay repeat screening..\nCategory: medical care.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "hpv-self-collection-2026-05-26",
+      "category": "public health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/obgyn/cervicalcancer/121440",
+      "sourceTitle": "Cervical Cancer Screening Rose After HPV Self-Collection Program Launched",
+      "publishedAt": "Tue, 26 May 2026 17:41:51 -0400",
+      "languages": {
+        "en": {
+          "title": "Cervical Cancer Screening Rose After HPV Self-Collection Program Launched",
+          "summary": "An evaluation found that offering self-collected HPV tests, either mailed to participants or available in clinic, increased cervical cancer screening rates among people who were due or overdue for screening.",
+          "whyItMatters": "Self-collection options can lower barriers to screening and reach underscreened groups, which could improve early detection efforts at a population level.",
+          "takeaways": [
+            "Mailing self-collection kits or offering them in clinic both boosted screening uptake.",
+            "Self-collected HPV testing may be an effective strategy for people who avoid traditional screening.",
+            "Program design (access, follow-up) matters for converting testing into appropriate care."
+          ]
+        },
+        "es": {
+          "title": "Aumentó el cribado de cáncer cervical tras lanzar un programa de auto‑toma de muestras para VPH",
+          "summary": "Una evaluación encontró que ofrecer pruebas de VPH autoadministradas, ya sea enviadas por correo a las participantes o disponibles en la clínica, aumentó las tasas de cribado de cáncer cervical entre personas que estaban programadas o con retraso en el cribado.",
+          "whyItMatters": "Las opciones de auto‑toma pueden reducir barreras al cribado y alcanzar a grupos con baja cobertura, lo que podría mejorar la detección temprana a nivel poblacional.",
+          "takeaways": [
+            "Enviar kits de auto‑toma por correo u ofrecerlos en la clínica aumentó la participación en el cribado.",
+            "La prueba de VPH autoadministrada puede ser una estrategia eficaz para quienes evitan el cribado tradicional.",
+            "El diseño del programa (acceso, seguimiento) es importante para convertir la prueba en atención adecuada."
+          ]
+        },
+        "ru": {
+          "title": "Уровень скрининга рака шейки матки вырос после запуска программы самообследования на ВПЧ",
+          "summary": "Оценка показала, что предложение самообследования на ВПЧ — как с рассылкой комплектов участникам, так и при наличии в клинике — повысило охват скрининга рака шейки матки среди людей, которые подлежали или пропустили скрининг.",
+          "whyItMatters": "Варианты самообследования могут снизить барьеры к скринингу и охватить недостаточно обследуемые группы, что может улучшить раннее выявление на популяционном уровне.",
+          "takeaways": [
+            "Отправка комплектов самообследования по почте или их выдача в клинике увеличили вовлечённость в скрининг.",
+            "Самостоятельный тест на ВПЧ может быть эффективной стратегией для тех, кто избегает традиционного скрининга.",
+            "Дизайн программы (доступность, последующее наблюдение) важен для превращения тестирования в надлежащую помощь."
+          ]
+        },
+        "uk": {
+          "title": "Рівень скринінгу на рак шийки матки зріс після запуску програми самозбору для тестів на ВПЛ",
+          "summary": "Оцінка показала, що запропоновані варіанти самостійного забору зразків для тестування на ВПЛ — як надсилані поштою учасникам, так і доступні в клініці — підвищили рівень скринінгу серед людей, які були належні або запізнилися зі скринінгом.",
+          "whyItMatters": "Опції самозбору можуть знизити бар’єри для проходження скринінгу і залучити ті групи, які рідше проходять обстеження, що може покращити раннє виявлення на рівні населення.",
+          "takeaways": [
+            "Надсилання комплектів для самозбору поштою або їх наявність у клініці обидва сприяли зростанню охоплення скринінгом.",
+            "Тести на ВПЛ із самозбором можуть бути дієвою стратегією для людей, які уникають традиційного скринінгу.",
+            "Дизайн програми (доступність, подальші дії) важливий для перетворення тестування на належну медичну допомогу."
+          ]
+        },
+        "fr": {
+          "title": "Le dépistage du cancer du col de l’utérus a augmenté après le lancement d’un programme d’auto‑prélèvement pour le HPV",
+          "summary": "Une évaluation a constaté que la proposition de tests HPV auto‑prélèvés, envoyés par la poste aux participantes ou disponibles en clinique, a augmenté les taux de dépistage du cancer du col de l’utérus chez les personnes à jour ou en retard de leur dépistage.",
+          "whyItMatters": "Les options d’auto‑prélèvement peuvent réduire les obstacles au dépistage et atteindre des groupes insuffisamment dépistés, ce qui pourrait améliorer la détection précoce au niveau de la population.",
+          "takeaways": [
+            "L’envoi de kits d’auto‑prélèvement par la poste ou leur mise à disposition en clinique a augmenté la participation au dépistage.",
+            "Le test HPV auto‑prélève peut être une stratégie efficace pour les personnes qui évitent le dépistage traditionnel.",
+            "La conception du programme (accès, suivi) est importante pour transformer le dépistage en prise en charge appropriée."
+          ]
+        },
+        "de": {
+          "title": "Zervixkrebs‑Screenings stiegen nach Einführung eines HPV‑Selbstabstrichprogramms",
+          "summary": "Eine Evaluierung ergab, dass das Angebot von selbstentnommenen HPV‑Proben, entweder per Post zugeschickt oder in der Klinik verfügbar, die Raten von Gebärmutterhalskrebs‑Screenings bei Personen erhöhte, die fällig oder überfällig für ein Screening waren.",
+          "whyItMatters": "Selbstabstrich‑Optionen können Barrieren für Screenings senken und unterversorgte Gruppen erreichen, was die Früherkennung auf Bevölkerungsniveau verbessern könnte.",
+          "takeaways": [
+            "Das Verschicken von Selbstabstrich‑Kits und das Angebot in der Klinik erhöhten jeweils die Teilnahme am Screening.",
+            "Selbstentnommene HPV‑Proben können eine effektive Strategie für Personen sein, die traditionelle Screenings vermeiden.",
+            "Das Design des Programms (Zugang, Nachverfolgung) ist wichtig, damit Tests zu angemessener Versorgung führen."
+          ]
+        },
+        "pt-br": {
+          "title": "Rastreamento do câncer cervical aumentou após programa de auto‑coleta de HPV ser lançado",
+          "summary": "Uma avaliação constatou que oferecer testes de HPV com amostras auto‑coletadas, seja enviadas por correio aos participantes ou disponibilizadas na clínica, aumentou as taxas de rastreamento do câncer cervical entre pessoas que estavam com o rastreamento em dia ou em atraso.",
+          "whyItMatters": "Opções de auto‑coleta podem reduzir barreiras ao rastreamento e alcançar grupos com baixa cobertura, o que pode melhorar a detecção precoce em nível populacional.",
+          "takeaways": [
+            "Envio de kits de auto‑coleta por correio e oferta em clínica ambos aumentaram a adesão ao rastreamento.",
+            "Testes de HPV com amostras auto‑coletadas podem ser uma estratégia eficaz para pessoas que evitam o rastreamento tradicional.",
+            "O desenho do programa (acesso, acompanhamento) é importante para converter o teste em cuidado apropriado."
+          ]
+        },
+        "hu": {
+          "title": "Méhszájrák-szűrés nőtt az HPV önmintavételi program elindítása után",
+          "summary": "Egy értékelés azt találta, hogy az önmintavételi HPV-tesztek felkínálása — postai úton kiküldve vagy rendelőben elérhetővé téve — növelte a méhnyakrák-szűrés arányát azok között, akik esedékesek vagy elmaradtak a szűréstől.",
+          "whyItMatters": "Az önmintavételi lehetőségek csökkenthetik a szűréshez kapcsolódó akadályokat és elérhetik az alulszűrt csoportokat, ami népességi szinten javíthatja a korai felismerést.",
+          "takeaways": [
+            "Az önmintavételi készletek postai kiküldése és a rendelőben történő elérhetővé tétele egyaránt növelte a szűrési részvételt.",
+            "Az önmintavétellel végzett HPV-teszt hatékony stratégia lehet azok számára, akik elkerülik a hagyományos szűrést.",
+            "A program tervezése (hozzáférés, utánkövetés) fontos ahhoz, hogy a tesztelés megfelelő ellátássá alakuljon."
+          ]
+        },
+        "ar": {
+          "title": "ارتفعت نسبة فحص سرطان عنق الرحم بعد إطلاق برنامج أخذ عينات HPV ذاتياً",
+          "summary": "خلص تقييم إلى أن توفير اختبارات HPV التي يجري جمعها ذاتياً—إما مُرسلة بالبريد إلى المشاركين أو متاحة في العيادة—زاد من معدلات فحص سرطان عنق الرحم بين الأشخاص المستحقين أو المتأخرين عن الفحص.",
+          "whyItMatters": "يمكن لخيارات الجمع الذاتي أن تقلل الحواجز أمام الفحص وتصل إلى المجموعات غير المُفحوصة بشكل كافٍ، مما قد يحسّن جهود الكشف المبكر على مستوى السكان.",
+          "takeaways": [
+            "إرسال مجموعات الجمع الذاتي بالبريد أو توفيرها في العيادة عزّز المشاركة في الفحص.",
+            "قد تكون اختبارات HPV التي يجمعها الشخص بنفسه استراتيجية فعالة لمن يتجنبون الفحص التقليدي.",
+            "تصميم البرنامج (الوصول، المتابعة) مهم لتحويل الفحص إلى رعاية مناسبة."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=hpv-self-collection-2026-05-26",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hpv-self-collection-2026-05-26-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hpv-self-collection-2026-05-26-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cervical Cancer Screening Rose After HPV Self-Collection Program Launched.\nStory summary: An evaluation found that offering self-collected HPV tests, either mailed to participants or available in clinic, increased cervical cancer screening rates among people who were due or overdue for screening..\nCategory: public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tau-memory-2026-05-26",
+      "category": "neuroscience / aging",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/tau-protein-is-crucial-for-encoding-long-term-memory/?utm_source=rss&",
+      "sourceTitle": "Tau Protein Is Crucial for Encoding Long-Term Memory",
+      "publishedAt": "Tue, 26 May 2026 16:04:24 +0000",
+      "languages": {
+        "en": {
+          "title": "Tau Protein Is Crucial for Encoding Long-Term Memory",
+          "summary": "Researchers report a previously unrecognized role for the tau protein—best known for its involvement in Alzheimer’s disease—in encoding long-term memories. This work highlights tau’s function beyond its pathological associations.",
+          "whyItMatters": "Recognizing normal physiological roles for proteins linked to disease can change how researchers approach treatments and interpret changes seen in neurodegenerative conditions.",
+          "takeaways": [
+            "Tau has functions in healthy memory formation as well as roles in disease.",
+            "New insights complicate the picture of tau as solely a pathological marker.",
+            "Findings may influence future research directions, not immediate clinical practice."
+          ]
+        },
+        "es": {
+          "title": "La proteína tau es crucial para codificar la memoria a largo plazo",
+          "summary": "Investigadores describen un papel hasta ahora poco reconocido de la proteína tau —más conocida por su implicación en la enfermedad de Alzheimer— en la codificación de memorias a largo plazo. Este trabajo subraya la función de la tau más allá de sus asociaciones patológicas.",
+          "whyItMatters": "Reconocer roles fisiológicos normales de proteínas vinculadas a la enfermedad puede cambiar la forma en que los investigadores abordan los tratamientos e interpretan los cambios observados en condiciones neurodegenerativas.",
+          "takeaways": [
+            "La tau tiene funciones en la formación de memoria sana además de su papel en la enfermedad.",
+            "Los nuevos hallazgos complican la imagen de la tau como únicamente un marcador patológico.",
+            "Los resultados pueden influir en direcciones futuras de investigación, pero no implican cambios clínicos inmediatos."
+          ]
+        },
+        "ru": {
+          "title": "Белок тау играет ключевую роль в запечатлении долговременной памяти",
+          "summary": "Исследователи сообщают о ранее не распознанной роли белка тау — более известного своим участием в болезни Альцгеймера — в кодировании долговременных воспоминаний. Эта работа подчёркивает функцию тау помимо её патологических ассоциаций.",
+          "whyItMatters": "Признание нормальных физиологических ролей белков, связанных с заболеваниями, может изменить подход исследователей к лечению и интерпретацию изменений при нейродегенеративных состояниях.",
+          "takeaways": [
+            "Тау выполняет функции в нормальном формировании памяти, а также участвует в заболеваниях.",
+            "Новые данные усложняют представление о тау как исключительно патологическом маркере.",
+            "Результаты могут повлиять на дальнейшие направления исследований, но не приводят к немедленным клиническим изменениям."
+          ]
+        },
+        "uk": {
+          "title": "Білок тау відіграє вирішальну роль у кодуванні довготривалої пам’яті",
+          "summary": "Дослідники повідомляють про раніше не визнану роль білка тау — відомого головним чином у зв’язку з хворобою Альцгеймера — у кодуванні довготривалої пам’яті. Робота підкреслює функції тау, що виходять за межі його патологічних асоціацій.",
+          "whyItMatters": "Визнання нормальних фізіологічних ролей білків, пов’язаних із хворобами, може змінити підходи дослідників до лікувань і тлумачення змін, що спостерігаються при нейродегенеративних станах.",
+          "takeaways": [
+            "Тау має функції в нормальному формуванні пам’яті, а не лише роль у хворобах.",
+            "Нові дані ускладнюють уявлення про тау як виключно патологічний маркер.",
+            "Висновки можуть вплинути на напрямки майбутніх досліджень, але не мають негайних клінічних наслідків."
+          ]
+        },
+        "fr": {
+          "title": "La protéine tau est cruciale pour l’encodage de la mémoire à long terme",
+          "summary": "Des chercheurs rapportent un rôle jusque‑là méconnu de la protéine tau — surtout connue pour son implication dans la maladie d’Alzheimer — dans l’encodage des mémoires à long terme. Ce travail met en lumière des fonctions de la tau au‑delà de ses associations pathologiques.",
+          "whyItMatters": "Reconnaître les rôles physiologiques normaux de protéines liées à des maladies peut modifier la façon dont les chercheurs abordent les traitements et interprètent les changements observés dans les affections neurodégénératives.",
+          "takeaways": [
+            "La tau joue un rôle dans la formation de la mémoire saine, en plus de ses rôлі dans la maladie.",
+            "Ces nouvelles connaissances compliquent la vision de la tau comme simple marqueur pathologique.",
+            "Les résultats peuvent orienter la recherche future, sans implications cliniques immédiates."
+          ]
+        },
+        "de": {
+          "title": "Tau‑Protein ist entscheidend für die Kodierung von Langzeitgedächtnis",
+          "summary": "Forscher berichten über eine zuvor unerkannte Rolle des Tau‑Proteins — bekannt vor allem durch seine Beteiligung an der Alzheimer‑Krankheit — bei der Kodierung von Langzeitgedächtnis. Die Arbeit hebt die Funktion von Tau über seine pathologischen Assoziationen hinaus hervor.",
+          "whyItMatters": "Das Erkennen normaler physiologischer Funktionen von Proteinen, die mit Krankheiten in Verbindung gebracht werden, kann beeinflussen, wie Forschende Behandlungen angehen und Veränderungen in neurodegenerativen Erkrankungen interpretieren.",
+          "takeaways": [
+            "Tau hat Funktionen in der gesunden Gedächtnisbildung sowie Rollen in der Krankheit.",
+            "Neue Einsichten verkomplizieren das Bild von Tau als ausschließlich pathologischem Marker.",
+            "Die Befunde könnten zukünftige Forschungsrichtungen beeinflussen, bedeuten aber keine unmittelbaren Änderungen der klinischen Praxis."
+          ]
+        },
+        "pt-br": {
+          "title": "Proteína tau é crucial para codificação da memória de longo prazo",
+          "summary": "Pesquisadores relatam um papel previamente não reconhecido da proteína tau — mais conhecida por sua participação na doença de Alzheimer — na codificação de memórias de longo prazo. Este trabalho destaca a função da tau além de suas associações patológicas.",
+          "whyItMatters": "Reconhecer papéis fisiológicos normais de proteínas ligadas a doenças pode mudar a forma como pesquisadores abordam tratamentos e interpretam alterações observadas em condições neurodegenerativas.",
+          "takeaways": [
+            "A tau tem funções na formação saudável da memória, além de papéis na doença.",
+            "Novos insights tornam mais complexa a visão de tau como apenas um marcador patológico.",
+            "As descobertas podem influenciar direções futuras de pesquisa, sem implicar mudanças imediatas na prática clínica."
+          ]
+        },
+        "hu": {
+          "title": "A tau-fehérje kulcsfontosságú a hosszú távú memória kódolásához",
+          "summary": "A kutatók egy korábban fel nem ismert szerepről számolnak be a tau-fehérjének — amelyről leginkább az Alzheimer-kórhoz kapcsolódóan ismerik — a hosszú távú emlékek kódolásában. A munka hangsúlyozza, hogy a tau funkciói túlnyúlnak a patológiás megjelenésen.",
+          "whyItMatters": "A betegséghez kötött fehérjék normál élettani szerepének felismerése befolyásolhatja, hogyan közelítik meg a kutatók a kezeléseket és hogyan értelmezik az idegdegeneratív állapotokban látható változásokat.",
+          "takeaways": [
+            "A tau szerepet játszik az egészséges memória kialakulásában, nemcsak a betegséghez kapcsolódóan.",
+            "Az új felismerések bonyolultabbá teszik a tau kizárólagos patológiai jelzőként való értelmezését.",
+            "Az eredmények befolyásolhatják a jövőbeli kutatási irányokat, de nem jelentenek azonnali változást a klinikai gyakorlatban."
+          ]
+        },
+        "ar": {
+          "title": "بروتين تاو حاسم في ترميز الذاكرة طويلة الأمد",
+          "summary": "أبلغ الباحثون عن دور لم يكن معترفًا به سابقًا لبروتين تاو—المعروف غالبًا لارتباطه بمرض ألزهايمر—في ترميز الذكريات طويلة الأمد. يبيّن هذا العمل أن لتاو وظائف تتجاوز ارتباطاته المرضية.",
+          "whyItMatters": "يمكن أن يغيّر التعرف على الأدوار الفسيولوجية الطبيعية لبروتينات مرتبطة بالأمراض طريقة تعامل الباحثين مع العلاجات وتفسير التغيرات المرصودة في حالات التنكس العصبي.",
+          "takeaways": [
+            "يلعب تاو دورًا في تشكّل الذاكرة السليمة إلى جانب ارتباطه بالأمراض.",
+            "تُعقّد الرؤى الجديدة صورة تاو كعلامة مرضية محضة.",
+            "قد تؤثر النتائج على اتجاهات البحث المستقبلية، لكنها لا تغير الممارسة السريرية فورًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tau-memory-2026-05-26",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tau-memory-2026-05-26-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tau-memory-2026-05-26-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Tau Protein Is Crucial for Encoding Long-Term Memory.\nStory summary: Researchers report a previously unrecognized role for the tau protein—best known for its involvement in Alzheimer’s disease—in encoding long-term memories. This work highlights tau’s function beyond its pathological associations..\nCategory: neuroscience / aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "nature-2026-05-organ-aging-clocks",
@@ -4853,122 +5495,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Grapes may influence gene activity and skin resilience to UV.\nStory summary: Clinical work has previously shown that eating grapes improved skin resistance to UV damage in a subset of participants. A new study suggests grape intake affects gene-expression patterns tied to skin health, indicating potential broader effects across more people..\nCategory: Nutrition / Skin Health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "nature-aging-apoe-proteomics-2026-05-15",
-      "category": "aging/Alzheimer's research",
-      "sourceName": "nature.com",
-      "sourceUrl": "http://feeds.nature.com/nataging/rss/current",
-      "sourceTitle": "Nature Aging",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "APOE ε2 and ε4 show distinct early protein signatures before amyloid appears",
-          "summary": "A multicohort proteomic study examined how APOE alleles that affect Alzheimer’s risk are linked to early protein changes. The authors report that the protective ε2 and risk-increasing ε4 alleles are associated with different protein signatures that appear before amyloid pathology emerges, offering clues about their opposite effects on disease risk.",
-          "whyItMatters": "Identifying early molecular differences tied to APOE variants could help researchers understand mechanisms that influence Alzheimer’s risk and point to potential early biomarkers.",
-          "takeaways": [
-            "Proteomic analyses found distinct early protein patterns for APOE ε2 versus ε4.",
-            "These signatures were detectable prior to amyloid pathology.",
-            "Results may help explain why APOE alleles have opposite effects on Alzheimer’s risk.",
-            "Further work is needed to translate signatures into clinical tools or interventions."
-          ]
-        },
-        "es": {
-          "title": "APOE ε2 y ε4 muestran firmas proteicas tempranas distintas antes de que aparezca el amiloide",
-          "summary": "Un estudio proteómico multicohorte examinó cómo los alelos APOE que afectan el riesgo de Alzheimer se vinculan a cambios proteicos tempranos. Los autores informan que el alelo protector ε2 y el alelo que aumenta el riesgo ε4 están asociados con diferentes firmas proteicas que aparecen antes de la aparición de la patología amiloide, lo que ofrece pistas sobre sus efectos opuestos en el riesgo de la enfermedad.",
-          "whyItMatters": "Identificar diferencias moleculares tempranas asociadas a variantes de APOE podría ayudar a los investigadores a entender mecanismos que influyen en el riesgo de Alzheimer y señalar posibles biomarcadores tempranos.",
-          "takeaways": [
-            "Análisis proteómicos encontraron patrones proteicos tempranos distintos para APOE ε2 frente a ε4.",
-            "Estas firmas eran detectables antes de la patología amiloide.",
-            "Los resultados pueden ayudar a explicar por qué los alelos APOE tienen efectos opuestos sobre el riesgo de Alzheimer.",
-            "Se necesita trabajo adicional para traducir estas firmas en herramientas clínicas o intervenciones."
-          ]
-        },
-        "ru": {
-          "title": "APOE ε2 и ε4 имеют разные ранние протеиновые сигнатуры до появления амилоида",
-          "summary": "Многокогортное протеомное исследование изучало, как аллели APOE, влияющие на риск болезни Альцгеймера, связаны с ранними изменениями белкового состава. Авторы сообщают, что защитный аллель ε2 и риск‑увеличивающий ε4 ассоциированы с разными белковыми сигнатурами, которые проявляются до появления амилоидной патологии, что даёт подсказки об их противоположных эффектах на риск заболевания.",
-          "whyItMatters": "Выявление ранних молекулярных различий, связанных с вариантами APOE, может помочь исследователям понять механизмы, влияющие на риск Альцгеймера, и указать на потенциальные ранние биомаркеры.",
-          "takeaways": [
-            "Протеомный анализ выявил различающиеся ранние белковые паттерны для APOE ε2 и ε4.",
-            "Эти сигнатуры были обнаружимы до развития амилоидной патологии.",
-            "Результаты могут помочь объяснить, почему аллели APOE имеют противоположные эффекты на риск Альцгеймера.",
-            "Необходимы дальнейшие исследования, чтобы преобразовать эти сигнатуры в клинические инструменты или вмешательства."
-          ]
-        },
-        "uk": {
-          "title": "APOE ε2 і ε4 мають різні ранні білкові сигнатури до появи амілоїду",
-          "summary": "Багатокогортне протеомне дослідження вивчало, як алелі APOE, що впливають на ризик хвороби Альцгеймера, пов’язані з ранніми білковими змінами. Автори повідомляють, що захисний алель ε2 і ризик‑підвищувальний ε4 асоціюються з різними білковими сигнатурами, які виявляються ще до появи амілоїдної патології, що дає підказки про їх протилежні ефекти на ризик захворювання.",
-          "whyItMatters": "Виявлення ранніх молекулярних відмінностей, пов’язаних із варіантами APOE, може допомогти зрозуміти механізми, що впливають на ризик Альцгеймера, і вказати на потенційні ранні біомаркери.",
-          "takeaways": [
-            "Протеомні аналізи виявили різні ранні білкові патерни для APOE ε2 та ε4.",
-            "Ці сигнатури були помітні до появи амілоїдної патології.",
-            "Результати можуть допомогти пояснити, чому алелі APOE мають протилежні ефекти на ризик Альцгеймера.",
-            "Потрібна додаткова робота, щоб перетворити ці сигнатури на клінічні інструменти або втручання."
-          ]
-        },
-        "fr": {
-          "title": "APOE ε2 et ε4 présentent des signatures protéiques précoces distinctes avant l’apparition de l’amyloïde",
-          "summary": "Une étude protéomique multicohorte a examiné comment les allèles APOE influençant le risque de maladie d'Alzheimer sont liés à des changements protéiques précoces. Les auteurs rapportent que l'allèle protecteur ε2 et l'allèle augmentant le risque ε4 sont associés à des signatures protéiques différentes détectables avant l'émergence de la pathologie amyloïde, apportant des indices sur leurs effets opposés sur le risque de maladie.",
-          "whyItMatters": "Identifier des différences moléculaires précoces liées aux variantes APOE pourrait aider les chercheurs à comprendre les mécanismes influençant le risque d’Alzheimer et indiquer de potentiels biomarqueurs précoces.",
-          "takeaways": [
-            "Les analyses protéomiques ont trouvé des profils protéiques précoces distincts pour APOE ε2 versus ε4.",
-            "Ces signatures étaient détectables avant la survenue de la pathologie amyloïde.",
-            "Les résultats peuvent aider à expliquer pourquoi les allèles APOE ont des effets opposés sur le risque d’Alzheimer.",
-            "Des travaux supplémentaires sont nécessaires pour traduire ces signatures en outils cliniques ou interventions."
-          ]
-        },
-        "de": {
-          "title": "APOE ε2 und ε4 zeigen unterschiedliche frühe Proteinsignaturen vor dem Auftreten von Amyloid",
-          "summary": "Eine proteomische Multikohortenstudie untersuchte, wie APOE‑Allele, die das Alzheimer‑Risiko beeinflussen, mit frühen Proteinveränderungen zusammenhängen. Die Autorinnen und Autoren berichten, dass das schützende ε2‑ und das risikosteigernde ε4‑Allel mit unterschiedlichen Proteinsignaturen verbunden sind, die auftreten, bevor Amyloid‑Pathologie sichtbar wird, und damit Hinweise auf ihre entgegengesetzten Effekte auf das Krankheitsrisiko liefern.",
-          "whyItMatters": "Das Erkennen früher molekularer Unterschiede im Zusammenhang mit APOE‑Varianten könnte Forschern helfen, Mechanismen zu verstehen, die das Alzheimer‑Risiko beeinflussen, und mögliche frühe Biomarker aufzuzeigen.",
-          "takeaways": [
-            "Proteomische Analysen fanden unterschiedliche frühe Proteinmuster für APOE ε2 im Vergleich zu ε4.",
-            "Diese Signaturen waren vor der Ausbildung von Amyloid‑Pathologie nachweisbar.",
-            "Die Ergebnisse könnten helfen zu erklären, warum APOE‑Allele entgegengesetzte Effekte auf das Alzheimer‑Risiko haben.",
-            "Weitere Arbeit ist nötig, um diese Signaturen in klinische Werkzeuge oder Interventionen zu überführen."
-          ]
-        },
-        "pt-br": {
-          "title": "APOE ε2 e ε4 mostram assinaturas proteicas iniciais distintas antes do aparecimento de amiloide",
-          "summary": "Um estudo proteômico com múltiplas coortes examinou como alelos de APOE que afetam o risco de Alzheimer se relacionam com mudanças proteicas precoces. Os autores relatam que o alelo protetor ε2 e o alelo que aumenta o risco ε4 estão associados a assinaturas proteicas diferentes que aparecem antes do surgimento da patologia por amiloide, oferecendo pistas sobre seus efeitos opostos no risco da doença.",
-          "whyItMatters": "Identificar diferenças moleculares precoces ligadas a variantes de APOE pode ajudar pesquisadores a entender mecanismos que influenciam o risco de Alzheimer e apontar potenciais biomarcadores precoces.",
-          "takeaways": [
-            "Análises proteômicas encontraram padrões proteicos iniciais distintos para APOE ε2 versus ε4.",
-            "Essas assinaturas foram detectáveis antes da patologia por amiloide.",
-            "Os resultados podem ajudar a explicar por que alelos de APOE têm efeitos opostos no risco de Alzheimer.",
-            "Trabalhos adicionais são necessários para transformar essas assinaturas em ferramentas clínicas ou intervenções."
-          ]
-        },
-        "hu": {
-          "title": "Az APOE ε2 és ε4 eltérő korai fehérje-aláírásokat mutatnak amyloid megjelenése előtt",
-          "summary": "Egy többkohorszú proteomikai vizsgálat azt vizsgálta, hogyan kapcsolódnak az Alzheimer-kockázatot befolyásoló APOE allélek a korai fehérjeváltozásokhoz. A szerzők szerint a védő ε2 és a kockázatnövelő ε4 allél különböző fehérje-aláírásokkal társul, amelyek megjelennek még az amyloid patológia előtt, és nyomokat adhatnak a ellentétes hatások magyarázatához.",
-          "whyItMatters": "Az APOE variánsokhoz kötődő korai molekuláris különbségek azonosítása segíthet a kutatóknak megérteni az Alzheimer-kockázatot befolyásoló mechanizmusokat, és potenciális korai biomarkerekre utalhat.",
-          "takeaways": [
-            "Proteomikai elemzések különböző korai fehérje-mintázatokat találtak az APOE ε2 és ε4 esetében.",
-            "Ezek az aláírások még az amyloidpatológia megjelenése előtt kimutathatók voltak.",
-            "Az eredmények segíthetnek megmagyarázni, miért hatnak ellentétesen az APOE allélek az Alzheimer-kockázatra.",
-            "További munka szükséges ahhoz, hogy ezeket az aláírásokat klinikai eszközökké vagy beavatkozásokká fordítsák le."
-          ]
-        },
-        "ar": {
-          "title": "APOE ε2 و ε4 يظهران توقيعات بروتينية مبكرة مميزة قبل ظهور الأميلويد",
-          "summary": "فحصت دراسة بروتيومية متعددة المجموعات كيف ترتبط حليلات APOE المؤثرة على خطر الإصابة بالخرف بتغيرات بروتينية مبكرة. يذكر المؤلفون أن الحليلة الحامية ε2 والحليلة التي تزيد الخطر ε4 مرتبطتان بتوقيعات بروتينية مختلفة تظهر قبل ظهور مَرَضية الأميلويد، ما يقدم دلائل حول تأثيراتهما المتعاكسة على خطر المرض.",
-          "whyItMatters": "يمكن أن تساعد معرفة الاختلافات الجزيئية المبكرة المرتبطة بأنماط APOE الباحثين على فهم الآليات التي تؤثر على خطر الإصابة بالخرف والإشارة إلى مؤشرات مبكرة محتملة.",
-          "takeaways": [
-            "وجدت تحليلات البروتيوم توقيعات بروتينية مبكرة مميزة لـ APOE ε2 مقابل ε4.",
-            "كانت هذه التوقيعات قابلة للكشف قبل ظهور مَرَضية الأميلويد.",
-            "قد تساعد النتائج في تفسير سبب تأثير حليلات APOE بشكل معاكس على خطر الخرف.",
-            "هناك حاجة لمزيد من العمل لتحويل هذه التوقيعات إلى أدوات أو تدخلات سريرية."
-          ]
-        }
-      },
-      "generatedAt": "2026-05-17T08:38:27.731Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nature-aging-apoe-proteomics-2026-05-15",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-aging-apoe-proteomics-2026-05-15-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-aging-apoe-proteomics-2026-05-15-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: APOE ε2 and ε4 show distinct early protein signatures before amyloid appears.\nStory summary: A multicohort proteomic study examined how APOE alleles that affect Alzheimer’s risk are linked to early protein changes. The authors report that the protective ε2 and risk-increasing ε4 alleles are associated with different protein signatures that appear before amyloid pathology emerges, offering clues about their opposite effects on disease risk..\nCategory: aging/Alzheimer's research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "sciencedaily-yo-yo-dieting-2026-05-17",
@@ -11107,120 +11633,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Bariatric surgery linked to stronger long-term cardiovascular protection than GLP‑1 drugs in older adults (real‑world study).\nStory summary: A real-world analysis presented at ASMBS2026 reports that metabolic and bariatric surgery provided greater long-term reductions in heart attack, stroke and mortality than widely used GLP‑1 medications among older people with obesity and diabetes..\nCategory: Metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a6",
-      "category": "Global nutrition / Food systems",
+      "id": "clean-salt-tanga-2026-05-06",
+      "category": "global nutrition",
       "sourceName": "gainhealth.org",
       "sourceUrl": "https://www.gainhealth.org/blogs/how-cleaner-salt-production-tanga-improving-nutrition-outcomes",
       "sourceTitle": "How Cleaner Salt Production in Tanga Is Improving Nutrition Outcomes",
       "publishedAt": "Wed, 06 May 2026 09:09:48 +0000",
       "languages": {
         "en": {
-          "title": "Improvements in local salt production in Tanga boost safety and iodine delivery",
-          "summary": "A program to modernize salt-making practices in parts of Tanga replaced contaminated production methods with cleaner processes and more consistent iodization, with positive effects for household nutrition, especially for pregnant women and children.",
-          "whyItMatters": "Changes in small-scale supply chains can improve micronutrient access and food safety at the community level, illustrating how production practices affect nutrition outcomes.",
+          "title": "How Cleaner Salt Production in Tanga Is Improving Nutrition Outcomes",
+          "summary": "Efforts in Tongoni and Masiwani, Tanga, have helped local salt producers adopt cleaner production methods and more consistent iodization. Improvements reduced contamination and unpredictability in yields, leading to safer, more reliably iodized salt for local markets.",
+          "whyItMatters": "Salt quality and consistent iodization are important for preventing iodine deficiency, particularly for children and pregnant women; improving local production can directly affect household nutrition.",
           "takeaways": [
-            "Upgrading production methods reduced contamination risks and improved yields for local salt producers.",
-            "More reliable iodization helps ensure a key nutrient reaches vulnerable groups, including pregnant women and children.",
-            "Community-level manufacturing changes can be a cost-effective route to better nutrition.",
-            "Outcomes may depend on ongoing quality control and market access for improved products."
+            "Cleaner production practices improved salt purity and iodization consistency.",
+            "Higher-quality iodized salt supports the nutritional needs of vulnerable groups like children and pregnant women.",
+            "Local technical support and process improvements can strengthen food safety and public health outcomes."
           ]
         },
         "es": {
-          "title": "Mejoras en la producción local de sal en Tanga aumentan la seguridad y la entrega de yodo",
-          "summary": "Un programa para modernizar las prácticas de producción de sal en partes de Tanga reemplazó métodos contaminados por procesos más limpios y una iodización más constante, con efectos positivos en la nutrición doméstica, especialmente para mujeres embarazadas y niños.",
-          "whyItMatters": "Cambios en las cadenas de suministro a pequeña escala pueden mejorar el acceso a micronutrientes y la seguridad alimentaria a nivel comunitario, ilustrando cómo las prácticas de producción afectan los resultados nutricionales.",
+          "title": "Cómo la producción de sal más limpia en Tanga está mejorando los resultados nutricionales",
+          "summary": "Los esfuerzos en Tongoni y Masiwani, Tanga, han ayudado a productores locales de sal a adoptar métodos de producción más limpios y una yodación más consistente. Las mejoras redujeron la contaminación y la imprevisibilidad en los rendimientos, resultando en sal más segura y con yodo más fiable para los mercados locales.",
+          "whyItMatters": "La calidad de la sal y la yodación consistente son importantes para prevenir la deficiencia de yodo, particularmente en niños y mujeres embarazadas; mejorar la producción local puede afectar directamente la nutrición en los hogares.",
           "takeaways": [
-            "La modernización de métodos redujo riesgos de contaminación y mejoró los rendimientos para los productores locales de sal.",
-            "Una iodización más fiable ayuda a asegurar que un nutriente clave llegue a grupos vulnerables, incluidas mujeres embarazadas y niños.",
-            "Los cambios en la manufactura a nivel comunitario pueden ser una vía rentable para mejorar la nutrición.",
-            "Los resultados pueden depender del control de calidad continuo y del acceso al mercado para los productos mejorados."
+            "Las prácticas de producción más limpias mejoraron la pureza de la sal y la consistencia de la yodación.",
+            "La sal yodada de mayor calidad apoya las necesidades nutricionales de grupos vulnerables como niños y embarazadas.",
+            "El apoyo técnico local y las mejoras de procesos pueden fortalecer la inocuidad alimentaria y los resultados de salud pública."
           ]
         },
         "ru": {
-          "title": "Улучшение местного производства соли в Танге повышает безопасность и доставку йода",
-          "summary": "Программа модернизации технологий производства соли в некоторых районах Танги заменила загрязнённые методы на более чистые процессы и обеспечила более стабильную йодирование, что положительно сказалось на домашнем питании, особенно у беременных женщин и детей.",
-          "whyItMatters": "Изменения в мелких цепочках поставок могут улучшить доступ к микронутриентам и безопасность продуктов на уровне сообществ, что показывает, как производственные практики влияют на результаты в питании.",
+          "title": "Как более чистое производство соли в Танге улучшает показатели питания",
+          "summary": "Меры в Тонгони и Масивани (Танга) помогли местным производителям соли внедрить более чистые методы производства и обеспечить более стабильную йодирование. Улучшения сократили загрязнение и непредсказуемость выхода, что привело к более безопасной и равномерно йодированной соли для местных рынков.",
+          "whyItMatters": "Качество соли и стабильное йодирование важны для предотвращения йододефицита, особенно у детей и беременных женщин; улучшение местного производства может напрямую влиять на питание в домохозяйствах.",
           "takeaways": [
-            "Модернизация методов производства снизила риски загрязнения и улучшила урожайность для местных производителей соли.",
-            "Более надёжное йодирование помогает обеспечить поступление ключевого нутриента в уязвимые группы, включая беременных и детей.",
-            "Изменения в производстве на уровне сообществ могут быть экономически эффективным путём улучшения питания.",
-            "Эффекты зависят от постоянного контроля качества и доступа на рынок для улучшенной продукции."
+            "Более чистые производственные практики улучшили чистоту соли и стабильность йодирования.",
+            "Соль лучшего качества с йодом поддерживает питательные потребности уязвимых групп, таких как дети и беременные.",
+            "Местная техническая поддержка и улучшение процессов могут укрепить безопасность пищевых продуктов и общественное здоровье."
           ]
         },
         "uk": {
-          "title": "Покращення місцевого виробництва солі в Танзі підвищує безпеку й доставку йоду",
-          "summary": "Програма модернізації процесів виробництва солі в частинах Танга замінила забруднені методи на чистіші практики й більш послідовне йодування, що позитивно вплинуло на харчування домогосподарств, особливо для вагітних жінок і дітей.",
-          "whyItMatters": "Зміни в дрібномасштабних ланцюжках постачання можуть поліпшити доступ до мікронутрієнтів і безпеку харчових продуктів на рівні громади, ілюструючи, як виробничі практики впливають на результати в харчуванні.",
+          "title": "Як чистіше виробництво солі в Танзі покращує результати харчування",
+          "summary": "Заходи в Тонгоні та Масівані (Танга) допомогли місцевим виробникам солі впровадити чистіші методи виробництва та більш стабільну йодування. Покращення зменшили забруднення і непередбачуваність врожайності, що призвело до безпечнішої та більш передбачувано йодованої солі на місцевих ринках.",
+          "whyItMatters": "Якість солі та стабільне йодування важливі для запобігання дефіциту йоду, особливо у дітей і вагітних жінок; покращення місцевого виробництва може безпосередньо впливати на харчування домогосподарств.",
           "takeaways": [
-            "Модернізація методів виробництва знизила ризики забруднення та підвищила врожайність для місцевих виробників солі.",
-            "Більш надійне йодування допомагає забезпечити надходження важливого мікронутрієнта до вразливих груп, включно з вагітними жінками та дітьми.",
-            "Зміни на рівні громади у виробництві можуть бути економічно вигідним шляхом до кращого харчування.",
-            "Результати можуть залежати від постійного контролю якості та доступу на ринок для покращеної продукції."
+            "Чистіші методи виробництва покращили чистоту солі й консистентність йодування.",
+            "Сіль вищої якості з йодуванням підтримує потреби у харчуванні вразливих груп, таких як діти та вагітні жінки.",
+            "Місцева технічна підтримка та вдосконалення процесів можуть зміцнити безпеку харчових продуктів і результати громадського здоров’я."
           ]
         },
         "fr": {
-          "title": "Des améliorations de la production locale de sel à Tanga renforcent la sécurité et l’apport en iode",
-          "summary": "Un programme de modernisation des pratiques de production du sel dans certaines zones de Tanga a remplacé des méthodes contaminées par des procédés plus propres et une iodation plus régulière, avec des effets positifs sur la nutrition des ménages, en particulier pour les femmes enceintes et les enfants.",
-          "whyItMatters": "Des changements dans les chaînes d’approvisionnement à petite échelle peuvent améliorer l’accès aux micronutriments et la sécurité alimentaire au niveau communautaire, illustrant comment les pratiques de production affectent les résultats nutritionnels.",
+          "title": "Comment une production de sel plus propre à Tanga améliore les résultats nutritionnels",
+          "summary": "Des efforts à Tongoni et Masiwani, à Tanga, ont aidé les producteurs locaux de sel à adopter des méthodes de production plus propres et une iodation plus régulière. Les améliorations ont réduit la contamination et l’imprévisibilité des rendements, conduisant à un sel iodé plus sûr et plus fiable sur les marchés locaux.",
+          "whyItMatters": "La qualité du sel et une iodation constante sont importantes pour prévenir la carence en iode, en particulier chez les enfants et les femmes enceintes ; l’amélioration de la production locale peut avoir un effet direct sur la nutrition des ménages.",
           "takeaways": [
-            "La mise à niveau des méthodes de production a réduit les risques de contamination et amélioré les rendements pour les producteurs locaux de sel.",
-            "Une iodation plus fiable aide à garantir que ce nutriment clé atteigne les groupes vulnérables, y compris les femmes enceintes et les enfants.",
-            "Des modifications de la fabrication au niveau communautaire peuvent être une voie rentable vers une meilleure nutrition.",
-            "Les résultats peuvent dépendre d’un contrôle qualité continu et de l’accès au marché pour les produits améliorés."
+            "Des pratiques de production plus propres ont amélioré la pureté du sel et la cohérence de l’iodation.",
+            "Un sel iodé de meilleure qualité soutient les besoins nutritionnels des groupes vulnérables, comme les enfants et les femmes enceintes.",
+            "L’appui technique local et les améliorations de processus peuvent renforcer la sécurité alimentaire et les résultats de santé publique."
           ]
         },
         "de": {
-          "title": "Verbesserungen in der lokalen Salzproduktion in Tanga steigern Sicherheit und Jodversorgung",
-          "summary": "Ein Programm zur Modernisierung der Salzherstellung in Teilen von Tanga ersetzte kontaminierte Produktionsmethoden durch sauberere Prozesse und eine konsistentere Jodierung, mit positiven Effekten für die Haushalts‑Ernährung, insbesondere für Schwangere und Kinder.",
-          "whyItMatters": "Veränderungen in kleinmaßstäblichen Lieferketten können den Zugang zu Mikronährstoffen und die Lebensmittelsicherheit auf Gemeindeebene verbessern und zeigen, wie Produktionspraktiken Ernährungsergebnisse beeinflussen.",
+          "title": "Wie sauberere Salzproduktion in Tanga Ernährungs‑Outcomes verbessert",
+          "summary": "Bemühungen in Tongoni und Masiwani (Tanga) halfen lokalen Salzproduzenten, sauberere Produktionsmethoden und eine gleichmäßigere Jodierung einzuführen. Verbesserungen verringerten Verunreinigungen und die Unvorhersehbarkeit bei Erträgen, was zu sichererem und verlässlicher iodiertem Salz für lokale Märkte führte.",
+          "whyItMatters": "Salzqualität und konsistente Jodierung sind wichtig zur Verhinderung von Jodmangel, besonders für Kinder und Schwangere; die Verbesserung lokaler Produktion kann die Haushaltsernährung direkt beeinflussen.",
           "takeaways": [
-            "Aufgerüstete Produktionsmethoden reduzierten Kontaminationsrisiken und verbesserten die Erträge für lokale Salzproduzenten.",
-            "Eine zuverlässigere Jodierung hilft, sicherzustellen, dass ein wichtiger Nährstoff gefährdete Gruppen wie Schwangere und Kinder erreicht.",
-            "Herstellungsänderungen auf Gemeindeebene können ein kosteneffizienter Weg zu besserer Ernährung sein.",
-            "Die Ergebnisse hängen möglicherweise von kontinuierlicher Qualitätskontrolle und Marktzugang für verbesserte Produkte ab."
+            "Sauberere Produktionspraktiken verbesserten Salzreinheit und Konsistenz der Jodierung.",
+            "Höherwertiges, iodiertes Salz unterstützt die ernährungsbedürfnisse vulnerabler Gruppen wie Kinder und Schwangere.",
+            "Lokale technische Unterstützung und Prozessverbesserungen können Lebensmittelsicherheit und öffentliche Gesundheitsresultate stärken."
           ]
         },
         "pt-br": {
-          "title": "Melhorias na produção local de sal em Tanga aumentam segurança e fornecimento de iodo",
-          "summary": "Um programa para modernizar práticas de produção de sal em partes de Tanga substituiu métodos contaminados por processos mais limpos e iodização mais consistente, com efeitos positivos na nutrição domiciliar, especialmente para gestantes e crianças.",
-          "whyItMatters": "Mudanças em cadeias de suprimento de pequena escala podem melhorar o acesso a micronutrientes e a segurança alimentar a nível comunitário, ilustrando como práticas de produção afetam resultados nutricionais.",
+          "title": "Como a produção de sal mais limpa em Tanga está melhorando resultados nutricionais",
+          "summary": "Esforços em Tongoni e Masiwani, em Tanga, ajudaram produtores locais de sal a adotar métodos de produção mais limpos e uma iodização mais consistente. As melhorias reduziram contaminação e imprevisibilidade na produção, levando a sal iodado mais seguro e mais confiável para os mercados locais.",
+          "whyItMatters": "A qualidade do sal e a iodização consistente são importantes para prevenir deficiência de iodo, especialmente em crianças e gestantes; melhorar a produção local pode afetar diretamente a nutrição das famílias.",
           "takeaways": [
-            "A modernização dos métodos de produção reduziu riscos de contaminação e melhorou a produtividade dos produtores locais de sal.",
-            "A iodização mais confiável ajuda a garantir que um nutriente chave chegue a grupos vulneráveis, incluindo gestantes e crianças.",
-            "Mudanças na fabricação em nível comunitário podem ser uma via custo‑efetiva para melhor nutrição.",
-            "Os resultados podem depender de controle de qualidade contínuo e acesso ao mercado para os produtos melhorados."
+            "Práticas de produção mais limpas melhoraram a pureza do sal e a consistência da iodização.",
+            "Sal iodado de melhor qualidade apoia as necessidades nutricionais de grupos vulneráveis, como crianças e gestantes.",
+            "Apoio técnico local e melhorias de processo podem fortalecer a segurança alimentar e os resultados de saúde pública."
           ]
         },
         "hu": {
-          "title": "Helyi sótermelés korszerűsítése Tanga térségében javította a biztonságot és a jódozás megbízhatóságát",
-          "summary": "Egy program, amely korszerűsítette a Tanga egyes részein alkalmazott sókészítési gyakorlatot, lecserélte a szennyezett eljárásokat tisztább folyamatokra és egyenletesebb jódozásra, ami pozitív hatással volt a háztartási táplálkozásra, különösen a terhes nők és a gyermekek esetében.",
-          "whyItMatters": "A helyi ellátási láncokban végrehajtott változtatások javíthatják a mikrotápanyag-hozzáférést és az élelmiszerbiztonságot közösségi szinten, bemutatva, hogy a termelési gyakorlatok hogyan befolyásolják a táplálkozási eredményeket.",
+          "title": "Hogyan javítja a tisztább sótermelés Tanga-ban a táplálkozási kimeneteleket",
+          "summary": "Tongoni és Masiwani (Tanga) erőfeszítései segítették a helyi sótermelőket abban, hogy tisztább gyártási módszereket és következetesebb jódozást vezessenek be. A javítások csökkentették a szennyeződést és a hozam kiszámíthatatlanságát, így a helyi piacokra biztonságosabb, megbízhatóbban jódozott só került.",
+          "whyItMatters": "A só minősége és a következetes jódozás fontos a jódhiány megelőzésében, különösen a gyermekek és a várandós nők esetében; a helyi termelés javítása közvetlen hatással lehet a háztartások táplálkozására.",
           "takeaways": [
-            "A gyártási módszerek fejlesztése csökkentette a szennyeződés kockázatát és javította a hozamot a helyi sóelőállítóknál.",
-            "A megbízhatóbb jódozás segít biztosítani, hogy egy fontos tápanyag eljusson a sérülékeny csoportokhoz, beleértve a terhes nőket és a gyermekeket.",
-            "A közösségi szintű gyártási változtatások költséghatékony út lehet a jobb táplálkozás felé.",
-            "Az eredmények fenntarthatósága a folyamatos minőségellenőrzéstől és a piaci hozzáféréstől függhet."
+            "A tisztább gyártási gyakorlatok javították a só tisztaságát és a jódozás következetességét.",
+            "A jobb minőségű jódozott só támogatja a táplálkozási szükségleteket a sebezhető csoportoknál, például a gyerekeknél és a várandós nőknél.",
+            "A helyi műszaki támogatás és a folyamatfejlesztés erősítheti az élelmiszer-biztonságot és a közegészségügyi kimeneteleket."
           ]
         },
         "ar": {
-          "title": "تحسينات في إنتاج الملح المحلّي في تانغا تعزّز السلامة وتوصيل اليود",
-          "summary": "برنامج لتحديث ممارسات صناعة الملح في أجزاء من تانغا استبدل طرق إنتاج ملوثة بعمليات أنظف وجعل اليُدنة أكثر اتساقاً، مما كان له تأثيرات إيجابية على تغذية الأسر، خصوصاً لدى النساء الحوامل والأطفال.",
-          "whyItMatters": "يمكن أن تُحسِّن التغييرات في سلاسل التوريد الصغيرة الوصول إلى المغذيات الدقيقة وسلامة الغذاء على مستوى المجتمع، مما يبيّن كيف تؤثر ممارسات الإنتاج على نتائج التغذية.",
+          "title": "كيف يحسّن إنتاج الملح الأنظف في تانغا نتائج التغذية",
+          "summary": "ساعدت جهود في تونغوني وماسيواني، تانغا المنتجين المحليين للملح على اعتماد ممارسات إنتاج أنظف وتوحيد عملية اليودنة. أدت هذه التحسينات إلى تقليل التلوث وعدم التنبؤ بالمحاصيل، مما أسفر عن ملح معوّد أكثر أمانًا وموثوقية للأسواق المحلية.",
+          "whyItMatters": "جودة الملح وتوحيد اليودنة مهمان للوقاية من نقص اليود، خصوصًا لدى الأطفال والنساء الحوامل؛ ويمكن لتحسين الإنتاج المحلي أن يؤثر مباشرة على تغذية الأسر.",
           "takeaways": [
-            "ترقية طرق الإنتاج خفّضت مخاطر التلوث وحسّنت العوائد لمنتجي الملح المحليين.",
-            "اليُدنة الأكثر موثوقية تساعد على ضمان وصول عنصر غذائي أساسي إلى الفئات الضعيفة، بما في ذلك النساء الحوامل والأطفال.",
-            "يمكن أن تكون تغييرات التصنيع على مستوى المجتمع مساراً فعّالاً من حيث التكلفة نحو تغذية أفضل.",
-            "قد تعتمد النتائج على استمرار مراقبة الجودة والوصول إلى الأسواق للمنتجات المحسّنة."
+            "حسّنت ممارسات الإنتاج الأنظف نقاوة الملح واتساق اليودنة.",
+            "يدعم الملح المعوّد بجودة أعلى احتياجات الفئات الضعيفة مثل الأطفال والنساء الحوامل.",
+            "يمكن للدعم التقني المحلي وتحسين العمليات تعزيز سلامة الأغذية ونتائج الصحة العامة."
           ]
         }
       },
-      "generatedAt": "2026-05-24T08:53:38.280Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a6",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=clean-salt-tanga-2026-05-06",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/clean-salt-tanga-2026-05-06-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/clean-salt-tanga-2026-05-06-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Improvements in local salt production in Tanga boost safety and iodine delivery.\nStory summary: A program to modernize salt-making practices in parts of Tanga replaced contaminated production methods with cleaner processes and more consistent iodization, with positive effects for household nutrition, especially for pregnant women and children..\nCategory: Global nutrition / Food systems.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: How Cleaner Salt Production in Tanga Is Improving Nutrition Outcomes.\nStory summary: Efforts in Tongoni and Masiwani, Tanga, have helped local salt producers adopt cleaner production methods and more consistent iodization. Improvements reduced contamination and unpredictability in yields, leading to safer, more reliably iodized salt for local markets..\nCategory: global nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "s3",
@@ -19290,114 +19807,378 @@
       }
     },
     {
-      "id": "nutritionsource-2026-01-09-dietary-guidelines",
-      "category": "Dietary guidance",
+      "id": "dga-2025-2030-2026-01-09",
+      "category": "dietary guidance",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "Overview of the 2025–2030 Dietary Guidelines and notable messaging shifts",
-          "summary": "Harvard’s Nutrition Source analyzes the updated Dietary Guidelines for Americans, noting stronger language on limiting added sugars and ultra‑processed foods alongside visuals that emphasize foods such as red meat and full‑fat dairy. The Guidelines maintain a longstanding 10% cap on calories from saturated fat despite the prominence of some higher‑fat foods in graphics.",
-          "whyItMatters": "The Guidelines influence public health recommendations, food policy, and consumer perceptions; understanding nuances helps readers interpret headline graphics versus specific nutrient limits.",
+          "title": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
+          "summary": "The 2025–2030 Dietary Guidelines emphasize whole foods, stronger limits on added sugars and processed foods, and present a new inverted-pyramid graphic that highlights foods such as steak and full-fat dairy. Despite the visual shift, the guidelines retain the longstanding limit of 10% of daily calories from saturated fat.",
+          "whyItMatters": "The updated messaging and visual presentation could influence public perceptions and food industry practices while maintaining key nutrient limits, so readers should look beyond graphics to the actual recommendations.",
           "takeaways": [
-            "Guidelines reinforce limits on added sugars and processed foods.",
-            "Graphic emphasis on certain foods does not remove the 10% saturated fat recommendation.",
-            "Readers should consider both visual messaging and the written nutrient guidance."
+            "Guidelines stress eating minimally processed, whole foods and limiting added sugar.",
+            "A new visual elevates some animal-based foods but does not change the 10% saturated fat limit.",
+            "Consumers should review the written guidance, not just promotional graphics, when making choices."
           ]
         },
         "es": {
-          "title": "Resumen de las Guías Alimentarias 2025–2030 y cambios de mensaje destacables",
-          "summary": "La Nutrition Source de Harvard analiza las actualizadas Dietary Guidelines for Americans, señalando un lenguaje más contundente sobre limitar azúcares añadidos y alimentos ultraprocesados junto con gráficos que enfatizan alimentos como la carne roja y los lácteos enteros. Las Guías mantienen el límite tradicional del 10% de las calorías procedentes de grasas saturadas a pesar del protagonismo gráfico de algunos alimentos más grasos.",
-          "whyItMatters": "Las Guías influyen en las recomendaciones de salud pública, la política alimentaria y la percepción del consumidor; entender las sutilezas ayuda a interpretar los gráficos destacados frente a los límites nutricionales específicos.",
+          "title": "Directrices dietéticas para estadounidenses 2025‑2030: avances sobre el azúcar añadido, el exceso de proteína y contradicciones con la grasa saturada",
+          "summary": "Las Directrices Dietéticas 2025–2030 enfatizan los alimentos integrales, límites más estrictos sobre azúcares añadidos y alimentos procesados, y presentan un nuevo gráfico de pirámide invertida que destaca alimentos como el bistec y los lácteos enteros. A pesar del cambio visual, las directrices mantienen el límite tradicional de 10% de las calorías diarias procedentes de grasas saturadas.",
+          "whyItMatters": "El nuevo mensaje y la presentación visual podrían influir en la percepción pública y en las prácticas de la industria alimentaria, mientras se mantienen límites clave de nutrientes; por ello, los lectores deben mirar más allá de los gráficos y revisar las recomendaciones reales.",
           "takeaways": [
-            "Las guías refuerzan los límites sobre azúcares añadidos y alimentos procesados.",
-            "El énfasis gráfico en ciertos alimentos no elimina la recomendación del 10% sobre grasas saturadas.",
-            "Los lectores deben considerar tanto el mensaje visual como la guía escrita sobre nutrientes."
+            "Las guías subrayan comer alimentos mínimamente procesados e integrales y limitar el azúcar añadido.",
+            "Un nuevo gráfico eleva algunos alimentos de origen animal, pero no cambia el límite del 10% de grasa saturada.",
+            "Los consumidores deberían revisar la orientación escrita, no solo los gráficos promocionales, al tomar decisiones."
           ]
         },
         "ru": {
-          "title": "Обзор Руководства по питанию 2025–2030 и заметные сдвиги в сообщениях",
-          "summary": "Nutrition Source Гарварда анализирует обновлённые Dietary Guidelines for Americans, отмечая более жёсткие формулировки по ограничению добавленных сахаров и ультра‑переработанных продуктов наряду с визуализациями, подчёркивающими такие продукты, как красное мясо и цельномолочные продукты. Руководство сохраняет давнее ограничение в 10% калорий из насыщенных жиров, несмотря на акцент некоторых графических материалов на продуктах с более высоким содержанием жира.",
-          "whyItMatters": "Руководство влияет на рекомендации в области общественного здоровья, продовольственную политику и восприятие потребителей; понимание нюансов помогает интерпретировать заголовочные изображения в сравнении с конкретными ограничениями по нутриентам.",
+          "title": "Диетические рекомендации для американцев 2025–2030: прогресс по добавленному сахару, ажиотаж вокруг белка и противоречия по насыщенным жирам",
+          "summary": "Рекомендации 2025–2030 подчёркивают цельные продукты, более строгие ограничения на добавленный сахар и обработанные продукты и представляют новую инвертированную пирамиду, в которой выделены такие продукты, как стейк и цельномолочные продукты. Несмотря на визуальные изменения, рекомендации сохраняют прежний предел насыщенных жиров — 10% от суточных калорий.",
+          "whyItMatters": "Обновлённая подача и визуализация могут повлиять на общественное восприятие и практики пищевой промышленности, при этом оставаясь ключевые ограничения по питательным веществам; поэтому читателям следует обращать внимание не только на графику, но и на текст рекомендаций.",
           "takeaways": [
-            "Руководство усиливает акцент на ограничении добавленных сахаров и обработанных продуктов.",
-            "Графический акцент на отдельных продуктах не отменяет рекомендацию о лимите 10% по насыщенным жирам.",
-            "Читателям следует учитывать как визуальные сообщения, так и текстовые указания по нутриентам."
+            "Руководство делает акцент на минимально обработанных цельных продуктах и ограничении добавленного сахара.",
+            "Новая визуализация повышает видимость некоторых животных продуктов, но не меняет предел 10% по насыщенным жирам.",
+            "Потребителям стоит изучать письменные рекомендации, а не только рекламные графики, при принятии решений."
           ]
         },
         "uk": {
-          "title": "Огляд оновлених Дієтичних рекомендацій США 2025–2030 і помітні зміни в повідомленні",
-          "summary": "Nutrition Source Гарварду аналізує оновлені Дієтичні рекомендації для американців, відзначаючи жорсткішу риторику щодо обмеження доданих цукрів і ультраоброблених продуктів поряд із візуалізацією, що підкреслює такі продукти, як червоне м’ясо та молочні продукти з повною жирністю. Рекомендації зберігають давно встановлену межу в 10% калорій з насичених жирів, незважаючи на присутність деяких продуктів з вищим вмістом жиру у графіці.",
-          "whyItMatters": "Ці Рекомендації впливають на громадське здоров’я, продовольчу політику та сприйняття споживачів; розуміння нюансів допомагає інтерпретувати загальні візуальні меседжі порівняно з конкретними обмеженнями щодо нутрієнтів.",
+          "title": "Дієтичні рекомендації для американців 2025–2030: поступ щодо доданого цукру, ажіотаж навколо білка, протиріччя щодо насичених жирів",
+          "summary": "Дієтичні рекомендації 2025–2030 наголошують на цільних продуктах, суворішому обмеженні доданого цукру та перероблених продуктів, і презентують нову графіку у вигляді перевернутої піраміди, яка виокремлює такі продукти, як стейк і повно‑жирні молочні продукти. Незважаючи на візуальні зміни, рекомендації зберігають давнє обмеження — не більше 10% добових калорій з насичених жирів.",
+          "whyItMatters": "Оновлені меседжі та візуальна подача можуть вплинути на сприйняття населення та практики харчової промисловості, водночас зберігаючи ключові ліміти нутрієнтів, тому читачам слід дивитися не лише на графіку, а й на самі рекомендації.",
           "takeaways": [
-            "Рекомендації підкреслюють обмеження щодо доданих цукрів та оброблених продуктів.",
-            "Графічний акцент на певних продуктах не скасовує рекомендацію щодо 10% калорій з насичених жирів.",
-            "Читачам слід враховувати як візуальні повідомлення, так і письмові рекомендації щодо нутрієнтів."
+            "Рекомендації наголошують на споживанні мінімально перероблених, цільних продуктів і обмеженні доданого цукру.",
+            "Нова візуалізація підвищує вагу деяких продуктів тваринного походження, але не змінює ліміт у 10% калорій з насичених жирів.",
+            "Споживачам варто ознайомитися з письмовими рекомендаціями, а не лише з промо‑графікою, приймаючи рішення."
           ]
         },
         "fr": {
-          "title": "Vue d’ensemble des Dietary Guidelines 2025–2030 et changements notables dans le message",
-          "summary": "Le Nutrition Source de Harvard analyse les Dietary Guidelines mises à jour pour les Américains, notant un langage renforcé sur la limitation des sucres ajoutés et des aliments ultra‑transformés, parallèlement à des visuels mettant en avant certains aliments comme la viande rouge et les produits laitiers entiers. Les recommandations maintiennent un plafond de longue date de 10% des calories provenant des graisses saturées, malgré la présence de certains aliments plus gras dans les graphiques.",
-          "whyItMatters": "Ces recommandations influencent la santé publique, les politiques alimentaires et la perception des consommateurs ; comprendre les nuances aide à interpréter les images d’ensemble par rapport aux limites spécifiques en nutriments.",
+          "title": "Directives alimentaires pour les Américains 2025–2030 : progrès sur le sucre ajouté, engouement pour les protéines, contradictions sur les graisses saturées",
+          "summary": "Les Dietary Guidelines 2025–2030 insistent sur les aliments peu transformés, des limites renforcées pour le sucre ajouté et les aliments transformés, et présentent un nouveau graphique en pyramide inversée qui met en avant des aliments tels que le steak et les produits laitiers entiers. Malgré ce changement visuel, les recommandations conservent la limite ancienne de 10 % des calories journalières provenant des graisses saturées.",
+          "whyItMatters": "Le nouveau message et la présentation visuelle pourraient influencer la perception du public et les pratiques de l’industrie alimentaire tout en maintenant des limites nutritionnelles clés ; il est donc important de lire les recommandations écrites et pas seulement les graphiques promotionnels.",
           "takeaways": [
-            "Les directives réaffirment des limites sur les sucres ajoutés et les aliments transformés.",
-            "L’accent graphique mis sur certains aliments n’annule pas la recommandation des 10% de calories provenant des graisses saturées.",
-            "Les lecteurs devraient tenir compte à la fois des messages visuels et des indications écrites sur les nutriments."
+            "Les directives insistent sur la consommation d’aliments peu transformés et la limitation du sucre ajouté.",
+            "La nouvelle visualisation valorise certains aliments d’origine animale, mais ne change pas la limite de 10 % pour les graisses saturées.",
+            "Les consommateurs devraient consulter les recommandations écrites, pas seulement les graphiques, pour orienter leurs choix."
           ]
         },
         "de": {
-          "title": "Überblick über die Dietary Guidelines 2025–2030 und bemerkenswerte Verschiebungen in der Botschaft",
-          "summary": "Harvards Nutrition Source analysiert die aktualisierten Dietary Guidelines for Americans und stellt stärkere Formulierungen zum Begrenzen von zugesetztem Zucker und hochverarbeiteten Lebensmitteln fest, neben Bildern, die Lebensmittel wie rotes Fleisch und Vollfettmilchprodukte hervorheben. Die Guidelines halten an der seit Langem bestehenden Obergrenze von 10 % der Kalorien aus gesättigtem Fett fest, trotz der Prominenz einiger fettreicherer Lebensmittel in den Grafiken.",
-          "whyItMatters": "Die Guidelines beeinflussen öffentliche Gesundheitsempfehlungen, Lebensmittelpolitik und die Wahrnehmung von Verbrauchern; Nuancen zu verstehen hilft Lesern, zwischen Schlagzeilengrafiken und spezifischen Nährstoffgrenzen zu unterscheiden.",
+          "title": "Dietary Guidelines for Americans 2025–2030: Fortschritte bei zugesetztem Zucker, Protein‑Hype, Widersprüche bei gesättigten Fetten",
+          "summary": "Die Dietary Guidelines 2025–2030 betonen unverarbeitete Vollwertkost, strengere Begrenzungen zugesetzten Zuckers und verarbeiteter Lebensmittel und stellen ein neues invertiertes Pyramiden‑Grafikformat vor, das Lebensmittel wie Steak und Vollfettmilchprodukte hervorhebt. Trotz der visuellen Verschiebung behalten die Leitlinien das langjährige Limit von 10 % der täglichen Kalorien aus gesättigten Fettsäuren bei.",
+          "whyItMatters": "Die aktualisierte Botschaft und Darstellung könnten öffentliche Wahrnehmungen und Praktiken der Lebensmittelindustrie beeinflussen, während wichtige Nährstoffgrenzen erhalten bleiben — Leser sollten daher über Grafiken hinaus die tatsächlichen Empfehlungen prüfen.",
           "takeaways": [
-            "Die Guidelines bekräftigen Begrenzungen für zugesetzten Zucker und verarbeitete Lebensmittel.",
-            "Die grafische Betonung bestimmter Lebensmittel hebt die 10%‑Empfehlung für gesättigte Fette nicht auf.",
-            "Leser sollten sowohl die visuelle Botschaft als auch die schriftlichen Nährstoffempfehlungen berücksichtigen."
+            "Die Leitlinien betonen den Verzehr minimal verarbeiteter Vollwertkost und die Begrenzung zugesetzten Zuckers.",
+            "Eine neue Visualisierung rückt einige tierische Lebensmittel in den Fokus, ändert aber nicht das 10‑%‑Limit für gesättigte Fettsäuren.",
+            "Verbraucher sollten die schriftliche Anleitung prüfen und sich nicht nur auf Werbegrafiken verlassen, wenn sie Entscheidungen treffen."
           ]
         },
         "pt-br": {
-          "title": "Visão geral das Dietary Guidelines 2025–2030 e mudanças notáveis na mensagem",
-          "summary": "O Nutrition Source de Harvard analisa as Diretrizes Alimentares atualizadas dos EUA, notando linguagem mais firme sobre limitar açúcares adicionados e alimentos ultraprocessados, ao lado de gráficos que dão destaque a alimentos como carne vermelha e laticínios integrais. As Diretrizes mantêm o limite de longa data de 10% das calorias provenientes de gorduras saturadas, apesar da ênfase gráfica em alguns alimentos mais gordurosos.",
-          "whyItMatters": "As Diretrizes influenciam recomendações de saúde pública, políticas alimentares e a percepção dos consumidores; entender as nuances ajuda os leitores a interpretar os gráficos de manchete versus os limites específicos de nutrientes.",
+          "title": "Dietary Guidelines for Americans 2025–2030: avanços sobre açúcar adicionado, exagero de proteína, contradições sobre gordura saturada",
+          "summary": "As Dietary Guidelines 2025–2030 enfatizam alimentos integrais minimamente processados, limites mais rígidos para açúcares adicionados e alimentos processados, e apresentam um novo gráfico em pirâmide invertida que destaca alimentos como bife e laticínios integrais. Apesar da mudança visual, as diretrizes mantêm o limite de longa data de 10% das calorias diárias provenientes de gordura saturada.",
+          "whyItMatters": "A mensagem e a apresentação atualizadas podem influenciar percepções do público e práticas da indústria alimentícia, enquanto limites nutricionais-chave são mantidos; portanto, leitores devem olhar além dos gráficos para as recomendações reais.",
           "takeaways": [
-            "As diretrizes reforçam limites sobre açúcares adicionados e alimentos processados.",
-            "A ênfase gráfica em certos alimentos não elimina a recomendação de 10% para gorduras saturadas.",
-            "Os leitores devem considerar tanto a mensagem visual quanto a orientação escrita sobre nutrientes."
+            "As diretrizes reforçam consumir alimentos minimamente processados e limitar açúcares adicionados.",
+            "Um novo elemento visual eleva certos alimentos de origem animal, mas não altera o limite de 10% para gordura saturada.",
+            "Consumidores devem revisar a orientação escrita, não apenas os gráficos promocionais, ao fazer escolhas."
           ]
         },
         "hu": {
-          "title": "Áttekintés a 2025–2030-as Amerikai Táplálkozási Irányelvekről és a figyelemre méltó üzenetváltásokról",
-          "summary": "A Harvard Nutrition Source elemzi a frissített Dietary Guidelines for Americans irányelveket, kiemelve a szigorúbb megfogalmazást a hozzáadott cukrok és az ultra‑feldolgozott élelmiszerek korlátozására vonatkozóan, miközben a grafikák olyan ételeket is hangsúlyoznak, mint a vörös hús és a teljes zsírtartalmú tejtermékek. Az irányelvek továbbra is fenntartják a telített zsírokra vonatkozó, hosszú ideje érvényben lévő 10%-os határértéket, annak ellenére, hogy bizonyos magasabb zsírtartalmú ételek vizuálisan kiemeltek.",
-          "whyItMatters": "Az irányelvek befolyásolják a közegészségügyi ajánlásokat, az élelmiszerpolitikát és a fogyasztói észlelést; a finomságok ismerete segít értelmezni a kiemelt grafikákat a konkrét tápanyag‑korlátok mellett.",
+          "title": "Az amerikai táplálkozási irányelvek 2025–2030: előrelépés a hozzáadott cukor, a fehérjehype és a telített zsír ellentmondásai ügyében",
+          "summary": "A 2025–2030-as irányelvek a teljes értékű ételek fogyasztását és a hozzáadott cukrok, valamint a feldolgozott élelmiszerek erőteljesebb korlátozását hangsúlyozzák. Bemutatnak egy új, megfordított piramis grafikont, amely kiemeli például a steaket és a teljes zsírtartalmú tejtermékeket. A vizuális változás ellenére az irányelvek megtartják a régebbi, napi kalóriák 10%-ára vonatkozó korlátot telített zsírból.",
+          "whyItMatters": "Az új üzenetek és vizuális megjelenés befolyásolhatják a közvélemény és az élelmiszeripar szemléletét, miközben a kulcsfontosságú tápanyagkorlátok megmaradnak — ezért érdemes a grafikákon túlmenően a tényleges írott ajánlásokat is átnézni.",
           "takeaways": [
-            "Az irányelvek megerősítik a hozzáadott cukrok és a feldolgozott élelmiszerek korlátozását.",
-            "Az egyes ételek grafikai kiemelése nem változtat a telített zsírokra vonatkozó 10%-os ajánláson.",
-            "Az olvasóknak mind a vizuális üzeneteket, mind az írott tápanyag‑útmutatást érdemes figyelembe venniük."
+            "Az irányelvek a minimálisan feldolgozott, teljes értékű ételek fogyasztását és a hozzáadott cukor korlátozását hangsúlyozzák.",
+            "Egy új vizuális ábra bizonyos állati eredetű ételeket kiemel, de ez nem változtat a telített zsír 10%-os korlátján.",
+            "A fogyasztóknak érdemes a leírt iránymutatásokat áttekinteniük, ne csupán a promóciós grafikai elemek alapján dönteni."
           ]
         },
         "ar": {
-          "title": "نظرة عامة على إرشادات النظام الغذائي الأمريكية 2025–2030 والتحولات البارزة في الرسائل",
-          "summary": "يحلل مصدر التغذية بجامعة هارفارد الإرشادات الغذائية الأمريكية المحدثة، مشيرًا إلى لغة أكثر صرامة بشأن تقليل السكريات المضافة والأغذية فائقة المعالجة، في حين تُظهر الرسوم توجيهًا بصريًا يبرز أطعمة مثل اللحوم الحمراء ومنتجات الألبان كاملة الدسم. تحافظ الإرشادات على الحد الطويل الأمد المتمثل في 10% من السعرات الحرارية من الدهون المشبعة، رغم بروز بعض الأطعمة الأعلى دسمًا في الرسوم.",
-          "whyItMatters": "تؤثر الإرشادات على التوصيات الصحية العامة وسياسات الغذاء وتصوّر المستهلكين؛ وفهم الفروقات يساعد القرّاء على تفسير الرسوم البارزة مقابل الحدود المغذّية المكتوبة.",
+          "title": "إرشادات النظام الغذائي للأمريكيين 2025–2030: تقدم بشأن السكر المضاف، ضجيج البروتين، وتناقضات الدهون المشبعة",
+          "summary": "تؤكد إرشادات 2025–2030 على تناول الأطعمة الكاملة، وحدود أقوى للسكر المضاف والأطعمة المصنعة، وتعرض رسمًا هرميًا مقلوبًا جديدًا يبرز أطعمة مثل شريحة اللحم ومنتجات الألبان كاملة الدسم. وعلى الرغم من هذا التغيير البصري، تظل الإرشادات محافظة على الحد القائم وهو 10% من السعرات اليومية من الدهون المشبعة.",
+          "whyItMatters": "قد يؤثر التغيير في الرسائل والعرض البصري على تصورات الجمهور وممارسات صناعة الأغذية مع الحفاظ على حدود المغذيات الأساسية، لذا ينبغي على القراء مراجعة التوجيهات المكتوبة وليس الاكتفاء بالرسوم التوضيحية الترويجية عند اتخاذ القرارات.",
           "takeaways": [
-            "تؤكد الإرشادات على ضرورة الحد من السكريات المضافة والأطعمة المصنعة.",
-            "تركيز الرسومات على أطعمة بعينها لا يلغي توصية 10% للدهون المشبعة.",
-            "ينبغي على القرّاء مراعاة كلٍ من الرسائل البصرية والإرشادات الغذائية المكتوبة."
+            "تركز الإرشادات على تناول أطعمة أقل معالجة وأكثر طبيعية والحد من السكر المضاف.",
+            "يرفع الرسم الجديد بعض الأطعمة ذات الأصل الحيواني بصريًا لكنه لا يغيّر حد الدهون المشبعة البالغ 10%.",
+            "يجب على المستهلكين الاطلاع على الإرشادات النصية وليس الاعتماد فقط على الرسوم التوضيحية."
           ]
         }
       },
-      "generatedAt": "2026-05-26T10:36:30.424Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionsource-2026-01-09-dietary-guidelines",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionsource-2026-01-09-dietary-guidelines-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionsource-2026-01-09-dietary-guidelines-news.webp",
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dga-2025-2030-2026-01-09",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-2026-01-09-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-2026-01-09-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Overview of the 2025–2030 Dietary Guidelines and notable messaging shifts.\nStory summary: Harvard’s Nutrition Source analyzes the updated Dietary Guidelines for Americans, noting stronger language on limiting added sugars and ultra‑processed foods alongside visuals that emphasize foods such as red meat and full‑fat dairy. The Guidelines maintain a longstanding 10% cap on calories from saturated fat despite the prominence of some higher‑fat foods in graphics..\nCategory: Dietary guidance.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions.\nStory summary: The 2025–2030 Dietary Guidelines emphasize whole foods, stronger limits on added sugars and processed foods, and present a new inverted-pyramid graphic that highlights foods such as steak and full-fat dairy. Despite the visual shift, the guidelines retain the longstanding limit of 10% of daily calories from saturated fat..\nCategory: dietary guidance.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-05-27-motivation-1-s1",
+      "category": "planning",
+      "languages": {
+        "en": {
+          "title": "Plan for a busy day",
+          "story": "Maya jots down a simple plan each morning: coffee, a quick packed lunch, and a light dinner. When her day gets hectic, she checks her notes and logs what she actually ate instead of guessing. The small habit of planning one meal ahead helps her pick realistic options and saves time at the grocery store. Tracking becomes less about perfection and more about making easier choices when life gets busy.",
+          "habit": "Plan one meal the night before.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Planea un día ocupado",
+          "story": "Maya apunta un plan sencillo cada mañana: café, un almuerzo para llevar y una cena ligera. Cuando el día se complica revisa sus notas y registra lo que realmente comió en vez de adivinar. El hábito de planificar una comida con antelación le ayuda a elegir opciones realistas y le ahorra tiempo en la compra. Para ella, registrar no es buscar la perfección sino facilitar decisiones más fáciles cuando la vida se vuelve ajetreada.",
+          "habit": "Planifica una comida la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "План на загруженный день",
+          "story": "Майя каждый утро записывает простой план: кофе, упакованный обед и легкий ужин. Когда день насыщен, она смотрит в заметки и вносит в журнал то, что действительно съела, а не догадывается. Привычка планировать хотя бы один приём пищи заранее помогает выбирать реалистичные варианты и экономит время в магазине. Для неё учёт — не про идеальность, а про упрощение решений в плотные дни.",
+          "habit": "Спланируйте одну еду накануне.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Сплануйте напружений день",
+          "story": "Мая щоранку записує простий план: кава, перекус із собою і легка вечеря. Коли день насичений, вона дивиться в нотатки й фіксує, що справді поїла, а не здогадується. Привичка спланувати хоча б один прийом їжі допомагає обирати реалістичні варіанти й економить час у магазині. Для неї відстеження — це не про ідеальність, а про спрощення вибору в зайняті дні.",
+          "habit": "Сплануйте одну їжу наперед.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Préparez une journée chargée",
+          "story": "Maya note un plan simple chaque matin : café, déjeuner à emporter et dîner léger. Quand sa journée devient dense, elle consulte ses notes et saisit ce qu’elle a réellement mangé au lieu de deviner. L’habitude de planifier un repas à l’avance l’aide à faire des choix réalistes et lui fait gagner du temps en course. Pour elle, le suivi n’est pas une quête de perfection, mais un moyen de prendre de meilleures décisions quand la vie s’accélère.",
+          "habit": "Planifiez un repas la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Plane den vollen Tag",
+          "story": "Maya notiert sich jeden Morgen einen einfachen Plan: Kaffee, ein vorbereitetes Mittagessen und ein leichtes Abendessen. Wenn ihr Tag hektisch wird, schaut sie in ihre Notizen und trägt ein, was sie tatsächlich gegessen hat, statt zu raten. Die Gewohnheit, zumindest eine Mahlzeit vorzubereiten, hilft ihr, realistische Entscheidungen zu treffen und spart Zeit beim Einkaufen. Für sie geht es beim Tracking nicht um Perfektion, sondern darum, den Alltag leichter zu gestalten.",
+          "habit": "Plane eine Mahlzeit am Abend vorher.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Planeje um dia corrido",
+          "story": "Maya anota um plano simples toda manhã: café, almoço para levar e um jantar leve. Quando o dia fica agitado, ela confere as notas e registra o que de fato comeu em vez de adivinhar. O hábito de planejar ao menos uma refeição com antecedência ajuda-a a escolher opções realistas e economiza tempo no supermercado. Para ela, registrar não é busca de perfeição, é facilitar escolhas quando a vida aperta.",
+          "habit": "Planeje uma refeição na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Tervezd meg a forgalmas napot",
+          "story": "Maya minden reggel egy egyszerű tervet ír le: kávé, hazapakolt ebéd és könnyű vacsora. Ha zsúfolt lesz a napja, előveszi a jegyzeteit és beírja, mit evett valójában, a találgatás helyett. Az előre megtervezett egy étkezés szokása segít reális döntéseket hozni és időt spórol a bevásárlásnál. Nála a naplózás nem a tökéletességről szól, hanem arról, hogy egyszerűbbé tegye a döntéseket a mozgalmas napokon.",
+          "habit": "Tervezd meg az egyik étkezést előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "خطط ليوم مزدحم",
+          "story": "مايا تكتب خطة بسيطة كل صباح: قهوة، غداء جاهز، وعشاء خفيف. عندما يمتلئ يومها بالمهام تطلع على ملاحظاتها وتسجل ما أكلته فعلاً بدلاً من التخمين. عادة التخطيط لموجبة واحدة على الأقل تساعدها على اختيار خيارات واقعية وتوفّر الوقت عند التسوق. عندها، يصبح التتبع أقل عن الكمال وأكثر عن تسهيل القرارات عندما تكون الحياة مزدحمة.",
+          "habit": "خطط وجبة واحدة في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan for a busy day.\nStory: Maya jots down a simple plan each morning: coffee, a quick packed lunch, and a light dinner. When her day gets hectic, she checks her notes and logs what she actually ate instead of guessing. The small habit of planning one meal ahead helps her pick realistic options and saves time at the grocery store. Tracking becomes less about perfection and more about making easier choices when life gets busy..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-27-motivation-2-s2",
+      "category": "honest-logging",
+      "languages": {
+        "en": {
+          "title": "Log honestly, learn quickly",
+          "story": "Ben started writing down every snack he ate, even the handfuls he used to ignore. At first it felt tedious, but after a week he noticed how often small bites added up. Logging honestly helped him spot habits—late-night toast, extra spoonfuls of sauce—and decide where small changes fit naturally. He treats entries as useful data, not a score. That way tracking becomes a calm tool for clearer decisions, one honest log at a time.",
+          "habit": "Log every snack this week.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Registra con honestidad",
+          "story": "Ben empezó a anotar cada snack que comía, incluso esos puñados que antes ignoraba. Al principio le parecía pesado, pero a la semana notó cómo los pequeños bocados se sumaban. Registrar con honestidad le permitió identificar hábitos: tostadas nocturnas, cucharadas extra de salsa, y ver dónde encajaban pequeños cambios. Él ve los registros como datos útiles, no como una nota. Así, el seguimiento se convierte en una herramienta tranquila para decidir mejor, registro honesto tras registro.",
+          "habit": "Registra todos los snacks esta semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честный учёт",
+          "story": "Бен начал записывать каждую закуску, даже те горстки, которые раньше пропускал. Сначала казалось утомительным, но через неделю он заметил, как мелочи складываются. Честный учёт помог выявить привычки — поздние тосты, лишние ложки соуса — и решить, где можно внести небольшие изменения. Он воспринимает записи как полезные данные, а не оценку. Так tracking становится спокойным инструментом для более осознанных решений, запись за записью.",
+          "habit": "Записывайте все перекусы на этой неделе.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Фіксуй чесно, вчися швидше",
+          "story": "Бен почав записувати кожен перекус, навіть ті жменьки, які раніше ігнорував. Спочатку було нудно, але за тиждень він помітив, як дрібниці складаються. Чесне фіксування допомогло виявити звички — нічні тости, зайві ложки соусу — і вирішити, де можна м’яко змінити поведінку. Він сприймає записи як корисні дані, а не оцінку. Так відстеження стає спокійним інструментом для свідомішого вибору, запис за записом.",
+          "habit": "Фіксуйте всі перекуси цього тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Notez avec honnêteté",
+          "story": "Ben a commencé à noter chaque snack qu’il avalait, même les petites poignées qu’il ignorait auparavant. Au départ c’était fastidieux, mais au bout d’une semaine il a vu combien ces petites bouchées s’additionnaient. Noter en toute honnêteté l’a aidé à repérer des habitudes — tartines nocturnes, cuillères de sauce en trop — et à décider où ajuster légèrement. Il voit ses saisies comme des données utiles, pas comme un jugement. Le suivi devient alors un outil calme pour mieux choisir.",
+          "habit": "Notez tous les snacks cette semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Ehrlich eintragen, schneller lernen",
+          "story": "Ben begann, jeden Snack zu notieren, auch die Hände voll, die er vorher übersehen hatte. Anfangs war es mühsam, doch nach einer Woche fiel ihm auf, wie sich Kleinigkeiten summieren. Ehrliches Eintragen half ihm, Muster zu erkennen — nächtliche Toasts, zusätzliche Löffel Soße — und zu entscheiden, wo kleine Veränderungen passen. Er sieht Einträge als nützliche Daten, nicht als Bewertung. So wird Tracking zu einem ruhigen Werkzeug für klarere Entscheidungen, Eintrag für Eintrag.",
+          "habit": "Trage diese Woche alle Snacks ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Registre com honestidade",
+          "story": "Ben começou a anotar todo lanche que comia, até aquelas porções pequenas que antes ignorava. No começo parecia trabalhoso, mas em uma semana percebeu como os pequenos lanches se acumulavam. Registrar com honestidade o ajudou a identificar hábitos — torradas à noite, colheres extras de molho — e decidir onde ajustes pequenos cabem naturalmente. Ele trata as anotações como dados úteis, não como um julgamento. Assim o registro vira uma ferramenta calma para escolhas mais claras.",
+          "habit": "Registre todos os lanches esta semana.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Vezess őszintén, tanulj gyorsabban",
+          "story": "Ben elkezdte leírni az összes nassolást, még a korábban figyelmen kívül hagyott maréknyi falatokat is. Eleinte fárasztó volt, de egy hét múlva észrevette, hogy a kis adagok összeadódnak. Az őszinte vezetés segített felismerni a szokásokat — éjszakai pirítós, plusz kanál szósz — és eldönteni, hol férnek el kis változtatások. A bejegyzéseket hasznos adatokként kezeli, nem ítéletként. Így a követés nyugodt eszközzé válik a tudatosabb döntésekhez.",
+          "habit": "Jegyezd fel az összes nassolást ezen a héten.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "سجل بصدق وتعلم أسرع",
+          "story": "بدأ بن بتدوين كل وجبة خفيفة يتناولها، حتى تلك القضمات الصغيرة التي كان يتجاهلها سابقًا. في البداية كان الأمر مرهقًا، لكن بعد أسبوع لاحظ كيف تتراكم الصغيرات. ساعده التسجيل الصادق على اكتشاف عادات — خبز في وقت متأخر، ملاعق إضافية من الصلصة — وتحديد أماكن يمكن إدخال تغييرات بسيطة. يعتبر السجلات بيانات مفيدة، وليست حكمًا. بهذا الشكل يصبح التتبع أداة هادئة لاتخاذ قرارات أوضح.",
+          "habit": "سجل كل الوجبات الخفيفة هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Log honestly, learn quickly.\nStory: Ben started writing down every snack he ate, even the handfuls he used to ignore. At first it felt tedious, but after a week he noticed how often small bites added up. Logging honestly helped him spot habits—late-night toast, extra spoonfuls of sauce—and decide where small changes fit naturally. He treats entries as useful data, not a score. That way tracking becomes a calm tool for clearer decisions, one honest log at a time..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-27-motivation-3-s3",
+      "category": "pattern-spotting",
+      "languages": {
+        "en": {
+          "title": "Spot the pattern",
+          "story": "Aisha noticed a pattern after two weeks of logging: her energy dipped every afternoon and she reached for sugary drinks. Instead of judging herself, she used the logs to experiment—adding a protein-rich snack in the early afternoon and swapping one sugary drink for water. The change made a small, noticeable difference in how she felt. Using tracking to reveal patterns gave her simple, practical tweaks that fit her routine rather than rigid rules.",
+          "habit": "Check your logs for one repeating pattern.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Detecta un patrón",
+          "story": "Aisha vio un patrón tras dos semanas de registro: su energía caía cada tarde y recurría a bebidas azucaradas. En vez de juzgarse, usó sus registros para experimentar: añadió un snack con proteína a primera hora de la tarde y cambió una bebida azucarada por agua. El cambio produjo una diferencia pequeña pero tangible en cómo se sentía. Usar el seguimiento para descubrir patrones le dio ajustes prácticos que encajaban en su rutina, no reglas rígidas.",
+          "habit": "Revisa tus registros en busca de un patrón recurrente.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Найди закономерность",
+          "story": "Аиша заметила закономерность после двух недель записей: каждый день после обеда у неё спад энергии, и она тянулась к сладким напиткам. Вместо самокритики она использовала записи, чтобы поэкспериментировать — добавила протеиновый перекус в ранний полдень и заменила одну сладкую газировку на воду. Это небольшое изменение заметно улучшило самочувствие. Трекинг помог выявить паттерны и найти простые корректировки, которые вписались в её распорядок.",
+          "habit": "Просмотрите записи на предмет повторяющегося паттерна.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Помітили закономірність",
+          "story": "Аїша помітила закономірність після двох тижнів записів: щодня вдень спад енергії, і вона тягнулась до солодких напоїв. Замість самокритики вона використала записи для експерименту — додала білковий перекус в середині дня і замінила одну солодку напій на воду. Невелика зміна помітно покращила самопочуття. Відстеження допомогло виявити шаблони й знайти прості корективи, що вписалися в її розпорядок.",
+          "habit": "Перегляньте записи на наявність повторюваної закономірності.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Repérez le schéma",
+          "story": "Aisha a repéré un schéma après deux semaines de suivi : elle perdait de l’énergie chaque après-midi et se tournait vers des boissons sucrées. Au lieu de se juger, elle a utilisé ses enregistrements pour expérimenter — ajouter une collation riche en protéines en début d’après‑midi et remplacer une boisson sucrée par de l’eau. Le changement a eu un petit effet notable sur son bien‑être. Le suivi permet de repérer des schémas et d’appliquer des ajustements pratiques, adaptés à la routine.",
+          "habit": "Cherchez un schéma qui se répète dans vos enregistrements.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Muster erkennen",
+          "story": "Aisha erkannte nach zwei Wochen Einträge ein Muster: Nachmittags fiel ihre Energie ab und sie griff zu zuckerhaltigen Getränken. Statt sich zu verurteilen nutzte sie die Aufzeichnungen zum Ausprobieren — ein proteinreicher Snack am frühen Nachmittag und ein Getränke-Tausch gegen Wasser. Die kleine Veränderung wirkte spürbar. Tracking half ihr, Muster zu entdecken und kleine, praktikable Anpassungen zu finden, die in ihren Alltag passen, statt rigider Regeln.",
+          "habit": "Suche in deinen Aufzeichnungen nach einem wiederkehrenden Muster.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Identifique o padrão",
+          "story": "Aisha notou um padrão depois de duas semanas registrando: a energia dela caía à tarde e ela tomava bebidas açucaradas. Em vez de se julgar, usou os registros para testar — adicionou um lanche com proteína no início da tarde e trocou uma bebida açucarada por água. A pequena mudança fez diferença perceptível em como ela se sentia. Usar o registro para revelar padrões deu a ela ajustes simples e práticos que cabiam na rotina.",
+          "habit": "Verifique seus registros por um padrão que se repete.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Felismerni a mintát",
+          "story": "Aisha két hét naplózás után észrevett egy mintát: a délutánjai lelassultak és gyakran nyúlt édes üdítő után. Ahelyett, hogy kritizálná magát, a naplóit felhasználva kísérletezett — hozott egy fehérjedús nassolnivalót kora délutánra és egy édes italt vízre cserélt. A kis változtatás érezhetően javította közérzetét. A naplózás segített felfedni a mintákat és egyszerű, a rutinba illő módosításokat találni.",
+          "habit": "Ellenőrizd a naplódat egy ismétlődő minta után.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "اكتشف النمط",
+          "story": "لاحظت عائشة نمطًا بعد أسبوعين من التسجيل: تنخفض طاقتها كل فترة بعد الظهر فتلجأ للمشروبات السكرية. بدلًا من لوم نفسها، استخدمت السجلات للتجربة — أضافت وجبة خفيفة غنية بالبروتين في وقت مبكر من بعد الظهر واستبدلت مشروبًا سكريًا بالماء. أحدث التغيير فرقًا صغيرًا وملموسًا في شعورها. جعلها التتبع تكتشف أنماطًا وتختار تعديلات بسيطة وعملية تتماشى مع روتينها، لا قواعد صارمة.",
+          "habit": "راجع سجلاتك بحثًا عن نمط متكرر واحد.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Spot the pattern.\nStory: Aisha noticed a pattern after two weeks of logging: her energy dipped every afternoon and she reached for sugary drinks. Instead of judging herself, she used the logs to experiment—adding a protein-rich snack in the early afternoon and swapping one sugary drink for water. The change made a small, noticeable difference in how she felt. Using tracking to reveal patterns gave her simple, practical tweaks that fit her routine rather than rigid rules..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-05-27-motivation-4-s4",
+      "category": "small-adjustments",
+      "languages": {
+        "en": {
+          "title": "Tiny tweaks, steady progress",
+          "story": "Carlos decided not to overhaul his meals overnight. He picked one tiny change: swapping one evening snack for a piece of fruit three times a week. He logged the swap and noticed it was easier than he expected. Instead of aiming for big shifts, these small, repeated tweaks felt sustainable and gradually shaped his habits. Tracking the small steps kept him motivated because each honest entry showed practical progress he could build on.",
+          "habit": "Make one small swap three times this week.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Pequeños cambios, avance constante",
+          "story": "Carlos decidió no cambiar sus comidas de golpe. Eligió un pequeño cambio: sustituir un snack nocturno por una fruta tres veces a la semana. Registró el intercambio y comprobó que fue más fácil de lo que imaginaba. En lugar de buscar grandes transformaciones, esos pequeños ajustes repetidos le parecieron sostenibles y, con el tiempo, moldearon sus hábitos. Registrar los pasos pequeños le motivó porque cada entrada honesta mostraba un progreso práctico sobre el que seguir construyendo.",
+          "habit": "Haz un pequeño cambio tres veces esta semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие шаги, стабильный прогресс",
+          "story": "Карлос решил не перестраивать рацион в один день. Он выбрал маленькую замену: три раза в неделю менять вечерний перекус на фрукт. Он записывал эту замену и заметил, что это оказалось проще, чем думал. Вместо резких перемен такие небольшие повторяющиеся шаги казались ему более устойчивыми и со временем сформировали привычки. Ведение записей маленьких шагов поддерживало мотивацию — каждая честная запись показывала реальный прогресс.",
+          "habit": "Сделайте одну небольшую замену три раза на этой неделе.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать сегодня."
+        },
+        "uk": {
+          "title": "Маленькі кроки, сталий прогрес",
+          "story": "Карлос вирішив не перебудовувати раціон за ніч. Він обрав одну дрібну зміну: тричі на тиждень замінювати вечірній перекус на фрукт. Він записував цю заміну і помітив, що це виявилося простіше, ніж думав. Замість різких змін такі невеликі повторювані кроки здавалися життєздатнішими й поступово формували звички. Ведення записів маленьких кроків підтримувало мотивацію, бо кожен чесний запис показував реальний прогрес.",
+          "habit": "Зробіть одну маленьку заміну тричі цього тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Petits ajustements, progrès réguliers",
+          "story": "Carlos a décidé de ne pas transformer ses repas du jour au lendemain. Il a choisi un petit changement : remplacer un snack du soir par un fruit trois fois par semaine. Il a noté ce remplacement et a constaté que c’était plus facile que prévu. Plutôt que des transformations majeures, ces petits ajustements répétés lui ont paru durables et ont peu à peu façonné ses habitudes. Enregistrer ces petits pas l’a motivé, car chaque saisie honnête révélait un progrès concret.",
+          "habit": "Faites un petit échange trois fois cette semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Anpassungen, stetiger Fortschritt",
+          "story": "Carlos beschloss, seine Mahlzeiten nicht über Nacht umzustellen. Er wählte eine winzige Veränderung: Er ersetzte dreimal pro Woche einen abendlichen Snack durch ein Stück Obst. Er trug den Tausch ein und merkte, dass es einfacher war als erwartet. Statt großer Veränderungen fühlten sich diese kleinen, wiederholten Anpassungen nachhaltig an und formten mit der Zeit seine Gewohnheiten. Das Tracking der kleinen Schritte hielt ihn motiviert, weil jeder ehrliche Eintrag greifbaren Fortschritt zeigte.",
+          "habit": "Mache diese Woche dreimal einen kleinen Tausch.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Pequenas mudanças, progresso constante",
+          "story": "Carlos decidiu não transformar suas refeições da noite para o dia. Ele escolheu uma mudança pequena: trocar um lanche noturno por uma fruta três vezes por semana. Registrou a troca e percebeu que foi mais fácil do que esperava. Em vez de grandes mudanças, esses pequenos ajustes repetidos pareceram sustentáveis e, aos poucos, moldaram seus hábitos. Registrar os pequenos passos o manteve motivado porque cada entrada honesta mostrava um progresso prático para continuar.",
+          "habit": "Faça uma pequena troca três vezes esta semana.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Apró módosítások, folyamatos előrelépés",
+          "story": "Carlos úgy döntött, nem változtatja meg az étkezéseit egyik napról a másikra. Egy apró váltást választott: a héten háromszor este a nassolnivaló helyett gyümölcsöt fogyaszt. Bejegyezte ezt a cserét és észrevette, hogy könnyebb volt, mint gondolta. A nagy változások helyett ezek a kis, ismételt módosítások fenntarthatónak tűntek és lassan formálták a szokásait. A kis lépések naplózása motiválta, mert minden őszinte bejegyzés kézzelfogható előrelépést mutatott.",
+          "habit": "Csinálj egy kis cserét háromszor ezen a héten.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "تعديلات صغيرة، تقدم ثابت",
+          "story": "قرر كارلوس ألا يغير وجباته بين ليلة وضحاها. اختار تغييرًا بسيطًا: استبدال وجبة خفيفة مسائية بفاكهة ثلاث مرات في الأسبوع. سجّل هذا التبديل ولاحظ أنه أسهل مما توقع. بدلًا من التغييرات الكبيرة، بدت هذه التعديلات الصغيرة المتكررة مستدامة وشكلت عاداته تدريجيًا. الحفاظ على سجلات لهذه الخطوات الصغيرة حفّزه لأن كل إدخال صادق أظهر تقدمًا عمليًا يمكن البناء عليه.",
+          "habit": "قم بإجراء تبديل صغير ثلاث مرات هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-05-27T10:38:24.689Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-05-27-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny tweaks, steady progress.\nStory: Carlos decided not to overhaul his meals overnight. He picked one tiny change: swapping one evening snack for a piece of fruit three times a week. He logged the swap and noticed it was easier than he expected. Instead of aiming for big shifts, these small, repeated tweaks felt sustainable and gradually shaped his habits. Tracking the small steps kept him motivated because each honest entry showed practical progress he could build on..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-05-26-motivation-1-story-1",
       "category": "consistency",
