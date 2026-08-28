@@ -1,7 +1,649 @@
 {
-  "generatedAt": "2026-08-27T09:35:50.587Z",
+  "generatedAt": "2026-08-28T09:38:54.284Z",
   "sourceCount": 21,
   "articles": [
+    {
+      "id": "article10",
+      "category": "metabolic research",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00236-6?rss=yes",
+      "sourceTitle": "Decoding neural signals to build metabolic therapies",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Researchers explore neural circuits as targets for metabolic therapies",
+          "summary": "Researchers discuss how central and peripheral neural pathways appear to mediate the effects of incretin-mimetic drugs and other emerging obesity treatments, outlining opportunities and challenges for translating neural insights into therapies that influence energy balance and metabolism.",
+          "whyItMatters": "Mapping neural targets could expand therapeutic strategies for obesity and metabolic disease beyond conventional pharmacology, potentially improving efficacy and specificity of interventions.",
+          "takeaways": [
+            "Incretin-mimetic drugs may act in part via neural circuits, not only peripheral mechanisms. ",
+            "Understanding central and peripheral pathways could enable more precise metabolic therapies. ",
+            "Translational challenges remain, and this perspective frames research directions rather than established clinical interventions."
+          ]
+        },
+        "es": {
+          "title": "Investigadores exploran circuitos neuronales como objetivos para terapias metabólicas",
+          "summary": "Investigadores analizan cómo vías neuronales centrales y periféricas parecen mediar los efectos de fármacos miméticos de incretinas y otros tratamientos emergentes para la obesidad, describiendo oportunidades y desafíos para traducir conocimientos neuronales en terapias que influyan en el balance energético y el metabolismo.",
+          "whyItMatters": "Mapear objetivos neuronales podría ampliar las estrategias terapéuticas para la obesidad y las enfermedades metabólicas más allá de la farmacología convencional, potencialmente mejorando la eficacia y especificidad de las intervenciones.",
+          "takeaways": [
+            "Los fármacos miméticos de incretinas pueden actuar en parte a través de circuitos neuronales, no solo por mecanismos periféricos.",
+            "Comprender vías centrales y periféricas podría permitir terapias metabólicas más precisas.",
+            "Persisten desafíos de traducción; esta perspectiva enmarca direcciones de investigación más que intervenciones clínicas establecidas."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи изучают нейронные цепи как мишени для метаболических терапий",
+          "summary": "Авторы рассматривают, как центральные и периферические нейронные пути, по-видимому, опосредуют эффекты препаратов‑миметиков инкретинов и других новых методов лечения ожирения, описывая возможности и сложности превращения нейронных открытий в терапии, влияющие на энергетический баланс и метаболизм.",
+          "whyItMatters": "Картирование нейронных мишеней может расширить терапевтические стратегии при ожирении и метаболических заболеваниях за пределы традиционной фармакологии, что потенциально повысит эффективность и специфичность вмешательств.",
+          "takeaways": [
+            "Препараты‑миметики инкретинов могут действовать отчасти через нейронные цепи, а не только через периферические механизмы.",
+            "Понимание центральных и периферических путей может позволить создание более точных метаболических терапий.",
+            "Остаются проблемы трансляции; данная перспектива намечает направления исследований, а не устоявшиеся клинические вмешательства."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники вивчають нейронні ланцюги як цілі для метаболічних терапій",
+          "summary": "Дослідники обговорюють, як центральні й периферичні нейронні шляхи, ймовірно, опосередковують ефекти інкретиноміметичних препаратів та інших нових методів лікування ожиріння, окреслюючи можливості й виклики трансляції нейронних знань у терапії, що впливає на енергетичний баланс і метаболізм.",
+          "whyItMatters": "Картування нервових мішеней може розширити терапевтичні стратегії при ожирінні й метаболічних захворюваннях за межі традиційної фармакології, потенційно підвищивши ефективність і специфічність втручань.",
+          "takeaways": [
+            "Інкретиноміметичні препарати можуть діяти частково через нейронні ланцюги, а не лише периферичні механізми.",
+            "Розуміння центральних і периферичних шляхів може дозволити точніші метаболічні терапії.",
+            "Залишаються трансляційні виклики; цей огляд окреслює напрямки досліджень, а не встановлені клінічні втручання."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs explorent les circuits neuronaux comme cibles pour des thérapies métaboliques",
+          "summary": "Des chercheurs discutent de la manière dont les voies neuronales centrales et périphériques semblent médiatiser les effets des médicaments mimétiques d’incrétine et d’autres traitements émergents contre l’obésité, décrivant les opportunités et les défis pour traduire les connaissances neuronales en thérapies influençant l’équilibre énergétique et le métabolisme.",
+          "whyItMatters": "Cartographier les cibles neuronales pourrait élargir les stratégies thérapeutiques pour l’obésité et les maladies métaboliques au‑delà de la pharmacologie conventionnelle, améliorant potentiellement l’efficacité et la spécificité des interventions.",
+          "takeaways": [
+            "Les médicaments mimétiques d’incrétine peuvent agir en partie via des circuits neuronaux, pas seulement par des mécanismes périphériques.",
+            "Comprendre les voies centrales et périphériques pourrait permettre des thérapies métaboliques plus précises.",
+            "Des défis de translation subsistent ; cette perspective cadre des directions de recherche plutôt que des interventions cliniques établies."
+          ]
+        },
+        "de": {
+          "title": "Forscher untersuchen neuronale Schaltkreise als Ziele für metabolische Therapien",
+          "summary": "Forscher diskutieren, wie zentrale und periphere neuronale Bahnen offenbar die Wirkungen von Incretin-ähnlichen Medikamenten und anderen aufkommenden Adipositasbehandlungen vermitteln und skizzieren Chancen und Herausforderungen bei der Übersetzung neuronaler Erkenntnisse in Therapien, die Energiehaushalt und Stoffwechsel beeinflussen.",
+          "whyItMatters": "Die Kartierung neuronaler Zielstrukturen könnte therapeutische Strategien für Adipositas und Stoffwechselkrankheiten über die konventionelle Pharmakologie hinaus erweitern und potenziell Wirksamkeit und Spezifität von Interventionen verbessern.",
+          "takeaways": [
+            "Incretin-ähnliche Medikamente wirken möglicherweise teilweise über neuronale Schaltkreise, nicht nur über periphere Mechanismen.",
+            "Das Verständnis zentraler und peripherer Bahnen könnte gezieltere metabolische Therapien ermöglichen.",
+            "Übersetzungsherausforderungen bleiben bestehen; diese Perspektive stellt Forschungsrichtungen dar und keine etablierten klinischen Interventionen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores exploram circuitos neurais como alvos para terapias metabólicas",
+          "summary": "Pesquisadores discutem como vias neurais centrais e periféricas parecem mediar os efeitos de medicamentos miméticos de incretina e outras terapias emergentes para obesidade, delineando oportunidades e desafios para traduzir insights neurais em terapias que influenciem balanço energético e metabolismo.",
+          "whyItMatters": "Mapear alvos neurais pode ampliar estratégias terapêuticas para obesidade e doenças metabólicas além da farmacologia convencional, possivelmente melhorando a eficácia e a especificidade das intervenções.",
+          "takeaways": [
+            "Medicamentos miméticos de incretina podem agir em parte via circuitos neurais, não apenas por mecanismos periféricos.",
+            "Compreender vias centrais e periféricas pode possibilitar terapias metabólicas mais precisas.",
+            "Desafios de tradução permanecem; esta perspectiva define direções de pesquisa e não intervenções clínicas estabelecidas."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók a neurális pályákat vizsgálják metabolikus terápiák célpontjaként",
+          "summary": "A kutatók azt tárgyalják, hogyan tűnik úgy, hogy központi és perifériás idegi útvonalak közvetítik az inkretin-utánzó (incretin-mimetic) gyógyszerek és más, felmerülő elhízáskezelések hatásait, vázolva a lehetőségeket és kihívásokat a neurális ismeretek terápiává fordításához, amelyek befolyásolhatják az energiaegyensúlyt és az anyagcserét.",
+          "whyItMatters": "A neurális célpontok feltérképezése kiterjesztheti az elhízás és a metabolikus betegségek terápiás lehetőségeit a hagyományos farmakológia mellett, és potenciálisan javíthatja az intervenciók hatékonyságát és specifikusságát.",
+          "takeaways": [
+            "Az inkretin-utánzó gyógyszerek hatása részben idegi pályákon keresztül is megvalósulhat, nem csupán perifériás mechanizmusokon.",
+            "A központi és perifériás útvonalak megismerése lehetővé teheti a pontosabb metabolikus terápiákat.",
+            "A transzlációs kihívások megmaradnak; ez a szemlélet kutatási irányokat jelöl ki, nem pedig már bevált klinikai beavatkozásokat."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يستكشفون الدوائر العصبية كأهداف للعلاجات الأيضية",
+          "summary": "يناقش الباحثون كيف يبدو أن المسارات العصبية المركزية والمحيطة تُوسّط تأثيرات الأدوية المحاكِية للإنكرتين (incretin‑mimetic) وغيرها من علاجات السمنة الناشئة، موضحين الفرص والتحديات في تحويل الرؤى العصبية إلى علاجات تؤثر على توازن الطاقة والتمثيل الغذائي.",
+          "whyItMatters": "قد يوسّع رسم خرائط الأهداف العصبية استراتيجيات العلاج للسمنة والأمراض الأيضية بما يتجاوز الصيدلة التقليدية، وقد يحسن فعالية وتحديدية التدخلات.",
+          "takeaways": [
+            "قد تعمل أدوية محاكيات الإنكرتين جزئيًا عبر دوائر عصبية وليس فقط عبر آليات طرفية.",
+            "فهم المسارات المركزية والمحيطة قد يُمكّن من علاجات أيضية أكثر دقة.",
+            "لا تزال تحديات الترجمة قائمة؛ يقدم هذا العرض اتجاهات للبحث بدلاً من تدخلات سريرية مثبتة."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article10",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article10-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article10-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers explore neural circuits as targets for metabolic therapies.\nStory summary: Researchers discuss how central and peripheral neural pathways appear to mediate the effects of incretin-mimetic drugs and other emerging obesity treatments, outlining opportunities and challenges for translating neural insights into therapies that influence energy balance and metabolism..\nCategory: metabolic research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "article2",
+      "category": "food security & brain health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260827/Study-links-later-life-food-insecurity-to-elevated-dementia-risk.aspx",
+      "sourceTitle": "Study links later-life food insecurity to elevated dementia risk",
+      "publishedAt": "Thu, 27 Aug 2026 22:32:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Food insecurity in mid- and later life tied to higher dementia risk",
+          "summary": "University of Michigan researchers report that older adults who experienced food insecurity in both midlife and later life had nearly four times the likelihood of probable dementia compared with those who remained food secure.",
+          "whyItMatters": "This finding connects social and economic factors around food access with cognitive outcomes, highlighting food security as a potential target for public health and aging-policy efforts.",
+          "takeaways": [
+            "Risk was markedly higher for people with repeated food insecurity across life stages.",
+            "Study identifies an association but cannot prove cause and effect. ",
+            "Addressing food access and related social determinants may be important in efforts to support healthy aging."
+          ]
+        },
+        "es": {
+          "title": "Inseguridad alimentaria en la mediana y en la vejez relacionada con mayor riesgo de demencia",
+          "summary": "Investigadores de la Universidad de Michigan reportan que adultos mayores que vivieron inseguridad alimentaria tanto en la mediana edad como en la vejez tuvieron casi cuatro veces más probabilidad de presentar demencia probable en comparación con quienes se mantuvieron con seguridad alimentaria.",
+          "whyItMatters": "Este hallazgo vincula factores sociales y económicos relacionados con el acceso a los alimentos con resultados cognitivos, subrayando la seguridad alimentaria como un posible objetivo para políticas públicas de salud y envejecimiento.",
+          "takeaways": [
+            "El riesgo fue notablemente mayor en personas con inseguridad alimentaria repetida a lo largo de las etapas de la vida.",
+            "El estudio identifica una asociación, pero no puede probar causa y efecto.",
+            "Abordar el acceso a los alimentos y los determinantes sociales relacionados podría ser importante para apoyar un envejecimiento saludable."
+          ]
+        },
+        "ru": {
+          "title": "Недостаточная продовольственная безопасность в среднем и пожилом возрасте связана с повышенным риском деменции",
+          "summary": "Исследователи Мичиганского университета сообщили, что пожилые люди, сталкивавшиеся с продовольственной небезопасностью как в среднем возрасте, так и в поздние годы, имели почти в четыре раза более высокую вероятность вероятной деменции по сравнению с теми, кто оставался продовольственно обеспеченным.",
+          "whyItMatters": "Это наблюдение связывает социально‑экономические факторы доступа к пище с когнитивными исходами, указывая на продовольственную безопасность как потенциальную область для государственных и медико‑социальных мер по поддержке старения.",
+          "takeaways": [
+            "Риск существенно выше у людей с повторяющейся продовольственной небезопасностью в разные периоды жизни.",
+            "Исследование выявляет ассоциацию, но не доказывает причинно‑следственную связь.",
+            "Работа над доступом к продуктам питания и связанными социальными детерминантами может быть важной в усилиях по поддержке здорового старения."
+          ]
+        },
+        "uk": {
+          "title": "Нестача продуктів у середньому та пізньому віці пов’язана з підвищеним ризиком деменції",
+          "summary": "Дослідники з Університету Мічигану повідомляють, що літні дорослі, які відчували продовольчу нестачу як у середньому, так і в пізнішому віці, мали майже вчетверо вищу ймовірність ймовірної деменції порівняно з тими, хто залишався забезпеченим продуктами.",
+          "whyItMatters": "Це дослідження поєднує соціальні та економічні чинники доступу до їжі з когнітивними наслідками, підкреслюючи продовольчу безпеку як потенційну мішень для політики у сфері громадського здоров’я та старіння.",
+          "takeaways": [
+            "Ризик був суттєво вищий для людей із повторюваною продовольчою нестачею на різних етапах життя.",
+            "Дослідження встановлює асоціацію, але не доводить причинно-наслідкового зв’язку.",
+            "Робота над доступом до їжі та пов’язаними соціальними детермінантами може бути важливою для підтримки здорового старіння."
+          ]
+        },
+        "fr": {
+          "title": "L’insécurité alimentaire à l’âge moyen et avancé liée à un risque accru de démence",
+          "summary": "Des chercheurs de l’Université du Michigan rapportent que les personnes âgées ayant connu une insécurité alimentaire à la fois à l’âge moyen et à un âge plus avancé avaient presque quatre fois plus de probabilité d’être atteintes d’une démence probable que celles qui sont restées en situation de sécurité alimentaire.",
+          "whyItMatters": "Ce constat relie des facteurs sociaux et économiques liés à l’accès à la nourriture à des résultats cognitifs, mettant en évidence l’insécurité alimentaire comme une cible potentielle pour les politiques de santé publique et du vieillissement.",
+          "takeaways": [
+            "Le risque était nettement plus élevé pour les personnes ayant connu une insécurité alimentaire répétée à différents stades de la vie.",
+            "L’étude identifie une association mais ne peut pas prouver la causalité.",
+            "Améliorer l’accès à l’alimentation et les déterminants sociaux connexes peut être important pour soutenir un vieillissement en bonne santé."
+          ]
+        },
+        "de": {
+          "title": "Nahrungsmittelunsicherheit im mittleren und höheren Lebensalter mit erhöhtem Demenzrisiko verbunden",
+          "summary": "Forscher der University of Michigan berichten, dass ältere Erwachsene, die sowohl im mittleren als auch im späteren Leben Nahrungsmittelunsicherheit erfahren hatten, im Vergleich zu durchgehend nahrungsmittelsicheren Personen fast viermal so häufig eine wahrscheinliche Demenz aufwiesen.",
+          "whyItMatters": "Dieser Befund verknüpft soziale und wirtschaftliche Faktoren rund um den Zugang zu Lebensmitteln mit kognitiven Ergebnissen und hebt Nahrungsmittelsicherheit als potenziellen Ansatzpunkt für die öffentliche Gesundheits- und Alterungspolitik hervor.",
+          "takeaways": [
+            "Das Risiko war deutlich höher bei Personen mit wiederholter Nahrungsmittelunsicherheit über verschiedene Lebensphasen.",
+            "Die Studie beschreibt eine Assoziation, kann jedoch keine Ursache-Wirkungs-Beziehung nachweisen.",
+            "Die Verbesserung des Zugangs zu Lebensmitteln und verwandter sozialer Determinanten könnte wichtig für Maßnahmen zur Unterstützung eines gesunden Alterns sein."
+          ]
+        },
+        "pt-br": {
+          "title": "Insegurança alimentar na meia-idade e na velhice ligada a maior risco de demência",
+          "summary": "Pesquisadores da Universidade de Michigan relatam que adultos mais velhos que enfrentaram insegurança alimentar tanto na meia-idade quanto na velhice tiveram quase quatro vezes mais probabilidade de apresentar demência provável, em comparação com aqueles que permaneceram food secure.",
+          "whyItMatters": "Essa descoberta conecta fatores sociais e econômicos relacionados ao acesso a alimentos com desfechos cognitivos, destacando a segurança alimentar como um possível alvo para políticas públicas de saúde e envelhecimento.",
+          "takeaways": [
+            "O risco foi marcadamente maior para pessoas com insegurança alimentar repetida ao longo das fases da vida.",
+            "O estudo identifica uma associação, mas não pode provar causa e efeito.",
+            "Abordar o acesso a alimentos e determinantes sociais relacionados pode ser importante em esforços para apoiar um envelhecimento saudável."
+          ]
+        },
+        "hu": {
+          "title": "Középkori és későbbi életben tapasztalt élelmiszer-bizonytalanság összefügg a magasabb demencia-kockázattal",
+          "summary": "A Michigan Egyetem kutatói arról számolnak be, hogy azok az idős felnőttek, akiknél középkorban és későbbi életkorban is előfordult élelmiszer-bizonytalanság, közel négyszer akkora valószínűséggel voltak valószínű demenciával küzdők azokhoz képest, akiknél megmaradt az élelmiszerbiztonság.",
+          "whyItMatters": "Ez a megfigyelés összekapcsolja az élelmiszerhez való hozzáférés szociális és gazdasági tényezőit a kognitív kimenetelekkel, kiemelve az élelmiszerbiztonságot mint lehetséges célpontot a közegészségügyi és idősödéspolitikai intézkedésekben.",
+          "takeaways": [
+            "A kockázat jelentősen magasabb volt azoknál, akiknél az élelmiszer-bizonytalanság ismétlődött az életszakaszok között.",
+            "A tanulmány összefüggést azonosít, de nem képes bizonyítani okozati viszonyt.",
+            "Az élelmiszerhez való hozzáférés és az ahhoz kapcsolódó társadalmi meghatározók kezelése fontos lehet az egészséges öregedés támogatásában."
+          ]
+        },
+        "ar": {
+          "title": "انعدام الأمن الغذائي في منتصف ومتأخر العمر مرتبط بزيادة خطر الإصابة بالخرف",
+          "summary": "تفيد جامعة ميشيغان أن البالغين الأكبر سناً الذين تعرضوا لانعدام الأمن الغذائي في كل من منتصف العمر وفي مراحل لاحقة كانوا معرضين لاحتمال الإصابة بالخرف المحتمل بما يقرب من أربعة أضعاف مقارنةً بمن ظلوا آمنين غذائياً.",
+          "whyItMatters": "تربط هذه النتيجة بين العوامل الاجتماعية والاقتصادية المتعلقة بالوصول إلى الطعام والنتائج المعرفية، مما يوضح أن الأمن الغذائي قد يكون هدفًا محتملاً لسياسات الصحة العامة وسياسات الشيخوخة.",
+          "takeaways": [
+            "كان الخطر أعلى بكثير لدى الأشخاص الذين تعرضوا لانعدام الأمن الغذائي بشكل متكرر عبر مراحل الحياة.",
+            "تحدد الدراسة وجود علاقة لكنها لا تثبت سببًا ونتيجة.",
+            "قد يكون تناول قضايا الوصول إلى الغذاء والعوامل الاجتماعية المرتبطة بها أمرًا مهمًا في الجهود لدعم الشيخوخة السليمة."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article2",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article2-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article2-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Food insecurity in mid- and later life tied to higher dementia risk.\nStory summary: University of Michigan researchers report that older adults who experienced food insecurity in both midlife and later life had nearly four times the likelihood of probable dementia compared with those who remained food secure..\nCategory: food security & brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "article3",
+      "category": "medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/dermatology/generaldermatology/122799",
+      "sourceTitle": "First Oral Option for Dermatomyositis Gets FDA Green Light",
+      "publishedAt": "Thu, 27 Aug 2026 17:40:11 -0400",
+      "languages": {
+        "en": {
+          "title": "FDA approves first oral treatment for dermatomyositis",
+          "summary": "The FDA has authorized brepocitinib (brand name Lisraya) as the first oral medication indicated for adults with dermatomyositis, a rare autoimmune condition characterized by chronic inflammation and progressive muscle weakness.",
+          "whyItMatters": "An oral therapeutic option expands treatment choices for a rare condition that previously relied largely on injectables or off-label approaches, affecting clinicians and patients managing dermatomyositis.",
+          "takeaways": [
+            "Approval applies to adults with dermatomyositis and introduces an oral alternative to existing therapies.",
+            "Patients and clinicians will need to weigh benefits and risks; this report summarizes regulatory approval rather than treatment guidance. ",
+            "Longer-term safety and real-world effectiveness will be monitored after approval."
+          ]
+        },
+        "es": {
+          "title": "La FDA aprueba el primer tratamiento oral para la dermatomiositis",
+          "summary": "La FDA ha autorizado brepocitinib (nombre comercial Lisraya) como el primer medicamento oral indicado para adultos con dermatomiositis, una enfermedad autoinmune rara caracterizada por inflamación crónica y debilidad muscular progresiva.",
+          "whyItMatters": "Una opción terapéutica oral amplía las alternativas de tratamiento para una enfermedad rara que antes dependía en gran medida de inyectables o de usos fuera de ficha técnica, lo que afecta a clínicos y pacientes que manejan la dermatomiositis.",
+          "takeaways": [
+            "La aprobación se aplica a adultos con dermatomiositis e introduce una alternativa oral a las terapias existentes.",
+            "Pacientes y clínicos deberán sopesar beneficios y riesgos; este informe resume la aprobación regulatoria y no es una guía de tratamiento.",
+            "Se monitorizarán la seguridad a más largo plazo y la efectividad en el mundo real tras la aprobación."
+          ]
+        },
+        "ru": {
+          "title": "FDA одобрила первый пероральный препарат для дерматомиозита",
+          "summary": "FDA разрешила применение брепоцитиниба (торговое название Lisraya) как первого перорального препарата, показанного для взрослых с дерматомиозитом — редким аутоиммунным заболеванием, характеризующимся хроническим воспалением и прогрессирующей мышечной слабостью.",
+          "whyItMatters": "Наличие перорального варианта терапии расширяет возможности лечения редкого заболевания, которое ранее в значительной степени лечили инъекционными препаратами или препаратами вне показаний, что важно для врачей и пациентов при ведении дерматомиозита.",
+          "takeaways": [
+            "Одобрение касается взрослых с дерматомиозитом и вводит пероральную альтернативу существующим методам лечения.",
+            "Пациентам и врачам предстоит взвешивать пользу и риски; в данном материале подытожено регуляторное одобрение, а не даны рекомендации по лечению.",
+            "После одобрения будет велся мониторинг долгосрочной безопасности и эффективности в реальной клинической практике."
+          ]
+        },
+        "uk": {
+          "title": "FDA схвалила перше пероральне лікування дерматоміозиту",
+          "summary": "FDA дозволила застосування брепоцитинибу (торгова назва Lisraya) як першого перорального препарату для дорослих з дерматоміозитом — рідкісним аутоімунним захворюванням, що характеризується хронічним запаленням та прогресуючою м’язовою слабкістю.",
+          "whyItMatters": "Наявність перорального варіанту терапії розширює можливості лікування для рідкісного захворювання, яке раніше переважно лікували ін’єкційними засобами або застосовували поза маркуванням, що впливає на клініцистів і пацієнтів, які керують дерматоміозитом.",
+          "takeaways": [
+            "Схвалення стосується дорослих із дерматоміозитом і вводить пероральну альтернативу наявним терапіям.",
+            "Пацієнтам і лікарям доведеться зважувати користь і ризики; цей звіт підсумовує регуляторне схвалення, а не дає керівництва з лікування.",
+            "Після схвалення відстежуватимуть довгострокову безпеку та ефективність у реальній практиці."
+          ]
+        },
+        "fr": {
+          "title": "La FDA approuve le premier traitement oral pour la dermatomyosite",
+          "summary": "La FDA a autorisé le brepocitinib (nom de marque Lisraya) comme premier médicament oral indiqué chez les adultes atteints de dermatomyosite, une maladie auto-immune rare caractérisée par une inflammation chronique et une faiblesse musculaire progressive.",
+          "whyItMatters": "Une option thérapeutique orale élargit les choix de traitement pour une maladie rare qui reposait auparavant en grande partie sur des injectables ou des usages hors AMM, ce qui a des implications pour les cliniciens et les patients prenant en charge la dermatomyosite.",
+          "takeaways": [
+            "L’homologation s’applique aux adultes atteints de dermatomyosite et introduit une alternative orale aux thérapies existantes.",
+            "Patients et cliniciens devront évaluer bénéfices et risques ; ce rapport résume une approbation réglementaire, pas des recommandations de traitement.",
+            "La sécurité à plus long terme et l’efficacité en conditions réelles seront suivies après l’approbation."
+          ]
+        },
+        "de": {
+          "title": "FDA genehmigt erste orale Behandlung für Dermatomyositis",
+          "summary": "Die FDA hat Brepocitinib (Handelsname Lisraya) als erstes orales Medikament für Erwachsene mit Dermatomyositis zugelassen, einer seltenen Autoimmunerkrankung, die durch chronische Entzündung und fortschreitende Muskelschwäche gekennzeichnet ist.",
+          "whyItMatters": "Eine orale Therapieoption erweitert die Behandlungsmöglichkeiten für eine seltene Erkrankung, die zuvor weitgehend auf Injektionen oder Off-Label-Anwendungen beruhte, und ist relevant für Ärztinnen/Ärzte und Patientinnen/Patienten, die Dermatomyositis managen.",
+          "takeaways": [
+            "Die Zulassung gilt für Erwachsene mit Dermatomyositis und stellt eine orale Alternative zu bestehenden Therapien dar.",
+            "Patienten und Behandler müssen Nutzen und Risiken abwägen; dieser Bericht fasst eine behördliche Zulassung zusammen und bietet keine Behandlungsanleitung.",
+            "Die längerfristige Sicherheit und die Wirksamkeit in der Praxis werden nach der Zulassung weiter beobachtet."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA aprova primeiro tratamento oral para dermatomiosite",
+          "summary": "A FDA autorizou o brepocitinibe (nome comercial Lisraya) como o primeiro medicamento oral indicado para adultos com dermatomiosite, uma condição autoimune rara caracterizada por inflamação crônica e fraqueza muscular progressiva.",
+          "whyItMatters": "Uma opção terapêutica oral amplia as escolhas de tratamento para uma condição rara que antes dependia em grande parte de injetáveis ou usos off-label, impactando clínicos e pacientes que manejam a dermatomiosite.",
+          "takeaways": [
+            "A aprovação se aplica a adultos com dermatomiosite e introduz uma alternativa oral às terapias existentes.",
+            "Pacientes e clínicos precisarão ponderar benefícios e riscos; este relatório resume a aprovação regulatória e não fornece orientação de tratamento.",
+            "A segurança a longo prazo e a efetividade no mundo real serão monitoradas após a aprovação."
+          ]
+        },
+        "hu": {
+          "title": "FDA jóváhagyta az első szájon át adható kezelést dermatomiozishoz",
+          "summary": "Az FDA engedélyezte a brepocitinibet (kereskedelmi néven Lisraya) mint az első szájon át alkalmazható gyógyszert felnőttek dermatomiozisának kezelésére; ez az állapot ritka autoimmun betegség, amelyet krónikus gyulladás és fokozatos izomerő-csökkenés jellemez.",
+          "whyItMatters": "A szájon át adható terápiás lehetőség bővíti a kezelési választékot egy olyan ritka betegségben, amely korábban nagyrészt injekciókon vagy off-label megközelítéseken alapult, és ez hatással lehet az orvosokra és a dermatomiozissal élő betegekre.",
+          "takeaways": [
+            "A jóváhagyás felnőttek dermatomiozisára vonatkozik, és szájon át szedhető alternatívát vezet be a meglévő terápiákhoz képest.",
+            "A betegeknek és az orvosoknak mérlegelniük kell a haszon-kockázat arányt; ez a közlemény a szabályozási jóváhagyást ismerteti, nem pedig kezelési útmutatást.",
+            "A hosszabb távú biztonságot és a valós világban való hatékonyságot a jóváhagyás után nyomon követik majd."
+          ]
+        },
+        "ar": {
+          "title": "وكالة الغذاء والدواء توافق على أول علاج فموي لالتهاب الجلد والعضلات (dermatomyositis)",
+          "summary": "منحت إدارة الغذاء والدواء الأمريكية (FDA) ترخيصًا لعقار بريبوستينيب (الاسم التجاري Lisraya) كأول دواء فموي مخصص للبالغين المصابين بالـ dermatomyositis، وهو اضطراب مناعي ذاتي نادر يتميز بالتهاب مزمن وضعف تدريجي في العضلات.",
+          "whyItMatters": "يوسع خيار علاجي فموي نطاق العلاجات المتاحة لمرض نادر كان يعتمد سابقًا إلى حد كبير على الأدوية القابلة للحقن أو الاستخدامات خارج التعليمات (off‑label)، مما يؤثر على مقدمي الرعاية والمرضى الذين يديرون هذا الاضطراب.",
+          "takeaways": [
+            "تنطبق الموافقة على البالغين المصابين بالـ dermatomyositis وتقدم بديلاً فمويًا للعلاجات القائمة.",
+            "سيحتاج المرضى والأطباء إلى موازنة الفوائد والمخاطر؛ هذا التقرير يلخص الموافقة التنظيمية بدلاً من تقديم إرشادات علاجية.",
+            "سيُرصد السلامة على المدى الطويل والفعالية في العالم الواقعي بعد الموافقة."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article3-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article3-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA approves first oral treatment for dermatomyositis.\nStory summary: The FDA has authorized brepocitinib (brand name Lisraya) as the first oral medication indicated for adults with dermatomyositis, a rare autoimmune condition characterized by chronic inflammation and progressive muscle weakness..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "article4",
+      "category": "hematology & aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-pre-cancerous-blood-cells-fuel.html",
+      "sourceTitle": "Pre-cancerous blood cells may fuel disease risk by prematurely aging the bone marrow",
+      "publishedAt": "Thu, 27 Aug 2026 17:40:02 EDT",
+      "languages": {
+        "en": {
+          "title": "Precancerous blood cells may accelerate bone marrow aging and reshape the niche",
+          "summary": "Researchers at The Jackson Laboratory report that precancerous blood cells can alter their bone marrow environment, inducing features of premature cellular aging that may favor their expansion and potentially heighten risk of blood cancers.",
+          "whyItMatters": "Understanding how early abnormal blood cells interact with and modify their environment could point to new research directions for prevention or early intervention in blood disorders.",
+          "takeaways": [
+            "Study describes cellular and microenvironmental changes that make the bone marrow more permissive to precancerous cells.",
+            "Findings come from research models and need further validation in humans. ",
+            "Results suggest the tissue environment (the niche) may play an active role in disease progression."
+          ]
+        },
+        "es": {
+          "title": "Células sanguíneas precancerosas pueden acelerar el envejecimiento de la médula ósea y remodelar su microambiente",
+          "summary": "Investigadores de The Jackson Laboratory informan que las células sanguíneas precancerosas pueden alterar su entorno en la médula ósea, inducir rasgos de envejecimiento celular prematuro que podrían favorecer su expansión y potencialmente aumentar el riesgo de cánceres sanguíneos.",
+          "whyItMatters": "Entender cómo las células sanguíneas anormales tempranas interactúan con y modifican su entorno podría señalar nuevas direcciones de investigación para la prevención o intervención temprana en trastornos sanguíneos.",
+          "takeaways": [
+            "El estudio describe cambios celulares y del microambiente que hacen la médula ósea más permisiva a las células precancerosas.",
+            "Los hallazgos provienen de modelos de investigación y requieren mayor validación en humanos.",
+            "Los resultados sugieren que el entorno tisular (el nicho) puede jugar un papel activo en la progresión de la enfermedad."
+          ]
+        },
+        "ru": {
+          "title": "Предраковые клетки крови могут ускорять старение костного мозга и изменять его микроокружение",
+          "summary": "Исследователи из The Jackson Laboratory сообщают, что предраковые клетки крови способны изменять среду костного мозга, вызывая признаки преждевременного клеточного старения, которые могут способствовать их размножению и потенциально повышать риск заболеваний крови.",
+          "whyItMatters": "Понимание того, как ранние аномальные кровяные клетки взаимодействуют с микроокружением и модифицируют его, может указать новые направления исследований для профилактики или раннего вмешательства при заболеваниях крови.",
+          "takeaways": [
+            "В исследовании описаны клеточные и микроокруженческие изменения, делающие костный мозг более благоприятным для предраковых клеток.",
+            "Результаты получены в моделях исследования и требуют дополнительной валидации на людях.",
+            "Полученные сведения указывают, что тканевое окружение (ниша) может играть активную роль в прогрессировании заболевания."
+          ]
+        },
+        "uk": {
+          "title": "Передракові клітини крові можуть пришвидшувати старіння кісткового мозку та змінювати його ніші",
+          "summary": "Дослідники з The Jackson Laboratory повідомляють, що передракові клітини крові можуть змінювати середовище кісткового мозку, індукуючи ознаки передчасного клітинного старіння, що може сприяти їхньому розмноженню і потенційно підвищувати ризик кров’яних злоякісних захворювань.",
+          "whyItMatters": "Розуміння того, як ранні аномальні клітини крові взаємодіють із та модифікують своє середовище, може відкрити нові напрямки досліджень для профілактики або раннього втручання при захворюваннях крові.",
+          "takeaways": [
+            "Дослідження описує клітинні та мікросередовищні зміни, які роблять кістковий мозок більш сприятливим для передракових клітин.",
+            "Результати отримані у дослідницьких моделях і потребують додаткової валідації в людей.",
+            "Результати вказують, що тканинне середовище (ніша) може відігравати активну роль у прогресуванні захворювання."
+          ]
+        },
+        "fr": {
+          "title": "Des cellules sanguines précancéreuses pourraient accélérer le vieillissement de la moelle osseuse et remodeler sa niche",
+          "summary": "Des chercheurs du Jackson Laboratory rapportent que des cellules sanguines précancéreuses peuvent modifier l’environnement de la moelle osseuse, induisant des caractéristiques de vieillissement cellulaire prématuré susceptibles de favoriser leur expansion et potentiellement d’augmenter le risque de cancers sanguins.",
+          "whyItMatters": "Comprendre comment les cellules sanguines anormales précoces interagissent avec leur environnement et le modifient pourrait ouvrir de nouvelles pistes de recherche pour la prévention ou l’intervention précoce dans les maladies sanguines.",
+          "takeaways": [
+            "L’étude décrit des changements cellulaires et micro-environnementaux qui rendent la moelle osseuse plus permissive aux cellules précancéreuses.",
+            "Les conclusions proviennent de modèles de recherche et doivent être validées davantage chez l’humain.",
+            "Les résultats suggèrent que l’environnement tissulaire (la niche) peut jouer un rôle actif dans la progression de la maladie."
+          ]
+        },
+        "de": {
+          "title": "Krebsvorläuferzellen können Knochenmarkalterung beschleunigen und die Nische umgestalten",
+          "summary": "Forscher am Jackson Laboratory berichten, dass präkanzeröse Blutzellen ihre Knochenmarkumgebung verändern können, indem sie Merkmale vorzeitiger zellulärer Alterung induzieren, was deren Ausbreitung begünstigen und das Risiko für Blutkrebserkrankungen potenziell erhöhen könnte.",
+          "whyItMatters": "Das Verständnis, wie frühe abnorme Blutzellen mit ihrer Umgebung interagieren und diese modifizieren, kann neue Forschungsrichtungen für Prävention oder Frühintervention bei Bluterkrankungen eröffnen.",
+          "takeaways": [
+            "Die Studie beschreibt zelluläre und mikroenvironmentale Veränderungen, die das Knochenmark für präkanzeröse Zellen durchlässiger machen.",
+            "Die Befunde stammen aus Forschungsmodellen und müssen weitergehend beim Menschen validiert werden.",
+            "Die Ergebnisse deuten darauf hin, dass das Gewebeumfeld (die Nische) eine aktive Rolle bei der Krankheitsprogression spielen könnte."
+          ]
+        },
+        "pt-br": {
+          "title": "Células pré-cancerosas podem acelerar o envelhecimento da medula óssea e remodelar a niche",
+          "summary": "Pesquisadores do Jackson Laboratory relatam que células sanguíneas pré-cancerosas podem alterar seu ambiente na medula óssea, induzindo características de envelhecimento celular prematuro que podem favorecer sua expansão e potencialmente aumentar o risco de cânceres hematológicos.",
+          "whyItMatters": "Compreender como células sanguíneas anormais interagem com e modificam seu ambiente pode apontar novas direções de pesquisa para prevenção ou intervenção precoce em distúrbios do sangue.",
+          "takeaways": [
+            "O estudo descreve alterações celulares e do microambiente que tornam a medula óssea mais permissiva a células pré-cancerosas.",
+            "Os achados vêm de modelos de pesquisa e precisam de validação adicional em humanos.",
+            "Os resultados sugerem que o ambiente tecidual (a niche) pode desempenhar um papel ativo na progressão da doença."
+          ]
+        },
+        "hu": {
+          "title": "A rákmegelőző vérsejtek előidézhetik a csontvelő korai öregedését és átalakíthatják a környezetét",
+          "summary": "A The Jackson Laboratory kutatói arról számolnak be, hogy a rákmegelőző vérsejtek képesek megváltoztatni a csontvelői mikrokörnyezetüket, olyan sejtszintű öregedési jellemzőket indukálva, amelyek előnyösekké tehetik a terjeszkedésüket és potenciálisan növelhetik a vérképzőszervi rákok kockázatát.",
+          "whyItMatters": "Annak megértése, hogy a korai rendellenes vérsejtek hogyan lépnek kölcsönhatásba és módosítják környezetüket, új kutatási irányokat jelezhet a vérbetegségek megelőzésében vagy korai beavatkozásában.",
+          "takeaways": [
+            "A tanulmány sejtszintű és mikrokörnyezeti változásokat ír le, amelyek a csontvelőt fogékonnyá tehetik a rákmegelőző sejtek számára.",
+            "Az eredmények kísérleti modellekből származnak, és további igazolásra szorulnak emberekben.",
+            "Az eredmények azt sugallják, hogy a szöveti környezet (a niche) aktív szerepet játszhat a betegség progressziójában."
+          ]
+        },
+        "ar": {
+          "title": "الخلايا الدموية ما قبل السرطانية قد تسرّع شيخوخة نخاع العظم وتعيد تشكيل البيئة المحيطة",
+          "summary": "تفيد أبحاث مختبر جاكسون أن الخلايا الدموية ما قبل السرطانية يمكن أن تغير بيئة نخاع العظم لديها، مُحدثة سمات للشيخوخة الخلوية المبكرة التي قد تهيئ توسعها وربما تزيد من خطر الإصابة بسرطانات الجهاز الدموي.",
+          "whyItMatters": "فهم كيفية تفاعل الخلايا الشاذة المبكرة مع بيئتها وتعديلها قد يفتح اتجاهات بحثية جديدة للوقاية أو التدخل المبكر في اضطرابات الدم.",
+          "takeaways": [
+            "تصف الدراسة تغييرات خلوية وبيئية دقيقة تجعل نخاع العظم أكثر تسامحًا للخلايا ما قبل السرطانية.",
+            "النتائج مستمدة من نماذج بحثية وتحتاج إلى مزيد من التحقق في البشر.",
+            "تشير النتائج إلى أن البيئة النسيجية (المكانة أو niche) قد تلعب دورًا فاعلًا في تقدم المرض."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Precancerous blood cells may accelerate bone marrow aging and reshape the niche.\nStory summary: Researchers at The Jackson Laboratory report that precancerous blood cells can alter their bone marrow environment, inducing features of premature cellular aging that may favor their expansion and potentially heighten risk of blood cancers..\nCategory: hematology & aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "article7",
+      "category": "food safety",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/mad-honey-that-can-stop-your-heart-is-now-being-sold-online-worldwide-290090",
+      "sourceTitle": "‘Mad honey’ that can stop your heart is now being sold online worldwide",
+      "publishedAt": "2026-08-27T12:08:24Z",
+      "languages": {
+        "en": {
+          "title": "Toxic ‘mad honey’ being sold online raises safety concerns",
+          "summary": "'Mad honey'—a variety containing plant-derived toxins that can cause serious cardiac effects—is being exported and sold online worldwide, often without clear awareness or protective measures at the point of harvest or sale.",
+          "whyItMatters": "Widespread online availability of a food product with known toxic potential raises questions about supply-chain transparency, consumer awareness, and food safety controls.",
+          "takeaways": [
+            "The honey contains naturally occurring toxins that can affect heart function in some cases. ",
+            "Sales and exports may occur without adequate safety communication to harvesters or consumers. ",
+            "Consumers, sellers and regulators may need better information and oversight to manage risks; this report describes concerns rather than offering personal safety instructions."
+          ]
+        },
+        "es": {
+          "title": "Venta en línea de la tóxica 'mad honey' genera preocupaciones de seguridad",
+          "summary": "La 'mad honey'—una variedad que contiene toxinas de origen vegetal que pueden provocar efectos cardíacos graves—se está exportando y vendiendo en línea en todo el mundo, muchas veces sin que exista una clara conciencia o medidas de protección en el momento de la cosecha o la venta.",
+          "whyItMatters": "La amplia disponibilidad en línea de un producto alimentario con potencial tóxico conocido plantea dudas sobre la transparencia de la cadena de suministro, la información al consumidor y los controles de seguridad alimentaria.",
+          "takeaways": [
+            "La miel contiene toxinas naturales que en algunos casos pueden afectar la función cardíaca.",
+            "Las ventas y exportaciones pueden realizarse sin una comunicación de seguridad adecuada hacia cosechadores o consumidores.",
+            "Consumidores, vendedores y reguladores podrían necesitar mejor información y supervisión para gestionar los riesgos; este informe describe preocupaciones sin ofrecer instrucciones personales de seguridad."
+          ]
+        },
+        "ru": {
+          "title": "Он‑лайн продажа токсичного «mad honey» вызывает вопросы по безопасности",
+          "summary": "«Mad honey» — разновидность мёда, содержащая растительные токсины, способные вызывать серьёзные сердечные эффекты — экспортируется и продаётся в интернете по всему миру, зачастую без явной осведомлённости или мер защиты при сборе и продаже.",
+          "whyItMatters": "Широкая доступность в интернете продукта с известным токсическим потенциалом ставит вопросы о прозрачности цепочки поставок, информированности потребителей и контроле безопасности пищевых продуктов.",
+          "takeaways": [
+            "В мёде содержатся природные токсины, которые в отдельных случаях могут повлиять на работу сердца.",
+            "Продажи и экспорт могут происходить без надлежащего информирования сборщиков или потребителей о рисках.",
+            "Потребителям, продавцам и регуляторам может потребоваться лучшая информация и надзор для управления рисками; в отчёте изложены опасения, а не персональные рекомендации по безопасности."
+          ]
+        },
+        "uk": {
+          "title": "Токсичний «mad honey», що може впливати на серце, продається онлайн і викликає занепокоєння щодо безпеки",
+          "summary": "«Mad honey» — різновид меду, що містить рослинні токсини, які можуть викликати серйозні серцеві ефекти — експортується й продається онлайн у багатьох країнах часто без належної інформованості або захисних заходів на етапі збору чи продажу.",
+          "whyItMatters": "Широка доступність онлайн харчового продукту з відомим токсичним потенціалом ставить питання щодо прозорості ланцюга постачання, обізнаності споживачів і контролю харчової безпеки.",
+          "takeaways": [
+            "У меді містяться природні токсини, які в окремих випадках можуть впливати на роботу серця.",
+            "Продажі та експорт можуть відбуватися без належної інформації для збирачів або споживачів.",
+            "Споживачам, продавцям і регуляторам може знадобитися краща інформація та нагляд для управління ризиками; цей звіт описує занепокоєння, а не дає особистих інструкцій з безпеки."
+          ]
+        },
+        "fr": {
+          "title": "Le « mad honey » toxique vendu en ligne suscite des inquiétudes pour la sécurité",
+          "summary": "Le « mad honey » — une variété de miel contenant des toxines d’origine végétale pouvant provoquer des effets cardiaques graves — est exporté et vendu en ligne dans le monde entier, souvent sans que les récoltants ou les consommateurs en aient clairement conscience ni sans mesures de protection au moment de la récolte ou de la vente.",
+          "whyItMatters": "La disponibilité en ligne d’un produit alimentaire ayant un potentiel toxique connu pose des questions sur la transparence des chaînes d’approvisionnement, la sensibilisation des consommateurs et les contrôles de sécurité alimentaire.",
+          "takeaways": [
+            "Ce miel contient des toxines naturelles qui peuvent, dans certains cas, affecter la fonction cardiaque.",
+            "Les ventes et exportations peuvent se faire sans communication de sécurité adéquate aux récoltants ou aux consommateurs.",
+            "Les consommateurs, vendeurs et autorités de réglementation pourraient avoir besoin de meilleures informations et d’un encadrement pour gérer les risques ; ce rapport décrit des préoccupations sans donner d’instructions personnelles de sécurité."
+          ]
+        },
+        "de": {
+          "title": "Toxischer 'Mad Honey', der Herzprobleme auslösen kann, wird weltweit online gehandelt",
+          "summary": "'Mad Honey' – eine Honigvariante, die pflanzliche Toxine enthält und ernsthafte Herzwirkungen verursachen kann – wird weltweit exportiert und online verkauft, oft ohne klare Information oder Schutzmaßnahmen bei Ernte oder Verkauf.",
+          "whyItMatters": "Die weite Online-Verfügbarkeit eines Lebensmittels mit bekanntem toxischem Potenzial wirft Fragen zur Transparenz der Lieferkette, zum Verbraucherbewusstsein und zu Kontrollen der Lebensmittelsicherheit auf.",
+          "takeaways": [
+            "Der Honig enthält natürlich vorkommende Toxine, die in einigen Fällen die Herzfunktion beeinflussen können.",
+            "Verkäufe und Exporte erfolgen möglicherweise ohne ausreichende Sicherheitskommunikation gegenüber Erntearbeitern oder Verbrauchern.",
+            "Verbraucher, Verkäufer und Aufsichtsbehörden könnten bessere Informationen und Aufsicht benötigen, um Risiken zu bewerten; dieser Bericht beschreibt Bedenken und gibt keine persönlichen Sicherheitshinweise."
+          ]
+        },
+        "pt-br": {
+          "title": "‘Mad honey’ tóxico que pode parar o coração está sendo vendido online mundialmente",
+          "summary": "‘Mad honey’ — uma variedade de mel que contém toxinas de origem vegetal que podem causar efeitos cardíacos graves — está sendo exportada e vendida online ao redor do mundo, muitas vezes sem conhecimento claro ou medidas de proteção no ponto de colheita ou venda.",
+          "whyItMatters": "A ampla disponibilidade online de um alimento com potencial tóxico conhecido levanta questões sobre transparência da cadeia de suprimento, conscientização do consumidor e controles de segurança alimentar.",
+          "takeaways": [
+            "O mel contém toxinas naturalmente presentes que podem afetar a função cardíaca em alguns casos.",
+            "Vendas e exportações podem ocorrer sem comunicação de segurança adequada para quem colhe ou para consumidores.",
+            "Consumidores, vendedores e reguladores podem precisar de mais informação e supervisão para gerir riscos; este relatório descreve preocupações e não oferece instruções de segurança pessoal."
+          ]
+        },
+        "hu": {
+          "title": "A „mad honey” online világméretű értékesítése élelmiszerbiztonsági aggályokat vet fel",
+          "summary": "A „mad honey” néven ismert mézfajta növényeredetű toxinokat tartalmaz, amelyek egyes esetekben komoly szívügyi hatásokat okozhatnak, és mostanra világszerte exportálják és online árusítják, gyakran a betakarításkor vagy értékesítéskor nem világos tájékoztatás vagy védőintézkedés mellett.",
+          "whyItMatters": "Egy, ismert mérgező potenciállal bíró élelmiszertermék széleskörű online elérhetősége kérdéseket vet fel az ellátási lánc átláthatóságával, a fogyasztói tájékoztatással és az élelmiszerbiztonsági ellenőrzésekkel kapcsolatban.",
+          "takeaways": [
+            "A méz természetes úton előforduló toxinokat tartalmazhat, amelyek egyes esetekben befolyásolhatják a szív működését.",
+            "Az értékesítés és export gyakran történhet megfelelő biztonsági kommunikáció nélkül a betakarítók vagy a fogyasztók felé.",
+            "Fogyasztóknak, eladóknak és szabályozóknak jobb információra és felügyeletre lehet szükségük a kockázatok kezelése érdekében; ez a jelentés aggodalmakat ismertet, nem nyújt személyes biztonsági utasításokat."
+          ]
+        },
+        "ar": {
+          "title": "عرض وبيع «العسل المجنون» السام عبر الإنترنت يثير مخاوف تتعلق بالسلامة",
+          "summary": "العسل المعروف باسم «mad honey» يحتوي على سموم نباتية المصدر قد تسبب تأثيرات قلبية خطيرة في بعض الحالات، ويتم الآن تصديره وبيعه عبر الإنترنت في أنحاء العالم، وغالبًا دون وعي واضح أو تدابير وقائية عند الحصاد أو البيع.",
+          "whyItMatters": "توافر منتج غذائي ذو تأثير سام معروف على نطاق واسع عبر الإنترنت يثير تساؤلات حول شفافية سلسلة الإمداد ووعي المستهلكين واشتراطات سلامة الغذاء.",
+          "takeaways": [
+            "يحتوي هذا العسل على سموم طبيعية قد تؤثر على وظيفة القلب في بعض الحالات.",
+            "قد تتم عمليات البيع والتصدير دون تواصل كافٍ بشأن السلامة لبائعيه أو مشترِيه.",
+            "قد يحتاج المستهلكون والبائعون والهيئات الرقابية إلى معلومات وإشراف أفضل لإدارة المخاطر؛ هذا التقرير يصف المخاوف ولا يقدم تعليمات سلامة شخصية."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Toxic ‘mad honey’ being sold online raises safety concerns.\nStory summary: 'Mad honey'—a variety containing plant-derived toxins that can cause serious cardiac effects—is being exported and sold online worldwide, often without clear awareness or protective measures at the point of harvest or sale..\nCategory: food safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "article1",
+      "category": "cancer & nutrition",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
+      "sourceTitle": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
+      "publishedAt": "Thu, 27 Aug 2026 07:52:35 EDT",
+      "languages": {
+        "en": {
+          "title": "Ultra-processed foods linked with higher prostate cancer risk in large US study",
+          "summary": "A nationally representative analysis of over 17,000 U.S. men found that higher intake of ultra-processed foods (including soft drinks, packaged snacks, cereals, and processed meats) was associated with about a 24–31% higher risk of prostate cancer after adjusting for common confounders.",
+          "whyItMatters": "Ultra-processed foods are a major part of many diets; if the association holds in further research, it could affect public health messaging and dietary priorities for men.",
+          "takeaways": [
+            "Association observed in a large, nationally representative sample of men (not proof of causation).",
+            "Effects persisted after adjusting for age, smoking, race/ethnicity, and poverty status.",
+            "Further studies are needed to confirm mechanisms and rule out residual confounding."
+          ]
+        },
+        "es": {
+          "title": "Alimentos ultraprocesados vinculados a mayor riesgo de cáncer de próstata en amplio estudio en EE. UU.",
+          "summary": "Un análisis representativo a nivel nacional de más de 17.000 hombres estadounidenses encontró que una mayor ingesta de alimentos ultraprocesados (incluidos refrescos, snacks envasados, cereales y carnes procesadas) se asoció con aproximadamente un 24–31 % más de riesgo de cáncer de próstata tras ajustar por factores de confusión habituales.",
+          "whyItMatters": "Los alimentos ultraprocesados forman parte importante de muchas dietas; si la asociación se confirma en futuras investigaciones, podría influir en los mensajes de salud pública y en las prioridades dietéticas para hombres.",
+          "takeaways": [
+            "Asociación observada en una muestra grande y representativa de la población masculina (no prueba de causalidad).",
+            "Los efectos persistieron después de ajustar por edad, tabaquismo, raza/etnia y situación de pobreza.",
+            "Se necesitan más estudios para confirmar los mecanismos y descartar confusión residual."
+          ]
+        },
+        "ru": {
+          "title": "Употребление сильно переработанных продуктов связано с повышенным риском рака простаты в крупном исследовании в США",
+          "summary": "Национально представительный анализ более чем 17 000 мужчин в США показал, что более высокое потребление сильно переработанных продуктов (включая газированные напитки, упакованные закуски, хлопья и обработанное мясо) ассоциировалось примерно с 24–31% большим риском рака простаты после учета распространённых факторов смешения.",
+          "whyItMatters": "Сильно переработанные продукты составляют значительную долю рациона многих людей; если эта связь подтвердится в дальнейших исследованиях, это может повлиять на информационные кампании по здоровью и диетические рекомендации для мужчин.",
+          "takeaways": [
+            "Наблюдаемая ассоциация получена в большой, представительной выборке мужчин и не доказывает причинно‑следственной связи.",
+            "Эффект сохранялся после корректировки по возрасту, курению, расе/этнической принадлежности и уровню бедности.",
+            "Требуются дополнительные исследования для подтверждения механизмов и исключения остаточной смешивающей связи."
+          ]
+        },
+        "uk": {
+          "title": "Ультраоброблені продукти пов’язані зі збільшеним ризиком раку передміхурової залози у великому дослідженні США",
+          "summary": "Національно репрезентативний аналіз понад 17 000 чоловіків у США показав, що вищий споживання ультраоброблених продуктів (зокрема безалкогольних напоїв, фасованих снеків, пластівців та перероблених м’ясних виробів) було пов’язане приблизно з 24–31% вищим ризиком раку передміхурової залози після коригування на поширені чинники сплутування.",
+          "whyItMatters": "Ультраоброблені продукти становлять значну частину раціонів багатьох людей; якщо ця асоціація підтвердиться в подальших дослідженнях, вона може вплинути на повідомлення з питань громадського здоров’я та пріоритети в харчуванні чоловіків.",
+          "takeaways": [
+            "Асоціація спостерігалася у великій національно репрезентативній вибірці чоловіків, але це не доводить причинно-наслідкового зв’язку.",
+            "Ефект зберігався після коригування на вік, куріння, расово-етнічну приналежність і статус бідності.",
+            "Потрібні подальші дослідження, щоб підтвердити механізми та виключити залишкове сплутування."
+          ]
+        },
+        "fr": {
+          "title": "Aliments ultra-transformés associés à un risque accru de cancer de la prostate dans une grande étude américaine",
+          "summary": "Une analyse représentative au niveau national portant sur plus de 17 000 hommes aux États-Unis a montré qu’une consommation plus élevée d’aliments ultra-transformés (y compris boissons gazeuses, snacks emballés, céréales et viandes transformées) était associée à un risque d’environ 24–31 % plus élevé de cancer de la prostate après ajustement pour des facteurs de confusion courants.",
+          "whyItMatters": "Les aliments ultra-transformés représentent une part importante de nombreux régimes ; si l’association est confirmée par d’autres recherches, elle pourrait influencer les messages de santé publique et les priorités alimentaires pour les hommes.",
+          "takeaways": [
+            "Association observée dans un large échantillon représentatif d’hommes — ce n’est pas une preuve de causalité.",
+            "Les effets persistaient après ajustement pour l’âge, le tabagisme, la race/l’ethnicité et le statut de pauvreté.",
+            "D’autres études sont nécessaires pour confirmer les mécanismes et éliminer les confusions résiduelles."
+          ]
+        },
+        "de": {
+          "title": "Ultraverarbeitete Lebensmittel mit erhöhtem Prostatakrebsrisiko in großer US-Studie in Verbindung gebracht",
+          "summary": "Eine landesrepräsentative Analyse von mehr als 17.000 US-Männern fand, dass ein höherer Konsum ultraverarbeiteter Lebensmittel (darunter Erfrischungsgetränke, verpackte Snacks, Cerealien und verarbeitete Fleischwaren) nach Anpassung an übliche Störfaktoren mit einem etwa 24–31% höheren Prostatakrebsrisiko verbunden war.",
+          "whyItMatters": "Ultraverarbeitete Lebensmittel machen einen großen Teil vieler Ernährungsweisen aus; falls sich der Befund in weiteren Studien bestätigt, könnte das Auswirkungen auf öffentliche Gesundheitsbotschaften und Ernährungsempfehlungen für Männer haben.",
+          "takeaways": [
+            "In einer großen, landesrepräsentativen Stichprobe von Männern wurde eine Assoziation beobachtet (kein Beweis für Kausalität).",
+            "Der Effekt blieb nach Anpassung für Alter, Rauchen, Rasse/Ethnie und Armutsstatus bestehen.",
+            "Weitere Studien sind erforderlich, um Mechanismen zu bestätigen und verbleibende Confounding-Faktoren auszuschließen."
+          ]
+        },
+        "pt-br": {
+          "title": "Alimentos ultraprocessados associados a maior risco de câncer de próstata em grande estudo nos EUA",
+          "summary": "Uma análise representativa nacional de mais de 17.000 homens nos EUA constatou que maior ingestão de alimentos ultraprocessados (incluindo refrigerantes, salgadinhos industrializados, cereais e carnes processadas) esteve associada a um risco de câncer de próstata aproximadamente 24–31% maior, após ajuste para fatores de confusão comuns.",
+          "whyItMatters": "Alimentos ultraprocessados compõem grande parte da dieta de muitas pessoas; se a associação for confirmada em pesquisas adicionais, isso pode influenciar mensagens de saúde pública e prioridades dietéticas para homens.",
+          "takeaways": [
+            "Associação observada em uma amostra grande e representativa da população masculina (não prova de causalidade).",
+            "Os efeitos persistiram após ajuste por idade, tabagismo, raça/etnia e condição de pobreza.",
+            "São necessários mais estudos para confirmar os mecanismos e excluir confundidores residuais."
+          ]
+        },
+        "hu": {
+          "title": "Nagymintás amerikai vizsgálatban az ultra-feldolgozott ételek kapcsolatban álltak magasabb prosztatarák-kockázattal",
+          "summary": "Egy, országszerte reprezentatív több mint 17 000 amerikai férfit elemző vizsgálat szerint a nagyobb mennyiségű ultra-feldolgozott ételek (például üdítők, csomagolt rágcsálnivalók, gabonapelyhek és feldolgozott húsok) fogyasztása a közös zavaró hatások figyelembevételével számolva körülbelül 24–31%-kal nagyobb prosztatarák-kockázattal volt társítható.",
+          "whyItMatters": "Az ultra-feldolgozott ételek sok étrend jelentős részét képezik; ha az összefüggés további kutatásokban is megmarad, hatással lehet a közegészségügyi üzenetekre és a férfiak számára megfogalmazott étrendi prioritásokra.",
+          "takeaways": [
+            "Az összefüggést egy nagy, országszerte reprezentatív férfimintában figyelték meg; ez nem bizonyíték az okozati összefüggésre.",
+            "Az eredmény megmaradt az életkorra, dohányzásra, faj/etnikum és szegénységi státusz szerinti korrekció után.",
+            "További vizsgálatok szükségesek a mechanizmusok megerősítéséhez és a maradék zavaró tényezők kizárásához."
+          ]
+        },
+        "ar": {
+          "title": "دراسة واسعة في الولايات المتحدة تربط الأطعمة شديدة المعالجة بزيادة مخاطر سرطان البروستاتا",
+          "summary": "أظهر تحليل تمثيلي وطنياً لأكثر من 17,000 رجل أمريكي أن تناول كميات أكبر من الأطعمة شديدة المعالجة (بما في ذلك المشروبات الغازية والوجبات الخفيفة المعبأة والحبوب واللحوم المصنعة) كان مرتبطًا بزيادة في خطر الإصابة بسرطان البروستاتا بنحو 24–31% بعد تعديل النتائج لعوامل مربكة شائعة.",
+          "whyItMatters": "تشكل الأطعمة شديدة المعالجة جزءًا كبيرًا من الأنظمة الغذائية لدى كثيرين؛ إذا ثبتت هذه العلاقة في أبحاث لاحقة فقد تؤثر على الرسائل العامة المتعلقة بالصحة والأولويات الغذائية لدى الرجال.",
+          "takeaways": [
+            "لوحظت علاقة في عينة كبيرة وممثلة وطنياً من الرجال؛ هذا لا يثبت السببية.",
+            "استمرت التأثيرات بعد التعديل حسب العمر والتدخين والعرق/الإثنية وحالة الفقر.",
+            "هناك حاجة إلى دراسات إضافية لتأكيد الآليات واستبعاد التداخل المتبقي."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Ultra-processed foods linked with higher prostate cancer risk in large US study.\nStory summary: A nationally representative analysis of over 17,000 U.S. men found that higher intake of ultra-processed foods (including soft drinks, packaged snacks, cereals, and processed meats) was associated with about a 24–31% higher risk of prostate cancer after adjusting for common confounders..\nCategory: cancer & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a6",
       "category": "Sustainable Nutrition",
@@ -117,122 +759,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial data used to compare environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and cumulative energy demand for participants following a low‑fat vegan diet versus a Mediterranean diet. The study used actual 3‑day dietary records from trial completers to estimate environmental footprints..\nCategory: Sustainable Nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "a4",
-      "category": "Metabolic Health / Therapeutics",
-      "sourceName": "cell.com",
-      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00236-6?rss=yes",
-      "sourceTitle": "Decoding neural signals to build metabolic therapies",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Researchers highlight neural circuits as targets for next‑generation metabolic drugs",
-          "summary": "Experts discuss how incretin‑mimetic drugs appear to work in part by acting on central nervous system circuits. The piece reviews ongoing research into how central and peripheral pathways control energy balance and what is needed to translate circuit knowledge into new metabolic therapies.",
-          "whyItMatters": "Better understanding of neural control of metabolism could improve drug design and precision treatments for obesity and related conditions, potentially reducing side effects or increasing effectiveness.",
-          "takeaways": [
-            "Incretin‑mimetic drugs engage neural circuits that influence appetite and metabolism.",
-            "Mapping central and peripheral pathways may reveal new therapeutic targets.",
-            "Translating basic circuit insights into safe therapies requires more research.",
-            "Integrating neural and metabolic biology could refine obesity treatments."
-          ]
-        },
-        "es": {
-          "title": "Investigadores destacan circuitos neuronales como objetivos para fármacos metabólicos de nueva generación",
-          "summary": "Expertos discuten cómo los medicamentos miméticos de incretinas parecen actuar en parte sobre circuitos del sistema nervioso central. El artículo revisa la investigación en curso sobre cómo las vías centrales y periféricas controlan el equilibrio energético y qué se necesita para traducir el conocimiento de circuitos en nuevas terapias metabólicas.",
-          "whyItMatters": "Una mejor comprensión del control neural del metabolismo podría mejorar el diseño de fármacos y tratamientos más precisos para la obesidad y condiciones relacionadas, potencialmente reduciendo efectos secundarios o aumentando la eficacia.",
-          "takeaways": [
-            "Los medicamentos miméticos de incretinas involucran circuitos neuronales que influyen en el apetito y el metabolismo.",
-            "Mapear vías centrales y periféricas puede revelar nuevos blancos terapéuticos.",
-            "Traducir conocimientos básicos de circuitos en terapias seguras requiere más investigación.",
-            "Integrar la biología neural y metabólica podría afinar los tratamientos para la obesidad."
-          ]
-        },
-        "ru": {
-          "title": "Исследователи выделяют нейронные цепи как цели для метаболических препаратов следующего поколения",
-          "summary": "Эксперты обсуждают, как препараты‑миметики инкретина частично действуют через цепи центральной нервной системы. В обзоре рассматривают текущие исследования того, как центральные и периферические пути контролируют энергетический баланс и что необходимо для трансляции знаний о цепях в новые метаболические терапии.",
-          "whyItMatters": "Лучшее понимание нервного контроля метаболизма может улучшить разработку препаратов и более точные методы лечения ожирения и связанных состояний, потенциально снижая побочные эффекты или повышая эффективность.",
-          "takeaways": [
-            "Препараты‑миметики инкретина задействуют нейронные цепи, влияющие на аппетит и метаболизм.",
-            "Картирование центральных и периферических путей может выявить новые терапевтические мишени.",
-            "Для превращения базовых знаний о цепях в безопасные терапии требуется дополнительное исследование.",
-            "Интеграция нейронной и метаболической биологии может усовершенствовать лечение ожирения."
-          ]
-        },
-        "uk": {
-          "title": "Дослідники виділяють нейронні ланцюги як мішені для наступного покоління метаболічних ліків",
-          "summary": "Експерти обговорюють, як інкретиноподібні препарати, ймовірно, діють частково через вплив на центральні нервові ланцюги. Огляд підсумовує дослідження контролю енергетичного балансу центральними та периферичними шляхами і що потрібно для трансляції знань про ланцюги у нові метаболічні терапії.",
-          "whyItMatters": "Краще розуміння нейронного контролю метаболізму може поліпшити проєктування ліків і більш точні підходи до лікування ожиріння та пов’язаних станів, потенційно зменшуючи побічні ефекти або підвищуючи ефективність.",
-          "takeaways": [
-            "Інкретиноподібні препарати задіюють нейронні ланцюги, що впливають на апетит і метаболізм.",
-            "Картування центральних та периферичних шляхів може виявити нові терапевтичні мішені.",
-            "Щоб перетворити базові знання про ланцюги на безпечні терапії, потрібно більше досліджень.",
-            "Інтеграція нейронної та метаболічної біології може вдосконалити лікування ожиріння."
-          ]
-        },
-        "fr": {
-          "title": "Les chercheurs identifient les circuits neuronaux comme cibles pour les médicaments métaboliques de prochaine génération",
-          "summary": "Des experts discutent de la manière dont les médicaments mimétiques des incrétines semblent agir en partie en ciblant des circuits du système nerveux central. L’article passe en revue les recherches en cours sur la façon dont les voies centrales et périphériques contrôlent l’équilibre énergétique et ce qu’il faut pour traduire ces connaissances en nouvelles thérapies métaboliques.",
-          "whyItMatters": "Une meilleure compréhension du contrôle neuronal du métabolisme pourrait améliorer la conception des médicaments et les traitements personnalisés pour l’obésité et les affections associées, potentiellement en réduisant les effets indésirables ou en augmentant l’efficacité.",
-          "takeaways": [
-            "Les médicaments mimétiques des incrétines mobilisent des circuits neuronaux qui influencent l’appétit et le métabolisme.",
-            "La cartographie des voies centrales et périphériques peut révéler de nouvelles cibles thérapeutiques.",
-            "La traduction des connaissances fondamentales sur les circuits en thérapies sûres nécessite davantage de recherches.",
-            "L’intégration de la biologie neuronale et métabolique pourrait affiner les traitements de l’obésité."
-          ]
-        },
-        "de": {
-          "title": "Forscher heben neuronale Schaltkreise als Ziele für die nächste Generation metabolischer Medikamente hervor",
-          "summary": "Expertinnen und Experten erörtern, dass Inkretin‑Mimetika teilweise über zentrale Nervensystem‑Schaltkreise wirken. Der Beitrag fasst laufende Forschungen dazu zusammen, wie zentrale und periphere Wege den Energiehaushalt kontrollieren und was nötig ist, um Schaltkreiswissen in neue metabolische Therapien zu übersetzen.",
-          "whyItMatters": "Ein besseres Verständnis der neuronalen Kontrolle des Stoffwechsels könnte die Wirkstoffentwicklung und präzisere Behandlungen von Adipositas und verwandten Erkrankungen verbessern, möglicherweise Nebenwirkungen reduzieren oder die Wirksamkeit erhöhen.",
-          "takeaways": [
-            "Inkretin‑Mimetika greifen in neuronale Schaltkreise ein, die Appetit und Stoffwechsel beeinflussen.",
-            "Das Kartieren zentraler und peripherer Wege kann neue therapeutische Ziele offenlegen.",
-            "Die Übersetzung grundlegender Schaltkreis‑Erkenntnisse in sichere Therapien erfordert weitere Forschung.",
-            "Die Integration neuronaler und metabolischer Biologie könnte Adipositas‑Behandlungen verfeinern."
-          ]
-        },
-        "pt-br": {
-          "title": "Pesquisadores destacam circuitos neurais como alvos para a próxima geração de fármacos metabólicos",
-          "summary": "Especialistas discutem como medicamentos que mimetizam incretinas parecem agir em parte por meio de circuitos do sistema nervoso central. O texto revisa pesquisas em andamento sobre como vias centrais e periféricas controlam o equilíbrio energético e o que é necessário para traduzir esse conhecimento de circuitos em novas terapias metabólicas.",
-          "whyItMatters": "Compreender melhor o controle neural do metabolismo pode aprimorar o desenho de medicamentos e tratamentos mais precisos para obesidade e condições relacionadas, potencialmente reduzindo efeitos colaterais ou aumentando a eficácia.",
-          "takeaways": [
-            "Medicamentos que mimetizam incretinas engajam circuitos neurais que influenciam apetite e metabolismo.",
-            "Mapear vias centrais e periféricas pode revelar novos alvos terapêuticos.",
-            "Traduzir insights de circuitos básicos em terapias seguras exige mais pesquisa.",
-            "Integrar biologia neural e metabólica pode refinar tratamentos para obesidade."
-          ]
-        },
-        "hu": {
-          "title": "Kutatók a neurális kapcsolóhálózatokat jelölik meg a következő generációs anyagcsere‑gyógyszerek célpontjaként",
-          "summary": "Szakértők áttekintik, hogyan hatnak részben az agyi idegi körökön az incretin‑mimetikumok. A cikk összegzi a központi és perifériás útvonalak szerepének kutatását az energiaegyensúly szabályozásában, és mit kell ahhoz, hogy a körtelméleti ismeretekből új anyagcsere‑terápiák szülessenek.",
-          "whyItMatters": "A metabolizmus idegi szabályozásának jobb megértése javíthatja a gyógyszertervezést és a célzott kezeléseket az elhízás és kapcsolódó állapotok esetén, potenciálisan csökkentve a mellékhatásokat vagy növelve a hatékonyságot.",
-          "takeaways": [
-            "Az incretin‑mimetikumok idegi köröket aktiválhatnak, amelyek befolyásolják az étvágyat és az anyagcserét.",
-            "A központi és perifériás útvonalak feltérképezése új terápiás célpontokat fedhet fel.",
-            "Az alapkutatási körismeretek biztonságos terápiává fordítása több kutatást igényel.",
-            "A neurális és anyagcsere‑biológia integrálása finomíthatja az elhízás kezelését."
-          ]
-        },
-        "ar": {
-          "title": "الباحثون يبرزون الدوائر العصبية كأهداف لأدوية أيضية من الجيل القادم",
-          "summary": "يناقش الخبراء كيف تعمل عقاقير مقلدة للإنكرتين جزئيًا عبر تأثيرها على دوائر الجهاز العصبي المركزي. تستعرض المقالة الأبحاث الجارية حول كيفية تحكم المسارات المركزية والمحيطية في توازن الطاقة وما يلزم لترجمة معرفة الدوائر العصبية إلى علاجات أيضية جديدة.",
-          "whyItMatters": "قد يؤدي فهم أفضل للتحكم العصبي في الأيض إلى تحسين تصميم الأدوية والعلاجات الموجهة للسمنة والحالات المرتبطة بها، مما قد يقلل من الآثار الجانبية أو يزيد من الفاعلية.",
-          "takeaways": [
-            "تتفاعل أدوية مقلدة للإنكرتين مع دوائر عصبية تؤثر في الشهية والأيض.",
-            "قد يكشف تتبع المسارات المركزية والمحيطية عن أهداف علاجية جديدة.",
-            "يتطلب تحويل رؤى الدوائر الأساسية إلى علاجات آمنة مزيدًا من البحث.",
-            "يمكن أن يؤدي دمج علم الأعصاب والبيولوجيا الأيضية إلى تحسين علاجات السمنة."
-          ]
-        }
-      },
-      "generatedAt": "2026-08-27T09:35:50.587Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a4",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers highlight neural circuits as targets for next‑generation metabolic drugs.\nStory summary: Experts discuss how incretin‑mimetic drugs appear to work in part by acting on central nervous system circuits. The piece reviews ongoing research into how central and peripheral pathways control energy balance and what is needed to translate circuit knowledge into new metabolic therapies..\nCategory: Metabolic Health / Therapeutics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a2",
@@ -815,120 +1341,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Daraxonrasib approved after trials showed large survival gains in selected pancreatic cancers.\nStory summary: An oncologist explains the FDA approval of daraxonrasib, a targeted therapy that reportedly nearly doubled survival in clinical trials for patients whose tumors have the specific vulnerability the drug targets..\nCategory: Oncology / Medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a3",
-      "category": "Metabolic Health / Exercise",
+      "id": "article5",
+      "category": "exercise & metabolic health",
       "sourceName": "lifespan.io",
       "sourceUrl": "https://lifespan.io/short-intense-exercise-elicits-beneficial-metabolic-changes/",
       "sourceTitle": "Short, Intense Exercise Elicits Beneficial Metabolic Changes",
       "publishedAt": "Wed, 26 Aug 2026 16:43:46 +0000",
       "languages": {
         "en": {
-          "title": "Sprint‑interval sessions produced larger proteomic and metabolite shifts than moderate exercise",
-          "summary": "A study compared high‑intensity sprint‑interval exercise with moderate‑intensity workouts and found that brief, intense sessions induced bigger changes in circulating proteins and metabolites, including proteins linked with metabolic pathways.",
-          "whyItMatters": "Results suggest short, intense exercise can trigger measurable systemic responses and may be an efficient option for people seeking metabolic benefits when time is limited. Long‑term clinical outcomes were not described.",
+          "title": "Sprint-interval exercise produces larger short-term metabolic changes than moderate exercise",
+          "summary": "A recent study compared high-intensity sprint-interval training with moderate-intensity exercise and found that brief, intense sessions led to greater shifts in circulating proteins and metabolites, including markers linked to cardiometabolic health.",
+          "whyItMatters": "The work highlights how exercise intensity can differentially influence metabolic signals, which may inform future studies on optimizing physical activity for metabolic benefits in varied populations.",
           "takeaways": [
-            "High‑intensity sprint intervals caused greater changes in blood proteins and metabolites than moderate exercise.",
-            "Some of the stimulated proteins are associated with beneficial metabolic functions.",
-            "Short sessions may offer an efficient stimulus for systemic change, though long‑term effects need study.",
-            "Exercise selection should consider individual health status and tolerance."
+            "Short, intense exercise produced larger changes in circulating proteins and metabolites than moderate training in this study. ",
+            "Biological signals observed are associated with cardiometabolic pathways but do not directly prove long-term health outcomes. ",
+            "Exercise prescriptions should be individualized; this report summarizes findings rather than giving personal medical advice."
           ]
         },
         "es": {
-          "title": "Sesiones de intervalos de sprint produjeron mayores cambios proteómicos y en metabolitos que el ejercicio moderado",
-          "summary": "Un estudio comparó ejercicio de intervalos de sprint de alta intensidad con entrenamientos de intensidad moderada y halló que sesiones breves e intensas indujeron cambios más grandes en proteínas y metabolitos circulantes, incluidas proteínas vinculadas a vías metabólicas.",
-          "whyItMatters": "Los resultados sugieren que el ejercicio breve e intenso puede desencadenar respuestas sistémicas medibles y ser una opción eficaz para personas que buscan beneficios metabólicos cuando el tiempo es limitado. No se describieron resultados clínicos a largo plazo.",
+          "title": "Ejercicio por intervalos de sprint produce cambios metabólicos a corto plazo mayores que el ejercicio moderado",
+          "summary": "Un estudio reciente comparó entrenamiento por intervalos de sprint de alta intensidad con ejercicio de intensidad moderada y halló que sesiones breves e intensas provocaron cambios mayores en proteínas y metabolitos circulantes, incluyendo marcadores vinculados a vías cardiometabólicas.",
+          "whyItMatters": "El trabajo destaca cómo la intensidad del ejercicio puede influir de manera diferente en las señales metabólicas, lo que puede orientar estudios futuros sobre cómo optimizar la actividad física para beneficios metabólicos en distintas poblaciones.",
           "takeaways": [
-            "Intervalos de sprint de alta intensidad provocaron mayores cambios en proteínas y metabolitos sanguíneos que el ejercicio moderado.",
-            "Algunas de las proteínas estimuladas están asociadas con funciones metabólicas beneficiosas.",
-            "Sesiones cortas pueden ofrecer un estímulo eficiente para cambios sistémicos, aunque los efectos a largo plazo necesitan estudio.",
-            "La elección del ejercicio debe considerar el estado de salud y la tolerancia individual."
+            "En este estudio, el ejercicio corto e intenso produjo cambios mayores en proteínas y metabolitos circulantes que el entrenamiento moderado.",
+            "Las señales biológicas observadas están asociadas con vías cardiometabólicas, pero no prueban directamente efectos de salud a largo plazo.",
+            "Las prescripciones de ejercicio deben individualizarse; este informe resume hallazgos y no ofrece consejos médicos personales."
           ]
         },
         "ru": {
-          "title": "Спринт‑интервалы вызвали большие сдвиги в протеомике и метаболитах, чем умеренные упражнения",
-          "summary": "Исследование сравнивало высокоинтенсивные спринт‑интервальные тренировки с упражнениями умеренной интенсивности и обнаружило, что краткие интенсивные сессии вызывают более выраженные изменения в циркулирующих белках и метаболитах, включая белки, связанные с метаболическими путями.",
-          "whyItMatters": "Результаты указывают, что короткие интенсивные упражнения могут запускать измеримые системные реакции и быть эффективным вариантом для людей с ограниченным временем, желающих получить метаболические преимущества. Долгосрочные клинические исходы не описаны.",
+          "title": "Интервальные спринты вызывают более крупные краткосрочные метаболические изменения, чем умеренная нагрузка",
+          "summary": "Недавнее исследование сравнивало высокоинтенсивный интервалный тренинг спринтов с умеренной физической активностью и обнаружило, что короткие интенсивные сессии вызвали более выраженные изменения в циркулирующих белках и метаболитах, включая маркеры, связанные с кардиометаболическими путями.",
+          "whyItMatters": "Работа подчёркивает, что интенсивность упражнений по‑разному влияет на метаболические сигналы, что может помочь в будущих исследованиях по оптимизации физической активности для метаболических преимуществ в разных группах людей.",
           "takeaways": [
-            "Высокоинтенсивные интервалы спринта вызвали большие изменения в крови по сравнению с умеренными упражнениями.",
-            "Некоторые стимулированные белки связаны с потенциально полезными метаболическими функциями.",
-            "Короткие сессии могут быть эффективным стимулом для системных изменений, но долгосрочные эффекты требуют исследования.",
-            "Выбор типа упражнений должен учитывать состояние здоровья и переносимость у конкретного человека."
+            "В исследовании короткие интенсивные упражнения вызвали более существенные изменения в циркулирующих белках и метаболитах, чем умеренная тренировка.",
+            "Наблюдаемые биологические сигналы связаны с кардиометаболическими путями, но не доказывают прямого длительного эффекта на здоровье.",
+            "Рекомендации по упражнениям должны быть индивидуализированы; данный материал резюмирует результаты, а не предоставляет персонализированные медицинские советы."
           ]
         },
         "uk": {
-          "title": "Інтервальні спринти спричиняли більші протеомні та метаболітні зрушення, ніж помірні вправи",
-          "summary": "Дослідження порівняло інтенсивні інтервальні спринти з тренуваннями помірної інтенсивності й виявило, що короткі інтенсивні сесії викликали більші зміни в циркулюючих білках і метаболітів, включно з білками, пов’язаними з метаболічними шляхами.",
-          "whyItMatters": "Результати вказують, що короткі інтенсивні вправи можуть спричиняти вимірні системні реакції і слугувати ефективним варіантом для людей з обмеженим часом, які прагнуть метаболічних переваг. Довгострокові клінічні наслідки в статті не описані.",
+          "title": "Інтервальні спринти викликають більші короткострокові метаболічні зміни, ніж помірні вправи",
+          "summary": "Нещодавнє дослідження порівняло інтенсивне інтервальне спринтове тренування з вправами помірної інтенсивності й виявило, що короткі інтенсивні сесії призводять до більших змін у рівнях циркулюючих білків і метаболітів, включно з маркерами, пов’язаними з кардіометаболічним здоров’ям.",
+          "whyItMatters": "Робота підкреслює, що інтенсивність фізичної активності може по-різному впливати на метаболічні сигнали, що може спрямувати майбутні дослідження з оптимізації фізичної активності для метаболічних переваг у різних групах населення.",
           "takeaways": [
-            "Високоінтенсивні інтервали спринту спричинили більші зміни в кров’яних білках і метаболітних профілях, ніж помірні вправи.",
-            "Деякі з активованих білків пов’язані з корисними метаболічними функціями.",
-            "Короткі сесії можуть бути ефективним стимулом для системних змін, хоча потрібні дослідження довгострокових ефектів.",
-            "Вибір типу вправ має враховувати індивідуальний стан здоров’я та переносимість."
+            "У цьому дослідженні короткі інтенсивні вправи спричинили більші зміни в циркулюючих білках і метаболітах, ніж помірні тренування.",
+            "Спостережені біологічні сигнали асоційовані з кардіометаболічними шляхами, але не доводять безпосередньо довгострокових позитивних наслідків для здоров’я.",
+            "Рекомендації щодо фізичної активності повинні персоналізуватися; цей звіт підсумовує результати дослідження, а не дає індивідуальних медичних порад."
           ]
         },
         "fr": {
-          "title": "Des séances de sprint interval entraînent des changements protéomiques et métabolites plus marqués que l’exercice modéré",
-          "summary": "Une étude a comparé l’exercice par intervalles de sprint à haute intensité et les séances d’intensité modérée et a constaté que de courtes séances intenses induisaient des changements plus importants dans les protéines et métabolites circulants, y compris des protéines liées à des voies métaboliques.",
-          "whyItMatters": "Les résultats suggèrent que l’exercice court et intense peut déclencher des réponses systémiques mesurables et constituer une option efficace pour les personnes cherchant des bénéfices métaboliques quand le temps est limité. Les effets cliniques à long terme n’ont pas été décrits.",
+          "title": "L’exercice en intervalles de sprint provoque des changements métaboliques à court terme plus importants que l’exercice modéré",
+          "summary": "Une étude récente a comparé l’entraînement par intervalles de sprint à haute intensité et l’exercice d’intensité modérée et a constaté que de courtes sessions intenses entraînaient des modifications plus importantes des protéines et métabolites circulants, y compris des marqueurs liés à la santé cardiométabolique.",
+          "whyItMatters": "Le travail met en lumière la manière dont l’intensité de l’exercice peut influencer différemment les signaux métaboliques, ce qui peut orienter de futures études visant à optimiser l’activité physique pour des bénéfices métaboliques selon les populations.",
           "takeaways": [
-            "Les intervalles de sprint à haute intensité ont provoqué des changements plus importants des protéines et métabolites sanguins que l’exercice modéré.",
-            "Certaines protéines stimulées sont associées à des fonctions métaboliques bénéfiques.",
-            "Les courtes séances peuvent offrir un stimulus efficace pour des changements systémiques, mais les effets à long terme restent à étudier.",
-            "Le choix de l’exercice doit tenir compte de l’état de santé individuel et de la tolérance."
+            "Dans cette étude, l’exercice court et intense a produit des changements plus importants des protéines et métabolites circulants que l’entraînement modéré.",
+            "Les signaux biologiques observés sont associés à des voies cardiométaboliques mais ne prouvent pas directement des effets à long terme sur la santé.",
+            "Les prescriptions d’exercice doivent être individualisées ; ce rapport résume des résultats de recherche et ne constitue pas un conseil médical personnalisé."
           ]
         },
         "de": {
-          "title": "Sprint‑Intervall‑Einheiten erzeugten größere proteomische und metabolische Verschiebungen als moderates Training",
-          "summary": "Eine Studie verglich hochintensive Sprint‑Intervall‑Übungen mit moderatem Training und fand, dass kurze, intensive Einheiten größere Veränderungen in zirkulierenden Proteinen und Metaboliten auslösten, darunter Proteine, die mit Stoffwechselwegen verknüpft sind.",
-          "whyItMatters": "Die Ergebnisse deuten darauf hin, dass kurzes, intensives Training messbare systemische Reaktionen hervorrufen kann und eine effiziente Option für Personen sein könnte, die metabolische Vorteile bei begrenzter Zeit suchen. Langfristige klinische Ergebnisse wurden nicht beschrieben.",
+          "title": "Sprint-Intervalltraining bewirkt kurzfristig stärkere metabolische Veränderungen als moderates Training",
+          "summary": "Eine aktuelle Studie verglich hochintensives Sprint-Intervalltraining mit moderater Intensität und fand, dass kurze, intensive Einheiten größere Veränderungen in zirkulierenden Proteinen und Metaboliten bewirkten, einschließlich Markern, die mit kardiometabolischer Gesundheit in Verbindung stehen.",
+          "whyItMatters": "Die Arbeit zeigt, wie sich die Intensität von Bewegung unterschiedlich auf metabolische Signale auswirken kann, und kann künftige Studien zur Optimierung körperlicher Aktivität für metabolische Vorteile in verschiedenen Bevölkerungsgruppen informieren.",
           "takeaways": [
-            "Hochintensive Sprintintervalle führten zu stärkeren Veränderungen von Blutproteinen und Metaboliten als moderates Training.",
-            "Einige der angeregten Proteine stehen im Zusammenhang mit vorteilhaften Stoffwechselfunktionen.",
-            "Kurze Einheiten könnten einen effizienten Reiz für systemische Veränderungen bieten, obwohl Langzeitwirkungen noch untersucht werden müssen.",
-            "Die Wahl der Trainingsform sollte individuellen Gesundheitsstatus und Belastbarkeit berücksichtigen."
+            "Kurze, intensive Übungen bewirkten in dieser Studie größere Veränderungen in zirkulierenden Proteinen und Metaboliten als moderates Training.",
+            "Die beobachteten biologischen Signale stehen im Zusammenhang mit kardiometabolischen Pfaden, beweisen jedoch nicht direkt langfristige gesundheitliche Effekte.",
+            "Trainingsempfehlungen sollten individualisiert werden; dieser Bericht fasst Ergebnisse zusammen, statt persönliche medizinische Ratschläge zu geben."
           ]
         },
         "pt-br": {
-          "title": "Sessões de sprint intervalado produziram mudanças proteômicas e de metabólitos maiores que exercício moderado",
-          "summary": "Um estudo comparou exercício intervalado de alta intensidade com treinos de intensidade moderada e constatou que sessões breves e intensas induziram mudanças maiores em proteínas e metabólitos circulantes, incluindo proteínas ligadas a vias metabólicas.",
-          "whyItMatters": "Os resultados sugerem que exercício curto e intenso pode desencadear respostas sistêmicas mensuráveis e ser uma opção eficiente para quem busca benefícios metabólicos com tempo limitado. Não foram descritos desfechos clínicos de longo prazo.",
+          "title": "Exercício em intervalos de sprint produz mudanças metabólicas de curto prazo maiores que exercício moderado",
+          "summary": "Um estudo recente comparou treino intervalado de alta intensidade com exercício de intensidade moderada e constatou que sessões breves e intensas levaram a maiores alterações em proteínas e metabólitos circulantes, incluindo marcadores associados à saúde cardiometabólica.",
+          "whyItMatters": "O trabalho destaca como a intensidade do exercício pode influenciar de forma diferente sinais metabólicos, o que pode orientar estudos futuros sobre como otimizar a atividade física para benefícios metabólicos em populações diversas.",
           "takeaways": [
-            "Intervalos de sprint de alta intensidade causaram maiores mudanças em proteínas sanguíneas e metabólitos que exercício moderado.",
-            "Algumas das proteínas estimuladas estão associadas a funções metabólicas benéficas.",
-            "Sessões curtas podem oferecer um estímulo eficiente para mudança sistêmica, embora os efeitos a longo prazo precisem ser estudados.",
-            "A seleção do tipo de exercício deve considerar o estado de saúde e a tolerância individual."
+            "Exercícios curtos e intensos produziram mudanças maiores em proteínas e metabólitos circulantes do que o treino moderado neste estudo.",
+            "Os sinais biológicos observados estão associados a vias cardiometabólicas, mas não provam diretamente resultados de saúde a longo prazo.",
+            "Prescrições de exercício devem ser individualizadas; este relatório resume achados e não oferece conselho médico pessoal."
           ]
         },
         "hu": {
-          "title": "Sprintintervallum‑edzések nagyobb proteomikai és metabolit‑változásokat okoztak, mint a mérsékelt edzés",
-          "summary": "Egy vizsgálat összehasonlította a nagy intenzitású sprintintervallum‑edzést a mérsékelt intenzitású edzésekkel, és megállapította, hogy a rövid, intenzív szakaszok nagyobb változásokat idéztek elő a keringő fehérjékben és metabolitokban, beleértve az anyagcsere‑utakhoz kapcsolódó fehérjéket is.",
-          "whyItMatters": "Az eredmények arra utalnak, hogy a rövid, intenzív edzés mérhető rendszerszintű reakciókat vált ki, és hatékony lehet azok számára, akik rövid idő alatt szeretnének anyagcsere‑előnyöket. Hosszú távú klinikai hatásokat a tanulmány nem ismertetett.",
+          "title": "Sprint-intervall edzés rövid távon nagyobb anyagcsere-változásokat vált ki, mint a mérsékelt intenzitású mozgás",
+          "summary": "Egy közelmúltbeli tanulmány összehasonlította a nagy intenzitású sprint-intervallumos edzést a mérsékelt intenzitású mozgással, és megállapította, hogy a rövid, intenzív alkalmak nagyobb eltolódásokat eredményeztek keringő fehérjékben és metabolitokban, köztük olyan markerekben, amelyek kapcsolatba hozhatók a kardiometabolikus egészséggel.",
+          "whyItMatters": "A munka rámutat, hogy az edzés intenzitása különböző módon befolyásolhatja az anyagcsere-jelzéseket, ami hasznos lehet a későbbi kutatások számára az optimális fizikai aktivitás meghatározásában különböző populációk számára.",
           "takeaways": [
-            "A nagy intenzitású sprintintervallumok nagyobb változásokat okoztak a vér fehérjéiben és metabolitjaiban, mint a mérsékelt edzés.",
-            "Néhány stimulált fehérje a kedvező anyagcsere‑funkciókkal hozható összefüggésbe.",
-            "A rövid edzésszakaszok hatékony ingert jelenthetnek a rendszerszintű változásokhoz, de a hosszú távú hatásokat vizsgálni kell.",
-            "Az edzés kiválasztásánál figyelembe kell venni az egyén egészségi állapotát és tűrőképességét."
+            "Ebben a vizsgálatban a rövid, intenzív edzés nagyobb változásokat eredményezett a keringő fehérjékben és metabolitokban, mint a mérsékelt tréning.",
+            "A megfigyelt biológiai jelek kapcsolódnak kardiometabolikus utakhoz, de nem bizonyítják közvetlenül a hosszú távú egészségügyi kimeneteleket.",
+            "Az edzési ajánlásokat egyénre kell szabni; ez a közlemény a kutatási eredményeket ismerteti, és nem személyre szóló orvosi tanácsot ad."
           ]
         },
         "ar": {
-          "title": "جلسات فواصل السباق أدت إلى تغييرات بروتينية و استقلابية أكبر من التمارين المعتدلة",
-          "summary": "قارنَت دراسة بين تمارين فواصل السبرينت عالية الشدة والتمارين معتدلة الشدة، ووجدت أن الجلسات القصيرة والعالية الشدة أحدثت تغييرات أكبر في البروتينات والمواد الاستقلابية المتداولة في الدم، بما في ذلك بروتينات مرتبطة بمسارات الأيض.",
-          "whyItMatters": "تشير النتائج إلى أن التمارين القصيرة والعالية الشدة يمكن أن تثير استجابات جهازية قابلة للقياس، وقد تكون خيارًا فعالًا للأشخاص الذين يسعون إلى فوائد أيضية في وقت محدود. لم تُعرض نتائج سريرية طويلة الأمد.",
+          "title": "تمارين فواصل السبرينت القصيرة تنتج تغيرات استقلابية قصيرة الأمد أكبر من التمارين معتدلة الشدة",
+          "summary": "قارنَت دراسة حديثة تدريب فواصل السبرينت عالي الكثافة مع التمارين معتدلة الشدة، ووجدت أن الجلسات القصيرة والمكثفة أدت إلى تغيّرات أكبر في البروتينات والمواد الأيضية المتداولة، بما في ذلك مؤشرات مرتبطة بصحة القلب والأيض.",
+          "whyItMatters": "تُبرز الدراسة كيف يمكن لشدة التمرين أن تؤثر بشكل مختلف على الإشارات الأيضية، وهو ما قد يوجه دراسات مستقبلية حول تحسين النشاط البدني لتحقيق فوائد استقلابية لمجموعات سكانية متنوعة.",
           "takeaways": [
-            "تسببت فواصل السبرينت عالية الشدة في تغييرات أكبر في بروتينات الدم والمواد الاستقلابية مقارنة بالتمارين المعتدلة.",
-            "بعض البروتينات المنشطة مرتبطة بوظائف أيضية مفيدة.",
-            "قد توفر الجلسات القصيرة محفزًا فعالًا للتغييرات الجهازية، لكن ينبغي دراسة التأثيرات طويلة المدى.",
-            "يجب أن يراعي اختيار التمرين حالة الفرد الصحية وقدرته على التحمل."
+            "أنتجت التمارين القصيرة والمكثفة تغيرات أكبر في البروتينات والمواد الأيضية المتداولة مقارنة بالتدريب المعتدل في هذه الدراسة.",
+            "الاشارات البيولوجية المرصودة مرتبطة بمسارات قلبية أيضية لكنها لا تثبت نتائج صحية طويلة الأمد مباشرةً.",
+            "يجب تفصيل برامج التمرين لكل فرد؛ هذا التقرير يلخص النتائج البحثية ولا يقدم نصيحة طبية شخصية."
           ]
         }
       },
-      "generatedAt": "2026-08-27T09:35:50.587Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a3",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-news.webp",
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article5-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Sprint‑interval sessions produced larger proteomic and metabolite shifts than moderate exercise.\nStory summary: A study compared high‑intensity sprint‑interval exercise with moderate‑intensity workouts and found that brief, intense sessions induced bigger changes in circulating proteins and metabolites, including proteins linked with metabolic pathways..\nCategory: Metabolic Health / Exercise.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Sprint-interval exercise produces larger short-term metabolic changes than moderate exercise.\nStory summary: A recent study compared high-intensity sprint-interval training with moderate-intensity exercise and found that brief, intense sessions led to greater shifts in circulating proteins and metabolites, including markers linked to cardiometabolic health..\nCategory: exercise & metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a1",
@@ -3866,111 +4383,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Physician group sues HHS and USDA over latest Dietary Guidelines.\nStory summary: The Physicians Committee for Responsible Medicine filed a lawsuit alleging procedural and substantive problems with the most recent U.S. Dietary Guidelines, challenging how the guidance was developed..\nCategory: nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "nutritionorg-asn-awards-20260820",
-      "category": "Nutrition / Community",
+      "id": "article8",
+      "category": "professional recognition & research trends",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/celebrating-the-2026-asn-award-honorees/",
       "sourceTitle": "Celebrating the 2026 ASN Award Honorees",
       "publishedAt": "Thu, 20 Aug 2026 14:54:58 +0000",
       "languages": {
         "en": {
-          "title": "ASN honors researchers and clinicians advancing nutrition science",
-          "summary": "The American Society for Nutrition recognized outstanding scientists, clinicians and scholars whose work has contributed to nutrition research, education and practice. The announcement highlights the awardees and their roles in advancing the field.",
-          "whyItMatters": "Awarded researchers reflect areas of active progress in nutrition science and can point to emerging priorities and leaders shaping future research and policy.",
+          "title": "American Society for Nutrition honors 2026 awardees",
+          "summary": "The ASN and its foundation recognized scientists, clinicians, and scholars for contributions that advance nutrition research, education, and practice, highlighting a range of work across basic science and applied nutrition.",
+          "whyItMatters": "Annual awards spotlight emerging and established leaders, offering insight into research priorities and innovations shaping the nutrition field.",
           "takeaways": [
-            "ASN announced its 2026 award recipients across research and clinical categories.",
-            "Honorees were recognized for contributions to nutrition research, education and practice.",
-            "Award lists can indicate emerging leaders and priorities in the field."
+            "Awards cover diverse areas of nutrition science and practice. ",
+            "Honorees can signal growing areas of interest and investment in the field. ",
+            "Recognition helps translate research advances into educational and clinical contexts."
           ]
         },
         "es": {
-          "title": "ASN honra a investigadores y clínicos que avanzan la ciencia de la nutrición",
-          "summary": "La American Society for Nutrition reconoció a científicos, clínicos y académicos destacados cuyo trabajo ha contribuido a la investigación, la educación y la práctica en nutrición. El anuncio destaca a los galardonados y sus roles en el avance del campo.",
-          "whyItMatters": "Los investigadores premiados reflejan áreas de progreso activo en la ciencia de la nutrición y pueden señalar prioridades emergentes y líderes que marcarán el rumbo de la investigación y la política futura.",
+          "title": "La Sociedad Americana de Nutrición honra a los galardonados ASN 2026",
+          "summary": "La ASN y su fundación reconocieron a científicos, clínicos y académicos por contribuciones que avanzan la investigación, la educación y la práctica en nutrición, destacando una gama de trabajos desde la ciencia básica hasta la nutrición aplicada.",
+          "whyItMatters": "Los premios anuales ponen de relieve líderes emergentes y consolidados, ofreciendo indicios sobre prioridades de investigación e innovaciones que están moldeando el campo de la nutrición.",
           "takeaways": [
-            "ASN anunció a sus galardonados de 2026 en categorías de investigación y clínica.",
-            "Los homenajeados fueron reconocidos por sus contribuciones a la investigación, la educación y la práctica en nutrición.",
-            "Las listas de premios pueden indicar líderes emergentes y prioridades en el campo."
+            "Los premios abarcan áreas diversas de la ciencia y la práctica de la nutrición.",
+            "Los galardonados pueden señalar áreas crecientes de interés e inversión en el campo.",
+            "El reconocimiento ayuda a traducir avances de investigación en contextos educativos y clínicos."
           ]
         },
         "ru": {
-          "title": "ASN отмечает исследователей и клиницистов, продвигающих науку о питании",
-          "summary": "Американское общество питания (ASN) признало выдающихся учёных, клиницистов и исследователей, чья работа внесла вклад в исследования, образование и практику в области питания. В объявлении представлены награждённые и их роль в продвижении области.",
-          "whyItMatters": "Награждённые отражают активные направления прогресса в науке о питании и могут указывать на приоритеты и лидеров, формирующих будущие исследования и политику.",
+          "title": "Американское общество питания отмечает лауреатов премий ASN 2026",
+          "summary": "ASN и её фонд отметили учёных, клиницистов и исследователей за вклад в развитие исследований, образования и практики в области питания, подчеркнув разнообразие работ от фундаментальной науки до прикладной нутрициологии.",
+          "whyItMatters": "Ежегодные награды выделяют как начинающих, так и признанных лидеров, давая представление о приоритетах исследований и инновациях, формирующих область питания.",
           "takeaways": [
-            "ASN объявило лауреатов своих премий 2026 года в исследовательских и клинических категориях.",
-            "Почётные лауреаты признаны за вклад в исследования, образование и практическую деятельность в области питания.",
-            "Списки награждённых могут указывать на появляющихся лидеров и приоритеты в области."
+            "Награды охватывают различные направления науки и практики в области питания.",
+            "Лауреаты могут указывать на растущие области интереса и инвестиций в сфере питания.",
+            "Признание способствует переносу научных достижений в образовательную и клиническую практику."
           ]
         },
         "uk": {
-          "title": "ASN відзначає дослідників і клініцистів, що просувають науку про харчування",
-          "summary": "Американське товариство з харчування визнало видатних вчених, клініцистів і науковців, чиї роботи внесли вклад у дослідження, освіту та практику в галузі харчування. Оголошення підкреслює лауреатів та їхні ролі в розбудові галузі.",
-          "whyItMatters": "Нагороджені дослідники відображають активні напрями прогресу в науці про харчування і можуть вказувати на нові пріоритети та лідерів, які формуватимуть майбутні дослідження та політику.",
+          "title": "Американське товариство з питань харчування відзначає лауреатів премій 2026 року",
+          "summary": "ASN та її фонд визнали вчених, клініцистів та науковців за внесок у розвиток досліджень, освіти та практики у сфері харчування, підкресливши різноманітні роботи від базової науки до прикладного харчування.",
+          "whyItMatters": "Щорічні нагороди висвітлюють як нових, так і усталених лідерів, даючи уявлення про пріоритети досліджень та інновації, які формують галузь харчування.",
           "takeaways": [
-            "ASN оголосила своїх лауреатів премій 2026 року у категоріях досліджень та клінічної діяльності.",
-            "Відзначені були за внесок у дослідження, освіту та практику у галузі харчування.",
-            "Списки нагороджених можуть вказувати на нових лідерів і пріоритетні напрями у сфері."
+            "Премії охоплюють різні напрями науки і практики харчування.",
+            "Лауреати можуть вказувати на зростаючі напрями інтересу та інвестицій у галузі.",
+            "Визнання сприяє перенесенню дослідницьких здобутків у освітній і клінічний контексти."
           ]
         },
         "fr": {
-          "title": "L’ASN honore des chercheurs et cliniciens faisant progresser la science de la nutrition",
-          "summary": "La American Society for Nutrition a reconnu des scientifiques, cliniciens et universitaires exceptionnels dont le travail a contribué à la recherche, à l’éducation et à la pratique en nutrition. L’annonce met en lumière les lauréats et leurs rôles dans l’avancement du domaine.",
-          "whyItMatters": "Les chercheurs primés reflètent des domaines de progrès actifs en science de la nutrition et peuvent indiquer des priorités émergentes et des leaders qui orienteront la recherche et la politique futures.",
+          "title": "La American Society for Nutrition honore les lauréats 2026",
+          "summary": "L’ASN et sa fondation ont récompensé des scientifiques, cliniciens et universitaires pour leurs contributions à l’avancement de la recherche, de l’éducation et de la pratique en nutrition, mettant en avant une diversité de travaux allant de la science fondamentale à la nutrition appliquée.",
+          "whyItMatters": "Les prix annuels mettent en lumière des leaders émergents et établis, offrant un aperçu des priorités de recherche et des innovations qui façonnent le domaine de la nutrition.",
           "takeaways": [
-            "L’ASN a annoncé ses récipiendaires des prix 2026 dans les catégories de recherche et clinique.",
-            "Les lauréats ont été reconnus pour leurs contributions à la recherche, à l’éducation et à la pratique en nutrition.",
-            "Les listes de prix peuvent indiquer des leaders émergents et des priorités dans le domaine."
+            "Les prix couvrent des domaines variés de la science et de la pratique nutritionnelle.",
+            "Les lauréats peuvent signaler des domaines d’intérêt et d’investissement croissants dans le secteur.",
+            "La reconnaissance aide à traduire les avancées de la recherche en contextes éducatifs et cliniques."
           ]
         },
         "de": {
-          "title": "ASN ehrt Forschende und Kliniker, die die Ernährungswissenschaft voranbringen",
-          "summary": "Die American Society for Nutrition zeichnete herausragende Wissenschaftler, Kliniker und Wissenschaftlerinnen aus, deren Arbeit zur Ernährungsforschung, -ausbildung und -praxis beigetragen hat. Die Bekanntgabe hebt die Preisträger und ihre Rollen bei der Weiterentwicklung des Feldes hervor.",
-          "whyItMatters": "Gewürdigte Forschende spiegeln aktive Fortschritte in der Ernährungswissenschaft wider und können auf aufkommende Prioritäten und Führungspersönlichkeiten hinweisen, die künftige Forschung und Politik prägen.",
+          "title": "American Society for Nutrition ehrt Preisträgerinnen und Preisträger 2026",
+          "summary": "Die ASN und ihre Stiftung haben Wissenschaftler, Klinikfachkräfte und Wissenschaftlerinnen für Beiträge ausgezeichnet, die Forschung, Ausbildung und Praxis in der Ernährungswissenschaft voranbringen, und hoben ein breites Spektrum von Arbeiten in Grundlagen- und angewandter Ernährung hervor.",
+          "whyItMatters": "Jährliche Auszeichnungen rücken aufstrebende und etablierte Führungskräfte ins Rampenlicht und geben Einblick in Forschungsprioritäten und Innovationen, die das Fachgebiet Ernährung prägen.",
           "takeaways": [
-            "Die ASN hat ihre Preisträger für 2026 in Forschungs‑ und klinischen Kategorien bekanntgegeben.",
-            "Die Geehrten wurden für Beiträge zur Ernährungsforschung, -ausbildung und -praxis anerkannt.",
-            "Preisträgerlisten können aufstrebende Führungskräfte und Prioritäten im Feld anzeigen."
+            "Die Preise decken vielfältige Bereiche der Ernährungswissenschaft und -praxis ab.",
+            "Die Geehrten können wachsende Interessensgebiete und Investitionsschwerpunkte im Feld signalisieren.",
+            "Anerkennung trägt dazu bei, Forschungsergebnisse in Bildungs- und Klinikkontexte zu übertragen."
           ]
         },
         "pt-br": {
-          "title": "ASN homenageia pesquisadores e clínicos que avançam a ciência da nutrição",
-          "summary": "A American Society for Nutrition reconheceu cientistas, clínicos e acadêmicos de destaque cujo trabalho contribuiu para a pesquisa, educação e prática em nutrição. O anúncio destaca os premiados e seus papéis no avanço da área.",
-          "whyItMatters": "Pesquisadores premiados refletem áreas de progresso ativo na ciência da nutrição e podem apontar prioridades emergentes e líderes que moldarão pesquisas e políticas futuras.",
+          "title": "American Society for Nutrition homenageia premiados de 2026",
+          "summary": "A ASN e sua fundação reconheceram cientistas, clínicos e acadêmicos por contribuições que avançam a pesquisa, a educação e a prática em nutrição, destacando uma variedade de trabalhos que vão da ciência básica à nutrição aplicada.",
+          "whyItMatters": "Prêmios anuais destacam líderes emergentes e estabelecidos, oferecendo insights sobre prioridades de pesquisa e inovações que moldam o campo da nutrição.",
           "takeaways": [
-            "A ASN anunciou seus recipientes de prêmios de 2026 em categorias de pesquisa e clínicas.",
-            "Os homenageados foram reconhecidos por contribuições à pesquisa, educação e prática em nutrição.",
-            "Listas de premiados podem indicar líderes e prioridades emergentes no campo."
+            "Os prêmios abrangem diversas áreas da ciência e prática nutricional.",
+            "Os homenageados podem sinalizar áreas de interesse e investimento em crescimento no campo.",
+            "O reconhecimento ajuda a traduzir avanços de pesquisa em contextos educacionais e clínicos."
           ]
         },
         "hu": {
-          "title": "ASN elismeri a táplálkozástudományt előmozdító kutatókat és klinikusokat",
-          "summary": "Az American Society for Nutrition elismerte kiemelkedő tudósokat, klinikusokat és kutatókat, akik munkájukkal hozzájárultak a táplálkozáskutatáshoz, oktatáshoz és gyakorlathoz. A közlemény kiemeli a díjazottakat és szerepüket a terület előmozdításában.",
-          "whyItMatters": "A díjazott kutatók és szakemberek a táplálkozástudomány aktív előrehaladásának területeit tükrözik, és jelezhetik azokat a prioritásokat és vezetőket, akik alakítják a jövőbeli kutatásokat és politikát.",
+          "title": "Az American Society for Nutrition elismeri a 2026-os díjazottakat",
+          "summary": "Az ASN és alapítványa tudósokat, klinikusokat és kutatókat ismertek el a táplálkozástudomány, a képzés és a gyakorlat előmozdításáért tett hozzájárulásaikért, kiemelve a tudomány alap- és alkalmazott területeit.",
+          "whyItMatters": "Az éves díjak rávilágítanak a feltörekvő és elismert vezetőkre, betekintést adva azokra a kutatási prioritásokra és innovációkra, amelyek alakítják a táplálkozás területét.",
           "takeaways": [
-            "Az ASN kihirdette 2026-os díjazottjait kutatási és klinikai kategóriákban.",
-            "A díjazottakat a táplálkozáskutatáshoz, oktatáshoz és gyakorlathoz való hozzájárulásukért ismerték el.",
-            "A díjak listája jelezheti a terület fejlődési irányait és feltörekvő vezetőit."
+            "A díjak a táplálkozástudomány és a gyakorlat sokféle területét lefedik.",
+            "A díjazottak jelezhetnek növekvő érdeklődési és befektetési irányokat a szakterületen.",
+            "Az elismerés segíthet a kutatási eredmények oktatási és klinikai környezetbe való átültetésében."
           ]
         },
         "ar": {
-          "title": "الجمعية الأمريكية للتغذية تكرّم الباحثين والأطباء الرائدين في علم التغذية",
-          "summary": "قامت الجمعية الأمريكية للتغذية بتكريم علماء وأطباء وباحثين متميزين ساهمت أعمالهم في أبحاث التغذية والتعليم والممارسة المهنية. يبرز الإعلان الفائزين وأدوارهم في تعزيز المجال.",
-          "whyItMatters": "يعكس الباحثون المكرّمون مجالات تقدم نشطة في علم التغذية، وقد يشيرون إلى الأولويات الصاعدة والقادة الذين يشكلون اتجاهات البحث والسياسة المستقبلية.",
+          "title": "الجمعية الأمريكية للتغذية تكرم الفائزين بجوائز 2026",
+          "summary": "كرمت جمعية التغذية الأمريكية (ASN) ومؤسستها علماء وأطباء وباحثين لمساهماتهم في تقدم أبحاث التغذية والتعليم والممارسة، مُبرِزة مجموعة من الأعمال عبر العلوم الأساسية والتغذية التطبيقية.",
+          "whyItMatters": "تسلط الجوائز السنوية الضوء على القادة الناشئين والمقيمين، وتقدم لمحة عن أولويات البحث والابتكارات التي تشكل مجال التغذية.",
           "takeaways": [
-            "أعلنت الجمعية الأمريكية للتغذية عن حاملي جوائز 2026 في فئات البحث والسريرية.",
-            "تم تكريم الفائزين لمساهماتهم في أبحاث التغذية والتعليم والممارسة المهنية.",
-            "قوائم الجوائز يمكن أن تشير إلى قادة وأولويات ناشئة في المجال."
+            "تغطي الجوائز مجالات متنوعة من علوم وممارسات التغذية.",
+            "يمكن أن يشير تكريم الفائزين إلى مجالات اهتمام واستثمار متنامية في المجال.",
+            "يساعد التكريم على نقل تقدمات البحث إلى السياقات التعليمية والسريرية."
           ]
         }
       },
-      "generatedAt": "2026-08-25T06:40:11.068Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionorg-asn-awards-20260820",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-asn-awards-20260820-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-asn-awards-20260820-news.webp",
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article8-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ASN honors researchers and clinicians advancing nutrition science.\nStory summary: The American Society for Nutrition recognized outstanding scientists, clinicians and scholars whose work has contributed to nutrition research, education and practice. The announcement highlights the awardees and their roles in advancing the field..\nCategory: Nutrition / Community.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: American Society for Nutrition honors 2026 awardees.\nStory summary: The ASN and its foundation recognized scientists, clinicians, and scholars for contributions that advance nutrition research, education, and practice, highlighting a range of work across basic science and applied nutrition..\nCategory: professional recognition & research trends.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a10",
@@ -72550,123 +73067,378 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO responds to U.S. notification of withdrawal, flags risks to global health cooperation.\nStory summary: WHO expressed regret over the United States' notification of withdrawal and noted that the decision raises issues related to global health security; the matter was slated for consideration by WHO governing bodies. The statement frames the withdrawal as having potential implications for shared health action and emergency response..\nCategory: global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a5",
-      "category": "Nutrition Policy",
+      "id": "article9",
+      "category": "dietary guidelines",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "2025–2030 Dietary Guidelines emphasize whole foods and limit added sugars",
-          "summary": "The updated Dietary Guidelines for Americans stress eating minimally processed foods and place a stronger emphasis on limiting added sugars and ultra‑processed items. A new visual elevates foods like red meat and full‑fat dairy, but the numeric saturated fat cap of 10% of calories remains part of the guidance.",
-          "whyItMatters": "The DGAs influence public nutrition messaging, clinical counseling, and policy; understanding both the visual messaging and the retained nutrient limits helps interpret the recommendations correctly.",
+          "title": "2025–2030 Dietary Guidelines emphasize 'real food' while retaining saturated fat limit",
+          "summary": "The updated Dietary Guidelines for Americans promote eating 'real food,' put stronger emphasis on limiting added sugars and highly processed foods, and include a prominent visual that highlights a range of foods. Despite visuals featuring items like steak and full-fat dairy, the Guidelines maintain an upper limit of 10% of calories from saturated fat.",
+          "whyItMatters": "The Guidelines influence public nutrition messaging, food policy, and institutional feeding programs; shifts in emphasis can affect consumer choices and industry practices.",
           "takeaways": [
-            "Guidelines strengthen recommendations to limit added sugars and highly processed foods.",
-            "A new graphic highlights some animal foods more prominently, yet saturated fat limits persist.",
-            "Focus remains on overall dietary patterns rather than single foods alone.",
-            "The update will shape public health campaigns and industry responses."
+            "Stronger stance on added sugars and processed foods is a prominent change. ",
+            "Visual presentation may affect public perception but does not replace the numeric saturated fat recommendation. ",
+            "Guidelines inform policy and program decisions but are one input among many for individual dietary choices."
           ]
         },
         "es": {
-          "title": "Las Guías Alimentarias 2025–2030 enfatizan alimentos integrales y limitan azúcares añadidos",
-          "summary": "Las actualizadas Guías Alimentarias para los Estadounidenses enfatizan comer alimentos mínimamente procesados y ponen mayor énfasis en limitar azúcares añadidos y artículos ultraprocesados. Un nuevo gráfico destaca alimentos como la carne roja y los lácteos enteros, pero el límite numérico de grasas saturadas del 10% de las calorías permanece en la orientación.",
-          "whyItMatters": "Las guías influyen en los mensajes públicos sobre nutrición, el asesoramiento clínico y la política; entender tanto el mensaje visual como los límites de nutrientes conservados ayuda a interpretar correctamente las recomendaciones.",
+          "title": "Las Guías Alimentarias 2025–2030 enfatizan 'alimentos reales' pero mantienen límite para grasas saturadas",
+          "summary": "Las actualizadas Dietary Guidelines for Americans promueven consumir 'alimentos reales', ponen mayor énfasis en limitar azúcares añadidos y alimentos altamente procesados, e incluyen una representación visual destacando una variedad de alimentos. A pesar de que las imágenes muestran elementos como carne de res y lácteos enteros, las Guías mantienen un límite superior de 10 % de las calorías provenientes de grasas saturadas.",
+          "whyItMatters": "Las Guías influyen en los mensajes públicos sobre nutrición, en políticas alimentarias y en programas institucionales; los cambios de énfasis pueden afectar las elecciones de los consumidores y las prácticas de la industria.",
           "takeaways": [
-            "Las guías refuerzan la recomendación de limitar azúcares añadidos y alimentos altamente procesados.",
-            "Un nuevo gráfico resalta algunos alimentos de origen animal, sin embargo persisten los límites sobre grasas saturadas.",
-            "El enfoque sigue siendo en patrones dietéticos generales más que en alimentos aislados.",
-            "La actualización moldeará campañas de salud pública y la respuesta de la industria."
+            "Un cambio destacado es una postura más firme sobre azúcares añadidos y alimentos procesados.",
+            "La presentación visual puede influir en la percepción pública, pero no reemplaza la recomendación numérica sobre grasas saturadas.",
+            "Las Guías informan decisiones de política y programas, pero son uno de varios insumos para las elecciones dietéticas individuales."
           ]
         },
         "ru": {
-          "title": "Диетические рекомендации 2025–2030 подчёркивают цельные продукты и ограничение добавленного сахара",
-          "summary": "Обновлённые Диетические рекомендации для американцев акцентируют внимание на употреблении минимально обработанных продуктов и сильнее подчёркивают необходимость ограничения добавленного сахара и ультраобработанных продуктов. Новый визуальный материал выделяет такие продукты, как красное мясо и цельномолочные продукты, но числовой предел по насыщенным жирам в 10% от калорий остаётся в рекомендациях.",
-          "whyItMatters": "Рекомендации влияют на публичные послания о питании, клинические консультации и политику; понимание и визуального посыла, и сохранённых нутриентных лимитов помогает правильно интерпретировать рекомендации.",
+          "title": "Диетические рекомендации на 2025–2030 гг. подчёркивают «настоящую еду», но сохраняют ограничение по насыщенным жирам",
+          "summary": "Обновлённые Dietary Guidelines for Americans продвигают идею потребления «настоящей еды», усиливают акцент на ограничении добавленных сахаров и сильно переработанных продуктов и включают заметное визуальное представление, показывающее разнообразие продуктов. Несмотря на изображения с такими элементами, как стейк и цельномолочные продукты, рекомендации сохраняют верхний предел — 10 % калорий из насыщенных жиров.",
+          "whyItMatters": "Эти рекомендации влияют на общественные сообщения по питанию, продовольственную политику и институциональное питание; изменения в акцентах могут повлиять на выбор потребителей и практики отрасли.",
           "takeaways": [
-            "Рекомендации усиливают призыв ограничивать добавленный сахар и сильно обработанные продукты.",
-            "Новый график выделяет некоторые животные продукты, однако лимиты по насыщенным жирам сохраняются.",
-            "Фокус остаётся на общих диетических паттернах, а не на отдельных продуктах.",
-            "Обновление повлияет на кампании общественного здравоохранения и реакцию отрасли."
+            "Одним из заметных изменений является более жёсткая позиция по добавленным сахарам и переработанным продуктам.",
+            "Визуальное оформление может влиять на восприятие публики, но не заменяет числовую рекомендацию по насыщенным жирам.",
+            "Рекомендации служат ориентиром для политики и программ, но являются лишь одним из факторов при индивидуальном выборе питания."
           ]
         },
         "uk": {
-          "title": "Порівняно 2025–2030 рекомендації з харчування: акцент на цілісних продуктах та обмеженні доданого цукру",
-          "summary": "Оновлені Дієтичні рекомендації для американців підкреслюють споживання мінімально оброблених продуктів і посилюють акцент на обмеженні доданого цукру та ультраоброблених продуктів. Нова візуалізація більш помітно виділяє такі продукти, як червоне м’ясо та повножирні молочні вироби, але чисельний ліміт насичених жирів у 10% калорій залишається.",
-          "whyItMatters": "Дієтичні рекомендації впливають на громадське харчове повідомлення, клінічне консультування та політику; розуміння як візуальних меседжів, так і збережених лімітів поживних речовин допомагає правильно інтерпретувати рекомендації.",
+          "title": "Дорадчі харчові рекомендації США 2025–2030 підкреслюють «реальні продукти», але зберігають ліміт насичених жирів",
+          "summary": "Оновлені Dietary Guidelines for Americans рекомендують споживати «реальні продукти», сильніше наголошують на обмеженні доданих цукрів та високо оброблених продуктів, і містять помітну візуалізацію, що демонструє різноманіття продуктів. Незважаючи на зображення, де є такі продукти, як стейк і цільномолочні вироби, у керівництві збережено верхню межу — 10% калорій з насичених жирів.",
+          "whyItMatters": "Ці настанови впливають на повідомлення з харчування, продовольчу політику та програми харчування в установах; зміни в акцентах можуть позначитися на виборі споживачів і практиках промисловості.",
           "takeaways": [
-            "Рекомендації посилюють обмеження доданого цукру та сильно перероблених продуктів.",
-            "Нова графіка виділяє деякі тваринні продукти, проте обмеження насичених жирів залишаються в силі.",
-            "Фокус залишається на загальних харчових моделях, а не на окремих продуктах.",
-            "Оновлення вплине на кампанії громадського здоров’я та реакцію індустрії."
+            "Сильніший акцент на доданих цукрах і оброблених продуктах є помітною зміною.",
+            "Візуальна презентація може вплинути на сприйняття населення, але не замінює числову рекомендацію щодо насичених жирів.",
+            "Керівництва інформують політику та програмні рішення, але є лише одним із багатьох чинників при виборі індивідуальної дієти."
           ]
         },
         "fr": {
-          "title": "Les recommandations alimentaires 2025–2030 mettent l’accent sur les aliments peu transformés et limitent les sucres ajoutés",
-          "summary": "Les nouvelles Dietary Guidelines for Americans insistent sur la consommation d’aliments peu transformés et renforcent l’accent sur la limitation des sucres ajoutés et des aliments ultra‑transformés. Une nouvelle illustration met davantage en évidence des aliments comme la viande rouge et les produits laitiers entiers, mais le plafond numérique des graisses saturées à 10 % des calories est maintenu.",
-          "whyItMatters": "Les DGAs influencent la communication publique sur l’alimentation, le conseil clinique et les politiques ; comprendre à la fois le message visuel et les limites nutritionnelles conservées aide à interpréter correctement les recommandations.",
+          "title": "Les Dietary Guidelines 2025–2030 insistent sur les « vrais aliments » tout en conservant une limite pour les graisses saturées",
+          "summary": "Les Dietary Guidelines for Americans mises à jour encouragent la consommation de « vrais aliments », insistent davantage sur la limitation des sucres ajoutés et des aliments fortement transformés, et incluent un visuel proéminent montrant une gamme d’aliments. Malgré la présence d’images représentant des aliments tels que le steak et les produits laitiers entiers, les directives maintiennent une limite supérieure de 10 % des calories provenant des graisses saturées.",
+          "whyItMatters": "Ces directives influencent les messages de santé publique en matière d’alimentation, la politique alimentaire et les programmes institutionnels ; les changements d’accent peuvent affecter les choix des consommateurs et les pratiques de l’industrie.",
           "takeaways": [
-            "Les recommandations renforcent la limitation des sucres ajoutés et des aliments fortement transformés.",
-            "Un nouveau graphique met en avant certains aliments d’origine animale, cependant les limites sur les graisses saturées persistent.",
-            "L’accent reste mis sur les modèles alimentaires globaux plutôt que sur des aliments isolés.",
-            "La mise à jour orientera les campagnes de santé publique et les réponses de l’industrie."
+            "Une prise de position plus ferme sur les sucres ajoutés et les aliments transformés est un changement marquant.",
+            "La présentation visuelle peut influencer la perception du public mais ne remplace pas la recommandation chiffrée sur les graisses saturées.",
+            "Les directives informent les décisions politiques et programmatiques, mais ne sont qu’un élément parmi d’autres dans les choix alimentaires individuels."
           ]
         },
         "de": {
-          "title": "Ernährungsleitlinien 2025–2030 betonen Vollwertkost und begrenzen zugesetzten Zucker",
-          "summary": "Die aktualisierten Dietary Guidelines for Americans betonen den Verzehr möglichst unverarbeiteter Lebensmittel und legen stärkeren Fokus auf die Begrenzung zugesetzter Zucker und ultraverarbeiteter Produkte. Eine neue Grafik rückt Lebensmittel wie rotes Fleisch und vollfette Milchprodukte prominenter ins Bild, während die numerische Grenze für gesättigte Fettsäuren von 10 % der Kalorien weiterhin Teil der Empfehlungen ist.",
-          "whyItMatters": "Die DGAs beeinflussen öffentliche Ernährungskommunikation, klinische Beratung und Politik; das Verständnis sowohl der bildlichen Botschaften als auch der beibehaltenen Nährstoffgrenzen hilft, die Empfehlungen korrekt zu interpretieren.",
+          "title": "Diätleitlinien 2025–2030 betonen 'echte Lebensmittel' und behalten Obergrenze für gesättigte Fettsäuren bei",
+          "summary": "Die aktualisierten Dietary Guidelines for Americans fördern den Verzehr von 'echten Lebensmitteln', legen stärkeren Fokus auf die Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel und enthalten eine prominente Grafik, die eine Bandbreite von Lebensmitteln zeigt. Trotz Darstellungen, die etwa Steak und Vollfettmilchprodukte zeigen, behalten die Leitlinien eine Obergrenze von 10% der Kalorien aus gesättigten Fettsäuren bei.",
+          "whyItMatters": "Die Leitlinien beeinflussen öffentliche Ernährungsbotschaften, Lebensmittelpolitik und institutionelle Verpflegungsprogramme; Verschiebungen in der Gewichtung können Verbraucherentscheidungen und Branchenpraktiken beeinflussen.",
           "takeaways": [
-            "Die Leitlinien verschärfen Empfehlungen zur Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel.",
-            "Eine neue Grafik hebt einige tierische Lebensmittel stärker hervor, doch die Obergrenze für gesättigte Fette bleibt bestehen.",
-            "Der Fokus liegt weiterhin auf gesamtheitlichen Ernährungsverhalten statt auf einzelnen Lebensmitteln.",
-            "Das Update wird öffentliche Gesundheitskampagnen und Reaktionen der Industrie beeinflussen."
+            "Eine stärkere Position gegenüber zugesetztem Zucker und verarbeiteten Lebensmitteln ist eine auffällige Änderung.",
+            "Die visuelle Darstellung kann die öffentliche Wahrnehmung beeinflussen, ersetzt aber nicht die numerische Empfehlung zur gesättigten Fettzufuhr.",
+            "Die Leitlinien informieren Politik und Programme, sind jedoch nur ein Input unter vielen für individuelle Ernährungsentscheidungen."
           ]
         },
         "pt-br": {
-          "title": "Diretrizes Alimentares 2025–2030 enfatizam alimentos integrais e limitam açúcares adicionados",
-          "summary": "As Diretrizes Alimentares dos EUA atualizadas enfatizam o consumo de alimentos minimamente processados e colocam maior foco em limitar açúcares adicionados e itens ultraprocessados. Um novo gráfico destaca alimentos como carne vermelha e laticínios integrais, mas o limite numérico para gorduras saturadas de 10% das calorias permanece nas recomendações.",
-          "whyItMatters": "As DGAs influenciam a comunicação pública sobre nutrição, aconselhamento clínico e políticas; entender tanto a mensagem visual quanto os limites nutricionais mantidos ajuda a interpretar corretamente as recomendações.",
+          "title": "Diretrizes Alimentares 2025–2030 enfatizam 'comida de verdade' ao mesmo tempo em que mantêm limite para gordura saturada",
+          "summary": "As atualizadas Dietary Guidelines for Americans promovem o consumo de 'comida de verdade', colocam ênfase maior em limitar açúcares adicionados e alimentos altamente processados, e incluem um destaque visual que mostra uma variedade de alimentos. Apesar das ilustrações incluírem itens como bife e laticínios integrais, as Diretrizes mantêm um limite superior de 10% das calorias provenientes de gordura saturada.",
+          "whyItMatters": "As Diretrizes influenciam mensagens públicas sobre nutrição, políticas alimentares e programas institucionais de alimentação; mudanças de ênfase podem afetar escolhas dos consumidores e práticas da indústria.",
           "takeaways": [
-            "As diretrizes reforçam recomendações para limitar açúcares adicionados e alimentos altamente processados.",
-            "Um novo gráfico dá maior destaque a alguns alimentos de origem animal, porém o limite para gorduras saturadas persiste.",
-            "O foco continua em padrões alimentares globais, não em alimentos isolados.",
-            "A atualização influenciará campanhas de saúde pública e respostas da indústria."
+            "Uma posição mais firme sobre açúcares adicionados e alimentos processados é uma mudança proeminente.",
+            "A apresentação visual pode afetar a percepção pública, mas não substitui a recomendação numérica sobre gordura saturada.",
+            "As diretrizes orientam políticas e programas, mas são apenas um entre vários insumos para escolhas alimentares individuais."
           ]
         },
         "hu": {
-          "title": "A 2025–2030-as étrendi irányelvek a teljes értékű ételeket hangsúlyozzák és korlátozzák a hozzáadott cukrokat",
-          "summary": "A frissített Dietary Guidelines for Americans a minimálisan feldolgozott élelmiszerek fogyasztását ösztönzi, és erőteljesebben hangsúlyozza a hozzáadott cukrok és az ultrafeldolgozott termékek korlátozását. Egy új vizuális ábra bizonyos ételeket, például a vörös húst és a teljes zsírtartalmú tejtermékeket kiemel, miközben a telített zsírok számszerű korlátja — a kalóriák 10%-a — továbbra is része az iránymutatásnak.",
-          "whyItMatters": "A DGÁk befolyásolják a közegészségügyi üzeneteket, a klinikai tanácsadást és a politikát; a vizuális üzenet és a megőrzött tápanyagmértékek együttes értelmezése segít a ajánlások pontos megértésében.",
+          "title": "A 2025–2030-as Dietary Guidelines hangsúlyozza a „valódi élelmiszert”, miközben megtartja a telített zsír felső határát",
+          "summary": "Az újonnan frissített Dietary Guidelines for Americans a „valódi élelmiszer” fogyasztását népszerűsíti, erősebben hangsúlyozza az hozzáadott cukrok és a nagymértékben feldolgozott élelmiszerek korlátozását, és kiemel egy vizuális ábrát, amely számos élelmiszert mutat be. Bár a képi megjelenítés tartalmaz olyan ételeket, mint a steak és a teljes zsírtartalmú tejtermékek, a részletes iránymutatás továbbra is felső korlátként a kalóriák 10%-ában határozza meg a telített zsír bevitelt.",
+          "whyItMatters": "Az irányelvek befolyásolják a közegészségügyi üzeneteket, az élelmiszer-politikát és az intézményi étkeztetési programokat; a hangsúlyok eltolódása hatással lehet a fogyasztói választásokra és az ipari gyakorlatokra.",
           "takeaways": [
-            "Az irányelvek erősítik a hozzáadott cukrok és a nagyfokú feldolgozású élelmiszerek korlátozására vonatkozó ajánlásokat.",
-            "Egy új grafika bizonyos állati eredetű ételeket hangsúlyosabbá tesz, ugyanakkor a telített zsírokra vonatkozó korlát megmaradt.",
-            "A hangsúly továbbra is az egész étrendi mintázatokon van, nem egyetlen élelmiszeren.",
-            "A frissítés alakítja a közegészségügyi kampányokat és az ipari válaszokat."
+            "Az hozzáadott cukrokra és a feldolgozott ételekre gyakorolt erősebb állásfoglalás kiemelt változás.",
+            "A vizuális bemutatás befolyásolhatja a közvélemény észlelését, de nem helyettesíti a numerikus telített zsír ajánlást.",
+            "Az irányelvek befolyásolják a politikai és programozási döntéseket, de csak egy bemenetet jelentenek az egyéni étrendi választásokhoz."
           ]
         },
         "ar": {
-          "title": "إرشادات النظام الغذائي الأمريكية 2025–2030 تؤكد على الأطعمة كاملة القيمة وتحد من السكريات المضافة",
-          "summary": "تشدد الإرشادات المحدثة على تناول الأطعمة قليلة المعالجة وتولي اهتمامًا أكبر لتقييد السكريات المضافة والمنتجات فائقة المعالجة. تبرز صورة جديدة بعض الأطعمة الحيوانية مثل اللحوم الحمراء ومنتجات الألبان كاملة الدسم، لكن حدًا رقميًا للدهون المشبعة بنسبة 10% من السعرات الحرارية يبقى جزءًا من التوجيه.",
-          "whyItMatters": "تؤثر إرشادات النظام الغذائي على الرسائل العامة للتغذية والإرشاد السريري والسياسات؛ لذا يساعد فهم كل من الرسالة البصرية والحدود المغذِّية المحفوظة على تفسير التوصيات بصورة صحيحة.",
+          "title": "إرشادات النظام الغذائي للأمريكيين 2025–2030 تؤكد على «الطعام الحقيقي» مع الحفاظ على حد أعلى للدهون المشبعة",
+          "summary": "تروّج الإرشادات المحدثة للأمريكيين لتناول «الطعام الحقيقي»، وتضع تركيزًا أقوى على الحد من السكريات المضافة والأطعمة عالية المعالجة، وتتضمن عرضًا بصريًا بارزًا يُبرز مجموعة من الأطعمة. وعلى الرغم من أن الصور قد تُظهر عناصر مثل الستيك ومنتجات الألبان كاملة الدسم، فإن الإرشادات تحتفظ بحد أعلى لنسبة السعرات الحرارية من الدهون المشبعة وهو 10%.",
+          "whyItMatters": "تؤثر الإرشادات على الرسائل العامة المتعلقة بالتغذية، وسياسات الغذاء، وبرامج الوجبات المؤسسية؛ وقد تؤثر تغييرات الأولويات على اختيارات المستهلكين وممارسات الصناعة.",
           "takeaways": [
-            "تشدّد الإرشادات على تقييد السكريات المضافة والأطعمة شديدة المعالجة.",
-            "تُبرز صورة جديدة بعض الأطعمة الحيوانية بشكل أوضح، ومع ذلك تبقى قيود الدهون المشبعة سارية.",
-            "التركيز لا يزال على أنماط الأكل العامة بدلًا من طعام واحد فقط.",
-            "سيؤثر التحديث على حملات الصحة العامة واستجابات القطاع الصناعي."
+            "موقف أقوى تجاه السكريات المضافة والأطعمة المعالجة هو تغيير بارز.",
+            "قد يؤثر العرض البصري على تصورات الجمهور لكنه لا يحل محل التوصية العددية بالنسبة للدهون المشبعة.",
+            "الإرشادات توجه السياسات والقرارات البرامجية لكنها تشكل مجرد مدخل من عدة مداخل للاختيارات الغذائية الفردية."
           ]
         }
       },
-      "generatedAt": "2026-08-27T09:35:50.587Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a5",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article9-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize whole foods and limit added sugars.\nStory summary: The updated Dietary Guidelines for Americans stress eating minimally processed foods and place a stronger emphasis on limiting added sugars and ultra‑processed items. A new visual elevates foods like red meat and full‑fat dairy, but the numeric saturated fat cap of 10% of calories remains part of the guidance..\nCategory: Nutrition Policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize 'real food' while retaining saturated fat limit.\nStory summary: The updated Dietary Guidelines for Americans promote eating 'real food,' put stronger emphasis on limiting added sugars and highly processed foods, and include a prominent visual that highlights a range of foods. Despite visuals featuring items like steak and full-fat dairy, the Guidelines maintain an upper limit of 10% of calories from saturated fat..\nCategory: dietary guidelines.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-08-28-motivation-1-story-1",
+      "category": "planning",
+      "languages": {
+        "en": {
+          "title": "Ana's 10-Minute Breakfast Plan",
+          "story": "Ana used to skip thinking about breakfast, then she started spending ten minutes the night before planning a simple meal and writing it down. In the morning she logs what she actually ate—sometimes the oatmeal, sometimes the toast. Over a few weeks she noticed patterns: which breakfasts kept her full longer and which left her hungry by mid-morning. Tracking helped Ana make small swaps that fit her routine, without pressure to be perfect. The habit became part of her morning rhythm, gentle and practical.",
+          "habit": "Plan and log breakfast the night before.",
+          "appCta": "Open Calorie Bank Credit and track your breakfast today."
+        },
+        "es": {
+          "title": "El plan de desayuno de Ana",
+          "story": "Ana no solía pensar en el desayuno hasta que empezó a dedicar diez minutos la noche anterior a planear una comida sencilla y anotarla. Por la mañana registra lo que realmente come: a veces avena, otras tostada. En pocas semanas observó patrones: qué desayunos la mantenían satisfecha más tiempo y cuáles la dejaban con hambre antes del almuerzo. Llevar el registro la ayudó a hacer pequeños cambios que encajaban en su rutina, sin buscar perfección. La costumbre se volvió parte de su mañana, suave y práctica.",
+          "habit": "Planea y registra el desayuno la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra tu desayuno hoy."
+        },
+        "ru": {
+          "title": "Утренний план Аны",
+          "story": "Раньше Ана не задумывалась о завтраке, пока не стала тратить десять минут вечером на планирование простой еды и запись. Утром она отмечает то, что съела — иногда овсянку, иногда тост. Через несколько недель она заметила закономерности: какие завтраки дольше утоляют голод, а какие — нет. Ведение записей помогло ей постепенно вводить небольшие замены, которые подошли к её распорядку, без давления. Привычка стала спокойной частью её утра.",
+          "habit": "Спланируй и запиши завтрак вечером.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Ранковий план Ани",
+          "story": "Раніше Аня якось не думала про сніданок, доки не почала витрачати десять хвилин ввечері на планування простої страви і запис. Вранці вона відмічає, що реально з’їла — іноді вівсянку, іноді тост. Через кілька тижнів помітила закономірності: які сніданки довше втамовують голод, а які ні. Ведення записів допомогло їй робити невеликі зміни, що вписалися в рутину, без тиску на себе. Привичка стала м’якою частиною ранку.",
+          "habit": "Сплануй і запиши сніданок ввечері.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні свій сніданок."
+        },
+        "fr": {
+          "title": "Le petit-déjeuner en 10 minutes d'Ana",
+          "story": "Ana ne réfléchissait pas à son petit-déjeuner jusqu'à ce qu'elle consacre dix minutes la veille à planifier un repas simple et à le noter. Le matin, elle enregistre ce qu'elle a vraiment mangé — parfois des flocons, parfois une tranche de pain. Au bout de quelques semaines, elle a vu des tendances : quels petits-déjeuners la tenaient en forme plus longtemps. Le suivi lui a permis d'ajuster doucement son choix, sans chercher la perfection. Cette habitude est devenue une routine matinale apaisante.",
+          "habit": "Planifiez et enregistrez le petit‑déjeuner la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre petit‑déjeuner aujourd'hui."
+        },
+        "de": {
+          "title": "Anas 10‑Minuten‑Frühstücksplan",
+          "story": "Ana dachte früher kaum über ihr Frühstück nach, bis sie abends zehn Minuten damit begann, eine einfache Mahlzeit zu planen und aufzuschreiben. Morgens trägt sie ein, was sie tatsächlich gegessen hat — mal Haferbrei, mal Toast. Nach einigen Wochen stellte sie Muster fest: welche Frühstücke länger satt halten und welche nicht. Das Protokollieren half ihr, kleine Veränderungen vorzunehmen, die in ihren Alltag passten, ohne Druck. Die Gewohnheit wurde zu einem ruhigen Teil ihres Morgens.",
+          "habit": "Plane und trage das Frühstück am Vorabend ein.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne dein Frühstück heute auf."
+        },
+        "pt-br": {
+          "title": "O plano de café da manhã da Ana",
+          "story": "Ana não costumava pensar no café da manhã até dedicar dez minutos na noite anterior para planejar uma refeição simples e anotar. De manhã, ela registra o que realmente comeu — às vezes aveia, às vezes pão. Em poucas semanas notou padrões: quais cafés da manhã a deixavam saciada por mais tempo. Registrar ajudou Ana a fazer pequenas trocas que funcionaram na rotina dela, sem pressão. O hábito virou parte tranquila da manhã.",
+          "habit": "Planeje e registre o café da manhã na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre seu café da manhã hoje."
+        },
+        "hu": {
+          "title": "Ana tízperces reggelije",
+          "story": "Ana korábban nem gondolt a reggelire, míg estére nem szánt tíz percet egy egyszerű étel megtervezésére és felírására. Reggel beírja, amit ténylegesen evett — néha zabkását, néha pirítóst. Néhány hét után észrevett mintákat: mely reggelik tartották jóllakottabbnak tovább. A naplózás segített apró módosításokat bevezetni, amelyek illeszkedtek a rutinjához, nyomás nélkül. A szokás nyugodt részévé vált a reggeleinek.",
+          "habit": "Tervezd meg és jegyezd fel a reggelit előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzítsd a reggelidet ma."
+        },
+        "ar": {
+          "title": "خطة إفطار آنا في 10 دقائق",
+          "story": "لم تكن آنا تفكر في إفطارها حتى بدأت تقضي عشر دقائق مساءً في تخطيط وجبة بسيطة وتدوينها. في الصباح تُسجّل ما تناولته بالفعل — أحيانًا شوفانًا، وأحيانًا توستًا. بعد أسابيع لاحظت أنماطًا: أيّ الإفطارات تُبقيها شبعانة أطول وأيّها لا. ساعدها التتبع على إجراء تغييرات صغيرة تناسب روتينها، دون ضغوط. أصبحت هذه العادة جزءًا هادئًا من صباحها.",
+          "habit": "خططي وسجّلي الإفطار في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل إفطارك اليوم."
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Ana's 10-Minute Breakfast Plan.\nStory: Ana used to skip thinking about breakfast, then she started spending ten minutes the night before planning a simple meal and writing it down. In the morning she logs what she actually ate—sometimes the oatmeal, sometimes the toast. Over a few weeks she noticed patterns: which breakfasts kept her full longer and which left her hungry by mid-morning. Tracking helped Ana make small swaps that fit her routine, without pressure to be perfect. The habit became part of her morning rhythm, gentle and practical..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-28-motivation-2-story-2",
+      "category": "honest-logging",
+      "languages": {
+        "en": {
+          "title": "Marcus and the Office Snack",
+          "story": "Marcus brought lunch from home most days but found himself grabbing office snacks he hadn't planned. Instead of ignoring those moments, he started jotting down each small bite — a handful of nuts, a cookie shared by a colleague — right after eating. Seeing the full picture helped him notice when stress or long meetings led to extra snacking. He didn’t judge himself; he used the info to add a mini break or prepare a different snack. Over time logging became a neutral way to learn what fits his workday.",
+          "habit": "Write down unplanned bites immediately.",
+          "appCta": "Open Calorie Bank Credit and log your snack today."
+        },
+        "es": {
+          "title": "El tentempié de oficina de Marcus",
+          "story": "Marcus llevaba almuerzo casi todos los días, pero a menudo picoteaba snacks de la oficina que no había planeado. En lugar de ignorarlo, empezó a anotar cada bocado — un puñado de frutos secos, una galleta compartida — justo después de comer. Verlo todo junto le ayudó a identificar cuándo el estrés o las reuniones largas desencadenaban más picoteos. Sin juzgarse, usó esa información para tomar pequeños descansos o llevar otro snack. Con el tiempo, registrar se volvió una forma imparcial de aprender su ritmo laboral.",
+          "habit": "Apunta los bocados no planificados al instante.",
+          "appCta": "Abre Calorie Bank Credit y registra tu snack hoy."
+        },
+        "ru": {
+          "title": "Перекус Маркуса в офисе",
+          "story": "Марк приносил обед из дома, но часто подхватывал офисные перекусы, которые не планировал. Вместо того чтобы закрывать на это глаза, он стал сразу записывать каждый кусочек — горсть орехов, печенье от коллеги. Взгляд на всю картину помог увидеть, когда стресс или долгие совещания приводят к лишним перекусам. Он не корил себя; информация помогла добавить короткие паузы или подготовить другой перекус. Со временем запись стала нейтральным способом понять свой рабочий ритм.",
+          "habit": "Записывай незапланированные перекусы сразу.",
+          "appCta": "Открой Calorie Bank Credit и зафиксируй перекус сегодня."
+        },
+        "uk": {
+          "title": "Офісний перекус Маркуса",
+          "story": "Маркус майже щодня приносив обід з дому, але часто підхоплював офісні снеки, яких не планував. Замість ігнорування, він почав записувати кожен шматочок — жменьку горіхів або печиво від колеги — одразу після їжі. Побачивши все разом, він зрозумів, коли стрес або довгі наради провокують додаткове перекушування. Він не судив себе; ці дані допомогли додати короткі паузи або підготувати інший снек. Згодом ведення записів стало нейтральним способом вивчити свій робочий день.",
+          "habit": "Записуй незаплановані перекуси одразу.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй свій перекус сьогодні."
+        },
+        "fr": {
+          "title": "La pause snack de Marcus",
+          "story": "Marcus amenait souvent son déjeuner, mais finissait par prendre des snacks au bureau qu'il n'avait pas prévus. Plutôt que d'ignorer ces moments, il a commencé à noter chaque petite bouchée — une poignée de noix, un biscuit partagé — juste après. Voir l'ensemble lui a permis d'identifier quand le stress ou les longues réunions déclenchaient des grignotages. Sans se blâmer, il a utilisé ces informations pour prévoir une courte pause ou un autre encas. Au fil du temps, le suivi est devenu un moyen serein de comprendre sa journée.",
+          "habit": "Notez les bouchées imprévues immédiatement.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre snack aujourd'hui."
+        },
+        "de": {
+          "title": "Marcus' Bürosnack",
+          "story": "Marcus brachte meistens sein Mittagessen von zu Hause mit, griff aber oft zu Bürosnacks, die er nicht eingeplant hatte. Statt das zu übersehen, begann er, jeden kleinen Bissen sofort aufzuschreiben — eine Handvoll Nüsse, ein Keks von einem Kollegen. Der Gesamtüberblick half ihm zu erkennen, wann Stress oder lange Meetings zu zusätzlichem Snacken führten. Er verurteilte sich nicht; die Informationen halfen ihm, kurze Pausen einzuplanen oder einen anderen Snack vorzubereiten. Mit der Zeit wurde das Notieren zu einer neutralen Lernhilfe.",
+          "habit": "Schreibe ungeplante Bissen sofort auf.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere deinen Snack heute."
+        },
+        "pt-br": {
+          "title": "O lanche no escritório do Marcus",
+          "story": "Marcus trazia almoço de casa a maioria dos dias, mas acabava pegando lanches do escritório que não planejava. Em vez de ignorar, ele passou a anotar cada pedaço — um punhado de castanhas, um biscoito dividido — logo após comer. Ver tudo junto ajudou a perceber quando o estresse ou reuniões longas davam início a beliscos extras. Sem se julgar, usou a informação para fazer pequenas pausas ou preparar outro lanche. Com o tempo, registrar virou uma forma neutra de entender seu dia de trabalho.",
+          "habit": "Anote os lanches não planejados na hora.",
+          "appCta": "Abra o Calorie Bank Credit e registre seu lanche hoje."
+        },
+        "hu": {
+          "title": "Marcus irodai nasi",
+          "story": "Marcus legtöbbször vitt ebédet otthonról, mégis előfordult, hogy irodai nasikat kapott el, amiket nem tervezett. Ahelyett, hogy figyelmen kívül hagyta volna, elkezdte azonnal feljegyezni az apró falatokat — egy marék diót, egy kollégától kapott sütit. A teljes kép segített felismerni, mikor vezet a stressz vagy a hosszú meeting plusz nassoláshoz. Nem ítélkezett magán; az adatok segítettek rövid szüneteket beiktatni vagy más rágcsálnivalót készíteni. Idővel a naplózás semleges tanulási eszközzé vált.",
+          "habit": "Jegyezd fel a nem tervezett falatokat azonnal.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzítsd a nasid ma."
+        },
+        "ar": {
+          "title": "سناك المكتب لماركوس",
+          "story": "ماركوس كان يحضر غداءه غالبًا من المنزل، لكنه كان يأكل أيّ سناك في المكتب لم يخطط له. بدلاً من تجاهل الأمر، بدأ يدوّن كل لقمة صغيرة — حفنة مكسرات أو بسكويت شاركه زميل — فور تناولها. رؤية الصورة الكاملة ساعدته على معرفة متى كان التوتر أو الاجتماعات الطويلة تدفعه لتناول المزيد. لم يحكم على نفسه؛ استخدم المعلومة لأخذ استراحة قصيرة أو تجهيز سناك مختلف. مع الوقت أصبح التتبع طريقة هادئة لفهم روتينه اليومي.",
+          "habit": "دوّن اللقيمات غير المخططة فورًا.",
+          "appCta": "افتح Calorie Bank Credit وسجّل سناكك اليوم."
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Marcus and the Office Snack.\nStory: Marcus brought lunch from home most days but found himself grabbing office snacks he hadn't planned. Instead of ignoring those moments, he started jotting down each small bite — a handful of nuts, a cookie shared by a colleague — right after eating. Seeing the full picture helped him notice when stress or long meetings led to extra snacking. He didn’t judge himself; he used the info to add a mini break or prepare a different snack. Over time logging became a neutral way to learn what fits his workday..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-28-motivation-3-story-3",
+      "category": "portion-awareness",
+      "languages": {
+        "en": {
+          "title": "Leila's Shared Dinner",
+          "story": "Leila often cooks family dinners that everyone helps themselves to. At first she found estimating portions tricky, so she began noting portion sizes and who served seconds. Instead of aiming for accuracy every time, she focused on spotting trends: nights with larger portions, more bread, or extra sauces. That insight let her make small adjustments—like offering bowls for serving or making a lighter sauce—so meals stayed enjoyable. Tracking taught Leila to be curious about habits, not critical, and to make simple changes that fit her family's taste.",
+          "habit": "Note portion sizes or seconds after dinner.",
+          "appCta": "Open Calorie Bank Credit and log your dinner today."
+        },
+        "es": {
+          "title": "La cena compartida de Leila",
+          "story": "Leila suele cocinar cenas familiares a las que todos se sirven. Al principio le costaba estimar las porciones, así que empezó a anotar el tamaño de las raciones y quién repetía. En lugar de buscar precisión absoluta, se concentró en detectar patrones: noches con porciones más grandes, más pan o salsas extra. Esa información le permitió ajustar cosas pequeñas — ofrecer cuencos para servir o preparar una salsa más ligera — y mantener la comida agradable. Registrar le enseñó a observar sin juzgar y a cambiar suavemente según su familia.",
+          "habit": "Anota las porciones o las repeticiones tras la cena.",
+          "appCta": "Abre Calorie Bank Credit y registra tu cena hoy."
+        },
+        "ru": {
+          "title": "Семейный ужин Лейлы",
+          "story": "Лейла часто готовит семейные ужины, и все берут себе. Сначала ей было трудно оценивать порции, поэтому она стала записывать размеры и кто добавлял себе ещё. Вместо стремления к абсолютной точности она искала закономерности: дни с большими порциями, больше хлеба или соусов. Это позволило ей внести небольшие изменения — подавать порционные миски или готовить более лёгкий соус — чтобы еда оставалась приятной. Ведение записей научило Лейлу интересоваться привычками, а не критиковать, и делать простые корректировки.",
+          "habit": "Записывай размеры порций или добавки после ужина.",
+          "appCta": "Открой Calorie Bank Credit и запиши свой ужин сегодня."
+        },
+        "uk": {
+          "title": "Спільна вечеря Лейли",
+          "story": "Лейла часто готує сімейні вечері, і кожен бере собі. Спочатку їй було складно оцінювати порції, тому вона почала нотувати розмір порцій та хто додавав добавку. Замість прагнення до ідеальної точності вона шукала закономірності: вечори з більшими порціями, більше хліба чи соусів. Це дозволило їй внести невеликі зміни — подавати в мисках чи готувати легший соус — щоб вечеря залишалася приємною. Ведення записів навчило Лейлу цікавитись звичками, а не критикувати, і робити прості коригування.",
+          "habit": "Записуй розмір порцій або добавки після вечері.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй свою вечерю сьогодні."
+        },
+        "fr": {
+          "title": "Le dîner partagé de Leila",
+          "story": "Leila prépare souvent des dîners familiaux où chacun se sert. Au début, elle avait du mal à estimer les portions, alors elle a pris l'habitude de noter les quantités et qui reprenait. Plutôt que de rechercher la précision parfaite, elle a observé les tendances : les soirs avec des portions plus grandes, plus de pain ou davantage de sauce. Ces observations lui ont permis de faire de petits ajustements — proposer des bols de service, alléger la sauce — tout en gardant le plaisir du repas. Le suivi lui a appris la curiosité plutôt que le jugement.",
+          "habit": "Notez les portions ou les secondes après le dîner.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre dîner aujourd'hui."
+        },
+        "de": {
+          "title": "Leilas gemeinsames Abendessen",
+          "story": "Leila kocht oft Familienessen, bei denen sich alle selbst bedienen. Anfangs fiel es ihr schwer, Portionen einzuschätzen, also begann sie, Portionsgrößen und wer nachnahm zu notieren. Statt auf absolute Genauigkeit zu pochen, achtete sie auf Muster: Abende mit größeren Portionen, mehr Brot oder zusätzlicher Sauce. Diese Erkenntnisse ermöglichten kleine Änderungen — Schüsseln zum Servieren anbieten oder eine leichtere Sauce zubereiten — sodass das Essen weiter genossen werden konnte. Das Protokollieren lehrte Leila, neugierig statt kritisch zu sein und einfache Anpassungen vorzunehmen.",
+          "habit": "Notiere Portionsgrößen oder Nachnahmen nach dem Abendessen.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere dein Abendessen heute."
+        },
+        "pt-br": {
+          "title": "O jantar compartilhado da Leila",
+          "story": "Leila costuma cozinhar jantares para a família, onde todos se servem. No começo achava difícil estimar porções, então começou a anotar tamanhos de porção e quem repetia. Em vez de buscar precisão absoluta, focou em perceber padrões: noites com porções maiores, mais pão ou molho extra. Essas percepções deixaram espaço para ajustes pequenos — oferecer tigelas para servir ou preparar um molho mais leve — sem perder o prazer da refeição. Registrar ensinou Leila a observar com curiosidade, não com crítica.",
+          "habit": "Anote tamanhos de porção ou repetidas após o jantar.",
+          "appCta": "Abra o Calorie Bank Credit e registre seu jantar hoje."
+        },
+        "hu": {
+          "title": "Leila közös vacsorája",
+          "story": "Leila gyakran főz családi vacsorákat, ahol mindenki szed magának. Eleinte nehéz volt számára belőni a adagokat, ezért elkezdte feljegyezni az adagok méretét és azt, ki kért még. Ahelyett, hogy mindig tökéletes pontosságra törekedett volna, inkább a mintákra figyelt: mely esték voltak bőségesebbek, több kenyérrel vagy mártással. Ezek az észrevételek apró változtatásokat tettek lehetővé — kis tálakat kínálni vagy könnyebb mártást készíteni — így a vacsora maradt élvezetes. A rögzítés kíváncsivá tette, nem kritikussá.",
+          "habit": "Jegyezd fel az adagok méretét vagy a ráadást vacsora után.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzítsd a vacsorádat ma."
+        },
+        "ar": {
+          "title": "عشاء ليلى المشترك",
+          "story": "غالبًا ما تطبخ ليلى عشاءً عائليًا يتناول فيه الجميع ما يشاء. في البداية كان من الصعب عليها تقدير الحصص، فبدأت بتدوين أحجام الحصص ومن أخذ كمية إضافية. بدلاً من السعي للدقة الكاملة، ركزت على ملاحظة الأنماط: الليالي ذات الحصص الأكبر، المزيد من الخبز أو الصلصات الإضافية. سمحت لها هذه الملاحظات بإجراء تعديلات بسيطة — مثل تقديم أوعية للتوزيع أو تحضير صلصة أخف — مع الحفاظ على متعة الوجبة. علّمها التتبع الفضول عن العادات بدلاً من النقد.",
+          "habit": "دوّن حجم الحصص أو الإضافات بعد العشاء.",
+          "appCta": "افتح Calorie Bank Credit وسجّل عشاءك اليوم."
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Leila's Shared Dinner.\nStory: Leila often cooks family dinners that everyone helps themselves to. At first she found estimating portions tricky, so she began noting portion sizes and who served seconds. Instead of aiming for accuracy every time, she focused on spotting trends: nights with larger portions, more bread, or extra sauces. That insight let her make small adjustments—like offering bowls for serving or making a lighter sauce—so meals stayed enjoyable. Tracking taught Leila to be curious about habits, not critical, and to make simple changes that fit her family's taste..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-28-motivation-4-story-4",
+      "category": "small-adjustments",
+      "languages": {
+        "en": {
+          "title": "Jonas' Weekend Treats",
+          "story": "Jonas enjoys weekend treats but noticed some days felt sluggish afterward. Instead of removing treats, he began tracking what and when he ate across weekends for a month. The records showed times and combinations that left him feeling better — like having a fruit alongside a pastry or spacing treats after a walk. Jonas didn’t aim for perfection; he used the pattern to try little tweaks that preserved what he loved while supporting how he wanted to feel. Tracking turned choices into experiments, not rules.",
+          "habit": "Log weekend treats and note how you feel afterward.",
+          "appCta": "Open Calorie Bank Credit and log a treat today."
+        },
+        "es": {
+          "title": "Los caprichos del fin de semana de Jonas",
+          "story": "A Jonas le gustan los caprichos de fin de semana, pero notó que algunos días se sentía pesado después. En lugar de quitarlos, empezó a registrar qué y cuándo comía durante los fines de semana durante un mes. Los registros mostraron combinaciones y momentos que le sentaban mejor — por ejemplo, fruta junto a un bollo o dejar el capricho para después de una caminata. Jonas no buscaba perfección; usó los patrones para probar pequeños ajustes que mantuvieran lo que disfrutaba y cómo quería sentirse. Registrar convirtió las decisiones en experimentos, no en reglas.",
+          "habit": "Registra tus caprichos del fin de semana y cómo te sientes.",
+          "appCta": "Abre Calorie Bank Credit y registra un capricho hoy."
+        },
+        "ru": {
+          "title": "Уикенд‑лакомства Йонаса",
+          "story": "Йонас любит уикенд‑лакомства, но заметил, что после некоторых дней чувствует вялость. Вместо того чтобы отказываться, он месяц записывал, что и когда ест по выходным. Записи показали сочетания и время, при которых он чувствовал себя лучше — например, фрукт вместе с пирожным или наслаждение угощением после прогулки. Йонас не стремился к идеалу; он использовал эти наблюдения, чтобы пробовать мелкие изменения, сохраняя любимое и улучшая самочувствие. Трекер превратил выборы в эксперименты, а не в правила.",
+          "habit": "Записывай уикенд‑лакомства и отмечай самочувствие после.",
+          "appCta": "Открой Calorie Bank Credit и запиши угощение сегодня."
+        },
+        "uk": {
+          "title": "Вихідні смаколики Йонаса",
+          "story": "Йонас любить вихідні смаколики, але помітив, що після деяких днів почувається млявим. Замість відмови він місяць записував що й коли їв у вихідні. Записи показали поєднання та час, за яких йому краще — наприклад, фрукти разом із булочкою або ласощі після прогулянки. Йонас не прагнув ідеалу; він використав ці спостереження, щоб спробувати невеликі зміни, зберігаючи улюблене й покращуючи самопочуття. Трекінг перетворив вибори на експерименти, а не на правила.",
+          "habit": "Записуй вихідні смаколики й відмічай самопочуття.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні свій смаколик."
+        },
+        "fr": {
+          "title": "Les plaisirs du week‑end de Jonas",
+          "story": "Jonas aime se faire plaisir le week‑end, mais il a remarqué qu'il se sentait parfois fatigué ensuite. Plutôt que de supprimer les plaisirs, il a commencé à noter ce qu'il mangeait et quand, pendant un mois. Les notes ont montré des combinaisons et des moments qui lui convenaient mieux — par exemple un fruit avec une viennoiserie ou attendre la friandise après une promenade. Jonas ne cherchait pas la perfection ; il a utilisé ces tendances pour essayer de petits ajustements qui préservent le plaisir tout en améliorant son bien‑être. Le suivi a transformé ses choix en expérimentations.",
+          "habit": "Enregistrez les plaisirs du week‑end et notez votre ressenti.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez une gourmandise aujourd'hui."
+        },
+        "de": {
+          "title": "Jonas' Wochenend‑Leckereien",
+          "story": "Jonas genießt Wochenend‑Leckereien, merkte aber, dass er sich danach manchmal schlapp fühlte. Statt sie wegzulassen begann er einen Monat lang aufzuschreiben, was und wann er am Wochenende aß. Die Aufzeichnungen zeigten Kombinationen und Zeiten, die ihm besser bekamen — zum Beispiel Obst neben einem Gebäck oder das Leckerli nach einem Spaziergang. Jonas strebte keine Perfektion an; er nutzte Muster, um kleine Anpassungen auszuprobieren, die sein Lieblingsessen bewahrten und zugleich sein Wohlbefinden unterstützten. Tracking machte Entscheidungen zu Experimenten statt zu Vorschriften.",
+          "habit": "Protokolliere Wochenend‑Leckereien und dein Befinden danach.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere heute eine Leckerei."
+        },
+        "pt-br": {
+          "title": "Os mimos de fim de semana do Jonas",
+          "story": "Jonas gosta de mimos no fim de semana, mas percebeu que alguns dias se sentia mais lento depois. Em vez de excluir os mimos, passou um mês anotando o que e quando comia nos fins de semana. Os registros mostraram combinações e horários que o faziam se sentir melhor — por exemplo, uma fruta junto com um doce ou deixar o mimo para depois de uma caminhada. Jonas não buscou perfeição; usou os padrões para testar pequenos ajustes que preservassem o que gostava e melhorassem como se sentia. Registrar virou experimento, não regra.",
+          "habit": "Registre mimos de fim de semana e como você se sente.",
+          "appCta": "Abra o Calorie Bank Credit e registre um mimo hoje."
+        },
+        "hu": {
+          "title": "Jonas hétvégi finomságai",
+          "story": "Jonas szeret néha hétvégén kényeztetni magát, de észrevette, hogy bizonyos napok után levertnek érzi magát. Ahelyett, hogy lemondott volna róluk, egy hónapig feljegyezte, mit és mikor eszik hétvégén. A feljegyzések megmutatták, mely kombinációk és időpontok tették jobban — például gyümölcs a péksütemény mellett, vagy a finomság elfogyasztása séta után. Jonas nem a tökéletességre törekedett; a mintákat kis módosítások kipróbálására használta, amelyek megőrizték a kedvet és javították a közérzetet. A rögzítés kísérletezéssé tette a döntéseket.",
+          "habit": "Jegyezd fel a hétvégi finomságokat és az utána érzett állapotot.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzíts egy finomságot ma."
+        },
+        "ar": {
+          "title": "مسليات عطلة الأسبوع ليوناس",
+          "story": "يوناس يستمتع بمسليات عطلة الأسبوع لكنه لاحظ أنه يشعر بالخمول أحيانًا بعدها. بدلًا من إزالتها، بدأ بتتبع ما ومتى يأكل خلال عطلات نهاية الأسبوع لمدة شهر. أظهرت السجلات أوقاتًا وتركيبات تجعله يشعر بتحسن — مثل تناول فاكهة مع معجنات أو تأخير المسلى إلى بعد المشي. لم يكن يسعى إلى الكمال؛ استغل الأنماط لتجربة تعديلات بسيطة تحافظ على ما يحب وتدعم شعوره. أصبح التتبع تجارب صغيرة بدلاً من قواعد صارمة.",
+          "habit": "سجّل مسليات عطلة الأسبوع ودوّن شعورك بعدها.",
+          "appCta": "افتح Calorie Bank Credit وسجّل مسلية اليوم."
+        }
+      },
+      "generatedAt": "2026-08-28T09:38:54.284Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-28-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Jonas' Weekend Treats.\nStory: Jonas enjoys weekend treats but noticed some days felt sluggish afterward. Instead of removing treats, he began tracking what and when he ate across weekends for a month. The records showed times and combinations that left him feeling better — like having a fruit alongside a pastry or spacing treats after a walk. Jonas didn’t aim for perfection; he used the pattern to try little tweaks that preserved what he loved while supporting how he wanted to feel. Tracking turned choices into experiments, not rules..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-08-27-motivation-1-s1",
       "category": "calorie_tracking",
