@@ -1,113 +1,934 @@
 {
-  "generatedAt": "2026-08-28T09:38:54.284Z",
+  "generatedAt": "2026-08-29T06:42:39.960Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "article10",
-      "category": "metabolic research",
+      "id": "decoding-neural-signals-cell-2026",
+      "category": "metabolic-health",
       "sourceName": "cell.com",
       "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00236-6?rss=yes",
       "sourceTitle": "Decoding neural signals to build metabolic therapies",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Researchers explore neural circuits as targets for metabolic therapies",
-          "summary": "Researchers discuss how central and peripheral neural pathways appear to mediate the effects of incretin-mimetic drugs and other emerging obesity treatments, outlining opportunities and challenges for translating neural insights into therapies that influence energy balance and metabolism.",
-          "whyItMatters": "Mapping neural targets could expand therapeutic strategies for obesity and metabolic disease beyond conventional pharmacology, potentially improving efficacy and specificity of interventions.",
+          "title": "Researchers review neural circuit targets for next‑generation metabolic therapies",
+          "summary": "Experts discuss how central and peripheral neural pathways contribute to energy balance and how these circuits appear to be key targets for incretin‑mimetic drugs that are changing obesity treatment. The piece covers current findings and identifies research steps needed to turn neural insights into therapies.",
+          "whyItMatters": "Mapping how the nervous system controls metabolism can help refine drugs for obesity and metabolic disease and improve understanding of how existing therapies exert effects.",
           "takeaways": [
-            "Incretin-mimetic drugs may act in part via neural circuits, not only peripheral mechanisms. ",
-            "Understanding central and peripheral pathways could enable more precise metabolic therapies. ",
-            "Translational challenges remain, and this perspective frames research directions rather than established clinical interventions."
+            "Neural circuits, both central and peripheral, play important roles in energy homeostasis.",
+            "Incretin‑mimetic drugs may act in part by engaging these neural pathways.",
+            "Translational work is needed to move from circuit mapping to clinical treatments.",
+            "Interdisciplinary research integrating neuroscience and metabolism is a focus for future drug development."
           ]
         },
         "es": {
-          "title": "Investigadores exploran circuitos neuronales como objetivos para terapias metabólicas",
-          "summary": "Investigadores analizan cómo vías neuronales centrales y periféricas parecen mediar los efectos de fármacos miméticos de incretinas y otros tratamientos emergentes para la obesidad, describiendo oportunidades y desafíos para traducir conocimientos neuronales en terapias que influyan en el balance energético y el metabolismo.",
-          "whyItMatters": "Mapear objetivos neuronales podría ampliar las estrategias terapéuticas para la obesidad y las enfermedades metabólicas más allá de la farmacología convencional, potencialmente mejorando la eficacia y especificidad de las intervenciones.",
+          "title": "Investigadores revisan objetivos de circuitos neuronales para terapias metabólicas de nueva generación",
+          "summary": "Expertos discuten cómo las vías neuronales centrales y periféricas contribuyen al equilibrio energético y cómo estos circuitos parecen ser objetivos clave para fármacos similares a las incretinas que están cambiando el tratamiento de la obesidad. El texto repasa hallazgos actuales e identifica pasos de investigación necesarios para convertir los conocimientos sobre circuitos en terapias.",
+          "whyItMatters": "Cartografiar cómo el sistema nervioso controla el metabolismo puede ayudar a perfeccionar fármacos para la obesidad y las enfermedades metabólicas y a comprender mejor cómo actúan las terapias existentes.",
           "takeaways": [
-            "Los fármacos miméticos de incretinas pueden actuar en parte a través de circuitos neuronales, no solo por mecanismos periféricos.",
-            "Comprender vías centrales y periféricas podría permitir terapias metabólicas más precisas.",
-            "Persisten desafíos de traducción; esta perspectiva enmarca direcciones de investigación más que intervenciones clínicas establecidas."
+            "Los circuitos neuronales, tanto centrales como periféricos, desempeñan papeles importantes en la homeostasis energética.",
+            "Los fármacos similares a las incretinas pueden actuar en parte al involucrar estas vías neuronales.",
+            "Se necesita trabajo traslacional para pasar del mapeo de circuitos a tratamientos clínicos.",
+            "La investigación interdisciplinaria que integra neurociencia y metabolismo es un enfoque clave para el desarrollo futuro de fármacos."
           ]
         },
         "ru": {
-          "title": "Исследователи изучают нейронные цепи как мишени для метаболических терапий",
-          "summary": "Авторы рассматривают, как центральные и периферические нейронные пути, по-видимому, опосредуют эффекты препаратов‑миметиков инкретинов и других новых методов лечения ожирения, описывая возможности и сложности превращения нейронных открытий в терапии, влияющие на энергетический баланс и метаболизм.",
-          "whyItMatters": "Картирование нейронных мишеней может расширить терапевтические стратегии при ожирении и метаболических заболеваниях за пределы традиционной фармакологии, что потенциально повысит эффективность и специфичность вмешательств.",
+          "title": "Исследователи рассматривают нейронные мишени для следующего поколения метаболических терапий",
+          "summary": "Эксперты обсуждают, как центральные и периферические нейронные пути влияют на энергетический баланс и почему эти цепи кажутся ключевыми мишенями для препаратов, имитирующих инкретины, которые изменяют подходы к лечению ожирения. В обзоре рассматриваются текущие результаты и определяются исследовательские шаги, необходимые для превращения нейронных открытий в терапию.",
+          "whyItMatters": "Картирование того, как нервная система контролирует метаболизм, может помочь уточнить препараты для лечения ожирения и метаболических нарушений и лучше понять механизмы действия существующих терапий.",
           "takeaways": [
-            "Препараты‑миметики инкретинов могут действовать отчасти через нейронные цепи, а не только через периферические механизмы.",
-            "Понимание центральных и периферических путей может позволить создание более точных метаболических терапий.",
-            "Остаются проблемы трансляции; данная перспектива намечает направления исследований, а не устоявшиеся клинические вмешательства."
+            "Нейронные цепи, как центральные, так и периферические, играют важную роль в поддержании энергетического гомеостаза.",
+            "Препараты, имитирующие инкретины, возможно, частично действуют через эти нейронные пути.",
+            "Нужна трансляционная работа, чтобы перейти от картирования цепей к клиническим методам лечения.",
+            "Междисциплинарные исследования, объединяющие нейронауку и метаболизм, станут ключевым направлением для разработки новых препаратов."
           ]
         },
         "uk": {
-          "title": "Дослідники вивчають нейронні ланцюги як цілі для метаболічних терапій",
-          "summary": "Дослідники обговорюють, як центральні й периферичні нейронні шляхи, ймовірно, опосередковують ефекти інкретиноміметичних препаратів та інших нових методів лікування ожиріння, окреслюючи можливості й виклики трансляції нейронних знань у терапії, що впливає на енергетичний баланс і метаболізм.",
-          "whyItMatters": "Картування нервових мішеней може розширити терапевтичні стратегії при ожирінні й метаболічних захворюваннях за межі традиційної фармакології, потенційно підвищивши ефективність і специфічність втручань.",
+          "title": "Дослідники переглядають нейронні мішені для наступного покоління метаболічних терапій",
+          "summary": "Експерти обговорюють, як центральні та периферійні нейронні шляхи впливають на енергетичну рівновагу і чому ці ланцюги виглядають ключовими для інкретиноподібних препаратів, що змінюють лікування ожиріння. Стаття охоплює сучасні результати та визначає дослідницькі кроки, потрібні для перетворення нейронних знань у терапії.",
+          "whyItMatters": "Карта того, як нервова система контролює метаболізм, може допомогти уточнити препарати від ожиріння і метаболічних захворювань та краще зрозуміти механізми дії існуючих терапій.",
           "takeaways": [
-            "Інкретиноміметичні препарати можуть діяти частково через нейронні ланцюги, а не лише периферичні механізми.",
-            "Розуміння центральних і периферичних шляхів може дозволити точніші метаболічні терапії.",
-            "Залишаються трансляційні виклики; цей огляд окреслює напрямки досліджень, а не встановлені клінічні втручання."
+            "Нейронні ланцюги, як центральні, так і периферійні, відіграють важливу роль в енергетичній гомеостазі.",
+            "Інкретиноподібні ліки можуть частково діяти через залучення цих нейронних шляхів.",
+            "Потрібна трансляційна робота, щоб перейти від картування ланцюгів до клінічних методів лікування.",
+            "Міждисциплінарні дослідження, що інтегрують нейронауку й метаболізм, є ключовим напрямом для майбутньої розробки ліків."
           ]
         },
         "fr": {
-          "title": "Des chercheurs explorent les circuits neuronaux comme cibles pour des thérapies métaboliques",
-          "summary": "Des chercheurs discutent de la manière dont les voies neuronales centrales et périphériques semblent médiatiser les effets des médicaments mimétiques d’incrétine et d’autres traitements émergents contre l’obésité, décrivant les opportunités et les défis pour traduire les connaissances neuronales en thérapies influençant l’équilibre énergétique et le métabolisme.",
-          "whyItMatters": "Cartographier les cibles neuronales pourrait élargir les stratégies thérapeutiques pour l’obésité et les maladies métaboliques au‑delà de la pharmacologie conventionnelle, améliorant potentiellement l’efficacité et la spécificité des interventions.",
+          "title": "Des chercheurs passent en revue les cibles des circuits neuronaux pour les thérapies métaboliques de nouvelle génération",
+          "summary": "Des experts discutent de la contribution des voies neuronales centrales et périphériques à l'équilibre énergétique et expliquent en quoi ces circuits semblent être des cibles clés pour les médicaments mimant les incrétines qui transforment le traitement de l'obésité. L'article couvre les résultats actuels et identifie les étapes de recherche nécessaires pour convertir les connaissances neuronales en thérapies.",
+          "whyItMatters": "Cartographier la manière dont le système nerveux contrôle le métabolisme peut aider à affiner les médicaments contre l'obésité et les maladies métaboliques et à mieux comprendre comment les thérapies existantes exercent leurs effets.",
           "takeaways": [
-            "Les médicaments mimétiques d’incrétine peuvent agir en partie via des circuits neuronaux, pas seulement par des mécanismes périphériques.",
-            "Comprendre les voies centrales et périphériques pourrait permettre des thérapies métaboliques plus précises.",
-            "Des défis de translation subsistent ; cette perspective cadre des directions de recherche plutôt que des interventions cliniques établies."
+            "Les circuits neuronaux, centraux et périphériques, jouent un rôle important dans l'homéostasie énergétique.",
+            "Les médicaments mimant les incrétines peuvent agir en partie en mobilisant ces voies neuronales.",
+            "Un travail translationnel est nécessaire pour passer du cartographie des circuits aux traitements cliniques.",
+            "La recherche interdisciplinaire intégrant neurosciences et métabolisme est une priorité pour le développement futur de médicaments."
           ]
         },
         "de": {
-          "title": "Forscher untersuchen neuronale Schaltkreise als Ziele für metabolische Therapien",
-          "summary": "Forscher diskutieren, wie zentrale und periphere neuronale Bahnen offenbar die Wirkungen von Incretin-ähnlichen Medikamenten und anderen aufkommenden Adipositasbehandlungen vermitteln und skizzieren Chancen und Herausforderungen bei der Übersetzung neuronaler Erkenntnisse in Therapien, die Energiehaushalt und Stoffwechsel beeinflussen.",
-          "whyItMatters": "Die Kartierung neuronaler Zielstrukturen könnte therapeutische Strategien für Adipositas und Stoffwechselkrankheiten über die konventionelle Pharmakologie hinaus erweitern und potenziell Wirksamkeit und Spezifität von Interventionen verbessern.",
+          "title": "Forschende überprüfen neuronale Schaltkreise als Ziele für nächste Generation metabolischer Therapien",
+          "summary": "Experten erörtern, wie zentrale und periphere neuronale Bahnen zum Energiegleichgewicht beitragen und wie diese Schaltkreise offenbar wichtige Ziele für incretinähnliche Medikamente sind, die die Adipositasbehandlung verändern. Der Beitrag fasst aktuelle Erkenntnisse zusammen und identifiziert Forschungsschritte, die nötig sind, um neuronale Einsichten in Therapien zu überführen.",
+          "whyItMatters": "Die Kartierung, wie das Nervensystem den Stoffwechsel steuert, kann helfen, Medikamente gegen Adipositas und Stoffwechselkrankheiten zu verfeinern und zu verstehen, wie bestehende Therapien wirken.",
           "takeaways": [
-            "Incretin-ähnliche Medikamente wirken möglicherweise teilweise über neuronale Schaltkreise, nicht nur über periphere Mechanismen.",
-            "Das Verständnis zentraler und peripherer Bahnen könnte gezieltere metabolische Therapien ermöglichen.",
-            "Übersetzungsherausforderungen bleiben bestehen; diese Perspektive stellt Forschungsrichtungen dar und keine etablierten klinischen Interventionen."
+            "Neuronale Schaltkreise, sowohl zentral als auch peripher, spielen wichtige Rollen in der Energiehomöostase.",
+            "Incretinähnliche Medikamente könnten zum Teil wirken, indem sie diese neuronalen Wege ansprechen.",
+            "Übersetzungsarbeiten sind nötig, um von der Kartierung der Schaltkreise zu klinischen Behandlungen zu gelangen.",
+            "Interdisziplinäre Forschung, die Neurowissenschaften und Stoffwechsel integriert, ist ein Schwerpunkt für die künftige Wirkstoffentwicklung."
           ]
         },
         "pt-br": {
-          "title": "Pesquisadores exploram circuitos neurais como alvos para terapias metabólicas",
-          "summary": "Pesquisadores discutem como vias neurais centrais e periféricas parecem mediar os efeitos de medicamentos miméticos de incretina e outras terapias emergentes para obesidade, delineando oportunidades e desafios para traduzir insights neurais em terapias que influenciem balanço energético e metabolismo.",
-          "whyItMatters": "Mapear alvos neurais pode ampliar estratégias terapêuticas para obesidade e doenças metabólicas além da farmacologia convencional, possivelmente melhorando a eficácia e a especificidade das intervenções.",
+          "title": "Pesquisadores revisam alvos de circuitos neurais para terapias metabólicas de próxima geração",
+          "summary": "Especialistas discutem como vias neurais centrais e periféricas contribuem ao balanço energético e como esses circuitos parecem ser alvos importantes para medicamentos miméticos de incretina que estão transformando o tratamento da obesidade. O texto cobre descobertas atuais e identifica passos de pesquisa necessários para transformar insights neurais em terapias.",
+          "whyItMatters": "Mapear como o sistema nervoso controla o metabolismo pode ajudar a refinar medicamentos para obesidade e doenças metabólicas e a entender melhor como terapias existentes produzem efeitos.",
           "takeaways": [
-            "Medicamentos miméticos de incretina podem agir em parte via circuitos neurais, não apenas por mecanismos periféricos.",
-            "Compreender vias centrais e periféricas pode possibilitar terapias metabólicas mais precisas.",
-            "Desafios de tradução permanecem; esta perspectiva define direções de pesquisa e não intervenções clínicas estabelecidas."
+            "Circuitos neurais, tanto centrais quanto periféricos, desempenham papéis importantes na homeostase energética.",
+            "Medicamentos miméticos de incretina podem atuar em parte engajando esses caminhos neurais.",
+            "Trabalhos translacionais são necessários para passar do mapeamento de circuitos para tratamentos clínicos.",
+            "Pesquisa interdisciplinar que integra neurociência e metabolismo é foco para o desenvolvimento futuro de fármacos."
           ]
         },
         "hu": {
-          "title": "Kutatók a neurális pályákat vizsgálják metabolikus terápiák célpontjaként",
-          "summary": "A kutatók azt tárgyalják, hogyan tűnik úgy, hogy központi és perifériás idegi útvonalak közvetítik az inkretin-utánzó (incretin-mimetic) gyógyszerek és más, felmerülő elhízáskezelések hatásait, vázolva a lehetőségeket és kihívásokat a neurális ismeretek terápiává fordításához, amelyek befolyásolhatják az energiaegyensúlyt és az anyagcserét.",
-          "whyItMatters": "A neurális célpontok feltérképezése kiterjesztheti az elhízás és a metabolikus betegségek terápiás lehetőségeit a hagyományos farmakológia mellett, és potenciálisan javíthatja az intervenciók hatékonyságát és specifikusságát.",
+          "title": "Kutatók áttekintik az idegi áramkör‑célpontokat a következő generációs anyagcsere‑terápiákhoz",
+          "summary": "Szakértők tárgyalják, hogyan járulnak hozzá a központi és perifériás idegi útvonalak az energiaegyensúlyhoz, és hogyan tűnik úgy, hogy ezek az áramkörök kulcsfontosságú célpontok az inkretin‑mimetikumok számára, amelyek átalakítják az elhízás kezelését. A cikk összegzi a jelenlegi eredményeket és azonosítja a következő lépéseket, amelyek szükségesek ahhoz, hogy az idegi ismeretek terápiákká forduljanak.",
+          "whyItMatters": "Az idegrendszer anyagcserére gyakorolt szabályozásának feltérképezése segíthet finomítani az elhízás és anyagcserezavarok gyógyszereit, és jobban megérteni, hogyan hatnak a meglévő terápiák.",
           "takeaways": [
-            "Az inkretin-utánzó gyógyszerek hatása részben idegi pályákon keresztül is megvalósulhat, nem csupán perifériás mechanizmusokon.",
-            "A központi és perifériás útvonalak megismerése lehetővé teheti a pontosabb metabolikus terápiákat.",
-            "A transzlációs kihívások megmaradnak; ez a szemlélet kutatási irányokat jelöl ki, nem pedig már bevált klinikai beavatkozásokat."
+            "A központi és perifériás idegi áramkörök fontos szerepet játszanak az energiahomeosztázisban.",
+            "Az inkretin‑mimetikumok részben ezeknek az idegi utaknak a bevonásával fejthetik ki hatásukat.",
+            "A transzlációs munka szükséges ahhoz, hogy az áramkörtérképezésből klinikai kezelésekhez vezető lépések szülessenek.",
+            "Az idegtudomány és az anyagcsere integrálása interdiszciplináris kutatási irányt jelent a jövő gyógyszerfejlesztésében."
           ]
         },
         "ar": {
-          "title": "باحثون يستكشفون الدوائر العصبية كأهداف للعلاجات الأيضية",
-          "summary": "يناقش الباحثون كيف يبدو أن المسارات العصبية المركزية والمحيطة تُوسّط تأثيرات الأدوية المحاكِية للإنكرتين (incretin‑mimetic) وغيرها من علاجات السمنة الناشئة، موضحين الفرص والتحديات في تحويل الرؤى العصبية إلى علاجات تؤثر على توازن الطاقة والتمثيل الغذائي.",
-          "whyItMatters": "قد يوسّع رسم خرائط الأهداف العصبية استراتيجيات العلاج للسمنة والأمراض الأيضية بما يتجاوز الصيدلة التقليدية، وقد يحسن فعالية وتحديدية التدخلات.",
+          "title": "باحثون يستعرضون أهداف دوائر عصبية للعلاجات الأيضية من الجيل القادم",
+          "summary": "يناقش الخبراء كيف تسهم المسارات العصبية المركزية والمحيطية في توازن الطاقة وكيف تبدو هذه الدوائر أهدافًا رئيسية لأدوية محاكيات الإنكريتين التي تغيّر علاج السمنة. يتناول المقال النتائج الحالية ويحدد خطوات البحث المطلوبة لتحويل المعارف العصبية إلى علاجات.",
+          "whyItMatters": "رسم خريطة كيفية تحكم الجهاز العصبي في الأيض يمكن أن يساعد في تحسين أدوية السمنة وأمراض الأيض وفهم أفضل لكيفية تأثير العلاجات الحالية.",
           "takeaways": [
-            "قد تعمل أدوية محاكيات الإنكرتين جزئيًا عبر دوائر عصبية وليس فقط عبر آليات طرفية.",
-            "فهم المسارات المركزية والمحيطة قد يُمكّن من علاجات أيضية أكثر دقة.",
-            "لا تزال تحديات الترجمة قائمة؛ يقدم هذا العرض اتجاهات للبحث بدلاً من تدخلات سريرية مثبتة."
+            "تلعب الدوائر العصبية المركزية والمحيطية أدوارًا مهمة في الحفاظ على توازن الطاقة.",
+            "قد تعمل أدوية محاكيات الإنكريتين جزئيًا عبر تفعيل هذه المسارات العصبية.",
+            "هناك حاجة لأعمال ترجمة سريرية لتحويل رسم الدوائر إلى علاجات عملية.",
+            "يُعدّ التكامل بين علوم الأعصاب والأيض مجالًا مركزيا لتطوير أدوية مستقبلية."
           ]
         }
       },
-      "generatedAt": "2026-08-28T09:38:54.284Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article10",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article10-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article10-news.webp",
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=decoding-neural-signals-cell-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/decoding-neural-signals-cell-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/decoding-neural-signals-cell-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers explore neural circuits as targets for metabolic therapies.\nStory summary: Researchers discuss how central and peripheral neural pathways appear to mediate the effects of incretin-mimetic drugs and other emerging obesity treatments, outlining opportunities and challenges for translating neural insights into therapies that influence energy balance and metabolism..\nCategory: metabolic research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers review neural circuit targets for next‑generation metabolic therapies.\nStory summary: Experts discuss how central and peripheral neural pathways contribute to energy balance and how these circuits appear to be key targets for incretin‑mimetic drugs that are changing obesity treatment. The piece covers current findings and identifies research steps needed to turn neural insights into therapies..\nCategory: metabolic-health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "env-footprint-vegan-mediterranean-bmj-2026",
+      "category": "sustainability",
+      "sourceName": "nutrition.bmj.com",
+      "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
+      "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Trial data compare environmental impacts of low‑fat vegan and Mediterranean diets",
+          "summary": "This secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and energy demand for participants eating a low‑fat vegan diet versus a Mediterranean diet. Dietary records from 62 overweight adults were used to estimate environmental footprints for the two plant‑forward approaches.",
+          "whyItMatters": "Understanding environmental impacts alongside health effects helps inform sustainable dietary recommendations and policy choices.",
+          "takeaways": [
+            "The analysis used randomized trial data and real dietary records to estimate footprints.",
+            "Both diets were plant‑forward, but their greenhouse gas emissions and energy demands were quantified and compared.",
+            "Results link dietary pattern choices to measures of environmental impact, useful for sustainability assessments.",
+            "Findings apply to the study population and metrics used; broader generalization requires further work."
+          ]
+        },
+        "es": {
+          "title": "Datos de ensayo comparan impactos ambientales de dietas vegana baja en grasa y mediterránea",
+          "summary": "Este análisis secundario de un ensayo cruzado aleatorizado calculó emisiones de gases de efecto invernadero y demanda energética para participantes que siguieron una dieta vegana baja en grasas frente a una dieta mediterránea. Se usaron registros dietéticos de 62 adultos con sobrepeso para estimar la huella ambiental de estos dos enfoques con predominio de alimentos vegetales.",
+          "whyItMatters": "Comprender los impactos ambientales junto con los efectos sobre la salud ayuda a informar recomendaciones dietéticas sostenibles y decisiones de política.",
+          "takeaways": [
+            "El análisis empleó datos de un ensayo aleatorizado y registros dietéticos reales para estimar las huellas.",
+            "Ambas dietas eran con predominio vegetal, pero se cuantificaron y compararon sus emisiones de gases de efecto invernadero y demanda energética.",
+            "Los resultados vinculan la elección de patrones dietéticos con medidas de impacto ambiental, útiles para evaluaciones de sostenibilidad.",
+            "Las conclusiones se aplican a la población y las métricas estudiadas; su generalización requiere más trabajo."
+          ]
+        },
+        "ru": {
+          "title": "Данные испытания сравнивают экологические воздействия низкожировой веганской и средиземноморской диет",
+          "summary": "В этом вторичном анализе рандомизированного кроссоверного исследования рассчитаны выбросы парниковых газов и потребление энергии у участников, соблюдавших низкожировую веганскую диету или средиземноморскую диету. Для оценки экологических отпечатков двух растительноориентированных подходов использовали пищевые дневники 62 взрослых с избыточным весом.",
+          "whyItMatters": "Понимание экологических последствий наряду с влиянием на здоровье помогает формировать устойчивые рекомендации по питанию и политические решения.",
+          "takeaways": [
+            "Анализ использовал данные рандомизированного исследования и реальные пищевые записи для оценки отпечатков.",
+            "Обе диеты были ориентированы на растительную пищу, но их выбросы парниковых газов и потребление энергии были количественно сопоставлены.",
+            "Результаты показывают связь между выбором диетического паттерна и мерами экологического воздействия, что полезно для оценок устойчивости.",
+            "Выводы относятся к изученной популяции и использованным метрикам; для более широкой генерализации требуется дополнительная работа."
+          ]
+        },
+        "uk": {
+          "title": "Дані випробування порівнюють екологічний вплив низькожирової веганської та середземноморської дієт",
+          "summary": "Друге відстеження даних рандомізованого кросовер-дослідження розрахувало викиди парникових газів і енергетичний попит для учасників, які дотримувалися низькожирової веганської дієти порівняно зі середземноморською дієтою. Харчові записи 62 дорослих з надлишковою вагою використовували для оцінки екологічного сліду обох підходів, орієнтованих на рослинну їжу.",
+          "whyItMatters": "Розуміння екологічних наслідків паралельно зі здоров'ям допомагає формувати рекомендації щодо стійкого харчування та політичні рішення.",
+          "takeaways": [
+            "Аналіз використовував рандомізовані дані випробування та реальні харчові записи для оцінки сліду.",
+            "Обидві дієти були орієнтовані на рослинну їжу, але їхні викиди парникових газів та енергетичні потреби були кількісно порівняні.",
+            "Результати пов'язують вибір харчового патерну з показниками екологічного впливу, що корисно для оцінок стійкості.",
+            "Застосовність висновків обмежена досліджуваною популяцією та використовуваними метриками; для ширшої узагальненості потрібні додаткові дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Données d'essai comparent impacts environnementaux d'un régime végan pauvre en graisses et d'un régime méditerranéen",
+          "summary": "Cette analyse secondaire d'un essai randomisé en crossover a calculé les émissions de gaz à effet de serre et la demande énergétique pour des participants suivant un régime végan pauvre en graisses versus un régime méditerranéen. Les journaux alimentaires de 62 adultes en surpoids ont été utilisés pour estimer l'empreinte environnementale de ces deux approches axées sur les plantes.",
+          "whyItMatters": "Comprendre les impacts environnementaux en parallèle des effets sur la santé aide à éclairer des recommandations alimentaires durables et des choix de politique.",
+          "takeaways": [
+            "L'analyse s'est appuyée sur des données d'essais randomisés et des enregistrements alimentaires réels pour estimer les empreintes.",
+            "Les deux régimes étaient axés sur les végétaux, mais leurs émissions de gaz à effet de serre et besoins énergétiques ont été quantifiés et comparés.",
+            "Les résultats relient le choix de modèles alimentaires à des mesures d'impact environnemental, utiles pour les évaluations de durabilité.",
+            "Les conclusions concernent la population étudiée et les mesures utilisées ; une généralisation plus large nécessite des travaux supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Versuchsdaten vergleichen Umweltbelastungen veganer fettarmer und mediterraner Diäten",
+          "summary": "Diese Sekundäranalyse einer randomisierten Crossover‑Studie berechnete Treibhausgasemissionen und Energiebedarf für Teilnehmende, die eine fettarme vegane Diät im Vergleich zu einer mediterranen Diät einhielten. Ernährungsaufzeichnungen von 62 übergewichtigen Erwachsenen wurden verwendet, um die Umweltfußabdrücke der beiden pflanzenbetonten Ansätze abzuschätzen.",
+          "whyItMatters": "Das Verständnis von Umweltfolgen neben gesundheitlichen Effekten hilft, nachhaltige Ernährungsempfehlungen und politische Entscheidungen zu informieren.",
+          "takeaways": [
+            "Die Analyse nutzte randomisierte Studiendaten und reale Ernährungsaufzeichnungen zur Abschätzung der Fußabdrücke.",
+            "Beide Diäten waren pflanzenbetont, aber ihre Treibhausgasemissionen und ihr Energiebedarf wurden quantifiziert und verglichen.",
+            "Ergebnisse verbinden die Wahl von Ernährungsmustern mit Maßzahlen für Umweltwirkungen und sind nützlich für Nachhaltigkeitsbewertungen.",
+            "Die Befunde gelten für die untersuchte Population und die verwendeten Metriken; eine breitere Verallgemeinerung erfordert weitere Arbeiten."
+          ]
+        },
+        "pt-br": {
+          "title": "Dados de ensaio comparam impactos ambientais de dietas vegana pobre em gordura e mediterrânea",
+          "summary": "Esta análise secundária de um ensaio randomizado crossover calculou emissões de gases de efeito estufa e demanda de energia para participantes que seguiram uma dieta vegana pobre em gordura versus uma dieta mediterrânea. Registros alimentares de 62 adultos com sobrepeso foram usados para estimar as pegadas ambientais das duas abordagens com base em plantas.",
+          "whyItMatters": "Compreender os impactos ambientais juntamente com os efeitos sobre a saúde ajuda a informar recomendações dietéticas sustentáveis e escolhas políticas.",
+          "takeaways": [
+            "A análise usou dados de um ensaio randomizado e registros dietéticos reais para estimar as pegadas.",
+            "Ambas as dietas priorizavam plantas, mas suas emissões de gases de efeito estufa e demandas de energia foram quantificadas e comparadas.",
+            "Os resultados ligam escolhas de padrões alimentares a medidas de impacto ambiental, úteis para avaliações de sustentabilidade.",
+            "As conclusões aplicam‑se à população e às métricas do estudo; uma generalização mais ampla requer trabalho adicional."
+          ]
+        },
+        "hu": {
+          "title": "A vizsgálati adatok összehasonlítják a környezeti hatásokat alacsony zsírtartalmú vegán és mediterrán étrendek esetén",
+          "summary": "Egy randomizált, keresztpontos vizsgálat másodlagos elemzése kiszámolta az üvegházhatású gázkibocsátást és az energiaigényt azoknál a résztvevőknél, akik alacsony zsírtartalmú vegán étrendet vagy mediterrán étrendet követtek. A 62 túlsúlyos felnőtt étrendi naplói alapján becsülték meg e két növényközpontú megközelítés környezeti lábnyomát.",
+          "whyItMatters": "A környezeti hatások megértése az egészségi hatások mellett segít fenntarthatóbb étrendi ajánlások és politikai döntések kialakításában.",
+          "takeaways": [
+            "Az elemzés randomizált vizsgálati adatokat és valós étrendi feljegyzéseket használt a lábnyomok becsléséhez.",
+            "Mindkét étrend növényközpontú volt, de összehasonlították az üvegházhatású gázkibocsátásukat és energiaigényüket.",
+            "Az eredmények összekapcsolják az étrendi mintázatválasztást a környezeti hatás mérőszámaival, ami hasznos a fenntarthatósági értékelésekhez.",
+            "Az eredmények a vizsgált populációra és a használt mutatókra vonatkoznak; az általánosítás további munkát igényel."
+          ]
+        },
+        "ar": {
+          "title": "بيانات التجربة تقارن الآثار البيئية لنظام نباتي منخفض الدهون والنظام المتوسطي",
+          "summary": "أجرى هذا التحليل الثانوي لتجربة عشوائية متقاطعة حسابات لانبعاثات غازات الاحتباس الحراري وطلب الطاقة للمشاركين الذين اتبعوا نظامًا نباتيًا منخفض الدهون مقابل نظام غذائي متوسطي. استُخدمت سجلات النظام الغذائي لـ 62 بالغًا زائد الوزن لتقدير البصمات البيئية لهذين النهجين المرتكزين على النبات.",
+          "whyItMatters": "فهم الآثار البيئية إلى جانب آثارها الصحية يساعد في توجيه توصيات غذائية وسياسات أكثر استدامة.",
+          "takeaways": [
+            "استخدم التحليل بيانات تجربة عشوائية وسجلات غذائية فعلية لتقدير البصمات.",
+            "كلا النظامين كانا مرتكزين على النباتات، لكن قورنت انبعاثاتهما من غازات الاحتباس الحراري وطلب الطاقة.",
+            "ترتبط نتائج الاختيارات الغذائية بمقاييس التأثير البيئي، ما يفيد التقييمات المتعلقة بالاستدامة.",
+            "تنطبق النتائج على عينة الدراسة والمقاييس المستخدمة؛ والتعميم الأوسع يتطلب دراسات إضافية."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=env-footprint-vegan-mediterranean-bmj-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/env-footprint-vegan-mediterranean-bmj-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/env-footprint-vegan-mediterranean-bmj-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial data compare environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: This secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and energy demand for participants eating a low‑fat vegan diet versus a Mediterranean diet. Dietary records from 62 overweight adults were used to estimate environmental footprints for the two plant‑forward approaches..\nCategory: sustainability.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "leaky-oocytes-nature-2026-08-28",
+      "category": "reproductive-aging",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01153-8",
+      "sourceTitle": "Leaky oocytes propagate cGAS–STING signaling",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Mitochondrial DNA leakage in aged oocytes triggers inflammatory signaling linked to ovarian decline",
+          "summary": "A study links mitochondrial DNA escaping from aged oocytes into the cytosol with activation of the cGAS–STING innate immune pathway. The resulting second messenger appears to move through CX37 gap junctions to neighboring granulosa cells and initiate sterile inflammation that may contribute to ovarian aging.",
+          "whyItMatters": "Identifying cellular mechanisms behind ovarian decline can guide basic research into fertility and reproductive aging and suggest molecular targets for future investigation.",
+          "takeaways": [
+            "Mitochondrial DNA leakage is proposed to activate an antiviral‑type innate immune response in aged oocytes.",
+            "Intercellular signaling via gap junctions transmits the signal to surrounding cells, promoting inflammation.",
+            "The work is mechanistic and at an early stage; implications for interventions remain to be explored.",
+            "Findings add to understanding of age‑related changes in ovarian biology."
+          ]
+        },
+        "es": {
+          "title": "Fuga de ADN mitocondrial en ovocitos envejecidos activa señalización inflamatoria vinculada al declive ovárico",
+          "summary": "Un estudio vincula la salida de ADN mitocondrial de ovocitos envejecidos hacia el citosol con la activación de la vía inmune innata cGAS–STING. El mensajero secundario resultante parece moverse a través de las junturas de conexión CX37 hacia células de la granulosa vecinas e iniciar una inflamación estéril que podría contribuir al envejecimiento ovárico.",
+          "whyItMatters": "Identificar mecanismos celulares detrás del declive ovárico puede orientar la investigación básica sobre fertilidad y envejecimiento reproductivo y señalar objetivos moleculares para estudios futuros.",
+          "takeaways": [
+            "Se propone que la fuga de ADN mitocondrial activa una respuesta inmune innata del tipo antiviral en ovocitos envejecidos.",
+            "La señal se transmite a células circundantes a través de uniones de tipo gap, promoviendo la inflamación.",
+            "El trabajo es mecanístico y está en una etapa temprana; las implicaciones para intervenciones aún deben explorarse.",
+            "Los hallazgos amplían la comprensión de los cambios relacionados con la edad en la biología ovárica."
+          ]
+        },
+        "ru": {
+          "title": "Утечка митохондриальной ДНК в стареющих ооцитах запускает воспалительную сигнализацию, связанную с упадком яичников",
+          "summary": "В исследовании показана связь между выходом митохондриальной ДНК из стареющих ооцитов в цитозоль и активацией врождой иммунной пути cGAS–STING. Получающийся вторичный мессенджер, по-видимому, перемещается через щелевые соединения CX37 к соседним гранулёзным клеткам и инициирует стерильное воспаление, которое может способствовать старению яичников.",
+          "whyItMatters": "Выявление клеточных механизмов, лежащих в основе упадка функции яичников, может направить фундаментальные исследования фертильности и репродуктивного старения и указать молекулярные цели для будущих исследований.",
+          "takeaways": [
+            "Предполагается, что утечка митохондриальной ДНК активирует врождую иммунную реакцию типа противовирусной в стареющих ооцитах.",
+            "Межклеточная сигнализация через щелевые соединения передаёт сигнал окружающим клеткам, что способствует воспалению.",
+            "Работа носит механистический характер и находится на ранней стадии; последствия для вмешательств ещё предстоит изучить.",
+            "Найденное дополняет понимание возрастных изменений в биологии яичников."
+          ]
+        },
+        "uk": {
+          "title": "Витік мітохондріальної ДНК у старіючих ооцитах запускає запальні сигнали, пов'язані з погіршенням функції яєчників",
+          "summary": "Дослідження пов'язує витік мітохондріальної ДНК зі старіючих ооцитів у цитозоль із активацією імунного шляху cGAS–STING. Утворений другий месенджер, імовірно, проходить через щілинні сполуки CX37 до сусідніх гранульозних клітин і запускає стерильне запалення, яке може сприяти старінню яєчників.",
+          "whyItMatters": "Виявлення клітинних механізмів, що лежать в основі зниження функції яєчників, може спрямувати фундаментальні дослідження фертильності та репродуктивного старіння й вказати молекулярні мішені для подальшого вивчення.",
+          "takeaways": [
+            "Пропонується, що витік мітохондріальної ДНК активує тип імунної відповіді, подібний до антивірусного, у старіючих ооцитах.",
+            "Міжклітинна сигналізація через щілинні сполуки передає сигнал до оточуючих клітин, сприяючи запаленню.",
+            "Робота є механістичною і перебуває на ранній стадії; наслідки для втручань ще треба вивчити.",
+            "Знахідки доповнюють розуміння вікових змін в біології яєчників."
+          ]
+        },
+        "fr": {
+          "title": "Fuite d'ADN mitochondrial dans les ovocytes âgés déclenche une signalisation inflammatoire liée au déclin ovarien",
+          "summary": "Une étude associe la fuite d'ADN mitochondrial depuis des ovocytes âgés vers le cytosol à l'activation de la voie immunitaire innée cGAS–STING. Le second messager produit semble se propager via des jonctions communicantes CX37 vers les cellules de la granulosa voisines et initier une inflammation stérile qui pourrait contribuer au vieillissement ovarien.",
+          "whyItMatters": "Identifier des mécanismes cellulaires à l'origine du déclin ovarien peut guider la recherche fondamentale sur la fertilité et le vieillissement reproductif et suggérer des cibles moléculaires pour des investigations futures.",
+          "takeaways": [
+            "La fuite d'ADN mitochondrial est proposée comme activateur d'une réponse immunitaire de type antiviral dans les ovocytes âgés.",
+            "La signalisation intercellulaire via des jonctions communicantes transmet le signal aux cellules environnantes, favorisant l'inflammation.",
+            "Le travail est mécanistique et à un stade précoce ; les implications pour des interventions restent à explorer.",
+            "Les résultats enrichissent la compréhension des changements liés à l'âge dans la biologie ovarienne."
+          ]
+        },
+        "de": {
+          "title": "Austritt mitochondrialer DNA in gealterten Oozyten löst entzündliche Signalwege aus, die mit ovarieller Abnahme verbunden sind",
+          "summary": "Eine Studie verknüpft das Entweichen mitochondrialer DNA aus gealterten Oozyten in das Zytosol mit der Aktivierung des angeborenen Immunwegs cGAS–STING. Der entstehende Second Messenger scheint sich über CX37‑Gap‑Junctions zu benachbarten Granulosazellen zu bewegen und sterile Entzündungsreaktionen auszulösen, die zur ovariellen Alterung beitragen könnten.",
+          "whyItMatters": "Die Identifizierung zellulärer Mechanismen hinter ovarieller Abnahme kann die Grundlagenforschung zu Fertilität und reproduktivem Altern leiten und molekulare Ziele für weitere Untersuchungen aufzeigen.",
+          "takeaways": [
+            "Vorgeschlagen wird, dass Austritt mitochondrialer DNA eine antiviral‑ähnliche angeborene Immunantwort in gealterten Oozyten aktiviert.",
+            "Zwischenzelluläre Signalübertragung über Gap‑Junctions übermittelt das Signal an umliegende Zellen und fördert Entzündungen.",
+            "Die Arbeit ist mechanistisch und noch in einem frühen Stadium; die Bedeutung für Interventionen muss noch erforscht werden.",
+            "Die Befunde tragen zum Verständnis altersbedingter Veränderungen der ovariellen Biologie bei."
+          ]
+        },
+        "pt-br": {
+          "title": "Vazamento de DNA mitocondrial em oócitos envelhecidos desencadeia sinalização inflamatória associada ao declínio ovariano",
+          "summary": "Um estudo relaciona o vazamento de DNA mitocondrial de oócitos envelhecidos para o citosol com a ativação da via imune inata cGAS–STING. O mensageiro secundário resultante parece se mover através das junções comunicantes CX37 para células da granulosa vizinhas e iniciar inflamação estéril que pode contribuir para o envelhecimento ovariano.",
+          "whyItMatters": "Identificar mecanismos celulares por trás do declínio ovariano pode orientar a pesquisa básica sobre fertilidade e envelhecimento reprodutivo e sugerir alvos moleculares para investigações futuras.",
+          "takeaways": [
+            "Propõe‑se que o vazamento de DNA mitocondrial ative uma resposta imune inata do tipo antiviral em oócitos envelhecidos.",
+            "A sinalização intercelular via junções comunicantes transmite o sinal às células circundantes, promovendo inflamação.",
+            "O trabalho é mecanístico e está em estágio inicial; implicações para intervenções ainda precisam ser exploradas.",
+            "As descobertas ampliam a compreensão das mudanças relacionadas à idade na biologia ovariana."
+          ]
+        },
+        "hu": {
+          "title": "Amitokondriális DNS kiszivárgása idős oocitákban gyulladásos jeltovábbítást indít, amely összefüggésben áll a petefészek hanyatlásával",
+          "summary": "Egy tanulmány összekapcsolja azt, hogy az idős oocitákból a mitokondriális DNS a citoszolba jut, a cGAS–STING veleszületett immunútvonal aktiválódásával. A keletkező másodlagos hírnök állítólag CX37 réskapcsolatokon keresztül a szomszédos granulózasejtekhez jut, és steril gyulladást indít el, amely hozzájárulhat a petefészek öregedéséhez.",
+          "whyItMatters": "A petefészek hanyatlásának sejtes mechanizmusainak azonosítása alapkutatást terelhet a termékenység és a reproduktív öregedés vizsgálata felé, és molekuláris célpontokat jelezhet további kutatáshoz.",
+          "takeaways": [
+            "A mitokondriális DNS kiszivárgását javasolják az idős oocitákban antivírus típusú veleszületett immunválasz aktiválásának okaként.",
+            "A gap junctionökön keresztüli sejtközi jelátvitel továbbítja a jelet a környező sejteknek, elősegítve a gyulladást.",
+            "A munka mechanisztikus jellegű és kezdeti stádiumban van; az intervenciókra vonatkozó következtetések további vizsgálatot igényelnek.",
+            "Az eredmények hozzájárulnak az életkorral összefüggő változások megértéséhez a petefészek biológiájában."
+          ]
+        },
+        "ar": {
+          "title": "تسرّب DNA الميتوكوندريا في البويضات المسنة ينشط إشارات التهابية مرتبطة بتراجع المبيض",
+          "summary": "تربط دراسة تسرب DNA الميتوكوندريا من البويضات المسنة إلى السيتوسول بتنشيط مسار المناعة الفطرية cGAS–STING. يبدو أن الرسول الثاني الناتج ينتقل عبر وصلات الفجوة CX37 إلى خلايا الجرانولوزا المجاورة ويُطلق التهابًا معقمًا قد يساهم في شيخوخة المبيض.",
+          "whyItMatters": "تحديد الآليات الخلوية وراء تراجع وظائف المبيض يمكن أن يوجّه أبحاثًا أساسية حول الخصوبة والشيخوخة التناسلية ويشير إلى أهداف جزيئية لمزيد من التحقيق.",
+          "takeaways": [
+            "تقترح الدراسة أن تسرب DNA الميتوكوندريا يفعّل استجابة مناعية فطرية شبيهة بمبنى مضاد للفيروسات في البويضات المسنة.",
+            "تنقل الإشارات بين الخلايا عبر وصلات الفجوة يمرر الإشارة إلى الخلايا المحيطة، ما يعزز الاستجابة الالتهابية.",
+            "الدراسة آلية وفي مرحلة مبكرة؛ وما إذا كان لذلك تبعات علاجية يتطلب دراسات إضافية.",
+            "تضيف النتائج إلى فهم التغيرات المرتبطة بالعمر في بيولوجيا المبيض."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=leaky-oocytes-nature-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/leaky-oocytes-nature-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/leaky-oocytes-nature-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mitochondrial DNA leakage in aged oocytes triggers inflammatory signaling linked to ovarian decline.\nStory summary: A study links mitochondrial DNA escaping from aged oocytes into the cytosol with activation of the cGAS–STING innate immune pathway. The resulting second messenger appears to move through CX37 gap junctions to neighboring granulosa cells and initiate sterile inflammation that may contribute to ovarian aging..\nCategory: reproductive-aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "bixlenvo-fda-medpagetoday-2026-08-28",
+      "category": "medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/infectiousdisease/hivaids/122817",
+      "sourceTitle": "Bictegravir-Lenacapavir Combo Pill Earns FDA Approval in Suppressed HIV",
+      "publishedAt": "Fri, 28 Aug 2026 16:50:02 -0400",
+      "languages": {
+        "en": {
+          "title": "FDA approves a once‑daily single tablet combining bictegravir and lenacapavir for people with suppressed HIV",
+          "summary": "Gilead announced that the FDA has approved a fixed‑dose combination tablet (Bixlenvo) containing bictegravir and lenacapavir for adults with virologically suppressed HIV‑1 infection. The product is a once‑daily regimen intended for people already maintaining viral suppression.",
+          "whyItMatters": "New regulatory approvals expand the set of treatment options available for long‑term HIV management and may influence prescribing choices and care planning.",
+          "takeaways": [
+            "The approval applies to adults with virologically suppressed HIV‑1 infection.",
+            "Bixlenvo combines bictegravir and lenacapavir into a single daily tablet.",
+            "The announcement was made by the manufacturer, Gilead Sciences.",
+            "Details on specific prescribing criteria and clinical considerations are available in the source announcement."
+          ]
+        },
+        "es": {
+          "title": "La FDA aprueba una tableta diaria que combina bictegravir y lenacapavir para personas con VIH suprimido",
+          "summary": "Gilead anunció que la FDA aprobó un comprimido de dosis fija (Bixlenvo) que contiene bictegravir y lenacapavir para adultos con infección por VIH‑1 virológicamente suprimida. El producto es un régimen de una toma diaria destinado a personas que ya mantienen supresión viral.",
+          "whyItMatters": "Nuevas aprobaciones regulatorias amplían el conjunto de opciones de tratamiento disponibles para el manejo a largo plazo del VIH y pueden influir en las decisiones de prescripción y la planificación del cuidado.",
+          "takeaways": [
+            "La aprobación se aplica a adultos con infección por VIH‑1 virológicamente suprimida.",
+            "Bixlenvo combina bictegravir y lenacapavir en una sola tableta diaria.",
+            "El anuncio fue realizado por el fabricante, Gilead Sciences.",
+            "Los detalles sobre criterios específicos de prescripción y consideraciones clínicas están disponibles en el comunicado de la fuente."
+          ]
+        },
+        "ru": {
+          "title": "FDA одобрила однократную ежедневную таблетку с биктегравиром и ленакапавиром для людей с подавленным ВИЧ",
+          "summary": "Gilead объявила, что FDA одобрила комбинированную таблетку фиксированной дозы (Bixlenvo), содержащую биктегравир и ленакапавир, для взрослых с виологически подавленной инфекцией ВИЧ‑1. Препарат рассчитан на приём один раз в день для людей, уже поддерживающих супрессию вируса.",
+          "whyItMatters": "Новые регуляторные одобрения расширяют набор вариантов лечения для долгосрочного управления ВИЧ и могут повлиять на выбор назначений и планирование ухода.",
+          "takeaways": [
+            "Одобрение распространяется на взрослых с виологически подавленным ВИЧ‑1.",
+            "Bixlenvo объединяет биктегравир и ленакапавир в одной ежедневной таблетке.",
+            "Сообщение сделал производитель, компания Gilead Sciences.",
+            "Подробности о конкретных критериях назначения и клинических соображениях доступны в исходном сообщении."
+          ]
+        },
+        "uk": {
+          "title": "FDA схвалила однотаблетковий препарат раз на день з біктегравіром і ленакапавіром для людей з контролюваним ВІЛ",
+          "summary": "Gilead оголосила, що FDA схвалила фіксовану комбінаційну таблетку (Bixlenvo), що містить біктегравір і ленакапавір, для дорослих з вірусологічно контрольованою інфекцією ВІЛ‑1. Препарат призначений для прийому один раз на день для людей, які вже підтримують пригнічення вірусу.",
+          "whyItMatters": "Нові регуляторні схвалення розширюють набір варіантів лікування для довгострокового ведення ВІЛ і можуть вплинути на вибір призначень та планування догляду.",
+          "takeaways": [
+            "Схвалення стосується дорослих з вірусологічно пригніченою інфекцією ВІЛ‑1.",
+            "Bixlenvo поєднує біктегравір і ленакапавір в одній щоденній таблетці.",
+            "Оголошення було зроблене виробником, Gilead Sciences.",
+            "Деталі щодо конкретних критеріїв призначення та клінічних міркувань доступні в офіційних матеріалах джерела."
+          ]
+        },
+        "fr": {
+          "title": "La FDA approuve un comprimé unique une fois par jour combinant bictegravir et lenacapavir pour les personnes avec VIH contrôlé",
+          "summary": "Gilead a annoncé que la FDA a approuvé un comprimé en dose fixe (Bixlenvo) contenant bictegravir et lenacapavir pour les adultes ayant une infection par le VIH‑1 virologiquement supprimée. Le produit est une prise quotidienne destinée aux personnes maintenant une suppression virale.",
+          "whyItMatters": "Les nouvelles autorisations réglementaires élargissent l'éventail d'options thérapeutiques disponibles pour la prise en charge à long terme du VIH et peuvent influencer les choix de prescription et la planification des soins.",
+          "takeaways": [
+            "L'approbation concerne les adultes ayant une infection par le VIH‑1 virologiquement supprimée.",
+            "Bixlenvo combine bictegravir et lenacapavir en un comprimé pris quotidiennement.",
+            "L'annonce a été faite par le fabricant, Gilead Sciences.",
+            "Les informations détaillées sur les critères de prescription et les considérations cliniques figurent dans l'annonce source."
+          ]
+        },
+        "de": {
+          "title": "FDA genehmigt einmal tägliche Tablette mit Bictegravir und Lenacapavir für Menschen mit unterdrücktem HIV",
+          "summary": "Gilead teilte mit, dass die FDA eine Fixkombinationstablette (Bixlenvo) mit Bictegravir und Lenacapavir für Erwachsene mit virologisch unterdrückter HIV‑1‑Infektion zugelassen hat. Das Produkt ist ein einmal täglich einzunehmendes Regime für Personen, die bereits eine Virussuppression aufrechterhalten.",
+          "whyItMatters": "Neue behördliche Zulassungen erweitern die Auswahl an Behandlungsoptionen für das Langzeitmanagement von HIV und können Verschreibungsentscheidungen und Behandlungsplanung beeinflussen.",
+          "takeaways": [
+            "Die Zulassung gilt für Erwachsene mit virologisch unterdrückter HIV‑1‑Infektion.",
+            "Bixlenvo kombiniert Bictegravir und Lenacapavir in einer einzelnen täglichen Tablette.",
+            "Die Ankündigung erfolgte durch den Hersteller Gilead Sciences.",
+            "Details zu konkreten Verschreibungs‑ und klinischen Kriterien sind in der Quellenankündigung zu finden."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA aprova comprimido diário combinando bictegravir e lenacapavir para pessoas com HIV suprimido",
+          "summary": "A Gilead anunciou que a FDA aprovou um comprimido de dose fixa (Bixlenvo) contendo bictegravir e lenacapavir para adultos com infecção por HIV‑1 virologicamente suprimida. O produto é um regime de uma vez ao dia destinado a pessoas que já mantêm supressão viral.",
+          "whyItMatters": "Novas aprovações regulatórias ampliam o conjunto de opções de tratamento disponíveis para o manejo de longo prazo do HIV e podem influenciar escolhas de prescrição e planejamento do cuidado.",
+          "takeaways": [
+            "A aprovação se aplica a adultos com infecção por HIV‑1 virologicamente suprimida.",
+            "Bixlenvo combina bictegravir e lenacapavir em um único comprimido diário.",
+            "O anúncio foi feito pelo fabricante, Gilead Sciences.",
+            "Detalhes sobre critérios específicos de prescrição e considerações clínicas estão disponíveis no comunicado da fonte."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA jóváhagyta a napi egyszeri, bictegravir‑lenacapavir kombinációt virológiailag elnyomott HIV‑fertőzésben",
+          "summary": "A Gilead bejelentette, hogy az FDA jóváhagyta a Bixlenvo nevű fix dózisú kombinált tablettát, amely bictegravirt és lenacapavirt tartalmaz, virológiailag elnyomott HIV‑1 fertőzésben szenvedő felnőttek számára. A termék napi egyszeri regimenként szánt alternatíva azoknak, akik már víruskontrollt tartanak fenn.",
+          "whyItMatters": "Az új szabályozási jóváhagyások bővítik a krónikus HIV‑kezeléshez rendelkezésre álló lehetőségeket, és befolyásolhatják a felírási döntéseket és a gondozási tervezést.",
+          "takeaways": [
+            "A jóváhagyás felnőttekre vonatkozik, akiknél virológiailag elnyomott HIV‑1 fertőzés áll fenn.",
+            "A Bixlenvo bictegravirt és lenacapavirt egyesít egyetlen napi tablettában.",
+            "A bejelentést a gyártó, a Gilead Sciences tette közzé.",
+            "A részletes rendelési kritériumokkal és klinikai szempontokkal kapcsolatos információk a forrásemlítésben találhatók."
+          ]
+        },
+        "ar": {
+          "title": "FDA توافق على حبة يومية تجمع بين bictegravir و lenacapavir للأشخاص ذوي عدوى HIV المكبوتة فيروجيًا",
+          "summary": "أعلنت شركة Gilead أن إدارة الغذاء والدواء الأمريكية وافقت على قرص جرعة مركبة ثابتة باسم Bixlenvo يحتوي على bictegravir و lenacapavir للبالغين الذين لديهم عدوى HIV‑1 مكبوتة فيروجيًا. يُقصد بالمنتج أن يكون نظامًا يوميًا واحدًا مخصّصًا للأشخاص الذين يحافظون بالفعل على قمع الفيروس.",
+          "whyItMatters": "توسّع الموافقات التنظيمية الجديدة مجموعة خيارات العلاج المتاحة لإدارة HIV على المدى الطويل وقد تؤثر على اختيارات الوصفات والتخطيط للرعاية.",
+          "takeaways": [
+            "تنطبق الموافقة على البالغين ذوي عدوى HIV‑1 المكبوتة فيروجيًا.",
+            "يجمع Bixlenvo بين bictegravir و lenacapavir في قرص يومي واحد.",
+            "أُعلن عن الموافقة بواسطة الشركة المصنعة، Gilead Sciences.",
+            "توجد تفاصيل المعايير الوصفية والاعتبارات السريرية في بيان المصدر."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bixlenvo-fda-medpagetoday-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bixlenvo-fda-medpagetoday-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bixlenvo-fda-medpagetoday-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA approves a once‑daily single tablet combining bictegravir and lenacapavir for people with suppressed HIV.\nStory summary: Gilead announced that the FDA has approved a fixed‑dose combination tablet (Bixlenvo) containing bictegravir and lenacapavir for adults with virologically suppressed HIV‑1 infection. The product is a once‑daily regimen intended for people already maintaining viral suppression..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "cell-proliferation-gene-news-medical-2026-08-28",
+      "category": "aging-research",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260828/Cell-proliferation-gene-plays-a-distinct-role-in-cells-that-no-longer-proliferate.aspx",
+      "sourceTitle": "Cell proliferation gene plays a distinct role in cells that no longer proliferate",
+      "publishedAt": "Fri, 28 Aug 2026 14:55:35 -0400",
+      "languages": {
+        "en": {
+          "title": "A known proliferation gene also affects non‑dividing, senescent cells",
+          "summary": "Researchers report that a gene typically linked to cell proliferation has a separate role in cells that have exited the cell cycle. The work frames the gene’s activity differently depending on a cell’s proliferative state and explores implications for senescence and cancer biology.",
+          "whyItMatters": "Clarifying how cancer‑associated genes behave in non‑dividing cells could reshape understanding of aging, tumor suppression mechanisms, and responses to therapies that target proliferative pathways.",
+          "takeaways": [
+            "A single gene can have different functions depending on whether a cell is dividing or senescent.",
+            "The findings connect cancer biology and cellular senescence, two areas relevant to aging research.",
+            "This is basic research that may inform future therapeutic strategies, but translation will require more study.",
+            "Interpreting gene function requires considering cellular context, not only association with proliferation."
+          ]
+        },
+        "es": {
+          "title": "Un gen conocido por la proliferación también afecta a células no divisorias y senescentes",
+          "summary": "Investigadores informan que un gen típicamente vinculado a la proliferación celular tiene un papel distinto en células que han salido del ciclo celular. El trabajo enmarca la actividad del gen de forma diferente según el estado proliferativo de la célula y explora implicaciones para la senescencia y la biología del cáncer.",
+          "whyItMatters": "Aclarar cómo se comportan genes asociados al cáncer en células no divisorias podría cambiar la comprensión del envejecimiento, los mecanismos de supresión tumoral y las respuestas a terapias que apuntan a vías proliferativas.",
+          "takeaways": [
+            "Un mismo gen puede tener funciones diferentes según si la célula está dividiéndose o es senescente.",
+            "Los hallazgos conectan la biología del cáncer y la senescencia celular, dos áreas relevantes para la investigación del envejecimiento.",
+            "Se trata de investigación básica que puede orientar futuras estrategias terapéuticas, pero la traducción clínica requerirá más estudios.",
+            "Interpretar la función génica requiere considerar el contexto celular, no solo la asociación con la proliferación."
+          ]
+        },
+        "ru": {
+          "title": "Известный ген пролиферации также влияет на не делящиеся, сенесцентные клетки",
+          "summary": "Исследователи сообщают, что ген, обычно связанный с клеточной пролиферацией, выполняет отдельную функцию в клетках, вышедших из клеточного цикла. Работа рассматривает активность гена по‑разному в зависимости от пролиферативного состояния клетки и изучает последствия для сенесценции и онкобиологии.",
+          "whyItMatters": "Прояснение того, как гены, ассоциированные с раком, ведут себя в неделящихся клетках, может изменить понимание старения, механизмов подавления опухолей и реакций на терапии, нацеленные на пути пролиферации.",
+          "takeaways": [
+            "Один и тот же ген может выполнять разные функции в зависимости от того, делится ли клетка или она сенесцентна.",
+            "Результаты связывают онкобиологию и клеточную сенесценцию — две области, важные для исследований старения.",
+            "Это фундаментальное исследование, которое может информировать будущие терапевтические подходы, но для клинической трансляции требуется больше работы.",
+            "Для интерпретации функции гена необходимо учитывать клеточный контекст, а не только ассоциацию с пролиферацией."
+          ]
+        },
+        "uk": {
+          "title": "Відомий ген проліферації також впливає на неподіляющиеся, сенесцентні клітини",
+          "summary": "Дослідники повідомляють, що ген, зазвичай пов'язаний з проліферацією клітин, має окрему роль у клітинах, які вийшли з клітинного циклу. Робота по-різному описує активність гена залежно від проліферативного стану клітини й розглядає наслідки для сенесценції та онкобіології.",
+          "whyItMatters": "Уточнення поведінки генів, пов'язаних з раком, у неподіляються клітинах може змінити розуміння вікових процесів, механізмів пригнічення пухлин і відповіді на терапії, що націлені на проліферативні шляхи.",
+          "takeaways": [
+            "Один ген може виконувати різні функції залежно від того, чи ділиться клітина, чи перебуває в стані сенесценції.",
+            "Знахідки поєднують біологію раку і клітинну сенесценцію, дві сфери, важливі для досліджень старіння.",
+            "Це фундаментальне дослідження, яке може інформувати майбутні терапевтичні підходи, але для трансляції потрібно більше робіт.",
+            "Інтерпретувати функцію гена слід з урахуванням клітинного контексту, а не лише асоціації з проліферацією."
+          ]
+        },
+        "fr": {
+          "title": "Un gène de prolifération connu affecte aussi des cellules non divisées, sénescentes",
+          "summary": "Des chercheurs rapportent qu'un gène généralement lié à la prolifération cellulaire joue un rôle distinct dans des cellules ayant quitté le cycle cellulaire. L'étude situe l'activité du gène différemment selon l'état prolifératif de la cellule et explore les implications pour la sénescence et la biologie du cancer.",
+          "whyItMatters": "Clarifier le comportement des gènes associés au cancer dans des cellules non divisantes pourrait modifier la compréhension du vieillissement, des mécanismes de suppression tumorale et des réponses aux thérapies ciblant les voies de prolifération.",
+          "takeaways": [
+            "Un même gène peut avoir des fonctions différentes selon que la cellule se divise ou est sénescente.",
+            "Les résultats établissent un lien entre la biologie du cancer et la sénescence cellulaire, deux domaines pertinents pour la recherche sur le vieillissement.",
+            "Il s'agit de recherche fondamentale qui pourrait orienter de futures stratégies thérapeutiques, mais la translation nécessitera davantage d'études.",
+            "Interpréter la fonction d'un gène demande de prendre en compte le contexte cellulaire, pas seulement son association avec la prolifération."
+          ]
+        },
+        "de": {
+          "title": "Ein bekannter Proliferations‑Gen wirkt auch in nicht teilenden, seneszenten Zellen",
+          "summary": "Forscher berichten, dass ein Gen, das typischerweise mit Zellproliferation verbunden ist, eine separate Rolle in Zellen hat, die den Zellzyklus verlassen haben. Die Arbeit betrachtet die Aktivität des Gens unterschiedlich, je nach proliferativem Zustand einer Zelle, und untersucht Konsequenzen für Seneszenz und Krebsbiologie.",
+          "whyItMatters": "Die Klärung, wie krebsspezifische Gene sich in nicht teilenden Zellen verhalten, könnte das Verständnis von Alterung, Tumorsuppressionsmechanismen und Reaktionen auf Therapien, die proliferative Wege anvisieren, verändern.",
+          "takeaways": [
+            "Ein einzelnes Gen kann je nachdem, ob eine Zelle sich teilt oder seneszent ist, unterschiedliche Funktionen haben.",
+            "Die Befunde verbinden Krebsbiologie und zelluläre Seneszenz, zwei Bereiche, die für die Alternsforschung relevant sind.",
+            "Es handelt sich um Grundlagenforschung, die möglicherweise künftige therapeutische Strategien informiert, aber die Übersetzung erfordert weitere Studien.",
+            "Die Interpretation von Genfunktionen erfordert die Berücksichtigung des zellulären Kontexts, nicht nur der Verbindung zur Proliferation."
+          ]
+        },
+        "pt-br": {
+          "title": "Gene conhecido por proliferação também afeta células não divisórias e senescentes",
+          "summary": "Pesquisadores relatam que um gene tipicamente ligado à proliferação celular tem um papel distinto em células que saíram do ciclo celular. O trabalho enquadra a atividade do gene de maneira diferente dependendo do estado proliferativo da célula e explora implicações para senescência e biologia do câncer.",
+          "whyItMatters": "Esclarecer como genes associados ao câncer se comportam em células não divisórias pode remodelar o entendimento do envelhecimento, dos mecanismos de supressão tumoral e das respostas a terapias que visam vias proliferativas.",
+          "takeaways": [
+            "Um único gene pode ter funções diferentes dependendo se a célula está se dividindo ou é senescente.",
+            "As descobertas ligam biologia do câncer e senescência celular, áreas relevantes para a pesquisa sobre envelhecimento.",
+            "Trata‑se de pesquisa básica que pode informar futuras estratégias terapêuticas, mas a tradução exigirá mais estudos.",
+            "Interpretar a função de genes requer considerar o contexto celular, não apenas a associação com a proliferação."
+          ]
+        },
+        "hu": {
+          "title": "Egy ismert osztódást segítő gén más szerepet játszik az osztódni már nem képes, szeneszcens sejtekben is",
+          "summary": "A kutatók azt jelentik, hogy egy, tipikusan a sejtosztódással kapcsolt gén külön szerepet tölt be azokban a sejtekben, amelyek kiléptek a sejtciklusból. A munka a gén aktivitását a sejt proliferatív állapotától függően értelmezi, és megvizsgálja a következményeket a szeneszcencia és a rákbiológia területén.",
+          "whyItMatters": "A rákhoz kapcsolódó gének viselkedésének tisztázása az osztódni nem képes sejtekben alakíthatja a korosodásról, a daganat‑elnyomó mechanizmusokról és a proliferációs útvonalakat célzó terápiákra adott válaszokról alkotott megértést.",
+          "takeaways": [
+            "Ugyanaz a gén különböző funkciókat tölthet be attól függően, hogy a sejt osztódik‑e vagy szeneszcens.",
+            "Az eredmények összekapcsolják a rákbiológiát és a sejtes szeneszcenciát, két, az öregedéskutatás szempontjából releváns területet.",
+            "Alapkutatásról van szó, amely később informálhat terápiás stratégiákat, de a gyakorlati alkalmazáshoz további vizsgálatok szükségesek.",
+            "A génfunkciók értelmezéséhez figyelembe kell venni a sejtes kontextust, nem csak a proliferációval való asszociációt."
+          ]
+        },
+        "ar": {
+          "title": "جين معروف مرتبط بالتكاثر يؤثر أيضاً في الخلايا غير القابلة للانقسام (senescent)",
+          "summary": "أفاد الباحثون أن جينًا يرتبط عادةً بتكاثر الخلايا له دور منفصل في الخلايا التي خرجت من دورة الخلية. العمل يعيد تأطير نشاط هذا الجين اعتمادًا على الحالة التكاثرية للخلايا ويفحص الدلالات المتعلقة بالشيخوخة الخلوية والسرطان.",
+          "whyItMatters": "توضيح كيفية تصرف الجينات المرتبطة بالسرطان في الخلايا غير القابلة للانقسام قد يغير الفهم المتعلق بالشيخوخة وآليات كبح الأورام واستجابات العلاجات التي تستهدف مسارات التكاثر.",
+          "takeaways": [
+            "يمكن أن يؤدي جين واحد وظائف مختلفة اعتمادًا على ما إذا كانت الخلية تنقسم أم أصبحت senescent.",
+            "تربط النتائج بين بيولوجيا السرطان والشيخوخة الخلوية، وهما مجالان مهمان لأبحاث الشيخوخة.",
+            "هذه نتائج بحث أساسي قد تُعلِم استراتيجيات علاجية مستقبلية، لكن الترجمة السريرية تتطلب مزيدًا من الدراسة.",
+            "فهم وظيفة الجينات يتطلب مراعاة السياق الخلوي، وليس الاعتماد فقط على الارتباط بالتكاثر."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cell-proliferation-gene-news-medical-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-proliferation-gene-news-medical-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-proliferation-gene-news-medical-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: A known proliferation gene also affects non‑dividing, senescent cells.\nStory summary: Researchers report that a gene typically linked to cell proliferation has a separate role in cells that have exited the cell cycle. The work frames the gene’s activity differently depending on a cell’s proliferative state and explores implications for senescence and cancer biology..\nCategory: aging-research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "adolescent-diet-guidance-medicalxpress-2026-08-28",
+      "category": "public-health-nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-evidence-based-specific-dietary-guidance.html",
+      "sourceTitle": "Now is the time for evidence-based, specific dietary guidance to nourish adolescents",
+      "publishedAt": "Fri, 28 Aug 2026 13:00:06 EDT",
+      "languages": {
+        "en": {
+          "title": "Call for specific, evidence‑based dietary guidance tailored to adolescents",
+          "summary": "Experts note adolescence is a crucial window for nutrition because of rapid growth and brain development, yet diet quality is particularly low in this age group. The piece highlights nutrient gaps, behavioral and social factors, and a shortage of tailored research and recommendations for adolescents.",
+          "whyItMatters": "Improved, age‑specific dietary guidance could help address nutrient shortfalls during a formative life stage and support long‑term health outcomes.",
+          "takeaways": [
+            "Adolescence involves unique physiological and developmental nutritional needs.",
+            "Diet quality tends to be low in this age group, with identifiable nutrient gaps.",
+            "There is a need for more targeted research and guidance specific to adolescents.",
+            "Public health and clinical strategies could benefit from guidance designed for this life stage."
+          ]
+        },
+        "es": {
+          "title": "Llamado a una orientación dietética específica y basada en evidencia para adolescentes",
+          "summary": "Expertos señalan que la adolescencia es una ventana crucial para la nutrición debido al rápido crecimiento y desarrollo cerebral, pero la calidad de la dieta es particularmente baja en este grupo de edad. El artículo destaca déficits de nutrientes, factores conductuales y sociales, y la escasez de investigación y recomendaciones adaptadas a adolescentes.",
+          "whyItMatters": "Mejorar la orientación dietética específica para la edad podría ayudar a abordar las carencias nutricionales durante una etapa formativa y apoyar resultados de salud a largo plazo.",
+          "takeaways": [
+            "La adolescencia implica necesidades nutricionales fisiológicas y de desarrollo únicas.",
+            "La calidad de la dieta tiende a ser baja en este grupo etario, con brechas identificables en nutrientes.",
+            "Se necesita más investigación y orientación específica dirigida a adolescentes.",
+            "Las estrategias de salud pública y clínicas podrían beneficiarse de recomendaciones diseñadas para esta etapa de la vida."
+          ]
+        },
+        "ru": {
+          "title": "Призыв к конкретным, основанным на доказательствах рекомендациям по питанию подростков",
+          "summary": "Эксперты отмечают, что подростковый период — ключевое окно для питания из‑за быстрого роста и развития мозга, но качество питания в этой возрастной группе особенно низкое. В статье подчёркиваются недостатки по питательным веществам, поведенческие и социальные факторы, а также нехватка адаптированных исследований и рекомендаций для подростков.",
+          "whyItMatters": "Улучшение возрастно‑специфичных рекомендаций по питанию может помочь устранить дефициты питательных веществ в формирующийся период и поддержать долгосрочное здоровье.",
+          "takeaways": [
+            "Подростковый возраст связан с уникальными физиологическими и развивающимися потребностями в питании.",
+            "Качество питания в этой группе обычно низкое, с выявляемыми дефицитами по отдельным нутриентам.",
+            "Необходимо больше целенаправленных исследований и рекомендаций, рассчитанных на подростков.",
+            "Стратегии общественного здравоохранения и клинической практики могут выиграть от руководств, разработанных для этой стадии жизни."
+          ]
+        },
+        "uk": {
+          "title": "Заклик до конкретних, доказових харчових рекомендацій, орієнтованих на підлітків",
+          "summary": "Експерти зазначають, що підлітковий вік є важливим для харчування через швидкий ріст і розвиток мозку, але якість харчування в цій віковій групі особливо низька. Стаття висвітлює дефіцити нутрієнтів, поведінкові та соціальні фактори й брак досліджень та рекомендацій, адаптованих до підлітків.",
+          "whyItMatters": "Покращені, віко-специфічні харчові рекомендації можуть допомогти заповнити дефіцити нутрієнтів у ключовий період і підтримати довгострокове здоров'я.",
+          "takeaways": [
+            "Підлітковий вік передбачає унікальні фізіологічні й розвиткові харчові потреби.",
+            "Якість раціону у цієї вікової групи, як правило, низька, з виявними дефіцитами нутрієнтів.",
+            "Потрібно більше націлених досліджень і рекомендацій, специфічних для підлітків.",
+            "Громадське здоров'я та клінічні стратегії можуть отримати користь від рекомендацій, спроєктованих для цього життєвого етапу."
+          ]
+        },
+        "fr": {
+          "title": "Appel à des recommandations alimentaires spécifiques et fondées sur des preuves pour les adolescents",
+          "summary": "Des experts soulignent que l'adolescence est une fenêtre cruciale pour la nutrition en raison de la croissance rapide et du développement cérébral, alors que la qualité de l'alimentation est particulièrement faible dans ce groupe d'âge. L'article met en avant les carences en nutriments, les facteurs comportementaux et sociaux, et le manque de recherche et de recommandations adaptées aux adolescents.",
+          "whyItMatters": "Des recommandations améliorées et spécifiques à l'âge pourraient aider à combler les carences en nutriments durant une période formatrice et soutenir la santé à long terme.",
+          "takeaways": [
+            "L'adolescence implique des besoins nutritionnels physiologiques et développementaux uniques.",
+            "La qualité de l'alimentation a tendance à être faible chez les adolescents, avec des carences identifiables en nutriments.",
+            "Il existe un besoin de recherches et de recommandations plus ciblées pour les adolescents.",
+            "Les stratégies de santé publique et cliniques pourraient bénéficier de recommandations conçues pour cette étape de la vie."
+          ]
+        },
+        "de": {
+          "title": "Appell für klare, evidenzbasierte, altersgerechte Ernährungsleitlinien für Jugendliche",
+          "summary": "Expert*innen betonen, dass die Adoleszenz ein wichtiges Zeitfenster für Ernährung ist wegen schnellen Wachstums und Gehirnentwicklung, doch die Ernährungsqualität in dieser Altersgruppe ist besonders niedrig. Der Beitrag hebt Nährstofflücken, Verhaltens‑ und soziale Faktoren sowie einen Mangel an zielgerichteter Forschung und Empfehlungen für Jugendliche hervor.",
+          "whyItMatters": "Verbesserte, alterspezifische Ernährungsleitlinien könnten helfen, Nährstofflücken in einer prägenden Lebensphase zu schließen und langfristige Gesundheitsfolgen zu unterstützen.",
+          "takeaways": [
+            "Die Adoleszenz umfasst einzigartige physiologische und entwicklungsbedingte Ernährungsbedürfnisse.",
+            "Die Ernährungsqualität tendiert in dieser Altersgruppe dazu, niedrig zu sein, mit erkennbaren Nährstofflücken.",
+            "Es besteht Bedarf an mehr zielgerichteter Forschung und Leitlinien speziell für Jugendliche.",
+            "Gesundheits‑ und klinische Strategien könnten von Leitlinien profitieren, die für diese Lebensphase entwickelt wurden."
+          ]
+        },
+        "pt-br": {
+          "title": "Defesa por orientações dietéticas específicas e baseadas em evidências para adolescentes",
+          "summary": "Especialistas observam que a adolescência é uma janela crucial para a nutrição devido ao rápido crescimento e desenvolvimento cerebral, mas a qualidade da dieta é particularmente baixa nesse grupo etário. O texto destaca lacunas de nutrientes, fatores comportamentais e sociais e a escassez de pesquisas e recomendações direcionadas para adolescentes.",
+          "whyItMatters": "Orientações alimentares melhoradas e específicas para a idade podem ajudar a abordar déficits nutricionais durante uma fase formativa da vida e apoiar desfechos de saúde a longo prazo.",
+          "takeaways": [
+            "A adolescência envolve necessidades nutricionais fisiológicas e de desenvolvimento únicas.",
+            "A qualidade da dieta tende a ser baixa nesse grupo etário, com lacunas nutricionais identificáveis.",
+            "Há necessidade de mais pesquisas direcionadas e de orientações específicas para adolescentes.",
+            "Estratégias de saúde pública e clínicas poderiam se beneficiar de diretrizes projetadas para essa fase da vida."
+          ]
+        },
+        "hu": {
+          "title": "Felhívás bizonyítékokon alapuló, serdülőknek szóló, specifikus étrendi iránymutatásra",
+          "summary": "Szakértők rámutatnak, hogy a serdülőkor döntő időszak a táplálkozás szempontjából a gyors növekedés és az agyi fejlődés miatt, mégis az étrendminőség ebben a korcsoportban különösen alacsony. A cikk kiemeli a tápanyagszükségleti hiányokat, a viselkedési és társadalmi tényezőket, valamint a célzott kutatások és ajánlások hiányát serdülők számára.",
+          "whyItMatters": "A korosztályra szabott, jobb minőségű étrendi iránymutatás segíthet a tápanyaghianyok kezelése során egy fontos életszakaszban, és támogathatja a hosszú távú egészségi kimeneteleket.",
+          "takeaways": [
+            "A serdülőkor sajátos fiziológiai és fejlődési táplálkozási igényekkel jár.",
+            "Ebben a korcsoportban az étrendminőség hajlamosan alacsony lenni, és meghatározhatók tápanyaghiányok.",
+            "Több célzott kutatásra és serdülőknek szóló ajánlásra van szükség.",
+            "A közegészségügyi és klinikai stratégiák profitálhatnak az életkorspecifikus iránymutatásokból."
+          ]
+        },
+        "ar": {
+          "title": "نداء لتوجيه غذائي محدد ومستند إلى الأدلة لتغذية المراهقين",
+          "summary": "يشير الخبراء إلى أن مرحلة المراهقة تمثل نافذة حاسمة للتغذية بسبب النمو السريع وتطور الدماغ، ومع ذلك نوعية النظام الغذائي لدى هذه الفئة منخفضة بشكل خاص. يسلط المقال الضوء على ثغرات المغذيات والعوامل السلوكية والاجتماعية ونقص الأبحاث والتوجيهات المخصصة للمراهقين.",
+          "whyItMatters": "قد تساعد إرشادات غذائية محسنة ومصممة للعمر في معالجة عجز المغذيات خلال مرحلة تشكيلية من الحياة ودعم نتائج صحية على المدى الطويل.",
+          "takeaways": [
+            "المراهقة تنطوي على احتياجات تغذوية فسيولوجية وتطورية فريدة.",
+            "تميل جودة النظام الغذائي إلى أن تكون منخفضة في هذه الفئة، مع وجود فجوات مغذية محددة.",
+            "هناك حاجة إلى مزيد من البحث الموجه والتوجيهات المخصصة للمراهقين.",
+            "قد تستفيد السياسات الصحية والسريرية من إرشادات مصممة لهذه المرحلة العمرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=adolescent-diet-guidance-medicalxpress-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/adolescent-diet-guidance-medicalxpress-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/adolescent-diet-guidance-medicalxpress-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Call for specific, evidence‑based dietary guidance tailored to adolescents.\nStory summary: Experts note adolescence is a crucial window for nutrition because of rapid growth and brain development, yet diet quality is particularly low in this age group. The piece highlights nutrient gaps, behavioral and social factors, and a shortage of tailored research and recommendations for adolescents..\nCategory: public-health-nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "eye-drops-blind-mice-sciencedaily-2026-08-28",
+      "category": "medical-research",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+      "sourceTitle": "Experimental eye drops help blind mice see again",
+      "publishedAt": "Fri, 28 Aug 2026 10:21:46 EDT",
+      "languages": {
+        "en": {
+          "title": "Light‑activated compounds restored light perception in blind mice, with eye‑drop delivery effective for some compounds",
+          "summary": "Scientists tested light‑activated drugs in blind mice and observed restored light perception and visually guided behavior without using gene therapy, implants, or specialized lighting. Two leading compounds produced effects when given as eye drops, suggesting a potentially less invasive route for further study.",
+          "whyItMatters": "A noninvasive pharmacological approach to restoring light perception would represent a different strategy from gene therapy or implants and could simplify delivery if findings translate beyond animal models.",
+          "takeaways": [
+            "Light‑activated drugs produced measurable light perception and behavior changes in mouse models.",
+            "Some compounds were effective when administered as eye drops, offering a potentially simpler route of delivery.",
+            "The research is preclinical in animals; human relevance and safety need extensive investigation.",
+            "The approach differs from gene therapy and device‑based strategies used in other vision research."
+          ]
+        },
+        "es": {
+          "title": "Compuestos activados por la luz restauraron la percepción luminosa en ratones ciegos; algunas formulaciones funcionaron como gotas oculares",
+          "summary": "Científicos probaron fármacos activados por la luz en ratones ciegos y observaron la restauración de la percepción luminosa y comportamientos guiados visualmente sin usar terapia génica, implantes o iluminación especializada. Dos compuestos principales produjeron efectos cuando se administraron como gotas oculares, lo que sugiere una vía de entrega potencialmente menos invasiva para estudios posteriores.",
+          "whyItMatters": "Un enfoque farmacológico no invasivo para restaurar la percepción luminosa sería una estrategia diferente a la terapia génica o los implantes y podría simplificar la administración si los hallazgos se trasladan más allá de modelos animales.",
+          "takeaways": [
+            "Los fármacos activados por la luz produjeron percepción luminosa mensurable y cambios de comportamiento en modelos de ratón.",
+            "Algunos compuestos fueron eficaces al administrarse como gotas oculares, ofreciendo una vía de entrega potencialmente más simple.",
+            "La investigación es preclínica en animales; la relevancia y seguridad en humanos requieren una amplia investigación.",
+            "El enfoque difiere de la terapia génica y de las estrategias basadas en dispositivos utilizadas en otras investigaciones sobre visión."
+          ]
+        },
+        "ru": {
+          "title": "Светоактивируемые соединения восстановили восприятие света у слепых мышей; для некоторых препаратов эффективна доставка глазными каплями",
+          "summary": "Учёные проверили светоактивируемые препараты на слепых мышах и заметили восстановление восприятия света и поведение, ориентированное на зрение, без использования генной терапии, имплантов или специального освещения. Два ведущих соединения дали эффект при закапывании в глаза, что указывает на потенциально менее инвазивный путь доставки для дальнейших исследований.",
+          "whyItMatters": "Нефоперативный фармакологический подход к восстановлению восприятия света отличается от генной терапии или имплантов и мог бы упростить доставку, если результаты окажутся переносимыми за пределы моделей животных.",
+          "takeaways": [
+            "Светоактивируемые препараты вызвали измеримое восприятие света и изменения поведения в мышиных моделях.",
+            "Некоторые соединения оказались эффективны при применении в виде глазных капель, что предлагает более простой путь доставки.",
+            "Исследование является доклиническим на животных; значимость и безопасность для людей требуют тщательного изучения.",
+            "Подход отличается от генной терапии и стратегий на основе устройств, используемых в других исследованиях зрения."
+          ]
+        },
+        "uk": {
+          "title": "Світлочутливі сполуки відновили сприйняття світла в сліпих мишей; декому з них ефективно вводилися очними краплями",
+          "summary": "Вчені протестували світлочутливі препарати в сліпих мишей і спостерігали відновлення сприйняття світла та поведінки, керованої зором, без використання генетичної терапії, імплантів або спеціального освітлення. Два провідні з'єднання дали ефект при введенні у вигляді очних крапель, що вказує на потенційно менш інвазивний шлях для подальших досліджень.",
+          "whyItMatters": "Невтручальний фармакологічний підхід до відновлення сприйняття світла відрізняється від генетичної терапії чи імплантів і, якщо результати будуть релевантні поза моделями тварин, може спростити доставку методів лікування.",
+          "takeaways": [
+            "Світлочутливі препарати спричинили вимірювані зміни в сприйнятті світла та поведінці у модельних мишах.",
+            "Деякі сполуки були ефективні при застосуванні як очні краплі, що пропонує потенційно простіший шлях доставки.",
+            "Дослідження є доклінічним у тварин; відповідність людям і питання безпеки потребують широкого вивчення.",
+            "Підхід відрізняється від генетичної терапії та пристроїв, що застосовуються в інших дослідженнях зору."
+          ]
+        },
+        "fr": {
+          "title": "Des composés activés par la lumière ont restauré la perception lumineuse chez des souris aveugles, certains efficaces en gouttes oculaires",
+          "summary": "Des scientifiques ont testé des médicaments activés par la lumière chez des souris aveugles et ont observé une restauration de la perception lumineuse et des comportements visuellement guidés sans recourir à la thérapie génique, aux implants ou à un éclairage spécialisé. Deux composés principaux ont produit des effets lorsqu'ils ont été administrés sous forme de gouttes oculaires, suggérant une voie potentiellement moins invasive pour des études ultérieures.",
+          "whyItMatters": "Une approche pharmacologique non invasive pour restaurer la perception lumineuse constituerait une stratégie différente de la thérapie génique ou des implants et pourrait faciliter l'administration si les résultats se transposent au-delà des modèles animaux.",
+          "takeaways": [
+            "Des composés activés par la lumière ont entraîné des changements mesurables de perception lumineuse et de comportement chez des modèles murins.",
+            "Certains composés étaient efficaces administrés en gouttes oculaires, offrant une voie de délivrance potentiellement plus simple.",
+            "La recherche est préclinique chez l'animal ; la pertinence chez l'humain et la sécurité nécessitent des investigations approfondies.",
+            "L'approche diffère des stratégies basées sur la thérapie génique et les dispositifs employées dans d'autres recherches sur la vision."
+          ]
+        },
+        "de": {
+          "title": "Lichtaktivierte Verbindungen stellten Lichtwahrnehmung bei blinden Mäusen wieder her; Augentropfen wirkten für einige Verbindungen",
+          "summary": "Wissenschaftler testeten lichtaktivierte Wirkstoffe bei blinden Mäusen und beobachteten wiederhergestellte Lichtwahrnehmung und visuell gesteuertes Verhalten, ohne Gentherapie, Implantate oder spezielle Beleuchtung zu verwenden. Zwei führende Verbindungen zeigten Effekte bei Verabreichung als Augentropfen, was eine potenziell weniger invasive Verabreichungsroute für weitere Studien nahelegt.",
+          "whyItMatters": "Ein nichtinvasiver pharmakologischer Ansatz zur Wiederherstellung der Lichtwahrnehmung würde sich von Gentherapie oder Implantaten unterscheiden und könnte die Verabreichung vereinfachen, falls sich die Ergebnisse über Tiermodelle hinaus übertragen lassen.",
+          "takeaways": [
+            "Lichtaktivierte Wirkstoffe erzeugten messbare Lichtwahrnehmung und Verhaltensänderungen in Mausmodellen.",
+            "Einige Verbindungen waren bei Verabreichung als Augentropfen wirksam und bieten eine potenziell einfachere Verabreichungsform.",
+            "Die Forschung ist präklinisch in Tieren; Relevanz und Sicherheit für Menschen bedürfen umfangreicher Untersuchungen.",
+            "Der Ansatz unterscheidet sich von Gentherapie und gerätebasierten Strategien in anderer Sehforschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Compostos ativados por luz restauraram percepção luminosa em camundongos cegos; colírios foram eficazes para alguns compostos",
+          "summary": "Cientistas testaram drogas ativadas por luz em camundongos cegos e observaram restauração da percepção luminosa e comportamento guiado pela visão sem usar terapia gênica, implantes ou iluminação especializada. Dois compostos principais produziram efeitos quando administrados como colírios, sugerindo uma via de entrega potencialmente menos invasiva para estudos futuros.",
+          "whyItMatters": "Uma abordagem farmacológica não invasiva para restaurar a percepção luminosa representaria uma estratégia diferente da terapia gênica ou de implantes e poderia simplificar a administração se os achados se traduzirem além dos modelos animais.",
+          "takeaways": [
+            "Drogas ativadas por luz produziram percepção luminosa mensurável e mudanças comportamentais em modelos de camundongo.",
+            "Alguns compostos foram eficazes quando administrados como colírios, oferecendo uma rota de entrega potencialmente mais simples.",
+            "A pesquisa é pré‑clínica em animais; relevância e segurança em humanos exigem investigação extensa.",
+            "A abordagem difere de terapias gênicas e estratégias baseadas em dispositivos usadas em outras pesquisas sobre visão."
+          ]
+        },
+        "hu": {
+          "title": "Fényaktiválható vegyületek visszaállították a fényészlelést vak egerekben; egyes anyagok szemcseppként is hatásosak voltak",
+          "summary": "A kutatók fényre aktiválódó szereket teszteltek vak egerekben, és megfigyeltek helyreállított fényészlelést és látás által irányított viselkedést génterápia, beültetett eszközök vagy speciális világítás alkalmazása nélkül. Két vezető vegyület hatást fejtett ki szemcseppként alkalmazva, ami kevésbé invazív beadási utat jelezhet a további vizsgálatokhoz.",
+          "whyItMatters": "Egy nem invazív, gyógyszeres megközelítés a fényészlelés helyreállítására más stratégiát jelentene a génterápiához vagy beültetésekhez képest, és egyszerűsítheti a beadást, ha az eredmények állatmodellről átültethetők emberekre.",
+          "takeaways": [
+            "A fényaktiválható szerek mérhető fényészlelést és viselkedésváltozásokat hoztak létre egérmodellekben.",
+            "Egyes vegyületek szemcsepp formájában is hatásosnak bizonyultak, ami egyszerűbb beadási út lehet.",
+            "A kutatás preklinikai, állati modelleken alapul; az emberi relevancia és biztonságosság széles körű vizsgálatot igényel.",
+            "A megközelítés különbözik a génterápiás és eszközalapú stratégiáktól más látáskutatásokban."
+          ]
+        },
+        "ar": {
+          "title": "مركبات تُنَشَّط بالضوء أعادت الإدراك الضوئي لفئران عمياء، وبعضها فعّال عند إعطائه على شكل قطرات للعين",
+          "summary": "اختبر العلماء أدوية تُفَعَّل بالضوء في فئران عمياء ولاحظوا استعادة للإدراك الضوئي وسلوك موجه بصريًا دون استخدام العلاج الجيني أو الغرسات أو إضاءة متخصصة. أثبتت مركبان رائدان فعاليتهما عند إعطائهما كقطرات للعين، ما يوحي بإمكانية مسار إعطاء أقل غزوًا للدراسات المستقبلية.",
+          "whyItMatters": "قد يمثل نهج دوائي غير غازي لاستعادة الإحساس بالضوء استراتيجية مختلفة عن العلاجات الجينية أو الغرسية، وقد يبسط طرق الإعطاء إذا تعممت النتائج إلى ما بعد نماذج الحيوانات.",
+          "takeaways": [
+            "أدت الأدوية النشطة بالضوء إلى إدراك ضوئي وتغيرات سلوكية قابلة للقياس في نماذج الفئران.",
+            "كان بعض المركبات فعالًا عند إعطائه على شكل قطرات للعين، ما يتيح مسار إعطاء أبسط محتملًا.",
+            "الأبحاث ما تزال ما قبل سريرية وتعتمد على حيوانات؛ لا بد من تحقيقات واسعة حول الأهمية البشرية والسلامة.",
+            "النهج يختلف عن استراتيجيات العلاج الجيني والأجهزة المستخدمة في أبحاث الرؤية الأخرى."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=eye-drops-blind-mice-sciencedaily-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eye-drops-blind-mice-sciencedaily-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eye-drops-blind-mice-sciencedaily-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Light‑activated compounds restored light perception in blind mice, with eye‑drop delivery effective for some compounds.\nStory summary: Scientists tested light‑activated drugs in blind mice and observed restored light perception and visually guided behavior without using gene therapy, implants, or specialized lighting. Two leading compounds produced effects when given as eye drops, suggesting a potentially less invasive route for further study..\nCategory: medical-research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "antibiotic-duration-conversation-2026-08-28",
+      "category": "infectious-disease",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/must-i-take-all-my-antibiotics-why-infectious-disease-experts-are-rethinking-this-longstanding-rule-248617",
+      "sourceTitle": "‘Must I take all my antibiotics?’ Why infectious disease experts are rethinking this longstanding rule",
+      "publishedAt": "2026-08-28T12:17:45Z",
+      "languages": {
+        "en": {
+          "title": "Experts are reexamining standard antibiotic durations for many infections",
+          "summary": "Researchers increasingly find that shorter antibiotic courses can be as effective as longer ones for certain infections. Ongoing studies are refining optimal treatment lengths, and current evidence does not always align with when symptoms improve.",
+          "whyItMatters": "Antibiotic duration affects resistance risk, side effects, and healthcare practices; updated evidence could change prescribing norms and patient guidance.",
+          "takeaways": [
+            "Shorter courses have been shown to work for some conditions in clinical studies.",
+            "Ideal treatment lengths remain uncertain for many infections and are the subject of active research.",
+            "Reevaluating durations is part of efforts to balance effectiveness with reducing resistance and harms.",
+            "Guidance on optimal durations may evolve as more evidence emerges."
+          ]
+        },
+        "es": {
+          "title": "Los expertos reexaminan las duraciones estándar de antibióticos para muchas infecciones",
+          "summary": "Investigadores cada vez más encuentran que cursos más cortos de antibióticos pueden ser tan efectivos como los más largos para ciertas infecciones. Estudios en curso están afinando las longitudes de tratamiento óptimas, y la evidencia actual no siempre coincide con la mejoría de los síntomas.",
+          "whyItMatters": "La duración del tratamiento con antibióticos afecta el riesgo de resistencia, los efectos secundarios y las prácticas sanitarias; la evidencia actualizada podría cambiar las normas de prescripción y la orientación a pacientes.",
+          "takeaways": [
+            "Cursos más cortos han demostrado ser efectivos para algunas condiciones en estudios clínicos.",
+            "Las longitudes de tratamiento ideales siguen siendo inciertas para muchas infecciones y son objeto de investigación activa.",
+            "Reevaluar las duraciones forma parte de los esfuerzos por equilibrar la efectividad con la reducción de resistencia y daños.",
+            "Las recomendaciones sobre duraciones óptimas pueden evolucionar a medida que surja más evidencia."
+          ]
+        },
+        "ru": {
+          "title": "Эксперты пересматривают стандартные сроки приёма антибиотиков при многих инфекциях",
+          "summary": "Исследователи всё чаще обнаруживают, что более короткие курсы антибиотиков могут быть столь же эффективны, как и более длительные, при некоторых инфекциях. Идут исследования, уточняющие оптимальную длительность лечения, и текущие данные не всегда совпадают с улучшением симптомов.",
+          "whyItMatters": "Длительность приёма антибиотиков влияет на риск формирования резистентности, побочные эффекты и клиническую практику; обновлённые данные могут изменить нормы назначения и рекомендации пациентам.",
+          "takeaways": [
+            "Более короткие курсы показали эффективность при некоторых состояниях в клинических исследованиях.",
+            "Оптимальные сроки лечения остаются неопределёнными для многих инфекций и являются предметом активных исследований.",
+            "Пересмотр длительностей лечения — часть усилий по сочетанию эффективности и снижения резистентности и вреда.",
+            "Рекомендации по оптимальной длительности могут изменяться по мере появления новых данных."
+          ]
+        },
+        "uk": {
+          "title": "Експерти переглядають стандартні тривалості антибіотикотерапії при багатьох інфекціях",
+          "summary": "Дослідники дедалі частіше виявляють, що коротші курси антибіотиків можуть бути так само ефективними, як довші, для певних інфекцій. Тривають дослідження, які уточнюють оптимальну тривалість лікування, і наявні докази не завжди узгоджуються з моментом поліпшення симптомів.",
+          "whyItMatters": "Тривалість прийому антибіотиків впливає на ризик резистентності, побічні ефекти та медичну практику; оновлені дані можуть змінити норми призначення та інформацію для пацієнтів.",
+          "takeaways": [
+            "Коротші курси виявилися дієвими для деяких станів у клінічних дослідженнях.",
+            "Ідеальна тривалість лікування залишається невизначеною для багатьох інфекцій і є предметом активних досліджень.",
+            "Перегляд тривалості лікування є частиною зусиль зі збалансування ефективності та зменшення резистентності й шкоди.",
+            "Рекомендації щодо оптимальної тривалості можуть еволюціонувати з появою нових даних."
+          ]
+        },
+        "fr": {
+          "title": "Les experts réexaminent la durée standard des antibiotiques pour de nombreuses infections",
+          "summary": "Les chercheurs constatent de plus en plus que des durées plus courtes d'antibiotiques peuvent être aussi efficaces que des durées plus longues pour certaines infections. Des études en cours affinent les durées optimales, et les preuves actuelles ne coïncident pas toujours avec l'amélioration des symptômes.",
+          "whyItMatters": "La durée des antibiotiques influence le risque de résistance, les effets indésirables et les pratiques cliniques ; des preuves actualisées pourraient modifier les normes de prescription et les conseils aux patients.",
+          "takeaways": [
+            "Des durées plus courtes se sont révélées efficaces pour certaines affections dans des études cliniques.",
+            "La durée idéale de traitement reste incertaine pour de nombreuses infections et fait l'objet de recherches actives.",
+            "La réévaluation des durées s'inscrit dans les efforts pour concilier efficacité et réduction de la résistance et des dommages.",
+            "Les recommandations sur la durée optimale peuvent évoluer à mesure que de nouvelles preuves émergent."
+          ]
+        },
+        "de": {
+          "title": "Fachleute überdenken Standard‑Behandlungsdauern von Antibiotika bei vielen Infektionen",
+          "summary": "Forscher finden zunehmend, dass kürzere Antibiotikakuren für bestimmte Infektionen genauso wirksam sein können wie längere. Laufende Studien präzisieren optimale Behandlungsdauern, und die aktuelle Evidenz stimmt nicht immer mit dem Zeitpunkt überein, zu dem Symptome sich bessern.",
+          "whyItMatters": "Die Dauer der Antibiotikabehandlung beeinflusst das Risiko von Resistenzentwicklung, Nebenwirkungen und klinische Praxis; aktualisierte Evidenz könnte Verschreibungsnormen und Patient*innenberatung verändern.",
+          "takeaways": [
+            "Kürzere Behandlungsdauern haben sich in klinischen Studien für einige Erkrankungen als wirksam erwiesen.",
+            "Für viele Infektionen bleiben ideale Behandlungsdauern unsicher und sind Gegenstand aktiver Forschung.",
+            "Die Neubewertung von Dauern ist Teil von Bemühungen, Wirksamkeit mit der Reduktion von Resistenz und Schäden in Einklang zu bringen.",
+            "Leitlinien zu optimalen Dauern können sich weiterentwickeln, wenn mehr Evidenz vorliegt."
+          ]
+        },
+        "pt-br": {
+          "title": "Especialistas reexaminam durações padrão de antibióticos para muitas infecções",
+          "summary": "Pesquisadores constatam cada vez mais que cursos mais curtos de antibióticos podem ser tão eficazes quanto os mais longos para certas infecções. Estudos em andamento estão refinando os comprimentos ideais do tratamento, e as evidências atuais nem sempre coincidem com o momento em que os sintomas melhoram.",
+          "whyItMatters": "A duração dos antibióticos afeta o risco de resistência, efeitos colaterais e práticas de saúde; evidências atualizadas podem alterar normas de prescrição e orientações aos pacientes.",
+          "takeaways": [
+            "Cursos mais curtos demonstraram funcionar para algumas condições em estudos clínicos.",
+            "As durações ideais de tratamento permanecem incertas para muitas infecções e são objeto de pesquisa ativa.",
+            "Reavaliar as durações faz parte dos esforços para equilibrar eficácia com redução da resistência e danos.",
+            "As orientações sobre durações ótimas podem evoluir à medida que mais evidências surgem."
+          ]
+        },
+        "hu": {
+          "title": "Szakértők újraértékelik számos fertőzésre vonatkozó antibiotikum‑időtartamokat",
+          "summary": "A kutatók egyre gyakrabban azt találják, hogy rövidebb antibiotikum‑kurzusok bizonyos fertőzések esetén ugyanolyan hatékonyak lehetnek, mint a hosszabbak. Folyamatban lévő vizsgálatok finomítják a kezelési időtartamokat, és a jelenlegi bizonyítékok nem mindig esnek egybe a tünetek megszűnésének idejével.",
+          "whyItMatters": "Az antibiotikum‑időtartam befolyásolja a rezisztencia kockázatát, a mellékhatásokat és az egészségügyi gyakorlatokat; az újabb bizonyítékok változtathatják az előírási normákat és a beteg‑tájékoztatást.",
+          "takeaways": [
+            "Klinikai vizsgálatok kimutatták, hogy rövidebb kúrák egyes körülmények között hatékonyak lehetnek.",
+            "Sok fertőzés ideális kezelési ideje továbbra is bizonytalan és aktív kutatás tárgya.",
+            "Az időtartamok újragondolása része annak a törekvésnek, hogy egyensúlyt találjanak a hatékonyság és a rezisztencia/mellékhatások csökkentése között.",
+            "A legjobb iránymutatások a bizonyítékok gyarapodásával változhatnak."
+          ]
+        },
+        "ar": {
+          "title": "الخبراء يعيدون النظر في مدد المضادات الحيوية المعيارية لكثير من العدوى",
+          "summary": "تجد الأبحاث بشكل متزايد أن دورات أقصر من المضادات الحيوية قد تكون فعالة مثل الفترات الأطول لبعض العدوى. تواصل الدراسات الجارية تحديد أطوال العلاج المثلى، والأدلة الحالية لا تتطابق دائمًا مع وقت تحسن الأعراض.",
+          "whyItMatters": "تطول مدة علاج المضادات الحيوية أثر على خطر المقاومة والآثار الجانبية والممارسات الصحية؛ قد تغير الأدلة الأحدث أنماط صرف الأدوية وتوجيهات المرضى.",
+          "takeaways": [
+            "أظهرت دراسات سريرية أن الدورات الأقصر قد تنجح في بعض الحالات.",
+            "لا يزال طول العلاج المثالي غير مؤكد للعديد من العدوى ويجري البحث فيه.",
+            "إعادة تقييم مدد العلاج جزء من الجهود لموازنة الفعالية مع تقليل المقاومة والأضرار.",
+            "قد تتطور الإرشادات بشأن مدد العلاج مع ظهور أدلة إضافية."
+          ]
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=antibiotic-duration-conversation-2026-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/antibiotic-duration-conversation-2026-08-28-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/antibiotic-duration-conversation-2026-08-28-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Experts are reexamining standard antibiotic durations for many infections.\nStory summary: Researchers increasingly find that shorter antibiotic courses can be as effective as longer ones for certain infections. Ongoing studies are refining optimal treatment lengths, and current evidence does not always align with when symptoms improve..\nCategory: infectious-disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "article2",
@@ -643,122 +1464,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Ultra-processed foods linked with higher prostate cancer risk in large US study.\nStory summary: A nationally representative analysis of over 17,000 U.S. men found that higher intake of ultra-processed foods (including soft drinks, packaged snacks, cereals, and processed meats) was associated with about a 24–31% higher risk of prostate cancer after adjusting for common confounders..\nCategory: cancer & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "a6",
-      "category": "Sustainable Nutrition",
-      "sourceName": "nutrition.bmj.com",
-      "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
-      "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Trial data used to compare environmental impacts of low‑fat vegan and Mediterranean diets",
-          "summary": "A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and cumulative energy demand for participants following a low‑fat vegan diet versus a Mediterranean diet. The study used actual 3‑day dietary records from trial completers to estimate environmental footprints.",
-          "whyItMatters": "Combining trial dietary data with environmental metrics provides real‑world insight into how different healthful eating patterns compare on sustainability measures, informing dietary guidance that considers both health and planetary impact.",
-          "takeaways": [
-            "This analysis used real trial records to estimate environmental impacts of two plant‑forward diets.",
-            "Plant‑based and Mediterranean patterns are assessed for greenhouse gas emissions and energy demand.",
-            "Results help link personal dietary choices to broader sustainability outcomes.",
-            "Such findings can inform policy and individual decisions about sustainable eating."
-          ]
-        },
-        "es": {
-          "title": "Datos de ensayo usados para comparar impactos ambientales de dietas vegana baja en grasa y mediterránea",
-          "summary": "Un análisis secundario de un ensayo aleatorizado cruzado calculó las emisiones de gases de efecto invernadero y la demanda energética acumulada para participantes que siguieron una dieta vegana baja en grasa frente a una dieta mediterránea. El estudio utilizó registros dietéticos reales de 3 días de quienes completaron el ensayo para estimar huellas ambientales.",
-          "whyItMatters": "Combinar datos dietéticos de ensayos con métricas ambientales ofrece información del mundo real sobre cómo diferentes patrones alimentarios saludables se comparan en medidas de sostenibilidad, lo que puede informar recomendaciones dietéticas que consideren tanto la salud como el impacto planetario.",
-          "takeaways": [
-            "Este análisis empleó registros reales de un ensayo para estimar impactos ambientales de dos dietas con orientación vegetal.",
-            "Se evaluaron patrones basados en plantas y mediterráneos en emisiones de gases de efecto invernadero y demanda energética.",
-            "Los resultados ayudan a vincular decisiones alimentarias personales con resultados de sostenibilidad más amplios.",
-            "Tales hallazgos pueden informar políticas y decisiones individuales sobre alimentación sostenible."
-          ]
-        },
-        "ru": {
-          "title": "Данные клинического испытания использованы для сравнения экологического следа низкожировой веганской и средиземноморской диет",
-          "summary": "Вторичный анализ рандомизированного перекрёстного исследования рассчитает выбросы парниковых газов и совокупный энергетический спрос для участников, соблюдавших низкожировую веганскую диету по сравнению со средиземноморской. Исследование использовало реальные трёхдневные пищевые записи завершивших испытание участников для оценки экологического следа.",
-          "whyItMatters": "Сочетание диетических данных из испытаний с экологическими метриками даёт представление из реальной практики о сравнении различных здоровых диет по показателям устойчивости, что может помочь при формировании рекомендаций с учётом здоровья и воздействия на планету.",
-          "takeaways": [
-            "Анализ использовал реальные записи из клинического испытания для оценки экологических последствий двух растительноориентированных диет.",
-            "Оценивались средиземноморский и растительноориентированный подходы по выбросам парниковых газов и энергетическим затратам.",
-            "Результаты помогают связать личный выбор питания с более широкими показателями устойчивости.",
-            "Такие данные могут информировать политику и индивидуальные решения в пользу устойчивого питания."
-          ]
-        },
-        "uk": {
-          "title": "Дані випробування використали для порівняння екологічних впливів низькожирової веганської та середземноморської дієт",
-          "summary": "Вторинний аналіз рандомізованого кросоверного дослідження підрахував викиди парникових газів і кумулятивний попит на енергію для учасників, які дотримувалися низькожирової веганської дієти або середземноморської дієти. Для оцінки екологічного сліду використали реальні 3‑денні харчові записи учасників, які завершили випробування.",
-          "whyItMatters": "Поєднання даних харчування з клінічного випробування з екологічними метриками дає уявлення з реального життя про те, як різні корисні для здоров’я моделі харчування порівнюються за показниками сталості, що допомагає формувати рекомендації, які враховують і здоров’я, і вплив на планету.",
-          "takeaways": [
-            "Аналіз використав реальні записи харчування випробування для оцінки екологічних впливів двох рослинно-орієнтованих дієт.",
-            "Оцінювалися моделі, багаті рослинною їжею, щодо викидів парникових газів та енергетичного попиту.",
-            "Результати допомагають пов’язати особистий вибір їжі з ширшими наслідками для сталості.",
-            "Такі висновки можуть інформувати політику та індивідуальні рішення щодо сталого харчування."
-          ]
-        },
-        "fr": {
-          "title": "Des données d’essai utilisées pour comparer les impacts environnementaux d’un régime végan pauvre en graisses et d’un régime méditerranéen",
-          "summary": "Une analyse secondaire d’un essai randomisé en crossover a calculé les émissions de gaz à effet de serre et la demande énergétique cumulative pour des participants suivant un régime végan pauvre en graisses versus un régime méditerranéen. L’étude a utilisé des journaux alimentaires réels de 3 jours des participants ayant complété l’essai pour estimer l’empreinte environnementale.",
-          "whyItMatters": "Combiner des données alimentaires d’essais cliniques avec des métriques environnementales offre un aperçu concret de la manière dont différentes habitudes alimentaires saines se comparent en termes de durabilité, ce qui peut informer des recommandations tenant compte à la fois de la santé et de l’impact planétaire.",
-          "takeaways": [
-            "Cette analyse a utilisé de vrais enregistrements alimentaires d’essai pour estimer les impacts environnementaux de deux régimes favorables aux plantes.",
-            "Les modèles à base de plantes et méditerranéens sont évalués pour les émissions de gaz à effet de serre et la demande énergétique.",
-            "Les résultats aident à relier les choix alimentaires individuels à des conséquences plus larges en matière de durabilité.",
-            "Ces conclusions peuvent informer la politique et les décisions individuelles sur une alimentation durable."
-          ]
-        },
-        "de": {
-          "title": "Studiendaten zur Abschätzung der Umweltauswirkungen einer fettarmen veganen und der mediterranen Ernährung verwendet",
-          "summary": "Eine Sekundäranalyse einer randomisierten Crossover‑Studie berechnete Treibhausgasemissionen und kumulativen Energiebedarf für Teilnehmer, die eine fettarme vegane Ernährung im Vergleich zu einer mediterranen Ernährung befolgten. Die Studie nutzte tatsächliche 3‑Tages‑Ernährungsaufzeichnungen von Studienteilnehmern, um Umweltfußabdrücke abzuschätzen.",
-          "whyItMatters": "Die Kombination von Studiendaten mit Umweltkennzahlen liefert praxisnahe Einsichten, wie verschiedene gesundheitsförderliche Ernährungsweisen in Nachhaltigkeitskennzahlen abschneiden, und kann Ernährungsleitlinien informieren, die sowohl Gesundheit als auch planetare Auswirkungen berücksichtigen.",
-          "takeaways": [
-            "Die Analyse nutzte reale Studienaufzeichnungen, um Umweltauswirkungen zweier pflanzenbetonter Ernährungsweisen abzuschätzen.",
-            "Pflanzenbasierte und mediterrane Muster wurden hinsichtlich Treibhausgasemissionen und Energiebedarf bewertet.",
-            "Ergebnisse helfen, persönliche Ernährungsentscheidungen mit breiteren Nachhaltigkeitsfolgen zu verknüpfen.",
-            "Solche Befunde können Politik und individuelle Entscheidungen zu nachhaltigem Essen informieren."
-          ]
-        },
-        "pt-br": {
-          "title": "Dados de ensaio usados para comparar impactos ambientais de dietas vegana com baixo teor de gordura e mediterrânea",
-          "summary": "Uma análise secundária de um ensaio clínico randomizado cruzado calculou emissões de gases de efeito estufa e demanda energética acumulada para participantes que seguiram uma dieta vegana pobre em gordura versus uma dieta mediterrânea. O estudo usou registros dietéticos reais de 3 dias dos participantes que completaram o ensaio para estimar pegadas ambientais.",
-          "whyItMatters": "Combinar dados dietéticos de ensaios com métricas ambientais fornece uma visão do mundo real sobre como diferentes padrões alimentares saudáveis se comparam em termos de sustentabilidade, informando orientações que considerem tanto a saúde quanto o impacto planetário.",
-          "takeaways": [
-            "A análise usou registros reais de ensaio para estimar impactos ambientais de duas dietas com foco em plantas.",
-            "Padrões à base de plantas e mediterrâneos foram avaliados quanto a emissões de gases de efeito estufa e demanda energética.",
-            "Os resultados ajudam a vincular escolhas alimentares pessoais a desfechos de sustentabilidade mais amplos.",
-            "Achados assim podem orientar políticas e decisões individuais sobre alimentação sustentável."
-          ]
-        },
-        "hu": {
-          "title": "Vizsgálati adatokkal hasonlították össze az alacsony zsírtartalmú vegán és a mediterrán étrend környezeti hatásait",
-          "summary": "Egy randomizált, keresztezéses vizsgálat másodlagos elemzése során a kutatók a résztvevők tényleges 3 napos étkezési naplóit felhasználva számolták ki az üvegházhatású gázkibocsátást és az összesített energiaigényt alacsony zsírtartalmú vegán illetve mediterrán étrend szerint.",
-          "whyItMatters": "A vizsgálati étrendi adatok környezeti mutatókkal való kombinálása valós világbeli betekintést ad arról, hogy különböző egészséges étkezési minták hogyan viszonyulnak a fenntarthatóság szempontjából, segítve az egészség és a bolygó hatásainak együttes figyelembevételét az iránymutatásoknál.",
-          "takeaways": [
-            "Ez az elemzés valós vizsgálati feljegyzéseket használva becsülte két növényközpontú étrend környezeti hatását.",
-            "A növényi alapú és a mediterrán mintázatokat üvegházhatású gázkibocsátás és energiaigény szempontjából értékelték.",
-            "Az eredmények segítenek összekapcsolni az egyéni étkezési döntéseket a szélesebb környezeti következményekkel.",
-            "Az ilyen eredmények támpontot adhatnak a fenntartható étkezésre vonatkozó politikákhoz és választásokhoz."
-          ]
-        },
-        "ar": {
-          "title": "اُستخدمت بيانات التجربة لمقارنة تأثيرات النظام النباتي منخفض الدسم والنظام المتوسطي على البيئة",
-          "summary": "في تحليل ثانوي لتجربة عشوائية متبادلة، حسب الباحثون انبعاثات غازات الدفيئة ومجموع الطلب على الطاقة للمشاركين الذين اتبعوا نظامًا نباتيًا منخفض الدسم مقابل نظام متوسطي. استُخدمت سجلات غذائية فعلية لمدة 3 أيام من المشاركين المكتملين للتجربة لتقدير البصمات البيئية.",
-          "whyItMatters": "يجمع الجمع بين بيانات النظام الغذائي من التجربة ومقاييس البيئة رؤى من العالم الحقيقي حول كيفية مقارنة أنماط الأكل الصحية المختلفة من حيث الاستدامة، مما يساعد في توجيه الإرشاد الغذائي الذي يأخذ في الحسبان الصحة وتأثيرات الكوكب معًا.",
-          "takeaways": [
-            "استخدم هذا التحليل سجلات فعلية من التجربة لتقدير التأثيرات البيئية لنظامين نباتيين موجهين.",
-            "قيِّمت الأنماط النباتية والمتوسطية من حيث انبعاثات غازات الدفيئة والطلب على الطاقة.",
-            "النتائج تساعد على ربط اختيارات الأفراد الغذائية بنتائج الاستدامة الأوسع.",
-            "يمكن أن تُستخدم هذه النتائج لإعلام السياسات والقرارات الفردية حول الأكل المستدام."
-          ]
-        }
-      },
-      "generatedAt": "2026-08-27T09:35:50.587Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a6",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial data used to compare environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and cumulative energy demand for participants following a low‑fat vegan diet versus a Mediterranean diet. The study used actual 3‑day dietary records from trial completers to estimate environmental footprints..\nCategory: Sustainable Nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a2",
@@ -73067,114 +73772,387 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO responds to U.S. notification of withdrawal, flags risks to global health cooperation.\nStory summary: WHO expressed regret over the United States' notification of withdrawal and noted that the decision raises issues related to global health security; the matter was slated for consideration by WHO governing bodies. The statement frames the withdrawal as having potential implications for shared health action and emergency response..\nCategory: global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "article9",
-      "category": "dietary guidelines",
+      "id": "dga-2025-2030-harvard-2026-01-09",
+      "category": "nutrition",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "2025–2030 Dietary Guidelines emphasize 'real food' while retaining saturated fat limit",
-          "summary": "The updated Dietary Guidelines for Americans promote eating 'real food,' put stronger emphasis on limiting added sugars and highly processed foods, and include a prominent visual that highlights a range of foods. Despite visuals featuring items like steak and full-fat dairy, the Guidelines maintain an upper limit of 10% of calories from saturated fat.",
-          "whyItMatters": "The Guidelines influence public nutrition messaging, food policy, and institutional feeding programs; shifts in emphasis can affect consumer choices and industry practices.",
+          "title": "Dietary Guidelines 2025–2030 emphasize whole foods and limits on added sugar",
+          "summary": "The 2025–2030 Dietary Guidelines for Americans were released with an overall “eat real food” message and a firmer emphasis on reducing added sugars and highly processed foods. A new graphic highlights a range of foods, including some higher‑fat animal products, but the written guidance maintains a longstanding limit on saturated fat at 10% of daily calories.",
+          "whyItMatters": "These federal guidelines influence public nutrition messaging, school and institutional menus, and consumer choices, so changes in emphasis can affect how people and organizations approach healthy eating.",
           "takeaways": [
-            "Stronger stance on added sugars and processed foods is a prominent change. ",
-            "Visual presentation may affect public perception but does not replace the numeric saturated fat recommendation. ",
-            "Guidelines inform policy and program decisions but are one input among many for individual dietary choices."
+            "The Guidelines reiterate a recommendation to limit added sugars and highly processed foods.",
+            "Visuals in the report give prominence to a wider variety of foods, which could be confusing without reading the text.",
+            "The numeric upper limit for saturated fat (10% of calories) remains in place.",
+            "Guidance favors whole, minimally processed foods as the foundation of healthy diets."
           ]
         },
         "es": {
-          "title": "Las Guías Alimentarias 2025–2030 enfatizan 'alimentos reales' pero mantienen límite para grasas saturadas",
-          "summary": "Las actualizadas Dietary Guidelines for Americans promueven consumir 'alimentos reales', ponen mayor énfasis en limitar azúcares añadidos y alimentos altamente procesados, e incluyen una representación visual destacando una variedad de alimentos. A pesar de que las imágenes muestran elementos como carne de res y lácteos enteros, las Guías mantienen un límite superior de 10 % de las calorías provenientes de grasas saturadas.",
-          "whyItMatters": "Las Guías influyen en los mensajes públicos sobre nutrición, en políticas alimentarias y en programas institucionales; los cambios de énfasis pueden afectar las elecciones de los consumidores y las prácticas de la industria.",
+          "title": "Las Guías Alimentarias 2025–2030 enfatizan los alimentos íntegros y límites al azúcar añadido",
+          "summary": "Las Guías Alimentarias para los estadounidenses 2025–2030 se publicaron con un mensaje general de “comer alimentos reales” y un énfasis más firme en reducir azúcares añadidos y alimentos altamente procesados. Un nuevo gráfico destaca una gama más amplia de alimentos, incluidos algunos productos animales con mayor contenido de grasa, pero la guía escrita mantiene el límite de larga data para las grasas saturadas en el 10% de las calorías diarias.",
+          "whyItMatters": "Estas guías federales influyen en la comunicación pública sobre nutrición, los menús escolares e institucionales y las decisiones de los consumidores, por lo que cambios en el énfasis pueden afectar cómo las personas y las organizaciones enfocan la alimentación saludable.",
           "takeaways": [
-            "Un cambio destacado es una postura más firme sobre azúcares añadidos y alimentos procesados.",
-            "La presentación visual puede influir en la percepción pública, pero no reemplaza la recomendación numérica sobre grasas saturadas.",
-            "Las Guías informan decisiones de política y programas, pero son uno de varios insumos para las elecciones dietéticas individuales."
+            "Las Guías reiteran la recomendación de limitar azúcares añadidos y alimentos altamente procesados.",
+            "Los elementos gráficos del informe dan protagonismo a una variedad más amplia de alimentos, lo que podría resultar confuso sin leer el texto.",
+            "El límite numérico para las grasas saturadas (10% de las calorías) se mantiene.",
+            "La orientación favorece los alimentos íntegros y mínimamente procesados como base de dietas saludables."
           ]
         },
         "ru": {
-          "title": "Диетические рекомендации на 2025–2030 гг. подчёркивают «настоящую еду», но сохраняют ограничение по насыщенным жирам",
-          "summary": "Обновлённые Dietary Guidelines for Americans продвигают идею потребления «настоящей еды», усиливают акцент на ограничении добавленных сахаров и сильно переработанных продуктов и включают заметное визуальное представление, показывающее разнообразие продуктов. Несмотря на изображения с такими элементами, как стейк и цельномолочные продукты, рекомендации сохраняют верхний предел — 10 % калорий из насыщенных жиров.",
-          "whyItMatters": "Эти рекомендации влияют на общественные сообщения по питанию, продовольственную политику и институциональное питание; изменения в акцентах могут повлиять на выбор потребителей и практики отрасли.",
+          "title": "Руководство по питанию 2025–2030: акцент на цельных продуктах и ограничении добавленного сахара",
+          "summary": "Руководство по питанию для американцев на 2025–2030 гг. опубликовано с общим посылом «есть настоящую еду» и более явным акцентом на сокращение добавленных сахаров и сильно обработанных продуктов. Новый графический материал показывает более широкий спектр продуктов, включая некоторые животные продукты с более высоким содержанием жира, но текстовые рекомендации сохраняют давно установленные пределы по насыщенным жирам — 10% от суточной калорийности.",
+          "whyItMatters": "Эти федеральные рекомендации влияют на публичные сообщения о питании, школьные и институциональные меню, а также на выбор потребителей, поэтому изменения в акцентах могут повлиять на подходы людей и организаций к здоровому питанию.",
           "takeaways": [
-            "Одним из заметных изменений является более жёсткая позиция по добавленным сахарам и переработанным продуктам.",
-            "Визуальное оформление может влиять на восприятие публики, но не заменяет числовую рекомендацию по насыщенным жирам.",
-            "Рекомендации служат ориентиром для политики и программ, но являются лишь одним из факторов при индивидуальном выборе питания."
+            "Рекомендация ограничивать добавленные сахара и сильно обработанные продукты повторена.",
+            "Визуальные материалы отчёта подчёркивают более широкий ассортимент продуктов, что без чтения текста может ввести в заблуждение.",
+            "Числовой верхний предел для насыщенных жиров (10% от калорий) остался в силе.",
+            "Рекомендации отдают предпочтение цельным, минимально обработанным продуктам как основе здорового питания."
           ]
         },
         "uk": {
-          "title": "Дорадчі харчові рекомендації США 2025–2030 підкреслюють «реальні продукти», але зберігають ліміт насичених жирів",
-          "summary": "Оновлені Dietary Guidelines for Americans рекомендують споживати «реальні продукти», сильніше наголошують на обмеженні доданих цукрів та високо оброблених продуктів, і містять помітну візуалізацію, що демонструє різноманіття продуктів. Незважаючи на зображення, де є такі продукти, як стейк і цільномолочні вироби, у керівництві збережено верхню межу — 10% калорій з насичених жирів.",
-          "whyItMatters": "Ці настанови впливають на повідомлення з харчування, продовольчу політику та програми харчування в установах; зміни в акцентах можуть позначитися на виборі споживачів і практиках промисловості.",
+          "title": "Дієтичні рекомендації 2025–2030: акцент на цілісних продуктах і обмеження доданого цукру",
+          "summary": "Рекомендації 2025–2030 рр. закцентовані на загальному повідомленні «їжте справжню їжу» з посиленням акценту на скороченні доданого цукру та сильно перероблених продуктів. Новий графік ілюструє широкий спектр продуктів, включно з деякими тваринними продуктами з вищим вмістом жиру, але письмові вказівки зберігають тривале числове обмеження насичених жирів на рівні 10% добової енергії.",
+          "whyItMatters": "Ці федеральні рекомендації впливають на громадські повідомлення про харчування, шкільні та інституційні меню й вибір споживачів, тому зміни в наголосі можуть змінити підходи людей і організацій до здорового харчування.",
           "takeaways": [
-            "Сильніший акцент на доданих цукрах і оброблених продуктах є помітною зміною.",
-            "Візуальна презентація може вплинути на сприйняття населення, але не замінює числову рекомендацію щодо насичених жирів.",
-            "Керівництва інформують політику та програмні рішення, але є лише одним із багатьох чинників при виборі індивідуальної дієти."
+            "Рекомендації повторюють рекомендацію обмежувати доданий цукор і сильно перероблені продукти.",
+            "Візуальні матеріали в звіті висувають на передній план ширший асортимент продуктів, що може вводити в оману без уважного читання тексту.",
+            "Числове верхнє обмеження для насичених жирів (10% калорій) залишається в силі.",
+            "Указівки надають перевагу цілісним, мінімально переробленим продуктам як основі здорового харчування."
           ]
         },
         "fr": {
-          "title": "Les Dietary Guidelines 2025–2030 insistent sur les « vrais aliments » tout en conservant une limite pour les graisses saturées",
-          "summary": "Les Dietary Guidelines for Americans mises à jour encouragent la consommation de « vrais aliments », insistent davantage sur la limitation des sucres ajoutés et des aliments fortement transformés, et incluent un visuel proéminent montrant une gamme d’aliments. Malgré la présence d’images représentant des aliments tels que le steak et les produits laitiers entiers, les directives maintiennent une limite supérieure de 10 % des calories provenant des graisses saturées.",
-          "whyItMatters": "Ces directives influencent les messages de santé publique en matière d’alimentation, la politique alimentaire et les programmes institutionnels ; les changements d’accent peuvent affecter les choix des consommateurs et les pratiques de l’industrie.",
+          "title": "Lignes directrices alimentaires 2025–2030 : accent sur les aliments peu transformés et limites du sucre ajouté",
+          "summary": "Les lignes directrices 2025–2030 délivrent un message général « mangez des aliments vrais » et insistent davantage sur la réduction du sucre ajouté et des aliments fortement transformés. Un nouveau schéma illustre une gamme de produits, y compris certains produits animaux plus riches en graisses, mais les recommandations écrites maintiennent la limite historique des graisses saturées à 10 % des calories quotidiennes.",
+          "whyItMatters": "Ces recommandations fédérales influencent la communication publique sur la nutrition, les menus scolaires et institutionnels, et les choix des consommateurs ; un changement d'accent peut donc modifier la manière dont individus et organisations abordent l'alimentation saine.",
           "takeaways": [
-            "Une prise de position plus ferme sur les sucres ajoutés et les aliments transformés est un changement marquant.",
-            "La présentation visuelle peut influencer la perception du public mais ne remplace pas la recommandation chiffrée sur les graisses saturées.",
-            "Les directives informent les décisions politiques et programmatiques, mais ne sont qu’un élément parmi d’autres dans les choix alimentaires individuels."
+            "Les lignes directrices réitèrent la recommandation de limiter le sucre ajouté et les aliments fortement transformés.",
+            "Les visuels du rapport mettent en avant une plus grande variété d'aliments, ce qui peut prêter à confusion sans la lecture du texte.",
+            "La limite numérique pour les graisses saturées (10 % des calories) demeure.",
+            "Les recommandations privilégient les aliments entiers et peu transformés comme base d'une alimentation saine."
           ]
         },
         "de": {
-          "title": "Diätleitlinien 2025–2030 betonen 'echte Lebensmittel' und behalten Obergrenze für gesättigte Fettsäuren bei",
-          "summary": "Die aktualisierten Dietary Guidelines for Americans fördern den Verzehr von 'echten Lebensmitteln', legen stärkeren Fokus auf die Begrenzung zugesetzter Zucker und stark verarbeiteter Lebensmittel und enthalten eine prominente Grafik, die eine Bandbreite von Lebensmitteln zeigt. Trotz Darstellungen, die etwa Steak und Vollfettmilchprodukte zeigen, behalten die Leitlinien eine Obergrenze von 10% der Kalorien aus gesättigten Fettsäuren bei.",
-          "whyItMatters": "Die Leitlinien beeinflussen öffentliche Ernährungsbotschaften, Lebensmittelpolitik und institutionelle Verpflegungsprogramme; Verschiebungen in der Gewichtung können Verbraucherentscheidungen und Branchenpraktiken beeinflussen.",
+          "title": "Ernährungsrichtlinien 2025–2030 betonen unverarbeitete Lebensmittel und Begrenzungen für zugesetzten Zucker",
+          "summary": "Die Dietary Guidelines for Americans 2025–2030 wurden mit der übergeordneten Botschaft „echte/ unverarbeitete Lebensmittel essen“ veröffentlicht und legen stärkeres Gewicht auf die Reduzierung von zugesetztem Zucker und hochverarbeiteten Lebensmitteln. Eine neue Grafik zeigt eine größere Bandbreite an Lebensmitteln, darunter einige fettreichere tierische Produkte, doch die schriftliche Anleitung behält die langjährige Obergrenze für gesättigte Fettsäuren von 10 % der täglichen Kalorien bei.",
+          "whyItMatters": "Diese bundesweiten Richtlinien beeinflussen öffentliche Ernährungsbotschaften, Schul‑ und Institutionenmenüs sowie Verbraucherentscheidungen; Änderungen in der Schwerpunktsetzung können daher beeinflussen, wie Menschen und Organisationen gesunde Ernährung angehen.",
           "takeaways": [
-            "Eine stärkere Position gegenüber zugesetztem Zucker und verarbeiteten Lebensmitteln ist eine auffällige Änderung.",
-            "Die visuelle Darstellung kann die öffentliche Wahrnehmung beeinflussen, ersetzt aber nicht die numerische Empfehlung zur gesättigten Fettzufuhr.",
-            "Die Leitlinien informieren Politik und Programme, sind jedoch nur ein Input unter vielen für individuelle Ernährungsentscheidungen."
+            "Die Richtlinien bekräftigen die Empfehlung, zugesetzten Zucker und stark verarbeitete Lebensmittel zu begrenzen.",
+            "Die Visualisierungen im Bericht heben eine größere Vielfalt an Lebensmitteln hervor, was ohne Lesen des Textes verwirrend sein kann.",
+            "Die numerische Obergrenze für gesättigte Fettsäuren (10 % der Kalorien) bleibt bestehen.",
+            "Die Anleitung bevorzugt ganze, minimal verarbeitete Lebensmittel als Grundlage gesunder Ernährungsweisen."
           ]
         },
         "pt-br": {
-          "title": "Diretrizes Alimentares 2025–2030 enfatizam 'comida de verdade' ao mesmo tempo em que mantêm limite para gordura saturada",
-          "summary": "As atualizadas Dietary Guidelines for Americans promovem o consumo de 'comida de verdade', colocam ênfase maior em limitar açúcares adicionados e alimentos altamente processados, e incluem um destaque visual que mostra uma variedade de alimentos. Apesar das ilustrações incluírem itens como bife e laticínios integrais, as Diretrizes mantêm um limite superior de 10% das calorias provenientes de gordura saturada.",
-          "whyItMatters": "As Diretrizes influenciam mensagens públicas sobre nutrição, políticas alimentares e programas institucionais de alimentação; mudanças de ênfase podem afetar escolhas dos consumidores e práticas da indústria.",
+          "title": "Diretrizes Alimentares 2025–2030 enfatizam alimentos integrais e limites para açúcares adicionados",
+          "summary": "As Dietary Guidelines for Americans 2025–2030 foram divulgadas com a mensagem geral de “comer alimentos de verdade” e uma ênfase mais firme em reduzir açúcares adicionados e alimentos altamente processados. Um novo gráfico destaca uma variedade maior de alimentos, incluindo alguns produtos animais com mais gordura, mas a orientação escrita mantém o limite de longa data para gorduras saturadas em 10% das calorias diárias.",
+          "whyItMatters": "Essas diretrizes federais influenciam mensagens públicas sobre nutrição, cardápios escolares e institucionais e escolhas dos consumidores, portanto mudanças na ênfase podem afetar a forma como pessoas e organizações abordam a alimentação saudável.",
           "takeaways": [
-            "Uma posição mais firme sobre açúcares adicionados e alimentos processados é uma mudança proeminente.",
-            "A apresentação visual pode afetar a percepção pública, mas não substitui a recomendação numérica sobre gordura saturada.",
-            "As diretrizes orientam políticas e programas, mas são apenas um entre vários insumos para escolhas alimentares individuais."
+            "As Diretrizes reiteram a recomendação de limitar açúcares adicionados e alimentos altamente processados.",
+            "As ilustrações no relatório dão destaque a uma variedade maior de alimentos, o que pode ser confuso sem a leitura do texto.",
+            "O limite numérico para gorduras saturadas (10% das calorias) permanece em vigor.",
+            "A orientação favorece alimentos integrais e minimamente processados como base de dietas saudáveis."
           ]
         },
         "hu": {
-          "title": "A 2025–2030-as Dietary Guidelines hangsúlyozza a „valódi élelmiszert”, miközben megtartja a telített zsír felső határát",
-          "summary": "Az újonnan frissített Dietary Guidelines for Americans a „valódi élelmiszer” fogyasztását népszerűsíti, erősebben hangsúlyozza az hozzáadott cukrok és a nagymértékben feldolgozott élelmiszerek korlátozását, és kiemel egy vizuális ábrát, amely számos élelmiszert mutat be. Bár a képi megjelenítés tartalmaz olyan ételeket, mint a steak és a teljes zsírtartalmú tejtermékek, a részletes iránymutatás továbbra is felső korlátként a kalóriák 10%-ában határozza meg a telített zsír bevitelt.",
-          "whyItMatters": "Az irányelvek befolyásolják a közegészségügyi üzeneteket, az élelmiszer-politikát és az intézményi étkeztetési programokat; a hangsúlyok eltolódása hatással lehet a fogyasztói választásokra és az ipari gyakorlatokra.",
+          "title": "A 2025–2030-as étrendi irányelvek a teljes értékű ételekre és a hozzáadott cukor korlátozására helyezik a hangsúlyt",
+          "summary": "A 2025–2030-as Dietary Guidelines for Americans egy átfogó „egyen valódi ételt” üzenettel jelent meg, és erőteljesebben hangsúlyozza a hozzáadott cukrok és a magasan feldolgozott élelmiszerek csökkentését. Egy új grafika szélesebb élelmiszer‑kínálatot emel ki — beleértve néhány magasabb zsírtartalmú állati terméket is —, de a szöveges útmutatás továbbra is fenntartja a telített zsírra vonatkozó, hosszú ideje meglévő felső korlátot: a napi kalória 10%-át.",
+          "whyItMatters": "Ezek a szövetségi irányelvek befolyásolják a nyilvános táplálkozási kommunikációt, az iskolai és intézményi menüket, valamint a fogyasztói döntéseket, így a hangsúlyok változása hatással lehet arra, hogyan közelítik meg az egészséges étkezést az emberek és szervezetek.",
           "takeaways": [
-            "Az hozzáadott cukrokra és a feldolgozott ételekre gyakorolt erősebb állásfoglalás kiemelt változás.",
-            "A vizuális bemutatás befolyásolhatja a közvélemény észlelését, de nem helyettesíti a numerikus telített zsír ajánlást.",
-            "Az irányelvek befolyásolják a politikai és programozási döntéseket, de csak egy bemenetet jelentenek az egyéni étrendi választásokhoz."
+            "Az irányelvek ismételten ajánlják a hozzáadott cukrok és a magasan feldolgozott élelmiszerek korlátozását.",
+            "A jelentés vizuális elemei szélesebb élelmiszerválasztékot emelnek ki, ami szöveg nélkül félrevezető lehet.",
+            "A telített zsírra vonatkozó numerikus felső korlát (a kalória 10%-a) változatlan marad.",
+            "A táplálkozási útmutatás a teljes, minimálisan feldolgozott ételeket helyezi a kiegyensúlyozott étrend alapjául."
           ]
         },
         "ar": {
-          "title": "إرشادات النظام الغذائي للأمريكيين 2025–2030 تؤكد على «الطعام الحقيقي» مع الحفاظ على حد أعلى للدهون المشبعة",
-          "summary": "تروّج الإرشادات المحدثة للأمريكيين لتناول «الطعام الحقيقي»، وتضع تركيزًا أقوى على الحد من السكريات المضافة والأطعمة عالية المعالجة، وتتضمن عرضًا بصريًا بارزًا يُبرز مجموعة من الأطعمة. وعلى الرغم من أن الصور قد تُظهر عناصر مثل الستيك ومنتجات الألبان كاملة الدسم، فإن الإرشادات تحتفظ بحد أعلى لنسبة السعرات الحرارية من الدهون المشبعة وهو 10%.",
-          "whyItMatters": "تؤثر الإرشادات على الرسائل العامة المتعلقة بالتغذية، وسياسات الغذاء، وبرامج الوجبات المؤسسية؛ وقد تؤثر تغييرات الأولويات على اختيارات المستهلكين وممارسات الصناعة.",
+          "title": "إرشادات التغذية 2025–2030 تؤكد على الأطعمة الكاملة وتقييد السكر المضاف",
+          "summary": "صدرت إرشادات الغذاء الأمريكية 2025–2030 برسالة عامة «تناول طعامًا حقيقيًا» مع تأكيد أقوى على تقليل السكريات المضافة والأطعمة المعالجة بشدة. يبرز رسم توضيحي جديد مجموعة أوسع من الأطعمة، بما في ذلك بعض المنتجات الحيوانية الأعلى دسمًا، لكن التوجيه النصي يظل محافظًا على حد طويل الأمد لمحتوى الدهون المشبعة: 10% من السعرات اليومية.",
+          "whyItMatters": "تؤثر هذه الإرشادات الفيدرالية على الرسائل التغذوية العامة وقوائم الطعام في المدارس والمؤسسات وعلى خيارات المستهلكين، لذا فإن تغيّر الأولويات قد يؤثر على كيفية تعامل الأفراد والمنظمات مع التغذية الصحية.",
           "takeaways": [
-            "موقف أقوى تجاه السكريات المضافة والأطعمة المعالجة هو تغيير بارز.",
-            "قد يؤثر العرض البصري على تصورات الجمهور لكنه لا يحل محل التوصية العددية بالنسبة للدهون المشبعة.",
-            "الإرشادات توجه السياسات والقرارات البرامجية لكنها تشكل مجرد مدخل من عدة مداخل للاختيارات الغذائية الفردية."
+            "تكرر الإرشادات التوصية بتقليص السكريات المضافة والأطعمة المعالجة بشدة.",
+            "قد تكون الصور في التقرير مضللة دون قراءة النص لأنها تُظهر مجموعة أوسع من الأطعمة.",
+            "الحد العددي للدهون المشبعة (10% من السعرات) لا يزال ساريًا.",
+            "التوجيه يفضل الأطعمة الكاملة والقليلة المعالجة كأساس للأنظمة الغذائية الصحية."
           ]
         }
       },
-      "generatedAt": "2026-08-28T09:38:54.284Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article9",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article9-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article9-news.webp",
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dga-2025-2030-harvard-2026-01-09",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-harvard-2026-01-09-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-harvard-2026-01-09-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize 'real food' while retaining saturated fat limit.\nStory summary: The updated Dietary Guidelines for Americans promote eating 'real food,' put stronger emphasis on limiting added sugars and highly processed foods, and include a prominent visual that highlights a range of foods. Despite visuals featuring items like steak and full-fat dairy, the Guidelines maintain an upper limit of 10% of calories from saturated fat..\nCategory: dietary guidelines.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Dietary Guidelines 2025–2030 emphasize whole foods and limits on added sugar.\nStory summary: The 2025–2030 Dietary Guidelines for Americans were released with an overall “eat real food” message and a firmer emphasis on reducing added sugars and highly processed foods. A new graphic highlights a range of foods, including some higher‑fat animal products, but the written guidance maintains a longstanding limit on saturated fat at 10% of daily calories..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-08-29-motivation-1-s1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Plan one lunch, feel prepared",
+          "story": "Maya used to grab whatever was easiest at lunchtime and later feel frustrated. She started planning one lunch each Sunday and logging it in the app before she ate. That small step made grocery shopping simpler, reduced last-minute takeout, and helped her notice which meals kept her feeling satisfied. When she changed plans, she updated the log without judgment. Over a few weeks, tracking turned into an easy habit that made weekdays calmer and decision-making quicker.",
+          "habit": "Plan and log one meal in advance.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Planea un almuerzo y siéntete lista",
+          "story": "A Marta le pasaba que a la hora del almuerzo cogía lo más fácil y al final se sentía frustrada. Empezó a planear un almuerzo cada domingo y a registrarlo en la app antes de comer. Ese pequeño hábito simplificó sus compras, redujo los pedidos de última hora y le permitió ver qué comidas la dejaban satisfecha. Cuando cambiaba de plan, actualizaba la entrada sin juzgarse. En pocas semanas, el registro se volvió una costumbre que hizo sus días laborales más tranquilos.",
+          "habit": "Planifica y registra una comida por adelantado.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Спланируй обед — будь готова",
+          "story": "У Маи обед часто оказывался «на бегу», и потом она расстраивалась. Она стала планировать один обед на неделю и вносить его в приложение перед едой. Этот простой шаг упростил покупки, сократил спонтанный заказ еды и помог понять, какие блюда действительно насыщают. Если планы менялись, Ма́я просто обновляла запись без упрёков к себе. Через несколько недель отслеживание превратилось в привычку, которая сделала будни спокойнее.",
+          "habit": "Спланируй и зафиксируй одну еду заранее.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Сплануй обід і будь готова",
+          "story": "У Марини обіди часто були поспіхом і потім вона розчаровувалася. Вона почала планувати один обід на тиждень і вносити його в додаток до того, як з'їла. Цей невеликий крок спростив покупки, зменшив випадкові замовлення і допоміг помітити, які страви її дійсно насичують. Коли план змінювався, вона оновлювала запис без самопринизливих думок. Через кілька тижнів відстеження стало простою звичкою, яка зробила будні спокійнішими.",
+          "habit": "Сплануй і запиши одну їжу наперед.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Planifiez un déjeuner, gagnez en tranquillité",
+          "story": "Sophie prenait souvent le repas le plus simple et regrettait ensuite. Elle a commencé à planifier un déjeuner chaque dimanche et à le noter dans l'appli avant de manger. Ce petit réflexe a rendu les courses plus faciles, réduit les commandes impulsives et lui a permis d’identifier les plats qui la rassasient vraiment. Quand ses plans changeaient, elle mettait simplement à jour l’enregistrement sans se blâmer. En quelques semaines, la tenue du journal est devenue une habitude apaisante au quotidien.",
+          "habit": "Planifiez et notez un repas à l'avance.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd'hui."
+        },
+        "de": {
+          "title": "Ein Mittagessen planen, Ruhe gewinnen",
+          "story": "Jonas griff früher oft zum Erstbesten beim Mittagessen und war hinterher unzufrieden. Er begann, sonntags ein Mittagessen für die Woche zu planen und es vor dem Essen in der App zu notieren. Dieser kleine Schritt vereinfachte den Einkauf, verringerte spontane Bestellungen und half ihm zu erkennen, welche Mahlzeiten lange satt machen. Wenn sich Pläne änderten, aktualisierte er den Eintrag ohne Vorwurf. Nach einigen Wochen wurde das Tracking zur entspannten Gewohnheit im Alltag.",
+          "habit": "Plane und notiere eine Mahlzeit im Voraus.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute mit."
+        },
+        "pt-br": {
+          "title": "Plane um almoço e fique mais tranquilo",
+          "story": "A Camila costumava pegar a coisa mais fácil na hora do almoço e depois se sentir frustrada. Ela passou a planejar um almoço todo domingo e registrá‑lo no app antes de comer. Esse pequeno hábito tornou as compras mais simples, diminuiu pedidos de última hora e a ajudou a ver quais refeições a deixavam satisfeita. Quando mudava de ideia, atualizava o registro sem culpa. Em poucas semanas, acompanhar virou uma rotina que deixou os dias úteis mais tranquilos.",
+          "habit": "Planeje e registre uma refeição com antecedência.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Tervezz egy ebédet, legyél felkészült",
+          "story": "Réka gyakran a legegyszerűbb megoldást választotta ebédre, és utólag csalódott volt. Elkezdte vasárnaponként megtervezni az egy ebédet, és étkezés előtt rögzíteni az alkalmazásban. Ez a kis lépés egyszerűsítette a bevásárlást, csökkentette az impulzusvásárlásokat, és segített felismerni, mely ételek tartják el hosszan. Ha változott a terv, frissítette a bejegyzést ítélkezés nélkül. Néhány hét alatt a naplóírás nyugodt, automatikus szokássá vált.",
+          "habit": "Tervezd meg és jegyezd fel egy étkezést előre.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "خطط لغدائك واشعر بالراحة",
+          "story": "كانت ليلى تختار غالبًا ما هو أسهل في وجبة الغداء ثم تشعر بالإحباط لاحقًا. بدأت تخطط لغداء واحد كل أسبوع وتدونها في التطبيق قبل أن تأكل. هذه الخطوة الصغيرة سهلت التسوق، خففت من الطلبات العشوائية، وساعدتها على معرفة أي وجبات تشعرها بالشبع. عندما تغيرت خططها كانت تحدث التسجيل دون لوم. بعد أسابيع قليلة أصبح التتبع عادة بسيطة جعلت أيام الأسبوع أكثر هدوءًا.",
+          "habit": "خطط وسجل وجبة واحدة مسبقًا.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan one lunch, feel prepared.\nStory: Maya used to grab whatever was easiest at lunchtime and later feel frustrated. She started planning one lunch each Sunday and logging it in the app before she ate. That small step made grocery shopping simpler, reduced last-minute takeout, and helped her notice which meals kept her feeling satisfied. When she changed plans, she updated the log without judgment. Over a few weeks, tracking turned into an easy habit that made weekdays calmer and decision-making quicker..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-29-motivation-2-s2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Be honest with treats",
+          "story": "Daniel loved weekend pizza nights and for a while he skipped logging the extra slice because he worried about judgments. When he started logging everything, including treats, he stopped feeling like tracking was about perfection and began to see real patterns in his week. Noticing that two-slice nights followed busy afternoons helped him plan a fuller lunch instead. Honest entries gave him useful information without shame — and tracking became a reliable tool to understand choices, not a pass/fail test.",
+          "habit": "Log treats and snacks honestly.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Sé honesto con los caprichos",
+          "story": "A Daniel le encantaban las noches de pizza del fin de semana y durante un tiempo no registraba la porción extra por miedo al juicio. Cuando empezó a anotar todo, incluidos los caprichos, dejó de ver el seguimiento como una cuestión de perfección y empezó a identificar patrones reales en su semana. Al ver que las noches de dos porciones seguían tardes muy ocupadas, planificó almuerzos más completos. Las entradas honestas le dieron información útil sin culpa; el seguimiento dejó de ser una prueba y se convirtió en una herramienta.",
+          "habit": "Anota tratar y snacks con sinceridad.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Честность с угощениями",
+          "story": "Даниил любил пиццу по выходным, и какое‑то время он не записывал лишний кусок, боясь осуждения. Когда он стал вносить всё, даже угощения, отслеживание перестало быть про «идеальность», и он начал видеть реальные закономерности в неделе. Поняв, что двухкусочная пицца часто следует за напряжёнными днями, он стал планировать более сытный обед. Честные записи дали полезную информацию без стыда — и трекинг стал инструментом для понимания, а не экзаменом.",
+          "habit": "Записывай угощения и перекусы честно.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Будь чесним із смаколиками",
+          "story": "Денис любив піцу по вихідних і деякий час не записував зайвий шматок через побоювання осуду. Коли він почав фіксувати все, навіть смаколики, відстеження перестало бути про ідеальність, і він почав помічати реальні шаблони в тижні. Помітивши, що дві порції піци зазвичай після дуже зайнятих днів, він став планувати більш ситний обід. Чесні записи дали корисну інформацію без сорому — і трекінг став інструментом розуміння, а не іспитом.",
+          "habit": "Записуй смаколики й перекуси чесно.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Soyez franc avec les plaisirs",
+          "story": "Lucas adorait les soirées pizza le week‑end et, pendant un temps, il n’enregistrait pas la part supplémentaire par peur du jugement. Lorsqu’il a commencé à noter tout, y compris les plaisirs, il a cessé de voir le suivi comme une quête de perfection et a commencé à repérer de vrais schémas. Comprendre que les soirées à deux parts suivaient des après‑midi chargés lui a permis de mieux planifier ses déjeuners. Les entrées honnêtes lui ont apporté des informations utiles sans culpabilité.",
+          "habit": "Notez honnêtement les plaisirs et les en‑cas.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd'hui."
+        },
+        "de": {
+          "title": "Ehrlich sein bei Leckereien",
+          "story": "Daniel mochte Pizzaabende am Wochenende und hat eine Zeit lang die extra Scheibe nicht eingetragen, aus Sorge vor Bewertung. Als er alles aufschrieb, auch Snacks, hörte das Tracking auf, ein Perfektionsspiel zu sein, und er erkannte Muster in seiner Woche. Dass zwei Scheiben oft auf anstrengende Nachmittage folgten, half ihm, ein satteres Mittagessen zu planen. Ehrliche Einträge lieferten nützliche Erkenntnisse ohne Scham — Tracking wurde ein Werkzeug zum Verstehen, kein Test.",
+          "habit": "Trage Snacks und Leckereien ehrlich ein.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute mit."
+        },
+        "pt-br": {
+          "title": "Seja honesto com os prazeres",
+          "story": "O Daniel adorava as noites de pizza no fim de semana e por um tempo não registrava a fatia extra com medo de julgamento. Quando começou a anotar tudo, incluindo os prazeres, deixou de ver o acompanhamento como busca da perfeição e passou a identificar padrões na semana. Perceber que as noites de duas fatias vinham após tardes ocupadas o ajudou a planejar almoços mais completos. Entradas honestas deram informações úteis sem culpa; o rastreamento virou ferramenta de entendimento.",
+          "habit": "Registre lanches e prazeres com honestidade.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Légy őszinte a nasikkal",
+          "story": "Bence imádta a hétvégi pizzázásokat, és egy ideig nem jegyezte fel a plusz szeletet, mert félt a megítéléstől. Amikor elkezdte az összes ételt, még a nasikat is rögzíteni, a naplózás nem a tökéletességről szólt többé, és elkezdtek kirajzolódni a heti minták. Amikor észrevette, hogy a két szeletes esték gyakran zsúfolt délutánok után jönnek, tervezett egy tartalmasabb ebédet. Az őszinte bejegyzések hasznos információt adtak ítélkezés nélkül.",
+          "habit": "Jegyezd fel őszintén a rágcsálnivalókat és nassolásokat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "كن صريحًا مع الحلويات",
+          "story": "كان خالد يحب أمسيات البيتزا في نهاية الأسبوع ولوقتٍ لم يسجل الشريحة الإضافية خوفًا من الحكم. عندما بدأ بتسجيل كل شيء، بما في ذلك الحلويات، توقف عن اعتبار التتبع محاولة للكمال وبدأ يلاحظ أنماطًا فعلية في أسبوعه. ملاحظة أن أمسيات الشريحتين تلي بعد الظهور المزدحمة ساعدته على تخطيط غداء أكثر إشباعًا. السجلات الصادقة أعطته معلومات مفيدة دون شعور بالذنب، وأصبح التتبع أداة للفهم وليس اختبارًا.",
+          "habit": "سجل الوجبات الخفيفة والحلويات بصراحة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Be honest with treats.\nStory: Daniel loved weekend pizza nights and for a while he skipped logging the extra slice because he worried about judgments. When he started logging everything, including treats, he stopped feeling like tracking was about perfection and began to see real patterns in his week. Noticing that two-slice nights followed busy afternoons helped him plan a fuller lunch instead. Honest entries gave him useful information without shame — and tracking became a reliable tool to understand choices, not a pass/fail test..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-29-motivation-3-s3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Spot a pattern, make a small change",
+          "story": "Aisha started noting not just what she ate but when she ate it. After a couple of weeks of logging, she noticed a pattern: she tended to snack when she sat down to watch TV after a long workday. Instead of trying to eliminate snacks, she made a small change — prepping a bigger afternoon snack and sipping water before the show. Tracking helped her see the trigger and test a tiny adjustment. It didn’t have to be perfect; it simply showed what worked for her schedule.",
+          "habit": "Track meal times to spot triggers.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Detecta un patrón y cambia algo pequeño",
+          "story": "Aisha empezó a anotar no sólo qué comía, sino cuándo. Tras un par de semanas registrando, detectó un patrón: tendía a picar al sentarse a ver la tele después de un día largo. En lugar de eliminar los snacks, hizo un pequeño cambio: preparó una merienda más completa por la tarde y bebió agua antes del programa. El seguimiento le permitió ver el desencadenante y probar un ajuste mínimo. No tenía que ser perfecto; simplemente mostró qué funcionaba con su ritmo.",
+          "habit": "Registra los horarios para detectar detonantes.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Заметь шаблон, измени чуть‑чуть",
+          "story": "Аиша стала фиксировать не только что она ест, но и когда. Через пару недель трекинга она заметила закономерность: склонность к перекусам возникала, когда она садилась смотреть телевизор после долгого рабочего дня. Вместо того, чтобы бороться с перекусами, она внесла небольшую корректировку — заранее приготовила более сытный полдник и выпивала воды перед просмотром. Записи помогли увидеть триггер и опробовать маленькое изменение. Это не требовало идеальности, а просто показало, что работает для неё.",
+          "habit": "Отслеживай время приёмов пищи, чтобы заметить триггеры.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Поміти шаблон і зроби маленьку зміну",
+          "story": "Аїша стала фіксувати не лише що вона їсть, а й коли. Після кількох тижнів ведення записів помітила закономірність: вона частіше перекушувала, коли сідала дивитися телевізор після важкого робочого дня. Замість того, щоб позбавлятися перекусів, вона зробила маленьку зміну — приготувала більш ситний полудень і випивала води перед переглядом. Відстеження допомогло помітити тригер і випробувати невелике рішення. Це не вимагало досконалості, просто показало, що працює для неї.",
+          "habit": "Відстежуй час їжі, щоб помічати тригери.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Repérez un schéma, changez un détail",
+          "story": "Aïcha a commencé à noter non seulement ce qu’elle mangeait, mais aussi quand. Au bout de quelques semaines, elle a repéré un schéma : elle grignotait en regardant la télé après une longue journée. Plutôt que de supprimer les en‑cas, elle a opéré un petit ajustement — prévoir une collation plus complète l’après‑midi et boire un verre d’eau avant le programme. Le suivi lui a permis d’identifier le déclencheur et de tester une modification minime. Pas besoin de perfection, juste d’observer ce qui marche.",
+          "habit": "Suivez les horaires pour repérer les déclencheurs.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd'hui."
+        },
+        "de": {
+          "title": "Muster erkennen, klein ändern",
+          "story": "Aisha begann, nicht nur zu notieren, was sie aß, sondern auch wann. Nach ein paar Wochen fiel ihr ein Muster auf: Sie griff eher zu Snacks, wenn sie nach einem langen Arbeitstag fernsah. Statt die Snacks zu verbieten, nahm sie eine kleine Anpassung vor — sie bereitete einen größeren Nachmittagssnack vor und trank vor der Sendung ein Glas Wasser. Das Tracking half ihr, den Auslöser zu sehen und eine winzige Änderung zu testen. Es musste nicht perfekt sein, sondern zeigen, was für sie funktioniert.",
+          "habit": "Erfasse Essenszeiten, um Auslöser zu finden.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute mit."
+        },
+        "pt-br": {
+          "title": "Perceba um padrão e mude pouco",
+          "story": "A Aisha começou a anotar não só o que comia, mas quando comia. Depois de algumas semanas registrando, percebeu um padrão: costumava beliscar ao sentar para ver TV depois de um dia longo. Em vez de cortar os lanches, fez uma pequena mudança — preparou um lanche da tarde mais caprichado e bebeu água antes do programa. O rastreamento ajudou a identificar o gatilho e testar um ajuste mínimo. Não precisava ser perfeito, só mostrar o que funcionava para ela.",
+          "habit": "Registre os horários para identificar gatilhos.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Ismerj fel mintát, változtass kicsit",
+          "story": "Aisha nemcsak azt kezdte el rögzíteni, mit eszik, hanem azt is, mikor. Néhány hét naplózás után mintát vett észre: hajlamos volt nassolni, amikor egy fárasztó nap után leült tévét nézni. Ahelyett, hogy megszüntette volna a nasikat, egy apró változtatást vezetett be — előkészített egy tartalmasabb délutáni harapnivalót és ivott egy pohár vizet a műsor előtt. A naplózás segített meglátni a kiváltót és kipróbálni egy apró módosítást. Nem kellett tökéletesnek lennie, csak működnie.",
+          "habit": "Jegyezd fel az étkezések időpontját, hogy lásd a kiváltó okokat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "لاحظ نمطًا وعدل قليلاً",
+          "story": "بدأت آية بتدوين ليس فقط ما تأكله بل ومتى تأكله. بعد أسابيع قليلة من التتبع لاحظت نمطًا: تميل إلى التهام وجبات خفيفة عندما تجلس لمشاهدة التلفاز بعد يوم عمل طويل. بدلًا من حذف الوجبات الخفيفة، أجرت تعديلًا صغيرًا — جهزت وجبة خفيفة مسائية أكبر وشربت قليلًا من الماء قبل العرض. ساعدها التتبع على رؤية المُحفّز وتجربة تعديل بسيط. لم يكن عليها أن تكون مثالية؛ فقط أن ترى ما يجدي نفعًا لجدولها.",
+          "habit": "سجل أوقات الوجبات لتتعرف على المحفّزات.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Spot a pattern, make a small change.\nStory: Aisha started noting not just what she ate but when she ate it. After a couple of weeks of logging, she noticed a pattern: she tended to snack when she sat down to watch TV after a long workday. Instead of trying to eliminate snacks, she made a small change — prepping a bigger afternoon snack and sipping water before the show. Tracking helped her see the trigger and test a tiny adjustment. It didn’t have to be perfect; it simply showed what worked for her schedule..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-08-29-motivation-4-s4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps add up",
+          "story": "Luca liked making small experiments. He logged meals for two weeks and tried tiny swaps: more veggies on one plate, sparkling water instead of soda at dinner, cooking at home twice a week. He didn’t aim for perfection; he simply noted how each change affected his energy and satiety. Seeing entries side by side helped him keep what worked and drop what didn’t. Tracking gave him gentle feedback and a sense of progress — small adjustments that fit his life and felt sustainable.",
+          "habit": "Try one small food swap and log it.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pequeños cambios que suman",
+          "story": "A Luca le gustaba hacer pequeños experimentos. Durante dos semanas registró sus comidas y probó cambios diminutos: más verduras en un plato, agua con gas en vez de refresco en la cena, cocinar en casa dos noches. No buscaba la perfección; solo anotaba cómo cada cambio afectaba su energía y sensación de saciedad. Ver las entradas lado a lado le ayudó a mantener lo que funcionaba y dejar lo que no. El seguimiento le dio retroalimentación amable y sensación de avance.",
+          "habit": "Prueba un pequeño cambio y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Маленькие замены складываются",
+          "story": "Лука любил небольшие эксперименты. Он вёл учёт еды две недели и пробовал маленькие замены: больше овощей на тарелке, газированная вода вместо колы за ужином, готовить дома пару раз в неделю. Он не стремился к идеалу, просто отмечал, как каждая замена влияет на энергию и насыщение. Сравнивая записи, он сохранял то, что работало, и отказывался от того, что не подходило. Трекинг дал мягкую обратную связь и ощущение прогресса — маленькие шаги, которые вписались в его жизнь.",
+          "habit": "Сделай одну небольшую замену и запиши её.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Маленькі заміни — велика різниця",
+          "story": "Лука любив робити малі експерименти. Він два тижні записував прийоми їжі і пробував маленькі заміни: більше овочів на тарілці, газована вода замість солодкого напою за вечерею, готувати вдома двічі на тиждень. Він не прагнув ідеальності, просто помічав, як кожна зміна впливає на енергію та відчуття ситості. Дивлячись записи поруч, він залишав те, що працювало, й відкидав непотрібне. Відстеження дало легкий зворотний зв'язок і відчуття руху вперед.",
+          "habit": "Спробуй одну маленьку заміну й занотуй її.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "De petits changements qui comptent",
+          "story": "Luca aimait faire de petites expériences. Il a noté ses repas pendant deux semaines et testé des substitutions minimes : plus de légumes dans une assiette, eau gazeuse plutôt que soda au dîner, cuisiner à la maison deux fois par semaine. Il ne visait pas la perfection, il notait simplement l’effet de chaque changement sur son énergie et sa satiété. Voir les enregistrements côte à côte l’a aidé à garder ce qui fonctionnait et à abandonner le reste. Le suivi lui a apporté un retour doux et un sentiment d’avancée.",
+          "habit": "Essayez une petite substitution et notez‑la.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd'hui."
+        },
+        "de": {
+          "title": "Kleine Änderungen, große Wirkung",
+          "story": "Luca mochte kleine Experimente. Zwei Wochen lang protokollierte er seine Mahlzeiten und probierte winzige Änderungen: mehr Gemüse auf dem Teller, Sprudelwasser statt Cola beim Abendessen, zwei Mal pro Woche selbst kochen. Er strebte nicht nach Perfektion, sondern notierte, wie sich jede Änderung auf seine Energie und sein Sättigungsgefühl auswirkte. Die Einträge nebeneinander zu sehen half ihm, beizubehalten, was funktionierte, und zu verwerfen, was nicht. Tracking gab ihm sanftes Feedback und ein Gefühl von Fortschritt.",
+          "habit": "Mache einen kleinen Austausch und notiere ihn.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute mit."
+        },
+        "pt-br": {
+          "title": "Pequenas trocas fazem diferença",
+          "story": "Luca gostava de pequenos experimentos. Ele registrou as refeições por duas semanas e testou trocas mínimas: mais legumes no prato, água com gás no lugar do refrigerante no jantar, cozinhar em casa duas vezes por semana. Não buscava perfeição; apenas anotava como cada mudança afetava sua energia e saciedade. Ver as entradas lado a lado ajudou‑o a manter o que deu certo e descartar o que não funcionou. O rastreamento trouxe um retorno suave e sensação de progresso — ajustes pequenos que cabiam na sua rotina.",
+          "habit": "Faça uma pequena troca e registre‑a.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, nagy változás",
+          "story": "Luca szeretett kis kísérleteket tenni. Két héten át naplózta az étkezéseit és kipróbált apró cseréket: több zöldség egy tányéron, szénsavas víz üdítő helyett vacsoránál, kétszer hetente főzés otthon. Nem a tökéletességre törekedett, csak feljegyezte, hogyan hat minden változtatás az energiájára és a telítettségére. A bejegyzések egymás mellé téve segítettek megőrizni, ami működött, és elhagyni, ami nem. A naplózás gyengéd visszajelzést és előrehaladás érzését adta.",
+          "habit": "Próbálj ki egy kis cserét és jegyezd le.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "تغييرات صغيرة تتراكم",
+          "story": "كان لوكا يحب إجراء تجارب صغيرة. دوّن وجباته لمدة أسبوعين وجرب تغييرات طفيفة: المزيد من الخضار في الطبق، ماء مع غاز بدل الصودا على العشاء، الطبخ في المنزل مرتين في الأسبوع. لم يكن يهدف إلى الكمال؛ فقط دون كيف أثر كل تغيير على حيويته وشعوره بالشبع. رؤية الإدخالات جنبًا إلى جنب ساعدته على الحفاظ على ما نجح والتخلي عما لم ينجح. أتاح له التتبع تغذية راجعة لطيفة وإحساسًا بالتقدم — تعديلات صغيرة تناسب حياته.",
+          "habit": "جرب تغييرًا صغيرًا وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-08-29T06:42:39.960Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-08-29-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps add up.\nStory: Luca liked making small experiments. He logged meals for two weeks and tried tiny swaps: more veggies on one plate, sparkling water instead of soda at dinner, cooking at home twice a week. He didn’t aim for perfection; he simply noted how each change affected his energy and satiety. Seeing entries side by side helped him keep what worked and drop what didn’t. Tracking gave him gentle feedback and a sense of progress — small adjustments that fit his life and felt sustainable..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-08-28-motivation-1-story-1",
       "category": "planning",
