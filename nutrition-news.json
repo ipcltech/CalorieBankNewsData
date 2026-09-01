@@ -1,113 +1,862 @@
 {
-  "generatedAt": "2026-08-31T07:01:02.240Z",
+  "generatedAt": "2026-09-01T06:52:06.313Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "environmental-footprint-vegan-mediterranean-2026",
-      "category": "nutrition",
+      "id": "bmjnutrition-eco-diet-trial-2026",
+      "category": "sustainable nutrition",
       "sourceName": "nutrition.bmj.com",
       "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
       "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Trial-based comparison of environmental impacts for low‑fat vegan versus Mediterranean diets",
-          "summary": "This secondary analysis used data from a randomized crossover trial (62 overweight adults) to estimate greenhouse gas emissions and cumulative energy demand for low‑fat vegan and Mediterranean diets, based on 3‑day dietary records collected during controlled diet periods.",
-          "whyItMatters": "Direct comparisons grounded in trial dietary records add experimental evidence to discussions about how commonly recommended diets differ in environmental footprint.",
+          "title": "Trial-based comparison of environmental impacts: low‑fat vegan vs Mediterranean diets",
+          "summary": "A secondary analysis of a randomized, crossover trial with 62 overweight adults compared the environmental impacts of a low-fat vegan and a Mediterranean diet. Researchers used 3-day dietary records from trial completers to estimate greenhouse gas emissions and cumulative energy demand for each dietary pattern.",
+          "whyItMatters": "Using randomized trial dietary data to estimate environmental footprints helps link controlled dietary changes to sustainability metrics, informing choices about diet and planetary impact.",
           "takeaways": [
-            "Design: randomized crossover trial with two 16‑week diet periods and a 4‑week washout.",
-            "Environmental metrics calculated from 3‑day dietary records to estimate GHGE and energy demand.",
-            "Study provides trial‑based estimates to inform conversations about diet sustainability in addition to nutrition."
+            "Study used a randomized, crossover design to compare two plant-forward diets in the same participants.",
+            "Environmental metrics included greenhouse gas emissions (GHGEs) and cumulative energy demand (CED).",
+            "Analysis was limited to completers and relied on short dietary recording periods for footprint estimates."
           ]
         },
         "es": {
-          "title": "Comparación basada en ensayo de los impactos ambientales de dietas vegana baja en grasa frente a mediterránea",
-          "summary": "Este análisis secundario utilizó datos de un ensayo aleatorizado cruzado (62 adultos con sobrepeso) para estimar las emisiones de gases de efecto invernadero y la demanda energética acumulada de dietas vegana baja en grasa y mediterránea, basándose en registros dietarios de 3 días recogidos durante periodos de dieta controlados.",
-          "whyItMatters": "Las comparaciones directas basadas en registros dietarios de ensayos aportan evidencia experimental a las discusiones sobre cómo difieren en huella ambiental las dietas habitualmente recomendadas.",
+          "title": "Comparación en ensayo de impactos ambientales: dieta vegana baja en grasa frente a dieta mediterránea",
+          "summary": "Un análisis secundario de un ensayo aleatorizado cruzado con 62 adultos con sobrepeso comparó los impactos ambientales de una dieta vegana baja en grasa y una dieta mediterránea. Los investigadores utilizaron registros dietarios de 3 días de los participantes que completaron el ensayo para estimar las emisiones de gases de efecto invernadero y la demanda energética acumulada de cada patrón dietario.",
+          "whyItMatters": "Emplear datos dietarios de un ensayo aleatorizado para estimar huellas ambientales ayuda a vincular cambios dietéticos controlados con métricas de sostenibilidad, informando decisiones sobre dieta e impacto planetario.",
           "takeaways": [
-            "Diseño: ensayo aleatorizado cruzado con dos periodos de dieta de 16 semanas y un lavado de 4 semanas.",
-            "Métricas ambientales calculadas a partir de registros dietarios de 3 días para estimar emisiones de GEI y demanda energética.",
-            "El estudio ofrece estimaciones basadas en ensayo para informar conversaciones sobre sostenibilidad dietaria además de la nutrición."
+            "El estudio utilizó un diseño aleatorizado cruzado para comparar dos dietas con predominio de plantas en los mismos participantes.",
+            "Las métricas ambientales incluyeron emisiones de gases de efecto invernadero (GEI) y demanda energética acumulada (DEA).",
+            "El análisis se limitó a quienes completaron el ensayo y se basó en períodos cortos de registro dietario para las estimaciones de huella."
           ]
         },
         "ru": {
-          "title": "Сравнение на основе клинического исследования экологического следа низкожировой веганской и средиземноморской диет",
-          "summary": "Это вторичный анализ использовал данные рандомизированного перекрёстного исследования (62 взрослых с избыточной массой тела) для оценки выбросов парниковых газов и накопленной энергетической нагрузки для низкожировой веганской и средиземноморской диет, исходя из трёхдневных пищевых дневников, собранных в контролируемые периоды питания.",
-          "whyItMatters": "Прямые сравнения, основанные на записях о питании в рамках исследований, добавляют экспериментальные данные в обсуждение того, как различаются по экологическому следу часто рекомендуемые диеты.",
+          "title": "Сравнение на основе испытания экологических воздействий: низкожировая веганская диета против средиземноморской",
+          "summary": "Вторичный анализ рандомизированного перекрестного клинического испытания с участием 62 взрослых с избыточным весом сравнил экологические воздействия низкожировой веганской диеты и средиземноморской диеты. Исследователи использовали 3‑дневные пищевые дневники участников, завершивших испытание, чтобы оценить выбросы парниковых газов и накопленную энергетическую потребность для каждого диетического паттерна.",
+          "whyItMatters": "Использование данных из рандомизированного исследования для оценки экологического следа помогает связать контролируемые изменения в питании с показателями устойчивости, что важно при выборе диет с учётом воздействия на планету.",
           "takeaways": [
-            "Дизайн: рандомизированное перекрёстное исследование с двумя 16‑недельными периодами диет и 4‑недельным периодом washout.",
-            "Экологические показатели рассчитаны по трёхдневным записям о питании для оценки выбросов ПГ и энергетических затрат.",
-            "Исследование предоставляет оценки на основе клинического исследования для информирования дискуссий о устойчивости диет, помимо аспектов питания."
+            "Исследование использовало рандомизированный перекрестный дизайн для сравнения двух растительно‑ориентированных диет у одних и тех же участников.",
+            "Экологические метрики включали выбросы парниковых газов (GHG) и накопленную энергетическую потребность (CED).",
+            "Анализ ограничивался участниками, завершившими исследование, и опирался на короткие периоды записи питания для оценок экологического следа."
           ]
         },
         "uk": {
-          "title": "Порівняння впливу на довкілля низькожирової веганської та середземноморської дієт на основі даних клінічного випробування",
-          "summary": "Цей вторинний аналіз використав дані рандомізованого кросоверового дослідження (62 дорослі з надмірною вагою) для оцінки викидів парникових газів і накопиченої енергетичної потреби для низькожирової веганської та середземноморської дієт на основі 3‑денних харчових щоденників, зібраних під час контрольованих періодів дієт.",
-          "whyItMatters": "Прямі порівняння на основі записів дієт у межах клінічного дослідження додають експериментальні дані до дискусій про те, як різні рекомендовані дієти відрізняються за впливом на довкілля.",
+          "title": "Порівняння екологічного впливу за даними випробування: низькожирна веганська проти середземноморської дієти",
+          "summary": "Вторинний аналіз рандомізованого кросоверного випробування за участі 62 дорослих з надмірною вагою порівняв екологічні впливи низькожирової веганської та середземноморської дієт. Дослідники використали 3‑денні харчові щоденники учасників, які завершили випробування, щоб оцінити викиди парникових газів і кумулятивну енергетичну потребу для кожного дієтичного зразка.",
+          "whyItMatters": "Використання дієтичних даних із рандомізованого випробування для оцінки екологічного сліду допомагає поєднати контрольовані дієтичні зміни з показниками стійкості й інформувати вибір щодо харчування та впливу на планету.",
           "takeaways": [
-            "Дизайн: рандомізований кросоверовий тест з двома 16‑тижневими періодами дієти та 4‑тижневим «washout».",
-            "Екологічні метрики розраховані з 3‑денних харчових щоденників для оцінки викидів парникових газів (GHGE) та енергетичної потреби.",
-            "Дослідження дає базовані на випробуванні оцінки для обговорення стійкості дієт поряд з харчовими аспектами."
+            "Дослідження використовувало рандомізований кросоверний дизайн для порівняння двох дієт, орієнтованих на рослинну їжу, у тих самих учасників.",
+            "Екологічні метрики включали викиди парникових газів (GHGEs) і кумулятивну енергетичну потребу (CED).",
+            "Аналіз обмежувався тими, хто завершив дослідження, і базувався на коротких періодах харчових записів для оцінки сліду."
           ]
         },
         "fr": {
-          "title": "Comparaison des impacts environnementaux d'un régime végétalien pauvre en graisses et d'un régime méditerranéen basée sur un essai",
-          "summary": "Cette analyse secondaire a utilisé les données d'un essai randomisé en crossover (62 adultes en surpoids) pour estimer les émissions de gaz à effet de serre et la demande énergétique cumulée des régimes végétalien pauvre en graisses et méditerranéen, à partir d'enregistrements alimentaires de 3 jours collectés durant les périodes de régime contrôlées.",
-          "whyItMatters": "Les comparaisons directes fondées sur des enregistrements alimentaires issus d'un essai ajoutent des preuves expérimentales aux discussions sur les différences d'empreinte environnementale entre des régimes souvent recommandés.",
+          "title": "Comparaison des impacts environnementaux basée sur un essai : régime végétalien pauvre en graisses vs régime méditerranéen",
+          "summary": "Une analyse secondaire d’un essai randomisé en crossover portant sur 62 adultes en surpoids a comparé les impacts environnementaux d’un régime végétalien pauvre en graisses et d’un régime méditerranéen. Les chercheurs ont utilisé des enregistrements alimentaires de 3 jours des participants ayant complété l’essai pour estimer les émissions de gaz à effet de serre et la demande énergétique cumulative pour chaque modèle alimentaire.",
+          "whyItMatters": "L’utilisation de données alimentaires issues d’un essai randomisé pour estimer l’empreinte environnementale aide à relier des changements diététiques contrôlés à des mesures de durabilité, et informe les choix concernant l’alimentation et l’impact planétaire.",
           "takeaways": [
-            "Conception : essai randomisé en crossover avec deux périodes diététiques de 16 semaines et une période de washout de 4 semaines.",
-            "Les métriques environnementales ont été calculées à partir de journaux alimentaires de 3 jours pour estimer les GHGE et la demande énergétique.",
-            "L'étude fournit des estimations issues d'un essai pour éclairer les discussions sur la durabilité des régimes en complément des considérations nutritionnelles."
+            "L’étude utilisait un design randomisé en crossover pour comparer deux régimes à forte proportion végétale chez les mêmes participants.",
+            "Les métriques environnementales incluaient les émissions de gaz à effet de serre (GHGEs) et la demande énergétique cumulative (CED).",
+            "L’analyse était limitée aux participants ayant complété l’essai et reposait sur des courtes périodes d’enregistrement alimentaire pour estimer l’empreinte."
           ]
         },
         "de": {
-          "title": "Studienbasierter Vergleich der Umweltwirkungen einer fettarmen veganen und einer mediterranen Ernährung",
-          "summary": "Diese sekundäre Analyse nutzte Daten aus einer randomisierten Crossover‑Studie (62 übergewichtige Erwachsene), um Treibhausgasemissionen und kumulativen Energiebedarf für eine fettarme vegane und eine mediterrane Ernährung zu schätzen, basierend auf dreitägigen Ernährungsaufzeichnungen, die während kontrollierter Diätperioden erhoben wurden.",
-          "whyItMatters": "Direkte Vergleiche, die auf Studiendaten beruhen, liefern experimentelle Hinweise dafür, wie sich häufig empfohlene Ernährungsweisen hinsichtlich ihres ökologischen Fußabdrucks unterscheiden können.",
+          "title": "Vergleich der Umweltfolgen basierend auf einem Trial: fettarme vegane vs. mediterrane Ernährung",
+          "summary": "Eine Sekundäranalyse einer randomisierten Crossover‑Studie mit 62 übergewichtigen Erwachsenen verglich die Umweltfolgen einer fettarmen veganen und einer mediterranen Ernährung. Forschende verwendeten 3‑tägige Ernährungsaufzeichnungen von Studienteilnehmern, die das Studium abschlossen, um Treibhausgasemissionen und kumulativen Energiebedarf für jedes Ernutzungsmuster abzuschätzen.",
+          "whyItMatters": "Die Verwendung randomisierter Studiendaten zur Schätzung ökologischer Fußabdrücke hilft, kontrollierte Ernährungsänderungen mit Nachhaltigkeitskennzahlen zu verknüpfen und informiert Entscheidungen über Ernährung und planetaryen Einfluss.",
           "takeaways": [
-            "Design: randomisierte Crossover‑Studie mit zwei 16‑wöchigen Diätperioden und einer 4‑wöchigen Auswaschphase.",
-            "Umweltmetriken wurden aus dreitägigen Ernährungsaufzeichnungen berechnet, um Treibhausgasemissionen und Energiebedarf abzuschätzen.",
-            "Die Studie liefert studienbasierte Schätzungen, die Gespräche über die Nachhaltigkeit von Ernährungsweisen neben ernährungsbezogenen Aspekten informieren können."
+            "Die Studie nutzte ein randomisiertes Crossover‑Design, um zwei pflanzenorientierte Ernährungsweisen bei denselben Teilnehmenden zu vergleichen.",
+            "Umweltmetriken umfassten Treibhausgasemissionen (GHGEs) und kumulativen Energiebedarf (CED).",
+            "Die Analyse war auf Studienteilnehmer beschränkt, die abgeschlossen hatten, und stützte sich auf kurze Ernährungsaufzeichnungsperioden für die Schätzung von Fußabdrücken."
           ]
         },
         "pt-br": {
-          "title": "Comparação baseada em ensaio dos impactos ambientais de dietas vegana com baixo teor de gordura versus mediterrânea",
-          "summary": "Esta análise secundária usou dados de um ensaio randomizado cruzado (62 adultos com sobrepeso) para estimar emissões de gases de efeito estufa e demanda energética acumulada para dietas vegana com baixo teor de gordura e mediterrânea, com base em registros dietéticos de 3 dias coletados durante períodos dietéticos controlados.",
-          "whyItMatters": "Comparações diretas fundamentadas em registros dietéticos de ensaios adicionam evidência experimental às discussões sobre como dietas comumente recomendadas diferem em pegada ambiental.",
+          "title": "Comparação dos impactos ambientais com base em ensaio: dietas vegana com baixo teor de gordura vs mediterrânea",
+          "summary": "Uma análise secundária de um ensaio randomizado cruzado com 62 adultos com sobrepeso comparou os impactos ambientais de uma dieta vegana com baixo teor de gordura e de uma dieta mediterrânea. Pesquisadores usaram registros alimentares de 3 dias de participantes que completaram o ensaio para estimar emissões de gases de efeito estufa e demanda cumulativa de energia para cada padrão dietético.",
+          "whyItMatters": "Usar dados dietéticos de ensaios randomizados para estimar pegadas ambientais ajuda a vincular mudanças dietéticas controladas a métricas de sustentabilidade, informando escolhas sobre dieta e impacto planetário.",
           "takeaways": [
-            "Desenho: ensaio randomizado cruzado com dois períodos dietéticos de 16 semanas e uma lavagem de 4 semanas.",
-            "Métricas ambientais calculadas a partir de registros dietéticos de 3 dias para estimar GEE e demanda energética.",
-            "O estudo fornece estimativas baseadas em ensaio para informar conversas sobre sustentabilidade de dietas além dos aspectos nutricionais."
+            "O estudo usou um desenho randomizado cruzado para comparar duas dietas com foco em vegetais nos mesmos participantes.",
+            "As métricas ambientais incluíram emissões de gases de efeito estufa (GHGEs) e demanda cumulativa de energia (CED).",
+            "A análise foi limitada a participantes que completaram o estudo e baseou‑se em curtos períodos de registro dietético para estimativas de pegada."
           ]
         },
         "hu": {
-          "title": "Vizsgálat‑alapú összehasonlítás: alacsony zsírtartalmú vegán és mediterrán étrend környezeti hatásai",
-          "summary": "Ez a mellék‑elemzés egy randomizált keresztmetszeti vizsgálat (62 túlsúlyos felnőtt) adatait használta fel, hogy becsülje a üvegházhatású gázkibocsátást és a kumulatív energiaigényt alacsony zsírtartalmú vegán és mediterrán étrendek esetén, a kontrollált étrendi időszakok alatt vezetett 3 napos étrendi naplók alapján.",
-          "whyItMatters": "A vizsgálati étrendi feljegyzéseken alapuló közvetlen összehasonlítás kísérleti bizonyítékot ad arra vonatkozóan, hogyan különböznek a gyakran ajánlott étrendek környezeti lábnyoma szempontjából.",
+          "title": "Vizsgálatalapú összehasonlítás: alacsony zsírtartalmú vegán vs. mediterrán étrend környezeti hatásai",
+          "summary": "Egy randomizált, keresztmetszeti (crossover) vizsgálat másodlagos elemzése 62 túlsúlyos felnőttet használt összehasonlításra az alacsony zsírtartalmú vegán és a mediterrán étrend környezeti hatásairól. A kutatók a vizsgálatot teljesítők 3 napos étrendi naplóit használták az egyes étrendminták üvegházhatású gázkibocsátásának és a kumulatív energiaigény becslésére.",
+          "whyItMatters": "A randomizált vizsgálati adatok használata a környezeti lábnyom becsléséhez segít összekapcsolni az ellenőrzött étrendi változásokat a fenntarthatósági mutatókkal, és információt ad az étrendválasztások és a bolygói hatás közti kapcsolatról.",
           "takeaways": [
-            "Felépítés: randomizált keresztmetszeti vizsgálat két 16 hetes diétaidőszakkal és 4 hetes washouttal.",
-            "A környezeti mutatókat 3 napos étrendi feljegyzésekből számították a GHGE és energiaigény becslésére.",
-            "A tanulmány vizsgálati alapú becsléseket nyújt az étrendek fenntarthatóságáról a táplálkozás mellett."
+            "A tanulmány randomizált, crossover felépítést használt, hogy ugyanazoknál a résztvevőknél hasonlítsa össze a két növényközpontú étrendet.",
+            "A környezeti mérőszámok közé tartozott az üvegházhatású gázkibocsátás (GHGE) és a kumulatív energiaigény (CED).",
+            "Az elemzés a vizsgálatot teljesítők adataira korlátozódott, és rövid étrendi feljegyzési időszakokra támaszkodott a lábnyom-becsléshez."
           ]
         },
         "ar": {
-          "title": "مقارنة مستندة إلى تجربة للآثار البيئية: النظام النباتي منخفض الدهن مقابل النظام المتوسطي",
-          "summary": "استخدم هذا التحليل الثانوي بيانات من تجربة عشوائية متقاطعة (62 بالغًا زائدًا في الوزن) لتقدير انبعاثات غازات الاحتباس الحراري والطلب التراكمي على الطاقة لنظامين غذائيين: نباتي منخفض الدهن والمتوسطي، اعتمادًا على سجلات غذائية لثلاثة أيام جمعت خلال فترات الحمية الخاضعة للسيطرة.",
-          "whyItMatters": "توفر المقارنات المباشرة المستندة إلى سجلات غذائية من تجربة أدلة تجريبية حول كيف تختلف الحميات الموصى بها شائعًا من حيث البصمة البيئية.",
+          "title": "مقارنة قائمة على تجربة لتأثيرات بيئية: النظام النباتي قليل الدهن مقابل الحمية المتوسطية",
+          "summary": "حلل تحليل ثانوي لتجربة عشوائية متقاطعة شملت 62 بالغًا يعانون زيادة الوزن الآثار البيئية لنظام نباتي منخفض الدسم مقابل الحمية المتوسطية. استخدم الباحثون سجلات غذائية لمدة 3 أيام من المشاركين الذين أنهوا التجربة لتقدير انبعاثات غازات الدفيئة ومطالبات الطاقة التراكمية لكل نمط غذائي.",
+          "whyItMatters": "يساعد استخدام بيانات تجربة عشوائية لاستنتاج البصمة البيئية على ربط التغيرات الغذائية الخاضعة للرقابة بمؤشرات الاستدامة، مما يزود مَن يتخذون القرار بمعلومات حول تأثيرات النظام الغذائي على الكوكب.",
           "takeaways": [
-            "التصميم: تجربة عشوائية متقاطعة مع فترتين غذائيتين مدتهما 16 أسبوعًا وفترة غسيل 4 أسابيع.",
-            "حُسبت مقاييس بيئية من سجلات غذائية لثلاثة أيام لتقدير انبعاثات غازات الاحتباس الحراري وطلب الطاقة.",
-            "توفّر الدراسة تقديرات مستندة إلى تجربة للمساعدة في مناقشات استدامة الحميات إلى جانب الاعتبارات الغذائية."
+            "استخدمت الدراسة تصميمًا عشوائيًا متقاطعًا لمقارنة نظامين غذائيين مرتكزين على النباتات لدى نفس المشاركين.",
+            "شملت المقاييس البيئية انبعاثات غازات الدفيئة (GHGEs) ومطالبة الطاقة التراكمية (CED).",
+            "قُيد التحليل على المشاركين الذين أكملوا التجربة واعتمد على فترات تسجيل غذائي قصيرة لتقدير البصمة."
           ]
         }
       },
-      "generatedAt": "2026-08-31T07:01:02.240Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=environmental-footprint-vegan-mediterranean-2026",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/environmental-footprint-vegan-mediterranean-2026-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/environmental-footprint-vegan-mediterranean-2026-news.webp",
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bmjnutrition-eco-diet-trial-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmjnutrition-eco-diet-trial-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmjnutrition-eco-diet-trial-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial-based comparison of environmental impacts for low‑fat vegan versus Mediterranean diets.\nStory summary: This secondary analysis used data from a randomized crossover trial (62 overweight adults) to estimate greenhouse gas emissions and cumulative energy demand for low‑fat vegan and Mediterranean diets, based on 3‑day dietary records collected during controlled diet periods..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial-based comparison of environmental impacts: low‑fat vegan vs Mediterranean diets.\nStory summary: A secondary analysis of a randomized, crossover trial with 62 overweight adults compared the environmental impacts of a low-fat vegan and a Mediterranean diet. Researchers used 3-day dietary records from trial completers to estimate greenhouse gas emissions and cumulative energy demand for each dietary pattern..\nCategory: sustainable nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "newsmedical-aerobic-postmenopausal-20260831",
+      "category": "healthy aging",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260831/Aerobic-exercise-boosts-executive-function-in-postmenopausal-women.aspx",
+      "sourceTitle": "Aerobic exercise boosts executive function in postmenopausal women",
+      "publishedAt": "Mon, 31 Aug 2026 23:54:56 -0400",
+      "languages": {
+        "en": {
+          "title": "Aerobic exercise linked to better executive function after menopause",
+          "summary": "Rutgers researchers report that regular aerobic activity that raises heart rate was associated with improvements in executive functions — the cognitive skills used for planning, attention and problem solving — with particularly strong effects observed in postmenopausal women.",
+          "whyItMatters": "Executive function supports day-to-day independence; findings highlight a potentially beneficial role for aerobic activity in cognitive aging for women after menopause.",
+          "takeaways": [
+            "Study focused on executive function changes tied to aerobic exercise.",
+            "Effects appeared especially strong in postmenopausal women, per the Rutgers team.",
+            "Findings add to evidence linking physical activity and cognitive health in older adults."
+          ]
+        },
+        "es": {
+          "title": "Ejercicio aeróbico relacionado con una mejor función ejecutiva tras la menopausia",
+          "summary": "Investigadores de Rutgers informan que la actividad aeróbica regular que eleva la frecuencia cardíaca se asoció con mejoras en las funciones ejecutivas —las habilidades cognitivas usadas para planificar, mantener la atención y resolver problemas— y que los efectos fueron particularmente fuertes en mujeres posmenopáusicas.",
+          "whyItMatters": "La función ejecutiva sostiene la independencia en la vida diaria; los hallazgos destacan un papel potencialmente beneficioso de la actividad aeróbica en el envejecimiento cognitivo de mujeres después de la menopausia.",
+          "takeaways": [
+            "El estudio se centró en cambios en la función ejecutiva vinculados al ejercicio aeróbico.",
+            "Según el equipo de Rutgers, los efectos parecieron especialmente marcados en mujeres posmenopáusicas.",
+            "Los resultados se suman a la evidencia que relaciona la actividad física con la salud cognitiva en adultos mayores."
+          ]
+        },
+        "ru": {
+          "title": "Аэробная нагрузка связана с улучшением исполнительных функций после менопаузы",
+          "summary": "Исследователи из Rutgers сообщают, что регулярная аэробная активность, повышающая частоту сердечных сокращений, была связана с улучшениями исполнительных функций — когнитивных навыков для планирования, внимания и решения задач — при особенно выраженных эффектах у женщин в постменопаузе.",
+          "whyItMatters": "Исполнительные функции поддерживают повседневную независимость; эти результаты подчеркивают потенциально благоприятную роль аэробной активности в когнитивном старении у женщин после менопаузы.",
+          "takeaways": [
+            "Исследование сосредоточено на изменениях исполнительных функций, связанных с аэробными упражнениями.",
+            "По данным команды Rutgers, эффекты были особенно сильными у женщин в постменопаузе.",
+            "Выводы дополняют доказательную базу, связывающую физическую активность и когнитивное здоровье у пожилых людей."
+          ]
+        },
+        "uk": {
+          "title": "Аеробні вправи пов’язані з кращою виконавчою функцією після менопаузи",
+          "summary": "Дослідники з Rutgers повідомляють, що регулярна аеробна активність, яка підвищує частоту серцевих скорочень, була пов’язана з покращенням виконавчих функцій — когнітивних навичок, необхідних для планування, уваги та розв’язання проблем — при особливо вираженому ефекті у жінок після менопаузи.",
+          "whyItMatters": "Виконавча функція підтримує щоденну незалежність; ці результати підкреслюють потенційно корисну роль аеробної активності для когнітивного старіння у жінок після менопаузи.",
+          "takeaways": [
+            "Дослідження зосереджувалося на змінах виконавчої функції, пов’язаних з аеробною вправою.",
+            "Ефекти виявилися особливо помітними у жінок після менопаузи, за даними команди Rutgers.",
+            "Результати доповнюють докази, що пов’язують фізичну активність і когнітивне здоров’я у людей старшого віку."
+          ]
+        },
+        "fr": {
+          "title": "L’exercice aérobique associé à une meilleure fonction exécutive après la ménopause",
+          "summary": "Des chercheurs de Rutgers rapportent que l’activité aérobique régulière augmentant la fréquence cardiaque était associée à des améliorations des fonctions exécutives — les capacités cognitives utilisées pour la planification, l’attention et la résolution de problèmes — avec des effets particulièrement marqués chez les femmes postménopausées.",
+          "whyItMatters": "La fonction exécutive soutient l’autonomie quotidienne ; ces résultats soulignent le rôle potentiellement bénéfique de l’activité aérobique pour le vieillissement cognitif chez les femmes après la ménopause.",
+          "takeaways": [
+            "L’étude a porté sur les changements de la fonction exécutive liés à l’exercice aérobique.",
+            "Les effets semblaient particulièrement prononcés chez les femmes postménopausées, selon l’équipe de Rutgers.",
+            "Les résultats viennent s’ajouter aux preuves liant l’activité physique à la santé cognitive chez les adultes plus âgés."
+          ]
+        },
+        "de": {
+          "title": "Aerobe Aktivität steht nach den Wechseljahren mit besserer exekutiver Funktion in Verbindung",
+          "summary": "Forscher der Rutgers University berichten, dass regelmäßige aerobe Bewegung, die die Herzfrequenz erhöht, mit Verbesserungen der exekutiven Funktionen — der kognitiven Fähigkeiten für Planung, Aufmerksamkeit und Problemlösung — verbunden war, wobei besonders starke Effekte bei postmenopausalen Frauen beobachtet wurden.",
+          "whyItMatters": "Exekutive Funktionen unterstützen die alltägliche Selbstständigkeit; die Ergebnisse heben eine potenziell vorteilhafte Rolle aerober Aktivität für die kognitive Alterung von Frauen nach der Menopause hervor.",
+          "takeaways": [
+            "Die Studie konzentrierte sich auf Veränderungen der exekutiven Funktion im Zusammenhang mit aerober Bewegung.",
+            "Laut dem Rutgers-Team erschienen die Effekte besonders stark bei postmenopausalen Frauen.",
+            "Die Befunde fügen der Evidenz hinzu, die körperliche Aktivität mit kognitiver Gesundheit im höheren Alter verbindet."
+          ]
+        },
+        "pt-br": {
+          "title": "Exercício aeróbico relacionado a melhor função executiva após a menopausa",
+          "summary": "Pesquisadores da Rutgers relatam que atividade aeróbica regular que eleva a frequência cardíaca esteve associada a melhorias nas funções executivas — habilidades cognitivas usadas para planejar, manter atenção e resolver problemas — com efeitos particularmente fortes observados em mulheres pós‑menopáusicas.",
+          "whyItMatters": "As funções executivas sustentam a independência no dia a dia; os achados destacam um papel potencialmente benéfico da atividade aeróbica no envelhecimento cognitivo de mulheres após a menopausa.",
+          "takeaways": [
+            "O estudo focou em mudanças na função executiva ligadas ao exercício aeróbico.",
+            "Os efeitos pareceram especialmente pronunciados em mulheres pós‑menopáusicas, segundo a equipe da Rutgers.",
+            "Os resultados se somam a evidências que associam atividade física e saúde cognitiva em adultos mais velhos."
+          ]
+        },
+        "hu": {
+          "title": "Az aerob testmozgás összefüggésbe hozható a menopauza utáni jobb végrehajtó funkcióval",
+          "summary": "A Rutgers kutatói arról számolnak be, hogy a pulzusszámot növelő, rendszeres aerob mozgás összefüggött a végrehajtó funkciók — az olyan kognitív képességek, mint a tervezés, a figyelem és a problémamegoldás — javulásával, és különösen erős hatásokat figyeltek meg a menopauzán átesett nők körében.",
+          "whyItMatters": "A végrehajtó funkció támogatja a hétköznapi önállóságot; az eredmények arra utalnak, hogy az aerob mozgás potenciálisan kedvező szerepet játszhat a nők kognitív öregedésében a menopauza után.",
+          "takeaways": [
+            "A tanulmány a végrehajtó funkció változásait vizsgálta az aerob testmozgással összefüggésben.",
+            "A Rutgers csapata szerint a hatások különösen erősek voltak a menopauzán átesett nőknél.",
+            "Az eredmények hozzájárulnak a fizikai aktivitás és az idősebb felnőttek kognitív egészsége közti összefüggésről szóló bizonyítékokhoz."
+          ]
+        },
+        "ar": {
+          "title": "التمارين الهوائية مرتبطة بتحسن الوظائف التنفيذية بعد انقطاع الطمث",
+          "summary": "أفاد باحثون من روتجرز بأن النشاط الهوائي المنتظم الذي يرفع معدل ضربات القلب ارتبط بتحسن في الوظائف التنفيذية — المهارات العقلية المستخدمة للتخطيط والانتباه وحل المشكلات — ولاحظوا تأثيرات قوية بشكل خاص لدى النساء بعد انقطاع الطمث.",
+          "whyItMatters": "تدعم الوظائف التنفيذية الاستقلالية اليومية؛ وتشير النتائج إلى دور محتمل مفيد للنشاط الهوائي في تقدم الصحة الإدراكية لدى النساء بعد انقطاع الطمث.",
+          "takeaways": [
+            "ركزت الدراسة على تغيُّرات الوظائف التنفيذية المرتبطة بالتمارين الهوائية.",
+            "بدت التأثيرات أقوى بشكل خاص لدى النساء بعد انقطاع الطمث، حسب فريق روتجرز.",
+            "تُضيف النتائج إلى الأدلة التي تربط النشاط البدني بصحة الإدراك لدى البالغين الأكبر سنًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=newsmedical-aerobic-postmenopausal-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/newsmedical-aerobic-postmenopausal-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/newsmedical-aerobic-postmenopausal-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Aerobic exercise linked to better executive function after menopause.\nStory summary: Rutgers researchers report that regular aerobic activity that raises heart rate was associated with improvements in executive functions — the cognitive skills used for planning, attention and problem solving — with particularly strong effects observed in postmenopausal women..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medpagetoday-glp1-gallbladder-youth-20260831",
+      "category": "medication safety",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/pediatrics/obesity/122837",
+      "sourceTitle": "GLP-1 Drugs Tied to Gallbladder and Biliary Risks in Youth",
+      "publishedAt": "Mon, 31 Aug 2026 17:37:50 -0400",
+      "languages": {
+        "en": {
+          "title": "Analysis links GLP-1 receptor agonist use in youth to more gallbladder and biliary events",
+          "summary": "A retrospective analysis of TriNetX data covering more than 37,000 adolescents and young adults with overweight found an association between use of GLP-1 receptor agonists and higher cumulative rates of gallbladder and biliary events.",
+          "whyItMatters": "Use of GLP-1 drugs in younger populations has increased; this analysis flags biliary complications as a safety signal worth further study.",
+          "takeaways": [
+            "Study used retrospective electronic-health-record data and found an association, not proof of causation.",
+            "Reported increase involved gallbladder and biliary events among youth prescribed GLP-1 agents.",
+            "Findings highlight the need for more research into side effects in younger patients."
+          ]
+        },
+        "es": {
+          "title": "Análisis liga el uso de agonistas del receptor GLP‑1 en jóvenes con más eventos biliares y de la vesícula",
+          "summary": "Un análisis retrospectivo de datos de TriNetX que incluyó a más de 37,000 adolescentes y adultos jóvenes con sobrepeso encontró una asociación entre el uso de agonistas del receptor GLP‑1 y tasas acumuladas más altas de eventos biliares y de la vesícula biliar.",
+          "whyItMatters": "El uso de fármacos GLP‑1 en poblaciones más jóvenes ha aumentado; este análisis identifica complicaciones biliares como una señal de seguridad que merece estudio adicional.",
+          "takeaways": [
+            "El estudio empleó datos retrospectivos de registros electrónicos de salud y encontró una asociación, no prueba de causalidad.",
+            "El aumento informado afectó eventos de vesícula biliar y vías biliares entre jóvenes prescritos con agentes GLP‑1.",
+            "Los hallazgos subrayan la necesidad de más investigaciones sobre efectos secundarios en pacientes más jóvenes."
+          ]
+        },
+        "ru": {
+          "title": "Анализ связал применение агонистов рецептора GLP‑1 у молодежи с ростом случаев заболеваний желчного пузыря и желчевыводящих путей",
+          "summary": "Ретроспективный анализ данных TriNetX, охвативший более 37 000 подростков и молодых взрослых с избыточным весом, выявил ассоциацию между применением агонистов рецептора GLP‑1 и более высокими накопленными показателями событий, связанных с желчным пузырем и желчевыводящими путями.",
+          "whyItMatters": "Применение препаратов GLP‑1 среди молодых людей увеличилось; этот анализ указывает на билиарные осложнения как сигнал безопасности, требующий дальнейшего изучения.",
+          "takeaways": [
+            "Исследование использовало ретроспективные данные электронных медицинских карт и обнаружило ассоциацию, а не доказательство причинно‑следственной связи.",
+            "Сообщённый рост касался событий, связанных с желчным пузырём и желчевыводящими путями, у молодёжи, получавшей препараты GLP‑1.",
+            "Результаты подчёркивают необходимость дополнительных исследований побочных эффектов у молодых пациентов."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз пов’язує застосування агонистів рецептора GLP‑1 у молоді з більшою кількістю випадків захворювань жовчного міхура та жовчовивідних шляхів",
+          "summary": "Ретроспективний аналіз даних TriNetX, що охоплював понад 37 000 підлітків і молодих дорослих з надмірною вагою, виявив асоціацію між використанням агонистів рецептора GLP‑1 та вищими кумулятивними показниками подій, пов’язаних з жовчним міхуром і жовчними шляхами.",
+          "whyItMatters": "Застосування препаратів GLP‑1 у молодших вікових груп зросло; цей аналіз вказує на билиарні ускладнення як сигнали безпеки, що потребують подальшого вивчення.",
+          "takeaways": [
+            "Дослідження базувалося на ретроспективних електронних медичних записах і виявило асоціацію, а не доказ причинно-наслідкового зв’язку.",
+            "Повідомлене збільшення стосувалося подій, пов’язаних з жовчним міхуром і жовчними шляхами, серед молодих пацієнтів, яким призначали агенти GLP‑1.",
+            "Результати підкреслюють потребу в додаткових дослідженнях побічних ефектів у молодших пацієнтів."
+          ]
+        },
+        "fr": {
+          "title": "Analyse liant l’usage des agonistes du récepteur GLP‑1 chez les jeunes à une augmentation des événements biliaires",
+          "summary": "Une analyse rétrospective des données TriNetX portant sur plus de 37 000 adolescents et jeunes adultes en surpoids a trouvé une association entre l’utilisation d’agonistes du récepteur GLP‑1 et des taux cumulés plus élevés d’événements liés à la vésicule biliaire et aux voies biliaires.",
+          "whyItMatters": "L’utilisation des médicaments GLP‑1 chez les populations plus jeunes a augmenté ; cette analyse signale des complications biliaires comme un signal de sécurité méritant des études complémentaires.",
+          "takeaways": [
+            "L’étude a utilisé des données rétrospectives de dossiers médicaux électroniques et a trouvé une association, non une preuve de causalité.",
+            "L’augmentation rapportée concernait des événements liés à la vésicule biliaire et aux voies biliaires chez des jeunes traités par agents GLP‑1.",
+            "Les résultats mettent en avant le besoin de recherches supplémentaires sur les effets indésirables chez les patients plus jeunes."
+          ]
+        },
+        "de": {
+          "title": "Analyse verknüpft GLP‑1‑Rezeptor‑Agonisten bei Jugendlichen mit mehr Gallenblasen‑ und Gallengangsereignissen",
+          "summary": "Eine retrospektive Auswertung von TriNetX‑Daten zu mehr als 37.000 Jugendlichen und jungen Erwachsenen mit Übergewicht fand eine Assoziation zwischen der Anwendung von GLP‑1‑Rezeptor‑Agonisten und höheren kumulativen Raten von Ereignissen an Gallenblase und Gallengängen.",
+          "whyItMatters": "Der Einsatz von GLP‑1‑Medikamenten in jüngeren Bevölkerungsgruppen hat zugenommen; diese Analyse weist auf biliäre Komplikationen als einen Sicherheitshinweis hin, der weiter untersucht werden sollte.",
+          "takeaways": [
+            "Die Studie nutzte retrospektive Daten aus elektronischen Gesundheitsakten und fand eine Assoziation, keinen Beweis für Kausalität.",
+            "Berichtet wurde ein Anstieg von Gallenblasen‑ und Gallengangsereignissen bei Jugendlichen, denen GLP‑1‑Präparate verschrieben wurden.",
+            "Die Ergebnisse unterstreichen den Bedarf an weiterer Forschung zu Nebenwirkungen bei jüngeren Patientinnen und Patienten."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise associa uso de agonistas do receptor GLP‑1 em jovens a mais eventos na vesícula e vias biliares",
+          "summary": "Uma análise retrospectiva de dados do TriNetX envolvendo mais de 37.000 adolescentes e jovens adultos com sobrepeso encontrou uma associação entre o uso de agonistas do receptor GLP‑1 e taxas cumulativas maiores de eventos na vesícula biliar e nas vias biliares.",
+          "whyItMatters": "O uso de medicamentos GLP‑1 em populações mais jovens aumentou; essa análise sinaliza complicações biliares como um sinal de segurança que merece investigação adicional.",
+          "takeaways": [
+            "O estudo usou dados retrospectivos de prontuários eletrônicos e encontrou uma associação, não prova de causalidade.",
+            "O aumento relatado envolveu eventos na vesícula biliar e vias biliares entre jovens prescritos com agentes GLP‑1.",
+            "Os achados destacam a necessidade de mais pesquisas sobre efeitos colaterais em pacientes mais jovens."
+          ]
+        },
+        "hu": {
+          "title": "Elemzés: a GLP‑1 receptor agonisták fiataloknál több epehólyag- és epeúti eseménnyel hozhatók összefüggésbe",
+          "summary": "Egy, több mint 37 000 túlsúlyos serdülőt és fiatal felnőttet felölelő TriNetX adatokon végzett retrospektív elemzés azt találta, hogy a GLP‑1 receptor agonisták használata kapcsolatban állt az epehólyaggal és epeutakkal kapcsolatos események magasabb kumulatív előfordulásával.",
+          "whyItMatters": "A GLP‑1 gyógyszerek használata fiatalabb korosztályokban növekedett; ez az elemzés az epeúti szövődményeket biztonsági jelként azonosítja, amely további vizsgálatot igényel.",
+          "takeaways": [
+            "A tanulmány retrospektív elektronikus egészségügyi nyilvántartási adatokat használt, és összefüggést talált, nem okozati bizonyítékot.",
+            "A jelentett emelkedés az epehólyaggal és epeutakkal kapcsolatos eseményeket érintette a GLP‑1 szereket felírt fiatalok körében.",
+            "Az eredmények kiemelik a fiatal betegek mellékhatásainak további kutatásának szükségességét."
+          ]
+        },
+        "ar": {
+          "title": "تحليل يربط استخدام ناهضات مستقبلات GLP‑1 لدى الشباب بزيادة أحداث المرارة والقنوات الصفراوية",
+          "summary": "أظهر تحليل استعادي لبيانات TriNetX شمل أكثر من 37,000 مراهق وشاب يعانون زيادة الوزن وجود ارتباط بين استخدام ناهضات مستقبلات GLP‑1 ومعدلات تراكمية أعلى لأحداث تتعلق بالمرارة والقنوات الصفراوية.",
+          "whyItMatters": "ازداد استخدام أدوية GLP‑1 في الفئات الأصغر سناً؛ ويشير هذا التحليل إلى أن مضاعفات القنوات الصفراوية قد تكون إشارة أمان تستدعي دراسات إضافية.",
+          "takeaways": [
+            "استخدمت الدراسة بيانات السجلات الصحية الإلكترونية الاستعادية ووجدت ارتباطًا، وليس دليلاً على السببية.",
+            "شملت الزيادة المبلغ عنها أحداثًا بالمرارة والقنوات الصفراوية بين الشباب الذين وُصف لهم ناهضات GLP‑1.",
+            "تسلط النتائج الضوء على الحاجة لمزيد من البحث حول الآثار الجانبية لدى المرضى الأصغر سنًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medpagetoday-glp1-gallbladder-youth-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-glp1-gallbladder-youth-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-glp1-gallbladder-youth-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Analysis links GLP-1 receptor agonist use in youth to more gallbladder and biliary events.\nStory summary: A retrospective analysis of TriNetX data covering more than 37,000 adolescents and young adults with overweight found an association between use of GLP-1 receptor agonists and higher cumulative rates of gallbladder and biliary events..\nCategory: medication safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lifespan-sirt1-mechanism-20260831",
+      "category": "longevity research",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/a-mechanistic-explanation-for-sirt1s-effects/",
+      "sourceTitle": "A Mechanistic Explanation for SIRT1&#8217;s Effects",
+      "publishedAt": "Mon, 31 Aug 2026 20:59:31 +0000",
+      "languages": {
+        "en": {
+          "title": "Researchers describe how SIRT1 may protect genome integrity",
+          "summary": "New research reports that the sirtuin SIRT1 helps stabilize the human genome by suppressing retrotransposition — the process by which mobile genetic elements copy and insert themselves elsewhere in the genome.",
+          "whyItMatters": "Identifying a mechanism for SIRT1’s activity provides context for its proposed roles in genome maintenance and age-related biology, informing future basic and translational research.",
+          "takeaways": [
+            "SIRT1 suppression of retrotransposition is proposed as a genome-stabilizing mechanism.",
+            "Work is mechanistic in nature and advances understanding of how sirtuins may influence cellular aging.",
+            "Findings are relevant to ongoing research into genome integrity and longevity pathways."
+          ]
+        },
+        "es": {
+          "title": "Investigadores describen cómo SIRT1 podría proteger la integridad del genoma",
+          "summary": "Nueva investigación informa que la sirtuina SIRT1 ayuda a estabilizar el genoma humano suprimiendo la retrotransposición —el proceso por el cual elementos genéticos móviles se copian e insertan en otras partes del genoma.",
+          "whyItMatters": "Identificar un mecanismo de la actividad de SIRT1 aporta contexto a sus roles propuestos en el mantenimiento del genoma y la biología relacionada con la edad, y orienta futuras investigaciones básicas y traslacionales.",
+          "takeaways": [
+            "Se propone que la supresión de la retrotransposición por SIRT1 actúa como un mecanismo estabilizador del genoma.",
+            "El trabajo es de carácter mecanístico y avanza en la comprensión de cómo las sirtuinas pueden influir en el envejecimiento celular.",
+            "Los hallazgos son relevantes para la investigación en curso sobre integridad del genoma y vías relacionadas con la longevidad."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи описывают, как SIRT1 может защищать целостность генома",
+          "summary": "Новые исследования сообщают, что сиртуин SIRT1 способствует стабилизации человеческого генома путем подавления ретротранспозиции — процесса, при котором мобильные генетические элементы копируются и вставляются в другие участки генома.",
+          "whyItMatters": "Выявление механизма активности SIRT1 даёт контекст его предполагаемым ролям в поддержании геномной стабильности и биологии, связанной со старением, и направляет будущие базовые и трансляционные исследования.",
+          "takeaways": [
+            "Предложено, что подавление ретротранспозиции SIRT1 служит механизмом стабилизации генома.",
+            "Работа носит механистический характер и продвигает понимание того, как сиртуины могут влиять на клеточное старение.",
+            "Выводы релевантны продолжающимся исследованиям целостности генома и путей долголетия."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники описують, як SIRT1 може захищати цілісність геному",
+          "summary": "Нове дослідження повідомляє, що сиртуїн SIRT1 допомагає стабілізувати людський геном, пригнічуючи ретротранспозицію — процес, коли мобільні генетичні елементи копіюються та вставляються в інші ділянки геному.",
+          "whyItMatters": "Виявлення механізму дії SIRT1 надає контекст для його запропонованих ролей у підтримці геному та біології, пов’язаній зі старінням, і може спрямувати майбутні фундаментальні та трансляційні дослідження.",
+          "takeaways": [
+            "Пропонується, що пригнічення ретротранспозиції SIRT1 є механізмом стабілізації геному.",
+            "Робота має механістичний характер і поглиблює розуміння того, як сиртуїни можуть впливати на клітинне старіння.",
+            "Висновки мають значення для подальших досліджень цілісності геному та шляхів, пов’язаних із тривалістю життя."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs décrivent comment SIRT1 pourrait protéger l’intégrité du génome",
+          "summary": "Une nouvelle recherche rapporte que la sirtuine SIRT1 aide à stabiliser le génome humain en supprimant la rétrotransposition — le processus par lequel des éléments génétiques mobiles se copient et s’insèrent ailleurs dans le génome.",
+          "whyItMatters": "Identifier un mécanisme d’action de SIRT1 apporte un contexte à ses rôles proposés dans le maintien du génome et la biologie liée au vieillissement, et éclaire les futures recherches fondamentales et translationnelles.",
+          "takeaways": [
+            "La suppression de la rétrotransposition par SIRT1 est proposée comme un mécanisme de stabilisation du génome.",
+            "Le travail est de nature mécanistique et améliore la compréhension de l’influence possible des sirtuines sur le vieillissement cellulaire.",
+            "Les résultats sont pertinents pour les recherches en cours sur l’intégrité du génome et les voies de longévité."
+          ]
+        },
+        "de": {
+          "title": "Forscher beschreiben, wie SIRT1 zur Erhaltung der Genom‑Integrität beitragen könnte",
+          "summary": "Neue Forschung berichtet, dass die Sirtuin‑Proteinkinase SIRT1 das menschliche Genom stabilisieren hilft, indem sie Retrotransposition unterdrückt — den Prozess, bei dem mobile genetische Elemente Kopien erzeugen und sich an anderen Stellen im Genom einfügen.",
+          "whyItMatters": "Die Identifizierung eines Mechanismus für die Aktivität von SIRT1 liefert Kontext für seine vorgeschlagenen Rollen in der Genom‑Erhaltung und der altersbezogenen Biologie und informiert zukünftige Grundlagen‑ und translationale Forschung.",
+          "takeaways": [
+            "Die Unterdrückung von Retrotransposition durch SIRT1 wird als genomstabilisierender Mechanismus vorgeschlagen.",
+            "Die Arbeit ist mechanistischer Natur und erweitert das Verständnis, wie Sirtuine das zelluläre Altern beeinflussen könnten.",
+            "Die Ergebnisse sind relevant für laufende Forschungen zu Genomintegrität und Langlebigkeits‑Signalwegen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores descrevem como SIRT1 pode proteger a integridade do genoma",
+          "summary": "Nova pesquisa relata que a sirtuína SIRT1 ajuda a estabilizar o genoma humano ao suprimir a retrotransposição — o processo pelo qual elementos genéticos móveis copiam‑se e se inserem em outras partes do genoma.",
+          "whyItMatters": "Identificar um mecanismo para a atividade de SIRT1 fornece contexto para seus papéis propostos na manutenção do genoma e na biologia relacionada ao envelhecimento, orientando pesquisas básicas e translacionais futuras.",
+          "takeaways": [
+            "A supressão da retrotransposição por SIRT1 é proposta como um mecanismo de estabilização do genoma.",
+            "O trabalho é de caráter mecanístico e avança o entendimento de como sirtuínas podem influenciar o envelhecimento celular.",
+            "Os achados são relevantes para pesquisas em curso sobre integridade do genoma e vias de longevidade."
+          ]
+        },
+        "hu": {
+          "title": "A kutatók leírják, hogyan óvhatja a SIRT1 a genom integritását",
+          "summary": "Új kutatás közli, hogy a sirtuin SIRT1 elősegítheti az emberi genom stabilitását azáltal, hogy elnyomja a retrotranszpozíciót — azt a folyamatot, amikor mobil genetikai elemek másolatot készítenek magukról és beilleszkednek a genom más helyeire.",
+          "whyItMatters": "A SIRT1 működésének mechanizmusának azonosítása kontextust ad a genomfenntartásban és az öregedéshez kapcsolódó biológiában javasolt szerepéhez, és irányt mutat a további alap- és transzlációs kutatásokhoz.",
+          "takeaways": [
+            "A SIRT1 retrotranszpozíció elnyomását javasolják genomstabilizáló mechanizmusként.",
+            "A munka mechanisztikus jellegű, és előreviszi a sirtuinek sejtes öregedésre gyakorolt hatásának megértését.",
+            "Az eredmények relevánsak a genom integritásával és hosszúéletűségi útvonalakkal foglalkozó, folyamatban lévő kutatások számára."
+          ]
+        },
+        "ar": {
+          "title": "يصف الباحثون كيف قد يحمي SIRT1 سلامة الجينوم",
+          "summary": "تفيد أبحاث جديدة بأن السيرتوين SIRT1 يساعد في استقرار الجينوم البشري عن طريق قمع الارتجاع النسخي (retrotransposition) — العملية التي تنسخ فيها العناصر الجينية المتنقلة نفسها وتُدرج في مواقع أخرى من الجينوم.",
+          "whyItMatters": "يوفر تحديد آلية عمل SIRT1 سياقًا للأدوار المقترحة له في صيانة الجينوم وبيولوجيا المرتبطة بالعمر، مما يوجه البحوث الأساسية والترجمية المستقبلية.",
+          "takeaways": [
+            "يُقترح أن قمع SIRT1 للارتجاع النسخي يعد آلية لتعزيز استقرار الجينوم.",
+            "العمل ذو طابع منظوري/ميكانيستي ويتقدم بفهم كيفية تأثير السيرتوينات على شيخوخة الخلايا.",
+            "النتائج ذات صلة بالأبحاث الجارية حول سلامة الجينوم ومسارات طول العمر."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lifespan-sirt1-mechanism-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-sirt1-mechanism-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-sirt1-mechanism-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers describe how SIRT1 may protect genome integrity.\nStory summary: New research reports that the sirtuin SIRT1 helps stabilize the human genome by suppressing retrotransposition — the process by which mobile genetic elements copy and insert themselves elsewhere in the genome..\nCategory: longevity research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medicalxpress-bp-dementia-ruralchina-20260831",
+      "category": "healthy aging",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-term-intensive-blood-pressure-dementia.html",
+      "sourceTitle": "Long-term intensive blood-pressure control reduces dementia risk, community-led trial finds",
+      "publishedAt": "Mon, 31 Aug 2026 15:00:14 EDT",
+      "languages": {
+        "en": {
+          "title": "Community trial finds intensive blood-pressure lowering reduced dementia incidence",
+          "summary": "Results from the China Rural Hypertension Control Program presented at ESC Congress 2026 showed that a community-based, intensive blood-pressure–lowering intervention led to a lower incidence of dementia compared with usual care in the study population.",
+          "whyItMatters": "If replicated and confirmed, community-led blood-pressure strategies could influence approaches to reducing cognitive decline at a population level.",
+          "takeaways": [
+            "Trial was community-based and conducted in rural China under the China Rural Hypertension Control Program.",
+            "Intensive blood-pressure control was associated with fewer dementia cases versus usual care.",
+            "Findings reported in a conference Hot Line session; further peer-reviewed publication would clarify details."
+          ]
+        },
+        "es": {
+          "title": "Ensayo comunitario encuentra que la reducción intensiva de la presión arterial disminuyó la incidencia de demencia",
+          "summary": "Resultados del Programa de Control de Hipertensión Rural de China, presentados en el Congreso ESC 2026, mostraron que una intervención comunitaria intensiva para bajar la presión arterial produjo una incidencia menor de demencia en comparación con la atención habitual en la población estudiada.",
+          "whyItMatters": "Si se replican y confirman, las estrategias comunitarias para controlar la presión arterial podrían influir en los enfoques para reducir el deterioro cognitivo a nivel poblacional.",
+          "takeaways": [
+            "El ensayo fue comunitario y se realizó en áreas rurales de China dentro del Programa de Control de Hipertensión Rural de China.",
+            "El control intensivo de la presión arterial se asoció con menos casos de demencia frente a la atención habitual.",
+            "Los hallazgos se presentaron en una sesión Hot Line de la conferencia; una publicación revisada por pares aclararía más detalles."
+          ]
+        },
+        "ru": {
+          "title": "Коммунитарное исследование показало, что интенсивное снижение артериального давления снизило заболеваемость деменцией",
+          "summary": "Результаты Программы контроля гипертензии в сельских районах Китая, представленные на Конгрессе ESC 2026, показали, что комплексная интенсивная вмешательская программа по снижению артериального давления в сообществе привела к более низкой частоте деменции по сравнению с обычной медицинской помощью в исследуемой популяции.",
+          "whyItMatters": "Если результаты будут воспроизведены и подтверждены, стратегии общественного контроля артериального давления могут повлиять на подходы к сокращению когнитивного снижения на уровне популяции.",
+          "takeaways": [
+            "Исследование было коммунитарным и проводилось в сельских районах Китая в рамках Программы контроля гипертензии в сельской местности.",
+            "Интенсивный контроль артериального давления был связан с меньшим числом случаев деменции по сравнению с обычной помощью.",
+            "Выводы были представлены в сессии Hot Line на конференции; публикация в рецензируемом журнале прояснит детали."
+          ]
+        },
+        "uk": {
+          "title": "Громадське дослідження виявило, що інтенсивне зниження артеріального тиску знизило захворюваність на деменцію",
+          "summary": "Результати програми China Rural Hypertension Control Program, представлені на ESC Congress 2026, показали, що інтенсивна, громадська програма зі зниження артеріального тиску призвела до нижчої захворюваності на деменцію порівняно зі звичайною медичною допомогою у досліджуваній популяції.",
+          "whyItMatters": "Якщо ці результати будуть відтворені та підтверджені, стратегії громадського контролю артеріального тиску можуть вплинути на підходи до зменшення когнітивного спаду на рівні населення.",
+          "takeaways": [
+            "Дослідження було проведене в громаді та реалізовувалося в рамках China Rural Hypertension Control Program у сільських районах Китаю.",
+            "Інтенсивний контроль артеріального тиску асоціювався з меншою кількістю випадків деменції порівняно зі звичайною допомогою.",
+            "Результати були представлені в рамках «Hot Line» сесії на конференції; подальша публікація у рецензованому виданні прояснить деталі."
+          ]
+        },
+        "fr": {
+          "title": "Un essai communautaire montre que l’abaissement intensif de la tension artérielle a réduit l’incidence de la démence",
+          "summary": "Les résultats du China Rural Hypertension Control Program présentés au congrès ESC 2026 ont montré qu’une intervention communautaire intensive de réduction de la tension artérielle a entraîné une incidence de démence plus faible que les soins habituels dans la population étudiée.",
+          "whyItMatters": "Si ces résultats sont reproduits et confirmés, des stratégies communautaires de contrôle de la pression artérielle pourraient influencer les approches visant à réduire le déclin cognitif au niveau populationnel.",
+          "takeaways": [
+            "L’essai était de nature communautaire et a été mené en zone rurale en Chine dans le cadre du China Rural Hypertension Control Program.",
+            "Le contrôle intensif de la pression artérielle était associé à moins de cas de démence par rapport aux soins habituels.",
+            "Les résultats ont été rapportés lors d’une session Hot Line à la conférence ; une publication en revue par les pairs clarifiera les détails."
+          ]
+        },
+        "de": {
+          "title": "Gemeindebasierte Studie: Intensive Blutdrucksenkung verringerte Demenzinzidenz",
+          "summary": "Ergebnisse des China Rural Hypertension Control Program, präsentiert auf dem ESC Kongress 2026, zeigten, dass eine gemeindebasierte, intensive blutdrucksenkende Intervention in der Studienpopulation zu einer geringeren Demenzinzidenz im Vergleich zur üblichen Versorgung führte.",
+          "whyItMatters": "Würden sich die Ergebnisse reproduzieren und bestätigen, könnten gemeindebasierte Blutdruckstrategien Ansätze zur Verringerung kognitiven Abbaus auf Bevölkerungsebene beeinflussen.",
+          "takeaways": [
+            "Die Studie war gemeindebasiert und wurde in ländlichen Regionen Chinas im Rahmen des China Rural Hypertension Control Program durchgeführt.",
+            "Intensive Blutdruckkontrolle war mit weniger Demenzfällen im Vergleich zur üblichen Versorgung verbunden.",
+            "Die Ergebnisse wurden in einer Konferenz‑Hot‑Line‑Sitzung berichtet; eine peer‑reviewte Veröffentlichung würde Details klären."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio comunitário mostra que redução intensiva da pressão arterial diminuiu incidência de demência",
+          "summary": "Resultados do China Rural Hypertension Control Program, apresentados no Congresso da ESC 2026, mostraram que uma intervenção comunitária intensiva de redução da pressão arterial levou a uma menor incidência de demência em comparação com o cuidado usual na população estudada.",
+          "whyItMatters": "Se replicadas e confirmadas, estratégias comunitárias de controle da pressão arterial poderiam influenciar abordagens para reduzir o declínio cognitivo em nível populacional.",
+          "takeaways": [
+            "O ensaio foi comunitário e conduzido em áreas rurais da China no âmbito do China Rural Hypertension Control Program.",
+            "O controle intensivo da pressão arterial associou‑se a menos casos de demência versus o cuidado usual.",
+            "Os achados foram relatados em uma sessão Hot Line da conferência; publicação revisada por pares esclarecerá detalhes."
+          ]
+        },
+        "hu": {
+          "title": "Közösségi vizsgálat: intenzív vérnyomáscsökkentés csökkentette a demencia előfordulását",
+          "summary": "A China Rural Hypertension Control Program eredményeit az ESC Kongresszus 2026-on bemutatták; a közösségalapú, intenzív vérnyomás‑csökkentő intervenció a szokásos ellátáshoz képest alacsonyabb demencia‑előfordulással járt a vizsgált népességben.",
+          "whyItMatters": "Ha megismétlik és megerősítik, a közösségi vérnyomás‑kezelési stratégiák befolyásolhatják a kognitív hanyatlás csökkentéséhez alkalmazott megközelítéseket populációs szinten.",
+          "takeaways": [
+            "A vizsgálat közösségalapú volt, és vidéki Kínában, a China Rural Hypertension Control Program keretében folyt.",
+            "Az intenzív vérnyomáskontroll kevesebb demenciaesettel társult a szokásos ellátáshoz képest.",
+            "Az eredményeket egy konferencia Hot Line szekciójában jelentették; további, lektorált publikáció tisztázná a részleteket."
+          ]
+        },
+        "ar": {
+          "title": "تجربة مجتمعية تجد أن خفض ضغط الدم المكثف قلل من حدوث الخرف",
+          "summary": "أظهرت نتائج برنامج السيطرة على فرط ضغط الدم في المناطق الريفية بالصين المقدَّمة في مؤتمر ESC 2026 أن تدخلًا مجتمعيًا مكثفًا لخفض ضغط الدم أدى إلى نقص في حدوث الخرف مقارنة بالرعاية المعتادة في عينة الدراسة.",
+          "whyItMatters": "إذا تكررت النتائج وتأكدت، فقد تؤثر استراتيجيات خفض ضغط الدم بقيادة المجتمع على طرق الحد من التراجع الإدراكي على مستوى السكان.",
+          "takeaways": [
+            "كانت التجربة مجتمعية وأُجريت في المناطق الريفية بالصين في إطار برنامج السيطرة على فرط ضغط الدم الريفي الصيني.",
+            "ارتبط التحكم المكثف في ضغط الدم بعدد حالات خرف أقل مقارنة بالرعاية المعتادة.",
+            "أُبلغ عن النتائج في جلسة Hot Line بالمؤتمر؛ سيوضح نشر مُحكَّم لاحقًا مزيدًا من التفاصيل."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medicalxpress-bp-dementia-ruralchina-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-bp-dementia-ruralchina-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-bp-dementia-ruralchina-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Community trial finds intensive blood-pressure lowering reduced dementia incidence.\nStory summary: Results from the China Rural Hypertension Control Program presented at ESC Congress 2026 showed that a community-based, intensive blood-pressure–lowering intervention led to a lower incidence of dementia compared with usual care in the study population..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sciencedaily-sweeteners-transgenerational-20260830",
+      "category": "nutrition & microbiome",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "sourceTitle": "Popular sweeteners may leave effects that last for generations",
+      "publishedAt": "Mon, 31 Aug 2026 10:04:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Mouse study finds sucralose and stevia altered gut microbiome and gene activity, with some changes in later generations",
+          "summary": "In mice, researchers observed that two zero-calorie sweeteners — sucralose and stevia — changed gut microbial composition, reduced certain beneficial microbial compounds, and altered activity of genes linked to metabolism and inflammation; some of those changes appeared in subsequent generations never directly exposed to the sweeteners.",
+          "whyItMatters": "The results suggest that sweetener-induced biological changes can persist beyond immediate exposure in an animal model, raising questions for further research about long-term and transgenerational effects.",
+          "takeaways": [
+            "Study was conducted in mice and measured microbiome, metabolite and gene-activity changes.",
+            "Both sucralose and stevia produced detectable effects in the study animals.",
+            "Some alterations were observed in descendant generations that did not consume the sweeteners; human relevance remains to be determined."
+          ]
+        },
+        "es": {
+          "title": "Estudio en ratones encuentra que sucralosa y estevia alteraron el microbioma intestinal y la actividad génica, con algunos cambios en generaciones posteriores",
+          "summary": "En ratones, investigadores observaron que dos edulcorantes sin calorías —sucralosa y estevia— modificaron la composición microbiana intestinal, redujeron ciertos compuestos microbianos beneficiosos y alteraron la actividad de genes vinculados al metabolismo y la inflamación; algunos de esos cambios aparecieron en generaciones posteriores que nunca estuvieron expuestas directamente a los edulcorantes.",
+          "whyItMatters": "Los resultados sugieren que los cambios biológicos inducidos por edulcorantes pueden persistir más allá de la exposición inmediata en un modelo animal, lo que plantea preguntas para investigaciones adicionales sobre efectos transgeneracionales y a largo plazo.",
+          "takeaways": [
+            "El estudio se realizó en ratones y midió cambios en microbioma, metabolitos y actividad génica.",
+            "Tanto la sucralosa como la estevia produjeron efectos detectables en los animales del estudio.",
+            "Se observaron algunas alteraciones en generaciones descendientes no expuestas; la relevancia para humanos queda por determinar."
+          ]
+        },
+        "ru": {
+          "title": "Исследование на мышах показало, что сукралоза и стевия изменяли кишечный микробиом и активность генов, с некоторыми изменениями в последующих поколениях",
+          "summary": "На мышах исследователи отметили, что два некалорийных подсластителя — сукралоза и стевия — изменяли состав кишечной микробиоты, снижали уровень некоторых полезных микробных соединений и меняли активность генов, связанных с метаболизмом и воспалением; часть этих изменений проявлялась у последующих поколений, которые напрямую не контактировали с подсластителями.",
+          "whyItMatters": "Результаты указывают, что биологические изменения, вызванные подсластителями, могут сохраняться за пределами периода непосредственной экспозиции в животной модели, что вызывает вопросы для дальнейшего изучения долговременных и трансгенерационных эффектов.",
+          "takeaways": [
+            "Исследование проводилось на мышах и включало измерения микробиома, метаболитов и активности генов.",
+            "Как сукралоза, так и стевия вызывали обнаруживаемые эффекты у животных исследования.",
+            "Некоторые изменения наблюдались у потомков, не подвергавшихся воздействию; значение для человека требует дальнейшего выяснения."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах: сукралоза та стевія змінили кишковий мікробіом і активність генів, деякі зміни проявилися в наступних поколіннях",
+          "summary": "На мишах дослідники спостерігали, що два безкалорійні підсолоджувачі — сукралоза та стевія — змінювали склад кишкового мікробіому, зменшували певні корисні мікробні сполуки та змінювали активність генів, пов’язаних з обміном речовин і запаленням; деякі з цих змін виявилися в наступних поколіннях, які ніколи безпосередньо не контактували з підсолоджувачами.",
+          "whyItMatters": "Результати свідчать, що індуковані підсолоджувачами біологічні зміни можуть зберігатися поза межами безпосереднього впливу в моделі тварин, що ставить питання для подальших досліджень щодо довгострокових і трансгенераційних ефектів.",
+          "takeaways": [
+            "Дослідження проведене на мишах і вимірювало зміни в мікробіомі, метаболітному профілі та активності генів.",
+            "І сукралоза, і стевія спричинили помітні ефекти в досліджуваних тварин.",
+            "Деякі зміни були виявлені в нащадках, які не споживали підсолоджувачі; значення для людей має бути встановлене додатковими дослідженнями."
+          ]
+        },
+        "fr": {
+          "title": "Étude chez la souris : sucralose et stévia ont modifié le microbiote intestinal et l’activité génique, avec certains changements chez les générations suivantes",
+          "summary": "Chez la souris, des chercheurs ont observé que deux édulcorants zéro calorie — le sucralose et la stévia — modifiaient la composition du microbiote intestinal, réduisaient certains composés microbiennement bénéfiques et altéraient l’activité de gènes liés au métabolisme et à l’inflammation ; certaines de ces modifications sont apparues chez des générations ultérieures jamais directement exposées aux édulcorants.",
+          "whyItMatters": "Les résultats suggèrent que des changements biologiques induits par des édulcorants peuvent persister au-delà de l’exposition immédiate dans un modèle animal, soulevant des questions pour de futures recherches sur les effets à long terme et transgénérationnels.",
+          "takeaways": [
+            "L’étude a été menée sur des souris et a mesuré des changements du microbiote, des métabolites et de l’activité génique.",
+            "Le sucralose et la stévia ont tous deux produit des effets détectables chez les animaux étudiés.",
+            "Certaines altérations ont été observées chez des descendants qui n’avaient pas consommé les édulcorants ; la pertinence pour l’humain reste à déterminer."
+          ]
+        },
+        "de": {
+          "title": "Mausstudie: Sucralose und Stevia veränderten Darmmikrobiom und Genaktivität; einige Änderungen in späteren Generationen",
+          "summary": "In Mäusen beobachteten Forschende, dass zwei kalorienfreie Süßstoffe — Sucralose und Stevia — die Zusammensetzung des Darmmikrobioms veränderten, bestimmte nützliche mikrobielle Verbindungen reduzierten und die Aktivität von Genen veränderten, die mit Stoffwechsel und Entzündung verbunden sind; einige dieser Veränderungen traten auch in nachfolgenden Generationen auf, die nie direkt den Süßstoffen ausgesetzt waren.",
+          "whyItMatters": "Die Ergebnisse deuten darauf hin, dass durch Süßstoffe induzierte biologische Veränderungen über die unmittelbare Exposition hinaus in einem Tiermodell bestehen können und werfen Fragen für weitere Forschung zu langfristigen und transgenerationalen Effekten auf.",
+          "takeaways": [
+            "Die Studie wurde an Mäusen durchgeführt und maß Veränderungen von Mikrobiom, Metaboliten und Genaktivität.",
+            "Sowohl Sucralose als auch Stevia erzeugten in den untersuchten Tieren nachweisbare Effekte.",
+            "Einige Veränderungen wurden in Nachfolgegenerationen beobachtet, die die Süßstoffe nicht konsumierten; die Relevanz für Menschen bleibt noch zu klären."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em camundongos encontra sucralose e estévia alterando microbioma intestinal e atividade gênica, com algumas mudanças em gerações posteriores",
+          "summary": "Em camundongos, pesquisadores observaram que dois adoçantes zero caloria — sucralose e estévia — alteraram a composição microbiana intestinal, reduziram certos compostos microbianos benéficos e modificaram a atividade de genes ligados ao metabolismo e à inflamação; algumas dessas mudanças apareceram em gerações subsequentes nunca expostas diretamente aos adoçantes.",
+          "whyItMatters": "Os resultados sugerem que mudanças biológicas induzidas por adoçantes podem persistir além da exposição imediata em um modelo animal, levantando questões para pesquisas adicionais sobre efeitos de longo prazo e transgeracionais.",
+          "takeaways": [
+            "O estudo foi conduzido em camundongos e avaliou microbioma, metabólitos e atividade gênica.",
+            "Tanto sucralose quanto estévia produziram efeitos detectáveis nos animais do estudo.",
+            "Algumas alterações foram observadas em gerações descendentes que não consumiram os adoçantes; a relevância para humanos ainda precisa ser determinada."
+          ]
+        },
+        "hu": {
+          "title": "Egérvizsgálat: szukralóz és sztívia megváltoztatta a bélmikrobiomot és a génaktivitást, egyes változások későbbi generációkban is megjelentek",
+          "summary": "Egerekben a kutatók azt figyelték meg, hogy két nulla kalóriás édesítőszer — a szukralóz és a sztívia — megváltoztatta a bél mikrobiális összetételét, csökkentett bizonyos hasznos mikrobiális vegyületeket, és módosította a metabolizmushoz és gyulladáshoz kötődő gének aktivitását; ezek közül néhány változás olyan utódgenerációkban is megjelent, amelyek közvetlenül sosem voltak kitéve az édesítőszereknek.",
+          "whyItMatters": "Az eredmények azt sugallják, hogy az édesítőszerekkel összefüggő biológiai változások az állatkísérletes modellben az azonnali expozíción túl is fennmaradhatnak, ami további kutatási kérdéseket vet fel a hosszú távú és transzgenerációs hatásokról.",
+          "takeaways": [
+            "A vizsgálat egereken folyt, és a mikrobiomra, metabolitokra és génaktivitásra gyakorolt változásokat mérte.",
+            "Mind a szukralóz, mind a sztívia kimutatható hatásokat eredményezett a kísérleti állatokban.",
+            "Néhány változás megjelent olyan leszármazott generációkban is, amelyek nem fogyasztották közvetlenül az édesítőszereket; az emberi relevancia még megállapítást igényel."
+          ]
+        },
+        "ar": {
+          "title": "دراسة على الفئران تجد أن السوكروزالوس والسيتيفيا غيّرا ميكروبيوم الأمعاء ونشاط الجينات، مع بعض التغيرات في الأجيال اللاحقة",
+          "summary": "في الفئران لاحظ الباحثون أن اثنين من المحليات صفرية السعرات — السوكروزالوس وستيفيا — غيرتا تركيب ميكروبيوم الأمعاء، قللتا من بعض المركبات الميكروبية المفيدة، وغيرتا نشاط جينات مرتبطة بالأيض والالتهاب؛ وظهرت بعض هذه التغيرات في أجيال لاحقة لم تُعرّض مباشرة للمحليات.",
+          "whyItMatters": "تشير النتائج إلى أن التغيرات البيولوجية الناجمة عن المحليات قد تستمر بعد التعرض المباشر في نموذج حيواني، مما يطرح أسئلة لبحث إضافي حول الآثار طويلة الأمد وعابرة الأجيال.",
+          "takeaways": [
+            "أُجريت الدراسة على الفئران وقيّمت التغيرات في الميكروبيوم، والسمَّدات (المستقلبات)، ونشاط الجينات.",
+            "أحدث كل من السوكروزالوس وستيفيا تأثيرات قابلة للرصد في الحيوانات التجريبية.",
+            "لوحظت بعض التغيرات في أجيال من ذرية لم تستهلك المحليات مباشرة؛ ولا تزال أهمية ذلك لدى البشر بحاجة إلى تحديد."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sciencedaily-sweeteners-transgenerational-20260830",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-sweeteners-transgenerational-20260830-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-sweeteners-transgenerational-20260830-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mouse study finds sucralose and stevia altered gut microbiome and gene activity, with some changes in later generations.\nStory summary: In mice, researchers observed that two zero-calorie sweeteners — sucralose and stevia — changed gut microbial composition, reduced certain beneficial microbial compounds, and altered activity of genes linked to metabolism and inflammation; some of those changes appeared in subsequent generations never directly exposed to the sweeteners..\nCategory: nutrition & microbiome.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "gainhealth-workplace-nutrition-pakistan-20260831",
+      "category": "public health nutrition",
+      "sourceName": "gainhealth.org",
+      "sourceUrl": "https://www.gainhealth.org/blogs/embedding-workforce-nutrition-industrial-settings-lessons-collaborative-pilot-pakistan-can",
+      "sourceTitle": "Embedding Workforce Nutrition into Industrial Settings: Lessons from a Collaborative Pilot in Pakistan Can Workplace Nutrition Go Beyond Providing Meals?",
+      "publishedAt": "Mon, 31 Aug 2026 12:05:31 +0000",
+      "languages": {
+        "en": {
+          "title": "Pilot in Pakistan explores workforce nutrition approaches beyond just meals",
+          "summary": "A collaborative pilot in Pakistan examined how workplace nutrition programs in industrial settings can extend past meal provision to address broader factors affecting workers’ diets and nutrition status.",
+          "whyItMatters": "Workplace programs that incorporate multiple elements — not only meals — could increase access to healthier foods and support employee well-being in industrial contexts.",
+          "takeaways": [
+            "Pilot work focused on embedding nutrition initiatives into industrial workplaces in Pakistan.",
+            "The program assessed strategies beyond meal provision to influence workers' dietary opportunities.",
+            "Lessons aim to inform larger-scale workplace nutrition interventions and policy."
+          ]
+        },
+        "es": {
+          "title": "Piloto en Pakistán explora enfoques de nutrición laboral más allá de solo ofrecer comidas",
+          "summary": "Un piloto colaborativo en Pakistán examinó cómo los programas de nutrición en entornos industriales pueden ir más allá de la provisión de comidas para abordar factores más amplios que afectan la dieta y el estado nutricional de los trabajadores.",
+          "whyItMatters": "Los programas laborales que incorporan múltiples elementos —no solo comidas— podrían aumentar el acceso a alimentos más saludables y apoyar el bienestar de los empleados en contextos industriales.",
+          "takeaways": [
+            "El trabajo piloto se centró en integrar iniciativas de nutrición en centros de trabajo industriales en Pakistán.",
+            "El programa evaluó estrategias más allá de la provisión de comidas para influir en las oportunidades dietarias de los trabajadores.",
+            "Las lecciones buscan orientar intervenciones de nutrición en el lugar de trabajo a mayor escala y políticas."
+          ]
+        },
+        "ru": {
+          "title": "Пилотный проект в Пакистане изучает подходы к питанию работников помимо предоставления питания",
+          "summary": "Совместный пилотный проект в Пакистане исследовал, как программы питания на рабочих местах в промышленных условиях могут выходить за рамки простой раздачи блюд и учитывать более широкие факторы, влияющие на рацион и питание работников.",
+          "whyItMatters": "Программы на рабочем месте, включающие несколько компонентов — а не только питание — могут расширить доступ к более здоровой пище и поддержать благополучие сотрудников в промышленных контекстах.",
+          "takeaways": [
+            "Пилотная работа была сосредоточена на внедрении инициатив по питанию в промышленные рабочие среды Пакистана.",
+            "Программа оценивала стратегии, выходящие за пределы предоставления питания, чтобы повлиять на возможности кормления работников.",
+            "Выводы нацелены на то, чтобы информировать более масштабные вмешательства и политику в области питания на рабочих местах."
+          ]
+        },
+        "uk": {
+          "title": "Пілот у Пакистані досліджує підходи до харчування працівників, що виходять за межі лише забезпечення їжею",
+          "summary": "Спільний пілот у Пакистані вивчав, як програми харчування на робочому місці в промислових умовах можуть виходити за рамки видачі їжі, щоб врахувати ширший спектр факторів, що впливають на раціон і харчовий статус працівників.",
+          "whyItMatters": "Програми на робочому місці, які включають кілька елементів, а не лише їжу, можуть розширити доступ до здоровіших продуктів і підтримати добробут працівників у промисловому середовищі.",
+          "takeaways": [
+            "Пілотне дослідження зосереджувалося на інтеграції ініціатив з харчування у промислові робочі місця в Пакистані.",
+            "Програма оцінювала стратегії, що виходять за межі простого надання їжі, щоб вплинути на харчові можливості працівників.",
+            "Отримані уроки мають інформувати масштабніші інтервенції з харчування працівників і політику."
+          ]
+        },
+        "fr": {
+          "title": "Un pilote au Pakistan explore des approches de nutrition au travail au‑delà de la simple fourniture de repas",
+          "summary": "Un projet pilote collaboratif au Pakistan a examiné comment les programmes de nutrition en milieu de travail dans des contextes industriels peuvent aller au‑delà de la fourniture de repas pour aborder des facteurs plus larges affectant les habitudes alimentaires et l’état nutritionnel des travailleurs.",
+          "whyItMatters": "Des programmes en entreprise incorporant plusieurs volets — et pas seulement des repas — pourraient augmenter l’accès à des aliments plus sains et soutenir le bien‑être des employés dans les contextes industriels.",
+          "takeaways": [
+            "Le pilote s’est concentré sur l’intégration d’initiatives nutritionnelles dans des lieux de travail industriels au Pakistan.",
+            "Le programme a évalué des stratégies au‑delà de la simple fourniture de repas pour influencer les opportunités alimentaires des travailleurs.",
+            "Les enseignements visent à informer des interventions et politiques de nutrition au travail à plus grande échelle."
+          ]
+        },
+        "de": {
+          "title": "Pilotprojekt in Pakistan untersucht betriebliche Ernährungsansätze über reine Mahlzeitenversorgung hinaus",
+          "summary": "Ein gemeinsames Pilotprojekt in Pakistan untersuchte, wie betriebliche Ernährungsprogramme in industriellen Umgebungen über die reine Bereitstellung von Mahlzeiten hinausgehen können, um breitere Faktoren zu adressieren, die die Ernährung und den Ernährungsstatus von Arbeitern beeinflussen.",
+          "whyItMatters": "Betriebliche Programme, die mehrere Elemente integrieren — nicht nur Mahlzeiten — könnten den Zugang zu gesünderen Lebensmitteln verbessern und das Wohlbefinden von Beschäftigten in Industrieumfeldern unterstützen.",
+          "takeaways": [
+            "Das Pilotprojekt konzentrierte sich auf die Einbettung von Ernährungsinitiativen in industrielle Arbeitsplätze in Pakistan.",
+            "Das Programm prüfte Strategien über die reine Mahlzeitenversorgung hinaus, um die Ernährungs‑möglichkeiten der Beschäftigten zu beeinflussen.",
+            "Die gewonnenen Erkenntnisse sollen größere betriebliche Ernährungsinterventionen und Politikgestaltung informieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Piloto no Paquistão explora abordagens de nutrição no trabalho além de apenas fornecer refeições",
+          "summary": "Um piloto colaborativo no Paquistão examinou como programas de nutrição no local de trabalho em ambientes industriais podem ir além da provisão de refeições para abordar fatores mais amplos que afetam as dietas e o estado nutricional dos trabalhadores.",
+          "whyItMatters": "Programas no local de trabalho que incorporam múltiplos elementos — e não apenas refeições — podem aumentar o acesso a alimentos mais saudáveis e apoiar o bem‑estar dos empregados em contextos industriais.",
+          "takeaways": [
+            "O trabalho piloto focou em integrar iniciativas de nutrição em locais de trabalho industriais no Paquistão.",
+            "O programa avaliou estratégias além da provisão de refeições para influenciar as oportunidades alimentares dos trabalhadores.",
+            "As lições visam informar intervenções e políticas de nutrição no local de trabalho em escala maior."
+          ]
+        },
+        "hu": {
+          "title": "Pakisztáni pilot: munkahelyi táplálkozás vizsgálata az étkezéseken túl",
+          "summary": "Egy együttműködésen alapuló pilot program Pakisztánban azt vizsgálta, hogyan lehet az ipari környezetben működő munkahelyi táplálkozási programokat az étkezések biztosításán túl kiterjeszteni úgy, hogy más, a dolgozók étrendjét és tápláltsági állapotát befolyásoló tényezőket is kezeljenek.",
+          "whyItMatters": "Az olyan munkahelyi programok, amelyek több elemet is integrálnak — nemcsak az étkezést — növelhetik a hozzáférést egészségesebb élelmiszerekhez és támogathatják a dolgozók jólétét ipari környezetben.",
+          "takeaways": [
+            "A pilot a munkahelyi táplálkozási kezdeményezések ipari munkakörnyezetbe ágyazására fókuszált Pakisztánban.",
+            "A program az étkezésen túlmutató stratégiákat értékelt a dolgozók étrendi lehetőségeinek befolyásolására.",
+            "A tanulságok nagyobb volumenű munkahelyi táplálkozási beavatkozások és politikák kialakítását hivatottak támogatni."
+          ]
+        },
+        "ar": {
+          "title": "تجريبية في باكستان تستكشف نهج تغذية القوى العاملة أبعد من توفير الوجبات",
+          "summary": "فحصت تجربة تجريبية تعاونية في باكستان كيف يمكن لبرامج تغذية القوى العاملة في البيئات الصناعية أن تتجاوز مجرد توفير الوجبات لتتعامل مع عوامل أوسع تؤثر على أنماط غذاء العاملين وحالتهم التغذوية.",
+          "whyItMatters": "قد تزيد البرامج في أماكن العمل التي تدمج عناصر متعددة — وليس الوجبات فقط — من الوصول إلى أطعمة أكثر صحية وتدعم رفاهية الموظفين في السياقات الصناعية.",
+          "takeaways": [
+            "ركزت التجربة على إدماج مبادرات التغذية في أماكن العمل الصناعية في باكستان.",
+            "قيَّم البرنامج استراتيجيات تتجاوز توفير الوجبات للتأثير على فرص التغذية لدى العاملين.",
+            "تهدف الدروس المستفادة إلى إعلام تدخلات وسياسات تغذية أوسع نطاقًا في أماكن العمل."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=gainhealth-workplace-nutrition-pakistan-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-workplace-nutrition-pakistan-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-workplace-nutrition-pakistan-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pilot in Pakistan explores workforce nutrition approaches beyond just meals.\nStory summary: A collaborative pilot in Pakistan examined how workplace nutrition programs in industrial settings can extend past meal provision to address broader factors affecting workers’ diets and nutrition status..\nCategory: public health nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "theconversation-salmonella-spread-20260831",
+      "category": "food safety",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/how-does-salmonella-contaminate-everything-under-the-sun-a-food-safety-specialist-explains-how-you-can-stop-its-spread-290209",
+      "sourceTitle": "How does ‘Salmonella’ contaminate everything under the sun? A food safety specialist explains how you can stop its spread",
+      "publishedAt": "2026-08-31T12:03:06Z",
+      "languages": {
+        "en": {
+          "title": "Food-safety expert explains why Salmonella shows up in many foods",
+          "summary": "A food-safety specialist outlines the common ways Salmonella contaminates a wide variety of items — from produce and eggs to pet-related products — and discusses the factors that allow the bacteria to spread across supply chains and kitchens.",
+          "whyItMatters": "Understanding contamination routes and control points can help public-health authorities and food handlers better target prevention efforts.",
+          "takeaways": [
+            "Salmonella has diverse contamination sources across food and animal products.",
+            "Cross-contamination and environmental persistence are key contributors to spread.",
+            "The article focuses on contamination mechanisms and control strategies rather than specific medical guidance."
+          ]
+        },
+        "es": {
+          "title": "Experto en seguridad alimentaria explica por qué Salmonella aparece en muchos alimentos",
+          "summary": "Un especialista en seguridad alimentaria describe las formas comunes en que Salmonella contamina una amplia variedad de productos —desde frutas y hortalizas y huevos hasta artículos relacionados con mascotas— y analiza los factores que permiten que la bacteria se propague a lo largo de cadenas de suministro y en cocinas.",
+          "whyItMatters": "Entender las rutas de contaminación y los puntos de control puede ayudar a que las autoridades de salud pública y los manipuladores de alimentos orienten mejor los esfuerzos de prevención.",
+          "takeaways": [
+            "Salmonella tiene fuentes de contaminación diversas que abarcan alimentos y productos animales.",
+            "La contaminación cruzada y la persistencia ambiental son factores clave en su propagación.",
+            "El artículo se centra en mecanismos de contaminación y estrategias de control, no en orientaciones médicas específicas."
+          ]
+        },
+        "ru": {
+          "title": "Эксперт по безопасности пищевых продуктов объясняет, почему Salmonella встречается во множестве продуктов",
+          "summary": "Специалист по безопасности пищевых продуктов описывает типичные способы попадания Salmonella в самые разные товары — от овощей и яиц до товаров, связанных с домашними животными — и обсуждает факторы, позволяющие бактерии распространяться по цепям поставок и на кухнях.",
+          "whyItMatters": "Понимание путей заражения и контрольных точек может помочь органам общественного здравоохранения и лицам, работающим с продуктами, лучше нацеливать меры профилактики.",
+          "takeaways": [
+            "Salmonella имеет разнообразные источники заражения в продуктах питания и животных товарах.",
+            "Перекрёстное загрязнение и устойчивость в окружающей среде являются ключевыми факторами распространения.",
+            "Статья сосредоточена на механизмах загрязнения и стратегиях контроля, а не на конкретных медицинских рекомендациях."
+          ]
+        },
+        "uk": {
+          "title": "Експерт із безпеки харчових продуктів пояснює, чому Salmonella зустрічається в багатьох продуктах",
+          "summary": "Фахівець із безпеки харчових продуктів окреслює поширені шляхи, за допомогою яких Salmonella заражає різноманітні продукти — від овочів і яєць до товарів для домашніх тварин — і обговорює фактори, що дозволяють бактеріям поширюватися ланцюгами постачання та у кухнях.",
+          "whyItMatters": "Розуміння маршрутів забруднення й контрольних точок може допомогти органам охорони здоров’я та працівникам харчової сфери краще спрямувати заходи з профілактики.",
+          "takeaways": [
+            "Salmonella має різноманітні джерела забруднення у харчових та тваринних продуктах.",
+            "Перехресне забруднення та стійкість у навколишньому середовищі є ключовими факторами поширення.",
+            "Стаття зосереджена на механізмах забруднення та стратегіях контролю, а не на конкретних медичних рекомендаціях."
+          ]
+        },
+        "fr": {
+          "title": "Un expert en sécurité alimentaire explique pourquoi Salmonella apparaît dans de nombreux aliments",
+          "summary": "Un spécialiste de la sécurité alimentaire décrit les voies courantes par lesquelles Salmonella contamine une grande variété d’articles — des produits frais et des œufs aux produits liés aux animaux de compagnie — et discute des facteurs qui permettent à la bactérie de se propager dans les chaînes d’approvisionnement et les cuisines.",
+          "whyItMatters": "Comprendre les voies de contamination et les points de contrôle peut aider les autorités de santé publique et les manipulateurs d’aliments à mieux cibler les efforts de prévention.",
+          "takeaways": [
+            "Salmonella a des sources de contamination diverses à travers les produits alimentaires et animaux.",
+            "La contamination croisée et la persistance dans l’environnement contribuent fortement à la propagation.",
+            "L’article se concentre sur les mécanismes de contamination et les stratégies de contrôle plutôt que sur des conseils médicaux spécifiques."
+          ]
+        },
+        "de": {
+          "title": "Lebensmittelsicherheitsexperte erklärt, warum Salmonellen in vielen Lebensmitteln vorkommen",
+          "summary": "Ein Lebensmittelsicherheitsexperte erläutert die üblichen Wege, auf denen Salmonella eine Vielzahl von Produkten — von frischem Gemüse und Eiern bis zu haustierbezogenen Artikeln — kontaminiert, und erörtert die Faktoren, die es Bakterien ermöglichen, sich über Lieferketten und Küchen hinweg zu verbreiten.",
+          "whyItMatters": "Das Verständnis von Kontaminationswegen und Kontrollpunkten kann Gesundheitsbehörden und Lebensmittelverantwortliche dabei helfen, Präventionsmaßnahmen gezielter anzugehen.",
+          "takeaways": [
+            "Salmonella hat vielfältige Kontaminationsquellen in Lebensmitteln und Tierprodukten.",
+            "Kreuzkontamination und Umweltpersistenz tragen wesentlich zur Ausbreitung bei.",
+            "Der Artikel konzentriert sich auf Kontaminationsmechanismen und Kontrollstrategien und nicht auf spezifische medizinische Anleitungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Especialista em segurança alimentar explica por que Salmonella aparece em muitos alimentos",
+          "summary": "Um especialista em segurança alimentar descreve as formas comuns pelas quais a Salmonella contamina uma ampla variedade de itens — de hortifrutis e ovos até produtos relacionados a animais de estimação — e discute os fatores que permitem que a bactéria se espalhe por cadeias de suprimento e cozinhas.",
+          "whyItMatters": "Entender as rotas de contaminação e os pontos de controle pode ajudar autoridades de saúde pública e manipuladores de alimentos a direcionar melhor os esforços de prevenção.",
+          "takeaways": [
+            "A Salmonella tem fontes diversas de contaminação em alimentos e produtos animais.",
+            "A contaminação cruzada e a persistência ambiental são contribuintes-chave para a disseminação.",
+            "O artigo foca em mecanismos de contaminação e estratégias de controle, não em orientações médicas específicas."
+          ]
+        },
+        "hu": {
+          "title": "Élelmiszer-biztonsági szakértő: miért fordul elő a Salmonella sokféle élelmiszerben",
+          "summary": "Egy élelmiszer-biztonsági szakértő vázolja a Salmonella gyakori szennyeződésének módjait — a zöldségektől és tojásoktól kezdve a háziállatokhoz kapcsolódó termékekig —, és tárgyalja azokat a tényezőket, amelyek lehetővé teszik a baktérium terjedését az ellátási láncokban és a konyhákban.",
+          "whyItMatters": "A szennyeződés útvonalainak és az ellenőrzési pontoknak a megértése segíthet a közegészségügyi hatóságoknak és az élelmiszer-kezelőknek a megelőzés célzottabb intézkedéseiben.",
+          "takeaways": [
+            "A Salmonellának sokféle forrása lehet az élelmiszerekben és állati termékekben.",
+            "A kereszt-szennyeződés és a környezeti tartósság kulcsfontosságú tényezők a terjedésben.",
+            "A cikk a szennyeződés mechanizmusaira és ellenőrzési stratégiákra összpontosít, nem pedig konkrét orvosi tanácsra."
+          ]
+        },
+        "ar": {
+          "title": "خبير سلامة الأغذية يشرح لماذا يظهر السالمونيلا في العديد من الأطعمة",
+          "summary": "يستعرض خبير سلامة الأغذية الطرق الشائعة التي تلوث بها السالمونيلا مجموعة واسعة من المواد — من الخضروات والبيض إلى المنتجات المرتبطة بالحيوانات الأليفة — ويناقش العوامل التي تسمح للبكتيريا بالانتشار عبر سلاسل التوريد والمطابخ.",
+          "whyItMatters": "يمكن أن يساعد فهم مسارات التلوث ونقاط الضبط السلطات الصحية ومتعاملِي الأغذية على توجيه جهود الوقاية بشكل أفضل.",
+          "takeaways": [
+            "للسالمونيلا مصادر تلوث متنوعة عبر الأغذية ومنتجات الحيوانات.",
+            "تعد العدوى العرضية (التلوث المتقاطع) وثباتها البيئي من العوامل الرئيسية في الانتشار.",
+            "يركز المقال على آليات التلوث واستراتيجيات التحكم بدلًا من تقديم إرشادات طبية محددة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=theconversation-salmonella-spread-20260831",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-salmonella-spread-20260831-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-salmonella-spread-20260831-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Food-safety expert explains why Salmonella shows up in many foods.\nStory summary: A food-safety specialist outlines the common ways Salmonella contaminates a wide variety of items — from produce and eggs to pet-related products — and discusses the factors that allow the bacteria to spread across supply chains and kitchens..\nCategory: food safety.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "cgas-sting-leaky-oocytes-2026",
@@ -74717,114 +75466,378 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO responds to U.S. notification of withdrawal, flags risks to global health cooperation.\nStory summary: WHO expressed regret over the United States' notification of withdrawal and noted that the decision raises issues related to global health security; the matter was slated for consideration by WHO governing bodies. The statement frames the withdrawal as having potential implications for shared health action and emergency response..\nCategory: global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "dga-2025-2030-analysis-2026",
-      "category": "nutrition",
+      "id": "harvard-dgas-2025-2030-20260109",
+      "category": "dietary guidelines",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
       "sourceTitle": "Dietary Guidelines for Americans 2025-2030: Progress on added sugar, protein hype, saturated fat contradictions",
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "Analysis of the 2025–2030 Dietary Guidelines: stronger language on added sugars but mixed visuals on fats",
-          "summary": "The 2025–2030 Dietary Guidelines for Americans emphasize 'eat real food' and take a firmer stance on added sugars and highly processed foods. The new visual—an inverted, pyramid‑style graphic—prominently features items like steak and full‑fat dairy, though the written guidance retains the longstanding cap of 10% of calories from saturated fat.",
-          "whyItMatters": "Changes in guidance wording and graphics can influence public interpretation and food choices; the document balances calls to limit added sugars and processed foods with visuals that some may read as endorsing higher‑fat animal products.",
+          "title": "Harvard review highlights key points in the 2025–2030 Dietary Guidelines",
+          "summary": "The 2025–2030 Dietary Guidelines for Americans emphasize eating minimally processed foods and take a firmer stance on limiting added sugars and highly processed products, while retaining the longstanding recommendation that saturated fat should make up no more than 10% of daily calories despite visual emphasis given to some animal-based foods in the guidelines' graphic.",
+          "whyItMatters": "These Guidelines influence public nutrition messaging and policy; clarifying both the stronger focus on added sugars and the retained saturated-fat limit helps readers interpret the document accurately.",
           "takeaways": [
-            "Guidelines reinforce limits on added sugars and processed foods.",
-            "A new inverted graphic highlights some animal‑based choices despite retaining a 10% saturated fat limit.",
-            "The visual presentation could affect public perception of recommended foods, underscoring the need to read the full guidance."
+            "Guidelines encourage 'eat real food' and stronger limits on added sugars and processed foods.",
+            "A new graphic highlights certain animal-based foods, but the 10% saturated fat limit remains in place.",
+            "Interpretation of visuals should be guided by the written recommendations in the report."
           ]
         },
         "es": {
-          "title": "Análisis de las Guías Alimentarias 2025–2030: lenguaje más contundente sobre azúcares añadidos pero visuales mixtos sobre grasas",
-          "summary": "Las Guías Alimentarias para los Estadounidenses 2025–2030 enfatizan 'comer alimentos reales' y adoptan una postura más firme sobre azúcares añadidos y alimentos muy procesados. La nueva imagen—un gráfico invertido tipo pirámide—destaca elementos como bistec y lácteos enteros, aunque la orientación escrita mantiene el límite tradicional del 10% de las calorías procedentes de grasas saturadas.",
-          "whyItMatters": "Los cambios en la redacción y en los gráficos pueden influir en la interpretación pública y en las elecciones alimentarias; el documento equilibra llamados a limitar azúcares añadidos y procesados con visuales que algunos pueden leer como un respaldo a productos animales más grasos.",
+          "title": "Revisión de Harvard destaca puntos clave en las Guías Alimentarias 2025–2030",
+          "summary": "Las Guías Alimentarias para los estadounidenses 2025–2030 enfatizan consumir alimentos mínimamente procesados y adoptan una postura más firme sobre la limitación de azúcares añadidos y productos altamente procesados, al tiempo que mantienen la recomendación de que las grasas saturadas no deben constituir más del 10% de las calorías diarias, a pesar del énfasis visual que se da a ciertos alimentos de origen animal en el gráfico de las guías.",
+          "whyItMatters": "Estas guías influyen en la comunicación pública y en políticas de nutrición; aclarar tanto el mayor enfoque en azúcares añadidos como el límite de grasas saturadas ayuda a interpretar el documento con precisión.",
           "takeaways": [
-            "Las guías refuerzan los límites sobre azúcares añadidos y alimentos procesados.",
-            "Un nuevo gráfico invertido destaca algunas opciones de origen animal pese a mantener el límite del 10% de grasas saturadas.",
-            "La presentación visual podría afectar la percepción pública de los alimentos recomendados, por lo que es importante leer la guía completa."
+            "Las guías fomentan 'comer alimentos reales' y límites más estrictos sobre azúcares añadidos y alimentos procesados.",
+            "Un nuevo gráfico destaca ciertos alimentos de origen animal, pero el límite del 10% para grasas saturadas se mantiene.",
+            "La interpretación de elementos visuales debe guiarse por las recomendaciones escritas en el informe."
           ]
         },
         "ru": {
-          "title": "Анализ рекомендованных диет 2025–2030: более жесткая формулировка по добавленным сахарам, но смешанные визуалы по жирам",
-          "summary": "Руководство по питанию для американцев 2025–2030 подчёркивает «есть реальную пищу» и занимает более жёсткую позицию по добавленным сахарам и высокообработанным продуктам. Новый графический образ — инвертированная «пирамидальная» схема — явно включает такие продукты, как стейк и цельномолочные продукты, хотя в тексте по‑прежнему сохраняется устоявшийся предел в 10% калорий из насыщенных жиров.",
-          "whyItMatters": "Изменения в формулировках и графическом представлении могут влиять на восприятие публикой и выбор продуктов; документ сочетает призывы ограничить добавленные сахара и обработанные продукты с визуалами, которые некоторые могут интерпретировать как поддержку более жирных продуктов животного происхождения.",
+          "title": "Обзор Гарварда выделяет ключевые моменты в Диетических рекомендациях 2025–2030",
+          "summary": "Диетические рекомендации для американцев 2025–2030 делают упор на потребление минимально обработанных продуктов и занимают более жёсткую позицию по ограничению добавленных сахаров и сильно обработанных продуктов, сохраняя при этом давнюю рекомендацию о том, что доля насыщенных жиров не должна превышать 10% от суточной калорийности, несмотря на визуальное выделение некоторых продуктов животного происхождения в графике рекомендаций.",
+          "whyItMatters": "Эти рекомендации влияют на публичные сообщения и политику в области питания; уточнение как усиленного внимания к добавленным сахарам, так и сохранения лимита насыщенных жиров помогает правильно интерпретировать документ.",
           "takeaways": [
-            "Руководство подтверждает необходимость ограничения добавленных сахаров и обработанных продуктов.",
-            "Новый инвертированный график выделяет некоторые животные продукты при сохранении 10% лимита по насыщенным жирам.",
-            "Визуальное представление может повлиять на восприятие рекомендаций, поэтому важно изучать текст руководства полностью."
+            "Рекомендации поощряют «есть настоящую еду» и ужесточение ограничений на добавленные сахара и обработанные продукты.",
+            "Новый график выделяет некоторые продукты животного происхождения, но лимит в 10% по насыщенным жирам остаётся в силе.",
+            "Интерпретация визуальных материалов должна опираться на письменные рекомендации в отчёте."
           ]
         },
         "uk": {
-          "title": "Аналіз Національних рекомендацій з харчування 2025–2030: жорсткіша риторика щодо доданого цукру, але неоднозначні візуали щодо жирів",
-          "summary": "Національні рекомендації з харчування для американців на 2025–2030 роки підкреслюють «їжте справжню їжу» і займають більш жорстку позицію щодо доданого цукру та сильно перероблених продуктів. Нова візуалізація — перевернута піраміда — відображає такі продукти, як стейк і молочні продукти повної жирності, хоча письмові вказівки зберігають тривале обмеження насичених жирів до 10% калорій.",
-          "whyItMatters": "Зміни у формулюванні та графіці керівництва можуть впливати на громадське тлумачення і вибір продуктів; документ поєднує заклики обмежувати доданий цукор і перероблені продукти з візуальними елементами, які деякі можуть трактувати як підтримку продуктів тваринного походження з більшою жирністю.",
+          "title": "Огляд Гарварду підкреслює ключові моменти у Дієтичних рекомендаціях США на 2025–2030 роки",
+          "summary": "Дієтичні рекомендації США на 2025–2030 роки наголошують на споживанні мінімально оброблених продуктів і займають більш жорстку позицію щодо обмеження доданого цукру та високооброблених продуктів, одночасно зберігаючи давню рекомендацію, що насичені жири не повинні перевищувати 10 % добової калорійності, незважаючи на візуальний акцент на деяких продуктах тваринного походження в графіці рекомендацій.",
+          "whyItMatters": "Ці рекомендації впливають на публічні повідомлення та політику у сфері харчування; роз’яснення посиленої уваги до доданих цукрів і збереженої межі насичених жирів допомагає читачам правильно інтерпретувати документ.",
           "takeaways": [
-            "Рекомендації підсилюють обмеження на доданий цукор і перероблені продукти.",
-            "Нова перевернута графіка виділяє деякі продукти тваринного походження, незважаючи на збереження ліміту насичених жирів у 10% калорій.",
-            "Візуальне подання може впливати на сприйняття рекомендованих продуктів, що підкреслює необхідність читати повний текст рекомендацій."
+            "Рекомендації заохочують «їсти справжню їжу» і посилюють обмеження щодо доданих цукрів та оброблених продуктів.",
+            "Нова графіка виділяє певні продукти тваринного походження, але межа у 10 % для насичених жирів залишається в силі.",
+            "Інтерпретувати візуальні елементи слід у контексті письмових рекомендацій у звіті."
           ]
         },
         "fr": {
-          "title": "Analyse des Dietary Guidelines 2025–2030 : langage renforcé sur les sucres ajoutés mais visuels mitigés concernant les graisses",
-          "summary": "Les Dietary Guidelines for Americans 2025–2030 mettent l'accent sur « manger des aliments réels » et adoptent une position plus ferme sur les sucres ajoutés et les aliments hautement transformés. La nouvelle représentation visuelle — un graphique de type pyramide inversée — met en avant des éléments comme le steak et les produits laitiers entiers, alors que les recommandations écrites maintiennent la limite historique de 10 % des calories provenant des graisses saturées.",
-          "whyItMatters": "Les changements de formulation et de graphiques peuvent influencer l'interprétation publique et les choix alimentaires ; le document conjugue l'appel à limiter les sucres ajoutés et les aliments transformés avec des visuels que certains peuvent lire comme une valorisation de produits animaux plus gras.",
+          "title": "Revue Harvard mettant en lumière les points clés des Dietary Guidelines 2025–2030",
+          "summary": "Les Dietary Guidelines for Americans 2025–2030 mettent l’accent sur la consommation d’aliments peu transformés et adoptent une position plus ferme sur la limitation des sucres ajoutés et des produits fortement transformés, tout en conservant la recommandation de longue date selon laquelle les graisses saturées ne devraient pas représenter plus de 10 % des calories quotidiennes, malgré l’accent visuel porté à certains aliments d’origine animale dans le graphique des recommandations.",
+          "whyItMatters": "Ces directives influencent le message public et les politiques nutritionnelles ; clarifier l’attention renforcée portée aux sucres ajoutés et le maintien de la limite sur les graisses saturées aide les lecteurs à interpréter correctement le document.",
           "takeaways": [
-            "Les lignes directrices renforcent les limites sur les sucres ajoutés et les aliments transformés.",
-            "Un nouveau graphique inversé met en évidence certains choix d'origine animale malgré le maintien d'une limite de 10 % pour les graisses saturées.",
-            "La présentation visuelle peut affecter la perception du public sur les aliments recommandés, soulignant l'importance de lire l'intégralité des recommandations."
+            "Les recommandations encouragent de « manger de vrais aliments » et des limites renforcées sur les sucres ajoutés et les produits transformés.",
+            "Un nouveau graphique met en évidence certains aliments d’origine animale, mais la limite de 10 % pour les graisses saturées reste en vigueur.",
+            "L’interprétation des éléments visuels doit se faire à la lumière des recommandations écrites du rapport."
           ]
         },
         "de": {
-          "title": "Analyse der Dietary Guidelines 2025–2030: Deutlichere Sprache zu zugesetztem Zucker, aber gemischte Visualisierung bei Fetten",
-          "summary": "Die Dietary Guidelines for Americans 2025–2030 betonen „Iss echte Lebensmittel“ und nehmen eine klarere Haltung zu zugesetztem Zucker und stark verarbeiteten Lebensmitteln ein. Die neue, invertierte pyramidenähnliche Grafik stellt Elemente wie Steak und vollfette Milchprodukte prominent dar, obwohl die schriftliche Anleitung die lange bestehende Obergrenze von 10 % der Kalorien aus gesättigten Fettsäuren beibehält.",
-          "whyItMatters": "Änderungen in Formulierung und Grafik können die Interpretation durch die Öffentlichkeit und Lebensmittelentscheidungen beeinflussen; das Dokument balanciert Empfehlungen zur Begrenzung von zugesetztem Zucker und verarbeiteten Lebensmitteln mit einer Visualisierung, die von manchen als Hinweis auf höherfettige tierische Produkte gelesen werden könnte.",
+          "title": "Harvard‑Analyse hebt Schlüsselpunkte der Dietary Guidelines 2025–2030 hervor",
+          "summary": "Die Dietary Guidelines for Americans 2025–2030 betonen den Verzehr möglichst unverarbeiteter Lebensmittel und vertreten eine deutlichere Haltung zur Begrenzung zugesetzter Zucker und stark verarbeiteter Produkte, während sie die langjährige Empfehlung beibehalten, dass gesättigte Fettsäuren nicht mehr als 10 % der täglichen Kalorien ausmachen sollten — trotz einer visuellen Hervorhebung bestimmter tierischer Lebensmittel in der Grafik der Richtlinien.",
+          "whyItMatters": "Diese Richtlinien beeinflussen öffentliche Ernährungsbotschaften und Politik; die Klarstellung sowohl des stärkeren Fokus auf zugesetzten Zucker als auch der beibehaltenen Grenze für gesättigte Fette hilft Lesern, das Dokument korrekt zu interpretieren.",
           "takeaways": [
-            "Die Leitlinien bekräftigen Beschränkungen für zugesetzten Zucker und verarbeitete Lebensmittel.",
-            "Eine neue invertierte Grafik hebt einige tierische Optionen hervor, obwohl die 10‑%‑Grenze für gesättigte Fettsäuren beibehalten wird.",
-            "Die visuelle Darstellung könnte die öffentliche Wahrnehmung empfohlener Lebensmittel beeinflussen, weshalb es wichtig ist, die vollständigen Leitlinien zu lesen."
+            "Die Richtlinien ermutigen zu 'echten Lebensmitteln' und zu stärkeren Beschränkungen bei zugesetztem Zucker und verarbeiteten Lebensmitteln.",
+            "Eine neue Grafik hebt bestimmte tierische Lebensmittel hervor, aber die 10‑%‑Grenze für gesättigte Fette bleibt bestehen.",
+            "Die Interpretation visueller Elemente sollte sich an den schriftlichen Empfehlungen im Bericht orientieren."
           ]
         },
         "pt-br": {
-          "title": "Análise das Dietary Guidelines 2025–2030: linguagem mais firme sobre açúcares adicionados, mas visuais mistos sobre gorduras",
-          "summary": "As Dietary Guidelines for Americans 2025–2030 enfatizam “coma alimentos reais” e adotam uma posição mais firme sobre açúcares adicionados e alimentos altamente processados. O novo gráfico invertido, em estilo pirâmide, destaca itens como bife e laticínios integrais, embora a orientação escrita mantenha o limite histórico de 10% das calorias provenientes de gorduras saturadas.",
-          "whyItMatters": "Mudanças na redação e nos gráficos podem influenciar a interpretação pública e as escolhas alimentares; o documento equilibra chamadas para limitar açúcares adicionados e ultraprocessados com visuais que alguns podem interpretar como maior ênfase em produtos animais com mais gordura.",
+          "title": "Revisão de Harvard destaca pontos-chave das Dietary Guidelines 2025–2030",
+          "summary": "As Dietary Guidelines for Americans 2025–2030 enfatizam o consumo de alimentos minimamente processados e adotam uma postura mais firme sobre limitar açúcares adicionados e produtos altamente processados, ao mesmo tempo em que mantêm a recomendação antiga de que gorduras saturadas não devem representar mais de 10% das calorias diárias, apesar da ênfase visual dada a alguns alimentos de origem animal no gráfico das diretrizes.",
+          "whyItMatters": "Essas diretrizes influenciam mensagens e políticas públicas sobre nutrição; esclarecer tanto o foco mais forte em açúcares adicionados quanto a manutenção do limite para gorduras saturadas ajuda os leitores a interpretar o documento com precisão.",
           "takeaways": [
-            "As diretrizes reforçam limites para açúcares adicionados e alimentos processados.",
-            "Um novo gráfico invertido destaca algumas opções de origem animal apesar de manter o limite de 10% para gorduras saturadas.",
-            "A apresentação visual pode afetar a percepção pública sobre alimentos recomendados, reforçando a necessidade de ler a diretriz completa."
+            "As diretrizes incentivam 'comer alimentos reais' e limites mais fortes para açúcares adicionados e alimentos processados.",
+            "Um novo gráfico destaca certos alimentos de origem animal, mas o limite de 10% para gorduras saturadas permanece.",
+            "A interpretação de elementos visuais deve ser guiada pelas recomendações escritas no relatório."
           ]
         },
         "hu": {
-          "title": "Elemzés az 2025–2030-as Dietary Guidelinesről: erősebb megfogalmazás a hozzáadott cukrokról, de vegyes üzenetek a zsírokról",
-          "summary": "Az 2025–2030-as Dietary Guidelines for Americans hangsúlyozza a „valódi ételek fogyasztását” és határozottabban közelít a hozzáadott cukrokhoz és a magas feldolgozottságú élelmiszerekhez. Az új, invertált piramis jellegű grafika kiemeli például a steak‑et és a teljes zsírtartalmú tejtermékeket, miközben a szöveges iránymutatás megőrzi a telített zsírra vonatkozó, hosszú ideje fennálló 10%‑os kalória‑korlátot.",
-          "whyItMatters": "Az iránymutatás megfogalmazásának és vizuális megjelenésének változásai befolyásolhatják a közönség értelmezését és ételválasztásait; a dokumentum egyszerre szorgalmazza a hozzáadott cukrok és feldolgozott ételek korlátozását, miközben a vizuális elemek egyesek számára magasabb zsírtartalmú állati termékeknek tűnhetnek ajánlásként.",
+          "title": "A Harvard áttekintése kiemeli a 2025–2030-as Étrendirányelvek fontos pontjait",
+          "summary": "A 2025–2030-as Dietary Guidelines for Americans hangsúlyozza a minimálisan feldolgozott ételek fogyasztását, határozottabb álláspontot foglal el a hozzáadott cukrok és erősen feldolgozott termékek korlátozásával kapcsolatban, miközben megőrzi a régi ajánlást, miszerint a telített zsír legfeljebb a napi kalóriabevitel 10%-át teheti ki, még akkor is, ha a dokumentum grafikai ábrázolásában bizonyos állati eredetű ételekre vizuális hangsúly került.",
+          "whyItMatters": "Ezek az irányelvek befolyásolják a közegészségügyi tájékoztatást és a politikát; a hozzáadott cukrokra való erősebb fókusz és a megőrzött telítettzsír‑korlát tisztázása segít az olvasóknak a dokumentum pontos értelmezésében.",
           "takeaways": [
-            "Az iránymutatások megerősítik a hozzáadott cukrok és feldolgozott élelmiszerek korlátozását.",
-            "Egy új, invertált grafika kiemel bizonyos állati alapú választásokat annak ellenére, hogy megmaradt a telített zsír 10%‑os limitje.",
-            "A vizuális bemutatás befolyásolhatja a közönség észlelését, ezért fontos az iránymutatás teljes szövegének elolvasása."
+            "Az irányelvek a 'valódi ételek' fogyasztását javasolják, és erősebb korlátokat fogalmaznak meg a hozzáadott cukrokra és a feldolgozott élelmiszerekre.",
+            "Egy új grafika kiemel bizonyos állati eredetű ételeket, de a 10%-os telített zsírkorlát továbbra is érvényben van.",
+            "A vizuális elemek értelmezésénél a jelentés írott ajánlásai vezessék az olvasót."
           ]
         },
         "ar": {
-          "title": "تحليل إرشادات النظام الغذائي 2025–2030: لغة أقوى بشأن السكريات المضافة لكن رسائل مرئية مختلطة حول الدهون",
-          "summary": "تؤكد إرشادات النظام الغذائي للأمريكيين 2025–2030 على «تناول الطعام الحقيقي» وتتخذ موقفًا أقوى تجاه السكريات المضافة والأطعمة شديدة المعالجة. الصورة البصرية الجديدة—رسمة مقلوبة على شكل هرم—تظهر عناصر مثل الستيك ومنتجات الألبان كاملة الدسم بشكل بارز، بينما تظل الإرشادات المكتوبة محافظة على الحد الطويل الأمد المتمثل في 10% من السعرات من الدهون المشبعة.",
-          "whyItMatters": "تغيّر صياغة الإرشادات والرسوم البيانية قد يؤثر على فهم الجمهور واختيارات الطعام؛ الوثيقة توازن بين دعوات للحد من السكريات المضافة والأطعمة المصنعة وبين عناصر بصرية قد يقرأها البعض على أنها تروّج لخيارات حيوانية أعلى الدسم.",
+          "title": "مراجعة هارفارد تبرز النقاط الرئيسية في إرشادات النظام الغذائي 2025–2030",
+          "summary": "تؤكد إرشادات النظام الغذائي للأمريكيين 2025–2030 على تناول الأطعمة قليلة المعالجة وتتبنى موقفًا أقوى بشأن تقييد السكريات المضافة والمنتجات المعالجة جدًا، مع الحفاظ على التوصية القائمة بأن لا يتجاوز الدهن المشبع 10% من السعرات اليومية على الرغم من إبراز مرئي لبعض الأطعمة الحيوانية في الرسم التوضيحي للوثيقة.",
+          "whyItMatters": "تؤثر هذه الإرشادات على رسائل وسياسات التغذية العامة؛ ويساعد توضيح التركيز الأقوى على السكريات المضافة والحد المحفوظ من الدهن المشبع القراء على تفسير الوثيقة بدقة.",
           "takeaways": [
-            "الإرشادات تعزّز حدودًا على السكريات المضافة والأطعمة المصنعة.",
-            "رسم بصري جديد مقلوب يبرز بعض الخيارات الحيوانية رغم الحفاظ على حد 10% للدهون المشبعة.",
-            "العرض البصري قد يؤثر على تصور الجمهور للوجبات الموصى بها، لذا من الأهمية قراءة الإرشادات كاملة."
+            "تشجع الإرشادات على «تناول طعام حقيقي» وتفرض حدودًا أشد على السكريات المضافة والأطعمة المعالجة.",
+            "يسلط رسم توضيحي جديد الضوء على بعض الأطعمة الحيوانية، لكن حد 10% للدهون المشبعة لا يزال قائمًا.",
+            "ينبغي أن تسترشد تفسيرات العناصر البصرية بالتوصيات المكتوبة في التقرير."
           ]
         }
       },
-      "generatedAt": "2026-08-31T07:01:02.240Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dga-2025-2030-analysis-2026",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-analysis-2026-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dga-2025-2030-analysis-2026-news.webp",
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=harvard-dgas-2025-2030-20260109",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dgas-2025-2030-20260109-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-dgas-2025-2030-20260109-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Analysis of the 2025–2030 Dietary Guidelines: stronger language on added sugars but mixed visuals on fats.\nStory summary: The 2025–2030 Dietary Guidelines for Americans emphasize 'eat real food' and take a firmer stance on added sugars and highly processed foods. The new visual—an inverted, pyramid‑style graphic—prominently features items like steak and full‑fat dairy, though the written guidance retains the longstanding cap of 10% of calories from saturated fat..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Harvard review highlights key points in the 2025–2030 Dietary Guidelines.\nStory summary: The 2025–2030 Dietary Guidelines for Americans emphasize eating minimally processed foods and take a firmer stance on limiting added sugars and highly processed products, while retaining the longstanding recommendation that saturated fat should make up no more than 10% of daily calories despite visual emphasis given to some animal-based foods in the guidelines' graphic..\nCategory: dietary guidelines.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-09-01-motivation-1-story-1",
+      "category": "Calorie Bank Credit",
+      "languages": {
+        "en": {
+          "title": "Simple lunch planning",
+          "story": "Maya noticed she often grabbed whatever was quickest at noon and felt frustrated by the choice. She began spending a few Sunday minutes planning three lunches for the week and adding them to her tracker. Having a plan made it easier to prepare varied meals, avoid rushed decisions, and keep logging consistent on busy days. After a couple of weeks she simply remembered to open the app and mark what she ate. The habit wasn’t about being perfect—just making tracking a simple part of her routine.",
+          "habit": "Plan three lunches on Sunday and log them.",
+          "appCta": "Open Calorie Bank Credit and log one planned meal today."
+        },
+        "es": {
+          "title": "Planificar los almuerzos con calma",
+          "story": "Maya se dio cuenta de que al mediodía elegía lo más rápido y luego se sentía insatisfecha. Empezó a dedicar unos minutos el domingo para planear tres almuerzos de la semana y registrarlos en la app. Tener un plan le permitió preparar comidas variadas, evitar decisiones apresuradas y mantener la constancia de los registros en días ocupados. Tras un par de semanas, abrir la aplicación y marcar lo que comía se volvió algo natural. No se trataba de perfección, sino de integrar el registro en su rutina.",
+          "habit": "Planifica tres almuerzos el domingo y regístralos.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy una comida planificada."
+        },
+        "ru": {
+          "title": "Простое планирование обедов",
+          "story": "Майя заметила, что чаще выбирает самое быстрое в обед и потом этим недовольна. Она стала тратить пару минут в воскресенье, чтобы спланировать три обеда на неделю и добавить их в трекер. Наличие плана помогло ей готовить разнообразные блюда, избегать поспешных решений и регулярно вносить данные в загруженные дни. Через пару недель открывать приложение и отмечать съеденное стало привычкой. Речь шла не о совершенстве, а о простых шагах, которые упростили ведение учёта.",
+          "habit": "Спланируй три обеда в воскресенье и запиши их.",
+          "appCta": "Открой Calorie Bank Credit и внеси сегодня одну запланированную еду."
+        },
+        "uk": {
+          "title": "Просте планування обідів",
+          "story": "Мая помітила, що в обід часто бере найшвидший варіант і потім залишається незадоволеною. Вона почала витрачати кілька хвилин у неділю, щоб спланувати три обіди на тиждень і внести їх у трекер. План допоміг їй готувати різноманітні страви, уникати поспішних рішень і послідовно відзначати прийоми їжі в зайняті дні. Через кілька тижнів відкривати додаток і відмічати, що з’їла, стало простою звичкою. Це було не про досконалість, а про маленькі практичні кроки.",
+          "habit": "Заплануй три обіди в неділю і занеси їх у додаток.",
+          "appCta": "Відкрий Calorie Bank Credit і занеси сьогодні одну заплановану їжу."
+        },
+        "fr": {
+          "title": "Préparer ses déjeuners simplement",
+          "story": "Maya s'est rendu compte qu'elle choisissait souvent le plus rapide à midi et en était déçue. Elle a commencé à consacrer quelques minutes le dimanche pour planifier trois déjeuners de la semaine et les enregistrer dans l'application. Avoir un plan lui a permis de varier ses repas, d'éviter les choix précipités et de garder une habitude d'enregistrement même quand la journée est chargée. Après quelques semaines, ouvrir l'app et noter ce qu'elle mangeait est devenu automatique. Il ne s'agissait pas de perfection, mais d'intégrer le suivi au quotidien.",
+          "habit": "Planifiez trois déjeuners le dimanche et enregistrez-les.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui un repas planifié."
+        },
+        "de": {
+          "title": "Einfache Mittagsplanung",
+          "story": "Maya merkte, dass sie mittags oft das schnellste Essen wählte und damit unzufrieden war. Sie begann, sich sonntags ein paar Minuten zu nehmen, um drei Mittagessen für die Woche zu planen und im Tracker zu hinterlegen. Ein Plan ermöglichte ihr abwechslungsreich zu essen, übereilte Entscheidungen zu vermeiden und auch an stressigen Tagen regelmäßig zu protokollieren. Nach ein paar Wochen wurde das Öffnen der App und das Eintragen zur Gewohnheit. Es ging nicht um Perfektion, sondern um kleine Schritte, die das Tracking leichter machten.",
+          "habit": "Plane drei Mittagessen am Sonntag und trage sie ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute eine geplante Mahlzeit ein."
+        },
+        "pt-br": {
+          "title": "Planejando almoços com simplicidade",
+          "story": "Maya percebeu que, no almoço, costumava escolher o que era mais rápido e acabava insatisfeita. Passou a reservar alguns minutos no domingo para planejar três almoços da semana e registrá-los no aplicativo. Ter um plano facilitou preparar refeições variadas, evitar escolhas de última hora e manter o registro mesmo em dias corridos. Depois de algumas semanas, abrir o app e marcar o que comeu virou algo natural. Não se tratava de perfeição, e sim de pequenos passos para facilitar o acompanhamento.",
+          "habit": "Planeje três almoços no domingo e registre-os.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje uma refeição planejada."
+        },
+        "hu": {
+          "title": "Egyszerű ebédtervezés",
+          "story": "Maya észrevette, hogy gyakran a leggyorsabbat választja ebédre, és ez frusztrálja. Elkezdett vasárnap néhány percet szánni arra, hogy megtervezzen három heti ebédet és beírja őket az alkalmazásba. A tervezés segített változatos ételeket készíteni, elkerülni az elhamarkodott döntéseket és kitartani a rögzítésben a zsúfolt napokon is. Pár hét után az alkalmazás megnyitása és a bevitel rutinná vált. Nem a tökéletességről szólt, hanem a következetes, kis lépésekről.",
+          "habit": "Tervezd meg vasárnapra három ebédet és rögzítsd őket.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma egy tervezett étkezést."
+        },
+        "ar": {
+          "title": "تخطيط وجبات الغداء ببساطة",
+          "story": "لاحظت مايا أنها غالبًا ما تختار ما هو أسرع وقت الغداء وتشعر بعدم الرضا بعدها. بدأت تقضي بضع دقائق يوم الأحد لتخطيط ثلاثة وجبات غداء للأسبوع وإضافتها إلى المتتبع. ساعدها وجود خطة على إعداد وجبات متنوعة وتجنب الخيارات المتسرعة والحفاظ على تسجيل ما تأكله حتى في الأيام المشغولة. بعد أسابيع قليلة أصبح فتح التطبيق وتسجيل ما تناولته أمراً طبيعياً. لم يكن الأمر عن الكمال بل عن خطوات صغيرة تجعل المتابعة أسهل.",
+          "habit": "خطط لثلاث وجبات غداء يوم الأحد وسجلها.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم وجبة مخططة."
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Simple lunch planning.\nStory: Maya noticed she often grabbed whatever was quickest at noon and felt frustrated by the choice. She began spending a few Sunday minutes planning three lunches for the week and adding them to her tracker. Having a plan made it easier to prepare varied meals, avoid rushed decisions, and keep logging consistent on busy days. After a couple of weeks she simply remembered to open the app and mark what she ate. The habit wasn’t about being perfect—just making tracking a simple part of her routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-01-motivation-2-story-2",
+      "category": "Calorie Bank Credit",
+      "languages": {
+        "en": {
+          "title": "Logging without judgement",
+          "story": "Tom used to skip noting his snacks because they felt too small to matter. One week he decided to log everything—tea, bites, and condiments—without criticizing himself. Writing it down helped him see clear patterns: which treats were occasional and which were daily habits. That awareness let him make tiny changes when he wanted to, or simply accept some choices without fuss. The key was honest logging, not perfection, so entries became a neutral record he could use to learn from.",
+          "habit": "For two days, write down every snack and small bite.",
+          "appCta": "Open Calorie Bank Credit and try an honest log today."
+        },
+        "es": {
+          "title": "Registrar sin juzgar",
+          "story": "Tom solía no apuntar sus tentempiés porque le parecían insignificantes. Una semana decidió registrar todo: té, bocados y condimentos, sin criticarse. Apuntarlo le mostró patrones claros: qué antojos eran puntuales y cuáles se repetían cada día. Esa información le permitió hacer pequeños cambios cuando quiso, o aceptar algunas decisiones sin dramatizar. Lo importante fue la sinceridad al registrar, no la perfección; así las anotaciones se convirtieron en un recurso neutral para aprender.",
+          "habit": "Durante dos días, anota cada tentempié y pequeño bocado.",
+          "appCta": "Abre Calorie Bank Credit y prueba hoy un registro honesto."
+        },
+        "ru": {
+          "title": "Ведение записей без упрёков",
+          "story": "Том раньше не записывал перекусы, считая их неважными. Однажды он решил записывать всё — чай, кусочки, соусы — и не осуждать себя. Записи показали явные закономерности: что бывает изредка, а что стало ежедневной привычкой. Это осознание позволяло ему вносить небольшие изменения, когда он этого хотел, или спокойно принимать отдельные выборы. Главное стало честное ведение записей, а не стремление к идеалу — записи превратились в нейтральный инструмент для наблюдений.",
+          "habit": "Записывай в течение двух дней каждый перекус и укус.",
+          "appCta": "Открой Calorie Bank Credit и попробуй сегодня честное внесение."
+        },
+        "uk": {
+          "title": "Фіксувати без осуду",
+          "story": "Том раніше не записував перекуси, бо вважав їх неважливими. Одного тижня він вирішив занотовувати все — чай, шматочки, соуси — і не осуджувати себе. Занотування виявило закономірності: що траплялося випадково, а що стало щоденною звичкою. Це усвідомлення допомогло йому робити невеликі зміни, коли він хотів, або приймати вибір без драм. Важливо було бути чесним у записах, а не прагнути ідеалу — записи стали нейтральним інструментом для спостережень.",
+          "habit": "Два дні записуй кожен перекус і маленький укус.",
+          "appCta": "Відкрий Calorie Bank Credit і спробуй сьогодні чесний запис."
+        },
+        "fr": {
+          "title": "Enregistrer sans jugement",
+          "story": "Tom n'inscrivait pas ses en-cas car il les jugeait trop insignifiants. Un jour, il a décidé d'enregistrer tout — le thé, les petites bouchées, les condiments — sans se juger. Cet exercice a révélé des tendances : certains écarts restaient occasionnels, d'autres revenaient quotidiennement. Cette prise de conscience lui a permis d'ajuster de petites choses quand il le souhaitait, ou d'accepter certains choix sereinement. L'important était l'honnêteté du suivi, pas la perfection : les enregistrements sont devenus un outil neutre pour apprendre.",
+          "habit": "Pendant deux jours, note chaque en-cas et petite bouchée.",
+          "appCta": "Ouvrez Calorie Bank Credit et testez aujourd'hui un enregistrement sincère."
+        },
+        "de": {
+          "title": "Ehrlich eintragen, ohne zu werten",
+          "story": "Tom trug seine Snacks früher nicht ein, weil sie ihm zu unbedeutend schienen. Eine Woche lang beschloss er, alles zu notieren — Tee, kleine Happen, Soßen — ohne sich dabei zu verurteilen. Die Einträge zeigten klare Muster: was gelegentlich vorkam und was täglich wurde. Dieses Bewusstsein ermöglichte ihm kleine Anpassungen, wenn er wollte, oder das ruhige Akzeptieren mancher Entscheidungen. Entscheidend war ehrliches Eintragen, nicht Perfektion; so wurden die Einträge zu einem neutralen Lernwerkzeug.",
+          "habit": "Schreibe zwei Tage lang jeden Snack und kleinen Bissen auf.",
+          "appCta": "Öffne Calorie Bank Credit und probiere heute ein ehrliches Eintragen."
+        },
+        "pt-br": {
+          "title": "Registrar sem julgamento",
+          "story": "Tom costumava não anotar os lanches porque achava que eram pequenos demais. Uma semana ele decidiu registrar tudo — chá, beliscos e molhos — sem se criticar. Anotar mostrou padrões claros: o que era esporádico e o que acontecia diariamente. Essa percepção permitiu que ele fizesse pequenas mudanças quando quis, ou aceitasse algumas escolhas sem alarde. O importante foi registrar com sinceridade, não buscar perfeição; as anotações se tornaram um registro neutro para aprender.",
+          "habit": "Durante dois dias, anote todo lanche e belisco.",
+          "appCta": "Abra Calorie Bank Credit e experimente hoje um registro honesto."
+        },
+        "hu": {
+          "title": "Beírás ítélkezés nélkül",
+          "story": "Tom korábban kihagyta az apró nassolásokat a naplóból, mert jelentéktelennek érezte őket. Egy hétre úgy döntött, mindent feljegyez — teát, egy-két falatot, önteteket — és nem ítélkezik magában. A bejegyzések világos mintákat mutattak: mi ritka, mi része lett a mindennapoknak. Ez az észrevétel lehetővé tette számára a kis módosításokat, amikor akarta, vagy a nyugodt elfogadást. A lényeg őszinte vezetés volt, nem a tökéletesség; a bejegyzések semleges tanulóeszközzé váltak.",
+          "habit": "Két napig jegyezd fel minden nassolásodat és apró falatodat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és próbálj ma meg egy őszinte bejegyzést."
+        },
+        "ar": {
+          "title": "التسجيل بلا حكم",
+          "story": "كان توم يتجاهل تسجيل الوجبات الخفيفة لأنه يراها صغيرة وغير مهمة. قرر خلال أسبوع أن يسجل كل شيء — الشاي، القضمات والصلصات — دون أن يلوم نفسه. بينت التسجيلات أنماطاً واضحة: ما هو عارض وما أصبح عادياً يومياً. مكنه هذا الفهم من إجراء تغييرات بسيطة عند الرغبة أو قبول بعض الاختيارات بهدوء. الأهم كان الصدق في التسجيل وليس الكمال؛ فأصبحت الملاحظات سجلاً محايداً يساعد على التعلم.",
+          "habit": "سجل كل وجبة خفيفة وقبضة صغيرة لمدة يومين.",
+          "appCta": "افتح Calorie Bank Credit وجرب اليوم تسجيلاً صادقاً."
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Logging without judgement.\nStory: Tom used to skip noting his snacks because they felt too small to matter. One week he decided to log everything—tea, bites, and condiments—without criticizing himself. Writing it down helped him see clear patterns: which treats were occasional and which were daily habits. That awareness let him make tiny changes when he wanted to, or simply accept some choices without fuss. The key was honest logging, not perfection, so entries became a neutral record he could use to learn from..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-01-motivation-3-story-3",
+      "category": "Calorie Bank Credit",
+      "languages": {
+        "en": {
+          "title": "Noticing energy patterns",
+          "story": "Amina started logging her meals because she wanted to feel more steady through the afternoon. Over a week she noted what she ate and how her energy felt after each meal. The entries revealed patterns: larger gaps between meals often matched energy dips, while small, balanced snacks sometimes helped her focus. Instead of treating this as a rulebook, she used the insight to try gentle adjustments—moving a snack earlier or adding more variety—and then watched how those tweaks actually felt. Tracking became a useful mirror, not a set of rigid rules.",
+          "habit": "Record what you eat and note one energy cue after each meal.",
+          "appCta": "Open Calorie Bank Credit and record one meal and how you felt today."
+        },
+        "es": {
+          "title": "Detectar cómo influye la energía",
+          "story": "Amina comenzó a registrar sus comidas porque quería sentirse más estable por la tarde. Durante una semana anotó lo que comía y cómo se sentía después de cada toma. Las entradas mostraron patrones: los huecos largos entre comidas coincidían con bajones de energía, mientras que pequeños tentempiés variopintos le ayudaban a concentrarse. En vez de ver esto como normas rígidas, usó la información para probar ajustes suaves—anticipar un snack o variar sabores—y observar los resultados. El registro fue un espejo útil, no un manual estricto.",
+          "habit": "Apunta lo que comes y una señal de energía tras cada comida.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy una comida y cómo te sentiste."
+        },
+        "ru": {
+          "title": "Наблюдение за энергией",
+          "story": "Амина начала вести журнал приёмов пищи, чтобы чувствовать себя более ровно днем. В течение недели она записывала, что ела, и отмечала уровень энергии после каждой еды. Записи показали закономерности: большие паузы между приёмами часто совпадали с упадком сил, а небольшие разнообразные перекусы помогали сосредоточиться. Она не трактовала это как строгие правила, а делала мягкие корректировки — переносила перекус раньше или добавляла разнообразия — и смотрела, как это сказывается на самочувствии. Трекинг стал полезным зеркалом, а не набором правил.",
+          "habit": "Записывай еду и отмечай один сигнал энергии после каждого приёма.",
+          "appCta": "Открой Calorie Bank Credit и запиши сегодня одну еду и своё самочувствие."
+        },
+        "uk": {
+          "title": "Помічати енергетичні патерни",
+          "story": "Аміна почала записувати прийоми їжі, бо хотіла почуватися стабільніше вдень. Протягом тижня вона нотувала, що їла, і як змінювалася енергія після кожного прийому. Записи виявили патерни: великі проміжки між їжею часто співпадали з падінням енергії, а невеликі різноманітні перекуси допомагали зосередитися. Вона не розглядала це як суворі правила, а робила делікатні корективи — переносила перекус раніше або додавала різноманіття — і спостерігала за відчуттями. Трекінг став корисним дзеркалом, а не кодексом.",
+          "habit": "Записуй їжу й помічай один сигнал енергії після кожного прийому.",
+          "appCta": "Відкрий Calorie Bank Credit і занось сьогодні одну їжу та свої відчуття."
+        },
+        "fr": {
+          "title": "Repérer ses variations d'énergie",
+          "story": "Amina a commencé à noter ses repas parce qu'elle souhaitait être plus régulière l'après-midi. Pendant une semaine, elle a noté ce qu'elle mangeait et son niveau d'énergie après chaque repas. Les notes ont mis en évidence des tendances : de longues pauses entre les repas correspondaient souvent à des baisses d'énergie, alors que de petites collations variées l'aidaient parfois à rester concentrée. Plutôt que d'en faire des règles strictes, elle a essayé des ajustements doux — avancer un encas, varier les apports — et observé l'effet sur son ressenti. Le suivi est devenu un miroir utile, pas un règlement strict.",
+          "habit": "Notez ce que vous mangez et un indice d'énergie après chaque repas.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui un repas et votre ressenti."
+        },
+        "de": {
+          "title": "Energie‑Muster bemerken",
+          "story": "Amina begann, ihre Mahlzeiten zu protokollieren, weil sie sich nachmittags ausgeglichener fühlen wollte. Eine Woche lang notierte sie, was sie aß, und wie sich ihre Energie danach anfühlte. Die Einträge zeigten Muster: längere Pausen zwischen den Mahlzeiten gingen oft mit Energieschwankungen einher, während kleine, abwechslungsreiche Snacks manchmal beim Fokus halfen. Statt das als strikte Regel zu sehen, probierte sie sanfte Anpassungen — einen Snack etwas vorziehen oder mehr Vielfalt — und beobachtete, wie sich das anfühlte. Tracking wurde so zu einem hilfreichen Spiegel statt zu starren Regeln.",
+          "habit": "Notiere, was du isst, und eine Energiewahrnehmung nach jeder Mahlzeit.",
+          "appCta": "Öffne Calorie Bank Credit und notiere heute eine Mahlzeit und wie du dich gefühlt hast."
+        },
+        "pt-br": {
+          "title": "Percebendo padrões de energia",
+          "story": "Amina começou a registrar as refeições porque queria se sentir mais estável à tarde. Por uma semana, anotou o que comeu e como estava sua energia após cada refeição. Os registros revelaram padrões: longos intervalos entre refeições costumavam coincidir com queda de energia, enquanto pequenos lanches variados a ajudavam a focar. Em vez de transformar isso em regras, ela fez ajustes suaves — antecipar um lanche ou variar opções — e observou os efeitos. O acompanhamento virou um espelho útil, não um conjunto rígido de regras.",
+          "habit": "Registre o que come e anote uma pista de energia após cada refeição.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje uma refeição e como se sentiu."
+        },
+        "hu": {
+          "title": "Energiaminták észlelése",
+          "story": "Amina azért kezdte el rögzíteni az étkezéseit, mert délután szeretett volna kiegyensúlyozottabban érezni magát. Egy hétig feljegyezte, mit evett és hogyan változott az energiája minden étkezés után. A naplóból minták rajzolódtak ki: a hosszú szünetek gyakran energiacsökkenéssel jártak, míg a kisebb, változatos nassolások néha segítették a koncentrációt. Nem szabályként kezelte az eredményeket, hanem finom módosításokat próbált — előrébb hozott nassolás vagy több változatosság — és figyelte, hogyan érzi magát. A követés hasznos tükörré vált, nem merev szabályokká.",
+          "habit": "Jegyezd fel, mit eszel, és egy energiaváltozást minden étkezés után.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma egy étkezést és a közérzeted."
+        },
+        "ar": {
+          "title": "ملاحظة أنماط الطاقة",
+          "story": "بدأت أمينة بتسجيل وجباتها لأنها أرادت شعوراً بثبات أكبر في فترة ما بعد الظهر. على مدى أسبوع دونت ما تأكل وكيف كانت طاقتها بعد كل وجبة. كشفت الملاحظات عن أنماط: الفترات الطويلة بين الوجبات غالباً ما ارتبطت بانخفاض الطاقة، بينما الوجبات الخفيفة المتنوعة ساعدتها أحياناً على التركيز. بدلاً من اعتبار ذلك قواعد صارمة، جربت تعديلات لطيفة — مثل تقديم وجبة خفيفة أو تنويع الخيارات — ورصدت كيف شعرت. أصبح التتبع مرآة مفيدة، لا مجموعة قوانين جامدة.",
+          "habit": "سجّل ما تأكله ولاحظ علامة طاقة واحدة بعد كل وجبة.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم وجبة واحدة وكيف شعرت."
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Noticing energy patterns.\nStory: Amina started logging her meals because she wanted to feel more steady through the afternoon. Over a week she noted what she ate and how her energy felt after each meal. The entries revealed patterns: larger gaps between meals often matched energy dips, while small, balanced snacks sometimes helped her focus. Instead of treating this as a rulebook, she used the insight to try gentle adjustments—moving a snack earlier or adding more variety—and then watched how those tweaks actually felt. Tracking became a useful mirror, not a set of rigid rules..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-01-motivation-4-story-4",
+      "category": "Calorie Bank Credit",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, real difference",
+          "story": "Luca loved weekend fries but noticed he felt sluggish afterward. Instead of removing treats, he tried one small swap: roasted sweet potato at dinner twice a week and still enjoyed a portion of fries on Saturday. He logged both choices to see how they felt. Over time he observed that small swaps sometimes left him feeling lighter and more energetic, while still keeping foods he enjoyed. Tracking these choices helped him balance habits without strict rules—just a gentle way to notice what works for his days.",
+          "habit": "Make one small swap at dinner this week and log it.",
+          "appCta": "Open Calorie Bank Credit and log your small swap today."
+        },
+        "es": {
+          "title": "Pequeños cambios, gran diferencia",
+          "story": "A Luca le encantaban las papas fritas de fin de semana, pero notó que se sentía pesado después. En vez de eliminar sus gustos, probó un cambio pequeño: batata asada en la cena dos veces por semana y seguir disfrutando de papas los sábados. Registró ambas opciones para ver cómo se sentía. Con el tiempo observó que ciertos cambios le sentaban mejor algunos días, sin renunciar a lo que le gusta. Registrar esas elecciones le ayudó a equilibrar hábitos sin reglas estrictas, solo observando lo que funciona para su rutina.",
+          "habit": "Haz un pequeño cambio en la cena esta semana y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy tu pequeño cambio."
+        },
+        "ru": {
+          "title": "Маленькие замены, заметный эффект",
+          "story": "Лука любил картошку фри по выходным, но заметил, что после неё чувствует вялость. Вместо того чтобы отказываться от любимого, он сделал маленькую замену: дважды в неделю запекал батат на ужин и всё равно оставлял картошку на субботу. Он записывал оба варианта, чтобы отслеживать ощущения. Со временем он заметил, что небольшие замены иногда дают больше бодрости, при этом вкусы сохраняются. Записи помогли ему выстроить баланс без жёстких правил — просто наблюдать, что подходит.",
+          "habit": "Сделай одну небольшую замену на ужин на этой неделе и запиши её.",
+          "appCta": "Открой Calorie Bank Credit и запиши сегодня свою небольшую замену."
+        },
+        "uk": {
+          "title": "Малі заміни, реальний ефект",
+          "story": "Лука любив картоплю фрі у вихідні, але помітив, що після неї відчуває втому. Замість того, щоб відмовлятися від улюбленого, він зробив одну маленьку заміну: двічі на тиждень пік батат на вечерю та все одно залишав картоплю на суботу. Він записував обидва варіанти, щоб відстежити відчуття. З часом помітив, що такі невеликі зміни іноді дають більше енергії, при цьому смак залишається. Записи допомогли знайти баланс без суворих правил — просто помічати, що підходить.",
+          "habit": "Зроби невелику заміну на вечерю цього тижня і запиши її.",
+          "appCta": "Відкрий Calorie Bank Credit і занеси сьогодні свою маленьку зміну."
+        },
+        "fr": {
+          "title": "Petits remplacements, vraie différence",
+          "story": "Luca adorait les frites du week‑end mais constatait qu'il se sentait lourd après. Plutôt que de renoncer, il a essayé un petit ajustement : patate douce rôtie au dîner deux fois par semaine, tout en gardant une portion de frites le samedi. Il a noté les deux choix pour observer ses sensations. Avec le temps, il a remarqué que certains petits changements lui convenaient mieux certains jours, sans sacrifier ce qu'il aimait. Le suivi l'a aidé à trouver un équilibre sans règles strictes, juste en notant ce qui marche.",
+          "habit": "Faites un petit remplacement au dîner cette semaine et notez-le.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui votre petit remplacement."
+        },
+        "de": {
+          "title": "Kleine Tausch­aktionen, große Wirkung",
+          "story": "Luca liebte am Wochenende Pommes, merkte aber, dass er sich danach schwer fühlte. Statt komplett darauf zu verzichten, probierte er einen kleinen Austausch: zweimal pro Woche Ofensüßkartoffel zum Abendessen und trotzdem eine Portion Pommes am Samstag. Er trug beide Entscheidungen ins Tracking ein, um das Gefühl zu beobachten. Nach einer Weile stellte er fest, dass kleine Veränderungen ihm manchmal mehr Energie gaben, ohne auf Genuss zu verzichten. Das Tracking half ihm, ohne strenge Regeln auszubalancieren — einfach beobachten, was für ihn funktioniert.",
+          "habit": "Mach diese Woche einen kleinen Austausch beim Abendessen und trage ihn ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute deinen kleinen Austausch ein."
+        },
+        "pt-br": {
+          "title": "Trocas pequenas, diferença real",
+          "story": "Luca adorava batata frita no fim de semana, mas percebia que ficava pesado depois. Em vez de eliminar o que gostava, fez uma pequena troca: batata‑doce assada no jantar duas vezes por semana e manteve uma porção de fritas no sábado. Registrou ambas as escolhas para sentir as diferenças. Com o tempo viu que trocas simples às vezes o deixavam mais disposto, sem abrir mão do prazer. Registrar isso ajudou a equilibrar hábitos sem regras rígidas — apenas observar o que funciona no dia a dia.",
+          "habit": "Faça uma pequena troca no jantar esta semana e registre-a.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje sua pequena troca."
+        },
+        "hu": {
+          "title": "Apró cserék, valódi hatás",
+          "story": "Luca hétvégenként imádta a sült krumplit, de észrevette, hogy utána lomhább lesz. Ahelyett, hogy teljesen lemondott volna róla, kipróbált egy apró variációt: hetente kétszer sült édesburgonya vacsorára, és továbbra is megengedett magának egy adag sült krumplit szombaton. Mindkét választást rögzítette, hogy lássa, hogyan érzi magát. Idővel azt tapasztalta, hogy a kis cserék néha energikusabbá teszik, miközben megmarad az élvezet. A rögzítés segített egyensúlyt találni merev szabályok nélkül.",
+          "habit": "Cserélj le egy ételt vacsorán egy apró módosítással és jegyezd fel.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzítsd ma a kis cserédet."
+        },
+        "ar": {
+          "title": "تبديلات بسيطة، تأثير حقيقي",
+          "story": "كان لوكا يحب البطاطس المقلية في العطلة لكنه لاحظ أنه يشعر بالخمول بعدها. بدلاً من الاستغناء عن التلذذ، جرب تبديلًا صغيرًا: البطاطا الحلوة المشوية على العشاء مرتين في الأسبوع، مع الاحتفاظ بحصة من البطاطس يوم السبت. سجل كلا الخيارين ليرى كيف يشعر. مع الوقت لاحظ أن بعض التبديلات الصغيرة تجعله يشعر بمزيد من الحيوية أحيانًا، دون التخلي عن الأطعمة التي يستمتع بها. ساعده التسجيل على إيجاد توازن بدون قواعد صارمة، مجرد ملاحظة ما يناسب أيامه.",
+          "habit": "قم بتبديل صغير على العشاء هذا الأسبوع وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم تبديلك الصغير."
+        }
+      },
+      "generatedAt": "2026-09-01T06:52:06.313Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-01-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, real difference.\nStory: Luca loved weekend fries but noticed he felt sluggish afterward. Instead of removing treats, he tried one small swap: roasted sweet potato at dinner twice a week and still enjoyed a portion of fries on Saturday. He logged both choices to see how they felt. Over time he observed that small swaps sometimes left him feeling lighter and more energetic, while still keeping foods he enjoyed. Tracking these choices helped him balance habits without strict rules—just a gentle way to notice what works for his days..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-08-31-motivation-1-story-1",
       "category": "calorie_tracking_motivation",
