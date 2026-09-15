@@ -1,7 +1,863 @@
 {
-  "generatedAt": "2026-09-14T07:03:02.592Z",
+  "generatedAt": "2026-09-15T06:55:31.559Z",
   "sourceCount": 21,
   "articles": [
+    {
+      "id": "cell-glp1r-antibody-2026",
+      "category": "metabolic health",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00332-3?rss=yes",
+      "sourceTitle": "Extending concerns about GLP-1R antibody specificity to human immune cells",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Questions raised about GLP-1 receptor antibody specificity in human immune-cell studies",
+          "summary": "Authors highlight that many commercial antibodies used to detect the glucagon-like peptide-1 receptor (GLP-1R) in immune cells may lack required specificity, complicating efforts to determine whether observed effects of GLP-1 therapies are direct or secondary to metabolic improvements.",
+          "whyItMatters": "Accurate tools are essential to understand how GLP-1–based drugs interact with the immune system and to interpret claims about their anti-inflammatory or immunomodulatory roles.",
+          "takeaways": [
+            "GLP-1R is low-abundance and dynamically trafficked, making reliable detection difficult.",
+            "Several widely used commercial antibodies have not been rigorously validated for specificity in immune cells.",
+            "Researchers should corroborate GLP-1R localization and function with validated methods to distinguish direct receptor signaling from indirect metabolic effects."
+          ]
+        },
+        "es": {
+          "title": "Surgen dudas sobre la especificidad de anticuerpos contra el receptor GLP‑1 en estudios con células inmunitarias humanas",
+          "summary": "Los autores señalan que muchos anticuerpos comerciales utilizados para detectar el receptor del péptido similar al glucagón‑1 (GLP‑1R) en células inmunitarias pueden carecer de la especificidad requerida, lo que complica los esfuerzos por determinar si los efectos observados de las terapias basadas en GLP‑1 son directos o secundarios a mejoras metabólicas.",
+          "whyItMatters": "Herramientas precisas son esenciales para entender cómo interactúan los fármacos basados en GLP‑1 con el sistema inmunitario y para interpretar afirmaciones sobre sus roles antiinflamatorios o inmunomoduladores.",
+          "takeaways": [
+            "GLP‑1R es de baja abundancia y su tráfico intracelular es dinámico, lo que dificulta su detección fiable.",
+            "Varios anticuerpos comerciales ampliamente usados no han sido validados rigurosamente para especificidad en células inmunitarias.",
+            "Los investigadores deberían corroborar la localización y función del GLP‑1R con métodos validados para distinguir la señalización directa del receptor de los efectos metabólicos indirectos."
+          ]
+        },
+        "ru": {
+          "title": "Подняты вопросы о специфичности антител к рецептору GLP‑1 в исследованиях на иммунных клетках человека",
+          "summary": "Авторы отмечают, что многие коммерческие антитела, используемые для обнаружения рецептора глюкагоноподобного пептида‑1 (GLP‑1R) в иммунных клетках, могут не обладать необходимой специфичностью, что осложняет попытки установить, являются ли наблюдаемые эффекты препаратов на основе GLP‑1 прямыми или вторичными вследствие метаболических улучшений.",
+          "whyItMatters": "Точные инструменты необходимы для понимания взаимодействия препаратов на основе GLP‑1 с иммунной системой и для интерпретации утверждений об их противовоспалительных или иммуномодулирующих ролях.",
+          "takeaways": [
+            "GLP‑1R присутствует в низкой концентрации и подвержен динамическому внутриклеточному трафику, что затрудняет его надёжное обнаружение.",
+            "Несколько широко используемых коммерческих антител не были тщательно валидированы на специфичность в иммунных клетках.",
+            "Исследователям следует подтверждать локализацию и функцию GLP‑1R с помощью валидационных методов, чтобы отличать прямую рецепторную сигнализацию от опосредованных метаболических эффектов."
+          ]
+        },
+        "uk": {
+          "title": "Постають питання щодо специфічності антитіл до рецептора GLP‑1 у дослідженнях людських імунних клітин",
+          "summary": "Автори наголошують, що багато комерційних антитіл, які використовуються для виявлення рецептора глюкагоноподібного пептиду‑1 (GLP‑1R) в імунних клітинах, можуть не мати потрібної специфічності, ускладнюючи зусилля встановити, чи спостережувані ефекти терапій на основі GLP‑1 є прямими чи вторинними через метаболічні поліпшення.",
+          "whyItMatters": "Точні інструменти необхідні для розуміння того, як препарати на основі GLP‑1 взаємодіють з імунною системою, і для інтерпретації тверджень щодо їх протизапальної або імуномодулювальної ролі.",
+          "takeaways": [
+            "GLP‑1R є мало представленим і динамічно переміщується в клітинах, що ускладнює його надійне виявлення.",
+            "Кілька широко використовуваних комерційних антитіл не були ретельно валідовані на специфічність в імунних клітинах.",
+            "Дослідникам слід підтверджувати локалізацію та функцію GLP‑1R за допомогою валідованих методів, щоб розрізняти пряме рецепторне сигналювання від непрямих метаболічних ефектів."
+          ]
+        },
+        "fr": {
+          "title": "Des questions soulevées sur la spécificité des anticorps anti‑GLP‑1R dans les études sur les cellules immunitaires humaines",
+          "summary": "Les auteurs soulignent que de nombreux anticorps commerciaux utilisés pour détecter le récepteur du peptide‑1 de type glucagon (GLP‑1R) dans les cellules immunitaires peuvent manquer de la spécificité requise, compliquant les tentatives de déterminer si les effets observés des thérapies basées sur le GLP‑1 sont directs ou secondaires à des améliorations métaboliques.",
+          "whyItMatters": "Des outils précis sont essentiels pour comprendre comment les médicaments à base de GLP‑1 interagissent avec le système immunitaire et pour interpréter les affirmations sur leurs rôles anti‑inflammatoires ou immunomodulateurs.",
+          "takeaways": [
+            "Le GLP‑1R est faiblement exprimé et subit un trafic dynamique, rendant sa détection fiable difficile.",
+            "Plusieurs anticorps commerciaux largement utilisés n'ont pas été rigoureusement validés pour leur spécificité dans les cellules immunitaires.",
+            "Les chercheurs devraient corroborer la localisation et la fonction du GLP‑1R avec des méthodes validées pour distinguer une signalisation réceptrice directe d'effets métaboliques indirects."
+          ]
+        },
+        "de": {
+          "title": "Fragen zur Spezifität von GLP‑1‑Rezeptor‑Antikörpern in Studien mit menschlichen Immunzellen",
+          "summary": "Die Autorinnen und Autoren heben hervor, dass viele kommerzielle Antikörper, die zur Detektion des Glucagon‑like peptide‑1‑Rezeptors (GLP‑1R) in Immunzellen verwendet werden, möglicherweise nicht die erforderliche Spezifität besitzen. Das erschwert die Klärung, ob beobachtete Effekte von GLP‑1‑Therapien direkt oder sekundär durch metabolische Verbesserungen vermittelt werden.",
+          "whyItMatters": "Genaue Werkzeuge sind entscheidend, um zu verstehen, wie GLP‑1‑basierte Medikamente mit dem Immunsystem interagieren, und um Aussagen über mögliche anti‑entzündliche oder immunmodulierende Wirkungen richtig zu interpretieren.",
+          "takeaways": [
+            "GLP‑1R ist in niedriger Menge vorhanden und wird dynamisch transportiert, was eine zuverlässige Nachweisführung erschwert.",
+            "Mehrere weit verbreitete kommerzielle Antikörper wurden nicht ausreichend auf Spezifität in Immunzellen validiert.",
+            "Forschende sollten GLP‑1R‑Lokalisierung und ‑Funktion mit validierten Methoden sichern, um direkte Rezeptorsignale von indirekten metabolischen Effekten zu unterscheiden."
+          ]
+        },
+        "pt-br": {
+          "title": "Questões sobre a especificidade de anticorpos para o receptor GLP‑1 em estudos com células imunes humanas",
+          "summary": "Os autores destacam que muitos anticorpos comerciais usados para detectar o receptor do peptídeo‑1 similar ao glucagon (GLP‑1R) em células imunes podem não ter a especificidade necessária, o que complica os esforços para determinar se efeitos observados de terapias com GLP‑1 são diretos ou secundários a melhorias metabólicas.",
+          "whyItMatters": "Ferramentas precisas são essenciais para entender como medicamentos à base de GLP‑1 interagem com o sistema imunológico e para interpretar adequadamente alegações sobre seus papéis anti‑inflamatórios ou imunomoduladores.",
+          "takeaways": [
+            "O GLP‑1R está em baixa abundância e sofre tráfego dinâmico, dificultando sua detecção confiável.",
+            "Vários anticorpos comerciais amplamente usados não foram rigorosamente validados quanto à especificidade em células imunes.",
+            "Pesquisadores devem corroborar localização e função do GLP‑1R com métodos validados para distinguir sinalização direta do receptor de efeitos metabólicos indiretos."
+          ]
+        },
+        "hu": {
+          "title": "Kérdések a GLP‑1 receptor ellenanyag specifikusságával kapcsolatban emberi immunsejt-vizsgálatokban",
+          "summary": "A szerzők rámutatnak, hogy sok kereskedelmi forgalomban lévő ellenanyag, amelyet a glukagonszerű peptid‑1 receptor (GLP‑1R) kimutatására használnak immunsejtekben, előfordulhat, hogy nem rendelkezik a szükséges specifikussággal, ami megnehezíti annak eldöntését, hogy a GLP‑1‑terápiák megfigyelt hatásai közvetlen receptorjelzésből vagy másodlagos anyagcsere‑javulásból erednek-e.",
+          "whyItMatters": "A pontos eszközök elengedhetetlenek annak megértéséhez, hogyan lépnek kölcsönhatásba a GLP‑1 alapú gyógyszerek az immunrendszerrel, és az ilyen állítások helyes értelmezéséhez az antiinflammatorikus vagy immunmoduláló szerepről.",
+          "takeaways": [
+            "A GLP‑1R alacsony abundanciájú és dinamikusan forgalmazott, ami megnehezíti a megbízható kimutatást.",
+            "Számos széles körben használt kereskedelmi ellenanyagot nem validáltak szigorúan specifikusság szempontjából immunsejtekben.",
+            "A kutatóknak validált módszerekkel kell megerősíteniük a GLP‑1R lokalizációját és működését, hogy megkülönböztessék a közvetlen receptorjelzést az indirekt anyagcserehatásoktól."
+          ]
+        },
+        "ar": {
+          "title": "إثارة تساؤلات حول خصوصية الأجسام المضادة لمستقبل GLP-1 في دراسات الخلايا المناعية البشرية",
+          "summary": "يبرز المؤلفون أن العديد من الأجسام المضادة التجارية المستخدمة لاكتشاف مستقبل الببتيد الشبيه بالغلوكاجون-1 (GLP-1R) في الخلايا المناعية قد تفتقر إلى الخصوصية المطلوبة، مما يعقّد تحديد ما إذا كانت التأثيرات المرصودة لعلاجات GLP-1 ناتجة عن إشارة مستقبل مباشرة أم ثانوية لتحسّن أيضي.",
+          "whyItMatters": "الأدوات الدقيقة ضرورية لفهم كيفية تفاعل أدوية GLP-1 مع الجهاز المناعي ولتفسير الادعاءات المتعلقة بدورها المضاد للالتهاب أو المعدّل للمناعة بشكل صحيح.",
+          "takeaways": [
+            "مستقبل GLP-1 قليل الوفرة ويتنقّل ديناميكيًا داخل الخلايا، ما يجعل اكتشافه موثوقًا صعبًا.",
+            "لم تُخضع عدة أجسام مضادة تجارية مستخدمة على نطاق واسع لعمليات تدقيق صارمة لخصوصيتها في الخلايا المناعية.",
+            "ينبغي للباحثين تأكيد موقع ووظيفة GLP-1R بطرق مُثبتة لتفريق الإشارة المباشرة للمستقبل عن التأثيرات الأيضية غير المباشرة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cell-glp1r-antibody-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-glp1r-antibody-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-glp1r-antibody-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Questions raised about GLP-1 receptor antibody specificity in human immune-cell studies.\nStory summary: Authors highlight that many commercial antibodies used to detect the glucagon-like peptide-1 receptor (GLP-1R) in immune cells may lack required specificity, complicating efforts to determine whether observed effects of GLP-1 therapies are direct or secondary to metabolic improvements..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "nature-microprotein-atlas-20260914",
+      "category": "aging research",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01207-x",
+      "sourceTitle": "A microprotein atlas of the human frontal cortex in Alzheimer’s disease",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Atlas uncovers over 1,000 small proteins in aged human frontal cortex, some linked to Alzheimer’s",
+          "summary": "Scientists mapped 1,067 previously unannotated microproteins in the aged human frontal cortex and found a subset that differ in Alzheimer’s disease; one microprotein derived from MKKS appears to influence microglial mitochondrial respiration.",
+          "whyItMatters": "These overlooked small proteins expand the molecular landscape of the aging brain and could reveal new biological mechanisms relevant to neurodegeneration.",
+          "takeaways": [
+            "The atlas catalogs over a thousand high-confidence microproteins in the human frontal cortex.",
+            "Several microproteins show disease-associated changes independent of their larger canonical gene products.",
+            "An MKKS-derived microprotein was identified as required for normal microglial energy production, highlighting new avenues for research."
+          ]
+        },
+        "es": {
+          "title": "Atlas descubre más de 1.000 microproteínas en la corteza frontal humana envejecida, algunas vinculadas al Alzheimer",
+          "summary": "Científicos mapearon 1.067 microproteínas previamente no anotadas en la corteza frontal humana envejecida y hallaron un subconjunto que difiere en la enfermedad de Alzheimer; una microproteína derivada de MKKS parece influir en la respiración mitocondrial de la microglía.",
+          "whyItMatters": "Estas pequeñas proteínas pasadas por alto amplían el panorama molecular del cerebro envejecido y podrían revelar nuevos mecanismos biológicos relevantes para la neurodegeneración.",
+          "takeaways": [
+            "El atlas cataloga más de mil microproteínas de alta confianza en la corteza frontal humana.",
+            "Varias microproteínas muestran cambios asociados a la enfermedad independientemente de los productos génicos canónicos más grandes.",
+            "Se identificó una microproteína derivada de MKKS como necesaria para la producción energética normal en microglía, lo que abre nuevas vías de investigación."
+          ]
+        },
+        "ru": {
+          "title": "Атлас выявляет более 1 000 микробелков в лобной коре пожилого человека, некоторые связаны с болезнью Альцгеймера",
+          "summary": "Учёные сопоставили 1 067 ранее неаннотированных микробелков в лобной коре пожилого человеческого мозга и обнаружили подмножество, отличающееся при болезни Альцгеймера; один микробелок, производный от MKKS, по-видимому, влияет на митохондриальное дыхание микроглии.",
+          "whyItMatters": "Эти ранее упускаемые из виду маленькие белки расширяют молекулярную картину стареющего мозга и могут выявить новые биологические механизмы, релевантные нейродегенерации.",
+          "takeaways": [
+            "Атлас каталогизирует более тысячи хорошо подтверждённых микробелков в лобной коре человека.",
+            "Несколько микробелков демонстрируют изменения, связанные с заболеванием, независимо от их больших канонических продуктов генов.",
+            "Микробелок, производный от MKKS, был идентифицирован как необходимый для нормального энергопроизводства в микроглии, открывая новые направления для исследований."
+          ]
+        },
+        "uk": {
+          "title": "Атлас виявляє понад 1000 малих білків у дорослій лобовій корі людини, деякі пов'язані з хворобою Альцгеймера",
+          "summary": "Вчені змалювали 1 067 раніше неанотованих мікробілків у дорослій людській лобовій корі і виявили підмножину, що відрізняється при хворобі Альцгеймера; один мікробілок, похідний від MKKS, схоже, впливає на мітохондріальне дихання мікроглії.",
+          "whyItMatters": "Ці мало вивчені малі білки розширюють молекулярну картину старіючого мозку і можуть виявити нові біологічні механізми, релевантні для нейродегенерації.",
+          "takeaways": [
+            "Атлас каталогізує понад тисячу мікробілків з високою довірою в людській лобовій корі.",
+            "Декілька мікробілків демонструють зміни, пов'язані з хворобою, незалежно від їх більших канонічних продуктів генів.",
+            "Мікробілок, походженням від MKKS, був ідентифікований як необхідний для нормального енергетичного виробництва мікроглії, відкриваючи нові напрямки для досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Un atlas met au jour plus de 1 000 microprotéines dans le cortex frontal humain âgé, certaines liées à la maladie d'Alzheimer",
+          "summary": "Des scientifiques ont cartographié 1 067 microprotéines précédemment non annotées dans le cortex frontal humain âgé et ont trouvé un sous‑ensemble qui diffère dans la maladie d'Alzheimer ; une microprotéine dérivée de MKKS semble influencer la respiration mitochondriale des microglies.",
+          "whyItMatters": "Ces petites protéines jusque‑là négligées élargissent le paysage moléculaire du cerveau vieillissant et pourraient révéler de nouveaux mécanismes biologiques pertinents pour la neurodégénérescence.",
+          "takeaways": [
+            "L'atlas recense plus d'un millier de microprotéines de haute confiance dans le cortex frontal humain.",
+            "Plusieurs microprotéines montrent des modifications associées à la maladie indépendamment de leurs produits géniques canoniques plus grands.",
+            "Une microprotéine dérivée de MKKS a été identifiée comme nécessaire au fonctionnement énergétique normal des microglies, soulignant de nouvelles pistes de recherche."
+          ]
+        },
+        "de": {
+          "title": "Atlas entdeckt über 1.000 kleine Proteine im alternden menschlichen Frontallappen, einige mit Alzheimer‑Verknüpfung",
+          "summary": "Wissenschaftler kartierten 1.067 zuvor nicht annotierte Mikroproteine im alternden menschlichen Frontalkortex und fanden eine Untergruppe, die sich bei Alzheimer‑Erkrankung unterscheidet; ein aus MKKS stammendes Mikroprotein scheint die mitochondriale Atmung von Mikroglia zu beeinflussen.",
+          "whyItMatters": "Diese bisher vernachlässigten kleinen Proteine erweitern die molekulare Landkarte des alternden Gehirns und könnten neue biologische Mechanismen aufdecken, die für Neurodegeneration relevant sind.",
+          "takeaways": [
+            "Der Atlas katalogisiert über tausend Mikroproteine mit hoher Zuverlässigkeit im menschlichen Frontalkortex.",
+            "Mehrere Mikroproteine zeigen krankheitsassoziierte Veränderungen, die unabhängig von ihren größeren kanonischen Genprodukten sind.",
+            "Ein MKKS‑abgeleitetes Mikroprotein wurde als erforderlich für normale Energieproduktion in Mikroglia identifiziert und eröffnet neue Forschungsrichtungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Atlas identifica mais de 1.000 micrproteínas no córtex frontal humano envelhecido, algumas associadas ao Alzheimer",
+          "summary": "Cientistas mapearam 1.067 microproteínas antes não anotadas no córtex frontal humano envelhecido e encontraram um subconjunto que difere na doença de Alzheimer; uma microproteína derivada de MKKS parece influenciar a respiração mitocondrial de microglia.",
+          "whyItMatters": "Essas pequenas proteínas anteriormente negligenciadas ampliam o panorama molecular do cérebro envelhecido e podem revelar novos mecanismos biológicos relevantes para a neurodegeneração.",
+          "takeaways": [
+            "O atlas lista mais de mil microproteínas de alta confiança no córtex frontal humano.",
+            "Várias microproteínas mostram alterações associadas à doença independentes de seus produtos gênicos canônicos maiores.",
+            "Uma microproteína derivada de MKKS foi identificada como necessária para a produção de energia normal em microglia, destacando novas vias para pesquisa."
+          ]
+        },
+        "hu": {
+          "title": "Atlasz több mint 1 000 kis fehérjét tár fel idős humán frontális kéregben, némelyik Alzheimerrel összefüggésben",
+          "summary": "Tudósok 1 067 korábban nem annotált mikroproteint térképeztek fel az idős humán frontális kéregben, és találtak egy alcsoportot, amely Alzheimer-kórban eltérést mutat; egy MKKS-ból származó mikroprotein úgy tűnik, befolyásolja a mikroglia mitokondriális légzését.",
+          "whyItMatters": "Ezek a korábban figyelmen kívül hagyott kis fehérjék bővítik az öregedő agy molekuláris képét, és új biológiai mechanizmusokat fedhetnek fel a neurodegeneráció kapcsán.",
+          "takeaways": [
+            "Az atlasz több mint ezer, magas biztonsággal azonosított mikroproteint katalogizál a humán frontális kéregben.",
+            "Több mikroprotein betegséghez kapcsolódó változásokat mutat a nagyobb, kanonikus géntermékektől függetlenül.",
+            "Egy MKKS-ból származó mikroprotein szükségesnek tűnt a normál mikroglia energia-termeléshez, ami új kutatási irányokat vet fel."
+          ]
+        },
+        "ar": {
+          "title": "خريطة للمُستَصغرّات البروتينية تكشف أكثر من 1000 بروتين صغير في قشرة الفص الجبهي البشرية المسنّة، بعضها مرتبط بالزهايمر",
+          "summary": "حدد العلماء 1,067 بروتينًا صغيرًا (مجهول التعريف سابقًا) في قشرة الفص الجبهي البشرية المسنّة، ووجدوا أن مجموعة فرعية منها تختلف في مرض ألزهايمر؛ ويبدو أن بروتينًا صغيرًا مشتقًا من MKKS يؤثر في تنفّس الميتوكوندريا في الخلايا الدبقية المناعية (الميكروغليا).",
+          "whyItMatters": "هذه البروتينات الصغيرة المتغافَل عنها توسّع المشهد الجزيئي للدماغ المسن وقد تكشف آليات بيولوجية جديدة ذات صلة بالتنكس العصبي.",
+          "takeaways": [
+            "تُدوّن الخريطة أكثر من ألف بروتين صغير مُؤكَّد الوجود في قشرة الفص الجبهي البشرية.",
+            "تظهر عدة بروتينات صغيرة تغيّرات مرتبطة بالمرض مستقلة عن منتجات جيناتها الكبرى التقليدية.",
+            "تعرّف بروتين صغير مشتق من MKKS كعامل مطلوب لإنتاج الطاقة الطبيعي في الميكروغليا، مما يفتح مسارات بحثية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nature-microprotein-atlas-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-microprotein-atlas-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-microprotein-atlas-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Atlas uncovers over 1,000 small proteins in aged human frontal cortex, some linked to Alzheimer’s.\nStory summary: Scientists mapped 1,067 previously unannotated microproteins in the aged human frontal cortex and found a subset that differ in Alzheimer’s disease; one microprotein derived from MKKS appears to influence microglial mitochondrial respiration..\nCategory: aging research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "news-medical-voice-age-20260915",
+      "category": "healthy aging",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260915/Your-voice-could-add-something-aging-blood-tests-and-scans-miss.aspx",
+      "sourceTitle": "Your voice could add something aging blood tests and scans miss",
+      "publishedAt": "Tue, 15 Sep 2026 00:24:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Short voice recordings may reveal biological aging signals",
+          "summary": "Researchers report that a standardized 30-second voice sample can estimate chronological age within about four years on average and appears to capture physiological information not fully reflected by molecular, imaging, sleep, or lifestyle-based aging measures.",
+          "whyItMatters": "A quick, noninvasive voice measure could complement existing aging assessments by providing additional functional information without blood draws or scans.",
+          "takeaways": [
+            "A 30-second standardized recording predicted chronological age with mean absolute errors around 3.95 years for females and 4.41 years for males.",
+            "The derived 'Voice Age' appears to contain aging-related signals partly distinct from established molecular and imaging clocks.",
+            "Further validation is needed before voice-based measures are used clinically or for personal health decisions."
+          ]
+        },
+        "es": {
+          "title": "Grabaciones breves de voz pueden revelar señales de envejecimiento biológico",
+          "summary": "Investigadores informan que una muestra de voz estandarizada de 30 segundos puede estimar la edad cronológica con un error medio absoluto de alrededor de cuatro años y parece captar información fisiológica que no queda totalmente reflejada en medidas de envejecimiento basadas en moléculas, imágenes, sueño o estilo de vida.",
+          "whyItMatters": "Una medida rápida y no invasiva basada en la voz podría complementar las evaluaciones de envejecimiento existentes al aportar información funcional adicional sin necesidad de análisis de sangre ni exploraciones.",
+          "takeaways": [
+            "Una grabación estandarizada de 30 segundos predijo la edad cronológica con errores absolutos medios de aproximadamente 3,95 años en mujeres y 4,41 años en hombres.",
+            "La denominada «edad por voz» parece contener señales relacionadas con el envejecimiento que son parcialmente diferentes de los relojes moleculares y de imagen establecidos.",
+            "Se necesita validación adicional antes de usar medidas basadas en la voz con fines clínicos o para decisiones personales de salud."
+          ]
+        },
+        "ru": {
+          "title": "Короткие голосовые записи могут выявлять сигналы биологического старения",
+          "summary": "Исследователи сообщают, что стандартизированный 30‑секундный образец голоса может оценивать хронологический возраст с средней абсолютной ошибкой около четырех лет и, по-видимому, фиксирует физиологическую информацию, не полностью отражаемую молекулярными, визуализационными, сонными или образа жизни мерами старения.",
+          "whyItMatters": "Быстрый неинвазивный тест по голосу может дополнить существующие методы оценки старения, предоставляя дополнительную функциональную информацию без забора крови или сканирования.",
+          "takeaways": [
+            "30‑секундная стандартизированная запись предсказывала хронологический возраст с MAE примерно 3,95 года для женщин и 4,41 года для мужчин.",
+            "Полученная «возраст по голосу» содержит сигналы, связанные со старением, частично отличающиеся от известных молекулярных и визуализирующих часов.",
+            "Требуется дальнейшая валидация перед тем, как голосовые меры будут использоваться в клинической практике или для персональных решений о здоровье."
+          ]
+        },
+        "uk": {
+          "title": "Короткі голосові записи можуть виявляти ознаки біологічного старіння",
+          "summary": "Дослідники повідомляють, що стандартизований 30‑секундний зразок голосу може оцінити хронологічний вік з середньою абсолютною похибкою приблизно чотири роки та, здається, фіксує фізіологічну інформацію, яка не повністю відображається молекулярними, візуалізаційними, сну‑ або способом життя‑орієнтованими показниками старіння.",
+          "whyItMatters": "Швидкий неінвазивний вимір на основі голосу може доповнювати існуючі оцінки старіння, надаючи додаткову функціональну інформацію без забору крові чи сканувань.",
+          "takeaways": [
+            "30‑секундний стандартизований запис прогнозував хронологічний вік зі середніми абсолютними похибками близько 3.95 року для жінок і 4.41 року для чоловіків.",
+            "Отриманий показник «Voice Age» здається містить сигнали, пов'язані зі старінням, частково відмінні від усталених молекулярних і візуалізаційних годинників.",
+            "Потрібна додаткова валідація перед тим, як голосові виміри використовуватимуть у клінічній практиці або для персональних рішень щодо здоров'я."
+          ]
+        },
+        "fr": {
+          "title": "De courts enregistrements vocaux peuvent révéler des signaux de vieillissement biologique",
+          "summary": "Les chercheurs rapportent qu'un échantillon vocal standardisé de 30 secondes peut estimer l'âge chronologique avec une erreur absolue moyenne d'environ quatre ans et semble capturer des informations physiologiques qui ne sont pas entièrement reflétées par des mesures de vieillissement basées sur la biologie moléculaire, l'imagerie, le sommeil ou le mode de vie.",
+          "whyItMatters": "Une mesure vocale rapide et non invasive pourrait compléter les évaluations existantes du vieillissement en fournissant des informations fonctionnelles supplémentaires sans prise de sang ni examens d'imagerie.",
+          "takeaways": [
+            "Un enregistrement standardisé de 30 secondes a prédit l'âge chronologique avec des erreurs absolues moyennes d'environ 3,95 ans pour les femmes et 4,41 ans pour les hommes.",
+            "Le « Voice Age » dérivé semble contenir des signaux liés au vieillissement en partie distincts des horloges moléculaires et d'imagerie établies.",
+            "Une validation supplémentaire est nécessaire avant que les mesures basées sur la voix ne soient utilisées en clinique ou pour des décisions de santé personnelles."
+          ]
+        },
+        "de": {
+          "title": "Kurze Stimmaufnahmen können Signale biologischen Alterns anzeigen",
+          "summary": "Forscher berichten, dass eine standardisierte 30‑sekündige Stimmprobe das chronologische Alter im Durchschnitt auf etwa vier Jahre genau schätzen kann und offenbar physiologische Informationen enthält, die durch molekulare, bildgebende, schlaf- oder lebensstilbasierte Altersmaße nicht vollständig erfasst werden.",
+          "whyItMatters": "Ein schnelles, nichtinvasives Stimmmaß könnte bestehende Altersbewertungen ergänzen, indem es zusätzliche funktionelle Informationen liefert, ohne Blutentnahmen oder Scans.",
+          "takeaways": [
+            "Eine 30‑sekündige standardisierte Aufnahme sagte das chronologische Alter mit mittleren absoluten Fehlern von etwa 3,95 Jahren bei Frauen und 4,41 Jahren bei Männern voraus.",
+            "Der abgeleitete „Stimmen‑Alter“-Wert scheint altersbezogene Signale zu enthalten, die teilweise von etablierten molekularen und bildgebenden Uhren verschieden sind.",
+            "Vor einer klinischen oder persönlichen Anwendung ist weitere Validierung erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Gravações curtas de voz podem revelar sinais de envelhecimento biológico",
+          "summary": "Pesquisadores relatam que uma amostra de voz padronizada de 30 segundos pode estimar a idade cronológica em cerca de quatro anos, em média, e parece captar informações fisiológicas que não são totalmente refletidas por medidas de envelhecimento baseadas em dados moleculares, imagem, sono ou estilo de vida.",
+          "whyItMatters": "Uma medida vocal rápida e não invasiva poderia complementar avaliações de envelhecimento existentes, fornecendo informação funcional adicional sem a necessidade de exames de sangue ou imagens.",
+          "takeaways": [
+            "Uma gravação padronizada de 30 segundos previu a idade cronológica com erro absoluto médio de cerca de 3,95 anos em mulheres e 4,41 anos em homens.",
+            "A chamada “Idade da Voz” parece conter sinais relacionados ao envelhecimento que são, em parte, distintos dos relógios moleculares e de imagem estabelecidos.",
+            "É necessária validação adicional antes do uso de medidas baseadas na voz em contextos clínicos ou para decisões pessoais de saúde."
+          ]
+        },
+        "hu": {
+          "title": "Rövid hangfelvételek biológiai öregedési jeleket tárhatnak fel",
+          "summary": "A kutatók szerint egy szabványos, 30 másodperces hangminta átlagosan körülbelül négy év pontossággal képes megbecsülni a kronológiai életkort, és úgy tűnik, olyan fiziológiai információkat is tükröz, amelyeket a molekuláris, képalkotó, alvás- vagy életmód alapú öregedési mérések nem fednek le teljesen.",
+          "whyItMatters": "Egy gyors, nem invazív hangalapú mérés kiegészítheti a meglévő öregedési értékeléseket további funkcionális információval vérvétel vagy vizsgálatok nélkül.",
+          "takeaways": [
+            "Egy 30 másodperces szabványos felvétel a kronológiai életkort átlagos abszolút hibával körülbelül 3,95 évnél a nőknél és 4,41 évnél a férfiaknál jelezte.",
+            "A levezetett „Hangkora” úgy tűnik, öregedéshez kapcsolódó jeleket tartalmaz, amelyek részben eltérnek a bevett molekuláris és képalkotó óráktól.",
+            "További validáció szükséges, mielőtt a hangalapú méréseket klinikai vagy személyes egészségügyi döntésekhez alkalmaznák."
+          ]
+        },
+        "ar": {
+          "title": "تسجيلات صوتية قصيرة قد تكشف إشارات للشيخوخة البيولوجية",
+          "summary": "يفيد الباحثون أن عينة صوتية معيارية مدتها 30 ثانية يمكن أن تقدر العمر الزمني بدقة تقريبية تبلغ نحو أربع سنوات في المتوسط، ويبدو أنها تلتقط معلومات فسيولوجية لا تعكسها تمامًا مقاييس الشيخوخة المبنية على الجزيئات أو الصور أو النوم أو نمط الحياة.",
+          "whyItMatters": "مقياس صوتي سريع وغير غازي يمكن أن يكمل تقييمات الشيخوخة القائمة بتوفير معلومات وظيفية إضافية دون الحاجة لسحب الدم أو الفحوص التصويرية.",
+          "takeaways": [
+            "تنبأت تسجيلة معيارية مدتها 30 ثانية بالعمر الزمني بأخطاء مطلقة متوسطة حوالى 3.95 سنة للإناث و4.41 سنة للذكور.",
+            "يبدو أن ‘عمر الصوت’ المستخلص يحتوي على إشارات مرتبطة بالشيخوخة تختلف جزئيًا عن ساعات الشيخوخة الجزيئية والتصويرية المعروفة.",
+            "هناك حاجة لمزيد من التحقق قبل استخدام مقاييس قائمة على الصوت في السياق السريري أو لاتخاذ قرارات صحية شخصية."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=news-medical-voice-age-20260915",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-voice-age-20260915-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-voice-age-20260915-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short voice recordings may reveal biological aging signals.\nStory summary: Researchers report that a standardized 30-second voice sample can estimate chronological age within about four years on average and appears to capture physiological information not fully reflected by molecular, imaging, sleep, or lifestyle-based aging measures..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medicalxpress-emergency-food-20260914",
+      "category": "nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-nutritious-emergency-food-stockpile.html",
+      "sourceTitle": "How to build a nutritious emergency food stockpile",
+      "publishedAt": "Mon, 14 Sep 2026 20:20:06 EDT",
+      "languages": {
+        "en": {
+          "title": "UK watchdog warns many households lack nutritious emergency food supplies",
+          "summary": "A UK government review found that many homes are not ready for potential disruptions to food supplies caused by events such as cyberattacks, power outages, disease outbreaks or extreme weather, and highlights the need to plan emergency food stockpiles with nutrition in mind.",
+          "whyItMatters": "Preparedness that includes nutritious options can help protect health during short- to medium-term supply interruptions, especially for people with specific dietary needs.",
+          "takeaways": [
+            "The watchdog reports widespread under-preparedness for food-supply disruptions in UK households.",
+            "Emergency planning should consider nutritional quality and the needs of vulnerable household members, not just calorie availability.",
+            "Practical stockpiling strategies and guidance can help households maintain nutrition during crises."
+          ]
+        },
+        "es": {
+          "title": "El organismo regulador del Reino Unido advierte que muchos hogares carecen de reservas de alimentos de emergencia nutritivas",
+          "summary": "Una revisión del gobierno del Reino Unido encontró que muchos hogares no están preparados para posibles interrupciones en el suministro de alimentos causadas por eventos como ciberataques, cortes de energía, brotes de enfermedad o fenómenos meteorológicos extremos, y subraya la necesidad de planificar reservas de emergencia teniendo en cuenta la nutrición.",
+          "whyItMatters": "La preparación que incluye opciones nutritivas puede ayudar a proteger la salud durante interrupciones del suministro a corto o medio plazo, especialmente para personas con necesidades dietéticas específicas.",
+          "takeaways": [
+            "La revisión informa de una falta generalizada de preparación para interrupciones en el suministro de alimentos en los hogares del Reino Unido.",
+            "La planificación de emergencias debería considerar la calidad nutricional y las necesidades de miembros vulnerables del hogar, no sólo la disponibilidad calórica.",
+            "Estrategias prácticas de almacenamiento y orientación pueden ayudar a los hogares a mantener la nutrición durante las crisis."
+          ]
+        },
+        "ru": {
+          "title": "Британский надзорный орган предупреждает, что многие домохозяйства не имеют питательных запасов продовольствия для чрезвычайных ситуаций",
+          "summary": "Обзор, проведённый правительством Великобритании, показал, что многие домохозяйства не готовы к возможным нарушениям поставок продовольствия из‑за таких событий, как кибератаки, отключения электроэнергии, вспышки заболеваний или экстремальные погодные явления, и подчёркивает необходимость планирования экстренных запасов с учётом питания.",
+          "whyItMatters": "Подготовка, включающая питательные варианты, может помочь защитить здоровье во время краткосрочных и среднесрочных перебоев в поставках, особенно для людей с особыми диетическими потребностями.",
+          "takeaways": [
+            "Отчёт указывает на широкое неприготовленность домохозяйств в Великобритании к перебоям с продовольствием.",
+            "Планирование в чрезвычайных ситуациях должно учитывать качество питания и потребности уязвимых членов семьи, а не только калорийность.",
+            "Практические стратегии накопления запасов и рекомендации могут помочь домохозяйствам сохранять питание в кризисных ситуациях."
+          ]
+        },
+        "uk": {
+          "title": "Наглядовий орган Великої Британії попереджає про брак поживних запасів їжі в багатьох домогосподарствах",
+          "summary": "Огляд уряду Великої Британії виявив, що багато домогосподарств не готові до можливих порушень постачання продовольства, спричинених кібернападами, відключеннями енергії, спалахами хвороб або екстремальною погодою, і підкреслює необхідність планувати аварійні запаси продуктів з урахуванням поживної цінності.",
+          "whyItMatters": "Підготовленість, яка включає поживні варіанти, може допомогти захистити здоров'я під час коротко‑ та середньострокових перебоїв у постачанні, особливо для людей із конкретними дієтичними потребами.",
+          "takeaways": [
+            "Уповноважений орган повідомляє про широку неготовність домогосподарств у Великій Британії до порушень продовольчого ланцюга.",
+            "Планування надзвичайних ситуацій має враховувати якість харчування та потреби вразливих членів домогосподарства, а не лише калорійну забезпеченість.",
+            "Практичні стратегії формування запасів та керівництво можуть допомогти домогосподарствам зберегти належне харчування під час криз."
+          ]
+        },
+        "fr": {
+          "title": "Un organisme de contrôle britannique alerte sur l'absence de réserves alimentaires nutritives dans de nombreux foyers",
+          "summary": "Une revue du gouvernement britannique a constaté que de nombreux foyers ne sont pas prêts à faire face à d'éventuelles perturbations de l'approvisionnement en nourriture causées par des cyberattaques, des coupures d'électricité, des épidémies ou des conditions météorologiques extrêmes, et souligne la nécessité de planifier des réserves alimentaires d'urgence en tenant compte de la nutrition.",
+          "whyItMatters": "Une préparation incluant des options nutritives peut aider à protéger la santé lors d'interruptions d'approvisionnement à court ou moyen terme, en particulier pour les personnes ayant des besoins alimentaires spécifiques.",
+          "takeaways": [
+            "Le rapport indique une sous‑préparation généralisée des foyers britanniques face aux perturbations de l'approvisionnement alimentaire.",
+            "La planification d'urgence devrait prendre en compte la qualité nutritionnelle et les besoins des membres vulnérables du foyer, pas seulement la disponibilité en calories.",
+            "Des stratégies pratiques de constitution de réserves et des conseils peuvent aider les foyers à maintenir une alimentation adéquate pendant les crises."
+          ]
+        },
+        "de": {
+          "title": "Britische Aufsichtsbehörde warnt: Viele Haushalte haben keine nahrhaften Notvorräte",
+          "summary": "Eine Überprüfung der britischen Regierung ergab, dass viele Haushalte nicht auf potenzielle Unterbrechungen der Lebensmittelversorgung durch Ereignisse wie Cyberangriffe, Stromausfälle, Krankheitsausbrüche oder extremes Wetter vorbereitet sind, und betont die Notwendigkeit, Notvorräte mit Blick auf Ernährung zu planen.",
+          "whyItMatters": "Vorbereitung, die nahrhafte Optionen einschließt, kann helfen, die Gesundheit während kurzfristiger bis mittelfristiger Lieferunterbrechungen zu schützen, besonders für Menschen mit speziellen Ernährungsbedürfnissen.",
+          "takeaways": [
+            "Der Bericht weist auf weit verbreitete Unterschätzung der Bereitschaft für Versorgungsausfälle in britischen Haushalten hin.",
+            "Notfallplanung sollte die ernährungsphysiologische Qualität und die Bedürfnisse verletzlicher Haushaltsmitglieder berücksichtigen, nicht nur die Kalorienverfügbarkeit.",
+            "Praktische Strategien zum Bevorraten und Leitlinien können Haushalten helfen, in Krisenzeiten die Ernährung aufrechtzuerhalten."
+          ]
+        },
+        "pt-br": {
+          "title": "Órgão fiscal do Reino Unido alerta que muitas residências não têm suprimentos alimentares de emergência nutritivos",
+          "summary": "Uma revisão do governo do Reino Unido constatou que muitas casas não estão preparadas para possíveis interrupções no fornecimento de alimentos causadas por eventos como ataques cibernéticos, queda de energia, surtos de doenças ou clima extremo, e destaca a necessidade de planejar estoques de emergência considerando a nutrição.",
+          "whyItMatters": "Preparação que inclua opções nutritivas pode ajudar a proteger a saúde durante interrupções de fornecimento de curto a médio prazo, especialmente para pessoas com necessidades dietéticas específicas.",
+          "takeaways": [
+            "A avaliação relata falta generalizada de preparo dos lares britânicos para interrupções no abastecimento de alimentos.",
+            "O planejamento de emergências deve considerar a qualidade nutricional e as necessidades de membros vulneráveis da família, e não apenas a disponibilidade de calorias.",
+            "Estratégias práticas de estocagem e orientação podem ajudar as famílias a manter a nutrição durante crises."
+          ]
+        },
+        "hu": {
+          "title": "Az Egyesült Királyság felügyeleti szerve szerint sok háztartásnak hiányoznak a tápláló vésztartalékok",
+          "summary": "Egy brit kormányzati felülvizsgálat megállapította, hogy sok otthon nincs felkészülve az élelmiszer-ellátás megszakítására olyan események miatt, mint a kibertámadások, áramszünetek, járványok vagy szélsőséges időjárás, és hangsúlyozza a vésztartalékok táplálkozási szempontú megtervezésének szükségességét.",
+          "whyItMatters": "Az előkészülés, amely tápláló opciókat is tartalmaz, segíthet megóvni az egészséget rövid- és középtávú ellátási zavarok idején, különösen azoknál, akiknek speciális diétás igényeik vannak.",
+          "takeaways": [
+            "A felügyeleti jelentés széleskörű alulkészültséget jelez az Egyesült Királyság háztartásai között az élelmiszer-ellátás megszakadása esetére.",
+            "A vésztervnek nemcsak a kalóriaellátást, hanem a táplálkozási minőséget és a sérülékeny családtagok szükségleteit is figyelembe kell vennie.",
+            "Gyakorlati készletezési stratégiák és útmutatások segíthetnek a háztartásoknak megőrizni a táplálkozást válságok idején."
+          ]
+        },
+        "ar": {
+          "title": "هيئة رقابية بالمملكة المتحدة تحذّر من أن العديد من الأسر تفتقر إلى مخزون طعام طازج مغذٍ للطوارئ",
+          "summary": "وجدت مراجعة حكومية في المملكة المتحدة أن العديد من المنازل غير مستعدة لاضطرابات محتملة في إمدادات الغذاء ناجمة عن حوادث مثل الهجمات الإلكترونية أو انقطاع التيار أو تفشي الأمراض أو الظروف الجوية القاسية، وتشدد على ضرورة التخطيط لمخزونات طوارئ مع مراعاة الجوانب الغذائية.",
+          "whyItMatters": "الاستعداد الذي يشمل خيارات مغذية يمكن أن يساعد في حماية الصحة أثناء انقطاعات الإمداد القصيرة إلى المتوسطة الأجل، لا سيما للأشخاص ذوي الاحتياجات الغذائية الخاصة.",
+          "takeaways": [
+            "تقرير الهيئة يشير إلى عدم استعداد واسع النطاق لدى الأسر البريطانية لمواجهة اضطرابات إمدادات الغذاء.",
+            "ينبغي أن يأخذ التخطيط للطوارئ في الحسبان جودة التغذية واحتياجات أفراد الأسرة الضعفاء، وليس مجرد توافر السعرات الحرارية.",
+            "يمكن للاستراتيجيات العملية والإرشادات حول التخزين أن تساعد الأسر على الحفاظ على التغذية أثناء الأزمات."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medicalxpress-emergency-food-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-emergency-food-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-emergency-food-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: UK watchdog warns many households lack nutritious emergency food supplies.\nStory summary: A UK government review found that many homes are not ready for potential disruptions to food supplies caused by events such as cyberattacks, power outages, disease outbreaks or extreme weather, and highlights the need to plan emergency food stockpiles with nutrition in mind..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medpagetoday-pdt-bcc-20260914",
+      "category": "medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/dermatology/skincancer/123001",
+      "sourceTitle": "Photodynamic Therapy for the Most Common Skin Cancer Wins Approval",
+      "publishedAt": "Mon, 14 Sep 2026 16:51:03 -0400",
+      "languages": {
+        "en": {
+          "title": "FDA clears photodynamic therapy plus aminolevulinic acid for superficial basal cell carcinoma",
+          "summary": "The FDA approved aminolevulinic acid hydrochloride 10% (Ameluz) together with photodynamic therapy to treat adults with superficial basal cell carcinoma, marking a regulatory nod for this topical-plus-light approach.",
+          "whyItMatters": "This approval adds a non-surgical, light-activated treatment option for a common form of skin cancer, which may influence clinical choices and patient discussions.",
+          "takeaways": [
+            "Approval covers a combination of a topical aminolevulinic acid formulation and photodynamic activation for superficial basal cell carcinoma in adults.",
+            "The decision may expand therapeutic options beyond traditional surgical approaches for eligible lesions.",
+            "Clinicians and patients will need to weigh benefits and suitability on a case-by-case basis."
+          ]
+        },
+        "es": {
+          "title": "La FDA autoriza terapia fotodinámica con ácido aminolevulínico para carcinoma basocelular superficial",
+          "summary": "La FDA aprobó clorhidrato de ácido aminolevulínico al 10% (Ameluz) junto con terapia fotodinámica para tratar a adultos con carcinoma basocelular superficial, lo que supone un reconocimiento regulatorio de este enfoque tópico combinado con luz.",
+          "whyItMatters": "Esta aprobación añade una opción de tratamiento no quirúrgica y activada por luz para una forma común de cáncer de piel, lo que puede influir en las decisiones clínicas y en las conversaciones con pacientes.",
+          "takeaways": [
+            "La aprobación cubre la combinación de una formulación tópica de ácido aminolevulínico y su activación mediante terapia fotodinámica para el carcinoma basocelular superficial en adultos.",
+            "La decisión puede ampliar las opciones terapéuticas más allá de los enfoques quirúrgicos tradicionales para lesiones elegibles.",
+            "Clínicos y pacientes deberán valorar beneficios y adecuación caso por caso."
+          ]
+        },
+        "ru": {
+          "title": "FDA одобрила фотодинамическую терапию в сочетании с аминолевулиновой кислотой для поверхностного базальноклеточного рака",
+          "summary": "FDA одобрила хлорид аминолевулиновой кислоты 10% (Ameluz) в сочетании с фотодинамической терапией для лечения взрослых с поверхностным базальноклеточным раком, что представляет собой регуляторное признание этого топического лечения с активацией светом.",
+          "whyItMatters": "Это одобрение добавляет нехирургическую опцию лечения, активируемую светом, для распространённой формы рака кожи, что может повлиять на клинический выбор и обсуждение с пациентами.",
+          "takeaways": [
+            "Одобрение распространяется на комбинацию топической формы аминолевулиновой кислоты и её активации фотодинамической терапией для поверхностного базальноклеточного рака у взрослых.",
+            "Решение может расширить терапевтические варианты помимо традиционных хирургических подходов для подходящих поражений.",
+            "Клиницистам и пациентам необходимо оценивать преимущества и пригодность в каждом конкретном случае."
+          ]
+        },
+        "uk": {
+          "title": "FDA схвалила фотодинамічну терапію з амінолевуліновою кислотою для поверхневого базальноклітинного раку",
+          "summary": "FDA затвердила гідрохлорид амінолевулінової кислоти 10% (Ameluz) у поєднанні з фотодинамічною терапією для лікування дорослих з поверхневим базальноклітинним раком, що відзначає регуляторне визнання цього топічного засобу в парі зі світлом.",
+          "whyItMatters": "Це схвалення додає некхірургічний метод лікування, активований світлом, для поширеної форми раку шкіри, що може вплинути на вибір терапії та обговорення з пацієнтами.",
+          "takeaways": [
+            "Схвалення стосується комбінованого застосування топічної форми амінолевулінової кислоти та фотодинамічної активації для поверхневого базальноклітинного раку у дорослих.",
+            "Рішення може розширити терапевтичні опції за межі традиційних хірургічних підходів для відповідних уражень.",
+            "Клініци та пацієнти повинні оцінювати вигоди та придатність у кожному конкретному випадку."
+          ]
+        },
+        "fr": {
+          "title": "La FDA autorise la thérapie photodynamique avec acide aminolévulinique pour le carcinome basocellulaire superficiel",
+          "summary": "La FDA a approuvé l'acide aminolévulinique chlorhydrate 10 % (Ameluz) en association avec la thérapie photodynamique pour traiter les adultes atteints d'un carcinome basocellulaire superficiel, marquant une reconnaissance réglementaire de cette approche topique combinée à la lumière.",
+          "whyItMatters": "Cette approbation ajoute une option de traitement non chirurgicale, activée par la lumière, pour une forme courante de cancer cutané, ce qui peut influencer les choix thérapeutiques et les échanges avec les patients.",
+          "takeaways": [
+            "L'approbation couvre la combinaison d'une formulation topique d'acide aminolévulinique et d'une activation photodynamique pour le carcinome basocellulaire superficiel chez les adultes.",
+            "La décision pourrait étendre les options thérapeutiques au‑delà des approches chirurgicales traditionnelles pour les lésions éligibles.",
+            "Les cliniciens et les patients devront peser les bénéfices et la pertinence au cas par cas."
+          ]
+        },
+        "de": {
+          "title": "FDA genehmigt photodynamische Therapie mit Aminolevulinsäure bei oberflächlichem Basalzellkarzinom",
+          "summary": "Die FDA hat Aminolevulinsäurehydrochlorid 10 % (Ameluz) in Kombination mit photodynamischer Therapie zur Behandlung erwachsener Patientinnen und Patienten mit oberflächlichem Basalzellkarzinom zugelassen, was eine regulatorische Anerkennung dieses topisch‑plus‑Licht‑Ansatzes darstellt.",
+          "whyItMatters": "Diese Zulassung ergänzt nicht‑chirurgische, lichtaktivierte Behandlungsoptionen für eine häufige Form von Hautkrebs und könnte klinische Entscheidungen und Patientengespräche beeinflussen.",
+          "takeaways": [
+            "Die Zulassung umfasst die Kombination einer topischen Aminolevulinsäure‑Formulierung und photodynamischer Aktivierung für oberflächliches Basalzellkarzinom bei Erwachsenen.",
+            "Die Entscheidung könnte therapeutische Optionen jenseits traditioneller chirurgischer Verfahren für geeignete Läsionen erweitern.",
+            "Kliniker und Patienten müssen Nutzen und Eignung individuell abwägen."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA aprova terapia fotodinâmica com ácido aminolevulínico para carcinoma basocelular superficial",
+          "summary": "A FDA aprovou cloridrato de ácido aminolevulínico 10 % (Ameluz) em combinação com terapia fotodinâmica para tratar adultos com carcinoma basocelular superficial, marcando reconhecimento regulatório para essa abordagem tópica combinada com luz.",
+          "whyItMatters": "Essa aprovação adiciona uma opção de tratamento não cirúrgico e ativada por luz para uma forma comum de câncer de pele, o que pode influenciar escolhas clínicas e discussões com pacientes.",
+          "takeaways": [
+            "A aprovação abrange a combinação de uma formulação tópica de ácido aminolevulínico com ativação fotodinâmica para carcinoma basocelular superficial em adultos.",
+            "A decisão pode ampliar opções terapêuticas além das abordagens cirúrgicas tradicionais para lesões elegíveis.",
+            "Profissionais de saúde e pacientes precisarão avaliar benefícios e adequação caso a caso."
+          ]
+        },
+        "hu": {
+          "title": "FDA jóváhagyta a fotodinamikus terápiát és aminolevulinsavat a felszíni bazalissejtes karcinóma kezelésére",
+          "summary": "Az FDA engedélyezte az aminolevulinsav-hidroklorid 10%-os (Ameluz) alkalmazását fotodinamikus terápiával együtt a felszíni bazalissejtes karcinóma felnőtteknél történő kezelésére, ami elismerést jelent az ilyen helyi és fényalapú megközelítés számára.",
+          "whyItMatters": "Ez a jóváhagyás egy nem sebészi, fényaktivált kezelési lehetőséget ad egy gyakori bőrrákforma számára, ami befolyásolhatja a klinikai döntéseket és a betegek tájékoztatását.",
+          "takeaways": [
+            "A jóváhagyás kiterjed egy helyi aminolevulinsav formulára és fotodinamikus aktiválására a felszíni bazalissejtes karcinóma felnőttek körében.",
+            "A döntés bővítheti a terápiás lehetőségeket a hagyományos sebészi megközelítések mellett az alkalmas elváltozásoknál.",
+            "A klinikusoknak és a betegeknek egyedi mérlegelés alapján kell eldönteniük az előnyöket és az alkalmasságot."
+          ]
+        },
+        "ar": {
+          "title": "وكالة الغذاء والدواء توافق على العلاج الضوئي الديناميكي مع حمض الأمينوليفولينيك للسرطان السطحي للخلايا القاعدية",
+          "summary": "وافقت إدارة الغذاء والدواء على محلول حمض الأمينوليفولينك هيدروكلوريد 10% (Ameluz) مع العلاج الضوئي الديناميكي لعلاج البالغين المصابين بسرطان الخلايا القاعدية السطحي، ما يمثل موافقة تنظيمية لهذا النهج الموضعي والمحفز بالضوء.",
+          "whyItMatters": "تُضيف هذه الموافقة خيار علاج غير جراحي ينشط بالضوء لشكل شائع من سرطان الجلد، وقد يؤثر ذلك على خيارات العلاج والنقاشات مع المرضى.",
+          "takeaways": [
+            "تغطي الموافقة تركيبة موضعية لحمض الأمينوليفولينك وتنشيطًا ضوئيًا لعلاج سرطان الخلايا القاعدية السطحي لدى البالغين.",
+            "قد توسع هذه الخطوة خيارات العلاج إلى جانب الأساليب الجراحية التقليدية للآفات المؤهلة.",
+            "سيحتاج الأطباء والمرضى إلى موازنة المنافع ومدى الملاءمة على أساس كل حالة على حدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medpagetoday-pdt-bcc-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-pdt-bcc-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-pdt-bcc-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA clears photodynamic therapy plus aminolevulinic acid for superficial basal cell carcinoma.\nStory summary: The FDA approved aminolevulinic acid hydrochloride 10% (Ameluz) together with photodynamic therapy to treat adults with superficial basal cell carcinoma, marking a regulatory nod for this topical-plus-light approach..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lifespan-mito-learning-20260914",
+      "category": "longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/mitochondrial-performance-may-strongly-influence-learning/",
+      "sourceTitle": "Mitochondrial Performance May Strongly Influence Learning",
+      "publishedAt": "Mon, 14 Sep 2026 19:15:07 +0000",
+      "languages": {
+        "en": {
+          "title": "Mitochondrial health and positioning tied to age-related declines in learning",
+          "summary": "A research team found that the function and subcellular placement of mitochondria appear important for neuronal plasticity and may help explain why the ability to learn new tasks diminishes with age.",
+          "whyItMatters": "Identifying mitochondrial contributions to cognitive aging highlights a biological pathway that researchers could target to preserve learning and brain adaptability.",
+          "takeaways": [
+            "Both mitochondrial performance and their localization within neurons relate to cognitive plasticity.",
+            "Age-related changes in mitochondrial biology may underlie some declines in learning capacity.",
+            "These findings support further exploration of mitochondrial-focused strategies to support brain health."
+          ]
+        },
+        "es": {
+          "title": "La salud y la localización mitocondrial vinculadas a disminuciones relacionadas con la edad en el aprendizaje",
+          "summary": "Un equipo de investigación encontró que la función y la ubicación subcelular de las mitocondrias parecen ser importantes para la plasticidad neuronal y pueden ayudar a explicar por qué la capacidad para aprender nuevas tareas disminuye con la edad.",
+          "whyItMatters": "Identificar las contribuciones mitocondriales al envejecimiento cognitivo pone de relieve una vía biológica que los investigadores podrían explorar para preservar el aprendizaje y la adaptabilidad cerebral.",
+          "takeaways": [
+            "Tanto el rendimiento mitocondrial como su localización dentro de las neuronas se relacionan con la plasticidad cognitiva.",
+            "Los cambios mitocondriales vinculados a la edad pueden subyacer a parte de la disminución en la capacidad de aprendizaje.",
+            "Estos hallazgos respaldan una mayor exploración de estrategias centradas en las mitocondrias para apoyar la salud cerebral."
+          ]
+        },
+        "ru": {
+          "title": "Состояние и локализация митохондрий связаны со снижением обучаемости при старении",
+          "summary": "Исследовательская группа обнаружила, что функция и субклеточное расположение митохондрий важны для нейрональной пластичности и могут помочь объяснить, почему способность осваивать новые задачи снижается с возрастом.",
+          "whyItMatters": "Выделение вклада митохондрий в когнитивное старение подчёркивает биологический путь, который исследователи могли бы целенаправленно изучать для сохранения обучения и гибкости мозга.",
+          "takeaways": [
+            "И производительность митохондрий, и их локализация в нейронах связаны с когнитивной пластичностью.",
+            "Возраст‑зависимые изменения в митохондриальной биологии могут лежать в основе части снижения способности к обучению.",
+            "Эти результаты поддерживают дальнейшее изучение подходов, направленных на митохондрии, для поддержки здоровья мозга."
+          ]
+        },
+        "uk": {
+          "title": "Здоров'я та розміщення мітохондрій пов'язані зі зниженням здатності до навчання з віком",
+          "summary": "Дослідницька група виявила, що функція та субклітинне розташування мітохондрій важливі для нейронної пластичності і можуть допомогти пояснити, чому здатність опановувати нові завдання знижується з віком.",
+          "whyItMatters": "Визначення внеску мітохондрій у когнітивне старіння підкреслює біологічний шлях, який дослідники могли б націлювати для збереження навчальних здібностей і адаптивності мозку.",
+          "takeaways": [
+            "Як продуктивність мітохондрій, так і їх локалізація в нейронах пов'язані з когнітивною пластичністю.",
+            "Зміни в мітохондріальній біології з віком можуть лежати в основі частини зниження здатності до навчання.",
+            "Ці результати підтримують подальше вивчення стратегій, орієнтованих на мітохондрії, для підтримки здоров'я мозку."
+          ]
+        },
+        "fr": {
+          "title": "La santé et la localisation des mitochondries liées au déclin de l'apprentissage lié à l'âge",
+          "summary": "Une équipe de recherche a trouvé que la fonction et le positionnement subcellulaire des mitochondries semblent importants pour la plasticité neuronale et pourraient aider à expliquer pourquoi la capacité à apprendre de nouvelles tâches diminue avec l'âge.",
+          "whyItMatters": "Identifier la contribution des mitochondries au vieillissement cognitif met en lumière une voie biologique que les chercheurs pourraient cibler pour préserver l'apprentissage et l'adaptabilité cérébrale.",
+          "takeaways": [
+            "La performance des mitochondries et leur localisation au sein des neurones sont liées à la plasticité cognitive.",
+            "Les changements liés à l'âge dans la biologie mitochondriale pourraient sous‑tendre certains déclin de la capacité d'apprentissage.",
+            "Ces résultats encouragent l'exploration de stratégies axées sur les mitochondries pour soutenir la santé cérébrale."
+          ]
+        },
+        "de": {
+          "title": "Mitochondrien‑Gesundheit und -Platzierung mit altersbedingten Lernrückgängen verknüpft",
+          "summary": "Ein Forscherteam fand, dass Funktion und subzelluläre Positionierung von Mitochondrien offenbar wichtig für neuronale Plastizität sind und teilweise erklären könnten, warum die Fähigkeit, neue Aufgaben zu lernen, mit dem Alter abnimmt.",
+          "whyItMatters": "Die Identifizierung mitochondrialer Beiträge zur kognitiven Alterung hebt einen biologischen Pfad hervor, den Forscher anvisieren könnten, um Lernen und Gehirnadaptivität zu erhalten.",
+          "takeaways": [
+            "Sowohl die Leistungsfähigkeit der Mitochondrien als auch ihre Lokalisation innerhalb von Neuronen stehen mit kognitiver Plastizität in Zusammenhang.",
+            "Altersbedingte Veränderungen der mitochondrialen Biologie könnten einige Rückgänge der Lernfähigkeit zugrunde liegen.",
+            "Die Befunde stützen weitere Untersuchungen zu mitochondrienfokussierten Strategien zur Unterstützung der Gehirngesundheit."
+          ]
+        },
+        "pt-br": {
+          "title": "Saúde e posicionamento mitocondrial relacionados a declínios na aprendizagem com a idade",
+          "summary": "Uma equipe de pesquisadores descobriu que o funcionamento e a localização subcelular das mitocôndrias parecem importantes para a plasticidade neuronal e podem ajudar a explicar por que a capacidade de aprender novas tarefas diminui com a idade.",
+          "whyItMatters": "Identificar contribuições mitocondriais ao envelhecimento cognitivo destaca uma via biológica que pesquisadores poderiam direcionar para preservar a aprendizagem e a adaptabilidade cerebral.",
+          "takeaways": [
+            "Desempenho das mitocôndrias e sua localização nas células nervosas se relacionam com a plasticidade cognitiva.",
+            "Mudanças mitocondriais relacionadas à idade podem estar na base de parte dos declínios na capacidade de aprendizagem.",
+            "Esses achados sustentam a exploração de estratégias focadas nas mitocôndrias para apoiar a saúde cerebral."
+          ]
+        },
+        "hu": {
+          "title": "Mitokondriális egészség és elhelyezkedés összefügg az életkorral kapcsolatos tanulási csökkenéssel",
+          "summary": "Egy kutatócsoport azt találta, hogy a mitokondriumok működése és sejten belüli elhelyezkedése fontos a neuronális plaszticitás szempontjából, és hozzájárulhat ahhoz, hogy az új készségek elsajátításának képessége életkorral csökken.",
+          "whyItMatters": "A mitokondriális szerep azonosítása a kognitív öregedésben egy biológiai pályát emel ki, amelyet a kutatók célba vehetnek az alkalmazkodóképesség és a tanulás megőrzése érdekében.",
+          "takeaways": [
+            "A mitokondriális teljesítmény és azok lokalizációja a neuronokban összefügg a kognitív plaszticitással.",
+            "A mitokondriális biológia életkorral bekövetkező változásai részben magyarázhatják a tanulási kapacitás csökkenését.",
+            "Az eredmények alátámasztják a mitokondriumokra irányuló további kutatásokat az agy egészségének támogatására."
+          ]
+        },
+        "ar": {
+          "title": "صحة الميتوكوندريا وموقعها مرتبطة بتراجع التعلم المرتبط بالعمر",
+          "summary": "وجد فريق بحثي أن وظيفة الميتوكوندريا وموقعها داخل الخلايا العصبية تبدو مهمة للمرونة العصبية وقد تساعد في تفسير سبب تراجع القدرة على تعلّم مهام جديدة مع التقدّم في العمر.",
+          "whyItMatters": "تسليط الضوء على مساهمة الميتوكوندريا في الشيخوخة المعرفية يبرز مسارًا بيولوجيًا يمكن للباحثين استهدافه للحفاظ على التعلم وقابلية التكيف الدماغي.",
+          "takeaways": [
+            "ترتبط كل من أداء الميتوكوندريا وموضعها داخل الخلايا العصبية بالمرونة المعرفية.",
+            "قد تكون التغيرات المرتبطة بالعمر في بيولوجيا الميتوكوندريا سببًا لبعض تراجع قدرة التعلم.",
+            "تدعم النتائج مزيدًا من الاستكشاف لاستراتيجيات تركز على الميتوكوندريا لدعم صحة الدماغ."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lifespan-mito-learning-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-mito-learning-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-mito-learning-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mitochondrial health and positioning tied to age-related declines in learning.\nStory summary: A research team found that the function and subcellular placement of mitochondria appear important for neuronal plasticity and may help explain why the ability to learn new tasks diminishes with age..\nCategory: longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sciencedaily-cancer-younger-20260914",
+      "category": "public health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
+      "sourceTitle": "Cancer is rising in younger adults. Faster biological aging may help explain why",
+      "publishedAt": "Mon, 14 Sep 2026 10:47:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Accelerated biological aging linked to rising early-onset cancer rates",
+          "summary": "New research suggests that people born more recently show signs of faster biological aging than earlier generations at the same chronological age, and this acceleration correlates with higher rates of cancers diagnosed before age 55.",
+          "whyItMatters": "If biological aging contributes to earlier cancer onset, understanding its drivers could help shape prevention and surveillance strategies for younger adults.",
+          "takeaways": [
+            "More recent birth cohorts exhibited greater biological age relative to calendar age compared with earlier cohorts.",
+            "Greater biological age acceleration was associated with increased risk of early-onset cancers, with different patterns across cancer types (lung, gastrointestinal, uterine, colorectal).",
+            "These findings point to population-level changes requiring further study to identify underlying causes and potential interventions."
+          ]
+        },
+        "es": {
+          "title": "Envejecimiento biológico acelerado vinculado al aumento de cánceres de inicio temprano",
+          "summary": "Nuevas investigaciones sugieren que las personas nacidas más recientemente muestran señales de un envejecimiento biológico más rápido que las generaciones anteriores a la misma edad cronológica, y que esta aceleración se correlaciona con mayores tasas de cánceres diagnosticados antes de los 55 años.",
+          "whyItMatters": "Si el envejecimiento biológico contribuye al inicio más temprano del cáncer, comprender sus impulsores podría ayudar a diseñar estrategias de prevención y vigilancia para adultos más jóvenes.",
+          "takeaways": [
+            "Cohortes nacidas más recientemente exhibieron mayor edad biológica en relación con la edad cronológica en comparación con cohortes anteriores.",
+            "Una mayor aceleración de la edad biológica se asoció con un mayor riesgo de cánceres de inicio temprano, con patrones diferentes según el tipo de cáncer (pulmón, gastrointestinal, uterino, colorrectal).",
+            "Estos hallazgos apuntan a cambios a nivel poblacional que requieren más estudio para identificar causas subyacentes y posibles intervenciones."
+          ]
+        },
+        "ru": {
+          "title": "Ускоренное биологическое старение связано с ростом раннего заболеваемости раком",
+          "summary": "Новое исследование показывает, что у людей, родившихся относительно недавно, имеются признаки более быстрого биологического старения по сравнению с более старыми поколениями в том же хронологическом возрасте, и это ускорение коррелирует с более высокой частотой опухолей, диагностируемых до 55 лет.",
+          "whyItMatters": "Если биологическое старение способствует более раннему возникновению рака, понимание факторов, его вызывающих, может помочь в разработке мер профилактики и мониторинга для молодых взрослых.",
+          "takeaways": [
+            "Более недавно родившиеся когорты демонстрировали большую биологическую возрастную составляющую по сравнению с календарным возрастом, чем более ранние когорты.",
+            "Ускорение биологического возраста было связано с повышенным риском раннего возникновения рака, с различиями по типам рака (легкие, ЖКТ, матка, толстая кишка).",
+            "Эти данные указывают на изменения на популяционном уровне, требующие дальнейших исследований для выявления причин и возможных вмешательств."
+          ]
+        },
+        "uk": {
+          "title": "Прискорене біологічне старіння пов'язане зі зростанням частки ранніх випадків раку",
+          "summary": "Нові дослідження вказують, що люди, народжені пізнішими роками, демонструють ознаки швидшого біологічного старіння порівняно з попередніми поколіннями того самого хронологічного віку, і це прискорення корелює з вищими показниками раків, діагностованих до 55 років.",
+          "whyItMatters": "Якщо біологічне старіння сприяє ранньому початку раку, розуміння чинників, що його обумовлюють, може допомогти формувати стратегії профілактики та нагляду для молодших дорослих.",
+          "takeaways": [
+            "Нещодавні когортні групи народження мали більший біологічний вік відносно календарного віку порівняно з раннішими когортами.",
+            "Більше прискорення біологічного віку асоціювалося зі збільшеним ризиком ранньопочаткових раків, з різними шаблонами по типах (рак легень, шлунково‑кишковий, рак матки, колоректальний рак).",
+            "Ці висновки вказують на зміни на рівні популяції, що потребують подальшого вивчення для виявлення причин та потенційних втручань."
+          ]
+        },
+        "fr": {
+          "title": "Un vieillissement biologique accéléré lié à l'augmentation des cancers d'apparition précoce",
+          "summary": "De nouvelles recherches suggèrent que les personnes nées plus récemment présentent des signes d'un vieillissement biologique plus rapide que les générations antérieures au même âge chronologique, et que cette accélération est corrélée à des taux plus élevés de cancers diagnostiqués avant 55 ans.",
+          "whyItMatters": "Si le vieillissement biologique contribue à l'apparition plus précoce des cancers, comprendre ses facteurs pourrait aider à orienter des stratégies de prévention et de surveillance pour les adultes plus jeunes.",
+          "takeaways": [
+            "Les cohortes de naissance plus récentes affichaient un âge biologique plus élevé par rapport à l'âge calendaire comparé aux cohortes antérieures.",
+            "Une plus grande accélération de l'âge biologique était associée à un risque accru de cancers d'apparition précoce, avec des schémas variables selon les types de cancer (poumon, gastro‑intestinal, utérin, colorectal).",
+            "Ces résultats pointent vers des changements au niveau de la population nécessitant des études plus approfondies pour identifier les causes sous‑jacentes et d'éventuelles interventions."
+          ]
+        },
+        "de": {
+          "title": "Beschleunigtes biologisches Altern steht im Zusammenhang mit steigenden Raten früh auftretender Krebserkrankungen",
+          "summary": "Neue Forschung legt nahe, dass Menschen, die später geboren wurden, im gleichen kalendarischen Alter Anzeichen schnellerer biologischer Alterung zeigen als frühere Generationen, und diese Beschleunigung mit höheren Raten von Krebserkrankungen vor dem 55. Lebensjahr korreliert.",
+          "whyItMatters": "Wenn biologisches Altern zu einem früheren Auftreten von Krebs beiträgt, könnte das Verständnis seiner Treiber helfen, Präventions‑ und Überwachungsstrategien für jüngere Erwachsene zu gestalten.",
+          "takeaways": [
+            "Jüngere Geburtskohorten zeigten im Verhältnis zum Kalenderalter eine größere biologische Alterung als frühere Kohorten.",
+            "Stärker beschleunigtes biologisches Alter war mit einem erhöhten Risiko für früh einsetzende Krebsarten assoziiert, wobei sich Muster zwischen Krebsarten (Lunge, Magen‑Darm, Gebärmutter, Kolorektal) unterschieden.",
+            "Die Befunde deuten auf bevölkerungsweite Veränderungen hin, die weitere Studien benötigen, um zugrunde liegende Ursachen und mögliche Interventionen zu identifizieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Envelhecimento biológico acelerado associado ao aumento de casos de câncer de início precoce",
+          "summary": "Nova pesquisa sugere que pessoas nascidas mais recentemente mostram sinais de envelhecimento biológico mais rápido do que gerações anteriores na mesma idade cronológica, e essa aceleração se correlaciona com taxas mais altas de cânceres diagnosticados antes dos 55 anos.",
+          "whyItMatters": "Se o envelhecimento biológico contribui para o início mais precoce do câncer, entender seus fatores causais pode ajudar a orientar estratégias de prevenção e vigilância para adultos mais jovens.",
+          "takeaways": [
+            "Coortes nascidas mais recentemente apresentaram maior idade biológica em relação à idade do calendário, em comparação com coortes anteriores.",
+            "Maior aceleração da idade biológica esteve associada a risco aumentado de cânceres de início precoce, com padrões diferentes entre tipos (pulmão, gastrointestinal, uterino, colorretal).",
+            "Esses achados apontam para mudanças em nível populacional que exigem investigações adicionais para identificar causas subjacentes e possíveis intervenções."
+          ]
+        },
+        "hu": {
+          "title": "Gyorsult biológiai öregedés összefüggésben a korai életkorban jelentkező rákos esetek növekedésével",
+          "summary": "Új kutatások arra utalnak, hogy a közelmúltban születettek ugyanazon kronológiai életkorban gyorsabb biológiai öregedés jeleit mutatják, mint korábbi generációk, és ez a gyorsulás összefügg a 55 év alattiaknál diagnosztizált rákok magasabb arányával.",
+          "whyItMatters": "Ha a biológiai öregedés hozzájárul a korábbi daganatok kialakulásához, az okainak megértése segíthet a fiatalabb felnőttek megelőzési és szűrési stratégiáinak alakításában.",
+          "takeaways": [
+            "A frissebb születési kohorszok nagyobb biológiai életkort mutattak a naptári életkorhoz viszonyítva, mint a korábbi kohorszok.",
+            "A nagyobb biológiai életkor-gyorsulás összefüggött a korai kezdődésű rákok megnövekedett kockázatával, eltérő mintázatokkal különböző ráktípusoknál (tüdő, gyomor-bélrendszer, méh, vastagbél).",
+            "Ezek az eredmények lakossági szintű változásokra utalnak, amelyeket további vizsgálatoknak kell követniük az alapvető okok és lehetséges beavatkozások feltárásához."
+          ]
+        },
+        "ar": {
+          "title": "الشيخوخة البيولوجية المعجلة مرتبطة بارتفاع معدلات السرطان المبكر",
+          "summary": "تشير أبحاث جديدة إلى أن الأشخاص المولودين حديثًا يظهرون علامات تسارع في الشيخوخة البيولوجية مقارنة بالأجيال السابقة عند نفس العمر الزمني، ويرتبط هذا التسارع بارتفاع معدلات السرطانات المشخصة قبل سن 55.",
+          "whyItMatters": "إذا كانت الشيخوخة البيولوجية تسهم في ظهور السرطان في مراحل أبكر، فإن فهم محركاتها قد يساعد في توجيه استراتيجيات الوقاية والمراقبة لفئات البالغين الأصغر سنًا.",
+          "takeaways": [
+            "أظهرت مجموعات الولادة الأحدث عمرًا بيولوجيًا أكبر بالمقارنة مع العمر التقويمي مقارنة بالمجموعات الأقدم.",
+            "كان تسارع العمر البيولوجي مرتبطًا بزيادة خطر الإصابة بالسرطانات المبكرة، مع اختلاف الأنماط حسب نوع السرطان (الرئوي، الهضمي، الرحمي، القولوني-المستقيمي).",
+            "تشير هذه النتائج إلى تغيّرات على مستوى السكان تتطلب دراسة أعمق لتحديد الأسباب الكامنة والتدخلات الممكنة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sciencedaily-cancer-younger-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-cancer-younger-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-cancer-younger-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Accelerated biological aging linked to rising early-onset cancer rates.\nStory summary: New research suggests that people born more recently show signs of faster biological aging than earlier generations at the same chronological age, and this acceleration correlates with higher rates of cancers diagnosed before age 55..\nCategory: public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "theconversation-shingles-exosomes-20260914",
+      "category": "medicine",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/shingles-can-cause-severe-chronic-pain-new-research-on-how-exosomes-alter-neurons-offers-pathways-to-treatment-290398",
+      "sourceTitle": "Shingles can cause severe chronic pain – new research on how exosomes alter neurons offers pathways to treatment",
+      "publishedAt": "2026-09-14T12:40:34Z",
+      "languages": {
+        "en": {
+          "title": "Exosomes may help explain persistent pain after shingles",
+          "summary": "New studies point to exosomes—small vesicles released by cells—as agents that can change neuronal behavior after shingles infection, potentially driving long-lasting pain syndromes such as post-herpetic neuralgia.",
+          "whyItMatters": "Understanding mechanisms that sustain severe chronic pain could open avenues for treatments that target neuronal changes rather than only addressing symptoms.",
+          "takeaways": [
+            "Researchers are implicating exosome-mediated effects on neurons in prolonged shingles-related pain.",
+            "Insights from this work could be relevant for other forms of neuropathy that involve persistent neuronal dysfunction.",
+            "The findings suggest new biological targets for therapeutic development, pending further research."
+          ]
+        },
+        "es": {
+          "title": "Los exosomas pueden ayudar a explicar el dolor persistente tras el herpes zóster",
+          "summary": "Nuevos estudios señalan a los exosomas—pequeñas vesículas liberadas por las células—como agentes que pueden alterar el comportamiento neuronal tras una infección por herpes zóster, lo que podría contribuir a síndromes de dolor duradero como la neuralgia posherpética.",
+          "whyItMatters": "Comprender los mecanismos que mantienen el dolor crónico severo podría abrir vías para tratamientos que apunten a los cambios neuronales en lugar de centrarse sólo en los síntomas.",
+          "takeaways": [
+            "Los investigadores implican efectos mediados por exosomas sobre las neuronas en el dolor prolongado relacionado con el herpes zóster.",
+            "Los conocimientos de este trabajo podrían ser relevantes para otras formas de neuropatía que implican disfunción neuronal persistente.",
+            "Los hallazgos sugieren nuevos objetivos biológicos para el desarrollo terapéutico, sujetos a más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Экзосомы могут объяснять стойкую боль после опоясывающего лишая",
+          "summary": "Новые исследования указывают на экзосомы — маленькие везикулы, выделяемые клетками — как на агенты, способные изменять поведение нейронов после инфекции опоясывающего лишая, что потенциально приводит к длительным болевым синдромам, таким как постгерпетическая невралгия.",
+          "whyItMatters": "Понимание механизмов, поддерживающих сильную хроническую боль, может открыть пути к лечению, нацеленному на нейронные изменения, а не только на симптомы.",
+          "takeaways": [
+            "Исследователи связывают экзосом‑опосредованные эффекты на нейроны с затяжной болью после опоясывающего лишая.",
+            "Выводы могут быть релевантны и для других форм нейропатии, связанных с устойчивой дисфункцией нейронов.",
+            "Результаты указывают на новые биологические мишени для разработки терапий при условии дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Екзосоми можуть допомогти пояснити стійкий біль після оперізуючого лишаю",
+          "summary": "Нові дослідження вказують на екзосоми — малі везикули, що виділяються клітинами — як на чинники, які можуть змінювати поведінку нейронів після інфекції оперізуючим лишаєм і потенційно сприяти тривалим больовим синдромам, таким як постгерпетична невралгія.",
+          "whyItMatters": "Розуміння механізмів, що підтримують тяжкий хронічний біль, може відкрити шляхи для лікувань, що націлені на зміни в нейронах, а не лише на симптоматичне полегшення.",
+          "takeaways": [
+            "Дослідники вказують на роль екзосом у модулюванні нейронів при тривалому болю, пов'язаному з оперізуючим лишаєм.",
+            "Отримані уявлення можуть бути релевантні для інших форм невропатії, що включають стійку дисфункцію нейронів.",
+            "Знахідки вказують на нові біологічні цілі для розробки терапій, що потребують подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Les exosomes pourraient aider à expliquer la douleur persistante après le zona",
+          "summary": "De nouvelles études pointent les exosomes — petites vésicules libérées par les cellules — comme des agents capables de modifier le comportement neuronal après une infection par le zona, pouvant potentiellement entraîner des syndromes douloureux de longue durée tels que la névralgie post‑herpétique.",
+          "whyItMatters": "Comprendre les mécanismes qui entretiennent la douleur chronique sévère pourrait ouvrir des voies de traitement ciblant les changements neuronaux plutôt que de ne traiter que les symptômes.",
+          "takeaways": [
+            "Les chercheurs impliquent des effets médiés par les exosomes sur les neurones dans la douleur prolongée liée au zona.",
+            "Les connaissances issues de ces travaux pourraient être pertinentes pour d'autres formes de neuropathie impliquant une dysfonction neuronale persistante.",
+            "Les résultats suggèrent de nouvelles cibles biologiques pour le développement thérapeutique, sous réserve de recherches complémentaires."
+          ]
+        },
+        "de": {
+          "title": "Exosomen könnten anhaltende Schmerzen nach Gürtelrose erklären",
+          "summary": "Neue Studien deuten darauf hin, dass Exosomen – kleine von Zellen abgegebene Vesikel – das Verhalten von Neuronen nach einer Gürtelroseinfektion verändern können und dadurch langanhaltende Schmerzsyndrome wie die postherpetische Neuralgie fördern könnten.",
+          "whyItMatters": "Das Verständnis von Mechanismen, die schwere chronische Schmerzen aufrechterhalten, könnte Wege für Behandlungen eröffnen, die neuronale Veränderungen gezielt adressieren statt nur Symptome zu lindern.",
+          "takeaways": [
+            "Forscher bringen exosomvermittelte Effekte auf Neuronen mit prolongierten gürtelrosebedingten Schmerzen in Verbindung.",
+            "Erkenntnisse aus dieser Arbeit könnten auch für andere Formen von Neuropathie relevant sein, die anhaltende neuronale Dysfunktion umfassen.",
+            "Die Befunde deuten auf neue biologische Ziele für die Therapieentwicklung hin, vorausgesetzt weitere Forschung bestätigt sie."
+          ]
+        },
+        "pt-br": {
+          "title": "Exossomos podem ajudar a explicar dor persistente após catapora zoster",
+          "summary": "Novos estudos apontam que exossomos — pequenas vesículas liberadas por células — podem alterar o comportamento de neurônios após infecção por herpes-zóster, potencialmente impulsionando síndromes de dor de longa duração, como a neuralgia pós-herpética.",
+          "whyItMatters": "Compreender os mecanismos que mantêm dores crônicas severas pode abrir caminhos para tratamentos que visem mudanças neuronais, em vez de apenas tratar sintomas.",
+          "takeaways": [
+            "Pesquisadores implicam efeitos mediados por exossomos sobre neurônios na dor prolongada relacionada ao herpes-zóster.",
+            "Os insights deste trabalho podem ser relevantes para outras formas de neuropatia que envolvem disfunção neuronal persistente.",
+            "Os achados sugerem novos alvos biológicos para desenvolvimento terapêutico, sujeito a pesquisas adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Exoszómák segíthetnek megmagyarázni az övsömör utáni tartós fájdalmat",
+          "summary": "Új tanulmányok az exoszómákat—a sejtek által kibocsátott apró vezikulákat—okként jelölik meg, amelyek megváltoztathatják a neuronok viselkedését övsömör fertőzés után, és ez hosszú távú fájdalom-szindrómák, például a postherpetikus neuralgia kialakulásához vezethet.",
+          "whyItMatters": "A súlyos, krónikus fájdalmat fenntartó mechanizmusok megértése olyan kezelési útvonalakat nyithat meg, amelyek a neuronális változásokat célozzák, nem csak a tüneteket kezelik.",
+          "takeaways": [
+            "A kutatók az exoszóma-közvetített hatásokat gyanítják a hosszan tartó övsömörrel összefüggő fájdalomban.",
+            "A munkából származó felismerések relevánsak lehetnek más neuropátiás fájdalmakra is, amelyek tartós neuronális diszfunkcióval járnak.",
+            "Az eredmények új biológiai célpontokat jeleznek a terápiás fejlesztéshez, további kutatás szükséges."
+          ]
+        },
+        "ar": {
+          "title": "قد تفسر الحويصلات النَّسلية (الإكسوسومات) الألم المستمر بعد القوباء المنطقية",
+          "summary": "تشير دراسات جديدة إلى أن الإكسوسومات—حويصلات صغيرة تفرزها الخلايا—قد تغيّر سلوك الخلايا العصبية بعد عدوى القوباء المنطقية، مما قد يدفع إلى متلازمات ألم طويلة الأمد مثل الاعتلال العصبي التالي للهربس.",
+          "whyItMatters": "فهم الآليات التي تحافظ على الألم المزمن الشديد قد يفتح سبلًا لعلاجات تستهدف التغييرات العصبية بدل الاكتفاء بعلاج الأعراض.",
+          "takeaways": [
+            "يقحم الباحثون دور التأثيرات التي تتوسطها الإكسوسومات على الخلايا العصبية في الألم المطوّل المرتبط بالقوباء المنطقية.",
+            "قد تكون الرؤى المستخلصة مفيدة أيضًا لأشكال أخرى من الاعتلال العصبي التي تنطوي على ضعف عصبي مستمر.",
+            "تشير النتائج إلى أهداف بيولوجية جديدة لتطوير العلاجات، مع حاجة لمزيد من البحث."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=theconversation-shingles-exosomes-20260914",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-shingles-exosomes-20260914-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-shingles-exosomes-20260914-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Exosomes may help explain persistent pain after shingles.\nStory summary: New studies point to exosomes—small vesicles released by cells—as agents that can change neuronal behavior after shingles infection, potentially driving long-lasting pain syndromes such as post-herpetic neuralgia..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a5",
       "category": "Sustainable diets",
@@ -643,122 +1499,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Disrupted 3D genome organization found in brain cells affected by Alzheimer’s.\nStory summary: A study observed changes to the three-dimensional folding of DNA in several brain cell types impacted by Alzheimer’s, altering how key genes are regulated and revealing a genomic layer previously underexplored in the disease..\nCategory: Genomics & aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "cell-glp1r-2026",
-      "category": "metabolic health / research methods",
-      "sourceName": "cell.com",
-      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00332-3?rss=yes",
-      "sourceTitle": "Extending concerns about GLP-1R antibody specificity to human immune cells",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Researchers raise methodological concerns about antibodies used to detect GLP‑1 receptors on immune cells",
-          "summary": "Authors discuss challenges in reliably localizing the low‑abundance GLP‑1 receptor (GLP‑1R) in human immune cells because many commercial antibodies lack sufficient specificity. This complicates efforts to separate direct receptor signaling in immune cells from indirect effects tied to metabolic improvements.",
-          "whyItMatters": "As GLP‑1 receptor agonists are widely used and studied for metabolic and potential immunomodulatory effects, rigorous tools are needed to correctly identify where receptors act and to interpret biological findings accurately.",
-          "takeaways": [
-            "GLP‑1R is a low‑abundance, dynamically trafficked receptor; antibody specificity is a key technical hurdle.",
-            "Current doubts about commonly used antibodies mean some published findings on GLP‑1R in immune cells may need reevaluation.",
-            "Improved validation of detection tools will clarify which effects of GLP‑1 therapies are direct versus secondary to metabolic changes.",
-            "Methodological rigor matters for translating mechanistic insights into therapeutic strategies."
-          ]
-        },
-        "es": {
-          "title": "Investigadores plantean preocupaciones metodológicas sobre anticuerpos usados para detectar receptores GLP‑1 en células inmunitarias humanas",
-          "summary": "Los autores discuten dificultades para localizar de forma fiable el receptor GLP‑1 (GLP‑1R), de baja abundancia, en células inmunitarias humanas porque muchos anticuerpos comerciales carecen de especificidad suficiente. Esto complica los esfuerzos por separar la señalización directa del receptor en células inmunitarias de los efectos indirectos vinculados a mejoras metabólicas.",
-          "whyItMatters": "Dado que los agonistas del receptor GLP‑1 se usan y estudian ampliamente por sus efectos metabólicos y posibles efectos inmunomoduladores, se necesitan herramientas rigurosas para identificar correctamente dónde actúan los receptores y para interpretar con precisión los hallazgos biológicos.",
-          "takeaways": [
-            "GLP‑1R es un receptor de baja abundancia y con tráfico dinámico; la especificidad de los anticuerpos es un obstáculo técnico clave.",
-            "Las dudas actuales sobre anticuerpos comúnmente usados implican que algunos hallazgos publicados sobre GLP‑1R en células inmunitarias pueden requerir reevaluación.",
-            "Una mejor validación de las herramientas de detección aclarará qué efectos de las terapias GLP‑1 son directos y cuáles son secundarios a cambios metabólicos.",
-            "El rigor metodológico es importante para traducir conocimientos mecanísticos en estrategias terapéuticas."
-          ]
-        },
-        "ru": {
-          "title": "Исследователи выражают методологические сомнения по поводу антител, используемых для обнаружения рецепторов GLP‑1 на иммунных клетках человека",
-          "summary": "Авторы обсуждают сложности с надёжным локализованием малообъёмного рецептора GLP‑1 (GLP‑1R) на иммунных клетках человека, поскольку многие коммерческие антитела не обладают достаточной специфичностью. Это затрудняет разделение прямой рецепторной сигнализации в иммунных клетках от косвенных эффектов, связанных с улучшением метаболического статуса.",
-          "whyItMatters": "Поскольку агонисты рецептора GLP‑1 широко применяются и исследуются за их метаболические и возможные иммуномодулирующие эффекты, необходимы точные инструменты для правильной идентификации мест действия рецепторов и корректной интерпретации биологических данных.",
-          "takeaways": [
-            "GLP‑1R — малоабундантный рецептор с динамической переработкой; ключевой технический вопрос — специфичность антител.",
-            "Текущие сомнения по поводу часто используемых антител означают, что некоторые опубликованные данные о GLP‑1R на иммунных клетках могут потребовать переоценки.",
-            "Улучшенная валидация инструментов обнаружения прояснит, какие эффекты терапий GLP‑1 являются прямыми, а какие — вторичными вследствие метаболических изменений.",
-            "Методологическая строгость важна для трансляции механистических выводов в терапевтические стратегии."
-          ]
-        },
-        "uk": {
-          "title": "Дослідники висловлюють методологічні застереження щодо антитіл, що використовуються для виявлення рецепторів GLP‑1 на імунних клітинах",
-          "summary": "Автори обговорюють труднощі надійного локалізування малоамплітудного рецептора GLP‑1 (GLP‑1R) в імунних клітинах людини, оскільки багато комерційних антитіл не мають достатньої специфічності. Це ускладнює відокремлення прямих сигналів рецептора в імунних клітинах від непрямих ефектів, пов’язаних із метаболічними покращеннями.",
-          "whyItMatters": "Оскільки агоністи рецептора GLP‑1 широко використовуються та вивчаються для метаболічних і потенційних імуномодулювальних ефектів, потрібні надійні інструменти для правильного визначення місць дії рецепторів і коректної інтерпретації біологічних результатів.",
-          "takeaways": [
-            "GLP‑1R — це рецептор із низькою експресією та динамічною транспортуванням; специфічність антитіл є ключовою технічною проблемою.",
-            "Сумніви щодо звичних комерційних антитіл означають, що деякі опубліковані результати про GLP‑1R в імунних клітинах можуть потребувати переоцінки.",
-            "Покращена валідація інструментів виявлення прояснить, які ефекти терапій GLP‑1 є прямими, а які — вторинними через метаболічні зміни.",
-            "Методологічна строгість важлива для перенесення механістичних висновків у терапевтичні стратегії."
-          ]
-        },
-        "fr": {
-          "title": "Des chercheurs soulèvent des préoccupations méthodologiques concernant les anticorps utilisés pour détecter les récepteurs GLP‑1 sur les cellules immunitaires humaines",
-          "summary": "Les auteurs discutent des difficultés à localiser de manière fiable le récepteur GLP‑1 (GLP‑1R), de faible abondance, dans les cellules immunitaires humaines car de nombreux anticorps commerciaux manquent de spécificité suffisante. Cela complique la séparation des signaux récepteurs directs dans les cellules immunitaires des effets indirects liés aux améliorations métaboliques.",
-          "whyItMatters": "Alors que les agonistes du récepteur GLP‑1 sont largement utilisés et étudiés pour leurs effets métaboliques et potentiellement immunomodulateurs, des outils rigoureux sont nécessaires pour identifier correctement les lieux d’action des récepteurs et interpréter avec précision les résultats biologiques.",
-          "takeaways": [
-            "Le GLP‑1R est un récepteur de faible abondance et à trafic dynamique ; la spécificité des anticorps est un obstacle technique majeur.",
-            "Les doutes actuels concernant des anticorps couramment utilisés signifient que certaines publications sur le GLP‑1R dans les cellules immunitaires pourraient nécessiter une réévaluation.",
-            "Une meilleure validation des outils de détection permettra de clarifier quels effets des thérapies GLP‑1 sont directs et lesquels sont secondaires aux changements métaboliques.",
-            "La rigueur méthodologique est cruciale pour traduire des connaissances mécanistiques en stratégies thérapeutiques."
-          ]
-        },
-        "de": {
-          "title": "Forscher äußern methodische Bedenken zu Antikörpern, mit denen GLP‑1‑Rezeptoren auf Immunzellen nachgewiesen werden",
-          "summary": "Die Autorinnen und Autoren diskutieren Schwierigkeiten bei der zuverlässigen Lokalisierung des in geringer Menge vorkommenden GLP‑1‑Rezeptors (GLP‑1R) in menschlichen Immunzellen, weil viele kommerzielle Antikörper nicht ausreichend spezifisch sind. Das erschwert es, direkte Rezeptorsignale in Immunzellen von indirekten Effekten zu trennen, die mit metabolischen Verbesserungen einhergehen.",
-          "whyItMatters": "Da GLP‑1‑Rezeptoragonisten breit eingesetzt und untersucht werden, sowohl für metabolische als auch mögliche immunmodulatorische Effekte, sind robuste Werkzeuge nötig, um korrekt zu identifizieren, wo Rezeptoren wirken, und biologische Befunde akkurat zu interpretieren.",
-          "takeaways": [
-            "GLP‑1R ist ein in geringer Menge vorhandener, dynamisch intrazellulär transportierter Rezeptor; Antikörperspezifität ist eine zentrale technische Herausforderung.",
-            "Aktuelle Zweifel an häufig verwendeten Antikörpern bedeuten, dass manche veröffentlichte Befunde zu GLP‑1R in Immunzellen möglicherweise neu bewertet werden sollten.",
-            "Bessere Validierung von Nachweisinstrumenten wird klären, welche Effekte von GLP‑1‑Therapien direkt und welche sekundär durch metabolische Veränderungen sind.",
-            "Methodische Strenge ist wichtig, um mechanistische Einsichten zuverlässig in therapeutische Strategien zu überführen."
-          ]
-        },
-        "pt-br": {
-          "title": "Pesquisadores levantam preocupações metodológicas sobre anticorpos usados para detectar receptores de GLP‑1 em células imunes",
-          "summary": "Os autores discutem desafios para localizar de forma confiável o receptor de GLP‑1 (GLP‑1R), de baixa abundância, em células imunes humanas, porque muitos anticorpos comerciais não têm especificidade suficiente. Isso dificulta separar a sinalização direta do receptor em células imunes de efeitos indiretos ligados a melhorias metabólicas.",
-          "whyItMatters": "Como agonistas do receptor de GLP‑1 são amplamente usados e estudados para efeitos metabólicos e potenciais efeitos imunomoduladores, são necessárias ferramentas rigorosas para identificar corretamente onde os receptores atuam e interpretar adequadamente os achados biológicos.",
-          "takeaways": [
-            "GLP‑1R é um receptor de baixa abundância e dinamicamente trafegado; a especificidade dos anticorpos é um obstáculo técnico chave.",
-            "Dúvidas atuais sobre anticorpos comumente usados indicam que alguns achados publicados sobre GLP‑1R em células imunes podem precisar de reavaliação.",
-            "Validações aprimoradas das ferramentas de detecção esclarecerão quais efeitos das terapias com GLP‑1 são diretos e quais são secundários a mudanças metabólicas.",
-            "Rigor metodológico é importante para traduzir insights mecanísticos em estratégias terapêuticas."
-          ]
-        },
-        "hu": {
-          "title": "Kutatók módszertani aggályokat vetnek fel a GLP‑1 receptorokat kimutató antitestek specifitásával kapcsolatban emberi immunsejtekben",
-          "summary": "A szerzők a low‑abundance (alacsony mennyiségben jelen lévő) GLP‑1 receptor (GLP‑1R) megbízható lokalizálásának kihívásairól írnak emberi immunsejtekben, mert sok kereskedelmi antitest nem rendelkezik elegendő specifitással. Ez megnehezíti a közvetlen receptorjelzés immunsejtekben való elválasztását az anyagcsere‑javuláshoz kötődő közvetett hatásoktól.",
-          "whyItMatters": "Mivel a GLP‑1 receptor agonisták széles körben használatosak és vizsgáltak anyagcsere‑ és potenciális immunmoduláló hatásaik miatt, szigorú eszközökre van szükség annak helyes azonosításához, hogy hol hatnak a receptorok és pontosan lehessen értelmezni a biológiai megállapításokat.",
-          "takeaways": [
-            "A GLP‑1R alacsony abundanciájú, dinamikusan traffikolt receptor; az antitestek specifitása kulcsfontosságú technikai kihívás.",
-            "A jelenlegi, gyakran használt antitestek felől felmerülő kételyek miatt egyes publikált eredményeket a GLP‑1R immunsejtekben újra kell értékelni.",
-            "A detekciós eszközök jobb validálása tisztázza, mely hatások közvetlenek a GLP‑1 terápiákból és melyek a metabolikus változások másodlagos következményei.",
-            "A módszertani szigor fontos a mechanisztikus eredmények terápiás stratégiákba történő átültetéséhez."
-          ]
-        },
-        "ar": {
-          "title": "باحثون يثيرون مخاوف منهجية حول الأجسام المضادة المستخدمة لكشف مستقبلات GLP‑1 على الخلايا المناعية البشرية",
-          "summary": "يناقش المؤلفون صعوبات في تحديد موقع مستقبل GLP‑1 منخفض الوفرة (GLP‑1R) بشكل موثوق في الخلايا المناعية البشرية لأن العديد من الأجسام المضادة التجارية تفتقر إلى خصوصية كافية. يعقّد ذلك الجهود لفصل الإشارات المباشرة للمستقبل في الخلايا المناعية عن التأثيرات غير المباشرة المرتبطة بتحسّنات أيضية.",
-          "whyItMatters": "نظرًا لاستخدام ودراسة منبهات مستقبل GLP‑1 على نطاق واسع لأثرها الأيضي والمحتمل المناعي، هناك حاجة إلى أدوات صارمة لتحديد مواضع عمل المستقبل بدقة ولتفسير النتائج البيولوجية بشكل صحيح.",
-          "takeaways": [
-            "GLP‑1R مستقبل منخفض الوفرة ويتنقل ديناميكيًا؛ خصوصية الأجسام المضادة تُعد عقبة تقنية رئيسية.",
-            "الشكوك الحالية بشأن الأجسام المضادة المستخدمة على نطاق واسع تعني أن بعض النتائج المنشورة حول GLP‑1R في الخلايا المناعية قد تحتاج إلى إعادة تقييم.",
-            "ستوضح عملية التحقق الأفضل للأدوات الكشفية أي آثار من علاجات GLP‑1 مباشرة وأيها ثانوي لتحوّرات أيضية.",
-            "تؤثر الدقة المنهجية على ترجمة الرؤى الميكانيكية إلى استراتيجيات علاجية."
-          ]
-        }
-      },
-      "generatedAt": "2026-09-13T06:51:23.494Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cell-glp1r-2026",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-glp1r-2026-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cell-glp1r-2026-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers raise methodological concerns about antibodies used to detect GLP‑1 receptors on immune cells.\nStory summary: Authors discuss challenges in reliably localizing the low‑abundance GLP‑1 receptor (GLP‑1R) in human immune cells because many commercial antibodies lack sufficient specificity. This complicates efforts to separate direct receptor signaling in immune cells from indirect effects tied to metabolic improvements..\nCategory: metabolic health / research methods.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "sciencedaily-oxalate-2026-09-12",
@@ -2768,7 +3508,7 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Real-world study found semaglutide use associated with fewer asthma attacks and COPD flare-ups.\nStory summary: In an observational analysis, semaglutide (the active ingredient in Ozempic and Wegovy) was associated with almost 40% fewer asthma exacerbations and about 20% fewer COPD flare-ups. Authors note these are real-world associations and that randomized trials are needed to test causality..\nCategory: Metabolic Drugs & Respiratory Health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "nutritionorg-nhanes-2026-09-09",
+      "id": "nutritionorg-nhanes-20260909",
       "category": "nutrition research",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/currdevnutr-highlights-24-years-of-nhanes-nutrition-data/",
@@ -2776,112 +3516,103 @@
       "publishedAt": "Wed, 09 Sep 2026 12:34:48 +0000",
       "languages": {
         "en": {
-          "title": "Special journal issue highlights two decades-plus of NHANES nutrition data",
-          "summary": "Current Developments in Nutrition published a special issue focused on 24 years of NHANES nutrition data, showcasing how the long‑running U.S. survey contributes to understanding dietary patterns, nutrient status, and population health trends.",
-          "whyItMatters": "NHANES provides a key evidence base for researchers and policymakers tracking nutrition and health trends over time; syntheses of these data help shape guidelines, surveillance, and research priorities.",
+          "title": "Special issue summarizes 24 years of NHANES nutrition findings",
+          "summary": "A dedicated edition of Current Developments in Nutrition compiles analyses from 24 years of NHANES data, offering consolidated insights into dietary patterns, nutrient status, and related health trends in the U.S. population.",
+          "whyItMatters": "NHANES is a foundational dataset for tracking nutrition and health over time; a focused synthesis helps researchers and policymakers spot trends and gaps.",
           "takeaways": [
-            "The special issue collates analyses and insights drawn from 24 years of NHANES nutrition data.",
-            "Longitudinal, nationally representative data are valuable for spotting trends in diet and related health outcomes.",
-            "Researchers and policy makers use NHANES findings to inform dietary recommendations and public health strategies.",
-            "The report is a resource for those interested in population nutrition surveillance and applied research."
+            "The special issue brings together long-term NHANES-based research on diet and nutrition-related health outcomes.",
+            "Such syntheses can inform surveillance, research priorities, and public health policy.",
+            "NHANES remains a key resource for understanding population nutrition and change over decades."
           ]
         },
         "es": {
-          "title": "Número especial de revista destaca más de dos décadas de datos nutricionales de NHANES",
-          "summary": "Current Developments in Nutrition publicó un número especial centrado en 24 años de datos nutricionales de NHANES, que muestra cómo la encuesta estadounidense de larga duración contribuye a entender patrones dietéticos, estado de nutrientes y tendencias de salud poblacional.",
-          "whyItMatters": "NHANES proporciona una base de evidencia clave para investigadores y responsables políticos que rastrean tendencias en nutrición y salud a lo largo del tiempo; las síntesis de estos datos ayudan a orientar guías, vigilancia y prioridades de investigación.",
+          "title": "Número especial resume 24 años de hallazgos nutricionales de NHANES",
+          "summary": "Una edición especial de Current Developments in Nutrition compila análisis de 24 años de datos de NHANES, ofreciendo una visión consolidada sobre patrones dietéticos, estado de nutrientes y tendencias de salud relacionadas en la población de EE. UU.",
+          "whyItMatters": "NHANES es un conjunto de datos fundamental para rastrear nutrición y salud a lo largo del tiempo; una síntesis focalizada ayuda a investigadores y responsables de políticas a detectar tendencias y lagunas.",
           "takeaways": [
-            "El número especial recopila análisis e ideas derivadas de 24 años de datos nutricionales de NHANES.",
-            "Los datos longitudinales y representativos a nivel nacional son valiosos para detectar tendencias en la dieta y en resultados de salud relacionados.",
-            "Investigadores y responsables de políticas usan los hallazgos de NHANES para informar recomendaciones dietéticas y estrategias de salud pública.",
-            "El informe es un recurso para quienes se interesan en la vigilancia nutricional poblacional y la investigación aplicada."
+            "El número especial reúne investigaciones a largo plazo basadas en NHANES sobre dieta y resultados de salud relacionados con la nutrición.",
+            "Estas síntesis pueden informar la vigilancia, prioridades de investigación y políticas de salud pública.",
+            "NHANES sigue siendo un recurso clave para comprender la nutrición poblacional y sus cambios a lo largo de décadas."
           ]
         },
         "ru": {
-          "title": "Специальный выпуск журнала выделяет более двух десятилетий данных по питанию из NHANES",
-          "summary": "Журнал Current Developments in Nutrition опубликовал специальный выпуск, посвящённый 24 годам данных о питании из NHANES, демонстрируя, как длительный американский опрос способствует пониманию моделей питания, статуса по нутриентам и тенденций здоровья населения.",
-          "whyItMatters": "NHANES предоставляет ключевую базу доказательств для исследователей и политиков, отслеживающих тенденции в питании и здоровье с течением времени; синтез этих данных помогает формировать рекомендации, мониторинг и приоритеты исследований.",
+          "title": "Специальный выпуск суммирует 24 года данных NHANES по питанию",
+          "summary": "Специальное издание Current Developments in Nutrition собирает анализы 24 лет данных NHANES, предлагая консолидированные сведения о пищевых моделях, статусе питательных веществ и связанных с ними тенденциях здоровья в населении США.",
+          "whyItMatters": "NHANES — базовый набор данных для отслеживания питания и здоровья с течением времени; целевая синтез‑работа помогает исследователям и политикам выявлять тренды и пробелы.",
           "takeaways": [
-            "Специальный выпуск объединяет анализы и выводы, основанные на 24 годах данных NHANES по питанию.",
-            "Продольные и репрезентативные данные ценны для выявления тенденций в питании и связанных с ним результатах по здоровью.",
-            "Исследователи и политики используют результаты NHANES для обоснования диетических рекомендаций и стратегий общественного здравоохранения.",
-            "Отчёт служит ресурсом для тех, кто интересуется мониторингом питания населения и прикладными исследованиями."
+            "Специальный выпуск объединяет долговременные исследования на основе NHANES по питанию и связанным с ним результатам здоровья.",
+            "Такие синтезы могут информировать надзор, приоритеты исследований и меры общественного здравоохранения.",
+            "NHANES остаётся ключевым ресурсом для понимания изменений в питании населения на протяжении десятилетий."
           ]
         },
         "uk": {
-          "title": "Спеціальний випуск журналу висвітлює понад два десятиліття даних NHANES про харчування",
-          "summary": "Current Developments in Nutrition опублікував спеціальний випуск, присвячений 24 рокам даних NHANES про харчування, демонструючи, як довготривале американське опитування сприяє розумінню харчових моделей, статусу поживних речовин і тенденцій у популяційному здоров’ї.",
-          "whyItMatters": "NHANES забезпечує ключову базу доказів для дослідників і політиків, які відстежують тенденції у харчуванні та здоров’ї; синтези цих даних допомагають формувати рекомендації, нагляд і дослідницькі пріоритети.",
+          "title": "Спеціальний випуск підсумовує 24 роки досліджень NHANES щодо харчування",
+          "summary": "Спеціальне видання Current Developments in Nutrition об'єднує аналізи з 24 років даних NHANES, надаючи консолідовані уявлення про харчові звички, статус нутрієнтів і пов'язані тенденції здоров'я в населення США.",
+          "whyItMatters": "NHANES — фундаментальний набір даних для відстеження харчування та здоров'я з часом; сфокусований синтез допомагає дослідникам і політикам виявляти тенденції та прогалини.",
           "takeaways": [
-            "Спеціальний випуск збирає аналізи та висновки, отримані з 24 років даних NHANES про харчування.",
-            "Лонгітюдні дані, що репрезентативні на національному рівні, корисні для виявлення тенденцій у дієті та пов’язаних показниках здоров’я.",
-            "Дослідники та політики використовують висновки NHANES для формування харчових рекомендацій і стратегій громадського здоров’я.",
-            "Звіт є ресурсом для тих, хто цікавиться наглядом за харчуванням населення та прикладними дослідженнями."
+            "Спеціальний випуск збирає довгострокові дослідження на основі NHANES про харчування та пов'язані з ним наслідки для здоров'я.",
+            "Такі синтези можуть інформувати нагляд, пріоритети досліджень та державну політику в сфері харчування.",
+            "NHANES залишається ключовим ресурсом для розуміння харчування населення та змін протягом десятиліть."
           ]
         },
         "fr": {
-          "title": "Un numéro spécial met en lumière plus de deux décennies de données NHANES sur la nutrition",
-          "summary": "Current Developments in Nutrition a publié un numéro spécial consacré à 24 ans de données NHANES sur la nutrition, montrant comment cette enquête américaine de longue date contribue à la compréhension des habitudes alimentaires, de l’état nutritionnel et des tendances de santé au niveau populationnel.",
-          "whyItMatters": "NHANES fournit une base de preuves clé pour les chercheurs et les décideurs qui suivent les tendances en matière de nutrition et de santé ; les synthèses de ces données aident à orienter les directives, la surveillance et les priorités de recherche.",
+          "title": "Un numéro spécial résume 24 ans de résultats nutritionnels issus de la NHANES",
+          "summary": "Un numéro spécial de Current Developments in Nutrition compile des analyses issues de 24 années de données NHANES, offrant des perspectives consolidées sur les habitudes alimentaires, le statut en nutriments et les tendances de santé associées dans la population américaine.",
+          "whyItMatters": "La NHANES est une base de données fondamentale pour suivre la nutrition et la santé au fil du temps ; une synthèse dédiée aide les chercheurs et les décideurs à repérer les tendances et les lacunes.",
           "takeaways": [
-            "Le numéro spécial rassemble des analyses et des perspectives issues de 24 ans de données NHANES sur la nutrition.",
-            "Les données longitudinales et représentatives au niveau national sont précieuses pour repérer les tendances alimentaires et les résultats de santé associés.",
-            "Les chercheurs et les responsables politiques utilisent les résultats NHANES pour informer les recommandations alimentaires et les stratégies de santé publique.",
-            "Le rapport constitue une ressource pour ceux qui s’intéressent à la surveillance nutritionnelle de la population et à la recherche appliquée."
+            "Le numéro spécial rassemble des recherches à long terme basées sur la NHANES sur l'alimentation et les issues de santé liées à la nutrition.",
+            "Ces synthèses peuvent éclairer la surveillance, les priorités de recherche et les politiques de santé publique.",
+            "La NHANES reste une ressource clé pour comprendre la nutrition des populations et son évolution sur plusieurs décennies."
           ]
         },
         "de": {
-          "title": "Sonderausgabe einer Fachzeitschrift hebt über zwei Jahrzehnte NHANES‑Ernährungsdaten hervor",
-          "summary": "Current Developments in Nutrition veröffentlichte eine Sonderausgabe, die sich auf 24 Jahre NHANES‑Ernährungsdaten konzentriert und zeigt, wie die langjährige US‑Erhebung dazu beiträgt, Ernährungsgewohnheiten, Nährstoffstatus und Trends der Bevölkerungsgesundheit zu verstehen.",
-          "whyItMatters": "NHANES liefert eine wichtige Datenbasis für Forschende und politische Entscheidungsträger zur Verfolgung von Ernährungs‑ und Gesundheitstrends über die Zeit; Zusammenstellungen dieser Daten helfen, Leitlinien, Überwachung und Forschungsprioritäten zu gestalten.",
+          "title": "Sonderausgabe fasst 24 Jahre NHANES‑Ergebnisse zur Ernährung zusammen",
+          "summary": "Eine spezielle Ausgabe von Current Developments in Nutrition bündelt Analysen aus 24 Jahren NHANES‑Daten und bietet konsolidierte Einsichten in Ernährungsgewohnheiten, Nährstoffstatus und zugehörige Gesundheitstrends in der US‑Bevölkerung.",
+          "whyItMatters": "NHANES ist ein grundlegender Datensatz zur Verfolgung von Ernährung und Gesundheit über die Zeit; eine fokussierte Synthese hilft Forschern und Entscheidungsträgern, Trends und Lücken zu erkennen.",
           "takeaways": [
-            "Die Sonderausgabe fasst Analysen und Erkenntnisse aus 24 Jahren NHANES‑Ernährungsdaten zusammen.",
-            "Längsschnittlich repräsentative Daten sind wertvoll, um Trends in Ernährung und damit verbundenen Gesundheitsergebnissen zu erkennen.",
-            "Forschende und politische Entscheidungsträger nutzen NHANES‑Ergebnisse, um Ernährungsempfehlungen und öffentliche Gesundheitsstrategien zu informieren.",
-            "Der Bericht ist eine Ressource für Interessierte an Bevölkerungs‑Ernährungsüberwachung und angewandter Forschung."
+            "Die Sonderausgabe führt langfristige, auf NHANES basierende Forschungsarbeiten zu Ernährung und ernährungsbezogenen Gesundheits‑ergebnissen zusammen.",
+            "Solche Synthesen können Überwachung, Forschungsprioritäten und Gesundheitspolitik informieren.",
+            "NHANES bleibt eine zentrale Ressource zum Verständnis von Bevölkerungsnährung und Veränderungen über Jahrzehnte."
           ]
         },
         "pt-br": {
-          "title": "Edição especial destaca mais de duas décadas de dados nutricionais do NHANES",
-          "summary": "A revista Current Developments in Nutrition publicou uma edição especial focada em 24 anos de dados nutricionais do NHANES, mostrando como a pesquisa de longa duração dos EUA contribui para entender padrões alimentares, status de nutrientes e tendências de saúde populacional.",
-          "whyItMatters": "O NHANES fornece uma base de evidências essencial para pesquisadores e formuladores de políticas que acompanham tendências de nutrição e saúde ao longo do tempo; sínteses desses dados ajudam a moldar diretrizes, vigilância e prioridades de pesquisa.",
+          "title": "Edição especial resume 24 anos de achados nutricionais da NHANES",
+          "summary": "Uma edição dedicada do Current Developments in Nutrition compila análises de 24 anos de dados da NHANES, oferecendo insights consolidados sobre padrões alimentares, estado nutricional e tendências de saúde relacionadas na população dos EUA.",
+          "whyItMatters": "A NHANES é um conjunto de dados fundamental para acompanhar nutrição e saúde ao longo do tempo; uma síntese focada ajuda pesquisadores e formuladores de políticas a identificar tendências e lacunas.",
           "takeaways": [
-            "A edição especial reúne análises e insights extraídos de 24 anos de dados nutricionais do NHANES.",
-            "Dados longitudinais e representativos nacionalmente são valiosos para identificar tendências na dieta e em desfechos de saúde relacionados.",
-            "Pesquisadores e formuladores de políticas usam os achados do NHANES para informar recomendações dietéticas e estratégias de saúde pública.",
-            "O relatório é um recurso para quem se interessa por vigilância nutricional populacional e pesquisa aplicada."
+            "A edição especial reúne pesquisas de longo prazo baseadas na NHANES sobre dieta e desfechos de saúde relacionados à nutrição.",
+            "Essas sínteses podem orientar vigilância, prioridades de pesquisa e políticas públicas de saúde.",
+            "A NHANES continua sendo um recurso-chave para entender a nutrição populacional e suas mudanças ao longo de décadas."
           ]
         },
         "hu": {
-          "title": "Különszám mutat be több mint két évtizednyi NHANES‑adatot a táplálkozásról",
-          "summary": "A Current Developments in Nutrition egy különszámot tett közzé, amely a NHANES táplálkozási adatok 24 évére koncentrál, bemutatva, hogyan járul hozzá a hosszú távú amerikai felmérés az étrendi minták, tápanyag‑állapot és népességi egészségtrendek megértéséhez.",
-          "whyItMatters": "A NHANES kulcsfontosságú bizonyítékbázist szolgáltat a kutatók és döntéshozók számára a táplálkozás és egészség trendjeinek nyomon követéséhez; ezen adatok szintetizálása segít irányítani iránymutatásokat, megfigyelést és kutatási prioritásokat.",
+          "title": "Külön szám összegzi 24 év NHANES táplálkozási eredményeit",
+          "summary": "A Current Developments in Nutrition című kiadvány külön kötete 24 év NHANES-adat elemzéseit gyűjti össze, és átfogó betekintést nyújt az étrendi mintázatokba, a mikrotápanyag-ellátottságba és a kapcsolódó egészségügyi trendekbe az Egyesült Államok népességében.",
+          "whyItMatters": "A NHANES alapvető adatforrás az időbeli táplálkozás és egészség nyomon követésére; egy célzott összegzés segíti a kutatókat és döntéshozókat a trendek és hiányosságok felismerésében.",
           "takeaways": [
-            "A különszám elemzéseket és betekintéseket gyűjt össze 24 év NHANES táplálkozási adatából.",
-            "A longitudinális, nemzeti reprezentatív adatok értékesek az étrendi és kapcsolódó egészségügyi trendek felismeréséhez.",
-            "A kutatók és döntéshozók a NHANES‑eredményeket használják táplálkozási ajánlások és közegészségügyi stratégiák kialakításához.",
-            "A jelentés forrást jelent azoknak, akiket a népességi táplálkozás megfigyelése és alkalmazott kutatás érdekel."
+            "A külön szám összegyűjti a hosszú távú, NHANES-alapú kutatásokat az étrendről és a táplálkozással kapcsolatos egészségi eredményekről.",
+            "Az ilyen összefoglalók tájékoztathatják a felügyeletet, a kutatási prioritásokat és a közegészségügyi politikát.",
+            "A NHANES továbbra is kulcsfontosságú forrás a populációs táplálkozás és a több évtizedes változások megértéséhez."
           ]
         },
         "ar": {
-          "title": "عدد خاص يبرز أكثر من عقدين من بيانات تغذية NHANES",
-          "summary": "نشرت مجلة Current Developments in Nutrition عددًا خاصًا ركّز على 24 عامًا من بيانات تغذية NHANES، مستعرضةً كيف يساهم هذا المسح الأمريكي طويل الأمد في فهم أنماط النظام الغذائي، حالة المغذيات، واتجاهات صحة السكان.",
-          "whyItMatters": "يوفر NHANES قاعدة أدلة أساسية للباحثين وصنّاع السياسات لتتبع اتجاهات التغذية والصحة بمرور الوقت؛ وتساعد تجميعات هذه البيانات في تشكيل الإرشادات، والرصد، وأولويات البحث.",
+          "title": "عدد خاص يلخّص 24 عامًا من نتائج التغذية من NHANES",
+          "summary": "يجمع إصدار مخصص من مجلة Current Developments in Nutrition تحليلات مستمدة من 24 عامًا من بيانات NHANES، مقدّمًا رؤى موحّدة حول أنماط الطعام وحالة المغذيات والاتجاهات الصحية ذات الصلة في سكان الولايات المتحدة.",
+          "whyItMatters": "يعد NHANES مجموعة بيانات أساسية لتتبع التغذية والصحة عبر الزمن؛ وسيساعد التركيز في هذا العدد الباحثين وصانعي السياسات على رصد الاتجاهات والفراغات.",
           "takeaways": [
-            "يجمع العدد الخاص تحليلات ورؤى مستمدة من 24 سنة من بيانات تغذية NHANES.",
-            "البيانات الطولية الممثلة على المستوى الوطني قيمة لاكتشاف اتجاهات في النظام الغذائي والنتائج الصحية المرتبطة.",
-            "يستخدم الباحثون وصنّاع السياسات نتائج NHANES لإبلاغ التوصيات الغذائية واستراتيجيات الصحة العامة.",
-            "التقرير مصدر لمن يهتمون بمراقبة تغذية السكان والبحوث التطبيقية."
+            "يجمع العدد الخاص أبحاثًا طويلة المدى المعتمدة على NHANES حول النظام الغذائي والنتائج الصحية المتعلقة بالتغذية.",
+            "يمكن أن تُسهم مثل هذه المراجعات في توجيه المراقبة وأولويات البحث والسياسات العامة للصحة.",
+            "يبقى NHANES مصدرًا رئيسيًا لفهم تغذية السكان والتغيرات عبر عقود."
           ]
         }
       },
-      "generatedAt": "2026-09-13T06:51:23.494Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionorg-nhanes-2026-09-09",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-nhanes-2026-09-09-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-nhanes-2026-09-09-news.webp",
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionorg-nhanes-20260909",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-nhanes-20260909-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionorg-nhanes-20260909-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Special journal issue highlights two decades-plus of NHANES nutrition data.\nStory summary: Current Developments in Nutrition published a special issue focused on 24 years of NHANES nutrition data, showcasing how the long‑running U.S. survey contributes to understanding dietary patterns, nutrient status, and population health trends..\nCategory: nutrition research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Special issue summarizes 24 years of NHANES nutrition findings.\nStory summary: A dedicated edition of Current Developments in Nutrition compiles analyses from 24 years of NHANES data, offering consolidated insights into dietary patterns, nutrient status, and related health trends in the U.S. population..\nCategory: nutrition research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "eating-window-korea-2026",
@@ -5828,111 +6559,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Blocking a single immune receptor restored cellular cleanup and improved aging markers in mice.\nStory summary: A mouse study reports that inhibiting one receptor revived immune clearance of damaged, inflammation-promoting cells. Treated animals showed reduced inflammation and improvements in organs, muscle function, and memory relative to controls..\nCategory: Aging Research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a10",
-      "category": "Food systems",
+      "id": "gainhealth-agra-partnership-20260903",
+      "category": "global nutrition",
       "sourceName": "gainhealth.org",
       "sourceUrl": "https://www.gainhealth.org/news-releases/closing-gap-between-africas-agri-farms-and-its-plate-gain-and-agra-strengthen",
       "sourceTitle": "Closing the gap between Africa’s agri-farms and its plate: GAIN and AGRA strengthen partnership",
       "publishedAt": "Thu, 03 Sep 2026 07:39:12 +0000",
       "languages": {
         "en": {
-          "title": "Partnership aims to shift African food systems toward more nutrition-centric outcomes",
-          "summary": "GAIN and AGRA signed a letter of intent to collaborate on aligning agricultural production with improved access to safe, affordable, nutritious diets across Africa, addressing the gap between increased yields and limited access to healthy foods.",
-          "whyItMatters": "Efforts that connect farm-level production with nutrition outcomes can help reduce diet-related malnutrition and improve public health, but implementation and measuring impact will determine success.",
+          "title": "GAIN and AGRA formalize collaboration to make African food systems more nutrition-focused",
+          "summary": "GAIN and AGRA signed a Letter of Intent to work together on shifting African agricultural systems toward producing and delivering safer, more affordable, and nutritious foods so that increased yields translate into healthier diets.",
+          "whyItMatters": "Aligning agricultural practices with nutrition goals aims to reduce the gap between food production and access to healthy diets for millions of households.",
           "takeaways": [
-            "The partnership seeks to make food systems more nutrition-focused rather than solely yield-driven.",
-            "Millions of African households still lack access to safe, affordable, nutritious food despite production gains.",
-            "Successful change will require coordinated policies, supply-chain shifts, and monitoring of nutrition outcomes."
+            "The partnership seeks to convert agricultural gains into improved diet quality across African populations.",
+            "Efforts will emphasize affordability, safety, and accessibility of nutritious foods for vulnerable households.",
+            "Success will depend on coordinated actions across production, supply chains, and policy environments."
           ]
         },
         "es": {
-          "title": "Asociación busca orientar los sistemas alimentarios africanos hacia resultados más centrados en la nutrición",
-          "summary": "GAIN y AGRA firmaron una carta de intención para colaborar en alinear la producción agrícola con un mejor acceso a dietas seguras, asequibles y nutritivas en África, abordando la brecha entre el aumento de rendimientos y el acceso limitado a alimentos saludables.",
-          "whyItMatters": "Los esfuerzos que conectan la producción a nivel de granja con resultados nutricionales pueden ayudar a reducir la malnutrición relacionada con la dieta y mejorar la salud pública, pero el éxito dependerá de la implementación y de medir el impacto.",
+          "title": "GAIN y AGRA formalizan colaboración para orientar los sistemas alimentarios africanos hacia la nutrición",
+          "summary": "GAIN y AGRA firmaron una carta de intención para trabajar juntos en la transformación de los sistemas agrícolas africanos hacia la producción y entrega de alimentos más seguros, asequibles y nutritivos, para que los aumentos de rendimiento se traduzcan en dietas más saludables.",
+          "whyItMatters": "Alinear las prácticas agrícolas con objetivos nutricionales pretende reducir la brecha entre la producción de alimentos y el acceso a dietas saludables para millones de hogares.",
           "takeaways": [
-            "La asociación busca que los sistemas alimentarios se centren más en la nutrición que solo en el rendimiento de producción.",
-            "Millones de hogares africanos aún carecen de acceso a alimentos seguros, asequibles y nutritivos a pesar del aumento de la producción.",
-            "El cambio exitoso requerirá políticas coordinadas, modificaciones en la cadena de suministro y monitoreo de los resultados nutricionales."
+            "La asociación busca convertir las mejoras agrícolas en una mejor calidad dietética en las poblaciones africanas.",
+            "Los esfuerzos harán énfasis en la asequibilidad, seguridad y accesibilidad de alimentos nutritivos para hogares vulnerables.",
+            "El éxito dependerá de acciones coordinadas a lo largo de la producción, las cadenas de suministro y los entornos políticos."
           ]
         },
         "ru": {
-          "title": "Партнёрство стремится сместить африканские продсистемы в сторону более ориентированных на питание результатов",
-          "summary": "GAIN и AGRA подписали письмо о намерениях о сотрудничестве для согласования сельскохозяйственного производства с улучшением доступа к безопасным, доступным и питательным рационом по всей Африке, решая разрыв между ростом производства и ограниченным доступом к здоровой пище.",
-          "whyItMatters": "Усилия по связыванию производства на уровне ферм с питательными результатами могут помочь сократить проблемы, связанные с диетной формой недоедания, и улучшить общественное здоровье, но успех будет зависеть от реализации и измерения воздействия.",
+          "title": "GAIN и AGRA формализуют сотрудничество для повышения роли питания в продовольственных системах Африки",
+          "summary": "GAIN и AGRA подписали меморандум о намерениях о совместной работе по перенаправлению африканских сельскохозяйственных систем на производство и доставку более безопасных, доступных и питательных продуктов, чтобы рост урожайности трансформировался в более здоровое питание.",
+          "whyItMatters": "Согласование сельскохозяйственных практик с целями в области питания нацелено на уменьшение разрыва между производством продуктов и доступом к здоровому рациону для миллионов домохозяйств.",
           "takeaways": [
-            "Партнёрство стремится сделать продсистемы более ориентированными на питание, а не только на урожайность.",
-            "Миллионы африканских домохозяйств по‑прежнему не имеют доступа к безопасной, доступной и питательной пище, несмотря на рост производства.",
-            "Для успешных изменений потребуются скоординированные политики, сдвиги в цепочках поставок и мониторинг показателей питания."
+            "Партнёрство стремится превратить сельскохозяйственные достижения в улучшение качества питания населения Африки.",
+            "Усилия будут делать акцент на доступности, безопасности и доступе к питательным продуктам для уязвимых домохозяйств.",
+            "Успех будет зависеть от скоординированных действий в производстве, цепочках поставок и политической среде."
           ]
         },
         "uk": {
-          "title": "Партнерство має на меті орієнтувати африканські продовольчі системи на харчову цінність",
-          "summary": "GAIN та AGRA підписали лист про наміри співпрацювати над узгодженням сільськогосподарського виробництва з поліпшеним доступом до безпечних, доступних і поживних раціонів по всій Африці, вирішуючи розрив між зростанням врожаїв і обмеженим доступом до здорової їжі.",
-          "whyItMatters": "Зусилля, що поєднують виробництво на рівні ферм із результатами щодо харчування, можуть допомогти зменшити харчову незбалансованість і покращити громадське здоров'я, але успіх залежатиме від реалізації та вимірювання впливу.",
+          "title": "GAIN і AGRA формалізують співпрацю для зроблення африканських продовольчих систем більш орієнтованими на харчування",
+          "summary": "GAIN і AGRA підписали Лист про наміри співпрацювати над перетворенням африканських сільськогосподарських систем у бік виробництва та доставки безпечніших, доступніших і більш поживних продуктів, щоб зростання врожаїв трансформувалося у більш здорове харчування.",
+          "whyItMatters": "Узгодження практик сільського господарства з цілями харчування спрямоване на зменшення розриву між виробництвом їжі та доступом до здорових дієт для мільйонів домогосподарств.",
           "takeaways": [
-            "Партнерство прагне зробити продовольчі системи більш орієнтованими на харчування, а не лише на врожайність.",
-            "Мільйони африканських домогосподарств досі мають обмежений доступ до безпечних, доступних і поживних продуктів попри зростання виробництва.",
-            "Успішні зміни вимагатимуть скоординованої політики, зрушень у ланцюгах постачання та моніторингу результатів щодо харчування."
+            "Партнерство має на меті перетворити сільськогосподарські досягнення на покращення якості раціону серед африканських населень.",
+            "Зусилля наголошуватимуть на доступності, безпеці та доступності поживних продуктів для вразливих домогосподарств.",
+            "Успіх залежатиме від координації дій у виробництві, ланцюгах постачання та політичному середовищі."
           ]
         },
         "fr": {
-          "title": "Un partenariat vise à orienter les systèmes alimentaires africains vers des résultats axés sur la nutrition",
-          "summary": "GAIN et AGRA ont signé une lettre d'intention pour collaborer afin d'aligner la production agricole sur un meilleur accès à des régimes alimentaires sûrs, abordables et nutritifs à travers l'Afrique, en s'attaquant au fossé entre l'augmentation des rendements et l'accès limité à des aliments sains.",
-          "whyItMatters": "Des actions reliant la production agricole aux résultats nutritionnels peuvent contribuer à réduire la malnutrition liée à l'alimentation et améliorer la santé publique, mais la mise en œuvre et l'évaluation de l'impact détermineront le succès.",
+          "title": "GAIN et AGRA officialisent une collaboration pour rendre les systèmes alimentaires africains plus axés sur la nutrition",
+          "summary": "GAIN et AGRA ont signé une lettre d'intention pour travailler ensemble à l'orientation des systèmes agricoles africains vers la production et la fourniture d'aliments plus sûrs, abordables et nutritifs afin que l'augmentation des rendements se traduise par des régimes plus sains.",
+          "whyItMatters": "Aligner les pratiques agricoles sur des objectifs nutritionnels vise à réduire l'écart entre la production alimentaire et l'accès à des régimes sains pour des millions de ménages.",
           "takeaways": [
-            "Le partenariat cherche à rendre les systèmes alimentaires davantage axés sur la nutrition plutôt que uniquement sur le rendement.",
-            "Des millions de ménages africains n'ont toujours pas accès à des aliments sûrs, abordables et nutritifs malgré des gains de production.",
-            "Un changement réussi nécessitera des politiques coordonnées, des ajustements des chaînes d'approvisionnement et un suivi des résultats nutritionnels."
+            "Le partenariat cherche à convertir les gains agricoles en amélioration de la qualité des régimes au sein des populations africaines.",
+            "Les efforts mettront l'accent sur l'abordabilité, la sécurité et l'accessibilité des aliments nutritifs pour les ménages vulnérables.",
+            "La réussite dépendra d'actions coordonnées entre la production, les chaînes d'approvisionnement et les environnements politiques."
           ]
         },
         "de": {
-          "title": "Partnerschaft zielt darauf ab, afrikanische Ernährungssysteme stärker ernährungszentriert auszurichten",
-          "summary": "GAIN und AGRA unterzeichneten eine Absichtserklärung zur Zusammenarbeit, um die landwirtschaftliche Produktion mit verbessertem Zugang zu sicheren, erschwinglichen und nährstoffreichen Ernährungsweisen in Afrika in Einklang zu bringen und die Lücke zwischen steigenden Erträgen und begrenztem Zugang zu gesunden Lebensmitteln anzugehen.",
-          "whyItMatters": "Bemühungen, die Produktion auf Ernährungsergebnisse auszurichten, können helfen, ernährungsbedingte Unterversorgung zu reduzieren und die öffentliche Gesundheit zu verbessern; Umsetzung und Messung der Auswirkungen werden jedoch über den Erfolg entscheiden.",
+          "title": "GAIN und AGRA formalisieren Zusammenarbeit, um afrikanische Ernährungssysteme ernährungsorientierter zu gestalten",
+          "summary": "GAIN und AGRA unterzeichneten eine Absichtserklärung zur Zusammenarbeit, um afrikanische Landwirtschaftssysteme stärker auf die Produktion und Lieferung sicherer, erschwinglicher und nahrhafter Lebensmittel auszurichten, sodass Ertragssteigerungen in gesündere Ernährung übersetzt werden.",
+          "whyItMatters": "Die Ausrichtung landwirtschaftlicher Praktiken an Ernährungszielen zielt darauf ab, die Lücke zwischen Nahrungsmittelproduktion und dem Zugang zu gesunden Ernährungsweisen für Millionen von Haushalten zu verringern.",
           "takeaways": [
-            "Die Partnerschaft zielt darauf ab, Lebensmittelsysteme eher ernährungsorientiert als ausschließlich ertragsorientiert zu gestalten.",
-            "Millionen afrikanischer Haushalte haben trotz Produktionssteigerungen weiterhin keinen Zugang zu sicheren, erschwinglichen, nährstoffreichen Lebensmitteln.",
-            "Erfolgreiche Veränderungen erfordern koordinierte Politiken, Anpassungen in der Lieferkette und Monitoring der Ernährungsergebnisse."
+            "Die Partnerschaft will landwirtschaftliche Gewinne in eine verbesserte Ernährungsqualität für afrikanische Bevölkerungen ummünzen.",
+            "Die Bemühungen werden Bezahlbarkeit, Sicherheit und Zugänglichkeit nahrhafter Lebensmittel für verletzliche Haushalte betonen.",
+            "Erfolg hängt von koordinierten Maßnahmen entlang Produktion, Lieferketten und politischen Rahmenbedingungen ab."
           ]
         },
         "pt-br": {
-          "title": "Parceria busca direcionar sistemas alimentares africanos para resultados mais centrados na nutrição",
-          "summary": "A GAIN e a AGRA assinaram uma carta de intenções para colaborar no alinhamento da produção agrícola com o acesso melhorado a dietas seguras, acessíveis e nutritivas em toda a África, abordando a lacuna entre o aumento da produção e o acesso limitado a alimentos saudáveis.",
-          "whyItMatters": "Esforços que conectam a produção no campo com resultados nutricionais podem ajudar a reduzir a desnutrição relacionada à dieta e melhorar a saúde pública, mas a implementação e a medição do impacto determinarão o sucesso.",
+          "title": "GAIN e AGRA formalizam parceria para tornar sistemas alimentares africanos mais focados na nutrição",
+          "summary": "GAIN e AGRA assinaram uma Carta de Intenções para trabalhar juntas na mudança dos sistemas agrícolas africanos rumo à produção e entrega de alimentos mais seguros, acessíveis e nutritivos, de modo que aumentos de produtividade se traduzam em dietas mais saudáveis.",
+          "whyItMatters": "Alinhar práticas agrícolas com objetivos de nutrição visa reduzir a lacuna entre produção de alimentos e acesso a dietas saudáveis para milhões de famílias.",
           "takeaways": [
-            "A parceria busca tornar os sistemas alimentares mais focados na nutrição, em vez de apenas orientados por produtividade.",
-            "Milhões de lares africanos ainda não têm acesso a alimentos seguros, acessíveis e nutritivos, apesar dos ganhos de produção.",
-            "Mudanças bem‑sucedidas exigirão políticas coordenadas, ajustes nas cadeias de suprimento e monitoramento dos desfechos nutricionais."
+            "A parceria busca converter ganhos agrícolas em melhor qualidade da dieta nas populações africanas.",
+            "Os esforços enfatizarão acessibilidade econômica, segurança e disponibilidade de alimentos nutritivos para famílias vulneráveis.",
+            "O sucesso dependerá de ações coordenadas entre produção, cadeias de abastecimento e ambientes políticos."
           ]
         },
         "hu": {
-          "title": "Partnerség célja az afrikai élelmezési rendszerek táplálkozás‑központúbbá tétele",
-          "summary": "A GAIN és az AGRA együttműködési nyilatkozatot írt alá, amely a mezőgazdasági termelés összehangolását célozza a biztonságos, megfizethető és tápláló étrendekhez való jobb hozzáféréssel Afrikában, hogy áthidalják a terméshozam‑növekedés és a tápláló élelmiszerekhez való korlátozott hozzáférés közötti szakadékot.",
-          "whyItMatters": "Az olyan kezdeményezések, amelyek a gazdálkodási szintet összekapcsolják a táplálkozási kimenetelekkel, segíthetnek csökkenteni az étrenddel összefüggő alultápláltságot és javítani a közegészséget, de a megvalósítás és a hatásmérés fogja eldönteni a sikert.",
+          "title": "A GAIN és az AGRA formálisan együttműködik az afrikai élelmiszer-rendszerek táplálkozásközpontúságáért",
+          "summary": "A GAIN és az AGRA aláírt egy szándéknyilatkozatot, hogy együtt dolgozzanak az afrikai mezőgazdasági rendszerek átalakításán, céljuk a biztonságosabb, megfizethetőbb és táplálóbb élelmiszerek termelésének és eljuttatásának elősegítése, hogy a termésnövekedés egészségesebb étrendre váljon át.",
+          "whyItMatters": "A mezőgazdasági gyakorlatok táplálkozási célokkal való összehangolása csökkentheti a termelés és az egészséges étrendhez való hozzáférés közötti szakadékot milliók számára.",
           "takeaways": [
-            "A partnerség célja, hogy a táplálkozásra helyezze a hangsúlyt a terméshozam‑központúság helyett.",
-            "Afrika millióihoz tartozó háztartásoknak továbbra sincs hozzáférése biztonságos, megfizethető, tápláló élelmiszerhez a termelési nyereségek ellenére.",
-            "A sikerhez koordinált politikákra, ellátási lánc‑változásokra és a táplálkozási eredmények monitorozására lesz szükség."
+            "A partnerség célja, hogy a mezőgazdasági eredményeket jobb étrendi minőségre fordítsa át az afrikai népesség körében.",
+            "A törekvések az ár-értékre, a biztonságra és a tápláló élelmiszerek hozzáférhetőségére helyezik a hangsúlyt a sérülékeny háztartások számára.",
+            "A siker koordinált fellépést igényel a termelés, az ellátási láncok és a szabályozási környezet területén."
           ]
         },
         "ar": {
-          "title": "شراكة تهدف إلى نقل أنظمة الغذاء الأفريقية نحو نتائج أكثر تركيزًا على التغذية",
-          "summary": "وقّعت مؤسستا GAIN وAGRA رسالة نية للتعاون من أجل مواءمة الإنتاج الزراعي مع تحسين الوصول إلى حميات آمنة وميسورة ومغذية في أنحاء أفريقيا، لمعالجة الفجوة بين زيادة المحاصيل والوصول المحدود إلى الأغذية الصحية.",
-          "whyItMatters": "يمكن للجهود التي تربط مستوى المزرعة بنتائج التغذية أن تساعد في تقليل المشكلات الغذائية المتعلقة بالنظام الغذائي وتحسين الصحة العامة، لكن التنفيذ وقياس الأثر هما ما سيحددان النجاح.",
+          "title": "GAIN وAGRA يؤطّران شراكتهما لتعزيز التركيز على التغذية في نظم الغذاء الأفريقية",
+          "summary": "وقّعت GAIN وAGRA خطاب نية للعمل معًا على تحويل نظم الزراعة الأفريقية نحو إنتاج وتوفير أطعمة أكثر أمانًا وميسورة التكلفة ومغذية، بحيث تترجم زيادة المحاصيل إلى حميات غذائية أكثر صحة.",
+          "whyItMatters": "محاذاة الممارسات الزراعية مع أهداف التغذية تهدف إلى تقليل الفجوة بين الإنتاج الغذائي والوصول إلى أنظمة غذائية صحية لملايين الأسر.",
           "takeaways": [
-            "تسعى الشراكة إلى جعل نظم الغذاء أكثر تركيزًا على التغذية بدلًا من التركيز فقط على الغلة.",
-            "لا يزال ملايين الأسر الأفريقية يفتقرون إلى الوصول إلى غذاء آمن ومغذٍ وبأسعار معقولة رغم مكاسب الإنتاج.",
-            "سيتطلب التغيير الناجح سياسات منسقة وتحولات في سلاسل الإمداد ومراقبة لنتائج التغذية."
+            "تسعى الشراكة إلى تحويل المكاسب الزراعية إلى تحسين جودة النظام الغذائي بين السكان الأفارقة.",
+            "ستركز الجهود على قابلية التحمل المالي والسلامة وسهولة الحصول على الأطعمة المغذية للأسر الضعيفة.",
+            "يعتمد النجاح على تنسيق الإجراءات عبر الإنتاج وسلاسل الإمداد وبيئات السياسات."
           ]
         }
       },
-      "generatedAt": "2026-09-14T07:03:02.592Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a10",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=gainhealth-agra-partnership-20260903",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-agra-partnership-20260903-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-agra-partnership-20260903-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Partnership aims to shift African food systems toward more nutrition-centric outcomes.\nStory summary: GAIN and AGRA signed a letter of intent to collaborate on aligning agricultural production with improved access to safe, affordable, nutritious diets across Africa, addressing the gap between increased yields and limited access to healthy foods..\nCategory: Food systems.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: GAIN and AGRA formalize collaboration to make African food systems more nutrition-focused.\nStory summary: GAIN and AGRA signed a Letter of Intent to work together on shifting African agricultural systems toward producing and delivering safer, more affordable, and nutritious foods so that increased yields translate into healthier diets..\nCategory: global nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "multimorbidity-sprintt-2026-08-31",
@@ -82648,6 +83379,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-09-15-motivation-1-story-1",
+      "category": "planning",
+      "languages": {
+        "en": {
+          "title": "Emma plans ahead",
+          "story": "Emma works full time and used to skip lunch or grab something on the run. She began spending ten minutes each evening planning and logging her next day’s lunch in the app. That small habit removed the guesswork, saved time, and helped her notice which meals kept her feeling steady through the afternoon. Tracking doesn’t have to be perfect—it's a simple, gentle way to stay organized and make choices that fit your day.",
+          "habit": "Plan and log your lunch the night before.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Sofía planifica con antelación",
+          "story": "Sofía trabaja a tiempo completo y antes solía saltarse el almuerzo o comprar algo rápido. Empezó a dedicar diez minutos cada noche a planificar y registrar el almuerzo del día siguiente en la app. Ese pequeño hábito eliminó las dudas, le ahorró tiempo y le ayudó a ver qué comidas le mantenían con energía por la tarde. Registrar no tiene que ser perfecto: es una forma sencilla y amable de mantenerse organizado y tomar decisiones acordes a tu día.",
+          "habit": "Planifica y registra tu almuerzo la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Ольга планирует заранее",
+          "story": "Ольга работает полный день и раньше часто пропускала обед или брала еду на бегу. Она стала тратить по десять минут вечером, чтобы спланировать и записать обед на следующий день в приложении. Это небольшое действие убрало догадки, сэкономило время и помогло понять, какие блюда поддерживают силы во второй половине дня. Ведение учёта не должно быть идеальным — это простой способ быть организованнее и делать выбор, который подходит именно вам.",
+          "habit": "Планируйте и записывайте обед накануне вечером.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать уже сегодня."
+        },
+        "uk": {
+          "title": "Олена планує наперед",
+          "story": "Олена працює повний день і раніше часто пропускала обід або брала щось на ходу. Вона почала витрачати десять хвилин щоночі, щоб спланувати й занотувати обід на наступний день у додатку. Ця невеличка звичка усунула невизначеність, заощадила час і допомогла помітити, які страви дають стабільну енергію вдень. Вести облік не треба ідеально — це простий спосіб бути організованішим і робити вибір, який пасує вашому дню.",
+          "habit": "Сплануйте й занотуйте обід наперед, ввечері.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть реєструвати сьогодні."
+        },
+        "fr": {
+          "title": "Lucie anticipe ses repas",
+          "story": "Lucie travaille à plein temps et avait l’habitude de sauter le déjeuner ou d’acheter quelque chose au dernier moment. Elle a commencé à consacrer dix minutes chaque soir à planifier et enregistrer son déjeuner du lendemain dans l’application. Cette petite routine a supprimé l’incertitude, lui a fait gagner du temps et lui a permis de repérer quels repas la maintenaient en forme l’après-midi. Le suivi n’a pas à être parfait — c’est un moyen simple et bienveillant de rester organisé et de faire des choix qui vous conviennent.",
+          "habit": "Planifiez et enregistrez votre déjeuner la veille au soir.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd’hui."
+        },
+        "de": {
+          "title": "Maja plant voraus",
+          "story": "Maja arbeitet Vollzeit und hat früher oft das Mittagessen ausgelassen oder etwas unterwegs gekauft. Sie begann, jeden Abend zehn Minuten zu investieren, um das Mittagessen für den nächsten Tag in der App zu planen und zu notieren. Diese kleine Gewohnheit nahm ihr die Unsicherheit, sparte Zeit und half ihr zu erkennen, welche Mahlzeiten sie nachmittags stabil halten. Tracking muss nicht perfekt sein – es ist ein einfacher, freundlicher Weg, organisiert zu bleiben und Entscheidungen zu treffen, die zu deinem Alltag passen.",
+          "habit": "Plane und notiere dein Mittagessen am Abend zuvor.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Mariana planeja com antecedência",
+          "story": "Mariana trabalha em tempo integral e costumava pular o almoço ou comprar algo correndo. Ela começou a dedicar dez minutos toda noite para planejar e registrar o almoço do dia seguinte no app. Esse pequeno hábito tirou as dúvidas, economizou tempo e a ajudou a perceber quais refeições mantinham sua energia à tarde. Registrar não precisa ser perfeito — é uma forma simples e gentil de se organizar e fazer escolhas que se encaixam no seu dia.",
+          "habit": "Planeje e registre seu almoço na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Anna előre tervez",
+          "story": "Anna teljes állásban dolgozik, és korábban gyakran kihagyta az ebédet vagy útközben vett valamit. Elkezdett minden este tíz percet szánni arra, hogy megtervezze és beírja a következő napi ebédjét az alkalmazásba. Ez a kis szokás megszüntette a találgatást, időt takarított meg, és segített észrevenni, mely ételek tartják egyensúlyban délutánonként. A naplózásnak nem kell tökéletesnek lennie — ez egy egyszerű, támogató módja annak, hogy rendezettebb legyél és tudatosabban válassz.",
+          "habit": "Tervezd meg és jegyezd fel az ebéded előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "سارة تخطط مسبقاً",
+          "story": "سارة تعمل بدوام كامل وكانت تتخطى الغداء أو تشتري شيئاً على عجل. بدأت تقضي عشر دقائق كل مساء لتخطيط وتسجيل غداء اليوم التالي في التطبيق. هذه العادة الصغيرة أنهت التخمين، وفرت وقتاً، وساعدتها على ملاحظة الوجبات التي تمنحها استقراراً خلال فترة ما بعد الظهر. لا يجب أن يكون التتبع مثالياً — إنه طريقة بسيطة ولطيفة للبقاء منظماً واتخاذ خيارات تتناسب مع يومك.",
+          "habit": "خطط وسجّل غداءك في الليلة التي تسبقها.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Emma plans ahead.\nStory: Emma works full time and used to skip lunch or grab something on the run. She began spending ten minutes each evening planning and logging her next day’s lunch in the app. That small habit removed the guesswork, saved time, and helped her notice which meals kept her feeling steady through the afternoon. Tracking doesn’t have to be perfect—it's a simple, gentle way to stay organized and make choices that fit your day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-15-motivation-2-story-2",
+      "category": "honesty",
+      "languages": {
+        "en": {
+          "title": "Noah logs honestly",
+          "story": "Noah noticed his evening snacking added up, but instead of judging himself he started logging every bite—chips, tasting spoon, and all. Seeing the full picture helped him spot patterns and try two small swaps he felt comfortable with. Honest logging became a tool, not a test: a way to understand which days felt off and to make gradual adjustments. Over time, tracking gave him clearer choices and less guesswork, without pressure to be perfect.",
+          "habit": "Log every snack for three days.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Javier registra con sinceridad",
+          "story": "Javier se dio cuenta de que sus tentempiés nocturnos sumaban, pero en lugar de culparse empezó a registrar cada bocado: patatas, cucharadas al probar, todo. Ver la imagen completa le ayudó a identificar patrones y probar dos pequeños cambios con los que se sentía cómodo. Registrar con honestidad se convirtió en una herramienta, no en una prueba: una manera de entender qué días le resultaban difíciles y hacer ajustes graduales. Con el tiempo, el seguimiento le dio decisiones más claras y menos conjeturas, sin presión.",
+          "habit": "Registra todos tus snacks durante tres días.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Иван честно фиксирует",
+          "story": "Иван заметил, что вечерние перекусы складываются в заметную часть питания, но вместо того чтобы ругать себя, он стал фиксировать каждый кусочек — чипсы, ложку от готовки и все прочее. Вид всей картины помог найти закономерности и попробовать два небольших изменения, которые ему подошли. Честный учёт стал инструментом, а не испытанием: возможностью понять, какие дни сложнее, и постепенно корректировать привычки. Со временем отслеживание давало более ясные решения и меньше догадок.",
+          "habit": "Записывайте все перекусы в течение трёх дней.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать уже сегодня."
+        },
+        "uk": {
+          "title": "Іван чесно занотовує",
+          "story": "Іван помітив, що вечірні перекуси накопичуються, але замість самосуду він почав записувати кожен шматочок — чіпси, ложечку при приготуванні і все інше. Бачення повної картини допомогло віднайти шаблони і спробувати два невеликі зміни, які йому підходили. Чесні записи стали інструментом, а не випробуванням: способом зрозуміти, які дні вдаються складнішими, і поступово коригувати поведінку. З часом відстеження принесло явніший вибір і менше здогадувань.",
+          "habit": "Записуйте всі перекуси протягом трьох днів.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть реєструвати сьогодні."
+        },
+        "fr": {
+          "title": "Alex note avec franchise",
+          "story": "Alex a constaté que ses grignotages du soir s’accumulaient, mais plutôt que de se juger, il a commencé à noter chaque bouchée — chips, cuillerées de goûter, tout. Voir le tableau complet l’a aidé à repérer des tendances et à tester deux petits ajustements qui lui convenaient. Noter avec honnêteté est devenu un outil, pas un test : un moyen de comprendre les jours difficiles et d’apporter des changements progressifs. Avec le temps, le suivi a apporté plus de clarté et moins d’incertitude, sans pression.",
+          "habit": "Notez tous vos encas pendant trois jours.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd’hui."
+        },
+        "de": {
+          "title": "Noah protokolliert ehrlich",
+          "story": "Noah merkte, dass seine Snacks am Abend sich summierten. Statt sich Vorwürfe zu machen, begann er, jeden Bissen zu protokollieren – Chips, Probierlöffel und alles. Das vollständige Bild half ihm, Muster zu erkennen und zwei kleine Änderungen auszuprobieren, mit denen er sich wohlfühlte. Ehrliches Protokollieren wurde zum Werkzeug, nicht zum Test: eine Möglichkeit, zu verstehen, an welchen Tagen es schwieriger ist, und schrittweise Anpassungen vorzunehmen. Mit der Zeit brachte das Tracking klarere Entscheidungen und weniger Rätselraten.",
+          "habit": "Protokolliere alle Snacks für drei Tage.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Lucas anota com sinceridade",
+          "story": "Lucas percebeu que os lanchinhos da noite estavam somando, mas em vez de se criticar começou a registrar cada mordida — batatas, colheradas ao provar, tudo. Ver o quadro completo o ajudou a identificar padrões e testar duas pequenas mudanças que lhe pareceram confortáveis. Registrar com honestidade virou uma ferramenta, não um teste: uma forma de entender quais dias são mais difíceis e fazer ajustes graduais. Com o tempo, o acompanhamento trouxe escolhas mais claras e menos suposições, sem pressão.",
+          "habit": "Registre todos os lanches por três dias.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Bence őszintén naplóz",
+          "story": "Bence észrevette, hogy az esti nassolások összeadódnak, de ahelyett, hogy hibáztatná magát, elkezdett minden falatot beírni – chipset, kóstolókanalat, mindent. A teljes kép meglátása segített felismerni mintákat, és kipróbálni két kisebb változtatást, ami neki megfelelt. Az őszinte naplózás eszközzé vált, nem próbává: mód arra, hogy megértsd, mely napok nehezebbek, és fokozatosan változtass. Idővel a rögzítés tisztább döntéseket és kevesebb találgatást hozott.",
+          "habit": "Rögzítsd az összes nassolnivalót három napon át.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "أحمد يسجل بصدق",
+          "story": "أحمد لاحظ أن وجباته الخفيفة مساءً تتجمع، لكنه بدل أن يلوم نفسه بدأ بتسجيل كل لقمة — رقائق، ملعقة تذوق، وكل شيء. رؤية الصورة الكاملة ساعدته على اكتشاف أنماط وتجريب تعديلين صغيرين ارتاح لهما. أصبح التسجيل الصادق أداة وليس اختباراً: طريقة لمعرفة الأيام التي يشعر فيها بأنه خارج المسار ولإجراء تعديلات تدريجية. مع الوقت، منحَه التتبع خيارات أوضح وأخَف من التخمين، دون ضغوط.",
+          "habit": "سجّل كل وجباتك الخفيفة لمدة ثلاثة أيام.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Noah logs honestly.\nStory: Noah noticed his evening snacking added up, but instead of judging himself he started logging every bite—chips, tasting spoon, and all. Seeing the full picture helped him spot patterns and try two small swaps he felt comfortable with. Honest logging became a tool, not a test: a way to understand which days felt off and to make gradual adjustments. Over time, tracking gave him clearer choices and less guesswork, without pressure to be perfect..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-15-motivation-3-story-3",
+      "category": "patterns",
+      "languages": {
+        "en": {
+          "title": "Maya spots a trigger",
+          "story": "Maya kept a gentle log of what she ate and when. After a week she noticed a clear pattern: many of her late-night snacks followed stressful afternoon meetings. Instead of blaming herself, she used that insight to try a small, manageable change—making a calming tea after her last call. Tracking helped her connect triggers to choices and test a simple tweak. The point wasn’t perfection but learning what fits her life and trying one change at a time.",
+          "habit": "Note what you eat and when for one week.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Marta detecta un desencadenante",
+          "story": "Marta empezó a llevar un registro suave de lo que comía y cuándo. Tras una semana vio un patrón claro: muchos de sus tentempiés nocturnos seguían a tardes de reuniones estresantes. En lugar de culparse, usó esa pista para probar un cambio pequeño y manejable: tomar una infusión calmante después de su última llamada. El registro le ayudó a relacionar desencadenantes y elecciones y a probar un ajuste sencillo. No se trata de perfección, sino de aprender qué funciona y probar un cambio a la vez.",
+          "habit": "Anota qué comes y cuándo durante una semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Марина замечает триггер",
+          "story": "Марина вела спокойный журнал того, что и когда она ест. Через неделю она увидела явный шаблон: многие ночные перекусы появлялись после напряжённых дневных встреч. Вместо самокритики она использовала это наблюдение, чтобы попробовать небольшое и выполнимое изменение — чай для расслабления после последнего звонка. Ведение учёта помогло ей связать триггеры с выбором и опробовать простую корректировку. Цель не в идеале, а в понимании того, что подходит именно ей, шаг за шагом.",
+          "habit": "Записывайте, что и когда вы едите, в течение недели.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать уже сегодня."
+        },
+        "uk": {
+          "title": "Олена помічає тригер",
+          "story": "Олена вела м’який щоденник того, що і коли вона їсть. Через тиждень вона помітила чітку закономірність: багато вечірніх перекусів траплялися після напружених денних зустрічей. Замість того щоб докоряти себе, вона використала це спостереження, щоб спробувати невелике, кероване змінення — чашку заспокійливого чаю після останнього дзвінка. Ведення обліку допомогло зв’язати тригери з виборами і протестувати просту зміну. Мета — не ідеальність, а навчання тому, що підходить саме вам.",
+          "habit": "Записуйте, що і коли їсте, протягом одного тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть реєструвати сьогодні."
+        },
+        "fr": {
+          "title": "Sophie repère un déclencheur",
+          "story": "Sophie a tenu un carnet léger de ce qu’elle mangeait et quand. Au bout d’une semaine, elle a repéré un schéma net : beaucoup de ses grignotages nocturnes arrivaient après des réunions stressantes dans l’après‑midi. Au lieu de se juger, elle a utilisé cette information pour tester un petit changement gérable — une tisane relaxante après son dernier appel. Le suivi l’a aidée à relier déclencheurs et choix et à tester un ajustement simple. L’objectif n’est pas la perfection, mais d’essayer une chose à la fois.",
+          "habit": "Notez ce que vous mangez et à quelle heure pendant une semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd’hui."
+        },
+        "de": {
+          "title": "Anna erkennt einen Auslöser",
+          "story": "Anna führte ein leichtes Protokoll darüber, was und wann sie aß. Nach einer Woche erkannte sie ein Muster: Viele ihrer Nacht-Snacks folgten stressigen Nachmittagsmeetings. Statt sich selbst Vorwürfe zu machen, nutzte sie diese Einsicht, um eine kleine, praktikable Änderung auszuprobieren – nach dem letzten Call einen beruhigenden Tee. Das Tracking half ihr, Auslöser mit Entscheidungen zu verbinden und einen simplen Wechsel zu testen. Es geht nicht um Perfektion, sondern darum herauszufinden, was in dein Leben passt, Schritt für Schritt.",
+          "habit": "Notiere, was und wann du isst, eine Woche lang.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Mariana identifica um gatilho",
+          "story": "Mariana manteve um registro leve do que comia e quando. Depois de uma semana, percebeu um padrão claro: muitos lanchinhos noturnos vinham após tardes com reuniões estressantes. Em vez de se culpar, usou esse insight para testar uma mudança pequena e administrável — tomar um chá calmante depois da última chamada. O acompanhamento ajudou a conectar gatilhos a escolhas e a testar um ajuste simples. A ideia não é perfeição, mas aprender o que funciona para você, uma mudança de cada vez.",
+          "habit": "Anote o que você come e quando por uma semana.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Dóra észrevesz egy kiváltót",
+          "story": "Dóra vezetett egy könnyed naplót arról, mit és mikor eszik. Egy hét után észrevett egy mintát: sok esti nassolás stresszes délutáni megbeszélések után következett be. Ahelyett, hogy hibáztatta volna magát, ezt az észrevételt használta fel egy kis, kezelhető változtatás kipróbálására — egy nyugtató tea az utolsó hívás után. A naplózás segített összekötni a kiváltó okokat a döntésekkel és kipróbálni egy egyszerű módosítást. A lényeg nem a tökéletesség, hanem hogy megtudd, mi működik neked, lépésről lépésre.",
+          "habit": "Jegyezd fel, mit és mikor eszel, egy héten át.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "ليلى تكتشف محفّزاً",
+          "story": "ليلى احتفظت بسجل بسيط لما تأكله ومتى. بعد أسبوع لاحظت نمطاً واضحاً: العديد من الوجبات الخفيفة الليلية تلي اجتماعات مرهقة بعد الظهر. بدلاً من لوم نفسها، استخدمت هذه الملاحظة لتجربة تغيير صغير يمكنها الالتزام به — كوب شاي مهدئ بعد آخر مكالمة. ساعدها التتبع على ربط المحفزات بالخيارات وتجربة تعديل بسيط. الهدف ليس الكمال بل معرفة ما يناسب حياتك وتجربة تغيير واحد في كل مرة.",
+          "habit": "دوّن ما تأكل ومتى لمدة أسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya spots a trigger.\nStory: Maya kept a gentle log of what she ate and when. After a week she noticed a clear pattern: many of her late-night snacks followed stressful afternoon meetings. Instead of blaming herself, she used that insight to try a small, manageable change—making a calming tea after her last call. Tracking helped her connect triggers to choices and test a simple tweak. The point wasn’t perfection but learning what fits her life and trying one change at a time..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-15-motivation-4-story-4",
+      "category": "small-steps",
+      "languages": {
+        "en": {
+          "title": "Lena makes a tiny swap",
+          "story": "Lena didn’t aim for perfection—she used tracking to learn how different dinners affected her mornings. After a few entries she noticed heavier evenings left her sluggish, so she tried a tiny swap twice a week: a slightly earlier, lighter meal. She logged the results and compared how she felt the next mornings. Those small, practical tweaks made planning easier and turned logging into a useful habit rather than a chore. Tiny steps helped her stay consistent without pressure.",
+          "habit": "Try one small swap twice this week and log how you feel.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Marina prueba un cambio pequeño",
+          "story": "Marina no buscaba la perfección: usó el seguimiento para aprender cómo le sentaban distintas cenas por la mañana. Tras registrar varias comidas observó que las cenas más pesadas la dejaban lenta, así que probó un pequeño cambio dos veces por semana: una comida un poco más ligera y algo antes. Registró cómo se sentía a la mañana siguiente y comparó. Esos ajustes prácticos facilitaron la planificación y transformaron el registro en un hábito útil en vez de una tarea. Los pasos pequeños la ayudaron a mantener la constancia sin presión.",
+          "habit": "Prueba un pequeño cambio dos veces esta semana y anota cómo te sientes.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Елена делает маленькую замену",
+          "story": "Елена не стремилась к совершенству — она использовала трекинг, чтобы понять, как разные ужины влияют на её утро. После нескольких записей она заметила, что тяжёлые ужины делают её вялой, и решила два раза в неделю попробовать небольшую замену: чуть более лёгкий и более ранний ужин. Она фиксировала ощущения на следующее утро и сравнивала результаты. Такие маленькие практичные шаги упростили планирование и превратили запись в полезную привычку, а не в обязанность. Малые шаги помогли ей быть последовательной без давления.",
+          "habit": "Попробуйте одну маленькую замену дважды на этой неделе и запишите ощущения.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать уже сегодня."
+        },
+        "uk": {
+          "title": "Олена робить маленьку заміну",
+          "story": "Олена не гналася за ідеалом — вона використовувала відстеження, щоб зрозуміти, як різні вечері впливають на ранок. Після кількох записів помітила, що важчі вечері роблять її млявою, тож вирішила двічі на тиждень спробувати маленьку заміну: трохи легша й трохи ранкіша вечеря. Вона записувала, як почувається наступного ранку, і порівнювала. Такі невеликі практичні кроки полегшили планування й перетворили ведення записів на корисну звичку, а не на обов'язок. Малі кроки допомогли їй бути послідовною без тиску.",
+          "habit": "Спробуйте одну маленьку заміну двічі цього тижня й занотуйте відчуття.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть реєструвати сьогодні."
+        },
+        "fr": {
+          "title": "Claire mise sur un petit changement",
+          "story": "Claire ne cherchait pas la perfection — elle a utilisé le suivi pour voir comment ses dîners influençaient ses matins. Après quelques entrées, elle a remarqué que les soirées plus lourdes la laissaient fatiguée, alors elle a essayé deux fois par semaine un petit changement : un dîner légèrement plus léger et un peu plus tôt. Elle a noté comment elle se sentait le lendemain matin et a comparé. Ces petits ajustements pratiques ont facilité la planification et transformé le suivi en habitude utile plutôt qu’en corvée. Les petits pas l’ont aidée à rester régulière sans pression.",
+          "habit": "Essayez un petit changement deux fois cette semaine et notez vos sensations.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd’hui."
+        },
+        "de": {
+          "title": "Lea probiert einen kleinen Wechsel",
+          "story": "Lea strebte nicht nach Perfektion — sie nutzte das Tracking, um zu sehen, wie verschiedene Abendessen ihre Morgen beeinflussen. Nach ein paar Einträgen fiel ihr auf, dass schwere Abende sie träge machten, also probierte sie zweimal pro Woche einen kleinen Wechsel: ein etwas früheres, leichteres Abendessen. Sie protokollierte, wie sie sich am nächsten Morgen fühlte, und verglich die Ergebnisse. Solche kleinen, praktischen Anpassungen machten die Planung leichter und verwandelten das Tracking in eine hilfreiche Gewohnheit statt in eine Pflicht. Kleine Schritte halfen ihr, beständig zu bleiben ohne Druck.",
+          "habit": "Probiere diese Woche zwei Mal einen kleinen Wechsel und notiere, wie du dich fühlst.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Carolina faz uma troca pequena",
+          "story": "Carolina não buscava perfeição — ela usou o acompanhamento para aprender como diferentes jantares afetavam suas manhãs. Depois de algumas entradas, percebeu que jantares mais pesados a deixavam lenta, então tentou duas vezes por semana uma troca pequena: uma refeição um pouco mais leve e um pouco mais cedo. Ela registrou como se sentia na manhã seguinte e comparou. Esses pequenos ajustes práticos facilitaram o planejamento e transformaram o registro em um hábito útil, e não em uma tarefa. Passos pequenos ajudaram-na a manter consistência sem pressão.",
+          "habit": "Tente uma pequena troca duas vezes esta semana e registre como se sente.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Eszter kis cserét próbál",
+          "story": "Eszter nem a tökéletességre törekedett — a naplózást arra használta, hogy megtudja, hogyan hatnak rá a különböző vacsorák reggelente. Néhány bejegyzés után észrevette, hogy a nehezebb vacsorák tompítják a másnapi reggeleit, ezért kétszer egy héten kipróbált egy apró cserét: egy kicsit könnyebb, korábbi vacsorát. Feljegyezte, hogyan érezte magát reggelente, és összehasonlította. Az ilyen apró, gyakorlati változtatások megkönnyítették a tervezést, és a naplózás hasznos szokássá vált, nem terheléssé. A kis lépések segítettek következetes maradni nyomás nélkül.",
+          "habit": "Próbálj ki egy kis cserét kétszer ezen a héten, és jegyezd fel az érzéseidet.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "نورة تُجرب تبديلًا بسيطًا",
+          "story": "نورة لم تصب بغرض الكمال — استخدمت التتبع لتتعلم كيف تؤثر العشاءات المختلفة على صباحها. بعد عدة تسجيلات لاحظت أن العشاء الثقيل يتركها متكاسلة صباحاً، فقررت تجربتين صغيرتين أسبوعياً: وجبة أخف قليلًا وأبكر بعض الشيء. سجلت شعورها في الصباح التالي وقارنت النتائج. هذه التعديلات الصغيرة والعملية سهّلت التخطيط وحولت التسجيل إلى عادة مفيدة بدل أن تكون واجبًا. الخطوات الصغيرة ساعدتها على المحافظة على الاستمرارية من دون ضغط.",
+          "habit": "جرب تبديلًا صغيرًا مرتين هذا الأسبوع وسجل شعورك.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتسجيل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-15T06:55:31.559Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-15-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Lena makes a tiny swap.\nStory: Lena didn’t aim for perfection—she used tracking to learn how different dinners affected her mornings. After a few entries she noticed heavier evenings left her sluggish, so she tried a tiny swap twice a week: a slightly earlier, lighter meal. She logged the results and compared how she felt the next mornings. Those small, practical tweaks made planning easier and turned logging into a useful habit rather than a chore. Tiny steps helped her stay consistent without pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-09-14-motivation-1-story-1",
       "category": "everyday-habits",
