@@ -1,7 +1,863 @@
 {
-  "generatedAt": "2026-09-21T07:02:09.645Z",
+  "generatedAt": "2026-09-22T06:50:16.461Z",
   "sourceCount": 21,
   "articles": [
+    {
+      "id": "bmj-nutrition-environmental-footprint-2026",
+      "category": "Sustainable diets",
+      "sourceName": "nutrition.bmj.com",
+      "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
+      "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Trial-based analysis compares environmental footprints of vegan and Mediterranean diets",
+          "summary": "This secondary analysis used data from a randomized crossover trial with 62 overweight adults to estimate greenhouse gas emissions and cumulative energy demand for low-fat vegan and Mediterranean diets based on recorded dietary intake.",
+          "whyItMatters": "Comparing environmental impacts of diets using trial-based dietary records adds empirical evidence to discussions about sustainable eating patterns.",
+          "takeaways": [
+            "Researchers used a randomized, crossover design to compare two plant-forward diets in the same participants.",
+            "Greenhouse gas emissions (GHGEs) and cumulative energy demand (CED) were calculated from 3-day dietary records.",
+            "The study contributes trial-based data to debates on diet sustainability and environmental footprint."
+          ]
+        },
+        "es": {
+          "title": "Análisis basado en ensayo compara huellas ambientales de dietas vegana y mediterránea",
+          "summary": "Este análisis secundario utilizó datos de un ensayo aleatorizado cruzado con 62 adultos con sobrepeso para estimar las emisiones de gases de efecto invernadero y la demanda energética acumulada de dietas vegana baja en grasa y mediterránea, a partir de registros dietarios registrados.",
+          "whyItMatters": "Comparar los impactos ambientales de dietas usando registros dietarios de ensayos aporta evidencia empírica a los debates sobre patrones alimentarios sostenibles.",
+          "takeaways": [
+            "Los investigadores emplearon un diseño aleatorizado cruzado para comparar dos dietas orientadas a plantas en los mismos participantes.",
+            "Se calcularon las emisiones de gases de efecto invernadero (GEI) y la demanda energética acumulada (DEA) a partir de registros dietarios de 3 días.",
+            "El estudio aporta datos basados en ensayo a los debates sobre sostenibilidad dietaria y huella ambiental."
+          ]
+        },
+        "ru": {
+          "title": "Анализ на основе клинического исследования сравнивает экологический след веганской и средиземноморской диет",
+          "summary": "Это вторичный анализ использовал данные рандомизированного перекрёстного исследования с 62 взрослыми с избыточным весом для оценки выбросов парниковых газов и накопленного энергетического спроса для низкожировой веганской и средиземноморской диет на основе зафиксированных пищевых записей.",
+          "whyItMatters": "Сравнение экологических последствий диет с использованием данных пищевых записей из клинических исследований добавляет эмпирические данные в дискуссии о устойчивых моделях питания.",
+          "takeaways": [
+            "Исследователи использовали рандомизированный перекрёстный дизайн для сравнения двух преимущественно растительных диет у тех же участников.",
+            "Выбросы парниковых газов (GHG) и накопленный энергетический спрос (CED) были рассчитаны на основании 3‑дневных пищевых записей.",
+            "Исследование вносит данные, полученные в ходе клинического исследования, в дебаты о экологичности диет и их экологическом следе."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз на основі випробування порівнює екологічний слід веганської та середземноморської дієт",
+          "summary": "Цей вторинний аналіз використав дані рандомізованого кросоверного дослідження з 62 дорослими з надмірною вагою, щоб оцінити викиди парникових газів і кумулятивний енергетичний попит для низькожирової веганської та середземноморської дієт на основі зафіксованого харчового раціону.",
+          "whyItMatters": "Порівняння впливу на довкілля дієт із використанням даних з клінічних випробувань додає емпіричних доказів до дискусій про сталий раціон харчування.",
+          "takeaways": [
+            "Дослідники використали рандомізований кросоверний дизайн для порівняння двох рослинно-орієнтованих дієт у тих самих учасників.",
+            "Викиди парникових газів та кумулятивний енергетичний попит були розраховані на основі триденних харчових щоденників.",
+            "Дослідження додає дані з клінічних випробувань до дискусій про стійкість дієт та їхній екологічний слід."
+          ]
+        },
+        "fr": {
+          "title": "Analyse fondée sur un essai comparant l'empreinte environnementale des régimes végan et méditerranéen",
+          "summary": "Cette analyse secondaire a utilisé des données d'un essai randomisé en crossover impliquant 62 adultes en surpoids pour estimer les émissions de gaz à effet de serre et la demande énergétique cumulative associées à un régime végan pauvre en graisses et à un régime méditerranéen, sur la base des apports alimentaires enregistrés.",
+          "whyItMatters": "Comparer les impacts environnementaux des régimes à partir d'enregistrements alimentaires issus d'essais apporte des preuves empiriques aux débats sur les modes alimentaires durables.",
+          "takeaways": [
+            "Les chercheurs ont utilisé un design randomisé en crossover pour comparer deux régimes à base de plantes chez les mêmes participants.",
+            "Les émissions de gaz à effet de serre (GES) et la demande énergétique cumulative (DEC) ont été calculées à partir de journaux alimentaires de 3 jours.",
+            "L'étude apporte des données issues d'un essai aux débats sur la durabilité des régimes et l'empreinte environnementale."
+          ]
+        },
+        "de": {
+          "title": "Analyse aus randomisiertem Crossover‑Trial vergleicht Umweltfußabdrücke veganer und mediterraner Diäten",
+          "summary": "Diese sekundäre Analyse nutzte Daten aus einem randomisierten Crossover‑Trial mit 62 übergewichtigen Erwachsenen, um Treibhausgasemissionen und kumulativen Energiebedarf für eine fettarme vegane und eine mediterrane Ernährung auf Basis aufgezeichneter Nahrungsaufnahmen abzuschätzen.",
+          "whyItMatters": "Der Vergleich der Umweltwirkungen von Diäten anhand trial‑basierter Ernährungsaufzeichnungen liefert empirische Daten für Diskussionen über nachhaltige Ernährungsweisen.",
+          "takeaways": [
+            "Die Forschenden verwendeten ein randomisiertes Crossover‑Design, um zwei pflanzenbetonte Diäten bei denselben Teilnehmenden zu vergleichen.",
+            "Treibhausgasemissionen (GHGEs) und kumulativer Energiebedarf (CED) wurden aus 3‑tägigen Ernährungsaufzeichnungen berechnet.",
+            "Die Studie liefert trialbasierte Daten zur Debatte über Nachhaltigkeit von Ernährungsweisen und ihren Umweltfußabdruck."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise baseada em ensaio compara pegadas ambientais de dietas vegana e mediterrânea",
+          "summary": "Esta análise secundária usou dados de um ensaio randomizado cross‑over com 62 adultos com sobrepeso para estimar emissões de gases de efeito estufa e demanda energética acumulada de dietas vegana com baixo teor de gordura e mediterrânea, com base em registros alimentares registrados.",
+          "whyItMatters": "Comparar impactos ambientais de dietas usando registros dietéticos de ensaios acrescenta evidência empírica às discussões sobre padrões alimentares sustentáveis.",
+          "takeaways": [
+            "Pesquisadores usaram um desenho randomizado cross‑over para comparar duas dietas com foco em vegetais nos mesmos participantes.",
+            "Emissões de gases de efeito estufa (GEE) e demanda energética acumulada (CED) foram calculadas a partir de registros alimentares de 3 dias.",
+            "O estudo contribui com dados de ensaio para o debate sobre sustentabilidade das dietas e sua pegada ambiental."
+          ]
+        },
+        "hu": {
+          "title": "Vizsgálatalapú elemzés hasonlítja össze a vegán és a mediterrán étrend környezeti lábnyomát",
+          "summary": "Ez a másodlagos elemzés egy randomizált, keresztpróba tervezésből származó adatokat használt 62 túlsúlyos felnőttől annak becslésére, hogy mekkora üvegházhatású gázkibocsátást és kumulatív energiaigényt okoznak egy alacsony zsírtartalmú vegán és egy mediterrán étrend a rögzített étrendi bevitel alapján.",
+          "whyItMatters": "A diéták környezeti hatásainak vizsgálata vizsgálatalapú étrendi feljegyzések használatával empirikus bizonyítékot ad a fenntartható étkezési mintákról folytatott vitákhoz.",
+          "takeaways": [
+            "A kutatók randomizált, keresztpróba tervezést alkalmaztak két növényközpontú étrend összehasonlításához ugyanazoknál a résztvevőknél.",
+            "Az üvegházhatású gázkibocsátásokat (GHGE) és a kumulatív energiaigényt (CED) háromnapos étrendi feljegyzések alapján számolták ki.",
+            "A tanulmány vizsgálatalapú adatokat ad az étrend fenntarthatóságáról és a környezeti lábnyomról szóló vitákhoz."
+          ]
+        },
+        "ar": {
+          "title": "تحليل قائم على تجربة يقارن البصمة البيئية للنظام النباتي قليل الدسم والنظام المتوسطي",
+          "summary": "استخدم هذا التحليل الثانوي بيانات من تجربة عشوائية متقابلة تضم 62 بالغًا زائدي الوزن لتقدير انبعاثات غازات الاحتباس الحراري والطلب التراكمي على الطاقة لكل من النظام النباتي قليل الدسم والنظام المتوسطي استنادًا إلى السجلات الغذائية المسجلة.",
+          "whyItMatters": "يوفر مقارنة التأثيرات البيئية للنُظُم الغذائية باستخدام سجلات غذائية من تجربة دليلًا تجريبيًا للنقاشات حول أنماط الأكل المستدامة.",
+          "takeaways": [
+            "استخدم الباحثون تصميمًا عشوائيًا متقابلًا لمقارنة نظامين غذائيين نباتيي التوجه لدى نفس المشاركين.",
+            "حُسبت انبعاثات غازات الدفيئة (GHGEs) والطلب التراكمي على الطاقة (CED) من سجلات غذائية لمدة ثلاثة أيام.",
+            "تُضيف الدراسة بيانات مستمدة من تجربة إلى النقاشات حول استدامة النظام الغذائي وبصمته البيئية."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=bmj-nutrition-environmental-footprint-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmj-nutrition-environmental-footprint-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/bmj-nutrition-environmental-footprint-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial-based analysis compares environmental footprints of vegan and Mediterranean diets.\nStory summary: This secondary analysis used data from a randomized crossover trial with 62 overweight adults to estimate greenhouse gas emissions and cumulative energy demand for low-fat vegan and Mediterranean diets based on recorded dietary intake..\nCategory: Sustainable diets.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "news-medical-brain-health-wa-20260922",
+      "category": "Aging",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260922/Brain-Health-WA-resource-aims-to-reduce-dementia-risk.aspx",
+      "sourceTitle": "Brain Health WA resource aims to reduce dementia risk",
+      "publishedAt": "Tue, 22 Sep 2026 01:50:56 -0400",
+      "languages": {
+        "en": {
+          "title": "Brain Health WA resource aims to reduce dementia risk",
+          "summary": "A Curtin University–led resource has been launched in Western Australia to help people protect brain health and potentially lower dementia risk as the region anticipates rapid growth in dementia cases.",
+          "whyItMatters": "With dementia projected to rise faster in Western Australia than elsewhere in the country, a targeted public resource could support preventive actions and awareness.",
+          "takeaways": [
+            "Curtin University led the development of a new brain-health resource for Western Australia.",
+            "The effort responds to projections of fast regional growth in dementia cases.",
+            "The resource is positioned as a preventive and educational tool for the public."
+          ]
+        },
+        "es": {
+          "title": "Recurso Brain Health WA busca reducir el riesgo de demencia",
+          "summary": "Se ha lanzado en Australia Occidental un recurso liderado por Curtin University para ayudar a las personas a proteger la salud cerebral y, potencialmente, reducir el riesgo de demencia en una región que prevé un rápido aumento de casos.",
+          "whyItMatters": "Como se proyecta que la demencia aumente más rápido en Australia Occidental que en otras partes del país, un recurso público dirigido podría apoyar acciones preventivas y la concienciación.",
+          "takeaways": [
+            "Curtin University lideró el desarrollo de un nuevo recurso sobre salud cerebral para Australia Occidental.",
+            "La iniciativa responde a proyecciones de un rápido crecimiento regional de casos de demencia.",
+            "El recurso está planteado como una herramienta preventiva y educativa para el público."
+          ]
+        },
+        "ru": {
+          "title": "Ресурс Brain Health WA нацелен на снижение риска деменции",
+          "summary": "В Западной Австралии запущен ресурс под руководством Университета Кёртина, призванный помочь людям сохранять здоровье мозга и потенциально снизить риск деменции в регионе, где ожидается быстрый рост числа случаев.",
+          "whyItMatters": "Поскольку прогнозируется, что деменция будет расти в Западной Австралии быстрее, чем в других частях страны, целевой общественный ресурс может поддержать профилактические меры и повышение осведомлённости.",
+          "takeaways": [
+            "Университет Кёртина возглавил разработку нового ресурса по здоровью мозга для Западной Австралии.",
+            "Инициатива отвечает прогнозам быстрого регионального роста числа случаев деменции.",
+            "Ресурс позиционируется как профилактический и образовательный инструмент для населения."
+          ]
+        },
+        "uk": {
+          "title": "Ресурс Brain Health WA спрямований на зниження ризику деменції",
+          "summary": "Ініційований Університетом Кертін ресурс запущено у Західній Австралії, щоб допомогти людям захищати здоров'я мозку й потенційно знизити ризик деменції на тлі очікуваного швидкого зростання випадків у регіоні.",
+          "whyItMatters": "Оскільки очікується, що деменція зростатиме у Західній Австралії швидше, ніж в інших частинах країни, спеціалізований громадський ресурс може підтримати профілактичні дії та підвищення обізнаності.",
+          "takeaways": [
+            "Розробкою нового ресурсу з питань здоров'я мозку для Західної Австралії керував Університет Кертін.",
+            "Ініціатива є відповіддю на прогнози швидкого зростання випадків деменції в регіоні.",
+            "Ресурс позиціонується як інструмент для профілактики та просвітництва населення."
+          ]
+        },
+        "fr": {
+          "title": "La ressource Brain Health WA vise à réduire le risque de démence",
+          "summary": "Une ressource menée par l'université Curtin a été lancée en Australie-Occidentale pour aider les gens à protéger la santé cérébrale et potentiellement réduire le risque de démence, alors que la région prévoit une forte augmentation des cas.",
+          "whyItMatters": "Étant donné que la démence devrait augmenter plus rapidement en Australie-Occidentale que dans le reste du pays, une ressource publique ciblée pourrait soutenir des actions préventives et la sensibilisation.",
+          "takeaways": [
+            "L'université Curtin a dirigé l'élaboration d'une nouvelle ressource sur la santé cérébrale pour l'Australie-Occidentale.",
+            "L'initiative répond aux prévisions d'une croissance régionale rapide des cas de démence.",
+            "La ressource est présentée comme un outil préventif et éducatif pour le grand public."
+          ]
+        },
+        "de": {
+          "title": "Brain Health WA‑Ressource soll Demenzrisiko verringern",
+          "summary": "Eine von der Curtin University geleitete Ressource wurde in Western Australia gestartet, um Menschen dabei zu helfen, ihre Gehirngesundheit zu schützen und potenziell das Demenzrisiko zu senken, während die Region mit einem erwarteten raschen Anstieg der Demenzfälle rechnet.",
+          "whyItMatters": "Da für Western Australia ein schnellerer Anstieg der Demenzfälle prognostiziert wird als anderswo im Land, könnte eine gezielte öffentliche Ressource präventive Maßnahmen und Bewusstseinsbildung unterstützen.",
+          "takeaways": [
+            "Die Curtin University leitete die Entwicklung einer neuen Gehirngesundheitsressource für Western Australia.",
+            "Das Vorhaben reagiert auf Prognosen eines schnellen regionalen Anstiegs der Demenzfälle.",
+            "Die Ressource ist als präventives und aufklärendes Angebot für die Öffentlichkeit konzipiert."
+          ]
+        },
+        "pt-br": {
+          "title": "Recurso Brain Health WA tem como objetivo reduzir o risco de demência",
+          "summary": "Um recurso liderado pela Curtin University foi lançado na Austrália Ocidental para ajudar as pessoas a proteger a saúde do cérebro e possivelmente reduzir o risco de demência, enquanto a região prevê um aumento rápido nos casos de demência.",
+          "whyItMatters": "Como se projeta que a demência aumente mais rapidamente na Austrália Ocidental do que em outras partes do país, um recurso público direcionado pode apoiar ações preventivas e a conscientização.",
+          "takeaways": [
+            "A Curtin University liderou o desenvolvimento de um novo recurso sobre saúde cerebral para a Austrália Ocidental.",
+            "A iniciativa responde a projeções de rápido crescimento regional de casos de demência.",
+            "O recurso é apresentado como uma ferramenta preventiva e educativa para o público."
+          ]
+        },
+        "hu": {
+          "title": "A Brain Health WA erőforrás célja a demencia kockázatának csökkentése",
+          "summary": "A Curtin Egyetem által vezetett erőforrást Nyugat-Ausztráliában indították el, hogy segítsen az embereknek az agy egészségének védelmében és esetleg a demencia kockázatának csökkentésében, miközben a régió gyors növekedésre számít a demenciás esetek számában.",
+          "whyItMatters": "Mivel előrejelzések szerint a demencia üteme Nyugat-Ausztráliában gyorsabban nőhet, mint az ország más részein, egy célzott, nyilvános erőforrás támogathatja a megelőző lépéseket és a tudatosság növelését.",
+          "takeaways": [
+            "A Curtin Egyetem vezette a nyugat-ausztráliai agyegészségügyi erőforrás kidolgozását.",
+            "A kezdeményezés a demenciás esetek gyors regionális növekedésére vonatkozó előrejelzésekre reagál.",
+            "Az erőforrást megelőzési és ismeretterjesztési eszközként pozícionálják a nagyközönség számára."
+          ]
+        },
+        "ar": {
+          "title": "مصدر Brain Health WA يهدف إلى تقليل خطر الخرف",
+          "summary": "أُطلق مورد يقوده جامعة كورتن في غرب أستراليا لمساعدة الناس على حماية صحة الدماغ وقد يقلل من خطر الخرف، وذلك مع توقع زيادة سريعة في حالات الخرف في المنطقة.",
+          "whyItMatters": "مع توقع ارتفاع معدل الخرف بشكل أسرع في غرب أستراليا مقارنة بمناطق أخرى في البلاد، يمكن أن يدعم مورد عام موجه الإجراءات الوقائية وزيادة الوعي.",
+          "takeaways": [
+            "قاد جامعة كورتن تطوير مورد لصحة الدماغ مخصص لغرب أستراليا.",
+            "تأتي هذه المبادرة استجابةً لتوقعات بزيادة سريعة في حالات الخرف على مستوى المنطقة.",
+            "يوضع المورد كأداة توعوية ووقائية للجمهور."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=news-medical-brain-health-wa-20260922",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-brain-health-wa-20260922-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-brain-health-wa-20260922-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Brain Health WA resource aims to reduce dementia risk.\nStory summary: A Curtin University–led resource has been launched in Western Australia to help people protect brain health and potentially lower dementia risk as the region anticipates rapid growth in dementia cases..\nCategory: Aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sciencedaily-long-covid-dopamine-20260921",
+      "category": "Brain health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+      "sourceTitle": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+      "publishedAt": "Mon, 21 Sep 2026 23:48:58 EDT",
+      "languages": {
+        "en": {
+          "title": "Brain scans point to possible dopamine neuron damage in long COVID",
+          "summary": "Researchers report imaging evidence that long COVID may damage neurons that release dopamine, which could help explain symptoms such as persistent fatigue, low motivation, slowed movement, and memory difficulties.",
+          "whyItMatters": "Identifying a potential neural mechanism for long COVID symptoms suggests new biological targets to study and could inform future treatment research.",
+          "takeaways": [
+            "Imaging data indicate possible damage to dopamine-releasing neurons in people with long COVID.",
+            "Affected dopamine systems might relate to fatigue, motivation, movement speed, and memory problems.",
+            "The finding points to possible directions for developing targeted interventions, pending further research."
+          ]
+        },
+        "es": {
+          "title": "Exploraciones cerebrales apuntan a posible daño en neuronas que liberan dopamina en el COVID de larga duración",
+          "summary": "Investigadores informan evidencia por imágenes de que el COVID de larga duración puede dañar neuronas que liberan dopamina, lo que podría ayudar a explicar síntomas como fatiga persistente, baja motivación, movimiento más lento y dificultades de memoria.",
+          "whyItMatters": "Identificar un posible mecanismo neuronal para los síntomas del COVID de larga duración sugiere nuevos objetivos biológicos para estudiar y podría orientar la investigación sobre tratamientos futuros.",
+          "takeaways": [
+            "Los datos de imágenes indican un posible daño en neuronas que liberan dopamina en personas con COVID de larga duración.",
+            "Los sistemas dopaminérgicos afectados podrían estar relacionados con fatiga, motivación, lentitud de movimiento y problemas de memoria.",
+            "El hallazgo señala posibles direcciones para desarrollar intervenciones dirigidas, sujetas a más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Сканирование мозга указывает на возможное повреждение дофаминовых нейронов при постковидном синдроме",
+          "summary": "Исследователи сообщают данные визуализации, указывающие на то, что постковидный синдром может повредить нейроны, выделяющие дофамин, что может помочь объяснить такие симптомы, как стойкая усталость, низкая мотивация, замедленность движений и проблемы с памятью.",
+          "whyItMatters": "Выявление возможного нейронного механизма симптомов постковидного синдрома даёт новые биологические цели для изучения и может информировать будущие исследования по лечению.",
+          "takeaways": [
+            "Данные визуализации указывают на возможное повреждение нейронов, выделяющих дофамин, у людей с постковидным синдромом.",
+            "Поражённые дофаминовые системы могут быть связаны с усталостью, мотивацией, скоростью движений и нарушениями памяти.",
+            "Открытие указывает возможные направления для разработки целевых вмешательств при условии дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Сканування мозку вказує на можливе ушкодження допамінергічних нейронів при постковіді",
+          "summary": "Дослідники повідомляють про дані візуалізації, що свідчать про можливе ушкодження нейронів, які виділяють допамін, при постковіді — це може допомогти пояснити симптоми, такі як стійка втома, знижена мотивація, уповільненість рухів і проблеми з пам'яттю.",
+          "whyItMatters": "Виявлення потенційного нейронного механізму для симптомів постковіду вказує на нові біологічні мішені для дослідження та може спрямувати майбутні дослідження лікування.",
+          "takeaways": [
+            "Дані візуалізації свідчать про можливе ушкодження нейронів, що виділяють допамін, у людей з постковідом.",
+            "Пошкодження допамінергічних систем може бути пов’язане з втомою, мотивацією, швидкістю рухів і проблемами пам'яті.",
+            "Це відкриття вказує на можливі напрями для розробки цілеспрямованих втручань за умови подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Des images cérébrales suggèrent des dommages possibles aux neurones dopaminergiques dans le COVID long",
+          "summary": "Les chercheurs rapportent des preuves d'imagerie montrant que le COVID long pourrait endommager des neurones libérant de la dopamine, ce qui pourrait aider à expliquer des symptômes tels que fatigue persistante, faible motivation, ralentissement des mouvements et difficultés de mémoire.",
+          "whyItMatters": "Identifier un mécanisme neuronal potentiel pour les symptômes du COVID long suggère de nouvelles cibles biologiques à étudier et pourrait orienter les recherches futures sur les traitements.",
+          "takeaways": [
+            "Les données d'imagerie indiquent des dommages possibles aux neurones libérant de la dopamine chez des personnes atteintes de COVID long.",
+            "Les systèmes dopaminergiques affectés pourraient être liés à la fatigue, à la motivation, à la vitesse des mouvements et aux troubles de la mémoire.",
+            "La découverte indique des directions possibles pour développer des interventions ciblées, sous réserve de recherches complémentaires."
+          ]
+        },
+        "de": {
+          "title": "Gehirnscans deuten auf mögliche Schädigung dopaminfreisetzender Neuronen bei Long‑COVID hin",
+          "summary": "Forscher berichten von Bildgebungsdaten, die darauf hindeuten, dass Long‑COVID Neuronen schädigen könnte, die Dopamin freisetzen; dies könnte dazu beitragen, Symptome wie anhaltende Müdigkeit, geringe Motivation, verlangsamte Bewegungen und Gedächtnisschwierigkeiten zu erklären.",
+          "whyItMatters": "Die Identifizierung eines möglichen neuronalen Mechanismus für Long‑COVID‑Symptome weist auf neue biologische Ziele hin, die weiter untersucht werden können, und könnte künftige Behandlungsforschung informieren.",
+          "takeaways": [
+            "Bildgebungsdaten deuten auf mögliche Schäden an dopaminfreisetzenden Neuronen bei Personen mit Long‑COVID hin.",
+            "Betroffene Dopaminsysteme könnten mit Müdigkeit, geringer Motivation, verlangsamter Bewegung und Gedächtnisproblemen in Zusammenhang stehen.",
+            "Der Befund zeigt mögliche Richtungen für die Entwicklung gezielter Interventionen auf, die aber weiterer Forschung bedürfen."
+          ]
+        },
+        "pt-br": {
+          "title": "Exames cerebrais apontam possível dano a neurônios produtores de dopamina na COVID longa",
+          "summary": "Pesquisadores relatam evidências de imagens sugerindo que a COVID longa pode danificar neurônios que liberam dopamina, o que poderia ajudar a explicar sintomas como fadiga persistente, baixa motivação, lentidão de movimento e dificuldades de memória.",
+          "whyItMatters": "Identificar um possível mecanismo neural para os sintomas da COVID longa aponta para novos alvos biológicos a serem estudados e pode orientar pesquisas futuras sobre tratamentos.",
+          "takeaways": [
+            "Dados de imagem indicam possível dano a neurônios que liberam dopamina em pessoas com COVID longa.",
+            "Sistemas dopaminérgicos afetados podem estar relacionados à fadiga, motivação, velocidade de movimento e problemas de memória.",
+            "A descoberta sugere direções possíveis para o desenvolvimento de intervenções direcionadas, sujeitas a pesquisas adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Agyi képalkotás lehetséges dopaminerg neuronkárosodást jelez a hosszú COVID-ban",
+          "summary": "A kutatók képalkotó bizonyítékokat közöltek, amelyek szerint a hosszú COVID károsíthatja a dopamint felszabadító neuronokat; ez segíthet megmagyarázni olyan tüneteket, mint a tartós fáradtság, alacsony motiváció, lassabb mozgás és memóriazavarok.",
+          "whyItMatters": "Egy lehetséges neurális mechanizmus azonosítása a hosszú COVID tüneteire új biológiai célpontokra irányíthatja a kutatást, és befolyásolhatja a jövőbeli kezelési kutatásokat.",
+          "takeaways": [
+            "A képalkotó adatok lehetséges károsodást jeleznek a dopamint felszabadító neuronokban hosszú COVID esetén.",
+            "Az érintett dopaminrendszerek összefügghetnek a fáradtsággal, motivációhiánnyal, mozgáslassulással és memóriazavarokkal.",
+            "A megállapítás irányt jelezhet a célzott beavatkozások fejlesztéséhez, de további kutatás szükséges."
+          ]
+        },
+        "ar": {
+          "title": "فحوصات الدماغ تشير إلى احتمال تلف خلايا الدوبامين في حالات كوفيد الطويل",
+          "summary": "أبلغ الباحثون عن أدلة تصويرية تُشير إلى أن كوفيد الطويل قد يسبب تلفًا للخلايا العصبية التي تُطلق الدوبامين، وهو ما قد يساعد في تفسير أعراض مثل التعب المستمر وقلة الدافعية بطء الحركة وصعوبات الذاكرة.",
+          "whyItMatters": "يسلط تحديد آلية عصبية محتملة لأعراض كوفيد الطويل الضوء على أهداف بيولوجية جديدة للدراسة وقد يوجّه أبحاث العلاجات المستقبلية.",
+          "takeaways": [
+            "تشير بيانات التصوير إلى احتمال وجود تلف في الخلايا العصبية المفرزة للدوبامين لدى مصابي كوفيد الطويل.",
+            "قد ترتبط أنظمة الدوبامين المتأثرة بالتعب، وانخفاض الدافعية، وبطء الحركة، ومشكلات الذاكرة.",
+            "تُشير النتائج إلى اتجاهات ممكنة لتطوير تدخلات مستهدفة، مع حاجة إلى مزيد من الأبحاث."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sciencedaily-long-covid-dopamine-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-long-covid-dopamine-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-long-covid-dopamine-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Brain scans point to possible dopamine neuron damage in long COVID.\nStory summary: Researchers report imaging evidence that long COVID may damage neurons that release dopamine, which could help explain symptoms such as persistent fatigue, low motivation, slowed movement, and memory difficulties..\nCategory: Brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medicalxpress-common-drugs-older-adults-20260921",
+      "category": "Geriatrics",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-common-drugs-older-adults-overusing.html",
+      "sourceTitle": "Common drugs older adults might be overusing",
+      "publishedAt": "Mon, 21 Sep 2026 18:40:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Analysis highlights drugs older adults may be overusing",
+          "summary": "An overview describes a recurring pattern in which researchers find commonly used medications to be less effective or to pose greater risks for older adults than previously thought, with follow-up studies often confirming those concerns.",
+          "whyItMatters": "As people age, the balance of risks and benefits for some medicines can change, making it important to re-examine prescribing practices and evidence specific to older populations.",
+          "takeaways": [
+            "Research has repeatedly identified drugs whose effectiveness or safety profiles differ in older adults.",
+            "Initial findings are frequently followed by additional studies that reinforce concerns.",
+            "The coverage emphasizes the need for age-specific evidence when evaluating common medications."
+          ]
+        },
+        "es": {
+          "title": "Análisis destaca medicamentos que las personas mayores podrían estar usando en exceso",
+          "summary": "Una revisión describe un patrón recurrente en el que los investigadores encuentran que medicamentos de uso común son menos efectivos o representan mayores riesgos para las personas mayores de lo que se pensaba, y que estudios posteriores con frecuencia confirman esas preocupaciones.",
+          "whyItMatters": "A medida que las personas envejecen, el balance entre riesgos y beneficios de algunos fármacos puede cambiar, por lo que es importante reexaminar las prácticas de prescripción y la evidencia específica para poblaciones mayores.",
+          "takeaways": [
+            "La investigación ha identificado repetidamente medicamentos cuya eficacia o perfil de seguridad difieren en personas mayores.",
+            "Los hallazgos iniciales con frecuencia son seguidos por estudios adicionales que refuerzan las preocupaciones.",
+            "La cobertura enfatiza la necesidad de evidencia específica por edad al evaluar medicamentos de uso común."
+          ]
+        },
+        "ru": {
+          "title": "Анализ подчёркивает препараты, которые пожилые люди могут чрезмерно использовать",
+          "summary": "Обзор описывает повторяющуюся схему, когда исследователи обнаруживают, что широко используемые лекарства оказываются менее эффективными или представляют большие риски для пожилых людей, чем считалось ранее, и последующие исследования часто подтверждают эти опасения.",
+          "whyItMatters": "С возрастом соотношение рисков и пользы некоторых лекарств может меняться, поэтому важно повторно оценивать практики назначения и доказательную базу, специфичную для пожилых пациентов.",
+          "takeaways": [
+            "Исследования неоднократно выявляли препараты, эффективность или профиль безопасности которых отличаются у пожилых людей.",
+            "Первичные выводы часто подтверждаются последующими исследованиями, усиливающими обеспокоенность.",
+            "Материал подчёркивает необходимость доказательств, ориентированных на возраст, при оценке распространённых лекарств."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз підкреслює лікарські засоби, які старші дорослі можуть використовувати надмірно",
+          "summary": "Огляд описує повторювану модель, коли дослідження виявляють, що широко вживані медикаменти виявляються менш ефективними або мають більший ризик для літніх людей, ніж вважалося раніше, і подальші дослідження часто підтверджують ці побоювання.",
+          "whyItMatters": "У міру старіння людей баланс ризиків і користі деяких ліків може змінюватися, тому важливо перевіряти практики призначення та докази, специфічні для старших груп.",
+          "takeaways": [
+            "Дослідження неодноразово виявляли препарати, ефективність або профіль безпеки яких відрізняються у літніх дорослих.",
+            "Початкові висновки часто підтверджуються додатковими дослідженнями.",
+            "Матеріал підкреслює необхідність доказової бази, орієнтованої на вік, при оцінці загальних ліків."
+          ]
+        },
+        "fr": {
+          "title": "Une analyse met en lumière des médicaments que les personnes âgées pourraient surutiliser",
+          "summary": "Un aperçu décrit un schéma récurrent selon lequel des chercheurs constatent que des médicaments couramment utilisés sont moins efficaces ou présentent davantage de risques pour les personnes âgées que ce que l'on pensait auparavant, et des études de suivi confirment souvent ces préoccupations.",
+          "whyItMatters": "Avec l'âge, l'équilibre entre risques et bénéfices de certains médicaments peut changer, rendant important de réexaminer les pratiques de prescription et les données spécifiques aux populations âgées.",
+          "takeaways": [
+            "La recherche a à plusieurs reprises identifié des médicaments dont l'efficacité ou le profil de sécurité diffèrent chez les personnes âgées.",
+            "Les résultats initiaux sont fréquemment suivis d'études supplémentaires qui renforcent les préoccupations.",
+            "La couverture insiste sur la nécessité de preuves spécifiques à l'âge lors de l'évaluation des médicaments courants."
+          ]
+        },
+        "de": {
+          "title": "Analyse hebt Medikamente hervor, die ältere Erwachsene möglicherweise zu häufig verwenden",
+          "summary": "Eine Übersicht beschreibt ein wiederkehrendes Muster, bei dem Forschende häufig verwendete Medikamente als weniger wirksam oder mit höheren Risiken für ältere Erwachsene einstufen, als früher angenommen, wobei Folgeuntersuchungen diese Bedenken oft bestätigen.",
+          "whyItMatters": "Mit zunehmendem Alter kann sich das Verhältnis von Risiko und Nutzen einiger Arzneimittel ändern, weshalb es wichtig ist, Verschreibungspraktiken und die spezifische Evidenz für ältere Bevölkerungsgruppen zu überdenken.",
+          "takeaways": [
+            "Forschungen haben wiederholt Arzneimittel identifiziert, deren Wirksamkeit oder Sicherheitsprofil sich bei älteren Erwachsenen unterscheidet.",
+            "Erste Hinweise werden häufig durch weitere Studien untermauert, die Bedenken verstärken.",
+            "Die Berichterstattung betont die Notwendigkeit alterspezifischer Evidenz bei der Bewertung gängiger Medikamente."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise destaca medicamentos que idosos podem estar usando em excesso",
+          "summary": "Uma revisão descreve um padrão recorrente em que pesquisadores constatam que medicamentos de uso comum são menos eficazes ou apresentam maiores riscos para idosos do que se pensava anteriormente, e estudos subsequentes frequentemente confirmam essas preocupações.",
+          "whyItMatters": "À medida que as pessoas envelhecem, o equilíbrio entre riscos e benefícios de alguns medicamentos pode mudar, tornando importante reexaminar práticas de prescrição e evidências específicas para populações mais velhas.",
+          "takeaways": [
+            "Pesquisas repetidamente identificaram medicamentos cujo perfil de eficácia ou segurança difere em idosos.",
+            "Achados iniciais são frequentemente seguidos por estudos adicionais que reforçam as preocupações.",
+            "A cobertura ressalta a necessidade de evidência específica por idade ao avaliar medicamentos comuns."
+          ]
+        },
+        "hu": {
+          "title": "Elemzés rámutat olyan gyógyszerekre, amelyeket az idősebb felnőttek túlhasználhatnak",
+          "summary": "Egy áttekintés leír egy ismétlődő mintát: a kutatók gyakran azt találják, hogy széles körben használt gyógyszerek az idősebb felnőtteknél kevésbé hatékonyak vagy nagyobb kockázatot jelentenek, és az ezt követő vizsgálatok gyakran megerősítik ezeket az aggodalmakat.",
+          "whyItMatters": "Ahogy öregszünk, egyes gyógyszerek kockázat–haszon aránya változhat, ezért fontos újraértékelni a felírási gyakorlatokat és az idősebb populációra vonatkozó bizonyítékokat.",
+          "takeaways": [
+            "A kutatások ismételten azonosítottak olyan gyógyszereket, amelyek hatékonysága vagy biztonsági profilja eltér az idősebb felnőtteknél.",
+            "A kezdeti megállapításokat gyakran további tanulmányok követik, amelyek megerősítik az aggályokat.",
+            "A beszámoló hangsúlyozza az életkori sajátosságokra vonatkozó bizonyítékok szükségességét a gyakori gyógyszerek értékelésénél."
+          ]
+        },
+        "ar": {
+          "title": "تحليل يبرز أدوية قد يفرط كبار البالغين في استخدامها",
+          "summary": "تصف مراجعة نمطًا متكررًا حيث يكتشف الباحثون أن أدوية مستخدمة على نطاق واسع قد تكون أقل فاعلية أو تشكل مخاطر أكبر لدى كبار البالغين مما كان يُعتقد سابقًا، وغالبًا ما تؤكد الدراسات اللاحقة هذه المخاوف.",
+          "whyItMatters": "مع التقدّم في السن قد يتغير توازن المخاطر والفوائد لبعض الأدوية، لذا من المهم إعادة فحص ممارسات الوصف الطبي والأدلة الخاصة بالفئات العمرية الأكبر.",
+          "takeaways": [
+            "حددت الأبحاث مرارًا أدوية تختلف فعاليتها أو سلامتها لدى كبار البالغين.",
+            "غالبًا ما تلي النتائج الأولية دراسات إضافية تعزز هذه المخاوف.",
+            "تؤكد التغطية الإعلامية على الحاجة إلى أدلة مخصصة للعمر عند تقييم الأدوية الشائعة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medicalxpress-common-drugs-older-adults-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-common-drugs-older-adults-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-common-drugs-older-adults-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Analysis highlights drugs older adults may be overusing.\nStory summary: An overview describes a recurring pattern in which researchers find commonly used medications to be less effective or to pose greater risks for older adults than previously thought, with follow-up studies often confirming those concerns..\nCategory: Geriatrics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medpagetoday-galleri-fda-staff-20260921",
+      "category": "Diagnostics",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/hematologyoncology/othercancers/123089",
+      "sourceTitle": "FDA Staff Find No Major Concerns With Galleri Multicancer Early Detection Test",
+      "publishedAt": "Mon, 21 Sep 2026 17:40:00 -0400",
+      "languages": {
+        "en": {
+          "title": "FDA staff report no major concerns with Galleri multicancer blood test",
+          "summary": "Ahead of an advisory meeting, FDA staff indicated they had no major safety, accuracy, risk, or benefit concerns about the Galleri multicancer early detection blood test, according to reporting from MedPage Today.",
+          "whyItMatters": "Regulatory assessments shape whether new types of blood-based cancer screening tests move closer to clinical use; staff findings can influence advisory discussions and future decisions.",
+          "takeaways": [
+            "FDA staff reviewed the Galleri multicancer early detection (MCED) test and reported no major concerns.",
+            "An advisory meeting is scheduled to further evaluate the test.",
+            "Staff assessments are an important step in the regulatory review process for new screening technologies."
+          ]
+        },
+        "es": {
+          "title": "Personal de la FDA no reporta preocupaciones mayores sobre la prueba sanguínea Galleri para detección multicáncer",
+          "summary": "Antes de una reunión consultiva, el personal de la FDA indicó que no tenía preocupaciones importantes sobre seguridad, precisión, riesgo o beneficio relacionadas con la prueba sanguínea Galleri de detección temprana multicáncer, según informes de MedPage Today.",
+          "whyItMatters": "Las evaluaciones regulatorias influyen en si nuevos tipos de pruebas sanguíneas para la detección del cáncer progresan hacia el uso clínico; los hallazgos del personal pueden influir en las discusiones consultivas y decisiones futuras.",
+          "takeaways": [
+            "El personal de la FDA revisó la prueba de detección temprana multicáncer (MCED) Galleri y señaló que no tenía preocupaciones mayores.",
+            "Está prevista una reunión consultiva para evaluar más a fondo la prueba.",
+            "Las evaluaciones del personal son un paso importante en el proceso regulatorio para nuevas tecnologías de cribado."
+          ]
+        },
+        "ru": {
+          "title": "Сотрудники FDA не выявили серьёзных нареканий к мультионкологическому анализу крови Galleri",
+          "summary": "Перед консультационным заседанием сотрудники FDA заявили, что у них нет серьёзных опасений по поводу безопасности, точности, рисков или пользы теста Galleri для раннего обнаружения нескольких видов рака, как сообщалось в MedPage Today.",
+          "whyItMatters": "Регуляторные оценки влияют на то, будут ли новые типы анализов крови для скрининга рака продвигаться к клиническому использованию; выводы сотрудников могут повлиять на обсуждения на консультациях и последующие решения.",
+          "takeaways": [
+            "Сотрудники FDA рассмотрели тест Galleri для раннего обнаружения множества раков (MCED) и сообщили об отсутствии серьёзных проблем.",
+            "Запланировано консультационное заседание для дальнейшей оценки теста.",
+            "Оценки сотрудников — важный этап в регуляторном рассмотрении новых скрининговых технологий."
+          ]
+        },
+        "uk": {
+          "title": "Співробітники FDA не повідомили про серйозні застереження щодо тесту Galleri для раннього виявлення кількох видів раку",
+          "summary": "Напередодні консультативного засідання співробітники FDA вказали, що не мають суттєвих зауважень щодо безпеки, точності, ризиків чи користі тесту Galleri для раннього виявлення кількох видів раку в крові, згідно з повідомленнями MedPage Today.",
+          "whyItMatters": "Оцінки регуляторів впливають на те, чи нові типи скринінгових тестів на основі крові просунуться до клінічного використання; висновки співробітників можуть вплинути на обговорення та майбутні рішення.",
+          "takeaways": [
+            "Співробітники FDA переглянули тест Galleri для раннього виявлення кількох видів раку і повідомили про відсутність серйозних застережень.",
+            "Заплановано консультативне засідання для подальшої оцінки тесту.",
+            "Оцінки співробітників є важливим етапом у регуляторному процесі перегляду нових технологій скринінгу."
+          ]
+        },
+        "fr": {
+          "title": "Le personnel de la FDA ne relève pas de préoccupations majeures concernant le test sanguin Galleri de détection précoce multi‑cancers",
+          "summary": "Avant une réunion consultative, le personnel de la FDA a indiqué ne pas avoir de préoccupations majeures en matière de sécurité, de précision, de risques ou de bénéfices concernant le test sanguin Galleri de détection précoce de plusieurs cancers, selon des reportages de MedPage Today.",
+          "whyItMatters": "Les évaluations réglementaires déterminent si de nouveaux types de tests de dépistage sanguin se rapprochent de l'usage clinique ; les conclusions du personnel peuvent influencer les discussions consultatives et les décisions futures.",
+          "takeaways": [
+            "Le personnel de la FDA a examiné le test Galleri de détection précoce multi‑cancers et n'a signalé aucune préoccupation majeure.",
+            "Une réunion consultative est prévue pour évaluer davantage le test.",
+            "Les évaluations du personnel constituent une étape importante du processus réglementaire d'examen des nouvelles technologies de dépistage."
+          ]
+        },
+        "de": {
+          "title": "FDA‑Mitarbeiter melden keine größeren Bedenken gegenüber dem Galleri‑Multikrebs‑Bluttest",
+          "summary": "Vor einer Beratungssitzung gaben FDA‑Mitarbeiter an, keine größeren Bedenken hinsichtlich Sicherheit, Genauigkeit, Risiken oder Nutzen des Galleri‑Multikrebs‑Früherkennungs‑Bluttests zu haben, wie in Berichten zu dem Thema dargestellt.",
+          "whyItMatters": "Regulatorische Bewertungen beeinflussen, ob neue Arten von blutbasierten Krebsvorsorgetests einen Schritt näher an die klinische Anwendung rücken; die Einschätzungen der Mitarbeiter können Beratungsdiskussionen und künftige Entscheidungen prägen.",
+          "takeaways": [
+            "FDA‑Mitarbeiter überprüften den Galleri‑Multikrebs‑Früherkennungstest und meldeten keine größeren Bedenken.",
+            "Eine Beratungssitzung ist geplant, um den Test weiter zu bewerten.",
+            "Die Einschätzungen der Mitarbeiter sind ein wichtiger Schritt im regulatorischen Prüfprozess neuer Screening‑Technologien."
+          ]
+        },
+        "pt-br": {
+          "title": "Equipe da FDA não aponta grandes preocupações com o teste sanguíneo multicâncer Galleri",
+          "summary": "Antes de uma reunião consultiva, a equipe da FDA indicou não ter grandes preocupações sobre segurança, precisão, riscos ou benefícios do teste sanguíneo de detecção precoce multicâncer Galleri, de acordo com relatos sobre o assunto.",
+          "whyItMatters": "Avaliações regulatórias influenciam se novos tipos de testes de triagem de câncer baseados em sangue avançam para uso clínico; as constatações da equipe podem influenciar as discussões consultivas e decisões futuras.",
+          "takeaways": [
+            "A equipe da FDA revisou o teste de detecção precoce multicâncer (MCED) Galleri e relatou não ter grandes preocupações.",
+            "Uma reunião consultiva está agendada para avaliar o teste mais a fundo.",
+            "As avaliações da equipe são um passo importante no processo regulatório de novas tecnologias de triagem."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA munkatársai nem jelentenek súlyos aggályokat a Galleri többdaganatos vérteszttel kapcsolatban",
+          "summary": "Az MedPage Today beszámolója szerint az FDA munkatársai egy tanácskozás előtti értékelésben kijelentették, hogy nem látnak jelentős biztonsági, pontossági, kockázati vagy előnyökkel kapcsolatos aggályokat a Galleri többdaganatos korai felismerésére szolgáló vérteszttel kapcsolatban.",
+          "whyItMatters": "A szabályozási értékelések befolyásolják, hogy az új típusú véralapú rákszűrő tesztek közelebb kerülnek-e a klinikai alkalmazáshoz; a munkatársak megállapításai hatással lehetnek a tanácsadói megbeszélésekre és a jövőbeni döntésekre.",
+          "takeaways": [
+            "Az FDA munkatársai áttekintették a Galleri többdaganatos korai felismerő (MCED) tesztet, és nem jelentettek súlyos aggályokat.",
+            "Tervben van egy tanácsadói ülés a teszt további értékelésére.",
+            "A munkatársi értékelések fontos lépést jelentenek az új szűrőtechnológiák szabályozási áttekintésében."
+          ]
+        },
+        "ar": {
+          "title": "أفاد موظفو إدارة الغذاء والدواء بعدم وجود مخاوف كبيرة بشأن اختبار Galleri للكشف المبكر عن عدة سرطانات",
+          "summary": "وفقًا لتقارير MedPage Today، ذكر موظفو إدارة الغذاء والدواء في تقييم قبل اجتماع استشاري أنهم لم يجدوا مخاوف كبرى تتعلق بالسلامة أو الدقة أو المخاطر أو الفوائد بشأن اختبار Galleri الدموي للكشف المبكر عن عدة أنواع من السرطان.",
+          "whyItMatters": "تؤثر التقييمات التنظيمية على مدى اقتراب أنواع الاختبارات الجديدة القائمة على الدم للكشف عن السرطان من الاستخدام السريري؛ ويمكن أن تؤثر نتائج الموظفين على مناقشات المستشارين والقرارات المستقبلية.",
+          "takeaways": [
+            "راجع موظفو إدارة الغذاء والدواء اختبار Galleri للكشف المبكر عن عدة سرطانات وأفادوا بعدم وجود مخاوف كبيرة.",
+            "من المقرر عقد اجتماع استشاري لمزيد من تقييم الاختبار.",
+            "تُعد تقييمات الموظفين خطوة مهمة في عملية المراجعة التنظيمية للتقنيات الجديدة للفحص."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medpagetoday-galleri-fda-staff-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-galleri-fda-staff-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-galleri-fda-staff-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA staff report no major concerns with Galleri multicancer blood test.\nStory summary: Ahead of an advisory meeting, FDA staff indicated they had no major safety, accuracy, risk, or benefit concerns about the Galleri multicancer early detection blood test, according to reporting from MedPage Today..\nCategory: Diagnostics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lifespan-if-huntingtons-20260921",
+      "category": "Diet & disease",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/intermittent-fasting-shows-promise-in-a-huntingtons-trial/",
+      "sourceTitle": "Intermittent Fasting Shows Promise in a Huntington’s Trial",
+      "publishedAt": "Mon, 21 Sep 2026 16:56:27 +0000",
+      "languages": {
+        "en": {
+          "title": "Pilot study finds intermittent fasting may help Huntington’s patients",
+          "summary": "A small pilot trial reported improvements in people with Huntington’s disease who followed an intermittent fasting regimen, but the study’s limited size and other constraints mean results are provisional.",
+          "whyItMatters": "The report suggests dietary timing could influence outcomes in a neurodegenerative condition with few treatment options, highlighting a hypothesis worth testing in larger trials.",
+          "takeaways": [
+            "Participants in the pilot study showed measurable improvements while practicing intermittent fasting.",
+            "The study was small and had limitations that prevent broad conclusions.",
+            "Further, larger research is needed before establishing whether intermittent fasting is an effective intervention for Huntington’s disease."
+          ]
+        },
+        "es": {
+          "title": "Estudio piloto encuentra que el ayuno intermitente puede ayudar a pacientes con Huntington",
+          "summary": "Un pequeño ensayo piloto reportó mejoras en personas con la enfermedad de Huntington que siguieron un régimen de ayuno intermitente, pero el tamaño limitado del estudio y otras restricciones hacen que los resultados sean provisionales.",
+          "whyItMatters": "El informe sugiere que el momento de la ingesta alimentaria podría influir en los resultados de una enfermedad neurodegenerativa con pocas opciones de tratamiento, destacando una hipótesis que merece probarse en ensayos más amplios.",
+          "takeaways": [
+            "Los participantes del estudio piloto mostraron mejoras medibles mientras practicaban ayuno intermitente.",
+            "El estudio fue pequeño y tuvo limitaciones que impiden sacar conclusiones generales.",
+            "Se necesita investigación adicional, de mayor tamaño, antes de establecer si el ayuno intermitente es una intervención efectiva para la enfermedad de Huntington."
+          ]
+        },
+        "ru": {
+          "title": "Пилотное исследование показывает, что интервальное голодание может помочь пациентам с болезнью Хантингтона",
+          "summary": "Небольшое пилотное клиническое исследование сообщило об улучшениях у людей с болезнью Хантингтона, которые соблюдали режим интервального голодания, но ограниченный размер выборки и другие ограничения делают результаты предварительными.",
+          "whyItMatters": "Сообщение указывает на то, что временные схемы питания могут влиять на исходы при нейродегенеративном заболевании с ограниченными вариантами лечения, что выделяет гипотезу, которую стоит проверить в более крупных исследованиях.",
+          "takeaways": [
+            "Участники пилотного исследования показали измеримые улучшения при практиковании интервального голодания.",
+            "Исследование было небольшим и имело ограничения, которые не позволяют делать широкие выводы.",
+            "Необходимы дальнейшие, более масштабные исследования, прежде чем можно будет установить эффективность интервального голодания при болезни Хантингтона."
+          ]
+        },
+        "uk": {
+          "title": "Пілотне дослідження вказує, що переривчасте голодування може допомогти пацієнтам з хворобою Гантінгтона",
+          "summary": "Невелике пілотне дослідження повідомило про покращення у людей з хворобою Гантінгтона, які дотримувалися режиму переривчастого голодування, але обмежений розмір вибірки та інші фактори означають, що результати є попередніми.",
+          "whyItMatters": "Звіт пропонує, що часові обмеження в харчуванні можуть впливати на результати при нейродегенеративному захворюванні з небагатьма варіантами лікування, підкреслюючи гіпотезу, яку варто перевірити у більших випробуваннях.",
+          "takeaways": [
+            "Учасники пілотного дослідження показали вимірні покращення під час практики переривчастого голодування.",
+            "Дослідження було невелике і мало обмеження, що перешкоджають широким висновкам.",
+            "Необхідні подальші, масштабніші дослідження, перш ніж можна буде встановити ефективність переривчастого голодування при хворобі Гантінгтона."
+          ]
+        },
+        "fr": {
+          "title": "Une étude pilote montre que le jeûne intermittent pourrait aider des patients atteints de la maladie de Huntington",
+          "summary": "Un petit essai pilote a rapporté des améliorations chez des personnes atteintes de la maladie de Huntington qui suivaient un régime de jeûne intermittent, mais la taille limitée de l'étude et d'autres contraintes rendent les résultats provisoires.",
+          "whyItMatters": "Le rapport suggère que le moment des prises alimentaires pourrait influencer les résultats d'une maladie neurodégénérative peu dotée d'options thérapeutiques, mettant en avant une hypothèse à tester dans des essais plus larges.",
+          "takeaways": [
+            "Les participants de l'étude pilote ont montré des améliorations mesurables en pratiquant le jeûne intermittent.",
+            "L'étude était de petite taille et comportait des limites qui empêchent des conclusions générales.",
+            "D'autres recherches plus vastes sont nécessaires avant de déterminer si le jeûne intermittent est une intervention efficace pour la maladie de Huntington."
+          ]
+        },
+        "de": {
+          "title": "Pilotstudie legt nahe, dass intermittierendes Fasten Menschen mit Huntington‑Krankheit helfen könnte",
+          "summary": "Eine kleine Pilotstudie berichtete über Verbesserungen bei Personen mit Huntington‑Krankheit, die ein intermittierendes Fastenschema befolgten; aufgrund der geringen Stichprobengröße und anderer Einschränkungen sind die Ergebnisse jedoch vorläufig.",
+          "whyItMatters": "Der Bericht deutet darauf hin, dass die zeitliche Gestaltung der Nahrungsaufnahme Einfluss auf einen neurodegenerativen Zustand mit wenigen Behandlungsoptionen haben könnte und dass diese Hypothese in größeren Studien geprüft werden sollte.",
+          "takeaways": [
+            "Teilnehmende der Pilotstudie zeigten messbare Verbesserungen bei Anwendung intermittierenden Fastens.",
+            "Die Studie war klein und wies Einschränkungen auf, die breite Schlussfolgerungen ausschließen.",
+            "Vor der Feststellung, ob intermittierendes Fasten eine wirksame Intervention bei Huntington ist, sind größere Studien erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo piloto indica que jejum intermitente pode ajudar pacientes com Huntington",
+          "summary": "Um pequeno ensaio piloto relatou melhoras em pessoas com doença de Huntington que seguiram um regime de jejum intermitente, mas o tamanho limitado do estudo e outras restrições tornam os resultados provisórios.",
+          "whyItMatters": "O relato sugere que o momento da alimentação pode influenciar resultados em uma condição neurodegenerativa com poucas opções de tratamento, destacando uma hipótese que vale a pena testar em ensaios maiores.",
+          "takeaways": [
+            "Participantes do estudo piloto apresentaram melhorias mensuráveis enquanto praticavam jejum intermitente.",
+            "O estudo foi pequeno e teve limitações que impedem conclusões gerais.",
+            "Mais pesquisas, em maior escala, são necessárias antes de estabelecer se o jejum intermitente é uma intervenção eficaz para a doença de Huntington."
+          ]
+        },
+        "hu": {
+          "title": "Egy pilotvizsgálat szerint az időszakos böjt segíthet Huntington-kóros betegeken",
+          "summary": "Egy kis pilotkísérlet javulást jelzett Huntington-kórral élő személyeknél, akik időszakos böjtöt követtek, de a tanulmány korlátozott mérete és egyéb feltételei miatt az eredmények előzetesek maradnak.",
+          "whyItMatters": "A jelentés arra utal, hogy az étkezés időzítése befolyásolhatja egy neurodegeneratív betegség kimenetelét, amelyre kevés a kezelési lehetőség, ezért érdemes nagyobb vizsgálatokban megvizsgálni ezt a hipotézist.",
+          "takeaways": [
+            "A pilotvizsgálat résztvevői mérhető javulást mutattak az időszakos böjt gyakorlása közben.",
+            "A vizsgálat kicsi volt és korlátai vannak, amelyek megakadályozzák az általánosító következtetéseket.",
+            "További, nagyobb kutatások szükségesek, mielőtt meg lehetne állapítani, hogy az időszakos böjt hatékony beavatkozás Huntington-kór esetén."
+          ]
+        },
+        "ar": {
+          "title": "دراسة أولية تُظهر أن الصيام المتقطع قد يفيد مرضى هنتنغتون",
+          "summary": "أفادت تجربة أولية صغيرة عن تحسّن لدى أشخاص مصابين بمرض هنتنغتون الذين اتبعوا نظام صيام متقطع، لكن صغر حجم الدراسة وقيودها تعني أن النتائج لا تزال مؤقتة.",
+          "whyItMatters": "تشير التقارير إلى أن توقيت الوجبات قد يؤثر على مآلات حالة تنكس عصبي قلّما تتوفر لها خيارات علاجية، مما يجعل الفرضية جديرة بالاختبار في تجارب أكبر.",
+          "takeaways": [
+            "أظهر المشاركون في الدراسة الأولية تحسّنات قابلة للقياس أثناء ممارسة الصيام المتقطع.",
+            "كانت الدراسة صغيرة ولها قيود تمنع استخلاص استنتاجات واسعة.",
+            "هناك حاجة إلى أبحاث إضافية وأكبر قبل الجزم بفعالية الصيام المتقطع لمرض هنتنغتون."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lifespan-if-huntingtons-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-if-huntingtons-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-if-huntingtons-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pilot study finds intermittent fasting may help Huntington’s patients.\nStory summary: A small pilot trial reported improvements in people with Huntington’s disease who followed an intermittent fasting regimen, but the study’s limited size and other constraints mean results are provisional..\nCategory: Diet & disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "gainhealth-climate-nutrition-indonesia-20260921",
+      "category": "Climate & nutrition",
+      "sourceName": "gainhealth.org",
+      "sourceUrl": "https://www.gainhealth.org/blogs/why-climate-change-also-nutrition-crisis-key-insights-study-indonesia",
+      "sourceTitle": "Why Climate Change Is Also a Nutrition Crisis: Key Insights From a Study in Indonesia",
+      "publishedAt": "Mon, 21 Sep 2026 13:15:48 +0000",
+      "languages": {
+        "en": {
+          "title": "Study in Indonesia links climate change and rising nutrition risks",
+          "summary": "A blog post summarizes key findings from an Indonesia study that frames climate change as a driver of nutrition challenges, outlining how environmental shifts affect food availability, diets, and nutritional outcomes.",
+          "whyItMatters": "Understanding how climate change intersects with food systems helps inform policies and interventions aimed at protecting nutrition security in vulnerable communities.",
+          "takeaways": [
+            "The Indonesia study highlights pathways by which climate impacts can undermine nutrition.",
+            "Climate-driven changes to food systems can alter diets and access to nutritious foods.",
+            "Findings underscore the need to integrate nutrition goals into climate adaptation and food policy planning."
+          ]
+        },
+        "es": {
+          "title": "Estudio en Indonesia vincula el cambio climático con el aumento de riesgos nutricionales",
+          "summary": "Una entrada de blog resume hallazgos clave de un estudio en Indonesia que presenta el cambio climático como un impulsor de desafíos nutricionales, describiendo cómo los cambios ambientales afectan la disponibilidad de alimentos, las dietas y los resultados nutricionales.",
+          "whyItMatters": "Entender cómo el cambio climático se intersecta con los sistemas alimentarios ayuda a informar políticas e intervenciones destinadas a proteger la seguridad nutricional en comunidades vulnerables.",
+          "takeaways": [
+            "El estudio en Indonesia destaca vías por las que los impactos climáticos pueden socavar la nutrición.",
+            "Los cambios impulsados por el clima en los sistemas alimentarios pueden alterar las dietas y el acceso a alimentos nutritivos.",
+            "Los hallazgos subrayan la necesidad de integrar objetivos nutricionales en la planificación de adaptación climática y políticas alimentarias."
+          ]
+        },
+        "ru": {
+          "title": "Исследование в Индонезии связывает климатические изменения с ростом рисков для питания",
+          "summary": "Пост в блоге резюмирует ключевые выводы исследования в Индонезии, которое рассматривает изменение климата как фактор, способствующий проблемам с питанием, и описывает, как экологические сдвиги влияют на доступность продуктов, диеты и показатели питания.",
+          "whyItMatters": "Понимание того, как изменение климата пересекается с продовольственными системами, помогает формировать политику и меры, направленные на защиту продовольственной и питательной безопасности у уязвимых сообществ.",
+          "takeaways": [
+            "Исследование в Индонезии выделяет пути, через которые климатические воздействия могут подрывать питание.",
+            "Изменения в продовольственных системах, вызванные климатом, могут изменять диеты и доступ к питательным продуктам.",
+            "Выводы подчёркивают необходимость интеграции целей по питанию в планы адаптации к климату и продовольственную политику."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження в Індонезії пов'язує зміну клімату зі зростанням ризиків у харчуванні",
+          "summary": "Блог підсумовує ключові висновки індонезійського дослідження, яке розглядає зміну клімату як фактор, що спричиняє проблеми з харчуванням, описуючи, як екологічні зміни впливають на доступність їжі, раціони й показники харчування.",
+          "whyItMatters": "Розуміння того, як зміна клімату перетинається з продовольчими системами, допомагає формувати політику та втручання, спрямовані на захист продовольчої безпеки та харчування у вразливих громадах.",
+          "takeaways": [
+            "Дослідження в Індонезії висвітлює шляхи, якими кліматичні впливи можуть підривати харчування.",
+            "Кліматичні зміни в системах харчування можуть змінювати раціони та доступ до поживних продуктів.",
+            "Висновки підкреслюють необхідність інтегрувати цілі збереження харчування в плани адаптації до клімату та продовольчу політику."
+          ]
+        },
+        "fr": {
+          "title": "Une étude en Indonésie relie le changement climatique à l'augmentation des risques nutritionnels",
+          "summary": "Un billet de blog résume les principales conclusions d'une étude indonésienne qui présente le changement climatique comme un moteur des défis nutritionnels, détaillant comment les changements environnementaux affectent la disponibilité des aliments, les régimes et les résultats nutritionnels.",
+          "whyItMatters": "Comprendre comment le changement climatique interagit avec les systèmes alimentaires aide à orienter les politiques et interventions visant à protéger la sécurité nutritionnelle des communautés vulnérables.",
+          "takeaways": [
+            "L'étude en Indonésie met en évidence les voies par lesquelles les impacts climatiques peuvent compromettre la nutrition.",
+            "Les changements liés au climat dans les systèmes alimentaires peuvent modifier les régimes et l'accès à des aliments nutritifs.",
+            "Les résultats soulignent la nécessité d'intégrer des objectifs nutritionnels dans l'adaptation climatique et la planification des politiques alimentaires."
+          ]
+        },
+        "de": {
+          "title": "Studie in Indonesien verknüpft Klimawandel mit steigenden Ernährungsrisiken",
+          "summary": "Ein Blogbeitrag fasst zentrale Ergebnisse einer Studie in Indonesien zusammen, die den Klimawandel als Treiber ernährungsbezogener Herausforderungen darstellt und aufzeigt, wie Umweltveränderungen Verfügbarkeit von Lebensmitteln, Ernährungsweisen und Nährstoffergebnisse beeinflussen können.",
+          "whyItMatters": "Zu verstehen, wie sich Klimawandel und Lebensmittelsysteme überschneiden, hilft dabei, Politiken und Maßnahmen zu gestalten, die Ernährungs­sicherheit in verletzlichen Gemeinschaften schützen.",
+          "takeaways": [
+            "Die Studie in Indonesien macht deutlich, über welche Pfade Klimafolgen die Ernährungssicherheit beeinträchtigen können.",
+            "Klimabedingte Veränderungen in den Lebensmittelsystemen können Ernährung und Zugang zu nahrhaften Lebensmitteln verändern.",
+            "Die Ergebnisse unterstreichen die Notwendigkeit, Ernährungsziele in Anpassungs‑ und Lebensmittelpolitiken zu integrieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo na Indonésia liga mudanças climáticas ao aumento de riscos nutricionais",
+          "summary": "Um post no blog resume achados principais de um estudo na Indonésia que coloca as mudanças climáticas como um fator das dificuldades nutricionais, descrevendo como alterações ambientais afetam disponibilidade de alimentos, dietas e resultados nutricionais.",
+          "whyItMatters": "Compreender como as mudanças climáticas interagem com os sistemas alimentares ajuda a informar políticas e intervenções voltadas a proteger a segurança nutricional em comunidades vulneráveis.",
+          "takeaways": [
+            "O estudo na Indonésia destaca caminhos pelos quais os impactos do clima podem minar a nutrição.",
+            "Mudanças climáticas nos sistemas alimentares podem alterar dietas e o acesso a alimentos nutritivos.",
+            "Os achados reforçam a necessidade de integrar metas nutricionais em planejamento de adaptação ao clima e políticas alimentares."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány Indonéziában: hogyan kapcsolódik az éghajlatváltozás a növekvő táplálkozási kockázatokhoz",
+          "summary": "Egy blogbejegyzés összegzi egy indonéziai tanulmány kulcsfontosságú megállapításait, amelyek az éghajlatváltozást a táplálkozási kihívások mozgatórugójaként mutatják be, ismertetve, hogyan befolyásolják a környezeti változások az élelmiszer-ellátást, a táplálkozást és a tápanyagellátás eredményeit.",
+          "whyItMatters": "Az éghajlatváltozás és az élelmiszerrendszerek metszéspontjának megértése segít olyan politikák és beavatkozások kialakításában, amelyek célja a táplálkozási biztonság védelme a sebezhető közösségekben.",
+          "takeaways": [
+            "Az indonéziai tanulmány feltárja azokat az útvonalakat, amelyek révén az éghajlati hatások alááshatják a táplálkozást.",
+            "Az éghajlat által vezérelt változások az élelmiszerrendszerekben megváltoztathatják a táplálkozást és a hozzáférést a tápanyagokban gazdag élelmiszerekhez.",
+            "A megállapítások hangsúlyozzák, hogy a táplálkozási célokat integrálni kell az éghajlati alkalmazkodási és élelmiszerpolitikába."
+          ]
+        },
+        "ar": {
+          "title": "دراسة في إندونيسيا تربط التغير المناخي بارتفاع مخاطر التغذية",
+          "summary": "يلخّص منشور مدوّنة النتائج الرئيسية من دراسة إندونيسية تصوّر التغير المناخي كعامل يدفع تحديات التغذية، ويبيّن كيف تؤثر التحولات البيئية على توافر الغذاء والأنماط الغذائية والنتائج التغذوية.",
+          "whyItMatters": "يساعد فهم تداخل التغير المناخي مع نظم الغذاء في توجيه السياسات والتدابير الرامية إلى حماية الأمن الغذائي والتغذوي في المجتمعات الضعيفة.",
+          "takeaways": [
+            "تُبرز الدراسة الإندونيسية المسارات التي يمكن أن تقوّض بها التأثيرات المناخية التغذية.",
+            "يمكن أن تغيّر التغيرات المدفوعة بالمناخ نظم الغذاء وتؤثر على الأنماط الغذائية والوصول إلى الأطعمة المغذية.",
+            "تؤكد النتائج ضرورة دمج أهداف التغذية في خطط التكيّف المناخي وسياسات الغذاء."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=gainhealth-climate-nutrition-indonesia-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-climate-nutrition-indonesia-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gainhealth-climate-nutrition-indonesia-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study in Indonesia links climate change and rising nutrition risks.\nStory summary: A blog post summarizes key findings from an Indonesia study that frames climate change as a driver of nutrition challenges, outlining how environmental shifts affect food availability, diets, and nutritional outcomes..\nCategory: Climate & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "conversation-smartwatch-body-fat-20260921",
+      "category": "Health tech",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/the-higher-your-body-fat-percentage-the-less-accurate-your-smartwatch-is-at-measuring-calories-you-burn-when-exercising-new-study-291632",
+      "sourceTitle": "The higher your body fat percentage, the less accurate your smartwatch is at measuring calories you burn when exercising – new study",
+      "publishedAt": "2026-09-21T12:37:41Z",
+      "languages": {
+        "en": {
+          "title": "Study: smartwatch calorie estimates less accurate at higher body fat levels",
+          "summary": "A recent study found that smartwatch estimations of calories burned during exercise become less accurate as a user's body fat percentage increases, calling attention to limitations in wearable algorithms.",
+          "whyItMatters": "Many people rely on wearable devices to track activity and energy expenditure; knowing accuracy varies by body composition can shape how those outputs are interpreted.",
+          "takeaways": [
+            "Smartwatch calorie estimates decline in accuracy with higher body fat percentage.",
+            "Users and practitioners should be aware of device limitations when interpreting calorie data.",
+            "Device algorithms may not fully account for differences in individual body composition."
+          ]
+        },
+        "es": {
+          "title": "Estudio: las estimaciones de calorías de los relojes inteligentes son menos precisas con mayor porcentaje de grasa corporal",
+          "summary": "Un estudio reciente halló que las estimaciones de calorías quemadas durante el ejercicio por relojes inteligentes se vuelven menos precisas a medida que aumenta el porcentaje de grasa corporal del usuario, llamando la atención sobre las limitaciones de los algoritmos de los dispositivos.",
+          "whyItMatters": "Muchas personas confían en dispositivos ponibles para monitorizar la actividad y el gasto energético; saber que la precisión varía según la composición corporal puede influir en cómo se interpretan esos datos.",
+          "takeaways": [
+            "La precisión de las estimaciones de calorías de los relojes inteligentes disminuye con un mayor porcentaje de grasa corporal.",
+            "Usuarios y profesionales deben ser conscientes de las limitaciones de los dispositivos al interpretar los datos sobre calorías.",
+            "Los algoritmos de los dispositivos pueden no tener en cuenta completamente las diferencias en la composición corporal individual."
+          ]
+        },
+        "ru": {
+          "title": "Исследование: оценки сожжённых калорий смарт‑часами менее точны при более высокой доле жира в организме",
+          "summary": "Недавнее исследование показало, что оценки калорий, сожжённых во время упражнений, которые дают смарт‑часы, становятся менее точными по мере увеличения процента жира в организме пользователя, что подчёркивает ограничения алгоритмов носимых устройств.",
+          "whyItMatters": "Многие люди полагаются на носимые устройства для отслеживания активности и энергозатрат; знание того, что точность зависит от состава тела, может повлиять на интерпретацию этих показателей.",
+          "takeaways": [
+            "Точность оценок калорий смарт‑часами снижается при более высокой доле жира в организме.",
+            "Пользователям и специалистам следует учитывать ограничения устройств при интерпретации данных о калориях.",
+            "Алгоритмы устройств могут не полностью учитывать различия в составе тела у разных людей."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження: оцінки калорій смартгодинниками менш точні за вищого відсотка жиру в тілі",
+          "summary": "Нове дослідження виявило, що оцінки кількості спалених калорій смартгодинниками під час вправ стають менш точними зі збільшенням відсотка жиру в тілі користувача, що акцентує увагу на обмеженнях алгоритмів носимих пристроїв.",
+          "whyItMatters": "Багато людей покладаються на носимі пристрої для відстеження активності та енергетичних витрат; знання того, що точність залежить від складу тіла, допомагає правильно інтерпретувати ці дані.",
+          "takeaways": [
+            "Оцінки калорій смартгодинниками втрачають точність при вищому відсотку жиру в тілі.",
+            "Користувачі та фахівці повинні враховувати обмеження пристроїв при інтерпретації даних про калорії.",
+            "Алгоритми пристроїв можуть не повністю враховувати індивідуальні відмінності в складі тіла."
+          ]
+        },
+        "fr": {
+          "title": "Étude : les estimations de calories des montres connectées sont moins précises avec un pourcentage de masse grasse plus élevé",
+          "summary": "Une étude récente a constaté que les estimations des calories dépensées par les montres connectées pendant l'exercice deviennent moins précises à mesure que le pourcentage de masse grasse de l'utilisateur augmente, attirant l'attention sur les limites des algorithmes des objets connectés.",
+          "whyItMatters": "Beaucoup de personnes comptent sur les appareils portables pour suivre l'activité et la dépense énergétique ; savoir que la précision varie selon la composition corporelle peut influencer l'interprétation de ces données.",
+          "takeaways": [
+            "La précision des estimations de calories des montres connectées diminue avec un pourcentage de masse grasse plus élevé.",
+            "Les utilisateurs et les professionnels doivent être conscients des limites des appareils lorsqu'ils interprètent les données sur les calories.",
+            "Les algorithmes des appareils peuvent ne pas prendre entièrement en compte les différences individuelles de composition corporelle."
+          ]
+        },
+        "de": {
+          "title": "Studie: Smartwatch‑Kalorienabschätzungen bei höherem Körperfett weniger genau",
+          "summary": "Eine aktuelle Studie fand, dass Schätzungen des Kalorienverbrauchs durch Smartwatches während des Trainings mit zunehmendem Körperfettanteil ungenauer werden, und macht auf Einschränkungen in den Algorithmen von Wearables aufmerksam.",
+          "whyItMatters": "Viele Menschen verlassen sich auf tragbare Geräte zur Verfolgung von Aktivität und Energieverbrauch; die Kenntnis, dass die Genauigkeit je nach Körperzusammensetzung variiert, kann die Interpretation dieser Werte beeinflussen.",
+          "takeaways": [
+            "Die Genauigkeit der Kalorienabschätzungen von Smartwatches nimmt mit steigendem Körperfettanteil ab.",
+            "Nutzende und Fachleute sollten die Grenzen der Geräte bei der Interpretation von Kalorienangaben beachten.",
+            "Die Algorithmen der Geräte berücksichtigen möglicherweise nicht vollständig Unterschiede in der individuellen Körperzusammensetzung."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo: estimativas de calorias de smartwatches são menos precisas com maior percentual de gordura corporal",
+          "summary": "Um estudo recente constatou que as estimativas de calorias queimadas por smartwatches durante o exercício tornam‑se menos precisas à medida que aumenta o percentual de gordura corporal do usuário, chamando atenção para limitações dos algoritmos dos wearables.",
+          "whyItMatters": "Muitas pessoas confiam em dispositivos vestíveis para monitorar atividade e gasto de energia; saber que a precisão varia conforme a composição corporal pode orientar a interpretação desses dados.",
+          "takeaways": [
+            "As estimativas de calorias de smartwatches perdem precisão com maior percentual de gordura corporal.",
+            "Usuários e profissionais devem estar cientes das limitações dos dispositivos ao interpretar dados de calorias.",
+            "Os algoritmos dos dispositivos podem não levar totalmente em conta as diferenças na composição corporal individual."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: a smartwatch által becsült edzés közbeni kalóriaértékek kevésbé pontosak magasabb testzsírszázaléknál",
+          "summary": "Egy friss tanulmány megállapította, hogy a smartwatchok által az edzés során becsült elégetett kalóriák pontossága csökken, ahogy a felhasználó testzsírszázaléka nő, rávilágítva a hordható eszközök algoritmusainak korlátaira.",
+          "whyItMatters": "Sokan támaszkodnak hordható eszközökre az aktivitás és az energiafelhasználás nyomon követésére; fontos tudni, hogy a pontosság a testösszetétel függvényében változik, mert ez befolyásolhatja az adatok értelmezését.",
+          "takeaways": [
+            "A smartwatchok kalóriabecsléseinek pontossága csökken a magasabb testzsírszázalékkal.",
+            "A felhasználóknak és a szakembereknek tisztában kell lenniük az eszközök korlátaival, amikor a kalóriaadatokat értelmezik.",
+            "Az eszközalgoritmusok nem feltétlenül veszik teljes mértékben figyelembe az egyéni testösszetétel különbségeit."
+          ]
+        },
+        "ar": {
+          "title": "دراسة: تقديرات الساعات الذكية للسعرات المحروقة أقل دقة عند مستويات أعلى من نسبة الدهون في الجسم",
+          "summary": "وجدت دراسة حديثة أن تقديرات الساعات الذكية للسعرات المحروقة أثناء التمرين تصبح أقل دقة مع زيادة نسبة دهون الجسم لدى المستخدم، مما يسلط الضوء على حدود خوارزميات الأجهزة القابلة للارتداء.",
+          "whyItMatters": "يعتمد كثير من الناس على الأجهزة القابلة للارتداء لتعقب النشاط ومعدل استهلاك الطاقة؛ ومعرفة أن الدقة تختلف باختلاف تركيب الجسم يمكن أن تؤثر على كيفية تفسير هذه القراءات.",
+          "takeaways": [
+            "تنخفض دقة تقديرات السعرات في الساعات الذكية مع ارتفاع نسبة الدهون في الجسم.",
+            "يجب أن يكون المستخدمون والممارِسون على دراية بحدود الأجهزة عند تفسير بيانات السعرات.",
+            "قد لا تأخذ خوارزميات الأجهزة في الحسبان جميع اختلافات تركيب الجسم بين الأفراد."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=conversation-smartwatch-body-fat-20260921",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/conversation-smartwatch-body-fat-20260921-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/conversation-smartwatch-body-fat-20260921-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study: smartwatch calorie estimates less accurate at higher body fat levels.\nStory summary: A recent study found that smartwatch estimations of calories burned during exercise become less accurate as a user's body fat percentage increases, calling attention to limitations in wearable algorithms..\nCategory: Health tech.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a6",
       "category": "metabolic health / research methods",
@@ -108,113 +964,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Extending concerns about GLP-1R antibody specificity to human immune cells.\nStory summary: Authors warn that many commercially available antibodies used to detect the glucagon-like peptide-1 receptor (GLP-1R) are unreliable when applied to human immune cells. Because GLP-1R is low-abundance and dynamically trafficked, distinguishing direct receptor signaling in immune cells from indirect metabolic effects requires validated detection tools and functional confirmation..\nCategory: metabolic health / research methods.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "a5",
-      "category": "sustainability & nutrition",
-      "sourceName": "nutrition.bmj.com",
-      "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
-      "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
-          "summary": "This secondary analysis used dietary records from a randomized crossover trial in 62 overweight adults to estimate and compare the environmental impacts—such as greenhouse gas emissions and energy demand—of two plant-forward diets: a low-fat vegan and a Mediterranean-style diet.",
-          "whyItMatters": "Linking real-world dietary intake from a controlled trial to environmental metrics helps inform discussions about how different healthy eating patterns compare in sustainability terms.",
-          "takeaways": [
-            "The study compared environmental impacts of low-fat vegan and Mediterranean diets using trial dietary data.",
-            "Greenhouse gas emissions and cumulative energy demand were calculated for participants’ recorded intake.",
-            "Results provide data to inform trade-offs between nutritional and environmental goals, but context and broader food-system factors matter."
-          ]
-        },
-        "es": {
-          "title": "Huella ambiental de una dieta vegana baja en grasa y de la dieta mediterránea: un análisis secundario de un ensayo clínico aleatorizado",
-          "summary": "Este análisis secundario utilizó registros dietéticos de un ensayo aleatorizado cruzado en 62 adultos con sobrepeso para estimar y comparar los impactos ambientales —como emisiones de gases de efecto invernadero y demanda energética— de dos dietas centradas en plantas: una vegana baja en grasa y otra de estilo mediterráneo.",
-          "whyItMatters": "Relacionar la ingesta dietética real de un ensayo controlado con métricas ambientales ayuda a informar debates sobre cómo se comparan diferentes patrones alimentarios saludables en términos de sostenibilidad.",
-          "takeaways": [
-            "El estudio comparó los impactos ambientales de dietas vegana baja en grasa y mediterránea usando datos dietéticos del ensayo.",
-            "Se calcularon emisiones de gases de efecto invernadero y la demanda energética acumulada para la ingesta registrada de los participantes.",
-            "Los resultados aportan datos para valorar las compensaciones entre objetivos nutricionales y ambientales, pero el contexto y factores del sistema alimentario en general son relevantes."
-          ]
-        },
-        "ru": {
-          "title": "Экологический след низкожировой веганской диеты и средиземноморской диеты: вторичный анализ рандомизированного клинического испытания",
-          "summary": "В этом вторичном анализе использовались записи о питании из рандомизированного перекрёстного исследования с участием 62 взрослых с избыточным весом для оценки и сравнения экологических воздействий — таких как выбросы парниковых газов и потребление энергии — двух растений-ориентированных диет: низкожировой веганской и средиземноморской.",
-          "whyItMatters": "Связывание реального потребления пищи из контролируемого испытания с экологическими метриками помогает информировать обсуждения о том, как разные здоровые модели питания соотносятся с устойчивостью.",
-          "takeaways": [
-            "Исследование сравнивало экологические воздействия низкожировой веганской и средиземноморской диет, используя данные испытания.",
-            "Для зарегистрированного потребления участников были рассчитаны выбросы парниковых газов и совокупная энергетическая потребность.",
-            "Результаты предоставляют данные для оценки компромиссов между питательными и экологическими целями, но важен контекст и более широкие факторы продовольственной системы."
-          ]
-        },
-        "uk": {
-          "title": "Екологічний слід низькожирової веганської дієти та середземноморської дієти: вторинний аналіз рандомізованого клінічного досліду",
-          "summary": "Цей вторинний аналіз використав записи харчування з рандомізованого кросовер-досліду за участю 62 дорослих з надмірною вагою, щоб оцінити та порівняти впливи на довкілля — такі як викиди парникових газів і енергетичний попит — двох дієт із рослинною орієнтацією: низькожирової веганської та стилізованої середземноморської дієти.",
-          "whyItMatters": "Поєднання реального харчування з контрольованого випробування та екологічних показників допомагає інформувати дискусії про те, як різні здорові харчові моделі порівнюються з точки зору стійкості.",
-          "takeaways": [
-            "Дослідження порівняло впливи на довкілля низькожирової веганської та середземноморської дієт, використовуючи дані про харчування учасників випробування.",
-            "Для зафіксованого раціону учасників розраховували викиди парникових газів та кумулятивний енергетичний попит.",
-            "Результати дають дані для оцінки компромісів між харчовими та екологічними цілями, але важливі контекст і ширші фактори продовольчої системи."
-          ]
-        },
-        "fr": {
-          "title": "Empreinte environnementale d’un régime végétalien pauvre en graisses et d’un régime méditerranéen : analyse secondaire d’un essai clinique randomisé",
-          "summary": "Cette analyse secondaire a utilisé les enregistrements alimentaires d’un essai randomisé en crossover chez 62 adultes en surpoids pour estimer et comparer les impacts environnementaux — tels que les émissions de gaz à effet de serre et la demande énergétique — de deux régimes axés sur les végétaux : un régime végétalien pauvre en graisses et un régime de type méditerranéen.",
-          "whyItMatters": "Relier les apports alimentaires réels issus d’un essai contrôlé aux métriques environnementales aide à éclairer les discussions sur la comparaison de différents modèles alimentaires sains en termes de durabilité.",
-          "takeaways": [
-            "L’étude a comparé les impacts environnementaux du régime végétalien pauvre en graisses et du régime méditerranéen en utilisant les données alimentaires de l’essai.",
-            "Les émissions de gaz à effet de serre et la demande énergétique cumulative ont été calculées pour les apports enregistrés des participants.",
-            "Les résultats fournissent des données pour informer les arbitrages entre objectifs nutritionnels et environnementaux, mais le contexte et les facteurs systémiques alimentaires sont importants."
-          ]
-        },
-        "de": {
-          "title": "Umweltfußabdruck einer fettarmen veganen Ernährung und der Mittelmeerdiät: Sekundäranalyse einer randomisierten klinischen Studie",
-          "summary": "Diese Sekundäranalyse nutzte Ernährungsaufzeichnungen aus einer randomisierten Crossover-Studie mit 62 übergewichtigen Erwachsenen, um die Umweltauswirkungen—wie Treibhausgasemissionen und Energiebedarf—zweier pflanzenbetonter Ernährungsweisen zu schätzen und zu vergleichen: einer fettarmen veganen und einer mediterran geprägten Diät.",
-          "whyItMatters": "Die Verknüpfung realer Ernährungsdaten aus einer kontrollierten Studie mit Umweltkennzahlen trägt dazu bei, Diskussionen darüber zu informieren, wie verschiedene gesunde Ernährungsweisen in Bezug auf Nachhaltigkeit verglichen werden können.",
-          "takeaways": [
-            "Die Studie verglich Umweltauswirkungen einer fettarmen veganen und einer mediterranen Ernährung anhand von Studiendaten zur Nahrungsaufnahme.",
-            "Treibhausgasemissionen und kumulierter Energiebedarf wurden für die aufgezeichnete Nahrungsaufnahme der Teilnehmenden berechnet.",
-            "Die Ergebnisse liefern Daten zur Abwägung zwischen ernährungsbezogenen und umweltbezogenen Zielen, wobei Kontext und breitere Faktoren des Lebensmittelsystems zu berücksichtigen sind."
-          ]
-        },
-        "pt-br": {
-          "title": "Pegada ambiental de uma dieta vegana com baixo teor de gordura e da dieta mediterrânea: análise secundária de um ensaio clínico randomizado",
-          "summary": "Esta análise secundária utilizou registros alimentares de um ensaio cruzado randomizado com 62 adultos com sobrepeso para estimar e comparar os impactos ambientais—como emissões de gases de efeito estufa e demanda energética—de duas dietas com foco em vegetais: uma vegana com baixo teor de gordura e uma dieta no estilo mediterrâneo.",
-          "whyItMatters": "Relacionar a ingestão alimentar real de um ensaio controlado a métricas ambientais ajuda a informar discussões sobre como diferentes padrões alimentares saudáveis se comparam em termos de sustentabilidade.",
-          "takeaways": [
-            "O estudo comparou os impactos ambientais da dieta vegana com baixo teor de gordura e da dieta mediterrânea usando dados alimentares do ensaio.",
-            "Emissões de gases de efeito estufa e demanda energética cumulativa foram calculadas para a ingestão registrada dos participantes.",
-            "Os resultados fornecem dados para informar trade-offs entre metas nutricionais e ambientais, mas contexto e fatores mais amplos do sistema alimentar importam."
-          ]
-        },
-        "hu": {
-          "title": "Egy alacsony zsírtartalmú vegán és a mediterrán étrend környezeti lábnyoma: egy randomizált klinikai vizsgálat másodlagos elemzése",
-          "summary": "Ez a másodlagos elemzés 62 túlsúlyos felnőtt étrendi feljegyzéseit használta fel egy randomizált, keresztezett vizsgálatból, hogy becsülje és összehasonlítsa két növényi alapú, de eltérő irányultságú étrend—az alacsony zsírtartalmú vegán és a mediterrán stílusú étrend—környezeti hatásait, például az üvegházhatású gázok kibocsátását és az energiaigényt.",
-          "whyItMatters": "A kontrollált vizsgálat valós étrendi bevitelének környezeti mutatókkal való összekapcsolása segít megérteni, hogyan viszonyulnak egymáshoz különböző egészséges étrendi minták fenntarthatósági szempontból.",
-          "takeaways": [
-            "A tanulmány összehasonlította az alacsony zsírtartalmú vegán és a mediterrán étrend környezeti hatásait a vizsgálati adatok alapján.",
-            "A résztvevők rögzített fogyasztására számították ki az üvegházhatású gázkibocsátást és az összesített energiaigényt.",
-            "Az eredmények adatokat szolgáltatnak a táplálkozási és környezeti célok közötti kompromisszumok megvitatásához, de a kontextus és a szélesebb élelmiszer‑rendszeri tényezők is számítanak."
-          ]
-        },
-        "ar": {
-          "title": "البصمة البيئية لنظام نباتي منخفض الدهون ونظام البحر الأبيض المتوسط: تحليل ثانوي لتجربة عشوائية مُحكمة",
-          "summary": "استخدم هذا التحليل الثانوي سجلات غذائية من تجربة عشوائية متبادلة شملت 62 بالغًا زائدَي الوزن لتقدير ومقارنة التأثيرات البيئية — مثل انبعاثات غازات الاحتباس الحراري والطلب على الطاقة — لنظامين غذائيين مرتكزين على النباتات: النظام النباتي منخفض الدهون ونظام على طريقة البحر الأبيض المتوسط.",
-          "whyItMatters": "ربط الاستهلاك الغذائي الواقعي من تجربة محكومة بمقاييس بيئية يساعد في توضيح كيف تقارن أنماط الأكل الصحية المختلفة من حيث الاستدامة.",
-          "takeaways": [
-            "قارن البحث التأثيرات البيئية للنظام النباتي منخفض الدهون ونظام البحر الأبيض المتوسط باستخدام بيانات التغذية من تجربة.",
-            "حُسبت انبعاثات غازات الاحتباس الحراري والطلب التراكمي على الطاقة على أساس ما سجله المشاركون من استهلاك.",
-            "توفر النتائج بيانات لمناقشة التوازن بين الأهداف التغذوية والبيئية، لكن السياق وعوامل نظام الغذاء الأوسع تظل مهمة."
-          ]
-        }
-      },
-      "generatedAt": "2026-09-21T07:02:09.645Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a5",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial.\nStory summary: This secondary analysis used dietary records from a randomized crossover trial in 62 overweight adults to estimate and compare the environmental impacts—such as greenhouse gas emissions and energy demand—of two plant-forward diets: a low-fat vegan and a Mediterranean-style diet..\nCategory: sustainability & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a4",
@@ -6371,111 +7120,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Real-world study found semaglutide use associated with fewer asthma attacks and COPD flare-ups.\nStory summary: In an observational analysis, semaglutide (the active ingredient in Ozempic and Wegovy) was associated with almost 40% fewer asthma exacerbations and about 20% fewer COPD flare-ups. Authors note these are real-world associations and that randomized trials are needed to test causality..\nCategory: Metabolic Drugs & Respiratory Health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a7",
-      "category": "nutrition research",
+      "id": "nutrition-org-nhanes-20260909",
+      "category": "Nutrition data",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/currdevnutr-highlights-24-years-of-nhanes-nutrition-data/",
       "sourceTitle": "A Special Issue of Current Developments in Nutrition Highlights 24 Years of NHANES Nutrition Data",
       "publishedAt": "Wed, 09 Sep 2026 12:34:48 +0000",
       "languages": {
         "en": {
-          "title": "A Special Issue of Current Developments in Nutrition Highlights 24 Years of NHANES Nutrition Data",
-          "summary": "The journal has published a special issue summarizing 24 years of nutrition-related data from the National Health and Nutrition Examination Survey (NHANES). The collection showcases analyses that use NHANES to track dietary patterns, nutrient intake, and population health trends over time.",
-          "whyItMatters": "NHANES is a foundational, nationally representative dataset for understanding U.S. nutrition and health trends; a themed issue makes recent insights and long-term patterns more accessible to researchers and policymakers.",
+          "title": "Special issue highlights 24 years of NHANES nutrition data",
+          "summary": "The Current Developments in Nutrition special issue compiles analyses based on 24 years of NHANES nutrition data, offering a resource for understanding long-term dietary patterns and related health metrics.",
+          "whyItMatters": "Longitudinal, standardized nutrition data help researchers and policymakers track trends, identify public health priorities, and evaluate the impact of dietary guidance over time.",
           "takeaways": [
-            "The special issue compiles analyses using 24 years of NHANES nutrition data.",
-            "Content highlights trends in diet, nutrient status, and links to health outcomes.",
-            "The collection serves as a resource for researchers, clinicians, and public-health planners."
+            "The issue aggregates research spanning 24 years of NHANES nutrition information.",
+            "NHANES data support analyses of dietary trends and population health indicators.",
+            "This compilation can inform future nutrition research and public health planning."
           ]
         },
         "es": {
-          "title": "Un número especial de Current Developments in Nutrition destaca 24 años de datos nutricionales de NHANES",
-          "summary": "La revista publicó un número especial que resume 24 años de datos relacionados con la nutrición procedentes de la Encuesta Nacional de Salud y Nutrición (NHANES). La colección muestra análisis que usan NHANES para rastrear patrones dietéticos, ingesta de nutrientes y tendencias de salud poblacional a lo largo del tiempo.",
-          "whyItMatters": "NHANES es un conjunto de datos representativo a nivel nacional y fundamental para entender las tendencias de nutrición y salud en EE. UU.; un número temático facilita el acceso a conocimientos recientes y patrones a largo plazo para investigadores y responsables de políticas.",
+          "title": "Número especial destaca 24 años de datos nutricionales de NHANES",
+          "summary": "El número especial de Current Developments in Nutrition compila análisis basados en 24 años de datos nutricionales de NHANES, ofreciendo un recurso para entender patrones dietéticos a largo plazo y métricas de salud relacionadas.",
+          "whyItMatters": "Los datos nutricionales estandarizados y longitudinales ayudan a investigadores y responsables de políticas a seguir tendencias, identificar prioridades de salud pública y evaluar el impacto de las recomendaciones dietéticas a lo largo del tiempo.",
           "takeaways": [
-            "El número especial recopila análisis que utilizan 24 años de datos nutricionales de NHANES.",
-            "El contenido destaca tendencias en dieta, estado de nutrientes y vínculos con resultados de salud.",
-            "La colección sirve como recurso para investigadores, clínicos y planificadores de salud pública."
+            "El número reúne investigaciones que abarcan 24 años de información nutricional de NHANES.",
+            "Los datos de NHANES permiten analizar tendencias dietéticas e indicadores de salud poblacional.",
+            "Esta recopilación puede informar futuras investigaciones en nutrición y la planificación de salud pública."
           ]
         },
         "ru": {
-          "title": "Специальный выпуск Current Developments in Nutrition освещает 24 года данных о питании из NHANES",
-          "summary": "Журнал опубликовал специальный выпуск, суммирующий 24 года данных, связанных с питанием, из Национального обследования состояния здоровья и питания (NHANES). Сборник демонстрирует анализы, использующие NHANES для отслеживания диетических моделей, потребления нутриентов и тенденций здоровья населения с течением времени.",
-          "whyItMatters": "NHANES — это базовый репрезентативный национальный набор данных для понимания тенденций питания и здоровья в США; тематический выпуск делает последние выводы и долгосрочные паттерны более доступными для исследователей и политиков.",
+          "title": "Специальный выпуск подчёркивает 24 года данных о питании из NHANES",
+          "summary": "Специальный выпуск Current Developments in Nutrition объединяет анализы, основанные на 24 годах данных о питании из NHANES, предоставляя ресурс для понимания долгосрочных пищевых шаблонов и связанных с ними показателей здоровья.",
+          "whyItMatters": "Стандартизированные продольные данные о питании помогают исследователям и политикам отслеживать тенденции, выявлять приоритеты общественного здравоохранения и оценивать влияние диетических рекомендаций со временем.",
           "takeaways": [
-            "Специальный выпуск собирает анализы, использующие 24 года данных NHANES о питании.",
-            "Содержание подчёркивает тенденции в диете, статусе нутриентов и связи с показателями здоровья.",
-            "Коллекция служит ресурсом для исследователей, клиницистов и специалистов общественного здравоохранения."
+            "В выпуске собраны исследования, охватывающие 24 года информации о питании NHANES.",
+            "Данные NHANES поддерживают анализы тенденций в рационе и показателей здоровья населения.",
+            "Эта компиляция может послужить основой для будущих исследований в области питания и планирования общественного здравоохранения."
           ]
         },
         "uk": {
-          "title": "Спеціальний випуск Current Developments in Nutrition висвітлює 24 роки даних NHANES про харчування",
-          "summary": "Журнал опублікував спеціальний випуск, що підсумовує 24 роки даних, пов’язаних із харчуванням, з Національного опитування здоров’я та харчування (NHANES). Колекція демонструє аналізи, які використовують NHANES для відстеження харчових моделей, споживання нутрієнтів та тенденцій здоров’я населення з часом.",
-          "whyItMatters": "NHANES є фундаментальним репрезентативним набором даних для розуміння харчування та здоров’я в США; тематичний випуск робить свіжі висновки та довгострокові закономірності більш доступними для дослідників і політиків.",
+          "title": "Спеціальний випуск висвітлює 24 роки даних NHANES про харчування",
+          "summary": "Спеціальний випуск журналу Current Developments in Nutrition об’єднує аналізи на основі 24 років даних NHANES про харчування, пропонуючи ресурс для розуміння довгострокових моделей харчування та пов’язаних з ними показників здоров'я.",
+          "whyItMatters": "Стандартизовані довготривалі дані про харчування допомагають дослідникам і політикам відстежувати тенденції, визначати пріоритети громадського здоров'я та оцінювати вплив харчових рекомендацій з часом.",
           "takeaways": [
-            "Спеціальний випуск збирає аналізи, що використовують 24 роки даних NHANES про харчування.",
-            "Матеріали висвітлюють тенденції в харчуванні, стані нутрієнтів та їх зв’язках зі здоров’ям.",
-            "Колекція слугує ресурсом для дослідників, клініцистів і планувальників громадського здоров’я."
+            "Випуск агрегує дослідження, що охоплюють 24 роки інформації NHANES про харчування.",
+            "Дані NHANES підтримують аналізи харчових тенденцій і показників здоров'я населення.",
+            "Ця компіляція може інформувати майбутні дослідження з харчування та планування громадського здоров'я."
           ]
         },
         "fr": {
-          "title": "Un numéro spécial de Current Developments in Nutrition met en lumière 24 années de données nutritionnelles NHANES",
-          "summary": "La revue a publié un numéro spécial résumant 24 ans de données liées à la nutrition issues de l’Enquête nationale sur la santé et la nutrition (NHANES). La collection présente des analyses utilisant NHANES pour suivre les habitudes alimentaires, les apports en nutriments et les tendances de santé de la population au fil du temps.",
-          "whyItMatters": "NHANES est un jeu de données nationalement représentatif et fondamental pour comprendre les tendances nutritionnelles et de santé aux États‑Unis; un numéro thématique rend les enseignements récents et les tendances à long terme plus accessibles aux chercheurs et aux décideurs.",
+          "title": "Un numéro spécial met en lumière 24 ans de données nutritionnelles NHANES",
+          "summary": "Le numéro spécial de Current Developments in Nutrition compile des analyses basées sur 24 ans de données NHANES sur la nutrition, offrant une ressource pour comprendre les tendances alimentaires à long terme et les indicateurs de santé associés.",
+          "whyItMatters": "Des données nutritionnelles longitudinales et standardisées aident les chercheurs et les décideurs à suivre les tendances, à identifier les priorités de santé publique et à évaluer l'impact des recommandations alimentaires au fil du temps.",
           "takeaways": [
-            "Le numéro spécial compile des analyses utilisant 24 ans de données NHANES sur la nutrition.",
-            "Le contenu met en évidence les tendances alimentaires, l’état des nutriments et leurs liens avec la santé.",
-            "La collection sert de ressource pour les chercheurs, cliniciens et planificateurs en santé publique."
+            "Le numéro agrège des travaux couvrant 24 ans d'informations nutritionnelles NHANES.",
+            "Les données NHANES permettent d'analyser les tendances alimentaires et les indicateurs de santé des populations.",
+            "Cette compilation peut éclairer la recherche future en nutrition et la planification de la santé publique."
           ]
         },
         "de": {
-          "title": "Eine Sonderausgabe von Current Developments in Nutrition hebt 24 Jahre NHANES‑Ernährungsdaten hervor",
-          "summary": "Die Zeitschrift veröffentlichte eine Sonderausgabe, die 24 Jahre ernährungsbezogener Daten der National Health and Nutrition Examination Survey (NHANES) zusammenfasst. Die Sammlung zeigt Analysen, die NHANES nutzen, um Ernährungs‑ und Nährstoffmuster sowie Bevölkerungs‑Gesundheitstrends über die Zeit zu verfolgen.",
-          "whyItMatters": "NHANES ist ein grundlegender, national repräsentativer Datensatz zum Verständnis von US‑Ernährungs‑ und Gesundheitstrends; eine thematische Ausgabe macht neuere Erkenntnisse und langfristige Muster für Forschende und politische Entscheider zugänglicher.",
+          "title": "Sonderausgabe hebt 24 Jahre NHANES‑Ernährungsdaten hervor",
+          "summary": "Die Sonderausgabe von Current Developments in Nutrition fasst Analysen zusammen, die auf 24 Jahren NHANES‑Ernährungsdaten basieren, und bietet eine Ressource zum Verständnis langfristiger Ernährungsgewohnheiten und zugehöriger Gesundheitskennzahlen.",
+          "whyItMatters": "Langfristige, standardisierte Ernährungsdaten helfen Forschenden und Entscheidungsträgern, Trends zu verfolgen, öffentliche Gesundheitsprioritäten zu identifizieren und die Wirkung ernährungsbezogener Empfehlungen über die Zeit zu bewerten.",
           "takeaways": [
-            "Die Sonderausgabe fasst Analysen mit 24 Jahren NHANES‑Ernährungsdaten zusammen.",
-            "Der Inhalt hebt Trends in Ernährung, Nährstoffstatus und Zusammenhänge mit Gesundheitsoutcomes hervor.",
-            "Die Sammlung dient als Ressource für Forschende, Kliniker und Akteure im Bereich öffentliche Gesundheit."
+            "Die Ausgabe bündelt Forschung über 24 Jahre NHANES‑Ernährungsinformationen.",
+            "NHANES‑Daten unterstützen Analysen zu Ernährungstrends und Indikatoren der Bevölkerungsgesundheit.",
+            "Diese Zusammenstellung kann künftige Ernährungsforschung und Planung im öffentlichen Gesundheitswesen informieren."
           ]
         },
         "pt-br": {
-          "title": "Uma edição especial da Current Developments in Nutrition destaca 24 anos de dados nutricionais do NHANES",
-          "summary": "A revista publicou uma edição especial resumindo 24 anos de dados relacionados à nutrição da National Health and Nutrition Examination Survey (NHANES). A coletânea apresenta análises que usam o NHANES para acompanhar padrões alimentares, ingestão de nutrientes e tendências de saúde populacional ao longo do tempo.",
-          "whyItMatters": "O NHANES é um conjunto de dados nacionalmente representativo fundamental para entender tendências de nutrição e saúde nos EUA; uma edição temática torna insights recentes e padrões de longo prazo mais acessíveis a pesquisadores e formuladores de políticas.",
+          "title": "Edição especial destaca 24 anos de dados nutricionais do NHANES",
+          "summary": "A edição especial do Current Developments in Nutrition compila análises baseadas em 24 anos de dados nutricionais do NHANES, oferecendo um recurso para entender padrões dietéticos de longo prazo e métricas de saúde relacionadas.",
+          "whyItMatters": "Dados nutricionais longitudinais e padronizados ajudam pesquisadores e formuladores de políticas a acompanhar tendências, identificar prioridades de saúde pública e avaliar o impacto de orientações alimentares ao longo do tempo.",
           "takeaways": [
-            "A edição especial compila análises usando 24 anos de dados nutricionais do NHANES.",
-            "O conteúdo destaca tendências na dieta, no status de nutrientes e nas ligações com desfechos de saúde.",
-            "A coletânea serve como recurso para pesquisadores, clínicos e planejadores de saúde pública."
+            "A edição agrega pesquisas abrangendo 24 anos de informações nutricionais do NHANES.",
+            "Os dados do NHANES sustentam análises de tendências alimentares e indicadores de saúde populacional.",
+            "Essa compilação pode informar pesquisas nutricionais futuras e o planejamento de saúde pública."
           ]
         },
         "hu": {
-          "title": "A Current Developments in Nutrition különszáma 24 év NHANES táplálkozási adatát mutatja be",
-          "summary": "A folyóirat különszámot jelentetett meg, amely összegzi a National Health and Nutrition Examination Survey (NHANES) 24 évre kiterjedő táplálkozással kapcsolatos adatait. A gyűjtemény olyan elemzéseket mutat be, amelyek a NHANES‑t használják az étrendi minták, tápanyagbevitel és a népességi egészségi trendek nyomon követésére az időben.",
-          "whyItMatters": "A NHANES alapvető, nemzeti reprezentativitású adatforrás az amerikai táplálkozás és egészségtrendek megértéséhez; egy tematikus szám megkönnyíti a legújabb betekintések és hosszú távú mintázatok hozzáférését kutatók és döntéshozók számára.",
+          "title": "Különszám emeli ki a NHANES 24 éves táplálkozási adatait",
+          "summary": "A Current Developments in Nutrition különszáma 24 év NHANES táplálkozási adatain alapuló elemzéseket gyűjt össze, és forrást kínál a hosszú távú étrendi minták és kapcsolódó egészségügyi mutatók megértéséhez.",
+          "whyItMatters": "A hosszú távú, szabványosított táplálkozási adatok segítik a kutatókat és a döntéshozókat a trendek nyomon követésében, a közegészségügyi prioritások azonosításában és a táplálkozási iránymutatások hatásának értékelésében az idő múlásával.",
           "takeaways": [
-            "A különszám 24 év NHANES táplálkozási adatain alapuló elemzéseket gyűjt össze.",
-            "A tartalom kiemeli az étrendi trendeket, tápanyag‑állapotot és az egészségi kimenetekkel való kapcsolódásokat.",
-            "A gyűjtemény erőforrást jelent kutatók, klinikusok és közegészségügyi tervezők számára."
+            "A különszám 24 éven át gyűjtött NHANES táplálkozási információkat aggregálja.",
+            "A NHANES adatok támogatják az étrendi trendek és a népességi egészségmutatók elemzését.",
+            "A gyűjtemény támpontot nyújthat a jövőbeli táplálkozási kutatásokhoz és a közegészségügyi tervezéshez."
           ]
         },
         "ar": {
-          "title": "عدد خاص من Current Developments in Nutrition يبرز 24 عامًا من بيانات التغذية في NHANES",
-          "summary": "نشرت المجلة عددًا خاصًا يلخّص بيانات متعلقة بالتغذية على مدى 24 عامًا من المسح الوطني للفحص الصحي والتغذوي (NHANES). تعرض المجموعة تحليلات تستخدم NHANES لتتبع أنماط الغذاء، ومدخول المغذيات، واتجاهات صحة السكان عبر الزمن.",
-          "whyItMatters": "يُعد NHANES مجموعة بيانات تمثيلية وطنية أساسية لفهم اتجاهات التغذية والصحة في الولايات المتحدة؛ يجعل العدد الموضوعي الرؤى الحديثة والأنماط الطويلة الأمد أكثر سهولة للباحثين وصانعي السياسات.",
+          "title": "عدد خاص يبرز 24 عامًا من بيانات التغذية في NHANES",
+          "summary": "يجمع العدد الخاص لمجلة Current Developments in Nutrition تحليلات مستندة إلى 24 عامًا من بيانات التغذية في NHANES، موفّرًا مصدرًا لفهم أنماط النظام الغذائي على المدى الطويل ومقاييس الصحة المرتبطة بها.",
+          "whyItMatters": "تساعد بيانات التغذية الطولية والموحدة الباحثين وصنّاع السياسات على تتبّع الاتجاهات وتحديد أولويات الصحة العامة وتقييم تأثير التوجيهات الغذائية عبر الزمن.",
           "takeaways": [
-            "يجمع العدد الخاص تحليلات تستخدم 24 عامًا من بيانات NHANES المتعلقة بالتغذية.",
-            "تُبرز المحتويات اتجاهات في الأنماط الغذائية، وحالة المغذيات، والروابط مع نتائج صحية.",
-            "تخدم المجموعة كمورد للباحثين والأطباء ومخططي الصحة العامة."
+            "العدد يجمع أبحاثًا تستند إلى 24 عامًا من معلومات تغذية NHANES.",
+            "تدعم بيانات NHANES تحليلات اتجاهات النظام الغذائي ومؤشرات صحة السكان.",
+            "يمكن أن تُعلِم هذه المجموعة الأبحاث التغذوية المستقبلية والتخطيط في مجال الصحة العامة."
           ]
         }
       },
-      "generatedAt": "2026-09-21T07:02:09.645Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a7",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutrition-org-nhanes-20260909",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutrition-org-nhanes-20260909-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutrition-org-nhanes-20260909-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: A Special Issue of Current Developments in Nutrition Highlights 24 Years of NHANES Nutrition Data.\nStory summary: The journal has published a special issue summarizing 24 years of nutrition-related data from the National Health and Nutrition Examination Survey (NHANES). The collection showcases analyses that use NHANES to track dietary patterns, nutrient intake, and population health trends over time..\nCategory: nutrition research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Special issue highlights 24 years of NHANES nutrition data.\nStory summary: The Current Developments in Nutrition special issue compiles analyses based on 24 years of NHANES nutrition data, offering a resource for understanding long-term dietary patterns and related health metrics..\nCategory: Nutrition data.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "eating-window-korea-2026",
@@ -86242,6 +86991,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-09-22-motivation-1-story-1",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Maya plans lunches to stay steady",
+          "story": "Maya started packing a simple lunch three days a week and logging it before leaving the house. At first she worried about getting every detail right, but soon she noticed clearer patterns in what kept her full until mid-afternoon. Tracking became a quick habit that made meal choices feel more intentional instead of stressful. She treats each log as useful information, not a scorecard, and appreciates how small planning steps free up mental energy during a busy day.",
+          "habit": "Pack and log one lunch the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Maya planifica sus almuerzos",
+          "story": "Maya comenzó a preparar un almuerzo sencillo tres días a la semana y a registrarlo antes de salir de casa. Al principio le preocupaba anotar todo con exactitud, pero pronto empezó a ver patrones sobre lo que la mantenía satisfecha hasta media tarde. Registrar se convirtió en un hábito rápido que hizo que elegir comidas fuera más intencional y menos estresante. Ahora ve cada entrada como información útil, no como una nota, y valora cómo pequeños pasos de planificación le ahorran energía mental en días ocupados.",
+          "habit": "Prepara y registra un almuerzo la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Маия планирует обеды заранее",
+          "story": "Маия стала готовить простые обеды три раза в неделю и записывать их до выхода из дома. Сначала она переживала, что нужно всё точно фиксировать, но вскоре заметила, какие продукты надолго дают сытость. Ведение записей превратилось в быстрый навык, который делает выбор еды более осознанным и менее напряжённым. Теперь она воспринимает каждую запись как полезную информацию, а не оценку, и ценит, как небольшое планирование экономит ей умственную энергию в загруженные дни.",
+          "habit": "Приготовьте и запишите один обед накануне.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Майя планує обіди наперед",
+          "story": "Майя почала готувати простий обід тричі на тиждень і вносити його до записів перед виходом з дому. Спочатку вона хвилювалася, чи все правильно фіксувати, але незабаром помітила, що саме допомагає їй не голодувати до полудня. Записування стало швидкою звичкою, яка робить вибір їжі більш усвідомленим і менш стресовим. Тепер вона сприймає кожний запис як корисну інформацію, а не як оцінку, і цінує, як планування звільняє розум у напружені дні.",
+          "habit": "Приготуйте і занотуйте один обід напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Maya prépare ses déjeuners",
+          "story": "Maya a commencé à préparer un déjeuner simple trois fois par semaine et à le consigner avant de partir. Au début, elle craignait de devoir tout noter parfaitement, mais elle a vite repéré ce qui la rassasiait jusqu’à l’après‑midi. Le suivi est devenu une routine rapide qui rend le choix des repas plus réfléchi et moins stressant. Elle considère chaque enregistrement comme une information utile plutôt qu’un jugement, et apprécie combien un peu de préparation lui économise de l’énergie mentale les jours chargés.",
+          "habit": "Préparez et enregistrez un déjeuner la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Maya plant Mittagessen voraus",
+          "story": "Maya begann, an drei Tagen in der Woche ein einfaches Mittagessen vorzubereiten und es vor dem Verlassen des Hauses zu protokollieren. Anfangs machte sie sich Sorgen, alles genau erfassen zu müssen, doch bald entdeckte sie Muster, welche Mahlzeiten sie bis zum Nachmittag satt hielten. Das Tracking wurde zu einer schnellen Gewohnheit, die Essensentscheidungen bewusster und weniger stressig macht. Sie sieht jede Eintragung als nützliche Information, nicht als Bewertung, und schätzt, wie kleine Planungen im Alltag Energie sparen.",
+          "habit": "Bereite und protokolliere ein Mittagessen am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere heute."
+        },
+        "pt-br": {
+          "title": "Maya organiza almoços com antecedência",
+          "story": "Maya começou a levar um almoço simples três vezes por semana e a registrá‑lo antes de sair de casa. No começo, ela se preocupava em anotar tudo direitinho, mas logo passou a identificar padrões sobre o que a deixava saciada até a tarde. Registrar virou um hábito rápido que tornou as escolhas das refeições mais conscientes e menos estressantes. Ela encara cada registro como informação útil, não como julgamento, e percebe que um pouco de planejamento economiza energia mental em dias corridos.",
+          "habit": "Prepare e registre um almoço na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Maya előre megtervezi az ebédet",
+          "story": "Maya hetente háromszor egyszerű ebédet készít elő, és indulás előtt rögzíti azt. Eleinte aggódott, hogy mindent pontosan kell-e feljegyeznie, de hamar észrevette, mely ételek tartják jóllakottá délutánig. A naplózás gyors szokássá vált, amely tudatosabbá és kevésbé stresszessé teszi az ételválasztást. Minden bejegyzést hasznos információnak tekint, nem ítéletnek, és értékeli, hogy a tervezés kis lépései mentális energiát spórolnak a zsúfolt napokon.",
+          "habit": "Készíts és rögzíts egy ebédet előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "مايا تخطط للغداء مسبقًا",
+          "story": "بدأت مايا تحضير غداء بسيط ثلاث مرات في الأسبوع وتسجيله قبل الخروج من المنزل. في البداية كانت تقلق من تسجيل كل التفاصيل بدقة، لكن سرعان ما لاحظت أن بعض الخيارات تُبقيها مشبعة حتى منتصف النهار. أصبح التتبع عادة سريعة تجعل اختيارات الوجبات أكثر وعيًا وأقل توترًا. تنظر الآن إلى كل سجل كمعلومة مفيدة بدلاً من تقييم، وتقدّر كيف أن التخطيط البسيط يوفر لها طاقة ذهنية في الأيام المزدحمة.",
+          "habit": "حضّر وسجّل وجبة الغداء في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya plans lunches to stay steady.\nStory: Maya started packing a simple lunch three days a week and logging it before leaving the house. At first she worried about getting every detail right, but soon she noticed clearer patterns in what kept her full until mid-afternoon. Tracking became a quick habit that made meal choices feel more intentional instead of stressful. She treats each log as useful information, not a scorecard, and appreciates how small planning steps free up mental energy during a busy day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-22-motivation-2-story-2",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Jon notices his evening snack routine",
+          "story": "Jon began logging his snacks without judging himself. After a week he spotted a repeat: late‑night chips showed up on several evenings. Instead of feeling guilty, he experimented with a small change — swapping one late bag for a cup of yogurt two nights a week — and logged the result. Tracking helped him see patterns and test tiny adjustments that fit his life. He values the honest record because it helps him make choices that feel realistic, not restrictive.",
+          "habit": "Log snacks as you eat them, with no judgment.",
+          "appCta": "Try Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Jon descubre su patrón de picar por la noche",
+          "story": "Jon empezó a registrar sus tentempiés sin juzgarse. Tras una semana notó una repetición: por la noche aparecían patatas en varias entradas. En vez de culpabilizarse, probó un pequeño cambio — cambiar una bolsa de patatas por un yogur dos noches a la semana — y lo registró. El registro le ayudó a ver patrones y probar ajustes pequeños que encajaban con su vida. Valora llevar un registro honesto porque le permite tomar decisiones realistas, no restrictivas.",
+          "habit": "Registra los tentempiés justo cuando los tomes, sin juzgarte.",
+          "appCta": "Prueba Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Джон заметил вечернюю привычку перекусов",
+          "story": "Джон стал записывать перекусы без самокритики. Через неделю он увидел закономерность: несколько вечеров подряд в записях появлялись чипсы. Вместо чувства вины он попробовал небольшую замену — два вечера в неделю заменить пакет чипсов порцией йогурта — и фиксировал результат. Ведение записей помогло заметить шаблоны и опробовать маленькие изменения, которые реально вписывались в жизнь. Честный журнал помогает принимать решения, которые кажутся реалистичными, а не ограничивающими.",
+          "habit": "Записывайте перекусы сразу после них, без осуждения.",
+          "appCta": "Попробуйте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Джон помітив вечірню звичку перекусів",
+          "story": "Джон почав фіксувати перекуси без самообвинувачень. Через тиждень він помітив закономірність: кілька вечорів поспіль у записах з’являлися чіпси. Замість почуття провини він спробував невелику заміну — двічі на тиждень замінювати пакет чіпсів на порцію йогурту — і записував, як це проходить. Ведення записів допомогло помічати шаблони і пробувати маленькі зміни, які підходили під його повсякденність. Чесний журнал дає змогу робити реалістичні вибори, а не обмежувати себе.",
+          "habit": "Записуйте перекуси відразу після них, без осуду.",
+          "appCta": "Спробуйте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Jon repère ses grignotages du soir",
+          "story": "Jon a commencé à noter ses en-cas sans se juger. Au bout d’une semaine, il a repéré une répétition : des chips le soir plusieurs fois. Plutôt que de se culpabiliser, il a testé un petit changement — remplacer un sachet par un yaourt deux soirs par semaine — et l’a noté. Le suivi l’a aidé à voir des motifs et à expérimenter de petits ajustements compatibles avec son quotidien. Il apprécie le journal honnête parce qu’il lui permet de faire des choix réalistes, pas restrictifs.",
+          "habit": "Enregistrez les en-cas au moment où vous les prenez, sans jugement.",
+          "appCta": "Essayez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Jon erkennt seine abendlichen Snacks",
+          "story": "Jon begann, seine Snacks ohne Selbstvorwurf zu protokollieren. Nach einer Woche fiel ihm ein Muster auf: mehrmals am Abend tauchten Chips in seinen Einträgen auf. Statt sich schuldig zu fühlen, probierte er einen kleinen Wechsel — zweimal pro Woche einen Becher Joghurt statt einer Tüte — und dokumentierte das Ergebnis. Das Tracking half ihm, Muster zu erkennen und kleine Anpassungen auszuprobieren, die in sein Leben passen. Er schätzt den ehrlichen Eintrag, weil er realistische statt restriktive Entscheidungen ermöglicht.",
+          "habit": "Trage Snacks direkt nach dem Essen ein, ohne zu werten.",
+          "appCta": "Probiere Calorie Bank Credit und protokolliere heute."
+        },
+        "pt-br": {
+          "title": "Jon nota o padrão dos lanchinhos noturnos",
+          "story": "Jon passou a registrar os lanches sem se culpar. Após uma semana percebeu um padrão: chips apareciam várias noites. Em vez de sentir culpa, testou uma troca pequena — duas noites por semana trocar o pacote por um iogurte — e registrou como se sentiu. O registro o ajudou a enxergar padrões e a testar ajustes pequenos que cabiam na rotina. Ele valoriza o registro honesto porque permite escolhas realistas, não restritivas.",
+          "habit": "Registre os lanches assim que comê-los, sem julgamento.",
+          "appCta": "Experimente Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Jon észreveszi az esti nassolást",
+          "story": "Jon elkezdte rögzíteni a nassolásait ítélkezés nélkül. Egy hét múlva mintát fedezett fel: több estén is chips szerepelt a naplóban. Bűntudat helyett kipróbált egy apró cserét — heti két alkalommal egy zacskó helyett natúr joghurtot — és leírta az eredményt. A naplózás segített meglátni a mintákat és kipróbálni apró változtatásokat, amelyek illeszkednek az életéhez. Az őszinte feljegyzések olyan döntéseket segítenek, amelyek reálisak, nem korlátozóak.",
+          "habit": "Jegyezd fel a nassolást azonnal, ítélkezés nélkül.",
+          "appCta": "Próbáld ki a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "جون لاحظ نمط وجباته الخفيفة المسائية",
+          "story": "بدأ جون بتسجيل وجباته الخفيفة دون أن يحكم على نفسه. بعد أسبوع لاحظ نمطًا: رقائق البطاطس تتكرر في أمسيات عدة. بدلًا من الشعور بالذنب، جرب استبدالًا بسيطًا — مرتين في الأسبوع استبدل الكيس بكوب من الزبادي — وسجل النتيجة. ساعده التتبع في رؤية الأنماط وتجربة تعديلات صغيرة تتماشى مع حياته. يقدّر السجل الصادق لأنه يساعده على اتخاذ خيارات واقعية بدلًا من قيود صارمة.",
+          "habit": "سجل وجباتك الخفيفة فور تناولها دون حكم.",
+          "appCta": "جرّب Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Jon notices his evening snack routine.\nStory: Jon began logging his snacks without judging himself. After a week he spotted a repeat: late‑night chips showed up on several evenings. Instead of feeling guilty, he experimented with a small change — swapping one late bag for a cup of yogurt two nights a week — and logged the result. Tracking helped him see patterns and test tiny adjustments that fit his life. He values the honest record because it helps him make choices that feel realistic, not restrictive..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-22-motivation-3-story-3",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Ana turns leftovers into simple wins",
+          "story": "Ana keeps a short note in the app whenever she improvises dinner from leftovers. Over a month she saw which combos felt satisfying and which left her hungry an hour later. Instead of aiming for perfection, she uses those notes to plan one extra portion on busy days and to mix in vegetables she enjoys. Tracking helped her make small, realistic swaps that saved time and reduced waste. She appreciates the gentle feedback her log gives about what actually works in her routine.",
+          "habit": "Note one leftover-based meal after you eat it.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Ana aprovecha las sobras",
+          "story": "Ana anota brevemente en la app cuando prepara la cena con sobras. En un mes vio qué combinaciones le resultaban satisfactorias y cuáles la dejaban con hambre a la hora. En lugar de buscar la perfección, usa esas notas para planear una porción extra en días ocupados y añadir verduras que le gusten. Registrar le ayudó a hacer pequeños intercambios realistas que ahorran tiempo y evitan desperdicio. Valora la retroalimentación sencilla que le da su registro sobre lo que realmente funciona en su día a día.",
+          "habit": "Anota una cena hecha con sobras justo después de comerla.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Ана использует остатки с умом",
+          "story": "Ана коротко записывает в приложении, когда готовит ужин из остатков. За месяц она увидела, какие сочетания насыщают, а какие оставляют голод через час. Вместо стремления к идеалу она использует записи, чтобы планировать лишнюю порцию в занятые дни и добавлять овощи, которые нравятся. Ведение записей помогло внедрить небольшие реалистичные замены, которые экономят время и уменьшают продукты отходов. Её радует ненавязчивая обратная связь от журнала о том, что реально работает в её распорядке.",
+          "habit": "Запишите один ужин из остатков сразу после еды.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Ана використовує залишки з розумом",
+          "story": "Ана коротко занотовує в додатку, коли готує вечерю зі залишків. За місяць вона помітила, які комбінації її ситнять, а які залишають голод через годину. Замість прагнення до досконалості вона використовує нотатки, щоб планувати додаткову порцію у зайві дні та додавати овочі, які їй до смаку. Ведення записів допомогло зробити маленькі реалістичні заміни, що економлять час і менше марнують їжу. Їй подобається м’який зворотний зв’язок від журналу.",
+          "habit": "Занотуйте одну вечерю зі залишків одразу після їжі.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Ana transforme les restes en petites victoires",
+          "story": "Ana note brièvement dans l’appli quand elle improvise un dîner avec des restes. En un mois, elle a repéré quelles associations la satisfaisaient et lesquelles la laissaient encore faim une heure plus tard. Plutôt que de viser la perfection, elle utilise ces notes pour prévoir une portion supplémentaire les jours chargés et y ajouter des légumes qu’elle aime. Le suivi l’a aidée à opérer de petits changements réalistes qui font gagner du temps et limitent le gaspillage. Elle apprécie ce retour simple qui lui montre ce qui marche vraiment.",
+          "habit": "Notez un repas à base de restes juste après l’avoir pris.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Ana macht aus Resten kleine Erfolge",
+          "story": "Ana notiert kurz in der App, wenn sie ein Abendessen aus Resten improvisiert. Nach einem Monat sah sie, welche Kombinationen satt machten und welche eine Stunde später wieder Hunger brachten. Statt nach Perfektion zu streben, nutzt sie diese Notizen, um an stressigen Tagen eine Extraportion einzuplanen und Gemüsesorten einzubauen, die ihr gefallen. Das Tracking half ihr, kleine realistische Anpassungen vorzunehmen, die Zeit sparen und Verschwendung reduzieren. Sie schätzt das sanfte Feedback ihres Logs darüber, was in ihrem Alltag funktioniert.",
+          "habit": "Notiere eine Resteverwertung unmittelbar nach dem Essen.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere heute."
+        },
+        "pt-br": {
+          "title": "Ana transforma sobras em pequenas vitórias",
+          "story": "Ana faz uma breve anotação no app sempre que improvisa o jantar com sobras. Em um mês percebeu quais combinações a deixavam saciada e quais a deixavam com fome uma hora depois. Em vez de buscar perfeição, usa essas notas para planejar uma porção extra em dias corridos e incluir vegetais que ela gosta. O registro a ajudou a testar pequenas trocas realistas que economizam tempo e reduzem desperdício. Ela valoriza o retorno discreto do diário sobre o que funciona na rotina.",
+          "habit": "Anote uma refeição com sobras logo após comê‑la.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Ana a maradékokból is sikert kovácsol",
+          "story": "Ana röviden feljegyzi az appban, amikor maradékokból rak össze vacsorát. Egy hónap alatt észrevette, mely kombinációk tartják jóllakottnak, és melyek hagynak éhséget egy óra múlva. A tökéletesség helyett ezeket a jegyzeteket használja arra, hogy forgalmas napokra plusz adagot tervezzen és több zöldséget adjon az ételekhez. A naplózás segített apró, reális változtatások bevezetésében, amelyek időt takarítanak és kevesebb hulladékot eredményeznek. Örül annak a finom visszajelzésnek, amit a napló ad.",
+          "habit": "Jegyzeteld le a maradékból készült ételt közvetlenül utána.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "آنا تحول البقايا إلى نجاحات بسيطة",
+          "story": "تدون آنا بسرعة في التطبيق عندما تحضر عشاءً من بقايا الطعام. خلال شهر لاحظت أي التركيبات تُشعرها بالشبع وأيها تتركها جائعة بعد ساعة. بدلاً من السعي للكمال، تستخدم هذه الملاحظات لتخطيط حصة إضافية في الأيام المزدحمة ولإضافة الخضروات التي تحبها. ساعدها التتبع على إجراء تغييرات صغيرة وواقعية توفر الوقت وتقلل الهدر. تُقدّر الملاحظات الهادئة التي يعطيها سجلها حول ما يناسب روتينها بالفعل.",
+          "habit": "سجّل وجبة من البقايا فور تناولها.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Ana turns leftovers into simple wins.\nStory: Ana keeps a short note in the app whenever she improvises dinner from leftovers. Over a month she saw which combos felt satisfying and which left her hungry an hour later. Instead of aiming for perfection, she uses those notes to plan one extra portion on busy days and to mix in vegetables she enjoys. Tracking helped her make small, realistic swaps that saved time and reduced waste. She appreciates the gentle feedback her log gives about what actually works in her routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-22-motivation-4-story-4",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Luca schedules a weekly quick review",
+          "story": "Luca spends five minutes each Sunday glancing through his logs to spot trends. He uses that time to celebrate small wins — like choosing fruit more often — and to plan one tiny tweak for the coming week. Reviewing his entries regularly helps him notice times when he’s rushed, hungry, or satisfied, and to adjust pragmatically. He doesn’t aim for flawless tracking; he treats the review as a calm check‑in that keeps choices intentional and manageable alongside a busy life.",
+          "habit": "Spend five minutes reviewing your past week every Sunday.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Luca hace una revisión semanal rápida",
+          "story": "Luca dedica cinco minutos cada domingo a revisar sus registros para detectar tendencias. Usa ese tiempo para celebrar pequeñas victorias —por ejemplo, elegir fruta más a menudo— y para planear un pequeño ajuste para la semana siguiente. Revisar con regularidad le ayuda a ver cuándo tiene prisa, cuándo llega con hambre o cuándo se siente satisfecho, y a ajustar de forma práctica. No busca un registro perfecto; considera la revisión como un chequeo tranquilo que mantiene sus elecciones intencionales y manejables en una vida ajetreada.",
+          "habit": "Dedica cinco minutos a revisar la semana pasada cada domingo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Лука устраивает еженедельный обзор",
+          "story": "Лука тратит пять минут в воскресенье, просматривая записи, чтобы заметить тенденции. Он использует это время, чтобы отметить маленькие успехи — например, чаще выбирать фрукты — и наметить одно небольшое изменение на следующую неделю. Регулярный обзор помогает понять, когда он торопится, когда приходит голод или когда он доволен, и вносить практичные корректировки. Он не стремится к идеальному отслеживанию; для него обзор — спокойная проверка, которая делает выборы осознанными и выполнимыми в плотном графике.",
+          "habit": "Потратьте пять минут в воскресенье на обзор прошедшей недели.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Лука проводить тижневий короткий огляд",
+          "story": "Лука виділяє п’ять хвилин щонеділі, щоб переглянути записи й помітити тенденції. Він використовує цей час, щоб відзначити маленькі досягнення — наприклад частіший вибір фруктів — і запланувати одну невелику зміну на наступний тиждень. Регулярний огляд допомагає помітити, коли він поспішає, коли приходить голод чи коли він ситий, і вносити практичні корективи. Він не прагне ідеального обліку; огляд — це спокійна перевірка, що робить вибори усвідомленими й здійсненними у його насиченому житті.",
+          "habit": "Приділіть п’ять хвилин на огляд минулого тижня щонеділі.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Luca fait une revue hebdo rapide",
+          "story": "Luca passe cinq minutes chaque dimanche à parcourir ses enregistrements pour repérer des tendances. Il en profite pour célébrer de petites victoires — comme choisir un fruit plus souvent — et pour planifier un petit ajustement pour la semaine à venir. Cette revue régulière l’aide à repérer les moments où il est pressé, affamé ou satisfait, et à ajuster de manière pragmatique. Il ne cherche pas la perfection : la revue est un point de contrôle calme qui maintient des choix intentionnels et faciles à tenir dans une vie chargée.",
+          "habit": "Consacrez cinq minutes chaque dimanche à revoir votre semaine passée.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Luca macht eine wöchentliche Kurz‑Durchsicht",
+          "story": "Luca nimmt sich jeden Sonntag fünf Minuten, um seine Einträge zu überfliegen und Trends zu erkennen. Er nutzt die Zeit, um kleine Erfolge zu feiern — z. B. öfter Obst zu wählen — und einen kleinen Plan für die kommende Woche festzulegen. Die regelmäßige Durchsicht hilft ihm zu sehen, wann er in Eile ist, wann er hungrig oder satt ist, und pragmatisch anzupassen. Er strebt keine perfekte Dokumentation an; die Durchsicht ist ein ruhiger Check‑in, der Entscheidungen bewusst und machbar hält.",
+          "habit": "Nimm dir jeden Sonntag fünf Minuten Zeit, um die vergangene Woche zu prüfen.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere heute."
+        },
+        "pt-br": {
+          "title": "Luca faz uma revisão semanal rápida",
+          "story": "Luca reserva cinco minutos todo domingo para olhar seus registros e notar tendências. Ele usa esse tempo para celebrar pequenas conquistas — por exemplo, escolher frutas com mais frequência — e planejar um ajuste pequeno para a semana. Revisar regularmente ajuda a perceber quando está com pressa, com fome ou satisfeito, e a ajustar de forma prática. Ele não busca um rastreio perfeito; a revisão é um check‑in tranquilo que mantém as escolhas intencionais e factíveis na rotina corrida.",
+          "habit": "Passe cinco minutos revisando sua semana passada todo domingo.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Luca heti rövid áttekintést tart",
+          "story": "Luca vasárnaponként öt percet szán arra, hogy átnézze a naplóit és észrevegye a mintákat. Ezt az időt arra használja, hogy megünnepeljen apró sikereket — például gyümölcs választását gyakrabban — és megtervezzen egy kis változtatást a következő hétre. A rendszeres áttekintés segít észrevenni, mikor siet, mikor éhes vagy mikor elégedett, és gyakorlatiasan igazítani. Nem a tökéletes rögzítésre törekszik; az áttekintés egy nyugodt ellenőrzés, ami tudatossá és megvalósíthatóvá teszi a döntéseket.",
+          "habit": "Szánj öt percet minden vasárnap az elmúlt hét áttekintésére.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "لوكا يخصص مراجعة أسبوعية سريعة",
+          "story": "يأخذ لوكا خمس دقائق كل يوم أحد لمطالعة سجلاته واكتشاف الأنماط. يستخدم هذا الوقت للاحتفال بالانتصارات الصغيرة — مثل اختيار الفاكهة أكثر — ولتخطيط تعديل بسيط للأسبوع القادم. تساعده المراجعة الدورية على ملاحظة متى يكون مسرعًا، متى يشعر بالجوع أو بالشبع، وعلى التكيف بشكل عملي. لا يسعى للكمال في التسجيل؛ بل يعتبر المراجعة فحصًا هادئًا يساعده على الحفاظ على خيارات مدروسة وقابلة للتنفيذ في حياة مشغولة.",
+          "habit": "خصص خمس دقائق لمراجعة أسبوعك الماضي كل أحد.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-22T06:50:16.461Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-22-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Luca schedules a weekly quick review.\nStory: Luca spends five minutes each Sunday glancing through his logs to spot trends. He uses that time to celebrate small wins — like choosing fruit more often — and to plan one tiny tweak for the coming week. Reviewing his entries regularly helps him notice times when he’s rushed, hungry, or satisfied, and to adjust pragmatically. He doesn’t aim for flawless tracking; he treats the review as a calm check‑in that keeps choices intentional and manageable alongside a busy life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-09-21-motivation-1-story1",
       "category": "planning",
