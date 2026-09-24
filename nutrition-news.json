@@ -1,113 +1,755 @@
 {
-  "generatedAt": "2026-09-23T06:53:16.862Z",
+  "generatedAt": "2026-09-24T06:51:03.868Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "a10",
-      "category": "sustainability",
+      "id": "env-footprint-vegan-mediterranean-trial-2026",
+      "category": "sustainability / nutrition",
       "sourceName": "nutrition.bmj.com",
       "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
       "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Secondary analysis compares environmental impacts of low‑fat vegan and Mediterranean diets",
-          "summary": "A randomized crossover trial of 62 overweight adults compared the environmental footprints of two plant‑forward diets — a low‑fat vegan diet and a Mediterranean diet — using three‑day dietary records to estimate greenhouse gas emissions and cumulative energy demand in completers.",
-          "whyItMatters": "Beyond health effects, diet choices have measurable environmental consequences; randomized dietary data can help refine estimates of how different eating patterns influence greenhouse gas emissions and energy use.",
+          "title": "Environmental footprint of low-fat vegan vs Mediterranean diets in a randomized trial",
+          "summary": "A secondary analysis of a randomized crossover trial compared the environmental impacts of two plant-forward dietary patterns — a low-fat vegan diet and a Mediterranean diet — by calculating greenhouse gas emissions and cumulative energy demand from 3-day dietary records collected from 62 overweight adult participants.",
+          "whyItMatters": "Trial-based comparisons help quantify environmental differences between real-world diets, offering evidence to inform discussions about sustainable eating alongside health considerations.",
           "takeaways": [
-            "The analysis used dietary records from a randomized, crossover trial to calculate greenhouse gas emissions and energy demand for two diets.",
-            "Plant‑forward diets were evaluated for environmental footprint using trial‑derived intake data rather than observational surveys.",
-            "Results contribute to understanding trade‑offs between dietary patterns, sustainability and public health objectives."
+            "The analysis used a randomized, crossover trial design with 62 completers to compare diets.",
+            "Researchers calculated greenhouse gas emissions and cumulative energy demand from recorded dietary intake.",
+            "Both diets are plant-forward, and the study aimed to quantify relative environmental footprints in a controlled trial context."
           ]
         },
         "es": {
-          "title": "Análisis secundario compara impactos ambientales de dietas vegana baja en grasas y mediterránea",
-          "summary": "Un ensayo aleatorizado cruzado con 62 adultos con sobrepeso comparó las huellas ambientales de dos dietas con predominio de alimentos vegetales —una dieta vegana baja en grasas y una dieta mediterránea— usando registros dietarios de tres días para estimar las emisiones de gases de efecto invernadero y la demanda energética acumulada en quienes completaron el estudio.",
-          "whyItMatters": "Más allá de los efectos sobre la salud, las elecciones dietarias tienen consecuencias ambientales medibles; datos dietarios procedentes de ensayos aleatorizados pueden ayudar a refinar las estimaciones sobre cómo distintos patrones alimentarios influyen en las emisiones de gases de efecto invernadero y el uso de energía.",
+          "title": "Huella ambiental de dietas vegana baja en grasa frente a mediterránea en un ensayo aleatorizado",
+          "summary": "Un análisis secundario de un ensayo aleatorizado cruzado comparó los impactos ambientales de dos patrones dietarios con predominio vegetal —una dieta vegana baja en grasa y una dieta mediterránea— calculando emisiones de gases de efecto invernadero y demanda energética acumulada a partir de registros dietarios de 3 días recogidos en 62 participantes adultos con sobrepeso.",
+          "whyItMatters": "Las comparaciones basadas en ensayos ayudan a cuantificar diferencias ambientales entre dietas del mundo real, aportando evidencia para informar discusiones sobre alimentación sostenible junto con consideraciones de salud.",
           "takeaways": [
-            "El análisis utilizó registros dietarios de un ensayo aleatorizado y cruzado para calcular emisiones de GEI y demanda energética de dos dietas.",
-            "Las dietas con predominio de plantas se evaluaron en términos de huella ambiental usando datos derivados del ensayo en lugar de encuestas observacionales.",
-            "Los resultados contribuyen a comprender las compensaciones entre patrones dietarios, sostenibilidad y objetivos de salud pública."
+            "El análisis utilizó un diseño de ensayo aleatorizado cruzado con 62 participantes que completaron el estudio para comparar las dietas.",
+            "Los investigadores calcularon emisiones de gases de efecto invernadero y la demanda energética acumulada a partir de los registros de ingesta.",
+            "Ambas dietas son con predominio vegetal; el estudio buscó cuantificar las huellas ambientales relativas en un contexto de ensayo controlado."
           ]
         },
         "ru": {
-          "title": "Вторичный анализ сравнивает экологический след низкожировой веганской и средиземноморской диет",
-          "summary": "Рандомизированное перекрёстное исследование с участием 62 взрослых с избыточным весом сравнивало экологический след двух растительноориентированных диет — низкожировой веганской и средиземноморской — используя трёхдневные пищевые записи для оценки выбросов парниковых газов и накопленной энергетической потребности у завершивших исследование участников.",
-          "whyItMatters": "Помимо влияния на здоровье, выбор диеты имеет измеримые экологические последствия; данные о питании из рандомизированных исследований могут помочь уточнить оценки того, как разные пищевые модели влияют на выбросы парниковых газов и потребление энергии.",
+          "title": "Экологический след низкожировой веганской диеты и средиземноморской диеты в рандомизированном исследовании",
+          "summary": "Вторичный анализ рандомизированного кроссоверного исследования сравнил экологические воздействия двух растительноориентированных рационов — низкожировой веганской диеты и средиземноморской диеты — рассчитывая выбросы парниковых газов и накопленную потребность в энергии по трёхдневным дневникам питания, собранным у 62 взрослых участников с избыточным весом.",
+          "whyItMatters": "Сравнения на основе клинических испытаний помогают количественно оценить экологические различия между реальными диетами, предоставляя данные для обсуждений устойчивого питания наряду с соображениями здоровья.",
           "takeaways": [
-            "Анализ использовал пищевые записи из рандомизированного перекрёстного исследования для расчёта выбросов ПГ и энергетического спроса для двух диет.",
-            "Растительноориентированные диеты оценивались по экологическому следу на основе экспериментальных данных, а не наблюдательных опросов.",
-            "Результаты помогают понять компромиссы между пищевыми моделями, устойчивостью и целями общественного здравоохранения."
+            "Анализ использовал дизайн рандомизированного кроссоверного исследования с 62 завершившими участниками для сравнения рационов.",
+            "Исследователи рассчитали выбросы парниковых газов и накопленную потребность в энергии по учёту потребления пищи.",
+            "Обе диеты ориентированы на растительную основу; цель исследования — оценить относительную экологическую нагрузку в контролируемом экспериментальном контексте."
           ]
         },
         "uk": {
-          "title": "Вторинний аналіз порівнює впливи на довкілля низькожирової веганської та середземноморської дієт",
-          "summary": "Рандомізоване перехресне дослідження 62 дорослих з надмірною вагою порівняло екологічний відбиток двох рослинно‑орієнтованих дієт — низькожирової веганської дієти та середземноморської дієти — використовуючи триденні харчові щоденники для оцінки викидів парникових газів і кумулятивного попиту на енергію у тих, хто завершив дослідження.",
-          "whyItMatters": "Окрім впливу на здоров’я, вибір дієти має вимірювані наслідки для довкілля; дані з рандомізованих дієтичних досліджень можуть допомогти уточнити оцінки того, як різні моделі харчування впливають на викиди парникових газів і споживання енергії.",
+          "title": "Екологічний відбиток низькожирової веганської дієти проти середземноморської у рандомізованому дослідженні",
+          "summary": "Вторинний аналіз рандомізованого кросоверу порівнював вплив на довкілля двох рослинноорієнтованих дієтичних моделей — низькожирової веганської дієти та середземноморської — шляхом розрахунку викидів парникових газів і кумулятивної енергетичної витратності на основі триденного харчового щоденника від 62 дорослих із надлишковою вагою.",
+          "whyItMatters": "Порівняння на основі даних клінічного випробування допомагає кількісно оцінити екологічні відмінності між реальними дієтами, що дає докази для обговорень про стійке харчування поряд із питаннями здоровʼя.",
           "takeaways": [
-            "Аналіз використовував харчові записи з рандомізованого перехресного дослідження для розрахунку викидів парникових газів та енергетичного попиту для двох дієт.",
-            "Оцінку екологічного відбитка рослинно‑орієнтованих дієт проводили на основі даних про прийом їжі з контрольованого випробування, а не з обсерваційних опитувань.",
-            "Результати допомагають зрозуміти компроміси між моделями харчування, стійкістю та цілями громадського здоров’я."
+            "Аналіз базувався на рандомізованому кросоверовому дизайні з 62 завершившими учасниками для порівняння дієт.",
+            "Дослідники розрахували викиди парникових газів і кумулятивну енергетичну витратність на основі зафіксованого харчування.",
+            "Обидві дієти були рослинноорієнтованими, і метою дослідження було кількісно оцінити відносний екологічний відбиток у контрольованому контексті."
           ]
         },
         "fr": {
-          "title": "Analyse secondaire comparant les impacts environnementaux d’un régime végan pauvre en graisses et d’un régime méditerranéen",
-          "summary": "Un essai randomisé croisé mené auprès de 62 adultes en surpoids a comparé l’empreinte environnementale de deux régimes à base végétale — un régime végan pauvre en graisses et un régime méditerranéen — en utilisant des journaux alimentaires de trois jours pour estimer les émissions de gaz à effet de serre et la demande énergétique cumulative chez les participants ayant complété l’étude.",
-          "whyItMatters": "Au‑delà des effets sur la santé, les choix alimentaires ont des conséquences mesurables sur l’environnement ; des données diététiques issues d’essais randomisés peuvent aider à affiner les estimations de l’impact des différents modèles alimentaires sur les émissions de gaz à effet de serre et l’utilisation d’énergie.",
+          "title": "Empreinte environnementale d’un régime vegan pauvre en graisse vs régime méditerranéen dans un essai randomisé",
+          "summary": "Une analyse secondaire d’un essai randomisé en crossover a comparé les impacts environnementaux de deux régimes à dominante végétale — un régime vegan pauvre en graisses et un régime méditerranéen — en calculant les émissions de gaz à effet de serre et la demande énergétique cumulée à partir de journaux alimentaires de 3 jours recueillis auprès de 62 participants adultes en surpoids.",
+          "whyItMatters": "Les comparaisons basées sur des essais permettent de quantifier les différences environnementales entre des régimes réels, fournissant des éléments pour les discussions sur une alimentation durable en parallèle des considérations de santé.",
           "takeaways": [
-            "L’analyse s’est basée sur des enregistrements alimentaires issus d’un essai randomisé croisé pour calculer les émissions de gaz à effet de serre et la demande énergétique de deux régimes.",
-            "Des régimes à dominante végétale ont été évalués pour leur empreinte environnementale à partir de données d’un essai contrôlé plutôt que d’enquêtes observationnelles.",
-            "Les résultats contribuent à la compréhension des compromis entre modèles alimentaires, durabilité et objectifs de santé publique."
+            "L’analyse utilisait un essai randomisé en crossover avec 62 participants ayant complété l’étude pour comparer les régimes.",
+            "Les chercheurs ont calculé les émissions de gaz à effet de serre et la demande énergétique cumulée à partir des apports alimentaires enregistrés.",
+            "Les deux régimes sont à dominante végétale et l’étude visait à quantifier leur empreinte environnementale relative dans un contexte contrôlé."
           ]
         },
         "de": {
-          "title": "Sekundäranalyse vergleicht Umweltwirkungen einer fettarmen veganen und einer mediterranen Diät",
-          "summary": "Eine randomisierte Crossover‑Studie mit 62 übergewichtigen Erwachsenen verglich die Umweltfußabdrücke zweier pflanzenbetonter Ernährungsweisen — einer fettarmen veganen Diät und einer mediterranen Diät — und nutzte dreitägige Ernährungserfassungen, um Treibhausgasemissionen und kumulative Energienachfrage bei den abgeschlossenen Teilnehmern abzuschätzen.",
-          "whyItMatters": "Neben gesundheitlichen Effekten haben Ernährungsentscheidungen messbare Umweltkonsequenzen; randomisierte Ernährungsdaten können helfen, Schätzungen zu verfeinern, wie verschiedene Essmuster Treibhausgasemissionen und Energieverbrauch beeinflussen.",
+          "title": "Umweltfußabdruck von fettarmer veganer gegenüber mediterraner Ernährung in einer randomisierten Studie",
+          "summary": "Eine Sekundäranalyse einer randomisierten Crossover‑Studie verglich die Umweltauswirkungen zweier pflanzenbetonter Ernährungsweisen — einer fettarmen veganen Ernährung und einer mediterranen Ernährung — indem Treibhausgasemissionen und kumulativen Energiebedarf aus 3‑tägigen Ernährungstagebüchern von 62 übergewichtigen erwachsenen Studienteilnehmenden berechnet wurden.",
+          "whyItMatters": "Vergleiche auf Basis von klinischen Studien helfen, Umweltunterschiede zwischen realen Ernährungsweisen zu quantifizieren und liefern Evidenz zur Diskussion über nachhaltiges Essen neben gesundheitlichen Erwägungen.",
           "takeaways": [
-            "Die Analyse nutzte Ernährungsaufzeichnungen aus einer randomisierten Crossover‑Studie, um Treibhausgasemissionen und Energiebedarf für zwei Diäten zu berechnen.",
-            "Pflanzenbetonte Diäten wurden hinsichtlich ihres Umweltfußabdrucks anhand trial‑basierter Aufnahmedaten und nicht nur Beobachtungsumfragen bewertet.",
-            "Die Ergebnisse tragen zum Verständnis der Abwägungen zwischen Ernährungsweisen, Nachhaltigkeit und Zielen der öffentlichen Gesundheit bei."
+            "Die Analyse nutzte ein randomisiertes Crossover‑Studiendesign mit 62 Teilnehmenden, die die Protokolle abschlossen, um Diäten zu vergleichen.",
+            "Die Forschenden berechneten Treibhausgasemissionen und kumulativen Energiebedarf aus den dokumentierten Nahrungsaufzeichnungen.",
+            "Beide Diäten sind pflanzenbetont; die Studie zielte darauf ab, relative Umweltfußabdrücke in einem kontrollierten Studiensetting zu quantifizieren."
           ]
         },
         "pt-br": {
-          "title": "Análise secundária compara impactos ambientais de dietas vegana com baixo teor de gordura e mediterrânea",
-          "summary": "Um ensaio randomizado cruzado com 62 adultos com sobrepeso comparou as pegadas ambientais de duas dietas com foco em plantas — uma dieta vegana com baixo teor de gordura e uma dieta mediterrânea — usando registros alimentares de três dias para estimar as emissões de gases de efeito estufa e a demanda energética cumulativa nos participantes que completaram o estudo.",
-          "whyItMatters": "Além dos efeitos na saúde, escolhas alimentares têm consequências ambientais mensuráveis; dados dietéticos de ensaios randomizados podem ajudar a aprimorar estimativas de como diferentes padrões alimentares influenciam emissões de gases de efeito estufa e uso de energia.",
+          "title": "Pegada ambiental de dietas vegana com baixo teor de gordura vs mediterrânea em ensaio randomizado",
+          "summary": "Uma análise secundária de um ensaio clínico randomizado crossover comparou os impactos ambientais de dois padrões alimentares com ênfase em plantas — uma dieta vegana baixa em gordura e uma dieta mediterrânea — calculando emissões de gases de efeito estufa e demanda cumulativa de energia a partir de registros alimentares de 3 dias coletados de 62 participantes adultos com sobrepeso.",
+          "whyItMatters": "Comparações baseadas em ensaios ajudam a quantificar diferenças ambientais entre dietas do mundo real, oferecendo evidências para informar discussões sobre alimentação sustentável juntamente com considerações de saúde.",
           "takeaways": [
-            "A análise usou registros alimentares de um ensaio randomizado cruzado para calcular emissões de gases de efeito estufa e demanda energética de duas dietas.",
-            "Dietas com foco em plantas foram avaliadas quanto à pegada ambiental com base em dados de ingestão derivados do ensaio, em vez de apenas pesquisas observacionais.",
-            "Os resultados contribuem para entender as trocas entre padrões alimentares, sustentabilidade e objetivos de saúde pública."
+            "A análise utilizou um desenho randomizado crossover com 62 participantes que completaram o protocolo para comparar as dietas.",
+            "Os pesquisadores calcularam emissões de gases de efeito estufa e demanda energética cumulativa a partir da ingestão dietética registrada.",
+            "Ambas as dietas são com foco em plantas; o estudo teve como objetivo quantificar as pegadas ambientais relativas em um contexto de ensaio controlado."
           ]
         },
         "hu": {
-          "title": "Másodlagos elemzés: alacsony zsírtartalmú vegán és mediterrán étrend környezeti hatásainak összehasonlítása",
-          "summary": "Egy randomizált keresztezett vizsgálat 62 túlsúlyos felnőtt részvételével két növénypárti étrend — egy alacsony zsírtartalmú vegán és egy mediterrán étrend — környezeti lábnyomát hasonlította össze; a teljesítők adataiból háromnapos étrendi naplók alapján becsülték az üvegházhatású gázkibocsátást és az összegzett energiaigényt.",
-          "whyItMatters": "Az étrendi választásoknak az egészségen túl mérhető környezeti következményei is vannak; randomizált étrendi adatok segíthetnek pontosabb becsléseket adni arról, hogy a különböző étkezési minták hogyan befolyásolják az üvegházhatású gázkibocsátást és az energiafelhasználást.",
+          "title": "A low‑fat vegán és a mediterrán étrend környezeti lábnyoma egy randomizált vizsgálat másodlagos elemzésében",
+          "summary": "Egy randomizált áthidaló (crossover) vizsgálat másodlagos elemzése összehasonlította két növényközpontú étrend — egy alacsony zsírtartalmú vegán és egy mediterrán étrend — környezeti hatásait az üvegházhatású gázkibocsátás és a kumulatív energiaigény kiszámításával, 3 napos étrendi feljegyzések alapján 62 túlsúlyos felnőtt résztvevőről.",
+          "whyItMatters": "A vizsgálat-alapú összehasonlítások segítenek számszerűsíteni a valós étrendek közötti környezeti különbségeket, és bizonyítékot szolgáltatnak a fenntartható étkezésről folytatott viták egészségügyi megfontolásokkal való összehangolásához.",
           "takeaways": [
-            "Az elemzés randomizált, keresztezett vizsgálat étrendi naplóit használta az üvegházhatású gázok és az energiaigény kiszámításához két étrend esetében.",
-            "A növénytöbb alapú étrendeket a vizsgálati adatokból számított környezeti lábnyom alapján értékelték, nem megfigyeléses felmérések alapján.",
-            "Az eredmények hozzájárulnak a különböző étrendi minták, a fenntarthatóság és a közegészségügyi célok közötti kompromisszumok jobb megértéséhez."
+            "Az elemzés egy randomizált, crossover vizsgálatot használt 62 befejező részvevővel az étrendek összehasonlítására.",
+            "A kutatók az étkezési feljegyzésekből számolták ki az üvegházhatású gázkibocsátást és a kumulatív energiaigényt.",
+            "Mindkét étrend növényközpontú volt, és a tanulmány célja a viszonylagos környezeti lábnyom számszerűsítése kontrollált vizsgálati környezetben."
           ]
         },
         "ar": {
-          "title": "تحليل ثانوي يقارن الآثار البيئية لنظام نباتي منخفض الدسم والنظام المتوسطي",
-          "summary": "قارن تجربة عشوائية متقاطعة شملت 62 بالغًا زائدين عن الوزن الأثر البيئي لنظامين غذائيين نموذجيين نحو النباتات — نظام نباتي منخفض الدهون والنظام المتوسطي — باستخدام سجلات غذائية لثلاثة أيام من المشاركين المكتملين لتقدير انبعاثات الغازات الدفيئة والطلب التراكمي على الطاقة.",
-          "whyItMatters": "إلى جانب التأثيرات الصحية، لدى خيارات النظام الغذائي عواقب بيئية قابلة للقياس؛ يمكن أن تساعد بيانات نظم غذائية مأخوذة من تجارب عشوائية في تحسين تقديرات كيفية تأثير أنماط الأكل المختلفة على انبعاثات الغازات الدفيئة واستخدام الطاقة.",
+          "title": "البصمة البيئية لنظام نباتي منخفض الدهون مقابل النظام المتوسطي في تجربة عشوائية: تحليل ثانوي",
+          "summary": "قارن تحليل ثانوي لتجربة عشوائية متقاطعة التأثيرات البيئية لنمطين غذائيين نباتيين التوجّه — نظام نباتي منخفض الدهون ونظام متوسطي — عبر حساب انبعاثات غازات الاحتباس الحراري والطلب التراكمي على الطاقة استنادًا إلى سجلات غذائية لمدة 3 أيام من 62 مشاركًا بالغًا زائد الوزن.",
+          "whyItMatters": "تُساعد المقارنات المستندة إلى تجارب على تحديد الفروقات البيئية بين الأنظمة الغذائية الواقعية، وتقدّم أدلة للمناقشات حول الأكل المستدام إلى جانب الاعتبارات الصحية.",
           "takeaways": [
-            "استخدم التحليل سجلات غذائية من تجربة عشوائية متقاطعة لحساب انبعاثات الغازات الدفيئة وطلب الطاقة لنظامين غذائيين.",
-            "قيِّمَت الأنظمة الغذائية الموجهة نحو النباتات بناءً على آثارها البيئية المستمدة من بيانات التجربة بدلاً من المسوح الرصدية.",
-            "تُسهم النتائج في فهم المقايضات بين أنماط الأكل والاستدامة والأهداف الصحية العامة."
+            "استخدم التحليل تصميم تجربة عشوائية متقاطعة مع 62 مشاركًا مكتملاً لمقارنة الأنظمة الغذائية.",
+            "حسب الباحثون انبعاثات غازات الاحتباس الحراري والطلب التراكمي على الطاقة من مدخلات السجل الغذائي.",
+            "كلا النظامين غذائيان بنّاءان على النباتات، وهدفت الدراسة إلى قياس البصمات البيئية النسبية في إطار تجربة مُتحكَّم بها."
           ]
         }
       },
-      "generatedAt": "2026-09-23T06:53:16.862Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a10",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=env-footprint-vegan-mediterranean-trial-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/env-footprint-vegan-mediterranean-trial-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/env-footprint-vegan-mediterranean-trial-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Secondary analysis compares environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: A randomized crossover trial of 62 overweight adults compared the environmental footprints of two plant‑forward diets — a low‑fat vegan diet and a Mediterranean diet — using three‑day dietary records to estimate greenhouse gas emissions and cumulative energy demand in completers..\nCategory: sustainability.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Environmental footprint of low-fat vegan vs Mediterranean diets in a randomized trial.\nStory summary: A secondary analysis of a randomized crossover trial compared the environmental impacts of two plant-forward dietary patterns — a low-fat vegan diet and a Mediterranean diet — by calculating greenhouse gas emissions and cumulative energy demand from 3-day dietary records collected from 62 overweight adult participants..\nCategory: sustainability / nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "infant-gut-first-foods-2026",
+      "category": "nutrition / child health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20260924/First-foods-bring-an-early-functional-shift-in-the-infant-gut-microbiome.aspx",
+      "sourceTitle": "First foods bring an early functional shift in the infant gut microbiome",
+      "publishedAt": "Thu, 24 Sep 2026 00:03:00 -0400",
+      "languages": {
+        "en": {
+          "title": "First foods bring an early functional shift in the infant gut microbiome",
+          "summary": "Researchers examined paired gut microbiome samples from 125 Irish infants and found that starting complementary foods was linked with early changes in both the types of microbes present and their metabolic capabilities, notably a greater potential to break down complex carbohydrates. The research also found that how long an infant was breastfed had a stronger association with overall microbial community development than the precise timing of solid-food introduction, while infants who were formula-fed showed larger functional pathway changes after solids began.",
+          "whyItMatters": "The study provides population-based data on how introducing solid foods and feeding mode relate to early microbiome function, information useful for researchers and families interested in infant gut development.",
+          "takeaways": [
+            "Complementary feeding coincided with shifts in microbial composition and increased capacity for complex carbohydrate metabolism.",
+            "Breastfeeding duration was more strongly linked to microbiome community development than the age when solids were introduced.",
+            "Formula-fed infants displayed more pronounced changes in microbial functional pathways after solids began."
+          ]
+        },
+        "es": {
+          "title": "Los primeros alimentos provocan un cambio funcional temprano en la microbiota intestinal del lactante",
+          "summary": "Investigadores analizaron muestras de microbiota intestinal emparejadas de 125 lactantes irlandeses y hallaron que el inicio de la alimentación complementaria se asoció con cambios tempranos tanto en los tipos de microbios presentes como en sus capacidades metabólicas, en particular una mayor potencialidad para descomponer carbohidratos complejos. El estudio también indicó que la duración de la lactancia materna se relacionó con mayor fuerza con el desarrollo general de la comunidad microbiana que el momento preciso de introducir alimentos sólidos, mientras que los lactantes alimentados con fórmula mostraron cambios funcionales microbianos más marcados después del inicio de los sólidos.",
+          "whyItMatters": "El estudio aporta datos poblacionales sobre cómo la introducción de alimentos sólidos y el modo de alimentación se vinculan con la función microbiana temprana, información útil para investigadores y familias interesadas en el desarrollo intestinal del lactante.",
+          "takeaways": [
+            "La alimentación complementaria coincidió con cambios en la composición microbiana y un aumento de la capacidad para metabolizar carbohidratos complejos.",
+            "La duración de la lactancia materna estuvo más vinculada al desarrollo de la comunidad microbiana que la edad a la que se introdujeron los sólidos.",
+            "Los lactantes alimentados con fórmula mostraron cambios más pronunciados en las vías funcionales microbianas tras el inicio de los alimentos sólidos."
+          ]
+        },
+        "ru": {
+          "title": "Введение прикорма вызывает ранний функциональный сдвиг в микробиоте кишечника младенцев",
+          "summary": "Исследователи изучили парные образцы кишечной микробиоты 125 ирландских младенцев и обнаружили, что начало прикорма связано с ранними изменениями как в составе микробов, так и в их метаболических способностях, в частности с повышенной потенциальной способностью расщеплять сложные углеводы. В исследовании также отмечено, что длительность грудного вскармливания была сильнее связана с общим развитием микробного сообщества, чем точный возраст введения твердой пищи, а у детей, получавших смеси, наблюдались более выраженные изменения функциональных путей после начала прикорма.",
+          "whyItMatters": "Исследование даёт данные по популяции о том, как введение прикорма и режим кормления соотносятся с ранней функцией микробиоты — информация, важная для исследователей и семей, интересующихся развитием кишечника у младенцев.",
+          "takeaways": [
+            "Введение прикорма совпало с изменениями в составе микробов и увеличением способности к метаболизму сложных углеводов.",
+            "Длительность грудного вскармливания была более тесно связана с развитием микробного сообщества, чем возраст введения твердой пищи.",
+            "У детей, получавших искусственное вскармливание, изменения в функциональных микробных путях после начала прикорма были более выраженными."
+          ]
+        },
+        "uk": {
+          "title": "Перші прикорми спричиняють ранню функціональну зміну мікробіому кишечника немовлят",
+          "summary": "Дослідники проаналізували парні зразки кишечного мікробіому від 125 ірландських немовлят і виявили, що початок прикорму був пов’язаний із ранніми змінами як у складі мікробів, так і в їхніх метаболічних здатностях, зокрема із підвищеною потенцією розщеплювати складні вуглеводи. Також дослідження показало, що тривалість грудного вигодовування була тісніше пов’язана з розвитком загальної мікробної спільноти, ніж точний вік введення твердих продуктів, тоді як у немовлят на штучному вигодовуванні після початку прикорму спостерігали більш виражені зміни функціональних шляхів.",
+          "whyItMatters": "Дослідження дає дані на рівні популяції про звʼязок між введенням твердих продуктів, режимом годування та ранньою функцією мікробіому, що може бути корисним для дослідників і сімей, які цікавляться розвитком кишкового мікробіому у немовлят.",
+          "takeaways": [
+            "Початок прикорму супроводжувався змінами в складі мікробіому та збільшенням здатності до метаболізму складних вуглеводів.",
+            "Тривалість грудного вигодовування була сильніше повʼязана з розвитком мікробної спільноти, ніж вік введення твердих продуктів.",
+            "У немовлят на штучному вигодовуванні після початку прикорму спостерігали більш помітні зміни функціональних метаболічних шляхів."
+          ]
+        },
+        "fr": {
+          "title": "Les premiers aliments entraînent un changement fonctionnel précoce du microbiote intestinal des nourrissons",
+          "summary": "Des chercheurs ont examiné des échantillons appariés du microbiote intestinal de 125 nourrissons irlandais et ont constaté que le début de l’alimentation complémentaire était lié à des changements précoces à la fois dans les types de microbes présents et dans leurs capacités métaboliques, notamment une plus grande capacité à dégrader les glucides complexes. L’étude a également montré que la durée de l’allaitement était plus fortement associée au développement global de la communauté microbienne que le moment précis de l’introduction des solides, tandis que les nourrissons nourris au lait artificiel ont présenté des changements fonctionnels plus marqués après le début des solides.",
+          "whyItMatters": "L’étude fournit des données de population sur la façon dont l’introduction des aliments solides et le mode d’alimentation se rapportent à la fonction précoce du microbiote, information utile pour les chercheurs et les familles intéressés par le développement intestinal des nourrissons.",
+          "takeaways": [
+            "L’alimentation complémentaire coïncide avec des modifications de la composition microbienne et une capacité accrue au métabolisme des glucides complexes.",
+            "La durée de l’allaitement est davantage liée au développement de la communauté microbienne que l’âge d’introduction des solides.",
+            "Les nourrissons nourris au lait artificiel ont montré des changements plus prononcés des voies fonctionnelles après l’introduction des solides."
+          ]
+        },
+        "de": {
+          "title": "Beikost führt zu einer frühen funktionellen Verschiebung des Darmmikrobioms bei Säuglingen",
+          "summary": "Forscher untersuchten gepaarte Darmmikrobiom‑Proben von 125 irischen Säuglingen und fanden, dass der Beginn der Beikost mit frühen Veränderungen sowohl in der mikrobiellen Zusammensetzung als auch in den Stoffwechselfähigkeiten verbunden war, insbesondere einer größeren Fähigkeit zum Abbau komplexer Kohlenhydrate. Außerdem zeigte die Studie, dass die Stilldauer stärker mit der Entwicklung der mikrobiellen Gemeinschaft insgesamt assoziiert war als der genaue Zeitpunkt der Einführung fester Nahrung; bei mit Säuglingsnahrung ernährten Kindern traten nach Beginn der Beikost ausgeprägtere Veränderungen in funktionalen Stoffwechselwegen auf.",
+          "whyItMatters": "Die Studie liefert bevölkerungsbezogene Daten dazu, wie die Einführung fester Nahrung und die Ernährungsform mit der frühen Mikrobiomfunktion zusammenhängen — nützliche Informationen für Forschende und Familien, die sich für die Darmentwicklung von Säuglingen interessieren.",
+          "takeaways": [
+            "Beikostbeginn ging mit Veränderungen der mikrobiellen Zusammensetzung und einer erhöhten Kapazität zum Abbau komplexer Kohlenhydrate einher.",
+            "Die Stilldauer war stärker mit der Entwicklung der Mikrobiom‑Gemeinschaft verknüpft als das Alter bei Beginn fester Nahrung.",
+            "Bei mit Säuglingsnahrung ernährten Säuglingen waren nach Beginn der Beikost größere Veränderungen in mikrobiellen Funktionswegen zu beobachten."
+          ]
+        },
+        "pt-br": {
+          "title": "Os primeiros alimentos provocam uma mudança funcional precoce no microbioma intestinal do lactente",
+          "summary": "Pesquisadores analisaram amostras emparelhadas do microbioma intestinal de 125 lactentes irlandeses e constataram que o início da alimentação complementar esteve ligado a mudanças precoces tanto na composição microbiana quanto nas capacidades metabólicas, especialmente uma maior potencialidade para degradar carboidratos complexos. O estudo também encontrou que a duração do aleitamento materno teve associação mais forte com o desenvolvimento geral da comunidade microbiana do que o momento exato da introdução de alimentos sólidos; lactentes alimentados com fórmula apresentaram mudanças funcionais maiores em vias microbianas após o início dos sólidos.",
+          "whyItMatters": "O estudo oferece dados populacionais sobre como a introdução de alimentos sólidos e o modo de alimentação se relacionam com a função precoce do microbioma, informação útil para pesquisadores e famílias interessadas no desenvolvimento intestinal dos lactentes.",
+          "takeaways": [
+            "A alimentação complementar coincidiu com mudanças na composição microbiana e aumento da capacidade de metabolizar carboidratos complexos.",
+            "A duração do aleitamento materno esteve mais fortemente ligada ao desenvolvimento da comunidade microbiana do que a idade de início dos sólidos.",
+            "Lactentes alimentados com fórmula mostraram mudanças mais pronunciadas em vias funcionais microbianas após o início dos alimentos sólidos."
+          ]
+        },
+        "hu": {
+          "title": "Az első fogások korai funkcionális eltolódást idéznek elő a csecsemők bélmikrobiomjában",
+          "summary": "Kutatók 125 ír csecsemő páros bélmikrobiom-mintáit elemezték, és megállapították, hogy a kiegészítő táplálás megkezdése korai változásokkal járt mind a jelenlévő mikrobiális típusok, mind azok anyagcsere-képességei tekintetében, különösen a komplex szénhidrátok lebontására való nagyobb potenciállal. A vizsgálat azt is kimutatta, hogy a szoptatás időtartama erősebb kapcsolatban állt a mikrobiom közösség egészének fejlődésével, mint a szilárd ételek bevezetésének pontos időpontja, míg a tápszerrel táplált csecsemők nagyobb változásokat mutattak a funkcionális útvonalakban a szilárd ételek megkezdése után.",
+          "whyItMatters": "A tanulmány populációs alapú adatokat szolgáltat arra vonatkozóan, hogyan kapcsolódik a szilárd ételek bevezetése és a táplálási mód a korai mikrobiom-funkcióhoz — ez az információ hasznos lehet kutatók és családok számára, akik a csecsemők bélfejlődését követik.",
+          "takeaways": [
+            "A kiegészítő táplálás egybeesett a mikrobiális összetétel eltolódásával és a komplex szénhidrát-anyagcsere kapacitásának növekedésével.",
+            "A szoptatás időtartama erősebb kapcsolatot mutatott a mikrobiom közösség kialakulásával, mint a szilárd ételek bevezetésének életkora.",
+            "A tápszeres táplálású csecsemőknél hangsúlyosabb változások voltak megfigyelhetők a mikrobiális funkcionális útvonalakban a szilárd ételek megjelenése után."
+          ]
+        },
+        "ar": {
+          "title": "المأكولات الأولى تحدث تحوّلاً وظيفياً مبكراً في ميكروبيوم أمعاء الرُضع",
+          "summary": "فحص باحثون عينات ميكروبيوم معوية مزدوجة من 125 رضيعًا إيرلنديًا، ووجدوا أن بدء تغذية التكملة مرتبط بتغيرات مبكرة في أنواع الميكروبات الموجودة وقدراتها الأيضية، لا سيما زيادة في القدرة على تفكيك الكربوهيدرات المعقدة. كما أظهرت الدراسة أن مدة الرضاعة الطبيعية كانت مرتبطة بشكل أقوى بتطوُّر المجتمع الميكروبي العام مقارنة بالتوقيت الدقيق لإدخال الأطعمة الصلبة، في حين أظهر الرضع الذين يرضعون صناعيًا تغييرات أكبر في المسارات الوظيفية بعد بدء الأطعمة الصلبة.",
+          "whyItMatters": "توفّر الدراسة بيانات مستندة إلى السكان حول كيفية ارتباط إدخال الأطعمة الصلبة ووضع التغذية بالوظيفة الميكروبية المبكرة، ومعلومات قد تكون مفيدة للباحثين والأسر المهتمة بتطوّر أمعاء الرُضع.",
+          "takeaways": [
+            "ترافق بدء التغذية التكملية مع تحوّلات في تركيب الميكروبات وزيادة قدرة الأيض على التعامل مع الكربوهيدرات المعقدة.",
+            "كانت مدة الرضاعة الطبيعية مرتبطة بشكل أقوى بتطوُّر المجتمع الميكروبي مقارنةً بعمر إدخال الأطعمة الصلبة.",
+            "أظهر الرضع الذين يرضعون صناعيًا تغيُّرات أكثر وضوحًا في المسارات الوظيفية الميكروبية بعد بدء الأطعمة الصلبة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=infant-gut-first-foods-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/infant-gut-first-foods-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/infant-gut-first-foods-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: First foods bring an early functional shift in the infant gut microbiome.\nStory summary: Researchers examined paired gut microbiome samples from 125 Irish infants and found that starting complementary foods was linked with early changes in both the types of microbes present and their metabolic capabilities, notably a greater potential to break down complex carbohydrates. The research also found that how long an infant was breastfed had a stronger association with overall microbial community development than the precise timing of solid-food introduction, while infants who were formula-fed showed larger functional pathway changes after solids began..\nCategory: nutrition / child health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "glp1-nutritional-deficiencies-children-2026",
+      "category": "metabolic health / pediatrics",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm",
+      "sourceTitle": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
+      "publishedAt": "Wed, 23 Sep 2026 23:15:18 EDT",
+      "languages": {
+        "en": {
+          "title": "GLP-1 drugs linked to nutritional deficiencies in nearly 1 in 6 children",
+          "summary": "A new study reports that almost one in six young patients who began GLP-1 medications for weight loss, prediabetes, or type 2 diabetes received a diagnosis of a nutritional deficiency within a year of starting treatment. Vitamin D deficiency was the most frequently identified, affecting about 12% of the children in the study.",
+          "whyItMatters": "As GLP-1 medications are increasingly used in children and adolescents, this finding highlights a pattern observed in clinical data that may be relevant for clinicians, families, and researchers tracking unintended effects of these therapies.",
+          "takeaways": [
+            "Nearly 1 in 6 children in the study developed a diagnosed nutritional deficiency within a year of starting GLP-1 therapy.",
+            "Vitamin D deficiency was the most commonly recorded deficiency (~12%).",
+            "The findings are drawn from observational data and indicate an association observed during the first year of treatment."
+          ]
+        },
+        "es": {
+          "title": "Fármacos GLP-1 vinculados a deficiencias nutricionales en casi 1 de cada 6 niños",
+          "summary": "Un nuevo estudio informa que casi uno de cada seis pacientes jóvenes que comenzaron tratamientos con medicamentos GLP-1 para pérdida de peso, prediabetes o diabetes tipo 2 recibió un diagnóstico de deficiencia nutricional dentro del primer año de iniciar la terapia. La deficiencia de vitamina D fue la más frecuentemente identificada, afectando aproximadamente al 12% de los niños del estudio.",
+          "whyItMatters": "A medida que los medicamentos GLP-1 se utilizan más en niños y adolescentes, este hallazgo pone de relieve un patrón observado en datos clínicos que puede ser relevante para clínicos, familias e investigadores que siguen los efectos no intencionados de estas terapias.",
+          "takeaways": [
+            "Casi 1 de cada 6 niños del estudio desarrolló un diagnóstico de deficiencia nutricional en el primer año tras iniciar la terapia con GLP-1.",
+            "La deficiencia de vitamina D fue la carencia registrada con más frecuencia (~12%).",
+            "Los hallazgos se basan en datos observacionales y señalan una asociación observada durante el primer año de tratamiento."
+          ]
+        },
+        "ru": {
+          "title": "Препараты GLP-1 связаны с нарушениями питания почти у каждого шестого ребёнка",
+          "summary": "Новое исследование сообщает, что почти каждый шестой молодой пациент, начавший приём препаратов GLP-1 для снижения веса, при предиабете или при сахарном диабете 2 типа, в течение года после начала лечения получил диагноз дефицита питательных веществ. Наиболее часто отмечался дефицит витамина D — примерно у 12% детей в исследовании.",
+          "whyItMatters": "По мере роста применения препаратов GLP-1 у детей и подростков это наблюдение подчёркивает паттерн, выявленный в клинических данных, который может быть важен для врачей, семей и исследователей, отслеживающих непреднамеренные эффекты этой терапии.",
+          "takeaways": [
+            "Практически у каждого шестого ребёнка в исследовании диагностировали дефицит питательных веществ в течение года после начала терапии GLP-1.",
+            "Дефицит витамина D был самым распространённым (~12%).",
+            "Результаты получены из наблюдательных данных и отражают наблюдаемую ассоциацию в первый год лечения."
+          ]
+        },
+        "uk": {
+          "title": "Препарати GLP‑1 повʼязані з дефіцитами поживних речовин майже в кожного шостого дитини",
+          "summary": "Нове дослідження повідомляє, що майже кожен шостий молодий пацієнт, який розпочав лікування препаратами GLP‑1 для зниження ваги, предіабету або цукрового діабету 2 типу, отримав діагноз дефіциту поживних речовин протягом року після початку лікування. Найчастіше реєстрували дефіцит вітаміну D, який торкнувся близько 12% дітей у вибірці.",
+          "whyItMatters": "Оскільки препарати GLP‑1 дедалі частіше застосовують у дітей та підлітків, це спостереження в клінічних даних підкреслює шаблон, який може бути важливим для клініцистів, сімей і дослідників, що відстежують непрямі ефекти цих терапій.",
+          "takeaways": [
+            "Майже 1 із 6 дітей у дослідженні отримав діагноз дефіциту поживних речовин протягом року після початку терапії GLP‑1.",
+            "Найпоширенішим був дефіцит вітаміну D (приблизно 12%).",
+            "Результати були отримані з обсерваційних даних і показують асоціацію, зафіксовану впродовж першого року лікування."
+          ]
+        },
+        "fr": {
+          "title": "Les médicaments GLP‑1 liés à des carences nutritionnelles chez près d’un enfant sur six",
+          "summary": "Une nouvelle étude rapporte que près d’un enfant sur six ayant commencé un traitement par médicaments GLP‑1 pour la perte de poids, le prédiabète ou le diabète de type 2 a reçu un diagnostic de carence nutritionnelle dans l’année suivant le début du traitement. La carence en vitamine D était la plus fréquemment identifiée, touchant environ 12 % des enfants de l’étude.",
+          "whyItMatters": "À mesure que les médicaments GLP‑1 sont de plus en plus utilisés chez les enfants et les adolescents, cette observation dans les données cliniques met en évidence un schéma qui peut intéresser cliniciens, familles et chercheurs surveillant les effets indésirables potentiels de ces thérapies.",
+          "takeaways": [
+            "Près d’un enfant sur six de l’étude a développé une carence nutritionnelle diagnostiquée dans l’année suivant le début d’un traitement GLP‑1.",
+            "La carence en vitamine D était la carence la plus souvent enregistrée (~12%).",
+            "Les résultats proviennent de données observationnelles et indiquent une association observée durant la première année de traitement."
+          ]
+        },
+        "de": {
+          "title": "GLP‑1‑Medikamente stehen im Zusammenhang mit Nährstoffmängeln bei fast jedem sechsten Kind",
+          "summary": "Eine neue Studie berichtet, dass nahezu eines von sechs jungen Patienten, die GLP‑1‑Medikamente zur Gewichtsabnahme, bei Prädiabetes oder Typ‑2‑Diabetes begannen, innerhalb eines Jahres nach Therapiebeginn eine Diagnose eines Nährstoffmangels erhielt. Vitamin‑D‑Mangel war der am häufigsten dokumentierte Mangel und betraf etwa 12 % der Kinder in der Studie.",
+          "whyItMatters": "Da GLP‑1‑Medikamente zunehmend bei Kindern und Jugendlichen eingesetzt werden, hebt dieser Befund ein in klinischen Daten beobachtetes Muster hervor, das für Klinikende, Familien und Forschende relevant sein kann, die unbeabsichtigte Effekte dieser Therapien verfolgen.",
+          "takeaways": [
+            "Fast 1 von 6 Kindern in der Studie entwickelte innerhalb eines Jahres nach Beginn der GLP‑1‑Therapie eine diagnostizierte Nährstoffmangelerscheinung.",
+            "Vitamin‑D‑Mangel war der am häufigsten verzeichnete Mangel (~12 %).",
+            "Die Ergebnisse beruhen auf Beobachtungsdaten und zeigen eine im ersten Behandlungsjahr beobachtete Assoziation."
+          ]
+        },
+        "pt-br": {
+          "title": "Medicamentos GLP‑1 associados a deficiências nutricionais em quase 1 em cada 6 crianças",
+          "summary": "Um novo estudo relata que quase 1 em cada 6 pacientes jovens que começaram medicamentos GLP‑1 para perda de peso, pré‑diabetes ou diabetes tipo 2 receberam diagnóstico de deficiência nutricional no prazo de um ano após o início do tratamento. A deficiência de vitamina D foi a mais frequentemente identificada, afetando cerca de 12% das crianças do estudo.",
+          "whyItMatters": "À medida que medicamentos GLP‑1 são cada vez mais usados em crianças e adolescentes, essa descoberta destaca um padrão observado em dados clínicos que pode ser relevante para clínicos, famílias e pesquisadores que monitoram efeitos não intencionais dessas terapias.",
+          "takeaways": [
+            "Quase 1 em cada 6 crianças do estudo desenvolveu uma deficiência nutricional diagnosticada dentro de um ano após iniciar terapia com GLP‑1.",
+            "A deficiência de vitamina D foi a deficiência mais registrada (~12%).",
+            "Os achados vêm de dados observacionais e indicam uma associação observada durante o primeiro ano de tratamento."
+          ]
+        },
+        "hu": {
+          "title": "GLP‑1 gyógyszerek összefüggésben táplálkozási hiányállapotokkal majdnem minden hatodik gyereknél",
+          "summary": "Egy új tanulmány szerint az olyan fiatal páciensek közül, akik GLP‑1 gyógyszereket kezdtek el használni testsúlycsökkentés, prediabétesz vagy 2‑es típusú cukorbetegség miatt, majdnem minden hatodiknál diagnosztizáltak táplálkozási hiányállapotot az első évben. A D‑vitamin hiánya volt a leggyakrabban azonosított, a vizsgált gyerekek körülbelül 12%-át érintette.",
+          "whyItMatters": "Mivel a GLP‑1 gyógyszereket egyre gyakrabban alkalmazzák gyermekeknél és serdülőknél, ez a megfigyelés a klinikai adatokban felmerülő mintára hívja fel a figyelmet, amely releváns lehet a klinikusok, családok és kutatók számára az ezen terápiák nem kívánt hatásainak követésében.",
+          "takeaways": [
+            "A vizsgálatban szereplő gyerekek közel minden hatodika az első évben diagnosztizált táplálkozási hiányosságot mutatott GLP‑1 kezelés megkezdése után.",
+            "A D‑vitamin hiánya volt a leggyakrabban feljegyzett hiányállapot (kb. 12%).",
+            "Az eredmények megfigyelésen alapuló adatokon nyugszanak, és az első év során megfigyelt összefüggést mutatják."
+          ]
+        },
+        "ar": {
+          "title": "أدوية GLP‑1 ارتبطت بنقص تغذوي لدى نحو طفل واحد من كل ستة",
+          "summary": "تفيد دراسة جديدة أن ما يقرب من واحد من كل ستة مرضى صغار بدأوا أدوية GLP‑1 لفقدان الوزن أو حالة ما قبل السكري أو داء السكري من النمط الثاني شُخّص لديهم نقص تغذوي خلال سنة من بدء العلاج. وكان نقص فيتامين د هو النقص الأكثر تكرارًا، وأثر على نحو 12٪ من الأطفال في الدراسة.",
+          "whyItMatters": "مع ازدياد استخدام أدوية GLP‑1 لدى الأطفال والمراهقين، تُسلّط هذه النتائج الضوء على نمط ملاحظ في البيانات السريرية قد يكون ذا أهمية للأطباء والأسر والباحثين الذين يتابعون الآثار غير المقصودة لهذه العلاجات.",
+          "takeaways": [
+            "تطوّر نقص تغذوي مُشخّص لدى نحو طفل واحد من كل ستة في الدراسة خلال سنة من بدء علاج GLP‑1.",
+            "كان نقص فيتامين د هو النقص المسجَّل الأكثر شيوعًا (~12%).",
+            "تستند النتائج إلى بيانات رصدية وتدلّ على علاقة لوحِظت خلال السنة الأولى من العلاج."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glp1-nutritional-deficiencies-children-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1-nutritional-deficiencies-children-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1-nutritional-deficiencies-children-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: GLP-1 drugs linked to nutritional deficiencies in nearly 1 in 6 children.\nStory summary: A new study reports that almost one in six young patients who began GLP-1 medications for weight loss, prediabetes, or type 2 diabetes received a diagnosis of a nutritional deficiency within a year of starting treatment. Vitamin D deficiency was the most frequently identified, affecting about 12% of the children in the study..\nCategory: metabolic health / pediatrics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "hrt-thrombotic-risk-denmark-2026",
+      "category": "medicine / women's health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/obgyn/hrt/123116",
+      "sourceTitle": "Menopausal Hormone Therapy Thrombotic Risk Varies by Dose, Route of Administration",
+      "publishedAt": "Wed, 23 Sep 2026 18:30:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Thrombotic risk with menopausal hormone therapy varies by dose and route",
+          "summary": "A nationwide Danish study found that venous thromboembolic risk associated with menopausal hormone therapy differed depending on how the hormones were taken (route), the dose, and the duration of treatment. The increased thrombotic risk was particularly noted with oral formulations in the dataset described.",
+          "whyItMatters": "The report provides population-level evidence that the form and dosing of menopausal hormone therapy can influence thrombotic risk, information that may be considered in clinical risk–benefit discussions.",
+          "takeaways": [
+            "Thrombotic risk linked to menopausal hormone therapy was not uniform and varied by administration route, dose, and treatment length.",
+            "Oral hormone therapy was associated with an increased venous thromboembolic risk in the study.",
+            "Duration of use contributed to the observed differences in risk."
+          ]
+        },
+        "es": {
+          "title": "El riesgo trombótico de la terapia hormonal menopáusica varía según la dosis y la vía de administración",
+          "summary": "Un estudio nacional danés encontró que el riesgo de tromboembolismo venoso asociado con la terapia hormonal menopáusica difería según la vía de administración, la dosis y la duración del tratamiento. En el conjunto de datos descrito se señaló especialmente un mayor riesgo trombótico con las formulaciones orales.",
+          "whyItMatters": "El informe aporta evidencia a nivel poblacional de que la forma y la dosificación de la terapia hormonal menopáusica pueden influir en el riesgo trombótico, información que puede considerarse en las discusiones clínicas sobre riesgo y beneficio.",
+          "takeaways": [
+            "El riesgo trombótico vinculado a la terapia hormonal menopáusica no fue uniforme y varió según la vía de administración, la dosis y la duración del tratamiento.",
+            "La terapia hormonal oral se asoció con un aumento del riesgo de tromboembolismo venoso en el estudio.",
+            "La duración del uso contribuyó a las diferencias observadas en el riesgo."
+          ]
+        },
+        "ru": {
+          "title": "Тромботический риск при заместительной гормональной терапии в менопаузе зависит от дозы и пути введения",
+          "summary": "Национальное датское исследование показало, что риск венозного тромбоэмболизма, связанный с заместительной гормональной терапией при менопаузе, варьирует в зависимости от пути введения, дозы и продолжительности лечения. В описанной базе данных особенно отмечался повышенный тромботический риск при приёме гормонов в пероральной форме.",
+          "whyItMatters": "Отчёт предоставляет доказательства на популяционном уровне о том, что форма и дозирование гормональной терапии при менопаузе могут влиять на тромботический риск — информация, которую можно учитывать в клинических обсуждениях риска и пользы.",
+          "takeaways": [
+            "Тромботический риск, связанный с гормональной терапией в менопаузе, оказался неоднородным и зависел от пути введения, дозы и длительности лечения.",
+            "Пероральная гормональная терапия была связана с повышенным риском венозного тромбоэмболизма в исследовании.",
+            "Продолжительность использования способствовала наблюдаемым различиям в риске."
+          ]
+        },
+        "uk": {
+          "title": "Тромботичний ризик при менопаузальній гормональній терапії залежить від дози та шляху введення",
+          "summary": "Національне данське дослідження виявило, що ризик венозних тромбоемболічних ускладнень, повʼязаний із менопаузальною гормональною терапією, відрізнявся залежно від шляху введення гормонів, дози та тривалості лікування. У даних особливо відзначали підвищений тромботичний ризик при пероральних формах.",
+          "whyItMatters": "Звіт дає доказову інформацію на рівні популяції про те, що форма та дози гормональної терапії для менопаузи можуть впливати на тромботичний ризик, що може враховуватися під час клінічних обговорень співвідношення ризику і користі.",
+          "takeaways": [
+            "Тромботичний ризик, повʼязаний із гормональною терапією при менопаузі, був неоднорідним і залежав від шляху введення, дози та тривалості лікування.",
+            "Пероральна гормональна терапія в дослідженні асоціювалася з підвищеним ризиком венозної тромбоемболії.",
+            "Тривалість використання впливала на виявлені відмінності в ризику."
+          ]
+        },
+        "fr": {
+          "title": "Le risque thrombotique lié à l’hormonothérapie ménopausique varie selon la dose et la voie d’administration",
+          "summary": "Une étude nationale danoise a trouvé que le risque de thromboembolie veineuse associé à l’hormonothérapie ménopausique variait en fonction de la voie d’administration des hormones, de la dose et de la durée du traitement. Les données ont notamment signalé un risque thrombotique accru avec les formulations orales.",
+          "whyItMatters": "Ce rapport apporte des preuves au niveau de la population montrant que la forme et le dosage de l’hormonothérapie ménopausique peuvent influencer le risque thrombotique, information qui peut être prise en compte lors des discussions cliniques sur le rapport bénéfice‑risque.",
+          "takeaways": [
+            "Le risque thrombotique associé à l’hormonothérapie ménopausique n’était pas uniforme et variait selon la voie d’administration, la dose et la durée du traitement.",
+            "L’hormonothérapie orale était associée à un risque accru de thromboembolie veineuse dans l’étude.",
+            "La durée d’utilisation a contribué aux différences de risque observées."
+          ]
+        },
+        "de": {
+          "title": "Thrombotisches Risiko bei menopausaler Hormonersatztherapie variiert nach Dosis und Verabreichungsweg",
+          "summary": "Eine landesweite dänische Studie zeigte, dass das mit menopausaler Hormonersatztherapie verbundene Risiko für venöse Thromboembolien je nach Verabreichungsweg, Dosis und Behandlungsdauer unterschiedlich war. Ein erhöhtes thrombotisches Risiko wurde in den beschriebenen Daten insbesondere bei oralen Formulierungen beobachtet.",
+          "whyItMatters": "Der Bericht liefert bevölkerungsbezogene Evidenz dafür, dass Form und Dosierung der menopausalen Hormontherapie das thrombotische Risiko beeinflussen können — Information, die in klinische Risiko‑Nutzen‑Gespräche einfließen kann.",
+          "takeaways": [
+            "Das thrombotische Risiko im Zusammenhang mit menopausaler Hormontherapie war nicht einheitlich und variierte nach Verabreichungsweg, Dosis und Behandlungsdauer.",
+            "In der Studie war orale Hormontherapie mit einem erhöhten venösen Thromboembolierisiko assoziiert.",
+            "Auch die Dauer der Anwendung trug zu den beobachteten Unterschieden im Risiko bei."
+          ]
+        },
+        "pt-br": {
+          "title": "Risco trombótico com terapia hormonal da menopausa varia conforme dose e via de administração",
+          "summary": "Um estudo de âmbito nacional na Dinamarca encontrou que o risco de tromboembolismo venoso associado à terapia hormonal para a menopausa variou dependendo da via de administração, da dose e da duração do tratamento. No conjunto de dados descrito, o aumento do risco trombótico foi observado de forma mais marcada em formulações orais.",
+          "whyItMatters": "O relatório fornece evidência em nível populacional de que a forma e a dosagem da terapia hormonal na menopausa podem influenciar o risco trombótico, informação que pode ser considerada em discussões clínicas sobre risco e benefício.",
+          "takeaways": [
+            "O risco trombótico associado à terapia hormonal da menopausa não foi uniforme e variou conforme via de administração, dose e duração do tratamento.",
+            "A terapia hormonal oral foi associada a aumento do risco de tromboembolismo venoso no estudo.",
+            "A duração do uso contribuiu para as diferenças de risco observadas."
+          ]
+        },
+        "hu": {
+          "title": "A menopauzás hormonkezelés trombotikus kockázata az adagtól és az alkalmazás módjától függően változik",
+          "summary": "Egy országos dán vizsgálat megállapította, hogy a menopauzás hormonkezeléshez társuló vénás tromboembóliás kockázat eltért attól függően, hogyan vették be a hormonokat (az alkalmazás módja), az adagól és a kezelés időtartamától. A leírt adathalmazban különösen az orális formulációk esetén figyeltek meg fokozott trombotikus kockázatot.",
+          "whyItMatters": "A jelentés populációs szintű bizonyítékot ad arra, hogy a menopauzás hormonterápia formája és dózisa befolyásolhatja a trombotikus kockázatot, ami a klinikai kockázat–haszon mérlegelésében lehet releváns.",
+          "takeaways": [
+            "A hormonterápiához kapcsolódó trombotikus kockázat nem volt egységes; az alkalmazás módja, az adag és a kezelés hossza szerint változott.",
+            "A vizsgálatban az orális hormonterápia fokozott vénás tromboembóliás kockázattal volt összefüggésben.",
+            "A használat időtartama hozzájárult a megfigyelt kockázatkülönbségekhez."
+          ]
+        },
+        "ar": {
+          "title": "خطر التخثّر مع علاج هرموني لانقطاع الطمث يختلف حسب الجرعة وطريقة الإعطاء",
+          "summary": "أظهرت دراسة دنماركية على مستوى البلاد أن خطر الانصمام الخثاري الوريدي المرتبط بعلاج هرموني لانقطاع الطمث اختلف باختلاف كيفية تناول الهرمونات (طريقة الإعطاء)، والجرعة، ومدة العلاج. وسُجِّل ارتفاع في خطر التخثّر خاصةً مع التركيبات الفموية في مجموعة البيانات الموصوفة.",
+          "whyItMatters": "يقدّم التقرير أدلة على مستوى السكان تفيد بأن شكل وجرعة علاج هرمونات انقطاع الطمث يمكن أن يؤثران على خطر التخثّر، وهي معلومات يمكن أخذها بعين الاعتبار في مناقشات المخاطر والفوائد السريرية.",
+          "takeaways": [
+            "لم يكن خطر التخثّر المرتبط بعلاج هرمونات الانقطاع واحدًا؛ فقد اختلف باختلاف طريقة الإعطاء والجرعة ومدة العلاج.",
+            "ارتبط العلاج الهرموني الفموي بزيادة في خطر الانصمام الخثاري الوريدي في الدراسة.",
+            "ساهمت مدة الاستخدام في الفروقات الملحوظة في الخطر."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=hrt-thrombotic-risk-denmark-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hrt-thrombotic-risk-denmark-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hrt-thrombotic-risk-denmark-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Thrombotic risk with menopausal hormone therapy varies by dose and route.\nStory summary: A nationwide Danish study found that venous thromboembolic risk associated with menopausal hormone therapy differed depending on how the hormones were taken (route), the dose, and the duration of treatment. The increased thrombotic risk was particularly noted with oral formulations in the dataset described..\nCategory: medicine / women's health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "uk-hypertension-awareness-2026",
+      "category": "public health / cardiovascular",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-09-thirds-adults-uk-high-blood.html",
+      "sourceTitle": "Two-thirds of adults in the UK with high blood pressure do not know they have it",
+      "publishedAt": "Wed, 23 Sep 2026 18:00:08 EDT",
+      "languages": {
+        "en": {
+          "title": "Two-thirds of UK adults with high blood pressure are unaware of it",
+          "summary": "A large study of 1.4 million adults reported in BMJ Public Health found that over one-third of adults in England have high blood pressure, and about two-thirds of those people were unaware of their condition. Among adults receiving treatment, only around half had blood pressure considered adequately controlled.",
+          "whyItMatters": "The analysis underscores the scale of undiagnosed and uncontrolled hypertension in the population, a key public health challenge for preventing cardiovascular complications at the population level.",
+          "takeaways": [
+            "More than one-third of adults in the study had high blood pressure.",
+            "Approximately two-thirds of people with high blood pressure did not know they had it.",
+            "Only about half of treated individuals had blood pressure under control according to the study’s criteria."
+          ]
+        },
+        "es": {
+          "title": "Dos tercios de los adultos del Reino Unido con presión arterial alta desconocen que la tienen",
+          "summary": "Un gran estudio con 1,4 millones de adultos publicado en BMJ Public Health halló que más de un tercio de los adultos en Inglaterra tienen hipertensión, y alrededor de dos tercios de esas personas desconocían su condición. Entre los adultos en tratamiento, solo cerca de la mitad tenía la presión arterial considerada adecuadamente controlada.",
+          "whyItMatters": "El análisis subraya la magnitud de la hipertensión no diagnosticada y no controlada en la población, un reto clave de salud pública para prevenir complicaciones cardiovasculares a nivel poblacional.",
+          "takeaways": [
+            "Más de un tercio de los adultos en el estudio presentaba presión arterial alta.",
+            "Aproximadamente dos tercios de las personas con presión arterial alta no sabían que la tenían.",
+            "Solo alrededor de la mitad de las personas tratadas tenía la presión arterial bajo control según los criterios del estudio."
+          ]
+        },
+        "ru": {
+          "title": "Две трети взрослых в Великобритании с высоким давлением не знают об этом",
+          "summary": "Крупное исследование с участием 1,4 миллиона взрослых, опубликованное в BMJ Public Health, показало, что более трети взрослых в Англии имеют повышенное артериальное давление, и примерно две трети из них не знали о своём состоянии. Среди взрослых, получавших лечение, лишь около половины имели артериальное давление, признанное адекватно контролируемым.",
+          "whyItMatters": "Анализ подчёркивает масштабы недиагностированной и неконтролируемой гипертонии в популяции — ключевую проблему общественного здравоохранения для предотвращения сердечно-сосудистых осложнений.",
+          "takeaways": [
+            "Более трети взрослых в исследовании имели повышенное артериальное давление.",
+            "Примерно две трети людей с повышенным давлением не знали о своём состоянии.",
+            "Только около половины лечившихся имели давление, соответствующее критериям контроля в исследовании."
+          ]
+        },
+        "uk": {
+          "title": "Дві третини дорослих у Великій Британії з високим кровʼяним тиском не знають про це",
+          "summary": "Велике дослідження 1,4 млн дорослих, опубліковане в BMJ Public Health, показало, що понад одну третину дорослих в Англії мають підвищений кровʼяний тиск, і приблизно дві третини з цих людей не підозрюють про свій стан. Серед людей, які отримують лікування, лише близько половини мали вважаний контрольований тиск за критеріями дослідження.",
+          "whyItMatters": "Аналіз підкреслює масштаби невиявленої та неконтрольованої гіпертензії в популяції — важливу проблему громадського здоровʼя для профілактики серцево‑судинних ускладнень на рівні населення.",
+          "takeaways": [
+            "Понад одну третину дорослих у вибірці мали підвищений кровʼяний тиск.",
+            "Приблизно дві третини людей із підвищеним тиском не знали про свій стан.",
+            "Лише близько половини осіб, які отримували лікування, мали показники тиску, що вважалися контрольованими за критеріями дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Deux tiers des adultes au Royaume‑Uni ayant une hypertension ne le savent pas",
+          "summary": "Une vaste étude portant sur 1,4 million d’adultes, publiée dans BMJ Public Health, a révélé que plus d’un tiers des adultes en Angleterre présentent une pression artérielle élevée, et qu’environ deux tiers de ces personnes n’étaient pas conscientes de leur état. Parmi les adultes traités, seulement environ la moitié avaient une pression artérielle jugée adéquatement contrôlée.",
+          "whyItMatters": "L’analyse souligne l’ampleur de l’hypertension non diagnostiquée et non contrôlée dans la population, un défi majeur de santé publique pour prévenir les complications cardiovasculaires au niveau populationnel.",
+          "takeaways": [
+            "Plus d’un tiers des adultes de l’étude avaient une pression artérielle élevée.",
+            "Environ deux tiers des personnes atteintes d’hypertension n’en avaient pas connaissance.",
+            "Seule environ la moitié des personnes traitées avaient une pression artérielle considérée comme contrôlée selon les critères de l’étude."
+          ]
+        },
+        "de": {
+          "title": "Zwei Drittel der Erwachsenen im Vereinigten Königreich mit Bluthochdruck wissen nichts davon",
+          "summary": "Eine große Studie mit 1,4 Millionen Erwachsenen, veröffentlicht in BMJ Public Health, fand, dass über ein Drittel der Erwachsenen in England Bluthochdruck hatten, und etwa zwei Drittel dieser Menschen waren sich ihrer Erkrankung nicht bewusst. Unter den Personen, die eine Behandlung erhielten, hatte nur etwa die Hälfte einen nach den Studienkriterien als ausreichend kontrolliert betrachteten Blutdruck.",
+          "whyItMatters": "Die Analyse unterstreicht das Ausmaß von unentdecktem und unkontrolliertem Bluthochdruck in der Bevölkerung — eine wichtige Herausforderung der öffentlichen Gesundheit zur Verhinderung kardiovaskulärer Komplikationen auf Bevölkerungsebene.",
+          "takeaways": [
+            "Mehr als ein Drittel der Erwachsenen in der Studie hatte Bluthochdruck.",
+            "Ungefähr zwei Drittel der Personen mit Bluthochdruck wussten nichts von ihrer Erkrankung.",
+            "Nur etwa die Hälfte der Behandelten hatte laut Studie einen unter Kontrolle befindlichen Blutdruck."
+          ]
+        },
+        "pt-br": {
+          "title": "Dois terços dos adultos no Reino Unido com pressão alta desconhecem a condição",
+          "summary": "Um grande estudo com 1,4 milhão de adultos, publicado no BMJ Public Health, encontrou que mais de um terço dos adultos na Inglaterra apresentavam pressão alta, e cerca de dois terços dessas pessoas não sabiam que tinham a condição. Entre os adultos em tratamento, apenas aproximadamente metade tinha a pressão arterial considerada adequadamente controlada.",
+          "whyItMatters": "A análise destaca a dimensão da hipertensão não diagnosticada e não controlada na população, um desafio importante de saúde pública para prevenir complicações cardiovasculares em nível populacional.",
+          "takeaways": [
+            "Mais de um terço dos adultos no estudo apresentava pressão alta.",
+            "Aproximadamente dois terços das pessoas com pressão alta não sabiam que tinham a condição.",
+            "Apenas cerca de metade dos indivíduos em tratamento tinha a pressão arterial sob controle, segundo os critérios do estudo."
+          ]
+        },
+        "hu": {
+          "title": "A brit felnőttek kétharmada, akinek magas a vérnyomása, nincs tudatában annak",
+          "summary": "Egy 1,4 millió felnőttre kiterjedő nagy tanulmány szerint, amelyet a BMJ Public Health közölt, több mint a megkérdezettek egyharmadának magas volt a vérnyomása Angliában, és az érintettek körülbelül kétharmada nem tudott a betegségéről. A kezelésben részesülők között csak mintegy a fele rendelkezett a tanulmány szerinti megfelelően beállítottnak tekintett vérnyomással.",
+          "whyItMatters": "Az elemzés rámutat a fel nem ismert és nem megfelelően kezelt hipertónia nagyságrendjére a népességben, ami kulcsfontosságú közegészségügyi kihívás a szív- és érrendszeri szövődmények megelőzésében.",
+          "takeaways": [
+            "A vizsgálatban részt vevők több mint egyharmadának volt magas vérnyomása.",
+            "A magas vérnyomásban szenvedők körülbelül kétharmada nem tudott állapotáról.",
+            "A kezelt egyének csak körülbelül fele rendelkezett a tanulmány szerinti ellenőrzött vérnyomással."
+          ]
+        },
+        "ar": {
+          "title": "ثلثا البالغين في المملكة المتّحدة المصابين بارتفاع ضغط الدم غير مدركين لذلك",
+          "summary": "أفادت دراسة كبيرة شملت 1.4 مليون بالغ ونُشرت في BMJ Public Health أن أكثر من ثلث البالغين في إنجلترا يعانون من ارتفاع ضغط الدم، وحوالي ثلثي هؤلاء الأشخاص لم يكونوا على علم بحالتهم. من بين البالغين الذين يتلقون علاجًا، فقط نحو نصفهم كان ضغط دمه مصنَّفًا كمسيطر عليه وفق معايير الدراسة.",
+          "whyItMatters": "تسلط هذه التحليلات الضوء على مدى المشكلة المتمثلة في ارتفاع ضغط الدم غير المشخَّص وغير المسيطر عليه في السكان، وهو تحدٍ مهم للصحة العامة في الوقاية من مضاعفات القلب والأوعية الدموية.",
+          "takeaways": [
+            "أكثر من ثلث البالغين في الدراسة كانوا يعانون من ارتفاع ضغط الدم.",
+            "حوالي ثلثي المصابين بارتفاع ضغط الدم لم يكونوا على علم بذلك.",
+            "فقط نحو نصف الأشخاص الذين يخضعون للعلاج كان ضغط دمهم تحت السيطرة حسب معايير الدراسة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=uk-hypertension-awareness-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/uk-hypertension-awareness-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/uk-hypertension-awareness-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Two-thirds of UK adults with high blood pressure are unaware of it.\nStory summary: A large study of 1.4 million adults reported in BMJ Public Health found that over one-third of adults in England have high blood pressure, and about two-thirds of those people were unaware of their condition. Among adults receiving treatment, only around half had blood pressure considered adequately controlled..\nCategory: public health / cardiovascular.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "exercise-ovarian-aging-mice-2026",
+      "category": "healthy aging / research",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/physical-activity-delays-ovarian-aging-in-mice/",
+      "sourceTitle": "Physical Activity Delays Ovarian Aging in Mice",
+      "publishedAt": "Wed, 23 Sep 2026 18:04:02 +0000",
+      "languages": {
+        "en": {
+          "title": "Physical activity delays ovarian aging in mice",
+          "summary": "A recent mouse study reported that treadmill training delayed markers of ovarian aging, and the effect was mediated by the hormone adiponectin. The researchers also observed similar effects when adiponectin receptors were activated pharmacologically.",
+          "whyItMatters": "The findings suggest a biological pathway linking exercise and reproductive aging in a preclinical model, which may inform future research into mechanisms of ovarian aging and potential interventions.",
+          "takeaways": [
+            "Treadmill exercise delayed signs of ovarian aging in the mouse model studied.",
+            "Adiponectin appeared to mediate the beneficial effect of physical activity.",
+            "Pharmacologic activation of adiponectin receptors produced similar changes in the study’s measures."
+          ]
+        },
+        "es": {
+          "title": "La actividad física retrasa el envejecimiento ovárico en ratones",
+          "summary": "Un estudio reciente en ratones informó que el entrenamiento en cinta ralentizó marcadores de envejecimiento ovárico, y que el efecto estuvo mediado por la hormona adiponectina. Los investigadores también observaron efectos similares al activar farmacológicamente los receptores de adiponectina.",
+          "whyItMatters": "Los hallazgos sugieren una vía biológica que conecta el ejercicio con el envejecimiento reproductivo en un modelo preclínico, lo que puede orientar investigaciones futuras sobre mecanismos del envejecimiento ovárico y posibles intervenciones.",
+          "takeaways": [
+            "El ejercicio en cinta retrasó signos de envejecimiento ovárico en el modelo de ratón estudiado.",
+            "La adiponectina pareció mediar el efecto beneficioso de la actividad física.",
+            "La activación farmacológica de los receptores de adiponectina produjo cambios similares en las medidas del estudio."
+          ]
+        },
+        "ru": {
+          "title": "Физическая активность замедляет старение яичников у мышей",
+          "summary": "Недавнее исследование на мышах показало, что тренировки на беговой дорожке отсрочили маркёры старения яичников, и этот эффект опосредован адипонектином. Исследователи также наблюдали схожие эффекты при фармакологической активации рецепторов адипонектина.",
+          "whyItMatters": "Полученные результаты указывают на биологический путь, связывающий физическую активность и репродуктивное старение в доклинической модели, что может помочь в будущих исследованиях механизмов старения яичников и возможных вмешательств.",
+          "takeaways": [
+            "Тренировки на беговой дорожке задержали проявления старения яичников в изученной модели мышей.",
+            "Адипонектин, по-видимому, опосредовал положительный эффект физической активности.",
+            "Фармакологическая активация рецепторов адипонектина вызвала схожие изменения в показателях исследования."
+          ]
+        },
+        "uk": {
+          "title": "Фізична активність уповільнює старіння яєчників у мишей",
+          "summary": "Нещодавнє дослідження на мишах показало, що бігова доріжка уповільнювала маркери старіння яєчників, а цей ефект опосередковував гормон адипонектин. Дослідники також спостерігали подібні ефекти при фармакологічній активації рецепторів адипонектину.",
+          "whyItMatters": "Результати вказують на біологічний шлях, що пов’язує фізичну активність і репродуктивне старіння в доклінічній моделі, і можуть слугувати основою для подальших досліджень механізмів старіння яєчників та потенційних інтервенцій.",
+          "takeaways": [
+            "Тренування на біговій доріжці уповільнило ознаки старіння яєчників у досліджених мишей.",
+            "Адипонектин, ймовірно, опосередковував корисний ефект фізичної активності.",
+            "Фармакологічна активація рецепторів адипонектину спричинила подібні зміни в показниках дослідження."
+          ]
+        },
+        "fr": {
+          "title": "L’activité physique retarde le vieillissement ovarien chez la souris",
+          "summary": "Une récente étude sur souris a rapporté que l’entraînement sur tapis roulant retardait des marqueurs du vieillissement ovarien, et cet effet était médié par l’hormone adiponectine. Les chercheurs ont également observé des effets similaires lors de l’activation pharmacologique des récepteurs de l’adiponectine.",
+          "whyItMatters": "Les résultats suggèrent une voie biologique reliant l’exercice et le vieillissement reproductif dans un modèle préclinique, ce qui peut orienter de futures recherches sur les mécanismes du vieillissement ovarien et d’éventuelles interventions.",
+          "takeaways": [
+            "L’exercice sur tapis roulant a retardé des signes de vieillissement ovarien dans le modèle murin étudié.",
+            "L’adiponectine semble médiatiser l’effet bénéfique de l’activité physique.",
+            "L’activation pharmacologique des récepteurs de l’adiponectine a produit des changements similaires dans les mesures de l’étude."
+          ]
+        },
+        "de": {
+          "title": "Körperliche Aktivität verzögert ovarielle Alterung bei Mäusen",
+          "summary": "Eine aktuelle Mausstudie berichtete, dass Laufbandtraining Marker der ovariellen Alterung verzögerte, und dass dieser Effekt durch das Hormon Adiponektin vermittelt zu sein schien. Die Forschenden beobachteten ebenfalls ähnliche Effekte, wenn Adiponektinrezeptoren pharmakologisch aktiviert wurden.",
+          "whyItMatters": "Die Befunde deuten auf einen biologischen Weg hin, der Bewegung und reproduktive Alterung in einem präklinischen Modell verbindet, und können zukünftige Untersuchungen zu Mechanismen der ovariellen Alterung und möglichen Interventionen informieren.",
+          "takeaways": [
+            "Laufbandtraining verzögerte in dem untersuchten Mausmodell Anzeichen der ovariellen Alterung.",
+            "Adiponektin schien die vorteilhaften Effekte körperlicher Aktivität zu vermitteln.",
+            "Die pharmakologische Aktivierung von Adiponektinrezeptoren erzeugte ähnliche Veränderungen in den gemessenen Parametern."
+          ]
+        },
+        "pt-br": {
+          "title": "Atividade física retarda o envelhecimento ovariano em camundongos",
+          "summary": "Um estudo recente em camundongos relatou que o treinamento em esteira atrasou marcadores de envelhecimento ovariano, e o efeito foi mediado pelo hormônio adiponectina. Os pesquisadores também observaram efeitos semelhantes quando receptores de adiponectina foram ativados farmacologicamente.",
+          "whyItMatters": "Os achados sugerem uma via biológica que liga exercício e envelhecimento reprodutivo em um modelo pré‑clínico, o que pode orientar pesquisas futuras sobre mecanismos do envelhecimento ovariano e potenciais intervenções.",
+          "takeaways": [
+            "Exercício em esteira retardou sinais de envelhecimento ovariano no modelo de camundongo estudado.",
+            "A adiponectina pareceu mediar o efeito benéfico da atividade física.",
+            "A ativação farmacológica dos receptores de adiponectina produziu mudanças semelhantes nas medidas do estudo."
+          ]
+        },
+        "hu": {
+          "title": "A testmozgás késlelteti a petefészek öregedését egerekben",
+          "summary": "Egy friss egérkísérlet arról számolt be, hogy futópados edzés késleltette a petefészek öregedésének bizonyos markereit, és a hatás közvetítőjeként az adiponektin hormont azonosították. A kutatók hasonló hatásokat figyeltek meg akkor is, amikor farmakológiailag aktiválták az adiponektin-receptorokat.",
+          "whyItMatters": "Az eredmények egy preklinikai modellben összekapcsolnak egy biológiai útvonalat a testmozgás és a reproduktív öregedés között, ami iránymutatásul szolgálhat a petefészek öregedés mechanizmusainak és lehetséges beavatkozásainak további kutatásához.",
+          "takeaways": [
+            "A futópados testmozgás késleltette a petefészek öregedésre utaló jeleket az egérmodellben.",
+            "Az adiponektin közvetítő szerepet játszott a fizikai aktivitás jótékony hatásában.",
+            "Az adiponektin-receptorok farmakológiai aktiválása hasonló változásokat eredményezett a vizsgálati mutatókban."
+          ]
+        },
+        "ar": {
+          "title": "النشاط البدني يؤخر شيخوخة المبايض في الفئران",
+          "summary": "أفادت دراسة حديثة على الفئران أن التدريب على جهاز الجري أخر علامات شيخوخة المبايض، وكان هرمون الأدبونيكتين وسيطًا لهذا الأثر. ولاحظ الباحثون تأثيرات مماثلة عند تنشيط مستقبلات الأدبونيكتين دوائيًا.",
+          "whyItMatters": "تشير النتائج في نموذج قبل سريري إلى وجود مسار بيولوجي يربط بين التمارين والشيخوخة التناسلية، وقد يوجّه ذلك أبحاثًا مستقبلية حول آليات شيخوخة المبايض وتدخلات ممكنة.",
+          "takeaways": [
+            "أخرّ جهاز الجري ظهور علامات شيخوخة المبايض في نموذج الفئران الذي دُرس.",
+            "بدا أن الأدبونيكتين يوسّط التأثير المفيد للنشاط البدني.",
+            "أدى التنشيط الدوائي لمستقبلات الأدبونيكتين إلى تغيّرات مماثلة في مقاييس الدراسة."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=exercise-ovarian-aging-mice-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/exercise-ovarian-aging-mice-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/exercise-ovarian-aging-mice-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Physical activity delays ovarian aging in mice.\nStory summary: A recent mouse study reported that treadmill training delayed markers of ovarian aging, and the effect was mediated by the hormone adiponectin. The researchers also observed similar effects when adiponectin receptors were activated pharmacologically..\nCategory: healthy aging / research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "fiber-no-one-size-fits-all-2026",
+      "category": "nutrition",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/fiber-is-both-diet-fad-and-fixture-for-good-health-a-doctor-explains-why-there-is-no-one-size-fits-all-way-to-increase-your-intake-290023",
+      "sourceTitle": "Fiber is both diet fad and fixture for good health – a doctor explains why there is no one-size-fits-all way to increase your intake",
+      "publishedAt": "2026-09-23T12:45:06Z",
+      "languages": {
+        "en": {
+          "title": "Fiber: many ways to increase intake, no single solution for everyone",
+          "summary": "This piece highlights that many people in the U.S. do not reach recommended fiber intakes and describes multiple practical approaches to boost daily fiber without causing stomach upset or high expense. The author emphasizes individual differences in tolerance and the need to tailor changes to each person.",
+          "whyItMatters": "Fiber influences digestion and other aspects of health, but there’s no universal approach; understanding options and personal tolerance can help people improve intake sustainably.",
+          "takeaways": [
+            "Most Americans consume less fiber than recommended.",
+            "There are numerous affordable and practical strategies to increase fiber that can be adjusted to personal tolerance.",
+            "Gradual changes and varied fiber sources can help avoid digestive discomfort."
+          ]
+        },
+        "es": {
+          "title": "Fibra: muchas formas de aumentar el consumo, ninguna solución única para todos",
+          "summary": "El artículo subraya que muchas personas en los EE. UU. no alcanzan las ingestas recomendadas de fibra y describe múltiples enfoques prácticos para aumentar la fibra diaria sin causar molestias digestivas o gastos elevados. El autor enfatiza las diferencias individuales en la tolerancia y la necesidad de adaptar los cambios a cada persona.",
+          "whyItMatters": "La fibra influye en la digestión y otros aspectos de la salud, pero no existe un enfoque universal; conocer las opciones y la tolerancia personal puede ayudar a mejorar la ingesta de forma sostenible.",
+          "takeaways": [
+            "La mayoría de los estadounidenses consume menos fibra de la recomendada.",
+            "Hay numerosas estrategias asequibles y prácticas para aumentar la fibra que se pueden ajustar según la tolerancia individual.",
+            "Los cambios graduales y la variedad de fuentes de fibra pueden ayudar a evitar molestias digestivas."
+          ]
+        },
+        "ru": {
+          "title": "Клетчатка: много способов увеличить потребление, универсального решения нет",
+          "summary": "В статье отмечается, что многие люди в США не достигают рекомендованного уровня потребления клетчатки, и описываются несколько практических подходов для увеличения суточного потребления клетчатки без желудочно-кишечного дискомфорта или больших затрат. Автор подчёркивает индивидуальные различия в переносимости и необходимость персонализированного подхода.",
+          "whyItMatters": "Клетчатка влияет на пищеварение и другие аспекты здоровья, но универсального подхода не существует; понимание вариантов и собственной переносимости помогает устойчиво повысить её потребление.",
+          "takeaways": [
+            "Большинство американцев потребляет меньше клетчатки, чем рекомендовано.",
+            "Существуют доступные и практичные стратегии увеличения потребления клетчатки, которые можно адаптировать под индивидуальную переносимость.",
+            "Постепенные изменения и разнообразие источников клетчатки помогают избежать дискомфорта со стороны ЖКТ."
+          ]
+        },
+        "uk": {
+          "title": "Клітковина: багато способів підвищити споживання, немає універсального рішення для всіх",
+          "summary": "Матеріал підкреслює, що багато людей у США не досягають рекомендованих рівнів споживання клітковини та описує кілька практичних підходів для підвищення щоденного надходження клітковини без спричинення шлунково‑кишкового дискомфорту або значних витрат. Автор наголошує на індивідуальних відмінностях у переносимості та потребі підбирати підхід для кожної людини.",
+          "whyItMatters": "Клітковина впливає на травлення та інші аспекти здоровʼя, але універсального підходу не існує; розуміння варіантів і особистої переносимості може допомогти людям стійко підвищувати споживання.",
+          "takeaways": [
+            "Більшість американців споживають менше клітковини, ніж рекомендовано.",
+            "Існують численні доступні та практичні стратегії для збільшення споживання клітковини, які можна адаптувати до індивідуальної переносимості.",
+            "Поступові зміни та різноманітні джерела клітковини можуть допомогти уникнути травних неприємностей."
+          ]
+        },
+        "fr": {
+          "title": "Fibres : plusieurs façons d’augmenter son apport, pas de solution universelle",
+          "summary": "Cet article souligne que de nombreuses personnes aux États‑Unis n’atteignent pas les apports recommandés en fibres et décrit plusieurs approches pratiques pour augmenter la quantité quotidienne de fibres sans provoquer de gêne digestive ni de coûts élevés. L’auteur insiste sur les différences individuelles de tolérance et la nécessité d’adapter les changements à chaque personne.",
+          "whyItMatters": "Les fibres influencent la digestion et d’autres aspects de la santé, mais il n’existe pas d’approche universelle ; comprendre les options et sa tolérance personnelle peut aider à augmenter l’apport de façon durable.",
+          "takeaways": [
+            "La plupart des Américains consomment moins de fibres que recommandé.",
+            "Il existe de nombreuses stratégies abordables et pratiques pour augmenter les fibres, ajustables selon la tolérance individuelle.",
+            "Des changements progressifs et des sources variées de fibres peuvent aider à éviter l’inconfort digestif."
+          ]
+        },
+        "de": {
+          "title": "Ballaststoffe: viele Wege, die Zufuhr zu erhöhen — keine Einheitslösung für alle",
+          "summary": "Der Beitrag betont, dass viele Menschen in den USA nicht die empfohlenen Ballaststoffmengen erreichen, und beschreibt mehrere praktische Ansätze, um die tägliche Ballaststoffzufuhr zu steigern, ohne Magenbeschwerden oder hohe Kosten zu verursachen. Der Autor hebt individuelle Unterschiede in der Verträglichkeit hervor und empfiehlt, Änderungen an die einzelne Person anzupassen.",
+          "whyItMatters": "Ballaststoffe beeinflussen Verdauung und andere Gesundheitsaspekte, es gibt jedoch keinen universellen Ansatz; das Wissen um Optionen und persönliche Verträglichkeit kann helfen, die Aufnahme nachhaltig zu verbessern.",
+          "takeaways": [
+            "Die meisten Amerikaner konsumieren weniger Ballaststoffe als empfohlen.",
+            "Es gibt zahlreiche erschwingliche und praktikable Strategien zur Steigerung der Ballaststoffzufuhr, die an die persönliche Verträglichkeit angepasst werden können.",
+            "Allmähliche Änderungen und abwechslungsreiche Ballaststoffquellen können helfen, Verdauungsbeschwerden zu vermeiden."
+          ]
+        },
+        "pt-br": {
+          "title": "Fibra: várias formas de aumentar o consumo — não existe solução única para todos",
+          "summary": "O texto destaca que muitas pessoas nos EUA não atingem as recomendações de fibra e descreve diversas abordagens práticas para aumentar a ingestão diária sem causar desconforto digestivo ou custos elevados. O autor enfatiza as diferenças individuais na tolerância e a necessidade de ajustar as mudanças para cada pessoa.",
+          "whyItMatters": "A fibra influencia a digestão e outros aspectos da saúde, mas não há uma abordagem universal; entender opções e tolerância pessoal pode ajudar a melhorar a ingestão de forma sustentável.",
+          "takeaways": [
+            "A maioria dos norte‑americanos consome menos fibra do que o recomendado.",
+            "Existem várias estratégias acessíveis e práticas para aumentar a fibra, que podem ser ajustadas conforme a tolerância individual.",
+            "Mudanças graduais e fontes variadas de fibra podem ajudar a evitar desconfortos digestivos."
+          ]
+        },
+        "hu": {
+          "title": "Rost: többféle mód a bevitel növelésére, nincs egyetlen megoldás mindenkinek",
+          "summary": "A cikk kiemeli, hogy sok amerikai nem éri el a javasolt rostbevitelt, és több gyakorlati megközelítést ismertet a napi rostnövelésre anélkül, hogy emésztési problémákat vagy magas költséget okozna. A szerző hangsúlyozza az egyéni eltéréseket a tűrőképességben, és azt, hogy a változtatásokat személyre kell szabni.",
+          "whyItMatters": "A rost befolyásolja az emésztést és az egészség más aspektusait, de nincs univerzális megközelítés; az opciók és az egyéni tűrőképesség ismerete segíthet a fenntartható beviteljavításban.",
+          "takeaways": [
+            "A legtöbb amerikai kevesebb rostot fogyaszt, mint a javasolt mennyiség.",
+            "Számos megfizethető és gyakorlati stratégia létezik a rostbevitel növelésére, amelyeket az egyéni tűrőképességhez lehet igazítani.",
+            "A fokozatos változtatások és a változatos rostforrások segíthetnek elkerülni az emésztési kellemetlenségeket."
+          ]
+        },
+        "ar": {
+          "title": "الألياف: طرق متعددة لزيادة الاستهلاك، ولا حل واحد يناسب الجميع",
+          "summary": "تُبرز المقالة أن العديد من الأشخاص في الولايات المتحدة لا يصلون إلى مستويات الألياف الموصى بها، وتستعرض عدة أساليب عملية لزيادة الألياف اليومية دون التسبب بانزعاج معدي أو تكاليف مرتفعة. ويؤكد الكاتب على الاختلافات الفردية في التحمّل والحاجة إلى تكييف التغييرات لكل شخص.",
+          "whyItMatters": "تؤثر الألياف على الهضم وجوانب صحية أخرى، لكن لا توجد مقاربة واحدة مناسبة للجميع؛ فهم الخيارات والتحمّل الشخصي يمكن أن يساعد في تحسين الاستهلاك بشكل مستدام.",
+          "takeaways": [
+            "معظم الأمريكيين يستهلكون أليافًا أقل مما يُوصى به.",
+            "هناك العديد من الاستراتيجيات الميسورة والعملية لزيادة الألياف يمكن تكييفها وفق التحمل الفردي.",
+            "يمكن أن تساعد التغييرات التدريجية وتنوّع مصادر الألياف في تجنّب الانزعاجات الهضمية."
+          ]
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fiber-no-one-size-fits-all-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fiber-no-one-size-fits-all-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fiber-no-one-size-fits-all-2026-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Fiber: many ways to increase intake, no single solution for everyone.\nStory summary: This piece highlights that many people in the U.S. do not reach recommended fiber intakes and describes multiple practical approaches to boost daily fiber without causing stomach upset or high expense. The author emphasizes individual differences in tolerance and the need to tailor changes to each person..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a9",
@@ -1394,111 +2036,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pilot trial suggests intermittent fasting may help people with Huntington’s disease, but evidence is preliminary.\nStory summary: A small pilot study reported improvements in Huntington’s disease measures among participants who followed an intermittent fasting regimen. The report emphasizes study limitations and calls for larger, more rigorous trials to confirm the findings..\nCategory: longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a7",
-      "category": "climate & nutrition",
+      "id": "climate-nutrition-indonesia-2026",
+      "category": "environment / nutrition",
       "sourceName": "gainhealth.org",
       "sourceUrl": "https://www.gainhealth.org/blogs/why-climate-change-also-nutrition-crisis-key-insights-study-indonesia",
       "sourceTitle": "Why Climate Change Is Also a Nutrition Crisis: Key Insights From a Study in Indonesia",
       "publishedAt": "Mon, 21 Sep 2026 13:15:48 +0000",
       "languages": {
         "en": {
-          "title": "Study in Indonesia highlights links between climate change and nutrition outcomes",
-          "summary": "A blog post outlines insights from research in Indonesia showing how climate change interacts with food systems to create nutrition challenges. The piece frames climate impacts as also constituting a nutrition crisis, with implications for policy and interventions.",
-          "whyItMatters": "Climate‑driven shifts in food availability and quality can affect dietary intake and nutrition security; recognizing these links helps shape integrated responses across health, agriculture and climate policy.",
+          "title": "Why climate change is also a nutrition crisis: insights from Indonesia",
+          "summary": "A blog post reviews findings from a study in Indonesia that link climate change to worsening nutrition outcomes. The piece outlines key messages about how environmental shifts influence food systems, dietary patterns, and nutritional status in affected communities.",
+          "whyItMatters": "Framing climate change as a nutrition issue highlights how environmental changes can have downstream effects on food availability, diet quality, and public health, informing policy and program responses.",
           "takeaways": [
-            "The post draws attention to the nutritional consequences of climate change based on a study in Indonesia.",
-            "Climate effects on food systems can reduce access to diverse, nutritious foods and exacerbate malnutrition risks.",
-            "Addressing nutrition in climate adaptation and mitigation planning can help protect population health."
+            "Climate change can affect food systems and nutrition outcomes in vulnerable settings.",
+            "The Indonesia study offers case-specific insights that illustrate broader connections between environment and diet.",
+            "Addressing nutrition under climate stress requires cross-sector action across health, agriculture, and policy."
           ]
         },
         "es": {
-          "title": "Estudio en Indonesia destaca vínculos entre cambio climático y resultados nutricionales",
-          "summary": "Una entrada de blog resume ideas de una investigación en Indonesia que muestra cómo el cambio climático interactúa con los sistemas alimentarios para generar desafíos nutricionales. La pieza enmarca los impactos climáticos como también constituyentes de una crisis nutricional, con implicaciones para políticas e intervenciones.",
-          "whyItMatters": "Los cambios inducidos por el clima en la disponibilidad y calidad de los alimentos pueden afectar la ingesta dietaria y la seguridad nutricional; reconocer estos vínculos ayuda a diseñar respuestas integradas entre salud, agricultura y políticas climáticas.",
+          "title": "Por qué el cambio climático también es una crisis nutricional: lecciones de Indonesia",
+          "summary": "Una entrada de blog revisa los hallazgos de un estudio en Indonesia que vinculan el cambio climático con un empeoramiento de los resultados nutricionales. El texto resume mensajes clave sobre cómo los cambios ambientales influyen en los sistemas alimentarios, los patrones dietéticos y el estado nutricional en las comunidades afectadas.",
+          "whyItMatters": "Enmarcar el cambio climático como un problema nutricional destaca cómo las alteraciones ambientales pueden tener efectos en la disponibilidad de alimentos, la calidad de la dieta y la salud pública, lo que orienta políticas y programas.",
           "takeaways": [
-            "La entrada llama la atención sobre las consecuencias nutricionales del cambio climático basándose en un estudio en Indonesia.",
-            "Los efectos del clima sobre los sistemas alimentarios pueden reducir el acceso a alimentos diversos y nutritivos y aumentar los riesgos de malnutrición.",
-            "Abordar la nutrición en la planificación de adaptación y mitigación climática puede ayudar a proteger la salud de la población."
+            "El cambio climático puede afectar a los sistemas alimentarios y a los resultados nutricionales en entornos vulnerables.",
+            "El estudio en Indonesia ofrece perspectivas específicas del caso que ilustran conexiones más amplias entre medio ambiente y dieta.",
+            "Abordar la nutrición bajo estrés climático requiere acción intersectorial en salud, agricultura y políticas."
           ]
         },
         "ru": {
-          "title": "Исследование в Индонезии подчёркивает связь между изменением климата и результатами в области питания",
-          "summary": "В блоге приведены выводы исследования в Индонезии, показывающего, как изменение климата взаимодействует с продовольственными системами и создаёт проблемы в области питания. Материал рассматривает климатические последствия также как кризис питания, с последствиями для политики и вмешательств.",
-          "whyItMatters": "Климатические изменения, влияющие на доступность и качество продуктов, могут сказаться на диете и продовольственной безопасности; признание этих связей помогает формировать интегрированные меры в сферах здравоохранения, сельского хозяйства и климатической политики.",
+          "title": "Почему изменение климата — это также кризис питания: основные выводы исследования в Индонезии",
+          "summary": "В блоге рассматриваются результаты исследования в Индонезии, связывающие изменение климата с ухудшением питательных показателей. Текст излагает ключевые сообщения о том, как изменения окружающей среды влияют на продовольственные системы, модели питания и состояние питания в пострадавших сообществах.",
+          "whyItMatters": "Рассмотрение изменения климата как проблемы питания подчёркивает, как экологические сдвиги могут приводить к последствиям для доступности продуктов, качества диеты и общественного здоровья, что важно для разработки политик и программ.",
           "takeaways": [
-            "Пост привлекает внимание к питательным последствиям изменения климата на основе исследования в Индонезии.",
-            "Воздействие климата на продовольственные системы может сократить доступ к разнообразным и питательным продуктам и усилить риски нарушения питания.",
-            "Включение вопросов питания в планы адаптации и смягчения последствий изменения климата может помочь защитить здоровье населения."
+            "Изменение климата может влиять на продовольственные системы и питательные показатели в уязвимых условиях.",
+            "Исследование в Индонезии даёт конкретные примеры, иллюстрирующие более широкие связи между окружающей средой и питанием.",
+            "Решение проблем питания в условиях климатического стресса требует межсекторного взаимодействия в областях здравоохранения, сельского хозяйства и политики."
           ]
         },
         "uk": {
-          "title": "Дослідження в Індонезії підкреслює зв’язки між зміною клімату та харчовими наслідками",
-          "summary": "Блог‑пост викладає висновки з дослідження в Індонезії, яке показує, як зміна клімату взаємодіє з продовольчими системами, створюючи проблеми для харчування. Матеріал позиціонує впливи клімату також як кризу харчування і має наслідки для політики та втручань.",
-          "whyItMatters": "Зсуви, спричинені кліматом, у доступності та якості продуктів харчування можуть впливати на раціон і продовольчу безпеку; визнання цих зв’язків допомагає формувати інтегровані відповіді у сферах охорони здоров’я, сільського господарства та кліматичної політики.",
+          "title": "Чому зміна клімату також є кризою харчування: висновки зі дослідження в Індонезії",
+          "summary": "Блог‑пост переглядає результати дослідження в Індонезії, які пов’язують зміну клімату зі погіршенням показників харчування. У матеріалі викладено ключові меседжі про те, як екологічні зміни впливають на продовольчі системи, дієти та нутритивний статус у постраждалих спільнотах.",
+          "whyItMatters": "Розглядання зміни клімату як проблеми харчування підкреслює, як екологічні зміни можуть мати віддалені наслідки для доступності продуктів, якості раціону та громадського здоровʼя, що важливо для формування політик та програм.",
           "takeaways": [
-            "Пост звертає увагу на наслідки зміни клімату для харчування, спираючись на дослідження в Індонезії.",
-            "Вплив клімату на продовольчі системи може зменшувати доступ до різноманітних, поживних продуктів і посилювати ризики недоїдання.",
-            "Включення питань харчування до планування адаптації та пом’якшення наслідків зміни клімату може допомогти захистити здоров’я населення."
+            "Зміна клімату може впливати на продовольчі системи та показники харчування в уразливих регіонах.",
+            "Дослідження в Індонезії дає конкретні приклади, що ілюструють ширші звʼязки між довкіллям і дієтою.",
+            "Вирішення проблем харчування під тиском кліматичних змін вимагає міжсекторної дії між охороною здоровʼя, сільським господарством і політикою."
           ]
         },
         "fr": {
-          "title": "Une étude en Indonésie met en lumière les liens entre changement climatique et résultats nutritionnels",
-          "summary": "Un billet de blog présente des enseignements d’une recherche en Indonésie montrant comment le changement climatique interagit avec les systèmes alimentaires pour créer des défis nutritionnels. Le texte décrit les impacts climatiques comme constituant aussi une crise nutritionnelle, avec des implications pour les politiques et les interventions.",
-          "whyItMatters": "Les évolutions induites par le climat dans la disponibilité et la qualité des aliments peuvent affecter les apports alimentaires et la sécurité nutritionnelle ; reconnaître ces liens aide à concevoir des réponses intégrées entre santé, agriculture et politiques climatiques.",
+          "title": "Pourquoi le changement climatique est aussi une crise nutritionnelle : enseignements d’une étude en Indonésie",
+          "summary": "Un billet de blog passe en revue les résultats d’une étude en Indonésie qui relient le changement climatique à une détérioration des résultats nutritionnels. Le texte présente les messages clés sur la manière dont les changements environnementaux influencent les systèmes alimentaires, les habitudes alimentaires et l’état nutritionnel des communautés affectées.",
+          "whyItMatters": "Considérer le changement climatique comme une question nutritionnelle met en lumière la façon dont les modifications environnementales peuvent avoir des effets en aval sur la disponibilité des aliments, la qualité des régimes et la santé publique, et guide les réponses en matière de politiques et de programmes.",
           "takeaways": [
-            "Le billet attire l’attention sur les conséquences nutritionnelles du changement climatique, sur la base d’une étude en Indonésie.",
-            "Les effets du climat sur les systèmes alimentaires peuvent réduire l’accès à des aliments diversifiés et nutritifs et aggraver les risques de malnutrition.",
-            "Prendre en compte la nutrition dans la planification de l’adaptation et de l’atténuation climatique peut contribuer à protéger la santé des populations."
+            "Le changement climatique peut affecter les systèmes alimentaires et les résultats nutritionnels dans les contextes vulnérables.",
+            "L’étude indonésienne fournit des enseignements concrets illustrant des liens plus larges entre environnement et alimentation.",
+            "Répondre à la nutrition sous stress climatique nécessite une action intersectorielle couvrant la santé, l’agriculture et les politiques."
           ]
         },
         "de": {
-          "title": "Studie in Indonesien hebt Verknüpfungen zwischen Klimawandel und Ernährungs‑ergebnissen hervor",
-          "summary": "Ein Blogbeitrag fasst Erkenntnisse aus Forschung in Indonesien zusammen, die zeigt, wie der Klimawandel mit Ernährungssystemen interagiert und ernährungsbezogene Herausforderungen erzeugt. Der Beitrag stellt Klimafolgen auch als eine Ernährungskrise dar und benennt Implikationen für Politik und Interventionen.",
-          "whyItMatters": "Klimabedingte Veränderungen in Verfügbarkeit und Qualität von Lebensmitteln können Ernährungsaufnahme und Ernährungssicherheit beeinträchtigen; diese Zusammenhänge zu erkennen hilft, integrierte Antworten in Gesundheit, Landwirtschaft und Klimapolitik zu gestalten.",
+          "title": "Warum Klimawandel auch eine Ernährungskrise ist: Erkenntnisse aus Indonesien",
+          "summary": "Ein Blogbeitrag fasst Ergebnisse einer Studie in Indonesien zusammen, die den Klimawandel mit sich verschlechternden Ernährungsindikatoren in Verbindung bringt. Der Beitrag skizziert zentrale Aussagen dazu, wie Umweltveränderungen Lebensmittelsysteme, Ernährungsgewohnheiten und den Ernährungszustand in betroffenen Gemeinden beeinflussen können.",
+          "whyItMatters": "Das Framen des Klimawandels als Ernährungsfrage macht deutlich, wie Umweltveränderungen Auswirkungen auf Verfügbarkeit von Lebensmitteln, Ernährungsqualität und öffentliche Gesundheit haben können und informiert Politik und Programmgestaltung.",
           "takeaways": [
-            "Der Beitrag lenkt die Aufmerksamkeit auf die ernährungsbezogenen Folgen des Klimawandels auf Basis einer Studie in Indonesien.",
-            "Klimawirkungen auf Ernährungssysteme können den Zugang zu vielfältigen, nahrhaften Lebensmitteln verringern und Mangelernährungsrisiken verschärfen.",
-            "Ernährung in Anpassungs‑ und Minderungsplänen des Klimaschutzes zu berücksichtigen kann helfen, die Gesundheit der Bevölkerung zu schützen."
+            "Klimawandel kann Lebensmittelsysteme und Ernährungsresultate in vulnerablen Regionen beeinflussen.",
+            "Die Studie in Indonesien bietet fallbezogene Erkenntnisse, die breitere Zusammenhänge zwischen Umwelt und Ernährung veranschaulichen.",
+            "Die Bewältigung ernährungsbezogener Folgen des Klimawandels erfordert sektorenübergreifende Maßnahmen in Gesundheit, Landwirtschaft und Politik."
           ]
         },
         "pt-br": {
-          "title": "Estudo na Indonésia destaca vínculos entre mudanças climáticas e resultados nutricionais",
-          "summary": "Um post no blog apresenta percepções de uma pesquisa na Indonésia que mostra como as mudanças climáticas interagem com os sistemas alimentares para criar desafios nutricionais. O texto enquadra os impactos do clima também como uma crise nutricional, com implicações para políticas e intervenções.",
-          "whyItMatters": "Mudanças climáticas que afetam a disponibilidade e a qualidade dos alimentos podem influenciar a ingestão alimentar e a segurança nutricional; reconhecer esses vínculos ajuda a moldar respostas integradas nas áreas de saúde, agricultura e políticas climáticas.",
+          "title": "Por que as mudanças climáticas também são uma crise nutricional: lições da Indonésia",
+          "summary": "Um post de blog revisa achados de um estudo na Indonésia que relacionam as mudanças climáticas a piores desfechos nutricionais. O texto descreve mensagens-chave sobre como alterações ambientais influenciam sistemas alimentares, padrões alimentares e o estado nutricional em comunidades afetadas.",
+          "whyItMatters": "Enquadrar as mudanças climáticas como uma questão nutricional destaca como alterações ambientais podem ter efeitos em cascata sobre disponibilidade de alimentos, qualidade da dieta e saúde pública, orientando respostas em políticas e programas.",
           "takeaways": [
-            "O post chama atenção para as consequências nutricionais das mudanças climáticas com base em um estudo na Indonésia.",
-            "Os efeitos do clima sobre os sistemas alimentares podem reduzir o acesso a alimentos diversos e nutritivos e agravar riscos de desnutrição.",
-            "Incorporar a nutrição em planos de adaptação e mitigação climática pode ajudar a proteger a saúde das populações."
+            "As mudanças climáticas podem afetar sistemas alimentares e resultados nutricionais em contextos vulneráveis.",
+            "O estudo na Indonésia oferece insights específicos de caso que ilustram conexões mais amplas entre ambiente e dieta.",
+            "Lidar com a nutrição sob estresse climático exige ação intersetorial entre saúde, agricultura e políticas públicas."
           ]
         },
         "hu": {
-          "title": "Indonéziai tanulmány rávilágít az éghajlatváltozás és a táplálkozási eredmények közötti kapcsolatra",
-          "summary": "Egy blogbejegyzés a kutatásból levont megállapításokat vázolja Indonéziáról, bemutatva, hogyan hat az éghajlatváltozás az élelmiszerrendszerekre és ezáltal táplálkozási kihívásokat teremt. A cikk az éghajlati hatásokat táplálkozási válságként értelmezi, és következményekkel jár a politikára és beavatkozásokra nézve.",
-          "whyItMatters": "Az éghajlat okozta változások az élelmiszer‑hozamra és minőségre hatva befolyásolhatják az étrendi bevitel és a táplálkozási biztonságot; ezen kapcsolatok felismerése segíthet integrált válaszok kialakításában az egészség, mezőgazdaság és klímapolitika területén.",
+          "title": "Miért vált a klímaváltozás táplálkozási válsággá is: betekintés Indonéziából",
+          "summary": "Egy blogbejegyzés áttekinti egy indonéziai tanulmány eredményeit, amelyek a klímaváltozást összekapcsolják a rosszabb táplálkozási kimenetekkel. A poszt kiemeli a fő üzeneteket arról, hogyan befolyásolják a környezeti változások az élelmiszerrendszereket, az étrendi mintázatokat és a tápláltsági állapotot érintett közösségekben.",
+          "whyItMatters": "A klímaváltozás táplálkozási kérdésként való értelmezése rávilágít arra, hogy a környezeti változások hogyan hathatnak lehetségesen az élelmiszer-ellátásra, az étrendi minőségre és a közegészségre, ami támpontot adhat a politikai és programszintű beavatkozásokhoz.",
           "takeaways": [
-            "A bejegyzés ráirányítja a figyelmet az éghajlatváltozás táplálkozási következményeire egy indonéziai tanulmány alapján.",
-            "Az éghajlat hatásai az élelmiszerrendszerekre csökkenthetik a változatos, tápanyagban gazdag élelmiszerekhez való hozzáférést és súlyosbíthatják az alultápláltság kockázatait.",
-            "A táplálkozás bevonása a klímatűrési és -mérséklési tervekbe segíthet a lakosság egészségének védelmében."
+            "A klímaváltozás befolyásolhatja az élelmiszerrendszereket és a táplálkozási kimeneteket sérülékeny környezetekben.",
+            "Az indonéz tanulmány esettanulságai szélesebb összefüggéseket illusztrálnak a környezet és az étrend között.",
+            "A táplálkozás éghajlati terhelés alatt történő kezelése ágazatokon átívelő intézkedéseket igényel az egészség, a mezőgazdaság és a politika területén."
           ]
         },
         "ar": {
-          "title": "دراسة في إندونيسيا تبرز الروابط بين تغير المناخ ونتائج التغذية",
-          "summary": "تستعرض تدوينة رؤى من بحث في إندونيسيا تُظهر كيف يتفاعل تغير المناخ مع نظم الغذاء ليخلق تحديات تغذوية. تُؤطر التدوينة تأثيرات المناخ أيضًا كأزمة تغذية، مع آثار ضميمة على السياسات والتدخلات.",
-          "whyItMatters": "يمكن لتغيرات المناخ أن تؤثر على توفر وجودة الغذاء مما يؤثر على المدخول الغذائي والأمن التغذوي؛ يساعد الاعتراف بهذه الروابط في صياغة استجابات متكاملة عبر الصحة والزراعة وسياسات المناخ.",
+          "title": "لماذا يُعَدّ تغير المناخ أيضاً أزمة تغذية: دروس من إندونيسيا",
+          "summary": "تستعرض تدوينة نتائج دراسة في إندونيسيا تربط تغير المناخ بتفاقم نتائج التغذية. وتوضح التدوينة الرسائل الأساسية حول كيفية تأثير التحولات البيئية على نظم الغذاء والأنماط الغذائية والحالة التغذوية في المجتمعات المتأثرة.",
+          "whyItMatters": "إطار نظر تغير المناخ كقضية تغذوية يبرز كيف يمكن أن يكون للتغيرات البيئية آثار لاحقة على توفر الغذاء وجودته والصحة العامة، ما يوفر معلومات لصياغة السياسات والبرامج.",
           "takeaways": [
-            "تلفت التدوينة الانتباه إلى العواقب التغذوية لتغير المناخ استنادًا إلى دراسة في إندونيسيا.",
-            "قد تقلل آثار المناخ على نظم الغذاء من الوصول إلى أطعمة متنوعة ومغذية وتزيد مخاطر نقص التغذية.",
-            "يمكن أن يساعد تضمين التغذية في خطط التكيف والتخفيف المناخي على حماية صحة السكان."
+            "يمكن أن يؤثر تغير المناخ على نظم الغذاء ونتائج التغذية في البيئات الضعيفة.",
+            "تقدّم دراسة إندونيسيا رؤى حالة توضح الروابط الأوسع بين البيئة والنظام الغذائي.",
+            "يتطلب التصدي لقضايا التغذية تحت ضغوط المناخ عملاً مشتركًا عبر قطاعات الصحة والزراعة والسياسة."
           ]
         }
       },
-      "generatedAt": "2026-09-23T06:53:16.862Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a7",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=climate-nutrition-indonesia-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/climate-nutrition-indonesia-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/climate-nutrition-indonesia-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study in Indonesia highlights links between climate change and nutrition outcomes.\nStory summary: A blog post outlines insights from research in Indonesia showing how climate change interacts with food systems to create nutrition challenges. The piece frames climate impacts as also constituting a nutrition crisis, with implications for policy and interventions..\nCategory: climate & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Why climate change is also a nutrition crisis: insights from Indonesia.\nStory summary: A blog post reviews findings from a study in Indonesia that link climate change to worsening nutrition outcomes. The piece outlines key messages about how environmental shifts influence food systems, dietary patterns, and nutritional status in affected communities..\nCategory: environment / nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "conversation-smartwatch-body-fat-20260921",
@@ -7762,8 +8404,8 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Real-world study found semaglutide use associated with fewer asthma attacks and COPD flare-ups.\nStory summary: In an observational analysis, semaglutide (the active ingredient in Ozempic and Wegovy) was associated with almost 40% fewer asthma exacerbations and about 20% fewer COPD flare-ups. Authors note these are real-world associations and that randomized trials are needed to test causality..\nCategory: Metabolic Drugs & Respiratory Health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "nutrition-org-nhanes-20260909",
-      "category": "Nutrition data",
+      "id": "nhanes-special-issue-2026",
+      "category": "nutrition research / public health",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/currdevnutr-highlights-24-years-of-nhanes-nutrition-data/",
       "sourceTitle": "A Special Issue of Current Developments in Nutrition Highlights 24 Years of NHANES Nutrition Data",
@@ -7771,102 +8413,102 @@
       "languages": {
         "en": {
           "title": "Special issue highlights 24 years of NHANES nutrition data",
-          "summary": "The Current Developments in Nutrition special issue compiles analyses based on 24 years of NHANES nutrition data, offering a resource for understanding long-term dietary patterns and related health metrics.",
-          "whyItMatters": "Longitudinal, standardized nutrition data help researchers and policymakers track trends, identify public health priorities, and evaluate the impact of dietary guidance over time.",
+          "summary": "Current Developments in Nutrition released a special issue drawing on 24 years of data from the National Health and Nutrition Examination Survey (NHANES). The compilation showcases how this long-running survey has been used to examine dietary patterns and population health questions over time.",
+          "whyItMatters": "NHANES is a foundational dataset for understanding trends in diet and health in the U.S.; a focused issue underscores its continued value for research and policy.",
           "takeaways": [
-            "The issue aggregates research spanning 24 years of NHANES nutrition information.",
-            "NHANES data support analyses of dietary trends and population health indicators.",
-            "This compilation can inform future nutrition research and public health planning."
+            "The special issue compiles research using 24 years of NHANES nutrition data.",
+            "NHANES supports trend analysis and population-level insights about diet and health.",
+            "The collection highlights the survey’s role in informing research and policy discussions."
           ]
         },
         "es": {
-          "title": "Número especial destaca 24 años de datos nutricionales de NHANES",
-          "summary": "El número especial de Current Developments in Nutrition compila análisis basados en 24 años de datos nutricionales de NHANES, ofreciendo un recurso para entender patrones dietéticos a largo plazo y métricas de salud relacionadas.",
-          "whyItMatters": "Los datos nutricionales estandarizados y longitudinales ayudan a investigadores y responsables de políticas a seguir tendencias, identificar prioridades de salud pública y evaluar el impacto de las recomendaciones dietéticas a lo largo del tiempo.",
+          "title": "Un número especial destaca 24 años de datos nutricionales de NHANES",
+          "summary": "Current Developments in Nutrition publicó un número especial basado en 24 años de datos de la Encuesta Nacional de Salud y Nutrición (NHANES). La compilación muestra cómo esta encuesta de larga duración se ha usado para examinar patrones dietarios y cuestiones de salud poblacional a lo largo del tiempo.",
+          "whyItMatters": "NHANES es un conjunto de datos fundamental para entender tendencias en dieta y salud en EE. UU.; un número especial subraya su valor continuo para la investigación y la formulación de políticas.",
           "takeaways": [
-            "El número reúne investigaciones que abarcan 24 años de información nutricional de NHANES.",
-            "Los datos de NHANES permiten analizar tendencias dietéticas e indicadores de salud poblacional.",
-            "Esta recopilación puede informar futuras investigaciones en nutrición y la planificación de salud pública."
+            "El número especial recopila investigaciones que utilizan 24 años de datos nutricionales de NHANES.",
+            "NHANES permite el análisis de tendencias y ofrece información a nivel poblacional sobre dieta y salud.",
+            "La colección destaca el papel de la encuesta en la orientación de investigaciones y debates de política."
           ]
         },
         "ru": {
-          "title": "Специальный выпуск подчёркивает 24 года данных о питании из NHANES",
-          "summary": "Специальный выпуск Current Developments in Nutrition объединяет анализы, основанные на 24 годах данных о питании из NHANES, предоставляя ресурс для понимания долгосрочных пищевых шаблонов и связанных с ними показателей здоровья.",
-          "whyItMatters": "Стандартизированные продольные данные о питании помогают исследователям и политикам отслеживать тенденции, выявлять приоритеты общественного здравоохранения и оценивать влияние диетических рекомендаций со временем.",
+          "title": "Специальный выпуск освещает 24 года данных NHANES по питанию",
+          "summary": "Журнал Current Developments in Nutrition выпустил специальный номер, опирающийся на 24 года данных Национального обследования здоровья и питания (NHANES). Сборник показывает, как этот долгосрочный опрос использовался для изучения моделей питания и вопросов общественного здоровья с течением времени.",
+          "whyItMatters": "NHANES является фундаментальным набором данных для понимания тенденций в питании и здоровье в США; специальный выпуск подчёркивает его постоянную ценность для исследований и политики.",
           "takeaways": [
-            "В выпуске собраны исследования, охватывающие 24 года информации о питании NHANES.",
-            "Данные NHANES поддерживают анализы тенденций в рационе и показателей здоровья населения.",
-            "Эта компиляция может послужить основой для будущих исследований в области питания и планирования общественного здравоохранения."
+            "Специальный выпуск объединяет исследования, использующие 24 года данных NHANES по питанию.",
+            "NHANES поддерживает анализ тенденций и даёт представление о питании и здоровье на уровне популяции.",
+            "Коллекция подчёркивает роль обследования в формировании исследований и политических обсуждений."
           ]
         },
         "uk": {
-          "title": "Спеціальний випуск висвітлює 24 роки даних NHANES про харчування",
-          "summary": "Спеціальний випуск журналу Current Developments in Nutrition об’єднує аналізи на основі 24 років даних NHANES про харчування, пропонуючи ресурс для розуміння довгострокових моделей харчування та пов’язаних з ними показників здоров'я.",
-          "whyItMatters": "Стандартизовані довготривалі дані про харчування допомагають дослідникам і політикам відстежувати тенденції, визначати пріоритети громадського здоров'я та оцінювати вплив харчових рекомендацій з часом.",
+          "title": "Спеціальний випуск висвітлює 24 роки даних харчування NHANES",
+          "summary": "Журнал Current Developments in Nutrition випустив спеціальний випуск, що опирається на 24 роки даних Національного обстеження здоровʼя та харчування (NHANES). Збірка демонструє, як це тривале дослідження використовувалося для вивчення харчових патернів та питань здоровʼя населення з часом.",
+          "whyItMatters": "NHANES є фундаментальним джерелом для розуміння тенденцій у харчуванні та здоровʼї в США; присвячений випуск підкреслює його значення для досліджень та політики.",
           "takeaways": [
-            "Випуск агрегує дослідження, що охоплюють 24 роки інформації NHANES про харчування.",
-            "Дані NHANES підтримують аналізи харчових тенденцій і показників здоров'я населення.",
-            "Ця компіляція може інформувати майбутні дослідження з харчування та планування громадського здоров'я."
+            "Спеціальний випуск збирає дослідження на основі 24 років даних NHANES щодо харчування.",
+            "NHANES дає змогу аналізувати тенденції та отримувати висновки на рівні популяції про харчування і здоровʼя.",
+            "Колекція підкреслює роль опитування у формуванні наукових досліджень і політичних дискусій."
           ]
         },
         "fr": {
           "title": "Un numéro spécial met en lumière 24 ans de données nutritionnelles NHANES",
-          "summary": "Le numéro spécial de Current Developments in Nutrition compile des analyses basées sur 24 ans de données NHANES sur la nutrition, offrant une ressource pour comprendre les tendances alimentaires à long terme et les indicateurs de santé associés.",
-          "whyItMatters": "Des données nutritionnelles longitudinales et standardisées aident les chercheurs et les décideurs à suivre les tendances, à identifier les priorités de santé publique et à évaluer l'impact des recommandations alimentaires au fil du temps.",
+          "summary": "Current Developments in Nutrition a publié un numéro spécial s’appuyant sur 24 ans de données du National Health and Nutrition Examination Survey (NHANES). La compilation met en avant la manière dont cette enquête de longue durée a été utilisée pour examiner les habitudes alimentaires et les questions de santé de la population au fil du temps.",
+          "whyItMatters": "NHANES est une base de données fondamentale pour comprendre les tendances en matière d’alimentation et de santé aux États‑Unis ; un numéro consacré souligne sa valeur continue pour la recherche et les politiques.",
           "takeaways": [
-            "Le numéro agrège des travaux couvrant 24 ans d'informations nutritionnelles NHANES.",
-            "Les données NHANES permettent d'analyser les tendances alimentaires et les indicateurs de santé des populations.",
-            "Cette compilation peut éclairer la recherche future en nutrition et la planification de la santé publique."
+            "Le numéro spécial compile des recherches utilisant 24 ans de données NHANES sur la nutrition.",
+            "NHANES soutient l’analyse des tendances et les perspectives au niveau de la population sur alimentation et santé.",
+            "La collection met en avant le rôle de l’enquête pour éclairer la recherche et les débats politiques."
           ]
         },
         "de": {
           "title": "Sonderausgabe hebt 24 Jahre NHANES‑Ernährungsdaten hervor",
-          "summary": "Die Sonderausgabe von Current Developments in Nutrition fasst Analysen zusammen, die auf 24 Jahren NHANES‑Ernährungsdaten basieren, und bietet eine Ressource zum Verständnis langfristiger Ernährungsgewohnheiten und zugehöriger Gesundheitskennzahlen.",
-          "whyItMatters": "Langfristige, standardisierte Ernährungsdaten helfen Forschenden und Entscheidungsträgern, Trends zu verfolgen, öffentliche Gesundheitsprioritäten zu identifizieren und die Wirkung ernährungsbezogener Empfehlungen über die Zeit zu bewerten.",
+          "summary": "Current Developments in Nutrition veröffentlichte eine Sonderausgabe, die auf 24 Jahren Daten der National Health and Nutrition Examination Survey (NHANES) basiert. Die Zusammenstellung zeigt, wie diese lang laufende Erhebung zur Untersuchung von Ernährungsgewohnheiten und bevölkerungsbezogenen Gesundheitsfragen über die Zeit genutzt worden ist.",
+          "whyItMatters": "NHANES ist eine grundlegende Datenquelle zum Verständnis von Trends in Ernährung und Gesundheit in den USA; eine fokussierte Ausgabe unterstreicht ihren fortgesetzten Wert für Forschung und Politik.",
           "takeaways": [
-            "Die Ausgabe bündelt Forschung über 24 Jahre NHANES‑Ernährungsinformationen.",
-            "NHANES‑Daten unterstützen Analysen zu Ernährungstrends und Indikatoren der Bevölkerungsgesundheit.",
-            "Diese Zusammenstellung kann künftige Ernährungsforschung und Planung im öffentlichen Gesundheitswesen informieren."
+            "Die Sonderausgabe bündelt Forschung, die 24 Jahre NHANES‑Ernährungsdaten nutzt.",
+            "NHANES unterstützt Trendanalysen und bevölkerungsbezogene Einsichten zu Ernährung und Gesundheit.",
+            "Die Sammlung betont die Rolle der Erhebung bei der Informierung von Forschung und politischen Diskussionen."
           ]
         },
         "pt-br": {
           "title": "Edição especial destaca 24 anos de dados nutricionais do NHANES",
-          "summary": "A edição especial do Current Developments in Nutrition compila análises baseadas em 24 anos de dados nutricionais do NHANES, oferecendo um recurso para entender padrões dietéticos de longo prazo e métricas de saúde relacionadas.",
-          "whyItMatters": "Dados nutricionais longitudinais e padronizados ajudam pesquisadores e formuladores de políticas a acompanhar tendências, identificar prioridades de saúde pública e avaliar o impacto de orientações alimentares ao longo do tempo.",
+          "summary": "A revista Current Developments in Nutrition lançou uma edição especial baseada em 24 anos de dados da National Health and Nutrition Examination Survey (NHANES). A compilação mostra como essa pesquisa de longa duração tem sido usada para examinar padrões alimentares e questões de saúde populacional ao longo do tempo.",
+          "whyItMatters": "O NHANES é um conjunto de dados fundamental para entender tendências em dieta e saúde nos EUA; uma edição dedicada ressalta seu valor contínuo para pesquisa e políticas.",
           "takeaways": [
-            "A edição agrega pesquisas abrangendo 24 anos de informações nutricionais do NHANES.",
-            "Os dados do NHANES sustentam análises de tendências alimentares e indicadores de saúde populacional.",
-            "Essa compilação pode informar pesquisas nutricionais futuras e o planejamento de saúde pública."
+            "A edição especial compila pesquisas que utilizam 24 anos de dados nutricionais do NHANES.",
+            "O NHANES apoia análises de tendência e insights populacionais sobre dieta e saúde.",
+            "A coleção destaca o papel da pesquisa na fundamentação de debates em pesquisa e políticas."
           ]
         },
         "hu": {
-          "title": "Különszám emeli ki a NHANES 24 éves táplálkozási adatait",
-          "summary": "A Current Developments in Nutrition különszáma 24 év NHANES táplálkozási adatain alapuló elemzéseket gyűjt össze, és forrást kínál a hosszú távú étrendi minták és kapcsolódó egészségügyi mutatók megértéséhez.",
-          "whyItMatters": "A hosszú távú, szabványosított táplálkozási adatok segítik a kutatókat és a döntéshozókat a trendek nyomon követésében, a közegészségügyi prioritások azonosításában és a táplálkozási iránymutatások hatásának értékelésében az idő múlásával.",
+          "title": "Különszám kiemeli a 24 év NHANES-táplálkozási adatát",
+          "summary": "A Current Developments in Nutrition egy különszámot jelentetett meg, amely 24 évnyi National Health and Nutrition Examination Survey (NHANES) adatot használ fel. Az összeállítás bemutatja, hogyan használták ezt a hosszú távú felmérést étrendi mintázatok és népegészségügyi kérdések vizsgálatára az évek során.",
+          "whyItMatters": "A NHANES alapvető adatforrás a táplálkozás és egészség trendjeinek megértéséhez az Egyesült Államokban; a fókuszált különszám aláhúzza annak folyamatos értékét a kutatás és a politika számára.",
           "takeaways": [
-            "A különszám 24 éven át gyűjtött NHANES táplálkozási információkat aggregálja.",
-            "A NHANES adatok támogatják az étrendi trendek és a népességi egészségmutatók elemzését.",
-            "A gyűjtemény támpontot nyújthat a jövőbeli táplálkozási kutatásokhoz és a közegészségügyi tervezéshez."
+            "A különszám 24 év NHANES-táplálkozási adatot felhasználó kutatásokat gyűjt össze.",
+            "A NHANES támogatja a trendelemzést és a populációszintű betekintést az étrend és az egészség terén.",
+            "Az összeállítás kiemeli a felmérés szerepét a kutatási és politikai viták tájékoztatásában."
           ]
         },
         "ar": {
-          "title": "عدد خاص يبرز 24 عامًا من بيانات التغذية في NHANES",
-          "summary": "يجمع العدد الخاص لمجلة Current Developments in Nutrition تحليلات مستندة إلى 24 عامًا من بيانات التغذية في NHANES، موفّرًا مصدرًا لفهم أنماط النظام الغذائي على المدى الطويل ومقاييس الصحة المرتبطة بها.",
-          "whyItMatters": "تساعد بيانات التغذية الطولية والموحدة الباحثين وصنّاع السياسات على تتبّع الاتجاهات وتحديد أولويات الصحة العامة وتقييم تأثير التوجيهات الغذائية عبر الزمن.",
+          "title": "عدد خاص يبرز 24 عاماً من بيانات NHANES التغذوية",
+          "summary": "أصدر مجلة Current Developments in Nutrition عددًا خاصًا يستند إلى بيانات المسح الوطني للفحص الصحي والتغذوي (NHANES) على مدى 24 عامًا. وتعرض التجميعة كيف استُخدمت هذه السلسلة الطويلة من المسوحات لدراسة أنماط النظام الغذائي وأسئلة الصحة السكانية عبر الزمن.",
+          "whyItMatters": "يُعد NHANES مجموعة بيانات أساسية لفهم اتجاهات النظام الغذائي والصحة في الولايات المتحدة؛ ويؤكد العدد الخاص على قيمته المستمرة للبحث والسياسة.",
           "takeaways": [
-            "العدد يجمع أبحاثًا تستند إلى 24 عامًا من معلومات تغذية NHANES.",
-            "تدعم بيانات NHANES تحليلات اتجاهات النظام الغذائي ومؤشرات صحة السكان.",
-            "يمكن أن تُعلِم هذه المجموعة الأبحاث التغذوية المستقبلية والتخطيط في مجال الصحة العامة."
+            "يجمع العدد الخاص بحوثًا تستخدم 24 عامًا من بيانات NHANES التغذوية.",
+            "يدعم NHANES تحليل الاتجاهات وتقديم رؤى على مستوى السكان حول النظام الغذائي والصحة.",
+            "تُبرز التجميعة دور المسح في إبلاغ النقاشات البحثية والسياساتية."
           ]
         }
       },
-      "generatedAt": "2026-09-22T06:50:16.461Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutrition-org-nhanes-20260909",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutrition-org-nhanes-20260909-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutrition-org-nhanes-20260909-news.webp",
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nhanes-special-issue-2026",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nhanes-special-issue-2026-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nhanes-special-issue-2026-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Special issue highlights 24 years of NHANES nutrition data.\nStory summary: The Current Developments in Nutrition special issue compiles analyses based on 24 years of NHANES nutrition data, offering a resource for understanding long-term dietary patterns and related health metrics..\nCategory: Nutrition data.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Special issue highlights 24 years of NHANES nutrition data.\nStory summary: Current Developments in Nutrition released a special issue drawing on 24 years of data from the National Health and Nutrition Examination Survey (NHANES). The compilation showcases how this long-running survey has been used to examine dietary patterns and population health questions over time..\nCategory: nutrition research / public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "eating-window-korea-2026",
@@ -87633,6 +88275,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-09-24-motivation-1-s1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Packed lunch, planned day",
+          "story": "Maya started packing a simple lunch the night before and spends two minutes each morning logging it. On busy days she treats the log as a checklist rather than a judgement: planned lunch, a quick salad, and a small treat. After a few weeks she noticed it’s easier to choose foods that keep her satisfied without overthinking. Tracking helped Maya spot what worked and repeat the small wins, not to be perfect but to feel more in control of her daily routine.",
+          "habit": "Plan and log one meal before noon.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Almuerzo preparado, día organizado",
+          "story": "Maya comenzó a preparar una comida sencilla la noche anterior y dedica dos minutos cada mañana a registrarla. En los días ocupados usa el registro como una lista de verificación en lugar de una crítica: almuerzo planificado, una ensalada rápida y un pequeño capricho. Tras unas semanas comprobó que le resulta más fácil elegir alimentos que la sacien sin darle más vueltas. Anotar le ayudó a identificar lo que funcionaba y repetir pequeños éxitos, sin buscar la perfección sino mayor control del día a día.",
+          "habit": "Prepara y registra una comida antes del mediodía.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Собранный ланч — план на день",
+          "story": "Майя стала готовить простую еду на ужин и тратить пару минут утром, чтобы внести её в приложение. В напряжённые дни она воспринимает запись как чек‑лист, а не как приговор: ланч по плану, быстрый салат и небольшой десерт. Через несколько недель она заметила, что ей проще выбирать продукты, которые надолго утоляют голод, не придумывая сложных правил. Ведение учёта помогло Майе понять, что работает, и повторять маленькие победы — не для совершенства, а чтобы чувствовать больше контроля.",
+          "habit": "Записывайте одну еду до полудня.",
+          "appCta": "Откройте Calorie Bank Credit и записывайте сегодня."
+        },
+        "uk": {
+          "title": "Підготовлений обід — впорядкований день",
+          "story": "Майя почала готувати простий обід напередодні й витрачає пару хвилин зранку, щоб його записати. У зайняті дні вона ставиться до запису як до чек‑ліста, а не осуду: обід за планом, швидкий салат і невеликий десерт. Через кілька тижнів помітила, що легше обирати ситні варіанти без зайвого хвилювання. Ведення записів допомогло Майї побачити, що працює, й повторювати малі успіхи — не заради ідеалу, а щоб відчувати більше контролю у щоденності.",
+          "habit": "Плануйте й записуйте одну страву до полудня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть записувати сьогодні."
+        },
+        "fr": {
+          "title": "Repas préparé, journée maîtrisée",
+          "story": "Maya prépare un déjeuner simple la veille et prend deux minutes le matin pour l’enregistrer. Les jours chargés, elle considère l’enregistrement comme une liste à cocher plutôt qu’une critique : repas planifié, petite salade, et un petit plaisir. Après quelques semaines, elle constate qu’il est plus facile de choisir des aliments qui la rassasient sans trop y réfléchir. Le suivi lui a permis d’identifier ce qui fonctionne et de reproduire ces petits succès, non pas pour être parfaite, mais pour mieux gérer son quotidien.",
+          "habit": "Préparez et enregistrez un repas avant midi.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Vorgepacktes Mittagessen, geplanter Tag",
+          "story": "Maya packt abends ein einfaches Mittagessen und braucht morgens nur zwei Minuten, um es einzutragen. An hektischen Tagen sieht sie das Log als Checkliste, nicht als Vorwurf: geplanter Lunch, ein schneller Salat und eine kleine Belohnung. Nach ein paar Wochen merkt sie, dass es leichter ist, sättigende Optionen zu wählen, ohne groß nachzudenken. Das Aufzeichnen half ihr, herauszufinden, was funktioniert, und diese kleinen Erfolge zu wiederholen — nicht perfekt zu sein, sondern mehr Kontrolle im Alltag zu fühlen.",
+          "habit": "Plane und trage eine Mahlzeit vor Mittag ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "Almoço pronto, dia mais organizado",
+          "story": "Maya começou a preparar um almoço simples na noite anterior e gasta dois minutos pela manhã para registrá‑lo. Nos dias corridos, ela usa o registro como uma lista de verificação, não como julgamento: almoço planejado, uma salada rápida e um pequeno mimo. Depois de algumas semanas, percebeu que fica mais fácil escolher opções que a satisfazem sem complicar. Registrar ajudou Maya a entender o que funciona e a repetir pequenas vitórias — não pela perfeição, mas para sentir mais controle no dia a dia.",
+          "habit": "Planeje e registre uma refeição antes do meio‑dia.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Előre készült ebéd, rendezett nap",
+          "story": "Maya előző este készít egyszerű ebédet, és reggel két percet szán rá, hogy beírja. Forgalmas napokon a napló számára ellenőrző listaként működik, nem ítéletként: megtervezett ebéd, gyors saláta és egy kis jutalom. Néhány hét alatt észrevette, hogy könnyebb olyan ételeket választani, amelyek jóllakatnak anélkül, hogy túlgondolná. A naplózás segített meglátni, mi működik, és megismételni a kis sikereket — nem a tökéletességért, hanem a napi kontrollért.",
+          "habit": "Tervezd meg és jegyezd be egy étkezésed délelőtt.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd ma."
+        },
+        "ar": {
+          "title": "غداء جاهز، يوم مُنَظَّم",
+          "story": "بدأت مايا بتحضير غداء بسيط في الليلة السابقة وتقضي دقيقتين صباحًا فقط لتسجيله. في الأيام المزدحمة تعتبر التسجيل كقائمة تحقق لا كحكم: غداء مخطط، سلطة سريعة، وقليل من التدليل. بعد أسابيع قليلة لاحظت أنها أصبحت تختار أطعمة تشعرها بالشبع بسهولة أكبر دون تعقيد. ساعدها التتبع على رؤية ما يعمل لها وتكرار الانتصارات الصغيرة — ليس للسعي وراء الكمال، بل للشعور بمزيد من التحكم في روتينها اليومي.",
+          "habit": "اخطط وسجل وجبة واحدة قبل الظهر.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Packed lunch, planned day.\nStory: Maya started packing a simple lunch the night before and spends two minutes each morning logging it. On busy days she treats the log as a checklist rather than a judgement: planned lunch, a quick salad, and a small treat. After a few weeks she noticed it’s easier to choose foods that keep her satisfied without overthinking. Tracking helped Maya spot what worked and repeat the small wins, not to be perfect but to feel more in control of her daily routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-24-motivation-2-s2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Honest snacks, clearer choices",
+          "story": "Carlos used to forget the handful of nuts or the evening cookie. He decided to log every small bite, even the ones that felt 'too minor.' Within a couple of weeks the pattern was clear: certain TV nights meant extra snacks. Instead of judging himself, Carlos picked one small change — a bowl instead of snacking straight from the package — and kept recording. The honest log helped him make gentle changes that fit his life, one realistic tweak at a time.",
+          "habit": "Log every snack, even quick bites.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Aperitivos honestos, decisiones más claras",
+          "story": "Carlos solía olvidar ese puñado de frutos secos o la galleta de la noche. Empezó a registrar cada bocado pequeño, incluso los que parecían \"insignificantes\". En pocas semanas el patrón apareció: ciertas noches de TV significaban más picoteo. En vez de juzgarse, Carlos eligió un cambio simple — usar un bol en lugar de comer directamente del paquete — y siguió anotando. El registro honesto le permitió hacer ajustes suaves que encajan en su día a día, uno a la vez.",
+          "habit": "Anota cada snack, incluso bocados pequeños.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Честные перекусы, понятнее выбор",
+          "story": "Карлос раньше забывал о горсти орехов или вечернем печенье. Он стал записывать каждый маленький укус, даже тот, что казался неважным. Через пару недель проявился шаблон: вечера перед телевизором — больше перекусов. Вместо самокритики Карлос выбрал простую замену — пусть будет миска, а не еда прямо из упаковки — и продолжил записи. Честный журнал помог ему внести мягкие изменения, которые вписывались в жизнь, шаг за шагом.",
+          "habit": "Записывайте каждый перекус, даже мелкие кусочки.",
+          "appCta": "Откройте Calorie Bank Credit и записывайте сегодня."
+        },
+        "uk": {
+          "title": "Чесні перекуси, зрозуміліші вибори",
+          "story": "Карлос раніше міг забути про жменьку горіхів або вечірнє печиво. Він почав записувати кожен маленький укус, навіть той, що здавався неважливим. Через кілька тижнів виявився патерн: телевізійні вечори — більше перекусів. Замість осуду Карлос обрав просту зміну — користуватися мискою, а не їсти з пакунка — і продовжив записи. Чесний журнал допоміг зробити м’які зміни, що пасують до життя, крок за кроком.",
+          "habit": "Записуйте кожен перекус, навіть маленькі шматочки.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть записувати сьогодні."
+        },
+        "fr": {
+          "title": "Snacks honnêtes, choix plus clairs",
+          "story": "Carlos oubliait souvent la poignée de noix ou le biscuit du soir. Il a décidé d’enregistrer chaque petite bouchée, même celles qui semblaient « insignifiantes ». En quelques semaines, un schéma est apparu : certaines soirées TV rimeraient avec plus de grignotage. Plutôt que de se blâmer, Carlos a choisi un petit changement — prendre un bol au lieu de manger dans le paquet — et a continué à noter. Le suivi honnête l’a aidé à faire des ajustements doux et réalistes.",
+          "habit": "Notez chaque snack, même les petites bouchées.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Ehrliche Snacks, klarere Entscheidungen",
+          "story": "Carlos vergaß früher oft die Handvoll Nüsse oder den Keks am Abend. Er entschied sich, jeden kleinen Bissen einzutragen, auch die scheinbar 'unbedeutenden'. Nach ein paar Wochen wurde ein Muster sichtbar: Fernsehabende bedeuteten mehr Snacks. Statt sich zu kritisieren, wählte Carlos eine kleine Änderung — eine Schüssel statt direkt aus der Verpackung — und führte das Logging weiter. Das ehrliche Protokoll half ihm, sanfte Anpassungen vorzunehmen, die in sein Leben passen.",
+          "habit": "Trage jeden Snack ein, auch kleine Bissen.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "Lanches honestos, escolhas mais claras",
+          "story": "Carlos costumava esquecer a mão de castanhas ou o biscoito noturno. Ele decidiu registrar cada mordida pequena, mesmo as consideradas \"minúsculas\". Em algumas semanas o padrão ficou visível: noites de TV significavam mais petiscos. Em vez de se culpar, Carlos fez uma mudança simples — usar uma tigela em vez de comer direto do pacote — e manteve os registros. O registro honesto o ajudou a fazer ajustes suaves que se encaixam na vida, uma pequena mudança de cada vez.",
+          "habit": "Registre cada lanche, mesmo mordidas rápidas.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Őszinte nassolás, tisztább döntések",
+          "story": "Carlos korábban gyakran elfelejtette a marék diót vagy az esti kekszet. Elhatározta, hogy minden apró falatot bejegyez, még azokat is, amelyek \"jelentéktelennek\" tűnnek. Néhány hét múlva kirajzolódott egy minta: a tévénézéses esték több nassolással jártak. Ahelyett, hogy elítélte volna magát, Carlos egy egyszerű változtatást választott — tálba szedte az ételt a csomagról való közvetlen rágcsálás helyett — és folytatta a naplózást. Az őszinte napló segített finom, életéhez illő változtatásokat bevezetni.",
+          "habit": "Jegyezd fel minden nassolást, még a kis falatokat is.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd ma."
+        },
+        "ar": {
+          "title": "وجبات خفيفة صادقة، خيارات أوضح",
+          "story": "كان كارلوس ينسى أحيانًا قبضة من المكسرات أو بسكويت المساء. قرر تسجيل كل لقمة صغيرة، حتى تلك التي اعتبرها \"غير مهمة\". خلال أسابيع قليلة ظهر نمط واضح: ليالي مشاهدة التلفاز تعني المزيد من الوجبات الخفيفة. بدلاً من لوم نفسه، اختار كارلوس تغييرًا بسيطًا — تناولها في وعاء بدل الأكل مباشرة من العبوة — واستمر في التسجيل. ساعده التسجيل الصادق على إجراء تغييرات لطيفة تتناسب مع حياته، خطوة بخطوة.",
+          "habit": "سجل كل وجبة خفيفة، حتى اللقيمات السريعة.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Honest snacks, clearer choices.\nStory: Carlos used to forget the handful of nuts or the evening cookie. He decided to log every small bite, even the ones that felt 'too minor.' Within a couple of weeks the pattern was clear: certain TV nights meant extra snacks. Instead of judging himself, Carlos picked one small change — a bowl instead of snacking straight from the package — and kept recording. The honest log helped him make gentle changes that fit his life, one realistic tweak at a time..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-24-motivation-3-s3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "A weekly check-in that helps",
+          "story": "Anya set aside ten minutes each Sunday to scan her week's entries. She wasn't looking for perfection — just one pattern she could experiment with. Over a month she noticed mornings with no protein left her reaching for quick carbs midmorning. Rather than overhaul everything, she tried adding a simple egg or yogurt three mornings a week and kept logging. The weekly check-in made tracking manageable and turned small experiments into clearer habits that matched her energy and schedule.",
+          "habit": "Review one week of logs each Sunday.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Un repaso semanal que ayuda",
+          "story": "Anya dedica diez minutos cada domingo a revisar las anotaciones de la semana. No busca la perfección, solo un patrón para probar. En un mes vio que las mañanas sin proteína la hacían optar por carbohidratos rápidos a media mañana. En lugar de cambiarlo todo, probó añadir un huevo o un yogur tres mañanas por semana y siguió registrando. El chequeo semanal hizo que el seguimiento fuera manejable y convirtió pequeños experimentos en hábitos más claros que encajan con su energía y horario.",
+          "habit": "Revisa una semana de registros cada domingo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Недельная проверка, что помогает",
+          "story": "Аня выделяет десять минут каждое воскресенье, чтобы просмотреть записи за неделю. Она не ищет идеала, а ищет один шаблон для эксперимента. За месяц она заметила: дни без белка утром приводят к поиску быстрых углеводов к полудню. Вместо глобальных перемен она добавила простое решение — яйцо или йогурт три утра в неделю — и продолжила записи. Недельная проверка сделала ведение заметок управляемым и позволила небольшим экспериментам вырасти в понятные привычки под её ритм.",
+          "habit": "Просматривайте одну неделю записей каждое воскресенье.",
+          "appCta": "Откройте Calorie Bank Credit и записывайте сегодня."
+        },
+        "uk": {
+          "title": "Тижневий перегляд, що допомагає",
+          "story": "Аня виділяє десять хвилин щонеділі, щоб пробігтися по записах тижня. Вона не шукає ідеалів, а знаходить один патерн для експерименту. За місяць помітила: ранок без білка призводить до бажання швидких вуглеводів у середині ранку. Замість глобальних змін вона додала просте рішення — яйце або йогурт три ранки на тиждень — і продовжила записувати. Тижневий перегляд зробив відстеження керованим і перетворив малі експерименти на звички, що пасують до її ритму.",
+          "habit": "Перегляньте тиждень записів щонеділі.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть записувати сьогодні."
+        },
+        "fr": {
+          "title": "Un point hebdomadaire utile",
+          "story": "Anya se réserve dix minutes chaque dimanche pour parcourir ses enregistrements de la semaine. Elle ne cherche pas la perfection, juste un motif à tester. En un mois, elle remarque que les matins sans protéines la poussent vers des glucides rapides en milieu de matinée. Plutôt que de tout changer, elle a essayé d’ajouter un œuf ou un yaourt trois matins par semaine et a continué à noter. Le regard hebdomadaire rend le suivi accessible et transforme de petits essais en habitudes adaptées à son rythme.",
+          "habit": "Passez en revue une semaine d'enregistrements chaque dimanche.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Wöchentlicher Check‑In, der hilft",
+          "story": "Anya nimmt sich jeden Sonntag zehn Minuten, um ihre Wochen‑Einträge zu überfliegen. Sie sucht nicht nach Perfektion, sondern nach einem Muster zum Ausprobieren. Nach einem Monat fiel ihr auf: Morge ohne Protein führten mittags zu schnellen Kohlenhydraten. Statt alles umzustellen, ergänzte sie an drei Morgen pro Woche ein Ei oder Joghurt und protokollierte weiter. Der wöchentliche Check‑In macht das Tracking überschaubar und verwandelt kleine Experimente in Gewohnheiten, die zu ihrem Energielevel passen.",
+          "habit": "Schaue dir jede Woche sonntags eine Woche Einträge an.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "Uma checagem semanal que ajuda",
+          "story": "Anya reserva dez minutos todo domingo para analisar as entradas da semana. Ela não busca perfeição, apenas um padrão para testar. Em um mês percebeu que manhãs sem proteína a levavam a buscar carboidratos rápidos no meio da manhã. Em vez de mudar tudo, tentou adicionar um ovo ou iogurte três manhãs por semana e continuou registrando. A revisão semanal tornou o acompanhamento manejável e transformou pequenos experimentos em hábitos mais claros, compatíveis com sua energia e rotina.",
+          "habit": "Revise uma semana de registros todo domingo.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Heti ellenőrzés, ami segít",
+          "story": "Anya minden vasárnap tíz percet szán arra, hogy átnézze a heti bejegyzéseit. Nem a tökéletességet keresi, csak egy mintát, amit kipróbálhat. Egy hónap alatt észrevette, hogy a fehérje nélküli reggelek miatt délelőtt közepén gyors szénhidrátokat kíván. Ahelyett, hogy mindent megváltoztatott volna, három reggelre egy tojást vagy joghurtot próbált hozzáadni hetente, és folytatta a naplózást. A heti átnézés kezelhetővé tette a követést, és a kis kísérletek világosabb szokásokká alakultak.",
+          "habit": "Nézz át egy hét naplóit minden vasárnap.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd ma."
+        },
+        "ar": {
+          "title": "مراجعة أسبوعية مفيدة",
+          "story": "تخصص أنيا عشر دقائق كل يوم أحد لمراجعة سجلات الأسبوع. لا تبحث عن الكمال، بل عن نمط واحد لتجربته. خلال شهر لاحظت أن الصباحات الخالية من البروتين تدفعها لتناول الكربوهيدرات السريعة منتصف الصباح. بدلًا من تغيير كل شيء، جربت إضافة بيضة أو زبادي في ثلاثة أيام من الأسبوع واستمرت بالتسجيل. جعلت المراجعة الأسبوعية التتبع أمراً قابلاً للإدارة وحوّلت التجارب الصغيرة إلى عادات تتناسب مع طاقتها وروتينها.",
+          "habit": "راجع سجلات أسبوع كامل كل يوم أحد.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: A weekly check-in that helps.\nStory: Anya set aside ten minutes each Sunday to scan her week's entries. She wasn't looking for perfection — just one pattern she could experiment with. Over a month she noticed mornings with no protein left her reaching for quick carbs midmorning. Rather than overhaul everything, she tried adding a simple egg or yogurt three mornings a week and kept logging. The weekly check-in made tracking manageable and turned small experiments into clearer habits that matched her energy and schedule..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-09-24-motivation-4-s4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, steady confidence",
+          "story": "Lena noticed she felt more satisfied when she added a handful of veggies to meals. She started logging that extra side consistently and experimented with small swaps — a side salad instead of fries once a week, a spoon of hummus instead of mayo. Each logged swap gave her feedback: what tasted good, what fit her routine, and what felt sustainable. Rather than chasing big change, Lena built confidence through tiny adjustments and steady tracking, which made healthy choices easier to repeat.",
+          "habit": "Try one small swap and log it.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pequeños cambios, confianza constante",
+          "story": "Lena notó que se sentía más satisfecha al añadir un puñado de verduras a las comidas. Empezó a registrar ese acompañamiento extra y a probar pequeños cambios: ensalada en lugar de patatas una vez a la semana, una cucharada de hummus en vez de mayonesa. Cada cambio registrado le dio información: qué le gustaba, qué encajaba en su rutina y qué resultaba sostenible. En lugar de buscar grandes transformaciones, Lena ganó confianza con ajustes pequeños y seguimiento constante, haciendo que las buenas decisiones fueran más fáciles de repetir.",
+          "habit": "Prueba un pequeño cambio y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Маленькие замены, ровная уверенность",
+          "story": "Лена заметила, что ей приятнее и сытнее, когда к еде добавляется горсть овощей. Она стала постоянно записывать эту дополнительную порцию и пробовать маленькие замены — салат вместо картошки фри раз в неделю, ложку хумуса вместо майонеза. Каждая запись давала обратную связь: что ей нравится, что вписывается в распорядок и что реально поддерживать. Вместо больших перемен Лена приобрела уверенность через небольшие шаги и регулярное ведение данных, что облегчило повторение полезных выборов.",
+          "habit": "Попробуйте одну небольшую замену и запишите её.",
+          "appCta": "Откройте Calorie Bank Credit и записывайте сегодня."
+        },
+        "uk": {
+          "title": "Малі заміни, стабільна впевненість",
+          "story": "Лена помітила, що відчуває себе більш ситою, коли додає жменю овочів до страв. Вона почала регулярно записувати цей додатковий гарнір і пробувати невеликі заміни — салат замість картоплі фрі раз на тиждень, ложка хумусу замість майонезу. Кожен запис давав зворотний зв'язок: що їй подобається, що підходить її рутині і що легко підтримувати. Замість глобальних змін Лена здобула впевненість через маленькі кроки й постійний запис, що спростило повторення корисних виборів.",
+          "habit": "Спробуйте одну невелику заміну й зафіксуйте її.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть записувати сьогодні."
+        },
+        "fr": {
+          "title": "Petits changements, confiance durable",
+          "story": "Léna a remarqué qu’elle se sentait plus satisfaite en ajoutant une poignée de légumes aux repas. Elle a commencé à noter systématiquement cet accompagnement et à tester de petites substitutions — une salade au lieu de frites une fois par semaine, une cuillerée de houmous au lieu de mayonnaise. Chaque modification enregistrée lui a apporté des retours : ce qui lui plaisait, ce qui convenait à sa routine et ce qu’elle pouvait tenir sur le long terme. Plutôt que de viser de grands changements, Léna a construit sa confiance par de petits ajustements et un suivi régulier.",
+          "habit": "Testez une petite substitution et enregistrez‑la.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Swap, stetiges Vertrauen",
+          "story": "Lena stellte fest, dass sie sich zufriedener fühlt, wenn sie eine Handvoll Gemüse zu ihren Mahlzeiten hinzufügt. Sie begann, diese zusätzliche Beilage konsequent zu protokollieren und mit kleinen Ersatzoptionen zu experimentieren — einmal pro Woche Salat statt Pommes, ein Löffel Hummus statt Mayo. Jede eingetragene Veränderung lieferte Feedback: was schmeckt, was in ihren Alltag passt und was nachhaltig ist. Statt großer Umstellungen baute Lena Vertrauen durch kleine Anpassungen und stetiges Tracking, sodass sich gesunde Entscheidungen leichter wiederholen lassen.",
+          "habit": "Probiere einen kleinen Austausch und notiere ihn.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "Pequenas trocas, confiança constante",
+          "story": "Lena percebeu que se sentia mais saciada quando acrescentava um punhado de legumes às refeições. Ela passou a registrar esse acompanhamento extra e a testar pequenas trocas — uma salada no lugar das batatas fritas uma vez por semana, uma colher de húmus no lugar da maionese. Cada troca registrada deu retorno: o que agradava, o que encaixava na rotina e o que era sustentável. Em vez de buscar grandes mudanças, Lena construiu confiança com pequenos ajustes e acompanhamento constante, tornando escolhas saudáveis mais fáceis de repetir.",
+          "habit": "Experimente uma pequena troca e registre‑a.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, folyamatos magabiztosság",
+          "story": "Lena észrevette, hogy elégedettebb, ha egy marék zöldséget ad az ételeihez. Folyamatosan elkezdte rögzíteni ezt a plusz köretet, és kipróbált apró cseréket — heti egyszer saláta a sült krumpli helyett, egy kanál humusz a majonéz helyett. Minden bejegyzett csere visszajelzést adott: mi ízlik, mi illik a rutinjába, és mi tartható fenn hosszú távon. A nagy változtatások helyett Lena apró lépésekkel és következetes naplózással építette a magabiztosságát, így a jó választások könnyebben ismétlődnek.",
+          "habit": "Próbálj ki egy apró cserét és jegyezd le.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd ma."
+        },
+        "ar": {
+          "title": "تبديلات صغيرة، ثقة مستمرة",
+          "story": "أدركت لينا أنها تشعر بشبع أكبر عندما تضيف حفنة من الخضار إلى وجباتها. بدأت تسجل هذه الإضافة بانتظام وجربت تبديلات صغيرة — سلطة بدل البطاطس المقلية مرة في الأسبوع، ملعقة من الحمص بدل المايونيز. كل تبديل مسجل أعطاها ملاحظات: ما الذي أعجبها، ما الذي يناسب روتينها، وما الذي يمكن الاستمرار عليه. بدلاً من السعي للتغيير الكبير، بنت لينا ثقتها عبر تعديلات صغيرة وتسجيل ثابت، مما جعل الخيارات الصحية أسهل للتكرار.",
+          "habit": "جرّب تبديلًا صغيرًا وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-09-24T06:51:03.868Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-09-24-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, steady confidence.\nStory: Lena noticed she felt more satisfied when she added a handful of veggies to meals. She started logging that extra side consistently and experimented with small swaps — a side salad instead of fries once a week, a spoon of hummus instead of mayo. Each logged swap gave her feedback: what tasted good, what fit her routine, and what felt sustainable. Rather than chasing big change, Lena built confidence through tiny adjustments and steady tracking, which made healthy choices easier to repeat..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-09-23-motivation-1-story-1",
       "category": "habit-building",
