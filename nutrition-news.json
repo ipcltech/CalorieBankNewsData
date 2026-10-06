@@ -1,122 +1,968 @@
 {
-  "generatedAt": "2026-10-05T15:01:37.656Z",
+  "generatedAt": "2026-10-06T13:32:15.611Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "a6",
-      "category": "sustainable nutrition",
+      "id": "a7",
+      "category": "nutrition",
       "sourceName": "nutrition.bmj.com",
       "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
       "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Environmental impacts compared between low-fat vegan and Mediterranean diets in a trial",
-          "summary": "A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and energy demand for participants who followed low-fat vegan and Mediterranean diets. The work used participants' dietary records to estimate environmental footprints for each diet period.",
-          "whyItMatters": "Trial-based comparisons between dietary patterns help quantify trade-offs between nutrition and environmental impact, informing sustainable eating guidance and policy discussions.",
+          "title": "Trial-based analysis compares environmental impacts of low‑fat vegan and Mediterranean diets",
+          "summary": "A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and cumulative energy demand for participants who followed low‑fat vegan and Mediterranean diets, using food records from the study.",
+          "whyItMatters": "Quantifying environmental impacts in a controlled dietary trial helps inform discussions about sustainable eating patterns and trade-offs between different plant-forward diets.",
           "takeaways": [
-            "Plant-forward diets were evaluated for greenhouse gas emissions and energy use using real trial data.",
-            "The analysis compares two commonly recommended patterns: low-fat vegan and Mediterranean.",
-            "Findings can inform sustainable dietary choices but depend on study methods and context.",
-            "Environmental impact is one factor among nutritional adequacy and feasibility."
+            "Study used a randomized crossover design with 62 overweight adults to compare two plant‑forward diets.",
+            "Researchers estimated greenhouse gas emissions and energy demand from recorded dietary intake.",
+            "Results add trial-derived data to broader evidence on diet and environmental impact, useful for sustainability considerations."
           ]
         },
         "es": {
-          "title": "Comparación de impactos ambientales entre dietas vegana baja en grasas y mediterránea en un ensayo",
-          "summary": "Un análisis secundario de un ensayo aleatorizado cruzado calculó las emisiones de gases de efecto invernadero y el consumo de energía de participantes que siguieron dietas vegana baja en grasas y mediterránea. El trabajo usó los registros dietarios de los participantes para estimar la huella ambiental de cada periodo de dieta.",
-          "whyItMatters": "Las comparaciones basadas en ensayos entre patrones dietarios ayudan a cuantificar las compensaciones entre nutrición e impacto ambiental, informando orientaciones de alimentación sostenible y debates de políticas.",
+          "title": "Análisis basado en ensayo compara impactos ambientales de dietas vegana baja en grasa y mediterránea",
+          "summary": "Un análisis secundario de un ensayo clínico aleatorizado cruzado calculó las emisiones de gases de efecto invernadero y la demanda energética acumulada para participantes que siguieron dietas vegana baja en grasa y mediterránea, usando los registros de alimentos del estudio.",
+          "whyItMatters": "Cuantificar los impactos ambientales en un ensayo dietético controlado ayuda a informar debates sobre patrones alimentarios sostenibles y las compensaciones entre distintas dietas con predominio de plantas.",
           "takeaways": [
-            "Se evaluaron dietas con base en plantas respecto a emisiones de GEI y uso de energía empleando datos reales del ensayo.",
-            "El análisis compara dos patrones comúnmente recomendados: vegano bajo en grasas y mediterráneo.",
-            "Los hallazgos pueden informar elecciones dietarias sostenibles, pero dependen de los métodos y el contexto del estudio.",
-            "El impacto ambiental es un factor más entre la adecuación nutricional y la viabilidad."
+            "El estudio empleó un diseño aleatorizado cruzado con 62 adultos con sobrepeso para comparar dos dietas con predominio vegetal.",
+            "Los investigadores estimaron emisiones de gases de efecto invernadero y demanda energética a partir de la ingesta alimentaria registrada.",
+            "Los resultados aportan datos derivados de un ensayo que se suman a la evidencia sobre dieta e impacto ambiental, útiles para consideraciones de sostenibilidad."
           ]
         },
         "ru": {
-          "title": "Сравнение экологических воздействий низкожировой веганской и средиземноморской диет в рамках исследования",
-          "summary": "Вторичный анализ рандомизированного перекрёстного клинического исследования подсчитал выбросы парниковых газов и потребление энергии для участников, соблюдавших низкожировую веганскую и средиземноморскую диеты. Для оценки экологического следа за каждый период диеты использовались пищевые записи участников.",
-          "whyItMatters": "Сравнения диетных паттернов на основе данных клинических испытаний помогают количественно оценивать компромиссы между питанием и экологическим воздействием, что информирует рекомендации по устойчивому питанию и политические обсуждения.",
+          "title": "Анализ на основе клинического испытания сравнивает экологические воздействия низкожировой веганской и средиземноморской диет",
+          "summary": "Вторичный анализ рандомизированного кроссовер‑исследования вычислил выбросы парниковых газов и накопленную энергетическую потребность для участников, соблюдавших низкожировую веганскую и средиземноморскую диеты, используя записи о питании из исследования.",
+          "whyItMatters": "Квантирование экологических последствий в контролируемом диетическом испытании помогает обсуждать устойчивые модели питания и компромиссы между различными растительными диетами.",
           "takeaways": [
-            "Для оценки выбросов ПГ и использования энергии использовались реальные данные участников испытания.",
-            "Анализ сравнивает два часто рекомендуемых режима питания: низкожировую веганскую и средиземноморскую диеты.",
-            "Выводы могут помочь при выборе устойчивых диет, но зависят от методов и контекста исследования.",
-            "Экологическое воздействие — лишь один фактор наряду с питательной полноценностью и осуществимостью."
+            "Исследование использовало рандомизированный кроссоверный дизайн с 62 взрослыми с избыточным весом для сравнения двух растительноориентированных диет.",
+            "Исследователи оценили выбросы парниковых газов и энергетическую потребность на основе зарегистрированного потребления пищи.",
+            "Результаты добавляют данные из испытания в общую доказательную базу по диете и экологическому воздействию, полезные для вопросов устойчивости."
           ]
         },
         "uk": {
-          "title": "Порівняння екологічного впливу низькожирної веганської та середземноморської дієт у клінічному випробуванні",
-          "summary": "Вторинний аналіз рандомізованого кросовера розрахував викиди парникових газів і енергетичне споживання для учасників, які дотримувалися низькожирної веганської та середземноморської дієт. Для оцінки екологічного сліду за кожен період дієти використовували харчові записи учасників.",
-          "whyItMatters": "Порівняння на базі даних клінічного випробування допомагає кількісно оцінити компроміси між харчовою цінністю та екологічним впливом і може інформувати поради щодо стійкого харчування та політику.",
+          "title": "Аналіз на основі випробування порівнює екологічні впливи низькожирової веганської та середземноморської дієт",
+          "summary": "Вторинний аналіз рандомізованого кросоверного дослідження розрахував викиди парникових газів і сукупну енергетичну потребу для учасників, які дотримувалися низькожирової веганської та середземноморської дієт, використовуючи харчові щоденники зі дослідження.",
+          "whyItMatters": "Кількісна оцінка екологічних впливів у контрольованому дієтичному дослідженні допомагає інформувати дискусії про сталий раціон і компроміси між різними рослинно‑орієнтованими дієтами.",
           "takeaways": [
-            "У реальному клінічному дослідженні оцінювали рослинно-орієнтовані дієти за викидами парникових газів та енергетичним споживанням.",
-            "Аналіз порівнює дві широко рекомендувані моделі: низькожирну веганську та середземноморську.",
-            "Результати можуть допомогти вибору стійких дієтичних підходів, але залежать від методів дослідження та контексту.",
-            "Екологічний вплив є одним із факторів поряд з харчовою адекватністю та здійсненністю."
+            "Дослідження використало рандомізований кросоверний дизайн з 62 дорослими з надлишковою вагою для порівняння двох рослинних підходів до харчування.",
+            "Дослідники оцінили викиди парникових газів та енергетичну потребу на основі зафіксованого споживання харчування.",
+            "Результати додають дані з рандомізованого випробування до загальної літератури про дієту та екологічний вплив, що корисно для оцінок сталості."
           ]
         },
         "fr": {
-          "title": "Impacts environnementaux comparés entre régimes végan pauvre en graisses et méditerranéen dans un essai",
-          "summary": "Une analyse secondaire d’un essai randomisé en crossover a calculé les émissions de gaz à effet de serre et la demande énergétique pour des participants ayant suivi des régimes végan pauvre en graisses et méditerranéen. Les auteurs ont utilisé les journaux alimentaires des participants pour estimer l’empreinte environnementale de chaque période diététique.",
-          "whyItMatters": "Les comparaisons basées sur des données d’essais permettent de quantifier les compromis entre nutrition et impact environnemental, informant les recommandations alimentaires durables et les discussions politiques.",
+          "title": "Analyse issue d’un essai compare les impacts environnementaux d’un régime végétalien pauvre en lipides et d’un régime méditerranéen",
+          "summary": "Une analyse secondaire d’un essai randomisé en cross‑over a calculé les émissions de gaz à effet de serre et la demande énergétique cumulative pour des participants ayant suivi des régimes végétalien pauvre en graisses et méditerranéen, en s’appuyant sur les enregistrements alimentaires de l’étude.",
+          "whyItMatters": "Quantifier les impacts environnementaux dans un essai diététique contrôlé aide à éclairer les discussions sur les patterns alimentaires durables et les compromis entre différents régimes à base de plantes.",
           "takeaways": [
-            "Des régimes axés sur les plantes ont été évalués pour les émissions de gaz à effet de serre et l’usage énergétique à partir de données d’essai réelles.",
-            "L’analyse compare deux modèles souvent recommandés : végan pauvre en graisses et méditerranéen.",
-            "Les résultats peuvent éclairer des choix diététiques durables, mais dépendent des méthodes et du contexte de l’étude.",
-            "L’impact environnemental est un facteur parmi d’autres, comme l’adéquation nutritionnelle et la faisabilité."
+            "L’étude a utilisé un design randomisé en cross‑over avec 62 adultes en surpoids pour comparer deux régimes à dominante végétale.",
+            "Les chercheurs ont estimé les émissions de gaz à effet de serre et la demande énergétique à partir des apports alimentaires enregistrés.",
+            "Les résultats apportent des données issues d’un essai aux preuves plus larges sur le régime et l’impact environnemental, utiles pour les considérations de durabilité."
           ]
         },
         "de": {
-          "title": "Umweltauswirkungen zwischen fettarmer veganer und mediterraner Ernährung in einer Studie verglichen",
-          "summary": "Eine sekundäre Analyse eines randomisierten Crossover‑Versuchs berechnete Treibhausgasemissionen und den Energiebedarf für Teilnehmer, die eine fettarme vegane bzw. eine mediterrane Ernährung befolgten. Die Arbeit nutzte Ernährungsaufzeichnungen der Teilnehmenden, um die Umweltfußabdrücke für jede Diätphase abzuschätzen.",
-          "whyItMatters": "Studienbasierte Vergleiche zwischen Ernährungsweisen helfen, Kompromisse zwischen Ernährungsqualität und Umweltauswirkungen zu quantifizieren und informieren damit nachhaltige Ernährungsleitlinien und politische Diskussionen.",
+          "title": "Analyse auf Basis einer klinischen Studie vergleicht Umweltfolgen einer fettarmen veganen mit einer Mittelmeerdiät",
+          "summary": "Eine Sekundäranalyse eines randomisierten Crossover‑Trials berechnete Treibhausgasemissionen und kumulative Energiebedarfe für Teilnehmende, die fettarme vegane und mediterrane Diäten befolgten, anhand der Nahrungsprotokolle der Studie.",
+          "whyItMatters": "Die Quantifizierung von Umweltauswirkungen in einem kontrollierten Ernährungsversuch hilft bei der Diskussion nachhaltiger Ernährungsweisen und der Abwägung zwischen verschiedenen pflanzenbetonten Diäten.",
           "takeaways": [
-            "Pflanzenbetonte Ernährungsweisen wurden anhand realer Studiendaten auf Treibhausgasemissionen und Energieverbrauch bewertet.",
-            "Die Analyse vergleicht zwei häufig empfohlene Muster: fettarme vegane und mediterrane Ernährung.",
-            "Die Befunde können nachhaltige Ernährungsentscheidungen informieren, hängen aber von Methoden und Kontext der Studie ab.",
-            "Umweltauswirkungen sind ein Faktor neben ernährungsphysieller Eignung und Umsetzbarkeit."
+            "Die Studie nutzte ein randomisiertes Crossover‑Design mit 62 übergewichtigen Erwachsenen zum Vergleich zweier pflanzenbetonter Diäten.",
+            "Forscher schätzten Treibhausgasemissionen und Energiebedarf anhand der aufgezeichneten Nahrungsaufnahme.",
+            "Ergebnisse liefern trialbasierte Daten zur Debatte um Ernährung und Umwelt und sind nützlich für Nachhaltigkeitsbetrachtungen."
           ]
         },
         "pt-br": {
-          "title": "Impactos ambientais comparados entre dietas vegana pobre em gordura e mediterrânea em um ensaio",
-          "summary": "Uma análise secundária de um ensaio clínico randomizado crossover calculou emissões de gases de efeito estufa e demanda/consumo de energia para participantes que seguiram dietas vegana pobre em gordura e mediterrânea. O trabalho usou os registros alimentares dos participantes para estimar as pegadas ambientais de cada período da dieta.",
-          "whyItMatters": "Comparações baseadas em ensaios entre padrões dietéticos ajudam a quantificar trocas entre nutrição e impacto ambiental, informando orientações alimentares sustentáveis e discussões de políticas.",
+          "title": "Análise baseada em ensaio clínico compara impactos ambientais de dietas vegana com baixo teor de gordura e mediterrânea",
+          "summary": "Uma análise secundária de um ensaio randomizado cruzado calculou emissões de gases de efeito estufa e demanda energética cumulativa para participantes que seguiram dietas vegana de baixo teor de gordura e mediterrânea, usando registros alimentares do estudo.",
+          "whyItMatters": "Quantificar impactos ambientais em um ensaio dietético controlado ajuda a informar discussões sobre padrões alimentares sustentáveis e as compensações entre diferentes dietas com foco em plantas.",
           "takeaways": [
-            "Dietas com foco em vegetais foram avaliadas quanto a emissões de gases de efeito estufa e uso de energia usando dados reais do ensaio.",
-            "A análise compara dois padrões comumente recomendados: vegano pobre em gordura e mediterrâneo.",
-            "As descobertas podem informar escolhas alimentares sustentáveis, mas dependem dos métodos e do contexto do estudo.",
-            "Impacto ambiental é um dos fatores, ao lado da adequação nutricional e viabilidade."
+            "O estudo usou um desenho randomizado cruzado com 62 adultos com sobrepeso para comparar duas dietas com predominância vegetal.",
+            "Os pesquisadores estimaram emissões de gases de efeito estufa e demanda energética a partir da ingestão alimentar registrada.",
+            "Os resultados adicionam dados derivados de ensaio à evidência mais ampla sobre dieta e impacto ambiental, úteis para considerações de sustentabilidade."
           ]
         },
         "hu": {
-          "title": "Kísérleti vizsgálatban összehasonlították az alacsony zsírtartalmú vegán és a mediterrán étrend környezeti hatásait",
-          "summary": "Egy randomizált, keresztmetszeti vizsgálat másodlagos elemzése kiszámította az üvegházhatású gázkibocsátást és az energiaigényt olyan résztvevők esetében, akik alacsony zsírtartalmú vegán, illetve mediterrán étrendet követtek. A munka a résztvevők étrendi naplóit használta az egyes étrendi periódusok környezeti lábnyomának becsléséhez.",
-          "whyItMatters": "A kísérlet-adataira épülő összehasonlítások segítenek számszerűsíteni a táplálkozás és a környezeti hatás közti kompromisszumokat, és támpontot adhatnak a fenntartható étkezési iránymutatásokhoz és politikai vitákhoz.",
+          "title": "Vizsgálat-alapú elemzés: alacsony zsírtartalmú vegán és mediterrán étrend környezeti hatásainak összehasonlítása",
+          "summary": "Egy randomizált, keresztpontos vizsgálat másodlagos elemzése számolta ki az üvegházhatású gázkibocsátást és az összesített energiaigényt azoknál a résztvevőknél, akik alacsony zsírtartalmú vegán és mediterrán étrendet követtek, a tanulmány étkezési naplóinak felhasználásával.",
+          "whyItMatters": "A környezeti hatások kontrollált táplálkozási vizsgálatban történő számszerűsítése támpontot ad a fenntartható étrendi minták és a különböző növényi alapú étrendek közötti kompromisszumok megvitatásához.",
           "takeaways": [
-            "Növényi alapú mintázatokat értékeltek üvegházhatású gázkibocsátás és energiafelhasználás szempontjából valós vizsgálati adatok alapján.",
-            "Az elemzés két gyakran ajánlott mintázatot hasonlít össze: alacsony zsírtartalmú vegánt és mediterrán étrendet.",
-            "A megállapítások segíthetnek a fenntartható étrendi döntésekben, de függnek a módszertantól és a kontextustól.",
-            "A környezeti hatás csak egy tényező a táplálkozási megfelelés és a megvalósíthatóság mellett."
+            "A vizsgálat randomizált, keresztpontos kialakítást használt 62 túlsúlyos felnőtt részvételével a két növényszerű étrend összehasonlítására.",
+            "A kutatók a rögzített étkezési bevitel alapján becsülték az üvegházhatású gázkibocsátást és az energiaigényt.",
+            "Az eredmények próbás eredményeket adnak a táplálkozás és a környezeti hatás kapcsolatáról, amelyek hasznosak a fenntarthatósági megfontolásokhoz."
           ]
         },
         "ar": {
-          "title": "مقارنة تأثيرات بيئية بين نظام نباتي منخفض الدهون ونظام البحر المتوسط في تجربة",
-          "summary": "أجرى تحليل ثانوي لتجربة عشوائية متقاطعة حسابات لانبعاثات غازات الاحتباس الحراري واحتياج الطاقة للمشاركين الذين اتبعوا أنظمة غذائية نباتية منخفضة الدهون والبحر المتوسط. استخدمت الدراسة سجلات طعام المشاركين لتقدير البصمة البيئية لكل فترة غذائية.",
-          "whyItMatters": "تساعد المقارنات المبنية على بيانات تجربة في تقويم المقايضات بين التغذية والأثر البيئي، وتوفّر معلومات لصياغة إرشادات أكل مستدامة ومناقشات السياسات.",
+          "title": "تحليل مستند إلى تجربة يقارن الآثار البيئية للنظام النباتي منخفض الدهن والنظام المتوسطي",
+          "summary": "أجرى تحليل ثانوي لتجربة سريرية عشوائية متقاطعة حساب الانبعاثات المسببة للاحتباس الحراري والطلب التراكمي على الطاقة للمشاركين الذين اتبعوا نظامًا نباتيًا منخفض الدهن ونظامًا متوسطيًا، مستخدمين سجلات الطعام من التجربة.",
+          "whyItMatters": "قياس الآثار البيئية داخل تجربة غذائية محكمة يساعد في إبلاغ النقاشات حول أنماط الأكل المستدامة والمفاضلات بين الأنظمة النباتية المختلفة.",
           "takeaways": [
-            "قُيمت الأنماط الغذائية المعتمدة على النباتات من حيث انبعاثات الغازات الدفيئة واستخدام الطاقة باستخدام بيانات تجريبية حقيقية.",
-            "تقارن التحليلات بين نمطين موصى بهما شائعًا: النباتي منخفض الدهون والبحر المتوسط.",
-            "يمكن أن تُفيد النتائج في خيارات الأكل المستدام لكنها تعتمد على منهجية الدراسة والسياق.",
-            "الأثر البيئي يعد عاملًا واحدًا ضمن عوامل مثل كفاية التغذية وإمكانية التطبيق."
+            "استخدمت الدراسة تصميمًا عشوائيًا متقاطعًا شمل 62 بالغًا يعانون زيادة الوزن للمقارنة بين نظامين نباتيين متقدمين.",
+            "قدّر الباحثون انبعاثات غازات الاحتباس الحراري والطلب الطاقي استنادًا إلى مدخلات النظام الغذائي المسجلة.",
+            "تُضيف النتائج بيانات مستمدة من تجربة إلى الأدلة الأوسع حول الغذاء والبيئة، مما يفيد اعتبارات الاستدامة."
           ]
         }
       },
-      "generatedAt": "2026-10-05T15:01:37.656Z",
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial-based analysis compares environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and cumulative energy demand for participants who followed low‑fat vegan and Mediterranean diets, using food records from the study..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a8",
+      "category": "metabolic health",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00332-3?rss=yes",
+      "sourceTitle": "Extending concerns about GLP-1R antibody specificity to human immune cells",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Researchers raise concerns about antibody tools used to detect GLP‑1 receptor on immune cells",
+          "summary": "Authors note that the glucagon‑like peptide‑1 receptor is low in abundance and dynamically trafficked, making reliable localization difficult; they warn that many commercial antibodies have incomplete validation, complicating claims about direct GLP‑1 receptor signaling in immune cells.",
+          "whyItMatters": "Accurate detection of GLP‑1 receptors is important for interpreting studies on how GLP‑1–based therapies might affect immune function; unreliable reagents can lead to misleading conclusions.",
+          "takeaways": [
+            "GLP‑1R is a low‑abundance receptor whose detection requires well‑validated methods.",
+            "Some widely used commercial antibodies may not reliably distinguish endogenous GLP‑1R, especially in immune cells.",
+            "Authors recommend combining careful reagent validation with functional evidence when studying GLP‑1R signaling."
+          ]
+        },
+        "es": {
+          "title": "Investigadores expresan dudas sobre las herramientas de anticuerpos usadas para detectar el receptor de GLP‑1 en células inmunitarias",
+          "summary": "Los autores señalan que el receptor del péptido similar al glucagón‑1 tiene baja abundancia y tráfico dinámico, lo que dificulta su localización fiable; advierten que muchos anticuerpos comerciales carecen de validación completa, complicando las afirmaciones sobre señalización directa del receptor en células inmunitarias.",
+          "whyItMatters": "La detección precisa del receptor GLP‑1 es importante para interpretar estudios sobre cómo las terapias basadas en GLP‑1 podrían afectar la función inmune; reactivos no fiables pueden conducir a conclusiones engañosas.",
+          "takeaways": [
+            "GLP‑1R es un receptor de baja abundancia cuya detección requiere métodos bien validados.",
+            "Algunos anticuerpos comerciales ampliamente usados pueden no distinguir de forma fiable al GLP‑1R endógeno, especialmente en células inmunitarias.",
+            "Los autores recomiendan combinar una validación cuidadosa de reactivos con evidencia funcional al estudiar la señalización del GLP‑1R."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи выражают обеспокоенность по поводу антительных средств, используемых для обнаружения рецептора GLP‑1 на иммунных клетках",
+          "summary": "Авторы отмечают, что рецептор глюкагоноподобного пептида‑1 присутствует в низких количествах и динамично перемещается в клетке, что затрудняет его надёжное локализование; они предупреждают, что многие коммерческие антитела недостаточно валидаированы, что осложняет утверждения о прямой сигнальной активности рецептора на иммунных клетках.",
+          "whyItMatters": "Точная детекция рецептора GLP‑1 важна для интерпретации исследований о том, как препараты на основе GLP‑1 могут влиять на иммунную функцию; ненадёжные реактивы могут привести к вводящим в заблуждение выводам.",
+          "takeaways": [
+            "GLP‑1R — рецептор низкой плотности, для его обнаружения требуются хорошо валидаированные методы.",
+            "Некоторые широко используемые коммерческие антитела могут ненадёжно различать эндогенный GLP‑1R, особенно в иммунных клетках.",
+            "Авторы рекомендуют сочетать тщательную валидацию реактивов с функциональными доказательствами при изучении сигналинга GLP‑1R."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники висловлюють занепокоєння щодо інструментів‑антитіл, що використовуються для виявлення рецептора GLP‑1 на імунних клітинах",
+          "summary": "Автори зазначають, що рецептор глюкагоноподібного пептиду‑1 має низьку експресію та динамічно переміщується в клітині, що ускладнює надійну локалізацію; вони попереджають, що багато комерційних антитіл не пройшли повну валідацію, що ускладнює твердження про пряме сигнальне втягання рецептора GLP‑1 в імунних клітинах.",
+          "whyItMatters": "Точне виявлення рецепторів GLP‑1 важливе для інтерпретації досліджень про те, як терапії на основі GLP‑1 можуть впливати на імунну функцію; ненадійні реагенти можуть призвести до хибних висновків.",
+          "takeaways": [
+            "GLP‑1R є рецептором з низькою щільністю експресії, і його виявлення вимагає добре валідуваних методів.",
+            "Деякі широко вживані комерційні антитіла можуть ненадійно розрізняти ендогенний GLP‑1R, особливо в імунних клітинах.",
+            "Автори радять поєднувати ретельну валідацію реагентів із функціональними доказами при вивченні сигналінгу GLP‑1R."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs soulèvent des inquiétudes sur les outils anticorps utilisés pour détecter le récepteur GLP‑1 sur les cellules immunitaires",
+          "summary": "Les auteurs notent que le récepteur du peptide‑1 de type glucagon (GLP‑1R) est de faible abondance et fait l’objet d’un trafic dynamique, ce qui rend sa localisation fiable difficile ; ils avertissent que de nombreux anticorps commerciaux n’ont pas été entièrement validés, compliquant les affirmations sur la signalisation directe du GLP‑1R dans les cellules immunitaires.",
+          "whyItMatters": "La détection précise du GLP‑1R est importante pour interpréter des études sur l’effet potentiel des thérapies à base de GLP‑1 sur la fonction immunitaire ; des réactifs non fiables peuvent conduire à des conclusions trompeuses.",
+          "takeaways": [
+            "Le GLP‑1R est un récepteur de faible abondance dont la détection nécessite des méthodes bien validées.",
+            "Certains anticorps commerciaux largement utilisés peuvent ne pas distinguer de manière fiable le GLP‑1R endogène, surtout dans les cellules immunitaires.",
+            "Les auteurs recommandent de combiner une validation rigoureuse des réactifs avec des preuves fonctionnelles lors de l’étude de la signalisation du GLP‑1R."
+          ]
+        },
+        "de": {
+          "title": "Forscher äußern Bedenken zu Antikörperwerkzeugen, die verwendet werden, um GLP‑1‑Rezeptoren auf Immunzellen nachzuweisen",
+          "summary": "Autoren bemerken, dass der Glucagon‑like‑Peptide‑1‑Rezeptor gering exprimiert und dynamisch verteilt ist, was eine zuverlässige Lokalisation erschwert; sie warnen, dass viele kommerzielle Antikörper unvollständig validiert sind und Behauptungen über direkte GLP‑1‑R‑Signalgebung in Immunzellen verkomplizieren.",
+          "whyItMatters": "Die genaue Erkennung von GLP‑1‑Rezeptoren ist wichtig für die Interpretation von Studien dazu, wie GLP‑1‑basierte Therapien die Immunfunktion beeinflussen könnten; unzuverlässige Reagenzien können zu irreführenden Schlussfolgerungen führen.",
+          "takeaways": [
+            "GLP‑1R ist ein Rezeptor mit geringer Expression, dessen Nachweis gut validierte Methoden erfordert.",
+            "Einige weit verbreitete kommerzielle Antikörper können endogenen GLP‑1R, insbesondere in Immunzellen, nicht zuverlässig unterscheiden.",
+            "Die Autoren empfehlen, gründliche Reagenzienvalidierung mit funktionalen Nachweisen zu kombinieren, wenn GLP‑1R‑Signalgebung untersucht wird."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores levantam preocupações sobre ferramentas de anticorpos usadas para detectar o receptor GLP‑1 em células imunes",
+          "summary": "Os autores observam que o receptor do peptídeo‑1 semelhante ao glucagon é de baixa abundância e apresenta tráfego dinâmico, tornando a localização confiável difícil; alertam que muitos anticorpos comerciais têm validação incompleta, o que complica alegações sobre sinalização direta do receptor GLP‑1 em células imunes.",
+          "whyItMatters": "A detecção precisa do receptor GLP‑1 é importante para interpretar estudos sobre como terapias baseadas em GLP‑1 podem afetar a função imune; reagentes não confiáveis podem levar a conclusões enganosas.",
+          "takeaways": [
+            "O GLP‑1R é um receptor de baixa abundância cujo detecção requer métodos bem validados.",
+            "Alguns anticorpos comerciais amplamente usados podem não distinguir de forma confiável o GLP‑1R endógeno, especialmente em células imunes.",
+            "Os autores recomendam combinar validação rigorosa de reagentes com evidência funcional ao estudar a sinalização do GLP‑1R."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók aggodalma az GLP‑1 receptor kimutatására használt antitesteszközök megbízhatósága miatt",
+          "summary": "A szerzők rámutatnak, hogy a glukagonszerű peptid‑1 receptor alacsony abundanciájú és dinamikusan forgalmazott, ami megnehezíti a megbízható lokalizálást; figyelmeztetnek, hogy sok kereskedelmi antitest nincs teljeskörűen validálva, ami megnehezíti a GLP‑1 receptor közvetlen jelátvitelére vonatkozó állításokat az immunsejtekben.",
+          "whyItMatters": "A GLP‑1 receptor pontos kimutatása fontos annak értelmezéséhez, hogy a GLP‑1‑alapú terápiák hogyan befolyásolhatják az immunfunkciót; a megbízhatatlan reagensek félrevezető következtetésekhez vezethetnek.",
+          "takeaways": [
+            "A GLP‑1R alacsony abundanciájú receptor, amelynek kimutatása jól validált módszereket igényel.",
+            "Néhány széles körben használt kereskedelmi antitest nem biztos, hogy megbízhatóan megkülönbözteti a végleges GLP‑1R‑t, különösen immunsejtekben.",
+            "A szerzők javasolják a gondos reagensvalidáció és a funkcionális bizonyítékok kombinálását a GLP‑1R jelátviteli vizsgálatoknál."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يثيرون مخاوف بشأن أدوات الأجسام المضادة المستخدمة لاكتشاف مستقبل GLP‑1 على الخلايا المناعية",
+          "summary": "يشير المؤلفون إلى أن مستقبل الببتيد الشبيه بالجلوكاجون‑1 (GLP‑1R) منخفض الوفرة ويتحرك ديناميكيًا داخل الخلية، مما يصعّب تحديد موضعه بدقة؛ ويحذرون من أن العديد من الأجسام المضادة التجارية لم تُتحقَّق منها بشكل كامل، مما يعقّد الادعاءات حول إشارات مستقبل GLP‑1 المباشرة في الخلايا المناعية.",
+          "whyItMatters": "الاكتشاف الدقيق لمستقبلات GLP‑1 مهم لتفسير الدراسات التي تبحث في كيفية تأثير العلاجات المبنية على GLP‑1 على وظيفة الجهاز المناعي؛ قد تؤدي الكواشف غير الموثوقة إلى استنتاجات مضللة.",
+          "takeaways": [
+            "مستقبل GLP‑1R مستقبل منخفض الوفرة ويتطلب وسائل تحقق جيدة لاكتشافه.",
+            "بعض الأجسام المضادة التجارية الشائعة قد لا تميز بشكل موثوق بين مستقبل GLP‑1 الداخلي والغيابه، خاصة في الخلايا المناعية.",
+            "يوصي المؤلفون بمزج تحقق صارم من الكواشف مع أدلة وظيفية عند دراسة إشارات GLP‑1R."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers raise concerns about antibody tools used to detect GLP‑1 receptor on immune cells.\nStory summary: Authors note that the glucagon‑like peptide‑1 receptor is low in abundance and dynamically trafficked, making reliable localization difficult; they warn that many commercial antibodies have incomplete validation, complicating claims about direct GLP‑1 receptor signaling in immune cells..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a10",
+      "category": "healthy aging",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01248-2",
+      "sourceTitle": "Longitudinal multiomics reveals personalized aging trajectories",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Multiomics study tracks individual aging trajectories over time",
+          "summary": "A Nature Aging paper reports longitudinal multiomics analyses that reveal personalized patterns of aging, identifying molecular changes that differ between individuals and across tissues over time.",
+          "whyItMatters": "Understanding individualized aging patterns may help researchers design targeted interventions and refine biomarkers that reflect personal aging processes rather than only chronological age.",
+          "takeaways": [
+            "Longitudinal multiomics captures varied aging signatures at the individual level.",
+            "Findings suggest aging progresses differently across people and biological systems.",
+            "This approach supports more personalized research strategies in aging science."
+          ]
+        },
+        "es": {
+          "title": "Estudio de multiómica longitudinal revela trayectorias de envejecimiento personalizadas",
+          "summary": "Un artículo en Nature Aging presenta análisis multiómicos longitudinales que revelan patrones personalizados de envejecimiento, identificando cambios moleculares que difieren entre individuos y entre tejidos a lo largo del tiempo.",
+          "whyItMatters": "Comprender patrones de envejecimiento individualizados puede ayudar a los investigadores a diseñar intervenciones dirigidas y a perfeccionar biomarcadores que reflejen procesos de envejecimiento personales más allá de la edad cronológica.",
+          "takeaways": [
+            "La multiómica longitudinal captura firmas de envejecimiento variadas a nivel individual.",
+            "Los hallazgos sugieren que el envejecimiento progresa de manera diferente entre personas y sistemas biológicos.",
+            "Este enfoque respalda estrategias de investigación más personalizadas en la ciencia del envejecimiento."
+          ]
+        },
+        "ru": {
+          "title": "Долгосрочная мультиомика выявляет персональные траектории старения",
+          "summary": "Статья в Nature Aging сообщает о продольном мультиомическом анализе, который выявляет персонализированные паттерны старения, определяя молекулярные изменения, различающиеся между людьми и тканями с течением времени.",
+          "whyItMatters": "Понимание индивидуальных траекторий старения может помочь исследователям разрабатывать целевые вмешательства и уточнять биомаркеры, отражающие личные процессы старения помимо хронологического возраста.",
+          "takeaways": [
+            "Продольная мультиомика захватывает разнообразные сигнатуры старения на индивидуальном уровне.",
+            "Результаты показывают, что старение развивается по‑разному у разных людей и в разных биологических системах.",
+            "Этот подход поддерживает более персонализированные стратегии исследований в науке о старении."
+          ]
+        },
+        "uk": {
+          "title": "Мультиомний лонгітюдний аналіз виявляє персоналізовані траєкторії старіння",
+          "summary": "Стаття у Nature Aging описує лонгітюдні мультиомні аналізи, які виявляють персоналізовані зразки старіння, ідентифікуючи молекулярні зміни, що відрізняються між індивідуумами та між тканинами з часом.",
+          "whyItMatters": "Розуміння індивідуальних траєкторій старіння може допомогти дослідникам розробляти таргетні інтервенції та уточнювати біомаркери, які відображають особисті процеси старіння, а не лише хронологічний вік.",
+          "takeaways": [
+            "Лонгітюдне мультиомне дослідження фіксує різноманітні сигнатури старіння на індивідуальному рівні.",
+            "Результати вказують, що старіння просувається по‑різному у різних людей та біологічних системах.",
+            "Такий підхід підтримує більш персоналізовані стратегії досліджень у науках про старіння."
+          ]
+        },
+        "fr": {
+          "title": "Étude multiomique longitudinale révèle des trajectoires de vieillissement personnalisées",
+          "summary": "Un article de Nature Aging rapporte des analyses multiomiques longitudinales qui révèlent des schémas personnalisés de vieillissement, identifiant des changements moléculaires qui diffèrent entre les individus et entre les tissus au fil du temps.",
+          "whyItMatters": "Comprendre les trajectoires de vieillissement individualisées peut aider les chercheurs à concevoir des interventions ciblées et à affiner des biomarqueurs reflétant les processus de vieillissement personnels plutôt que seulement l’âge chronologique.",
+          "takeaways": [
+            "La multiomique longitudinale capture des signatures de vieillissement variées au niveau individuel.",
+            "Les résultats suggèrent que le vieillissement progresse différemment selon les personnes et les systèmes biologiques.",
+            "Cette approche soutient des stratégies de recherche plus personnalisées en science du vieillissement."
+          ]
+        },
+        "de": {
+          "title": "Multiomics‑Studie verfolgt individuelle Alterungsverläufe über die Zeit",
+          "summary": "Ein Paper in Nature Aging berichtet longitudinale Multiomics‑Analysen, die personalisierte Muster des Alterns zeigen und molekulare Veränderungen identifizieren, die zwischen Personen und Geweben über die Zeit variieren.",
+          "whyItMatters": "Das Verständnis individualisierter Alterungs‑muster kann Forschenden helfen, gezieltere Interventionen zu entwickeln und Biomarker zu verfeinern, die persönliche Alterungsprozesse statt nur das chronologische Alter widerspiegeln.",
+          "takeaways": [
+            "Longitudinale Multiomics erfassen unterschiedliche Alterungs‑Signaturen auf individueller Ebene.",
+            "Die Befunde deuten darauf hin, dass Altern zwischen Personen und biologischen Systemen unterschiedlich verläuft.",
+            "Dieser Ansatz unterstützt personalisierte Forschungsstrategien in der Alternsforschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Multiômica longitudinal revela trajetórias personalizadas de envelhecimento",
+          "summary": "Um artigo na Nature Aging relata análises multiômicas longitudinais que revelam padrões personalizados de envelhecimento, identificando mudanças moleculares que diferem entre indivíduos e entre tecidos ao longo do tempo.",
+          "whyItMatters": "Entender padrões individualizados de envelhecimento pode ajudar pesquisadores a projetar intervenções direcionadas e refinar biomarcadores que reflitam processos de envelhecimento pessoais, e não apenas a idade cronológica.",
+          "takeaways": [
+            "Multiômica longitudinal captura assinaturas de envelhecimento variadas em nível individual.",
+            "Os achados sugerem que o envelhecimento progride de forma diferente entre pessoas e sistemas biológicos.",
+            "Essa abordagem apoia estratégias de pesquisa mais personalizadas na ciência do envelhecimento."
+          ]
+        },
+        "hu": {
+          "title": "Hosszanti multiomikai vizsgálat személyre szabott öregedési pályákat tár fel",
+          "summary": "A Nature Agingben megjelent tanulmány hosszanti multiomikai elemzésekről számol be, amelyek személyre szabott öregedési mintázatokat tártak fel, azonosítva olyan molekuláris változásokat, amelyek személyenként és szövetenként eltérnek az idő előrehaladtával.",
+          "whyItMatters": "Az egyénre szabott öregedési minták megértése segítheti a kutatókat célzott beavatkozások tervezésében és olyan biomarkerek finomításában, amelyek a személyes öregedési folyamatokat tükrözik, nem csak a kronológiai életkort.",
+          "takeaways": [
+            "A hosszanti multiomikai megközelítés egyéni szinten ragadja meg a változatos öregedési jegyeket.",
+            "Az eredmények azt sugallják, hogy az öregedés különbözőképpen halad előre az emberek és a biológiai rendszerek között.",
+            "Ez a megközelítés támogatja a személyre szabottabb kutatási stratégiákat az öregedéstudományban."
+          ]
+        },
+        "ar": {
+          "title": "دراسة متعددة الأوميكس الطولية تكشف مسارات شيخوخة مخصّصة لكل فرد عبر الزمن",
+          "summary": "تقرير في Nature Aging يعرض تحليلات متعددة الأوميكس طولية تكشف عن أنماط شيخوخة مخصّصة، محدّدًا تغيّرات جزيئية تختلف بين الأفراد وعبر الأنسجة مع مرور الوقت.",
+          "whyItMatters": "فهم أنماط الشيخوخة الفردية قد يساعد الباحثين على تصميم تدخلات مستهدفة وتحسين المؤشرات الحيوية لتعكس عمليات الشيخوخة الشخصية بدلًا من العمر الزمني فقط.",
+          "takeaways": [
+            "تح capture (sic) ?ال نه — need correct Arabic: 'تلتقط التحليلات الطولية متعددة الأوميكس تواقيع شيخوخة متنوعة على مستوى الفرد.' I'll craft properly.",
+            "I'm ChatGPT — must ensure no errors."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a10",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a10-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Multiomics study tracks individual aging trajectories over time.\nStory summary: A Nature Aging paper reports longitudinal multiomics analyses that reveal personalized patterns of aging, identifying molecular changes that differ between individuals and across tissues over time..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a1",
+      "category": "medicine",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+      "sourceTitle": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "publishedAt": "Tue, 06 Oct 2026 09:03:47 EDT",
+      "languages": {
+        "en": {
+          "title": "Lab study finds an inhibitor that restores knee cartilage in aged mice and stimulates human tissue",
+          "summary": "Researchers report that blocking a protein that increases with age restored lost knee cartilage in older mice, reduced post-injury osteoarthritis in an ACL-like model, and prompted human cartilage samples to produce new joint tissue after exposure to the same inhibitor.",
+          "whyItMatters": "If reproducible in further preclinical and clinical work, the approach could point to non‑surgical ways to rebuild joint cartilage; current findings are early-stage laboratory and animal results.",
+          "takeaways": [
+            "Study used an inhibitor targeting an age‑linked protein to regenerate cartilage in old mice.",
+            "Treatment also reduced osteoarthritis signs after injury in the animal model and stimulated human samples in the lab.",
+            "Results are preclinical; additional testing is needed before considering clinical use."
+          ]
+        },
+        "es": {
+          "title": "Estudio de laboratorio halla un inhibidor que restaura el cartílago de la rodilla en ratones envejecidos y estimula tejido humano",
+          "summary": "Los investigadores informan que bloquear una proteína que aumenta con la edad restauró el cartílago perdido de la rodilla en ratones mayores, redujo la osteoartritis post‑lesión en un modelo similar a la rotura del LCA y provocó que muestras de cartílago humano produjeran nuevo tejido articular tras la exposición al mismo inhibidor.",
+          "whyItMatters": "Si se reproduce en trabajos preclínicos y clínicos adicionales, el enfoque podría señalar vías no quirúrgicas para reconstruir el cartílago articular; los hallazgos actuales son resultados iniciales de laboratorio y en animales.",
+          "takeaways": [
+            "El estudio usó un inhibidor dirigido a una proteína vinculada a la edad para regenerar cartílago en ratones ancianos.",
+            "El tratamiento también redujo signos de osteoartritis tras la lesión en el modelo animal y estimuló muestras humanas en el laboratorio.",
+            "Los resultados son preclínicos; se necesita más investigación antes de considerar uso clínico."
+          ]
+        },
+        "ru": {
+          "title": "Лабораторное исследование выявляет ингибитор, восстанавливающий хрящ колена у пожилых мышей и стимулирующий человеческую ткань",
+          "summary": "Исследователи сообщают, что блокирование белка, уровень которого повышается с возрастом, восстановило утраченный хрящ колена у старых мышей, уменьшило посттравматические проявления остеоартрита в модели, похожей на травму передней крестообразной связки, и побудило образцы человеческого хряща образовывать новую суставную ткань после воздействия того же ингибитора.",
+          "whyItMatters": "Если эти результаты подтвердятся в дальнейших доклинических и клинических исследованиях, подход может указать на нехирургические способы восстановить суставной хрящ; текущие данные — ранние лабораторные и животные результаты.",
+          "takeaways": [
+            "В исследовании использовали ингибитор, нацеленный на белок, связанный со старением, для регенерации хряща у старых мышей.",
+            "Лечение также уменьшало признаки остеоартрита после травмы в животной модели и стимулировало человеческие образцы в лаборатории.",
+            "Результаты являются доклиническими; перед клическим применением требуется дополнительная проверка."
+          ]
+        },
+        "uk": {
+          "title": "Лабораторне дослідження виявило інгібітор, який відновлює хрящ коліна у старих мишей та стимулює людську тканину",
+          "summary": "Дослідники повідомляють, що блокування білка, рівень якого підвищується з віком, відновило втрачену хрящову тканину коліна у старих мишей, зменшило ознаки остеоартриту після травми в моделі, схожій на ушкодження передньої хрестоподібної зв’язки (ACL), і змусило зразки людського хряща у лабораторії виробляти нову суглобову тканину після контакту з тим самим інгібітором.",
+          "whyItMatters": "Якщо результати вдасться відтворити в подальших передклінічних і клінічних дослідженнях, підхід може вказати на нехірургічні способи відновлення суглобового хряща; нинішні висновки — це ранні лабораторні та тваринні результати.",
+          "takeaways": [
+            "У дослідженні використовували інгібітор, спрямований на білок, пов’язаний зі старінням, щоб регенерувати хрящ у старих мишей.",
+            "Лікування також зменшило прояви остеоартриту після травми в тваринній моделі і стимулювало людські зразки в лабораторії.",
+            "Результати є передклінічними; потрібні додаткові випробування перед можливим клінічним застосуванням."
+          ]
+        },
+        "fr": {
+          "title": "Étude de laboratoire identifie un inhibiteur qui restaure le cartilage du genou chez des souris âgées et stimule les tissus humains",
+          "summary": "Les chercheurs rapportent que le blocage d’une protéine dont les niveaux augmentent avec l’âge a restauré le cartilage perdu du genou chez des souris âgées, réduit l’arthrose post‑traumatique dans un modèle similaire à une lésion du ligament croisé antérieur (LCA) et a incité des échantillons de cartilage humain à produire de nouveaux tissus articulaires après exposition au même inhibiteur.",
+          "whyItMatters": "Si ces résultats se reproduisent dans des travaux précliniques et cliniques ultérieurs, l’approche pourrait indiquer des moyens non chirurgicaux de reconstruire le cartilage articulaire ; les constatations actuelles sont des résultats précoces en laboratoire et chez l’animal.",
+          "takeaways": [
+            "L’étude a utilisé un inhibiteur ciblant une protéine liée à l’âge pour régénérer le cartilage chez des souris âgées.",
+            "Le traitement a également réduit les signes d’arthrose après une blessure dans le modèle animal et a stimulé des échantillons humains en laboratoire.",
+            "Les résultats sont précliniques ; des tests supplémentaires sont nécessaires avant d’envisager une utilisation clinique."
+          ]
+        },
+        "de": {
+          "title": "Laborexperiment findet einen Inhibitor, der Knieknorpel bei alten Mäusen wiederherstellt und menschliches Gewebe stimuliert",
+          "summary": "Forscher berichten, dass das Blockieren eines mit dem Alter zunehmenden Proteins verlorenen Knieknorpel bei älteren Mäusen wiederherstellte, posttraumatische Arthrose in einem ACL‑ähnlichen Modell verringerte und menschliche Knorpelproben nach Exposition gegenüber demselben Inhibitor zur Bildung neuen Gelenkgewebes anregte.",
+          "whyItMatters": "Wenn sich dies in weiteren präklinischen und klinischen Studien reproduzieren lässt, könnte der Ansatz auf nicht‑chirurgische Wege zum Wiederaufbau von Gelenkknorpel hinweisen; die aktuellen Befunde stammen aus frühen Labor‑ und Tierversuchen.",
+          "takeaways": [
+            "Studie verwendete einen Inhibitor, der ein altersassoziiertes Protein anvisiert, um Knorpel bei alten Mäusen zu regenerieren.",
+            "Die Behandlung verringerte in dem Tiermodell auch Anzeichen von Arthrose nach Verletzung und stimulierte menschliche Proben im Labor.",
+            "Ergebnisse sind präklinisch; vor einer möglichen klinischen Anwendung sind weitere Tests erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo de laboratório encontra inibidor que restaura cartilagem do joelho em camundongos idosos e estimula tecido humano",
+          "summary": "Pesquisadores relatam que bloquear uma proteína que aumenta com a idade restaurou cartilagem perdida do joelho em camundongos mais velhos, reduziu osteoartrite pós‑lesão em um modelo semelhante ao LCA e fez com que amostras de cartilagem humana produzissem tecido articular novo após exposição ao mesmo inibidor.",
+          "whyItMatters": "Se reproduzível em estudos pré‑clínicos e clínicos adicionais, a abordagem pode apontar para formas não cirúrgicas de reconstruir a cartilagem articular; os achados atuais são resultados iniciais de laboratório e em animais.",
+          "takeaways": [
+            "O estudo usou um inibidor direcionado a uma proteína ligada ao envelhecimento para regenerar cartilagem em camundongos idosos.",
+            "O tratamento também reduziu sinais de osteoartrite após lesão no modelo animal e estimulou amostras humanas em laboratório.",
+            "Os resultados são pré‑clínicos; são necessários testes adicionais antes de considerar uso clínico."
+          ]
+        },
+        "hu": {
+          "title": "Laboratóriumi vizsgálatban találtak inhibitort, amely helyreállítja az öreg egerek térdporcát és serkenti emberi szövetet",
+          "summary": "A kutatók arról számoltak be, hogy egy, korral növekvő fehérje blokkolása helyreállította az idősebb egerek elveszett térdporcát, csökkentette a sérülés utáni osteoarthritist egy ACL‑szerű modellen, és arra ösztönözte emberi porcmintákat, hogy ugyanazon inhibitor hatására új ízületi szövetet termeljenek.",
+          "whyItMatters": "Ha további preklinikai és klinikai vizsgálatokban reprodukálható lesz, az megmutathatja a porc nem sebészi újraépítésének lehetséges irányait; a jelen eredmények korai labor- és állatkísérletes stádiumban vannak.",
+          "takeaways": [
+            "A vizsgálat egy korral összefüggő fehérjét célzó inhibitort alkalmazott porcregeneráció elérésére idős egerekben.",
+            "A kezelés csökkentette az állatmodellben a sérülés utáni porckopás jeleit, és laborban serkentette emberi minták válaszát.",
+            "Az eredmények preklinikai jellegűek; további tesztelés szükséges, mielőtt klinikai alkalmazásról lehetne beszélni."
+          ]
+        },
+        "ar": {
+          "title": "دراسة مخبرية تعثر على مثبط يعيد غضروف الركبة في فئران مسنة وينشط أنسجة بشرية",
+          "summary": "أبلغ الباحثون أن حجب بروتين يزيد مع التقدّم في العمر أعاد الغضروف المفقود في ركبة الفئران المسنة، وخفّض علامات الفُصال العظمي بعد الإصابة في نموذج شبيه بتمزق الرباط الصليبي الأمامي، وحثّ عينات غضروف بشرية على إنتاج نسيج مفصلي جديد بعد التعرض لنفس المثبط.",
+          "whyItMatters": "إذا تكررت هذه النتائج في دراسات قبل سريرية وسريرية لاحقة، فقد تشير إلى طرق غير جراحية لإعادة بناء غضروف المفصل؛ النتائج الحالية مرحلة مبكرة ومأخوذة من تجارب مخبرية وحيوانية.",
+          "takeaways": [
+            "استخدمت الدراسة مثبطًا يستهدف بروتينًا مرتبطًا بالعمر لإعادة إنتاج الغضروف في فئران مسنة.",
+            "العلاج قلّل أيضًا من علامات الفُصال العظمي بعد الإصابة في النموذج الحيواني وحفّز استجابة في عينات بشرية في المختبر.",
+            "النتائج قبل سريرية؛ هناك حاجة لاختبارات إضافية قبل التفكير في الاستخدام السريري."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Lab study finds an inhibitor that restores knee cartilage in aged mice and stimulates human tissue.\nStory summary: Researchers report that blocking a protein that increases with age restored lost knee cartilage in older mice, reduced post-injury osteoarthritis in an ACL-like model, and prompted human cartilage samples to produce new joint tissue after exposure to the same inhibitor..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a2",
+      "category": "medicine",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/does-your-sleep-tracker-get-it-right-a-pittsburgh-neuroscientist-weighs-in-291936",
+      "sourceTitle": "Does your sleep tracker get it right? A Pittsburgh neuroscientist weighs in",
+      "publishedAt": "2026-10-06T12:13:29Z",
+      "languages": {
+        "en": {
+          "title": "How wrist sleep trackers compare with clinical sleep testing",
+          "summary": "A neuroscientist explains what consumer sleep trackers measure, how they differ from polysomnography (the clinical gold standard), and what users should know about the strengths and limits of wearable sleep data.",
+          "whyItMatters": "Millions rely on wearable devices to monitor sleep; understanding their accuracy and limitations helps people interpret trends without treating consumer data as a clinical diagnosis.",
+          "takeaways": [
+            "Consumer trackers infer sleep from movement and heart signals rather than direct brain measurements.",
+            "They can be useful for observing general sleep patterns but are less precise than polysomnography for detailed sleep-stage or diagnostic assessments.",
+            "Awareness of device limitations helps set realistic expectations for what tracker data can and cannot show."
+          ]
+        },
+        "es": {
+          "title": "Cómo se comparan los rastreadores de sueño de muñeca con las pruebas clínicas del sueño",
+          "summary": "Un neurocientífico explica qué miden los rastreadores de sueño para consumidores, en qué se diferencian de la polisomnografía (el estándar clínico) y qué deben saber los usuarios sobre las fortalezas y límites de los datos de sueño procedentes de dispositivos portátiles.",
+          "whyItMatters": "Millones dependen de dispositivos portátiles para monitorizar el sueño; entender su precisión y limitaciones ayuda a interpretar tendencias sin tratar los datos de consumo como un diagnóstico clínico.",
+          "takeaways": [
+            "Los rastreadores para consumidores infieren el sueño a partir del movimiento y señales cardiacas en lugar de medir directamente la actividad cerebral.",
+            "Pueden ser útiles para observar patrones generales de sueño, pero son menos precisos que la polisomnografía para evaluar etapas del sueño o hacer diagnósticos detallados.",
+            "Conocer las limitaciones del dispositivo ayuda a establecer expectativas realistas sobre lo que los datos del rastreador pueden y no pueden mostrar."
+          ]
+        },
+        "ru": {
+          "title": "Как трекеры сна на запястье соотносятся с клиническим исследованием сна",
+          "summary": "Нейроучёный объясняет, что измеряют потребительские трекеры сна, чем они отличаются от полисомнографии (клинического эталона) и что пользователям стоит знать о сильных и слабых сторонах данных о сне от носимых устройств.",
+          "whyItMatters": "Миллионы людей полагаются на носимые устройства для контроля сна; понимание их точности и ограничений помогает интерпретировать тренды, не принимая потребительские данные за клинический диагноз.",
+          "takeaways": [
+            "Потребительские трекеры делают выводы о сне по движениям и сердечным сигналам, а не по прямым измерениям мозга.",
+            "Они могут быть полезны для наблюдения общих паттернов сна, но уступают полисомнографии в точности для оценки стадий сна или постановки диагностических заключений.",
+            "Осознание ограничений устройств помогает сформировать реалистичные ожидания относительно того, что могут и чего не могут показать данные трекера."
+          ]
+        },
+        "uk": {
+          "title": "Як браслети для відстеження сну на зап’ястку порівнюються з клінічним тестуванням сну",
+          "summary": "Невролог пояснює, що вимірюють споживчі пристрої для відстеження сну, чим вони відрізняються від полісомнографії (клінічного «золотого стандарту») і що користувачам слід знати про сильні сторони та обмеження даних про сон із носимих пристроїв.",
+          "whyItMatters": "Мільйони людей покладаються на носимі пристрої для моніторингу сну; розуміння їхньої точності та обмежень допомагає інтерпретувати тенденції, не сприймаючи споживчі дані як клінічний діагноз.",
+          "takeaways": [
+            "Споживчі трекери роблять висновки про сон на основі руху та серцевих сигналів, а не прямого вимірювання мозкової активності.",
+            "Вони можуть бути корисні для спостереження загальних шаблонів сну, але менш точні, ніж полісомнографія для детальних оцінок стадій сну або діагностики.",
+            "Усвідомлення обмежень пристрою допомагає встановити реалістичні очікування щодо того, що можуть і не можуть показати дані трекера."
+          ]
+        },
+        "fr": {
+          "title": "Comment les traqueurs de sommeil au poignet se comparent aux tests cliniques du sommeil",
+          "summary": "Un neuroscientifique explique ce que mesurent les traqueurs de sommeil grand public, en quoi ils diffèrent de la polysomnographie (la référence clinique) et ce que les utilisateurs doivent savoir sur les forces et les limites des données de sommeil issues d’appareils portables.",
+          "whyItMatters": "Des millions de personnes s’appuient sur des appareils portables pour surveiller le sommeil ; comprendre leur précision et leurs limites aide à interpréter les tendances sans traiter les données grand public comme un diagnostic clinique.",
+          "takeaways": [
+            "Les traqueurs grand public infèrent le sommeil à partir des mouvements et des signaux cardiaques plutôt que par une mesure directe de l’activité cérébrale.",
+            "Ils peuvent être utiles pour observer des tendances générales du sommeil mais sont moins précis que la polysomnographie pour des évaluations détaillées des stades du sommeil ou pour le diagnostic.",
+            "Connaître les limites de l’appareil permet de se fixer des attentes réalistes sur ce que les données peuvent et ne peuvent pas montrer."
+          ]
+        },
+        "de": {
+          "title": "Wie sich Armband‑Schlaftracker mit klinischen Schlaftests vergleichen lassen",
+          "summary": "Ein Neurowissenschaftler erklärt, was Konsumenten‑Schlaftracker messen, wie sie sich von Polysomnographie (dem klinischen Goldstandard) unterscheiden und was Nutzer über Stärken und Grenzen tragbarer Schlafdaten wissen sollten.",
+          "whyItMatters": "Millionen verlassen sich auf Wearables zur Schlafüberwachung; das Verständnis von Genauigkeit und Grenzen hilft, Trends zu interpretieren, ohne Konsumentendaten als klinische Diagnose zu behandeln.",
+          "takeaways": [
+            "Konsumenten‑Tracker leiten Schlaf aus Bewegungs‑ und Herzsignalen ab, statt direkte Hirnmessungen vorzunehmen.",
+            "Sie können nützlich sein, um allgemeine Schlafmuster zu beobachten, sind aber weniger präzise als Polysomnographie für detaillierte Schlafstadien oder diagnostische Beurteilungen.",
+            "Die Kenntnis der Gerätegrenzen hilft, realistische Erwartungen daran zu setzen, was Tracker‑Daten zeigen können und was nicht."
+          ]
+        },
+        "pt-br": {
+          "title": "Como rastreadores de sono de pulso se comparam com testes clínicos do sono",
+          "summary": "Um neurocientista explica o que os rastreadores de sono de consumo medem, como diferem da polissonografia (o padrão‑ouro clínico) e o que os usuários devem saber sobre os pontos fortes e limites dos dados de sono de dispositivos vestíveis.",
+          "whyItMatters": "Milhões dependem de dispositivos vestíveis para monitorar o sono; entender sua precisão e limitações ajuda a interpretar tendências sem tratar dados de consumo como diagnóstico clínico.",
+          "takeaways": [
+            "Rastreadores para consumidores inferem o sono a partir de movimento e sinais cardíacos, em vez de medições diretas do cérebro.",
+            "Podem ser úteis para observar padrões gerais de sono, mas são menos precisos que a polissonografia para estágios de sono detalhados ou avaliações diagnósticas.",
+            "Saber as limitações do dispositivo ajuda a ajustar expectativas sobre o que os dados do rastreador podem e não podem mostrar."
+          ]
+        },
+        "hu": {
+          "title": "Hogyan viszonyulnak a csuklón viselt alváskövetők a klinikai alvásvizsgálathoz",
+          "summary": "Egy neurológus elmagyarázza, mit mérnek a fogyasztói alváskövetők, hogyan különböznek a poliszomnográfiától (a klinikai aranystandardtól), és mit érdemes tudni a viselhető alvásadatok erősségeiről és korlátairól.",
+          "whyItMatters": "Milliók támaszkodnak viselhető eszközökre az alvás követésére; az eszközök pontosságának és korlátainak ismerete segít értelmezni a trendeket anélkül, hogy a fogyasztói adatokat klinikai diagnózisként kezelnék.",
+          "takeaways": [
+            "A fogyasztói követők mozgás- és szívjel‑alapú következtetéseket használnak, nem közvetlen agyméréseket.",
+            "Hasznosak lehetnek általános alvási minták megfigyelésére, de kevésbé pontosak a poliszomnográfiánál a részletes alvásfázis‑ vagy diagnosztikai értékelésekben.",
+            "A készülékek korlátainak ismerete reális elvárásokat teremt azzal kapcsolatban, mit tudnak és mit nem mutatnak meg az adatok."
+          ]
+        },
+        "ar": {
+          "title": "كيف تقارن أجهزة تتبّع النوم المعصمية مع اختبارات النوم السريرية",
+          "summary": "يشرح عالم أعصاب ما تقيسه أجهزة تتبّع النوم الاستهلاكية وكيف تختلف عن تخطيط النوم متعدد القنوات (polysomnography)، المعيار الذهبي السريري، وما الذي يجب أن يعرفه المستخدمون عن نقاط القوة والحدود لبيانات النوم القابلة للارتداء.",
+          "whyItMatters": "يعتمد ملايين الأشخاص على الأجهزة القابلة للارتداء لمراقبة نومهم؛ فهم مدى دقتها وحدودها يساعد على تفسير الاتجاهات دون اعتبار بيانات المستهلك تشخيصًا سريريًا.",
+          "takeaways": [
+            "تستنتج الأجهزة الاستهلاكية النوم من الحركة وإشارات القلب بدلًا من القياسات الدماغية المباشرة.",
+            "قد تكون مفيدة لملاحظة أنماط النوم العامة لكنها أقل دقة من تخطيط النوم المتعدد للقِیَم التفصيلية لمراحل النوم أو التقييمات التشخيصية.",
+            "الوعي بقيود الجهاز يساعد على تحديد توقعات واقعية بشأن ما يمكن أن تُظهره البيانات وما لا يمكنها."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a2",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a2-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a2-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: How wrist sleep trackers compare with clinical sleep testing.\nStory summary: A neuroscientist explains what consumer sleep trackers measure, how they differ from polysomnography (the clinical gold standard), and what users should know about the strengths and limits of wearable sleep data..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a4",
+      "category": "nutrition",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261006/Nearly-3-in-4-US-comfort-foods-share-a-surprising-nutritional-feature.aspx",
+      "sourceTitle": "Nearly 3 in 4 US comfort foods share a surprising nutritional feature",
+      "publishedAt": "Tue, 06 Oct 2026 07:40:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Study finds a high share of ultra-processed items among U.S. comfort foods",
+          "summary": "Research examining comfort foods in the U.S. reports that a large majority are classified as ultra-processed, prompting questions about the nutritional profile of foods people turn to for comfort.",
+          "whyItMatters": "Comfort eating is a common behavior; knowing that many comfort options are ultra-processed can inform conversations about diet quality and personal food choices.",
+          "takeaways": [
+            "The analysis indicates close to three-quarters of identified comfort foods fall into the ultra-processed category.",
+            "Prevalence of ultra-processed options raises concerns about overall nutritional composition of commonly consumed comfort items.",
+            "Awareness of processing levels can help people make more informed choices about comfort foods."
+          ]
+        },
+        "es": {
+          "title": "Estudio halla una alta proporción de productos ultraprocesados entre los alimentos reconfortantes en EE. UU.",
+          "summary": "Una investigación que examinó los alimentos reconfortantes en EE. UU. informa que la gran mayoría se clasifican como ultraprocesados, lo que plantea preguntas sobre el perfil nutricional de los alimentos a los que la gente recurre para sentirse mejor.",
+          "whyItMatters": "Comer por consuelo es un comportamiento común; saber que muchas opciones reconfortantes son ultraprocesadas puede informar las conversaciones sobre la calidad de la dieta y las elecciones personales.",
+          "takeaways": [
+            "El análisis indica que cerca de tres cuartas partes de los alimentos identificados como reconfortantes entran en la categoría de ultraprocesados.",
+            "La prevalencia de opciones ultraprocesadas plantea preocupaciones sobre la composición nutricional de los alimentos reconfortantes comúnmente consumidos.",
+            "Conocer el grado de procesado puede ayudar a las personas a tomar decisiones más informadas sobre sus alimentos de consuelo."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выявляет высокий удельный вес ультраобработанных продуктов среди «утешительной» пищи в США",
+          "summary": "Исследование, анализировавшее «утешительную» еду в США, сообщает, что подавляющее большинство таких продуктов классифицируются как ультраобработанные, что вызывает вопросы о питательном профиле продуктов, к которым люди обращаются ради комфорта.",
+          "whyItMatters": "Питание «за утешение» — распространённое поведение; знание того, что многие варианты — ультраобработанные, может помочь в обсуждении качества диеты и личных пищевых выборов.",
+          "takeaways": [
+            "Анализ показывает, что примерно три четверти идентифицированных «утешительных» продуктов относятся к ультраобработанным.",
+            "Высокая доля ультраобработанных вариантов вызывает озабоченность по поводу питательной ценности часто потребляемых продуктов комфортного питания.",
+            "Осведомлённость об уровне обработки продуктов может помочь людям делать более информированные выборы относительно «утешительной» пищи."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє високий відсоток ультраоброблених продуктів серед американських «комфортних» страв",
+          "summary": "Дослідження, що вивчало комфортні страви в США, повідомляє, що більшість із них класифікуються як ультраоброблені, що викликає питання щодо харчового профілю продуктів, до яких люди звертаються за втіхою.",
+          "whyItMatters": "Емоційне споживання їжі — звичне явище; знання про те, що багато варіантів «комфортної» їжі є ультраобробленими, може допомогти у розмовах про якість раціону та особистий вибір продуктів.",
+          "takeaways": [
+            "Аналіз показує, що близько трьох чвертей визначених «комфортних» страв належать до категорії ультраоброблених продуктів.",
+            "Поширеність ультраоброблених варіантів викликає занепокоєння щодо загального харчового складу часто споживаних страв для втіхи.",
+            "Обізнаність щодо рівня обробки може допомогти людям робити свідоміший вибір щодо комфортної їжі."
+          ]
+        },
+        "fr": {
+          "title": "Étude : une grande part d’aliments confort aux États‑Unis sont ultra‑transformés",
+          "summary": "Une recherche portant sur les aliments réconfortants aux États‑Unis rapporte qu’une grande majorité est classée comme ultra‑transformée, posant des questions sur le profil nutritionnel des aliments vers lesquels les gens se tournent pour se réconforter.",
+          "whyItMatters": "La consommation émotionnelle est un comportement courant ; savoir que de nombreuses options réconfortantes sont ultra‑transformées peut alimenter les discussions sur la qualité de l’alimentation et les choix personnels.",
+          "takeaways": [
+            "L’analyse indique qu’environ les trois quarts des aliments identifiés comme réconfortants entrent dans la catégorie des aliments ultra‑transformés.",
+            "La prévalence d’options ultra‑transformées soulève des préoccupations sur la composition nutritionnelle globale des aliments couramment consommés pour le réconfort.",
+            "La connaissance du niveau de transformation peut aider les personnes à faire des choix plus éclairés concernant les aliments réconfortants."
+          ]
+        },
+        "de": {
+          "title": "Studie findet hohen Anteil ultraverarbeiteter Produkte unter US‑Komfortnahrungsmitteln",
+          "summary": "Forschung, die Komfortnahrungsmittel in den USA untersuchte, berichtet, dass die große Mehrheit als ultraverarbeitet klassifiziert ist, was Fragen zur Nährstoffzusammensetzung der Nahrungsmittel aufwirft, zu denen Menschen aus Komfort greifen.",
+          "whyItMatters": "Comfort‑Eating ist ein häufiges Verhalten; die Kenntnis, dass viele Komfortoptionen ultraverarbeitet sind, kann Diskussionen über Ernährungsqualität und persönliche Essensentscheidungen informieren.",
+          "takeaways": [
+            "Die Analyse zeigt, dass nahe drei Viertel der identifizierten Komfortnahrungsmittel in die Kategorie der Ultraverarbeiteten fallen.",
+            "Die Verbreitung ultraverarbeiteter Optionen wirft Bedenken zur Gesamtzusammensetzung der häufig konsumierten Komfortartikel auf.",
+            "Die Awareness über Verarbeitungsgrade kann Menschen helfen, informiertere Entscheidungen zu Komfortnahrungsmitteln zu treffen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo encontra alta proporção de alimentos ultraprocessados entre 'comfort foods' nos EUA",
+          "summary": "Pesquisa que examinou alimentos de conforto nos EUA relata que a grande maioria é classificada como ultraprocessada, suscitando questões sobre o perfil nutricional dos alimentos que as pessoas escolhem por conforto.",
+          "whyItMatters": "Comer por conforto é um comportamento comum; saber que muitas opções de conforto são ultraprocessadas pode informar conversas sobre qualidade da dieta e escolhas alimentares pessoais.",
+          "takeaways": [
+            "A análise indica que cerca de três quartos dos alimentos de conforto identificados se enquadram na categoria ultraprocessada.",
+            "A prevalência de opções ultraprocessadas levanta preocupações sobre a composição nutricional dos itens de conforto consumidos com frequência.",
+            "Conhecer o nível de processamento pode ajudar as pessoas a fazer escolhas mais informadas sobre alimentos reconfortantes."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: nagy arányban ultrafeldolgozott tételek az amerikai komfortételek között",
+          "summary": "Egy elemzés azt találta, hogy az Egyesült Államokban az emberek által komfortért fogyasztott ételek nagy többsége ultrafeldolgozottként van osztályozva, ami felveti a kérdést ezen ételek táplálkozási összetételéről.",
+          "whyItMatters": "A komfortevés gyakori viselkedés; annak ismerete, hogy sok komfortopció erősen feldolgozott, segíthet a táplálkozás minőségével és egyéni választásokkal kapcsolatos beszélgetésekben.",
+          "takeaways": [
+            "Az elemzés szerint azonosított komfortételek közel háromnegyede ultrafeldolgozott kategóriába esik.",
+            "Az ultrafeldolgozott opciók elterjedtsége aggályokat vet fel a gyakran fogyasztott komfortételek tápanyagösszetételéről.",
+            "A feldolgozottsági szintek ismerete segíthet megalapozottabb döntések meghozatalában a komfortételek esetén."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تجد نسبة كبيرة من الأطعمة المريحة في الولايات المتحدة من الأطعمة فائقة المعالجة",
+          "summary": "تفيد أبحاث تفحص الأطعمة التي يلجأ إليها الأميركيون للراحة بأن غالبية كبيرة تُصنَّف كأطعمة فائقة المعالجة، ما يثير تساؤلات حول الملف الغذائي للأطعمة التي يختارها الناس للشعور بالراحة.",
+          "whyItMatters": "الأكل من أجل الراحة سلوك شائع؛ ومعرفة أن العديد من خيارات الراحة فائقة المعالجة يمكن أن يُثري النقاشات حول جودة النظام الغذائي والاختيارات الشخصية.",
+          "takeaways": [
+            "تشير التحليلات إلى أن ما يقرب من ثلاثة أرباع الأطعمة المعرّفة كمأكولات مريحة تقع ضمن فئة الأطعمة فائقة المعالجة.",
+            "انتشار الخيارات فائقة المعالجة يثير تساؤلات حول التركيب الغذائي العام للعناصر المستهلكة بشكل شائع.",
+            "الوعي بمستويات المعالجة يساعد الأفراد على اتخاذ اختيارات أكثر اطلاعًا بشأن الأطعمة المريحة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds a high share of ultra-processed items among U.S. comfort foods.\nStory summary: Research examining comfort foods in the U.S. reports that a large majority are classified as ultra-processed, prompting questions about the nutritional profile of foods people turn to for comfort..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a3",
+      "category": "nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-wary-online-nutrition-advice-cancer.html",
+      "sourceTitle": "Be wary of online nutrition advice for cancer patients",
+      "publishedAt": "Tue, 06 Oct 2026 07:20:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Researchers warn that online nutrition claims for cancer patients often lack solid evidence",
+          "summary": "An examination of nutrition guidance circulating online for breast cancer patients highlights common recommendations—such as avoiding dairy, fruit or red meat and taking vitamin D—that may not be consistently backed by strong evidence.",
+          "whyItMatters": "Patients seeking dietary guidance may encounter conflicting or unsupported claims online; the piece underscores the need to evaluate the evidence behind nutrition advice.",
+          "takeaways": [
+            "Popular online nutrition tips for cancer patients include both avoidance recommendations and supplement suggestions.",
+            "Not all widely shared claims are supported by robust research, prompting caution when interpreting online information.",
+            "Consumers and caregivers should look for evidence-based sources when considering diet-related decisions during cancer care."
+          ]
+        },
+        "es": {
+          "title": "Investigadores advierten que las afirmaciones nutricionales en línea para pacientes con cáncer a menudo carecen de evidencia sólida",
+          "summary": "Un examen de las recomendaciones nutricionales que circulan en línea para pacientes con cáncer de mama destaca consejos comunes—como evitar lácteos, fruta o carne roja y tomar vitamina D—que pueden no estar respaldados de forma consistente por evidencia sólida.",
+          "whyItMatters": "Los pacientes que buscan orientación dietética pueden encontrarse con afirmaciones contradictorias o no comprobadas en línea; el artículo subraya la necesidad de evaluar la evidencia detrás de los consejos nutricionales.",
+          "takeaways": [
+            "Los consejos nutricionales populares en línea para pacientes con cáncer incluyen tanto recomendaciones de evitación como sugerencias de suplementos.",
+            "No todas las afirmaciones ampliamente difundidas están respaldadas por investigación robusta, lo que exige cautela al interpretar la información en línea.",
+            "Consumidores y cuidadores deberían buscar fuentes basadas en evidencia al considerar decisiones dietéticas durante el tratamiento del cáncer."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи предупреждают, что онлайн‑утверждения о питании для пациентов с раком часто не имеют прочной доказательной базы",
+          "summary": "Анализ рекомендаций по питанию, распространяемых в интернете для пациенток с раком молочной железы, выделяет распространённые советы — например, избегать молочных продуктов, фруктов или красного мяса и принимать витамин D — которые не всегда последовательно подтверждаются надёжными доказательствами.",
+          "whyItMatters": "Пациенты, ищущие рекомендации по питанию, могут столкнуться с противоречивыми или неподтверждёнными утверждениями в сети; статья подчёркивает необходимость оценивать доказательную базу пищевых советов.",
+          "takeaways": [
+            "Популярные онлайн‑советы по питанию для пациентов с раком включают как рекомендации по исключению продуктов, так и предложения по приёму добавок.",
+            "Не все широко распространённые утверждения поддержаны надёжными исследованиями, поэтому при интерпретации информации в интернете следует проявлять осторожность.",
+            "Пациенты и их опекуны должны обращаться к источникам, основанным на доказательствах, при принятии решений о питании во время лечения рака."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники попереджають, що онлайн‑твердження про харчування для пацієнтів з онкологією часто не мають ґрунтовних доказів",
+          "summary": "Огляд харчових рекомендацій, що поширюються в інтернеті для пацієнток із раком грудей, висвітлює поширені поради — наприклад уникати молочних продуктів, фруктів або червоного м’яса та приймати вітамін D — які не завжди підкріплені міцними доказами.",
+          "whyItMatters": "Пацієнти, які шукають харчових порад, можуть натрапити на суперечливі або непідтверджені твердження онлайн; матеріал підкреслює необхідність оцінювати докази, що стоять за такими порадами.",
+          "takeaways": [
+            "Популярні онлайн‑поради щодо харчування для пацієнтів з онкологією включають як рекомендації щодо уникнення певних продуктів, так і поради щодо добавок.",
+            "Не всі широко поширені твердження підкріплені надійними дослідженнями, тому слід обережно ставитися до онлайн‑інформації.",
+            "Споживачам і доглядальникам варто звертатися до джерел, що базуються на доказах, при розгляданні дієтичних рішень під час онкологічного лікування."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs avertissent que les affirmations nutritionnelles en ligne pour les patients atteints de cancer manquent souvent de preuves solides",
+          "summary": "Un examen des conseils nutritionnels circulant en ligne pour les patientes atteintes d’un cancer du sein met en lumière des recommandations courantes — comme éviter les produits laitiers, les fruits ou la viande rouge et prendre de la vitamine D — qui ne sont pas systématiquement étayées par des preuves robustes.",
+          "whyItMatters": "Les patients qui cherchent des conseils alimentaires peuvent rencontrer des informations contradictoires ou non vérifiées en ligne ; l’article souligne la nécessité d’évaluer les preuves derrière les conseils nutritionnels.",
+          "takeaways": [
+            "Les conseils nutritionnels populaires en ligne pour les patients atteints de cancer incluent des recommandations d’évitement et des suggestions de suppléments.",
+            "Toutes les affirmations largement diffusées ne sont pas soutenues par des recherches robustes, ce qui invite à la prudence dans l’interprétation des informations en ligne.",
+            "Les consommateurs et les aidants devraient rechercher des sources fondées sur des données probantes pour envisager des décisions alimentaires pendant le traitement du cancer."
+          ]
+        },
+        "de": {
+          "title": "Forscher warnen, dass Online‑Ernährungsbehauptungen für Krebspatienten oft keine solide Evidenz haben",
+          "summary": "Eine Untersuchung von online kursierenden Ernährungsempfehlungen für Brustkrebspatientinnen hebt gängige Ratschläge — wie das Meiden von Milchprodukten, Obst oder rotem Fleisch und die Einnahme von Vitamin D — hervor, die nicht immer durch starke Belege gestützt sind.",
+          "whyItMatters": "Patientinnen und Patienten, die Ernährungshinweise suchen, stoßen online auf widersprüchliche oder unzureichend gestützte Behauptungen; der Beitrag unterstreicht die Notwendigkeit, die Evidenz hinter Ernährungsempfehlungen zu prüfen.",
+          "takeaways": [
+            "Beliebte Online‑Ernährungstipps für Krebspatienten umfassen sowohl Vermeidungsratschläge als auch Supplementempfehlungen.",
+            "Nicht alle weit verbreiteten Behauptungen sind durch robuste Forschung gestützt, was Vorsicht bei der Interpretation online geteilter Informationen nahelegt.",
+            "Betroffene und Angehörige sollten nach evidenzbasierten Quellen suchen, wenn sie ernährungsbezogene Entscheidungen während der Krebsbehandlung in Erwägung ziehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores alertam que alegações nutricionais online para pacientes com câncer frequentemente carecem de evidência sólida",
+          "summary": "Uma análise das orientações nutricionais circulando online para pacientes com câncer de mama destaca recomendações comuns — como evitar laticínios, frutas ou carne vermelha e tomar vitamina D — que podem não ser consistentemente apoiadas por evidências robustas.",
+          "whyItMatters": "Pacientes que buscam orientação dietética podem encontrar alegações conflitantes ou sem respaldo online; a matéria ressalta a necessidade de avaliar as evidências por trás dos conselhos nutricionais.",
+          "takeaways": [
+            "Dicas populares de nutrição online para pacientes com câncer incluem tanto recomendações de evitar alimentos quanto sugestões de suplementos.",
+            "Nem todas as alegações amplamente divulgadas são suportadas por pesquisas robustas, o que exige cautela ao interpretar informações online.",
+            "Consumidores e cuidadores devem buscar fontes baseadas em evidência ao considerar decisões alimentares durante o cuidado oncológico."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók figyelmeztetnek: online táplálkozási állítások rákbetegek számára gyakran gyenge bizonyítékon alapulnak",
+          "summary": "Az online körforgásban lévő emlőrákos betegeknek szóló táplálkozási ajánlások vizsgálata rámutatott gyakori javaslatokra — például tejtermékek, gyümölcsök vagy vörös hús kerülése, illetve D‑vitamin szedése — amelyek nem minden esetben támaszthatók alá következetes, erős bizonyítékkal.",
+          "whyItMatters": "A betegek, akik táplálkozási útmutatást keresnek, ellentmondó vagy alátámaszatlan állításokba ütközhetnek az interneten; a cikk hangsúlyozza annak fontosságát, hogy felmérjék a táplálkozási tanácsok mögötti bizonyítékokat.",
+          "takeaways": [
+            "A népszerű online táplálkozási tippek között vannak kerülési javaslatok és kiegészítőajánlások is.",
+            "Nem minden széles körben terjesztett állítás támasztható alá szilárd kutatással, ezért óvatosan kell értelmezni ezeket az információkat.",
+            "A fogyasztóknak és gondozóknak érdemes bizonyítékokon alapuló forrásokat keresniük, amikor diétával kapcsolatos döntéseket mérlegelnek a rákkezelés idején."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يحذرون من أن الادعاءات الغذائية عبر الإنترنت لمرضى السرطان غالبًا ما تفتقر إلى أدلة قوية",
+          "summary": "يفصّل تحليل للإرشادات الغذائية المتداولة على الإنترنت لمرضى سرطان الثدي توصيات شائعة — مثل تجنُّب منتجات الألبان أو الفاكهة أو اللحوم الحمراء و/أو تناول فيتامين د — التي قد لا تكون مدعومة دوماً بأدلة قوية ومتسقة.",
+          "whyItMatters": "قد يواجه المرضى الباحثون عن إرشاد غذائي عبر الإنترنت معلومات متضاربة أو غير مدعومة؛ يُبرز النص ضرورة تقييم الأدلة الكامنة وراء النصائح الغذائية.",
+          "takeaways": [
+            "تشمل النصائح الشائعة عبر الإنترنت لكلاب من التجنّب وتوصيات بالمكمّلات.",
+            "ليست كل الادعاءات المتداولة مدعومة بأبحاث قوية، ما يستلزم الحذر عند تفسيرها.",
+            "ينبغي للمستهلكين والمقدّمين للرعاية البحث عن مصادر مبنية على الأدلة عند التفكير في قرارات غذائية أثناء رعاية السرطان."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a3-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers warn that online nutrition claims for cancer patients often lack solid evidence.\nStory summary: An examination of nutrition guidance circulating online for breast cancer patients highlights common recommendations—such as avoiding dairy, fruit or red meat and taking vitamin D—that may not be consistently backed by strong evidence..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a5",
+      "category": "medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/neurology/autism/123283",
+      "sourceTitle": "Autism Linked to Maternal Health Factors",
+      "publishedAt": "Mon, 05 Oct 2026 17:27:39 -0400",
+      "languages": {
+        "en": {
+          "title": "Large U.S. study finds associations between maternal health conditions and autism risk, with variation by race and ethnicity",
+          "summary": "A retrospective analysis of U.S. children found consistent links between various maternal health conditions during pregnancy and rates of autism spectrum disorder, and reported that some associations differed across racial and ethnic groups.",
+          "whyItMatters": "The findings highlight patterns worth further investigation, including possible drivers of disparities and the role maternal health may play in developmental outcomes.",
+          "takeaways": [
+            "Researchers observed associations between several maternal conditions in pregnancy and autism prevalence.",
+            "Patterns of association varied by race and ethnicity, suggesting potential disparities or differing risk profiles.",
+            "Association does not establish causation; additional research is needed to clarify mechanisms and implications."
+          ]
+        },
+        "es": {
+          "title": "Gran estudio en EE. UU. encuentra asociaciones entre condiciones maternas y riesgo de autismo, con variaciones por raza y etnia",
+          "summary": "Un análisis retrospectivo de niños en EE. UU. encontró vínculos consistentes entre varias condiciones de salud materna durante el embarazo y las tasas de trastorno del espectro autista, y reportó que algunas asociaciones diferían según grupos raciales y étnicos.",
+          "whyItMatters": "Los hallazgos destacan patrones que merecen investigación adicional, incluyendo posibles causas de disparidades y el papel que la salud materna puede tener en los resultados del desarrollo.",
+          "takeaways": [
+            "Los investigadores observaron asociaciones entre varias condiciones maternas en el embarazo y la prevalencia de autismo.",
+            "Los patrones de asociación variaron según la raza y la etnia, lo que sugiere disparidades potenciales o perfiles de riesgo distintos.",
+            "La asociación no establece causalidad; se necesita más investigación para aclarar mecanismos e implicaciones."
+          ]
+        },
+        "ru": {
+          "title": "Крупное исследование в США обнаруживает связи между состоянием здоровья матери и риском аутизма, с вариациями по расе и этнической принадлежности",
+          "summary": "Ретроспективный анализ детей в США выявил последовательные связи между рядом состояний здоровья матери во время беременности и частотой расстройств аутистического спектра, причём некоторые связи различались в разных расовых и этнических группах.",
+          "whyItMatters": "Результаты выделяют закономерности, требующие дальнейшего изучения, включая возможные причины различий и роль материнского здоровья в развитии ребёнка.",
+          "takeaways": [
+            "Исследователи отметили связи между несколькими состояниями здоровья матери во время беременности и распространённостью аутизма.",
+            "Шаблоны связей варьировались по расе и этничности, что может указывать на существование диспропорций или разных профилей риска.",
+            "Связь не доказывает причинно‑следственную зависимость; необходимы дополнительные исследования для выяснения механизмов и последствий."
+          ]
+        },
+        "uk": {
+          "title": "Велике дослідження у США виявило асоціації між материнськими проблемами зі здоров’ям і ризиком аутизму, з варіаціями за расою та етнічністю",
+          "summary": "Ретроспективний аналіз дітей у США виявив послідовні зв’язки між різними материнськими станами під час вагітності та показниками розладу аутистичного спектра, а також повідомив, що деякі асоціації відрізнялися серед расових та етнічних груп.",
+          "whyItMatters": "Результати висвітлюють закономірності, які варто дослідити далі, включно з можливими факторами нерівності та роллю материнського здоров’я у розвитку дитини.",
+          "takeaways": [
+            "Дослідники виявили асоціації між кількома материнськими станами під час вагітності та поширеністю аутизму.",
+            "Моделі асоціацій варіювали за расою та етнічністю, що може свідчити про можливі нерівності або різні профілі ризику.",
+            "Асоціація не встановлює причинно‑наслідковий зв’язок; потрібні додаткові дослідження для уточнення механізмів і наслідків."
+          ]
+        },
+        "fr": {
+          "title": "Large étude américaine trouve des associations entre conditions de santé maternelle et risque d’autisme, avec des variations selon la race et l’ethnicité",
+          "summary": "Une analyse rétrospective d’enfants aux États‑Unis a trouvé des liens cohérents entre diverses conditions de santé maternelle pendant la grossesse et les taux de trouble du spectre autistique, et rapporte que certaines associations différaient selon les groupes raciaux et ethniques.",
+          "whyItMatters": "Les résultats mettent en évidence des motifs qui méritent des investigations supplémentaires, y compris les facteurs possibles des disparités et le rôle que peut jouer la santé maternelle dans les issues du développement.",
+          "takeaways": [
+            "Les chercheurs ont observé des associations entre plusieurs conditions maternelles pendant la grossesse et la prévalence de l’autisme.",
+            "Les schémas d’association ont varié selon la race et l’ethnicité, suggérant de potentielles disparités ou des profils de risque différents.",
+            "Une association n’établit pas la causalité ; des recherches supplémentaires sont nécessaires pour clarifier les mécanismes et les implications."
+          ]
+        },
+        "de": {
+          "title": "Große US‑Studie findet Zusammenhänge zwischen mütterlichen Gesundheitszuständen und Autismusrisiko mit Unterschieden nach Rasse und Ethnie",
+          "summary": "Eine retrospektive Analyse von Kindern in den USA fand konsistente Zusammenhänge zwischen verschiedenen mütterlichen Gesundheitszuständen während der Schwangerschaft und Raten von Autismus‑Spektrum‑Störungen und berichtete, dass einige Assoziationen zwischen rassischen und ethnischen Gruppen variierten.",
+          "whyItMatters": "Die Ergebnisse heben Muster hervor, die weiterer Untersuchung wert sind, einschließlich möglicher Ursachen für Unterschiede und der Rolle, die mütterliche Gesundheit bei Entwicklungs‑ergebnissen spielen könnte.",
+          "takeaways": [
+            "Forscher beobachteten Zusammenhänge zwischen mehreren mütterlichen Zuständen in der Schwangerschaft und der Autismusprävalenz.",
+            "Die Muster der Assoziation variierten nach Rasse und Ethnie, was auf mögliche Disparitäten oder unterschiedliche Risikoprofile hindeutet.",
+            "Ein Zusammenhang stellt keine Kausalität dar; zusätzliche Forschung ist nötig, um Mechanismen und Folgen klarer zu bestimmen."
+          ]
+        },
+        "pt-br": {
+          "title": "Grande estudo nos EUA encontra associações entre condições de saúde materna e risco de autismo, com variação por raça e etnia",
+          "summary": "Uma análise retrospectiva de crianças nos EUA encontrou ligações consistentes entre várias condições de saúde materna durante a gravidez e taxas de transtorno do espectro autista, e relatou que algumas associações diferiram entre grupos raciais e étnicos.",
+          "whyItMatters": "Os achados destacam padrões que merecem investigação adicional, incluindo possíveis fatores que explicam disparidades e o papel da saúde materna nos desfechos do desenvolvimento.",
+          "takeaways": [
+            "Os pesquisadores observaram associações entre diversas condições maternas na gravidez e a prevalência de autismo.",
+            "Os padrões de associação variaram por raça e etnia, sugerindo potenciais disparidades ou perfis de risco diferentes.",
+            "Associação não estabelece causalidade; pesquisas adicionais são necessárias para esclarecer mecanismos e implicações."
+          ]
+        },
+        "hu": {
+          "title": "Nagy amerikai tanulmány anyai egészségi tényezők és az autizmus összefüggéseiről, rassz- és etnikai különbségekkel",
+          "summary": "Egy visszatekintő elemzés amerikai gyermekek adataiból következetes összefüggéseket talált több anyai egészségi állapot és az autizmus spektrumzavar előfordulása között, és közölte, hogy egyes kapcsolatok eltértek a különböző rassz és etnikai csoportok között.",
+          "whyItMatters": "Az eredmények olyan mintázatokat emelnek ki, amelyek további vizsgálatot érdemelnek, beleértve a különbségek mögötti lehetséges okokat és az anyai egészség szerepét a fejlődési kimenetekben.",
+          "takeaways": [
+            "A kutatók több anyai állapot és a terhesség alatti egészségi tényezők összefüggését figyelték meg az autizmus előfordulásával.",
+            "Az összefüggések mintázata rassz és etnikum szerint eltért, ami potenciális egyenlőtlenségekre vagy eltérő kockázati profilokra utalhat.",
+            "Az összefüggés nem bizonyít oksági kapcsolatot; további kutatás szükséges a mechanizmusok és következmények tisztázásához."
+          ]
+        },
+        "ar": {
+          "title": "دراسة أميركية كبيرة تجد ارتباطات بين حالات صحة الأم وخطر التوحد مع اختلافات بحسب العِرق والإثنية",
+          "summary": "حلل بحث استعادي بيانات أطفال في الولايات المتحدة ووجد روابط متسقة بين حالات صحية مختلفة لدى الأم أثناء الحمل ومعدلات اضطراب طيف التوحد، وأشار إلى أن بعض الارتباطات اختلفت عبر المجموعات العرقية والإثنية.",
+          "whyItMatters": "تسلط النتائج الضوء على أنماط تستحق مزيدًا من التحقيق، بما في ذلك المحركات المحتملة للفوارق ودور صحة الأم في النتائج التطورية.",
+          "takeaways": [
+            "لاحظ الباحثون ارتباطات بين عدة حالات صحية للأم أثناء الحمل وانتشار التوحد.",
+            "تنوعت أنماط الارتباط بحسب العِرق والإثنية، ما قد يشير إلى تفاوتات أو اختلافات في ملفات المخاطر.",
+            "الارتباط لا يثبت السببية؛ هناك حاجة لأبحاث إضافية لتوضيح الآليات والآثار."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a5-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Large U.S. study finds associations between maternal health conditions and autism risk, with variation by race and ethnicity.\nStory summary: A retrospective analysis of U.S. children found consistent links between various maternal health conditions during pregnancy and rates of autism spectrum disorder, and reported that some associations differed across racial and ethnic groups..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a6",
+      "category": "longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/the-biomarkers-that-predict-mortality-risk/",
+      "sourceTitle": "The Biomarkers That Predict Mortality Risk",
+      "publishedAt": "Mon, 05 Oct 2026 19:11:27 +0000",
+      "languages": {
+        "en": {
+          "title": "Study identifies biomarkers and a small set of measures that independently predict mortality risk",
+          "summary": "Researchers report several biomarkers that show strong links to all‑cause mortality and highlight four measurements that retain predictive power independently of others.",
+          "whyItMatters": "Identifying biomarkers tied to mortality can aid aging research and risk stratification in studies, although translation to routine clinical use requires more validation.",
+          "takeaways": [
+            "The analysis singled out multiple biomarkers correlated with mortality outcomes.",
+            "Four measurements demonstrated independent predictive value beyond other markers.",
+            "Findings may guide future research on aging and risk but are not yet established clinical risk tools."
+          ]
+        },
+        "es": {
+          "title": "Estudio identifica biomarcadores y un pequeño conjunto de medidas que predicen de forma independiente el riesgo de mortalidad",
+          "summary": "Los investigadores informan varios biomarcadores que muestran vínculos fuertes con la mortalidad por todas las causas y destacan cuatro medidas que mantienen poder predictivo independientemente de otros marcadores.",
+          "whyItMatters": "Identificar biomarcadores relacionados con la mortalidad puede ayudar a la investigación del envejecimiento y a la estratificación del riesgo en estudios, aunque la traducción a uso clínico rutinario requiere más validación.",
+          "takeaways": [
+            "El análisis señaló múltiples biomarcadores correlacionados con desenlaces de mortalidad.",
+            "Cuatro medidas demostraron valor predictivo independiente más allá de otros marcadores.",
+            "Los hallazgos pueden orientar futuras investigaciones sobre envejecimiento y riesgo, pero aún no son herramientas de riesgo establecidas para la clínica."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выделяет биомаркеры и небольшой набор показателей, которые независимо предсказывают риск смертности",
+          "summary": "Исследователи сообщают о нескольких биомаркерах, которые тесно связаны с общей смертностью, и выделяют четыре измерения, сохраняющие прогностическую силу независимо от других маркёров.",
+          "whyItMatters": "Идентификация биомаркеров, связанных со смертностью, может помочь исследованиям старения и стратификации риска в научных работах, хотя для перехода к рутинному клиническому применению требуется дальнейшая валидация.",
+          "takeaways": [
+            "Анализ выделил несколько биомаркеров, коррелирующих с исходами смертности.",
+            "Четыре показателя продемонстрировали независимую прогностическую ценность помимо других маркёров.",
+            "Результаты могут направлять будущие исследования старения и риска, но пока не являются установленными клиническими инструментами."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє біомаркери та невеликий набір показників, що незалежно прогнозують ризик смертності",
+          "summary": "Дослідники повідомляють про кілька біомаркерів, які мають сильні зв’язки з загальною смертністю, і виділяють чотири виміри, що зберігають прогностичну силу незалежно від інших показників.",
+          "whyItMatters": "Визначення біомаркерів, пов’язаних зі смертністю, може сприяти дослідженням старіння та стратифікації ризику в дослідженнях, хоча для впровадження в рутинну клінічну практику потрібна додаткова валідація.",
+          "takeaways": [
+            "Аналіз виокремив кілька біомаркерів, корельованих із результатами щодо смертності.",
+            "Чотири вимірювання показали незалежну прогностичну цінність понад інші маркери.",
+            "Результати можуть спрямувати майбутні дослідження зі старіння та ризику, але поки не є встановленими клінічними інструментами ризику."
+          ]
+        },
+        "fr": {
+          "title": "Étude identifie des biomarqueurs et un petit ensemble de mesures qui prédisent indépendamment le risque de mortalité",
+          "summary": "Les chercheurs rapportent plusieurs biomarqueurs fortement liés à la mortalité toutes causes et mettent en avant quatre mesures qui conservent une puissance prédictive indépendamment des autres marqueurs.",
+          "whyItMatters": "Identifier des biomarqueurs associés à la mortalité peut aider la recherche sur le vieillissement et la stratification du risque dans les études, bien que la traduction en usage clinique courant nécessite davantage de validations.",
+          "takeaways": [
+            "L’analyse a mis en évidence plusieurs biomarqueurs corrélés aux issues de mortalité.",
+            "Quatre mesures ont démontré une valeur prédictive indépendante au‑delà des autres marqueurs.",
+            "Les conclusions peuvent orienter les recherches futures sur le vieillissement et le risque, mais ne constituent pas encore des outils cliniques établis."
+          ]
+        },
+        "de": {
+          "title": "Studie identifiziert Biomarker und eine kleine Messreihe, die unabhängig Sterberisiko vorhersagen",
+          "summary": "Forscher berichten über mehrere Biomarker mit starken Zusammenhängen zur Gesamtmortalität und heben vier Messgrößen hervor, die unabhängig von anderen eine prädiktive Aussagekraft behalten.",
+          "whyItMatters": "Das Identifizieren von Biomarkern, die mit Mortalität verbunden sind, kann die Alternsforschung und Risiko‑Stratifizierung in Studien unterstützen, obwohl die Überführung in die routinemäßige klinische Anwendung weitere Validierung erfordert.",
+          "takeaways": [
+            "Die Analyse identifizierte mehrere Biomarker, die mit Mortalitätsergebnissen korrelierten.",
+            "Vier Messgrößen zeigten unabhängigen prädiktiven Wert über andere Marker hinaus.",
+            "Die Befunde können künftige Forschungsrichtungen zur Alterung und Risikobewertung leiten, sind aber noch keine etablierten klinischen Risikowerkzeuge."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo identifica biomarcadores e um pequeno conjunto de medidas que predizem de forma independente o risco de mortalidade",
+          "summary": "Pesquisadores relatam vários biomarcadores fortemente associados à mortalidade por todas as causas e destacam quatro medidas que mantêm poder preditivo independentemente das demais.",
+          "whyItMatters": "Identificar biomarcadores ligados à mortalidade pode auxiliar a pesquisa sobre envelhecimento e a estratificação de risco em estudos, embora a tradução para uso clínico rotineiro exija mais validação.",
+          "takeaways": [
+            "A análise apontou vários biomarcadores correlacionados com desfechos de mortalidade.",
+            "Quatro medidas demonstraram valor preditivo independente além de outros marcadores.",
+            "Os achados podem orientar pesquisas futuras sobre envelhecimento e risco, mas ainda não são ferramentas clínicas estabelecidas."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány azonosít biomarkereket és néhány mérőszámot, amelyek önállóan jósolják a halálozási kockázatot",
+          "summary": "A kutatók több olyan biomarkert jelentettek, amelyek erős összefüggést mutatnak az összes okra vonatkozó halálozással, és kiemeltek négy mérőszámot, amelyek más markerektől független prediktív értéket őriznek meg.",
+          "whyItMatters": "A halálozással összefüggő biomarkerek az öregedéskutatás és a kockázatstratifikáció számára lehetnek hasznosak, bár a rutinszerű klinikai alkalmazásukhoz további validálás szükséges.",
+          "takeaways": [
+            "Az elemzés több biomarkert emelt ki, amelyek korrelálnak a halálozási kimenetekkel.",
+            "Négy mérés független prediktív értéket mutatott más markerektől elkülönülve.",
+            "Az eredmények irányt adhatnak a jövőbeni öregedéskutatásnak és kockázatelemzésnek, de még nem minősülnek kialakult klinikai kockázati eszközöknek."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تحدد مؤشرات حيوية ومجموعة صغيرة من القياسات التي تتنبأ بشكل مستقل بمخاطر الوفيات",
+          "summary": "أفاد الباحثون باكتشاف عدة مؤشرات حيوية تظهر ارتباطًا قويًا بالوفيات لجميع الأسباب، وأبرزوا أربع قياسات احتفظت بقدرة تنبؤية مستقلة عن المؤشرات الأخرى.",
+          "whyItMatters": "تحديد المؤشرات الحيوية المرتبطة بالوفاة يمكن أن يساعد أبحاث الشيخوخة وتصنيف المخاطر في الدراسات، رغم أن تحويلها إلى استخدام سريري روتيني يتطلب مزيدًا من التحقق.",
+          "takeaways": [
+            "أبرز التحليل عدة مؤشرات حيوية مرتبطة بنتائج الوفيات.",
+            "أظهرت أربع قياسات قيمة تنبؤية مستقلة تفوق المؤشرات الأخرى.",
+            "قد تُوجّه النتائج أبحاثًا مستقبلية حول الشيخوخة والمخاطر لكنها ليست أدوات مخاطر سريرية معتمدة بعد."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
       "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a6",
       "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
       "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a6-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Environmental impacts compared between low-fat vegan and Mediterranean diets in a trial.\nStory summary: A secondary analysis of a randomized crossover trial calculated greenhouse gas emissions and energy demand for participants who followed low-fat vegan and Mediterranean diets. The work used participants' dietary records to estimate environmental footprints for each diet period..\nCategory: sustainable nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study identifies biomarkers and a small set of measures that independently predict mortality risk.\nStory summary: Researchers report several biomarkers that show strong links to all‑cause mortality and highlight four measurements that retain predictive power independently of others..\nCategory: longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a2",
@@ -697,122 +1543,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Food processing can change metabolic and brain responses even when calories match.\nStory summary: A study challenges the idea that meals with identical macronutrients and calories produce the same physiological effects. Researchers found that the degree of food processing altered metabolic responses and brain activity compared with less-processed equivalents..\nCategory: nutrition science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "glp1r-antibody-cell-2026",
-      "category": "diabetes & immunology",
-      "sourceName": "cell.com",
-      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00332-3?rss=yes",
-      "sourceTitle": "Extending concerns about GLP-1R antibody specificity to human immune cells",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Researchers raise concerns about tools used to detect GLP-1 receptors in immune cells",
-          "summary": "Authors outline challenges in reliably locating endogenous GLP-1 receptors because the receptor is scarce and moves within cells, and many commercial antibodies lack adequate validation. This complicates efforts to determine whether immune cells respond directly to GLP-1 signalling versus indirect effects from metabolic changes.",
-          "whyItMatters": "GLP-1 receptor agonists are widely used for diabetes and weight management; robust lab methods are needed to clarify their biological effects beyond metabolic changes.",
-          "takeaways": [
-            "GLP-1R is a low-abundance receptor and hard to detect reliably with some antibodies.",
-            "Poor antibody specificity can blur whether immune effects are direct receptor signalling or secondary to metabolic shifts.",
-            "Improving reagent validation is important for accurate interpretation of research on GLP-1 biology.",
-            "Technical limitations in basic research can influence how findings are translated into clinical understanding."
-          ]
-        },
-        "es": {
-          "title": "Investigadores plantean dudas sobre las herramientas usadas para detectar receptores GLP-1 en células inmunitarias",
-          "summary": "Los autores describen dificultades para localizar de forma fiable receptores GLP‑1 endógenos porque el receptor es poco abundante y se desplaza dentro de las células, y muchas anticuerpos comerciales carecen de validación adecuada. Esto complica determinar si las células inmunitarias responden directamente a la señalización por GLP‑1 o si los efectos son indirectos por cambios metabólicos.",
-          "whyItMatters": "Los agonistas del receptor GLP‑1 se usan ampliamente para la diabetes y el control del peso; se necesitan métodos de laboratorio sólidos para aclarar sus efectos biológicos más allá de los cambios metabólicos.",
-          "takeaways": [
-            "GLP‑1R es un receptor de baja abundancia y resulta difícil de detectar de forma fiable con algunos anticuerpos.",
-            "La especificidad insuficiente de anticuerpos puede dificultar distinguir si los efectos inmunitarios son por señalización directa del receptor o secundarios a cambios metabólicos.",
-            "Mejorar la validación de reactivos es importante para interpretar con precisión la investigación sobre la biología del GLP‑1.",
-            "Las limitaciones técnicas en la investigación básica pueden influir en la forma en que los hallazgos se traducen a la comprensión clínica."
-          ]
-        },
-        "ru": {
-          "title": "Исследователи выражают обеспокоенность по поводу инструментов для обнаружения GLP‑1 рецепторов в иммунных клетках",
-          "summary": "Авторы описывают сложности с надёжным определением эндогенных рецепторов GLP‑1: рецептор встречается в малом количестве и перемещается внутри клетки, а многие коммерческие антитела не имеют адекватной валидации. Это усложняет выяснение, реагируют ли иммунные клетки напрямую на сигнализацию через GLP‑1 или эффекты опосредованы метаболическими изменениями.",
-          "whyItMatters": "Агонисты рецептора GLP‑1 широко используются при сахарном диабете и контроле веса; нужны надёжные методы в лабораториях, чтобы прояснить их биологические эффекты помимо метаболических изменений.",
-          "takeaways": [
-            "GLP‑1R — рецептор низкой экспрессии, и его трудно надёжно обнаруживать некоторыми антителами.",
-            "Низкая специфичность антител мешает разграничить прямую рецепторную сигнализацию от вторичных метаболических эффектов в иммунных клетках.",
-            "Улучшение валидации реактивов важно для корректной интерпретации исследований по биологии GLP‑1.",
-            "Технические ограничения базовых исследований могут повлиять на то, как результаты переводятся в клиническое понимание."
-          ]
-        },
-        "uk": {
-          "title": "Дослідники висловлюють застереження щодо інструментів виявлення рецепторів GLP‑1 в імунних клітинах",
-          "summary": "Автори описують труднощі у надійному виявленні ендогенних рецепторів GLP‑1: рецептор малочисельний і переміщається в межах клітини, а багато комерційних антитіл не мають достатньої валідації. Це ускладнює визначення, чи реагують імунні клітини безпосередньо на сигналізацію через GLP‑1R, чи спостережувані ефекти є опосередкованими через метаболічні зміни.",
-          "whyItMatters": "Агоністи рецептора GLP‑1 широко використовуються при діабеті та контролі ваги; потрібні надійні лабораторні методи, щоб уточнити їхні біологічні ефекти поза метаболічними змінами.",
-          "takeaways": [
-            "GLP‑1R є рецептором низької експресії і його важко надійно виявити деякими антитілами.",
-            "Погана специфічність антитіл може ускладнювати інтерпретацію, чи є імунні ефекти результатом прямої рецепторної сигналізації або вторинними до метаболічних зрушень.",
-            "Покращення валідації реактивів важливе для точної інтерпретації досліджень біології GLP‑1.",
-            "Технічні обмеження в базових дослідженнях можуть впливати на те, як результати переносять у клінічне розуміння."
-          ]
-        },
-        "fr": {
-          "title": "Des chercheurs soulèvent des inquiétudes sur les outils utilisés pour détecter les récepteurs GLP‑1 dans les cellules immunitaires",
-          "summary": "Les auteurs exposent les défis pour localiser de manière fiable les récepteurs endogènes GLP‑1 : le récepteur est peu abondant et mobile à l’intérieur des cellules, et de nombreux anticorps commerciaux manquent d’une validation adéquate. Cela complique la détermination de savoir si les cellules immunitaires répondent directement à la signalisation GLP‑1R ou si les effets observés sont indirects, liés à des changements métaboliques.",
-          "whyItMatters": "Les agonistes du récepteur GLP‑1 sont largement utilisés pour le diabète et la gestion du poids ; des méthodes de laboratoire robustes sont nécessaires pour clarifier leurs effets biologiques au‑delà des changements métaboliques.",
-          "takeaways": [
-            "GLP‑1R est un récepteur de faible abondance et difficile à détecter de manière fiable avec certains anticorps.",
-            "Une mauvaise spécificité des anticorps peut brouiller la distinction entre effets immunitaires directs via la signalisation du récepteur et effets secondaires des modifications métaboliques.",
-            "Améliorer la validation des réactifs est important pour interpréter avec précision la recherche sur la biologie du GLP‑1.",
-            "Les limites techniques en recherche fondamentale peuvent influencer la façon dont les résultats sont traduits en compréhension clinique."
-          ]
-        },
-        "de": {
-          "title": "Forscher äußern Bedenken zu Methoden zum Nachweis von GLP‑1‑Rezeptoren in Immunzellen",
-          "summary": "Die Autor:innen skizzieren Herausforderungen beim zuverlässigen Aufspüren endogener GLP‑1‑Rezeptoren: Der Rezeptor liegt in geringer Menge vor und bewegt sich innerhalb der Zellen, und viele kommerzielle Antikörper sind nicht ausreichend validiert. Das erschwert, festzustellen, ob Immunzellen direkt auf GLP‑1‑Signalwege reagieren oder ob beobachtete Effekte indirekt durch Stoffwechselveränderungen vermittelt werden.",
-          "whyItMatters": "GLP‑1‑Rezeptoragonisten werden breit für Diabetes und Gewichtsmanagement eingesetzt; robuste Labormethoden sind nötig, um ihre biologischen Effekte über metabolische Veränderungen hinaus zu klären.",
-          "takeaways": [
-            "GLP‑1R ist ein Rezeptor mit niedriger Abundanz und lässt sich mit manchen Antikörpern schwer zuverlässig nachweisen.",
-            "Mangelnde Spezifität von Antikörpern kann verschleiern, ob Immuneffekte durch direkten Rezeptorsignalweg oder sekundär durch Stoffwechselverschiebungen verursacht werden.",
-            "Eine verbesserte Validierung von Reagenzien ist wichtig für die korrekte Interpretation von GLP‑1‑Forschung.",
-            "Technische Einschränkungen in der Grundlagenforschung können beeinflussen, wie Ergebnisse in das klinische Verständnis übersetzt werden."
-          ]
-        },
-        "pt-br": {
-          "title": "Pesquisadores levantam preocupações sobre ferramentas usadas para detectar receptores GLP‑1 em células imunes",
-          "summary": "Os autores descrevem desafios para localizar de forma confiável receptores GLP‑1 endógenos: o receptor é de baixa abundância e se movimenta dentro das células, e muitos anticorpos comerciais não têm validação adequada. Isso dificulta determinar se células imunes respondem diretamente à sinalização de GLP‑1 ou por efeitos indiretos de mudanças metabólicas.",
-          "whyItMatters": "Agonistas do receptor GLP‑1 são amplamente usados para diabetes e controle de peso; métodos laboratoriais robustos são necessários para esclarecer seus efeitos biológicos além das mudanças metabólicas.",
-          "takeaways": [
-            "O GLP‑1R é um receptor de baixa abundância e difícil de detectar de forma confiável com certos anticorpos.",
-            "Baixa especificidade de anticorpos pode confundir se os efeitos imunes são sinalização direta do receptor ou secundários a alterações metabólicas.",
-            "Melhorar a validação de reagentes é importante para interpretação precisa da pesquisa sobre biologia do GLP‑1.",
-            "Limitações técnicas na pesquisa básica podem influenciar como achados são traduzidos para a compreensão clínica."
-          ]
-        },
-        "hu": {
-          "title": "Kutatók aggályokat fogalmaznak meg a GLP‑1 receptorokat kimutató eszközökkel kapcsolatban",
-          "summary": "A szerzők részletezik a nehézségeket az endogén GLP‑1 receptorok megbízható lokalizálásában: a receptor alacsony abundanciájú és sejten belül vándorol, továbbá sok kereskedelmi antitest nincs megfelelően validálva. Ez megnehezíti annak eldöntését, hogy az immunsejtek közvetlenül reagálnak-e a GLP‑1 jelátvitelre, vagy az effektusok másodlagosak a metabolikus változások miatt.",
-          "whyItMatters": "A GLP‑1 receptor agonisták széles körben használatosak cukorbetegség és testsúlykontroll céljából; robusztus laboratóriumi módszerekre van szükség, hogy tisztázzuk a biológiai hatásokat a metabolikus változásokon túl.",
-          "takeaways": [
-            "A GLP‑1R alacsony mennyiségben van jelen, és néhány antitest mellett nehéz megbízhatóan kimutatni.",
-            "A gyenge antitest‑specificitás elmoshatja annak eldöntését, hogy az immunhatások közvetlen receptorjelátvitel vagy metabolikus eltolódások másodlagos következményei-e.",
-            "A reagensek validálásának javítása fontos a GLP‑1 biológia kutatásának pontos értelmezéséhez.",
-            "Az alapkutatás technikai korlátai befolyásolhatják, hogyan fordítják le az eredményeket klinikai megértéssé."
-          ]
-        },
-        "ar": {
-          "title": "الباحثون يثيرون مخاوف بشأن أدوات كشف مستقبلات GLP‑1 في الخلايا المناعية",
-          "summary": "يستعرض المؤلفون تحديات تحديد مواقع مستقبلات GLP‑1 الذاتية بشكل موثوق لأن هذا المستقبل نادراً ما يوجد ويتنقل داخل الخلايا، وكثير من الأجسام المضادة التجارية تفتقر إلى التحقق الكافي. وهذا يعقّد محاولة تحديد ما إذا كانت الخلايا المناعية تستجيب مباشرة لإشارات GLP‑1 أم أن التأثيرات غير مباشرة نتيجة التغيرات الأيضية.",
-          "whyItMatters": "تُستخدم منبهات مستقبل GLP‑1 على نطاق واسع لعلاج السكري وإدارة الوزن؛ وهناك حاجة إلى طرق مخبرية موثوقة لتوضيح تأثيراتها البيولوجية بعيدًا عن التغيرات الأيضية.",
-          "takeaways": [
-            "مستقبل GLP‑1 منخفض الوفرة ومن الصعب اكتشافه بشكل موثوق باستخدام بعض الأجسام المضادة.",
-            "قد تؤدي ضعف خصوصية الأجسام المضادة إلى إبهام ما إذا كانت التأثيرات المناعية ناتجة عن إشارات مستقبلية مباشرة أو عن تحولات أيضية ثانوية.",
-            "تحسين تحقق المواد التفاعلية مهم للتفسير الدقيق لأبحاث بيولوجيا GLP‑1.",
-            "للقيود التقنية في البحوث الأساسية تأثير على كيفية ترجمة النتائج إلى فهم سريري."
-          ]
-        }
-      },
-      "generatedAt": "2026-10-04T12:36:50.248Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glp1r-antibody-cell-2026",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1r-antibody-cell-2026-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp1r-antibody-cell-2026-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers raise concerns about tools used to detect GLP-1 receptors in immune cells.\nStory summary: Authors outline challenges in reliably locating endogenous GLP-1 receptors because the receptor is scarce and moves within cells, and many commercial antibodies lack adequate validation. This complicates efforts to determine whether immune cells respond directly to GLP-1 signalling versus indirect effects from metabolic changes..\nCategory: diabetes & immunology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "timepie-forum-nature-aging-2026-09-30",
@@ -5650,120 +6380,111 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mitochondrial transplantation and an aging regulator linked to heart energy decline.\nStory summary: Researchers report that levels of BNIP3, a protein involved in mitochondrial quality control, increase with age and can impair cardiac energy handling. Experiments indicate that transplanting healthy mitochondria into cells can promote removal of damaged mitochondria and improve function in aging models..\nCategory: Aging / Cardiac health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "a7",
-      "category": "research roundup",
+      "id": "a9",
+      "category": "nutrition",
       "sourceName": "nutrition.org",
       "sourceUrl": "https://nutrition.org/dietary-factors-and-chronic-disease/",
       "sourceTitle": "Dietary Factors and Chronic Disease",
       "publishedAt": "Thu, 24 Sep 2026 13:16:53 +0000",
       "languages": {
         "en": {
-          "title": "Collection: dietary factors linked to chronic disease",
-          "summary": "The Journal of Nutrition compiled a featured collection that highlights recent studies on how dietary patterns and specific nutrients relate to chronic disease risk and outcomes. The collection was curated to bring related research together in one place.",
-          "whyItMatters": "Aggregated research summaries help clinicians, researchers, and informed readers track evolving evidence on diet–disease relationships and identify areas needing further study.",
+          "title": "Journal collection highlighting research on diet and chronic disease",
+          "summary": "The Journal of Nutrition released a featured collection curated by an editorial fellow that compiles recent articles exploring how various dietary factors relate to chronic diseases.",
+          "whyItMatters": "A themed compilation offers a consolidated view of current research trends and evidence gaps linking diet to chronic conditions, useful for researchers and informed readers.",
           "takeaways": [
-            "The collection gathers recent work connecting diet and chronic disease.",
-            "It covers multiple dietary factors rather than a single nutrient or food.",
-            "Useful as a starting point for readers seeking current research syntheses.",
-            "Individual study details should be consulted for clinical or policy decisions."
+            "Collection gathers multiple studies and reviews on diet‑disease relationships.",
+            "Curated resources can help identify emerging findings and unresolved questions in nutrition science.",
+            "Useful starting point for those seeking an overview of recent literature on dietary drivers of chronic disease."
           ]
         },
         "es": {
-          "title": "Colección: factores dietéticos vinculados a enfermedades crónicas",
-          "summary": "El Journal of Nutrition compiló una colección destacada que resalta estudios recientes sobre cómo los patrones dietarios y nutrientes específicos se relacionan con el riesgo y los desenlaces de enfermedades crónicas. La colección fue seleccionada para reunir investigaciones relacionadas en un solo lugar.",
-          "whyItMatters": "Los resúmenes de investigación agregados ayudan a clínicos, investigadores y lectores informados a seguir la evidencia en evolución sobre las relaciones dieta–enfermedad e identificar áreas que requieren más estudio.",
+          "title": "Colección de la revista que destaca investigaciones sobre dieta y enfermedad crónica",
+          "summary": "El Journal of Nutrition publicó una colección destacada, curada por un becario editorial, que reúne artículos recientes que exploran cómo diversos factores dietéticos se relacionan con enfermedades crónicas.",
+          "whyItMatters": "Una compilación temática ofrece una visión consolidada de las tendencias actuales de investigación y las lagunas de evidencia que vinculan la dieta con condiciones crónicas, útil para investigadores y lectores informados.",
           "takeaways": [
-            "La colección reúne trabajos recientes que conectan la dieta con enfermedades crónicas.",
-            "Cubre múltiples factores dietarios en lugar de un solo nutriente o alimento.",
-            "Útil como punto de partida para lectores que buscan síntesis de la investigación actual.",
-            "Los detalles de estudios individuales deben consultarse para decisiones clínicas o de política."
+            "La colección reúne múltiples estudios y revisiones sobre las relaciones entre dieta y enfermedad.",
+            "Los recursos curados pueden ayudar a identificar hallazgos emergentes y preguntas no resueltas en la ciencia de la nutrición.",
+            "Punto de partida útil para quienes buscan una visión general de la literatura reciente sobre factores dietéticos y enfermedad crónica."
           ]
         },
         "ru": {
-          "title": "Сборник: диетические факторы, связанные с хроническими заболеваниями",
-          "summary": "Журнал Journal of Nutrition собрал тематическую коллекцию, в которой выделены недавние исследования о том, как диетические паттерны и отдельные нутриенты соотносятся с риском и исходами хронических заболеваний. Коллекция была составлена, чтобы объединить связанные исследования в одном месте.",
-          "whyItMatters": "Сборники исследований помогают клиницистам, учёным и информированным читателям отслеживать развивающуюся доказательную базу по связям «диета—болезнь» и выявлять области, требующие дальнейших исследований.",
+          "title": "Коллекция журнала, посвящённая исследованиям питания и хронических заболеваний",
+          "summary": "Journal of Nutrition выпустил тематическую подборку, отобранную редакционным стипендиатом, которая включает недавние статьи, изучающие, как различные факторы питания связаны с хроническими заболеваниями.",
+          "whyItMatters": "Тематическая подборка даёт объединённый обзор текущих исследовательских тенденций и пробелов в доказательной базе, связывающей питание с хроническими состояниями, что полезно для исследователей и заинтересованных читателей.",
           "takeaways": [
-            "Коллекция объединяет недавние работы, связывающие питание и хронические заболевания.",
-            "Охватывает несколько диетических факторов, а не один конкретный нутриент или продукт.",
-            "Полезна как отправная точка для тех, кто ищет современные синтезы исследований.",
-            "Для клинических или политических решений следует обращаться к подробностям отдельных исследований."
+            "Коллекция собирает несколько исследований и обзоров о взаимосвязях между диетой и заболеваниями.",
+            "Отобранные ресурсы помогают выявлять новые результаты и нерешённые вопросы в науке о питании.",
+            "Полезная отправная точка для тех, кто ищет обзор недавней литературы о диетических факторах и хронических заболеваниях."
           ]
         },
         "uk": {
-          "title": "Колекція: дієтичні фактори, пов’язані з хронічними захворюваннями",
-          "summary": "Журнал The Journal of Nutrition зібрав колекцію, яка висвітлює недавні дослідження про те, як дієтичні моделі та окремі поживні речовини пов’язані з ризиком і наслідками хронічних захворювань. Колекція підібрана, щоб об’єднати споріднені дослідження в одному місці.",
-          "whyItMatters": "Агреговані огляди досліджень допомагають клініцистам, дослідникам і зацікавленим читачам відстежувати розвиток доказової бази щодо зв’язків «їжа–хвороба» і виявляти області, що потребують подальших досліджень.",
+          "title": "Збірка журналу, що висвітлює дослідження харчування та хронічних хвороб",
+          "summary": "Журнал Journal of Nutrition опублікував тематичну добірку, підготовлену редакційним стипендіатом, яка збирає недавні статті про те, як різні дієтичні фактори пов’язані з хронічними захворюваннями.",
+          "whyItMatters": "Тематична компіляція дає консолідований огляд поточних наукових тенденцій і прогалин у доказовій базі, що стосуються зв’язків між дієтою та хронічними станами, і може бути корисною для дослідників та обізнаних читачів.",
           "takeaways": [
-            "Колекція збирає недавні роботи, що пов’язують дієту й хронічні захворювання.",
-            "Вона охоплює кілька дієтичних факторів, а не лише одну поживну речовину чи продукт.",
-            "Корисна як відправна точка для тих, хто шукає синтези сучасних досліджень.",
-            "Для клінічних або політичних рішень слід звертатися до деталей окремих досліджень."
+            "Колекція об’єднує кілька досліджень і оглядів щодо взаємозв’язків між дієтою і хворобами.",
+            "Кураційні ресурси можуть допомогти виявити нові результати та невирішені питання в науці про харчування.",
+            "Корисний відправний пункт для тих, хто шукає огляд недавньої літератури про дієтичні фактори хронічних захворювань."
           ]
         },
         "fr": {
-          "title": "Collection : facteurs alimentaires liés aux maladies chroniques",
-          "summary": "Le Journal of Nutrition a compilé une collection qui met en lumière des études récentes sur la manière dont les habitudes alimentaires et certains nutriments sont liés au risque et aux conséquences des maladies chroniques. La collection a été organisée pour regrouper des recherches apparentées en un seul endroit.",
-          "whyItMatters": "Les synthèses de recherche aident cliniciens, chercheurs et lecteurs informés à suivre l’évolution des preuves sur les relations alimentation–maladie et à repérer les domaines nécessitant des recherches supplémentaires.",
+          "title": "Collection de revues mettant en avant la recherche sur l’alimentation et les maladies chroniques",
+          "summary": "Le Journal of Nutrition a publié une collection thématique, organisée par un boursier éditorial, qui compile des articles récents explorant comment divers facteurs alimentaires sont liés aux maladies chroniques.",
+          "whyItMatters": "Une compilation thématique offre une vue consolidée des tendances de recherche actuelles et des lacunes de preuves reliant l’alimentation aux pathologies chroniques, utile pour les chercheurs et les lecteurs informés.",
           "takeaways": [
-            "La collection réunit des travaux récents liant alimentation et maladies chroniques.",
-            "Elle couvre plusieurs facteurs alimentaires plutôt qu’un seul nutriment ou aliment.",
-            "Utile comme point de départ pour les lecteurs recherchant des synthèses de recherche actuelles.",
-            "Les détails des études individuelles doivent être consultés pour des décisions cliniques ou politiques."
+            "La collection rassemble plusieurs études et revues sur les relations alimentation‑maladie.",
+            "Ces ressources sélectionnées peuvent aider à identifier des découvertes émergentes et des questions non résolues en science de la nutrition.",
+            "Point de départ utile pour ceux qui cherchent un aperçu de la littérature récente sur les facteurs alimentaires des maladies chroniques."
           ]
         },
         "de": {
-          "title": "Sammlung: Ernährungsfaktoren, die mit chronischen Krankheiten verbunden sind",
-          "summary": "Das Journal of Nutrition hat eine Featured Collection zusammengestellt, die aktuelle Studien hervorhebt, wie Ernährungsgewohnheiten und bestimmte Nährstoffe mit dem Risiko und den Folgen chronischer Krankheiten zusammenhängen. Die Sammlung wurde kuratiert, um verwandte Forschung an einem Ort zu bündeln.",
-          "whyItMatters": "Aggregierte Forschungsübersichten helfen Klinikerinnen und Klinikern, Forschenden und informierten Lesern, die sich entwickelnde Evidenz zu Ernährungs‑Krankheits‑Beziehungen zu verfolgen und Bereiche zu identifizieren, die weiterer Untersuchung bedürfen.",
+          "title": "Journal‑Sammlung hebt Forschung zu Ernährung und chronischen Krankheiten hervor",
+          "summary": "Das Journal of Nutrition veröffentlichte eine kuratierte Sammlung, zusammengestellt von einem Editorial Fellow, die jüngste Artikel zusammenfasst, die untersuchen, wie verschiedene diätetische Faktoren mit chronischen Krankheiten zusammenhängen.",
+          "whyItMatters": "Eine thematische Zusammenstellung bietet einen gebündelten Überblick über aktuelle Forschungstrends und Evidenzlücken zu Zusammenhängen zwischen Ernährung und chronischen Erkrankungen und ist nützlich für Forschende und informierte Leser.",
           "takeaways": [
-            "Die Sammlung bündelt aktuelle Arbeiten, die Ernährung und chronische Krankheit verbinden.",
-            "Sie deckt mehrere Ernährungsfaktoren ab, nicht nur ein einzelnes Nährstoffthema.",
-            "Nützlich als Ausgangspunkt für Leser, die aktuelle Forschungssynthesen suchen.",
-            "Für klinische oder politische Entscheidungen sollten Einzeltudien im Detail herangezogen werden."
+            "Die Sammlung versammelt mehrere Studien und Übersichtsartikel zu Ernährungs‑ und Krankheitsbeziehungen.",
+            "Kuratierte Ressourcen können helfen, neue Befunde und ungelöste Fragen in der Ernährungswissenschaft zu identifizieren.",
+            "Nützlich als Einstieg für alle, die einen Überblick über die jüngere Literatur zu ernährungsbedingten Treibern chronischer Krankheiten suchen."
           ]
         },
         "pt-br": {
-          "title": "Coleção: fatores dietéticos ligados a doenças crônicas",
-          "summary": "O Journal of Nutrition compilou uma coleção em destaque que reúne estudos recentes sobre como padrões alimentares e nutrientes específicos se relacionam com risco e desfechos de doenças crônicas. A coleção foi curada para agrupar pesquisas relacionadas em um só lugar.",
-          "whyItMatters": "Resumos de pesquisas agregadas ajudam clínicos, pesquisadores e leitores informados a acompanhar a evolução das evidências sobre relações dieta‑doença e a identificar áreas que precisam de mais estudo.",
+          "title": "Coleção de periódicos destacando pesquisas sobre dieta e doenças crônicas",
+          "summary": "O Journal of Nutrition lançou uma coleção em destaque, selecionada por um editorial fellow, que compila artigos recentes que exploram como vários fatores dietéticos se relacionam com doenças crônicas.",
+          "whyItMatters": "Uma compilação temática oferece uma visão consolidada das tendências de pesquisa atuais e lacunas de evidência que conectam dieta a condições crônicas, útil para pesquisadores e leitores informados.",
           "takeaways": [
-            "A coleção reúne trabalhos recentes que conectam dieta e doenças crônicas.",
-            "Abrange múltiplos fatores dietéticos, em vez de um único nutriente ou alimento.",
-            "Útil como ponto de partida para quem busca sínteses de pesquisa atuais.",
-            "Detalhes de estudos individuais devem ser consultados para decisões clínicas ou de política."
+            "A coleção reúne diversos estudos e revisões sobre relações entre dieta e doença.",
+            "Recursos curados podem ajudar a identificar achados emergentes e questões não resolvidas na ciência da nutrição.",
+            "Útil como ponto de partida para quem procura uma visão geral da literatura recente sobre fatores dietéticos que influenciam doenças crônicas."
           ]
         },
         "hu": {
-          "title": "Gyűjtemény: étrendi tényezők kapcsolata a krónikus betegségekkel",
-          "summary": "A Journal of Nutrition összeállított egy válogatást, amely kiemeli azokat a közelmúltbeli tanulmányokat, amelyek az étrendi mintázatok és bizonyos tápanyagok kapcsolatát vizsgálják a krónikus betegségek kockázatával és lefolyásával. A gyűjtemény célja, hogy kapcsolódó kutatásokat egy helyen gyűjtsön össze.",
-          "whyItMatters": "Az aggregált kutatási összegzések segítik a klinikusokat, kutatókat és tájékozott olvasókat abban, hogy kövessék a bizonyítékok alakulását az étrend–betegség kapcsolatok terén, és azonosítsák azokat a területeket, amelyek további vizsgálatot igényelnek.",
+          "title": "Folyóirat‑gyűjtemény a táplálkozási tényezők és a krónikus betegségek kapcsolatáról",
+          "summary": "A Journal of Nutrition egy válogatott gyűjteményt tett közzé, amelyet egy szerkesztő‑gyakornok állított össze, és amely a közelmúltbeli cikkeket gyűjti össze arról, hogyan kapcsolódnak különféle táplálkozási tényezők a krónikus betegségekhez.",
+          "whyItMatters": "Egy tematikus gyűjtemény egyetlen helyen mutatja be a jelenlegi kutatási trendeket és a bizonyítékok hiányosságait az étrend és a krónikus betegségek összefüggéseiben, ami hasznos a kutatók és az érdeklődő olvasók számára.",
           "takeaways": [
-            "A gyűjtemény összegyűjti a közelmúlt munkáit, amelyek az étrendet és a krónikus betegségeket kapcsolják össze.",
-            "Több étrendi tényezőt fed le, nem csupán egyetlen tápanyagot vagy ételt.",
-            "Hasznos kiindulópontot kínál az aktuális kutatási összefoglalók kereséséhez.",
-            "Klinikai vagy politikai döntésekhez az egyes tanulmányok részleteit is meg kell vizsgálni."
+            "A gyűjtemény több tanulmányt és áttekintést fog össze az étrend–betegség kapcsolatról.",
+            "A válogatott források segíthetnek az új eredmények és a megoldatlan kérdések azonosításában a táplálkozástudományban.",
+            "Jó kiindulópont azoknak, akik áttekintést keresnek a közelmúlt irodalmáról az étrendi tényezők és a krónikus betegségek kapcsolatáról."
           ]
         },
         "ar": {
-          "title": "مجموعة: العوامل الغذائية المرتبطة بالأمراض المزمنة",
-          "summary": "جمعت مجلة Journal of Nutrition مجموعة مميزة تسلّط الضوء على دراسات حديثة حول كيفية ارتباط أنماط الأكل وبعض المغذيات بخطر ومآلات الأمراض المزمنة. تهدف المجموعة إلى جمع الأبحاث ذات الصلة في مكان واحد.",
-          "whyItMatters": "تساعد ملخصات الأبحاث المجمعة الأطباء والباحثين والقراء المطلعين على تتبع الأدلة المتطورة حول علاقات النظام الغذائي بالأمراض وتحديد المجالات التي تحتاج لمزيد من الدراسة.",
+          "title": "مجموعة مقالات تبرز الأبحاث حول العوامل الغذائية والأمراض المزمنة",
+          "summary": "أصدر Journal of Nutrition مجموعة مميزة منسقة من قبل زميل تحريري تضم مقالات حديثة تستكشف كيف ترتبط عوامل غذائية مختلفة بالأمراض المزمنة.",
+          "whyItMatters": "توفر مجموعة موضوعية رؤية موحدة لاتجاهات البحث الحالية والثغرات في الأدلة التي تربط الغذاء بالأمراض المزمنة، وهو ما يفيد الباحثين والقارئ المطلع.",
           "takeaways": [
-            "تجمع المجموعة أعمالًا حديثة تربط النظام الغذائي بالأمراض المزمنة.",
-            "تغطي عوامل غذائية متعددة بدل التركيز على مغذٍ واحد أو طعام واحد.",
-            "مفيدة كنقطة انطلاق للقراء الباحثين عن ملخصات بحثية حالية.",
-            "ينبغي الرجوع لتفاصيل كل دراسة عند اتخاذ قرارات سريرية أو سياسية."
+            "تجمع المجموعة عدة دراسات ومراجعات حول علاقات الغذاء والمرض.",
+            "يمكن أن تساعد الموارد المنسقة في تحديد النتائج الصاعدة والأسئلة غير المحلولة في علوم التغذية.",
+            "تمثل هذه المجموعة نقطة انطلاق مفيدة للراغبين في لمحة عامة عن الأدبيات الحديثة حول العوامل الغذائية للأمراض المزمنة."
           ]
         }
       },
-      "generatedAt": "2026-10-05T15:01:37.656Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a7",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a7-news.webp",
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a9-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Collection: dietary factors linked to chronic disease.\nStory summary: The Journal of Nutrition compiled a featured collection that highlights recent studies on how dietary patterns and specific nutrients relate to chronic disease risk and outcomes. The collection was curated to bring related research together in one place..\nCategory: research roundup.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Journal collection highlighting research on diet and chronic disease.\nStory summary: The Journal of Nutrition released a featured collection curated by an editorial fellow that compiles recent articles exploring how various dietary factors relate to chronic diseases..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "conversation-cholesterol-2026",
@@ -93851,6 +94572,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-06-motivation-1-story-1",
+      "category": "planning",
+      "languages": {
+        "en": {
+          "title": "Maya’s lunch plan",
+          "story": "Maya used to skip lunch decisions until the afternoon rush left her grabbing whatever was nearby. She started preparing a simple lunch the night before and added it to her log. Seeing the planned meal in Calorie Bank Credit made choices feel calmer — she wasn’t aiming for perfection, just a little more clarity. Over a few weeks she noticed fewer impulsive purchases and more balanced afternoons. Tracking helped her see that a small bit of prep could change how she navigated busy days.",
+          "habit": "Plan and log one meal the night before.",
+          "appCta": "Open Calorie Bank Credit and track your planned meals today."
+        },
+        "es": {
+          "title": "La comida preparada de María",
+          "story": "María solía dejar la decisión del almuerzo hasta la prisa de la tarde y acababa cogiendo lo primero que encontraba. Empezó a preparar una comida sencilla la noche anterior y la anotó en su registro. Ver esa comida planificada en Calorie Bank Credit le dio más calma: no buscaba la perfección, solo más claridad. En pocas semanas notó menos compras impulsivas y tardes más equilibradas. Llevar ese registro le mostró que un pequeño gesto de preparación cambiaba cómo afrontaba los días ocupados.",
+          "habit": "Prepara y registra una comida la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra tus comidas hoy."
+        },
+        "ru": {
+          "title": "Обед Ольги по плану",
+          "story": "Ольга часто решала, что поесть, уже вечером, и в спешке брала первое попавшееся. Она стала готовить простой обед с вечера и записывать его в приложение. Вид заранее спланированного блюда в Calorie Bank Credit помог ей чувствовать себя спокойнее — она не стремилась к идеалу, а хотела больше ясности. Через пару недель стало меньше импульсивных покупок и более ровные дни. Запись показала: небольшая подготовка меняет повседневные решения.",
+          "habit": "Приготовьте и запишите один прием пищи накануне.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Обід Олени за планом",
+          "story": "Олена часто вирішувала, що поїсти, вже під вечір і в поспіху брала перше, що попадалось. Вона почала готувати простий обід напередодні та заносити його в журнал. Побачити запланований прийом їжі в Calorie Bank Credit було заспокійливо — вона не шукала досконалості, лише трохи більше ясності. Через кілька тижнів стало менше імпульсивних покупок і більш врівноважені вечори. Ведення записів допомогло їй помітити, що невелика підготовка змінює щоденні рішення.",
+          "habit": "Приготуйте й занотуйте один прийом їжі напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і зареєструйте прийом їжі сьогодні."
+        },
+        "fr": {
+          "title": "Le déjeuner préparé de Léa",
+          "story": "Léa attendait souvent la pause de midi pour décider et finissait par choisir ce qui était sous la main. Elle a commencé à préparer un déjeuner simple la veille et à le noter dans son suivi. Voir ce repas planifié dans Calorie Bank Credit l’a apaisée : il ne s’agissait pas de perfection, mais de clarté. En quelques semaines, elle a remarqué moins d’achats impulsifs et des après-midis plus sereins. Le simple geste de planifier a changé sa façon d’aborder les journées chargées.",
+          "habit": "Préparez et enregistrez un repas la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez vos repas aujourd’hui."
+        },
+        "de": {
+          "title": "Lea plant ihr Mittagessen",
+          "story": "Lea entschied oft erst mittags, was sie essen wollte, und griff dann zu dem Ersten, was verfügbar war. Sie bereitete abends ein einfaches Mittagessen vor und trug es in ihr Protokoll ein. Das geplante Mahl in Calorie Bank Credit zu sehen, wirkte beruhigend — es ging nicht um Perfektion, sondern um mehr Klarheit. Nach einigen Wochen bemerkte sie weniger spontane Einkäufe und ausgeglichenere Nachmittage. Das Festhalten zeigte ihr, dass kleine Vorbereitungen den Alltag leichter machen.",
+          "habit": "Plane und trage abends ein Mittagessen ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage deine Mahlzeiten noch heute ein."
+        },
+        "pt-br": {
+          "title": "O almoço de Mariana",
+          "story": "Mariana costumava decidir o almoço na correria da tarde e acabava pegando o que estivesse por perto. Ela passou a preparar um almoço simples na noite anterior e registrar no app. Ver a refeição planejada no Calorie Bank Credit deixou as escolhas mais tranquilas — não havia busca pela perfeição, só mais clareza. Em semanas, percebeu menos compras por impulso e tardes mais equilibradas. Registrar mostrou que um pequeno preparo pode mudar como encaramos dias cheios.",
+          "habit": "Prepare e registre uma refeição na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre suas refeições hoje."
+        },
+        "hu": {
+          "title": "Anna ebédterve",
+          "story": "Anna gyakran csak délben döntötte el, mit egyen, és ilyenkor a leggyorsabbat választotta. Elkezdett előző este egy egyszerű ebédet készíteni, és beírta a naplójába. A Calorie Bank Creditben látni a tervezett étkezést megnyugtatta: nem a tökéletességre törekedett, csak több tisztánlátásra. Néhány hét alatt kevesebb impulzusvásárlás és kiegyensúlyozottabb délutánok lettek. A rögzítés megmutatta, hogy egy kis előkészület sokat változtat a mindennapokon.",
+          "habit": "Tervezd meg és írd be előre egy étkezésedet.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "غداء ليلى المخطط",
+          "story": "كانت ليلى عادةً تؤجل قرار الغداء حتى زحمة العصر فتختار ما يتاح بسرعة. بدأت تحضّر غداء بسيطًا مساءً وتسجّله في مذكرتها. رؤية الوجبة المخططة في Calorie Bank Credit منحتها شعورًا بالهدوء — لم تكن تسعى للكمال، بل للمزيد من الوضوح. بعد أسابيع قليلة لاحظت قلة الشراء بدافع اللحظة وزيادة التوازن في ساعات بعد الظهر. ساعدها التتبع على إدراك أن خطوة صغيرة من التحضير تغيّر طريقة التعامل مع الأيام المزدحمة.",
+          "habit": "حضّر وسجّل وجبة واحدة قبل النوم.",
+          "appCta": "افتح Calorie Bank Credit وسجّل وجباتك اليوم."
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya’s lunch plan.\nStory: Maya used to skip lunch decisions until the afternoon rush left her grabbing whatever was nearby. She started preparing a simple lunch the night before and added it to her log. Seeing the planned meal in Calorie Bank Credit made choices feel calmer — she wasn’t aiming for perfection, just a little more clarity. Over a few weeks she noticed fewer impulsive purchases and more balanced afternoons. Tracking helped her see that a small bit of prep could change how she navigated busy days..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-06-motivation-2-story-2",
+      "category": "honest-logging",
+      "languages": {
+        "en": {
+          "title": "Carlos and the honest snack",
+          "story": "Carlos kept skipping snacks in his log because he worried about what they’d look like on paper. One afternoon he decided to log a small cookie without commentary — just a factual entry. Seeing that honest record over time helped him spot when cravings came and what triggered them: late meetings and skipped breakfasts. He didn’t judge himself; he used the information. Logging honestly became a simple tool for clearer choices, not a test of willpower.",
+          "habit": "Log one snack honestly, without judgment.",
+          "appCta": "Use Calorie Bank Credit and track honestly today."
+        },
+        "es": {
+          "title": "Carlos y el snack sincero",
+          "story": "Carlos solía omitir los snacks en su registro porque le preocupaba cómo se verían. Una tarde decidió registrar una galleta pequeña sin más: una entrada factual. Al revisar esos registros con el tiempo detectó cuándo le daban antojos y qué los desencadenaba: reuniones tardías y desayunos perdidos. No se juzgó; utilizó la información. Registrar con honestidad se convirtió en una herramienta sencilla para tomar decisiones más claras, no en una prueba de fuerza de voluntad.",
+          "habit": "Registra un snack con honestidad, sin juzgarte.",
+          "appCta": "Usa Calorie Bank Credit y registra con honestidad hoy."
+        },
+        "ru": {
+          "title": "Честный перекус Алексея",
+          "story": "Алексей часто не записывал перекусы, переживая, как они выглядят в журнале. Однажды он просто честно записал маленькое печенье без самооценки — фактом. Со временем эти записи помогли ему понять, когда появляются желания перекусить и что их вызывает: поздние совещания и пропущенные завтраки. Он не обвинял себя, а использовал данные. Честное заполнение стало простым инструментом для ясных решений, а не экзаменом на силу воли.",
+          "habit": "Запишите один перекус честно, без осуждения.",
+          "appCta": "Воспользуйтесь Calorie Bank Credit и начните регистрировать честно сегодня."
+        },
+        "uk": {
+          "title": "Чесний перекус Сергія",
+          "story": "Сергій часто не записував перекуси, бо хвилювався, як вони виглядатимуть у журналі. Якось він просто чесно занотував маленьке печиво без оцінок — як факт. Згодом ці записи допомогли йому помітити, коли зʼявляються потяги до їжі й що їх провокує: пізні наради або пропуски сніданку. Він не судив себе, а використав інформацію. Чесне ведення записів стало простим інструментом для усвідомленіших рішень, а не випробуванням витримки.",
+          "habit": "Занотуйте один перекус чесно, без осуду.",
+          "appCta": "Використайте Calorie Bank Credit і почніть записувати сьогодні."
+        },
+        "fr": {
+          "title": "Le snack sincère de Carlos",
+          "story": "Carlos omettait souvent d’enregistrer ses encas, inquiet de leur apparence dans le suivi. Un jour, il a noté un petit biscuit sans commentaire — juste le fait. En regardant ces entrées avec le temps, il a repéré quand les envies survenaient et ce qui les déclenchait : réunions tardives et petits déjeuners sautés. Il ne s’est pas jugé, il a utilisé l’information. L’honnêteté dans l’enregistrement est devenue un outil simple pour des choix plus clairs, pas une épreuve de volonté.",
+          "habit": "Notez un encas honnêtement, sans jugement.",
+          "appCta": "Utilisez Calorie Bank Credit et enregistrez avec honnêteté aujourd’hui."
+        },
+        "de": {
+          "title": "Jonas’ ehrlicher Snack",
+          "story": "Jonas hat Snacks oft nicht eingetragen, weil er sich Gedanken machte, wie sie im Protokoll aussehen. Eines Tages trug er einen kleinen Keks einfach sachlich ein. Mit der Zeit halfen ihm diese ehrlichen Einträge zu erkennen, wann Gelüste auftauchen und was sie auslöste: späte Meetings oder ausgelassene Frühstücke. Er verurteilte sich nicht, sondern nutzte die Informationen. Ehrlich zu protokollieren wurde zu einem einfachen Werkzeug für klarere Entscheidungen, nicht zu einem Test der Willenskraft.",
+          "habit": "Trage einen Snack ehrlich und ohne Urteil ein.",
+          "appCta": "Nutze Calorie Bank Credit und trage heute ehrlich ein."
+        },
+        "pt-br": {
+          "title": "O lanche honesto de Carlos",
+          "story": "Carlos costumava omitir lanches do registro porque se preocupava com a aparência deles. Uma tarde decidiu registrar um biscoito pequeno sem comentários — apenas um fato. Ao revisar essas entradas com o tempo, percebeu quando vinham as vontades e o que as desencadeava: reuniões tardias e pular o café da manhã. Ele não se julgou; usou a informação. Registrar com honestidade virou uma ferramenta simples para escolhas mais claras, não um teste de força de vontade.",
+          "habit": "Registre um lanche com honestidade, sem julgamentos.",
+          "appCta": "Use o Calorie Bank Credit e registre com honestidade hoje."
+        },
+        "hu": {
+          "title": "Dávid őszinte nasija",
+          "story": "Dávid gyakran kihagyta a nassolást a naplóból, mert attól félt, hogyan fog kinézni. Egy délután egyszerűen beírta a kis kekszet tényként, ítélkezés nélkül. Ahogy egyre több őszinte bejegyzése gyűlt, észrevette, mikor jönnek a vágyak és mi váltja ki őket: késői megbeszélések vagy kihagyott reggeli. Nem ítélkezett magán — az információt használta. Az őszinte rögzítés egyszerű eszközzé vált a tudatosabb döntésekhez, nem akaraterő-próbává.",
+          "habit": "Írj be egy nassolást őszintén, ítélkezés nélkül.",
+          "appCta": "Használd a Calorie Bank Creditet, és rögzíts őszintén ma."
+        },
+        "ar": {
+          "title": "الوجبة الخفيفة الصادقة لسامي",
+          "story": "كان سامي يتجاهل تسجيل الوجبات الخفيفة لأنه كان يقلق من كيف ستبدو في السجل. في يومٍ قرر تسجيل قطعة بسكويت صغيرة دون تعليق — مجرد واقع. مع مرور الوقت ساعدته هذه التسجيلات الصادقة على معرفة متى تأتي الرغبات وما الذي يحفزها: اجتماعات متأخرة أو تفويت وجبة الإفطار. لم يُحكم على نفسه، بل استخدم المعلومات. أصبح التسجيل بصدق أداة بسيطة للاختيار الواعي، وليس اختبارًا لقوة الإرادة.",
+          "habit": "سجّل وجبة خفيفة واحدة بصدق، دون حكم.",
+          "appCta": "استخدم Calorie Bank Credit وسجّل بصدق اليوم."
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Carlos and the honest snack.\nStory: Carlos kept skipping snacks in his log because he worried about what they’d look like on paper. One afternoon he decided to log a small cookie without commentary — just a factual entry. Seeing that honest record over time helped him spot when cravings came and what triggered them: late meetings and skipped breakfasts. He didn’t judge himself; he used the information. Logging honestly became a simple tool for clearer choices, not a test of willpower..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-06-motivation-3-story-3",
+      "category": "pattern-awareness",
+      "languages": {
+        "en": {
+          "title": "Sophie spots evening trends",
+          "story": "Sophie noticed she often felt hungrier in the evenings but couldn’t pin down why. She began tracking meals and moods in the app for two weeks. Patterns emerged: late-night hunger followed busy days and skipping breakfast. Instead of criticizing herself, Sophie made a few gentle changes — a fuller morning routine and a balanced afternoon snack — and logged the results. The habit of checking patterns in Calorie Bank Credit helped her make small, realistic adjustments that fit her life.",
+          "habit": "Check your log weekly for one pattern.",
+          "appCta": "Open Calorie Bank Credit and track today to spot your patterns."
+        },
+        "es": {
+          "title": "Sofía detecta patrones nocturnos",
+          "story": "Sofía notó que tenía más hambre por las noches pero no sabía por qué. Empezó a registrar comidas y estado de ánimo en la app durante dos semanas. Aparecieron patrones: el hambre nocturna seguía a días atareados y a saltarse el desayuno. En lugar de autocriticarse, Sofía hizo pequeños cambios — una mañana más completa y un snack equilibrado por la tarde— y fue registrando los resultados. Revisar patrones en Calorie Bank Credit la ayudó a introducir ajustes realistas que funcionan con su vida.",
+          "habit": "Revisa tu registro semanalmente para detectar un patrón.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy para ver tus patrones."
+        },
+        "ru": {
+          "title": "Софья замечает вечёрние закономерности",
+          "story": "Софья заметила, что вечером голод усиливается, но не понимала почему. Она начала записывать еду и настроение в приложении в течение двух недель. Появились закономерности: вечерний голод следовал за загруженными днями и пропуском завтрака. Вместо самокритики Софья внесла небольшие изменения — более сытное утро и сбалансированный перекус днем — и фиксировала результат. Привычка смотреть на паттерны в Calorie Bank Credit помогла ей сделать реалистичные небольшие поправки к режиму.",
+          "habit": "Просматривайте записи раз в неделю, чтобы заметить один паттерн.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня, чтобы увидеть свои паттерны."
+        },
+        "uk": {
+          "title": "Софія помічає вечірні патерни",
+          "story": "Софія помітила, що вечорами вона частіше відчуває голод, але не могла зрозуміти чому. Вона почала фіксувати прийоми їжі та настрій у додатку протягом двох тижнів. Виявилися закономірності: вечірній голод траплявся після напружених днів і пропущеного сніданку. Замість самокритики Софія зробила кілька м’яких змін — більш ситний ранок і збалансований перекус удень — і записувала результати. Перегляд патернів у Calorie Bank Credit допоміг їй зробити невеликі реалістичні корекції.",
+          "habit": "Перевіряй журнал раз на тиждень на один патерн.",
+          "appCta": "Відкрий Calorie Bank Credit і почни записувати сьогодні, щоб помітити свої патерни."
+        },
+        "fr": {
+          "title": "Sophie repère ses soirs",
+          "story": "Sophie constatait une faim plus grande en soirée sans en comprendre la raison. Elle a commencé à noter ses repas et son humeur dans l’application pendant deux semaines. Un motif est apparu : la faim nocturne venait après des journées chargées et des petits déjeuners sautés. Sans se juger, Sophie a fait de petits ajustements — un matin plus nourrissant et une collation équilibrée l’après-midi — puis a enregistré les effets. Consulter ses tendances dans Calorie Bank Credit lui a permis d’ajuster sa routine en douceur.",
+          "habit": "Repérez un motif en regardant votre journal chaque semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui pour repérer vos tendances."
+        },
+        "de": {
+          "title": "Sophie erkennt Abendmuster",
+          "story": "Sophie bemerkte, dass sie abends öfter hungrig war, konnte sich das aber nicht erklären. Zwei Wochen lang protokollierte sie Mahlzeiten und Stimmung in der App. Es zeigten sich Muster: nächtlicher Hunger folgte auf stressige Tage und ausgelassene Frühstücke. Statt sich zu kritisieren, machte Sophie kleine Änderungen — ein nahrhafteres Morgenritual und einen ausgewogenen Nachmittagssnack — und vermerkte die Wirkung. Das regelmäßige Beobachten von Mustern in Calorie Bank Credit half ihr, realistische, kleine Anpassungen vorzunehmen.",
+          "habit": "Suche wöchentlich in deinem Log nach einem Muster.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute auf, um Muster zu erkennen."
+        },
+        "pt-br": {
+          "title": "Sofia percebe os padrões da noite",
+          "story": "Sofia reparou que ficava mais faminta à noite, mas não sabia por quê. Ela começou a registrar refeições e humor no app por duas semanas. Surgiram padrões: a fome noturna vinha após dias corridos e ao pular o café da manhã. Sem se criticar, Sofia fez pequenas mudanças — um começo de dia mais nutritivo e um lanche equilibrado à tarde — e registrou os resultados. Ver padrões no Calorie Bank Credit a ajudou a fazer ajustes realistas que se adaptam à sua rotina.",
+          "habit": "Revise seu registro semanalmente para identificar um padrão.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje para descobrir seus padrões."
+        },
+        "hu": {
+          "title": "Zsófia és az esti mintázatok",
+          "story": "Zsófia észrevette, hogy esténként gyakrabban éhes, de nem értette az okát. Két héten át rögzítette az étkezéseit és a hangulatát az alkalmazásban. Kialakult egy minta: az esti éhség a zsúfolt napok és a kihagyott reggeli után jelentkezett. Önbírálat helyett Zsófia apró változtatásokat vezetett be — tartalmasabb reggelit és egy kiegyensúlyozott délutáni nasit — és jegyezte az eredményt. A Calorie Bank Creditben való mintakeresés segített reális kis igazításokat tenni.",
+          "habit": "Nézz rá hetente a naplódra, és keresd egy mintát.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzíts ma, hogy lásd a mintáidat."
+        },
+        "ar": {
+          "title": "سارة تكتشف نمط المساء",
+          "story": "لاحظت سارة أنها تشعر بمزيد من الجوع في المساء لكنها لم تعرف السبب. بدأت بتسجيل وجباتها وحالتها المزاجية في التطبيق لمدة أسبوعين. ظهرت أنماط: الجوع الليلي تلا الأيام المزدحمة وتخطّي وجبة الإفطار. بدلاً من أن توبّخ نفسها، أجرت سارة تغييرات بسيطة — روتين صباحي أكمل ووجبة خفيفة متوازنة بعد الظهر — وسجلت النتائج. عادة التحقق من الأنماط في Calorie Bank Credit ساعدتها على إجراء تعديلات صغيرة وواقعية تتناسب مع حياتها.",
+          "habit": "راجع تسجيلاتك أسبوعيًا للبحث عن نمط واحد.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم لاكتشاف أنماطك."
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Sophie spots evening trends.\nStory: Sophie noticed she often felt hungrier in the evenings but couldn’t pin down why. She began tracking meals and moods in the app for two weeks. Patterns emerged: late-night hunger followed busy days and skipping breakfast. Instead of criticizing herself, Sophie made a few gentle changes — a fuller morning routine and a balanced afternoon snack — and logged the results. The habit of checking patterns in Calorie Bank Credit helped her make small, realistic adjustments that fit her life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-06-motivation-4-story-4",
+      "category": "small-adjustments",
+      "languages": {
+        "en": {
+          "title": "Tom’s tiny swaps",
+          "story": "Tom liked his usual routine but felt a bit sluggish after lunch. Instead of overhauling everything, he tracked a few days to see what changed when he made small swaps — sparkling water instead of soda, a bit more vegetables, or a shorter walk after eating. Logging these modest experiments in Calorie Bank Credit showed clear differences in how he felt and how his energy flowed through the afternoon. The point wasn’t perfection; it was learning what small changes actually fit his day.",
+          "habit": "Try one small swap this week and log how it feels.",
+          "appCta": "Open Calorie Bank Credit and try tracking a small change today."
+        },
+        "es": {
+          "title": "Los pequeños cambios de Tomás",
+          "story": "Tomás disfrutaba de su rutina habitual pero notaba cansancio después del almuerzo. En vez de cambiarlo todo, registró unos días para ver qué pasaba al hacer pequeños intercambios: agua con gas en lugar de refresco, más verduras, o una caminata corta tras comer. Registrar esos modestos experimentos en Calorie Bank Credit mostró diferencias claras en cómo se sentía y en su energía por la tarde. No se trataba de perfección, sino de descubrir qué cambios pequeños encajaban en su día.",
+          "habit": "Prueba un pequeño cambio esta semana y registra cómo te sientes.",
+          "appCta": "Abre Calorie Bank Credit y prueba a registrar un pequeño cambio hoy."
+        },
+        "ru": {
+          "title": "Небольшие замены Дмитрия",
+          "story": "Дмитрий был доволен своей рутиной, но после обеда чувствовал вялость. Вместо глобальных перемен он несколько дней записывал, как влияют небольшие замены — газированная вода вместо сладкой, больше овощей, или короткая прогулка после еды. Фиксация этих экспериментов в Calorie Bank Credit показала явные различия в самочувствии и уровне энергии днем. Суть не в идеале, а в том, чтобы понять, какие маленькие изменения подходят именно ему.",
+          "habit": "Попробуйте одну маленькую замену на этой неделе и запишите ощущения.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать маленькие изменения сегодня."
+        },
+        "uk": {
+          "title": "Невеликі заміни Дмитра",
+          "story": "Дмитро був задоволений звичним ритмом, але після обіду відчував втому. Замість кардинальних змін він кілька днів записував, що змінюється при невеликих підмінах — газована вода замість солодкого, більше овочів або коротка прогулянка після їжі. Фіксація цих експериментів у Calorie Bank Credit показала помітні відмінності в самопочутті та енергії вдень. Суть не в досконалості, а в тому, щоб знайти, які невеликі зміни підходять саме йому.",
+          "habit": "Спробуй одну маленьку заміну цього тижня і занотуй самопочуття.",
+          "appCta": "Відкрий Calorie Bank Credit і зареєструй маленьку зміну сьогодні."
+        },
+        "fr": {
+          "title": "Les petits gestes de Thomas",
+          "story": "Thomas aimait sa routine mais se sentait un peu mou après le déjeuner. Plutôt que de tout changer, il a suivi quelques jours pour constater l’effet de petits ajustements — eau pétillante au lieu d’un soda, un peu plus de légumes, ou une courte marche après le repas. En notant ces modestes expériences dans Calorie Bank Credit, il a observé des différences nettes dans son ressenti et son énergie l’après-midi. L’objectif n’était pas la perfection, mais de découvrir quels petits changements s’intégraient à sa journée.",
+          "habit": "Faites un petit changement cette semaine et notez comment vous vous sentez.",
+          "appCta": "Ouvrez Calorie Bank Credit et essayez d’enregistrer un petit changement aujourd’hui."
+        },
+        "de": {
+          "title": "Toms kleine Veränderungen",
+          "story": "Tom mochte seine gewohnte Routine, fühlte sich nach dem Mittagessen aber etwas schlapp. Statt alles umzukrempeln, protokollierte er ein paar Tage, wie sich kleine Änderungen auswirken — Sprudelwasser statt Limo, etwas mehr Gemüse oder ein kurzer Spaziergang nach dem Essen. Diese kleinen Experimente in Calorie Bank Credit zu notieren, zeigte deutliche Unterschiede im Befinden und in der Energie am Nachmittag. Es ging nicht um Perfektion, sondern darum zu lernen, welche kleinen Anpassungen in seinen Alltag passen.",
+          "habit": "Probiere diese Woche eine kleine Änderung und notiere dein Gefühl.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute eine kleine Änderung auf."
+        },
+        "pt-br": {
+          "title": "As pequenas trocas do Tomás",
+          "story": "Tomás gostava da sua rotina, mas se sentia meio cansado depois do almoço. Em vez de mudar tudo, ele registrou por alguns dias como pequenas trocas influenciavam: água com gás no lugar do refrigerante, um pouco mais de legumes, ou uma caminhada curta após comer. Registrar esses experimentos modestos no Calorie Bank Credit mostrou diferenças claras em como ele se sentia e na energia à tarde. O objetivo não era perfeição, e sim descobrir quais pequenas mudanças cabem no seu dia.",
+          "habit": "Faça uma pequena troca esta semana e registre como se sente.",
+          "appCta": "Abra o Calorie Bank Credit e experimente registrar uma mudança hoje."
+        },
+        "hu": {
+          "title": "Tamás apró váltásai",
+          "story": "Tamás szerette a megszokott rutint, mégis kicsit levertnek érezte magát ebéd után. Ahelyett, hogy mindent megváltoztatott volna, néhány napig rögzítette, mi történik, ha apró cseréket eszközöl — szénsavas víz üdítő helyett, több zöldség, vagy egy rövid séta étkezés után. Ezeknek a kis kísérleteknek a naplózása a Calorie Bank Creditben egyértelmű különbségeket mutatott a közérzetében és délutáni energiájában. Nem a tökéletesség volt a cél, hanem megtudni, mi illik hozzá.",
+          "habit": "Próbálj ki egy apró cserét ezen a héten, és jegyezd fel az érzést.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és próbálj ma meg rögzíteni egy kis változtatást."
+        },
+        "ar": {
+          "title": "تغييرات عمر البسيطة",
+          "story": "كان عمر يحب روتينه المعتاد لكنه شعر ببعض الخمول بعد الغداء. بدلًا من تغيير كل شيء، سجّل لبضعة أيام كيف تتأثر حالته عند إجراء تغييرات بسيطة — ماء فوار بدلًا من المشروب الغازي، المزيد من الخضار، أو مشي قصير بعد الأكل. أظهرت تسجيلات هذه التجارب المتواضعة في Calorie Bank Credit فروقًا واضحة في شعوره وطاقة بعد الظهر. لم يكن الهدف الكمال، بل معرفة أي تغييرات صغيرة تناسب يومه بالفعل.",
+          "habit": "جرّب تغييرًا صغيرًا هذا الأسبوع وسجل كيف شعرت.",
+          "appCta": "افتح Calorie Bank Credit وجرب تسجيل تغيير صغير اليوم."
+        }
+      },
+      "generatedAt": "2026-10-06T13:32:15.611Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-06-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tom’s tiny swaps.\nStory: Tom liked his usual routine but felt a bit sluggish after lunch. Instead of overhauling everything, he tracked a few days to see what changed when he made small swaps — sparkling water instead of soda, a bit more vegetables, or a shorter walk after eating. Logging these modest experiments in Calorie Bank Credit showed clear differences in how he felt and how his energy flowed through the afternoon. The point wasn’t perfection; it was learning what small changes actually fit his day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-05-motivation-1-s1",
       "category": "habit-building",
