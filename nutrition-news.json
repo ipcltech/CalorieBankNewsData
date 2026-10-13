@@ -1,122 +1,862 @@
 {
-  "generatedAt": "2026-10-12T15:47:44.738Z",
+  "generatedAt": "2026-10-13T14:26:42.840Z",
   "sourceCount": 21,
   "articles": [
     {
-      "id": "article-7",
-      "category": "nutrition",
+      "id": "nutritionbmj-2026-environmental-footprint",
+      "category": "sustainability",
       "sourceName": "nutrition.bmj.com",
       "sourceUrl": "http://nutrition.bmj.com/cgi/content/short/9/1/247?rss=1",
       "sourceTitle": "Environmental footprint of a low-fat vegan diet and Mediterranean diet: a secondary analysis of a randomised clinical trial",
       "publishedAt": null,
       "languages": {
         "en": {
-          "title": "Trial analysis compares environmental impacts of low‑fat vegan and Mediterranean diets",
-          "summary": "A secondary analysis from a randomized, crossover clinical trial with 62 overweight adults calculated greenhouse gas emissions and cumulative energy demand for 16‑week periods on low‑fat vegan versus Mediterranean diets. The study examined environmental metrics for two plant‑forward dietary patterns to compare their ecological footprints.",
-          "whyItMatters": "Dietary choices affect environmental outcomes as well as health. Trial‑based comparisons of realistic diet patterns provide evidence to inform sustainable eating recommendations and policy discussions.",
+          "title": "Environmental impact compared for low‑fat vegan vs Mediterranean diets",
+          "summary": "A secondary analysis of a randomized crossover trial with 62 overweight adults compared greenhouse gas emissions and energy demand for 16-week periods on low‑fat vegan versus Mediterranean diets. Dietary records were used to estimate environmental footprints of the two plant-forward eating patterns.",
+          "whyItMatters": "Direct comparisons from a randomized dietary trial add experimental context to discussions about diet sustainability and health co-benefits.",
           "takeaways": [
-            "The crossover trial design had each participant follow both diets, allowing direct within‑person comparisons.",
-            "Researchers quantified greenhouse gas emissions and cumulative energy demand for dietary intake recorded during the trial.",
-            "Both diets are plant‑forward, but the analysis aimed to identify differences in environmental footprint between them.",
-            "Such data can help align nutritional guidance with sustainability goals, though broader factors (production systems, food sourcing) also matter."
+            "Study used a randomized, crossover design to compare environmental metrics for two diets over controlled periods",
+            "Analyses relied on 3-day dietary records and modeled greenhouse gas emissions and energy demand",
+            "Results inform discussions on sustainable diet choices but reflect the study's sample and modeling assumptions"
           ]
         },
         "es": {
-          "title": "Análisis de ensayo compara impactos ambientales de dietas vegana baja en grasa y mediterránea",
-          "summary": "Un análisis secundario de un ensayo clínico aleatorizado cruzado con 62 adultos con sobrepeso calculó las emisiones de gases de efecto invernadero y la demanda energética acumulada durante periodos de 16 semanas con dietas vegana baja en grasa frente a mediterránea. El estudio examinó métricas ambientales de dos patrones dietarios con predominio vegetal para comparar sus huellas ecológicas.",
-          "whyItMatters": "Las elecciones dietarias afectan tanto a resultados ambientales como a la salud. Las comparaciones basadas en ensayos de patrones dietarios realistas aportan evidencia para orientar recomendaciones de alimentación sostenible y debates de política.",
+          "title": "Impacto ambiental comparado de dietas vegana baja en grasa vs mediterránea",
+          "summary": "Un análisis secundario de un ensayo aleatorizado cruzado con 62 adultos con sobrepeso comparó las emisiones de gases de efecto invernadero y la demanda energética durante periodos de 16 semanas en dietas vegana baja en grasa frente a mediterránea. Se utilizaron registros dietéticos de 3 días para estimar las huellas ambientales de los dos patrones alimentarios predominantemente basados en plantas.",
+          "whyItMatters": "Comparaciones directas en un ensayo dietético aleatorizado aportan un contexto experimental a las discusiones sobre sostenibilidad dietaria y posibles co‑beneficios para la salud.",
           "takeaways": [
-            "El diseño cruzado del ensayo hizo que cada participante siguiera ambas dietas, permitiendo comparaciones directas dentro de la misma persona.",
-            "Los investigadores cuantificaron emisiones de gases de efecto invernadero y la demanda energética acumulada para la ingesta dietaria registrada durante el ensayo.",
-            "Ambas dietas son con predominio vegetal, pero el análisis pretendía identificar diferencias en la huella ambiental entre ellas.",
-            "Estos datos pueden ayudar a alinear la orientación nutricional con objetivos de sostenibilidad, aunque también importan factores más amplios (sistemas de producción, origen de los alimentos)."
+            "El estudio utilizó un diseño aleatorizado cruzado para comparar métricas ambientales de dos dietas durante periodos controlados",
+            "Los análisis se basaron en registros dietéticos de 3 días y en modelos de emisiones de gases de efecto invernadero y demanda energética",
+            "Los resultados informan discusiones sobre elecciones dietarias sostenibles, pero reflejan la muestra y los supuestos del modelado del estudio"
           ]
         },
         "ru": {
-          "title": "Анализ в рамках испытания сравнивает экологические последствия низкожировой веганской и средиземноморской диет",
-          "summary": "Вторичный анализ рандомизированного перекрёстного клинического испытания с 62 взрослыми с избыточным весом рассчитал выбросы парниковых газов и кумулятивную энергетическую потребность за 16‑недельные периоды на низкожировой веганской и средиземноморской диетах. Исследование оценивало экологические показатели двух растительно‑ориентированных моделей питания, чтобы сравнить их экологический след.",
-          "whyItMatters": "Выбор диеты влияет не только на здоровье, но и на окружающую среду. Сравнения реальных диет на основе данных испытаний дают доказательства, которые можно использовать при формировании рекомендаций по устойчивому питанию и при обсуждении политики.",
+          "title": "Сравнение экологического воздействия низкожировой веганской и средиземноморской диет",
+          "summary": "Вторичный анализ рандомизированного перекрёстного исследования с участием 62 взрослых с избыточным весом сравнил выбросы парниковых газов и потребление энергии за 16‑недельные периоды при соблюдении низкожировой веганской и средиземноморской диет. Для оценки экологических следов двух преимущественно растительных режимов питания использовались 3‑дневные пищевые записи.",
+          "whyItMatters": "Прямые сравнения в рамках рандомизированного пищевого исследования добавляют экспериментальный контекст в дискуссии о устойчивости диет и возможных сопутствующих преимуществах для здоровья.",
           "takeaways": [
-            "Перекрёстный дизайн испытания позволил каждому участнику придерживаться обеих диет, что обеспечивает прямые внутриклинические сравнения.",
-            "Исследователи количественно оценили выбросы парниковых газов и кумулятивную энергетическую потребность по данным о потреблении в ходе испытания.",
-            "Обе диеты — с акцентом на растительную пищу, но анализ направлен на выявление различий в экологическом следе между ними.",
-            "Такие данные помогают сочетать рекомендации по питанию с целями устойчивости, хотя важны и более широкие факторы (системы производства, источник продуктов)."
+            "Исследование использовало рандомизированный перекрёстный дизайн для сравнения экологических показателей двух диет за контролируемые периоды",
+            "Анализы опирались на 3‑дневные пищевые записи и моделирование выбросов парниковых газов и энергопотребления",
+            "Результаты служат материалом для обсуждения устойчивого выбора диет, но отражают выборку и предположения моделирования исследования"
           ]
         },
         "uk": {
-          "title": "Аналіз випробування порівнює екологічні наслідки низькожирової веганської та середземноморської дієт",
-          "summary": "Вторинний аналіз рандомізованого кросовер‑кліничного дослідження з 62 дорослими із надлишковою вагою оцінив викиди парникових газів і кумулятивне енергоспоживання за 16‑тижневі періоди на низькожировій веганській та на середземноморській дієтах. Дослідження розглядало екологічні показники для двох рослина‑орієнтованих моделей харчування, щоб порівняти їхній екологічний слід.",
-          "whyItMatters": "Дієтичний вибір впливає не лише на здоровʼя, а й на навколишнє середовище. Порівняння реалістичних моделей харчування на основі даних клінічних випробувань надає докази, які можуть інформувати рекомендації щодо сталого харчування та політичні дискусії.",
+          "title": "Порівняння впливу на довкілля: низькожирна веганська дієта проти середземноморської",
+          "summary": "Вторинний аналіз рандомізованого кросоверного дослідження з 62 дорослими з надмірною вагою порівняв викиди парникових газів і енергетичний попит під час 16‑тижневих періодів на низькожирній веганській та середземноморській дієтах. Харчові щоденники використовувалися для оцінки екологічного сліду двох рослинно‑орієнтованих раціонів.",
+          "whyItMatters": "Прямі порівняння з рандомізованого дієтичного дослідження додають експериментального контексту до дискусій про стійкість дієт і потенційні співвигоди для здоров'я.",
           "takeaways": [
-            "Дизайн кросовер‑дослідження дозволив кожному учаснику дотримуватися обох дієт, що дає можливість для прямих порівнянь у межах однієї особи.",
-            "Дослідники кількісно оцінили викиди парникових газів і кумулятивне енергоспоживання за харчування, зафіксоване під час випробування.",
-            "Обидві дієти орієнтовані на рослинну їжу, але аналіз прагнув виявити відмінності в їхньому екологічному впливі.",
-            "Такі дані можуть допомогти узгодити харчові рекомендації зі цілями сталого розвитку, хоча важливі й інші фактори (системи виробництва, джерела постачання їжі)."
+            "Дослідження використовувало рандомізований кросоверний дизайн для порівняння екологічних метрик двох дієт протягом контрольованих періодів",
+            "Аналізи базувалися на 3‑денних харчових записах і моделювали викиди парникових газів та енергетичний попит",
+            "Результати інформують дискусії про сталий вибір харчування, але відображають вибірку дослідження та припущення моделювання"
           ]
         },
         "fr": {
-          "title": "Analyse d’un essai compare les impacts environnementaux des régimes vegan pauvre en matières grasses et méditerranéen",
-          "summary": "Une analyse secondaire d’un essai clinique randomisé en crossover incluant 62 adultes en surpoids a calculé les émissions de gaz à effet de serre et la demande énergétique cumulée pour des périodes de 16 semaines sous régime vegan pauvre en graisses versus régime méditerranéen. L’étude a examiné des indicateurs environnementaux pour deux modèles alimentaires axés sur les végétaux afin de comparer leur empreinte écologique.",
-          "whyItMatters": "Les choix alimentaires affectent à la fois l’environnement et la santé. Les comparaisons basées sur des essais fournissent des éléments probants pour informer des recommandations sur une alimentation durable et les discussions politiques.",
+          "title": "Impact environnemental comparé pour un régime vegan pauvre en graisses vs régime méditerranéen",
+          "summary": "Une analyse secondaire d'un essai randomisé en crossover portant sur 62 adultes en surpoids a comparé les émissions de gaz à effet de serre et la demande énergétique pendant des périodes de 16 semaines sur des régimes vegan pauvre en graisses versus méditerranéen. Des journaux alimentaires ont été utilisés pour estimer l'empreinte environnementale de ces deux modèles alimentaires à base végétale.",
+          "whyItMatters": "Des comparaisons directes issues d'un essai alimentaire randomisé apportent un contexte expérimental aux discussions sur la durabilité des régimes et les co‑bénéfices pour la santé.",
           "takeaways": [
-            "Le dessin en crossover a permis à chaque participant de suivre les deux régimes, autorisant des comparaisons directes intra‑personnes.",
-            "Les chercheurs ont quantifié les émissions de gaz à effet de serre et la demande énergétique cumulée pour les apports alimentaires enregistrés pendant l’essai.",
-            "Les deux régimes sont axés sur les végétaux, mais l’analyse visait à identifier des différences d’empreinte environnementale entre eux.",
-            "Ces données peuvent aider à aligner les recommandations nutritionnelles sur des objectifs de durabilité, bien que d’autres facteurs (systèmes de production, approvisionnement) comptent aussi."
+            "L'étude a utilisé un design randomisé en crossover pour comparer des métriques environnementales de deux régimes sur des périodes contrôlées",
+            "Les analyses s'appuyaient sur des enregistrements alimentaires de 3 jours et sur une modélisation des émissions de gaz à effet de serre et de la demande énergétique",
+            "Les résultats alimentent les discussions sur les choix alimentaires durables mais reflètent l'échantillon de l'étude et les hypothèses de modélisation"
           ]
         },
         "de": {
-          "title": "Analysestudie vergleicht Umwelteinflüsse von fettarmer veganer und mediterraner Ernährung",
-          "summary": "Eine Sekundäranalyse einer randomisierten Crossover‑Klinikstudie mit 62 übergewichtigen Erwachsenen berechnete Treibhausgasemissionen und kumulative Energiebedarfe für 16‑wöchige Perioden mit einer fettarmen veganen bzw. einer mediterranen Ernährung. Die Studie untersuchte Umweltkennzahlen für zwei pflanzenbetonte Ernährungsweisen, um deren ökologische Fußabdrücke zu vergleichen.",
-          "whyItMatters": "Ernährungsentscheidungen beeinflussen sowohl Umweltergebnisse als auch die Gesundheit. Trial‑basierte Vergleiche realistischer Ernährungsweisen liefern Evidenz, die nachhaltige Ernährungsempfehlungen und politische Diskussionen informieren kann.",
+          "title": "Umweltauswirkungen im Vergleich: fettarme vegane versus Mittelmeerdiät",
+          "summary": "Eine Sekundäranalyse einer randomisierten Crossover‑Studie mit 62 übergewichtigen Erwachsenen verglich Treibhausgasemissionen und Energiebedarf für 16‑wöchige Perioden auf einer fettarmen veganen und einer Mittelmeerdiät. Ernährungsprotokolle wurden verwendet, um die Umweltfußabdrücke der beiden pflanzenbetonten Essmuster abzuschätzen.",
+          "whyItMatters": "Direkte Vergleiche aus einer randomisierten Ernährungsstudie liefern experimentellen Kontext für Debatten über Nachhaltigkeit von Ernährungsweisen und mögliche gesundheitliche Co‑Nutzen.",
           "takeaways": [
-            "Das Crossover‑Design ließ jeden Teilnehmer beide Diäten durchlaufen, wodurch direkte Vergleiche innerhalb der Person möglich waren.",
-            "Forscher quantifizierten Treibhausgasemissionen und kumulative Energiebedarfe für die während der Studie erfasste Nahrungsaufnahme.",
-            "Beide Diäten sind pflanzenbetont, doch die Analyse zielte darauf ab, Unterschiede im ökologischen Fußabdruck zu identifizieren.",
-            "Solche Daten können helfen, Ernährungsleitlinien mit Nachhaltigkeitszielen in Einklang zu bringen, wobei auch breitere Faktoren (Produktionssysteme, Lebensmittelherkunft) eine Rolle spielen."
+            "Studie nutzte ein randomisiertes Crossover‑Design, um Umweltmetriken für zwei Diäten über kontrollierte Perioden zu vergleichen",
+            "Analysen basierten auf 3‑Tage‑Ernährungsprotokollen und modellierten Treibhausgasemissionen sowie Energiebedarf",
+            "Ergebnisse liefern Input für Diskussionen zu nachhaltigen Ernährungsentscheidungen, spiegeln aber die Stichprobe und Modellannahmen der Studie wider"
           ]
         },
         "pt-br": {
-          "title": "Análise de ensaio compara impactos ambientais de dietas vegana com baixo teor de gordura e mediterrânea",
-          "summary": "Uma análise secundária de um ensaio clínico randomizado crossover com 62 adultos com sobrepeso calculou emissões de gases de efeito estufa e demanda energética acumulada para períodos de 16 semanas em dietas vegana com baixo teor de gordura versus mediterrânea. O estudo examinou métricas ambientais para dois padrões alimentares voltados a vegetais para comparar suas pegadas ecológicas.",
-          "whyItMatters": "Escolhas alimentares afetam resultados ambientais além da saúde. Comparações baseadas em ensaios de padrões dietéticos realistas fornecem evidências que podem informar recomendações de alimentação sustentável e discussões de políticas.",
+          "title": "Impacto ambiental comparado entre dieta vegana com baixo teor de gordura e dieta mediterrânea",
+          "summary": "Uma análise secundária de um ensaio randomizado cruzado com 62 adultos com sobrepeso comparou emissões de gases de efeito estufa e demanda de energia durante períodos de 16 semanas em dietas vegana com baixo teor de gordura versus mediterrânea. Registros alimentares foram usados para estimar as pegadas ambientais desses dois padrões alimentares com foco em plantas.",
+          "whyItMatters": "Comparações diretas a partir de um ensaio dietético randomizado adicionam contexto experimental às discussões sobre sustentabilidade das dietas e co‑benefícios para a saúde.",
           "takeaways": [
-            "O desenho crossover fez com que cada participante seguisse ambas as dietas, permitindo comparações diretas intraindividuais.",
-            "Os pesquisadores quantificaram emissões de gases de efeito estufa e demanda energética acumulada para a ingestão registrada durante o ensaio.",
-            "Ambas as dietas são baseadas em vegetais, mas a análise buscou identificar diferenças na pegada ambiental entre elas.",
-            "Esses dados podem ajudar a alinhar orientações nutricionais com metas de sustentabilidade, embora fatores mais amplos (sistemas de produção, origem dos alimentos) também importem."
+            "Estudo usou desenho randomizado cruzado para comparar métricas ambientais de duas dietas ao longo de períodos controlados",
+            "Análises se basearam em registros alimentares de 3 dias e modelaram emissões de gases de efeito estufa e demanda de energia",
+            "Resultados informam discussões sobre escolhas dietéticas sustentáveis, mas refletem a amostra do estudo e suposições do modelo"
           ]
         },
         "hu": {
-          "title": "Vizsgálatelemzés: a környezeti hatásokat hasonlították össze alacsony zsírtartalmú vegán és mediterrán étrend esetén",
-          "summary": "Egy randomizált, keresztmetszeti (crossover) klinikai vizsgálat másodlagos elemzése 62 túlsúlyos felnőtt részvételével kiszámította az üvegházhatású gázkibocsátást és a kumulatív energiaigényt 16‑hetes időszakokra vonatkozóan, amikor a résztvevők alacsony zsírtartalmú vegán illetve mediterrán étrendet követtek. A tanulmány két növényekre épülő étrendi minta környezeti mutatóit vizsgálta az ökológiai lábnyom összehasonlításához.",
-          "whyItMatters": "Az étrendi választások hatással vannak a környezeti kimenetekre éppúgy, mint az egészségre. A valódi étrendmintákra épülő vizsgálati összehasonlítások bizonyítékot szolgáltathatnak a fenntartható étkezési ajánlások és a politikai viták számára.",
+          "title": "Alacsony zsírtartalmú vegán és mediterrán étrend környezeti hatásának összehasonlítása",
+          "summary": "Egy randomizált, keresztváltásos vizsgálat másodlagos elemzése 62 túlsúlyos felnőttnél azt hasonlította össze, hogy a 16‑hetes időszakok alatt az alacsony zsírtartalmú vegán és a mediterrán étrend milyen üvegházhatású gázkibocsátást és energiaigényt eredményez. A diétákról vezetett étkezési feljegyzéseket használták a két növényközpontú étkezési minta környezeti lábnyomának becslésére.",
+          "whyItMatters": "Egy randomizált étrendi vizsgálatból származó közvetlen összehasonlítás kísérleti kontextust ad az étrendfenntarthatóság és az egészség szinergiáiról folytatott vitának.",
           "takeaways": [
-            "A crossover tervezés lehetővé tette, hogy minden résztvevő mindkét étrendet kövesse, ami közvetlen személyen belüli összehasonlítást tett lehetővé.",
-            "A kutatók kvantifikálták az üvegházhatású gázkibocsátást és a kumulatív energiaigényt a vizsgálat során rögzített étrendi bevitel alapján.",
-            "Mindkét étrend növényközpontú volt, de az elemzés célja a környezeti lábnyomok közötti különbségek azonosítása volt.",
-            "Az ilyen adatok segíthetnek összehangolni a táplálkozási iránymutatásokat a fenntarthatósági célokkal, bár a szélesebb tényezők (termelési rendszerek, élelmiszerforrások) is számítanak."
+            "A tanulmány randomizált, keresztváltásos tervet használt két étrend környezeti mutatóinak összehasonlítására szabályozott időszakok alatt",
+            "Az elemzések 3 napos étrendi feljegyzéseken alapultak, és modellezték az üvegházhatású gázkibocsátást és az energiaigényt",
+            "Az eredmények tájékoztatják a fenntartható étrendválasztásról folytatott vitát, de a tanulmány mintáját és modellezési feltételezéseit tükrözik"
           ]
         },
         "ar": {
-          "title": "تحليل تجربة يقارن الآثار البيئية للنظام النباتي منخفض الدهون والنظام المتوسطي",
-          "summary": "أجرى تحليل ثانوي من تجربة سريرية عشوائية متقاطعة شملت 62 بالغًا زائد الوزن حسابات لانبعاثات غازات الدفيئة ومجموع الطلب الطاقي لفترات مدتها 16 أسبوعًا عند اتباع نظم غذائية نباتية منخفضة الدهون مقابل نظام متوسطي. درست الدراسة مقاييس بيئية لنمطي تغذية نباتيين إلى حد كبير لمقارنة بصمتهما البيئية.",
-          "whyItMatters": "تؤثر خيارات النظام الغذائي على النتائج البيئية وكذلك على الصحة. توفر المقارنات المبنية على تجارب لِقَطاعات غذائية واقعية أدلة يمكن أن تُستخدم في توجيه توصيات الأكل المستدام والسياسات.",
+          "title": "مقارنة الأثر البيئي لنظام نباتي منخفض الدهن مقابل الحمية المتوسطية",
+          "summary": "تحليل ثانوي لتجربة عشوائية متقاطعة شمل 62 بالغًا يعانون من زيادة الوزن قارن انبعاثات غازات الاحتباس الحراري وطلب الطاقة خلال فترات مدتها 16 أسبوعًا على أنظمة غذائية نباتية منخفضة الدهن مقابل حمية متوسطية. استُخدمت سجلات غذائية لتقدير البصمات البيئية لنمطَي الأكل النباتي المائل للنبات.",
+          "whyItMatters": "المقارنات المباشرة من تجربة غذائية عشوائية تضيف سياقًا تجريبيًا للنقاشات حول استدامة النظام الغذائي والتوافقات المحتملة مع الصحة.",
           "takeaways": [
-            "سمح تصميم التجربة المتقاطعة لكل مشارك باتباع كلا النظامين، مما مكّن من مقارنات مباشرة داخل الشخص.",
-            "قام الباحثون بتكمية انبعاثات غازات الدفيئة ومجموع الطلب الطاقي بناءً على السجلات الغذائية خلال التجربة.",
-            "كلا النظامين كانا植物محورين، لكن التحليل هدف إلى تحديد اختلافات البصمة البيئية بينهما.",
-            "يمكن أن تساعد هذه البيانات في مواءمة إرشادات التغذية مع أهداف الاستدامة، مع الإشارة إلى أن عوامل أوسع (أنظمة الإنتاج، مصدر الغذاء) مهمة أيضًا."
+            "استخدمت الدراسة تصميمًا عشوائيًا متقاطعًا لمقارنة مقاييس بيئية لنظامين غذائيين خلال فترات محكومة",
+            "استندت التحليلات إلى سجلات غذائية لمدة 3 أيام ونمذجة لانبعاثات غازات الاحتباس الحراري وطلب الطاقة",
+            "النتائج تُثري النقاش حول الاختيارات الغذائية المستدامة لكنها تعكس عينة الدراسة وافتراضات النمذجة"
           ]
         }
       },
-      "generatedAt": "2026-10-12T15:47:44.738Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article-7",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-7-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-7-news.webp",
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nutritionbmj-2026-environmental-footprint",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionbmj-2026-environmental-footprint-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nutritionbmj-2026-environmental-footprint-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial analysis compares environmental impacts of low‑fat vegan and Mediterranean diets.\nStory summary: A secondary analysis from a randomized, crossover clinical trial with 62 overweight adults calculated greenhouse gas emissions and cumulative energy demand for 16‑week periods on low‑fat vegan versus Mediterranean diets. The study examined environmental metrics for two plant‑forward dietary patterns to compare their ecological footprints..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Environmental impact compared for low‑fat vegan vs Mediterranean diets.\nStory summary: A secondary analysis of a randomized crossover trial with 62 overweight adults compared greenhouse gas emissions and energy demand for 16-week periods on low‑fat vegan versus Mediterranean diets. Dietary records were used to estimate environmental footprints of the two plant-forward eating patterns..\nCategory: sustainability.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "nature-2026-10-09-naive-tcell",
+      "category": "healthy aging",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01239-3",
+      "sourceTitle": "Naive T cell decline limits cancer immunity in middle-aged male mice",
+      "publishedAt": null,
+      "languages": {
+        "en": {
+          "title": "Loss of naive CD8+ T cells reduces cancer immunity in middle-aged male mice",
+          "summary": "A study published in Nature Aging reports that middle-aged male mice experience accelerated loss of naive CD8+ T cells, causing lymph node contraction and reduced recognition of cancer antigens. The team showed that restoring thymic output replenished naive T cells and improved responses to immunotherapy in these mice, with supporting human data described.",
+          "whyItMatters": "The findings highlight immune aging mechanisms that may influence cancer immunity and immunotherapy responses, and suggest thymic restoration as a research avenue.",
+          "takeaways": [
+            "Work used mouse models with supporting human data to show sex‑biased loss of naive CD8+ T cells with age",
+            "Restoring thymic output in mice improved naive T cell numbers and immunotherapy responses",
+            "Translational relevance will require further study in humans and safety evaluation of thymic‑targeted strategies"
+          ]
+        },
+        "es": {
+          "title": "Pérdida de linfocitos T CD8+ naïve reduce la inmunidad contra el cáncer en ratones machos de mediana edad",
+          "summary": "Un estudio publicado en Nature Aging informa que ratones machos de mediana edad sufren una pérdida acelerada de linfocitos T CD8+ naïve, provocando contracción de ganglios linfáticos y menor reconocimiento de antígenos tumorales. El equipo mostró que restaurar la producción tímica reabasteció células T naïve y mejoró las respuestas a la inmunoterapia en estos ratones, con datos humanos de apoyo descritos.",
+          "whyItMatters": "Los hallazgos resaltan mecanismos de envejecimiento inmunitario que pueden influir en la inmunidad antitumoral y en las respuestas a la inmunoterapia, y sugieren la restauración tímica como una vía de investigación.",
+          "takeaways": [
+            "El trabajo utilizó modelos de ratón con datos humanos complementarios para mostrar pérdida sesgada por sexo de linfocitos T CD8+ naïve con la edad",
+            "Restaurar la producción tímica en ratones aumentó el número de células T naïve y mejoró las respuestas a inmunoterapia",
+            "La relevancia traslacional requerirá más estudio en humanos y evaluación de seguridad de las estrategias dirigidas al timo"
+          ]
+        },
+        "ru": {
+          "title": "Потеря наивных CD8+ T‑клеток снижает противоопухолевый иммунитет у самцов мышей среднего возраста",
+          "summary": "В исследовании, опубликованном в Nature Aging, сообщается, что у самцов мышей среднего возраста происходит ускоренная потеря наивных CD8+ T‑клеток, что приводит к сокращению лимфатических узлов и снижению распознавания опухолевых антигенов. Авторы показали, что восстановление тимической продукции пополнило запас наивных Т‑клеток и улучшило ответы на иммунотерапию у этих мышей; также описаны сопутствующие данные у людей.",
+          "whyItMatters": "Результаты подчёркивают механизмы старения иммунной системы, которые могут влиять на противоопухолевый иммунитет и ответы на иммунотерапию, и предлагают восстановление функции тимуса как направление для исследований.",
+          "takeaways": [
+            "Работа использовала модели на мышах и подтверждающие данные у людей, чтобы показать половую предрасположенность к потере наивных CD8+ T‑клеток с возрастом",
+            "Восстановление тимической продукции у мышей увеличивало число наивных Т‑клеток и улучшало ответы на иммунотерапию",
+            "Трансляционная значимость требует дальнейших исследований на людях и оценки безопасности тимус‑ориентированных стратегий"
+          ]
+        },
+        "uk": {
+          "title": "Втрата наївних CD8+ Т‑клітин знижує імунітет проти раку у мишей середнього віку чоловічої статі",
+          "summary": "Дослідження, опубліковане в Nature Aging, показує, що у мишей чоловічої статі середнього віку прискорено зникають наївні CD8+ Т‑клітини, що призводить до скорочення лімфовузлів і зниження розпізнавання ракових антигенів. Команда показала, що відновлення продукції з вилочкової залози (тимуса) поповнювало наївні Т‑клітини й покращувало відповіді на імунотерапію в цих мишей; наведено також підтримуючі дані у людей.",
+          "whyItMatters": "Ці знахідки висвітлюють механізми імунного старіння, які можуть впливати на імунітет проти раку та відповіді на імунотерапію, і вказують на відновлення тимуса як напрямок для досліджень.",
+          "takeaways": [
+            "Робота використала моделі з мишами та підтримуючі дані у людей для показу віково‑залежної втрати наївних CD8+ Т‑клітин із відмінностями за статтю",
+            "Відновлення виходу Т‑клітин з тимуса у мишей збільшувало число наївних Т‑клітин та покращувало відповіді на імунотерапію",
+            "Трансляційна релевантність потребує додаткових досліджень у людей та оцінки безпеки стратегій, спрямованих на тимус"
+          ]
+        },
+        "fr": {
+          "title": "La perte de cellules T CD8+ naïves réduit l'immunité anticancéreuse chez des souris mâles d'âge moyen",
+          "summary": "Une étude publiée dans Nature Aging rapporte que les souris mâles d'âge moyen subissent une perte accélérée de cellules T CD8+ naïves, entraînant une contraction des ganglions lymphatiques et une réduction de la reconnaissance des antigènes tumoraux. L'équipe a montré que la restauration de la production thymique réapprovisionnait les cellules T naïves et améliorait les réponses à l'immunothérapie chez ces souris, avec des données humaines de soutien décrites.",
+          "whyItMatters": "Les résultats mettent en lumière des mécanismes du vieillissement immunitaire susceptibles d'influencer l'immunité anticancéreuse et les réponses à l'immunothérapie, et suggèrent la restauration thymique comme piste de recherche.",
+          "takeaways": [
+            "Le travail a utilisé des modèles murins avec des données humaines de soutien pour montrer une perte biaisée selon le sexe des cellules T CD8+ naïves avec l'âge",
+            "La restauration de la production thymique chez la souris a augmenté le nombre de cellules T naïves et amélioré les réponses à l'immunothérapie",
+            "La pertinence translationnelle nécessitera des études supplémentaires chez l'humain et une évaluation de la sécurité des stratégies ciblant le thymus"
+          ]
+        },
+        "de": {
+          "title": "Verlust naiver CD8+-T‑Zellen reduziert Krebsimmunität bei mittelalten männlichen Mäusen",
+          "summary": "Eine in Nature Aging veröffentlichte Studie berichtet, dass mittelalte männliche Mäuse einen beschleunigten Verlust naiver CD8+-T‑Zellen erfahren, was zur Kontraktion von Lymphknoten und einer verminderten Erkennung von Krebsantigenen führt. Das Team zeigte, dass die Wiederherstellung der thymischen Produktion naiver T‑Zellen diese Zellen auffüllen und die Reaktion auf Immuntherapie bei diesen Mäusen verbessern konnte; unterstützende Daten beim Menschen werden ebenfalls beschrieben.",
+          "whyItMatters": "Die Ergebnisse heben Mechanismen der Immunalterung hervor, die Krebsimmunität und Ansprechen auf Immuntherapien beeinflussen könnten, und deuten auf die Wiederherstellung der Thymusfunktion als Forschungsrichtung hin.",
+          "takeaways": [
+            "Arbeit nutzte Mausmodelle mit unterstützenden Humanbefunden, um einen geschlechts‑biasierten Verlust naiver CD8+-T‑Zellen mit dem Alter zu zeigen",
+            "Die Wiederherstellung der thymischen Produktion in Mäusen verbesserte Zahlen naiver T‑Zellen und Immuntherapieansprechen",
+            "Die Übertragbarkeit auf Menschen erfordert weitere Studien und Sicherheitsbewertungen thymus‑gerichteter Strategien"
+          ]
+        },
+        "pt-br": {
+          "title": "Perda de células T CD8+ naïvas reduz imunidade antitumoral em camundongos machos de meia‑idade",
+          "summary": "Um estudo publicado em Nature Aging relata que camundongos machos de meia‑idade apresentam perda acelerada de células T CD8+ naïvas, causando contração de linfonodos e redução no reconhecimento de antígenos tumorais. A equipe demonstrou que restaurar a produção tímica reabasteceu as células T naïvas e melhorou respostas à imunoterapia nesses animais, com dados de apoio em humanos descritos também.",
+          "whyItMatters": "Os achados destacam mecanismos do envelhecimento imune que podem influenciar a imunidade contra o câncer e as respostas a imunoterapias, e sugerem a restauração tímica como uma via de pesquisa.",
+          "takeaways": [
+            "Trabalho utilizou modelos murinos com dados humanos de apoio para mostrar perda sex‑biased de células T CD8+ naïvas com a idade",
+            "Restaurar a produção tímica em camundongos aumentou o número de células T naïvas e melhorou respostas à imunoterapia",
+            "Relevância translacional em humanos exigirá estudos adicionais e avaliação de segurança de estratégias dirigidas ao timo"
+          ]
+        },
+        "hu": {
+          "title": "Naív CD8+ T‑sejtek elvesztése csökkenti a rák elleni immunitást középkorú hím egerekben",
+          "summary": "A Nature Agingben közölt vizsgálat szerint a középkorú hím egerek gyorsítottan vesztik el a naív CD8+ T‑sejteket, ami a nyirokcsomók összehúzódásához és a daganatantigének csökkent felismeréséhez vezet. A csapat megmutatta, hogy a tímusz kimenetének helyreállítása pótolta a naív T‑sejteket és javította az immunterápiás válaszokat ezekben az egerekben; kiegészítő emberi adatok is szerepelnek a tanulmányban.",
+          "whyItMatters": "Az eredmények rávilágítanak az immunrendszer öregedésének azon mechanizmusaira, amelyek befolyásolhatják a rák elleni immunitást és az immunterápiás válaszokat, és a tímusz helyreállítását kutatási irányként említik.",
+          "takeaways": [
+            "A munka egérmodelleket és kiegészítő emberi adatokat használt, hogy nemi eltolódást mutasson a naív CD8+ T‑sejtek életkorral járó csökkenésében",
+            "A tímusz kimenetének helyreállítása egerekben javította a naív T‑sejtszámot és az immunterápiás válaszokat",
+            "A transzlációs jelentőség igazolása emberben további vizsgálatot és a tímuszra célzott stratégiák biztonsági értékelését igényli"
+          ]
+        },
+        "ar": {
+          "title": "فقدان الخلايا التائية CD8+ الأولية يقلل من مناعة السرطان لدى الفئران الذكور في منتصف العمر",
+          "summary": "تقرير في Nature Aging يفيد أن الفئران الذكور في منتصف العمر تختبر فقدانًا متسارعًا للخلايا التائية الأولية CD8+، مما يؤدي إلى تقلص العقد اللمفاوية وانخفاض التعرف على مستضدات السرطان. أظهر الفريق أن استعادة إنتاجية الغدة الصعترية (الтимус) أعادت الخلايا التائية الأولية وحسّنت الاستجابة للعلاج المناعي في هذه الفئران، كما وُصفت بيانات داعمة من الإنسان.",
+          "whyItMatters": "تسلط النتائج الضوء على آليات شيخوخة الجهاز المناعي التي قد تؤثر على مناعة السرطان واستجابات العلاجات المناعية، وتقترح استعادة عمل الغدة الصعترية كمسار بحثي.",
+          "takeaways": [
+            "استخدم العمل نماذج حيوانية مع بيانات داعمة من الإنسان لبيان فقدانًا متحيزًا حسب الجنس للخلايا التائية الأولية CD8+ مع التقدم في العمر",
+            "استعادة إنتاجية الغدة الصعترية في الفئران حسّنت عدد الخلايا التائية الأولية واستجابات العلاج المناعي",
+            "سيتطلب التأكد من الأهمية الانتقالية دراسات إضافية على الإنسان وتقييم سلامة الاستراتيجيات الموجهة للغدة الصعترية"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nature-2026-10-09-naive-tcell",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-2026-10-09-naive-tcell-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nature-2026-10-09-naive-tcell-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Loss of naive CD8+ T cells reduces cancer immunity in middle-aged male mice.\nStory summary: A study published in Nature Aging reports that middle-aged male mice experience accelerated loss of naive CD8+ T cells, causing lymph node contraction and reduced recognition of cancer antigens. The team showed that restoring thymic output replenished naive T cells and improved responses to immunotherapy in these mice, with supporting human data described..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "news-medical-2026-10-13-cholesterol",
+      "category": "metabolic health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261013/Beyond-e28098bade28099-cholesterol-new-clues-to-the-risk-of-heart-disease.aspx",
+      "sourceTitle": "Beyond ‘bad’ cholesterol: new clues to the risk of heart disease",
+      "publishedAt": "Tue, 13 Oct 2026 09:22:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Beyond ‘bad’ cholesterol: new clues to heart disease risk",
+          "summary": "Researchers at Chalmers University report new findings about factors that may explain why people still face heart disease risk after lowering traditional “bad” cholesterol levels. The work aims to identify biological mechanisms beyond LDL cholesterol that contribute to residual cardiovascular risk.",
+          "whyItMatters": "Understanding drivers of remaining heart disease risk could guide future research into prevention and therapies beyond LDL lowering.",
+          "takeaways": [
+            "Study explores mechanisms that may explain residual cardiovascular risk when LDL is controlled",
+            "Findings come from research at Chalmers University and point to additional biological contributors to heart disease",
+            "This work is an early step toward new targets; clinical implications require further validation"
+          ]
+        },
+        "es": {
+          "title": "Más allá del colesterol «malo»: nuevas pistas sobre el riesgo de enfermedad cardíaca",
+          "summary": "Investigadores de la Universidad de Chalmers informan nuevos hallazgos sobre factores que pueden explicar por qué las personas siguen afrontando riesgo de enfermedad cardíaca tras reducir los niveles tradicionales de colesterol “malo”. El trabajo busca identificar mecanismos biológicos más allá del colesterol LDL que contribuyen al riesgo cardiovascular residual.",
+          "whyItMatters": "Comprender los factores que mantienen el riesgo cardíaco podría orientar futuras investigaciones sobre prevención y terapias más allá de la reducción del LDL.",
+          "takeaways": [
+            "El estudio explora mecanismos que pueden explicar el riesgo cardiovascular residual cuando se controla el LDL",
+            "Los hallazgos proceden de investigación en la Universidad de Chalmers y señalan contribuyentes biológicos adicionales a la enfermedad cardíaca",
+            "Este trabajo es un paso inicial hacia nuevos objetivos; las implicaciones clínicas requieren validación adicional"
+          ]
+        },
+        "ru": {
+          "title": "Вне «плохого» холестерина: новые подсказки о риске сердечных заболеваний",
+          "summary": "Исследователи из Хальмерсского университета сообщают о новых результатах, которые могут объяснить, почему у людей сохраняется риск сердечных заболеваний после снижения уровня традиционного «плохого» холестерина. Работа направлена на выявление биологических механизмов помимо LDL, вносящих вклад в остаточный сердечно‑сосудистый риск.",
+          "whyItMatters": "Понимание факторов, обеспечивающих сохраняющийся риск, может помочь направлять будущие исследования по предотвращению заболеваний и терапии, выходящие за рамки снижения LDL.",
+          "takeaways": [
+            "Исследование изучает механизмы, которые могут объяснять остаточный сердечно‑сосудистый риск при контроле LDL",
+            "Результаты получены в Хальмерсе и указывают на дополнительные биологические факторы, влияющие на сердечные заболевания",
+            "Это ранний шаг к новым целям; клинические выводы требуют дальнейшей валидации"
+          ]
+        },
+        "uk": {
+          "title": "Поза «поганим» холестерином: нові підказки щодо ризику серцевих захворювань",
+          "summary": "Дослідники з університету Чалмерса повідомляють про нові результати, які можуть пояснити, чому люди залишаються в групі ризику серцевих захворювань навіть після зниження традиційного «поганого» холестерину. Робота має на меті виявити біологічні механізми поза холестерином LDL, що сприяють залишковому серцево-судинному ризику.",
+          "whyItMatters": "Розуміння чинників, що визначають залишковий ризик серцевих захворювань, може спрямувати майбутні дослідження з профілактики та терапії, що виходять за межі зниження LDL.",
+          "takeaways": [
+            "Дослідження вивчає механізми, які можуть пояснювати залишковий серцево‑судинний ризик при контрольованому LDL",
+            "Результати отримані в Чалмерсі й вказують на додаткові біологічні чинники, що можуть сприяти хворобам серця",
+            "Ця робота є початковим кроком до нових мішеней; клінічні наслідки потребують подальшої валідації"
+          ]
+        },
+        "fr": {
+          "title": "Au‑delà du « mauvais » cholestérol : nouveaux indices sur le risque de maladie cardiaque",
+          "summary": "Des chercheurs de l'université Chalmers rapportent de nouvelles observations pouvant expliquer pourquoi certaines personnes restent exposées au risque de maladie cardiaque malgré la réduction du « mauvais » cholestérol traditionnel. Le travail vise à identifier des mécanismes biologiques au‑delà du cholestérol LDL qui contribuent au risque cardiovasculaire résiduel.",
+          "whyItMatters": "Mieux comprendre les facteurs du risque résiduel de maladie cardiaque pourrait orienter des recherches futures sur la prévention et des traitements au‑delà de la réduction du LDL.",
+          "takeaways": [
+            "L'étude explore des mécanismes susceptibles d'expliquer un risque cardiovasculaire résiduel lorsque le LDL est contrôlé",
+            "Les résultats, issus de Chalmers, pointent vers des contributeurs biologiques supplémentaires aux maladies cardiaques",
+            "Ce travail constitue une étape préliminaire vers de nouvelles cibles ; les implications cliniques requièrent des validations supplémentaires"
+          ]
+        },
+        "de": {
+          "title": "Jenseits des „schlechten“ Cholesterins: neue Hinweise zum Risiko für Herzkrankheiten",
+          "summary": "Forscher an der Chalmers University berichten über neue Erkenntnisse zu Faktoren, die erklären könnten, warum Menschen weiterhin ein Risiko für Herzkrankheiten haben, obwohl traditionelle „schlechte“ Cholesterinwerte gesenkt wurden. Die Arbeit zielt darauf ab, biologische Mechanismen jenseits des LDL‑Cholesterins zu identifizieren, die zum verbleibenden kardiovaskulären Risiko beitragen.",
+          "whyItMatters": "Das Verständnis der Treiber des verbleibenden Herzkrankheitsrisikos könnte zukünftige Forschung zu Prävention und Therapien jenseits der LDL‑Senkung leiten.",
+          "takeaways": [
+            "Studie untersucht Mechanismen, die Rest‑kardiovaskuläres Risiko erklären könnten, wenn LDL kontrolliert ist",
+            "Ergebnisse stammen von Forschenden der Chalmers University und deuten auf zusätzliche biologische Beitragende zu Herzkrankheiten hin",
+            "Die Arbeit ist ein früher Schritt in Richtung neuer Zielstrukturen; klinische Implikationen müssen weiter validiert werden"
+          ]
+        },
+        "pt-br": {
+          "title": "Além do “colesterol ruim”: novas pistas sobre o risco de doenças cardíacas",
+          "summary": "Pesquisadores da Chalmers University relatam achados sobre fatores que podem explicar por que algumas pessoas continuam com risco de doenças cardíacas mesmo após reduzir os níveis tradicionais de “colesterol ruim”. O trabalho busca identificar mecanismos biológicos além do colesterol LDL que contribuem para o risco cardiovascular residual.",
+          "whyItMatters": "Entender os fatores que mantêm o risco de doenças cardíacas pode orientar pesquisas futuras sobre prevenção e terapias além da redução do LDL.",
+          "takeaways": [
+            "O estudo explora mecanismos que podem explicar risco cardiovascular residual quando o LDL está controlado",
+            "Achados vêm de pesquisa na Chalmers University e apontam contribuintes biológicos adicionais para doenças cardíacas",
+            "Trata‑se de um passo inicial rumo a novos alvos; implicações clínicas precisam de validação adicional"
+          ]
+        },
+        "hu": {
+          "title": "Túl a „rossz” koleszterinen: új nyomok a szívbetegség kockázatáról",
+          "summary": "A Chalmers Egyetem kutatói új eredményeket közölnek azokról a tényezőkről, amelyek magyarázhatják, miért marad szívbetegség-kockázat bizonyos embereknél még a hagyományos „rossz” (LDL) koleszterinszint csökkentése után is. A munka célja olyan biológiai mechanizmusok azonosítása, amelyek az LDL-en túl hozzájárulnak a maradék kardiovaszkuláris kockázathoz.",
+          "whyItMatters": "Az, hogy jobban megértjük a megmaradó szívbetegség-kockázat mozgatórugóit, irányt adhat a jövőbeli megelőzési és terápiás kutatásoknak az LDL-csökkentésen túl.",
+          "takeaways": [
+            "A tanulmány olyan mechanizmusokat vizsgál, amelyek magyarázhatják a maradék kardiovaszkuláris kockázatot akkor, amikor az LDL kontrollált",
+            "Az eredmények a Chalmers Egyetemen végzett kutatásból származnak, és további biológiai hozzájáruló tényezőkre mutatnak rá",
+            "Ez a munka korai lépés új célpontok felé; a klinikai következményekhez további érvényesítés szükséges"
+          ]
+        },
+        "ar": {
+          "title": "ما وراء «الكوليسترول الضار»: دلائل جديدة على خطر أمراض القلب",
+          "summary": "أفاد باحثون بجامعة تشالمرز بنتائج جديدة حول عوامل قد تشرح لماذا يظل أشخاص معرضين لخطر أمراض القلب بعد خفض مستويات الكوليسترول «الضار» التقليدية. يهدف العمل إلى azonosítani الآليات البيولوجية بالإضافة إلى كوليسترول LDL التي تساهم في الخطر القلبي الوعائي المتبقي.",
+          "whyItMatters": "فهم المحركات التي تبقى وراء خطر أمراض القلب قد يوجه البحوث المستقبلية في مجال الوقاية والعلاجات التي تتجاوز خفض LDL.",
+          "takeaways": [
+            "تستكشف الدراسة آليات قد تفسر الخطر القلبي الوعائي المتبقي عند السيطرة على LDL",
+            "النتائج من بحوث بجامعة تشالمرز وتشير إلى مساهمين بيولوجيين إضافيين في أمراض القلب",
+            "هذا العمل خطوة مبكرة نحو أهداف جديدة؛ التبعات السريرية تتطلب تحققًا إضافيًا"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=news-medical-2026-10-13-cholesterol",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-2026-10-13-cholesterol-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/news-medical-2026-10-13-cholesterol-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Beyond ‘bad’ cholesterol: new clues to heart disease risk.\nStory summary: Researchers at Chalmers University report new findings about factors that may explain why people still face heart disease risk after lowering traditional “bad” cholesterol levels. The work aims to identify biological mechanisms beyond LDL cholesterol that contribute to residual cardiovascular risk..\nCategory: metabolic health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medicalxpress-2026-10-13-kidney-matching",
+      "category": "medicine",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-approach-kidney.html",
+      "sourceTitle": "A new approach to kidney matching could save lives",
+      "publishedAt": "Tue, 13 Oct 2026 09:20:24 EDT",
+      "languages": {
+        "en": {
+          "title": "New kidney-matching approach aims to reduce discarded organs",
+          "summary": "Researchers describe a method to better match donated kidneys to recipients, addressing why thousands of usable kidneys are discarded—often because donors are older or kidneys are expected to have fewer remaining function years. The approach is intended to increase transplant use and reduce waiting-list mortality.",
+          "whyItMatters": "More efficient matching could expand the donor pool and shorten wait times for people needing kidney transplants.",
+          "takeaways": [
+            "Proposed matching strategy targets kidneys currently discarded due to donor age or predicted lifespan",
+            "Goal is to increase transplant utilization and save lives on the waiting list",
+            "Clinical rollout would require evaluation of outcomes and logistics in transplant systems"
+          ]
+        },
+        "es": {
+          "title": "Nuevo enfoque para emparejar riñones busca reducir órganos desechados",
+          "summary": "Investigadores describen un método para emparejar mejor riñones donados con receptores, abordando por qué se descartan miles de riñones utilizables —a menudo porque los donantes son mayores o se espera que los riñones tengan menos años de función restante. El enfoque pretende aumentar el uso de trasplantes y reducir la mortalidad en listas de espera.",
+          "whyItMatters": "Un emparejamiento más eficiente podría ampliar el grupo de donantes y acortar los tiempos de espera para quienes necesitan trasplantes de riñón.",
+          "takeaways": [
+            "La estrategia propuesta se dirige a riñones actualmente descartados por edad del donante o vida funcional pronosticada",
+            "El objetivo es aumentar la utilización de trasplantes y salvar vidas en la lista de espera",
+            "La implementación clínica requeriría evaluar resultados y la logística en los sistemas de trasplante"
+          ]
+        },
+        "ru": {
+          "title": "Новый подход к подбору почек призван сократить число утилизируемых органов",
+          "summary": "Исследователи описывают метод лучшего подбора донорских почек к реципиентам, решая проблему, почему тысячи годных почек выбрасывают — часто потому, что доноры старше или ожидается меньший срок функции органа. Подход направлен на увеличение числа трансплантаций и снижение смертности в листах ожидания.",
+          "whyItMatters": "Более эффективный подбор может расширить пул доноров и сократить время ожидания для нуждающихся в трансплантации почки.",
+          "takeaways": [
+            "Предложенная стратегия нацелена на почки, которые сейчас отбраковывают из‑за возраста донора или прогнозируемой продолжительности работы",
+            "Цель — повысить использование донорских почек и спасти жизни на листе ожидания",
+            "Клиническое внедрение потребует оценки исходов и организационных аспектов в системах трансплантации"
+          ]
+        },
+        "uk": {
+          "title": "Новий підхід до підбору нирок має на меті зменшити кількість відхилених органів",
+          "summary": "Дослідники описують метод кращого підбору донорських нирок до реципієнтів, що відповідає на питання, чому тисячі придатних нирок відкидають — часто через вік донорів або очікувану меншу кількість років функції органу. Підхід спрямований на підвищення використання трансплантатів та зниження смертності в листі очікування.",
+          "whyItMatters": "Більш ефективний підбір може розширити пул донорів і скоротити час очікування для людей, яким необхідні трансплантації нирок.",
+          "takeaways": [
+            "Пропонована стратегія підбору націлена на нирки, які нині відкидають через вік донорів або прогнозований строк функції",
+            "Мета — підвищити використання трансплантатів і врятувати життя людей у черзі",
+            "Впровадження в клінічну практику вимагатиме оцінки результатів та логістики в системах трансплантації"
+          ]
+        },
+        "fr": {
+          "title": "Nouvelle approche d'appariement des reins visant à réduire les organes mis au rebut",
+          "summary": "Des chercheurs décrivent une méthode pour mieux apparier les reins donnés aux receveurs, expliquant pourquoi des milliers de reins utilisables sont souvent écartés — souvent en raison de l'âge des donneurs ou d'une espérance de vie fonctionnelle moindre du rein. L'approche vise à augmenter l'utilisation des greffons et à réduire la mortalité sur les listes d'attente.",
+          "whyItMatters": "Un appariement plus efficace pourrait élargir le vivier de donneurs et réduire les délais d'attente pour les personnes nécessitant une transplantation rénale.",
+          "takeaways": [
+            "La stratégie proposée cible des reins actuellement écartés en raison de l'âge du donneur ou d'une durée de vie prédite plus courte",
+            "L'objectif est d'accroître l'utilisation des greffons et de sauver des vies sur la liste d'attente",
+            "Un déploiement clinique nécessiterait l'évaluation des résultats et de la logistique dans les systèmes de transplantation"
+          ]
+        },
+        "de": {
+          "title": "Neue Methode zur Nierenvermittlung zielt darauf ab, verworfene Organe zu reduzieren",
+          "summary": "Forschende beschreiben eine Methode, Spendernieren besser an Empfänger anzupassen und damit das Problem zu adressieren, dass tausende gebrauchsfähige Nieren verworfen werden – oft weil Spender älter sind oder die Niere voraussichtlich weniger verbleibende Funktionsjahre hat. Der Ansatz soll die Transplantatnutzung erhöhen und die Sterblichkeit auf Wartelisten verringern.",
+          "whyItMatters": "Effizientere Vermittlung könnte den Spenderpool vergrößern und Wartezeiten für Menschen, die eine Nierentransplantation benötigen, verkürzen.",
+          "takeaways": [
+            "Vorgeschlagene Vermittlungsstrategie zielt auf Nieren ab, die derzeit aufgrund von Spenderalter oder prognostizierter Restlebensdauer verworfen werden",
+            "Ziel ist es, die Nutzung von Transplantaten zu steigern und Leben auf der Warteliste zu retten",
+            "Eine klinische Einführung würde die Bewertung von Ergebnissen und Logistik in Transplantationssystemen erfordern"
+          ]
+        },
+        "pt-br": {
+          "title": "Nova abordagem de pareamento de rins pretende reduzir órgãos descartados",
+          "summary": "Pesquisadores descrevem um método para combinar melhor rins doados com receptores, enfrentando o problema de milhares de rins utilizáveis serem descartados — frequentemente porque os doadores são mais velhos ou espera‑se que os rins tenham menos anos de função restantes. A abordagem visa aumentar o uso de transplantes e reduzir a mortalidade em listas de espera.",
+          "whyItMatters": "Um pareamento mais eficiente pode ampliar o conjunto de doadores e reduzir o tempo de espera para pessoas que precisam de transplante renal.",
+          "takeaways": [
+            "Estratégia proposta foca em rins atualmente descartados por causa da idade do doador ou da expectativa de vida do órgão",
+            "Objetivo é aumentar a utilização de transplantes e salvar vidas na lista de espera",
+            "Implementação clínica exigiria avaliação de desfechos e da logística nos sistemas de transplante"
+          ]
+        },
+        "hu": {
+          "title": "Új veseillesztési megközelítés a kidobott szervek csökkentésére",
+          "summary": "A kutatók leírnak egy módszert a kötözött vesék jobb párosítására a recipiensekkel, amely azokra az okokra céloz, amelyek miatt több ezer hasznos vesét selejteznek—gyakran azért, mert a donort idősebbnek ítélik, vagy úgy becsülik, hogy a vese kevesebb hátralevő működési évvel rendelkezik. A megközelítés célja a transzplantátum-hasznosítás növelése és a várólistán bekövetkező halálozás csökkentése.",
+          "whyItMatters": "Hatékonyabb illesztés bővítheti a donorkészletet és lerövidítheti a veseátültetésre várakozás idejét.",
+          "takeaways": [
+            "A javasolt illesztési stratégia azokra a vesékre irányul, amelyeket jelenleg a donor életkora vagy a várható élettartam miatt selejteznek",
+            "A cél a transzplantációk számának növelése és az életmentés a várólistán",
+            "A klinikai bevezetéshez a kimenetek és a logisztika értékelése szükséges a transzplantációs rendszerekben"
+          ]
+        },
+        "ar": {
+          "title": "نهج جديد لمطابقة الكلى يهدف لتقليل الأعضاء المُهملة",
+          "summary": "يصف الباحثون طريقة لمطابقة الكُلى المتبرع بها بشكل أفضل مع المتلقين، موجهة إلى أسباب إتلاف آلاف الكُلى القابلة للاستخدام—غالبًا لأن المتبرعين أكبر سنًا أو لأنه يُتوقع أن لدى الكلية سنوات وظيفية متبقية أقل. يهدف النهج إلى زيادة استخدام الأعضاء وتقليل الوفيات في قوائم الانتظار.",
+          "whyItMatters": "مطابقة أكفأ قد توسع قاعدة المتبرعين وتقصّر أوقات الانتظار لمن يحتاجون إلى زرع كلى.",
+          "takeaways": [
+            "الاستراتيجية المقترحة تستهدف الكُلى التي تُهمل حاليًا بسبب عمر المتبرع أو توقع طول عمرها الوظيفي",
+            "الهدف زيادة استخدام الزرعات وإنقاذ أرواح على قوائم الانتظار",
+            "يتطلب التطبيق السريري تقييم النتائج واللوجستيات ضمن أنظمة الزرع"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medicalxpress-2026-10-13-kidney-matching",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-2026-10-13-kidney-matching-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medicalxpress-2026-10-13-kidney-matching-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: New kidney-matching approach aims to reduce discarded organs.\nStory summary: Researchers describe a method to better match donated kidneys to recipients, addressing why thousands of usable kidneys are discarded—often because donors are older or kidneys are expected to have fewer remaining function years. The approach is intended to increase transplant use and reduce waiting-list mortality..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "theconversation-2026-10-13-nicotine-products",
+      "category": "public health",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/nicotine-pouches-vaping-or-cigarettes-which-nicotine-product-is-actually-the-least-harmful-290604",
+      "sourceTitle": "Nicotine pouches, vaping or cigarettes: Which nicotine product is actually the least harmful?",
+      "publishedAt": "2026-10-13T12:18:36Z",
+      "languages": {
+        "en": {
+          "title": "Comparing harms of nicotine products: pouches, vaping, cigarettes",
+          "summary": "An addiction medicine physician reviews evidence comparing nicotine pouches, e-cigarettes and combustible cigarettes, noting that different products carry different risk profiles. The piece explains how to interpret the science behind relative harms and trade-offs among alternatives.",
+          "whyItMatters": "Clearer interpretation of relative risks can help people and policymakers make more informed choices about nicotine products and harm reduction strategies.",
+          "takeaways": [
+            "Not all nicotine-containing products have the same health risks; route and constituents matter",
+            "The article focuses on interpreting comparative evidence rather than endorsing any product",
+            "Understanding study design and long-term data gaps is key when weighing harms"
+          ]
+        },
+        "es": {
+          "title": "Comparación de los daños de productos con nicotina: bolsas, vapeo y cigarrillos",
+          "summary": "Un médico experto en adicciones revisa la evidencia que compara bolsas de nicotina, cigarrillos electrónicos y cigarrillos combustibles, señalando que distintos productos presentan perfiles de riesgo diferentes. El texto explica cómo interpretar la ciencia sobre daños relativos y las compensaciones entre alternativas.",
+          "whyItMatters": "Una interpretación más clara de los riesgos relativos puede ayudar a personas y responsables políticos a tomar decisiones más informadas sobre productos con nicotina y estrategias de reducción del daño.",
+          "takeaways": [
+            "No todos los productos con nicotina conllevan los mismos riesgos para la salud; importan la vía de administración y los componentes",
+            "El artículo se centra en interpretar la evidencia comparativa en lugar de avalar un producto concreto",
+            "Al valorar daños, es clave entender el diseño de los estudios y las lagunas en datos a largo plazo"
+          ]
+        },
+        "ru": {
+          "title": "Сравнение вреда никотиновых продуктов: пакеты, вейп, сигареты",
+          "summary": "Врач‑специалист по аддикциям рассматривает данные, сравнивающие никотиновые пакеты, электронные сигареты и курительные сигареты, отмечая, что разные продукты имеют разные профили риска. В статье объясняется, как интерпретировать научные данные о относительном вреде и компромиссах между альтернативами.",
+          "whyItMatters": "Более ясная интерпретация относительных рисков может помочь людям и политикам принимать более информированные решения о никотиновых продуктах и стратегиях снижения вреда.",
+          "takeaways": [
+            "Не все никотинсодержащие продукты одинаково вредны; имеют значение путь доставки и состав",
+            "Статья сосредоточена на интерпретации сравнительных данных, а не на поддержке какого‑то продукта",
+            "При оценке вреда важно учитывать дизайн исследований и пробелы в долгосрочных данных"
+          ]
+        },
+        "uk": {
+          "title": "Порівняння шкоди нікотинових продуктів: пакети, вейпінг, сигарети",
+          "summary": "Лікар з медицини залежностей переглянув докази, що порівнюють нікотинові пакети, електронні сигарети та тютюнові сигарети, зазначаючи, що різні продукти мають різні профілі ризику. У матеріалі пояснюється, як інтерпретувати наукові дані про відносну шкоду та компроміси між альтернативами.",
+          "whyItMatters": "Чіткіше тлумачення відносних ризиків може допомогти людям і політикам приймати обґрунтованіші рішення щодо нікотинових продуктів і стратегій зменшення шкоди.",
+          "takeaways": [
+            "Не всі продукти, що містять нікотин, однаково ризиковані; має значення шлях доставки та складники",
+            "Стаття зосереджена на тлумаченні порівняльних доказів, а не на підтримці будь‑якого продукту",
+            "Важливо розуміти дизайн досліджень і прогалини в довгострокових даних при оцінці шкоди"
+          ]
+        },
+        "fr": {
+          "title": "Comparer les dommages des produits à base de nicotine : sachets, vapotage, cigarettes",
+          "summary": "Un médecin spécialisé en addictologie passe en revue les preuves comparant les sachets nicotinés, les cigarettes électroniques et les cigarettes combustibles, en soulignant que ces produits présentent des profils de risque différents. L'article explique comment interpréter la science sur les risques relatifs et les compromis entre les alternatives.",
+          "whyItMatters": "Une interprétation plus claire des risques relatifs peut aider les individus et les décideurs à faire des choix plus éclairés sur les produits nicotiniques et les stratégies de réduction des risques.",
+          "takeaways": [
+            "Tous les produits contenant de la nicotine n'ont pas les mêmes risques pour la santé ; la voie d'administration et les constituants importent",
+            "L'article se concentre sur l'interprétation des preuves comparatives plutôt que sur la promotion d'un produit",
+            "Comprendre le dessin des études et les lacunes des données à long terme est essentiel pour évaluer les dommages"
+          ]
+        },
+        "de": {
+          "title": "Vergleich der Schadwirkung von Nikotinprodukten: Pouches, E‑Zigaretten, Zigaretten",
+          "summary": "Ein Facharzt für Suchtmedizin wertet Belege zum Vergleich von Nikotinbeuteln, E‑Zigaretten und brennbaren Zigaretten aus und stellt fest, dass verschiedene Produkte unterschiedliche Risikoprofile haben. Der Beitrag erklärt, wie man die Wissenschaft zu relativen Schäden und die Abwägungen zwischen Alternativen interpretiert.",
+          "whyItMatters": "Eine klarere Einordnung relativer Risiken kann Menschen und politischen Entscheidungsträgern helfen, fundiertere Entscheidungen über Nikotinprodukte und Schadensminderungsstrategien zu treffen.",
+          "takeaways": [
+            "Nicht alle nikotinhaltigen Produkte haben die gleichen Gesundheitsrisiken; Aufnahmeweg und Inhaltsstoffe sind entscheidend",
+            "Der Artikel konzentriert sich auf die Interpretation vergleichender Belege, nicht auf die Befürwortung eines Produkts",
+            "Beim Abwägen von Schäden ist das Verständnis von Studiendesign und Lücken in Langzeitdaten wichtig"
+          ]
+        },
+        "pt-br": {
+          "title": "Comparando danos de produtos com nicotina: pouches, vaping, cigarros",
+          "summary": "Um médico especialista em dependência analisa evidências que comparam pouches de nicotina, cigarros eletrônicos e cigarros combustíveis, observando que produtos diferentes apresentam perfis de risco distintos. O texto explica como interpretar a ciência sobre danos relativos e as compensações entre alternativas.",
+          "whyItMatters": "Uma interpretação mais clara dos riscos relativos pode ajudar pessoas e formuladores de políticas a tomar decisões mais informadas sobre produtos com nicotina e estratégias de redução de danos.",
+          "takeaways": [
+            "Nem todos os produtos com nicotina têm os mesmos riscos à saúde; via de administração e constituintes importam",
+            "O artigo foca na interpretação de evidências comparativas, não na recomendação de nenhum produto",
+            "Entender o desenho dos estudos e as lacunas em dados de longo prazo é fundamental ao pesar os danos"
+          ]
+        },
+        "hu": {
+          "title": "A nikotinos termékek ártalmainak összehasonlítása: tasakok, e‑cigaretta, cigaretta",
+          "summary": "Egy addiktológus áttekinti a bizonyítékokat a nikotinos tasakok, az e‑cigaretták és a hagyományos égő cigaretták összehasonlításáról, kiemelve, hogy a különböző termékek eltérő kockázati profilokkal rendelkeznek. A cikk elmagyarázza, hogyan kell értelmezni a relatív ártalmakat és az alternatívák közötti kompromisszumokat.",
+          "whyItMatters": "A relatív kockázatok tisztább értelmezése segíthet az embereknek és a döntéshozóknak megalapozottabb választások és ártalomcsökkentési stratégiák meghozatalában.",
+          "takeaways": [
+            "Nem minden nikotintartalmú termék jelent ugyanakkora egészségkockázatot; az alkalmazás módja és az összetevők számítanak",
+            "A cikk elsősorban a összehasonlító bizonyítékok értelmezésére fókuszál, nem támogat egyetlen terméket sem",
+            "A kockázatok mérlegelésénél fontos a vizsgálatok tervezetének és a hosszú távú adathiányoknak az ismerete"
+          ]
+        },
+        "ar": {
+          "title": "مقارنة أضرار منتجات النيكوتين: الأكياس، التدخين الإلكتروني، السجائر التقليدية",
+          "summary": "يستعرض طبيب متخصص في إدمان الأدلة المقارنة بين أكياس النيكوتين، السجائر الإلكترونية والسجائر القابلة للاحتراق، مشيرًا إلى أن لكل منتج ملف مخاطر مختلف. يشرح المقال كيفية تفسير الأدلة حول الأضرار النسبية والمقايضات بين البدائل.",
+          "whyItMatters": "تفسير أوضح للمخاطر النسبية يمكن أن يساعد الأفراد وصانعي السياسات على اتخاذ خيارات أكثر اطلاعًا بشأن المنتجات وخيارات التخفيف من الضرر.",
+          "takeaways": [
+            "ليست كل المنتجات المحتوية على النيكوتين ذات مخاطر صحية متساوية؛ المسار والمواد المكونة مهمان",
+            "يركز المقال على تفسير الأدلة المقارنة بدلاً من تأييد أي منتج",
+            "فهم تصميم الدراسات وفجوات البيانات طويلة المدى أساسي عند تقييم الأضرار"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=theconversation-2026-10-13-nicotine-products",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-2026-10-13-nicotine-products-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/theconversation-2026-10-13-nicotine-products-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Comparing harms of nicotine products: pouches, vaping, cigarettes.\nStory summary: An addiction medicine physician reviews evidence comparing nicotine pouches, e-cigarettes and combustible cigarettes, noting that different products carry different risk profiles. The piece explains how to interpret the science behind relative harms and trade-offs among alternatives..\nCategory: public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sciencedaily-2026-10-13-autophagy-aging",
+      "category": "healthy aging",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
+      "sourceTitle": "Scientists discover a surprising paradox in how our cells age",
+      "publishedAt": "Tue, 13 Oct 2026 07:01:38 EDT",
+      "languages": {
+        "en": {
+          "title": "Cellular recycling shows unexpected patterns with aging",
+          "summary": "A small study found that activity of the cellular recycling system (autophagy) changes with age in ways that were not expected: higher activity sometimes correlated with poorer physical health. The research also suggests that gentle exercise might help restore more youthful autophagy patterns in older adults.",
+          "whyItMatters": "These findings challenge assumptions about autophagy and aging and point to exercise as a potential modulator worth studying further.",
+          "takeaways": [
+            "Study observed paradoxical links between higher autophagy activity and worse physical health in older adults",
+            "Results are from a small study and should be replicated before drawing firm conclusions",
+            "Authors report that light exercise showed promise in shifting autophagy patterns toward those seen in younger people"
+          ]
+        },
+        "es": {
+          "title": "El reciclaje celular muestra patrones inesperados con el envejecimiento",
+          "summary": "Un estudio pequeño halló que la actividad del sistema de reciclaje celular (autofagia) cambia con la edad de formas no esperadas: una mayor actividad a veces se relacionó con peor salud física. La investigación también sugiere que el ejercicio suave podría ayudar a restaurar patrones de autofagia más parecidos a los de personas jóvenes.",
+          "whyItMatters": "Estos hallazgos desafían suposiciones sobre la autofagia y el envejecimiento y señalan el ejercicio como un modulador potencial que merece más estudio.",
+          "takeaways": [
+            "El estudio observó relaciones paradójicas entre mayor actividad de autofagia y peor salud física en adultos mayores",
+            "Los resultados provienen de un estudio pequeño y deben replicarse antes de sacar conclusiones firmes",
+            "Los autores informan que el ejercicio ligero mostró potencial para desplazar los patrones de autofagia hacia los observados en personas más jóvenes"
+          ]
+        },
+        "ru": {
+          "title": "Клеточный «переработчик» показывает неожиданные закономерности при старении",
+          "summary": "Небольшое исследование выявило, что активность клеточной системы утилизации (аутопагии) меняется с возрастом неожиданным образом: более высокая активность иногда коррелировала с худшим физическим здоровьем. Исследование также указывает, что лёгкие физические упражнения могут способствовать восстановлению более «молодых» паттернов аутопагии у пожилых людей.",
+          "whyItMatters": "Эти результаты ставят под сомнение предположения об аутопагии и старении и указывают на физическую активность как возможный фактор для дальнейшего изучения.",
+          "takeaways": [
+            "Исследование заметило парадоксальные связи между повышенной активностью аутопагии и ухудшением физического состояния у пожилых",
+            "Результаты получены в небольшом исследовании и требуют повторения перед формулированием окончательных выводов",
+            "Авторы сообщают, что лёгкие упражнения показали обещающий эффект в направлении паттернов аутопагии, типичных для более молодых людей"
+          ]
+        },
+        "uk": {
+          "title": "Аутофагія демонструє несподівані закономірності з віком",
+          "summary": "Невелике дослідження виявило, що активність системи клітинного «перероблення» (аутофагії) змінюється з віком несподіваним чином: іноді вища активність корелювала з гіршим фізичним станом. Дослідження також припускає, що легкі фізичні вправи можуть допомогти відновити більш молоді патерни аутофагії у літніх людей.",
+          "whyItMatters": "Ці знахідки кинули виклик припущенням про аутофагію й старіння та вказують на фізичну активність як потенційний модифікатор, який варто дослідити далі.",
+          "takeaways": [
+            "Дослідження зафіксувало парадоксальні зв'язки між вищою активністю аутофагії та гіршим фізичним здоров'ям у літніх людей",
+            "Результати походять із невеликого дослідження і потребують відтворення перед остаточними висновками",
+            "Автори повідомляють, що легкі вправи показали обнадійливі зрушення аутофагії в напрямку патернів, характерних для молодших людей"
+          ]
+        },
+        "fr": {
+          "title": "L'autophagie montre des schémas inattendus avec le vieillissement",
+          "summary": "Une petite étude a trouvé que l'activité du système de recyclage cellulaire (autophagie) évolue avec l'âge de manière inattendue : une activité plus élevée a parfois été corrélée à un état physique moins bon. La recherche suggère aussi que de l'exercice léger pourrait contribuer à restaurer des schémas d'autophagie plus proches de ceux observés chez les personnes plus jeunes.",
+          "whyItMatters": "Ces résultats remettent en question des hypothèses sur l'autophagie et le vieillissement et mettent en avant l'exercice comme modulateur potentiel à étudier davantage.",
+          "takeaways": [
+            "L'étude a observé des liens paradoxaux entre une activité d'autophagie plus élevée et un état physique moins favorable chez des personnes âgées",
+            "Les résultats proviennent d'une petite étude et doivent être reproduits avant de tirer des conclusions définitives",
+            "Les auteurs indiquent que l'exercice léger a montré un potentiel pour orienter l'autophagie vers des schémas plus jeunes"
+          ]
+        },
+        "de": {
+          "title": "Zelluläres Recycling zeigt unerwartete Muster mit dem Altern",
+          "summary": "Eine kleine Studie fand, dass die Aktivität des zellulären Recycling‑Systems (Autophagie) sich mit dem Alter auf unerwartete Weise verändert: Höhere Aktivität korrelierte gelegentlich mit schlechterer körperlicher Gesundheit. Die Forschung legt außerdem nahe, dass leichte Bewegung dazu beitragen könnte, autophagische Muster älterer Erwachsener wieder eher an junge Muster anzugleichen.",
+          "whyItMatters": "Diese Ergebnisse stellen Annahmen über Autophagie und Altern in Frage und heben Bewegung als einen möglichen Modulator hervor, der weiter untersucht werden sollte.",
+          "takeaways": [
+            "Studie beobachtete paradoxe Zusammenhänge zwischen höherer Autophagieaktivität und schlechterer körperlicher Gesundheit bei älteren Erwachsenen",
+            "Ergebnisse stammen aus einer kleinen Studie und sollten vor festen Schlussfolgerungen repliziert werden",
+            "Die Autorinnen und Autoren berichten, dass leichte Bewegung vielversprechend wirkte, um Autophagie‑Muster in Richtung jüngerer Profile zu verschieben"
+          ]
+        },
+        "pt-br": {
+          "title": "Reciclagem celular mostra padrões inesperados com o envelhecimento",
+          "summary": "Um estudo pequeno constatou que a atividade do sistema de reciclagem celular (autofagia) muda com a idade de maneiras não esperadas: maior atividade, por vezes, se correlacionou com pior saúde física. A pesquisa também sugere que exercício leve pode ajudar a restaurar padrões de autofagia mais semelhantes aos de pessoas mais jovens em adultos mais velhos.",
+          "whyItMatters": "Esses achados desafiam suposições sobre autofagia e envelhecimento e indicam o exercício como um modulador potencial que merece mais estudos.",
+          "takeaways": [
+            "Estudo observou ligações paradoxais entre maior atividade de autofagia e pior saúde física em idosos",
+            "Resultados vêm de um estudo pequeno e devem ser replicados antes de tirar conclusões firmes",
+            "Autores relatam que exercício leve mostrou potencial para deslocar padrões de autofagia na direção dos observados em pessoas mais jovens"
+          ]
+        },
+        "hu": {
+          "title": "A sejtes „újrahasznosítás” (autofágia) váratlan mintázatokat mutat az öregedés során",
+          "summary": "Egy kis tanulmány azt találta, hogy a sejtek „újrahasznosító” rendszere (autofágia) az életkorral olyan módon változik, amely nem volt várható: a magasabb aktivitás néha rosszabb fizikai egészséggel korrelált. A kutatás azt is sugallja, hogy a könnyű testedzés segíthet visszaállítani az idősekben a fiatalabbakra jellemző autofágia-mintázatokat.",
+          "whyItMatters": "Az eredmények megkérdőjelezik az autofágiával és öregedéssel kapcsolatos feltételezéseket, és a testmozgást olyan potenciális módosítóként említik, amely további vizsgálatot érdemel.",
+          "takeaways": [
+            "A tanulmány paradox kapcsolódásokat észlelt a magasabb autofágia‑aktivitás és a rosszabb fizikai egészség között idősebb felnőttekben",
+            "Az eredmények kismintás vizsgálatból származnak, ezért ismétlésre van szükség mielőtt következtetéseket vonnánk le",
+            "A szerzők szerint a könnyű testmozgás ígéretesnek mutatkozott az autofágia mintázatainak fiatalosabb irányba történő elmozdításában"
+          ]
+        },
+        "ar": {
+          "title": "إعادة تدوير الخلايا (الالتهام الذاتي) تظهر أنماطًا غير متوقعة مع التقدّم في العمر",
+          "summary": "أظهرت دراسة صغيرة أن نشاط نظام إعادة تدوير الخلايا (الالتهام الذاتي) يتغير مع العمر بطرق لم تكن متوقعة: في بعض الحالات ارتبط النشاط الأعلى بصحة بدنية أسوأ. وتشير الأبحاث أيضًا إلى أن ممارسة تمارين خفيفة قد تساعد في استعادة أنماط الالتهام الذاتي المشابهة للشباب لدى البالغين الأكبر سنًا.",
+          "whyItMatters": "تتحدى هذه النتائج الافتراضات حول الالتهام الذاتي والشيخوخة وتشير إلى أن التمرين قد يكون معدلاً يستحق الدراسة الإضافية.",
+          "takeaways": [
+            "لوحظت روابط متناقضة بين ارتفاع نشاط الالتهام الذاتي وتدهور الصحة البدنية لدى البالغين المسنين",
+            "النتائج مأخوذة من دراسة صغيرة ويجب تكرارها قبل استخلاص استنتاجات قاطعة",
+            "أفاد المؤلفون أن التمارين الخفيفة أظهرت وعدًا في تحريك أنماط الالتهام الذاتي نحو ما يُرى عند الأصغر سنًا"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sciencedaily-2026-10-13-autophagy-aging",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-2026-10-13-autophagy-aging-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sciencedaily-2026-10-13-autophagy-aging-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cellular recycling shows unexpected patterns with aging.\nStory summary: A small study found that activity of the cellular recycling system (autophagy) changes with age in ways that were not expected: higher activity sometimes correlated with poorer physical health. The research also suggests that gentle exercise might help restore more youthful autophagy patterns in older adults..\nCategory: healthy aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medpagetoday-2026-10-12-hpv-pregnancy",
+      "category": "medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/infectiousdisease/vaccines/123378",
+      "sourceTitle": "Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women",
+      "publishedAt": "Mon, 12 Oct 2026 17:06:46 -0400",
+      "languages": {
+        "en": {
+          "title": "Nationwide Swedish study links HPV vaccination to fewer pregnancy complications",
+          "summary": "A national case‑control study from Sweden examined nearly 625,000 births and found that women who received HPV vaccination were less likely to experience a range of adverse pregnancy outcomes. The analysis compared vaccinated and unvaccinated groups across multiple outcomes.",
+          "whyItMatters": "Large population studies can reveal associations that inform vaccine safety and public health considerations, though they do not alone prove causation.",
+          "takeaways": [
+            "Study analyzed close to 625,000 births in Sweden and reported lower rates of several adverse pregnancy outcomes among vaccinated women",
+            "This is an observational case‑control study, so associations should be interpreted cautiously",
+            "Further research is needed to explore mechanisms and confirm findings in other populations"
+          ]
+        },
+        "es": {
+          "title": "Estudio nacional sueco vincula la vacunación contra el VPH con menos complicaciones en el embarazo",
+          "summary": "Un estudio nacional caso‑control de Suecia examinó cerca de 625,000 nacimientos y encontró que las mujeres vacunadas frente al VPH tuvieron menos probabilidades de experimentar varios resultados adversos en el embarazo. El análisis comparó grupos vacunados y no vacunados en múltiples desenlaces.",
+          "whyItMatters": "Los estudios poblacionales grandes pueden revelar asociaciones que informan sobre la seguridad de las vacunas y consideraciones de salud pública, aunque por sí solos no prueban causalidad.",
+          "takeaways": [
+            "El estudio analizó casi 625,000 nacimientos en Suecia y reportó menores tasas de varios resultados adversos en embarazo entre las mujeres vacunadas",
+            "Se trata de un estudio observacional caso‑control, por lo que las asociaciones deben interpretarse con cautela",
+            "Se necesita más investigación para explorar mecanismos y confirmar los hallazgos en otras poblaciones"
+          ]
+        },
+        "ru": {
+          "title": "Национальное шведское исследование связывает вакцинацию от ВПЧ с меньшим числом осложнений беременности",
+          "summary": "Национальное кейс‑контроль исследование из Швеции охватило почти 625 000 рождений и выявило, что у женщин, получивших вакцинацию против ВПЧ, реже регистрировались различные неблагоприятные исходы беременности. Анализ сравнивал вакцинированные и невакцинированные группы по нескольким исходам.",
+          "whyItMatters": "Большие популяционные исследования могут выявлять ассоциации, которые помогают оценивать безопасность вакцин и вопросы общественного здравоохранения, но сами по себе они не доказывают причинно‑следственную связь.",
+          "takeaways": [
+            "Исследование проанализировало около 625 000 рождений в Швеции и сообщило о более низких показателях ряда неблагоприятных исходов беременности у вакцинированных женщин",
+            "Это наблюдательное кейс‑контроль исследование, поэтому ассоциации следует интерпретировать осторожно",
+            "Требуется дальнейшее исследование для выяснения механизмов и подтверждения результатов в других популяциях"
+          ]
+        },
+        "uk": {
+          "title": "Національне шведське дослідження пов'язує вакцинацію від ВПЛ зі зниженими ускладненнями вагітності",
+          "summary": "Національне кейс‑контрольне дослідження зі Швеції, яке охопило майже 625 000 пологів, виявило, що жінки, які отримували вакцинацію від ВПЛ, рідше зазнавали ряду несприятливих наслідків вагітності. Аналіз порівнював вакциновані та невакциновані групи по кількох показниках.",
+          "whyItMatters": "Великі популяційні дослідження можуть виявляти асоціації, що інформують про безпеку вакцин та питання в галузі громадського здоров'я, хоча самі по собі вони не доводять причинно‑наслідкового зв'язку.",
+          "takeaways": [
+            "У дослідженні проаналізували майже 625 000 пологів у Швеції й повідомили про нижчі показники кількох несприятливих наслідків вагітності серед вакцинованих жінок",
+            "Це спостережне кейс‑контрольне дослідження, тому асоціації слід інтерпретувати обережно",
+            "Потрібні подальші дослідження, щоб дослідити механізми й підтвердити результати в інших популяціях"
+          ]
+        },
+        "fr": {
+          "title": "Étude nationale suédoise associe la vaccination contre le VPH à moins de complications de grossesse",
+          "summary": "Une étude cas‑témoin nationale de Suède, portant sur près de 625 000 naissances, a trouvé que les femmes ayant reçu la vaccination contre le VPH étaient moins susceptibles de présenter une série d'issues défavorables de la grossesse. L'analyse a comparé des groupes vaccinés et non vaccinés sur plusieurs critères.",
+          "whyItMatters": "Les grandes études de population peuvent révéler des associations utiles pour la sécurité vaccinale et la santé publique, même si elles ne prouvent pas à elles seules la causalité.",
+          "takeaways": [
+            "L'étude a analysé près de 625 000 naissances en Suède et a rapporté des taux plus faibles de plusieurs issues défavorables de grossesse chez les femmes vaccinées",
+            "Il s'agit d'une étude observationnelle cas‑témoin; les associations doivent être interprétées avec prudence",
+            "Des recherches supplémentaires sont nécessaires pour explorer les mécanismes et confirmer les résultats dans d'autres populations"
+          ]
+        },
+        "de": {
+          "title": "Landesweite schwedische Studie verknüpft HPV‑Impfung mit weniger Schwangerschaftskomplikationen",
+          "summary": "Eine nationale Fall‑Kontroll‑Studie aus Schweden untersuchte fast 625.000 Geburten und fand, dass Frauen, die gegen HPV geimpft wurden, seltener eine Reihe von ungünstigen Schwangerschaftsergebnissen erlebten. Die Analyse verglich geimpfte und ungeimpfte Gruppen über mehrere Endpunkte hinweg.",
+          "whyItMatters": "Große Bevölkerungsstudien können Assoziationen aufzeigen, die für die Sicherheit von Impfstoffen und die öffentliche Gesundheit relevant sind, beweisen jedoch nicht allein Kausalität.",
+          "takeaways": [
+            "Studie analysierte fast 625.000 Geburten in Schweden und berichtete über geringere Raten mehrerer ungünstiger Schwangerschaftsergebnisse bei geimpften Frauen",
+            "Es handelt sich um eine beobachtende Fall‑Kontroll‑Studie, daher sollten Assoziationen vorsichtig interpretiert werden",
+            "Weitere Forschung ist nötig, um Mechanismen zu untersuchen und Ergebnisse in anderen Populationen zu bestätigen"
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo nacional sueco associa vacinação contra HPV a menos complicações na gravidez",
+          "summary": "Um estudo caso‑controle nacional da Suécia examinou quase 625.000 nascimentos e encontrou que mulheres vacinadas contra o HPV tiveram menor probabilidade de apresentar uma série de desfechos adversos na gravidez. A análise comparou grupos vacinados e não vacinados em múltiplos desfechos.",
+          "whyItMatters": "Estudos populacionais amplos podem revelar associações relevantes para a segurança vacinal e saúde pública, embora não comprovem causalidade por si só.",
+          "takeaways": [
+            "Estudo analisou cerca de 625.000 nascimentos na Suécia e encontrou menores taxas de vários desfechos adversos entre mulheres vacinadas",
+            "Trata‑se de um estudo observacional caso‑controle, portanto as associações devem ser interpretadas com cautela",
+            "São necessárias pesquisas adicionais para explorar mecanismos e confirmar os achados em outras populações"
+          ]
+        },
+        "hu": {
+          "title": "Országos svéd tanulmány: kevesebb terhességi komplikáció a HPV‑oltott nők körében",
+          "summary": "Egy svéd országos eset‑kontroll vizsgálat közel 625 000 szülést vizsgált, és azt találta, hogy a HPV‑oltásban részesült nők kisebb valószínűséggel tapasztaltak különféle kedvezőtlen terhességi kimeneteleket. Az elemzés összehasonlította az oltott és az oltatlan csoportokat több kimenet tekintetében.",
+          "whyItMatters": "A nagyléptékű populációs vizsgálatok összefüggéseket tárhatnak fel, amelyek tájékoztathatják az oltásbiztonsággal és közegészségügyi megfontolásokkal kapcsolatos döntéseket, de önmagukban nem bizonyítanak oksági kapcsolatot.",
+          "takeaways": [
+            "A tanulmány Svédországban közel 625 000 szülést elemezve alacsonyabb arányt jelentett több kedvezőtlen terhességi kimenet esetén az oltott nők körében",
+            "Ez megfigyeléses eset‑kontroll vizsgálat, ezért az összefüggéseket óvatosan kell értelmezni",
+            "További kutatások szükségesek a mechanizmusok feltárására és az eredmények más populációkban való megerősítésére"
+          ]
+        },
+        "ar": {
+          "title": "دراسة وطنية سويدية تربط تطعيم الـHPV بانخفاض مضاعفات الحمل",
+          "summary": "فحصت دراسة حالة‑شاهد وطنية من السويد ما يقرب من 625,000 ولادة ووجدت أن النساء اللواتي تلقين تلقيح الـHPV كنّ أقل عرضة لحدوث مجموعة من نتائج الحمل السلبية. قارنت التحليلات المجموعات المطعمة وغير المطعمة عبر عدة نتائج.",
+          "whyItMatters": "يمكن للدراسات السكانية الكبيرة أن تكشف عن ارتباطات تُعلم السلامة اللقاحية والاعتبارات الصحية العامة، لكنها وحدها لا تثبت السببية.",
+          "takeaways": [
+            "حللت الدراسة ما يقرب من 625,000 ولادة في السويد وأبلغت عن معدلات أقل لعدة نتائج حمل سلبية بين النساء المطعّمات",
+            "هذه دراسة ملاحظة من نوع حالة‑شاهد، لذا يجب تفسير الارتباطات بحذر",
+            "هناك حاجة لمزيد من الأبحاث لاستكشاف الآليات وتأكيد النتائج في مجموعات سكانية أخرى"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medpagetoday-2026-10-12-hpv-pregnancy",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-2026-10-12-hpv-pregnancy-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medpagetoday-2026-10-12-hpv-pregnancy-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nationwide Swedish study links HPV vaccination to fewer pregnancy complications.\nStory summary: A national case‑control study from Sweden examined nearly 625,000 births and found that women who received HPV vaccination were less likely to experience a range of adverse pregnancy outcomes. The analysis compared vaccinated and unvaccinated groups across multiple outcomes..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lifespan-2026-10-12-znf865",
+      "category": "longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/an-anti-senescence-gene-may-fight-spinal-disc-deterioration/",
+      "sourceTitle": "An Anti-Senescence Gene May Fight Spinal Disc Deterioration",
+      "publishedAt": "Mon, 12 Oct 2026 20:16:37 +0000",
+      "languages": {
+        "en": {
+          "title": "ZNF865: a gene linked to reduced spinal disc senescence",
+          "summary": "Researchers reported in Aging Cell that the gene ZNF865 influences cellular senescence in spinal discs and may affect processes underlying lower back pain. The study identifies ZNF865 as a regulator that could modulate disc degeneration in experimental models.",
+          "whyItMatters": "Identifying genes that influence tissue senescence helps clarify biological contributors to age-related degeneration and highlights potential research targets.",
+          "takeaways": [
+            "ZNF865 was implicated in regulating cellular senescence within spinal disc tissue",
+            "Findings come from experimental research reported in Aging Cell; clinical relevance requires more study",
+            "The work points to molecular pathways that could be explored for future therapies but is not evidence of an available treatment"
+          ]
+        },
+        "es": {
+          "title": "ZNF865: un gen vinculado a menor senescencia de los discos espinales",
+          "summary": "Investigadores informaron en Aging Cell que el gen ZNF865 influye en la senescencia celular en discos espinales y puede afectar procesos subyacentes al dolor lumbar. El estudio identifica a ZNF865 como un regulador que podría modular la degeneración discal en modelos experimentales.",
+          "whyItMatters": "Identificar genes que influyen en la senescencia tisular ayuda a aclarar contribuyentes biológicos a la degeneración relacionada con la edad y destaca posibles dianas de investigación.",
+          "takeaways": [
+            "ZNF865 se implicó en la regulación de la senescencia celular en el tejido de los discos espinales",
+            "Los hallazgos provienen de investigación experimental publicada en Aging Cell; la relevancia clínica requiere más estudio",
+            "El trabajo apunta a vías moleculares que podrían explorarse para terapias futuras, pero no constituye evidencia de un tratamiento disponible"
+          ]
+        },
+        "ru": {
+          "title": "ZNF865: ген, связанный со сниженной сенесценцией межпозвонковых дисков",
+          "summary": "Исследователи сообщили в Aging Cell, что ген ZNF865 влияет на клеточную сенесценцию в межпозвонковых дисках и может затрагивать процессы, лежащие в основе болей в пояснице. В исследовании ZNF865 обозначен как регулятор, который может модулировать дегенерацию дисков в экспериментальных моделях.",
+          "whyItMatters": "Идентификация генов, влияющих на тканевую сенесценцию, помогает прояснить биологические причины возрастной дегенерации и выделяет потенциальные направления для исследований.",
+          "takeaways": [
+            "ZNF865 был вовлечён в регуляцию клеточной сенесценции в ткани межпозвонковых дисков",
+            "Выводы основаны на экспериментальных данных, опубликованных в Aging Cell; клиническое значение требует дальнейших исследований",
+            "Работа указывает на молекулярные пути, которые можно изучать для будущих терапий, но это не доказательство доступного лечения"
+          ]
+        },
+        "uk": {
+          "title": "ZNF865: ген, пов'язаний із зниженням сенесценції міжхребцевих дисків",
+          "summary": "Дослідники повідомили в Aging Cell, що ген ZNF865 впливає на клітинну сенесценцію в міжхребцевих дисках і може зачіпати процеси, пов'язані з болем у нижній частині спини. Дослідження ідентифікує ZNF865 як регулятор, який у моделях може модулювати дегенерацію дисків.",
+          "whyItMatters": "Виявлення генів, що впливають на тканинну сенесценцію, допомагає прояснити біологічні чинники вікової дегенерації та виділяє потенційні мішені для подальших досліджень.",
+          "takeaways": [
+            "ZNF865 був пов'язаний з регуляцією клітинної сенесценції в тканинах міжхребцевих дисків",
+            "Висновки походять з експериментальних досліджень, опублікованих в Aging Cell; клінічне значення потребує додаткових досліджень",
+            "Робота вказує на молекулярні шляхи для подальших досліджень, але не є доказом наявного лікування"
+          ]
+        },
+        "fr": {
+          "title": "ZNF865 : un gène lié à une réduction de la sénescence des disques intervertébraux",
+          "summary": "Des chercheurs rapportent dans Aging Cell que le gène ZNF865 influence la sénescence cellulaire dans les disques intervertébraux et pourrait affecter des processus sous‑tendant les douleurs lombaires. L'étude identifie ZNF865 comme un régulateur susceptible de moduler la dégénérescence discale dans des modèles expérimentaux.",
+          "whyItMatters": "Identifier des gènes influençant la sénescence tissulaire aide à clarifier les contributeurs biologiques à la dégénérescence liée à l'âge et met en lumière des cibles potentielles pour la recherche.",
+          "takeaways": [
+            "ZNF865 est impliqué dans la régulation de la sénescence cellulaire au sein du tissu des disques intervertébraux",
+            "Les résultats proviennent de recherches expérimentales publiées dans Aging Cell ; la pertinence clinique nécessite davantage d'études",
+            "Le travail pointe vers des voies moléculaires à explorer pour de futures thérapies, mais n'est pas la preuve d'un traitement disponible"
+          ]
+        },
+        "de": {
+          "title": "ZNF865: ein Gen, das mit verringerter zellulärer Seneszenz in Bandscheiben in Verbindung steht",
+          "summary": "Forschende berichteten in Aging Cell, dass das Gen ZNF865 die zelluläre Seneszenz in Bandscheiben beeinflusst und möglicherweise Prozesse beeinflusst, die Rückenschmerzen zugrunde liegen. Die Studie identifiziert ZNF865 als Regulator, der die Bandscheibendegeneration in experimentellen Modellen modulieren könnte.",
+          "whyItMatters": "Die Identifizierung von Genen, die die Gewebeseneszenz beeinflussen, hilft, biologische Beitragende zu altersbedingter Degeneration zu klären und hebt potenzielle Forschungsziele hervor.",
+          "takeaways": [
+            "ZNF865 wurde mit der Regulierung zellulärer Seneszenz im Bandscheibengewebe in Verbindung gebracht",
+            "Ergebnisse stammen aus experimenteller Forschung, veröffentlicht in Aging Cell; klinische Relevanz erfordert weitere Untersuchungen",
+            "Die Arbeit weist auf molekulare Wege hin, die für künftige Therapieforschung erkundet werden könnten, ist aber kein Beleg für eine verfügbare Behandlung"
+          ]
+        },
+        "pt-br": {
+          "title": "ZNF865: um gene ligado à redução da senescência em discos intervertebrais",
+          "summary": "Pesquisadores relataram em Aging Cell que o gene ZNF865 influencia a senescência celular em discos intervertebrais e pode afetar processos subjacentes à dor lombar. O estudo identifica ZNF865 como um regulador que poderia modular a degeneração discal em modelos experimentais.",
+          "whyItMatters": "Identificar genes que influenciam a senescência tecidual ajuda a esclarecer contribuintes biológicos para a degeneração relacionada à idade e destaca alvos potenciais para pesquisa.",
+          "takeaways": [
+            "ZNF865 foi implicado na regulação da senescência celular em tecido de discos intervertebrais",
+            "Achados vêm de pesquisa experimental publicada em Aging Cell; relevância clínica requer mais estudos",
+            "O trabalho aponta vias moleculares que podem ser exploradas para futuras terapias, mas não é evidência de um tratamento disponível"
+          ]
+        },
+        "hu": {
+          "title": "ZNF865: a gén, amely a gerincporc sejtes szeneszcenciájának csökkenéséhez lehet kötött",
+          "summary": "Aging Cellben közölt kutatások szerint a ZNF865 jelű gén befolyásolja a sejtes szeneszcenciát a gerinc porckorongjaiban, és hatással lehet az alsó hátfájás mögötti folyamatokra. A tanulmány azt azonosítja, hogy a ZNF865 szabályozóként működhet, amely kísérleti modellekben befolyásolja a porckorongsorvadást.",
+          "whyItMatters": "Az olyan gének azonosítása, amelyek befolyásolják a szöveti szeneszcenciát, segít megvilágítani az életkorral összefüggő degeneráció biológiai tényezőit és kiemel potenciális kutatási célpontokat.",
+          "takeaways": [
+            "A ZNF865-t a porckorongszövet sejtes szeneszcenciájának szabályozásával hozták összefüggésbe",
+            "Az eredmények kísérleti kutatásból származnak és az Aging Cellben jelentek meg; klinikai jelentőségük további vizsgálatot igényel",
+            "A munka molekuláris útvonalakra világít rá, amelyeket jövőbeni terápiák kutatására lehetne felhasználni, de nem bizonyít elérhető kezelést"
+          ]
+        },
+        "ar": {
+          "title": "ZNF865: جين مرتبط بتقليل شيخوخة الخلايا في الأقراص الفقرية",
+          "summary": "أفادت أبحاث منشورة في Aging Cell أن الجين ZNF865 يؤثر على شيخوخة الخلايا (sénescence) في أقراص العمود الفقري وقد يؤثر على العمليات المرتبطة بألم أسفل الظهر. تحدد الدراسة ZNF865 كمنظم يمكن أن يعديل تآكل الأقراص في نماذج تجريبية.",
+          "whyItMatters": "تحديد الجينات التي تؤثر على شيخوخة الأنسجة يساعد في توضيح المساهمات البيولوجية في الانحلال المرتبط بالعمر ويبرز أهدافًا بحثية محتملة.",
+          "takeaways": [
+            "تم ربط ZNF865 بتنظيم شيخوخة الخلايا داخل نسيج الأقراص الفقرية",
+            "النتائج ناتجة عن أبحاث تجريبية نُشرت في Aging Cell؛ الأهمية السريرية تتطلب مزيدًا من الدراسة",
+            "يشير العمل إلى مسارات جزيئية يمكن استكشافها لعلاجات مستقبلية لكنه لا يثبت وجود علاج متاح"
+          ]
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lifespan-2026-10-12-znf865",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-2026-10-12-znf865-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lifespan-2026-10-12-znf865-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ZNF865: a gene linked to reduced spinal disc senescence.\nStory summary: Researchers reported in Aging Cell that the gene ZNF865 influences cellular senescence in spinal discs and may affect processes underlying lower back pain. The study identifies ZNF865 as a regulator that could modulate disc degeneration in experimental models..\nCategory: longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "article-6",
@@ -233,122 +973,6 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds oleic and palmitic acids trigger inflammatory cell‑death pathways in CD4+ T cells.\nStory summary: A Cell Metabolism study reported that both oleic acid (a monounsaturated fat) and palmitic acid (a saturated fat) increased mRNA for genes tied to pyroptosis in CD4+ T cells in a dose‑dependent way, and oleic acid treatment raised protein markers and release of IL‑1β and IL‑18. The authors also present evidence that oleic acid may induce necroptosis in these immune cells..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
-    },
-    {
-      "id": "article-5",
-      "category": "medicine",
-      "sourceName": "nature.com",
-      "sourceUrl": "https://www.nature.com/articles/s43587-026-01239-3",
-      "sourceTitle": "Naive T cell decline limits cancer immunity in middle-aged male mice",
-      "publishedAt": null,
-      "languages": {
-        "en": {
-          "title": "Study in mice links loss of naive CD8+ T cells to weaker cancer immunity in middle-aged males",
-          "summary": "Research reported in Nature Aging used mouse models and supporting human data to show that accelerated loss of naive CD8+ T cells in male mice reduces lymph node size and limits recognition of cancer antigens. Restoring thymic output replenished naive T cells and improved responses to immunotherapy in middle‑aged males.",
-          "whyItMatters": "Age‑ and sex‑related changes in the immune system can affect how well the body recognises and responds to cancer and to immunotherapies. These results point to potential strategies to improve immune responsiveness in middle age.",
-          "takeaways": [
-            "The study observed a faster decline of naive CD8+ T cells in middle‑aged male mice, linked to reduced cancer antigen recognition.",
-            "Restoring thymic output in mice replenished naive cells and enhanced immunotherapy responses.",
-            "Human supporting data were included, but translation to clinical practice will require further research.",
-            "Findings may help explain sex and age differences in cancer immune responses and inform future interventions."
-          ]
-        },
-        "es": {
-          "title": "Estudio en ratones vincula pérdida de células T CD8+ naïvas con menor inmunidad contra el cáncer en machos de mediana edad",
-          "summary": "Una investigación publicada en Nature Aging empleó modelos murinos y datos humanos complementarios para mostrar que la pérdida acelerada de células T CD8+ naïvas en ratones machos reduce el tamaño de los ganglios linfáticos y limita el reconocimiento de antígenos tumorales. Restaurar la producción tímica repobló las células naïvas y mejoró las respuestas a la inmunoterapia en machos de mediana edad.",
-          "whyItMatters": "Los cambios inmunitarios relacionados con la edad y el sexo pueden afectar cómo el organismo reconoce y responde al cáncer y a las inmunoterapias. Estos resultados señalan posibles estrategias para mejorar la respuesta inmune en la mediana edad.",
-          "takeaways": [
-            "El estudio observó un declive más rápido de las células T CD8+ naïvas en ratones machos de mediana edad, asociado a una menor capacidad para reconocer antígenos tumorales.",
-            "Restaurar la producción tímica en ratones reabasteció las células naïvas y potenció las respuestas a la inmunoterapia.",
-            "Se incluyeron datos de apoyo en humanos, pero la traducción a la práctica clínica requerirá más investigación.",
-            "Los hallazgos podrían ayudar a explicar diferencias por sexo y edad en las respuestas inmunes al cáncer y orientar futuras intervenciones."
-          ]
-        },
-        "ru": {
-          "title": "Исследование на мышах связывает потерю наивных CD8+ Т‑клеток с ослаблением противораковой иммунности у самцов среднего возраста",
-          "summary": "Работа, опубликованная в Nature Aging, с использованием мышиных моделей и сопутствующих человеческих данных показала, что ускоренная утрата наивных CD8+ Т‑клеток у самцов мышей приводит к уменьшению лимфатических узлов и снижению распознавания опухолевых антигенов. Восстановление тимической продукции восполнило наивные клетки и улучшило ответы на иммунотерапию у самцов среднего возраста.",
-          "whyItMatters": "Возраст‑ и пол‑зависящие изменения иммунной системы могут влиять на то, как организм распознаёт и реагирует на рак и иммунотерапию. Эти результаты указывают на потенциальные стратегии повышения иммунной реактивности в среднем возрасте.",
-          "takeaways": [
-            "В исследовании отмечалось более быстрое снижение наивных CD8+ Т‑клеток у мышей‑самцов среднего возраста, связанное со снижением распознавания опухолевых антигенов.",
-            "Восстановление тимической продукции у мышей пополнило наивные клетки и усилило ответы на иммунотерапию.",
-            "Приведены поддерживающие данные по людям, но перенос в клиническую практику потребует дальнейших исследований.",
-            "Результаты могут помочь объяснить половые и возрастные различия в противоопухолевых иммунных ответах и направить будущие вмешательства."
-          ]
-        },
-        "uk": {
-          "title": "Дослідження на мишах пов’язує втрату наївних CD8+ Т‑клітин зі слабшим імунітетом проти раку в середньому віці самців",
-          "summary": "Дослідження, опубліковане в Nature Aging, використало моделі на мишах та допоміжні людські дані й показало, що прискорена втрата наївних CD8+ Т‑клітин у самців‑мишей зменшує розмір лімфатичних вузлів і обмежує розпізнавання антигенів пухлини. Відновлення продукції наївних Т‑клітин тимусом поповнило їхній запас і покращило відповіді на імунотерапію у самців середнього віку.",
-          "whyItMatters": "Зміни імунної системи, повʼязані з віком і статтю, можуть впливати на здатність організму розпізнавати та відповідати на рак і на імунотерапію. Результати вказують на потенційні стратегії підвищення імунної реагованості в середньому віці.",
-          "takeaways": [
-            "Дослідження зафіксувало швидше зниження наївних CD8+ Т‑клітин у самців середнього віку, що повʼязане зі зменшеним розпізнаванням антигенів раку.",
-            "Відновлення продукції Т‑клітин у тимусі у мишей поповнило наївні клітини і покращило відповіді на імунотерапію.",
-            "У дослідженні були наведені допоміжні людські дані, але перенесення цих висновків у клінічну практику потребує додаткових досліджень.",
-            "Висновки можуть допомогти пояснити відмінності за статтю та віком у імунній відповіді на рак і спрямувати майбутні втручання."
-          ]
-        },
-        "fr": {
-          "title": "Étude chez la souris lie la perte de cellules T CD8+ naïves à une moindre immunité anticancéreuse chez les mâles d’âge moyen",
-          "summary": "Une recherche publiée dans Nature Aging, utilisant des modèles murins et des données humaines complémentaires, a montré qu’une perte accélérée de cellules T CD8+ naïves chez les mâles réduit la taille des ganglions lymphatiques et limite la reconnaissance des antigènes tumoraux. La restauration de la production thymique a reconstitué les cellules naïves et amélioré les réponses à l’immunothérapie chez les mâles d’âge moyen.",
-          "whyItMatters": "Les changements immunitaires liés à l’âge et au sexe peuvent affecter la capacité de l’organisme à reconnaître et à répondre au cancer et aux immunothérapies. Ces résultats pointent vers des stratégies potentielles pour améliorer la réactivité immunitaire à l’âge moyen.",
-          "takeaways": [
-            "L’étude a observé un déclin plus rapide des cellules T CD8+ naïves chez les mâles d’âge moyen, associé à une réduction de la reconnaissance des antigènes tumoraux.",
-            "La restauration de la production thymique chez la souris a reconstitué les cellules naïves et renforcé les réponses à l’immunothérapie.",
-            "Des données humaines complémentaires ont été incluses, mais la traduction en pratique clinique nécessitera des recherches supplémentaires.",
-            "Les résultats pourraient aider à expliquer les différences liées au sexe et à l’âge dans les réponses immunitaires au cancer et orienter de futurs interventions."
-          ]
-        },
-        "de": {
-          "title": "Studie an Mäusen verbindet Verlust naiver CD8+‑T‑Zellen mit schwächerer Krebsimmunität bei mittelalten Männchen",
-          "summary": "In Nature Aging berichtete Forschung mit Mausmodellen und ergänzenden Human‑Daten, dass ein beschleunigter Verlust naiver CD8+‑T‑Zellen bei männlichen Mäusen die Größe der Lymphknoten vermindert und die Erkennung von Krebsantigenen einschränkt. Die Wiederherstellung der thymischen Produktion füllte die naiven T‑Zellen wieder auf und verbesserte die Reaktionen auf Immuntherapie bei mittelalten Männchen.",
-          "whyItMatters": "Alters‑ und geschlechtsbezogene Veränderungen des Immunsystems können beeinflussen, wie gut der Körper Krebs und Immuntherapien erkennt und darauf reagiert. Diese Ergebnisse deuten auf mögliche Strategien hin, die Immunantwort in der mittleren Lebensphase zu verbessern.",
-          "takeaways": [
-            "Die Studie beobachtete einen schnelleren Rückgang naiver CD8+‑T‑Zellen bei mittelalten männlichen Mäusen, verbunden mit verminderter Erkennung von Krebsantigenen.",
-            "Die Wiederherstellung der thymischen Produktion in Mäusen füllte die naiven Zellen auf und verstärkte die Reaktion auf Immuntherapie.",
-            "Es wurden unterstützende Daten aus Menschen einbezogen, doch die Übertragung auf die klinische Praxis erfordert weitere Forschung.",
-            "Die Befunde könnten helfen, Geschlechts‑ und Altersunterschiede in der krebsbezogenen Immunantwort zu erklären und künftige Interventionen zu informieren."
-          ]
-        },
-        "pt-br": {
-          "title": "Estudo em camundongos liga perda de células T CD8+ naïves a imunidade antitumoral mais fraca em machos de meia‑idade",
-          "summary": "Pesquisa publicada na Nature Aging usou modelos de camundongo e dados humanos de apoio para mostrar que a perda acelerada de células T CD8+ naïves em camundongos machos reduz o tamanho dos linfonodos e limita o reconhecimento de antígenos tumorais. Restaurar a produção tímica reabasteceu as células T naïves e melhorou as respostas à imunoterapia em machos de meia‑idade.",
-          "whyItMatters": "Alterações imunológicas relacionadas à idade e ao sexo podem afetar o quanto o organismo reconhece e responde ao câncer e às imunoterapias. Esses resultados apontam para estratégias potenciais para melhorar a responsividade imunológica na meia‑idade.",
-          "takeaways": [
-            "O estudo observou um declínio mais rápido das células T CD8+ naïves em camundongos machos de meia‑idade, associado à redução no reconhecimento de antígenos tumorais.",
-            "Restaurar a produção tímica em camundongos reabasteceu as células naïves e aumentou a resposta à imunoterapia.",
-            "Foram incluídos dados de apoio humanos, mas a tradução para a prática clínica exigirá mais pesquisa.",
-            "As descobertas podem ajudar a explicar diferenças por sexo e idade nas respostas imunes ao câncer e orientar intervenções futuras."
-          ]
-        },
-        "hu": {
-          "title": "Egérkutatás: a naiv CD8+ T‑sejtek elvesztése gyengébb rákellenes immunitáshoz kötődik középkorú hím egyedeknél",
-          "summary": "A Nature Agingben megjelent kutatás egérmodelleket és támogató emberi adatokat használt annak bemutatására, hogy a naiv CD8+ T‑sejtek gyorsabb elvesztése hím egerekben csökkentette a nyirokcsomó méretét és korlátozta a rákantigének felismerését. A thymus kimenetének helyreállítása pótolta a naiv T‑sejteket és javította az immunterápiára adott választ középkorú hímeken.",
-          "whyItMatters": "Az életkorral és nemmel összefüggő változások az immunrendszerben befolyásolhatják, hogy a szervezet mennyire ismeri fel és reagál a rákra és az immunterápiákra. Ezek az eredmények potenciális stratégiákra utalnak az immunválasz erősítésére középkorban.",
-          "takeaways": [
-            "A tanulmány gyorsabb naiv CD8+ T‑sejtcsökkenést észlelt középkorú hím egerekben, ami a rákantigének felismerésének csökkenéséhez kapcsolódott.",
-            "A thymus kimenetének helyreállítása pótolta a naiv sejteket és fokozta az immunterápiás válaszokat az egerekben.",
-            "Támogató emberi adatok szerepeltek a tanulmányban, de a klinikai alkalmazásig további kutatás szükséges.",
-            "Az eredmények segíthetnek megmagyarázni a nemek és az életkor közötti különbségeket a rákimmunválaszokban, és informálhatják a jövőbeli beavatkozásokat."
-          ]
-        },
-        "ar": {
-          "title": "دراسة على الفئران تربط فقدان خلايا T CD8+ البدائية بضعف المناعة ضد السرطان لدى الذكور في منتصف العمر",
-          "summary": "أظهرت أبحاث نُشرت في Nature Aging باستخدام نماذج فأرية وبيانات داعمة من البشر أن فقدان الخلايا البدائية CD8+ بوتيرة أسرع لدى الفئران الذكور يقلل من حجم العقد اللمفاوية ويحد من تعرف الجهاز المناعي على مستضدات السرطان. إعادة إنتاج المخرج التيموسي أعادت الخلايا البدائية وحسّنت الاستجابات للعلاج المناعي لدى الذكور في منتصف العمر.",
-          "whyItMatters": "يمكن أن تؤثر التغيرات المرتبطة بالعمر والجنس في الجهاز المناعي على قدرة الجسم على التعرف والاستجابة للسرطان وللعلاجات المناعية. تشير هذه النتائج إلى استراتيجيات محتملة لتحسين الاستجابة المناعية في منتصف العمر.",
-          "takeaways": [
-            "لوحظ انخفاض أسرع في الخلايا البدائية CD8+ لدى الفئران الذكور في منتصف العمر، مرتبطًا بتراجع في تعرفها على مستضدات السرطان.",
-            "أدى استعادة إنتاج الغدة الصعترية إلى تجديد الخلايا البدائية وتحسين استجابة العلاج المناعي في الفئران.",
-            "تضمنت الدراسة بيانات داعمة من البشر، لكن ترجمة النتائج إلى الممارسة السريرية تتطلب مزيدًا من البحث.",
-            "قد تساعد النتائج في تفسير الفروق بين الجنسين والعمر في الاستجابات المناعية للسرطان وتوجيه تدخلات مستقبلية."
-          ]
-        }
-      },
-      "generatedAt": "2026-10-12T15:47:44.738Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article-5",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-5-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-5-news.webp",
-      "imageProvider": "openai",
-      "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study in mice links loss of naive CD8+ T cells to weaker cancer immunity in middle-aged males.\nStory summary: Research reported in Nature Aging used mouse models and supporting human data to show that accelerated loss of naive CD8+ T cells in male mice reduces lymph node size and limits recognition of cancer antigens. Restoring thymic output replenished naive T cells and improved responses to immunotherapy in middle‑aged males..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "article-3",
@@ -97711,7 +98335,7 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO responds to U.S. notification of withdrawal, flags risks to global health cooperation.\nStory summary: WHO expressed regret over the United States' notification of withdrawal and noted that the decision raises issues related to global health security; the matter was slated for consideration by WHO governing bodies. The statement frames the withdrawal as having potential implications for shared health action and emergency response..\nCategory: global health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
-      "id": "article-4",
+      "id": "harvard-nutritionsource-2026-01-09-dgas",
       "category": "nutrition",
       "sourceName": "nutritionsource.hsph.harvard.edu",
       "sourceUrl": "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030/",
@@ -97719,115 +98343,370 @@
       "publishedAt": "Fri, 09 Jan 2026 22:21:19 +0000",
       "languages": {
         "en": {
-          "title": "2025–2030 Dietary Guidelines emphasize real food and limits on added sugar despite mixed visuals",
-          "summary": "The 2025–2030 Dietary Guidelines for Americans promote a shift toward minimally processed foods and stronger limits on added sugars and highly processed items. The guidelines also introduced a new, pyramid‑style visual that gives prominent space to foods like red meat and full‑fat dairy, yet the numeric cap on saturated fat (10% of calories) remains in place.",
-          "whyItMatters": "These federal guidelines influence public nutrition messaging, institutional food policies and consumer perceptions; changes in emphasis and presentation can shape dietary choices and industry responses.",
+          "title": "Key takeaways from the 2025–2030 Dietary Guidelines for Americans",
+          "summary": "The 2025–2030 Dietary Guidelines emphasize eating minimally processed foods and tightening limits on added sugars while retaining a longstanding cap on saturated fat at 10% of calories. The update also includes a new visual that highlights a range of foods, including some animal products, which has sparked discussion about presentation versus numeric limits.",
+          "whyItMatters": "The Guidelines influence U.S. nutrition policy, public health messaging and food programs, so changes in emphasis and visuals affect what policymakers and consumers see as priorities.",
           "takeaways": [
-            "Guidelines reiterate a limit of 10% of calories from saturated fat despite visual prominence of some higher‑fat foods.",
-            "There is an increased focus on reducing added sugars and highly processed foods.",
-            "The new visual presentation may cause confusion between graphic emphasis and specific nutrient limits.",
-            "The Guidelines continue to promote overall dietary patterns rather than single “magic” foods."
+            "Guidelines reinforce limits on added sugars and processed foods while keeping saturated fat ≤10% of calories",
+            "A new graphic highlights a broader set of foods, prompting debate about visual emphasis versus stated limits",
+            "Policy and consumer guidance will likely reflect both the numeric recommendations and how they are communicated"
           ]
         },
         "es": {
-          "title": "Las Guías Alimentarias 2025–2030 enfatizan alimentos reales y límites al azúcar añadido pese a imágenes contradictorias",
-          "summary": "Las Guías Alimentarias para los estadounidenses 2025–2030 promueven un cambio hacia alimentos mínimamente procesados y límites más estrictos al azúcar añadido y a los productos muy procesados. Las guías también introdujeron un nuevo gráfico tipo pirámide que da espacio destacado a alimentos como la carne roja y los lácteos enteros, aunque el tope numérico para la grasa saturada (10% de las calorías) se mantiene.",
-          "whyItMatters": "Estas guías federales influyen en la comunicación pública sobre nutrición, las políticas alimentarias institucionales y la percepción de los consumidores; los cambios en el énfasis y la presentación pueden moldear las decisiones dietéticas y las respuestas de la industria.",
+          "title": "Puntos clave de las Guías Alimentarias para los Estadounidenses 2025–2030",
+          "summary": "Las Guías Alimentarias 2025–2030 enfatizan el consumo de alimentos mínimamente procesados y endurecen los límites sobre azúcares añadidos, manteniendo al mismo tiempo el límite tradicional de grasa saturada en el 10% de las calorías. La actualización también incluye un nuevo gráfico que destaca una variedad de alimentos, incluidos algunos productos animales, lo que ha generado debate sobre la presentación frente a los límites numéricos.",
+          "whyItMatters": "Las Guías influyen en la política nutricional de EE. UU., la comunicación de salud pública y los programas alimentarios, por lo que cambios en el énfasis y en las imágenes afectan lo que responsables y consumidores consideran prioritario.",
           "takeaways": [
-            "Las guías reafirman un límite del 10% de las calorías procedentes de grasa saturada, pese al protagonismo gráfico de algunos alimentos más grasos.",
-            "Hay un mayor enfoque en reducir azúcares añadidos y alimentos altamente procesados.",
-            "La nueva presentación visual puede generar confusión entre el énfasis gráfico y los límites nutricionales específicos.",
-            "Las Guías siguen promoviendo patrones dietéticos generales en lugar de alimentos “mágicos” aislados."
+            "Las Guías refuerzan límites sobre azúcares añadidos y alimentos procesados mientras mantienen la grasa saturada ≤10% de las calorías",
+            "Un nuevo gráfico resalta un conjunto más amplio de alimentos, lo que ha provocado debate sobre el énfasis visual frente a los límites numéricos",
+            "Las políticas y orientaciones al consumidor probablemente reflejarán tanto las recomendaciones numéricas como la forma en que se comunican"
           ]
         },
         "ru": {
-          "title": "Руководство по питанию 2025–2030 подчёркивает цельную пищу и ограничения добавленного сахара, несмотря на смешанные визуальные акценты",
-          "summary": "Руководство по питанию для американцев на 2025–2030 годы пропагандирует сдвиг в сторону минимально обработанных продуктов и более строгие ограничения на добавленный сахар и сильнo обработанные продукты. В руководство также введён новый пирамидообразный визуальный образ, который выделяет такие продукты, как красное мясо и цельномолочные продукты, хотя числовой предел по насыщенным жирам (10% от калорий) остался в силе.",
-          "whyItMatters": "Это федеральное руководство влияет на публичные сообщения о питании, институциональные пищевые политики и представления потребителей; изменения в акцентах и подаче могут формировать выбор питания и реакцию отрасли.",
+          "title": "Основные выводы из Руководства по питанию для американцев 2025–2030",
+          "summary": "Руководство 2025–2030 подчёркивает употребление минимально обработанных продуктов и ужесточение ограничений на добавленные сахара при сохранении долгосрочного предела по насыщенным жирам — 10% калорий. Обновление также включает новый визуальный элемент, который подчёркивает широкий набор продуктов, включая некоторые животные продукты, что вызвало обсуждение о представлении по отношению к числовым ограничениям.",
+          "whyItMatters": "Руководство влияет на политику США в области питания, сообщения общественного здравоохранения и продовольственные программы, поэтому изменения в акцентах и визуализации влияют на представления политиков и потребителей о приоритетах.",
           "takeaways": [
-            "Руководство повторно подтверждает предел в 10% калорий из насыщенных жиров, несмотря на визуальное выделение некоторых более жирных продуктов.",
-            "Увеличено внимание к сокращению добавленных сахаров и сильно обработанных продуктов.",
-            "Новая визуальная подача может вызвать путаницу между графическим акцентом и конкретными питательными ограничениями.",
-            "Руководство по‑прежнему продвигает общие пищевые модели, а не отдельные «волшебные» продукты."
+            "Руководство подтверждает ограничения на добавленные сахара и обработанные продукты, сохраняя насыщенные жиры ≤10% калорий",
+            "Новый график выделяет более широкий набор продуктов, что вызвало дебаты о визуальном акценте по сравнению с числовыми ограничениями",
+            "Политика и рекомендации для потребителей, вероятно, будут учитывать как числовые рекомендации, так и их коммуникативное представление"
           ]
         },
         "uk": {
-          "title": "Дієтичні керівні принципи США 2025–2030 наголошують на цілісній їжі та обмеженні доданого цукру попри неоднозначний візуальний дизайн",
-          "summary": "Дієтичні рекомендації США на 2025–2030 роки пропонують зсув у бік мінімально оброблених продуктів і жорсткіші обмеження на доданий цукор та сильно перероблені продукти. У рекомендаціях також представлено нову візуалізацію у формі піраміди, яка надає помітне місце продуктам, як‑от червоне мʼясо та повножирні молочні вироби, водночас числове обмеження на насичені жири (10% калорій) зберігається.",
-          "whyItMatters": "Ці федеральні керівні принципи впливають на громадські повідомлення про харчування, політику харчування в інституціях і сприйняття споживачів; зміни у наголосі та представленні можуть формувати харчові вибори й реакцію індустрії.",
+          "title": "Ключові висновки з Дієтичних рекомендацій для американців 2025–2030",
+          "summary": "Дієтичні рекомендації 2025–2030 наголошують на вживанні мінімально перероблених продуктів і посиленні обмежень на додані цукри, зберігаючи одночасно усталене обмеження насичених жирів на рівні 10% калорій. Оновлення також містить нову візуалізацію, яка підкреслює різноманітність продуктів, включно з деякими тваринними, що викликало дискусію про презентацію візуалу порівняно з числовими обмеженнями.",
+          "whyItMatters": "Рекомендації впливають на політику харчування в США, громадське здоров'я та харчові програми, тож зміни в акцентах та візуалізації впливають на те, що політики та споживачі вважають пріоритетом.",
           "takeaways": [
-            "Керівні принципи підтверджують обмеження насичених жирів до 10% калорій, незважаючи на помітне місце деяких продуктів із вищим вмістом жиру у візуалізації.",
-            "Посилено увагу до зниження доданого цукру та сильно перероблених продуктів.",
-            "Нова візуальна подача може спричинити плутанину між графічним виділенням і конкретними обмеженнями по нутрієнтах.",
-            "Керівні принципи й надалі просувають загальні дієтичні моделі, а не окремі «чудо» продукти."
+            "Рекомендації підтверджують обмеження на додані цукри та оброблені продукти й зберігають насичені жири ≤10% калорій",
+            "Нова графіка підкреслює ширший набір продуктів, що спричинило дискусію про візуальний акцент порівняно з числовими рекомендаціями",
+            "Політика та поради для споживачів ймовірно віддзеркалюватимуть як числові рекомендації, так і спосіб їх комунікації"
           ]
         },
         "fr": {
-          "title": "Les recommandations alimentaires 2025–2030 insistent sur les aliments « vrais » et les limites de sucres ajoutés malgré des visuels ambigus",
-          "summary": "Les Dietary Guidelines for Americans 2025–2030 encouragent un passage vers les aliments peu transformés et des limites plus strictes sur les sucres ajoutés et les aliments fortement transformés. Les directives introduisent également un nouveau visuel de type pyramide qui accorde une place visible à des aliments comme la viande rouge et les produits laitiers entiers, alors que le plafond numérique pour les graisses saturées (10 % des calories) reste en vigueur.",
-          "whyItMatters": "Ces directives fédérales influencent la communication publique sur la nutrition, les politiques alimentaires institutionnelles et les perceptions des consommateurs ; les changements d’emphase et de présentation peuvent orienter les choix alimentaires et les réponses de l’industrie.",
+          "title": "Principaux enseignements des Lignes directrices alimentaires pour les Américains 2025–2030",
+          "summary": "Les directives 2025–2030 insistent sur la consommation d'aliments peu transformés et le renforcement des limites sur les sucres ajoutés, tout en maintenant le plafond historique des graisses saturées à 10 % des calories. La mise à jour inclut également un nouveau visuel mettant en avant une gamme d'aliments, y compris certains produits animaux, ce qui a suscité un débat sur la présentation visuelle versus les limites chiffrées.",
+          "whyItMatters": "Ces directives influencent la politique nutritionnelle américaine, la communication en santé publique et les programmes alimentaires, donc les changements de priorités et de visuels affectent la perception des décideurs et des consommateurs.",
           "takeaways": [
-            "Les directives réitèrent une limite de 10 % des calories provenant des graisses saturées malgré la mise en avant graphique de certains aliments plus riches en graisses.",
-            "L’accent est renforcé sur la réduction des sucres ajoutés et des aliments fortement transformés.",
-            "La nouvelle présentation visuelle peut créer une confusion entre l’emphase graphique et les limites nutritives spécifiques.",
-            "Les directives continuent de promouvoir des schémas alimentaires globaux plutôt que des aliments « miraculeux » isolés."
+            "Les directives réaffirment les limites sur les sucres ajoutés et les aliments transformés tout en maintenant les graisses saturées ≤10 % des calories",
+            "Un nouveau graphique met en avant un ensemble plus large d'aliments, suscitant un débat sur l'accent visuel par rapport aux limites numériques",
+            "Les politiques et conseils aux consommateurs refléteront probablement à la fois les recommandations chiffrées et la façon dont elles sont communiquées"
           ]
         },
         "de": {
-          "title": "Diätleitlinien 2025–2030 betonen echte Lebensmittel und Limits für zugesetzten Zucker trotz gemischter Darstellungen",
-          "summary": "Die 2025–2030 Dietary Guidelines for Americans fördern eine Verschiebung hin zu minimal verarbeiteten Lebensmitteln und stärkere Begrenzungen für zugesetzten Zucker und stark verarbeitete Produkte. Die Leitlinien stellten auch eine neue, pyramidenähnliche Grafik vor, die Lebensmitteln wie rotem Fleisch und Vollfettmilch sichtbaren Raum gibt, während die numerische Grenze für gesättigte Fette (10 % der Kalorien) bestehen bleibt.",
-          "whyItMatters": "Diese bundesweiten Leitlinien beeinflussen öffentliche Ernährungsbotschaften, institutionelle Verpflegungspolitiken und Verbraucherwahrnehmungen; Änderungen in Schwerpunktsetzung und Darstellung können Ernährungsentscheidungen und Reaktionen der Industrie mitgestalten.",
+          "title": "Wesentliche Erkenntnisse aus den Dietary Guidelines for Americans 2025–2030",
+          "summary": "Die Dietary Guidelines 2025–2030 betonen den Verzehr möglichst gering verarbeiteter Lebensmittel und eine Verschärfung der Grenzen für zugesetzten Zucker, während die langjährige Obergrenze für gesättigte Fettsäuren bei 10 % der Kalorien beibehalten wird. Das Update enthält außerdem eine neue Darstellung, die eine Bandbreite von Lebensmitteln – einschließlich einiger tierischer Produkte – hervorhebt und Diskussionen über Darstellung versus zahlenmäßige Grenzen ausgelöst hat.",
+          "whyItMatters": "Die Guidelines beeinflussen US‑Ernährungspolitik, öffentliche Gesundheitsbotschaften und Verpflegungsprogramme; Änderungen in Schwerpunktsetzung und Visualisierung wirken sich darauf aus, was politische Entscheidungsträger und Verbraucher als Prioritäten wahrnehmen.",
           "takeaways": [
-            "Die Leitlinien bekräftigen eine Grenze von 10 % der Kalorien aus gesättigten Fetten, trotz visueller Betonung einiger fettreicherer Lebensmittel.",
-            "Es gibt einen verstärkten Fokus auf die Reduktion zugesetzten Zuckers und stark verarbeiteter Lebensmittel.",
-            "Die neue visuelle Darstellung kann zu Verwirrung führen zwischen grafischer Betonung und konkreten Nährstoffgrenzen.",
-            "Die Leitlinien fördern weiterhin ganze Ernährungsmuster statt einzelner ‚Wunder‑Lebensmittel‘."
+            "Guidelines bekräftigen Beschränkungen für zugesetzten Zucker und verarbeitete Lebensmittel und halten gesättigte Fettsäuren ≤10 % der Kalorien",
+            "Eine neue Grafik hebt ein breiteres Set an Lebensmitteln hervor und löst Debatten zur visuellen Betonung gegenüber den numerischen Limits aus",
+            "Politik und Verbraucherleitlinien werden wahrscheinlich sowohl die numerischen Empfehlungen als auch deren Vermittlung berücksichtigen"
           ]
         },
         "pt-br": {
-          "title": "Diretrizes Alimentares 2025–2030 enfatizam alimentos reais e limites para açúcar adicionado apesar de elementos visuais mistos",
-          "summary": "As Dietary Guidelines for Americans 2025–2030 promovem uma mudança para alimentos minimamente processados e limites mais fortes para açúcares adicionados e itens altamente processados. As diretrizes também introduziram um novo gráfico em estilo pirâmide que dá destaque a alimentos como carne vermelha e laticínios integrais, embora o limite numérico para gordura saturada (10% das calorias) permaneça.",
-          "whyItMatters": "Essas diretrizes federais influenciam mensagens públicas sobre nutrição, políticas alimentares institucionais e percepções dos consumidores; mudanças de ênfase e apresentação podem moldar escolhas alimentares e as respostas da indústria.",
+          "title": "Principais conclusões das Dietary Guidelines for Americans 2025–2030",
+          "summary": "As Dietary Guidelines 2025–2030 enfatizam o consumo de alimentos minimamente processados e o endurecimento dos limites para açúcares adicionados, ao mesmo tempo que mantêm o limite histórico para gorduras saturadas em 10% das calorias. A atualização inclui também um novo recurso visual que destaca uma variedade de alimentos, incluindo alguns de origem animal, o que gerou debate sobre apresentação versus limites numéricos.",
+          "whyItMatters": "As Diretrizes influenciam a política nutricional dos EUA, mensagens de saúde pública e programas alimentares, de modo que mudanças em ênfase e visuais afetam o que formuladores e consumidores veem como prioridades.",
           "takeaways": [
-            "As diretrizes reiteram um limite de 10% das calorias provenientes de gordura saturada, apesar do destaque visual de alguns alimentos mais gordurosos.",
-            "Há foco aumentado na redução de açúcares adicionados e alimentos altamente processados.",
-            "A nova apresentação visual pode causar confusão entre ênfase gráfica e limites nutricionais específicos.",
-            "As diretrizes continuam a promover padrões alimentares gerais em vez de alimentos “mágicos” isolados."
+            "Diretrizes reforçam limites para açúcares adicionados e alimentos processados, mantendo saturadas ≤10% das calorias",
+            "Um novo gráfico destaca um conjunto mais amplo de alimentos, provocando debate sobre ênfase visual versus limites numéricos",
+            "Políticas e orientações ao consumidor provavelmente refletirão tanto as recomendações numéricas quanto sua forma de comunicação"
           ]
         },
         "hu": {
-          "title": "A 2025–2030-as Dietary Guidelines a valós ételekre és hozzáadott cukor korlátozására helyezi a hangsúlyt, bár vegyes vizuális üzeneteket tartalmaz",
-          "summary": "A 2025–2030-as Dietary Guidelines for Americans a kevésbé feldolgozott ételek felé történő elmozdulást és a hozzáadott cukrok, valamint a magas feldolgozottságú ételek erősebb korlátozását támogatja. A vezető irányelvek egy új, piramis‑szerű vizuálist is bevezettek, amely hangsúlyos helyet ad olyan ételeknek, mint a vörös hús és a teljes zsírtartalmú tejtermék, miközben a telített zsírra vonatkozó numerikus felső határ (a kalóriák 10%-a) továbbra is érvényben marad.",
-          "whyItMatters": "Ezek a szövetségi irányelvek befolyásolják a nyilvános táplálkozási kommunikációt, intézményi élelmezési politikákat és a fogyasztói megítélést; a hangsúly és a bemutatás változásai alakíthatják az étkezési választásokat és az ipar reakcióit.",
+          "title": "Főbb megállapítások a 2025–2030-as amerikai táplálkozási irányelvekből",
+          "summary": "A 2025–2030-as Dietary Guidelines hangsúlyozza a minimálisan feldolgozott ételek fogyasztását és a hozzáadott cukrok korlátozásának szigorítását, miközben megőrzi a telített zsírra vonatkozó, hosszú ideje érvényes 10%-os kalóriakeretet. A frissítés emellett egy új grafikát is tartalmaz, amely szélesebb élelmiszer‑kínálatot, köztük néhány állati eredetű terméket emel ki, ami vitát váltott ki a megjelenítés és a numerikus korlátok viszonya miatt.",
+          "whyItMatters": "Az irányelvek befolyásolják az amerikai táplálkozási politikát, a közegészségügyi kommunikációt és az élelmezési programokat, így a hangsúly- és vizuális változtatások hatással vannak arra, mit látnak prioritásként a döntéshozók és a fogyasztók.",
           "takeaways": [
-            "Az irányelvek megerősítik a telített zsírra vonatkozó 10% kalória‑határt annak ellenére, hogy néhány magasabb zsírtartalmú étel vizuálisan kiemelt helyet kapott.",
-            "Fokozott figyelmet kap a hozzáadott cukrok és a magas feldolgozottságú ételek csökkentése.",
-            "Az új vizuális bemutatás zavart okozhat a grafikai hangsúly és a konkrét tápanyagkorlátok közötti különbség értelmezésében.",
-            "Az irányelvek továbbra is az átfogó étrendi mintákat népszerűsítik ahelyett, hogy egyetlen „csodafogyasztást” hangsúlyoznának."
+            "Az irányelvek megerősítik a hozzáadott cukrok és a feldolgozott ételek korlátozását, miközben megtartják a telített zsír ≤10% kalória korlátot",
+            "Egy új ábra szélesebb ételeket hangsúlyoz, ami vitát váltott ki a vizuális hangsúly és a számszerű ajánlások közötti összhangról",
+            "A politika és a fogyasztói iránymutatás valószínűleg mind a numerikus ajánlásokat, mind azok kommunikálását tükrözni fogja"
           ]
         },
         "ar": {
-          "title": "إرشادات النظام الغذائي 2025–2030 تؤكد على الأطعمة الحقيقية والحد من السكر المضاف على الرغم من رسائل بصرية متضاربة",
-          "summary": "تشجع إرشادات النظام الغذائي للأمريكيين 2025–2030 التحوّل نحو الأطعمة قليلة المعالجة والقيود الأشد على السكريات المضافة والمنتجات شديدة المعالجة. كما قدمت الإرشادات مرئياً جديداً على شكل هرم يخصص مساحات بارزة لأطعمة مثل اللحوم الحمراء ومنتجات الألبان كاملة الدسم، مع بقاء الحد الرقمي للدهون المشبعة (10% من السعرات) ساريًا.",
-          "whyItMatters": "تؤثر هذه الإرشادات الفدرالية على رسائل التغذية العامة وسياسات تقديم الطعام المؤسسية وإدراك المستهلك؛ ويمكن لتغيّر التركيز وطريقة العرض أن يشكلا اختيارات الغذاء واستجابات الصناعة.",
+          "title": "أهم النقاط من إرشادات الحمية الأمريكية 2025–2030",
+          "summary": "تشدد إرشادات 2025–2030 على تناول الأطعمة قليلة المعالجة وتشدّد حدود السكر المضاف مع الإبقاء على حد قائم منذ زمن لمستوى الدهون المشبعة عند 10% من السعرات. ويتضمن التحديث أيضًا رسمًا جديدًا يبرز مجموعة أوسع من الأطعمة، بما في ذلك بعض المنتجات الحيوانية، مما أثار نقاشًا حول العرض المرئي مقابل الحدود العددية.",
+          "whyItMatters": "تؤثر الإرشادات على سياسات التغذية العامة في الولايات المتحدة والرسائل الصحية العامة وبرامج الغذاء، لذا فإن تغيّر التركيز والعروض البصرية يؤثر على ما يعتبره صانعو السياسات والمستهلكون أولويات.",
           "takeaways": [
-            "تؤكد الإرشادات حد 10% من السعرات للدهون المشبعة رغم بروز بعض الأطعمة الأعلى دهونًا في العرض البصري.",
-            "يزداد التركيز على تقليل السكريات المضافة والأطعمة شديدة المعالجة.",
-            "قد يسبب العرض البصري الجديد لبسًا بين التركيز الرسومي والحدود الغذائية المحددة.",
-            "تواصل الإرشادات الترويج لأنماط غذائية شاملة بدلاً من التركيز على طعام واحد 'سحري'."
+            "الإرشادات تعزز حدودًا على السكريات المضافة والأطعمة المعالجة مع الإبقاء على الدهون المشبعة ≤10% من السعرات",
+            "رسم بياني جديد يبرز مجموعة أوسع من الأطعمة، مما أثار جدلًا حول التأكيد البصري مقابل الحدود الرقمية",
+            "من المرجح أن تعكس السياسات والإرشادات للمستهلكين كلاً من التوصيات العددية وطريقة عرضها"
           ]
         }
       },
-      "generatedAt": "2026-10-12T15:47:44.738Z",
-      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=article-4",
-      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-4-news.webp",
-      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/article-4-news.webp",
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=harvard-nutritionsource-2026-01-09-dgas",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-nutritionsource-2026-01-09-dgas-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/harvard-nutritionsource-2026-01-09-dgas-news.webp",
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
-      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: 2025–2030 Dietary Guidelines emphasize real food and limits on added sugar despite mixed visuals.\nStory summary: The 2025–2030 Dietary Guidelines for Americans promote a shift toward minimally processed foods and stronger limits on added sugars and highly processed items. The guidelines also introduced a new, pyramid‑style visual that gives prominent space to foods like red meat and full‑fat dairy, yet the numeric cap on saturated fat (10% of calories) remains in place..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Key takeaways from the 2025–2030 Dietary Guidelines for Americans.\nStory summary: The 2025–2030 Dietary Guidelines emphasize eating minimally processed foods and tightening limits on added sugars while retaining a longstanding cap on saturated fat at 10% of calories. The update also includes a new visual that highlights a range of foods, including some animal products, which has sparked discussion about presentation versus numeric limits..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-13-motivation-1-story1",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Plan like Maria",
+          "story": "Maria used to skip lunch and then wonder why evenings felt chaotic. She started spending 15 minutes on Sunday to plan simple lunches and snacks, then logged them in the app. Tracking helped her see when she was most hungry and which meals kept her satisfied longer. Some days she adjusted portions or swapped ingredients; other days she didn’t log everything perfectly, and that was okay. Over a few weeks, planning plus consistent logging made eating feel less reactive and more intentional.",
+          "habit": "Plan a week of lunches in 15 minutes.",
+          "appCta": "Try Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Planifica como María",
+          "story": "María solía saltarse el almuerzo y luego sentía que las noches eran un caos. Empezó a dedicar 15 minutos el domingo para planear almuerzos y tentempiés sencillos, y los registró en la app. Llevar el registro le permitió ver cuándo tenía más hambre y qué comidas la mantenían satisfecha por más tiempo. Unos días ajustaba las porciones o cambiaba ingredientes; otros no registraba todo perfectamente, y estaba bien. Con unas semanas de planificación y registro constante, comer dejó de ser reactivo y se volvió más intencional.",
+          "habit": "Reserva 15 minutos para planear comidas.",
+          "appCta": "Prueba Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Планируй как Мария",
+          "story": "Мария раньше пропускала обед, а потом вечерами всё казалось хаотичным. Она стала тратить 15 минут в воскресенье на план простых обедов и перекусов и записывать их в приложении. Отслеживание помогло ей понять, когда она сильнее всего голодна и какие блюда дольше дают ощущение сытости. Иногда она меняла порции или ингредиенты; в другие дни записи были неидеальными — это было нормально. Через несколько недель планирование и регулярный учёт сделали приёмы пищи более спокойными и осознанными.",
+          "habit": "Планируй обеды за 15 минут.",
+          "appCta": "Попробуйте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Плануй як Марія",
+          "story": "Марія раніше пропускала обід, і вечорами все здавалося хаотичним. Вона почала витрачати 15 хвилин у неділю на план простих обідів і перекусів та вносити їх у додаток. Ведення записів допомогло помітити, коли вона найбільше голодна і які страви довше дають відчуття ситості. Деколи вона змінювала порції чи інгредієнти; інші дні записи були неідеальними — і це було нормально. За кілька тижнів планування й регулярний облік зробили харчування спокійнішим і усвідомленішим.",
+          "habit": "Заплануй обіди за 15 хвилин.",
+          "appCta": "Спробуй Calorie Bank Credit та почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Planifier comme Maria",
+          "story": "Maria sautait parfois le déjeuner et se retrouvait ensuite dans un tourbillon le soir. Elle a commencé à consacrer 15 minutes le dimanche pour planifier des déjeuners et snacks simples, puis à les noter dans l’application. Le suivi lui a permis de repérer ses pics de faim et les repas qui la tenaient rassasiée plus longtemps. Certains jours elle ajustait les portions ou échangeait un ingrédient ; d’autres, elle n’était pas parfaite dans ses enregistrements, et ce n’était pas grave. En quelques semaines, planifier et suivre l’a rendu plus serein et réfléchi.",
+          "habit": "Planifie tes déjeuners en 15 minutes.",
+          "appCta": "Teste Calorie Bank Credit et commence à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Plane wie Maria",
+          "story": "Maria hat früher oft das Mittagessen ausgelassen und dann abends das Chaos gespürt. Sie nimmt sich sonntags 15 Minuten Zeit, um einfache Mittagsmahlzeiten und Snacks zu planen und trägt sie in die App ein. Das Tracking half ihr, Hungerphasen und Mahlzeiten zu erkennen, die länger satt machen. An manchen Tagen passte sie Mengen oder Zutaten an, an anderen Tagen ging das Eintragen nicht perfekt — und das war in Ordnung. Nach ein paar Wochen machten Planung und regelmäßiges Eintragen das Essen entspannter und bewusster.",
+          "habit": "Plane deine Mittagsmenüs in 15 Minuten.",
+          "appCta": "Probiere Calorie Bank Credit und beginne noch heute zu verfolgen."
+        },
+        "pt-br": {
+          "title": "Plane como a Maria",
+          "story": "Maria costumava pular o almoço e depois as noites ficavam uma bagunça. Ela passou a dedicar 15 minutos no domingo para planejar almoços e lanches simples e registrá-los no app. O acompanhamento ajudou-a a perceber quando sentia mais fome e quais refeições a mantinham satisfeita por mais tempo. Alguns dias ela ajustava porções ou trocava ingredientes; em outros não registrava tudo perfeitamente, e tudo bem. Em poucas semanas, planejar e registrar com regularidade tornou a alimentação mais tranquila e intencional.",
+          "habit": "Planeje almoços em 15 minutos.",
+          "appCta": "Experimente Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Tervezés, mint Mariánál",
+          "story": "Mari gyakran kihagyta az ebédet, és az esték káosznak tűntek. Elkezdett vasárnap 15 percet szánni egyszerű ebéd- és nassolnivaló-tervek elkészítésére, majd felírta őket az alkalmazásba. A naplózás segített észrevenni, mikor a legéhesebb, és mely ételek tartják jóllakottnak tovább. Néha módosított az adagokon vagy az összetevőkön; voltak napok, amikor nem volt tökéletes a bejegyzés — és ez rendben volt. Néhány hét után a tervezés és a következetes naplózás megnyugtatta az étkezéseket.",
+          "habit": "Tervezd meg az ebédeket 15 perc alatt.",
+          "appCta": "Próbáld ki a Calorie Bank Creditet és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "خطط مثل ماريا",
+          "story": "كانت ماريا تتجاوز الغداء أحيانًا ثم تبدو أمسياتها فوضوية. بدأت تخصّص 15 دقيقة يوم الأحد لتخطيط غداءات ووجبات خفيفة بسيطة ثم تسجلها في التطبيق. ساعدها التتبع على معرفة أوقات الجوع ومتى تبقى الوجبة مُشبِعة لفترة أطول. بعض الأيام كانت تعدّل الحصص أو تبدّل مكوّنًا، وفي أيام أخرى لم تكن تسجيلاتها مثالية — وهذا مقبول. بعد أسابيع قليلة، جعل الجمع بين التخطيط والتسجيل المنتظم الوجبات أكثر هدوءًا ووعياً.",
+          "habit": "خطّط غداءات الأسبوع في 15 دقيقة.",
+          "appCta": "جرّب Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-1-story1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-1-story1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan like Maria.\nStory: Maria used to skip lunch and then wonder why evenings felt chaotic. She started spending 15 minutes on Sunday to plan simple lunches and snacks, then logged them in the app. Tracking helped her see when she was most hungry and which meals kept her satisfied longer. Some days she adjusted portions or swapped ingredients; other days she didn’t log everything perfectly, and that was okay. Over a few weeks, planning plus consistent logging made eating feel less reactive and more intentional..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-13-motivation-2-story2",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Honest logging with James",
+          "story": "James noticed his coffee habit added up: a pastry with a mid-morning latte most days. Instead of cutting it out, he began logging each drink and snack, including the little extras. Seeing the pattern in the app made it easier to choose when to treat himself and when to try an alternative. He didn’t aim for perfect entries every time, but honest logs helped him understand choices and feel in control. Tracking turned small daily decisions into useful information rather than a source of frustration.",
+          "habit": "Log drinks and small snacks this week.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Registro honesto con Jaime",
+          "story": "Jaime advirtió que su hábito del café sumaba: casi todos los días un pastelito con el latte de media mañana. En lugar de eliminarlo, empezó a registrar cada bebida y snack, incluyendo los pequeños extras. Ver ese patrón en la app le ayudó a decidir cuándo darse un gusto y cuándo probar una alternativa. No pretendía anotar todo perfectamente siempre, pero los registros honestos le permitieron comprender sus elecciones y sentirse con más control. El seguimiento convirtió pequeñas decisiones diarias en información útil, no en frustración.",
+          "habit": "Registra bebidas y snacks pequeños esta semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честный учёт с Джеймсом",
+          "story": "Джеймс заметил, что привычка к кофе складывается: почти каждый день булочка с латте. Вместо того чтобы отказываться, он начал фиксировать каждую напиток и перекус, включая мелкие добавки. Видя закономерность в приложении, ему стало проще решать, когда побаловать себя, а когда выбрать альтернативу. Он не стремился к идеальным записям, но честный учёт помог понять выборы и вернуть ощущение контроля. Трекинг превратил мелкие ежедневные решения в полезную информацию, а не в повод для раздражения.",
+          "habit": "Запиши напитки и перекусы на этой неделе.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Чесний запис із Джеймсом",
+          "story": "Джеймс помітив, що його звичка з кавою накопичується: майже щодня — булочка з латте. Замість того, щоб відмовлятися, він почав фіксувати кожен напій і перекус, включно з дрібними додатками. Побачивши закономірність у додатку, йому стало простіше вирішувати, коли дозволити собі приємність, а коли спробувати альтернативу. Він не ставився до записів як до чогось ідеального, але чесний облік допоміг краще розуміти вибір і відчувати контроль. Трекінг перетворив дрібні рішення на корисну інформацію.",
+          "habit": "Запишіть напої й дрібні перекуси цього тижня.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Saisir honnêtement comme Thomas",
+          "story": "Thomas a remarqué que son rituel café coûtait cher en calories : un petit gâteau avec son latte presque tous les matins. Plutôt que de le supprimer, il a commencé à noter chaque boisson et petit encas, même les extras. Voir le schéma dans l’application l’a aidé à décider quand se faire plaisir et quand essayer une alternative. Il ne cherchait pas la perfection dans ses saisies, mais l’honnêteté lui a permis de mieux comprendre ses choix et de se sentir plus maître de la situation. Le suivi a transformé de petites décisions en informations utiles.",
+          "habit": "Note boissons et petits encas cette semaine.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Ehrliches Eintragen mit Jens",
+          "story": "Jens bemerkte, dass sein Kaffee-Ritual sich summierte: fast jeden Morgen ein Stück Gebäck zum Latte. Statt es komplett wegzulassen, begann er, jedes Getränk und jeden Snack, auch die kleinen Extras, in der App zu erfassen. Das Erkennen dieses Musters machte es leichter zu entscheiden, wann er sich etwas gönnt und wann eine Alternative reicht. Er strebte nicht nach perfekten Einträgen, aber ehrliches Tracking half ihm, Entscheidungen nachzuvollziehen und Kontrolle zurückzugewinnen. So wurden kleine Alltagsentscheidungen zu hilfreichen Informationen statt zu Frust.",
+          "habit": "Trage diese Woche Getränke und kleine Snacks ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute zu protokollieren."
+        },
+        "pt-br": {
+          "title": "Registro honesto com João",
+          "story": "João percebeu que o hábito do café acumulava: quase todo dia um docinho com o latte da manhã. Em vez de cortar, ele começou a registrar cada bebida e lanche, inclusive os pequenos extras. Ver esse padrão no app facilitou decidir quando se permitir um agrado e quando buscar uma alternativa. Ele não tentou ser perfeito nos registros, mas a honestidade ajudou a compreender escolhas e a sentir mais controle. O registro transformou pequenas decisões do dia a dia em informação útil, não em motivo de frustração.",
+          "habit": "Registre bebidas e lanches pequenos esta semana.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Őszinte naplózás Jánossal",
+          "story": "János észrevette, hogy a kávézási szokása összegződik: szinte minden reggel egy sütemény a latté mellé. Ahelyett, hogy lemondott volna róla, elkezdett minden italt és nassolnivalót, még a kis extrákat is, beírni az appba. A mintázat látványa megkönnyítette a döntést, mikor kényeztesse magát és mikor válasszon alternatívát. Nem törekedett a tökéletességre, de az őszinte rögzítés segített megérteni a választásokat és visszanyerni az irányítást. A naplózás a napi döntéseket hasznos információvá tette.",
+          "habit": "Jegyezd fel a hét italait és kis nassolnivalóit.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "تسجيل صادق مع جيمس",
+          "story": "لاحظ جيمس أن عادة القهوة تتراكم: معظَم الأيام يشتري مع اللاتيه معجنّة صغيرة. بدلًا من إزالتها، بدأ يسجّل كل مشروب ووجبة خفيفة، بما في ذلك الإضافات الصغيرة. رؤية النمط في التطبيق سهّلت عليه اختيار متى يدلل نفسه ومتى يجرب بديلًا. لم يسعَ لأن يكون دقيقًا تمامًا في كل تسجيل، لكن الصدق في التسجيل ساعده على فهم خياراته والشعور بالمزيد من السيطرة. أصبح التتبع يحول القرارات الصغيرة اليومية إلى معلومات مفيدة بدلًا من إحباط.",
+          "habit": "سجل المشروبات والوجبات الخفيفة هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-2-story2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-2-story2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Honest logging with James.\nStory: James noticed his coffee habit added up: a pastry with a mid-morning latte most days. Instead of cutting it out, he began logging each drink and snack, including the little extras. Seeing the pattern in the app made it easier to choose when to treat himself and when to try an alternative. He didn’t aim for perfect entries every time, but honest logs helped him understand choices and feel in control. Tracking turned small daily decisions into useful information rather than a source of frustration..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-13-motivation-3-story3",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Aisha spots a pattern",
+          "story": "Aisha noticed she often felt sluggish mid-afternoon. By logging what she ate and when, she discovered a link between heavy lunches and her energy dip. Instead of drastic changes, she experimented with one small swap: adding a veg-packed side and a glass of water. She logged the different meals and how she felt afterward. The app helped Aisha see which tweaks made a real difference, so she could repeat what worked without feeling restricted. Tracking made patterns visible and choices easier to manage.",
+          "habit": "Log your lunch and energy level every day.",
+          "appCta": "Use Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Aisha detecta un patrón",
+          "story": "Aisha notó que a media tarde se sentía apagada. Al registrar qué comía y cuándo, encontró una relación entre almuerzos pesados y la bajada de energía. En vez de cambios drásticos, probó un pequeño ajuste: añadir un acompañamiento con verduras y un vaso de agua. Registró las distintas comidas y cómo se sentía después. La app le mostró qué cambios funcionaban de verdad, para poder repetirlos sin sentirse limitada. El seguimiento hizo visibles los patrones y facilitó tomar decisiones.",
+          "habit": "Registra tu almuerzo y nivel de energía cada día.",
+          "appCta": "Usa Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Аиша заметила закономерность",
+          "story": "Аиша заметила, что часто чувствует упадок сил в середине дня. Ведя запись того, что и когда она ест, она обнаружила связь между тяжёлыми обедами и спадом энергии. Вместо резких перемен она попробовала одну небольшую замену: добавить порцию овощей и стакан воды. Она фиксировала разные обеды и самочувствие после них. Приложение помогло Аише увидеть, какие правки действительно помогают, чтобы повторять их без ощущения ограничений. Трекинг сделал шаблоны заметными и упрощал выбор.",
+          "habit": "Записывай обед и уровень энергии каждый день.",
+          "appCta": "Воспользуйтесь Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Аїша помічає закономірність",
+          "story": "Аїша помітила, що вдень часто відчуває спад енергії. Записуючи, що і коли вона їсть, вона виявила зв’язок між важкими обідами і втомою. Замість різких змін вона спробувала одну невелику заміну: додати гарнір з овочів і склянку води. Вона записувала різні варіанти обіду й самопочуття після них. Додаток допоміг Аїші зрозуміти, які корективи справді працюють, щоб повторювати їх без відчуття обмеження. Трекінг зробив закономірності помітними й спростив вибір.",
+          "habit": "Записуй обід і рівень енергії щодня.",
+          "appCta": "Використовуй Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Aïcha repère un schéma",
+          "story": "Aïcha a constaté qu’elle se sentait souvent fatiguée en milieu d’après‑midi. En notant ce qu’elle mangeait et à quel moment, elle a repéré un lien entre des déjeuners lourds et ce coup de barre. Plutôt que de bouleverser ses repas, elle a essayé un petit changement : ajouter un accompagnement de légumes et un verre d’eau. Elle a enregistré les repas différents et son ressenti après. L’application lui a montré quelles adaptations faisaient réellement la différence, pour qu’elle les renouvelle sans se sentir contrainte. Le suivi a donné de la clarté aux habitudes.",
+          "habit": "Note ton déjeuner et ton niveau d'énergie chaque jour.",
+          "appCta": "Utilise Calorie Bank Credit et commence à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Aisha entdeckt ein Muster",
+          "story": "Aisha bemerkte, dass sie oft am Nachmittag müde wurde. Indem sie festhielt, was und wann sie aß, erkannte sie einen Zusammenhang zwischen schweren Mittagessen und dem Energietief. Statt drastischer Änderungen versuchte sie einen kleinen Tausch: eine Gemüsebeilage und ein Glas Wasser. Sie protokollierte die verschiedenen Mahlzeiten und ihr Empfinden danach. Die App half Aisha zu sehen, welche Anpassungen wirklich etwas bewirkten, sodass sie Funktionierendes wiederholen konnte, ohne sich eingeschränkt zu fühlen. Tracking machte Muster sichtbar und Entscheidungen leichter zu treffen.",
+          "habit": "Protokolliere jeden Tag Mittagessen und Energielevel.",
+          "appCta": "Nutze Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Aisha percebe um padrão",
+          "story": "Aisha percebeu que frequentemente se sentia sem energia no meio da tarde. Ao registrar o que e quando comia, ela viu uma ligação entre almoços pesados e a queda de disposição. Em vez de mudanças radicais, experimentou uma pequena troca: acrescentar um acompanhamento de verduras e um copo de água. Ela registrou as refeições diferentes e como se sentia depois. O app ajudou Aisha a identificar quais ajustes realmente faziam diferença, para que pudesse repetir o que funcionou sem se sentir limitada. O registro deixou os padrões claros e as escolhas mais fáceis.",
+          "habit": "Registre seu almoço e nível de energia diariamente.",
+          "appCta": "Use o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Aisha észrevesz egy mintát",
+          "story": "Aisha észrevette, hogy gyakran lankad az ereje a délután közepén. Amikor feljegyezte, mit és mikor eszik, kapcsolatot talált a nehéz ebédek és az energiaszint zuhanása között. A drasztikus változtatások helyett kipróbált egy apró cserét: egy zöldséges köretet és egy pohár vizet. Feljegyezte a különböző ételeket és az utána érzett állapotot. Az app segített látni, mely módosítások hoznak valódi javulást, így azokat ismételhette anélkül, hogy korlátozva érezte volna magát. A naplózás láthatóvá tette a mintákat és megkönnyítette a döntést.",
+          "habit": "Jegyezd fel minden nap az ebéded és az energiaszinted.",
+          "appCta": "Használd a Calorie Bank Creditet és kezdd el ma a naplózást."
+        },
+        "ar": {
+          "title": "أيشا تكتشف نمطًا",
+          "story": "لاحظت أيشا أنها غالبًا ما تشعر بالخمول بعد الظهر. عندما بدأت تسجل ما تأكله ومتى، وجدت علاقة بين وجبات الغداء الثقيلة وهبوط الطاقة. بدلًا من تغييرات جذرية، جربت تبديلًا بسيطًا: إضافة طبق جانبي من الخضار وكوب ماء. سجّلت الوجبات المختلفة وكيف شعرت بعدها. ساعدها التطبيق على معرفة التعديلات التي أحدثت فرقًا حقيقيًا، لتكرر ما نجح دون أن تشعر بأنها مقيدة. جعل التتبع الأنماط مرئية وجعل الاختيارات أسهل.",
+          "habit": "سجل غداءك ومستوى طاقتك كل يوم.",
+          "appCta": "استخدم Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-3-story3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-3-story3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Aisha spots a pattern.\nStory: Aisha noticed she often felt sluggish mid-afternoon. By logging what she ate and when, she discovered a link between heavy lunches and her energy dip. Instead of drastic changes, she experimented with one small swap: adding a veg-packed side and a glass of water. She logged the different meals and how she felt afterward. The app helped Aisha see which tweaks made a real difference, so she could repeat what worked without feeling restricted. Tracking made patterns visible and choices easier to manage..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-13-motivation-4-story4",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Luca’s small swaps",
+          "story": "Luca liked pasta dinners but felt bloated afterwards. He started tracking meals in the app and tried one small swap: a side salad or a smaller portion of pasta a few nights a week. He logged how he felt after each meal and noticed gradual improvements in comfort. Accepting that not every night would change, he focused on consistency rather than perfection. Celebrating the days he tried a swap kept him motivated. Over time, tracking these small experiments helped Luca build realistic options he actually enjoyed.",
+          "habit": "Try one small swap at dinner twice this week.",
+          "appCta": "Launch Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Los pequeños cambios de Luca",
+          "story": "A Luca le encantaban las cenas de pasta, pero a menudo se sentía hinchado después. Empezó a registrar las comidas en la app y probó un pequeño cambio: una ensalada de acompañamiento o una porción algo menor de pasta algunas noches. Anotó cómo se sentía tras cada plato y notó mejoras graduales en su comodidad. Aceptó que no todas las noches cambiarían y se centró en la constancia en lugar de la perfección. Celebrar las noches en que hacía el cambio le mantuvo motivado. Con el tiempo, el registro de esos pequeños experimentos le dio alternativas reales que disfrutaba.",
+          "habit": "Prueba un pequeño cambio en la cena dos veces esta semana.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Небольшие замены Лука",
+          "story": "Лука любил ужины с пастой, но часто чувствовал тяжесть после. Он начал записывать приёмы пищи в приложении и попробовал небольшую замену: салат или меньшую порцию пасты несколько вечеров в неделю. Он фиксировал самочувствие после каждого приема и заметил постепенные улучшения в комфорте. Понимая, что не каждую ночь всё изменится, он сосредоточился на последовательности, а не на идеале. Отмечать вечера с заменой помогало держать мотивацию. Со временем учет этих небольших экспериментов дал ему реальные, приятные варианты.",
+          "habit": "Сделай небольшую замену за ужином дважды на этой неделе.",
+          "appCta": "Запустите Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Малі заміни Лука",
+          "story": "Лука любив вечері з пастою, але часто після них відчував здуття. Він почав фіксувати прийоми їжі в додатку і спробував одну маленьку заміну: салат на гарнір або трохи меншу порцію пасти кілька вечорів на тиждень. Він записував, як почувається після кожного прийому, і помітив поступове покращення самопочуття. Прийнявши, що не кожна ніч зміниться, він зосередився на послідовності, а не на досконалості. Святкування днів із заміною підтримувало мотивацію. З часом записи цих експериментів дали реальні варіанти, які йому подобалися.",
+          "habit": "Спробуй одну невелику зміну за вечерею двічі цього тижня.",
+          "appCta": "Запусти Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Les petits ajustements de Luca",
+          "story": "Luca aimait les dîners de pâtes mais se sentait souvent ballonné après. Il a commencé à suivre ses repas dans l’application et a tenté un petit ajustement : une salade d’accompagnement ou une portion de pâtes un peu plus petite quelques soirs par semaine. Il a noté son ressenti après chaque repas et observé une amélioration progressive du confort. Acceptant que tout ne changerait pas du jour au lendemain, il a privilégié la régularité à la perfection. Célébrer les soirs où il faisait ce choix l’a gardé motivé. Au fil du temps, ces petits tests lui ont offert des options réalistes et agréables.",
+          "habit": "Teste un petit changement au dîner deux fois cette semaine.",
+          "appCta": "Lance Calorie Bank Credit et commence à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Lucas kleine Alternativen",
+          "story": "Lucas mochte Pasta am Abend, fühlte sich danach aber oft aufgebläht. Er begann, seine Mahlzeiten in der App zu protokollieren und probierte eine kleine Änderung: einen Beilagensalat oder eine etwas kleinere Pastaportion an einigen Abenden. Er notierte, wie er sich nach den Mahlzeiten fühlte, und bemerkte schrittweise Verbesserungen im Wohlbefinden. Da nicht jede Nacht anders werden würde, setzte er auf Beständigkeit statt Perfektion. Das Feiern der gelingenden Abende hielt die Motivation hoch. Mit der Zeit halfen die Aufzeichnungen dieser kleinen Experimente ihm, praktikable Optionen zu finden, die ihm Gefallen.",
+          "habit": "Probiere diese Woche zwei Mal eine kleine Änderung beim Abendessen.",
+          "appCta": "Starte Calorie Bank Credit und beginne noch heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "As pequenas trocas do Luca",
+          "story": "Luca gostava de jantares com massa, mas muitas vezes se sentia estufado depois. Ele começou a registrar as refeições no app e experimentou uma pequena troca: uma salada como acompanhamento ou uma porção menor de massa algumas noites por semana. Ele anotou como se sentia após cada refeição e percebeu melhorias graduais no conforto. Aceitando que nem todas as noites mudariam, focou na consistência em vez da perfeição. Comemorar as noites em que fez a troca o manteve motivado. Com o tempo, esses pequenos experimentos forneceram opções realistas que ele gostava.",
+          "habit": "Tente uma pequena troca no jantar duas vezes esta semana.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Luca apró változtatásai",
+          "story": "Lucának kedvence volt a tésztavacsora, de gyakran puffadtan érezte magát utána. Elkezdte rögzíteni az étkezéseit az appban, és kipróbált egy apró cserét: köretként saláta vagy kicsivel kevesebb tészta néhány estén. Feljegyezte, hogyan érezte magát az egyes ételek után, és fokozatos javulást tapasztalt. Elfogadta, hogy nem minden este változik majd, így a következetességre koncentrált a tökéletesség helyett. Azoknak az estéknek az ünneplése, amikor változtatott, motiválta. Idővel ezek az apró kísérletek gyakorlati, élvezetes opciókat adtak neki.",
+          "habit": "Próbálj ki két alkalommal egy apró cserét vacsorára ezen a héten.",
+          "appCta": "Indítsd el a Calorie Bank Creditet és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "تغييرات بسيطة مع لوكا",
+          "story": "أحب لوكا وجبات المعكرونة مساءً لكنه غالبًا ما يشعر بالانتفاخ بعدها. بدأ يسجل وجباته في التطبيق وجرب تبديلًا بسيطًا: سلطة جانبية أو حصة أصغر من المعكرونة عدة ليالٍ بالأسبوع. سجّل كيف شعر بعد كل وجبة ولاحظ تحسّنًا تدريجيًا في راحته. وبقبوله أن ليس كل ليلة ستتغير، ركّز على الاتساق بدل الكمال. الاحتفال بالأيام التي جرب فيها التبديل أبقاه متحفزًا. مع الوقت، ساعده تتبّع هذه التجارب الصغيرة على تكوين خيارات واقعية يستمتع بها.",
+          "habit": "جرّب تبديلًا بسيطًا في العشاء مرتين هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-13T14:26:42.840Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-4-story4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-13-motivation-4-story4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Luca’s small swaps.\nStory: Luca liked pasta dinners but felt bloated afterwards. He started tracking meals in the app and tried one small swap: a side salad or a smaller portion of pasta a few nights a week. He logged how he felt after each meal and noticed gradual improvements in comfort. Accepting that not every night would change, he focused on consistency rather than perfection. Celebrating the days he tried a swap kept him motivated. Over time, tracking these small experiments helped Luca build realistic options he actually enjoyed..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-12-motivation-1-s1",
       "category": "calorie-tracking",
