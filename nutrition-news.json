@@ -1,8 +1,472 @@
 {
-  "generatedAt": "2026-10-16T15:33:51.057Z",
+  "generatedAt": "2026-10-17T11:06:57.830Z",
   "sourceCount": 35,
-  "availableSourceCount": 34,
+  "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "brain-pet-scans-help-select-and-monitor-patients-for-new-alzheime-2891b61de98d",
+      "category": "neuroscience and brain science",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+      "sourceTitle": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
+      "publishedAt": "Fri, 16 Oct 2026 20:40:02 EDT",
+      "languages": {
+        "en": {
+          "title": "PET imaging increasingly used to guide anti‑amyloid and tau therapy decisions in Alzheimer's",
+          "summary": "Reporting from nuclear medicine practice, this story describes growing use of amyloid PET to confirm Alzheimer’s pathology and of tau PET to assess progression and prognosis. Clinicians are using these scans to inform decisions about anti‑amyloid treatments and to monitor biological changes over time.",
+          "whyItMatters": "Molecular PET scans can help identify which patients have the biological targets that newer Alzheimer’s drugs address and provide additional information about disease stage, but imaging is a diagnostic tool rather than a treatment.",
+          "takeaways": [
+            "Amyloid PET is being used to confirm presence of amyloid pathology before or during anti‑amyloid therapy.",
+            "Tau PET may give extra information about disease progression and prognosis.",
+            "Imaging can inform treatment selection and monitoring but does not by itself establish therapeutic benefit for an individual.",
+            "Access, cost and appropriate interpretation remain practical constraints for wider use."
+          ]
+        },
+        "es": {
+          "title": "La PET se usa cada vez más para guiar decisiones sobre terapias antiamiloide y anti‑tau en el Alzheimer",
+          "summary": "Desde la práctica de medicina nuclear, este informe describe el uso creciente de la PET de amiloide para confirmar la patología del Alzheimer y de la PET de tau para evaluar progresión y pronóstico. Los clínicos emplean estas exploraciones para informar decisiones sobre tratamientos anti‑amiloide y para monitorizar cambios biológicos a lo largo del tiempo.",
+          "whyItMatters": "Las tomografías moleculares PET pueden ayudar a identificar qué pacientes presentan los dianas biológicas que abordan los fármacos más recientes para el Alzheimer y aportar información adicional sobre la etapa de la enfermedad, pero la imagen es una herramienta diagnóstica y no un tratamiento.",
+          "takeaways": [
+            "La PET de amiloide se está usando para confirmar la presencia de patología amiloide antes o durante terapias anti‑amiloide.",
+            "La PET de tau puede aportar información adicional sobre la progresión de la enfermedad y el pronóstico.",
+            "La imagen puede orientar la selección y el seguimiento del tratamiento, pero por sí sola no establece beneficio terapéutico para un individuo.",
+            "El acceso, el coste y la interpretación adecuada siguen siendo limitaciones prácticas para un uso más amplio."
+          ]
+        },
+        "ru": {
+          "title": "ПЭТ всё чаще применяют для управления решениями о противоамилоидной и противотау‑терапии при болезни Альцгеймера",
+          "summary": "Сообщение из практики ядерной медицины описывает растущее применение амилоидной ПЭТ для подтверждения патологии Альцгеймера и тау‑ПЭТ для оценки прогрессирования и прогноза. Клиницисты используют эти сканы, чтобы информировать решения о противоамилоидной терапии и отслеживать биологические изменения с течением времени.",
+          "whyItMatters": "Молекулярная ПЭТ может помочь определить, у каких пациентов есть биологические мишени, на которые направлены новые препараты при Альцгеймере, и дать дополнительную информацию о стадии болезни; однако визуализация — это диагностический инструмент, а не лечение.",
+          "takeaways": [
+            "Амилоидная ПЭТ применяется для подтверждения наличия амилоидной патологии до или во время противоамилоидной терапии.",
+            "Тау‑ПЭТ может дать дополнительную информацию о прогрессировании болезни и прогнозе.",
+            "Визуализация может помочь в выборе терапии и мониторинге, но сама по себе не подтверждает терапевтическую пользу для конкретного человека.",
+            "Доступность, стоимость и корректная интерпретация остаются практическими ограничениями для более широкого применения."
+          ]
+        },
+        "uk": {
+          "title": "ПЕТ‑візуалізація дедалі частіше використовується для вибору протиамілоїдної та тау‑терапії при хворобі Альцгеймера",
+          "summary": "З повідомлення з практики ядерної медицини: зростає застосування амілоїд‑ПЕТ для підтвердження патології Альцгеймера й тау‑ПЕТ для оцінки прогресування та прогнозу. Клініцисти використовують ці скани, щоб інформувати рішення про застосування протиамілоїдних препаратів і для моніторингу біологічних змін з часом.",
+          "whyItMatters": "Молекулярні ПЕТ‑сканування можуть допомогти виявити пацієнтів із біологічними цілями, на які спрямовані нові ліки проти Альцгеймера, і надати додаткову інформацію про стадію хвороби; однак візуалізація є діагностичним інструментом, а не лікуванням.",
+          "takeaways": [
+            "Амілоїд‑ПЕТ застосовують для підтвердження наявності амілоїдної патології до або під час протиамілоїдної терапії.",
+            "Тау‑ПЕТ може давати додаткові дані про прогресування хвороби та прогноз.",
+            "Візуалізація може допомогти в виборі та моніторингу терапії, але сама по собі не встановлює терапевтичної користі для окремої особи.",
+            "Доступність, вартість і коректна інтерпретація залишаються практичними обмеженнями для ширшого використання."
+          ]
+        },
+        "fr": {
+          "title": "La TEP est de plus en plus utilisée pour guider les décisions de traitement anti‑amyloïde et anti‑tau dans la maladie d’Alzheimer",
+          "summary": "Depuis la pratique de la médecine nucléaire : on observe une utilisation croissante de la TEP amyloïde pour confirmer la pathologie de l’Alzheimer et de la TEP tau pour évaluer la progression et le pronostic. Les cliniciens se servent de ces examens pour éclairer les décisions concernant les traitements anti‑amyloïdes et pour surveiller les changements biologiques au fil du temps.",
+          "whyItMatters": "Les TEP moléculaires peuvent aider à identifier quels patients présentent les cibles biologiques visées par les nouveaux médicaments contre l’Alzheimer et apporter des informations supplémentaires sur le stade de la maladie ; toutefois l’imagerie reste un outil diagnostique et non un traitement.",
+          "takeaways": [
+            "La TEP amyloïde est utilisée pour confirmer la présence d’une pathologie amyloïde avant ou durant une thérapie anti‑amyloïde.",
+            "La TEP tau peut fournir des informations complémentaires sur la progression de la maladie et le pronostic.",
+            "L’imagerie peut orienter le choix et le suivi du traitement mais n’établit pas à elle seule un bénéfice thérapeutique pour un individu.",
+            "L’accès, le coût et l’interprétation appropriée constituent des contraintes pratiques à une utilisation plus large."
+          ]
+        },
+        "de": {
+          "title": "PET‑Bildgebung wird zunehmend genutzt, um Entscheidungen zu Anti‑Amyloid‑ und Tau‑Therapien bei Alzheimer zu unterstützen",
+          "summary": "Aus der nuklearmedizinischen Praxis berichtend beschreibt der Artikel die wachsende Nutzung von Amyloid‑PET zur Bestätigung einer Alzheimer‑Pathologie und von Tau‑PET zur Einschätzung von Krankheitsprogression und Prognose. Kliniker verwenden diese Aufnahmen, um Entscheidungen über Anti‑Amyloid‑Behandlungen zu unterstützen und biologische Veränderungen im Zeitverlauf zu überwachen.",
+          "whyItMatters": "Molekulare PET‑Scans können dabei helfen zu erkennen, welche Patientinnen und Patienten die biologischen Ziele aufweisen, auf die neuere Alzheimer‑Medikamente abzielen, und liefern zusätzliche Informationen zum Krankheitsstadium. Bildgebung ist jedoch ein diagnostisches Hilfsmittel und keine Behandlung.",
+          "takeaways": [
+            "Amyloid‑PET wird eingesetzt, um das Vorliegen einer Amyloid‑Pathologie vor oder während einer Anti‑Amyloid‑Therapie zu bestätigen.",
+            "Tau‑PET kann zusätzliche Informationen über Krankheitsverlauf und Prognose liefern.",
+            "Bildgebung kann die Auswahl und Überwachung von Behandlungen informieren, stellt jedoch für sich genommen keinen therapeutischen Nutzen eines Individuums fest.",
+            "Zugang, Kosten und die richtige Interpretation bleiben praktische Einschränkungen für eine breitere Nutzung."
+          ]
+        },
+        "pt-br": {
+          "title": "Imagem PET é cada vez mais usada para orientar decisões sobre terapias anti‑amiloide e tau na doença de Alzheimer",
+          "summary": "Reportando a partir da prática da medicina nuclear, a matéria descreve o uso crescente do PET de amiloide para confirmar a patologia da doença de Alzheimer e do PET de tau para avaliar progressão e prognóstico. Clínicos estão usando essas varreduras para informar decisões sobre tratamentos anti‑amiloide e para monitorar mudanças biológicas ao longo do tempo.",
+          "whyItMatters": "Exames moleculares por PET podem ajudar a identificar quais pacientes apresentam os alvos biológicos que os medicamentos mais recentes para Alzheimer visam e fornecem informação adicional sobre o estágio da doença, mas a imagem é uma ferramenta diagnóstica e não um tratamento.",
+          "takeaways": [
+            "PET de amiloide está sendo usado para confirmar a presença de patologia amiloide antes ou durante terapia anti‑amiloide.",
+            "PET de tau pode oferecer informações extras sobre progressão da doença e prognóstico.",
+            "A imagem pode orientar a seleção e o monitoramento do tratamento, mas por si só não estabelece benefício terapêutico para um indivíduo.",
+            "Acesso, custo e interpretação adequada continuam sendo limitações práticas para uso mais amplo."
+          ]
+        },
+        "hu": {
+          "title": "A PET‑vizsgálat egyre gyakrabban irányítja az amiloid‑ és tau‑terápia döntéseit Alzheimer‑kórban",
+          "summary": "A nukleáris medicina gyakorlatáról szóló beszámoló ismerteti, hogy növekszik az amiloid PET alkalmazása az Alzheimer‑patológia megerősítésére és a tau PET használata a betegség előrehaladásának és kimenetelének értékelésére. A klinikusok ezeket a felvételeket anti‑amiloid kezelésekről szóló döntések megalapozására és a biológiai változások nyomon követésére használják.",
+          "whyItMatters": "A molekuláris PET‑vizsgálatok segíthetnek eldönteni, kinél vannak meg azok a biológiai célpontok, amelyeket az újabb Alzheimer‑gyógyszerek céloznak, és további információt adhatnak a betegség stádiumáról, ugyanakkor a képalkotás diagnosztikai eszköz, nem kezelés önmagában.",
+          "takeaways": [
+            "Az amiloid PET‑et arra használják, hogy megerősítsék az amiloid patológia jelenlétét a kezelést megelőzően vagy annak során.",
+            "A tau PET további információt adhat a betegség előrehaladásáról és a prognózisról.",
+            "A képalkotás segíthet a kezelés kiválasztásában és a monitorozásban, de önmagában nem bizonyítja az egyén számára a terápiás hasznot.",
+            "A hozzáférés, a költség és a megfelelő értelmezés gyakorlati korlátokat jelentenek a szélesebb körű alkalmazásban."
+          ]
+        },
+        "ar": {
+          "title": "تصوير PET يُستخدم بشكل متزايد لتوجيه قرارات العلاجات المضادة للأميلويد والتاو في مرض الزهايمر",
+          "summary": "تصف هذه التقرير من ممارسة الطب النووي تزايد استخدام PET للأميلويد لتأكيد وجود باثولوجيا الزهايمر واستخدام PET للتاو لتقييم التقدّم والتنبؤ بمسار المرض. يستخدم الأطباء هذه الصور لمساعدة اتخاذ قرارات حول العلاجات المضادة للأميلويد ولمراقبة التغيرات البيولوجية مع الزمن.",
+          "whyItMatters": "يمكن أن تساعد فحوصات PET الجزيئية في تحديد المرضى الذين لديهم الأهداف البيولوجية التي تستهدفها الأدوية الأحدث لمرض الزهايمر، وتزويد معلومات إضافية عن مرحلة المرض، لكن التصوير يُعد أداة تشخيصية وليس علاجاً بحد ذاته.",
+          "takeaways": [
+            "يُستخدم PET للأميلويد لتأكيد وجود باثولوجيا الأميلويد قبل أو أثناء العلاج المضاد للأميلويد.",
+            "قد يوفّر PET للتاو معلومات إضافية عن تقدّم المرض والتنبؤ بمساره.",
+            "يمكن للتصوير أن يوجّه اختيار العلاج والمراقبة لكنه بحدّ ذاته لا يثبت الفائدة العلاجية للفرد.",
+            "تظل مسائل الوصول والتكلفة والتفسير المناسب عوائق عملية أمام الاستخدام الأوسع."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=brain-pet-scans-help-select-and-monitor-patients-for-new-alzheime-2891b61de98d",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-pet-scans-help-select-and-monitor-patients-for-new-alzheime-2891b61de98d-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-pet-scans-help-select-and-monitor-patients-for-new-alzheime-2891b61de98d-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: PET imaging increasingly used to guide anti‑amyloid and tau therapy decisions in Alzheimer's.\nStory summary: Reporting from nuclear medicine practice, this story describes growing use of amyloid PET to confirm Alzheimer’s pathology and of tau PET to assess progression and prognosis. Clinicians are using these scans to inform decisions about anti‑amyloid treatments and to monitor biological changes over time..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "resetting-interneuron-timing-rescues-memory-in-alzheimer-s-3b3cd7f9e416",
+      "category": "neuroscience and brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/resetting-interneuron-alzheimers-memory-31317/",
+      "sourceTitle": "Resetting Interneuron Timing Rescues Memory in Alzheimer’s",
+      "publishedAt": "Fri, 16 Oct 2026 21:50:20 +0000",
+      "languages": {
+        "en": {
+          "title": "Restoring interneuron timing and Nav1.1 linked to memory improvements in Alzheimer's models",
+          "summary": "Researchers report a mechanism by which interneurons coordinate gamma oscillations and describe that restoring Nav1.1 activity reversed memory loss in the study described. The article frames these findings as a path to understanding circuit dysfunction in Alzheimer’s.",
+          "whyItMatters": "The work points to a specific neuronal circuit mechanism that may underlie memory deficits and identifies a molecular target (Nav1.1) that, when restored in the reported experiments, improved memory measures — but this is presented as preclinical/neuroscience research, not an established therapy.",
+          "takeaways": [
+            "Study focuses on timing among interneurons that produce gamma brain waves and links timing to memory function.",
+            "Restoring Nav1.1 activity improved memory in the experiments described, suggesting a target for future research.",
+            "Findings appear to be at the laboratory/preclinical stage and require further validation before clinical implications can be drawn.",
+            "Circuit- and cell-level interventions may complement other approaches but are not current standard treatments."
+          ]
+        },
+        "es": {
+          "title": "Restaurar el sincronismo de interneuronas y Nav1.1 se asocia con mejoras de memoria en modelos de Alzheimer",
+          "summary": "Los investigadores describen un mecanismo por el cual las interneuronas coordinan las oscilaciones gamma y señalan que restaurar la actividad de Nav1.1 revirtió la pérdida de memoria en el estudio descrito. El artículo presenta estos hallazgos como una vía para comprender la disfunción de circuitos en el Alzheimer.",
+          "whyItMatters": "El trabajo apunta a un mecanismo específico de circuito neuronal que podría subyacer a los déficits de memoria e identifica un objetivo molecular (Nav1.1) que, al restaurarse en los experimentos descritos, mejoró medidas de memoria; sin embargo, esto se presenta como investigación preclínica/neurocientífica, no como una terapia establecida.",
+          "takeaways": [
+            "El estudio se centra en el sincronismo entre interneuronas que generan ondas gamma y relaciona ese sincronismo con la función de la memoria.",
+            "Restaurar la actividad de Nav1.1 mejoró la memoria en los experimentos descritos, lo que sugiere un posible objetivo para investigaciones futuras.",
+            "Los hallazgos parecen estar en etapa de laboratorio/preclínica y requieren validación adicional antes de poder extraer implicaciones clínicas.",
+            "Intervenciones a nivel de circuito y celular podrían complementar otros enfoques, pero no son tratamientos estándar actuales."
+          ]
+        },
+        "ru": {
+          "title": "Восстановление временной согласованности интернейронов и Nav1.1 связано с улучшением памяти в моделях Альцгеймера",
+          "summary": "Исследователи описывают механизм, с помощью которого интернейроны координируют гамма‑осцилляции, и сообщают, что восстановление активности Nav1.1 обратило потерю памяти в описанном исследовании. Статья представляет эти результаты как путь к пониманию нарушения работы нейронных цепей при Альцгеймере.",
+          "whyItMatters": "Работа указывает на конкретный механизм нейронного контура, который может лежать в основе дефицита памяти, и выделяет молекулярную мишень (Nav1.1), восстановление которой в экспериментах улучшало показатели памяти; однако это представлено как доклинические/нейронаучные исследования, а не как установленная терапия.",
+          "takeaways": [
+            "Исследование сосредоточено на синхронизации интернейронов, продуцирующих гамма‑волны, и связывает эту синхронизацию с функцией памяти.",
+            "Восстановление активности Nav1.1 улучшило память в описанных экспериментах, что указывает на перспективную мишень для дальнейших исследований.",
+            "Результаты находятся на лабораторной/доклинической стадии и требуют дополнительной валидации до вывода клинических последствий.",
+            "Интервенции на уровне цепей и клеток могут дополнять другие подходы, но не являются текущими стандартными методами лечения."
+          ]
+        },
+        "uk": {
+          "title": "Відновлення синхронізації інтернейронів і Nav1.1 пов’язане з поліпшенням пам’яті в моделях Альцгеймера",
+          "summary": "Дослідники описують механізм, за допомогою якого інтернейрони координують гамма‑осциляції, і повідомляють, що відновлення активності Nav1.1 у дослідженні звернув назад втрачену пам’ять. Стаття подає ці результати як шлях до розуміння дисфункції нейронних ланцюгів при Альцгеймері.",
+          "whyItMatters": "Робота вказує на конкретний механізм нейронної мережі, який може лежати в основі порушень пам’яті, і визначає молекулярну мішень (Nav1.1), відновлення якої в описаних експериментах покращило показники пам’яті — але це представлено як доклінічне/нейронаукове дослідження, а не як встановлений метод лікування.",
+          "takeaways": [
+            "Дослідження зосереджене на синхронізації інтернейронів, що породжують гамма‑хвилі, і пов’язує цю синхронізацію з функцією пам’яті.",
+            "Відновлення активності Nav1.1 покращило пам’ять у описаних експериментах, що вказує на потенційну мішень для майбутніх досліджень.",
+            "Результати є лабораторними/доклінічними й потребують додаткової валідації перед висновками щодо клінічних наслідків.",
+            "Інтервенції на рівні мереж і клітин можуть доповнювати інші підходи, але не є стандартним лікуванням на даний момент."
+          ]
+        },
+        "fr": {
+          "title": "Restaurer la synchronisation des interneurones et Nav1.1 associé à des améliorations de la mémoire dans des modèles d’Alzheimer",
+          "summary": "Les chercheurs rapportent un mécanisme par lequel les interneurones coordonnent les oscillations gamma et décrivent que la restauration de l’activité de Nav1.1 a inversé la perte de mémoire dans l’étude décrite. L’article situe ces résultats comme une voie pour comprendre la dysfonction des circuits dans la maladie d’Alzheimer.",
+          "whyItMatters": "Le travail pointe un mécanisme circuitiel neuronal spécifique pouvant sous‑tendre les déficits de mémoire et identifie une cible moléculaire (Nav1.1) qui, lorsqu’elle a été restaurée dans les expériences rapportées, a amélioré des mesures de mémoire — mais il s’agit de recherches précliniques/neuoscientifiques, pas d’un traitement établi.",
+          "takeaways": [
+            "L’étude porte sur le timing entre interneurones générant des ondes gamma et lie ce timing à la fonction mnésique.",
+            "La restauration de l’activité de Nav1.1 a amélioré la mémoire dans les expériences décrites, suggérant une cible pour la recherche future.",
+            "Les résultats semblent relever du stade laboratoire/préclinique et nécessitent des validations supplémentaires avant toute implication clinique.",
+            "Les interventions au niveau des circuits et des cellules peuvent compléter d’autres approches mais ne constituent pas des traitements standards actuels."
+          ]
+        },
+        "de": {
+          "title": "Wiederherstellung des Interneuron‑Timings und von Nav1.1 mit Gedächtnisverbesserungen in Alzheimer‑Modellen verknüpft",
+          "summary": "Die Forschenden berichten einen Mechanismus, durch den Interneurone Gamma‑Oszillationen koordinieren, und beschreiben, dass die Wiederherstellung der Nav1.1‑Aktivität in der Studie den Gedächtnisverlust umkehrte. Die Ergebnisse werden als Weg zur Verständigung von Schaltungsdysfunktionen bei Alzheimer eingeordnet.",
+          "whyItMatters": "Die Arbeit verweist auf einen spezifischen neuronalen Schaltkreismechanismus, der Gedächtnisdefiziten zugrunde liegen könnte, und benennt ein molekulares Ziel (Nav1.1), dessen Wiederherstellung in den berichteten Experimenten Gedächtnismaße verbesserte – dargestellt wird dies jedoch als präklinische/neuroscientifiche Forschung, nicht als etablierte Therapie.",
+          "takeaways": [
+            "Die Studie konzentriert sich auf das Timing zwischen Interneuronen, die Gamma‑Hirnwellen erzeugen, und verknüpft dieses Timing mit Gedächtnisfunktion.",
+            "Die Wiederherstellung der Nav1.1‑Aktivität verbesserte in den beschriebenen Experimenten das Gedächtnis und legt ein Ziel für weitere Forschung nahe.",
+            "Die Befunde sind offenbar auf Labor‑/Präklin‑Ebene und müssen weiter validiert werden, bevor klinische Folgen gezogen werden können.",
+            "Interventionen auf Schaltkreis‑ und Zellebene könnten andere Ansätze ergänzen, sind aber keine aktuellen Standardbehandlungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Restauração do timing de interneurônios e Nav1.1 ligada a melhorias de memória em modelos de Alzheimer",
+          "summary": "Pesquisadores relatam um mecanismo pelo qual interneurônios coordenam oscilações gama e descrevem que restaurar a atividade de Nav1.1 reverteu perda de memória no estudo relatado. O artigo enquadra esses achados como um caminho para entender disfunções de circuito na doença de Alzheimer.",
+          "whyItMatters": "O trabalho aponta para um mecanismo de circuito neuronal específico que pode estar na base de déficits de memória e identifica um alvo molecular (Nav1.1) que, quando restaurado nos experimentos relatados, melhorou medidas de memória — mas isso é apresentado como pesquisa pré‑clínica/neurociência, não como terapia estabelecida.",
+          "takeaways": [
+            "O estudo foca no timing entre interneurônios que geram ondas cerebrais gama e liga esse timing à função de memória.",
+            "Restaurar a atividade de Nav1.1 melhorou a memória nos experimentos descritos, sugerindo um alvo para futuras pesquisas.",
+            "Os achados parecem estar em estágio de laboratório/pré‑clínico e requerem validação adicional antes de implicações clínicas.",
+            "Intervenções em nível de circuito e celular podem complementar outras abordagens, mas não são tratamentos padrão atuais."
+          ]
+        },
+        "hu": {
+          "title": "Az interneuronok időzítésének helyreállítása és a Nav1.1 összefüggései memóriajavulással Alzheimer‑modellekben",
+          "summary": "A kutatók leírnak egy mechanizmust, amelyben az interneuronok koordinálják a gamma‑oszcillációkat, és azt jelentik, hogy a Nav1.1 aktivitásának helyreállítása visszafordította a leírt vizsgálatban a memória‑vesztést. A cikk ezeket az eredményeket az Alzheimer‑kori hálózati diszfunkció megértéséhez vezető útként értelmezi.",
+          "whyItMatters": "A munka egy konkrét neuronális hálózati mechanizmusra mutat rá, amely a memória‑hiányok hátterében állhat, és azonosít egy molekuláris célt (Nav1.1), amelynek helyreállítása a leírt kísérletekben javította a memória‑mérőszámokat — ez azonban előklinikai/neuroscience kutatásként szerepel, nem megalapozott terápia.",
+          "takeaways": [
+            "A vizsgálat az interneuronok időzítésére fókuszál, amelyek a gamma hullámokat előállítják, és összekapcsolja az időzítést a memóriafunkcióval.",
+            "A Nav1.1 aktivitásának helyreállítása javította a memóriát a leírt kísérletekben, ami javasol egy kutatási célt a jövőre nézve.",
+            "Az eredmények laboratóriumi/előklinikai szinten vannak, és további validációt igényelnek, mielőtt klinikai következtetéseket lehet levonni.",
+            "Az áramköri és sejtszintű beavatkozások kiegészíthetik más megközelítéseket, de nem részei a jelenlegi standard kezeléseknek."
+          ]
+        },
+        "ar": {
+          "title": "استعادة توقيت الخلايا البينية وNav1.1 مرتبطة بتحسّن الذاكرة في نماذج الزهايمر",
+          "summary": "أفاد الباحثون عن آلية تُظهر كيف تنسق الخلايا البينية تذبذبات غاما، وبيّنوا أن استعادة نشاط Nav1.1 عكست فقدان الذاكرة في الدراسة الموصوفة. يؤطّر المقال هذه النتائج كطريق لفهم خلل الدوائر العصبية في الزهايمر.",
+          "whyItMatters": "تشير الدراسة إلى آلية دائرية عصبية محددة قد تكون وراء عجز الذاكرة، وتحدّد هدفًا جزيئيًا (Nav1.1) الذي حسّن استعادة الذاكرة عند استعادته في التجارب المذكورة — لكن ذلك مقدم كبحث ما قبل سريري/علوم عصبية وليس كعلاج مثبت.",
+          "takeaways": [
+            "تركّز الدراسة على توقيت الخلايا البينية المولّدة لموجات غاما وتربط هذا التوقيت بوظيفة الذاكرة.",
+            "أدى استعادة نشاط Nav1.1 إلى تحسّن الذاكرة في التجارب الموصوفة، ما يرشّح هذا الهدف لأبحاث مستقبلية.",
+            "تبدو النتائج في مرحلة المختبر/ما قبل السريرية وتحتاج إلى مزيد من التحقق قبل استخلاص دلالات سريرية.",
+            "قد تكمل التدخّلات على مستوى الدائرة والخلايا نهجًا علاجيًا آخر لكنها ليست علاجات معيارية حالياً."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=resetting-interneuron-timing-rescues-memory-in-alzheimer-s-3b3cd7f9e416",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/resetting-interneuron-timing-rescues-memory-in-alzheimer-s-3b3cd7f9e416-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/resetting-interneuron-timing-rescues-memory-in-alzheimer-s-3b3cd7f9e416-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Restoring interneuron timing and Nav1.1 linked to memory improvements in Alzheimer's models.\nStory summary: Researchers report a mechanism by which interneurons coordinate gamma oscillations and describe that restoring Nav1.1 activity reversed memory loss in the study described. The article frames these findings as a path to understanding circuit dysfunction in Alzheimer’s..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "blocking-sting-helps-preserve-bone-in-aging-mice-71d2f1aea77f",
+      "category": "healthy ageing and longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/blocking-sting-helps-preserve-bone-in-aging-mice/",
+      "sourceTitle": "Blocking STING Helps Preserve Bone in Aging Mice",
+      "publishedAt": "Fri, 16 Oct 2026 16:53:39 +0000",
+      "languages": {
+        "en": {
+          "title": "Interrupting STING signalling preserved bone in aged mouse models",
+          "summary": "This report describes a study linking STING‑mediated signals from marrow adipocytes to inflammation and NAD⁺ decline in bone‑forming cells. Experimental interruption of the pathway helped preserve bone in aging mice, according to the article.",
+          "whyItMatters": "The finding suggests a molecular pathway that contributes to age‑related bone loss and identifies STING signalling as a potential target to study further; results are from mouse experiments and do not directly translate to human treatments yet.",
+          "takeaways": [
+            "Researchers connected marrow fat cell STING signalling to inflammation and reduced NAD⁺ in osteogenic cells.",
+            "Blocking that pathway improved bone measures in aged mice in the reported experiments.",
+            "These are preclinical results; human relevance and safety remain to be established.",
+            "Follow‑up work would need to test whether targeting STING is safe and effective in people."
+          ]
+        },
+        "es": {
+          "title": "Bloquear la señalización STING preservó el hueso en modelos de ratón envejecidos",
+          "summary": "El informe describe un estudio que vincula las señales mediadas por STING en adipocitos de la médula ósea con inflamación y descenso de NAD⁺ en las células formadoras de hueso. La interrupción experimental de esta vía ayudó a preservar el hueso en ratones envejecidos, según el artículo.",
+          "whyItMatters": "El hallazgo sugiere una vía molecular que contribuye a la pérdida ósea relacionada con la edad e identifica la señalización STING como un posible objetivo para investigar más; los resultados provienen de experimentos en ratones y no se traducen directamente en tratamientos humanos por ahora.",
+          "takeaways": [
+            "Los investigadores conectaron la señalización STING en células grasas de la médula ósea con inflamación y reducción de NAD⁺ en células osteogénicas.",
+            "Bloquear esa vía mejoró medidas óseas en ratones envejecidos en los experimentos reportados.",
+            "Estos son resultados preclínicos; la relevancia y la seguridad en humanos aún deben establecerse.",
+            "Trabajos posteriores tendrían que evaluar si dirigirse a STING es seguro y eficaz en personas."
+          ]
+        },
+        "ru": {
+          "title": "Прерывание сигнальной передачи STING сохранило кость в стареющих моделях мышей",
+          "summary": "В докладе описано исследование, связывающее сигналы, опосредованные STING в адипоцитах костного мозга, с воспалением и снижением уровня NAD⁺ в остеогенных клетках. Экспериментальное вмешательство в этот путь помогло сохранить кость у старых мышей, согласно статье.",
+          "whyItMatters": "Открытие указывает на молекулярный путь, способствующий возрастной потере костной ткани, и выделяет сигнальную передачу STING как потенциальную мишень для дальнейшего изучения; результаты получены в экспериментах на мышах и пока не переводимы напрямую в лечение людей.",
+          "takeaways": [
+            "Исследователи связали сигнальную передачу STING в жировых клетках костного мозга с воспалением и снижением NAD⁺ в остеогенных клетках.",
+            "Блокирование этого пути улучшило показатели кости у старых мышей в описанных экспериментах.",
+            "Это доклинические результаты; значение для человека и безопасность остаются неустановленными.",
+            "Дальнейшие исследования должны проверить, безопасно и эффективно ли нацеливание на STING у людей."
+          ]
+        },
+        "uk": {
+          "title": "Блокування сигнальної ланки STING зберігало кісткову тканину в старіючих мишачих моделях",
+          "summary": "У звіті описано дослідження, що пов’язує STING‑опосередковані сигнали від жирових клітин кісткового мозку з запаленням і зниженням рівня NAD+ у клітинах, які формують кістку. Експериментальне переривання цього шляху вказано як сприятливе для збереження кісткової тканини в старіючих мишах.",
+          "whyItMatters": "Результат вказує на молекулярний шлях, що сприяє віковій втраті кістки, і визначає сигнальну ланку STING як потенційну мішень для подальшого вивчення; проте результати отримані на мишах і не перекладаються безпосередньо на лікування людей.",
+          "takeaways": [
+            "Дослідники пов’язали STING‑сигналізацію в жирових клітинах кісткового мозку з запаленням і зниженням NAD+ в остеогеннічних клітинах.",
+            "Блокування цього шляху покращило показники кісткової тканини в старих мишах у наведених експериментах.",
+            "Це доклінічні результати; значення для людини та безпека мають бути встановлені.",
+            "Подальші дослідження мають перевірити, чи є націлювання STING безпечним і ефективним у людей."
+          ]
+        },
+        "fr": {
+          "title": "L’inhibition de la signalisation STING a préservé l’os dans des modèles murins âgés",
+          "summary": "Le rapport décrit une étude liant les signaux médiés par STING provenant des adipocytes de la moelle osseuse à l’inflammation et à la baisse de NAD+ dans les cellules ostéogéniques. L’interruption expérimentale de cette voie a contribué à préserver l’os chez des souris âgées, selon l’article.",
+          "whyItMatters": "La découverte suggère une voie moléculaire contribuant à la perte osseuse liée à l’âge et identifie la signalisation STING comme une cible potentielle à étudier davantage ; les résultats proviennent d’expériences sur souris et ne se traduisent pas directement en traitements humains.",
+          "takeaways": [
+            "Les chercheurs ont relié la signalisation STING des cellules adipeuses de la moelle à l’inflammation et à la réduction de NAD+ dans les cellules ostéogéniques.",
+            "Le blocage de cette voie a amélioré des mesures osseuses chez des souris âgées dans les expériences rapportées.",
+            "Il s’agit de résultats précliniques ; la pertinence pour l’humain et la sécurité restent à établir.",
+            "Des travaux de suivi devront tester si cibler STING est sûr et efficace chez l’homme."
+          ]
+        },
+        "de": {
+          "title": "Unterbrechung der STING‑Signalgebung bewahrte Knochen in gealterten Mausmodellen",
+          "summary": "Der Bericht beschreibt eine Studie, die STING‑vermittelte Signale von Markfettzellen mit Entzündung und einem NAD⁺‑Abfall in knochenbildenden Zellen verknüpft. Die experimentelle Unterbrechung dieses Weges trug laut Artikel dazu bei, Knochen in alternden Mäusen zu erhalten.",
+          "whyItMatters": "Der Befund deutet auf einen molekularen Signalweg hin, der zum altersbedingten Knochenverlust beitragen kann, und identifiziert die STING‑Signalgebung als potenzielles Studienziel; die Ergebnisse stammen aus Mausexperimenten und lassen sich nicht direkt auf menschliche Behandlungen übertragen.",
+          "takeaways": [
+            "Forschende stellten eine Verbindung zwischen STING‑Signalgebung in Markfettzellen und Entzündung sowie reduziertem NAD⁺ in osteogenen Zellen her.",
+            "Das Blockieren dieses Weges verbesserte in den berichteten Experimenten Knochenparameter bei gealterten Mäusen.",
+            "Es handelt sich um präklinische Ergebnisse; Relevanz und Sicherheit für Menschen müssen noch geklärt werden.",
+            "Nachfolgearbeiten müssten prüfen, ob die gezielte Beeinflussung von STING bei Menschen sicher und wirksam ist."
+          ]
+        },
+        "pt-br": {
+          "title": "Interromper a sinalização STING preservou ossos em modelos murinos envelhecidos",
+          "summary": "O relato descreve um estudo que liga sinais mediados por STING de adipócitos da medula a inflamação e declínio de NAD⁺ em células formadoras de osso. A interrupção experimental dessa via ajudou a preservar os ossos em camundongos envelhecidos, segundo o artigo.",
+          "whyItMatters": "A descoberta sugere uma via molecular que contribui para a perda óssea relacionada à idade e identifica a sinalização STING como um possível alvo para investigação adicional; os resultados são de experimentos em camundongos e não se traduzem diretamente em tratamentos humanos.",
+          "takeaways": [
+            "Pesquisadores conectaram a sinalização STING em células adiposas da medula a inflamação e redução de NAD⁺ em células osteogênicas.",
+            "Bloquear essa via melhorou medidas ósseas em camundongos idosos nos experimentos relatados.",
+            "São resultados pré‑clínicos; relevância e segurança em humanos ainda precisam ser estabelecidas.",
+            "Trabalhos subsequentes precisarão testar se direcionar STING é seguro e eficaz em pessoas."
+          ]
+        },
+        "hu": {
+          "title": "A STING‑jelátvitel gátlása segített megőrizni a csontot öregedő egerekben",
+          "summary": "A beszámoló egy olyan tanulmányt ír le, amely összekapcsolja a csontvelői adipociták STING‑közvetített jelzését a gyulladással és a csontépítő sejtek NAD⁺‑szintjének csökkenésével. A cikk szerint a jelút kísérleti megszakítása segített megőrizni a csontot öregedő egerekben.",
+          "whyItMatters": "Az eredmény egy molekuláris útvonalra mutat rá, amely hozzájárulhat a korral járó csontvesztéshez, és a STING‑jelátvitelt potenciális célpontként azonosítja további vizsgálatokhoz; az eredmények egérkísérletekből származnak és nem fordíthatók át közvetlenül emberi kezelésekre.",
+          "takeaways": [
+            "A kutatók összekapcsolták a csontvelői zsírsejtek STING‑jelzését a gyulladással és az osteogén sejtek NAD⁺‑szintjének csökkenésével.",
+            "A jelút blokkolása javította a csontmérőszámokat az idős egerekben a közölt kísérletekben.",
+            "Ezek előklinikai eredmények; az emberi relevancia és a biztonság még nem bizonyított.",
+            "A következő munkáknak azt kell vizsgálniuk, hogy a STING célozása biztonságos és hatásos‑e emberekben."
+          ]
+        },
+        "ar": {
+          "title": "حجب إشارات STING ساعد على الحفاظ على العظام في فئران مسنة",
+          "summary": "تصف هذه النشرة دراسة ربطت إشارات وسيط STING من دهون نقي العظم بالالتهاب وانخفاض NAD⁺ في الخلايا المكونة للعظم. حسب المقال، أسهم تعطيل هذا المسار تجريبيًا في الحفاظ على العظام لدى الفئران المسنة.",
+          "whyItMatters": "تشير النتيجة إلى مسار جزيئي قد يساهم في فقدان العظام المرتبط بالشيخوخة وتعرّف إشارات STING كهدف محتمل لمزيد من الدراسة؛ لكن النتائج مأخوذة من تجارب على الفئران ولا تُترجم مباشرة إلى علاجات بشرية.",
+          "takeaways": [
+            "ربط الباحثون إشارات STING في خلايا دهن نقي العظم بالالتهاب وانخفاض NAD⁺ في الخلايا العظمية المكوِّنة.",
+            "حجب ذلك المسار حسّن مقاييس العظام في الفئران المسنة في التجارب الموصوفة.",
+            "هذه نتائج ما قبل سريرية؛ لا يزال يجب إثبات الملاءمة البشرية والسلامة.",
+            "يجب أن تختبر الأبحاث اللاحقة ما إذا كان استهداف STING آمنًا وفعّالًا لدى البشر."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=blocking-sting-helps-preserve-bone-in-aging-mice-71d2f1aea77f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/blocking-sting-helps-preserve-bone-in-aging-mice-71d2f1aea77f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/blocking-sting-helps-preserve-bone-in-aging-mice-71d2f1aea77f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Interrupting STING signalling preserved bone in aged mouse models.\nStory summary: This report describes a study linking STING‑mediated signals from marrow adipocytes to inflammation and NAD⁺ decline in bone‑forming cells. Experimental interruption of the pathway helped preserve bone in aging mice, according to the article..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "keytruda-biosimilar-advances-oncologist-turned-patient-will-ai-cu-2c35c4c0908a",
+      "category": "cancer prevention and treatment",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/hematologyoncology/othercancers/123448",
+      "sourceTitle": "Keytruda Biosimilar Advances; Oncologist Turned Patient; Will AI Cure Cancer?",
+      "publishedAt": "Fri, 16 Oct 2026 11:40:59 -0400",
+      "languages": {
+        "en": {
+          "title": "FDA accepts application for a pembrolizumab (Keytruda) biosimilar; other oncology updates",
+          "summary": "This industry/regulatory report notes that a biologics license application was accepted for FYB206, a biosimilar to pembrolizumab, and summarizes other oncology developments. The piece covers regulatory progress rather than new clinical trial results.",
+          "whyItMatters": "If approved, a biosimilar to a widely used immunotherapy could affect drug availability and cost dynamics, but regulatory acceptance is only an early step and does not guarantee approval or immediate clinical impact.",
+          "takeaways": [
+            "FDA acceptance of a biosimilar application starts regulatory review but is not approval.",
+            "A successful biosimilar could influence access and pricing for pembrolizumab therapies in the future.",
+            "Readers should distinguish regulatory milestones from clinical efficacy or safety conclusions.",
+            "Policy and market factors will determine how quickly any approved biosimilar affects patient care."
+          ]
+        },
+        "es": {
+          "title": "La FDA acepta solicitud para un biosimilar de pembrolizumab (Keytruda); otras novedades oncológicas",
+          "summary": "Este informe regulatorio indica que se aceptó una solicitud de licencia biológica para FYB206, un biosimilar de pembrolizumab, y resume otros desarrollos en oncología. El texto trata del avance regulatorio más que de nuevos resultados de ensayos clínicos.",
+          "whyItMatters": "Si se aprueba, un biosimilar de una inmunoterapia muy usada podría afectar la disponibilidad y la dinámica de precios, pero la aceptación regulatoria es solo un paso inicial y no garantiza la aprobación ni un impacto clínico inmediato.",
+          "takeaways": [
+            "La aceptación por la FDA de una solicitud de biosimilar inicia la revisión regulatoria pero no equivale a aprobación.",
+            "Un biosimilar exitoso podría influir en el acceso y el precio de las terapias con pembrolizumab en el futuro.",
+            "Los lectores deben distinguir hitos regulatorios de conclusiones sobre eficacia o seguridad clínica.",
+            "Factores de política y mercado determinarán la rapidez con que cualquier biosimilar aprobado afecte la atención a pacientes."
+          ]
+        },
+        "ru": {
+          "title": "FDA приняла заявку на биосимиляр пембролизумаба (Keytruda); другие новости онкологии",
+          "summary": "В этом регуляторном отчёте сообщается, что принята заявка на биологическую лицензию для FYB206, биосимиляра пембролизумаба, и резюмируются другие события в онкологии. Материал касается регуляторного продвижения, а не новых данных клинических испытаний.",
+          "whyItMatters": "В случае одобрения биосимиляр широко используемой иммунотерапии может повлиять на доступность и ценовую динамику, но принятие заявки регулятором — это лишь ранний этап и не гарантирует одобрение или немедленного клинического эффекта.",
+          "takeaways": [
+            "Принятие заявкой администрацией FDA запускает регуляторный обзор, но не является одобрением.",
+            "Успешный биосимиляр может повлиять на доступность и стоимость терапии пембролизумабом в будущем.",
+            "Читателям важно отличать регуляторные этапы от выводов о клинической эффективности или безопасности.",
+            "Политические и рыночные факторы определят, как быстро одобренный биосимиляр повлияет на уход за пациентами."
+          ]
+        },
+        "uk": {
+          "title": "FDA прийняла заявку на біосиміляр пембролізумабу (Keytruda); інші онкологічні новини",
+          "summary": "У галузевому/регуляторному огляді зазначено, що прийнята до розгляду заявка на біологічний ліцензійний продукт FYB206, біосиміляр пембролізумабу, і підсумовано інші онкологічні події. Матеріал стосується регуляторного прогресу, а не нових результатів клінічних випробувань.",
+          "whyItMatters": "Якщо біосиміляр буде схвалено, це може вплинути на доступність і цінову динаміку широко вживаної імунотерапії, але прийняття заявки — лише початковий етап регуляторного розгляду і не гарантує схвалення чи негайного клінічного впливу.",
+          "takeaways": [
+            "Прийняття FDA заявки на біосиміляр запускає регуляторний огляд, але не є схваленням.",
+            "Успішний біосиміляр може вплинути на доступ і ціноутворення для терапій на основі пембролізумабу в майбутньому.",
+            "Читачам слід розрізняти регуляторні етапи та висновки про клінічну ефективність чи безпеку.",
+            "Політика та ринкові фактори визначатимуть, як швидко будь‑який затверджений біосиміляр вплине на догляд за пацієнтами."
+          ]
+        },
+        "fr": {
+          "title": "La FDA accepte la demande pour un biosimilaire de pembrolizumab (Keytruda) ; autres actualités en oncologie",
+          "summary": "Ce rapport industriel/réglementaire note qu’une demande d’autorisation de mise sur le marché a été acceptée pour FYB206, un biosimilaire du pembrolizumab, et résume d’autres développements en oncologie. L’article porte sur des avancées réglementaires plutôt que sur de nouveaux résultats d’essais cliniques.",
+          "whyItMatters": "Si le biosimilaire est approuvé, il pourrait affecter la disponibilité et la dynamique des prix d’une immunothérapie largement utilisée, mais l’acceptation de la demande n’est qu’une étape initiale et ne garantit pas l’approbation ni un impact clinique immédiat.",
+          "takeaways": [
+            "L’acceptation par la FDA d’une demande de biosimilaire lance l’examen réglementaire mais n’équivaut pas à une approbation.",
+            "Un biosimilaire réussi pourrait influencer l’accès et le prix des thérapies à base de pembrolizumab à l’avenir.",
+            "Les lecteurs doivent distinguer les jalons réglementaires des conclusions sur l’efficacité ou la sécurité clinique.",
+            "Les décisions de politique et les facteurs du marché détermineront la rapidité avec laquelle un biosimilaire approuvé affectera la prise en charge des patients."
+          ]
+        },
+        "de": {
+          "title": "FDA akzeptiert Antrag für ein Pembrolizumab‑(Keytruda)‑Biosimilar; weitere Onkologie‑Updates",
+          "summary": "Der industrie‑/regulatorische Bericht weist darauf hin, dass ein Antrag auf Zulassung eines Biologikums für FYB206, ein Biosimilar zu Pembrolizumab, angenommen wurde, und fasst weitere Entwicklungen in der Onkologie zusammen. Der Beitrag behandelt regulatorischen Fortschritt und nicht neue klinische Studienergebnisse.",
+          "whyItMatters": "Wenn es zugelassen würde, könnte ein Biosimilar zu einer weit verbreiteten Immuntherapie Verfügbarkeit und Kostendynamik beeinflussen. Die Annahme des Antrags ist jedoch nur ein früher Schritt und garantiert weder Zulassung noch unmittelbare klinische Auswirkungen.",
+          "takeaways": [
+            "Die Annahme eines Biosimilar‑Antrags durch die FDA leitet die behördliche Prüfung ein, ist aber keine Zulassung.",
+            "Ein erfolgreiches Biosimilar könnte künftig Einfluss auf Zugang und Preisgestaltung für Pembrolizumab‑Therapien haben.",
+            "Leser sollten regulatorische Meilensteine von Schlussfolgerungen zu Wirksamkeit oder Sicherheit unterscheiden.",
+            "Politische und Markt‑Faktoren bestimmen, wie schnell ein zugelassenes Biosimilar die Patientenversorgung beeinflusst."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA aceita pedido de um biossimilar de pembrolizumabe (Keytruda); outras atualizações oncológicas",
+          "summary": "Este relato da indústria/regulação nota que foi aceito um pedido de licença biológica para FYB206, um biossimilar do pembrolizumabe, e resume outros desenvolvimentos na oncologia. A matéria trata de progresso regulatório, não de novos resultados de ensaios clínicos.",
+          "whyItMatters": "Se aprovado, um biossimilar de uma imunoterapia amplamente usada poderia afetar disponibilidade e dinâmica de custos, mas a aceitação do pedido é apenas um passo inicial e não garante aprovação nem impacto clínico imediato.",
+          "takeaways": [
+            "A aceitação do pedido de biossimilar pela FDA inicia a revisão regulatória, mas não é aprovação.",
+            "Um biossimilar bem‑sucedido pode influenciar acesso e preços das terapias com pembrolizumabe no futuro.",
+            "Leitores devem distinguir marcos regulatórios de conclusões sobre eficácia ou segurança clínica.",
+            "Fatores de política e mercado determinarão com que rapidez qualquer biossimilar aprovado afetará o cuidado ao paciente."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA elfogadta egy pembrolizumab (Keytruda) bioszimiláris kérelmét; egyéb onkológiai frissítések",
+          "summary": "Ez az ipari/szabályozói közlemény megjegyzi, hogy befogadtak egy biológiai készítmény forgalomba hozatali kérelmét FYB206 néven, amely pembrolizumab bioszimilárisának jelöltje, és összegzi a többi onkológiai fejleményt. A darab elsősorban szabályozási előrehaladást ismertet, nem új klinikai vizsgálati eredményeket.",
+          "whyItMatters": "Ha jóváhagyják, egy széles körben használt immunterápiás szer bioszimilárisa befolyásolhatja a gyógyszer‑ellátást és a költségdinamikát, de a szabályozási elfogadás csak egy korai lépés, és nem garantálja a jóváhagyást vagy az azonnali klinikai hatást.",
+          "takeaways": [
+            "Az FDA elfogadása elindítja a szabályozási felülvizsgálatot egy bioszimiláris kérelme esetén, de nem jelent jóváhagyást.",
+            "Egy sikeres bioszimiláris befolyásolhatja a pembrolizumab terápiák elérhetőségét és árait a jövőben.",
+            "Az olvasóknak meg kell különböztetniük a szabályozási mérföldköveket a klinikai hatékonyságra vagy biztonságra vonatkozó következtetésektől.",
+            "A politikai és piaci tényezők határozzák meg, milyen gyorsan befolyásolja egy jóváhagyott bioszimiláris a betegellátást."
+          ]
+        },
+        "ar": {
+          "title": "إدارة الغذاء والدواء تقبل طلبًا لنسخة حيوية مشابهة لبمبروليزوماب (Keytruda)؛ تحديثات أورام أخرى",
+          "summary": "تذكر هذه النشرة الصناعية/التنظيمية أن طلب ترخيص منتج بيولوجي قُبل لمادة FYB206، المرشحة لتكون نسخة مشابهة حيويًا لبمبروليزوماب، وتلخّص تطورات أورام أخرى. يركّز المقال على التقدم التنظيمي بدلًا من نتائج تجارب سريرية جديدة.",
+          "whyItMatters": "إذا تمت الموافقة عليها، فقد تؤثر النسخة المماثلة حيويًا على توفر الدواء وديناميكيات الأسعار لعلاج مناعي واسع الاستخدام، لكن قبول الطلب هو خطوة مبكرة ولا يضمن الموافقة أو تأثيرًا سريريًا فوريًا.",
+          "takeaways": [
+            "قبول إدارة الغذاء والدواء للطلب يطلق المراجعة التنظيمية لكنه ليس موافقة.",
+            "قد تؤثر نسخة حيوية مشابهة على إمكانية الوصول وتسعير علاجات بيمبروليزوماب في المستقبل.",
+            "على القراء التفريق بين معالم الإجراءات التنظيمية والاستنتاجات حول الفعالية أو السلامة السريرية.",
+            "ستحدّد العوامل السياسية والسوقية مدى سرعة تأثير أي نسخة معتمدة على رعاية المرضى."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=keytruda-biosimilar-advances-oncologist-turned-patient-will-ai-cu-2c35c4c0908a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/keytruda-biosimilar-advances-oncologist-turned-patient-will-ai-cu-2c35c4c0908a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/keytruda-biosimilar-advances-oncologist-turned-patient-will-ai-cu-2c35c4c0908a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA accepts application for a pembrolizumab (Keytruda) biosimilar; other oncology updates.\nStory summary: This industry/regulatory report notes that a biologics license application was accepted for FYB206, a biosimilar to pembrolizumab, and summarizes other oncology developments. The piece covers regulatory progress rather than new clinical trial results..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "usc-scientists-discover-how-to-create-a-never-ending-supply-of-ca-af8da1059038",
       "category": "Cancer Immunotherapy / Preclinical Research",
@@ -109,6 +573,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers developed a system to grow and modify immature immune cells that can continuously generate tumor-fighting cells.\nStory summary: USC investigators report a method of expanding and genetically modifying immature immune cells rather than mature effector cells, creating a system that could continuously produce tumor-targeting immune cells inside the body..\nCategory: Cancer Immunotherapy / Preclinical Research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "treating-depression-during-pregnancy-may-benefit-baby-s-brain-dev-b6a83f925f36",
+      "category": "neuroscience and brain science / nutrition and development",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/treating-depression-during-pregnancy-may-benefit-babys-brain-development-new-research-291260",
+      "sourceTitle": "Treating depression during pregnancy may benefit baby’s brain development – new research",
+      "publishedAt": "2026-10-16T12:23:55Z",
+      "languages": {
+        "en": {
+          "title": "Research suggests perinatal therapy for depression may have positive effects on infant brain development",
+          "summary": "This article discusses research indicating that treating depression during pregnancy may confer advantages for the child’s brain development. The piece frames therapy during pregnancy as potentially beneficial for both parent and offspring.",
+          "whyItMatters": "Maternal mental health can influence developmental outcomes, so effective and safely delivered treatment during pregnancy could have intergenerational benefits; clinical decisions should weigh risks and benefits with health professionals.",
+          "takeaways": [
+            "The reported research links maternal treatment for depression during pregnancy with potential benefits for infant brain development.",
+            "Therapy during pregnancy can be important for maternal wellbeing and may affect developmental trajectories.",
+            "Decisions about treatment in pregnancy should be individualized and discussed with clinicians.",
+            "The article synthesizes research perspectives rather than issuing medical advice or treatment protocols."
+          ]
+        },
+        "es": {
+          "title": "Investigación sugiere que la terapia perinatal para la depresión puede beneficiar el desarrollo cerebral del bebé",
+          "summary": "Este artículo discute investigaciones que indican que tratar la depresión durante el embarazo podría aportar ventajas para el desarrollo cerebral del niño. El texto enmarca la terapia en el embarazo como potencialmente beneficiosa tanto para la persona gestante como para la descendencia.",
+          "whyItMatters": "La salud mental materna puede influir en los resultados del desarrollo, por lo que un tratamiento efectivo y administrado con seguridad durante el embarazo podría tener beneficios intergeneracionales; las decisiones clínicas deben sopesar riesgos y beneficios con profesionales sanitarios.",
+          "takeaways": [
+            "La investigación reportada vincula el tratamiento materno de la depresión durante el embarazo con posibles beneficios para el desarrollo cerebral del bebé.",
+            "La terapia durante el embarazo puede ser importante para el bienestar materno y puede influir en las trayectorias del desarrollo.",
+            "Las decisiones sobre el tratamiento en el embarazo deben individualizarse y discutirse con los clínicos.",
+            "El artículo sintetiza perspectivas de investigación más que emitir consejos médicos o protocolos de tratamiento."
+          ]
+        },
+        "ru": {
+          "title": "Исследования указывают, что лечение депрессии в перинатальный период может положительно сказаться на развитии мозга ребёнка",
+          "summary": "В статье обсуждаются исследования, показывающие, что лечение депрессии во время беременности может принести преимущества для развития мозга ребёнка. Текст рассматривает терапию в период беременности как потенциально полезную как для родителя, так и для потомства.",
+          "whyItMatters": "Материнское психическое здоровье может влиять на исходы развития, поэтому эффективное и безопасно проведённое лечение во время беременности может иметь межпоколенные преимущества; клинические решения следует принимать с учётом рисков и пользы в консультации со специалистами.",
+          "takeaways": [
+            "В исследовании отмечается связь между лечением материнской депрессии во время беременности и потенциальными преимуществами для развития мозга ребёнка.",
+            "Терапия в период беременности может быть важна для благополучия матери и влиять на траектории развития.",
+            "Решения о лечении во время беременности следует индивидуализировать и обсуждать с лечащими врачами.",
+            "Статья обобщает исследовательские взгляды, а не даёт медицинские рекомендации или протоколы лечения."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження свідчить, що лікування депресії під час вагітності може позитивно впливати на розвиток мозку дитини",
+          "summary": "У статті розглядають дослідження, які вказують, що лікування депресії під час вагітності може мати переваги для розвитку мозку дитини. Матеріал подає терапію під час вагітності як потенційно корисну як для батька/матері, так і для нащадка.",
+          "whyItMatters": "Материнське психічне здоров’я може впливати на розвиткові результати, тож ефективне й безпечне лікування під час вагітності може мати міжпоколінні вигоди; рішення про лікування повинні зважувати ризики й переваги разом із медичними фахівцями.",
+          "takeaways": [
+            "Описане дослідження пов’язує лікування депресії у вагітних із потенційними вигодами для розвитку мозку немовляти.",
+            "Терапія під час вагітності важлива для добробуту матері і може впливати на траєкторію розвитку дитини.",
+            "Рішення про лікування під час вагітності мають бути індивідуалізовані та обговорені з клініцистами.",
+            "Стаття узагальнює наукові погляди і не видає медичних порад чи протоколів лікування."
+          ]
+        },
+        "fr": {
+          "title": "Des recherches suggèrent que le traitement de la dépression pendant la grossesse peut avoir des effets positifs sur le développement cérébral du nourrisson",
+          "summary": "Cet article discute de travaux indiquant que le traitement de la dépression pendant la grossesse peut conférer des avantages pour le développement cérébral de l’enfant. Le texte présente la thérapie durant la grossesse comme potentiellement bénéfique pour la personne enceinte et pour sa progéniture.",
+          "whyItMatters": "La santé mentale maternelle peut influencer les résultats développementaux ; un traitement efficace et sûr pendant la grossesse pourrait avoir des bénéfices intergénérationnels. Les décisions cliniques doivent cependant peser risques et bénéfices avec des professionnels de santé.",
+          "takeaways": [
+            "Les recherches rapportées lient le traitement de la dépression maternelle pendant la grossesse à des bénéfices potentiels pour le développement cérébral de l’enfant.",
+            "La thérapie pendant la grossesse peut être importante pour le bien‑être maternel et influencer les trajectoires de développement.",
+            "Les décisions concernant le traitement pendant la grossesse doivent être individualisées et discutées avec des cliniciens.",
+            "L’article synthétise des perspectives de recherche plutôt que de fournir des conseils médicaux ou des protocoles de traitement."
+          ]
+        },
+        "de": {
+          "title": "Forschung legt nahe, dass Behandlung von Depression in der Schwangerschaft positive Effekte auf die Gehirnentwicklung des Säuglings haben kann",
+          "summary": "Der Artikel diskutiert Forschung, die nahelegt, dass die Behandlung von Depression in der Schwangerschaft Vorteile für die Gehirnentwicklung des Kindes bringen kann. Die Darstellung sieht Therapie in der Schwangerschaft als potenziell förderlich für Eltern und Nachkommen an.",
+          "whyItMatters": "Die psychische Gesundheit der Mutter kann die Entwicklungs­ergebnisse beeinflussen, daher könnten wirksame und sicher bereitgestellte Behandlungen in der Schwangerschaft intergenerationelle Vorteile haben; klinische Entscheidungen sollten Risiken und Nutzen mit Gesundheitsfachpersonen abwägen.",
+          "takeaways": [
+            "Die berichtete Forschung verbindet die Behandlung mütterlicher Depression in der Schwangerschaft mit potenziellen Vorteilen für die Gehirnentwicklung von Säuglingen.",
+            "Therapie während der Schwangerschaft kann wichtig für das Wohlbefinden der Mutter sein und Entwicklungsverläufe beeinflussen.",
+            "Entscheidungen über Behandlung in der Schwangerschaft sollten individuell getroffen und mit Behandlern besprochen werden.",
+            "Der Artikel synthetisiert Forschungs‑Perspektiven und erteilt keine medizinischen Anweisungen oder Behandlungsprotokolle."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisa sugere que tratar depressão durante a gravidez pode ter efeitos positivos no desenvolvimento cerebral do bebê",
+          "summary": "Este artigo discute pesquisa que indica que tratar a depressão durante a gravidez pode trazer vantagens para o desenvolvimento cerebral da criança. A matéria enquadra a terapia na gravidez como potencialmente benéfica tanto para a pessoa gestante quanto para a descendência.",
+          "whyItMatters": "A saúde mental materna pode influenciar resultados de desenvolvimento, portanto tratamentos eficazes e administrados com segurança durante a gravidez podem ter benefícios intergeracionais; decisões clínicas devem avaliar riscos e benefícios com profissionais de saúde.",
+          "takeaways": [
+            "A pesquisa relatada associa o tratamento da depressão materna na gravidez a potenciais benefícios para o desenvolvimento cerebral infantil.",
+            "Terapia durante a gravidez pode ser importante para o bem‑estar materno e afetar trajetórias de desenvolvimento.",
+            "Decisões sobre tratamento na gravidez devem ser individualizadas e discutidas com clínicos.",
+            "O artigo sintetiza perspectivas de pesquisa em vez de emitir conselhos médicos ou protocolos de tratamento."
+          ]
+        },
+        "hu": {
+          "title": "A kutatás szerint a perinatális depresszió kezelése előnyös lehet az újszülött agyi fejlődése szempontjából",
+          "summary": "A cikk olyan kutatást tárgyal, amely szerint a terhesség alatti depresszió kezelése előnyöket hozhat a gyermek agyi fejlődése számára. A mű azt hangsúlyozza, hogy a terápia a terhesség alatt potenciálisan előnyös lehet mind a szülő, mind az utód számára.",
+          "whyItMatters": "Az anya mentális egészsége befolyásolhatja a fejlődési kimeneteleket, így a hatékony és biztonságosan nyújtott kezelés a terhesség alatt intergenerációs előnyökkel járhat; a klinikai döntéseket a kockázatok és előnyök mérlegelésével, egészségügyi szakemberekkel kell meghozni.",
+          "takeaways": [
+            "A közölt kutatás összekapcsolja az anyai depresszió terhesség alatti kezelését az újszülött agyi fejlődésére gyakorolt potenciális előnyökkel.",
+            "A terápia a terhesség alatt fontos lehet az anya jóllétéért, és befolyásolhatja a fejlődési útvonalakat.",
+            "A terhesség alatt hozott kezelési döntéseket egyedileg kell meghozni, és meg kell beszélni a klinikusokkal.",
+            "A cikk kutatási nézőpontokat foglal össze, és nem ad konkrét orvosi utasításokat vagy kezelési protokollokat."
+          ]
+        },
+        "ar": {
+          "title": "أبحاث تُشير إلى أن علاج الاكتئاب خلال فترة ما حول الولادة قد يفيد تطور دماغ الطفل",
+          "summary": "يناقش هذا المقال أبحاثًا تشير إلى أن معالجة الاكتئاب خلال الحمل قد تمنح مزايا لتطور دماغ الطفل. يؤطّر النص العلاج خلال الحمل على أنه قد يكون مفيدًا لكل من الوالد/ة والنسل.",
+          "whyItMatters": "يمكن أن تؤثر صحة الأم النفسية على نتائج التطور، لذا قد يكون للعلاج الفعال والآمن أثناء الحمل فوائد بين الأجيال؛ ويجب أن تستند القرارات السريرية إلى وزن المخاطر والفوائد بالتشاور مع المهنيين الصحيين.",
+          "takeaways": [
+            "ترتبط الأبحاث المذكورة بين علاج اكتئاب الأم خلال الحمل وفوائد محتملة على تطور دماغ الرضيع.",
+            "يمكن أن يكون العلاج خلال الحمل مهمًا لرفاهية الأم وقد يؤثر على المسارات النمائية.",
+            "يجب أن تُتخذ قرارات العلاج أثناء الحمل بشكل فردي وتُناقش مع الأطباء.",
+            "يلخّص المقال وجهات نظر بحثية ولا يصدر نصائح طبية أو بروتوكولات علاجية محددة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=treating-depression-during-pregnancy-may-benefit-baby-s-brain-dev-b6a83f925f36",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/treating-depression-during-pregnancy-may-benefit-baby-s-brain-dev-b6a83f925f36-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/treating-depression-during-pregnancy-may-benefit-baby-s-brain-dev-b6a83f925f36-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Research suggests perinatal therapy for depression may have positive effects on infant brain development.\nStory summary: This article discusses research indicating that treating depression during pregnancy may confer advantages for the child’s brain development. The piece frames therapy during pregnancy as potentially beneficial for both parent and offspring..\nCategory: neuroscience and brain science / nutrition and development.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "parents-fruit-veg-news-medical",
@@ -218,6 +798,122 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds parents recognize benefits of fruit and veg but often underestimate recommended amounts for kids.\nStory summary: A qualitative study of 15 Swedish parents found broad awareness that fruits and vegetables are healthy, yet many parents underestimated the recommended daily amounts and tended to view serving vegetables at dinner as sufficient for children’s needs..\nCategory: child nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "scientists-discover-how-exercise-reverses-muscle-aging-dc3b9b654d05",
+      "category": "regeneration and stem cells / healthy ageing",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015003550.htm",
+      "sourceTitle": "Scientists discover how exercise reverses muscle aging",
+      "publishedAt": "Thu, 15 Oct 2026 20:41:45 EDT",
+      "languages": {
+        "en": {
+          "title": "Study identifies DEAF1 as a gene involved in age‑related muscle decline that exercise can modulate",
+          "summary": "Researchers report that the gene DEAF1 becomes overactive with age and interferes with protein clearance and repair in muscle. Exercise restored balance in the system described, helping older muscles rebuild, though benefits may lessen if the pathway is too disrupted.",
+          "whyItMatters": "The work provides a biological explanation for how exercise supports muscle maintenance with age and highlights a molecular mechanism to investigate for therapies, but the findings are research‑stage and do not replace established clinical guidance.",
+          "takeaways": [
+            "DEAF1 activity increases with age and is implicated in reduced muscle repair capacity in the reported study.",
+            "Exercise was shown to counteract the described dysfunction in the research context, aiding muscle rebuilding.",
+            "Benefits may be limited if the underlying system is severely impaired; translation to clinical interventions requires more study.",
+            "This adds to evidence that physical activity has molecular as well as functional effects on aging muscle."
+          ]
+        },
+        "es": {
+          "title": "Estudio identifica a DEAF1 como gen implicado en el declive muscular relacionado con la edad que el ejercicio puede modular",
+          "summary": "Los investigadores informan que el gen DEAF1 se vuelve hiperactivo con la edad e interfiere con la eliminación y reparación de proteínas en el músculo. En el contexto del estudio, el ejercicio restauró el equilibrio del sistema descrito, ayudando a la reconstrucción muscular en animales mayores, aunque los beneficios pueden disminuir si la vía está demasiado alterada.",
+          "whyItMatters": "El trabajo ofrece una explicación biológica de cómo el ejercicio apoya el mantenimiento muscular con la edad y destaca un mecanismo molecular para investigar con fines terapéuticos, pero los hallazgos están en fase de investigación y no sustituyen la orientación clínica establecida.",
+          "takeaways": [
+            "La actividad de DEAF1 aumenta con la edad y está implicada en la disminución de la capacidad de reparación muscular en el estudio reportado.",
+            "En la investigación, el ejercicio contrarrestó la disfunción descrita, ayudando a la reconstrucción del músculo.",
+            "Los beneficios podrían ser limitados si el sistema subyacente está gravemente dañado; la traducción a intervenciones clínicas requiere más estudio.",
+            "Esto suma evidencia de que la actividad física tiene efectos moleculares además de funcionales en el músculo envejecido."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выделяет DEAF1 как ген, участвующий в возрастном снижении мышечной функции, который можно модулировать с помощью упражнений",
+          "summary": "Исследователи сообщают, что ген DEAF1 становится сверхактивным с возрастом и мешает удалению повреждённых белков и восстановлению в мышцах. В описанном исследовании физическая активность восстановила баланс в этой системе, помогая восстановлению мышц у старых животных, хотя выгода может уменьшаться, если путь сильно нарушен.",
+          "whyItMatters": "Работа даёт биологическое объяснение тому, как упражнения поддерживают сохранение мышц с возрастом, и выделяет молекулярный механизм для дальнейшего изучения; однако эти результаты находятся на стадии исследований и не заменяют установленную клиническую практику.",
+          "takeaways": [
+            "Активность DEAF1 повышается с возрастом и связана с уменьшением способности мышц к восстановлению в исследовании.",
+            "Упражнения в исследовательском контексте показали способность противодействовать описанной дисфункции и способствовать восстановлению мышц.",
+            "Выигрыш может быть ограничен, если базовая система сильно нарушена; перевод в клинические вмешательства требует дополнительных исследований.",
+            "Это добавляет свидетельства в пользу того, что физическая активность оказывает молекулярные, а не только функциональные эффекты на стареющие мышцы."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження вказує на DEAF1 як ген, залучений у вікове згасання м’язів, який можна модулювати вправами",
+          "summary": "Дослідники повідомляють, що ген DEAF1 стає надмірно активним із віком і заважає виведенню пошкоджених білків і відновленню в м’язах. Вправи відновили рівновагу в описаній системі, допомагаючи старшим м’язам відновлюватися, хоча вигоди можуть зменшуватись, якщо шлях значно порушений.",
+          "whyItMatters": "Робота дає біологічне пояснення того, як фізичні вправи підтримують м’язи в старінні, і висвітлює молекулярний механізм для подальшого вивчення, але результати є науковими і не замінюють усталених клінічних рекомендацій.",
+          "takeaways": [
+            "У дослідженні активність DEAF1 зростає з віком і пов’язана зі зниженням здатності м’язів до відновлення.",
+            "Показано, що вправи протидіють описаній дисфункції в дослідницькому контексті, сприяючи відбудові м’язів.",
+            "Користь може бути обмежена, якщо основна система серйозно порушена; переклад у клінічні втручання потребує додаткових досліджень.",
+            "Це додає доказів того, що фізична активність має як молекулярні, так і функціональні ефекти на вікові зміни м’язів."
+          ]
+        },
+        "fr": {
+          "title": "Une étude identifie DEAF1 comme gène impliqué dans le déclin musculaire lié à l’âge, modulable par l’exercice",
+          "summary": "Les chercheurs rapportent que le gène DEAF1 devient hyperactif avec l’âge et perturbe l’élimination des protéines endommagées et la réparation dans le muscle. L’exercice a rétabli l’équilibre du système décrit, aidant les muscles âgés à se reconstruire, bien que les bénéfices puissent diminuer si la voie est trop altérée.",
+          "whyItMatters": "Le travail fournit une explication biologique de la façon dont l’exercice soutient l’entretien musculaire avec l’âge et met en lumière un mécanisme moléculaire à étudier pour de futures thérapies, mais les résultats sont à un stade de recherche et ne remplacent pas les recommandations cliniques établies.",
+          "takeaways": [
+            "L’activité de DEAF1 augmente avec l’âge et est impliquée dans la diminution de la capacité de réparation musculaire dans l’étude rapportée.",
+            "L’exercice a été montré comme capable de contrer la dysfonction décrite dans le contexte de la recherche, favorisant la reconstruction musculaire.",
+            "Les bénéfices peuvent être limités si le système sous‑jacent est gravement compromis ; la traduction en interventions cliniques nécessite davantage d’études.",
+            "Cela renforce l’ensemble de preuves selon lequel l’activité physique a des effets moléculaires et fonctionnels sur le muscle vieilli."
+          ]
+        },
+        "de": {
+          "title": "Studie identifiziert DEAF1 als Gen, das am altersbedingten Muskelabbau beteiligt ist und durch Bewegung beeinflusst werden kann",
+          "summary": "Die Forschenden berichten, dass das Gen DEAF1 mit dem Alter überaktiv wird und die Proteinreinigung sowie Reparatur in Muskeln stört. In der beschriebenen Studie stellte Bewegung das Gleichgewicht im System wieder her und half älteren Muskeln beim Wiederaufbau, wobei der Nutzen abnehmen kann, wenn der Pathway zu stark gestört ist.",
+          "whyItMatters": "Die Arbeit liefert eine biologische Erklärung dafür, wie Bewegung die Muskelerhaltung im Alter unterstützen kann, und hebt einen molekularen Mechanismus hervor, der für Therapien untersucht werden könnte. Die Befunde sind jedoch Forschungsstand und ersetzen keine etablierte klinische Anleitung.",
+          "takeaways": [
+            "DEAF1‑Aktivität nimmt mit dem Alter zu und wird in der berichteten Studie mit verminderter Muskelreparatur in Verbindung gebracht.",
+            "In der Forschungsumgebung konnte Bewegung die beschriebene Dysfunktion entgegenwirken und den Muskelaufbau unterstützen.",
+            "Nutzen können begrenzt sein, wenn das zugrunde liegende System schwer geschädigt ist; die Übertragung auf klinische Interventionen erfordert weitere Studien.",
+            "Die Ergebnisse ergänzen die Evidenz, dass körperliche Aktivität sowohl molekulare als auch funktionelle Effekte auf alternde Muskulatur hat."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo identifica DEAF1 como gene envolvido no declínio muscular relacionado à idade que pode ser modulado pelo exercício",
+          "summary": "Pesquisadores relatam que o gene DEAF1 fica hiperativo com a idade e interfere na limpeza de proteínas e reparo no músculo. O exercício restaurou o equilíbrio no sistema descrito, ajudando músculos mais velhos a se reconstruírem, embora os benefícios possam diminuir se a via estiver muito comprometida.",
+          "whyItMatters": "O trabalho fornece uma explicação biológica de como o exercício apoia a manutenção muscular com a idade e destaca um mecanismo molecular a investigar para terapias, mas os achados estão em estágio de pesquisa e não substituem orientações clínicas estabelecidas.",
+          "takeaways": [
+            "A atividade de DEAF1 aumenta com a idade e foi implicada na redução da capacidade de reparo muscular no estudo relatado.",
+            "O exercício demonstrou contrariar a disfunção descrita no contexto da pesquisa, auxiliando a reconstrução muscular.",
+            "Os benefícios podem ser limitados se o sistema subjacente estiver gravemente comprometido; a tradução para intervenções clínicas requer mais estudo.",
+            "Isso soma‑se às evidências de que a atividade física tem efeitos moleculares além dos funcionais no músculo envelhecido."
+          ]
+        },
+        "hu": {
+          "title": "A tanulmány DEAF1‑et azonosította, mint a korral összefüggő izomgyengülésben szerepet játszó gént, amelyet a testmozgás módosíthat",
+          "summary": "A kutatók arról számolnak be, hogy a DEAF1 gén életkorral túlaktívvá válik, és gátolja a fehérje‑takarítást és a javítást az izmokban. A testmozgás visszaállította a rendszer egyensúlyát a leírt környezetben, segítve az idősebb izmok regenerálódását, bár a haszon csökkenhet, ha a pálya túlságosan sérült.",
+          "whyItMatters": "A munka biológiai magyarázatot ad arra, hogyan támogatja a testmozgás az izomfenntartást az öregedés során, és kiemel egy molekuláris mechanizmust, amelyet terápiák vizsgálatára lehet használni; az eredmények kutatási szintűek és nem helyettesítik a klinikai iránymutatásokat.",
+          "takeaways": [
+            "A DEAF1 aktivitása a vizsgált tanulmány szerint növekszik az életkorral, és hozzájárul az izomjavítás csökkent képességéhez.",
+            "A testmozgás a kutatási környezetben ellensúlyozta a leírt diszfunkciót és támogatta az izom újjáépülését.",
+            "A haszon korlátozott lehet, ha az alapvető rendszer súlyosan sérült; a klinikai alkalmazásig további vizsgálatok szükségesek.",
+            "Ez hozzájárul a bizonyítékokhoz, hogy a fizikai aktivitásnak molekuláris mellett funkcionális hatásai is vannak az öregedő izomra."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تحدّد DEAF1 كجين مشارك في تدهور العضلات المرتبط بالسن يمكن للتمارين تعديل نشاطه",
+          "summary": "يبلغ الباحثون أن جين DEAF1 يصبح مفرط النشاط مع التقدم في العمر ويعوق تنظيف وبناء البروتينات والإصلاح في العضلات. أعادت التمارين التوازن في النظام الموصوف، مما ساعد العضلات الأكبر سنًا على إعادة البناء، رغم أن الفوائد قد تقل إذا كان المسار متضررًا بشدة.",
+          "whyItMatters": "تقدّم هذه الدراسة تفسيرًا بيولوجيًا لكيفية دعم التمارين لصيانة العضلات مع التقدم في العمر، وتسلّط الضوء على آلية جزيئية للاستقصاء من أجل العلاجات، لكن النتائج في مرحلة البحث ولا تغني عن الإرشادات السريرية المعتمدة.",
+          "takeaways": [
+            "يزداد نشاط DEAF1 مع العمر وفقًا للدراسة، وهو مرتبط بتراجع قدرة العضلات على الإصلاح.",
+            "أظهرت التمارين أنها تواجه الخلل الموصوف في سياق البحث وتساعد على إعادة بناء العضلات.",
+            "قد تكون الفوائد محدودة إذا كان النظام الأساسي متضررًا بشدة؛ يلزم مزيد من الدراسة قبل الترجمة السريرية.",
+            "تدعم هذه النتائج أن للنشاط البدني تأثيرات جزيئية بالإضافة إلى الوظيفية على عضلات المسنين."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-discover-how-exercise-reverses-muscle-aging-dc3b9b654d05",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-how-exercise-reverses-muscle-aging-dc3b9b654d05-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-how-exercise-reverses-muscle-aging-dc3b9b654d05-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study identifies DEAF1 as a gene involved in age‑related muscle decline that exercise can modulate.\nStory summary: Researchers report that the gene DEAF1 becomes overactive with age and interferes with protein clearance and repair in muscle. Exercise restored balance in the system described, helping older muscles rebuild, though benefits may lessen if the pathway is too disrupted..\nCategory: regeneration and stem cells / healthy ageing.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "egfr-targeted-antibody-toxin-conjugate-in-recurrent-glioma-a-phas-c350d26711f9",
       "category": "Cancer Treatment & Clinical Trials",
       "sourceName": "nature.com",
@@ -323,6 +1019,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase 1 trial of EGFR-targeted antibody–toxin conjugate shows early safety and efficacy signals in recurrent glioma.\nStory summary: A phase 1 clinical trial of D2C7-ATC, an antibody–toxin conjugate targeting EGFR/EGFRvIII, reported encouraging safety and efficacy signals in patients with recurrent malignant glioma. Translational analyses of patient samples indicated evidence of intratumoral and systemic immune activation..\nCategory: Cancer Treatment & Clinical Trials.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "conversational-brain-ai-for-adaptive-epilepsy-care-058ed89d8bd8",
+      "category": "AI in cancer detection and treatment / neuroscience and brain science",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04719-6",
+      "sourceTitle": "Conversational brain AI for adaptive epilepsy care",
+      "publishedAt": "2026-10-16",
+      "languages": {
+        "en": {
+          "title": "Small study finds patients can help fine‑tune seizure detectors by interacting with an AI agent",
+          "summary": "A preliminary study tested a conversational AI that lets patients label or discuss seizure events to improve personalized seizure detectors. The article notes successes but also highlights the greater challenge of building AI systems that respond appropriately in clinical contexts.",
+          "whyItMatters": "Patient‑in‑the‑loop AI could improve epilepsy monitoring and personalized detection, but early studies are small and the approach raises questions about reliability, safety and appropriate clinical oversight.",
+          "takeaways": [
+            "The study explored using conversational AI to let patients contribute to training their own seizure detectors.",
+            "Early results show feasibility but come from a small study; wider validation is needed.",
+            "Key challenges include ensuring appropriate AI behaviour, clinical integration and patient safety.",
+            "This approach illustrates both promise and limits of patient‑facing AI in neurological care."
+          ]
+        },
+        "es": {
+          "title": "Pequeño estudio muestra que los pacientes pueden ayudar a afinar detectores de convulsiones interactuando con un agente de IA",
+          "summary": "Un estudio preliminar probó una IA conversacional que permite a los pacientes etiquetar o comentar eventos de convulsiones para mejorar detectores personalizados. El artículo señala éxitos pero también subraya el reto mayor de construir sistemas de IA que respondan de forma apropiada en contextos clínicos.",
+          "whyItMatters": "La IA con participación del paciente podría mejorar el monitoreo de la epilepsia y la detección personalizada, pero los estudios iniciales son pequeños y el enfoque plantea cuestiones sobre fiabilidad, seguridad y supervisión clínica adecuada.",
+          "takeaways": [
+            "El estudio exploró el uso de IA conversacional para permitir que los pacientes contribuyan al entrenamiento de sus propios detectores de convulsiones.",
+            "Los resultados tempranos muestran viabilidad, pero provienen de un estudio pequeño; se necesita validación más amplia.",
+            "Los retos clave incluyen asegurar el comportamiento apropiado de la IA, la integración clínica y la seguridad del paciente.",
+            "Este enfoque ilustra tanto el potencial como los límites de la IA dirigida al paciente en la atención neurológica."
+          ]
+        },
+        "ru": {
+          "title": "Небольшое исследование показало, что пациенты могут помогать дорабатывать детекторы приступов, взаимодействуя с ИИ‑агентом",
+          "summary": "Предварительное исследование испытало разговорный ИИ, позволяющий пациентам маркировать или обсуждать события приступов, чтобы улучшить персонализированные детекторы приступов. Статья отмечает успехи, но также подчёркивает более серьёзную задачу — создание ИИ‑систем, корректно работающих в клиническом контексте.",
+          "whyItMatters": "Искусственный интеллект с участием пациентов может улучшить мониторинг эпилепсии и персонализированное обнаружение приступов, но ранние исследования малы и подход вызывает вопросы надёжности, безопасности и соответствующего клинического контроля.",
+          "takeaways": [
+            "Исследование изучало использование разговорного ИИ, позволяющего пациентам участвовать в обучении своих детекторов приступов.",
+            "Ранние результаты демонстрируют реализуемость, но получены на небольшом исследовании; требуется более широкая валидация.",
+            "Ключевые проблемы — обеспечение корректного поведения ИИ, клиническая интеграция и безопасность пациентов.",
+            "Подход иллюстрирует как потенциал, так и ограничения пациент‑ориентированных ИИ в неврологической помощи."
+          ]
+        },
+        "uk": {
+          "title": "Невелике дослідження показує, що пацієнти можуть допомагати налаштовувати детектори нападів, взаємодіючи з агентом ШІ",
+          "summary": "Провели попереднє дослідження розмовного ШІ, який дозволяє пацієнтам маркувати або обговорювати події нападів для поліпшення персоналізованих детекторів судом. У статті відзначені певні успіхи, але також підкреслено складність створення ШІ‑систем, які відповідають належним чином у клінічних умовах.",
+          "whyItMatters": "ШІ з пацієнтом у ланцюгу може покращити моніторинг епілепсії та персоналізоване виявлення нападів, але ранні дослідження невеликі і підходи викликають питання щодо надійності, безпеки та належного клінічного нагляду.",
+          "takeaways": [
+            "Досліджували використання розмовного ШІ для залучення пацієнтів до навчання їхніх власних детекторів нападів.",
+            "Початкові результати демонструють життєздатність підходу, але базуються на невеликому дослідженні; потрібна ширша валідація.",
+            "Ключові проблеми включають забезпечення відповідної поведінки ШІ, інтеграцію в клінічну практику та безпеку пацієнтів.",
+            "Підхід ілюструє як потенціал, так і обмеження пацієнто‑орієнтованого ШІ в неврологічній допомозі."
+          ]
+        },
+        "fr": {
+          "title": "Une petite étude montre que les patients peuvent aider à affiner des détecteurs de crises en interagissant avec un agent IA",
+          "summary": "Une étude préliminaire a testé une IA conversationnelle permettant aux patients d’étiqueter ou de discuter des événements de crise afin d’améliorer des détecteurs personnalisés. L’article note des succès mais souligne aussi la difficulté plus large de concevoir des systèmes d’IA répondant de façon appropriée en contexte clinique.",
+          "whyItMatters": "L’IA « patient‑in‑the‑loop » pourrait améliorer la surveillance de l’épilepsie et la détection personnalisée des crises, mais les études initiales sont de petite taille et l’approche soulève des questions sur la fiabilité, la sécurité et la supervision clinique appropriée.",
+          "takeaways": [
+            "L’étude a exploré l’usage d’une IA conversationnelle pour permettre aux patients de contribuer à l’entraînement de leurs propres détecteurs de crises.",
+            "Les premiers résultats montrent la faisabilité, mais proviennent d’une petite étude ; une validation plus large est nécessaire.",
+            "Les défis clés incluent l’assurance d’un comportement approprié de l’IA, son intégration clinique et la sécurité des patients.",
+            "Cette approche illustre à la fois les promesses et les limites de l’IA orientée patient en soins neurologiques."
+          ]
+        },
+        "de": {
+          "title": "Kleine Studie zeigt, dass Patienten durch Interaktion mit einem KI‑Agenten zur Feinabstimmung von Anfallserkennern beitragen können",
+          "summary": "In einer vorläufigen Studie wurde eine konversationelle KI getestet, die Patientinnen und Patienten erlaubt, Ereignisse von Anfällen zu markieren oder zu besprechen, um personalisierte Anfallserkenner zu verbessern. Der Artikel nennt Erfolge, hebt aber auch die größere Herausforderung hervor, KI‑Systeme zu bauen, die in klinischen Kontexten angemessen reagieren.",
+          "whyItMatters": "Patienten‑in‑the‑loop‑KI könnte die Epilepsieüberwachung und personalisierte Detektion verbessern, doch frühe Studien sind klein und der Ansatz wirft Fragen zur Zuverlässigkeit, Sicherheit und angemessenen klinischen Aufsicht auf.",
+          "takeaways": [
+            "Die Studie prüfte eine konversationelle KI, mit der Patienten zur Schulung ihrer eigenen Anfallserkenner beitragen können.",
+            "Frühe Ergebnisse zeigen Machbarkeit, stammen jedoch aus einer kleinen Studie; breitere Validierung ist erforderlich.",
+            "Wesentliche Herausforderungen sind die Sicherstellung angemessenen KI‑Verhaltens, die klinische Integration und die Patientensicherheit.",
+            "Der Ansatz veranschaulicht sowohl Potenzial als auch Grenzen patientenorientierter KI in der neurologischen Versorgung."
+          ]
+        },
+        "pt-br": {
+          "title": "Pequeno estudo mostra que pacientes podem ajudar a aperfeiçoar detectores de crise conversando com um agente de IA",
+          "summary": "Um estudo preliminar testou uma IA conversacional que permite aos pacientes rotular ou discutir eventos de crise para melhorar detectores personalizados de convulsões. O artigo aponta sucessos, mas também destaca o desafio mais amplo de construir sistemas de IA que respondam adequadamente em contextos clínicos.",
+          "whyItMatters": "IA com o paciente no loop pode melhorar o monitoramento da epilepsia e a detecção personalizada, mas estudos iniciais são pequenos e a abordagem levanta questões sobre confiabilidade, segurança e supervisão clínica adequada.",
+          "takeaways": [
+            "O estudo explorou o uso de IA conversacional para permitir que pacientes contribuam para o treinamento de seus próprios detectores de crise.",
+            "Resultados iniciais mostram viabilidade, mas vêm de um estudo pequeno; é necessária validação mais ampla.",
+            "Desafios-chave incluem garantir comportamento apropriado da IA, integração clínica e segurança do paciente.",
+            "A abordagem ilustra tanto promessas quanto limites da IA voltada ao paciente no cuidado neurológico."
+          ]
+        },
+        "hu": {
+          "title": "Egy kis tanulmány szerint a betegek egy AI‑ügynökkel való interakcióval finomhangolhatják a rohamészlelőket",
+          "summary": "Egy előzetes vizsgálat egy konverzációs mesterséges intelligenciát tesztelt, amely lehetővé teszi a betegek számára, hogy megjelöljék vagy megbeszéljék a rohameseményeket a személyre szabott rohamészlelők javítása érdekében. A cikk sikereket jegyez fel, ugyanakkor hangsúlyozza a megfelelő klinikai viselkedésű rendszerek építésének kihívásait.",
+          "whyItMatters": "A beteg részvételével működő MI javíthatja az epilepszia monitorozását és a személyre szabott észlelést, de a korai tanulmányok kicsik, és a megközelítés megbízhatósággal, biztonsággal és klinikai felügyelettel kapcsolatos kérdéseket vet fel.",
+          "takeaways": [
+            "A tanulmány konverzációs MI használatát vizsgálta, hogy a betegek hozzájárulhassanak saját rohamészlelőik képzéséhez.",
+            "A korai eredmények a megvalósíthatóságot mutatják, de a vizsgálat kicsi; szélesebb körű validáció szükséges.",
+            "Fő kihívások: a MI megfelelő működésének biztosítása, klinikai integráció és a betegbiztonság.",
+            "A megközelítés illusztrálja a betegfelé forduló MI ígéretét és korlátait a neurológiai ellátásban."
+          ]
+        },
+        "ar": {
+          "title": "دراسة صغيرة تجد أن المرضى يمكنهم المساعدة في تحسين كواشف النوبات عبر التفاعل مع وكيل ذكاء اصطناعي",
+          "summary": "اختبرت دراسة أولية ذكاءً اصطناعيًا حواريًا يتيح للمرضى وضع تسميات أو مناقشة أحداث النوبات لتحسين كواشف النوبات المخصصة. يشير المقال إلى نجاحات لكنه يبرز أيضًا تحدي بناء أنظمة ذكاء اصطناعي تتصرف بشكل مناسب في السياقات السريرية.",
+          "whyItMatters": "قد يُحسّن إشراك المريض في حلقة الذكاء الاصطناعي مراقبة الصرع والكشف المخصص، لكن الدراسات الأولية صغيرة وتثير أسئلة حول الموثوقية والسلامة والإشراف السريري المناسب.",
+          "takeaways": [
+            "استكشفت الدراسة استخدام ذكاء اصطناعي حواري لتمكين المرضى من المساهمة في تدريب كواشف النوبات الخاصة بهم.",
+            "تُظهر النتائج المبكرة الجدوى لكنها تأتي من دراسة صغيرة؛ ثمة حاجة إلى تحقق أوسع.",
+            "التحديات الرئيسية تشمل ضمان سلوك الذكاء الاصطناعي المناسب، والاندماج السريري، وسلامة المرضى.",
+            "تُظهر هذه المقاربة كلًا من الوعد والحدود لذكاء الاصطناعي الموجَّه للمريض في الرعاية العصبية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=conversational-brain-ai-for-adaptive-epilepsy-care-058ed89d8bd8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/conversational-brain-ai-for-adaptive-epilepsy-care-058ed89d8bd8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/conversational-brain-ai-for-adaptive-epilepsy-care-058ed89d8bd8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Small study finds patients can help fine‑tune seizure detectors by interacting with an AI agent.\nStory summary: A preliminary study tested a conversational AI that lets patients label or discuss seizure events to improve personalized seizure detectors. The article notes successes but also highlights the greater challenge of building AI systems that respond appropriately in clinical contexts..\nCategory: AI in cancer detection and treatment / neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "sirt1-nad-lifespan",
@@ -858,6 +1670,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Large US cohort study found no overall link between total ultra-processed food intake and colorectal cancer.\nStory summary: Researchers analyzed dietary intake in more than 400,000 U.S. adults and reported in PLOS Medicine that overall consumption of ultra-processed foods (UPFs) was not associated with colorectal cancer incidence in this cohort..\nCategory: Nutrition & Cancer Prevention.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "many-american-diets-may-not-include-enough-of-this-essential-nutr-73f1cd87bd1c",
+      "category": "nutrition",
+      "sourceName": "sciencenews.org",
+      "sourceUrl": "https://www.sciencenews.org/article/iodine-salt-brain-development-diets",
+      "sourceTitle": "Many American diets may not include enough of this essential nutrient",
+      "publishedAt": "Thu, 15 Oct 2026 17:00:00 +0000",
+      "languages": {
+        "en": {
+          "title": "Signs that dietary iodine intake in the U.S. may be insufficient for some people",
+          "summary": "This piece reports concerns that changes in food choices and the popularity of specialty salts may reduce iodine intake in some Americans. Iodine is essential for thyroid function and brain development, and the article highlights emerging dietary gaps.",
+          "whyItMatters": "Iodine deficiency during critical developmental periods can affect brain development; monitoring population iodine intake and considering food‑based strategies are public‑health priorities, but individual needs vary and should be assessed clinically.",
+          "takeaways": [
+            "Shifts in diet and choice of low‑iodine specialty salts can lower iodine intake for some people.",
+            "Iodine is crucial for thyroid hormones and fetal/infant brain development.",
+            "Population‑level surveillance and targeted guidance may be needed; individuals with concerns should seek professional assessment.",
+            "The article raises public‑health flags rather than prescribing individual supplements or treatments."
+          ]
+        },
+        "es": {
+          "title": "Indicios de que la ingesta dietaria de yodo en EE. UU. podría ser insuficiente para algunas personas",
+          "summary": "El artículo informa preocupaciones de que cambios en las elecciones alimentarias y la popularidad de sales especiales podrían reducir la ingesta de yodo en algunos estadounidenses. El yodo es esencial para la función tiroidea y el desarrollo cerebral, y el texto destaca posibles brechas dietarias emergentes.",
+          "whyItMatters": "La deficiencia de yodo durante periodos críticos de desarrollo puede afectar el desarrollo cerebral; el seguimiento poblacional de la ingesta de yodo y considerar estrategias basadas en alimentos son prioridades de salud pública, aunque las necesidades individuales varían y deben evaluarse clínicamente.",
+          "takeaways": [
+            "Los cambios en la dieta y la elección de sales especiales con bajo contenido de yodo pueden reducir la ingesta de yodo en algunas personas.",
+            "El yodo es crucial para las hormonas tiroideas y el desarrollo cerebral fetal/infantil.",
+            "Puede ser necesario vigilancia a nivel poblacional y orientación dirigida; las personas con inquietudes deberían buscar evaluación profesional.",
+            "El artículo plantea señales de salud pública más que prescribir suplementos o tratamientos individuales."
+          ]
+        },
+        "ru": {
+          "title": "Признаки того, что потребление йода в питании в США может быть недостаточным для некоторых людей",
+          "summary": "В материале обсуждаются опасения, что изменения в пищевых предпочтениях и рост популярности специализированных солей могут сократить поступление йода у некоторых американцев. Йод необходим для функции щитовидной железы и развития мозга, и статья подчёркивает возникающие пищевые пробелы.",
+          "whyItMatters": "Дефицит йода в критические периоды развития может повлиять на развитие мозга; мониторинг потребления йода на популяционном уровне и рассмотрение пищевых стратегий являются приоритетами общественного здравоохранения, при этом индивидуальные потребности различаются и должны оцениваться клинически.",
+          "takeaways": [
+            "Изменения в рационе и выбор специализированных солей с низким содержанием йода могут снизить потребление йода у некоторых людей.",
+            "Йод важен для гормонов щитовидной железы и развития мозга у плода и младенца.",
+            "Может потребоваться наблюдение на уровне населения и целевые рекомендации; люди с беспокойством должны обратиться за профессиональной оценкой.",
+            "Статья поднимает вопросы общественного здравоохранения, а не призывает к приёму добавок или индивидуальным лечениям."
+          ]
+        },
+        "uk": {
+          "title": "Ознаки того, що споживання йоду в США може бути недостатнім для деяких людей",
+          "summary": "У матеріалі висловлені побоювання, що зміни в харчових звичках і популярність спеціалізованих солей можуть знижувати надходження йоду в деяких американців. Йод необхідний для функції щитоподібної залози і розвитку мозку, і стаття підкреслює виникаючі харчові прогалини.",
+          "whyItMatters": "Недостатність йоду в критичні періоди розвитку може впливати на розвиток мозку; моніторинг споживання йоду населенням і розгляд харчових підходів є питаннями громадського здоров’я, але індивідуальні потреби різняться і мають оцінюватися клінічно.",
+          "takeaways": [
+            "Зміни в дієті та використання спеціалізованих солей з низьким вмістом йоду можуть знижувати споживання йоду у деяких людей.",
+            "Йод є важливим для гормонів щитоподібної залози і розвитку мозку плода та немовляти.",
+            "Може знадобитися нагляд на рівні населення та цільова інформація; особи, які мають занепокоєння, повинні звертатися по клінічну оцінку.",
+            "Стаття піднімає питання громадського здоров’я, але не рекомендує індивідуальні добавки чи лікування."
+          ]
+        },
+        "fr": {
+          "title": "Des signes indiquent que l’apport en iode dans l’alimentation aux États‑Unis peut être insuffisant pour certaines personnes",
+          "summary": "Cet article rapporte des inquiétudes selon lesquelles les changements d’alimentation et la popularité de sels spécialisés pourraient réduire l’apport en iode chez certains Américains. L’iode est essentiel pour la fonction thyroïdienne et le développement cérébral, et l’article souligne des lacunes alimentaires émergentes.",
+          "whyItMatters": "Une carence en iode durant des périodes développementales critiques peut affecter le développement cérébral ; surveiller l’apport en iode au niveau de la population et envisager des stratégies alimentaires sont des priorités de santé publique, mais les besoins individuels varient et doivent être évalués cliniquement.",
+          "takeaways": [
+            "Les évolutions alimentaires et le recours à des sels spécialisés pauvres en iode peuvent diminuer l’apport en iode pour certaines personnes.",
+            "L’iode est crucial pour les hormones thyroïdiennes et le développement cérébral fœtal/infantile.",
+            "Une surveillance à l’échelle de la population et des recommandations ciblées peuvent être nécessaires ; les personnes concernées doivent demander une évaluation professionnelle.",
+            "L’article soulève des alertes de santé publique plutôt que de prescrire des suppléments ou des traitements individuels."
+          ]
+        },
+        "de": {
+          "title": "Anzeichen, dass die Jodzufuhr über die Nahrung in den USA für manche Menschen unzureichend sein könnte",
+          "summary": "Der Beitrag berichtet über Sorgen, dass Veränderungen in Ernährungsgewohnheiten und die Beliebtheit spezieller Salze die Jodzufuhr bei einigen Amerikanern reduzieren könnten. Jod ist wichtig für die Schilddrüsenfunktion und die Gehirnentwicklung, und der Artikel hebt entstehende Ernährungslücken hervor.",
+          "whyItMatters": "Jodmangel in kritischen Entwicklungsphasen kann die Gehirnentwicklung beeinträchtigen; die Überwachung der Jodzufuhr in der Bevölkerung und die Prüfung lebensmittelbasierter Strategien sind öffentlich‑gesundheitliche Prioritäten, wobei individuelle Bedarfe variieren und klinisch beurteilt werden sollten.",
+          "takeaways": [
+            "Verschiebungen in der Ernährung und die Wahl jodarmer Spezialsalze können die Jodzufuhr für manche Menschen verringern.",
+            "Jod ist entscheidend für Schilddrüsenhormone und die Gehirnentwicklung von Fötus und Säugling.",
+            "Überwachung auf Bevölkerungsniveau und gezielte Empfehlungen könnten notwendig sein; Personen mit Bedenken sollten professionelle Beratung einholen.",
+            "Der Artikel weist auf öffentliche‑gesundheitliche Warnsignale hin, ohne individuelle Ergänzungen oder Behandlungen vorzuschreiben."
+          ]
+        },
+        "pt-br": {
+          "title": "Indícios de que a ingestão dietética de iodo nos EUA pode ser insuficiente para algumas pessoas",
+          "summary": "A matéria relata preocupações de que mudanças nas escolhas alimentares e a popularidade de sais especiais possam reduzir a ingestão de iodo em alguns americanos. O iodo é essencial para a função tireoidiana e o desenvolvimento cerebral, e o artigo destaca lacunas dietéticas emergentes.",
+          "whyItMatters": "A deficiência de iodo durante períodos críticos de desenvolvimento pode afetar o desenvolvimento cerebral; monitorar a ingestão populacional de iodo e considerar estratégias baseadas em alimentos são prioridades de saúde pública, mas necessidades individuais variam e devem ser avaliadas clinicamente.",
+          "takeaways": [
+            "Mudanças na dieta e a escolha de sais especiais com baixo teor de iodo podem reduzir a ingestão de iodo para algumas pessoas.",
+            "O iodo é crucial para hormônios tireoidianos e o desenvolvimento cerebral fetal/infantil.",
+            "Vigilância em nível populacional e orientações direcionadas podem ser necessárias; indivíduos com preocupações devem buscar avaliação profissional.",
+            "O artigo levanta alertas de saúde pública em vez de prescrever suplementos ou tratamentos individuais."
+          ]
+        },
+        "hu": {
+          "title": "Jelek arra, hogy az étrendi jódbevitel az Egyesült Államokban egyeseknél nem elegendő lehet",
+          "summary": "A cikk aggodalmakról számol be, miszerint az étkezési szokások változása és a különleges sók népszerűsége csökkentheti egyes amerikaiak jódbevitelét. A jód létfontosságú a pajzsmirigy működéséhez és az agy fejlődéséhez, és a cikk feltárja a feltörekvő táplálkozási hiányosságokat.",
+          "whyItMatters": "A jódhiány a kritikus fejlődési időszakokban befolyásolhatja az agy fejlődését; a populáció jódbevitelének figyelemmel kísérése és az élelmiszeralapú stratégiák mérlegelése közegészségügyi prioritás, de az egyéni szükségletek eltérnek, és klinikai úton kell értékelni őket.",
+          "takeaways": [
+            "Az étrendváltozások és az alacsony jódtartalmú speciális sók választása csökkentheti néhány ember jódbevitelét.",
+            "A jód létfontosságú a pajzsmirigy‑hormonok és a magzati/csecsemő agyi fejlődés számára.",
+            "Szükség lehet népességszintű monitorozásra és célzott iránymutatásra; akik aggódnak, konzultáljanak szakemberrel.",
+            "A cikk közegészségügyi figyelmeztetéseket fogalmaz meg, nem ír elő egyéni kiegészítőket vagy kezeléseket."
+          ]
+        },
+        "ar": {
+          "title": "دلالات تشير إلى أن تناول اليود الغذائي في الولايات المتحدة قد يكون غير كاف لبعض الأشخاص",
+          "summary": "تفيد هذه القطعة بوجود مخاوف من أن تغيّرات خيارات الطعام وشعبية الأملاح المتخصصة قد تقلّل من تناول اليود لدى بعض الأمريكيين. اليود ضروري لوظيفة الغدة الدرقية وتطور الدماغ، ويسلّط المقال الضوء على فجوات غذائية ناشئة.",
+          "whyItMatters": "قد يؤثر نقص اليود أثناء فترات التطور الحرجة على نمو الدماغ؛ لذلك يعد رصد تناول اليود على مستوى السكان والنظر في استراتيجيات قائمة على الغذاء أولوية للصحة العامة، لكن الاحتياجات الفردية تختلف ويجب تقييمها سريريًا.",
+          "takeaways": [
+            "يمكن أن تخفض التحولات في النظام الغذائي واختيار الأملاح منخفضة اليود تناول اليود لدى بعض الأشخاص.",
+            "اليود أساسي لهرمونات الغدة الدرقية وتطور دماغ الجنين والرضيع.",
+            "قد تكون هناك حاجة لمراقبة على مستوى السكان وإرشادات موجهة؛ وعلى الأفراد القلقين طلب التقييم المهني.",
+            "يطرح المقال إشارات صحة عامة بدلاً من وصف مكملات أو علاجات فردية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=many-american-diets-may-not-include-enough-of-this-essential-nutr-73f1cd87bd1c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/many-american-diets-may-not-include-enough-of-this-essential-nutr-73f1cd87bd1c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/many-american-diets-may-not-include-enough-of-this-essential-nutr-73f1cd87bd1c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Signs that dietary iodine intake in the U.S. may be insufficient for some people.\nStory summary: This piece reports concerns that changes in food choices and the popularity of specialty salts may reduce iodine intake in some Americans. Iodine is essential for thyroid function and brain development, and the article highlights emerging dietary gaps..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "alzheimer-s-drug-aria-monitoring-real-world-study-results-4f84f3978b5f",
@@ -1973,6 +2901,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Cardiac microcurrent therapy shows promising early results but prompts caution.\nStory summary: Early studies of cardiac microcurrent (C‑MIC) therapy for heart failure have reported striking improvements, prompting enthusiasm as well as skepticism among experts. Presenters noted accumulating evidence but emphasized the need for rigorous validation..\nCategory: Cardiology / Medical devices.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "how-artificial-neural-networks-build-their-own-learning-machinery-08d1bb704462",
+      "category": "neuroscience and brain science / AI",
+      "sourceName": "news.mit.edu",
+      "sourceUrl": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "sourceTitle": "How artificial neural networks build their own learning machinery",
+      "publishedAt": "Tue, 13 Oct 2026 17:00:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Machine‑learning networks can self‑organize learning mechanisms that resemble brain processes",
+          "summary": "Researchers report that some artificial neural networks develop internal structures and learning rules without explicit instruction from designers. The authors suggest these systems might offer insights into how biological brains reorganize during learning.",
+          "whyItMatters": "Understanding how learning architectures emerge in AI could inform neuroscience hypotheses and inspire novel computational tools for brain research, but computational findings are not direct evidence about human brain mechanisms.",
+          "takeaways": [
+            "The work shows artificial networks can develop self‑organized learning machinery without detailed designer‑provided rules.",
+            "Such emergent properties may provide testable ideas for how biological learning systems reorganize.",
+            "Computational models are a complementary tool and do not by themselves prove how the human brain operates.",
+            "Cross‑disciplinary research between AI and neuroscience may accelerate discovery but requires careful interpretation."
+          ]
+        },
+        "es": {
+          "title": "Redes de aprendizaje automático pueden autoorganizar mecanismos de aprendizaje que recuerdan procesos cerebrales",
+          "summary": "Los investigadores informan que algunas redes neuronales artificiales desarrollan estructuras internas y reglas de aprendizaje sin instrucciones explícitas de los diseñadores. Los autores sugieren que estos sistemas podrían ofrecer ideas sobre cómo los cerebros biológicos se reorganizan durante el aprendizaje.",
+          "whyItMatters": "Entender cómo emergen arquitecturas de aprendizaje en la IA podría informar hipótesis en neurociencia e inspirar herramientas computacionales para la investigación cerebral, pero los hallazgos computacionales no son evidencia directa sobre los mecanismos del cerebro humano.",
+          "takeaways": [
+            "El trabajo muestra que redes artificiales pueden desarrollar maquinaria de aprendizaje autoorganizada sin reglas detalladas proporcionadas por el diseñador.",
+            "Dichas propiedades emergentes pueden ofrecer ideas comprobables sobre cómo se reorganizan los sistemas de aprendizaje biológicos.",
+            "Los modelos computacionales son una herramienta complementaria y no prueban por sí solos cómo opera el cerebro humano.",
+            "La investigación interdisciplinaria entre IA y neurociencia puede acelerar descubrimientos, pero requiere interpretación cuidadosa."
+          ]
+        },
+        "ru": {
+          "title": "Искусственные нейронные сети способны самоорганизовывать механизмы обучения, напоминающие процессы мозга",
+          "summary": "Исследователи сообщают, что некоторые искусственные нейронные сети развивают внутренние структуры и правила обучения без явных указаний со стороны разработчиков. Авторы предполагают, что такие системы могут дать представления о том, как биологические мозги реорганизуются в процессе обучения.",
+          "whyItMatters": "Понимание того, как в ИИ возникают архитектуры обучения, может информировать гипотезы нейронауки и вдохновлять новые вычислительные инструменты для исследования мозга, но вычислительные результаты не являются прямым доказательством механизмов человеческого мозга.",
+          "takeaways": [
+            "Работа показывает, что искусственные сети могут развивать самоорганизующиеся механизмы обучения без детально заданных правил от разработчика.",
+            "Такие эмерджентные свойства могут дать проверяемые идеи о реорганизации биологических систем обучения.",
+            "Вычислительные модели являются вспомогательным инструментом и сами по себе не доказывают, как действует человеческий мозг.",
+            "Междисциплинарные исследования между ИИ и нейронаукой могут ускорить открытия, но требуют осторожной интерпретации."
+          ]
+        },
+        "uk": {
+          "title": "Мережі машинного навчання можуть самоорганізовувати механізми навчання, що нагадують процеси мозку",
+          "summary": "Дослідники повідомляють, що деякі штучні нейронні мережі розвивають внутрішні структури та правила навчання без явних інструкцій від розробників. Автори припускають, що такі системи можуть дати уявлення про те, як біологічні мозки реорганізуються під час навчання.",
+          "whyItMatters": "Розуміння того, як у ШІ виникають архітектури навчання, може надати ідеї для нейронаукових гіпотез і надихнути нові комп’ютерні інструменти для дослідження мозку, але обчислювальні результати не є прямим доказом механізмів людського мозку.",
+          "takeaways": [
+            "Робота показує, що штучні мережі можуть розвивати самоорганізовані механізми навчання без детальних правил, заданих розробником.",
+            "Такі емерджентні властивості можуть надати перевіряємі ідеї про те, як біологічні системи навчання реорганізуються.",
+            "Обчислювальні моделі є доповненням до досліджень і самі по собі не доводять, як працює людський мозок.",
+            "Міждисциплінарні дослідження між ШІ та нейронаукою можуть прискорити відкриття, але вимагають ретельної інтерпретації."
+          ]
+        },
+        "fr": {
+          "title": "Des réseaux d’apprentissage automatique peuvent auto‑organiser des mécanismes d’apprentissage semblables à des processus cérébraux",
+          "summary": "Des chercheurs rapportent que certains réseaux de neurones artificiels développent des structures internes et des règles d’apprentissage sans instructions explicites des concepteurs. Les auteurs suggèrent que ces systèmes pourraient offrir des pistes pour comprendre comment les cerveaux biologiques se réorganisent lors de l’apprentissage.",
+          "whyItMatters": "Comprendre comment émergent des architectures d’apprentissage en IA pourrait informer des hypothèses en neurosciences et inspirer de nouveaux outils computationnels pour la recherche sur le cerveau, mais les résultats informatiques ne sont pas une preuve directe des mécanismes du cerveau humain.",
+          "takeaways": [
+            "Le travail montre que des réseaux artificiels peuvent développer des mécanismes d’apprentissage auto‑organisés sans règles détaillées fournies par le concepteur.",
+            "Ces propriétés émergentes peuvent fournir des idées testables sur la réorganisation des systèmes d’apprentissage biologiques.",
+            "Les modèles computationnels sont un outil complémentaire et ne prouvent pas à eux seuls le fonctionnement du cerveau humain.",
+            "La recherche interdisciplinaire entre IA et neurosciences peut accélérer les découvertes mais nécessite une interprétation prudente."
+          ]
+        },
+        "de": {
+          "title": "Maschinelle Lernnetze können selbstorganisierte Lernmechanismen ausbilden, die Gehirnprozessen ähneln",
+          "summary": "Die Forschenden berichten, dass manche künstlichen neuronalen Netze interne Strukturen und Lernregeln ohne explizite Vorgaben der Entwickler entwickeln. Die Autorinnen und Autoren schlagen vor, dass diese Systeme Einblicke darin liefern könnten, wie biologische Gehirne sich beim Lernen umorganisieren.",
+          "whyItMatters": "Zu verstehen, wie Lernarchitekturen in der KI entstehen, könnte Hypothesen in der Neurowissenschaft informieren und neuartige rechnerische Werkzeuge für die Hirnforschung inspirieren. Rechnerische Befunde sind jedoch keine direkten Belege für menschliche Gehirnmechanismen.",
+          "takeaways": [
+            "Die Arbeit zeigt, dass künstliche Netze selbstorganisierte Lernmechanismen entwickeln können, ohne detaillierte, vom Designer vorgegebene Regeln.",
+            "Solche emergenten Eigenschaften könnten prüfbare Ideen dafür liefern, wie biologische Lernsysteme sich umorganisieren.",
+            "Rechenmodelle sind ein ergänzendes Werkzeug und beweisen nicht allein, wie das menschliche Gehirn arbeitet.",
+            "Fächerübergreifende Forschung zwischen KI und Neurowissenschaften kann Entdeckungen beschleunigen, erfordert aber sorgfältige Interpretation."
+          ]
+        },
+        "pt-br": {
+          "title": "Redes de aprendizado de máquina podem autoorganizar mecanismos de aprendizagem que se assemelham a processos cerebrais",
+          "summary": "Pesquisadores relatam que alguns redes neurais artificiais desenvolvem estruturas internas e regras de aprendizagem sem instrução explícita dos projetistas. Os autores sugerem que esses sistemas podem oferecer insights sobre como cérebros biológicos se reorganizam durante a aprendizagem.",
+          "whyItMatters": "Entender como arquiteturas de aprendizagem emergem na IA pode informar hipóteses em neurociência e inspirar novas ferramentas computacionais para pesquisa cerebral, mas achados computacionais não são evidência direta sobre mecanismos do cérebro humano.",
+          "takeaways": [
+            "O trabalho mostra que redes artificiais podem desenvolver mecanismos de aprendizagem autoorganizados sem regras detalhadas fornecidas pelo projetista.",
+            "Propriedades emergentes podem oferecer ideias testáveis sobre como sistemas biológicos de aprendizagem se reorganizam.",
+            "Modelos computacionais são uma ferramenta complementar e, por si só, não provam como o cérebro humano opera.",
+            "Pesquisa interdisciplinar entre IA e neurociência pode acelerar descobertas, mas requer interpretação cuidadosa."
+          ]
+        },
+        "hu": {
+          "title": "A gépi tanuló hálózatok önszerveződve kialakíthatnak tanulási mechanizmusokat, amelyek hasonlítanak az agyi folyamatokra",
+          "summary": "A kutatók arról számolnak be, hogy egyes mesterséges neurális hálózatok belső struktúrákat és tanulási szabályokat fejlesztenek ki a tervezők részéről adott explicit utasítás nélkül. A szerzők azt sugallják, hogy ezek a rendszerek betekintést nyújthatnak abba, hogyan reorganizálódnak a biológiai agyak tanulás közben.",
+          "whyItMatters": "Az, hogy hogyan alakulnak ki tanulási architektúrák a MI‑ben, segítheti a neurológiai hipotéziseket és új számítási eszközöket ihlethet az agykutatáshoz, de a számítási eredmények nem közvetlen bizonyítékai az emberi agy mechanizmusainak.",
+          "takeaways": [
+            "A munka megmutatja, hogy a mesterséges hálózatok önszerveződő tanulási mechanikát fejleszthetnek ki tervezői szabályok nélkül.",
+            "Az ilyen emergens tulajdonságok tesztelhető ötleteket adhatnak arról, hogyan reorganizálódhatnak a biológiai tanulási rendszerek.",
+            "A számítási modellek kiegészítő eszközök, és önmagukban nem bizonyítják az emberi agy működését.",
+            "Az MI és a neurológia közötti multidiszciplináris kutatás felgyorsíthatja a felfedezéseket, de gondos értelmezést igényel."
+          ]
+        },
+        "ar": {
+          "title": "الشبكات العصبية الاصطناعية يمكن أن تُنظّم ذاتيًا آليات تعلم تشبه عمليات الدماغ",
+          "summary": "يبلغ الباحثون أن بعض الشبكات العصبية الاصطناعية تطور هياكل داخلية وقواعد تعلم دون تعليمات صريحة من المصممين. يقترح المؤلفون أن هذه الأنظمة قد توفر رؤى حول كيفية إعادة تنظيم الأدمغة البيولوجية أثناء التعلم.",
+          "whyItMatters": "قد يُسهم فهم كيف تظهر بنى التعلم في الذكاء الاصطناعي في صياغة فروض عصبية وإلهام أدوات حسابية جديدة لبحوث الدماغ، لكن النتائج الحاسوبية ليست دليلًا مباشرًا على آليات الدماغ البشري.",
+          "takeaways": [
+            "تُظهر الدراسة أن الشبكات الاصطناعية يمكنها تطوير آليات تعلم منظمة ذاتيًا بدون قواعد مفصّلة من المصممين.",
+            "قد توفّر هذه الخاصيات الناشئة أفكارًا قابلة للاختبار حول كيفية إعادة تنظيم الأنظمة البيولوجية للتعلم.",
+            "النماذج الحاسوبية أداة مكملة ولا تثبت بمفردها كيفية عمل الدماغ البشري.",
+            "قد تُسرّع البحوث متعددة التخصصات بين الذكاء الاصطناعي وعلوم الأعصاب الاكتشافات، لكن يلزم تفسير حذر."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=how-artificial-neural-networks-build-their-own-learning-machinery-08d1bb704462",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/how-artificial-neural-networks-build-their-own-learning-machinery-08d1bb704462-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/how-artificial-neural-networks-build-their-own-learning-machinery-08d1bb704462-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Machine‑learning networks can self‑organize learning mechanisms that resemble brain processes.\nStory summary: Researchers report that some artificial neural networks develop internal structures and learning rules without explicit instruction from designers. The authors suggest these systems might offer insights into how biological brains reorganize during learning..\nCategory: neuroscience and brain science / AI.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a1",
@@ -6290,6 +7334,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: High-protein, lower-carbohydrate diet improved liver glucose and lipid metabolism in a controlled trial.\nStory summary: A carefully controlled clinical trial reported in Cell Metabolism compared dietary patterns in people with metabolically unhealthy obesity. Participants who followed a higher-protein, lower-carbohydrate diet showed improvements in hepatic glucose and lipid metabolism compared with a lower-protein, high-carbohydrate diet, despite similar weight loss (~10%) across groups..\nCategory: Nutrition & Metabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "diet-microbiome-interactions-enhance-cancer-immunotherapy-in-obes-2d037e1623fa",
+      "category": "cancer prevention and treatment",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00373-6?rss=yes",
+      "sourceTitle": "Diet-microbiome interactions enhance cancer immunotherapy in obesity",
+      "publishedAt": "2026-10-06",
+      "languages": {
+        "en": {
+          "title": "Diet-driven microbiome changes may boost checkpoint immunotherapy effectiveness in obesity",
+          "summary": "This paper describes research showing that diet‑dependent remodelling of the gut microbiome can promote anti‑tumor immunity and may help explain observations that checkpoint blockade sometimes works differently in obesity. The authors highlight dietary intervention as a possible strategy to optimize responses to cancer immunotherapy.",
+          "whyItMatters": "If diet and the microbiome influence immunotherapy responses, dietary strategies could become an adjunct to cancer treatment; however, the article reports experimental findings that require clinical testing before they can change practice.",
+          "takeaways": [
+            "Diet alters the gut microbiome in ways that can affect anti‑tumor immune responses in the study context.",
+            "This line of research may help explain variable immunotherapy outcomes in patients with obesity.",
+            "Dietary interventions are proposed as promising but need human trials to confirm benefit and safety.",
+            "Patients should not alter cancer treatment plans based on this report without consultation with their oncology team."
+          ]
+        },
+        "es": {
+          "title": "Cambios en la microbiota inducidos por la dieta podrían aumentar la efectividad de la inmunoterapia con inhibidores de puntos de control en la obesidad",
+          "summary": "El trabajo describe investigaciones que muestran que la remodelación dependiente de la dieta del microbioma intestinal puede favorecer la inmunidad antitumoral y podría ayudar a explicar observaciones de que el bloqueo de puntos de control a veces funciona de forma distinta en la obesidad. Los autores destacan la intervención dietética como una posible estrategia para optimizar las respuestas a la inmunoterapia contra el cáncer.",
+          "whyItMatters": "Si la dieta y el microbioma influyen en las respuestas a la inmunoterapia, las estrategias dietéticas podrían convertirse en un complemento del tratamiento oncológico; no obstante, el artículo presenta hallazgos experimentales que requieren ensayos clínicos antes de cambiar la práctica.",
+          "takeaways": [
+            "La dieta altera el microbioma intestinal de formas que pueden afectar las respuestas inmunitarias antitumorales en el contexto del estudio.",
+            "Esta línea de investigación puede ayudar a explicar la variabilidad en los resultados de inmunoterapia en pacientes con obesidad.",
+            "Se proponen intervenciones dietéticas como prometedoras, pero se necesitan ensayos en humanos para confirmar beneficio y seguridad.",
+            "Los pacientes no deben modificar sus planes de tratamiento oncológico basándose en este informe sin consultar con su equipo de oncología."
+          ]
+        },
+        "ru": {
+          "title": "Диетические изменения микробиома могут повысить эффективность ингибиторов контрольных точек при ожирении",
+          "summary": "В статье описывается исследование, показывающее, что ремоделирование кишечного микробиома, зависящее от рациона, может способствовать противоопухолевому иммунитету и помочь объяснить наблюдения о том, что блокада контрольных точек иногда действует иначе при ожирении. Авторы выделяют диетические вмешательства как возможную стратегию для оптимизации ответов на иммунотерапию рака.",
+          "whyItMatters": "Если диета и микробиом влияют на ответы на иммунотерапию, диетические стратегии могут стать дополнением к лечению рака; однако статья сообщает об экспериментальных результатах, которые требуют клинической проверки прежде, чем они смогут изменить практику.",
+          "takeaways": [
+            "Диета изменяет кишечный микробиом таким образом, что это может влиять на противоопухолевые иммунные ответы в рамках исследования.",
+            "Это направление исследований может помочь объяснить вариабельность результатов иммунотерапии у пациентов с ожирением.",
+            "Диетические вмешательства выглядят перспективными, но необходимы испытания на людях для подтверждения пользы и безопасности.",
+            "Пациентам не следует менять планы онкологического лечения на основе этого отчёта без консультации с их онкологической командой."
+          ]
+        },
+        "uk": {
+          "title": "Зміни мікробіома, спричинені дієтою, можуть підвищувати ефективність інгібіторів контрольних точок у ожирінні",
+          "summary": "У статті описується дослідження, яке показує, що ремоделювання кишкового мікробіома, залежне від дієти, може посилювати антиопухлинний імунітет і частково пояснювати спостереження, що блокада контрольних точок іноді діє по‑різному при ожирінні. Автори виділяють дієтичні втручання як можливу стратегію оптимізації відповіді на імунотерапію раку.",
+          "whyItMatters": "Якщо дієта й мікробіом впливають на відповіді на імунотерапію, дієтичні стратегії могли б стати доповненням до лікування раку; однак стаття повідомляє експериментальні результати, які потребують клінічної перевірки, перш ніж впливати на практику.",
+          "takeaways": [
+            "Дієта змінює кишковий мікробіом у спосіб, що може впливати на антиопухлинні імунні відповіді в контексті дослідження.",
+            "Ця лінія досліджень може допомогти пояснити змінну ефективність імунотерапії у пацієнтів з ожирінням.",
+            "Дієтичні втручання пропонуються як перспективні, але потребують клінічних випробувань для підтвердження користі та безпеки.",
+            "Пацієнтам не слід змінювати плани лікування раку на підставі цього звіту без консультації з онкологом."
+          ]
+        },
+        "fr": {
+          "title": "Les modifications du microbiote induites par l’alimentation pourraient accroître l’efficacité des immunothérapies par checkpoint en cas d’obésité",
+          "summary": "Cet article décrit des travaux montrant que le remodelage du microbiote intestinal dépendant de l’alimentation peut favoriser l’immunité anti‑tumeur et aider à expliquer pourquoi les réponses aux inhibiteurs de checkpoint diffèrent parfois chez les personnes obèses. Les auteurs évoquent les interventions alimentaires comme une stratégie possible pour optimiser les réponses à l’immunothérapie du cancer.",
+          "whyItMatters": "Si l’alimentation et le microbiote influencent les réponses à l’immunothérapie, des stratégies diététiques pourraient devenir un complément aux traitements anticancéreux ; toutefois l’article rapporte des résultats expérimentaux qui nécessitent des essais cliniques avant de modifier la pratique.",
+          "takeaways": [
+            "L’alimentation modifie le microbiote intestinal de manière à pouvoir affecter les réponses immunitaires anti‑tumeur dans le contexte de l’étude.",
+            "Cette piste de recherche peut aider à expliquer la variabilité des résultats d’immunothérapie chez les patients obèses.",
+            "Les interventions alimentaires sont proposées comme prometteuses mais doivent être confirmées par des essais sur l’humain pour vérifier bénéfices et sécurité.",
+            "Les patients ne doivent pas modifier leur traitement du cancer sur la seule base de ce rapport sans en parler à leur équipe d’oncologie."
+          ]
+        },
+        "de": {
+          "title": "Ernährungsabhängige Mikrobiom‑Veränderungen könnten die Wirksamkeit von Checkpoint‑Immuntherapie bei Adipositas verbessern",
+          "summary": "Die Arbeit beschreibt Forschung, die zeigt, dass ernährungsabhängige Umbauprozesse des Darmmikrobioms die antitumorale Immunität fördern können und möglicherweise erklären helfen, warum Checkpoint‑Blockade bei Adipositas manchmal unterschiedlich wirkt. Die Autoren heben ernährungsbezogene Interventionen als mögliche Strategie hervor, um Ansprechen auf Krebsimmuntherapie zu optimieren.",
+          "whyItMatters": "Wenn Ernährung und Mikrobiom die Ansprechrate auf Immuntherapien beeinflussen, könnten ernährungsstrategien als Ergänzung zur Krebsbehandlung dienen; der Artikel berichtet jedoch experimentelle Befunde, die vor einer Änderung der Praxis klinisch geprüft werden müssen.",
+          "takeaways": [
+            "Ernährung verändert das Darmmikrobiom auf Weisen, die in dem untersuchten Kontext antitumorale Immunantworten beeinflussen können.",
+            "Diese Forschungsrichtung kann helfen, variable Ergebnisse der Immuntherapie bei Patientinnen und Patienten mit Adipositas zu erklären.",
+            "Ernährungsinterventionen werden als vielversprechend vorgeschlagen, benötigen aber Humanstudien zur Bestätigung von Nutzen und Sicherheit.",
+            "Patienten sollten nicht ohne Rücksprache mit ihrem Onkologenteam ihre Krebstherapiepläne aufgrund dieses Berichts ändern."
+          ]
+        },
+        "pt-br": {
+          "title": "Alterações do microbioma induzidas pela dieta podem aumentar a eficácia da imunoterapia por checkpoint na obesidade",
+          "summary": "O artigo descreve pesquisa mostrando que a remodelação do microbioma intestinal dependente da dieta pode promover imunidade antitumoral e pode ajudar a explicar observações de que bloqueadores de checkpoint às vezes funcionam de maneira diferente em pessoas com obesidade. Os autores destacam intervenções dietéticas como possível estratégia para otimizar respostas à imunoterapia do câncer.",
+          "whyItMatters": "Se dieta e microbioma influenciam respostas à imunoterapia, estratégias dietéticas poderiam tornar‑se um complemento ao tratamento do câncer; contudo, o artigo relata achados experimentais que precisam de testes clínicos antes de mudar a prática.",
+          "takeaways": [
+            "A dieta altera o microbioma intestinal de formas que podem afetar respostas imunes antitumorais no contexto do estudo.",
+            "Essa linha de pesquisa pode ajudar a explicar resultados variáveis de imunoterapia em pacientes com obesidade.",
+            "Intervenções dietéticas são propostas como promissoras, mas precisam de ensaios em humanos para confirmar benefício e segurança.",
+            "Pacientes não devem alterar planos de tratamento do câncer com base neste relatório sem consultar sua equipe oncológica."
+          ]
+        },
+        "hu": {
+          "title": "Az étrend‑mikrobiom kölcsönhatások növelhetik a checkpoint immunterápia hatékonyságát elhízás esetén",
+          "summary": "A tanulmány bemutatja, hogy az étrend által befolyásolt bélmikrobiom átépülése elősegítheti az anti‑tumor immunválaszt, és magyarázatot adhat arra, miért működik időnként másként a checkpoint‑gátló terápia elhízott állapotban. A szerzők étrendi beavatkozást említenek mint lehetséges stratégiát az immunterápia válaszának optimalizálására.",
+          "whyItMatters": "Ha az étrend és a mikrobiom befolyásolja az immunterápia válaszát, az étrendi stratégiák kiegészítő szerepet kaphatnak a rákkezelésben; a cikk azonban kísérleti eredményekről számol be, amelyeket klinikai vizsgálatokkal kell megerősíteni, mielőtt a gyakorlat megváltozna.",
+          "takeaways": [
+            "Az étrend megváltoztatja a bélmikrobiomot olyan módon, amely a vizsgálati környezetben befolyásolhatja az anti‑tumor immunválaszt.",
+            "Ez a kutatási irány segíthet megmagyarázni, miért térnek el az immunterápia eredményei elhízott betegeknél.",
+            "Az étrendi beavatkozás ígéretesnek tűnik, de humán vizsgálatok szükségesek a haszon és a biztonság igazolására.",
+            "A betegek ne változtassák meg rákkezelési tervüket ezen jelentés alapján anélkül, hogy konzultálnának onkológusukkal."
+          ]
+        },
+        "ar": {
+          "title": "تفاعلات النظام الغذائي والميكروبيوم قد تعزز فعالية العلاج المناعي بمثبطات نقاط التفتيش في السمنة",
+          "summary": "تصف هذه الورقة أبحاثًا تُظهر أن إعادة تشكيل الميكروبيوم المعتمدة على النظام الغذائي يمكن أن تعزّز المناعة المضادة للأورام، وقد تساعد في تفسير ملاحظات تفيد بأن استجابة مثبطات نقاط التفتيش تختلف أحيانًا في حالات السمنة. يبرز المؤلفون التدخّل الغذائي كاستراتيجية محتملة لتحسين استجابة العلاج المناعي للسرطان.",
+          "whyItMatters": "إذا كان النظام الغذائي والميكروبيوم يؤثران على استجابة العلاج المناعي، فقد تصبح الاستراتيجيات الغذائية ملحقًا للعلاج السرطاني؛ ومع ذلك، فإن المقال يبلغ عن نتائج تجريبية تتطلب اختبارات سريرية قبل أن تغيّر الممارسة السريرية.",
+          "takeaways": [
+            "يغيّر النظام الغذائي الميكروبيوم المعوي بطرق يمكن أن تؤثر على الاستجابة المناعية المضادة للأورام في سياق الدراسة.",
+            "قد تساعد هذه الأبحاث في تفسير تفاوت نتائج العلاج المناعي لدى المرضى المصابين بالسمنة.",
+            "تُقترح التدخلات الغذائية كنهج واعد لكن يلزم تجارب بشرية لتأكيد الفائدة والسلامة.",
+            "لا ينبغي للمرضى تعديل خطط علاج السرطان استنادًا إلى هذا التقرير دون استشارة فريق الأورام الخاص بهم."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=diet-microbiome-interactions-enhance-cancer-immunotherapy-in-obes-2d037e1623fa",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/diet-microbiome-interactions-enhance-cancer-immunotherapy-in-obes-2d037e1623fa-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/diet-microbiome-interactions-enhance-cancer-immunotherapy-in-obes-2d037e1623fa-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Diet-driven microbiome changes may boost checkpoint immunotherapy effectiveness in obesity.\nStory summary: This paper describes research showing that diet‑dependent remodelling of the gut microbiome can promote anti‑tumor immunity and may help explain observations that checkpoint blockade sometimes works differently in obesity. The authors highlight dietary intervention as a possible strategy to optimize responses to cancer immunotherapy..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "a5",
@@ -100977,6 +102137,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-17-motivation-1-story-1",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Plan once, log faster",
+          "story": "Maya used to skip planning meals during busy weekdays and then guess portions at dinner. One Sunday she spent thirty minutes planning breakfasts and lunches—and logging those meals ahead of time. During the week, logging felt quick because the entries were ready, and she noticed which snacks made her feel sluggish. That simple planning habit helped her make calmer choices and stay consistent without pressure. She still eats what she enjoys, but tracking made it easier to see patterns and make small, practical tweaks.",
+          "habit": "Plan one day of meals in advance.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Planea y registra más rápido",
+          "story": "Maya solía no planear las comidas entre semana y luego adivinar las porciones al cenar. Un domingo decidió dedicar media hora a planear desayunos y almuerzos y registrarlos por adelantado. Durante la semana, registrar fue más rápido porque ya tenía las entradas listas y notó qué tentempiés la dejaban sin energía. Ese hábito sencillo de planificar le permitió tomar decisiones más calmadas y mantener la constancia sin presión. Sigue disfrutando lo que come, pero ahora ve patrones y puede ajustar pequeñas cosas.",
+          "habit": "Planifica desayunos y almuerzos la noche anterior.",
+          "appCta": "Usa Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Планируй — регистрируй быстрее",
+          "story": "Майя раньше не планировала блюда в рабочие дни и часто угадывала порции за ужином. Однажды в воскресенье она потратила полчаса на планирование завтраков и обедов и заранее внесла эти блюда в журнал. В течение недели записи стали быстрыми, потому что всё уже было готово, и Майя заметила, какие перекусы мешают чувствовать себя бодро. Простая привычка планирования помогла ей спокойнее выбирать и поддерживать регулярность без давления. Она по-прежнему ест то, что любит, но видит паттерны и делает небольшие улучшения.",
+          "habit": "Планируйте завтраки и обеды накануне.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Сплануй — швидше занось",
+          "story": "Майя раніше не планувала їжу в будні й угадувала порції під час вечері. Однієї неділі вона витратила півгодини на планування сніданків і обідів і занесла ці страви заздалегідь. Протягом тижня записувати стало швидко, бо записи вже були готові, і вона помітила, які перекуси забирають у неї енергію. Така проста звичка планування допомогла приймати рішення спокійніше й бути послідовною без тиску. Вона й надалі їсть те, що подобається, але тепер бачить закономірності й робить невеликі коригування.",
+          "habit": "Плануйте сніданки й обіди напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Planifiez, enregistrez plus vite",
+          "story": "Maya avait pour habitude de ne pas planifier ses repas les jours chargés et d'estimer les portions au dîner. Un dimanche, elle a pris trente minutes pour planifier petits déjeuners et déjeuners, et les enregistrer à l'avance. Pendant la semaine, l'enregistrement était rapide car les fiches étaient prêtes, et elle a repéré quels encas la rendaient moins énergique. Cette habitude simple de planification l'a aidée à faire des choix plus sereins et à rester régulière sans pression. Elle continue de manger ce qu'elle aime, mais voit maintenant des tendances et ajuste légèrement.",
+          "habit": "Planifiez petit-déjeuners et déjeuners la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Einmal planen, schneller eintragen",
+          "story": "Maya hat an hektischen Werktagen oft keine Mahlzeiten geplant und schätzte dann beim Abendessen die Portionen. An einem Sonntag nahm sie sich 30 Minuten, plante Frühstücke und Mittagessen und trug diese im Voraus ein. Unter der Woche ging das Eintragen schnell, weil die Einträge bereits vorbereitet waren, und sie bemerkte, welche Snacks ihr Energie raubten. Diese einfache Planungsgewohnheit half ihr, gelassener zu entscheiden und beständig zu bleiben, ohne Druck. Sie isst weiterhin gern, aber sieht nun Muster und nimmt kleine, praktikable Anpassungen vor.",
+          "habit": "Plane Frühstück und Mittagessen am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und starte heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Plane uma vez, registre mais rápido",
+          "story": "Maya costumava não planejar refeições nos dias corridos e acabava chutando as porções no jantar. Num domingo, ela dedicou trinta minutos para planejar cafés da manhã e almoços e registrou essas refeições com antecedência. Durante a semana, registrar ficou rápido porque as entradas já estavam prontas, e ela percebeu quais lanches a deixavam sem energia. Esse hábito simples de planejar ajudou-a a tomar decisões mais calmas e manter a consistência sem pressão. Ela continua comendo o que gosta, mas agora enxerga padrões e faz pequenos ajustes práticos.",
+          "habit": "Planeje cafés da manhã e almoços na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Tervezd meg, gyorsabban rögzíthetsz",
+          "story": "Maya hajlamos volt a sűrű hétköznapokon nem megtervezni az étkezéseket, majd találomra becsülte a adagokat vacsoránál. Egy vasárnap fél órát szánt arra, hogy megtervezze a reggeliket és ebédeket, és előre rögzítette őket. Hét közben a bejegyzések gyorsak voltak, mert már kész voltak, és észrevette, mely nassok csökkentik az energiáját. Ez az egyszerű tervezési szokás segített nyugodtabb döntéseket hozni és következetes maradni nyomás nélkül. Továbbra is azt eszi, amit szeret, de most meglátja a mintákat és apró változtatásokat tesz.",
+          "habit": "Tervezd meg a reggelit és az ebédet előre.",
+          "appCta": "Nyisd meg a Calorie Bank Credit alkalmazást és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "خطط مرة، سجّل أسرع",
+          "story": "كانت مايا تتجاهل تخطيط الوجبات في أيام العمل المزدحمة ثم تُقدّر الحصص خلال العشاء. في أحد أيام الأحد خصصت نصف ساعة لتخطيط وجبات الإفطار والغداء وسجلت هذه الوجبات مسبقًا. خلال الأسبوع أصبح التسجيل سريعًا لأن الإدخالات جاهزة، ولاحظت ما هي الوجبات الخفيفة التي تجعلها تشعر بالخمول. ساعدها هذا العرف البسيط على اتخاذ خيارات أكثر هدوءًا والحفاظ على الاستمرارية دون ضغوط. ما زالت تأكل ما تستمتع به، لكن التتبع سهل عليها رؤية الأنماط وإجراء تعديلات صغيرة عملية.",
+          "habit": "خطط لوجبات الفطور والغداء مسبقًا.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan once, log faster.\nStory: Maya used to skip planning meals during busy weekdays and then guess portions at dinner. One Sunday she spent thirty minutes planning breakfasts and lunches—and logging those meals ahead of time. During the week, logging felt quick because the entries were ready, and she noticed which snacks made her feel sluggish. That simple planning habit helped her make calmer choices and stay consistent without pressure. She still eats what she enjoys, but tracking made it easier to see patterns and make small, practical tweaks..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-17-motivation-2-story-2",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Honest logging, useful insight",
+          "story": "Liam used to underreport snacks because he felt they didn't matter. After a week of honest logging—every coffee, cookie, and handful of nuts—he began to notice a pattern: late-afternoon hunger often led to larger evening portions. With that awareness, he tried one small change—adding a protein-rich snack mid-afternoon—and logged the result. The habit of honest tracking helped him learn what works for his routine, without judging choices, and he appreciated making adjustments that fit his life.",
+          "habit": "Log everything for one week, honestly.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Registro honesto, aprendizajes reales",
+          "story": "Liam solía no apuntar algunos snacks porque pensaba que no importaban. Tras una semana registrando con honestidad —cada café, galleta y puñado de frutos secos—empezó a ver un patrón: el hambre a media tarde llevaba a cenas más grandes. Con esa información probó un pequeño cambio: añadir un snack con proteína a media tarde y registró cómo le fue. El hábito de anotar con sinceridad le permitió saber qué le funciona sin juzgarse y hacer ajustes que encajan en su día a día.",
+          "habit": "Registra todo durante una semana, con honestidad.",
+          "appCta": "Usa Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честные записи — полезные выводы",
+          "story": "Лиам раньше недозаписывал перекусы, считая, что они неважны. После недели честного ведения — каждого кофе, печенья и горсти орехов — он заметил закономерность: поздний дневной голод часто приводил к увеличенным вечерним порциям. Осознав это, он сделал небольшую правку: добавил белковый перекус после обеда и фиксировал результат. Привычка честно записывать помогла ему понять, что подходит его распорядку, без осуждения, и внедрять изменения, которые реально вписываются в жизнь.",
+          "habit": "Записывайте всё в течение недели честно.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Чесні записи — корисні висновки",
+          "story": "Ліам раніше не записував деякі перекуси, бо вважав, що вони неважливі. Після тижня чесного ведення — кожна кава, печиво та жменька горіхів — він помітив закономірність: післяобідній голод призводив до більших вечірніх порцій. Усвідомивши це, він зробив маленьку зміну — додав білковий перекус у середині дня й записав результат. Звичка чесного відстеження допомогла зрозуміти, що підходить його режиму, без осуду, і робити коригування, що пасують до життя.",
+          "habit": "Записуйте все чесно протягом тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Noter honnêtement, comprendre mieux",
+          "story": "Liam notait peu ses encas, pensant qu'ils étaient insignifiants. Après une semaine d'enregistrement honnête — chaque café, biscuit et poignée de fruits secs — il a repéré un schéma : la faim en fin d'après-midi entraînait souvent des portions plus généreuses le soir. Grâce à cette prise de conscience, il a essayé un petit ajustement : un encas riche en protéines en milieu d'après-midi, puis il a noté le résultat. L'habitude d'enregistrer sans omission l'a aidé à voir ce qui marche pour sa routine, sans jugement, et à s'adapter.",
+          "habit": "Notez tout pendant une semaine, en toute honnêteté.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Ehrlich eintragen, klarer erkennen",
+          "story": "Liam hat Snacks oft nicht vollständig eingetragen, weil sie ihm unwichtig erschienen. Nach einer Woche ehrlichen Eintragens — jeder Kaffee, Keks und jede Handvoll Nüsse — entdeckte er ein Muster: der späte Nachmittags-Hunger führte häufig zu größeren Abendportionen. Mit diesem Bewusstsein probierte er eine kleine Änderung: einen proteinreichen Snack am Nachmittag und protokollierte die Wirkung. Die Gewohnheit, ehrlich zu erfassen, half ihm zu erkennen, was zu seinem Alltag passt, ohne sich zu verurteilen, und sinnvolle Anpassungen vorzunehmen.",
+          "habit": "Trage eine Woche lang ehrlich alles ein.",
+          "appCta": "Öffne Calorie Bank Credit und starte heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Registrar com honestidade, entender melhor",
+          "story": "Liam costumava não registrar alguns lanches porque achava que não faziam diferença. Depois de uma semana registrando com honestidade — cada café, biscoito e punhado de castanhas — ele começou a perceber um padrão: a fome no fim da tarde levava a porções maiores no jantar. Com essa percepção, ele testou uma pequena mudança — um lanche com mais proteína no meio da tarde — e registrou o resultado. O hábito de registrar com sinceridade ajudou-o a ver o que funciona para sua rotina, sem julgar, e a ajustar pequenas coisas.",
+          "habit": "Registre tudo honestamente por uma semana.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Őszinte rögzítés, tisztább kép",
+          "story": "Liam hajlamos volt kihagyni a nasikat a naplóban, mert szerinte nem számítanak. Egy hét őszinte rögzítés után — minden kávé, süti és marék mag — észrevett egy mintát: a késő délutáni éhség gyakran nagyobb esti adagokhoz vezetett. Ezt felismerve kipróbált egy apró változtatást: délutánra fehérjedús nassolnivalót vett, és rögzítette a hatást. Az őszinte vezetés segített megtudni, mi működik az ő napirendjében, ítélkezés nélkül, és apró, életszerű módosításokat hozni.",
+          "habit": "Jegyezz fel mindent egy hétig őszintén.",
+          "appCta": "Nyisd meg a Calorie Bank Credit alkalmazást és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "سجل بصدق، واستخرج الفائدة",
+          "story": "كان ليام يتجاهل تسجيل بعض الوجبات الخفيفة لأنه اعتقد أنها غير مهمة. بعد أسبوع من التسجيل بصدق — كل قهوة، بسكوتة، وُحفنة مكسرات — لاحظ نمطًا: الجوع في أواخر الظهيرة يؤدي غالبًا إلى حصص أكبر في المساء. ومع هذا الوعي جرب تغييرًا صغيرًا — إضافة وجبة خفيفة غنية بالبروتين في منتصف الظهيرة — وسجل النتيجة. عادة التسجيل الصادق ساعدته على اكتشاف ما يناسب روتينه دون حكم على خياراته، وإجراء تعديلات صغيرة تتناسب مع حياته.",
+          "habit": "سجل كل شيء بأمانة لمدة أسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Honest logging, useful insight.\nStory: Liam used to underreport snacks because he felt they didn't matter. After a week of honest logging—every coffee, cookie, and handful of nuts—he began to notice a pattern: late-afternoon hunger often led to larger evening portions. With that awareness, he tried one small change—adding a protein-rich snack mid-afternoon—and logged the result. The habit of honest tracking helped him learn what works for his routine, without judging choices, and he appreciated making adjustments that fit his life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-17-motivation-3-story-3",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Photos help spot patterns",
+          "story": "Elena noticed she tended to guess portions after eating out, and those guesses varied a lot. She began taking a quick photo before plating and logging the meal later with more accurate portions. Over a few weeks she saw recurring patterns: larger portions on weekends and lighter lunches on workdays. Seeing that pattern helped her plan one extra filling lunch for busy days and choose a smaller weekend portion when she wanted to feel lighter in the evening. Tracking became a way to understand her habits, not to punish them.",
+          "habit": "Take a meal photo before you eat.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Una foto revela patrones",
+          "story": "Elena notó que tendía a adivinar las porciones al comer fuera, y esas estimaciones variaban mucho. Empezó a tomar una foto rápida antes de servir y más tarde registraba la comida con porciones más precisas. En unas semanas observó patrones: porciones mayores los fines de semana y almuerzos más ligeros entre semana. Ver esa pauta le ayudó a planear un almuerzo más saciante los días ocupados y a escoger porciones más pequeñas el fin de semana si quería sentirse más ligera por la noche. El seguimiento le permitió comprender hábitos, no castigarlos.",
+          "habit": "Haz una foto de la comida antes de comer.",
+          "appCta": "Usa Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Фото помогают увидеть шаблоны",
+          "story": "Елена заметила, что склонна угадывать порции после походов по ресторанам, и эти догадки сильно различались. Она начала быстро фотографировать тарелку перед тем, как есть, и позже вносить в журнал уже с более точными порциями. Через несколько недель появились повторяющиеся закономерности: большие порции по выходным и более лёгкие обеды в будни. Видя эту картину, она стала планировать более сытный обед в загруженные дни и выбирать меньшую порцию на выходных, когда хотела чувствовать себя легче вечером. Отслеживание стало способом понять привычки, а не наказать их.",
+          "habit": "Сфотографируйте еду перед тем, как начать.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Фото допомагають помітити патерни",
+          "story": "Олена помітила, що часто вгадує порції після прийому їжі надворі, і ці оцінки сильно відрізнялися. Вона почала швидко фотографувати порцію перед їжею й пізніше вносити запис із точнішими порціями. За кілька тижнів з'явилися повторювані закономірності: великі порції на вихідних та легші обіди в робочі дні. Побачивши це, вона почала планувати один ситніший обід у зайві дні й обирати меншу порцію на вихідних, коли хотіла почуватися легше ввечері. Відстеження стало способом зрозуміти звички, а не карати їх.",
+          "habit": "Зробіть фото їжі перед тим, як їсти.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Une photo pour repérer les schémas",
+          "story": "Elena a remarqué qu'elle avait tendance à estimer les portions après un repas à l'extérieur, et ces estimations variaient beaucoup. Elle a commencé à prendre une photo rapide avant de se servir puis à enregistrer le repas plus tard en ajustant les portions. En quelques semaines, des motifs sont apparus : portions plus grandes le week‑end et déjeuners plus légers en semaine. Voir ce schéma l'a aidée à prévoir un déjeuner plus rassasiant les journées chargées et une portion plus petite le week‑end si elle souhaitait se sentir plus légère le soir. Le suivi est devenu un outil pour comprendre ses habitudes, pas pour se punir.",
+          "habit": "Prenez une photo du repas avant de manger.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Fotos zeigen wiederkehrende Muster",
+          "story": "Elena stellte fest, dass sie Portionen nach Restaurantbesuchen oft nur schätzte und diese Schätzungen stark schwankten. Sie begann, vor dem Essen schnell ein Foto zu machen und die Mahlzeit später mit genaueren Portionen zu protokollieren. Nach ein paar Wochen erkannte sie Muster: größere Portionen am Wochenende und leichtere Mittagsessen an Arbeitstagen. Diese Einsicht half ihr, an stressigen Tagen einen sättigenden Lunch zu planen und am Wochenende eine kleinere Portion zu wählen, wenn sie sich abends leichter fühlen wollte. Tracking wurde zu einem Mittel, die eigenen Gewohnheiten zu verstehen, nicht zu bestrafen.",
+          "habit": "Mach vor dem Essen ein Foto der Mahlzeit.",
+          "appCta": "Öffne Calorie Bank Credit und starte heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Fotos ajudam a ver padrões",
+          "story": "Elena percebeu que tendia a chutar as porções quando comia fora, e essas estimativas variavam bastante. Ela começou a tirar uma foto rápida antes de servir e depois registrava a refeição com porções mais precisas. Em algumas semanas apareceram padrões recorrentes: porções maiores nos fins de semana e almoços mais leves nos dias de trabalho. Ver isso a ajudou a planejar um almoço mais nutritivo nos dias ocupados e escolher uma porção menor no fim de semana quando queria se sentir mais leve à noite. O registro virou uma maneira de entender hábitos, não de se punir.",
+          "habit": "Tire uma foto da refeição antes de comer.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Fotók segítenek a minták felismerésében",
+          "story": "Elena észrevette, hogy éttermi ételeknél hajlamos a adagokat csak megbecsülni, és ezek a becslések nagyon változóak voltak. Elkezdett gyors fotót készíteni tálalás előtt, majd később pontosabb adagokkal rögzíteni az ételt. Pár hét alatt megjelentek visszatérő minták: nagyobb adagok hétvégén és könnyebb ebédek munkanapokon. Ennek felismerése segített egy tartalmasabb ebédet betervezni a zsúfolt napokra és kisebb adagokat választani hétvégén, ha este könnyedebb érzést szeretett volna. A követés a szokások megértésének eszközévé vált, nem büntetésként.",
+          "habit": "Készíts fényképet az ételről, mielőtt megeszed.",
+          "appCta": "Nyisd meg a Calorie Bank Credit alkalmazást és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "صورة تكشف الأنماط",
+          "story": "لاحظت إيلينا أنها تميل إلى تقدير الحصص عند تناول الطعام بالخارج، وكانت تلك التقديرات متباينة كثيرًا. بدأت بالتقاط صورة سريعة قبل التقديم وتسجيل الوجبة لاحقًا بحصص أكثر دقة. خلال أسابيع قليلة ظهرت أنماط متكررة: حصص أكبر في عطلة نهاية الأسبوع وغداء أخف في أيام العمل. ساعدها رؤية هذا النمط على تخطيط غداء مشبع إضافي في الأيام المزدحمة واختيار حصة أصغر في عطلة نهاية الأسبوع عندما ترغب بأن تشعر بخفة في المساء. أصبح التتبع وسيلة لفهم عاداتها، وليس لمعاقبتها.",
+          "habit": "التقط صورة للوجبة قبل أن تأكل.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Photos help spot patterns.\nStory: Elena noticed she tended to guess portions after eating out, and those guesses varied a lot. She began taking a quick photo before plating and logging the meal later with more accurate portions. Over a few weeks she saw recurring patterns: larger portions on weekends and lighter lunches on workdays. Seeing that pattern helped her plan one extra filling lunch for busy days and choose a smaller weekend portion when she wanted to feel lighter in the evening. Tracking became a way to understand her habits, not to punish them..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-17-motivation-4-story-4",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Small steps, steady progress",
+          "story": "Noah set a tiny goal: log just his dinner each evening for two weeks. Making the task small removed pressure and made the habit stick. As days passed, he began adding one more meal and saving common dishes in the app to speed up logging. Small, consistent edits—choosing a different sauce, swapping a side—felt manageable and sustainable. Tracking showed him gradual changes in his routine and let him make realistic choices that matched his schedule and tastes. He treats tracking like a helpful tool, not a test.",
+          "habit": "Start by logging one meal every day.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Pasos pequeños, progreso constante",
+          "story": "Noah se puso una meta pequeña: registrar solo la cena cada noche durante dos semanas. Al hacer la tarea pequeña eliminó la presión y la costumbre se mantuvo. Con el tiempo añadió una comida más y guardó platos frecuentes en la app para acelerar el registro. Pequeños cambios constantes —elegir otra salsa, cambiar un acompañamiento—se sintieron manejables y sostenibles. El seguimiento le mostró cambios graduales en su rutina y le permitió tomar decisiones realistas que encajan con su horario y gustos. Ve el registro como una herramienta útil, no una prueba.",
+          "habit": "Empieza registrando una comida al día.",
+          "appCta": "Usa Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие шаги, стабильный прогресс",
+          "story": "Ноа поставил себе небольшую цель: две недели записывать только ужин каждый вечер. Сделав задачу небольшой, он снял с себя напряжение, и привычка закрепилась. Через несколько дней он начал добавлять ещё один приём пищи и сохранять часто используемые блюда в приложении, чтобы ускорять запись. Небольшие, последовательные изменения — другой соус или замена гарнира — казались выполнимыми и устойчивыми. Ведение записей показало ему постепенные изменения в рутине и позволило принимать реалистичные решения, соответствующие его расписанию и вкусу. Он воспринимает трекинг как полезный инструмент, а не испытание.",
+          "habit": "Начните с записи одной еды в день.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Малі кроки, поступовий прогрес",
+          "story": "Ноа поставив маленьку мету: протягом двох тижнів записувати тільки вечерю кожного вечора. Зробивши завдання маленьким, він зняв тиск і звичка закріпилася. Згодом він додав ще один прийом їжі й зберігав у додатку часті страви, щоб пришвидшити запис. Невеликі, послідовні зміни — інший соус або заміна гарніру — були керованими й сталими. Відстеження показало йому поступові зміни в режимі й дозволило приймати реалістичні рішення відповідно до розкладу й смаків. Він сприймає відстеження як корисний інструмент, а не іспит.",
+          "habit": "Почніть із запису однієї їжі щодня.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Petits pas, progrès réguliers",
+          "story": "Noah s'est fixé un petit objectif : noter seulement son dîner chaque soir pendant deux semaines. Rendre la tâche minime a supprimé la pression et la routine s'est installée. Au fil des jours, il a commencé à ajouter un repas de plus et à sauvegarder ses plats fréquents dans l'application pour gagner du temps. De petits ajustements réguliers — changer une sauce, modifier un accompagnement — sont devenus gérables et durables. Le suivi lui a montré des changements progressifs dans sa routine et lui a permis de faire des choix réalistes, adaptés à son emploi du temps et à ses goûts. Il voit le suivi comme un outil utile, pas un test.",
+          "habit": "Commencez par enregistrer un repas chaque jour.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Kleine Schritte, stetiger Fortschritt",
+          "story": "Noah setzte sich ein kleines Ziel: zwei Wochen lang jeden Abend nur sein Abendessen zu protokollieren. Die kleine Aufgabe nahm den Druck und die Gewohnheit blieb bestehen. Mit der Zeit fügte er eine weitere Mahlzeit hinzu und speicherte häufige Gerichte in der App, um das Eintragen zu beschleunigen. Kleine, konstante Änderungen — eine andere Sauce, eine andere Beilage — erschienen machbar und nachhaltig. Das Tracking zeigte ihm allmähliche Veränderungen in seiner Routine und ermöglichte realistische Entscheidungen, die zu seinem Zeitplan und Geschmack passen. Er sieht Tracking als hilfreiches Werkzeug, nicht als Test.",
+          "habit": "Fange an, täglich eine Mahlzeit einzutragen.",
+          "appCta": "Öffne Calorie Bank Credit und starte heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Pequenos passos, progresso constante",
+          "story": "Noah estabeleceu uma meta pequena: registrar apenas o jantar todas as noites por duas semanas. Tornar a tarefa pequena tirou a pressão e a rotina se fixou. Com o passar dos dias, ele começou a adicionar mais uma refeição e a salvar pratos comuns no app para agilizar o registro. Pequenas alterações consistentes — escolher outro molho, trocar um acompanhamento — foram gerenciáveis e sustentáveis. O registro mostrou mudanças graduais em sua rotina e permitiu escolhas realistas que combinam com sua agenda e gostos. Ele vê o registro como uma ferramenta útil, não um teste.",
+          "habit": "Comece registrando uma refeição por dia.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Kis lépések, egyenletes haladás",
+          "story": "Noah egy apró célt tűzött ki: két héten át minden este csak a vacsoráját rögzíti. A feladat kicsivé tétele leveszett róla a nyomást, és a szokás rögzült. Ahogy teltek a napok, hozzátett még egy étkezést, és elmentette a gyakori ételeket az alkalmazásban, hogy gyorsabban tudjon rögzíteni. A kis, következetes változtatások — más szósszal vagy más körettel — kezelhetőknek és fenntarthatóknak tűntek. A követés lassú változásokat mutatott a rutinjában, és lehetővé tette, hogy életszerű döntéseket hozzon, amelyek illenek a napirendjéhez és az ízléséhez. A követést segédeszközként kezeli, nem próbának.",
+          "habit": "Kezdd azzal, hogy naponta egyszer rögzítesz egy étkezést.",
+          "appCta": "Nyisd meg a Calorie Bank Credit alkalmazást és kezdj el ma rögzíteni."
+        },
+        "ar": {
+          "title": "خطوات صغيرة، تقدم ثابت",
+          "story": "وضع نوح هدفًا صغيرًا: تسجيل عشاءه فقط كل مساء لمدة أسبوعين. جعل المهمة صغيرة أزال الضغط وجعل العادة تدوم. مع مرور الأيام بدأ يضيف وجبة أخرى ويحفظ الأطباق المتكررة في التطبيق لتسريع التسجيل. التعديلات الصغيرة والمتواصلة — اختيار صلصة مختلفة أو تغيير طبق جانبي — كانت عملية وقابلة للاستمرار. أظهر له التتبع تغييرات تدريجية في روتينه ومكّنه من اتخاذ اختيارات واقعية تتناسب مع جدوله وذوقه. يتعامل مع التتبع كأداة مفيدة، وليس كاختبار.",
+          "habit": "ابدأ بتسجيل وجبة واحدة يوميًا.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-10-17T11:06:57.830Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-17-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Small steps, steady progress.\nStory: Noah set a tiny goal: log just his dinner each evening for two weeks. Making the task small removed pressure and made the habit stick. As days passed, he began adding one more meal and saving common dishes in the app to speed up logging. Small, consistent edits—choosing a different sauce, swapping a side—felt manageable and sustainable. Tracking showed him gradual changes in his routine and let him make realistic choices that matched his schedule and tastes. He treats tracking like a helpful tool, not a test..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-16-motivation-1-story-1",
       "category": "calorie-tracking",
