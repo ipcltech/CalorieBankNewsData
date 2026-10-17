@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T21:43:47.624Z",
+  "generatedAt": "2026-10-17T11:17:43.432Z",
   "items": [
+    {
+      "id": "2026-10-17-am",
+      "publishedAt": "2026-10-17T11:17:43.432Z",
+      "format": "takeaway",
+      "source": {
+        "id": "news:speech-clock-age-2026",
+        "kind": "news",
+        "name": "news-medical.net",
+        "title": "Novel 'speech clock' can estimate a person's chronological age",
+        "urls": {
+          "en": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=en",
+          "es": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=es",
+          "ru": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=ru",
+          "uk": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=uk",
+          "fr": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=fr",
+          "de": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=de",
+          "pt-br": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=pt-br",
+          "hu": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=hu",
+          "ar": "https://www.calorie-bank.com/nutrition-news.html?article=speech-clock-age-2026&lang=ar"
+        },
+        "originalUrl": "https://www.news-medical.net/news/20260930/Novel-speech-clock-can-estimate-a-persons-chronological-age.aspx",
+        "imageUrl": "/news-images/speech-clock-age-2026-news.webp"
+      },
+      "languages": {
+        "en": {
+          "title": "Speech clock estimates age from voice",
+          "intro": "A large study trained machine-learning models on speech to predict chronological age. Authors say voice-based measures might track brain or biological aging and early cognitive changes, but results are early.",
+          "points": [
+            "AI models learned voice patterns to predict chronological age.",
+            "Researchers think speech clocks may reflect brain or biological aging and cognitive health.",
+            "The method is noninvasive and scalable but needs more validation before clinical use."
+          ],
+          "takeaway": "Voice-based 'speech clocks' could become an easy, low-cost way to monitor aging-related changes and potential early cognitive decline. Findings are preliminary; further validation is required before广泛",
+          "imageUrl": "/infographic-images/2026-10-17-am-en.jpg"
+        },
+        "es": {
+          "title": "Reloj de voz estima la edad a partir de la voz",
+          "intro": "Un gran estudio entrenó modelos de aprendizaje automático con el habla para predecir la edad cronológica. Los autores dicen que medidas basadas en la voz podrían rastrear el envejecimiento cerebral o biológico ",
+          "points": [
+            "Los modelos de IA aprendieron patrones de la voz para predecir la edad cronológica.",
+            "Los investigadores piensan que los «relojes de habla» pueden reflejar el envejecimiento cerebral o biológico y la salud cognitiva.",
+            "El método es no invasivo y escalable, pero necesita más validación antes de su uso clínico."
+          ],
+          "takeaway": "Los «relojes de habla» basados en la voz podrían ser una forma fácil y de bajo costo para vigilar cambios relacionados con el envejecimiento y posible declive cognitivo temprano. Los hallazgos son pre",
+          "imageUrl": "/infographic-images/2026-10-17-am-es.jpg"
+        },
+        "ru": {
+          "title": "Речевые часы оценивают возраст по голосу",
+          "intro": "Крупное исследование обучило модели машинного обучения на речи для предсказания хронологического возраста. Авторы отмечают, что показатели на основе голоса могут отражать старение мозга или биологическое старе",
+          "points": [
+            "Модели ИИ выявили голосовые паттерны, позволяющие прогнозировать хронологический возраст.",
+            "Исследователи считают, что речевые часы могут отражать старение мозга или биологическое старение и когнитивное здоровье.",
+            "Метод неинвазивен и масштабируем, но требует дополнительной валидации до клинического применения."
+          ],
+          "takeaway": "Речевые «часы» на основе голоса могут стать простым и недорогим способом мониторинга изменений, связанных со старением, и возможного раннего когнитивного снижения. Результаты предварительные; тре",
+          "imageUrl": "/infographic-images/2026-10-17-am-ru.jpg"
+        },
+        "uk": {
+          "title": "Годинник мовлення оцінює вік за голосом",
+          "intro": "У великому дослідженні моделі машинного навчання навчали на мовленні, щоб прогнозувати хронологічний вік. Автори вказують, що показники голосу можуть відстежувати мозкове або біологічне старіння і ранні когніив",
+          "points": [
+            "Моделі ШІ вивчили голосові закономірності, щоб прогнозувати хронологічний вік.",
+            "Дослідники вважають, що 'speech clocks' можуть відображати мозкове чи біологічне старіння та когнітивне здоров'я.",
+            "Метод неінвазивний і масштабований, але потребує додаткової валідації перед клінічним застосуванням."
+          ],
+          "takeaway": "Голосові 'speech clocks' можуть стати простим і недорогим способом відстежувати зміни, пов'язані зі старінням, і можливий ранній когнітивний занепад. Результати попередні; потрібна подальша валідація前",
+          "imageUrl": "/infographic-images/2026-10-17-am-uk.jpg"
+        },
+        "fr": {
+          "title": "Horloge vocale estime l'âge à partir de la voix",
+          "intro": "Une grande étude a entraîné des modèles d'apprentissage automatique sur la parole pour prédire l'âge chronologique. Les auteurs indiquent que les mesures vocales pourraient suivre le vieillissement cérébral ou ",
+          "points": [
+            "Des modèles d'IA ont appris des motifs vocaux pour prévoir l'âge chronologique.",
+            "Les chercheurs pensent que les 'speech clocks' peuvent refléter le vieillissement cérébral/biologique et la santé cognitive.",
+            "La méthode est non invasive et extensible mais nécessite plus de validation avant une utilisation clinique."
+          ],
+          "takeaway": "Les 'speech clocks' basés sur la voix pourraient devenir un moyen simple et peu coûteux de surveiller les changements liés au vieillissement et un éventuel déclin cognitif précoce. Résultats prélimin ",
+          "imageUrl": "/infographic-images/2026-10-17-am-fr.jpg"
+        },
+        "de": {
+          "title": "Sprachuhr schätzt Alter anhand der Stimme",
+          "intro": "Eine große Studie trainierte Machine-Learning-Modelle mit Sprachdaten, um das chronologische Alter vorherzusagen. Die Autor:innen sagen, sprachbasierte Messungen könnten Gehirn- oder biologisches Altern und frü",
+          "points": [
+            "KI-Modelle lernten Sprachmuster, um das chronologische Alter vorherzusagen.",
+            "Forscher:innen vermuten, dass 'speech clocks' Gehirn- oder biologisches Altern und kognitive Gesundheit widerspiegeln könnten.",
+            "Die Methode ist nichtinvasiv und skalierbar, benötigt aber weitere Validierung vor klinischer Anwendung."
+          ],
+          "takeaway": "Sprachbasierte 'speech clocks' könnten eine einfache, kostengünstige Möglichkeit werden, altersbedingte Veränderungen und möglichen frühen kognitiven Abbau zu überwachen. Die Befunde sind vorläufig; w",
+          "imageUrl": "/infographic-images/2026-10-17-am-de.jpg"
+        },
+        "pt-br": {
+          "title": "Relógio de fala estima idade pela voz",
+          "intro": "Um grande estudo treinou modelos de machine learning com fala para prever a idade cronológica. Os autores dizem que medidas baseadas na voz podem acompanhar o envelhecimento cerebral ou biológico e alterações c",
+          "points": [
+            "Modelos de IA aprenderam padrões de voz para prever a idade cronológica.",
+            "Pesquisadores acreditam que 'speech clocks' podem refletir envelhecimento cerebral ou biológico e a saúde cognitiva.",
+            "O método é não invasivo e escalável, mas precisa de mais validação antes do uso clínico."
+          ],
+          "takeaway": "Os 'speech clocks' baseados na voz poderiam se tornar uma forma fácil e de baixo custo para monitorar mudanças relacionadas ao envelhecimento e possível declínio cognitivo precoce. As descobertas são ",
+          "imageUrl": "/infographic-images/2026-10-17-am-pt-br.jpg"
+        },
+        "hu": {
+          "title": "Beszédóra: korbecslés hang alapján",
+          "intro": "Egy nagyszabású tanulmány gépi tanulásos modelleket tanított beszédre, hogy becsülje a kronológiai életkort. A szerzők szerint a hangalapú mérések jelezhetik az agy vagy a biológiai öregedést és a korai kognitv",
+          "points": [
+            "A mesterséges intelligencia modellek hangmintákat tanultak meg a kronológiai életkor előrejelzéséhez.",
+            "A kutatók szerint a beszédórák tükrözhetik az agy vagy a biológiai öregedést és a kognitív egészséget.",
+            "A módszer nem invazív és skálázható, de klinikai alkalmazás előtt további érvényesítésre van szükség."
+          ],
+          "takeaway": "A hangalapú 'speech clocks' könnyű, alacsony költségű módszerré válhatnak az öregedéssel kapcsolatos változások és a korai kognitív hanyatlás figyelésére. Az eredmények előzetesek; további érvényesíté",
+          "imageUrl": "/infographic-images/2026-10-17-am-hu.jpg"
+        },
+        "ar": {
+          "title": "ساعة الكلام تقدر العمر من الصوت",
+          "intro": "دراسة واسعة النطاق درّبت نماذج تعلّم آلي على الكلام للتنبؤ بالعمر الزمني. يقول المؤلفون إن المقاييس الصوتية قد تعكس شيخوخة الدماغ أو البيولوجية والتغيّرات الإدراكية المبكرة، لكن النتائج أولية.",
+          "points": [
+            "تعلمت نماذج الذكاء الاصطناعي أنماط الصوت للتنبؤ بالعمر الزمني.",
+            "يعتقد الباحثون أن ساعات الكلام قد تعكس شيخوخة الدماغ أو البيولوجية وحالة الصحة المعرفية.",
+            "الطريقة غير جراحية وقابلة للتوسيع لكنها تحتاج مزيدًا من التحقق قبل الاستخدام السريري."
+          ],
+          "takeaway": "قد تصبح ساعات الكلام المعتمدة على الصوت طريقة سهلة ومنخفضة التكلفة لمراقبة التغيرات المرتبطة بالشيخوخة والانحدار المعرفي المبكر المحتمل. النتائج أولية؛ مطلوب مزيد من التحقق قبل 广泛",
+          "imageUrl": "/infographic-images/2026-10-17-am-ar.jpg"
+        }
+      },
+      "slug": "speech-clock-estimates-age-from-voice"
+    },
     {
       "id": "2026-10-16-pm",
       "publishedAt": "2026-10-16T21:43:47.624Z",
