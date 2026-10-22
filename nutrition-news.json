@@ -1,8 +1,543 @@
 {
-  "generatedAt": "2026-10-21T12:12:05.375Z",
+  "generatedAt": "2026-10-22T12:11:33.175Z",
   "sourceCount": 35,
   "availableSourceCount": 34,
   "articles": [
+    {
+      "id": "stem-cell-therapies-may-need-new-protein-quality-control-standard-0a429b9b1ead",
+      "category": "Regeneration and stem cells",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261022/Stem-cell-therapies-may-need-new-protein-quality-control-standards.aspx",
+      "sourceTitle": "Stem cell therapies may need new protein quality control standards",
+      "publishedAt": "Thu, 22 Oct 2026 00:12:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Calls for new protein quality-control standards for stem cell and extracellular vesicle products",
+          "summary": "A news item summarizes concerns that current Good Manufacturing Practice (GMP) standards for cell therapies may need supplementing with additional protein and extracellular-vesicle (EV) quality measures, referencing MISEV2023 guidance for EV products.",
+          "whyItMatters": "As cell and EV therapies advance, expanded quality-control standards could affect product consistency, safety testing and regulatory requirements for manufacturing.",
+          "takeaways": [
+            "Current GMP focuses on identity, viability, sterility and genetic stability for cell therapies.",
+            "MISEV2023 guidance recommends additional measures for EV products, including particle characteristics and contaminant assays.",
+            "The article reports proposals to broaden protein-quality controls but does not present new clinical data."
+          ]
+        },
+        "es": {
+          "title": "Exigen nuevos estándares de control de calidad de proteínas para productos de células madre y vesículas extracelulares",
+          "summary": "Un artículo resume preocupaciones sobre que las actuales normas de Buenas Prácticas de Fabricación (GMP) para terapias celulares podrían necesitar complementarse con medidas adicionales de calidad de proteínas y de vesículas extracelulares (VE), haciendo referencia a la guía MISEV2023 para productos de VE.",
+          "whyItMatters": "A medida que avanzan las terapias celulares y las VE, la ampliación de los controles de calidad podría afectar la consistencia del producto, las pruebas de seguridad y los requisitos regulatorios de fabricación.",
+          "takeaways": [
+            "Las GMP actuales se centran en identidad, viabilidad, esterilidad y estabilidad genética para terapias celulares.",
+            "La guía MISEV2023 recomienda medidas adicionales para productos de VE, incluidas características de partículas y ensayos de contaminantes.",
+            "El artículo informa propuestas para ampliar los controles de calidad de proteínas, pero no presenta nuevos datos clínicos."
+          ]
+        },
+        "ru": {
+          "title": "Призывы к новым стандартам контроля качества белков для продуктов на основе стволовых клеток и внеклеточных везикул",
+          "summary": "Новостная заметка суммирует опасения, что действующие стандарты надлежащей производственной практики (GMP) для клеточных терапий могут потребовать дополнения дополнительными показателями качества белков и внеклеточных везикул (ВВ), с отсылкой к руководству MISEV2023 для продуктов ВВ.",
+          "whyItMatters": "По мере развития клеточных и ВВ-терапий расширение стандартов контроля качества может повлиять на согласованность продукции, тестирование безопасности и регуляторные требования к производству.",
+          "takeaways": [
+            "Действующие GMP фокусируются на идентичности, жизнеспособности, стерильности и генетической стабильности для клеточных терапий.",
+            "Руководство MISEV2023 рекомендует дополнительные меры для продуктов ВВ, включая характеристики частиц и тесты на загрязнения.",
+            "В статье сообщаются предложения по расширению контроля качества белков, но не приводятся новые клинические данные."
+          ]
+        },
+        "uk": {
+          "title": "Заклики до нових стандартів контролю якості білків для продуктів на основі стовбурових клітин і позаклітинних везикул",
+          "summary": "У новині узагальнюються занепокоєння щодо того, що чинні стандарти Good Manufacturing Practice (GMP) для клітинних терапій можуть потребувати доповнення додатковими заходами контролю якості білків і позаклітинних везикул (EV), з посиланням на рекомендації MISEV2023 для продуктів EV.",
+          "whyItMatters": "У міру розвитку клітинних терапій і терапій на основі EV розширені стандарти контролю якості можуть вплинути на послідовність продуктів, тестування безпеки та регуляторні вимоги до виробництва.",
+          "takeaways": [
+            "Поточні стандарти GMP зосереджені на ідентичності, життєздатності, стерильності та генетичній стабільності для клітинних терапій.",
+            "Керівні принципи MISEV2023 рекомендують додаткові заходи для продуктів EV, включаючи характеристики частинок і тести на контамінацію.",
+            "У статті повідомляються пропозиції розширити контроль якості білків, але вона не надає нових клінічних даних."
+          ]
+        },
+        "fr": {
+          "title": "Appels à de nouvelles normes de contrôle de la qualité des protéines pour les produits de thérapies cellulaires et de vésicules extracellulaires",
+          "summary": "Un article fait état d'inquiétudes selon lesquelles les normes actuelles de bonnes pratiques de fabrication (GMP) pour les thérapies cellulaires pourraient nécessiter des mesures supplémentaires de contrôle de la qualité des protéines et des vésicules extracellulaires (VE), en se référant aux recommandations MISEV2023 pour les produits VE.",
+          "whyItMatters": "À mesure que les thérapies cellulaires et les thérapies à base de VE progressent, l'élargissement des normes de contrôle de la qualité pourrait affecter la cohérence des produits, les tests de sécurité et les exigences réglementaires de fabrication.",
+          "takeaways": [
+            "Les GMP actuelles se concentrent sur l'identité, la viabilité, la stérilité et la stabilité génétique pour les thérapies cellulaires.",
+            "Les recommandations MISEV2023 préconisent des mesures supplémentaires pour les produits VE, notamment les caractéristiques des particules et les essais de contamination.",
+            "L'article rapporte des propositions visant à élargir les contrôles de qualité des protéines mais ne présente pas de nouvelles données cliniques."
+          ]
+        },
+        "de": {
+          "title": "Forderung nach neuen Protein‑Qualitätskontrollstandards für Zell‑ und Extrazellulärvesikelprodukte",
+          "summary": "Eine Meldung fasst Bedenken zusammen, dass die aktuellen Good Manufacturing Practice (GMP)‑Standards für Zelltherapien um zusätzliche Protein‑ und Extrazellulärvesikel(EV)‑Qualitätsmessungen ergänzt werden sollten, wobei auf die MISEV2023‑Leitlinien für EV‑Produkte verwiesen wird.",
+          "whyItMatters": "Mit dem Fortschritt von Zell‑ und EV‑Therapien könnten erweiterte Qualitätskontrollen die Produktkonsistenz, Sicherheitsprüfungen und regulatorische Anforderungen in der Herstellung beeinflussen.",
+          "takeaways": [
+            "Aktuelle GMP‑Anforderungen konzentrieren sich auf Identität, Vitalität, Sterilität und genetische Stabilität von Zelltherapien.",
+            "Die MISEV2023‑Leitlinien empfehlen zusätzliche Maßnahmen für EV‑Produkte, darunter Partikeleigenschaften und Kontaminanten‑Assays.",
+            "Der Artikel berichtet über Vorschläge zur Ausweitung von Protein‑Qualitätskontrollen, präsentiert aber keine neuen klinischen Daten."
+          ]
+        },
+        "pt-br": {
+          "title": "Apelos por novos padrões de controle de qualidade de proteínas para produtos de células-tronco e vesículas extracelulares",
+          "summary": "Uma notícia resume preocupações de que as atuais normas de Boas Práticas de Fabricação (GMP) para terapias celulares podem precisar ser complementadas por medidas adicionais de qualidade de proteínas e vesículas extracelulares (EV), referenciando as orientações MISEV2023 para produtos EV.",
+          "whyItMatters": "À medida que terapias celulares e de EV avançam, padrões ampliados de controle de qualidade podem afetar a consistência do produto, testes de segurança e requisitos regulatórios na fabricação.",
+          "takeaways": [
+            "As GMP atuais focam em identidade, viabilidade, esterilidade e estabilidade genética para terapias celulares.",
+            "As orientações MISEV2023 recomendam medidas adicionais para produtos EV, incluindo características de partículas e ensaios de contaminantes.",
+            "O artigo relata propostas para ampliar controles de qualidade de proteínas, mas não apresenta novos dados clínicos."
+          ]
+        },
+        "hu": {
+          "title": "Új fehérje-minőségellenőrzési szabványokat sürgetnek sejt- és extracelluláris vezikula termékekhez",
+          "summary": "Egy összefoglaló aggodalmakat közöl arról, hogy a jelenlegi GMP-eljárások a sejtterápiákhoz kiegészítésre szorulhatnak további fehérje- és extracelluláris vezikula (EV) minőségellenőrzési intézkedésekkel, hivatkozva a MISEV2023 útmutatásra az EV termékekhez.",
+          "whyItMatters": "Amint a sejt- és EV-terápiák fejlődnek, a bővült minőségellenőrzési követelmények hatással lehetnek a termékkonzisztenciára, a biztonsági vizsgálatokra és a gyártási szabályozásra.",
+          "takeaways": [
+            "A jelenlegi GMP elsősorban a sejtek azonosítására, életképességére, sterilitására és genetikai stabilitására fókuszál.",
+            "A MISEV2023 útmutatás további intézkedéseket javasol az EV termékekhez, például részecskejellemzőkre és szennyezőanyag-vizsgálatokra vonatkozóan.",
+            "A cikk javaslatokat közöl a fehérje-minőségellenőrzés bővítésére, de nem mutat be új klinikai adatokat."
+          ]
+        },
+        "ar": {
+          "title": "دعوات لمعايير مراقبة جودة جديدة للبروتين لمنتجات الخلايا الجذعية والحويصلات خارج الخلوية",
+          "summary": "يلخّص خبر مخاوف تفيد بأن معايير ممارسات التصنيع الجيد (GMP) الحالية لعلاجات الخلايا قد تحتاج إلى مكملات تتضمن مقاييس جودة إضافية للبروتين والحويصلات خارج الخلية، مع الإشارة إلى إرشادات MISEV2023 لمنتجات الحويصلات خارج الخلوية.",
+          "whyItMatters": "مع تقدم علاجات الخلايا والحويصلات خارج الخلية، قد تؤثر معايير مراقبة الجودة الموسعة على اتساق المنتج، واختبارات السلامة، والمتطلبات التنظيمية للتصنيع.",
+          "takeaways": [
+            "تركز معايير GMP الحالية على الهوية، والحيوية، والتعقيم، والثبات الجيني لمنتجات الخلايا.",
+            "توصي إرشادات MISEV2023 بتدابير إضافية لمنتجات الحويصلات خارج الخلية، بما في ذلك خصائص الجسيمات واختبارات الملوثات.",
+            "يورد المقال مقترحات لتوسيع مراقبة جودة البروتين لكنه لا يعرض بيانات سريرية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=stem-cell-therapies-may-need-new-protein-quality-control-standard-0a429b9b1ead",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/stem-cell-therapies-may-need-new-protein-quality-control-standard-0a429b9b1ead-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/stem-cell-therapies-may-need-new-protein-quality-control-standard-0a429b9b1ead-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Calls for new protein quality-control standards for stem cell and extracellular vesicle products.\nStory summary: A news item summarizes concerns that current Good Manufacturing Practice (GMP) standards for cell therapies may need supplementing with additional protein and extracellular-vesicle (EV) quality measures, referencing MISEV2023 guidance for EV products..\nCategory: Regeneration and stem cells.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "milk-multi-omics-links-maternal-health-to-infant-growth-794f62b2fab8",
+      "category": "Nutrition",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/d41591-026-00053-z",
+      "sourceTitle": "Milk multi-omics links maternal health to infant growth",
+      "publishedAt": "2026-10-22",
+      "languages": {
+        "en": {
+          "title": "Milk multi-omics links maternal health to infant growth",
+          "summary": "A Nature Medicine report describes research using multi-omics analysis of breast milk to identify biomarkers that connect maternal health, mammary gland function and breast milk composition to infant growth patterns.",
+          "whyItMatters": "Identifying biomarkers that link maternal status to milk composition and infant growth could help target public-health strategies on maternal nutrition and early-life development.",
+          "takeaways": [
+            "Study used multi-omics approaches to examine links among maternal health, mammary gland function, milk composition and infant growth.",
+            "Authors highlight maternal nutrition as a public-health priority based on the findings.",
+            "The report identifies potential biomarkers but does not itself establish interventions or clinical recommendations."
+          ]
+        },
+        "es": {
+          "title": "Análisis multi-ómico de la leche vincula la salud materna con el crecimiento infantil",
+          "summary": "Un informe de Nature Medicine describe una investigación que utilizó análisis multi-ómico de la leche materna para identificar biomarcadores que conectan la salud materna, la función de la glándula mamaria y la composición de la leche con los patrones de crecimiento infantil.",
+          "whyItMatters": "Identificar biomarcadores que vinculen el estado materno con la composición de la leche y el crecimiento infantil podría ayudar a orientar estrategias de salud pública sobre nutrición materna y el desarrollo en la primera infancia.",
+          "takeaways": [
+            "El estudio empleó enfoques multi-ómicos para examinar las relaciones entre la salud materna, la función de la glándula mamaria, la composición de la leche y el crecimiento infantil.",
+            "Los autores subrayan la nutrición materna como una prioridad de salud pública a partir de los hallazgos.",
+            "El informe identifica posibles biomarcadores, pero no establece por sí mismo intervenciones ni recomendaciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Мультиомный анализ молока связывает здоровье матери с ростом ребёнка",
+          "summary": "Отчет в Nature Medicine описывает исследование, в котором применяли мультиомный анализ грудного молока для определения биомаркеров, связывающих состояние матери, функцию молочной железы и состав молока с темпами роста младенца.",
+          "whyItMatters": "Выявление биомаркеров, связывающих состояние матери с составом молока и ростом ребёнка, может помочь нацелить меры общественного здравоохранения на материнское питание и раннее развитие.",
+          "takeaways": [
+            "В исследовании применялись мультиомные подходы для изучения связей между здоровьем матери, функцией молочной железы, составом молока и ростом ребёнка.",
+            "Авторы отмечают материнское питание как приоритет в сфере общественного здравоохранения на основании полученных данных.",
+            "В отчёте выявлены потенциальные биомаркеры, но сам по себе он не устанавливает вмешательств или клинических рекомендаций."
+          ]
+        },
+        "uk": {
+          "title": "Мультиомний аналіз грудного молока пов'язує стан матері з ростом немовляти",
+          "summary": "Звіт у Nature Medicine описує дослідження, яке використовувало мультиомний аналіз грудного молока для виявлення біомаркерів, що пов'язують стан матері, функцію молочної залози та склад грудного молока з моделями росту немовлят.",
+          "whyItMatters": "Виявлення біомаркерів, що зв'язують статус матері зі складом молока та ростом немовляти, може допомогти спрямувати заходи громадського здоров'я щодо материнського харчування та розвитку в ранньому віці.",
+          "takeaways": [
+            "Дослідження використало мультиомні підходи для вивчення зв'язків між станом матері, функцією молочної залози, складом молока та ростом немовляти.",
+            "Автори підкреслюють материнське харчування як пріоритет громадського здоров'я на основі отриманих даних.",
+            "У звіті виокремлено потенційні біомаркери, але сам по собі він не встановлює інтервенцій або клінічних рекомендацій."
+          ]
+        },
+        "fr": {
+          "title": "Analyse multi-omique du lait reliant la santé maternelle à la croissance du nourrisson",
+          "summary": "Un rapport de Nature Medicine décrit des recherches utilisant une analyse multi-omique du lait maternel pour identifier des biomarqueurs qui relient la santé maternelle, la fonction mammaire et la composition du lait aux schémas de croissance des nourrissons.",
+          "whyItMatters": "Identifier des biomarqueurs reliant l'état maternel à la composition du lait et à la croissance infantile pourrait aider à cibler des stratégies de santé publique sur la nutrition maternelle et le développement précoce.",
+          "takeaways": [
+            "L'étude a utilisé des approches multi-omiques pour examiner les liens entre la santé maternelle, la fonction mammaire, la composition du lait et la croissance des nourrissons.",
+            "Les auteurs mettent en avant la nutrition maternelle comme priorité de santé publique sur la base des résultats.",
+            "Le rapport identifie des biomarqueurs potentiels mais n'établit pas lui-même d'interventions ni de recommandations cliniques."
+          ]
+        },
+        "de": {
+          "title": "Multi‑Omics‑Analysen von Muttermilch verknüpfen mütterliche Gesundheit mit Säuglingswachstum",
+          "summary": "Ein Bericht in Nature Medicine beschreibt Forschungen, die Multi‑Omics‑Analysen von Muttermilch nutzten, um Biomarker zu identifizieren, die mütterliche Gesundheit, Funktion der Brustdrüse und Milchzusammensetzung mit Wachstumsmustern von Säuglingen verbinden.",
+          "whyItMatters": "Das Auffinden von Biomarkern, die den mütterlichen Zustand mit Milchzusammensetzung und Säuglingswachstum verknüpfen, könnte helfen, öffentlich‑gesundheitliche Strategien zur mütterlichen Ernährung und frühkindlichen Entwicklung gezielter auszurichten.",
+          "takeaways": [
+            "Die Studie nutzte Multi‑Omics‑Ansätze, um Verbindungen zwischen mütterlicher Gesundheit, Brustdrüsenfunktion, Milchzusammensetzung und Säuglingswachstum zu untersuchen.",
+            "Die Autorinnen und Autoren heben die mütterliche Ernährung als öffentlich‑gesundheitliche Priorität hervor, basierend auf den Befunden.",
+            "Der Bericht identifiziert potenzielle Biomarker, stellt aber keine Interventions‑ oder klinischen Empfehlungen auf."
+          ]
+        },
+        "pt-br": {
+          "title": "Multi-ômica do leite conecta saúde materna ao crescimento infantil",
+          "summary": "Um relatório na Nature Medicine descreve pesquisas que usaram análises multi-ômicas do leite materno para identificar biomarcadores que ligam a saúde materna, a função da glândula mamária e a composição do leite aos padrões de crescimento infantil.",
+          "whyItMatters": "Identificar biomarcadores que relacionam o estado materno à composição do leite e ao crescimento do bebê pode ajudar a direcionar estratégias de saúde pública sobre nutrição materna e desenvolvimento no início da vida.",
+          "takeaways": [
+            "O estudo utilizou abordagens multi-ômicas para examinar ligações entre saúde materna, função da glândula mamária, composição do leite e crescimento infantil.",
+            "Os autores destacam a nutrição materna como prioridade de saúde pública com base nas descobertas.",
+            "O relatório identifica biomarcadores potenciais, mas não estabelece intervenções nem recomendações clínicas."
+          ]
+        },
+        "hu": {
+          "title": "A tej multi-omikája összeköti az anyai egészséget a csecsemők növekedésével",
+          "summary": "A Nature Medicine beszámolója szerint a kutatók a szoptatási tej több-omikai elemzésével olyan biomarkereket azonosítottak, amelyek összekapcsolják az anyai állapotot, az emlőmirigy működését és a tej összetételét a csecsemők növekedési mintáival.",
+          "whyItMatters": "Az anyai állapotot a tej összetételéhez és a csecsemők növekedéséhez kötő biomarkerek azonosítása segíthet a közegészségügyi stratégiák célzásában az anyai táplálkozásra és a korai életfejlődésre.",
+          "takeaways": [
+            "A vizsgálat több-omikai módszereket alkalmazott az anyai egészség, az emlőmirigy működése, a tej összetétele és a csecsemőnövekedés közötti kapcsolatok feltárására.",
+            "A szerzők eredményeik alapján a maternális táplálkozást közegészségügyi prioritásként emelik ki.",
+            "A jelentés potenciális biomarkereket azonosít, de maga a tanulmány nem állít fel beavatkozási iránymutatásokat vagy klinikai ajánlásokat."
+          ]
+        },
+        "ar": {
+          "title": "التحليل متعدد الأوميات للحليب يربط صحة الأم بنمو الرضيع",
+          "summary": "يصف تقرير في Nature Medicine بحثًا استخدم تحليلًا متعدد الأوميات لحليب الرضاعة لتحديد مؤشرات حيوية تربط حالة الأم ووظيفة غدة الثدي وتركيب حليب الثدي بأنماط نمو الرضيع.",
+          "whyItMatters": "يمكن أن يساعد تحديد مؤشرات حيوية تربط حالة الأم بتركيب الحليب ونمو الرضيع في توجيه استراتيجيات الصحة العامة المتعلقة بتغذية الأم وتطوّر الطفل في مراحل الحياة المبكرة.",
+          "takeaways": [
+            "استخدمت الدراسة مناهج متعدد الأوميات لفحص الروابط بين صحة الأم، ووظيفة غدة الثدي، وتركيب الحليب، ونمو الرضع.",
+            "يؤكد المؤلفون على أهمية التغذية الأمومية كأولوية للصحة العامة استنادًا إلى النتائج.",
+            "يحدد التقرير مؤشرات حيوية محتملة لكنه لا يقدّم تدخلات أو توصيات سريرية بحد ذاته."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=milk-multi-omics-links-maternal-health-to-infant-growth-794f62b2fab8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/milk-multi-omics-links-maternal-health-to-infant-growth-794f62b2fab8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/milk-multi-omics-links-maternal-health-to-infant-growth-794f62b2fab8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Milk multi-omics links maternal health to infant growth.\nStory summary: A Nature Medicine report describes research using multi-omics analysis of breast milk to identify biomarkers that connect maternal health, mammary gland function and breast milk composition to infant growth patterns..\nCategory: Nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "diabetes-and-adhd-drugs-to-be-tested-on-alzheimer-s-patients-in-n-ade6b4c19f0f",
+      "category": "Neuroscience / Clinical trials",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "publishedAt": "Wed, 21 Oct 2026 23:02:30 GMT",
+      "languages": {
+        "en": {
+          "title": "Diabetes and ADHD drugs to be tested in Alzheimer's patients",
+          "summary": "The BBC reports on a new study that will test diabetes and ADHD medications simultaneously in people with a common type of dementia, aiming to speed the search for effective treatments.",
+          "whyItMatters": "Drug repurposing and parallel testing could accelerate identification of therapies for Alzheimer's disease, but trial results will be needed to show benefit and safety in patients.",
+          "takeaways": [
+            "The study will evaluate existing diabetes and ADHD drugs in people with dementia.",
+            "Testing multiple repurposed drugs at once is intended to speed up discovery.",
+            "At this stage the approach is investigational; it does not indicate proven effectiveness."
+          ]
+        },
+        "es": {
+          "title": "Medicamentos para la diabetes y el TDAH se probarán en pacientes con Alzheimer",
+          "summary": "La BBC informa sobre un nuevo estudio que probará medicamentos para la diabetes y el TDAH simultáneamente en personas con un tipo común de demencia, con el objetivo de acelerar la búsqueda de tratamientos efectivos.",
+          "whyItMatters": "La reutilización de fármacos y las pruebas paralelas podrían acelerar la identificación de terapias para la enfermedad de Alzheimer, pero serán necesarios los resultados del ensayo para demostrar beneficio y seguridad en pacientes.",
+          "takeaways": [
+            "El estudio evaluará medicamentos ya existentes para la diabetes y el TDAH en personas con demencia.",
+            "Probar varios fármacos reposicionados a la vez pretende acelerar el descubrimiento.",
+            "En esta fase el enfoque es experimental; no indica efectividad probada."
+          ]
+        },
+        "ru": {
+          "title": "Препараты от диабета и СДВГ будут протестированы у пациентов с болезнью Альцгеймера",
+          "summary": "BBC сообщает о новом исследовании, в котором одновременно протестируют лекарства от диабета и СДВГ у людей с распространённым типом деменции, с целью ускорить поиск эффективных методов лечения.",
+          "whyItMatters": "Перенаправление уже существующих препаратов и параллельное тестирование могут ускорить поиск терапий при болезни Альцгеймера, но для подтверждения пользы и безопасности в клинической популяции понадобятся результаты испытаний.",
+          "takeaways": [
+            "В исследовании будут оцениваться уже существующие препараты от диабета и СДВГ у людей с деменцией.",
+            "Тестирование нескольких репрофилированных препаратов одновременно направлено на ускорение открытия эффективных средств.",
+            "На данном этапе подход является исследовательским; это не означает доказанной эффективности."
+          ]
+        },
+        "uk": {
+          "title": "Препарати від діабету та СДУГ випробують у пацієнтів з хворобою Альцгеймера",
+          "summary": "BBC повідомляє про нове дослідження, яке одночасно випробує ліки від діабету та від синдрому дефіциту уваги з гіперактивністю у людей із поширеним типом деменції з метою прискорення пошуку ефективних лікувань.",
+          "whyItMatters": "Перепрофілювання ліків і паралельне тестування можуть пришвидшити ідентифікацію терапій для хвороби Альцгеймера, але для показу користі й безпеки пацієнтів потрібні результати випробувань.",
+          "takeaways": [
+            "Дослідження оцінюватиме існуючі препарати від діабету та СДУГ у людей з деменцією.",
+            "Тестування кількох перепрофільованих ліків одночасно має на меті прискорити відкриття терапій.",
+            "На цьому етапі підхід є експериментальним; це не свідчить про доведену ефективність."
+          ]
+        },
+        "fr": {
+          "title": "Des médicaments contre le diabète et le TDAH vont être testés chez des patients atteints de la maladie d'Alzheimer",
+          "summary": "La BBC rapporte une nouvelle étude qui testera simultanément des médicaments contre le diabète et le TDAH chez des personnes atteintes d'un type courant de démence, visant à accélérer la recherche de traitements efficaces.",
+          "whyItMatters": "Le repositionnement de médicaments et les tests parallèles pourraient accélérer l'identification de thérapies pour la maladie d'Alzheimer, mais il faudra des résultats d'essais pour démontrer le bénéfice et la sécurité chez les patients.",
+          "takeaways": [
+            "L'étude évaluera des médicaments existants contre le diabète et le TDAH chez des personnes atteintes de démence.",
+            "Tester plusieurs médicaments repositionnés en parallèle vise à accélérer les découvertes.",
+            "À ce stade, l'approche est expérimentale ; elle n'indique pas une efficacité prouvée."
+          ]
+        },
+        "de": {
+          "title": "Diabetes‑ und ADHS‑Medikamente werden bei Alzheimer‑Patienten getestet",
+          "summary": "Die BBC berichtet über eine neue Studie, die Diabetes‑ und ADHS‑Medikamente gleichzeitig bei Menschen mit einer häufigen Form von Demenz prüfen will, mit dem Ziel, die Suche nach wirksamen Behandlungen zu beschleunigen.",
+          "whyItMatters": "Die Umwidmung von Medikamenten und parallele Tests könnten die Identifikation von Therapien für die Alzheimer‑Krankheit beschleunigen, doch es werden Studiendaten benötigt, um Nutzen und Sicherheit bei Patientinnen und Patienten zu belegen.",
+          "takeaways": [
+            "Die Studie wird bestehende Diabetes‑ und ADHS‑Medikamente bei Menschen mit Demenz evaluieren.",
+            "Das gleichzeitige Testen mehrerer umgewidmeter Medikamente soll die Entdeckung beschleunigen.",
+            "Der Ansatz ist derzeit experimentell; er weist nicht auf eine nachgewiesene Wirksamkeit hin."
+          ]
+        },
+        "pt-br": {
+          "title": "Medicamentos para diabetes e TDAH serão testados em pacientes com Alzheimer",
+          "summary": "A BBC relata um novo estudo que testará simultaneamente medicamentos para diabetes e TDAH em pessoas com um tipo comum de demência, com o objetivo de acelerar a busca por tratamentos eficazes.",
+          "whyItMatters": "O reposicionamento de medicamentos e testes paralelos podem acelerar a identificação de terapias para a doença de Alzheimer, mas serão necessários os resultados dos ensaios para demonstrar benefício e segurança nos pacientes.",
+          "takeaways": [
+            "O estudo avaliará medicamentos existentes para diabetes e TDAH em pessoas com demência.",
+            "Testar múltiplos medicamentos reposicionados ao mesmo tempo pretende acelerar a descoberta.",
+            "Neste estágio, a abordagem é investigacional; não indica eficácia comprovada."
+          ]
+        },
+        "hu": {
+          "title": "Cukorbetegség- és ADHD-gyógyszereket tesztelnek Alzheimer-betegeken",
+          "summary": "A BBC beszámolója szerint új tanulmány fogja egyszerre vizsgálni a cukorbetegség és az ADHD gyógyszereit olyan személyeknél, akiknél gyakori típusú demencia áll fenn, a cél a hatékony kezelések keresésének felgyorsítása.",
+          "whyItMatters": "A gyógyszerek újrahasznosítása és párhuzamos tesztelése felgyorsíthatja az Alzheimer-kórra ható terápiák azonosítását, de a betegek számára előny és biztonság igazolásához a vizsgálatok eredményeire lesz szükség.",
+          "takeaways": [
+            "A vizsgálat meglévő cukorbetegség- és ADHD-gyógyszereket fog értékelni demenciában szenvedő személyeknél.",
+            "Több újrahasznosított gyógyszer egyszerre történő tesztelését a felfedezés felgyorsítása indokolja.",
+            "Jelenleg a megközelítés kísérleti jellegű; ez nem bizonyítja a hatásosságot."
+          ]
+        },
+        "ar": {
+          "title": "اختبار أدوية السكري وفرط الحركة لدى مرضى الزهايمر",
+          "summary": "تقرير من BBC عن دراسة جديدة ستختبر في آنٍ واحد أدوية للسكري وADHD لدى أشخاص يعانون نوعًا شائعًا من الخرف، بهدف تسريع البحث عن علاجات فعّالة.",
+          "whyItMatters": "قد تُسرّع إعادة توظيف الأدوية والاختبارات المتوازية من تحديد علاجات لمرض الزهايمر، لكن نتائج التجارب ستكون ضرورية لإثبات الفائدة والسلامة لدى المرضى.",
+          "takeaways": [
+            "ستقيّم الدراسة أدوية موجودة للسكري وADHD لدى أشخاص مصابين بالخرف.",
+            "الاختبار المتزامن لعدة أدوية معاد توظيفها يهدف إلى تسريع الاكتشاف.",
+            "النهج في هذه المرحلة تجريبي؛ لا يعني ذلك فعالية مثبتة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=diabetes-and-adhd-drugs-to-be-tested-on-alzheimer-s-patients-in-n-ade6b4c19f0f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/diabetes-and-adhd-drugs-to-be-tested-on-alzheimer-s-patients-in-n-ade6b4c19f0f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/diabetes-and-adhd-drugs-to-be-tested-on-alzheimer-s-patients-in-n-ade6b4c19f0f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Diabetes and ADHD drugs to be tested in Alzheimer's patients.\nStory summary: The BBC reports on a new study that will test diabetes and ADHD medications simultaneously in people with a common type of dementia, aiming to speed the search for effective treatments..\nCategory: Neuroscience / Clinical trials.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "testosterone-for-menopause-may-carry-heart-risks-25c34bc0acb5",
+      "category": "Cardiovascular health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/tms/123511",
+      "sourceTitle": "Testosterone for Menopause May Carry Heart Risks",
+      "publishedAt": "Wed, 21 Oct 2026 15:14:35 -0400",
+      "languages": {
+        "en": {
+          "title": "Testosterone for menopause may be linked to increased cardiovascular risk",
+          "summary": "A large retrospective cohort study reported by MedPage Today associated testosterone therapy during menopause with a higher incidence of cardiovascular disease over a five-year period.",
+          "whyItMatters": "Observational findings of increased cardiovascular events could influence risk–benefit discussions and future research on testosterone use in menopause, but causation is not established by this study design.",
+          "takeaways": [
+            "The study was retrospective and observed an association between testosterone use in menopause and higher incident cardiovascular disease over 5 years.",
+            "Retrospective cohort designs can identify associations but cannot prove causation.",
+            "Further prospective trials would be needed to determine causality and guide treatment recommendations."
+          ]
+        },
+        "es": {
+          "title": "La testosterona para la menopausia puede asociarse a un mayor riesgo cardiovascular",
+          "summary": "Un gran estudio de cohorte retrospectivo reportado por MedPage Today asoció la terapia con testosterona durante la menopausia con una mayor incidencia de enfermedad cardiovascular durante un período de cinco años.",
+          "whyItMatters": "Los hallazgos observacionales de un aumento de eventos cardiovasculares pueden influir en las discusiones sobre riesgo y beneficio y en futuras investigaciones sobre el uso de testosterona en la menopausia, pero la causalidad no se establece con este diseño de estudio.",
+          "takeaways": [
+            "El estudio fue retrospectivo y observó una asociación entre el uso de testosterona en la menopausia y una mayor incidencia de enfermedad cardiovascular a 5 años.",
+            "Los diseños de cohorte retrospectivos pueden identificar asociaciones pero no prueban causalidad.",
+            "Serían necesarios ensayos prospectivos adicionales para determinar causalidad y orientar recomendaciones de tratamiento."
+          ]
+        },
+        "ru": {
+          "title": "Тестостерон при менопаузе может быть связан с повышенным риском сердечно-сосудистых заболеваний",
+          "summary": "Крупное ретроспективное когортное исследование, описанное MedPage Today, связано с более высокой частотой возникновения сердечно-сосудистых заболеваний у женщин, получавших терапию тестостероном в период менопаузы, в течение пятилетнего наблюдения.",
+          "whyItMatters": "Наблюдательные данные о возрастании сердечно-сосудистых событий могут повлиять на обсуждения рисков и пользы и на дальнейшие исследования применения тестостерона при менопаузе, однако причинно-следственную связь данным дизайном установить нельзя.",
+          "takeaways": [
+            "Исследование было ретроспективным и обнаружило ассоциацию между применением тестостерона в менопаузе и повышенной частотой сердечно-сосудистых заболеваний в течение 5 лет.",
+            "Ретроспективные когортные исследования могут выявлять ассоциации, но не доказывают причинность.",
+            "Для установления причинно-следственной связи и выработки рекомендаций по лечению потребуются дополнительные проспективные испытания."
+          ]
+        },
+        "uk": {
+          "title": "Тестостерон під час менопаузи може бути пов'язаний зі збільшеним ризиком серцево‑судинних захворювань",
+          "summary": "Велике ретроспективне когортне дослідження, про яке повідомляє MedPage Today, пов'язало терапію тестостероном під час менопаузи зі вищою частотою серцево‑судинних захворювань протягом п'ятирічного періоду.",
+          "whyItMatters": "Спостережні висновки про збільшення серцево‑судинних подій можуть вплинути на обговорення ризиків і користі та на майбутні дослідження щодо застосування тестостерону під час менопаузи, але дизайн дослідження не встановлює причинно‑наслідковий зв'язок.",
+          "takeaways": [
+            "Дослідження було ретроспективним і виявило асоціацію між застосуванням тестостерону під час менопаузи та вищою частотою серцево‑судинних захворювань за 5 років.",
+            "Ретроспективні когортні дизайни можуть виявляти асоціації, але не доводять причинності.",
+            "Щоб встановити причинно‑наслідковий зв'язок і керувати лікувальними рекомендаціями, потрібні подальші проспективні випробування."
+          ]
+        },
+        "fr": {
+          "title": "La testostérone pendant la ménopause pourrait être associée à un risque cardiovasculaire accru",
+          "summary": "Une vaste étude de cohorte rétrospective, rapportée par MedPage Today, a associé la thérapie par testostérone pendant la ménopause à une incidence plus élevée de maladies cardiovasculaires sur une période de cinq ans.",
+          "whyItMatters": "Les observations d'une augmentation des événements cardiovasculaires peuvent influencer les discussions sur le rapport risque–bénéfice et les recherches futures sur l'utilisation de la testostérone pendant la ménopause, mais la conception de l'étude n'établit pas la causalité.",
+          "takeaways": [
+            "L'étude était rétrospective et a observé une association entre l'utilisation de la testostérone pendant la ménopause et une augmentation des maladies cardiovasculaires sur 5 ans.",
+            "Les dessins de cohorte rétrospectifs peuvent identifier des associations mais ne peuvent pas prouver la causalité.",
+            "Des essais prospectifs supplémentaires seraient nécessaires pour déterminer la causalité et orienter les recommandations de traitement."
+          ]
+        },
+        "de": {
+          "title": "Testosteron in den Wechseljahren könnte mit erhöhtem Herz‑Kreislauf‑Risiko verbunden sein",
+          "summary": "Eine große retrospektive Kohortenstudie, berichtet von MedPage Today, brachte Testosterontherapie in den Wechseljahren mit einer höheren Inzidenz von Herz‑Kreislauf‑Erkrankungen über einen Fünfjahreszeitraum in Verbindung.",
+          "whyItMatters": "Beobachtungsbefunde über vermehrte kardiovaskuläre Ereignisse könnten Risiko‑Nutzen‑Gespräche und künftige Forschung zur Testosteronanwendung in den Wechseljahren beeinflussen, doch durch dieses Studiendesign wird keine Kausalität belegt.",
+          "takeaways": [
+            "Die Studie war retrospektiv und beobachtete eine Assoziation zwischen Testosteronanwendung in den Wechseljahren und höherer inzidenter Herz‑Kreislauf‑Erkrankung über 5 Jahre.",
+            "Retrospektive Kohortenstudien können Assoziationen identifizieren, aber keine Kausalität nachweisen.",
+            "Weitere prospektive Studien wären erforderlich, um Kausalität zu klären und Behandlungsempfehlungen zu unterstützen."
+          ]
+        },
+        "pt-br": {
+          "title": "Testosterona na menopausa pode estar associada a maior risco cardiovascular",
+          "summary": "Um grande estudo de coorte retrospectivo, relatado pelo MedPage Today, associou a terapia com testosterona durante a menopausa a uma maior incidência de doenças cardiovasculares ao longo de um período de cinco anos.",
+          "whyItMatters": "Achados observacionais de aumento de eventos cardiovasculares podem influenciar discussões de risco–benefício e pesquisas futuras sobre o uso de testosterona na menopausa, mas este desenho de estudo não estabelece causalidade.",
+          "takeaways": [
+            "O estudo foi retrospectivo e observou uma associação entre o uso de testosterona na menopausa e maior incidência de doenças cardiovasculares em 5 anos.",
+            "Desenhos de coorte retrospectivos podem identificar associações, mas não provam causalidade.",
+            "Ensaios prospectivos adicionais seriam necessários para determinar causalidade e orientar recomendações de tratamento."
+          ]
+        },
+        "hu": {
+          "title": "A tesztoszteron-kezelés a menopauza alatt összefüggésbe hozható fokozott szív- és érrendszeri kockázattal",
+          "summary": "A MedPage Today által közölt nagy visszamenőleges kohorszvizsgálat összefüggést talált a menopauza idején adott tesztoszteron-terápia és a vizsgált öt éves időszak alatt növekvő előfordulású szív- és érrendszeri betegségek között.",
+          "whyItMatters": "A megfigyelésen alapuló eredmények befolyásolhatják a kockázat–haszon mérlegelését és a további kutatásokat a menopauzában alkalmazott tesztoszteronról, de az ilyen vizsgálati tervezés nem bizonyít okozati összefüggést.",
+          "takeaways": [
+            "A tanulmány visszamenőleges jellegű volt, és összefüggést figyelt meg a menopauzában alkalmazott tesztoszteron és az öt éven belüli megnövekedett szív- és érrendszeri betegségek előfordulása között.",
+            "A visszamenőleges kohorszvizsgálatok asszociációkat tárhatnak fel, de nem igazolják az okozatiságot.",
+            "A kauzalitás megállapításához és a kezelési ajánlások meghatározásához további prospektív vizsgálatok szükségesek."
+          ]
+        },
+        "ar": {
+          "title": "قد يرتبط اختبار التستوستيرون في سن اليأس بزيادة مخاطر القلب والأوعية الدموية",
+          "summary": "ذكرت MedPage Today أن دراسة كوهورتي استعادية واسعة ربطت العلاج بالتستوستيرون أثناء سن اليأس بزيادة حدوث أمراض قلبية وعائية خلال فترة خمس سنوات.",
+          "whyItMatters": "قد تؤثر النتائج الرصدية عن زيادة الحوادث القلبية الأوعية الدموية على مناقشات المخاطر والمنافع والبحوث المستقبلية حول استخدام التستوستيرون في سن اليأس، لكن هذه التصميمات لا تثبت السببية.",
+          "takeaways": [
+            "كانت الدراسة استعادية ولاحظت وجود ارتباط بين استخدام التستوستيرون في سن اليأس وزيادة حدوث أمراض القلب والأوعية الدموية على مدى خمس سنوات.",
+            "تصميمات الدراسات الاستعادية قادرة على الكشف عن ارتباطات لكنها لا تثبت السببية.",
+            "ستكون التجارب الاستباقية المطلوبة لتحديد السببية وإرشاد توصيات العلاج."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=testosterone-for-menopause-may-carry-heart-risks-25c34bc0acb5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/testosterone-for-menopause-may-carry-heart-risks-25c34bc0acb5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/testosterone-for-menopause-may-carry-heart-risks-25c34bc0acb5-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Testosterone for menopause may be linked to increased cardiovascular risk.\nStory summary: A large retrospective cohort study reported by MedPage Today associated testosterone therapy during menopause with a higher incidence of cardiovascular disease over a five-year period..\nCategory: Cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tuberculosis-vaccine-s-link-to-reduced-dementia-risk-gains-mechan-939f7ae36951",
+      "category": "Healthy ageing / Dementia research",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-tuberculosis-vaccine-link-dementia-gains.html",
+      "sourceTitle": "Tuberculosis vaccine's link to reduced dementia risk gains mechanistic support",
+      "publishedAt": "Wed, 21 Oct 2026 14:00:35 EDT",
+      "languages": {
+        "en": {
+          "title": "Mouse study provides mechanistic support for a possible link between BCG vaccination and reduced dementia risk",
+          "summary": "Medical Xpress reports that new findings in mice offer mechanistic support for prior observations linking the Bacillus Calmette–Guérin (BCG) vaccine to lower dementia risk; BCG is a live attenuated vaccine used against tuberculosis and in bladder cancer treatment.",
+          "whyItMatters": "Preclinical mechanistic data can help explain observational associations and guide further research, but mouse results do not prove the effect occurs in humans.",
+          "takeaways": [
+            "The new findings come from an animal (mouse) study that investigated mechanisms related to BCG and dementia risk.",
+            "BCG is an established vaccine for tuberculosis and has other clinical uses, but its effects on dementia remain investigational.",
+            "Human trials or robust epidemiological studies would be needed to establish whether vaccination reduces dementia risk."
+          ]
+        },
+        "es": {
+          "title": "Estudio en ratones aporta apoyo mecanístico a posible vínculo entre vacuna BCG y menor riesgo de demencia",
+          "summary": "Medical Xpress informa que nuevos hallazgos en ratones ofrecen apoyo mecanístico a observaciones previas que relacionan la vacuna Bacillus Calmette–Guérin (BCG) con un menor riesgo de demencia; la BCG es una vacuna atenuada utilizada contra la tuberculosis y en el tratamiento del cáncer de vejiga.",
+          "whyItMatters": "Los datos mecanísticos preclínicos pueden ayudar a explicar asociaciones observacionales y orientar investigaciones futuras, pero los resultados en ratones no prueban que el efecto ocurra en humanos.",
+          "takeaways": [
+            "Los nuevos hallazgos proceden de un estudio en animales (ratones) que investigó mecanismos relacionados con la BCG y el riesgo de demencia.",
+            "La BCG es una vacuna establecida contra la tuberculosis y tiene otros usos clínicos, pero sus efectos sobre la demencia siguen en fase de investigación.",
+            "Serían necesarios ensayos en humanos o estudios epidemiológicos robustos para establecer si la vacunación reduce el riesgo de demencia."
+          ]
+        },
+        "ru": {
+          "title": "Исследование на мышах даёт механистическую поддержку возможной связи между вакциной БЦЖ и снижением риска деменции",
+          "summary": "Medical Xpress сообщает, что новые результаты на мышах предоставляют механистическую поддержку ранее отмеченным наблюдениям, связывающим вакцину Bacillus Calmette–Guérin (БЦЖ) с более низким риском деменции; БЦЖ — это живая аттенуированная вакцина, используемая против туберкулёза и в лечении рака мочевого пузыря.",
+          "whyItMatters": "Пре клинические механистические данные могут помочь объяснить наблюдаемые ассоциации и направить дальнейшие исследования, но результаты на мышах не доказывают наличие эффекта у людей.",
+          "takeaways": [
+            "Новые данные получены в животной (мышиной) модели, где изучались механизмы, связанные с БЦЖ и риском деменции.",
+            "БЦЖ — признанная вакцина против туберкулёза и имеет другие клинические применения, но её влияние на деменцию остаётся предметом исследований.",
+            "Для установления, снижает ли вакцинация риск деменции у людей, потребуются клинические испытания или масштабные эпидемиологические исследования."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах дає механістичну підтримку можливому зв'язку між вакцинацією БЦЖ і зниженим ризиком деменції",
+          "summary": "Medical Xpress повідомляє, що нові результати на мишах надають механістичну підтримку попереднім спостереженням, які пов'язували вакцину Bacillus Calmette–Guérin (БЦЖ) зі зниженим ризиком деменції; БЦЖ — жива ослаблена вакцина, що застосовується проти туберкульозу та в лікуванні раку сечового міхура.",
+          "whyItMatters": "Преклінічні механістичні дані можуть допомогти пояснити спостережні асоціації і спрямувати подальші дослідження, але результати на мишах не доводять, що ефект має місце у людей.",
+          "takeaways": [
+            "Нові результати отримані в дослідженні на тваринах (мишах), яке вивчало механізми, пов'язані з БЦЖ і ризиком деменції.",
+            "БЦЖ — встановлена вакцина проти туберкульозу, яка також має інші клінічні застосування, але її вплив на деменцію залишається експериментальним.",
+            "Щоб встановити, чи вакцинація знижує ризик деменції в людей, потрібні людські випробування або надійні епідеміологічні дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Une étude sur des souris apporte un soutien mécanistique à un lien possible entre la vaccination BCG et un risque réduit de démence",
+          "summary": "Medical Xpress rapporte que de nouvelles données chez la souris apportent un soutien mécanistique à des observations antérieures liant le vaccin Bacillus Calmette–Guérin (BCG) à un risque moindre de démence ; le BCG est un vaccin vivant atténué utilisé contre la tuberculose et dans le traitement du cancer de la vessie.",
+          "whyItMatters": "Des données mécanistiques précliniques peuvent contribuer à expliquer des associations observationnelles et orienter des recherches ultérieures, mais les résultats obtenus chez la souris ne prouvent pas que l'effet existe chez l'humain.",
+          "takeaways": [
+            "Les nouvelles données proviennent d'une étude animale (souris) qui a examiné des mécanismes liés au BCG et au risque de démence.",
+            "Le BCG est un vaccin établi contre la tuberculose et a d'autres usages cliniques, mais ses effets sur la démence restent investigatoires.",
+            "Des essais chez l'humain ou des études épidémiologiques robustes seraient nécessaires pour établir si la vaccination réduit le risque de démence."
+          ]
+        },
+        "de": {
+          "title": "Mausstudie liefert mechanistische Unterstützung für möglichen Zusammenhang zwischen BCG‑Impfung und vermindertem Demenzrisiko",
+          "summary": "Medical Xpress berichtet, dass neue Ergebnisse an Mäusen mechanistische Unterstützung für frühere Beobachtungen liefern, die den BCG‑Impfstoff mit einem geringeren Demenzrisiko in Verbindung bringen; BCG ist ein Lebendimpfstoff gegen Tuberkulose und wird auch bei Blasenkrebs eingesetzt.",
+          "whyItMatters": "Präklinische mechanistische Daten können helfen, beobachtete Assoziationen zu erklären und die weitere Forschung zu leiten, doch Ergebnisse aus Mausstudien beweisen nicht, dass der Effekt beim Menschen auftritt.",
+          "takeaways": [
+            "Die neuen Ergebnisse stammen aus einer Tier‑ (Maus‑)Studie, die Mechanismen im Zusammenhang mit BCG und Demenzrisiko untersuchte.",
+            "BCG ist ein etablierter Impfstoff gegen Tuberkulose und hat weitere klinische Anwendungen, aber seine Auswirkungen auf Demenz bleiben experimentell.",
+            "Humane Studien oder robuste epidemiologische Untersuchungen wären erforderlich, um festzustellen, ob die Impfung das Demenzrisiko verringert."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em camundongos dá suporte mecanístico a possível ligação entre vacinação BCG e menor risco de demência",
+          "summary": "A Medical Xpress relata que novos achados em camundongos oferecem suporte mecanístico a observações anteriores que associam a vacina BCG a um menor risco de demência; a BCG é uma vacina viva atenuada usada contra tuberculose e no tratamento do câncer de bexiga.",
+          "whyItMatters": "Dados mecanísticos pré-clínicos podem ajudar a explicar associações observacionais e orientar pesquisas futuras, mas resultados em camundongos não comprovam que o efeito ocorra em humanos.",
+          "takeaways": [
+            "As novas descobertas vêm de um estudo em animais (camundongos) que investigou mecanismos relacionados à BCG e ao risco de demência.",
+            "A BCG é uma vacina estabelecida contra tuberculose e tem outros usos clínicos, mas seus efeitos sobre demência continuam investigacionais.",
+            "Ensaios em humanos ou estudos epidemiológicos robustos seriam necessários para estabelecer se a vacinação reduz o risco de demência."
+          ]
+        },
+        "hu": {
+          "title": "Egérkutatás mechanisztikus támogatást adhat a BCG-oltás és az alacsonyabb demenciarizikó közötti lehetséges kapcsolathoz",
+          "summary": "A Medical Xpress beszámolója szerint új egérkísérletes eredmények mechanisztikus támaszt adhatnak korábbi megfigyeléseknek, amelyek a Bacillus Calmette–Guérin (BCG) oltást összekapcsolták alacsonyabb demencia-kockázattal; a BCG élő attenuált oltóanyag a tuberkulózis ellen és bizonyos esetekben hólyagrák kezelésére használatos.",
+          "whyItMatters": "A preklinikai mechanisztikus adatok segíthetnek megmagyarázni megfigyelési összefüggéseket és irányt adhatnak további kutatásoknak, de az egéreredmények nem igazolják önmagukban, hogy az embernél is fennáll a hatás.",
+          "takeaways": [
+            "Az új eredmények állatkísérletekből (egerekből) származnak, és a BCG-hez kapcsolódó demenciarizikó mechanizmusait vizsgálták.",
+            "A BCG bevett oltóanyag a tuberkulózis ellen, és egyéb klinikai alkalmazásai is vannak, de demenciára gyakorolt hatása továbbra is vizsgálat alatt áll.",
+            "Annak megállapításához, hogy az oltás csökkenti-e a demencia kockázatát emberekben, humán vizsgálatokra vagy robusztus epidemiológiai kutatásokra lenne szükség."
+          ]
+        },
+        "ar": {
+          "title": "دراسة على الفئران تقدم دعمًا آليًا لاحتمال ارتباط لقاح BCG بانخفاض مخاطر الخرف",
+          "summary": "تفيد Medical Xpress أن نتائج جديدة في الفئران تقدم دعمًا آليًا لملاحظات سابقة ربطت لقاح Bacillus Calmette–Guérin (BCG) بانخفاض مخاطر الخرف؛ لقاح BCG هو لقاح حي مُضعّف يُستخدم ضد السل وفي علاج سرطان المثانة في بعض الحالات.",
+          "whyItMatters": "يمكن للبيانات الآلية ما قبل السريرية أن تساعد في تفسير الارتباطات الرصدية وتوجيه بحوث لاحقة، لكن نتائج الفئران لا تثبت بالضرورة وجود تأثير مماثل لدى البشر.",
+          "takeaways": [
+            "النتائج الجديدة مستمدة من دراسة حيوانية (فئران) بحثت الآليات المتعلقة بالـ BCG ومخاطر الخرف.",
+            "الـ BCG لقاح معتمد للوقاية من السل وله استخدامات سريرية أخرى، لكن تأثيره على الخرف لا يزال في مرحلة البحث.",
+            "ستكون التجارب البشرية أو دراسات وبائية قوية مطلوبة لتحديد ما إذا كان التطعيم يقلل من خطر الخرف لدى الناس."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tuberculosis-vaccine-s-link-to-reduced-dementia-risk-gains-mechan-939f7ae36951",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tuberculosis-vaccine-s-link-to-reduced-dementia-risk-gains-mechan-939f7ae36951-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tuberculosis-vaccine-s-link-to-reduced-dementia-risk-gains-mechan-939f7ae36951-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mouse study provides mechanistic support for a possible link between BCG vaccination and reduced dementia risk.\nStory summary: Medical Xpress reports that new findings in mice offer mechanistic support for prior observations linking the Bacillus Calmette–Guérin (BCG) vaccine to lower dementia risk; BCG is a live attenuated vaccine used against tuberculosis and in bladder cancer treatment..\nCategory: Healthy ageing / Dementia research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "gut-friendly-fiber-formula-gives-hope-to-ibs-sufferers-3e2ab3993dbf",
       "category": "Gut health / Nutrition",
@@ -216,6 +751,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Tea has benefits for heart health — but not if it’s scalding hot.\nStory summary: A new study reported that aspects of how people prepare and drink tea — including its temperature — may influence cardiovascular health associations. The reporting highlights a possible difference in benefit when tea is consumed very hot..\nCategory: Cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "scientists-find-10-different-diets-linked-to-slower-aging-7806c0b3593e",
+      "category": "Nutrition / Healthy ageing",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
+      "sourceTitle": "Scientists find 10 different diets linked to slower aging",
+      "publishedAt": "Tue, 20 Oct 2026 21:58:07 EDT",
+      "languages": {
+        "en": {
+          "title": "Study finds multiple healthy dietary patterns associated with slower biological aging",
+          "summary": "A DZNE study reported on ScienceDaily and published in Nature Communications found associations between ten dietary patterns (including Mediterranean, Nordic, plant-based and DASH) and slower biological aging measures.",
+          "whyItMatters": "The results suggest there is more than one dietary pattern associated with markers of slower aging, but associations do not prove causation and further research is needed.",
+          "takeaways": [
+            "Researchers examined ten dietary patterns and found links to measures of biological aging.",
+            "Patterns mentioned include Mediterranean, Nordic, plant‑based and the DASH diet.",
+            "The study reports associations; it does not demonstrate that adopting any single diet will definitively slow aging."
+          ]
+        },
+        "es": {
+          "title": "Estudio encuentra varios patrones dietarios asociados con un envejecimiento biológico más lento",
+          "summary": "Un estudio del DZNE reportado en ScienceDaily y publicado en Nature Communications encontró asociaciones entre diez patrones dietarios (incluidos el mediterráneo, nórdico, basado en plantas y DASH) y medidas de envejecimiento biológico más lento.",
+          "whyItMatters": "Los resultados sugieren que existe más de un patrón dietario asociado con marcadores de envejecimiento más lento, pero las asociaciones no prueban causalidad y se necesita más investigación.",
+          "takeaways": [
+            "Los investigadores examinaron diez patrones dietarios y hallaron vínculos con medidas de envejecimiento biológico.",
+            "Entre los patrones mencionados figuran la dieta mediterránea, la nórdica, basada en plantas y la dieta DASH.",
+            "El estudio informa asociaciones; no demuestra que adoptar una dieta específica reduzca definitivamente el ritmo de envejecimiento."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выявило несколько диетических моделей, связанных с замедленным биологическим старением",
+          "summary": "Исследование DZNE, о котором сообщается на ScienceDaily и опубликовано в Nature Communications, обнаружило связи между десятью диетическими моделями (включая средиземноморскую, скандинавскую, растительную и DASH) и показателями более медленного биологического старения.",
+          "whyItMatters": "Результаты указывают, что существует более одного диетического подхода, связанного с маркёрами замедленного старения, однако ассоциации не доказывают причинность и требуются дополнительные исследования.",
+          "takeaways": [
+            "Исследователи рассмотрели десять диетических моделей и выявили связи с показателями биологического старения.",
+            "Упоминаемые модели включают средиземноморскую, скандинавскую, растительную и диету DASH.",
+            "В исследовании сообщаются ассоциации; оно не доказывает, что соблюдение конкретной диеты однозначно замедлит старение."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє кілька здорових дієтичних підходів, пов'язаних зі сповільненим біологічним старінням",
+          "summary": "Дослідження DZNE, про яке повідомляє ScienceDaily і яке опубліковане в Nature Communications, виявило асоціації між десятьма дієтичними підходами (включаючи середземноморську, північну, рослинну та DASH) і показниками повільнішого біологічного старіння.",
+          "whyItMatters": "Результати свідчать, що існує більше одного дієтичного підходу, пов'язаного з маркерами сповільнення старіння, але асоціації не доводять причинності, і потрібні подальші дослідження.",
+          "takeaways": [
+            "Дослідники вивчали десять дієтичних підходів і знайшли зв'язки з показниками біологічного старіння.",
+            "Серед згаданих підходів — середземноморська, північна, рослинна дієти та дієта DASH.",
+            "Дослідження повідомляє про асоціації; воно не демонструє, що прийняття певної дієти однозначно сповільнить старіння."
+          ]
+        },
+        "fr": {
+          "title": "Une étude identifie plusieurs régimes alimentaires associés à un ralentissement du vieillissement biologique",
+          "summary": "Une étude du DZNE rapportée sur ScienceDaily et publiée dans Nature Communications a trouvé des associations entre dix schémas alimentaires (dont le régime méditerranéen, nordique, à base de plantes et le DASH) et des mesures d'un vieillissement biologique plus lent.",
+          "whyItMatters": "Les résultats suggèrent qu'il existe plus d'un schéma alimentaire associé à des marqueurs de vieillissement plus lent, mais les associations ne prouvent pas la causalité et des recherches supplémentaires sont nécessaires.",
+          "takeaways": [
+            "Les chercheurs ont examiné dix schémas alimentaires et ont trouvé des liens avec des mesures du vieillissement biologique.",
+            "Parmi les schémas mentionnés figurent le régime méditerranéen, le régime nordique, les régimes à base de plantes et le régime DASH.",
+            "L'étude rapporte des associations ; elle ne démontre pas que l'adoption d'un régime unique ralentira de manière définitive le vieillissement."
+          ]
+        },
+        "de": {
+          "title": "Studie identifiziert mehrere gesunde Ernährungsmuster, die mit verlangsamter biologischer Alterung verbunden sind",
+          "summary": "Eine DZNE‑Studie, berichtet auf ScienceDaily und veröffentlicht in Nature Communications, fand Assoziationen zwischen zehn Ernährungsweisen (darunter mediterrane, nordische, pflanzenbasierte und DASH) und Maßzahlen der biologischen Alterung.",
+          "whyItMatters": "Die Ergebnisse deuten darauf hin, dass mehr als ein Ernährungsstil mit Markern langsameren Alterns verbunden sein kann, doch Assoziationen beweisen keine Kausalität und weitere Forschung ist nötig.",
+          "takeaways": [
+            "Forscher untersuchten zehn Ernährungsweisen und fanden Verbindungen zu Messgrößen der biologischen Alterung.",
+            "Erwähnte Muster umfassen die mediterrane, nordische, pflanzenbasierte Ernährung und die DASH‑Diät.",
+            "Die Studie berichtet über Assoziationen; sie zeigt nicht, dass die Annahme einer bestimmten Ernährung definitiv das Altern verlangsamt."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo encontra vários padrões alimentares saudáveis associados ao envelhecimento biológico mais lento",
+          "summary": "Um estudo do DZNE, divulgado no ScienceDaily e publicado na Nature Communications, encontrou associações entre dez padrões alimentares (incluindo mediterrâneo, nórdico, à base de plantas e DASH) e medidas de envelhecimento biológico mais lento.",
+          "whyItMatters": "Os resultados sugerem que existe mais de um padrão alimentar associado a marcadores de envelhecimento mais lento, mas associações não provam causalidade e são necessárias mais pesquisas.",
+          "takeaways": [
+            "Os pesquisadores examinaram dez padrões alimentares e encontraram ligações com medidas de envelhecimento biológico.",
+            "Padrões mencionados incluem mediterrâneo, nórdico, à base de plantas e a dieta DASH.",
+            "O estudo relata associações; não demonstra que adotar qualquer dieta isoladamente irá, de forma definitiva, retardar o envelhecimento."
+          ]
+        },
+        "hu": {
+          "title": "Több egészséges étrendi minta is összefügghet lassabb biológiai öregedéssel",
+          "summary": "A DZNE-ről közölt ScienceDaily-riport és a Nature Communications-ban megjelent tanulmány szerint tíz étrendi minta (köztük a mediterrán, az északi, a növényi alapú és a DASH) asszociációt mutatott a lassabb biológiai öregedés mérőszámaival.",
+          "whyItMatters": "Az eredmények azt jelzik, hogy többféle étrendi mintázat is kapcsolatban állhat lassabb öregedési markerekkel, de az összefüggések nem bizonyítják az okozást, további kutatás szükséges.",
+          "takeaways": [
+            "A kutatók tíz étrendi mintát vizsgáltak, és kapcsolatokat találtak a biológiai öregedés mérőszámaival.",
+            "A vizsgált minták között szerepelt a mediterrán, az északi, a növényi alapú és a DASH étrend.",
+            "A tanulmány asszociációkat jelent; nem bizonyítja, hogy bármely egyes diéta követése egyértelműen lassítja az öregedést."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تجد أن أنماط غذائية متعددة مرتبطة بإبطاء شيخوخة بيولوجية",
+          "summary": "أفاد تقرير عن دراسة من DZNE نُشر في Nature Communications أن عشرة أنماط غذائية (بما في ذلك المتوسطي، والشمالي، والنباتي، ونمط DASH) ارتبطت بمقاييس تشير إلى تباطؤ الشيخوخة البيولوجية.",
+          "whyItMatters": "تشير النتائج إلى وجود أكثر من نمط غذائي واحد مرتبط بمؤشرات شيخوخة أبطأ، لكن هذه الارتباطات لا تثبت السببية وتحتاج لمزيد من البحث.",
+          "takeaways": [
+            "فحص الباحثون عشرة أنماط غذائية ووجدوا روابط مع مقاييس الشيخوخة البيولوجية.",
+            "تشمل الأنماط المذكورة النظام المتوسطي، والنظام الشمالي، والنظام النباتي، ونظام DASH.",
+            "تقدم الدراسة روابط ارتباطية؛ ولا تثبت أن اتباع أي نظام غذائي بمفرده سيبطئ الشيخوخة بصورة حاسمة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-find-10-different-diets-linked-to-slower-aging-7806c0b3593e",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-find-10-different-diets-linked-to-slower-aging-7806c0b3593e-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-find-10-different-diets-linked-to-slower-aging-7806c0b3593e-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds multiple healthy dietary patterns associated with slower biological aging.\nStory summary: A DZNE study reported on ScienceDaily and published in Nature Communications found associations between ten dietary patterns (including Mediterranean, Nordic, plant-based and DASH) and slower biological aging measures..\nCategory: Nutrition / Healthy ageing.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "scientists-found-a-link-between-mediterranean-diet-blood-markers--71010cf35733",
@@ -644,6 +1286,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Macrophages settle in the brain after sepsis, driving memory loss.\nStory summary: Researchers report that peripheral macrophages can infiltrate the hippocampus during acute infection, establish long-term residency, and trigger microglial activity that leads to loss of protective myelin — changes linked with lasting memory deficits. The coverage describes experimental research into immune–brain interactions after sepsis..\nCategory: Neuroscience / Brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "first-on-cnn-red-light-therapy-for-ivf-embryos-fd66394f3b96",
+      "category": "Reproduction / Research innovation",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/10/20/health/video/red-light-therapy-for-ivf-embryos-digvid",
+      "sourceTitle": "First on CNN: Red light therapy for IVF embryos",
+      "publishedAt": "2026-10-20T13:18:30.555Z",
+      "languages": {
+        "en": {
+          "title": "Early look at red light therapy being developed for IVF embryos",
+          "summary": "CNN reports on a new technology under development at Columbia University's fertility centre that uses red light therapy on IVF embryos; the piece is an exclusive first look rather than a report of completed clinical results.",
+          "whyItMatters": "Novel lab-to-clinic techniques can potentially affect IVF outcomes if validated, but development-stage technologies require clinical testing to establish safety and effectiveness.",
+          "takeaways": [
+            "The report covers a technology under development at a university fertility centre; it is not evidence that the approach is clinically proven.",
+            "Early-stage innovations need clinical validation before they can be recommended or widely adopted.",
+            "The article is a media exclusive providing an early view of ongoing research rather than peer-reviewed findings."
+          ]
+        },
+        "es": {
+          "title": "Primer vistazo a la terapia con luz roja para embriones de FIV",
+          "summary": "CNN informa sobre una nueva tecnología en desarrollo en el centro de fertilidad de la Universidad de Columbia que utiliza terapia con luz roja en embriones de FIV; la pieza es un primer vistazo exclusivo más que un informe de resultados clínicos concluyentes.",
+          "whyItMatters": "Las técnicas novedosas de laboratorio a clínica podrían afectar los resultados de la FIV si se validan, pero las tecnologías en fase de desarrollo requieren ensayos clínicos para demostrar seguridad y eficacia.",
+          "takeaways": [
+            "El reportaje trata sobre una tecnología en desarrollo en un centro universitario de fertilidad; no es evidencia de que el enfoque esté clínicamente probado.",
+            "Las innovaciones en fases tempranas necesitan validación clínica antes de poder recomendarse o adoptarse de forma generalizada.",
+            "El artículo es una exclusiva mediática que ofrece una visión temprana de una investigación en curso, no de hallazgos revisados por pares."
+          ]
+        },
+        "ru": {
+          "title": "Первый взгляд на терапию красным светом для эмбрионов ЭКО",
+          "summary": "CNN сообщает о новой технологии, разрабатываемой в репродуктивном центре Колумбийского университета, которая использует терапию красным светом для эмбрионов ЭКО; материал — эксклюзивный первый обзор, а не отчёт о завершённых клинических результатах.",
+          "whyItMatters": "Новые методы перехода от лаборатории к клинике могут повлиять на исходы ЭКО при условии валидации, но технологии на стадии разработки требуют клинической проверки для подтверждения безопасности и эффективности.",
+          "takeaways": [
+            "В репортаже описывается технология на стадии разработки в университетском центре репродуктологии; это не доказательство клинической эффективности.",
+            "Инновации на ранних этапах нуждаются в клинической валидации до их рекомендаций или широкого внедрения.",
+            "Статья — медийная эксклюзивная заметка, предоставляющая ранний обзор текущих исследований, а не материалы, прошедшие экспертное рецензирование."
+          ]
+        },
+        "uk": {
+          "title": "Раннє ознайомлення з терапією червоним світлом, що розробляється для ембріонів ЕКЗ",
+          "summary": "CNN повідомляє про нову технологію, що розробляється у центрі фертильності Колумбійського університету, яка застосовує терапію червоним світлом до ембріонів при ЕКЗ; матеріал є ексклюзивним попереднім оглядом, а не звітом про завершені клінічні результати.",
+          "whyItMatters": "Нові лабораторно‑клінічні підходи можуть потенційно вплинути на результати ЕКЗ за умови їх валідації, але технології на стадії розробки потребують клінічних випробувань для встановлення безпеки та ефективності.",
+          "takeaways": [
+            "У матеріалі йдеться про технологію, що розробляється в університетському центрі фертильності; це не доказ того, що підхід доведено клінічно.",
+            "Інновації на ранніх етапах потребують клінічної валідації, перш ніж їх можна буде рекомендувати або широко впроваджувати.",
+            "Стаття є медійним ексклюзивом, який дає раннє уявлення про поточні дослідження, а не про рецензовані результати."
+          ]
+        },
+        "fr": {
+          "title": "Premiers aperçus de la thérapie par lumière rouge pour les embryons en FIV",
+          "summary": "CNN rapporte une nouvelle technologie en développement au centre de fertilité de l'université Columbia qui utilise la thérapie par lumière rouge sur des embryons en FIV ; il s'agit d'un premier aperçu exclusif plutôt que d'un compte rendu de résultats cliniques aboutis.",
+          "whyItMatters": "Les techniques innovantes allant du laboratoire à la clinique peuvent potentiellement influencer les résultats de la FIV si elles sont validées, mais les technologies en développement nécessitent des essais cliniques pour établir leur sécurité et leur efficacité.",
+          "takeaways": [
+            "L'article couvre une technologie en cours de développement dans un centre universitaire de fertilité ; ce n'est pas une preuve que l'approche soit cliniquement éprouvée.",
+            "Les innovations en phase précoce doivent être validées cliniquement avant de pouvoir être recommandées ou largement adoptées.",
+            "L'article est un exclusif médiatique offrant un premier aperçu des recherches en cours plutôt que des résultats publiés en revue par les pairs."
+          ]
+        },
+        "de": {
+          "title": "Erster Blick auf Rotlichttherapie, die für IVF‑Embryonen entwickelt wird",
+          "summary": "CNN berichtet über eine neue Technologie in Entwicklung am Fertilitätszentrum der Columbia University, die Rotlichttherapie an IVF‑Embryonen einsetzt; der Beitrag ist eine exklusive Vorschau und kein Bericht über abgeschlossene klinische Ergebnisse.",
+          "whyItMatters": "Neue Labor‑zu‑Klinik‑Techniken könnten, falls validiert, IVF‑Ergebnisse beeinflussen, doch Technologien im Entwicklungsstadium erfordern klinische Prüfungen, um Sicherheit und Wirksamkeit zu belegen.",
+          "takeaways": [
+            "Der Bericht behandelt eine am Universitäts‑Fertilitätszentrum in Entwicklung befindliche Technologie; er ist kein Beleg für klinische Wirksamkeit.",
+            "Innovationen im frühen Stadium benötigen klinische Validierung, bevor sie empfohlen oder breit übernommen werden können.",
+            "Der Artikel ist eine Medienexklusivmeldung, die einen frühen Einblick in laufende Forschung bietet, keine Peer‑reviewten Ergebnisse."
+          ]
+        },
+        "pt-br": {
+          "title": "Primeiro olhar: terapia com luz vermelha em desenvolvimento para embriões de FIV",
+          "summary": "A CNN relata uma nova tecnologia em desenvolvimento no centro de fertilidade da Columbia University que usa terapia com luz vermelha em embriões de FIV; a matéria é uma prévia exclusiva, não um relato de resultados clínicos concluídos.",
+          "whyItMatters": "Técnicas inovadoras do laboratório para a clínica podem potencialmente afetar os resultados de FIV se validadas, mas tecnologias em estágio de desenvolvimento precisam de testes clínicos para estabelecer segurança e eficácia.",
+          "takeaways": [
+            "A reportagem cobre uma tecnologia em desenvolvimento num centro universitário de fertilidade; não é evidência de que o método seja clinicamente comprovado.",
+            "Inovações em estágio inicial precisam de validação clínica antes de poderem ser recomendadas ou amplamente adotadas.",
+            "O artigo é uma exclusiva da mídia que fornece uma visão inicial da pesquisa em andamento, não de achados revisados por pares."
+          ]
+        },
+        "hu": {
+          "title": "Első pillantás: vörös fényterápia fejlesztése IVF-embriókhoz",
+          "summary": "A CNN beszámol arról az új technológiáról, amelyet a Columbia Egyetem reprodukciós központjában fejlesztenek, és amely vörös fényterápiát alkalmaz IVF-embriókon; a cikk exkluzív bemutató, nem pedig kész klinikai eredmények ismertetése.",
+          "whyItMatters": "Az újszerű laboratóriumi fejlesztések befolyásolhatják az IVF kimenetelét, ha igazolják őket, de a fejlesztés korai szakaszában lévő technológiákat klinikai vizsgálatokkal kell ellenőrizni a biztonság és hatékonyság megállapításához.",
+          "takeaways": [
+            "A riport egy egyetemi reprodukciós központban fejlesztett technológiáról számol be; ez nem bizonyíték a klinikai hatékonyságra.",
+            "A korai stádiumban lévő innovációkat klinikai validáció nélkül nem lehet ajánlani vagy széles körben alkalmazni.",
+            "A cikk médiaexkluzív, és az folyamatban lévő kutatásról ad korai betekintést, nem lektorált eredményekről."
+          ]
+        },
+        "ar": {
+          "title": "نظرة مبكرة على علاج بالضوء الأحمر يُطوَّر لأجنة IVF",
+          "summary": "تغطي CNN تقنية جديدة قيد التطوير في مركز الخصوبة بجامعة كولومبيا تستخدم العلاج بالضوء الأحمر على أجنة IVF؛ والمادة هي نظرة حصرية أولية وليست تقريرًا عن نتائج سريرية مكتملة.",
+          "whyItMatters": "يمكن لتقنيات مختبرية جديدة أن تؤثر على نتائج IVF إذا تم التحقق من فعاليتها، لكن التقنيات في مرحلة التطوير تحتاج إلى اختبارات إكلينيكية لتأكيد السلامة والفعالية.",
+          "takeaways": [
+            "يغطي التقرير تقنية قيد التطوير في مركز جامعي للخصوبة؛ ولا يعد دليلاً على أن النهج مثبت سريريًا.",
+            "الابتكارات المبكرة بحاجة إلى تحقق سريري قبل التوصية بها أو اعتمادها على نطاق واسع.",
+            "المقال هو حصرية إعلامية تقدّم لمحة مبكرة عن بحث جارٍ بدلاً من نتائج محكَّمة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=first-on-cnn-red-light-therapy-for-ivf-embryos-fd66394f3b96",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/first-on-cnn-red-light-therapy-for-ivf-embryos-fd66394f3b96-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/first-on-cnn-red-light-therapy-for-ivf-embryos-fd66394f3b96-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Early look at red light therapy being developed for IVF embryos.\nStory summary: CNN reports on a new technology under development at Columbia University's fertility centre that uses red light therapy on IVF embryos; the piece is an exclusive first look rather than a report of completed clinical results..\nCategory: Reproduction / Research innovation.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "the-everyday-movements-that-may-reveal-your-longevity-according-t-990fcca865c7",
@@ -3463,6 +4212,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Research suggests perinatal therapy for depression may have positive effects on infant brain development.\nStory summary: This article discusses research indicating that treating depression during pregnancy may confer advantages for the child’s brain development. The piece frames therapy during pregnancy as potentially beneficial for both parent and offspring..\nCategory: neuroscience and brain science / nutrition and development.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "can-social-media-bans-protect-young-people-s-mental-health-early--a8c30a75e7a0",
+      "category": "Neuroscience / Mental health policy",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/can-social-media-bans-protect-young-peoples-mental-health-early-research-suggests-that-bans-arent-the-answer-291629",
+      "sourceTitle": "Can social media bans protect young people’s mental health? Early research suggests that bans aren’t the answer",
+      "publishedAt": "2026-10-16T12:21:00Z",
+      "languages": {
+        "en": {
+          "title": "Early research suggests social media bans are unlikely to be a simple solution for young people's mental health",
+          "summary": "A Conversation commentary summarizes emerging research indicating that bans alone are not an effective safeguard for young people's mental health, noting that young people often find ways around restrictions.",
+          "whyItMatters": "Policy measures aimed at digital exposures to protect mental health need evidence-based design; early research suggests that blanket platform bans may not produce the intended benefits.",
+          "takeaways": [
+            "Early studies and commentary argue that bans are not a straightforward solution because young people may circumvent safeguards.",
+            "The piece highlights limitations of current evidence and the need for nuanced, evidence-informed policies.",
+            "This is a policy-focused commentary summarizing early research rather than new clinical trial data."
+          ]
+        },
+        "es": {
+          "title": "Investigaciones tempranas sugieren que las prohibiciones de redes sociales no son una solución simple para la salud mental de los jóvenes",
+          "summary": "Un comentario en The Conversation resume investigaciones emergentes que indican que las prohibiciones por sí solas no protegen eficazmente la salud mental de los jóvenes, y señala que los jóvenes con frecuencia encuentran formas de eludir las restricciones.",
+          "whyItMatters": "Las medidas políticas dirigidas a las exposiciones digitales para proteger la salud mental necesitan un diseño basado en la evidencia; la investigación temprana sugiere que las prohibiciones generales de plataformas pueden no producir los beneficios previstos.",
+          "takeaways": [
+            "Estudios iniciales y comentarios sostienen que las prohibiciones no son una solución sencilla porque los jóvenes pueden eludir las salvaguardas.",
+            "El artículo destaca las limitaciones de la evidencia actual y la necesidad de políticas matizadas e informadas por datos.",
+            "Se trata de un comentario centrado en políticas que resume investigaciones tempranas más que nuevos datos de ensayos clínicos."
+          ]
+        },
+        "ru": {
+          "title": "Ранние исследования показывают, что запреты в соцсетях вряд ли станут простым решением для психического здоровья молодёжи",
+          "summary": "Комментарий в The Conversation суммирует появляющиеся исследования, указывающие на то, что одни только запреты не являются эффективной защитой психического здоровья молодёжи, при этом отмечается, что молодые люди часто находят способы обойти ограничения.",
+          "whyItMatters": "Политические меры, направленные на цифровые воздействия для защиты психического здоровья, должны основываться на доказательствах; ранние исследования предполагают, что повсеместные запреты платформ могут не дать ожидаемых выгод.",
+          "takeaways": [
+            "Ранние исследования и комментарии утверждают, что запреты не являются простым решением, поскольку молодёжь может обходить меры защиты.",
+            "В работе подчёркиваются ограничения имеющихся доказательств и необходимость тонко настроенных, обоснованных политик.",
+            "Это политически ориентированный комментарий, который суммирует ранние исследования, а не новые данные клинических испытаний."
+          ]
+        },
+        "uk": {
+          "title": "Ранні дослідження вказують, що заборони в соцмережах навряд чи є простим рішенням для психічного здоров'я молоді",
+          "summary": "Коментар у The Conversation узагальнює нові дослідження, що свідчать: самі по собі заборони не є ефективним захистом психічного здоров'я молодих людей, зазначаючи, що молоді часто знаходять способи обійти обмеження.",
+          "whyItMatters": "Політичні заходи, спрямовані на цифрові впливи для захисту психічного здоров'я, повинні базуватися на доказах; ранні дослідження вказують, що загальні заборони платформ можуть не принести очікуваних результатів.",
+          "takeaways": [
+            "Ранні дослідження та коментарі стверджують, що заборони не є простим рішенням, оскільки молоді можуть обходити заходи безпеки.",
+            "У статті підкреслюються обмеження наявних доказів і потреба в продуманих, заснованих на доказах політиках.",
+            "Це коментар з акцентом на політику, що підсумовує ранні дослідження, а не нові дані клінічних випробувань."
+          ]
+        },
+        "fr": {
+          "title": "Les premières recherches suggèrent que les interdictions des réseaux sociaux ne sont probablement pas une solution simple pour la santé mentale des jeunes",
+          "summary": "Un commentaire de The Conversation résume des recherches émergentes indiquant que les seules interdictions ne constituent pas une protection efficace pour la santé mentale des jeunes, notant que les jeunes trouvent souvent des moyens de contourner les restrictions.",
+          "whyItMatters": "Les mesures politiques visant les expositions numériques pour protéger la santé mentale doivent être fondées sur des preuves ; les premières recherches suggèrent que des interdictions généralisées de plateformes peuvent ne pas produire les bénéfices attendus.",
+          "takeaways": [
+            "Les premières études et commentaires soutiennent que les interdictions ne sont pas une solution simple, car les jeunes peuvent contourner les protections.",
+            "L'article met en évidence les limites des preuves actuelles et la nécessité de politiques nuancées et fondées sur des preuves.",
+            "Il s'agit d'un commentaire axé sur la politique résumant des recherches initiales plutôt que de nouvelles données d'essais cliniques."
+          ]
+        },
+        "de": {
+          "title": "Frühe Forschung legt nahe, dass Social‑Media‑Verbote keine einfache Lösung für die psychische Gesundheit junger Menschen sind",
+          "summary": "Ein Kommentar in The Conversation fasst aufkommende Forschung zusammen, die darauf hinweist, dass Verbote allein kein wirksamer Schutz für die psychische Gesundheit junger Menschen sind, und verweist darauf, dass Jugendliche oft Wege finden, Beschränkungen zu umgehen.",
+          "whyItMatters": "Politische Maßnahmen zur Begrenzung digitaler Expositionen zum Schutz der psychischen Gesundheit sollten evidenzbasiert gestaltet werden; frühe Forschung legt nahe, dass pauschale Plattform‑Verbote möglicherweise nicht die beabsichtigten Vorteile bringen.",
+          "takeaways": [
+            "Frühe Studien und Kommentare argumentieren, dass Verbote keine einfache Lösung sind, weil junge Menschen Schutzmaßnahmen oft umgehen können.",
+            "Der Beitrag betont die Grenzen der aktuellen Evidenz und den Bedarf an nuancierten, evidenzinformierten Politiken.",
+            "Es handelt sich um einen politikorientierten Kommentar, der frühe Forschung zusammenfasst, nicht um neue klinische Studiendaten."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisas iniciais sugerem que proibições de redes sociais não são solução simples para saúde mental de jovens",
+          "summary": "Um comentário no The Conversation resume pesquisas emergentes indicando que proibições isoladas não são uma salvaguarda eficaz para a saúde mental de jovens, observando que eles frequentemente encontram maneiras de contornar as restrições.",
+          "whyItMatters": "Medidas políticas voltadas à exposição digital para proteger a saúde mental precisam ser projetadas com base em evidências; pesquisas iniciais sugerem que proibições generalizadas de plataformas podem não produzir os benefícios pretendidos.",
+          "takeaways": [
+            "Estudos e comentários iniciais defendem que proibições não são uma solução simples porque jovens podem contornar as salvaguardas.",
+            "O texto destaca limitações das evidências atuais e a necessidade de políticas nuançadas e informadas por evidências.",
+            "Trata‑se de um comentário com foco em políticas que resume pesquisas iniciais, não de novos dados de ensaios clínicos."
+          ]
+        },
+        "hu": {
+          "title": "Korai kutatások szerint a közösségi médiára vonatkozó tiltások valószínűleg nem egyszerű megoldás a fiatalok mentális egészségére",
+          "summary": "A The Conversation kommentárja összefoglalja a megjelenő kutatásokat, amelyek szerint önmagában a tiltások nem hatékony védőeszközök a fiatalok mentális egészségére, és megjegyzi, hogy a fiatalok gyakran kikerülik a korlátozásokat.",
+          "whyItMatters": "A digitális kitettség csökkentését célzó politikáknak bizonyítékokon kell alapulniuk; a korai kutatások szerint a platformok egyszerű tiltása nem biztos, hogy eléri a kívánt hatást.",
+          "takeaways": [
+            "Korai tanulmányok és kommentárok azt állítják, hogy a tiltások nem egyértelmű megoldást jelentenek, mivel a fiatalok megkerülhetik a korlátozásokat.",
+            "A cikk kiemeli a jelenlegi bizonyítékok korlátait és a finomhangolt, bizonyítékokra épülő politikák szükségességét.",
+            "Ez egy politikaorientált kommentár, amely korai kutatásokat foglal össze, nem pedig új klinikai vizsgálati adatokat közöl."
+          ]
+        },
+        "ar": {
+          "title": "أبحاث مبكرة تشير إلى أن حظر منصات التواصل الاجتماعي ليس حلًا بسيطًا لصحة الشباب النفسية",
+          "summary": "يلخّص تعليق في The Conversation أبحاثًا ناشئة تدل على أن الحظر وحده ليس وسيلة فعّالة لحماية الصحة النفسية للشباب، مشيرًا إلى أن الشباب غالبًا ما يجدون طرقًا لتجاوز القيود.",
+          "whyItMatters": "يجب أن تستند السياسات التي تستهدف التعرض الرقمي لحماية الصحة النفسية إلى الأدلة؛ وتوحي الأبحاث المبكرة بأن الحظر الشامل للمنصات قد لا يحقّق النتائج المرجوة.",
+          "takeaways": [
+            "تجادل دراسات وتعليقات مبكرة بأن الحظر ليس حلاً مباشراً لأن الشباب قد يتجاوزون أدوات الحماية.",
+            "يبرز المقال قيود الأدلة الحالية والحاجة إلى سياسات مدروسة ومبنية على الأدلة.",
+            "هذا تعليق يركّز على السياسات ويُلخّص أبحاثًا مبكرة بدلاً من تقديم بيانات تجارب سريرية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=can-social-media-bans-protect-young-people-s-mental-health-early--a8c30a75e7a0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-social-media-bans-protect-young-people-s-mental-health-early-a8c30a75e7a0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-social-media-bans-protect-young-people-s-mental-health-early-a8c30a75e7a0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Early research suggests social media bans are unlikely to be a simple solution for young people's mental health.\nStory summary: A Conversation commentary summarizes emerging research indicating that bans alone are not an effective safeguard for young people's mental health, noting that young people often find ways around restrictions..\nCategory: Neuroscience / Mental health policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "does-adding-yeast-to-whey-protein-help-muscle-recovery-after-exer-82456f6ec2e7",
@@ -106267,6 +107123,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-22-motivation-1-story-1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Anna plans ahead",
+          "story": "Anna started packing a simple lunch three times a week so she wouldn't guess at portions when she was hungry. Each morning she spends a few minutes planning and logging what she'll take. After a couple of weeks she noticed fewer rushed takeout decisions and felt calmer at midday. Tracking became a small, steady habit—just a quick note about what she made and why. That gentle routine helped Anna learn what works for her schedule and tastes without pressure.",
+          "habit": "Plan and log one lunch the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Ana planifica con tiempo",
+          "story": "Ana empezó a preparar un almuerzo sencillo tres veces por semana para no tener que adivinar las raciones cuando le daba hambre. Por la mañana dedica unos minutos a planificar y anotar lo que llevará. Al cabo de unas semanas notó menos pedidos improvisados y se sintió más tranquila a mediodía. Registrar pasó a ser un hábito pequeño y constante: una nota rápida sobre lo que preparó y por qué. Esa rutina le ayudó a entender qué le funciona sin presiones.",
+          "habit": "Planifica y registra un almuerzo la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Анна планирует заранее",
+          "story": "Анна стала готовить простой обед три раза в неделю, чтобы не угадывать порции, когда проголодается. Утром она тратит пару минут на план и запись того, что возьмет с собой. Через пару недель она заметила, что реже заказывает еду на ходу, и чувствовала себя спокойнее в обеденное время. Ведение записей стало небольшим устойчивым ритуалом — быстрой пометкой о том, что приготовлено и зачем. Эта спокойная привычка помогла Анне понять, что подходит её рутине и вкусу.",
+          "habit": "Спланируй и запиши один обед накануне.",
+          "appCta": "Открой Calorie Bank Credit и веди запись сегодня."
+        },
+        "uk": {
+          "title": "Ганна планує наперед",
+          "story": "Ганна почала готувати простий обід тричі на тиждень, щоб не вгадувати з порціями, коли дуже хочеться їсти. Вранці вона приділяє кілька хвилин, щоб спланувати і занотувати, що візьме з собою. За кілька тижнів вона помітила менше спонтанних замовлень і стала спокійнішою опівдні. Ведення записів стало маленькою впорядкованою звичкою — лише швидка нотатка про те, що приготувала і чому. Ця м’яка рутина допомогла їй зрозуміти, що працює для її графіка та смаків.",
+          "habit": "Сплануй і запиши один обід напередодні.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні."
+        },
+        "fr": {
+          "title": "Anna anticipe ses repas",
+          "story": "Anna a commencé à préparer un déjeuner simple trois fois par semaine pour éviter d’estimer les portions à la va-vite. Chaque matin, elle prend quelques minutes pour planifier et noter ce qu’elle apportera. Au bout de quelques semaines, elle a constaté moins d’achats impulsifs et se sentait plus sereine à midi. Le suivi est devenu une petite routine régulière — une note rapide sur ce qu’elle a préparé et pourquoi. Cette habitude douce l’a aidée à savoir ce qui convient à son rythme et à ses goûts.",
+          "habit": "Planifiez et notez un déjeuner la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Anna plant voraus",
+          "story": "Anna begann, drei Mal pro Woche ein einfaches Mittagessen vorzubereiten, damit sie hungrig nicht über Portionen rätseln muss. Morgens nimmt sie sich ein paar Minuten, um zu planen und einzutragen, was sie mitnimmt. Nach ein paar Wochen bestellten sie seltener spontan außer Haus und fühlte sich mittags ruhiger. Das Protokollieren wurde zur kleinen, beständigen Gewohnheit – eine kurze Notiz darüber, was sie zubereitet hat und warum. Diese sanfte Routine half ihr zu erkennen, was zu ihrem Alltag und Geschmack passt.",
+          "habit": "Plane und notiere ein Mittagessen am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Ana planeja com antecedência",
+          "story": "Ana começou a levar um almoço simples três vezes por semana para não ficar tentando adivinhar porções quando bate a fome. Pela manhã ela gasta alguns minutos planejando e registrando o que vai levar. Após algumas semanas percebeu menos pedidos por impulso e mais tranquilidade na hora do almoço. Registrar virou um hábito pequeno e constante — uma anotação rápida sobre o que preparou e por quê. Essa rotina suave ajudou Ana a entender o que funciona para sua rotina e gostos.",
+          "habit": "Planeje e registre um almoço na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Anna előre tervez",
+          "story": "Anna heti háromszor egyszerű ebédet pakol össze, hogy éhség közben ne kelljen találgatni a mennyiséget. Reggel pár percet szán arra, hogy megtervezze és rögzítse, mit visz magával. Néhány hét után kevesebb impulzusvásárlást tapasztalt, és nyugodtabbnak érezte magát ebédidőben. A naplózás egy kis, következetes rutinná vált — egy gyors feljegyzés arról, mit készített és miért. Ez a lágy szokás segített Annának felismerni, mi működik az életmódjához és ízléséhez.",
+          "habit": "Tervezd meg és jegyezd fel az egyik ebédet előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "آنا تخطط مسبقًا",
+          "story": "بدأت آنا بتحضير غداء بسيط ثلاث مرات في الأسبوع حتى لا تضطر للتخمين بشأن الحصص عندما تشعر بالجوع. تقضي بضع دقائق كل صباح في التخطيط وتسجيل ما ستأخذه معها. بعد بضعة أسابيع لاحظت أنها تقلل من طلبات الطعام المتسرعة وتشعر بهدوء أكبر عند الظهيرة. أصبح التتبع عادة صغيرة وثابتة — مجرد ملاحظة سريعة حول ما أعدته ولماذا. ساعدها هذا الروتين اللطيف على معرفة ما يناسب جدولها وذوقها.",
+          "habit": "خططي وسجّلي غداءً واحدًا في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Anna plans ahead.\nStory: Anna started packing a simple lunch three times a week so she wouldn't guess at portions when she was hungry. Each morning she spends a few minutes planning and logging what she'll take. After a couple of weeks she noticed fewer rushed takeout decisions and felt calmer at midday. Tracking became a small, steady habit—just a quick note about what she made and why. That gentle routine helped Anna learn what works for her schedule and tastes without pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-22-motivation-2-story-2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Jamal logs honestly",
+          "story": "When Jamal met friends for dinner he used to forget the little extras — a shared plate, a sauce, that second helping. He decided to practice honest logging: note the main dish and add the extras later if he remembered them. Over time Jamal stopped aiming for perfection and focused on capturing a realistic picture of his meals. That honest record helped him spot patterns — busy nights when he ate more or lighter evenings — without judgment, just useful information to adjust small choices.",
+          "habit": "Log your meal, then add extras later if needed.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Jamal registra con honestidad",
+          "story": "Cuando Jamal quedaba a cenar con amigos, solía olvidarse de los pequeños extras: un plato para compartir, una salsa, esa segunda ración. Empezó a practicar el registro honesto: anotar el plato principal y añadir los extras después si se acordaba. Con el tiempo dejó de buscar la perfección y se centró en reflejar una imagen realista de sus comidas. Ese registro sincero le permitió detectar patrones — noches ocupadas con más comida o cenas más ligeras — sin juicio, solo información útil.",
+          "habit": "Registra tu comida y añade extras después si hace falta.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Джамаль ведёт записи честно",
+          "story": "Когда Джамаль ужинал с друзьями, он часто забывал отмечать мелкие дополнения — общую тарелку, соус, добавку. Он стал практиковать честное внесение: сначала записывать основное блюдо, а потом дописывать мелочи, если вспомнит. Постепенно он перестал стремиться к идеалу и просто фиксировал реальную картину приёмов пищи. Этот искренний журнал помог ему заметить закономерности — насыщенные дни с большим аппетитом или более лёгкие вечера — без осуждения, лишь как полезная информация.",
+          "habit": "Записывай приём пищи, а потом добавляй мелочи при необходимости.",
+          "appCta": "Открой Calorie Bank Credit и веди записи сегодня."
+        },
+        "uk": {
+          "title": "Джамаль записує чесно",
+          "story": "Коли Джамаль зустрічався з друзями на вечерю, він часто забував про дрібні доповнення — спільну страву, соус чи друге. Він вирішив практикувати чесний запис: спочатку нотувати головну страву, а потім додати інше, якщо згадає. Згодом він перестав прагнути до ідеалу й зосередився на реальному відображенні харчування. Такий щирий журнал допоміг помітити закономірності — зайняті вечори з більшим апетитом або легші вечері — без осуду, лише як корисну інформацію.",
+          "habit": "Записуй прийом їжі, а потім додавай дрібниці за потреби.",
+          "appCta": "Відкрий Calorie Bank Credit і записуй сьогодні."
+        },
+        "fr": {
+          "title": "Jamal note honnêtement",
+          "story": "Quand Jamal dînait avec des amis, il oubliait souvent les petits extras — un plat partagé, une sauce, une seconde portion. Il a décidé d’adopter l’écriture honnête : noter d’abord le plat principal puis ajouter les extras ensuite si nécessaire. Petit à petit, il a arrêté de viser la perfection et s’est concentré sur une image réaliste de ses repas. Ce suivi sincère lui a permis de repérer des tendances — les soirs chargés où il mange davantage ou les soirées plus légères — sans jugement, juste de l’information utile.",
+          "habit": "Note ton repas, ajoute les extras ensuite si besoin.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre aujourd’hui."
+        },
+        "de": {
+          "title": "Jamal protokolliert ehrlich",
+          "story": "Wenn Jamal mit Freunden essen ging, vergaß er häufig die kleinen Extras — eine gemeinsame Platte, eine Sauce, die zweite Portion. Er begann, ehrlich zu protokollieren: erst das Hauptgericht notieren und Extras später hinzufügen, falls er sich erinnert. Mit der Zeit hörte er auf, Perfektion zu suchen, und konzentrierte sich darauf, ein realistisches Bild seiner Mahlzeiten zu erfassen. Dieses ehrliche Protokoll half ihm, Muster zu erkennen — hektische Abende mit mehr Essen oder leichtere Abende — ohne Bewertung, nur nützliche Informationen.",
+          "habit": "Protokolliere deine Mahlzeit und füge Extras später hinzu.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Jamal registra com honestidade",
+          "story": "Quando Jamal se encontrava com amigos para jantar, costumava esquecer os pequenos extras — um prato para compartilhar, um molho, aquela segunda porção. Ele decidiu praticar o registro honesto: anotar o prato principal e acrescentar os extras depois, se lembrasse. Com o tempo Jamal deixou de buscar perfeição e passou a focar em registrar uma imagem realista das refeições. Esse registro honesto o ajudou a identificar padrões — noites corridas com mais comida ou jantares mais leves — sem julgamentos, apenas informação útil.",
+          "habit": "Registre sua refeição e adicione extras depois, se precisar.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Jamal őszintén jegyez",
+          "story": "Ha Jamal barátokkal vacsorázott, gyakran megfeledkezett a kis kiegészítőkről — közös tányérról, öntetről vagy egy második adagokról. Eldöntötte, hogy gyakorolja az őszinte naplózást: először feljegyzi a főételt, és később hozzáadja a kiegészítőket, ha eszébe jutnak. Idővel abbahagyta a tökéletesség hajszolását, és a reális ételminták rögzítésére koncentrált. Ez az őszinte feljegyzés segített mintákat felismerni — forgalmas esték, amikor többet evett, vagy könnyebb esték — ítélkezés nélkül, csak hasznos információként.",
+          "habit": "Jegyezd fel az étkezést, majd add hozzá a kiegészítőket később.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "جمال يسجل بصدق",
+          "story": "عندما يخرج جمال لتناول العشاء مع الأصدقاء كان ينسى غالبًا الإضافات الصغيرة — طبق للمشاركة، صلصة، أو إعادة صغيرة. قرر أن يمارس التسجيل الصادق: تدوين الطبق الرئيسي ثم إضافة الإضافات لاحقًا إذا تذكرها. مع الوقت توقف جمال عن السعي للكمال وركز على تصوير واقعي لما يأكله. هذا السجل الصادق ساعده على ملاحظة الأنماط — الليالي المزدحمة التي يأكل فيها أكثر أو الأمسيات الأخف — دون حكم، فقط معلومات مفيدة لتعديل خيارات بسيطة.",
+          "habit": "سجّل وجبتك، ثم أضف الإضافات لاحقًا إذا لزم.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Jamal logs honestly.\nStory: When Jamal met friends for dinner he used to forget the little extras — a shared plate, a sauce, that second helping. He decided to practice honest logging: note the main dish and add the extras later if he remembered them. Over time Jamal stopped aiming for perfection and focused on capturing a realistic picture of his meals. That honest record helped him spot patterns — busy nights when he ate more or lighter evenings — without judgment, just useful information to adjust small choices..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-22-motivation-3-story-3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Marta notices patterns",
+          "story": "Marta started checking her weekly log on Sundays to see trends instead of judging single days. She noticed she ate lighter on days she slept well, and tended to snack more on long workdays. Seeing those patterns in her own entries felt empowering: it wasn't about blame, just useful signals she could respond to. With a few small adjustments — an extra glass of water on long days, a planned snack after meetings — Marta felt more intentional about choices and found tracking helped her plan, not perfect.",
+          "habit": "Review your weekly log for one pattern.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Marta detecta patrones",
+          "story": "Marta empezó a revisar su registro semanal los domingos para buscar tendencias en lugar de juzgar días aislados. Vio que comía más ligero tras dormir bien y que picaba más en jornadas largas de trabajo. Ver esos patrones en sus propias anotaciones le dio sensación de control: no se trataba de culpa, sino de señales útiles para actuar. Con pequeños ajustes — más agua en días largos, un tentempié planificado después de reuniones — Marta se sintió más intencional y el registro la ayudó a planear, no a buscar perfección.",
+          "habit": "Revisa tu registro semanal para detectar un patrón.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Марта замечает закономерности",
+          "story": "Марта стала просматривать свой недельный журнал по воскресеньям, чтобы видеть тенденции вместо оценок отдельных дней. Она заметила, что ест легче после хорошего сна и больше перекусывает в долгие рабочие дни. Видеть эти закономерности в собственных записях было ободряюще: это не вина, а полезные сигналы, на которые можно реагировать. С несколькими небольшими изменениями — больше воды в напряжённые дни, запланированный перекус после совещаний — Марта чувствовала себя более осознанно, и трекинг помог ей планировать, а не стремиться к идеалу.",
+          "habit": "Просмотрите недельный журнал, чтобы найти один паттерн.",
+          "appCta": "Открой Calorie Bank Credit и веди запись сегодня."
+        },
+        "uk": {
+          "title": "Марта помічає закономірності",
+          "story": "Марта почала переглядати свій тижневий журнал у неділю, щоб бачити тенденції замість того, щоб судити окремі дні. Вона помітила, що їсть легше після хорошого сну і більше перекушує у довгі робочі дні. Бачити ці закономірності у власних записах було підтримкою: це не вина, а корисні сигнали для дій. З кількома невеликими корективами — більше води у напружені дні, запланований перекус після зустрічей — Марта почувала себе більш усвідомлено, а відстеження допомагало планувати, а не прагнути до досконалості.",
+          "habit": "Переглянь свій тижневий журнал і знайди одне правило.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Marta repère des tendances",
+          "story": "Marta a pris l’habitude de consulter son journal hebdomadaire le dimanche pour repérer des tendances plutôt que de juger des jours isolés. Elle a remarqué qu’elle mangeait plus léger après une bonne nuit et grignotait davantage lors des longues journées de travail. Voir ces tendances dans ses propres notes lui a donné une certaine maîtrise : il ne s’agissait pas de culpabilité mais d’informations utiles. Avec quelques ajustements — un verre d’eau en plus les journées chargées, un encas planifié après les réunions — Marta s’est sentie plus intentionnelle, et le suivi l’a aidée à planifier plutôt qu’à viser la perfection.",
+          "habit": "Consultez votre journal hebdomadaire pour repérer une tendance.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Marta erkennt Muster",
+          "story": "Marta begann, sonntags ihr Wochenprotokoll anzuschauen, um Trends zu erkennen statt einzelne Tage zu bewerten. Sie stellte fest, dass sie nach gutem Schlaf leichter isst und an langen Arbeitstagen mehr snackt. Diese Muster in ihren eigenen Einträgen zu sehen fühlte sich bestärkend an: es ging nicht um Schuld, sondern um nützliche Hinweise, auf die sie reagieren konnte. Mit kleinen Anpassungen — ein zusätzliches Glas Wasser an stressigen Tagen, ein geplanter Snack nach Meetings — fühlte sich Marta bewusster und nutzte das Tracking zum Planen, nicht zum Perfektionieren.",
+          "habit": "Schaue dir dein Wochenprotokoll an und finde ein Muster.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Marta percebe padrões",
+          "story": "Marta passou a checar seu registro semanal aos domingos para ver tendências em vez de julgar dias isolados. Ela notou que comia mais leve quando dormia bem e que beliscava mais em dias longos de trabalho. Ver esses padrões nas próprias anotações a fez sentir-se mais no controle: não era culpa, mas sinais úteis para agir. Com alguns pequenos ajustes — um copo a mais de água em dias corridos, um lanche planejado após reuniões — Marta se sentiu mais intencional e o registro ajudou a planejar, não a buscar perfeição.",
+          "habit": "Revise seu registro semanal e identifique um padrão.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Marta észreveszi a mintákat",
+          "story": "Marta vasárnaponként átnézi a heti naplóját, hogy trendeket találjon ahelyett, hogy egy-egy napot ítélkezne meg. Észrevette, hogy könnyebben eszik, ha jól aludt, és többet nassol hosszú munkanapokon. Ezeknek a mintáknak a saját bejegyzéseiben való meglátása megerősítette: nem a bűntudatról szólt, hanem hasznos jelekről, amelyekre reagálhat. Néhány apró igazítással — több víz a zsúfolt napokon, tervezett nasi találkozók után — Marta szándékosabban hozott döntéseket, és a naplózás segített tervezni, nem tökéleteskedni.",
+          "habit": "Tekintsd át heti naplódat és találj egy mintát.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "مارتا تلاحظ الأنماط",
+          "story": "بدأت مارتا بمراجعة سجلها الأسبوعي أيام الأحد لرصد الاتجاهات بدلاً من الحكم على يوم واحد. لاحظت أنها تأكل أخف عندما تنام جيدًا، وتميل للتسالي أكثر في أيام العمل الطويلة. رؤية هذه الأنماط في ملاحظاتها أعطتها شعورًا بالقدرة: لم يكن الأمر لومًا، بل إشارات مفيدة يمكنها الاستجابة لها. مع بعض التعديلات الصغيرة — كوب ماء إضافي في الأيام المزدحمة، وجبة خفيفة مخططة بعد الاجتماعات — شعرت مارتا بأن خياراتها أصبحت أكثر وعيًا، وساعدها التتبع على التخطيط وليس السعي للكمال.",
+          "habit": "راجع سجل أسبوعك وابحث عن نمط واحد.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Marta notices patterns.\nStory: Marta started checking her weekly log on Sundays to see trends instead of judging single days. She noticed she ate lighter on days she slept well, and tended to snack more on long workdays. Seeing those patterns in her own entries felt empowering: it wasn't about blame, just useful signals she could respond to. With a few small adjustments — an extra glass of water on long days, a planned snack after meetings — Marta felt more intentional about choices and found tracking helped her plan, not perfect..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-22-motivation-4-story-4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Lukas tries small swaps",
+          "story": "Lukas liked his afternoon snack but realized it left him sluggish. Instead of cutting it out, he experimented with small swaps: a handful of nuts instead of chips, or fruit with yogurt instead of a pastry. He logged each variation and noted how he felt afterward. Those tiny changes made his routine feel manageable—no strict rules, just experiments logged honestly. Over days he learned which swaps suited his day and energy, and found that tracking helped him tune everyday choices to how he wanted to feel.",
+          "habit": "Make one small swap and log how you feel.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Lucas prueba cambios pequeños",
+          "story": "A Lucas le gustaba su snack de la tarde pero notaba que se sentía pesado después. En vez de eliminarlo, probó pequeños cambios: un puñado de frutos secos en lugar de patatas o fruta con yogur en lugar de un bollo. Registró cada opción y anotó cómo se sentía después. Esos pequeños ajustes hicieron que su rutina fuera manejable: sin reglas estrictas, solo experimentos sinceros. Con los días vio qué cambios le iban mejor y comprobó que el registro le ayudaba a adaptar decisiones diarias a cómo quería sentirse.",
+          "habit": "Haz un pequeño cambio y registra cómo te sientes.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Лукаш пробует небольшие замены",
+          "story": "Лукаш любил полдник, но замечал, что после него чувствует вялость. Вместо того чтобы отказываться, он стал пробовать небольшие замены: горсть орехов вместо чипсов или фрукты с йогуртом вместо булочки. Он записывал каждый вариант и отмечал своё самочувствие после. Эти мелкие изменения сделали его привычки более управляемыми — никаких строгих правил, только честные эксперименты. Со временем он понял, какие замены подходят ему по энергии в течение дня, а трекинг помог точнее подбирать ежедневные решения.",
+          "habit": "Сделай одну небольшую замену и запиши самочувствие.",
+          "appCta": "Открой Calorie Bank Credit и веди запись сегодня."
+        },
+        "uk": {
+          "title": "Лукаш робить маленькі заміни",
+          "story": "Лукаш любив полуденний перекус, але помічав, що після нього стає млявим. Замість того, щоб відмовлятись, він почав експериментувати з невеликими замінами: жменя горіхів замість чіпсів або фрукти з йогуртом замість булочки. Він записував кожен варіант і відзначав, як почувався після. Ці дрібні зміни зробили рутину більш контрольованою — без суворих правил, просто чесні експерименти. Згодом він дізнався, які заміни підходять його енергії, і трекінг допоміг краще підлаштувати щоденні рішення.",
+          "habit": "Зроби одну маленьку заміну і занотуй самопочуття.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Lucas tente de petits changements",
+          "story": "Lucas appréciait son en-cas de l’après-midi mais se sentait souvent ralenti après. Plutôt que de le supprimer, il a testé de petits changements : une poignée de noix au lieu de chips, ou un fruit avec du yaourt plutôt qu’une viennoiserie. Il a noté chaque variante et comment il se sentait ensuite. Ces micro-ajustements ont rendu sa routine plus supportable — pas de règles strictes, juste des expériences consignées honnêtement. Au fil des jours, il a su quelles modifications convenaient à son énergie, et le suivi l’a aidé à affiner ses choix.",
+          "habit": "Faites un petit changement et notez comment vous vous sentez.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd’hui."
+        },
+        "de": {
+          "title": "Lukas probiert kleine Änderungen",
+          "story": "Lukas mochte seinen Nachmittagssnack, merkte aber, dass er sich danach schlapp fühlte. Statt ihn wegzulassen, probierte er kleine Tauschoptionen: eine Handvoll Nüsse statt Chips oder Obst mit Joghurt statt Gebäck. Er protokollierte jede Variante und notierte, wie er sich danach fühlte. Diese winzigen Veränderungen machten seine Routine überschaubarer — keine strengen Regeln, nur ehrlich dokumentierte Experimente. Mit der Zeit fand er heraus, welche Alternativen zu seiner Tagesenergie passten, und das Tracking half ihm, tägliche Entscheidungen besser abzustimmen.",
+          "habit": "Mache einen kleinen Tausch und notiere dein Befinden.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Lucas testa pequenas trocas",
+          "story": "Lucas gostava do lanche da tarde, mas percebeu que ficava lento depois. Em vez de cortar, ele experimentou pequenas trocas: um punhado de castanhas em vez de salgadinhos, ou fruta com iogurte em vez de um doce. Registrou cada variação e como se sentiu depois. Essas mudanças mínimas tornaram a rotina mais administrável — sem regras rígidas, só experimentos registrados com honestidade. Com o tempo descobriu quais trocas funcionavam com sua energia do dia, e o registro ajudou a ajustar escolhas diárias.",
+          "habit": "Faça uma pequena troca e registre como se sente.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Lukács apró cseréket próbál",
+          "story": "Lukács szerette a délutáni nassolást, de utána levertnek érezte magát. Ahelyett, hogy teljesen feladta volna, kis cseréket kezdett kipróbálni: egy marék dió chips helyett, vagy gyümölcs joghurttal süti helyett. Minden variációt rögzített és feljegyezte, hogyan érezte magát utána. Ezek az apró változtatások kezelhetőbbé tették a rutint — nincsenek szigorú szabályok, csak őszinte kísérletek feljegyezve. Napok alatt rájött, mely cserék illenek az energiájához, és a követés segített finomhangolni a napi döntéseket.",
+          "habit": "Végezz egy apró cserét és jegyezd fel, hogyan érzed magad.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "لوكاس يجرب تغييرات صغيرة",
+          "story": "كان لوكاس يحب وجبة العصر لكنه لاحظ شعوره بالخمول بعدها. بدلًا من إلغاءها جرب تغييرات صغيرة: قبضة من المكسرات بدلًا من رقائق، أو فاكهة مع زبادي بدلًا من معجنات. سجّل كل خيار ولاحظ كيف يشعر بعده. جعلت هذه التعديلات البسيطة روتينه أكثر قابلية للإدارة — لا قواعد صارمة، بل تجارب مسجلة بصدق. مع مرور الأيام عرف أي التغييرات تناسب طاقته اليومية، وساعده التتبع على ضبط خياراته اليومية بطريقة مناسبة.",
+          "habit": "قم بتغيير صغير واحد وسجّل شعورك.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-22T12:11:33.175Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-22-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Lukas tries small swaps.\nStory: Lukas liked his afternoon snack but realized it left him sluggish. Instead of cutting it out, he experimented with small swaps: a handful of nuts instead of chips, or fruit with yogurt instead of a pastry. He logged each variation and noted how he felt afterward. Those tiny changes made his routine feel manageable—no strict rules, just experiments logged honestly. Over days he learned which swaps suited his day and energy, and found that tracking helped him tune everyday choices to how he wanted to feel..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-21-motivation-1-story-1-meal-planner",
       "category": "calorie_tracking_motivation",
