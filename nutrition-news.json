@@ -1,8 +1,650 @@
 {
-  "generatedAt": "2026-10-25T11:53:18.711Z",
+  "generatedAt": "2026-10-26T13:26:39.791Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-dc8305754ff1",
+      "category": "AI and health literacy",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-they-embrace-informed-skepticism-283955",
+      "sourceTitle": "AI chatbots can be a valuable health resource for older adults – if they embrace ‘informed skepticism’",
+      "publishedAt": "2026-10-26T12:15:01Z",
+      "languages": {
+        "en": {
+          "title": "AI chatbots can be a valuable health resource for older adults – if they embrace ‘informed skepticism’",
+          "summary": "Commentary argues that conversational AI can help older adults navigate health information, but users need to evaluate credibility and quality of chatbot responses. The piece emphasizes critical thinking rather than unqualified trust in AI outputs.",
+          "whyItMatters": "As AI tools become more accessible, guidance on how to use them safely—especially by populations with unique needs like older adults—matters for reducing misinformation and supporting informed decisions. This is a perspective/recommendation piece rather than new empirical trial data.",
+          "takeaways": [
+            "AI chatbots may be useful for health information-gathering, but users should apply ‘informed skepticism’ and check sources.",
+            "Practical evaluation of answers (credibility, evidence basis) is important; this is guidance rather than evidence from a randomized or clinical study.",
+            "Tools, education and oversight are needed to ensure conversational AI helps without increasing harm or confusion."
+          ]
+        },
+        "es": {
+          "title": "Los chatbots de IA pueden ser un recurso de salud valioso para adultos mayores, si adoptan el ‘escepticismo informado’",
+          "summary": "Un comentario sostiene que la IA conversacional puede ayudar a las personas mayores a navegar la información sanitaria, pero que los usuarios deben evaluar la credibilidad y la calidad de las respuestas de los chatbots. El texto enfatiza el pensamiento crítico en lugar de una confianza no condicionada en los resultados de la IA.",
+          "whyItMatters": "A medida que las herramientas de IA se vuelven más accesibles, la orientación sobre cómo usarlas de forma segura —especialmente para poblaciones con necesidades específicas como las personas mayores— importa para reducir la desinformación y apoyar decisiones informadas. Esto es un artículo de perspectiva/recomendación, no datos empíricos nuevos de ensayos.",
+          "takeaways": [
+            "Los chatbots de IA pueden ser útiles para recopilar información sobre salud, pero los usuarios deberían aplicar ‘escepticismo informado’ y verificar las fuentes.",
+            "Es importante evaluar prácticamente las respuestas (credibilidad, base de evidencia); esto es una guía y no evidencia procedente de un estudio aleatorizado o clínico.",
+            "Se necesitan herramientas, educación y supervisión para que la IA conversacional ayude sin aumentar daños o confusión."
+          ]
+        },
+        "ru": {
+          "title": "Чат‑боты на основе ИИ могут быть полезным ресурсом для пожилых людей — при условии «информированного скептицизма»",
+          "summary": "В комментарии утверждается, что разговорный ИИ может помочь пожилым людям ориентироваться в медицинской информации, но пользователям следует оценивать достоверность и качество ответов чат‑ботов. В статье подчёркивается критическое мышление вместо безусловного доверия выводам ИИ.",
+          "whyItMatters": "По мере роста доступности инструментов ИИ важно давать рекомендации по их безопасному использованию — особенно для групп с особыми потребностями, таких как пожилые люди — чтобы снизить распространение дезинформации и поддержать информированные решения. Это точка зрения/рекомендация, а не новые эмпирические данные из испытаний.",
+          "takeaways": [
+            "Чат‑боты на основе ИИ могут быть полезны для поиска медицинской информации, но пользователям следует применять «информированный скептицизм» и проверять источники.",
+            "Практическая оценка ответов (достоверность, основанность на доказательствах) важна; это руководство, а не доказательство из рандомизированного или клинического исследования.",
+            "Необходимы инструменты, обучение и надзор, чтобы разговорный ИИ приносил пользу, не увеличивая вред или путаницу."
+          ]
+        },
+        "uk": {
+          "title": "Чат-боти ШІ можуть стати корисним джерелом медичної інформації для літніх людей — за умови «інформованого скептицизму»",
+          "summary": "Коментар стверджує, що розмовні ШІ можуть допомогти літнім людям орієнтуватися в медичній інформації, але користувачам потрібно оцінювати достовірність і якість відповідей чат-ботів. Уточнюється наголос на критичному мисленні замість беззастережної довіри до результатів ШІ.",
+          "whyItMatters": "Оскільки інструменти ШІ стають доступнішими, вказівки щодо безпечного використання — особливо для груп з особливими потребами, як літні люди — важливі для зменшення дезінформації і підтримки обґрунтованих рішень. Це — точка зору/рекомендація, а не нові емпіричні дані.",
+          "takeaways": [
+            "Чат-боти ШІ можуть бути корисними для збору медичної інформації, але користувачі повинні застосовувати «інформований скептицизм» і перевіряти джерела.",
+            "Практична оцінка відповідей (достовірність, підстава у доказах) важлива; це рекомендація, а не дані з рандомізованого або клінічного дослідження.",
+            "Потрібні інструменти, освіта та нагляд, щоб забезпечити, що розмовний ШІ допомагає, не спричиняючи шкоди чи плутанини."
+          ]
+        },
+        "fr": {
+          "title": "Les chatbots IA peuvent être une ressource utile pour la santé des personnes âgées — à condition d’adopter un « scepticisme informé »",
+          "summary": "Un article d’opinion soutient que l’IA conversationnelle peut aider les personnes âgées à s’y retrouver dans l’information sanitaire, mais que les utilisateurs doivent évaluer la crédibilité et la qualité des réponses des chatbots. L’article insiste sur la pensée critique plutôt que sur une confiance aveugle dans les résultats de l’IA.",
+          "whyItMatters": "À mesure que les outils d’IA deviennent plus accessibles, des conseils sur leur utilisation sûre — en particulier pour des populations aux besoins spécifiques comme les personnes âgées — sont importants pour réduire la désinformation et soutenir des décisions éclairées. Il s’agit d’un point de vue/recommandation plutôt que de nouvelles données empiriques d’essai.",
+          "takeaways": [
+            "Les chatbots IA peuvent être utiles pour recueillir des informations de santé, mais les utilisateurs devraient appliquer un « scepticisme informé » et vérifier les sources.",
+            "L’évaluation pratique des réponses (crédibilité, fondement probant) est importante ; il s’agit d’un guide plutôt que de preuves issues d’un essai randomisé ou clinique.",
+            "Des outils, de la formation et une supervision sont nécessaires pour s’assurer que l’IA conversationnelle aide sans augmenter les risques ou la confusion."
+          ]
+        },
+        "de": {
+          "title": "KI‑Chatbots können für ältere Erwachsene eine wertvolle Gesundheitsquelle sein – vorausgesetzt sie üben „informierte Skepsis“",
+          "summary": "Ein Kommentar argumentiert, dass konversationale KI älteren Erwachsenen helfen kann, Gesundheitsinformationen zu navigieren, dass Nutzerinnen und Nutzer aber die Glaubwürdigkeit und Qualität von Chatbot‑Antworten prüfen müssen. Der Beitrag betont kritisches Denken statt unkritisches Vertrauen in KI‑Ausgaben.",
+          "whyItMatters": "Da KI‑Tools zunehmend zugänglich werden, ist Anleitung zur sicheren Nutzung – besonders für Gruppen mit spezifischen Bedürfnissen wie ältere Erwachsene – wichtig, um Fehlinformationen zu reduzieren und informierte Entscheidungen zu unterstützen. Es handelt sich um eine Perspektive/Empfehlung und nicht um neue empirische Studiendaten.",
+          "takeaways": [
+            "KI‑Chatbots können beim Sammeln von Gesundheitsinformationen nützlich sein, aber Nutzende sollten „informierte Skepsis“ walten lassen und Antworten überprüfen.",
+            "Praktische Bewertung der Antworten (Glaubwürdigkeit, Evidenzbasis) ist wichtig; dies ist eine Anleitung und keine Evidenz aus randomisierten oder klinischen Studien.",
+            "Werkzeuge, Bildung und Aufsicht sind nötig, damit konversationelle KI hilft, ohne Schaden oder Verwirrung zu erhöhen."
+          ]
+        },
+        "pt-br": {
+          "title": "Chatbots de IA podem ser recurso valioso de saúde para idosos – se adotarem ‘ceticismo informado’",
+          "summary": "Um comentário defende que a IA conversacional pode ajudar idosos a navegar por informações de saúde, mas que os usuários precisam avaliar a credibilidade e a qualidade das respostas dos chatbots. O texto enfatiza pensamento crítico em vez de confiança irrestrita nas respostas da IA.",
+          "whyItMatters": "À medida que ferramentas de IA ficam mais acessíveis, orientações sobre como usá‑las com segurança — especialmente por populações com necessidades específicas como idosos — são importantes para reduzir desinformação e apoiar decisões informadas. Trata‑se de uma peça de posição/recomendação, não de novos dados empíricos de ensaios.",
+          "takeaways": [
+            "Chatbots de IA podem ser úteis para coletar informações de saúde, mas os usuários devem aplicar ‘ceticismo informado’ e checar as respostas.",
+            "Avaliar na prática as respostas (credibilidade, base em evidências) é importante; isto é uma orientação, não evidência de um estudo randomizado ou clínico.",
+            "Ferramentas, educação e supervisão são necessárias para garantir que a IA conversacional ajude sem aumentar danos ou confusão."
+          ]
+        },
+        "hu": {
+          "title": "Az AI csevegőrobotok hasznos egészségügyi források lehetnek idősebb felnőttek számára – ha alkalmazzák az „tájékozott szkepticizmust”",
+          "summary": "Egy kommentár azt állítja, hogy a beszélgető MI segíthet az idősebb felnőtteknek eligazodni az egészségügyi információk között, de a felhasználóknak értékelniük kell a chatbotválaszok hitelességét és minőségét. A cikk a kritikus gondolkodást hangsúlyozza a feltétel nélküli bizalom helyett.",
+          "whyItMatters": "Ahogy az MI-eszközök hozzáférhetőbbé válnak, az útmutatás arról, hogyan használják őket biztonságosan—különösen olyan csoportoknál, amelyeknek speciális igényei vannak, mint az idősebb felnőttek—fontos a félretájékoztatás csökkentése és a megalapozott döntéshozatal támogatása szempontjából. Ez egy nézőpont- és ajánlástétel, nem új empirikus vizsgálat.",
+          "takeaways": [
+            "A csevegőrobotok hasznosak lehetnek egészségügyi információgyűjtésre, de a felhasználóknak alkalmazniuk kell a „tájékozott szkepticizmust” és ellenőrizniük a forrásokat.",
+            "A válaszok gyakorlati értékelése (hitelesség, bizonyítékokon alapulás) fontos; ez útmutatás, nem véletlenszerűsített vagy klinikai vizsgálatból származó bizonyíték.",
+            "Eszközökre, oktatásra és felügyeletre van szükség, hogy a beszélgető MI segítsen anélkül, hogy növelné a kárt vagy a zavart."
+          ]
+        },
+        "ar": {
+          "title": "روبوتات المحادثة بالذكاء الاصطناعي يمكن أن تكون مصدرًا صحيًا مفيدًا لكبار السن – إذا اعتنقوا «الشكّ المستنير»",
+          "summary": "يجادل تعليق بأن الذكاء الاصطناعي الحوارِي يمكن أن يساعد كبار السن على التنقل في المعلومات الصحية، لكن على المستخدمين تقييم مصداقية وجودة إجابات الروبوتات. يركز المقال على التفكير النقدي بدلاً من الثقة غير المشروطة بمخرجات الذكاء الاصطناعي.",
+          "whyItMatters": "مع تزايد إمكانية الوصول إلى أدوات الذكاء الاصطناعي، يهم تقديم إرشادات حول كيفية استخدامها بأمان—خاصة للفئات ذات الاحتياجات الخاصة مثل كبار السن—للحد من المعلومات المضللة ودعم اتخاذ قرارات مستنيرة. هذا مقال رأي/توصية وليس بيانات جديدة من تجربة تجريبية.",
+          "takeaways": [
+            "قد تكون روبوتات المحادثة مفيدة لجمع المعلومات الصحية، لكن يجب على المستخدمين تطبيق «الشك المستنير» والتحقق من المصادر.",
+            "التقييم العملي للإجابات (المصداقية، أساسها الأدلة) مهم؛ هذا توجيه وليس دليلًا من دراسة عشوائية أو سريرية.",
+            "هناك حاجة لأدوات وتدريب وإشراف لضمان أن تساعد روبوتات المحادثة دون زيادة الضرر أو اللبس."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-dc8305754ff1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-dc8305754ff1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-dc8305754ff1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI chatbots can be a valuable health resource for older adults – if they embrace ‘informed skepticism’.\nStory summary: Commentary argues that conversational AI can help older adults navigate health information, but users need to evaluate credibility and quality of chatbot responses. The piece emphasizes critical thinking rather than unqualified trust in AI outputs..\nCategory: AI and health literacy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ai-detects-invisible-signs-of-pancreatic-cancer-years-before-diag-d9660cb5db6a",
+      "category": "AI in cancer detection",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+      "sourceTitle": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+      "publishedAt": "Mon, 26 Oct 2026 05:25:21 EDT",
+      "languages": {
+        "en": {
+          "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+          "summary": "A research report describes an AI system called REDMOD that identified subtle, earlier warning signs of pancreatic cancer on imaging an average of 475 days before clinical diagnosis. The report says REDMOD was nearly twice as sensitive as experienced radiologists at detecting these early changes.",
+          "whyItMatters": "Pancreatic cancer is often diagnosed late. If validated, earlier detection from imaging-augmented AI could shift diagnosis timelines, but the findings represent a reported research result that requires external validation and assessment of clinical impact.",
+          "takeaways": [
+            "REDMOD reportedly found imaging changes up to about 475 days before diagnosis and was more sensitive than radiologists in this study.",
+            "The work is presented as a research development; further validation, replication and clinical-effect studies are needed before routine use.",
+            "Earlier detection alone does not guarantee improved outcomes; subsequent steps include testing whether earlier identification leads to effective, safe interventions."
+          ]
+        },
+        "es": {
+          "title": "La IA detecta señales “invisibles” de cáncer de páncreas años antes del diagnóstico",
+          "summary": "Un informe de investigación describe un sistema de IA llamado REDMOD que identificó signos sutiles y más tempranos de cáncer de páncreas en imágenes, en promedio 475 días antes del diagnóstico clínico. El informe indica que REDMOD fue casi el doble de sensible que radiólogos experimentados para detectar estos cambios tempranos.",
+          "whyItMatters": "El cáncer de páncreas a menudo se diagnostica en fases avanzadas. Si se valida, la detección más temprana mediante IA que potencie la interpretación de imágenes podría cambiar los plazos de diagnóstico, pero los hallazgos son un resultado de investigación que requiere validación externa y evaluación del impacto clínico.",
+          "takeaways": [
+            "REDMOD habría detectado cambios en imágenes hasta aproximadamente 475 días antes del diagnóstico y mostró mayor sensibilidad que los radiólogos en este estudio.",
+            "El trabajo se presenta como un desarrollo de investigación; se necesitan más validación, replicación y estudios sobre el efecto clínico antes de un uso rutinario.",
+            "La detección más temprana por sí sola no garantiza mejores resultados; los siguientes pasos incluyen evaluar si la identificación previa conduce a intervenciones efectivas y seguras."
+          ]
+        },
+        "ru": {
+          "title": "ИИ обнаруживает «невидимые» признаки рака поджелудочной железы за годы до диагноза",
+          "summary": "В исследовательском отчёте описана система ИИ под названием REDMOD, которая выявляла тонкие, более ранние признаки рака поджелудочной железы на изображениях в среднем за 475 дней до клинического диагноза. В отчёте говорится, что в этом исследовании REDMOD был почти вдвое более чувствителен, чем опытные радиологи, при обнаружении этих ранних изменений.",
+          "whyItMatters": "Рак поджелудочной железы часто диагностируют поздно. Если результаты подтвердятся, более раннее обнаружение с помощью ИИ, дополняющего визуализацию, может сдвинуть сроки диагностики, но эти данные — результаты исследования, которые требуют внешней валидации и оценки клинического влияния.",
+          "takeaways": [
+            "По сообщению, REDMOD обнаруживал изменения в изображениях примерно за 475 дней до диагноза и в этом исследовании был более чувствителен, чем радиологи.",
+            "Работа представлена как исследовательское достижение; перед рутинным применением необходимы дополнительная валидация, повторные исследования и изучение клинического эффекта.",
+            "Раннее выявление само по себе не гарантирует улучшения исходов; необходимо проверить, приводит ли более ранняя идентификация к эффективным и безопасным вмешательствам."
+          ]
+        },
+        "uk": {
+          "title": "ШІ виявляє «невидимі» ознаки раку підшлункової залози за роки до діагнозу",
+          "summary": "Звіт описує систему ШІ під назвою REDMOD, яка виявляла тонкі ранні ознаки раку підшлункової залози на зображеннях в середньому за 475 днів до клінічного діагнозу. У звіті зазначено, що REDMOD був майже вдвічі чутливішим за досвідчених радіологів у виявленні цих ранніх змін.",
+          "whyItMatters": "Рак підшлункової залози часто діагностують на пізніх стадіях. Якщо результати підтвердяться, раннє виявлення за допомогою ШІ, що доповнює візуалізацію, могло б змістити часові рамки діагностики, але ці дані — дослідницький результат, який потребує зовнішньої валідації та оцінки клінічного впливу.",
+          "takeaways": [
+            "За повідомленням, REDMOD знаходив зміни на зображеннях приблизно за 475 днів до діагнозу й у цьому дослідженні був чутливішим за радіологів.",
+            "Робота подається як дослідницький розвиток; для рутинного застосування потрібні додаткова валідація, відтворення та дослідження клінічного ефекту.",
+            "Саме раннє виявлення не гарантує покращення результатів; наступні кроки включають перевірку, чи веде раннє виявлення до ефективних і безпечних втручань."
+          ]
+        },
+        "fr": {
+          "title": "L’IA détecte des signes « invisibles » du cancer du pancréas plusieurs années avant le diagnostic",
+          "summary": "Un rapport de recherche décrit un système d’IA nommé REDMOD qui a identifié des signes précoces et subtils du cancer du pancréas sur des images en moyenne 475 jours avant le diagnostic clinique. Le rapport indique que REDMOD était presque deux fois plus sensible que des radiologues expérimentés pour détecter ces changements précoces.",
+          "whyItMatters": "Le cancer du pancréas est souvent diagnostiqué tardivement. Si cela se confirme, une détection plus précoce grâce à une IA augmentant l’imagerie pourrait modifier les délais de diagnostic, mais les résultats rapportés sont des données de recherche nécessitant une validation externe et une évaluation de l’impact clinique.",
+          "takeaways": [
+            "REDMOD aurait repéré des changements sur les images jusqu’à environ 475 jours avant le diagnostic et s’est montré plus sensible que les radiologues dans cette étude.",
+            "Ce travail est présenté comme un développement de recherche ; une validation complémentaire, une réplication et des études sur l’effet clinique sont nécessaires avant un usage systématique.",
+            "Une détection plus précoce à elle seule n’assure pas une amélioration des résultats ; il faut vérifier si l’identification anticipée conduit à des interventions efficaces et sûres."
+          ]
+        },
+        "de": {
+          "title": "KI erkennt „unsichtbare“ Anzeichen von Bauchspeicheldrüsenkrebs Jahre vor der Diagnose",
+          "summary": "Ein Forschungsbericht beschreibt ein KI-System namens REDMOD, das subtile, frühere Warnzeichen von Bauchspeicheldrüsenkrebs in bildgebenden Untersuchungen im Durchschnitt 475 Tage vor der klinischen Diagnose identifizierte. Der Bericht gibt an, dass REDMOD in dieser Studie nahezu doppelt so sensitiv war wie erfahrene Radiologinnen und Radiologen bei der Erkennung dieser frühen Veränderungen.",
+          "whyItMatters": "Bauchspeicheldrüsenkrebs wird oft spät diagnostiziert. Wenn sich die Ergebnisse bestätigen, könnte eine durch Bildgebung ergänzte KI frühere Diagnosen ermöglichen und damit Zeitpunkte der Erkennung verschieben. Die berichteten Befunde sind jedoch Forschungsergebnisse, die externe Validierung und Bewertung des klinischen Nutzens erfordern.",
+          "takeaways": [
+            "REDMOD fand in der Studie bildgebende Veränderungen bis etwa 475 Tage vor der Diagnose und war gegenüber Radiologinnen und Radiologen empfindlicher.",
+            "Die Arbeit wird als Forschungsentwicklung präsentiert; vor einer routinemäßigen Anwendung sind weitere Validierung, Replikation und Studien zum klinischen Effekt erforderlich.",
+            "Frühere Erkennung allein garantiert keine besseren Behandlungsergebnisse; danach müssten geprüft werden, ob frühere Identifikation zu wirksamen und sicheren Interventionen führt."
+          ]
+        },
+        "pt-br": {
+          "title": "IA detecta sinais “invisíveis” de câncer de pâncreas anos antes do diagnóstico",
+          "summary": "Um relatório de pesquisa descreve um sistema de IA chamado REDMOD que identificou sinais sutis e precoces de câncer de pâncreas em imagens, em média 475 dias antes do diagnóstico clínico. O relatório afirma que, neste estudo, o REDMOD foi quase duas vezes mais sensível do que radiologistas experientes na detecção dessas alterações iniciais.",
+          "whyItMatters": "O câncer de pâncreas costuma ser diagnosticado tardiamente. Se confirmado, a detecção mais precoce com IA que complementa exames de imagem poderia antecipar o diagnóstico, mas os achados são resultados de pesquisa que precisam de validação externa e de avaliação do impacto clínico.",
+          "takeaways": [
+            "O REDMOD supostamente identificou alterações nas imagens até cerca de 475 dias antes do diagnóstico e foi mais sensível que radiologistas experientes neste estudo.",
+            "O trabalho é apresentado como um desenvolvimento de pesquisa; são necessárias mais validações, replicações e estudos sobre efeitos clínicos antes do uso rotineiro.",
+            "A detecção mais precoce por si só não garante melhores desfechos; o passo seguinte é testar se essa identificação antecipada leva a intervenções efetivas e seguras."
+          ]
+        },
+        "hu": {
+          "title": "A mesterséges intelligencia évekig „láthatatlan” jeleket észlelhet a hasnyálmirigyráknál a diagnózis előtt",
+          "summary": "Egy kutatási jelentés egy REDMOD nevű MI-rendszerről számol be, amely finom, korai figyelmeztető jeleket azonosított képalkotó vizsgálatokon átlagosan 475 nappal a klinikai diagnózis előtt. A jelentés szerint a REDMOD közel kétszer olyan érzékeny volt, mint tapasztalt radiológusok ezeknek a korai elváltozásoknak a felismerésében.",
+          "whyItMatters": "A hasnyálmirigyrák gyakran későn kerül felismerésre. Ha külsőleg is igazolják, a képalkotást kiegészítő MI korábbra tolhatja a felismerést, de ez a közlemény kutatási eredményt jelent, amely további validálást és a klinikai hatás felmérését igényli.",
+          "takeaways": [
+            "A jelentés szerint a REDMOD képalkotási eltéréseket talált akár mintegy 475 nappal a diagnózis előtt, és a vizsgálatban érzékenyebb volt, mint a radiológusok.",
+            "A munka kutatási fejlesztésként van bemutatva; a rutinszerű alkalmazás előtt további validálásra, reprodukálásra és klinikai hatásvizsgálatokra van szükség.",
+            "A korábbi felismerés önmagában nem garantál jobb kimeneteleket; további lépések szükségesek annak vizsgálatára, hogy a korábbi azonosítás vezet-e hatékony és biztonságos beavatkozásokhoz."
+          ]
+        },
+        "ar": {
+          "title": "الذكاء الاصطناعي يكشف عن علامات «غير مرئية» لسرطان البنكرياس قبل التشخيص بعدة سنوات",
+          "summary": "تصف رسالة بحثية نظام ذكاء اصطناعي يُدعى REDMOD حدَّد علامات تحذيرية دقيقة ومبكرة على الصور الطبية بمتوسط 475 يوماً قبل التشخيص السريري. وتقول الرسالة إن REDMOD كان تقريباً أكثر حساسية بمعدل الضعف مقارنة بأشعة ذوي خبرة في اكتشاف هذه التغيرات المبكرة.",
+          "whyItMatters": "غالبًا ما يُشخّص سرطان البنكرياس في مراحل متأخرة. إذا تم التحقق منه، قد يقدّم الذكاء الاصطناعي المدعوم بالتصوير إمكانات لكشف مبكر يغيّر توقيت التشخيص، لكن هذه النتائج تمثل نتيجة بحثية تتطلب تحققًا خارجيًا وتقييماً للأثر السريري.",
+          "takeaways": [
+            "ذكرت الرسالة أن REDMOD اكتشف تغيرات تصويرية حتى نحو 475 يومًا قبل التشخيص، وكان أكثر حساسية من الأشعة في هذه الدراسة.",
+            "العمل مقدم كتطوير بحثي؛ قبل الاستخدام الروتيني هناك حاجة لمزيد من التحقق والتكرار ودراسات التأثير السريري.",
+            "الكشف المبكر وحده لا يضمن تحسناً في النتائج؛ الخطوات التالية تشمل اختبار ما إذا كان التعرف المبكر يؤدي إلى تدخلات فعالة وآمنة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ai-detects-invisible-signs-of-pancreatic-cancer-years-before-diag-d9660cb5db6a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-detects-invisible-signs-of-pancreatic-cancer-years-before-diag-d9660cb5db6a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-detects-invisible-signs-of-pancreatic-cancer-years-before-diag-d9660cb5db6a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI detects “invisible” signs of pancreatic cancer years before diagnosis.\nStory summary: A research report describes an AI system called REDMOD that identified subtle, earlier warning signs of pancreatic cancer on imaging an average of 475 days before clinical diagnosis. The report says REDMOD was nearly twice as sensitive as experienced radiologists at detecting these early changes..\nCategory: AI in cancer detection.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "beer-wine-or-spirits-a-large-study-finds-different-mortality-patt-4bfba7cffcd6",
+      "category": "Nutrition & alcohol research",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261025/Beer-wine-or-spirits-A-large-study-finds-different-mortality-patterns-for-each.aspx",
+      "sourceTitle": "Beer, wine or spirits: A large study finds different mortality patterns for each",
+      "publishedAt": "Sun, 25 Oct 2026 20:01:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Beer, wine or spirits: A large study finds different mortality patterns for each",
+          "summary": "An observational analysis of 340,924 UK Biobank participants reported that higher total alcohol intake was associated with greater all-cause, cardiovascular and cancer mortality. The study found beverage-specific patterns: beer/cider and spirits were linked with higher mortality across several outcomes, while low-to-moderate wine consumption was associated with lower mortality for certain outcomes. The authors and report note that observational data cannot establish causation.",
+          "whyItMatters": "Large observational studies can reveal patterns that inform hypotheses and public health discussion, but they cannot prove that a type of alcohol causes different mortality risks due to potential confounding and bias.",
+          "takeaways": [
+            "Higher overall alcohol intake was associated with increased all-cause, cardiovascular and cancer mortality in this cohort analysis.",
+            "Different beverage types showed distinct associations (beer/cider and spirits with higher mortality; low-to-moderate wine with some lower-risk associations), but these are observational findings.",
+            "Because the study is not randomized, unmeasured factors could explain differences; the results do not prove causation and require careful interpretation."
+          ]
+        },
+        "es": {
+          "title": "Cerveza, vino o licores: un gran estudio encuentra patrones de mortalidad diferentes para cada uno",
+          "summary": "Un análisis observacional de 340,924 participantes del UK Biobank informó que una mayor ingesta total de alcohol se asoció con una mayor mortalidad por todas las causas, cardiovascular y por cáncer. El estudio encontró patrones específicos por tipo de bebida: la cerveza/ sidra y los licores se vincularon con mayor mortalidad en varios resultados, mientras que el consumo bajo a moderado de vino se asoció con menor mortalidad para ciertos desenlaces. Los autores y el informe señalan que los datos observacionales no pueden establecer causalidad.",
+          "whyItMatters": "Los grandes estudios observacionales pueden revelar patrones que informen hipótesis y el debate de salud pública, pero no pueden probar que un tipo de alcohol cause diferentes riesgos de mortalidad debido a confusión y sesgo potenciales.",
+          "takeaways": [
+            "En este análisis de cohorte, una mayor ingesta total de alcohol se asoció con un aumento de la mortalidad por todas las causas, cardiovascular y por cáncer.",
+            "Los diferentes tipos de bebidas mostraron asociaciones distintas (cerveza/sidra y licores con mayor mortalidad; vino en consumo bajo‑moderado con algunas asociaciones de menor riesgo), pero son hallazgos observacionales.",
+            "Dado que el estudio no es aleatorizado, factores no medidos podrían explicar las diferencias; los resultados no prueban causalidad y requieren interpretación cuidadosa."
+          ]
+        },
+        "ru": {
+          "title": "Пиво, вино или крепкие напитки: большое исследование обнаружило разные модели смертности для каждого вида",
+          "summary": "Наблюдательный анализ 340 924 участников UK Biobank сообщил, что более высокий общий уровень потребления алкоголя был связан с большим уровнем смертности по всем причинам, сердечно‑сосудистой и от рака. Исследование выявило характерные паттерны по типам напитков: пиво/сидр и крепкие напитки ассоциировались с повышенной смертностью по нескольким исходам, тогда как низкое‑умеренное потребление вина было связано с более низкой смертностью для некоторых исходов. Авторы и отчёт отмечают, что наблюдательные данные не могут установить причинность.",
+          "whyItMatters": "Крупные наблюдательные исследования могут выявлять закономерности, полезные для формулирования гипотез и обсуждения в сфере общественного здоровья, но они не доказывают, что определённый тип алкоголя вызывает разные риски смертности из‑за потенциальной путаницы факторов и смещения.",
+          "takeaways": [
+            "В этом когортном анализе более высокое общее потребление алкоголя было связано с повышением смертности по всем причинам, сердечно‑сосудистой и от рака.",
+            "Разные типы напитков показали разные ассоциации (пиво/сидр и крепкие напитки — с более высокой смертностью; вино при низком‑умеренном потреблении — с некоторыми ассоциациями пониженного риска), но это наблюдательные результаты.",
+            "Поскольку исследование не рандомизировано, немеряемые факторы могли объяснить различия; результаты не доказывают причинно‑следственной связи и требуют осторожной интерпретации."
+          ]
+        },
+        "uk": {
+          "title": "Пиво, вино чи спиртні напої: велике дослідження виявляє різні шаблони смертності для кожного з них",
+          "summary": "Наблюдальний аналіз 340 924 учасників UK Biobank повідомив, що вищий загальний вміст алкоголю був пов’язаний із більшою загальною, серцево-судинною та онкологічною смертністю. Дослідження виявило специфічні для напоїв закономірності: пиво/сидр і спиртні напої були пов'язані з вищою смертністю за кількома показниками, тоді як низьке–помірне споживання вина асоціювалося з нижчою смертністю для певних наслідків. Автори та звіт наголошують, що спостережні дані не можуть встановити причинність.",
+          "whyItMatters": "Великі спостережні дослідження можуть виявляти закономірності, що інформують гіпотези та громадське здоров’я, але вони не можуть довести, що певний тип алкоголю спричиняє різний ризик смертності через можливі конфундінг і упередження.",
+          "takeaways": [
+            "Вищий загальний вміст алкоголю був пов’язаний із підвищеною загальною, серцево-судинною та онкологічною смертністю в цьому когортному аналізі.",
+            "Різні типи напоїв показали різні асоціації (пиво/сидр та спиртні напої з вищою смертністю; низьке–помірне споживання вина з деякими асоціаціями з нижчим ризиком), але це — спостережні результати.",
+            "Оскільки дослідження не рандомізоване, невиміряні фактори можуть пояснювати відмінності; результати не доводять причинність і потребують обережної інтерпретації."
+          ]
+        },
+        "fr": {
+          "title": "Bière, vin ou spiritueux : une large étude trouve des profils de mortalité différents pour chacun",
+          "summary": "Une analyse observationnelle de 340 924 participants de l’UK Biobank a rapporté qu’un apport total plus élevé en alcool était associé à une mortalité plus élevée toutes causes, cardiovasculaire et liée au cancer. L’étude a trouvé des schémas spécifiques par boisson : la bière/cidre et les spiritueux étaient liés à une mortalité plus élevée pour plusieurs issues, tandis qu’une consommation faible à modérée de vin était associée à une mortalité moindre pour certains résultats. Les auteurs et le rapport notent que les données observationnelles ne peuvent pas établir de causalité.",
+          "whyItMatters": "Les grandes études observationnelles peuvent révéler des tendances qui nourrissent des hypothèses et le débat de santé publique, mais elles ne peuvent pas prouver qu’un type d’alcool cause des risques de mortalité différents en raison de possibles facteurs de confusion et biais.",
+          "takeaways": [
+            "Un apport global en alcool plus élevé était associé à une augmentation de la mortalité toutes causes, cardiovasculaire et liée au cancer dans cette analyse de cohorte.",
+            "Les différents types de boissons ont montré des associations distinctes (bière/cidre et spiritueux avec une mortalité plus élevée ; consommation faible à modérée de vin avec certaines associations à moindre risque), mais il s’agit de résultats observationnels.",
+            "Étant donné que l’étude n’est pas randomisée, des facteurs non mesurés pourraient expliquer les différences ; les résultats ne prouvent pas la causalité et doivent être interprétés avec prudence."
+          ]
+        },
+        "de": {
+          "title": "Bier, Wein oder Spirituosen: Eine große Studie findet unterschiedliche Sterblichkeitsmuster",
+          "summary": "Eine Beobachtungsanalyse von 340.924 Teilnehmenden des UK Biobank berichtete, dass ein höherer gesamter Alkoholkonsum mit erhöhter Gesamtsterblichkeit sowie erhöhter kardiovaskulärer und krebsbedingter Sterblichkeit verbunden war. Die Studie fand getränkespezifische Muster: Bier/Cider und Spirituosen standen mit höherer Sterblichkeit bei mehreren Endpunkten in Verbindung, während niedriger bis moderater Weinkonsum mit niedrigerer Sterblichkeit für bestimmte Endpunkte assoziiert war. Die Autorinnen und Autoren wiesen darauf hin, dass Beobachtungsdaten keine Kausalität nachweisen können.",
+          "whyItMatters": "Große Beobachtungsstudien können Muster aufzeigen, die Hypothesen und die öffentliche Diskussion informieren, sie können aber nicht beweisen, dass eine Alkoholart unterschiedliche Sterblichkeitsrisiken verursacht, da Confounding und Verzerrung vorliegen können.",
+          "takeaways": [
+            "Ein höherer Gesamtalkoholkonsum wurde in der Kohortenanalyse mit erhöhten Raten von Gesamtsterblichkeit, kardiovaskulärer und krebsbedingter Sterblichkeit assoziiert.",
+            "Unterschiedliche Getränketypen zeigten unterschiedliche Assoziationen (Bier/Cider und Spirituosen mit höherer Sterblichkeit; niedriger bis moderater Weinkonsum mit einigen niedrigeren Risikoassoziationen), aber es handelt sich um Beobachtungsbefunde.",
+            "Da die Studie nicht randomisiert ist, könnten ungeklärte Faktoren die Unterschiede erklären; die Ergebnisse beweisen keine Kausalität und müssen vorsichtig interpretiert werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Cerveja, vinho ou destilados: grande estudo encontra padrões de mortalidade diferentes para cada um",
+          "summary": "Uma análise observacional de 340.924 participantes do UK Biobank relatou que maior consumo total de álcool esteve associado a maior mortalidade por todas as causas, cardiovascular e por câncer. O estudo encontrou padrões específicos por bebida: cerveja/cidra e destilados foram ligados a maior mortalidade em vários desfechos, enquanto consumo baixo a moderado de vinho esteve associado a menor mortalidade para determinados desfechos. Os autores e o relatório observam que dados observacionais não podem estabelecer causalidade.",
+          "whyItMatters": "Grandes estudos observacionais podem revelar padrões que informam hipóteses e o debate em saúde pública, mas não podem provar que um tipo de bebida alcoólica causa diferentes riscos de mortalidade devido a possíveis fatores de confusão e viés.",
+          "takeaways": [
+            "Maior consumo total de álcool foi associado nesta coorte a aumento da mortalidade por todas as causas, cardiovascular e por câncer.",
+            "Diferentes tipos de bebida mostraram associações distintas (cerveja/cidra e destilados com maior mortalidade; consumo baixo a moderado de vinho com algumas associações de menor risco), mas são achados observacionais.",
+            "Como o estudo não é randomizado, fatores não medidos podem explicar as diferenças; os resultados não provam causalidade e exigem interpretação cuidadosa."
+          ]
+        },
+        "hu": {
+          "title": "Sör, bor vagy szeszes italok: Egy nagy tanulmány különböző halálozási mintázatokat talál mindegyiknél",
+          "summary": "Egy 340 924 résztvevőt magában foglaló, UK Biobank adatokon végzett megfigyeléses elemzés arról számolt be, hogy a magasabb teljes alkoholfogyasztás összefüggött nagyobb összhalálozással, kardiovaszkuláris és daganatos halálozással. A vizsgálat italokra lebontva külön mintázatokat talált: a sör/sidert és a töményeket több eredménnyel is magasabb halálozással hozták összefüggésbe, míg az alacsony–mérsékelt borfogyasztás bizonyos kimeneteknél alacsonyabb halálozással társult. A szerzők és a jelentés megjegyzik, hogy a megfigyeléses adatok nem állapítanak meg okságot.",
+          "whyItMatters": "A nagy megfigyeléses vizsgálatok mintázatokat tárhatnak fel, amelyek befolyásolhatják a hipotéziseket és a közegészségügyi vitákat, de nem bizonyítják, hogy egy adott italfajta eltérő halálozási kockázatot okoz, mivel fennállhatnak összeférhetetlenségek és torzítások.",
+          "takeaways": [
+            "Ebben a kohortelemzésben a nagyobb összalkoholfogyasztás összefüggött a megnövekedett összhalálozással, valamint a kardiovaszkuláris és daganatos halálozással.",
+            "A különböző italok eltérő összefüggéseket mutattak (sör/szider és tömények magasabb halálozással; alacsony–mérsékelt borfogyasztás bizonyos kimeneteknél alacsonyabb kockázattal), de ezek megfigyeléses megállapítások.",
+            "Mivel a vizsgálat nem randomizált, a nem mért tényezők magyarázhatják a különbségeket; az eredmények nem bizonyítják az okságot, óvatos értelmezést igényelnek."
+          ]
+        },
+        "ar": {
+          "title": "بيرة أو نبيذ أم مشروبات روحية: دراسة كبيرة تجد أنماط وفيات مختلفة لكلٍ منها",
+          "summary": "حلل تحليل رصدي 340,924 مشاركًا من UK Biobank ووجد أن المدخول الكلي الأعلى للكحول ارتبط بزيادة الوفيات لكل الأسباب، ووفيات cardiovasculáris والسرطان. وأظهرت الدراسة أنماطًا خاصة بالمشروب: البيرة/العصير المخمّر والمشروبات الروحية ارتبطت بزيادة الوفيات عبر عدة نتائج، في حين ارتبط استهلاك النبيذ المنخفض إلى المتوسط بانخفاض الوفيات لبعض النتائج. ويشير المؤلفون والتقرير إلى أن البيانات الرصدية لا تثبت السببية.",
+          "whyItMatters": "يمكن للدراسات الرصدية الكبيرة أن تكشف عن أنماط تُثري طرح الفرضيات والنقاشات في الصحة العامة، لكنها لا تثبت أن نوعًا معينًا من الكحول يسبب اختلافات في مخاطر الوفيات بسبب وجود تحيّزات واحتمال عوامل مشوشة.",
+          "takeaways": [
+            "في هذا التحليل الجماعي، ارتبط تناول كحول أعلى بزيادة الوفيات لكل الأسباب وكذلك وفيات أمراض القلب والأوعية والسرطان.",
+            "أظهرت أنواع المشروبات نتائج مختلفة (البيرة/السايدر والمشروبات الروحية مرتبطة بوفيات أعلى؛ استهلاك النبيذ المنخفض إلى المتوسط مرتبط ببعض النتائج بانخفاض المخاطر)، لكن هذه نتائج رصدية.",
+            "بما أن الدراسة ليست عشوائية، قد تفسر عوامل غير مقاسة الفروقات؛ النتائج لا تثبت السببية وتتطلب تفسيرًا حذرًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=beer-wine-or-spirits-a-large-study-finds-different-mortality-patt-4bfba7cffcd6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/beer-wine-or-spirits-a-large-study-finds-different-mortality-patt-4bfba7cffcd6-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/beer-wine-or-spirits-a-large-study-finds-different-mortality-patt-4bfba7cffcd6-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Beer, wine or spirits: A large study finds different mortality patterns for each.\nStory summary: An observational analysis of 340,924 UK Biobank participants reported that higher total alcohol intake was associated with greater all-cause, cardiovascular and cancer mortality. The study found beverage-specific patterns: beer/cider and spirits were linked with higher mortality across several outcomes, while low-to-moderate wine consumption was associated with lower mortality for certain outcomes. The authors and report note that observational data cannot establish causation..\nCategory: Nutrition & alcohol research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "neoadjuvant-durvalumab-plus-chemotherapy-in-resectable-or-borderl-a3047316e604",
+      "category": "Cancer treatment — clinical trial",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04742-7",
+      "sourceTitle": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
+      "publishedAt": "2026-10-26",
+      "languages": {
+        "en": {
+          "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial",
+          "summary": "A global phase 2 trial (MDT-BRIDGE) reported that giving durvalumab together with chemotherapy before surgery in patients with resectable or borderline resectable non-small-cell lung cancer enabled surgery in most participants and produced encouraging pathological complete response rates. The report notes multidisciplinary reassessment and that continuing chemoradiotherapy plus consolidative durvalumab for unresectable cases did not raise new safety concerns.",
+          "whyItMatters": "Neoadjuvant immunotherapy combinations are an active area of research. Phase 2 trial findings suggesting feasibility and promising pathological responses can inform larger randomized studies, but phase 2 results are preliminary and not definitive evidence of long-term benefit.",
+          "takeaways": [
+            "This is a phase 2, non-confirmatory trial reporting feasibility and encouraging pathological responses with neoadjuvant durvalumab plus chemotherapy.",
+            "Most patients in the trial proceeded to surgery after multidisciplinary reassessment; some with unresectable disease were managed with chemoradiotherapy and consolidative durvalumab without new safety signals reported.",
+            "Larger, randomized trials with clinical endpoints (survival, longer-term safety) are needed before changing standard care."
+          ]
+        },
+        "es": {
+          "title": "Durvalumab neoadyuvante más quimioterapia en cáncer de pulmón no microcítico resecable o borderline: ensayo de fase 2 MDT-BRIDGE",
+          "summary": "Un ensayo global de fase 2 (MDT-BRIDGE) informó que administrar durvalumab junto con quimioterapia antes de la cirugía en pacientes con cáncer de pulmón no microcítico resecable o borderline permitió la cirugía en la mayoría de los participantes y produjo tasas alentadoras de respuesta patológica completa. El informe señala la reevaluación multidisciplinaria y que el manejo con quimiorradioterapia continuada más durvalumab de consolidación en casos no resecables no presentó nuevas señales de seguridad.",
+          "whyItMatters": "Las combinaciones de inmunoterapia neoadyuvante son un área activa de investigación. Los hallazgos de un ensayo de fase 2 que sugieren factibilidad y respuestas patológicas prometedoras pueden orientar estudios aleatorizados más amplios, pero los resultados de fase 2 son preliminares y no constituyen prueba definitiva de beneficio a largo plazo.",
+          "takeaways": [
+            "Se trata de un ensayo de fase 2 no confirmatorio que informa factibilidad y respuestas patológicas alentadoras con durvalumab neoadyuvante más quimioterapia.",
+            "La mayoría de los pacientes del ensayo procedieron a cirugía tras la reevaluación multidisciplinaria; algunos con enfermedad no resecable se manejaron con quimiorradioterapia y durvalumab de consolidación sin nuevas señales de seguridad reportadas.",
+            "Se necesitan ensayos aleatorizados más grandes con puntos finales clínicos (supervivencia, seguridad a más largo plazo) antes de cambiar la práctica estándar."
+          ]
+        },
+        "ru": {
+          "title": "Неоадъювантный дурвалумаб плюс химиотерапия при резектабельном или погранично резектабельном НМРЛ: фаза 2 MDT-BRIDGE",
+          "summary": "Глобальное исследование фазы 2 (MDT-BRIDGE) сообщило, что введение дурвалумаба вместе с химиотерапией перед операцией у пациентов с резектабельным или погранично резектабельным немелкоклеточным раком лёгкого позволило выполнить операцию большинству участников и дало обнадеживающие показатели патологической полной ответной реакции. В отчёте отмечена мультидисциплинарная переоценка и то, что продолжение химиолучевой терапии с консолидирующим дурвалумабом в нерезектабельных случаях не выявило новых проблем с безопасностью.",
+          "whyItMatters": "Неоадъювантные комбинации с иммунной терапией активно изучаются. Результаты фазы 2, указывающие на осуществимость и обнадеживающие патологические ответы, могут послужить основой для более крупных рандомизированных исследований, но данные фазы 2 являются предварительными и не дают окончательных доказательств долговременной пользы.",
+          "takeaways": [
+            "Это неконфирматорное исследование фазы 2, сообщающее о осуществимости и обнадеживающих патологических ответах при неоадъювантном дурвалумабе в сочетании с химиотерапией.",
+            "Большинство пациентов в исследовании были оперированы после мультидисциплинарной переоценки; некоторым с нерезектабельной болезнью проводили химиолучевую терапию с консолидирующим дурвалумабом без сообщений о новых сигналах по безопасности.",
+            "Прежде чем менять стандарт лечения, необходимы более крупные рандомизированные исследования с клиническими конечными точками (выживаемость, безопасность в долгосрочной перспективе)."
+          ]
+        },
+        "uk": {
+          "title": "Неоад’ювантний дурвалумаб у поєднанні з хіміотерапією при резектабельному або близько резектабельному недрібноклітинному раку легень: фазa 2 випробування MDT-BRIDGE",
+          "summary": "Глобальне фазa 2 випробування (MDT-BRIDGE) повідомило, що введення дурвалумабу разом із хіміотерапією перед операцією у пацієнтів із резектабельним або близько резектабельним недрібноклітинним раком легень дозволило більшості учасників отримати операцію й дало обнадійливі показники патологічної повної відповіді. У звіті також зазначено, що багатодисциплінарна переоцінка проводилась, а продовження хіміопроменевої терапії з консолидаційним дурвалумабом для нерезектабельних випадків не виявило нових проблем з безпекою.",
+          "whyItMatters": "Неоад’ювантні імунотерапевтичні комбінації активно досліджуються. Результати фази 2, що вказують на здійсненність і обнадійливі патологічні відповіді, можуть спрямувати більші рандомізовані дослідження, але результати фази 2 є попередніми й не дають остаточного доказу довгострокової користі.",
+          "takeaways": [
+            "Це фазове 2, не підтверджувальне дослідження, яке повідомляє про здійсненність і обнадійливі патологічні відповіді при неоад’ювантному дурвалумабі з хіміотерапією.",
+            "Більшість пацієнтів у дослідженні перейшли до операції після багатодисциплінарної переоцінки; деякі з нерезектабельною хворобою лікувалися хіміопроменевою терапією з консолидаційним дурвалумабом без повідомлень про нові сигнали безпеки.",
+            "Потрібні більші рандомізовані дослідження з клінічними кінцевими точками (виживаність, довгострокова безпека) перед зміною стандарту допомоги."
+          ]
+        },
+        "fr": {
+          "title": "Durvalumab en néoadjuvant associé à la chimiothérapie dans le CBNPC résécable ou limite résécable : essai de phase 2 MDT-BRIDGE",
+          "summary": "Un essai mondial de phase 2 (MDT-BRIDGE) a rapporté que l’administration de durvalumab avec chimiothérapie avant la chirurgie chez des patients atteints d’un cancer pulmonaire non à petites cellules résécable ou limite résécable a permis la chirurgie chez la plupart des participants et a produit des taux encourageants de réponse pathologique complète. Le rapport note une réévaluation multidisciplinaire et indique que la poursuite d’une chimioradiothérapie plus durvalumab en consolidation pour les cas non résécables n’a pas révélé de nouveaux problèmes de sécurité.",
+          "whyItMatters": "Les combinaisons d’immunothérapie en néoadjuvant sont un domaine actif de recherche. Les résultats d’un essai de phase 2 suggérant faisabilité et réponses pathologiques prometteuses peuvent orienter des études randomisées plus larges, mais les résultats de phase 2 sont préliminaires et ne constituent pas une preuve définitive d’un bénéfice à long terme.",
+          "takeaways": [
+            "Il s’agit d’un essai de phase 2 non confirmatoire rapportant faisabilité et réponses pathologiques encourageantes avec durvalumab en néoadjuvant plus chimiothérapie.",
+            "La plupart des patients de l’essai ont été opérés après réévaluation multidisciplinaire ; certains patients non résécables ont été pris en charge par chimioradiothérapie et durvalumab en consolidation sans nouveaux signaux de sécurité rapportés.",
+            "Des essais randomisés plus larges avec des critères cliniques (survie, sécurité à plus long terme) sont nécessaires avant toute modification de la pratique standard."
+          ]
+        },
+        "de": {
+          "title": "Neoadjuvantes Durvalumab plus Chemotherapie bei resektablem oder grenzresektablem nicht-kleinzelligem Lungenkrebs: Phase‑2‑MDT‑BRIDGE‑Studie",
+          "summary": "Eine globale Phase‑2‑Studie (MDT‑BRIDGE) berichtete, dass die Gabe von Durvalumab zusammen mit Chemotherapie vor einer Operation bei Patientinnen und Patienten mit resektablem oder grenzresektablem nicht‑kleinzelligem Lungenkrebs in den meisten Fällen eine Operation ermöglichte und ermutigende Raten pathologischer Komplettremissionen erzielte. Der Bericht erwähnt interdisziplinäre Neubewertungen und stellt fest, dass die Fortführung mit Chemoradiotherapie plus konsolidierendem Durvalumab bei nichtresektablen Fällen keine neuen Sicherheitssignale ergab.",
+          "whyItMatters": "Neoadjuvante Immuntherapiekombinationen werden intensiv erforscht. Ergebnisse aus Phase‑2‑Studien, die Machbarkeit und vielversprechende pathologische Antworten nahelegen, können größere randomisierte Studien informieren, sind aber vorläufig und keine definitive Evidenz für langfristigen Nutzen.",
+          "takeaways": [
+            "Dies ist eine Phase‑2‑Studie ohne Bestätigungscharakter, die Machbarkeit und ermutigende pathologische Ansprechraten mit neoadjuvantem Durvalumab plus Chemotherapie berichtet.",
+            "Die Mehrheit der Teilnehmenden ging nach interdisziplinärer Neubewertung zur Operation; einige mit nichtresektabler Erkrankung wurden mit Chemoradiotherapie und konsolidierendem Durvalumab behandelt, ohne dass neue Sicherheitsbedenken gemeldet wurden.",
+            "Bevor sich die Standardversorgung ändert, sind größere randomisierte Studien mit klinischen Endpunkten (Überleben, Langzeitsicherheit) erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Durvalumab neoadjuvante mais quimioterapia em câncer de pulmão não‑pequenas células ressecável ou borderline ressecável: ensaio fase 2 MDT‑BRIDGE",
+          "summary": "Um ensaio global de fase 2 (MDT‑BRIDGE) relatou que administrar durvalumab juntamente com quimioterapia antes da cirurgia em pacientes com câncer de pulmão não‑pequenas células ressecável ou borderline ressecável permitiu a realização da cirurgia na maioria dos participantes e apresentou taxas encorajadoras de resposta patológica completa. O relatório destaca reavaliação multidisciplinar e observa que a continuação com quimiorradioterapia mais durvalumab de consolidação em casos irressecáveis não apresentou novos sinais de segurança.",
+          "whyItMatters": "Combinações de imunoterapia neoadjuvante são um campo ativo de pesquisa. Achados de fase 2 que sugerem viabilidade e respostas patológicas promissoras podem orientar estudos randomizados maiores, mas resultados de fase 2 são preliminares e não constituem evidência definitiva de benefício a longo prazo.",
+          "takeaways": [
+            "Este é um ensaio de fase 2, não confirmatório, que relata viabilidade e respostas patológicas encorajadoras com durvalumab neoadjuvante mais quimioterapia.",
+            "A maioria dos pacientes no estudo foi para cirurgia após reavaliação multidisciplinar; alguns com doença irressecável foram tratados com quimiorradioterapia e durvalumab de consolidação, sem novos sinais de segurança relatados.",
+            "São necessários ensaios randomizados maiores com desfechos clínicos (sobrevida, segurança a longo prazo) antes de mudanças na prática padrão."
+          ]
+        },
+        "hu": {
+          "title": "Neoadjuváns durvalumab plus kemoterápia reszekálható vagy határvonalasan reszekálható nem-kissejtes tüdőrákban: a 2. fázisú MDT-BRIDGE vizsgálat",
+          "summary": "Egy globális, 2. fázisú vizsgálat (MDT-BRIDGE) arról számolt be, hogy a durvalumab és a kemoterápia együttes adása műtét előtt reszekálható vagy határvonalasan reszekálható nem-kissejtes tüdőrákos betegekben a legtöbb résztvevőnél lehetővé tette a műtétet, és biztató patológiai teljes választ eredményezett. A jelentés hangsúlyozza a multidiszciplináris újraértékelést, és megjegyzi, hogy a reszekálhatatlan eseteknél folytatott kemoradioterápia és konszolidáló durvalumab nem hozott új biztonsági aggályokat.",
+          "whyItMatters": "A neoadjuváns immunterápiás kombinációk aktív kutatási területet képviselnek. A 2. fázisú vizsgálat eredményei, amelyek megvalósíthatóságot és ígéretes patológiai választ jelentenek, támpontot adhatnak nagyobb, randomizált vizsgálatokhoz, de a 2. fázisú eredmények előzetesek, és nem tekinthetők végleges bizonyítéknak a hosszú távú haszonról.",
+          "takeaways": [
+            "Ez egy 2. fázisú, nem megerősítő vizsgálat, amely megvalósíthatóságot és biztató patológiai válaszokat közöl neoadjuváns durvalumab plus kemoterápia mellett.",
+            "A legtöbb beteg multidiszciplináris újraértékelés után műtétre került; néhány, reszekálhatatlannak minősített beteg esetében kemoradioterápiát és konszolidáló durvalumabot alkalmaztak anélkül, hogy új biztonsági jeleket jelentettek volna.",
+            "A standard ellátás megváltoztatása előtt nagyobb, randomizált vizsgálatokra van szükség klinikai végpontokkal (túlélés, hosszabb távú biztonság)."
+          ]
+        },
+        "ar": {
+          "title": "العلاج قبل الجراحة بدورفالوماب مع الكيمياء الدوائية في سرطان الرئة غير صغير الخلايا القابل أو شبه القابل للاستئصال: تجربة MDT-BRIDGE المرحلة 2",
+          "summary": "أبلغت تجربة عالمية من المرحلة 2 (MDT-BRIDGE) أن إعطاء دورفالوماب مع العلاج الكيميائي قبل الجراحة لمرضى سرطان الرئة غير صغير الخلايا القابل أو شبه القابل للاستئصال مكّن إجراء الجراحة لدى معظم المشاركين وأظهر معدلات استجابة مرضية كاملة مشجعة. وتلاحظ الرسالة إعادة التقييم متعدد التخصصات، وأن استمرار العلاج الكيميائي الإشعاعي مع دورفالوماب التوطيدي للحالات غير القابلة للاستئصال لم يرفع مخاوف سلامة جديدة.",
+          "whyItMatters": "تُعد تركيبات العلاج المناعي قبل الجراحة مجالًا نشطًا للبحث. يمكن لنتائج المرحلة 2 التي تشير إلى الجدوى واستجابات مرضية واعدة أن توجه دراسات عشوائية أكبر، لكن نتائج المرحلة 2 أولية وليست دليلاً قاطعًا على فائدة طويلة الأجل.",
+          "takeaways": [
+            "هذه تجربة من المرحلة 2 وغير تأكيدية تسجل الجدوى واستجابات مرضية مشجعة مع دورفالوماب قبل الجراحة إلى جانب العلاج الكيميائي.",
+            "تقدم معظم الحالات إلى الجراحة بعد إعادة التقييم متعدد التخصصات؛ بعض الحالات التي اعتُبرت غير قابلة للاستئصال عولجت بالكيموأشعاع مع دورفالوماب التوطيدي دون الإبلاغ عن إشارات سلامة جديدة.",
+            "قبل تغيير الممارسة السريرية، هناك حاجة إلى تجارب عشوائية أكبر بنهايات سريرية (النجاة، السلامة على المدى الطويل)."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=neoadjuvant-durvalumab-plus-chemotherapy-in-resectable-or-borderl-a3047316e604",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neoadjuvant-durvalumab-plus-chemotherapy-in-resectable-or-borderl-a3047316e604-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neoadjuvant-durvalumab-plus-chemotherapy-in-resectable-or-borderl-a3047316e604-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial.\nStory summary: A global phase 2 trial (MDT-BRIDGE) reported that giving durvalumab together with chemotherapy before surgery in patients with resectable or borderline resectable non-small-cell lung cancer enabled surgery in most participants and produced encouraging pathological complete response rates. The report notes multidisciplinary reassessment and that continuing chemoradiotherapy plus consolidative durvalumab for unresectable cases did not raise new safety concerns..\nCategory: Cancer treatment — clinical trial.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-win-for-durvalumab-doublet-in-muscle-invasive-bladder-cancer-0a9e26159d10",
+      "category": "Cancer treatment — perioperative therapy",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/esmo/123570",
+      "sourceTitle": "A Win for Durvalumab Doublet in Muscle-Invasive Bladder Cancer",
+      "publishedAt": "Sun, 25 Oct 2026 15:37:39 -0400",
+      "languages": {
+        "en": {
+          "title": "A Win for Durvalumab Doublet in Muscle-Invasive Bladder Cancer",
+          "summary": "A perioperative regimen of durvalumab plus the antibody–drug conjugate enfortumab vedotin reportedly improved event-free survival and overall survival compared with radical cystectomy in patients with muscle-invasive bladder cancer, according to a meeting report.",
+          "whyItMatters": "Perioperative systemic therapies that improve survival could change management for muscle-invasive bladder cancer. Meeting reports signal potentially important trial results, but these summaries should be interpreted as preliminary until full trial data and peer-reviewed publication are available.",
+          "takeaways": [
+            "Reported improvements in event-free and overall survival were presented, suggesting the durvalumab plus enfortumab vedotin combination may be beneficial in this setting.",
+            "The information comes from meeting coverage; detailed methods, patient population and safety data will be needed to judge robustness and applicability.",
+            "Confirmation in peer-reviewed publications and regulatory guidance are required before changes to clinical practice."
+          ]
+        },
+        "es": {
+          "title": "Un avance para la doble terapia con durvalumab en cáncer vesical músculo-invasivo",
+          "summary": "Un régimen perioperatorio de durvalumab más el conjugado anticuerpo‑fármaco enfortumab vedotina habría mejorado la supervivencia libre de eventos y la supervivencia global en comparación con la cistectomía radical en pacientes con cáncer vesical músculo‑invasivo, según un informe de una reunión.",
+          "whyItMatters": "Las terapias sistémicas perioperatorias que mejoren la supervivencia podrían cambiar el manejo del cáncer vesical músculo‑invasivo. Los informes de reuniones señalan resultados de ensayos potencialmente importantes, pero estos resúmenes deben considerarse preliminares hasta que estén disponibles los datos completos del ensayo y la publicación revisada por pares.",
+          "takeaways": [
+            "Se presentaron mejoras informadas en la supervivencia libre de eventos y la supervivencia global, lo que sugiere que la combinación de durvalumab y enfortumab vedotina podría ser beneficiosa en este contexto.",
+            "La información proviene de la cobertura de una reunión; serán necesarios datos detallados sobre métodos, población de pacientes y seguridad para evaluar la robustez y aplicabilidad.",
+            "La confirmación en publicaciones revisadas por pares y las orientaciones regulatorias son necesarias antes de cambiar la práctica clínica."
+          ]
+        },
+        "ru": {
+          "title": "Успех для двойной терапии дурвалумабом при мышечно-инвазивном раке мочевого пузыря",
+          "summary": "Сообщается, что периоперационный режим дурвалумаб в комбинации с антитело‑лекарственным конъюгатом энфортумаб ведотин улучшил выживаемость без событий и общую выживаемость по сравнению с радикальной цистэктомией у пациентов с мышечно‑инвазивным раком мочевого пузыря, согласно докладу с конференции.",
+          "whyItMatters": "Системные периоперационные терапии, улучшающие выживаемость, могут изменить ведение мышечно‑инвазивного рака мочевого пузыря. Доклады с конференций указывают на потенциально важные результаты испытаний, однако эти сводки следует рассматривать как предварительные до публикации полных данных и рецензируемой статьи.",
+          "takeaways": [
+            "Были представлены сообщения об улучшении выживаемости без событий и общей выживаемости, что указывает на возможную пользу комбинации дурвалумаб плюс энфортумаб ведотин в этой клинической ситуации.",
+            "Информация получена из освещения конференции; для оценки надёжности и применимости потребуются подробные данные по методам, популяции и безопасности.",
+            "Подтверждение в рецензируемых публикациях и регуляторные рекомендации необходимы прежде, чем менять клиническую практику."
+          ]
+        },
+        "uk": {
+          "title": "Успіх для подвійного режиму дурвалумаб в інвазивному раку сечового міхура",
+          "summary": "Згідно з доповіддю з конференції, периопераційний режим дурвалумабу в поєднанні з антитіло-фармпептидним кон'югатом енфортумабом ведотином нібито покращив безрецидивну виживаність і загальну виживаність порівняно з радикальною цистектомією у пацієнтів з м'язово-інвазивним раком сечового міхура.",
+          "whyItMatters": "Периопераційні системні терапії, що покращують виживаність, могли б змінити підхід до лікування м'язово-інвазивного раку сечового міхура. Звіти з конференцій сигналізують про потенційно важливі результати випробувань, але їх слід вважати попередніми до появи повних даних та рецензованої публікації.",
+          "takeaways": [
+            "Повідомлялося про покращення безрецидивної та загальної виживаності, що свідчить про можливу користь комбінації дурвалумабу та енфортумабу ведотину в цій ситуації.",
+            "Інформація походить із висвітлення конференції; потрібні детальні методи, дані про популяцію пацієнтів і профілі безпеки для оцінки надійності й застосовності.",
+            "Підтвердження в рецензованих публікаціях та керівництво регуляторних органів потрібні перед внесенням змін у клінічну практику."
+          ]
+        },
+        "fr": {
+          "title": "Une victoire pour la combinaison durvalumab–enfortumab vedotin dans le cancer invasif de la vessie",
+          "summary": "Selon un compte rendu de conférence, un schéma périopératoire de durvalumab associé à l’antibody–drug conjugate enfortumab vedotin aurait amélioré la survie sans événement et la survie globale par rapport à la cystectomie radicale chez des patients atteints d’un cancer de la vessie infiltrant le muscle.",
+          "whyItMatters": "Les traitements systémiques périopératoires qui améliorent la survie pourraient changer la prise en charge du cancer de la vessie infiltrant le muscle. Les rapports de congrès annoncent des résultats d’essais potentiellement importants, mais ces résumés doivent être interprétés comme préliminaires jusqu’à la publication des données complètes et la revue par les pairs.",
+          "takeaways": [
+            "Des améliorations rapportées de la survie sans événement et de la survie globale ont été présentées, suggérant que la combinaison durvalumab plus enfortumab vedotin pourrait être bénéfique dans ce contexte.",
+            "Les informations proviennent d’un compte rendu de congrès ; il faudra disposer des méthodes détaillées, des caractéristiques des patients et des données de sécurité pour juger de la robustesse et de l’applicabilité.",
+            "Une confirmation dans des publications évaluées par les pairs et des avis des autorités de réglementation est requise avant toute modification de la pratique clinique."
+          ]
+        },
+        "de": {
+          "title": "Erfolg für Durvalumab‑Doppeltherapie beim muskelinvasiven Blasenkrebs",
+          "summary": "Laut einem Tagungsbericht verbesserte ein perioperatives Regime aus Durvalumab plus dem Antikörper‑Wirkstoffkonjugat Enfortumab Vedotin offenbar das ereignisfreie Überleben und das Gesamtüberleben im Vergleich zur radikalen Zystektomie bei Patientinnen und Patienten mit muskelinvasivem Blasenkrebs.",
+          "whyItMatters": "Perioperative systemische Therapien, die das Überleben verbessern, könnten die Behandlung des muskelinvasiven Blasenkrebses verändern. Tagungsberichte deuten auf potenziell wichtige Studienergebnisse hin, sollten aber als vorläufig angesehen werden, bis vollständige Studiendaten und peer‑reviewte Veröffentlichungen vorliegen.",
+          "takeaways": [
+            "In dem Bericht wurden Verbesserungen beim ereignisfreien und beim Gesamtüberleben präsentiert, was auf einen möglichen Nutzen der Kombination Durvalumab plus Enfortumab Vedotin in diesem Setting hindeutet.",
+            "Die Information stammt aus Tagungsberichterstattung; detaillierte Methoden, Patientencharakteristika und Sicherheitsdaten sind nötig, um Robustheit und Übertragbarkeit zu beurteilen.",
+            "Bestätigung in peer‑reviewten Publikationen und regulatorische Bewertungen sind erforderlich, bevor Änderungen der klinischen Praxis erfolgen sollten."
+          ]
+        },
+        "pt-br": {
+          "title": "Vitória para a dupla durvalumab no câncer de bexiga músculo‑invasivo",
+          "summary": "Segundo um relatório de reunião, um esquema perioperatório de durvalumab mais o conjugado anticorpo‑fármaco enfortumab vedotin aparentemente melhorou sobrevida livre de eventos e sobrevida global em comparação com cistectomia radical em pacientes com câncer de bexiga músculo‑invasivo.",
+          "whyItMatters": "Terapias sistêmicas perioperatórias que melhoram sobrevida podem mudar o manejo do câncer de bexiga músculo‑invasivo. Relatos de congresso apontam para resultados de ensaios potencialmente importantes, mas esses sumários devem ser interpretados como preliminares até que dados completos do ensaio e publicações revisadas por pares estejam disponíveis.",
+          "takeaways": [
+            "Melhorias relatadas na sobrevida livre de eventos e na sobrevida global foram apresentadas, sugerindo que a combinação durvalumab mais enfortumab vedotin pode ser benéfica nesse contexto.",
+            "A informação vem de cobertura de reunião; métodos detalhados, população de pacientes e dados de segurança serão necessários para avaliar robustez e aplicabilidade.",
+            "Confirmação em publicações revisadas por pares e orientação regulatória são necessárias antes de mudanças na prática clínica."
+          ]
+        },
+        "hu": {
+          "title": "Siker a durvalumab-duettnek izominvazív hólyagrákban",
+          "summary": "Egy perioperatív kombináció, durvalumab és az enfortumab vedotin nevű ellenanyag–medikált konjugátum adása állítólag javította az eseménymentes és az általános túlélést a radikális cisztektómiához képest izominvazív hólyagrákos betegekben, egy konferenciai beszámoló szerint.",
+          "whyItMatters": "A perioperatív szisztémás terápiák, amelyek javítják a túlélést, megváltoztathatják az izominvazív hólyagrák kezelését. A konferenciai beszámolók potenciálisan fontos vizsgálati eredményeket jeleznek, de ezek összefoglalóit előzetesként kell kezelni, amíg rendelkezésre nem állnak a teljes vizsgálati adatok és a lektorált közlés.",
+          "takeaways": [
+            "Beszámoltak eseménymentes és általános túlélés javulásáról, ami arra utal, hogy a durvalumab és enfortumab vedotin kombinációja előnyös lehet ebben a környezetben.",
+            "Az információ konferenciai közvetítésből származik; a részletes módszertanra, a betegpopulációra és a biztonsági adatokra szükség lesz az eredmények értékeléséhez.",
+            "A klinikai gyakorlat megváltoztatása előtt szükséges a megerősítés lektorált közleményben és szabályozói iránymutatásban."
+          ]
+        },
+        "ar": {
+          "title": "انتصار لمجموعة دورفالوماب المزدوجة في سرطان المثانة الغازي للعضلة",
+          "summary": "أفاد تقرير مؤتمر أن نظامًا محيطيًا (حول الجراحة) يجمع دورفالوماب مع حامل سُمّي مناعي مرتبط بالمضادّية (enfortumab vedotin) حسّن البقاء دون أحداث والبقاء العام مقارنةً باستئصال المثانة الجذري لدى مرضى سرطان المثانة الغازي للعضلة.",
+          "whyItMatters": "العلاجات الجهازية المحيطة بالجراحة التي تحسّن البقاء قد تغيّر إدارة سرطان المثانة الغازي للعضلة. تشير تقارير المؤتمرات إلى نتائج تجريبية قد تكون مهمة، لكن ينبغي اعتباره تمهيدياً حتى تتوافر بيانات التجربة الكاملة ونشرها بعد تحكيم الأقران.",
+          "takeaways": [
+            "تم عرض تحسّنات في البقاء دون أحداث والبقاء العام، ما يوحي بأن تركيبة دورفالوماب مع enfortumab vedotin قد تكون مفيدة في هذا السياق.",
+            "المعلومات مستمدة من تغطية مؤتمرية؛ ستكون هناك حاجة إلى بيانات مفصّلة حول المنهجية وسكان المرضى وسلامة العلاج للحكم على مدى متانة النتائج وقابليتها للتطبيق.",
+            "قبل أي تغيير في الممارسة السريرية، مطلوب التأكيد في منشورات محكّمة وإرشادات جهات تنظيمية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-win-for-durvalumab-doublet-in-muscle-invasive-bladder-cancer-0a9e26159d10",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-win-for-durvalumab-doublet-in-muscle-invasive-bladder-cancer-0a9e26159d10-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-win-for-durvalumab-doublet-in-muscle-invasive-bladder-cancer-0a9e26159d10-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: A Win for Durvalumab Doublet in Muscle-Invasive Bladder Cancer.\nStory summary: A perioperative regimen of durvalumab plus the antibody–drug conjugate enfortumab vedotin reportedly improved event-free survival and overall survival compared with radical cystectomy in patients with muscle-invasive bladder cancer, according to a meeting report..\nCategory: Cancer treatment — perioperative therapy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "postpartum-recovery-window-may-play-a-critical-role-in-maternal-a-439ee2fa9a04",
+      "category": "Healthy ageing & biological ageing",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-postpartum-recovery-window-play-critical.html",
+      "sourceTitle": "Postpartum recovery window may play a critical role in maternal aging and long-term health",
+      "publishedAt": "Sun, 25 Oct 2026 11:00:01 EDT",
+      "languages": {
+        "en": {
+          "title": "Postpartum recovery window may play a critical role in maternal aging and long-term health",
+          "summary": "Researchers using newer biological-age measures report that pregnancy is associated with a temporary elevation in biological age, and that postpartum recovery can return biological age closer to baseline. The article notes inconsistent associations between number of children and later heart disease or lifespan across populations and that explanations remain uncertain.",
+          "whyItMatters": "Biological-age tools offer a way to study how reproductive events relate to long-term maternal health, but current findings are observational and do not establish causal mechanisms. Understanding recovery after pregnancy could inform research on maternal ageing vulnerabilities.",
+          "takeaways": [
+            "Studies report a temporary rise in biological-age markers during pregnancy with partial or full return toward baseline after postpartum recovery.",
+            "Population studies linking parity to later heart disease and lifespan show inconsistent results; the reasons for differences between studies are not yet clear.",
+            "These are observational findings using biological-age measures; more research is needed to determine mechanisms and clinical implications."
+          ]
+        },
+        "es": {
+          "title": "La ventana de recuperación posparto puede influir en el envejecimiento materno y la salud a largo plazo",
+          "summary": "Investigadores que usan medidas más recientes de edad biológica informan que el embarazo se asocia con una elevación temporal de la edad biológica y que la recuperación posparto puede devolver la edad biológica más cerca de la línea base. El artículo señala asociaciones inconsistentes entre el número de hijos y la enfermedad cardiaca o la longevidad en distintas poblaciones y que las explicaciones siguen siendo inciertas.",
+          "whyItMatters": "Las herramientas de edad biológica ofrecen una forma de estudiar cómo los eventos reproductivos se relacionan con la salud materna a largo plazo, pero los hallazgos actuales son observacionales y no establecen mecanismos causales. Comprender la recuperación tras el embarazo podría orientar la investigación sobre vulnerabilidades en el envejecimiento materno.",
+          "takeaways": [
+            "Los estudios informan un aumento temporal en los marcadores de edad biológica durante el embarazo con un retorno parcial o completo hacia la línea base durante la recuperación posparto.",
+            "Los estudios poblacionales que relacionan la paridad con enfermedad cardiaca y longevidad muestran resultados inconsistentes; las razones de las diferencias entre estudios no están claras.",
+            "Se trata de hallazgos observacionales basados en medidas de edad biológica; se necesita más investigación para determinar mecanismos e implicaciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Послеродовое окно восстановления может играть ключевую роль в материнском старении и долгосрочном здоровье",
+          "summary": "Исследователи, использующие современные инструменты оценки биологического возраста, сообщают, что беременность связана с временным повышением биологического возраста, а послеродовое восстановление может вернуть биологический возраст ближе к исходному уровню. В статье отмечаются непоследовательные связи между числом детей и последующими сердечными заболеваниями или продолжительностью жизни в разных популяциях, и объяснения остаются неопределёнными.",
+          "whyItMatters": "Инструменты оценки биологического возраста предоставляют способ изучать, как репродуктивные события соотносятся с долгосрочным здоровьем матери, но текущие результаты наблюдательны и не устанавливают причинных механизмов. Понимание восстановления после беременности может направить исследования уязвимости матерей к старению.",
+          "takeaways": [
+            "Исследования сообщают о временном повышении маркеров биологического возраста во время беременности с частичным или полным возвратом к исходному уровню после восстановления в послеродовом периоде.",
+            "Популяционные исследования, связывающие парность с последующими сердечными заболеваниями и продолжительностью жизни, дают противоречивые результаты; причины различий между исследованиями не ясны.",
+            "Это наблюдательные данные, основанные на показателях биологического возраста; требуется дополнительное исследование для выяснения механизмов и клинических последствий."
+          ]
+        },
+        "uk": {
+          "title": "Вік післяпологового відновлення може відігравати ключову роль у материнському старінні та довгостроковому здоров’ї",
+          "summary": "Дослідники, що використовували новіші вимірювачі біологічного віку, повідомляють, що вагітність пов’язана з тимчасовим підвищенням біологічного віку, а післяпологове відновлення може повернути біологічний вік ближче до початкового рівня. У статті також зазначено неоднакові асоціації між кількістю дітей і пізнішими серцевими захворюваннями чи тривалістю життя в різних популяціях і що пояснення залишаються невизначеними.",
+          "whyItMatters": "Інструменти вимірювання біологічного віку дозволяють досліджувати, як репродуктивні події пов’язані з довгостроковим здоров’ям матері, але поточні результати є спостережними і не встановлюють причинно-наслідкових механізмів. Розуміння відновлення після вагітності може сприяти дослідженням уразливостей материнського старіння.",
+          "takeaways": [
+            "Дослідження повідомляють про тимчасове підвищення маркерів біологічного віку під час вагітності з частковим або повним поверненням до базового рівня після післяпологового відновлення.",
+            "Дослідження популяцій, які пов’язують парність з пізнішими серцевими захворюваннями та тривалістю життя, дають суперечливі результати; причини відмінностей між дослідженнями поки невідомі.",
+            "Це спостережні результати з використанням показників біологічного віку; потрібні додаткові дослідження для з’ясування механізмів та клінічних наслідків."
+          ]
+        },
+        "fr": {
+          "title": "La fenêtre de récupération post-partum pourrait jouer un rôle critique dans le vieillissement maternel et la santé à long terme",
+          "summary": "Des chercheurs utilisant des mesures récentes de l’âge biologique rapportent que la grossesse est associée à une élévation temporaire de l’âge biologique, et que la récupération post-partum peut ramener cet âge plus proche de la ligne de base. L’article note des associations inconsistantes entre le nombre d’enfants et les maladies cardiaques ultérieures ou la longévité selon les populations, et que les explications restent incertaines.",
+          "whyItMatters": "Les outils mesurant l’âge biologique offrent un moyen d’étudier comment les événements reproductifs se rapportent à la santé maternelle à long terme, mais les résultats actuels sont observationnels et n’établissent pas de mécanismes causaux. Comprendre la récupération après la grossesse pourrait orienter la recherche sur les vulnérabilités liées au vieillissement maternel.",
+          "takeaways": [
+            "Des études rapportent une hausse temporaire des marqueurs d’âge biologique pendant la grossesse avec un retour partiel ou complet vers la ligne de base après la récupération post-partum.",
+            "Les études de population reliant la parité aux maladies cardiaques ultérieures et à la longévité montrent des résultats contradictoires ; les raisons des différences entre études ne sont pas encore claires.",
+            "Il s’agit de résultats observationnels utilisant des mesures d’âge biologique ; des recherches supplémentaires sont nécessaires pour déterminer les mécanismes et les implications cliniques."
+          ]
+        },
+        "de": {
+          "title": "Postpartale Erholungsphase könnte eine Schlüsselrolle für mütterliches Altern und Langzeitgesundheit spielen",
+          "summary": "Forscher, die neuere Maße des biologischen Alters verwenden, berichten, dass die Schwangerschaft mit einer vorübergehenden Erhöhung des biologischen Alters verbunden ist und dass sich nach der postpartalen Erholung das biologische Alter wieder näher am Ausgangswert befinden kann. Der Artikel weist auf inkonsistente Zusammenhänge zwischen Kinderzahl und späteren Herzerkrankungen oder Lebensspanne in verschiedenen Populationen hin und betont, dass die Erklärungen unklar bleiben.",
+          "whyItMatters": "Werkzeuge zur Messung des biologischen Alters bieten Möglichkeiten, wie reproduktive Ereignisse mit langfristiger mütterlicher Gesundheit zusammenhängen könnten. Aktuelle Befunde sind jedoch beobachtend und stellen keine kausalen Mechanismen dar. Das Verständnis der Erholung nach der Schwangerschaft könnte die Forschung zu Verwundbarkeiten beim mütterlichen Altern informieren.",
+          "takeaways": [
+            "Studien berichten von einem vorübergehenden Anstieg biologischer Altersmarker während der Schwangerschaft mit teilweisem oder vollständigem Zurückkehren Richtung Ausgangswert nach der postpartalen Erholung.",
+            "Bevölkerungsstudien, die Parität mit späteren Herzerkrankungen und Lebensdauer verknüpfen, zeigen inkonsistente Ergebnisse; die Gründe für Unterschiede zwischen Studien sind noch unklar.",
+            "Es handelt sich um beobachtende Befunde unter Verwendung biologischer Altersmaße; weitere Forschung ist nötig, um Mechanismen und klinische Relevanz zu klären."
+          ]
+        },
+        "pt-br": {
+          "title": "Janela de recuperação pós‑parto pode ter papel crítico no envelhecimento materno e na saúde a longo prazo",
+          "summary": "Pesquisadores que usam medidas mais recentes de idade biológica relatam que a gravidez está associada a uma elevação temporária da idade biológica, e que a recuperação pós‑parto pode trazer a idade biológica de volta mais próxima do nível basal. O artigo observa associações inconsistentes entre número de filhos e doenças cardíacas posteriores ou longevidade entre populações, e que as explicações permanecem incertas.",
+          "whyItMatters": "Ferramentas de idade biológica oferecem uma forma de estudar como eventos reprodutivos se relacionam com a saúde materna a longo prazo, mas os achados atuais são observacionais e não estabelecem mecanismos causais. Entender a recuperação após a gravidez pode orientar pesquisas sobre vulnerabilidades no envelhecimento materno.",
+          "takeaways": [
+            "Estudos relatam aumento temporário nos marcadores de idade biológica durante a gravidez, com retorno parcial ou total em direção ao nível basal após a recuperação pós‑parto.",
+            "Estudos populacionais que ligam paridade a doenças cardíacas posteriores e longevidade mostram resultados inconsistentes; as razões para as diferenças entre estudos ainda não estão claras.",
+            "São achados observacionais usando medidas de idade biológica; mais pesquisas são necessárias para determinar mecanismos e implicações clínicas."
+          ]
+        },
+        "hu": {
+          "title": "A szülés utáni helyreállítás ablakának kritikus szerepe lehet az anyai öregedésben és hosszú távú egészségben",
+          "summary": "Kutatók újabb biológiai-kor mérőeszközöket használva azt jelentik, hogy a terhesség átmeneti emelkedést társít a biológiai korban, és a szülés utáni helyreállítás visszaállíthatja a biológiai kort közelebb az alaphoz. A cikk megjegyzi, hogy a gyermekek számát és későbbi szívbetegség vagy élettartam közötti összefüggések populációk szerint eltérnek, és a magyarázatok bizonytalanok.",
+          "whyItMatters": "A biológiai-kor eszközök lehetőséget adnak a reproduktív események és a hosszú távú anyai egészség kapcsolatának tanulmányozására, de a jelenlegi megállapítások megfigyelésesek és nem állapítanak meg oksági mechanizmust. A terhesség utáni helyreállítás megértése informálhatja az anyai öregedés sebezhetőségeit vizsgáló kutatásokat.",
+          "takeaways": [
+            "Tanulmányok átmeneti emelkedést jelentenek a biológiai-kor markerében a terhesség alatt, amely részben vagy teljesen visszatér a szülés utáni helyreállítás során.",
+            "A gyermekvállalás és a későbbi szívbetegség vagy élettartam közötti populációs vizsgálatok ellentmondásos eredményeket mutatnak; az eltérések okai még nem világosak.",
+            "Ezek megfigyeléses eredmények biológiai-kor méréseket használva; további kutatás szükséges a mechanizmusok és a klinikai következmények megértéséhez."
+          ]
+        },
+        "ar": {
+          "title": "نافذة التعافي بعد الولادة قد تلعب دورًا حاسمًا في الشيخوخة الأمومية والصحة طويلة الأمد",
+          "summary": "أفاد باحثون باستخدام مقاييس حديثة لعمرٍ بيولوجي أن الحمل مرتبط بارتفاع مؤقت في العمر البيولوجي، وأن التعافي بعد الولادة قد يعيد العمر البيولوجي أقرب إلى الخط الأساسي. ويشير المقال إلى أن الارتباطات بين عدد الأطفال وأمراض القلب اللاحقة أو مدة الحياة متباينة بين المجموعات السكانية وأن التفسيرات لا تزال غير مؤكدة.",
+          "whyItMatters": "توفر أدوات العمر البيولوجي وسيلة لدراسة كيفية ارتباط الأحداث الإنجابية بالصحة الأمومية على المدى الطويل، لكن النتائج الحالية ملاحَظَية ولا تثبت آليات سببية. فهم التعافي بعد الحمل قد يوجّه البحوث حول نقاط الضعف في شيخوخة الأمهات.",
+          "takeaways": [
+            "تشير الدراسات إلى ارتفاع مؤقت في مؤشرات العمر البيولوجي أثناء الحمل مع عودة جزئية أو كاملة نحو الحالة الأساسية بعد التعافي بعد الولادة.",
+            "تظهر دراسات السكان نتائج متباينة حول ارتباط عدد الأطفال بأمراض القلب لاحقًا أو بطول العمر؛ أسباب الفروقات بين الدراسات غير واضحة بعد.",
+            "هذه نتائج ملاحَظَية تستخدم مقاييس العمر البيولوجي؛ هناك حاجة لمزيد من البحث لتحديد الآليات والدلالات السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=postpartum-recovery-window-may-play-a-critical-role-in-maternal-a-439ee2fa9a04",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/postpartum-recovery-window-may-play-a-critical-role-in-maternal-a-439ee2fa9a04-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/postpartum-recovery-window-may-play-a-critical-role-in-maternal-a-439ee2fa9a04-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Postpartum recovery window may play a critical role in maternal aging and long-term health.\nStory summary: Researchers using newer biological-age measures report that pregnancy is associated with a temporary elevation in biological age, and that postpartum recovery can return biological age closer to baseline. The article notes inconsistent associations between number of children and later heart disease or lifespan across populations and that explanations remain uncertain..\nCategory: Healthy ageing & biological ageing.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "novel-adc-achieves-impressive-pfs-advantage-in-her2-low-metastati-bc4d9168908b",
       "category": "Cancer treatment",
@@ -858,6 +1500,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase III Chinese trial reports benefit for investigational ADC in HER2‑low breast cancer.\nStory summary: A Chinese phase III trial reported that an investigational antibody‑drug conjugate, trastuzumab rezetecan, significantly reduced the risk of disease progression or death in patients with HER2‑low metastatic breast cancer, according to MedPage Today coverage of ESMO meeting results..\nCategory: cancer treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "neural-chip-powers-adaptive-dbs-for-depression-d4af0731315c",
+      "category": "Neuroscience & neurotechnology",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
+      "sourceTitle": "Neural Chip Powers Adaptive DBS for Depression",
+      "publishedAt": "Fri, 23 Oct 2026 19:30:49 +0000",
+      "languages": {
+        "en": {
+          "title": "Neural Chip Powers Adaptive DBS for Depression",
+          "summary": "Researchers at EPFL developed LogSync, an ultra-low-power system-on-chip (operating under 200 microwatts) designed to decode oscillatory synchrony across brain regions and enable responsive, real-time deep brain stimulation (DBS) for psychiatric conditions such as depression.",
+          "whyItMatters": "Adaptive DBS that responds to ongoing brain signals could improve targeting and reduce side effects, but this report describes an engineering advance; clinical benefits, safety and effectiveness require testing in humans and clinical trials.",
+          "takeaways": [
+            "LogSync is an engineering development that decodes neural synchrony and aims to trigger responsive neuromodulation with very low power consumption.",
+            "The work is described as a device/technology advance by researchers; clinical testing and regulatory evaluation would be needed before patient use.",
+            "Adaptive, multi-region monitoring addresses a known limitation of current DBS systems, but translational steps remain."
+          ]
+        },
+        "es": {
+          "title": "Un chip neuronal impulsa DBS adaptable para la depresión",
+          "summary": "Investigadores de EPFL desarrollaron LogSync, un sistema en chip de muy bajo consumo (funcionando por debajo de 200 microwatios) diseñado para decodificar la sincronía oscilatoria entre regiones cerebrales y permitir estimulación cerebral profunda (DBS) receptiva en tiempo real para trastornos psiquiátricos como la depresión.",
+          "whyItMatters": "La DBS adaptable que responde a señales cerebrales en curso podría mejorar el enfoque y reducir efectos secundarios, pero este informe describe un avance de ingeniería; los beneficios clínicos, la seguridad y la eficacia requieren ensayos en humanos y estudios clínicos.",
+          "takeaways": [
+            "LogSync es un desarrollo tecnológico que decodifica la sincronía neural y pretende activar la neuromodulación receptiva con consumo de energía muy bajo.",
+            "El trabajo se describe como un avance de dispositivo/tecnología por parte de investigadores; se necesitarán pruebas clínicas y evaluación regulatoria antes de su uso en pacientes.",
+            "La monitorización adaptable y multirregional aborda una limitación conocida de los sistemas DBS actuales, pero quedan pasos de traducción al ámbito clínico."
+          ]
+        },
+        "ru": {
+          "title": "Нейрочип обеспечивает адаптивную глубокую стимуляцию мозга при депрессии",
+          "summary": "Исследователи из EPFL разработали LogSync — ультранизкопотребляющую систему‑на‑чипе (работающую менее чем при 200 микроваттах), предназначенную для декодирования осцилляторной синхронности между областями мозга и обеспечения отзывчивой, реального‑времени глубокой стимуляции мозга (DBS) для психиатрических состояний, таких как депрессия.",
+          "whyItMatters": "Адаптивная DBS, реагирующая на текущие мозговые сигналы, может улучшить прицельность и снизить побочные эффекты, но в отчёте описан инженерный прогресс; клинические преимущества, безопасность и эффективность требуют тестирования на людях и клинических испытаний.",
+          "takeaways": [
+            "LogSync — это технологическое решение, которое декодирует нейронную синхронность и нацелено на запуск отзывчивой нейромодуляции при очень низком энергопотреблении.",
+            "Работа описывается как разработка устройства/технологии исследователями; перед применением у пациентов потребуются клинические испытания и регуляторная оценка.",
+            "Адаптивный многорегиональный мониторинг решает известное ограничение текущих систем DBS, но остаются шаги трансляции в клинику."
+          ]
+        },
+        "uk": {
+          "title": "Нейронний чип живить адаптивну ГМІ для депресії",
+          "summary": "Дослідники з EPFL розробили LogSync — наднизьковитратну систему-на-чіпі (що працює менше ніж при 200 мікроватах), призначену для декодування осциляційної синхронності між ділянками мозку й забезпечення адаптивної, реального часу глибокої мозкової стимуляції (ГМІ) для психіатричних станів, таких як депресія.",
+          "whyItMatters": "Адаптивна ГМІ, що реагує на поточні мозкові сигнали, може покращити прицільність і зменшити побічні ефекти, але це повідомлення про інженерне досягнення; клінічні переваги, безпека й ефективність потребують випробувань на людях і клінічних досліджень.",
+          "takeaways": [
+            "LogSync — інженерний розробок, який декодує нейронну синхронність і прагне ініціювати відповідну нейромодуляцію при дуже низькому енергоспоживанні.",
+            "Роботу описано як технічний/приладний прогрес дослідниками; клінічне тестування та регуляторна оцінка потрібні перед використанням пацієнтами.",
+            "Адаптивний моніторинг кількох регіонів відповідає відомому обмеженню нинішніх систем ГМІ, але залишаються кроки трансляції в клінічну практику."
+          ]
+        },
+        "fr": {
+          "title": "Une puce neuronale alimente une stimulation cérébrale profonde adaptative pour la dépression",
+          "summary": "Des chercheurs de l’EPFL ont développé LogSync, un système sur puce ultra-basse consommation (fonctionnant sous 200 microwatts) conçu pour décoder la synchronie oscillatoire entre régions cérébrales et permettre une stimulation cérébrale profonde adaptative en temps réel pour des troubles psychiatriques comme la dépression.",
+          "whyItMatters": "Une stimulation cérébrale profonde adaptative qui répond aux signaux cérébraux en cours pourrait améliorer le ciblage et réduire les effets secondaires, mais ce rapport décrit une avancée d’ingénierie ; les bénéfices cliniques, la sécurité et l’efficacité nécessitent des essais chez l’humain et des études cliniques.",
+          "takeaways": [
+            "LogSync est un développement technologique qui décode la synchronie neuronale et vise à déclencher une neuromodulation réactive avec une très faible consommation d’énergie.",
+            "Les auteurs décrivent le travail comme un progrès d’appareil/technologie ; des essais cliniques et une évaluation réglementaire seraient nécessaires avant une utilisation chez les patients.",
+            "La surveillance adaptative multi-régionale répond à une limite connue des systèmes actuels de stimulation cérébrale profonde, mais des étapes de translation subsistent."
+          ]
+        },
+        "de": {
+          "title": "Neuraler Chip treibt adaptive tiefe Hirnstimulation bei Depression an",
+          "summary": "Forscher der EPFL entwickelten LogSync, ein ultra‑energieeffizientes System‑on‑Chip (unter 200 Mikrowatt), das darauf ausgelegt ist, oszillatorische Synchronität zwischen Hirnregionen zu dekodieren und so reaktionsfähige, Echtzeit‑tiefe Hirnstimulation (DBS) für psychiatrische Erkrankungen wie Depression zu ermöglichen.",
+          "whyItMatters": "Adaptive DBS, das auf laufende Gehirnsignale reagiert, könnte die Zielgenauigkeit verbessern und Nebenwirkungen reduzieren, aber dieser Bericht beschreibt einen ingenieurtechnischen Fortschritt; klinische Vorteile, Sicherheit und Wirksamkeit müssen in Studien am Menschen geprüft werden.",
+          "takeaways": [
+            "LogSync ist eine ingenieurtechnische Entwicklung, die neuronale Synchronität dekodiert und reaktive Neuromodulation mit sehr geringem Energiebedarf anstrebt.",
+            "Die Arbeit wird als Geräte‑/Technologiefortschritt dargestellt; klinische Tests und regulatorische Bewertung wären vor einer Patientenanwendung nötig.",
+            "Adaptive Mehrregionsüberwachung adressiert eine bekannte Limitierung aktueller DBS‑Systeme, doch es bleiben Übersetzungsschritte in die klinische Praxis."
+          ]
+        },
+        "pt-br": {
+          "title": "Chip neural alimenta DBS adaptativa para depressão",
+          "summary": "Pesquisadores da EPFL desenvolveram o LogSync, um sistema em chip (system‑on‑chip) ultrabaixo consumo (abaixo de 200 microwatts) projetado para decodificar a sincronia oscilatória entre regiões cerebrais e viabilizar estimulação cerebral profunda (DBS) responsiva em tempo real para condições psiquiátricas como depressão.",
+          "whyItMatters": "DBS adaptativa que responde a sinais cerebrais em curso poderia melhorar o direcionamento e reduzir efeitos adversos, mas este relatório descreve um avanço de engenharia; benefícios clínicos, segurança e eficácia precisam ser testados em humanos e em ensaios clínicos.",
+          "takeaways": [
+            "O LogSync é um desenvolvimento de engenharia que decodifica sincronia neural e pretende disparar neuromodulação responsiva com consumo de energia muito baixo.",
+            "O trabalho é descrito como avanço de dispositivo/tecnologia; testes clínicos e avaliação regulatória seriam necessários antes do uso em pacientes.",
+            "O monitoramento adaptativo de múltiplas regiões aborda uma limitação conhecida dos sistemas DBS atuais, mas faltam passos de tradução para a prática clínica."
+          ]
+        },
+        "hu": {
+          "title": "Neurális chip táplál adaptív mélyagyi stimulációt a depresszióhoz",
+          "summary": "Az EPFL kutatói kifejlesztették a LogSync nevű, ultraalacsony fogyasztású rendszerchipet (kevesebb mint 200 microwatt), amely a különböző agyterületek oszcillációs szinkronizáltságát dekódolja, és lehetővé teszi a válaszképes, valós idejű mélyagyi stimulációt (DBS) pszichiátriai állapotokban, például depresszióban.",
+          "whyItMatters": "Az adaptív DBS, amely a folyamatban lévő agyi jelekre reagál, javíthatja a célzást és csökkentheti a mellékhatásokat, de ez a beszámoló mérnöki előrelépést ír le; a klinikai előnyöket, a biztonságot és a hatékonyságot embereken végzett vizsgálatok és klinikai kutatások kell hogy igazolják.",
+          "takeaways": [
+            "A LogSync egy mérnöki fejlesztés, amely dekódolja a neurális szinkronizáltságot és célja a válaszképes neuromoduláció kiváltása nagyon alacsony energiafogyasztással.",
+            "A munka eszköz-/technológiai előrelépésként van leírva; a betegellátásban való használathoz klinikai tesztelésre és szabályozói értékelésre lenne szükség.",
+            "Az adaptív, többregió-monitorozás egy ismert korlátot céloz meg a jelenlegi DBS rendszereknél, de a transzlációs lépések még hátravanak."
+          ]
+        },
+        "ar": {
+          "title": "شريحة عصبية تدعم التحفيز الدماغي العميق التكيفي لعلاج الاكتئاب",
+          "summary": "طور باحثون في EPFL نظامًا على رقاقة منخفض الطاقة جدًا يُدعى LogSync (يعمل بأقل من 200 ميكرووات) مصممًا لفك تشفير التزامن التذبذبي بين مناطق المخ وتمكين التحفيز الدماغي العميق التفاعلي في الوقت الحقيقي لحالات نفسية مثل الاكتئاب.",
+          "whyItMatters": "قد يُحسّن التحفيز الدماغي العميق التكيفي الذي يستجيب للإشارات العصبية الجارية من استهداف العلاج ويقلل الآثار الجانبية، لكن هذا التقرير يصف تقدمًا هندسيًا؛ ينبغي اختبار الفوائد السريرية والسلامة والفعالية في البشر وفي تجارب سريرية.",
+          "takeaways": [
+            "LogSync هو تطوير هندسي يهدف إلى فك تشفير التزامن العصبي وتحفيز النموذجية العصبية الاستجابية باستهلاك طاقة منخفض جدًا.",
+            "يُوصَف العمل كتقدم جهازي/تقني من قبل الباحثين؛ قبل الاستخدام للمرضى يلزم اختبار سريري وتقييم تنظيمي.",
+            "المراقبة التكيفية متعددة المناطق تتناول قيدًا معروفًا في أنظمة التحفيز الدماغي الحالية، لكن خطوات الترجمة السريرية لا تزال لازمة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=neural-chip-powers-adaptive-dbs-for-depression-d4af0731315c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neural-chip-powers-adaptive-dbs-for-depression-d4af0731315c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neural-chip-powers-adaptive-dbs-for-depression-d4af0731315c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Neural Chip Powers Adaptive DBS for Depression.\nStory summary: Researchers at EPFL developed LogSync, an ultra-low-power system-on-chip (operating under 200 microwatts) designed to decode oscillatory synchrony across brain regions and enable responsive, real-time deep brain stimulation (DBS) for psychiatric conditions such as depression..\nCategory: Neuroscience & neurotechnology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "could-fish-consumption-reduce-the-risk-of-hypertensive-disorders--c21288c9b3c2",
@@ -4068,6 +4817,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Macrophages settle in the brain after sepsis, driving memory loss.\nStory summary: Researchers report that peripheral macrophages can infiltrate the hippocampus during acute infection, establish long-term residency, and trigger microglial activity that leads to loss of protective myelin — changes linked with lasting memory deficits. The coverage describes experimental research into immune–brain interactions after sepsis..\nCategory: Neuroscience / Brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ai-extracts-broader-health-insights-from-routine-ct-scans-087cd12c4838",
+      "category": "AI in medical imaging",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/ai-extracts-broader-health-insights-from-routine-ct-scans/",
+      "sourceTitle": "AI Extracts Broader Health Insights From Routine CT Scans",
+      "publishedAt": "Tue, 20 Oct 2026 17:12:23 +0000",
+      "languages": {
+        "en": {
+          "title": "AI Extracts Broader Health Insights From Routine CT Scans",
+          "summary": "A study reported that AI analysis of routine CT scans can yield information relevant to a wider range of health conditions than those typically diagnosed from imaging. The article presents this as a research finding suggesting broader potential uses of imaging data.",
+          "whyItMatters": "If validated, repurposing routine imaging with AI could identify additional health risks or conditions opportunistically, but reported research findings need independent replication and assessment of clinical usefulness and ethical implications (incidental findings, follow-up burden).",
+          "takeaways": [
+            "Researchers describe AI extracting broader health signals from standard CT scans beyond intended diagnostic targets.",
+            "This represents research-stage work; further validation is needed to determine accuracy, clinical value and potential harms of broader screening from existing images.",
+            "Implementation would require attention to consent, follow-up pathways and evidence that earlier detection improves outcomes."
+          ]
+        },
+        "es": {
+          "title": "La IA extrae conocimientos de salud más amplios a partir de TC de rutina",
+          "summary": "Un estudio informó que el análisis por IA de tomografías computarizadas (TC) de rutina puede ofrecer información relevante para un rango más amplio de condiciones de salud que aquellas normalmente diagnosticadas a partir de imágenes. El artículo presenta esto como un hallazgo de investigación que sugiere usos potenciales más amplios de los datos de imagen.",
+          "whyItMatters": "Si se valida, reaprovechar imágenes de rutina con IA podría identificar de forma oportunista riesgos o condiciones de salud adicionales, pero los hallazgos de investigación requieren réplica independiente y evaluación de la utilidad clínica y las implicaciones éticas (hallazgos incidentales, carga de seguimiento).",
+          "takeaways": [
+            "Los investigadores describen que la IA extrae señales de salud más amplias de TC estándar, más allá de los objetivos diagnósticos habituales.",
+            "Esto representa trabajo en fase de investigación; se necesita más validación para determinar precisión, valor clínico y posibles daños de ampliar cribados a partir de imágenes existentes.",
+            "La implementación exigiría atención al consentimiento, vías de seguimiento y evidencia de que la detección más temprana mejora los resultados."
+          ]
+        },
+        "ru": {
+          "title": "ИИ извлекает более широкие сведения о здоровье из рутинных КТ‑сканов",
+          "summary": "В исследовании сообщается, что анализ рутинных компьютерных томограмм с помощью ИИ может дать информацию, релевантную для более широкого круга состояний здоровья, чем те, которые обычно диагностируют по изображениям. В статье это представлено как исследовательский результат, указывающий на более широкие потенциальные применения данных визуализации.",
+          "whyItMatters": "Если подтвердится, повторное использование рутинных изображений с ИИ могло бы оппортунистически выявлять дополнительные риски или состояния здоровья, но эти исследовательские данные требуют независимого воспроизведения и оценки клинической ценности и этических последствий (случайные находки, нагрузка на дальнейшее обследование).",
+          "takeaways": [
+            "Исследователи описывают, что ИИ извлекает более широкие сигналы о здоровье из стандартных КТ, выходящие за рамки изначально предполагаемых диагностических задач.",
+            "Это работа на уровне исследования; для определения точности, клинической ценности и возможных вредных последствий расширенного использования изображений требуется дальнейшая валидация.",
+            "Для внедрения потребуется внимание к согласию пациентов, маршрутам последующего обследования и доказательствам того, что более раннее выявление улучшает исходы."
+          ]
+        },
+        "uk": {
+          "title": "ШІ витягує ширші дані про здоров’я з рутинних КТ-сканів",
+          "summary": "Дослідження повідомляє, що аналіз рутинних КТ-сканів за допомогою ШІ може дати інформацію, релевантну для ширшого кола станів здоров’я, ніж ті, які зазвичай діагностують за допомогою візуалізації. У статті це подається як дослідницьке відкриття, що свідчить про ширший потенційний діапазон використання даних візуалізації.",
+          "whyItMatters": "Якщо підтвердиться, повторне використання рутинних зображень із ШІ може дозволити оппортуністично виявляти додаткові ризики або захворювання, але повідомлені результати дослідження потребують незалежного відтворення та оцінки клінічної цінності й етичних наслідків (випадкові знахідки, навантаження на додаткові обстеження).",
+          "takeaways": [
+            "Дослідники описують, як ШІ витягує ширші сигнали про здоров’я зі стандартних КТ-сканів понад очікувані діагностичні цілі.",
+            "Це робота на стадії дослідження; потрібна подальша валідація для визначення точності, клінічної цінності та потенційної шкоди від ширшого скринінгу на основі існуючих зображень.",
+            "Впровадження вимагатиме уваги до згоди, шляхів подальшого обстеження і доказів того, що раннє виявлення покращує результати."
+          ]
+        },
+        "fr": {
+          "title": "L’IA extrait des informations de santé plus larges à partir des scanners CT de routine",
+          "summary": "Une étude a rapporté que l’analyse par IA de scanners CT de routine peut fournir des informations pertinentes pour un éventail plus large d’affections que celles typiquement diagnostiquées à partir de l’imagerie. L’article présente cela comme un résultat de recherche suggérant des usages potentiels élargis des données d’imagerie.",
+          "whyItMatters": "Si cela se confirme, la réutilisation des images de routine avec l’IA pourrait identifier de manière opportuniste des risques ou des conditions supplémentaires, mais les résultats de recherche signalés nécessitent une réplication indépendante et une évaluation de l’utilité clinique et des implications éthiques (découvertes fortuites, charge de suivi).",
+          "takeaways": [
+            "Les chercheurs décrivent l’extraction par IA de signaux de santé plus larges à partir de scanners CT standards au-delà des cibles diagnostiques prévues.",
+            "Il s’agit d’un travail à un stade de recherche ; une validation supplémentaire est nécessaire pour déterminer la précision, la valeur clinique et les potentiels préjudices d’un dépistage élargi à partir des images existantes.",
+            "La mise en œuvre demanderait de prendre en compte le consentement, les voies de suivi et la preuve que la détection précoce améliore les résultats."
+          ]
+        },
+        "de": {
+          "title": "KI gewinnt breitere Gesundheitsinformationen aus routinemäßigen CT‑Scans",
+          "summary": "Eine Studie berichtete, dass KI‑Analysen routinemäßiger CT‑Scans Informationen liefern können, die für ein breiteres Spektrum von Gesundheitszuständen relevant sind als die typischen Diagnosen aus Bildgebung. Der Artikel stellt dies als Forschungsergebnis dar, das auf breitere potenzielle Anwendungen von Bildgebungsdaten hinweist.",
+          "whyItMatters": "Wenn validiert, könnte die Umwidmung routinemäßiger Bildgebung mittels KI zusätzliche Gesundheitsrisiken oder Zustände opportunistisch identifizieren. Allerdings benötigen die berichteten Forschungsergebnisse unabhängige Replikation sowie Bewertung des klinischen Nutzens und ethischer Folgen (inzidente Befunde, Folgebelastung).",
+          "takeaways": [
+            "Forscher beschreiben, dass KI aus Standard‑CT‑Untersuchungen breitere Gesundheitssignale extrahiert, die über die beabsichtigten diagnostischen Ziele hinausgehen.",
+            "Es handelt sich um forschungsbezogene Arbeit; weitere Validierung ist nötig, um Genauigkeit, klinischen Wert und potenzielle Schäden einer breiteren Nutzung vorhandener Bilder zu bestimmen.",
+            "Eine Umsetzung würde Fragen zu Einwilligung, Follow‑up‑Pfaden und dem Nachweis erfordern, dass frühere Entdeckungen zu besseren Ergebnissen führen."
+          ]
+        },
+        "pt-br": {
+          "title": "IA extrai insights de saúde mais amplos a partir de tomografias de rotina",
+          "summary": "Um estudo relatou que a análise por IA de tomografias de rotina pode fornecer informações relevantes para uma gama mais ampla de condições de saúde do que aquelas tipicamente diagnosticadas por imagem. O artigo apresenta isso como um achado de pesquisa que sugere usos potenciais mais amplos dos dados de imagem.",
+          "whyItMatters": "Se validado, reaproveitar imagens de rotina com IA poderia identificar oportunisticamente riscos ou condições adicionais, mas os achados de pesquisa precisam de replicação independente e de avaliação da utilidade clínica e das implicações éticas (achados incidentais, sobrecarga de seguimento).",
+          "takeaways": [
+            "Pesquisadores descrevem que a IA extrai sinais de saúde mais amplos a partir de tomografias padrão, além dos alvos diagnósticos habituais.",
+            "Trata‑se de trabalho em estágio de pesquisa; é necessária validação adicional para determinar precisão, valor clínico e potenciais danos do uso ampliado de imagens existentes.",
+            "A implementação exigiria atenção ao consentimento, fluxos de seguimento e evidência de que a detecção precoce melhora desfechos."
+          ]
+        },
+        "hu": {
+          "title": "Az MI szélesebb körű egészségügyi információkat nyer rutinszerű CT-vizsgálatokból",
+          "summary": "Egy tanulmány arról számolt be, hogy a rutinszerű CT-vizsgálatok MI-elemzése olyan információkat is adhat, amelyek több egészségi állapotra vonatkoznak, mint amiket általában a képalkotásból diagnosztizálnak. A cikk ezt kutatási eredményként mutatja be, amely a képalkotási adatok szélesebb körű felhasználási lehetőségét vetíti előre.",
+          "whyItMatters": "Ha igazolódik, a rutinszerű képalkotás MI-vel történő újrahasznosítása opportunisztikusan további egészségügyi kockázatokat vagy állapotokat azonosíthat, de a jelentett kutatási eredményeknek független reprodukálásra és a klinikai hasznosság, valamint etikai kérdések (véletlen leletek, utókövetési terhek) értékelésére van szükségük.",
+          "takeaways": [
+            "A kutatók leírják, hogy az MI szabványos CT-vizsgálatokból tágabb egészségügyi jeleket tud kinyerni a szokásos diagnosztikai célokon túl.",
+            "Ez kutatási stádiumban lévő munka; további validálás szükséges a pontosság, a klinikai érték és a szélesebb szűrés lehetséges kárainak megítéléséhez.",
+            "A megvalósításhoz figyelemmel kell lenni a beleegyezésre, az utókövetési utakra és arra a bizonyítékra, hogy a korábbi felismerés javítja a kimeneteleket."
+          ]
+        },
+        "ar": {
+          "title": "الذكاء الاصطناعي يستخرج رؤى صحية أوسع من فحوصات الأشعة المقطعية الروتينية",
+          "summary": "أفادت دراسة أن التحليل بالذكاء الاصطناعي لفحوص الأشعة المقطعية الروتينية يمكن أن يولد معلومات ذات صلة بطيف أوسع من الحالات الصحية مقارنة بما يُشخَّص عادةً من الصور. ويُعرض المقال هذه النتيجة كعمل بحثي يقترح إمكانات أوسع لاستخدام بيانات التصوير.",
+          "whyItMatters": "إذا تم التحقق منه، فقد يتيح إعادة استخدام صور التصوير الروتينية عبر الذكاء الاصطناعي اكتشاف مخاطر أو حالات صحية إضافية بطريقة انتهازية، لكن النتائج البحثية المبلغ عنها تحتاج تكرارًا مستقلًا وتقييمًا للفائدة السريرية والآثار الأخلاقية (الاكتشافات العرضية، عبء المتابعة).",
+          "takeaways": [
+            "يصف الباحثون أن الذكاء الاصطناعي يستخرج إشارات صحية أوسع من فحوص الأشعة المقطعية القياسية تتجاوز الأهداف التشخيصية المقصودة.",
+            "يمثل هذا عملًا في مرحلة البحث؛ هناك حاجة لمزيد من التحقق لتحديد الدقة والقيمة السريرية والأضرار المحتملة للتوسيع في الفحص باستخدام الصور الموجودة.",
+            "ستتطلب أي تطبيقات انتباهًا لموضوعات الموافقة ومسارات المتابعة والأدلة على أن الاكتشاف المبكر يحسّن النتائج."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ai-extracts-broader-health-insights-from-routine-ct-scans-087cd12c4838",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-extracts-broader-health-insights-from-routine-ct-scans-087cd12c4838-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ai-extracts-broader-health-insights-from-routine-ct-scans-087cd12c4838-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI Extracts Broader Health Insights From Routine CT Scans.\nStory summary: A study reported that AI analysis of routine CT scans can yield information relevant to a wider range of health conditions than those typically diagnosed from imaging. The article presents this as a research finding suggesting broader potential uses of imaging data..\nCategory: AI in medical imaging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "first-on-cnn-red-light-therapy-for-ivf-embryos-fd66394f3b96",
@@ -109905,6 +110761,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-26-motivation-1-story-1",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Maya's Morning Plan",
+          "story": "Maya used to rush out the door without thinking about breakfast. She started setting aside five minutes the night before to plan and quickly log what she'd have in the morning — coffee, yogurt, or a toast. After a week she noticed which breakfasts left her feeling steady and which led to mid-morning snacking. Instead of judging choices, she used the notes to fine‑tune small swaps and felt more in control of her routine. Tracking became a simple planning tool, not a test of will.",
+          "habit": "Plan and log breakfast the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "El plan matutino de María",
+          "story": "María siempre salía con prisa y no pensaba en el desayuno. Empezó a reservar cinco minutos por la noche para pensar y anotar rápidamente lo que tomaría por la mañana — café, yogur o una tostada. En una semana vio qué desayunos le daban energía sostenida y cuáles la llevaban a picar a media mañana. En lugar de juzgar, usó las notas para hacer pequeños cambios y mejorar su rutina. Registrar se convirtió en una herramienta práctica de planificación, no en una prueba.",
+          "habit": "Planifica y registra el desayuno la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Утренняя привычка Ольги",
+          "story": "Ольга всегда выбегала из дома, не думая о завтраке. Она стала выделять пять минут перед сном, чтобы спланировать и быстро записать, что возьмёт утром — кофе, йогурт или тост. Через неделю она заметила, какие варианты дают ей стабильную энергию и какие ведут к перекусам до обеда. Вместо упрёков к себе Ольга использовала записи для небольших корректировок и почувствовала больше контроля над рутиной. Ведение учёта стало простым инструментом планирования.",
+          "habit": "Спланируй и запиши завтрак накануне.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Ранковий план Олени",
+          "story": "Олена не встигала на сніданок і поспішала з дому. Вона почала виділяти п’ять хвилин увечері, щоб продумати й швидко записати, що з’їсть вранці — кава, йогурт або тост. Через тиждень помітила, які сніданки дають стабільнішу енергію, а які призводять до перекусів до обіду. Без самообвинувачення Олена вносила невеликі зміни за записами й відчула більше контролю над щоденною рутиною. Трекінг став інструментом планування.",
+          "habit": "Сплануй і занотуй сніданок напередодні.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні."
+        },
+        "fr": {
+          "title": "Le rituel du matin de Camille",
+          "story": "Camille partait souvent à l’arrache sans petit‑déjeuner réfléchi. Elle a commencé à prendre cinq minutes la veille pour préparer et noter rapidement ce qu’elle prendrait le matin — un café, un yaourt ou une tartine. Au bout d’une semaine, elle a vu quels choix lui apportaient une énergie stable et lesquels la poussaient à grignoter. Sans jugement, elle a fait de petits ajustements grâce aux notes et a retrouvé une routine plus apaisée. Le suivi est devenu un outil de planification simple.",
+          "habit": "Prépare et enregistre ton petit‑déjeuner la veille.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre aujourd'hui."
+        },
+        "de": {
+          "title": "Lenas Morgenplan",
+          "story": "Lena ist oft gestresst aus dem Haus gegangen und hat kaum gefrühstückt. Sie nahm sich abends fünf Minuten Zeit, um zu planen und kurz zu notieren, was sie morgens essen würde – Kaffee, Joghurt oder ein Brot. Nach einer Woche merkte sie, welche Frühstücke sie stabil hielten und welche zu einem Vormittagssnack führten. Statt sich Vorwürfe zu machen, nutzte sie die Notizen für kleine Anpassungen und fühlte sich sicherer in ihrer Routine. Das Tracking wurde ein praktisches Planungswerkzeug.",
+          "habit": "Plane und protokolliere das Frühstück am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "O plano da manhã da Mariana",
+          "story": "Mariana costumava sair de casa sem pensar no café da manhã. Ela passou a separar cinco minutos à noite para planejar e anotar rapidamente o que tomaria pela manhã — café, iogurte ou uma torrada. Em uma semana percebeu quais opções a mantinham mais disposta e quais a levavam a beliscar antes do almoço. Sem se culpar, fez pequenas trocas com base nas anotações e passou a se sentir mais segura da rotina. O registro virou uma ferramenta prática de planejamento.",
+          "habit": "Planeje e registre o café da manhã na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Katalin reggeli terve",
+          "story": "Katalin sokszor rohant ki az ajtón reggeli nélkül. Elkezdett este öt percet szánni arra, hogy megtervezze és gyorsan feljegyezze, mit fog reggel enni – kávé, joghurt vagy pirítós. Egy hét után észrevette, mely reggelik adják a stabil energiát, és melyekhez vezetnek a korai nassolások. Bűntudat helyett apróbb változtatásokat vezetett be a jegyzetek alapján, és jobban érezte magát a napi rutinjában. A naplózás egyszerű tervezési eszközzé vált.",
+          "habit": "Tervezd meg, és jegyezd fel a reggelit előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "خطة صباح ليلى",
+          "story": "كانت ليلى تغادر المنزل سريعًا دون التفكير في وجبة الإفطار. قررت أن تكرّس خمس دقائق كل مساء لتخطّط وتسجل بسرعة ما ستحضره صباحًا — قهوة، زبادي أو توست. بعد أسبوع لاحظت أي إفطار يمنحها طاقة مستقرة وأيّها يدفعها لتناول وجبات خفيفة قبل الغداء. دون لومٍ على نفسها، قامت بتعديلات بسيطة بناءً على ملاحظاتها وشعرت براحة أكبر في روتينها اليومي. أصبح التسجيل أداة تخطيط بسيطة ومفيدة.",
+          "habit": "خطّطي وسجّلي وجبة الإفطار في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya's Morning Plan.\nStory: Maya used to rush out the door without thinking about breakfast. She started setting aside five minutes the night before to plan and quickly log what she'd have in the morning — coffee, yogurt, or a toast. After a week she noticed which breakfasts left her feeling steady and which led to mid-morning snacking. Instead of judging choices, she used the notes to fine‑tune small swaps and felt more in control of her routine. Tracking became a simple planning tool, not a test of will..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-26-motivation-2-story-2",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Liam's Snack Switch",
+          "story": "Liam noticed he was reaching for chips every afternoon at his desk. He started logging snacks honestly for two weeks — the time, what it was, and what he was doing. Seeing the pattern helped him try one small change: swapping one packet of chips for a handful of nuts twice a week, and choosing a single portion bag the other days. He didn’t aim for perfection, just awareness. The logs showed clear habits he could tweak slowly, which made his afternoons feel less reactive.",
+          "habit": "Log snacks within 15 minutes of eating.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "El cambio de tentempié de Carlos",
+          "story": "Carlos se dio cuenta de que cogía patatas cada tarde en la oficina. Empezó a registrar los tentempiés con sinceridad durante dos semanas: la hora, qué comía y qué hacía. Ver el patrón le permitió probar un pequeño cambio: dos veces por semana cambiar una bolsa de patatas por un puñado de frutos secos y los demás días elegir raciones individuales. No buscaba perfección, solo conciencia. Los registros le mostraron hábitos claros para ajustar poco a poco y días más tranquilos por la tarde.",
+          "habit": "Registra los tentempiés en los 15 minutos siguientes.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Новая привычка перекусов Ивана",
+          "story": "Иван заметил, что каждый день ближе к вечеру тянется к чипсам за рабочим столом. Он стал честно записывать перекусы в течение двух недель — время, что именно и чем был занят. Видя закономерности, он ввёл небольшую замену: два раза в неделю — горсть орехов вместо пачки чипсов, в остальные дни — порционные пакеты. Он не стремился к идеалу, а к осознанности. Записи помогли увидеть поведение и осторожно его скорректировать.",
+          "habit": "Записывай перекусы в течение 15 минут после еды.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Заміна перекусів Тараса",
+          "story": "Тарас помітив, що кожного дня після обіду тягнеться до чіпсів за робочим столом. Він почав чесно записувати перекуси два тижні — час, що їв і чим займався. Побачивши закономірності, вирішив змінити трохи: двічі на тиждень заміну пачки чіпсів на жменьку горіхів, інші дні — обирати порційні пакети. Він не прагнув до ідеалу, а до усвідомленості. Записи допомогли поступово коригувати звички й зробити вечори спокійнішими.",
+          "habit": "Фіксуй перекуси протягом 15 хвилин після їжі.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні."
+        },
+        "fr": {
+          "title": "Le changement de grignote d'Alex",
+          "story": "Alex s'est rendu compte qu'il attrapait des chips chaque après‑midi au bureau. Il a commencé à noter honnêtement ses encas pendant deux semaines — l'heure, ce que c'était et ce qu'il faisait. Ce repérage lui a permis d'essayer un petit ajustement : deux fois par semaine remplacer un sachet de chips par une poignée de fruits secs, et les autres jours choisir des portions individuelles. Il ne cherchait pas la perfection mais la conscience. Les notes ont mis en lumière des habitudes faciles à modifier progressivement.",
+          "habit": "Note tes encas dans les 15 minutes qui suivent.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre aujourd'hui."
+        },
+        "de": {
+          "title": "Jonas' Snack-Wechsel",
+          "story": "Jonas merkte, dass er jeden Nachmittag am Schreibtisch zu Chips griff. Zwei Wochen lang protokollierte er ehrlich seine Snacks – Uhrzeit, was er aß und was er gerade tat. Dieses Muster half ihm, eine kleine Änderung auszuprobieren: zweimal pro Woche eine Handvoll Nüsse statt einer Tüte Chips, an den anderen Tagen eine kleine Portionspackung wählen. Es ging nicht um Perfektion, sondern um Bewusstsein. Die Aufzeichnungen zeigten Verhaltensmuster, die er langsam anpassen konnte.",
+          "habit": "Protokolliere Snacks innerhalb von 15 Minuten nach dem Essen.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "A troca de lanche do Lucas",
+          "story": "Lucas percebeu que todo fim de tarde pegava um pacote de salgadinhos no trabalho. Ele começou a anotar os lanches com honestidade por duas semanas — hora, o que era e o que estava fazendo. Ver esse padrão o ajudou a testar uma mudança pequena: duas vezes por semana trocar um pacote de salgadinho por um punhado de castanhas e nos outros dias escolher porções individuais. Não buscava perfeição, apenas mais consciência. Os registros mostraram hábitos fáceis de ajustar devagarinho.",
+          "habit": "Registre lanches em até 15 minutos após comer.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Dániel nass‑váltása",
+          "story": "Dániel észrevette, hogy minden délután a chips felé nyúl az íróasztalnál. Két héten át őszintén naplózta a nasikat — időpont, mit evett és mit csinált közben. A mintázat láttán kipróbált egy kis változtatást: heti kétszer csomag chips helyett egy marék magvak, a többi napon pedig adagos csomag. Nem a tökéletesség volt a cél, hanem a tudatosság. A jegyzetek segítettek apránként alakítani a szokásokat.",
+          "habit": "Jegyezd fel a nasikat 15 percen belül.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "تغيير وجبة خفيفة لدى يوسف",
+          "story": "لاحظ يوسف أنه يتناول رقائق البطاطس كل بعد ظهر على مكتبه. بدأ يسجل الوجبات الخفيفة بصدق لمدة أسبوعين — الوقت، ما هو عليه، وماذا كان يفعل. ساعده رؤية النمط على تجربة تغيير بسيط: مرتين في الأسبوع يبدل كيس رقائق بقبضة من المكسرات، وفي الأيام الأخرى يختار عبوات قليلة الحجم. لم يسعَ إلى الكمال وإنما إلى الوعي. أظهرت السجلات عادات يمكن تعديلها تدريجيًا وجعلت أمسياته أقل اندفاعًا.",
+          "habit": "سجل الوجبات الخفيفة خلال 15 دقيقة من الأكل.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Liam's Snack Switch.\nStory: Liam noticed he was reaching for chips every afternoon at his desk. He started logging snacks honestly for two weeks — the time, what it was, and what he was doing. Seeing the pattern helped him try one small change: swapping one packet of chips for a handful of nuts twice a week, and choosing a single portion bag the other days. He didn’t aim for perfection, just awareness. The logs showed clear habits he could tweak slowly, which made his afternoons feel less reactive..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-26-motivation-3-story-3",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Ana's Late‑Night Notes",
+          "story": "Ana kept thinking she had to skip recording late‑night snacks because they felt 'embarrassing.' One week she decided to log everything honestly — popcorn during a study break, a spoonful of peanut butter, a glass of milk — without judgement. Seeing the full picture helped her spot triggers: stressful study periods and evenings with low protein at dinner. With that knowledge she planned small swaps and calming routines instead of perfection. The practice of honest logging made her choices clearer and less reactive.",
+          "habit": "Record meals honestly, even small snacks.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Las notas nocturnas de Ana",
+          "story": "Ana pensaba que los snacks nocturnos eran ‘vergonzosos’ y no los anotaba. Una semana decidió registrar todo con sinceridad — palomitas en un descanso de estudio, una cucharada de crema de cacahuete, un vaso de leche — sin juzgarse. Ver el cuadro completo le ayudó a detectar desencadenantes: momentos de estrés por estudiar y cenas con poca proteína. Con esa información planificó pequeños cambios y rutinas relajantes en lugar de buscar la perfección. Registrar con honestidad aclaró sus decisiones y redujo las reacciones impulsivas.",
+          "habit": "Registra las comidas con sinceridad, incluso los snacks pequeños.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Ночные заметки Анны",
+          "story": "Анна думала, что ночные перекусы «стыдно» отмечать, и не вела записи. Одна неделя честного дневника — попкорн во время перерыва, ложка арахисовой пасты, стакан молока — без самоосуждения изменила взгляд. Полная картина показала её триггеры: стрессовые сессии учёбы и ужины с низким содержанием белка. С этими данными она внедрила небольшие замены и успокаивающие ритуалы вместо гонки за идеалом. Честное ведение записей помогло делать выбор осознаннее и спокойнее.",
+          "habit": "Записывай приёмы пищи честно, даже мелкие перекусы.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Нічні нотатки Олени",
+          "story": "Олена вважала, що нічні перекуси соромно фіксувати, тому не записувала їх. Протягом тижня вона вирішила чесно фіксувати все — попкорн під час перерви в навчанні, ложка арахісової пасти, склянка молока — без осуду. Повна картина показала тригери: напружені періоди навчання та вечері з малою кількістю білка. На підставі цього вона ввела невеликі заміни й заспокійливі ритуали замість гонитви за ідеалом. Чесні записи допомогли робити вибір усвідомлено.",
+          "habit": "Реєструй їжу чесно, навіть невеликі перекуси.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні."
+        },
+        "fr": {
+          "title": "Les notes nocturnes de Léa",
+          "story": "Léa pensait que ses grignotages du soir étaient « honteux » et ne les notait pas. Pendant une semaine, elle a consigné tout honnêtement — popcorn pendant une pause d’étude, une cuillerée de beurre de cacahuète, un verre de lait — sans se juger. Le tableau complet a révélé des déclencheurs : périodes d’études stressantes et dîners peu protéinés. Avec ces éléments, elle a adopté de petites substitutions et des routines apaisantes plutôt que la perfection. L’honnêteté dans le suivi a rendu ses choix plus clairs.",
+          "habit": "Consigne tes repas honnêtement, même les petits encas.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre aujourd'hui."
+        },
+        "de": {
+          "title": "Nachtnotizen von Hanna",
+          "story": "Hanna dachte, nächtliche Snacks seien peinlich und hat sie deshalb nicht protokolliert. Eine Woche lang hielt sie alles ehrlich fest — Popcorn in einer Lernpause, ein Löffel Erdnussbutter, ein Glas Milch — ohne sich zu verurteilen. Das Gesamtbild offenbarte Auslöser: stressige Lernphasen und proteinarme Abendessen. Mit diesen Erkenntnissen probierte sie kleine Alternativen und beruhigende Rituale statt Perfektion. Ehrliches Protokollieren machte ihre Entscheidungen klarer und weniger impulsiv.",
+          "habit": "Notiere Mahlzeiten ehrlich, auch kleine Snacks.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "As anotações noturnas da Ana",
+          "story": "Ana achava que os lanches noturnos eram “vergonhosos” e não os registrava. Por uma semana passou a anotar tudo com honestidade — pipoca numa pausa de estudo, uma colher de pasta de amendoim, um copo de leite — sem se julgar. Ver o quadro completo mostrou os gatilhos: períodos de estudo estressantes e jantares com pouca proteína. Com essa informação, ela fez pequenas trocas e rotinas calmantes em vez de buscar perfeição. Registrar com franqueza deixou suas escolhas mais claras e menos reativas.",
+          "habit": "Registre as refeições com honestidade, mesmo os lanches pequenos.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Éjjeli jegyzetek Esztertől",
+          "story": "Eszter szégyellte az éjjeli nassolásait, ezért nem jegyezte fel őket. Egy hétig mindent őszintén naplózott — pattogatott kukorica tanulási szünetben, egy kanál mogyoróvaj, egy pohár tej — ítélkezés nélkül. A teljes kép feltárta a kiváltó okokat: stresszes vizsgaidőszakok és alacsony fehérjetartalmú vacsorák. Ezek ismeretében apró helyettesítéseket és megnyugtató rutint próbált be a tökéletesség hajszolása helyett. Az őszinteség a naplózásban segített világosabb, kevésbé impulzív döntéseket hozni.",
+          "habit": "Jegyezd fel őszintén az étkezéseket, még a kis nassokat is.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "ملاحظات ليلى الليلية",
+          "story": "كانت ليلى تشعر بالحرج من تسجيل وجباتها الخفيفة الليلية، فتتجنّبها. قررت أن تُسجّل كل شيء بصدق لأسبوع — فشار أثناء المذاكرة، ملعقة زبدة فول سوداني، كوب حليب — دون حكم على نفسها. أظهرت الصورة الكاملة المحفزات: فترات ضغط دراسي وعشاء قليل البروتين. بناءً على ذلك جرّبت تبديلات صغيرة وروتينات مهدئة بدلًا من السعي للكمال. جعلها التسجيل الصادق تتخذ قرارات أوضح وبأقل اندفاع.",
+          "habit": "سجّل الوجبات بصدق، حتى الوجبات الخفيفة الصغيرة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Ana's Late‑Night Notes.\nStory: Ana kept thinking she had to skip recording late‑night snacks because they felt 'embarrassing.' One week she decided to log everything honestly — popcorn during a study break, a spoonful of peanut butter, a glass of milk — without judgement. Seeing the full picture helped her spot triggers: stressful study periods and evenings with low protein at dinner. With that knowledge she planned small swaps and calming routines instead of perfection. The practice of honest logging made her choices clearer and less reactive..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-26-motivation-4-story-4",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Mr. Patel's Small Streaks",
+          "story": "Mr. Patel wanted a simple way to be more consistent without big rules. He set a gentle reminder at 7 pm to log at least one meal a day and treated each logged meal as a small win. Some days he logged more; other days just a single dinner entry. Over a month he built a streak of tiny successes and noticed logging felt less like a chore and more like a helpful habit that kept him aware of his patterns. The goal was steady practice, not perfection.",
+          "habit": "Set a daily reminder to log one meal.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Pequeñas rachas de don José",
+          "story": "Don José quería ser más constante sin reglas estrictas. Puso un recordatorio suave a las 19:00 para registrar al menos una comida al día y consideraba cada registro como una pequeña victoria. Unos días registraba más, otros solo la cena. Al mes notó una racha de pequeños éxitos y que registrar ya no era un fastidio, sino un hábito útil que le mantenía atento a sus patrones. La meta fue la práctica constante, no la perfección.",
+          "habit": "Programa un recordatorio diario para registrar una comida.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Маленькие победы господина Иванова",
+          "story": "Господин Иванов хотел выработать постоянную привычку без строгих правил. Он поставил мягкое напоминание в 19:00 — записать хотя бы один приём пищи в день — и воспринимал каждую запись как маленькую победу. В одни дни он записывал больше, в другие только ужин. Через месяц у него появилась цепочка небольших успехов, и ведение записей перестало казаться тягостью, а стало полезной привычкой, помогающей замечать закономерности. Цель — регулярная практика, а не идеал.",
+          "habit": "Установи ежедневное напоминание записать одну еду.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Малі ланцюжки Олександра",
+          "story": "Пан Олександр хотів більше послідовності без суворих правил. Він поставив ніжне нагадування на 19:00, щоб зафіксувати хоча б один прийом їжі на день, і сприймав кожен запис як маленький успіх. Деколи записував більше, деколи лише вечерю. Через місяць у нього з’явилася низка невеликих перемог, і ведення записів перестало бути тягарем, ставши корисною звичкою для помічання шаблонів. Мета — сталість у практиці, а не досконалість.",
+          "habit": "Встанови щоденне нагадування записати одну їжу.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні."
+        },
+        "fr": {
+          "title": "Les petites victoires de M. Durand",
+          "story": "M. Durand souhaitait gagner en régularité sans s’imposer de règles strictes. Il a mis un rappel doux à 19h pour noter au moins un repas par jour et considérait chaque enregistrement comme une petite victoire. Certains jours il notait plus, d’autres seulement le dîner. Au bout d’un mois, il avait enchaîné de petites réussites et le suivi n’était plus une corvée, mais une habitude utile pour repérer ses schémas. L’objectif : la pratique régulière, non la perfection.",
+          "habit": "Programme un rappel quotidien pour noter un repas.",
+          "appCta": "Ouvre Calorie Bank Credit et enregistre aujourd'hui."
+        },
+        "de": {
+          "title": "Herr Müllers kleine Erfolge",
+          "story": "Herr Müller wollte regelmäßiger werden, ohne strenge Regeln. Er stellte eine sanfte Erinnerung um 19 Uhr ein, um wenigstens eine Mahlzeit täglich zu protokollieren, und betrachtete jeden Eintrag als kleinen Erfolg. An manchen Tagen trug er mehr ein, an anderen nur das Abendessen. Nach einem Monat hatte er eine Serie kleiner Siege aufgebaut und merkte, dass das Protokollieren weniger lästig und mehr hilfreiche Gewohnheit wurde, die Muster sichtbar machte. Ziel war stetige Übung, nicht Perfektion.",
+          "habit": "Stelle eine tägliche Erinnerung, eine Mahlzeit zu protokollieren.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein."
+        },
+        "pt-br": {
+          "title": "Pequenas sequências do Sr. Pereira",
+          "story": "O Sr. Pereira queria mais consistência sem regras rígidas. Ele ativou um lembrete suave às 19h para registrar ao menos uma refeição por dia e tratava cada registro como uma pequena vitória. Alguns dias anotava mais, em outros apenas o jantar. Em um mês formou uma sequência de pequenos sucessos e percebeu que registrar deixou de ser tarefa e virou um hábito útil para observar padrões. O objetivo era prática constante, não perfeição.",
+          "habit": "Defina um lembrete diário para registrar uma refeição.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Kis sikersorozat Szabó úrtól",
+          "story": "Szabó úr egyszerű módon akart következetesebb lenni, szigorú szabályok nélkül. Beállított egy lágy emlékeztetőt este 19 órára, hogy naponta legalább egy étkezést rögzítsen, és minden bejegyzést kis sikernek tekintett. Egyes napok több bejegyzést hoztak, máskor csak vacsorát. Egy hónap alatt kialakult egy sor apró sikerekből, és a naplózás már nem teher volt, hanem segítő szokás a minták észrevételére. A cél a következetes gyakorlás volt, nem a tökéletesség.",
+          "habit": "Állíts be napi emlékeztetőt egy étkezés rögzítésére.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma."
+        },
+        "ar": {
+          "title": "سلسلة صغيرة لدى السيد علي",
+          "story": "أراد السيد علي طريقة بسيطة ليصبح أكثر انتظامًا دون قواعد صارمة. وضع تذكيرًا لطيفًا في الساعة السابعة مساءً لتسجيل وجبة واحدة على الأقل يوميًا واعتبر كل تسجيل إنجازًا صغيرًا. في أيامٍ سجّل أكثر، وفي أخرى اقتصر على العشاء فقط. خلال شهر تشكلت سلسلة من النجاحات الصغيرة وشعر أن التسجيل صار عادة مفيدة بدلًا من مهمة مرهقة، تساعده على ملاحظة نمطه. الهدف كان الممارسة المستمرة وليس الكمال.",
+          "habit": "اضبط تذكيرًا يوميًا لتسجيل وجبة واحدة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-26T13:26:39.791Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-26-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Mr. Patel's Small Streaks.\nStory: Mr. Patel wanted a simple way to be more consistent without big rules. He set a gentle reminder at 7 pm to log at least one meal a day and treated each logged meal as a small win. Some days he logged more; other days just a single dinner entry. Over a month he built a streak of tiny successes and noticed logging felt less like a chore and more like a helpful habit that kept him aware of his patterns. The goal was steady practice, not perfection..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-25-motivation-1-s1",
       "category": "calorie-tracking",
