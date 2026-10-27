@@ -1,8 +1,784 @@
 {
-  "generatedAt": "2026-10-26T13:26:39.791Z",
+  "generatedAt": "2026-10-27T12:33:07.104Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "mayo-clinic-discovers-new-ways-to-fight-the-zombie-cells-that-dri-767fc631c1d1",
+      "category": "Healthy ageing & longevity",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+      "sourceTitle": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+      "publishedAt": "Mon, 26 Oct 2026 22:32:38 EDT",
+      "languages": {
+        "en": {
+          "title": "Mayo Clinic reports multiple strategies to target senescent (“zombie”) cells",
+          "summary": "Mayo Clinic researchers summarized seven studies that investigate why senescent cells persist and how they might be targeted. The work identifies new approaches, including a naturally occurring compound found in tomatoes, and reports that experimental interventions reduced inflammation and improved physical and brain outcomes in aging mice.",
+          "whyItMatters": "Senescent cells are implicated in age-related inflammation and tissue dysfunction. These preclinical findings suggest new biological targets and candidate compounds that could inform development of therapies to modify ageing processes—but the evidence is from animal studies and early-stage experiments.",
+          "takeaways": [
+            "Researchers described multiple strategies for targeting senescent cells across seven studies.",
+            "A natural tomato-derived compound was identified as a candidate senolytic in the reports.",
+            "Interventions produced reductions in inflammation and functional improvements in aging mice.",
+            "Findings are preclinical; human safety and efficacy remain untested and require clinical research."
+          ]
+        },
+        "es": {
+          "title": "Mayo Clinic informa múltiples estrategias para dirigirse a las células senescentes (“zombie”)",
+          "summary": "Investigadores de Mayo Clinic resumieron siete estudios que exploran por qué las células senescentes persisten y cómo podrían ser atacadas. El trabajo identifica nuevos enfoques, incluido un compuesto natural presente en los tomates, y reporta que intervenciones experimentales redujeron la inflamación y mejoraron resultados físicos y cerebrales en ratones envejecidos.",
+          "whyItMatters": "Las células senescentes se vinculan con inflamación y disfunción tisular relacionadas con la edad. Estos hallazgos preclínicos sugieren nuevos blancos biológicos y compuestos candidatos que podrían orientar el desarrollo de terapias para modificar procesos de envejecimiento, pero la evidencia proviene de estudios en animales y experimentos tempranos.",
+          "takeaways": [
+            "Los investigadores describieron múltiples estrategias para dirigirse a las células senescentes en siete estudios.",
+            "Se identificó un compuesto natural derivado del tomate como candidato senolítico en los informes.",
+            "Las intervenciones produjeron reducciones de la inflamación y mejoras funcionales en ratones envejecidos.",
+            "Los hallazgos son preclínicos; la seguridad y eficacia en humanos no han sido probadas y requieren investigación clínica."
+          ]
+        },
+        "ru": {
+          "title": "Mayo Clinic сообщает о нескольких стратегиях нацеливания на сенесцентные («зомби») клетки",
+          "summary": "Исследователи Mayo Clinic обобщили семь работ, изучающих, почему сенесцентные клетки сохраняются и как на них можно воздействовать. Работа выявляет новые подходы, включая натуральное соединение, встречающееся в помидорах, и сообщает, что экспериментальные вмешательства снижали воспаление и улучшали физические и мозговые показатели у стареющих мышей.",
+          "whyItMatters": "Сенесцентные клетки связаны с возрастным воспалением и нарушением функции тканей. Эти доклинические результаты указывают на новые биологические мишени и кандидатов на препараты, которые могут помочь в разработке терапий, влияющих на процессы старения — однако доказательства получены в исследованиях на животных и ранних экспериментах.",
+          "takeaways": [
+            "Исследователи описали несколько стратегий нацеливания на сенесцентные клетки в рамках семи исследований.",
+            "В отчетах идентифицировано натуральное соединение, получаемое из помидоров, как кандидат сенолитика.",
+            "Вмешательства приводили к снижению воспаления и функциональным улучшениям у стареющих мышей.",
+            "Результаты доклинические; безопасность и эффективность у людей не проверены и требуют клинических исследований."
+          ]
+        },
+        "uk": {
+          "title": "Mayo Clinic повідомляє про кілька підходів до спрямованої дії на сенесцентні («зомбі») клітини",
+          "summary": "Дослідники Mayo Clinic узагальнили сім досліджень, які вивчають, чому сенесцентні клітини зберігаються й як їх можна було б цілити. Робота вказує на нові підходи, включаючи природну сполуку, що зустрічається в помідорах, і повідомляє, що експериментальні втручання знижували запалення та покращували фізичні й нервові показники в старих мишей.",
+          "whyItMatters": "Сенесцентні клітини пов’язують із віково‑залежним запаленням і порушенням функції тканин. Ці доклінічні результати вказують на нові біологічні мішені й кандидатні сполуки, які можуть допомогти в розробці терапій, що модифікують процеси старіння — але докази отримані в дослідженнях на тваринах і на ранніх етапах експериментів.",
+          "takeaways": [
+            "Дослідники описали кілька стратегій для націлювання на сенесцентні клітини в межах семи досліджень.",
+            "У звітах виокремлено природну сполуку, похідну від помідора, як кандидата на сенолітик.",
+            "Втручання призводили до зниження запалення та покращення функцій у старих мишей.",
+            "Результати доклінічні; безпека та ефективність у людей не встановлені й потребують клінічних досліджень."
+          ]
+        },
+        "fr": {
+          "title": "La Mayo Clinic rapporte plusieurs stratégies visant les cellules sénescentes («zombies»)",
+          "summary": "Les chercheurs de la Mayo Clinic ont synthétisé sept études qui examinent pourquoi les cellules sénescentes persistent et comment elles pourraient être ciblées. Le travail identifie de nouvelles approches, dont un composé d’origine naturelle présent dans les tomates, et rapporte que des interventions expérimentales ont réduit l’inflammation et amélioré des résultats physiques et cérébraux chez des souris âgées.",
+          "whyItMatters": "Les cellules sénescentes sont impliquées dans l’inflammation liée à l’âge et le dysfonctionnement des tissus. Ces résultats précliniques suggèrent de nouvelles cibles biologiques et des composés candidats pouvant orienter le développement de thérapies modifiant le vieillissement — mais les données proviennent d’études animales et d’expériences en phase précoce.",
+          "takeaways": [
+            "Les auteurs décrivent plusieurs stratégies pour cibler les cellules sénescentes à travers sept études.",
+            "Un composé naturel dérivé de la tomate a été identifié comme candidat sénolytique.",
+            "Les interventions ont entraîné des réductions de l’inflammation et des améliorations fonctionnelles chez des souris âgées.",
+            "Les résultats sont précliniques ; la sécurité et l’efficacité chez l’humain restent à tester par des recherches cliniques."
+          ]
+        },
+        "de": {
+          "title": "Mayo Clinic berichtet über mehrere Strategien zum Anvisieren seneszenter („Zombie“) Zellen",
+          "summary": "Forscher der Mayo Clinic fassten sieben Studien zusammen, die untersuchen, warum seneszente Zellen persistieren und wie man sie eventuell gezielt angehen kann. Die Arbeiten identifizieren neue Ansätze, darunter eine natürlich vorkommende Verbindung in Tomaten, und berichten, dass experimentelle Interventionen Entzündungen verringerten und die körperliche sowie geistige Funktion bei alternden Mäusen verbesserten.",
+          "whyItMatters": "Seneszente Zellen werden mit altersbedingter Entzündung und Gewebedysfunktion in Verbindung gebracht. Diese vorklinischen Ergebnisse deuten auf neue biologische Ziele und Kandidatenverbindungen hin, die die Entwicklung von Therapien zur Modifikation von Alterungsprozessen informieren könnten – die Evidenz stammt jedoch aus Tierstudien und frühen Experimenten.",
+          "takeaways": [
+            "Die Forschenden beschrieben mehrere Strategien zum Anvisieren seneszenter Zellen in sieben Studien.",
+            "In den Berichten wurde eine natürliche, tomatenabgeleitete Verbindung als potenzielles Senolytikum identifiziert.",
+            "Die Interventionen führten bei alternden Mäusen zu weniger Entzündung und funktionellen Verbesserungen.",
+            "Die Befunde sind vorklinisch; Sicherheit und Wirksamkeit beim Menschen sind ungetestet und erfordern klinische Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Mayo Clinic relata várias estratégias para atingir células senescentes (“zumbi”)",
+          "summary": "Pesquisadores da Mayo Clinic resumiram sete estudos que investigam por que células senescentes persistem e como elas podem ser alvo de intervenções. O trabalho identifica novas abordagens, incluindo um composto natural encontrado em tomates, e relata que intervenções experimentais reduziram inflamação e melhoraram desfechos físicos e cerebrais em camundongos idosos.",
+          "whyItMatters": "Células senescentes estão implicadas em inflamação e disfunção tecidual relacionadas à idade. Esses achados pré-clínicos sugerem novos alvos biológicos e compostos candidatos que podem orientar o desenvolvimento de terapias para modificar processos de envelhecimento — mas as evidências vêm de estudos em animais e experimentos iniciais.",
+          "takeaways": [
+            "Os pesquisadores descreveram múltiplas estratégias para atacar células senescentes em sete estudos.",
+            "Um composto natural derivado do tomate foi identificado como candidato senolítico nos relatórios.",
+            "As intervenções produziram redução da inflamação e melhorias funcionais em camundongos envelhecidos.",
+            "As descobertas são pré-clínicas; segurança e eficácia em humanos permanecem não testadas e exigem pesquisa clínica."
+          ]
+        },
+        "hu": {
+          "title": "A Mayo Clinic több stratégiát közöl a szeneszcens („zombi”) sejtek célzására",
+          "summary": "A Mayo Clinic kutatói hét tanulmányt foglaltak össze, amelyek azt vizsgálják, miért maradnak fenn a szeneszcens sejtek és hogyan lehetne őket célzottan kezelni. A munka új megközelítéseket azonosít, köztük egy természetes, paradicsomban előforduló vegyületet, és beszámol arról, hogy kísérleti beavatkozások csökkentették a gyulladást és javították az öregedő egerek fizikai teljesítményét és agyi eredményeit.",
+          "whyItMatters": "A szeneszcens sejtek összefüggésbe hozhatók az életkorral kapcsolatos gyulladással és szöveti működési zavarokkal. Ezek a preklinikai eredmények új biológiai célpontokat és potenciális vegyületeket jeleznek, amelyek hozzájárulhatnak az öregedési folyamatokat módosító terápiák fejlesztéséhez — az eredmények azonban állatkísérletekből és korai stádiumú vizsgálatokból származnak.",
+          "takeaways": [
+            "A kutatók többféle stratégiát írtak le a szeneszcens sejtek célzására a hét vizsgált tanulmányban.",
+            "A jelentésekben egy paradicsomból származó természetes vegyületet említenek jelölt szenolitikumként.",
+            "A beavatkozások csökkentették a gyulladást és funkcionális javulást hoztak az öregedő egerekben.",
+            "Az eredmények preklinikaiak; az emberi biztonságosság és hatékonyság nincs bizonyítva, és klinikai kutatást igényel."
+          ]
+        },
+        "ar": {
+          "title": "كلية مايو تبلّغ عن استراتيجيات متعددة لاستهداف الخلايا المسنة («زومبي»)",
+          "summary": "لخص باحثو كلية مايو سبع دراسات تستقصي سبب استمرار وجود الخلايا المسنة وكيف يمكن استهدافها. يحدد العمل مقاربات جديدة، بما في ذلك مركب طبيعي موجود في الطماطم، ويشير إلى أن تدخلات تجريبية خفّضت الالتهاب وحسّنت النتائج البدنية والدماغية في الفئران المسنة.",
+          "whyItMatters": "ترتبط الخلايا المسنة بالالتهاب وتدهور نسيجي المرتبط بالعمر. تشير هذه النتائج قبل السريرية إلى أهداف بيولوجية ومركبات مرشحة قد تُوجّه تطوير علاجات لتعديل عمليات الشيخوخة — لكن الأدلة مستمدة من دراسات على الحيوانات وتجارب مبكرة.",
+          "takeaways": [
+            "وصف الباحثون استراتيجيات متعددة لاستهداف الخلايا المسنة عبر سبع دراسات.",
+            "تم تحديد مركب طبيعي مستخلص من الطماطم كمرشح محتمل لسَنوليتك.",
+            "أدت التدخلات إلى انخفاض في الالتهاب وتحسينات وظيفية في الفئران المسنة.",
+            "النتائج قبل سريرية؛ السلامة والفعالية لدى البشر غير مثبتة وتحتاج إلى بحوث سريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mayo-clinic-discovers-new-ways-to-fight-the-zombie-cells-that-dri-767fc631c1d1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mayo-clinic-discovers-new-ways-to-fight-the-zombie-cells-that-dri-767fc631c1d1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mayo-clinic-discovers-new-ways-to-fight-the-zombie-cells-that-dri-767fc631c1d1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mayo Clinic reports multiple strategies to target senescent (“zombie”) cells.\nStory summary: Mayo Clinic researchers summarized seven studies that investigate why senescent cells persist and how they might be targeted. The work identifies new approaches, including a naturally occurring compound found in tomatoes, and reports that experimental interventions reduced inflammation and improved physical and brain outcomes in aging mice..\nCategory: Healthy ageing & longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "metabolic-heterogeneity-of-obesity-7241ac032fa4",
+      "category": "Nutrition & metabolism",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04718-7",
+      "sourceTitle": "Metabolic heterogeneity of obesity",
+      "publishedAt": "2026-10-27",
+      "languages": {
+        "en": {
+          "title": "Review: obesity is metabolically heterogeneous across cells, organs and people",
+          "summary": "A Nature Medicine Review examines differences between metabolically healthy and unhealthy obesity at the cellular, organ and whole-body levels, and how these differences affect responses to weight-loss interventions. The authors synthesize evidence aiming to improve prevention and treatment strategies for obesity-related metabolic disorders.",
+          "whyItMatters": "Treating obesity as a single condition can miss important biological differences that influence disease risk and treatment response. This review highlights pathways that could guide more personalized interventions, while noting that translating mechanistic insights into clinical practice requires further research.",
+          "takeaways": [
+            "Obesity encompasses diverse metabolic states with distinct cellular and organ-level features.",
+            "Individuals vary in how their metabolism responds to weight loss, suggesting one-size-fits-all approaches may be suboptimal.",
+            "The review identifies research gaps and the need for biomarkers to stratify patients for targeted therapies.",
+            "Evidence is synthesized from multiple studies; new clinical trials are needed to test tailored strategies."
+          ]
+        },
+        "es": {
+          "title": "Revisión: la obesidad es metabólicamente heterogénea entre células, órganos y personas",
+          "summary": "Una revisión en Nature Medicine examina las diferencias entre la obesidad metabólicamente sana y no sana a nivel celular, orgánico y corporal, y cómo estas diferencias afectan la respuesta a intervenciones para perder peso. Los autores sintetizan evidencia con el objetivo de mejorar estrategias de prevención y tratamiento de los trastornos metabólicos relacionados con la obesidad.",
+          "whyItMatters": "Tratar la obesidad como una única condición puede pasar por alto diferencias biológicas importantes que influyen en el riesgo de enfermedad y la respuesta al tratamiento. Esta revisión destaca vías que podrían guiar intervenciones más personalizadas, al tiempo que señala que traducir conocimientos mecanísticos a la práctica clínica requiere más investigación.",
+          "takeaways": [
+            "La obesidad comprende diversos estados metabólicos con características celulares y a nivel de órganos distintas.",
+            "Las personas varían en cómo su metabolismo responde a la pérdida de peso, lo que sugiere que enfoques uniformes pueden ser subóptimos.",
+            "La revisión identifica lagunas de investigación y la necesidad de biomarcadores para estratificar a los pacientes para terapias dirigidas.",
+            "La evidencia se sintetiza a partir de múltiples estudios; se necesitan nuevos ensayos clínicos para probar estrategias personalizadas."
+          ]
+        },
+        "ru": {
+          "title": "Обзор: при ожирении наблюдается метаболическая гетерогенность между клетками, органами и людьми",
+          "summary": "Обзор в Nature Medicine рассматривает различия между метаболически «здоровым» и «нездоровым» ожирением на клеточном, органном и системном уровнях и то, как эти различия влияют на ответы на вмешательства по снижению веса. Авторы синтезируют доказательства с целью улучшения стратегий профилактики и лечения метаболических нарушений, связанных с ожирением.",
+          "whyItMatters": "Рассмотрение ожирения как единой болезни может упустить важные биологические различия, влияющие на риск заболевания и ответ на лечение. Этот обзор выделяет пути, которые могли бы направлять более персонализированные вмешательства, но отмечает, что перенести механистические данные в клиническую практику требуется дальнейшее исследование.",
+          "takeaways": [
+            "Ожирение включает разнообразные метаболические состояния с отличительными клеточными и органными особенностями.",
+            "У людей различается реакция метаболизма на потерю веса, что указывает на то, что единый подход может быть не оптимальным.",
+            "Обзор выявляет пробелы в исследованиях и необходимость биомаркеров для стратификации пациентов для таргетированных терапий.",
+            "Данные синтезированы из множества исследований; необходимы новые клинические испытания для проверки персонализированных стратегий."
+          ]
+        },
+        "uk": {
+          "title": "Огляд: ожиріння метаболічно неоднорідне на рівні клітин, органів і людей",
+          "summary": "Огляд у Nature Medicine аналізує відмінності між метаболічно «здоровим» і «нездоровим» ожирінням на рівні клітин, органів і всього організму, а також те, як ці відмінності впливають на реакцію на втрату ваги. Автори синтезують докази з метою покращення профілактики та лікування метаболічних розладів, пов’язаних з ожирінням.",
+          "whyItMatters": "Розгляд ожиріння як єдиної хвороби може пропустити важливі біологічні відмінності, що впливають на ризик захворювання й відповідь на лікування. Огляд висвітлює шляхи, які могли б спрямувати персоналізовані втручання, але переклад механістичних висновків у клінічну практику потребує подальших досліджень.",
+          "takeaways": [
+            "Ожиріння охоплює різні метаболічні стани з відмінними клітинними й органними особливостями.",
+            "Індивіди по‑різному реагують метаболічно на втрату ваги, що свідчить про те, що підхід «один розмір для всіх» може бути неефективним.",
+            "Огляд виокремлює прогалини в дослідженнях і потребу в біомаркерах для стратифікації пацієнтів для таргетованих терапій.",
+            "Докази синтезовано з кількох досліджень; потрібні нові клінічні випробування для перевірки індивідуалізованих стратегій."
+          ]
+        },
+        "fr": {
+          "title": "Revue : l’obésité est métaboliquement hétérogène au niveau cellulaire, des organes et des personnes",
+          "summary": "Une revue de Nature Medicine examine les différences entre l’obésité métaboliquement saine et non saine aux niveaux cellulaire, organique et corporel, et la manière dont ces différences influencent la réponse aux interventions de perte de poids. Les auteurs synthétisent des preuves pour améliorer la prévention et le traitement des troubles métaboliques liés à l’obésité.",
+          "whyItMatters": "Traiter l’obésité comme une unique condition peut masquer des différences biologiques importantes qui influencent le risque de maladie et la réponse au traitement. Cette revue met en évidence des voies potentielles pour orienter des interventions plus personnalisées, tout en notant que la traduction des connaissances mécanistiques en pratique clinique nécessite davantage de recherches.",
+          "takeaways": [
+            "L’obésité englobe des états métaboliques divers avec des caractéristiques distinctes au niveau cellulaire et des organes.",
+            "Les individus varient dans leur réponse métabolique à la perte de poids, ce qui suggère que les approches uniformes peuvent être sous‑optimales.",
+            "La revue identifie des lacunes de recherche et le besoin de biomarqueurs pour stratifier les patients en vue de thérapies ciblées.",
+            "Les preuves sont issues de plusieurs études ; de nouveaux essais cliniques sont nécessaires pour tester des stratégies adaptées."
+          ]
+        },
+        "de": {
+          "title": "Review: Adipositas ist metabolisch heterogen auf Zellebene, Organebene und bei Menschen",
+          "summary": "Ein Review in Nature Medicine untersucht Unterschiede zwischen metabolisch gesunder und ungesunder Adipositas auf zellulärer, Organ- und Ganzkörperebene und wie diese Unterschiede Reaktionen auf Gewichtsreduktionsmaßnahmen beeinflussen. Die Autorinnen und Autoren synthetisieren Belege mit dem Ziel, Präventions- und Behandlungsstrategien für adipositasbedingte Stoffwechselstörungen zu verbessern.",
+          "whyItMatters": "Adipositas als einheitliche Erkrankung zu behandeln kann wichtige biologische Unterschiede übersehen, die Krankheitsrisiko und Behandlungsantwort beeinflussen. Dieses Review hebt Signalwege hervor, die personalisierte Interventionen leiten könnten, stellt aber fest, dass die Übersetzung mechanistischer Einsichten in die klinische Praxis weitere Forschung erfordert.",
+          "takeaways": [
+            "Adipositas umfasst unterschiedliche metabolische Zustände mit charakteristischen Merkmalen auf Zell- und Organebene.",
+            "Individuen unterscheiden sich darin, wie ihr Stoffwechsel auf Gewichtsverlust reagiert, was Einheitslösungen suboptimal erscheinen lässt.",
+            "Das Review identifiziert Forschungs­lücken und den Bedarf an Biomarkern zur Stratifizierung von Patientinnen und Patienten für gezielte Therapien.",
+            "Die Evidenz stammt aus mehreren Studien; neue klinische Studien sind nötig, um maßgeschneiderte Strategien zu testen."
+          ]
+        },
+        "pt-br": {
+          "title": "Revisão: obesidade é metabolicamente heterogênea entre células, órgãos e pessoas",
+          "summary": "Uma revisão na Nature Medicine examina diferenças entre obesidade metabolicamente saudável e não saudável em níveis celular, de órgãos e do corpo inteiro, e como essas diferenças afetam respostas a intervenções de perda de peso. Os autores sintetizam evidências com objetivo de melhorar estratégias de prevenção e tratamento de distúrbios metabólicos relacionados à obesidade.",
+          "whyItMatters": "Tratar a obesidade como uma condição única pode deixar de capturar diferenças biológicas importantes que influenciam risco de doença e resposta ao tratamento. Esta revisão destaca vias que poderiam orientar intervenções mais personalizadas, observando que traduzir insights mecanísticos para a prática clínica exige mais pesquisa.",
+          "takeaways": [
+            "A obesidade engloba estados metabólicos diversos com características celulares e orgânicas distintas.",
+            "Indivíduos variam em como seu metabolismo responde à perda de peso, sugerindo que abordagens iguais para todos podem ser subótimas.",
+            "A revisão identifica lacunas de pesquisa e a necessidade de biomarcadores para estratificar pacientes para terapias direcionadas.",
+            "As evidências são sintetizadas de múltiplos estudos; novos ensaios clínicos são necessários para testar estratégias personalizadas."
+          ]
+        },
+        "hu": {
+          "title": "Áttekintés: az elhízás anyagcseréje sejtszinten, szervi szinten és egyénenként eltérő",
+          "summary": "A Nature Medicine áttekintés a metabolikusan egészséges és egészségtelen elhízás közötti különbségeket vizsgálja sejtes, szervi és teljes test szinten, illetve azt, hogyan befolyásolják ezek a különbségek a fogyásra adott válaszokat. A szerzők az bizonyítékokat szintetizálják azzal a céllal, hogy javítsák az elhízással kapcsolatos anyagcsere-rendellenességek megelőzését és kezelését.",
+          "whyItMatters": "Az elhízás egyetlen állapotként kezelése fontos biológiai különbségeket hagyhat figyelmen kívül, amelyek befolyásolják a betegségkockázatot és a kezelésre adott választ. Ez az áttekintés olyan útvonalakat emel ki, amelyek irányt adhatnak a személyre szabottabb beavatkozásokhoz, ugyanakkor megjegyzi, hogy a mechanisztikus ismeretek klinikai gyakorlatba ültetéséhez további kutatás szükséges.",
+          "takeaways": [
+            "Az elhízás különböző anyagcsere-állapotokat foglal magában, amelyek eltérő sejtes és szervi jellemzőkkel rendelkeznek.",
+            "Az egyének eltérően reagálnak anyagcseréjük szempontjából a testsúlycsökkenésre, ami azt jelzi, hogy az egyetlen megközelítés nem feltétlenül optimális.",
+            "Az áttekintés kutatási hiányosságokat azonosít és biomarkerek szükségességét a betegek rétegzéséhez célzott terápiákhoz.",
+            "A bizonyítékokat több tanulmányból szintetizálták; új klinikai vizsgálatok szükségesek a személyre szabott stratégiák teszteléséhez."
+          ]
+        },
+        "ar": {
+          "title": "مراجعة: السمنة متنوعة أيضياً عبر الخلايا والأعضاء والأشخاص",
+          "summary": "تستعرض مراجعة في Nature Medicine الاختلافات بين السمنة الأيضية الصحية وغير الصحية على مستوى الخلايا والأعضاء والجسم ككل، وكيف تؤثر هذه الاختلافات على استجابات فقدان الوزن. يجمع المؤلفون الأدلة بهدف تحسين استراتيجيات الوقاية والعلاج للاضطرابات الأيضية المرتبطة بالسمنة.",
+          "whyItMatters": "معاملة السمنة كحالة واحدة قد يغفل اختلافات بيولوجية مهمة تؤثر على خطر المرض واستجابة العلاج. تبرز هذه المراجعة مسارات يمكن أن توجه تدخلات أكثر تخصيصاً، مع التأكيد على أن تحويل الرؤى الميكانيكية إلى الممارسة السريرية يتطلب مزيداً من البحث.",
+          "takeaways": [
+            "تشتمل السمنة على حالات أيضية متنوعة لها ميزات خلوية وعضوية مميزة.",
+            "الأفراد يختلفون في كيفية استجابة أيضهم لفقدان الوزن، ما يوحي بأن نهجاً واحداً قد لا يكون مثالياً.",
+            "تحدد المراجعة ثغرات بحثية والحاجة إلى مؤشرات حيوية لتصنيف المرضى للعلاجات المستهدفة.",
+            "الأدلة مجمعة من دراسات متعددة؛ ثمة حاجة لتجارب سريرية جديدة لاختبار استراتيجيات مخصصة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=metabolic-heterogeneity-of-obesity-7241ac032fa4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metabolic-heterogeneity-of-obesity-7241ac032fa4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metabolic-heterogeneity-of-obesity-7241ac032fa4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Review: obesity is metabolically heterogeneous across cells, organs and people.\nStory summary: A Nature Medicine Review examines differences between metabolically healthy and unhealthy obesity at the cellular, organ and whole-body levels, and how these differences affect responses to weight-loss interventions. The authors synthesize evidence aiming to improve prevention and treatment strategies for obesity-related metabolic disorders..\nCategory: Nutrition & metabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "brain-stimulation-stops-sexual-objectification-04f2b56422e2",
+      "category": "Neuroscience & brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/brain-stimulation-objectification-32344/",
+      "sourceTitle": "Brain Stimulation Stops Sexual Objectification",
+      "publishedAt": "Mon, 26 Oct 2026 20:51:59 +0000",
+      "languages": {
+        "en": {
+          "title": "Short session of non‑invasive brain stimulation reduced objectification bias in a study",
+          "summary": "A study reported that 10 minutes of non‑invasive brain stimulation temporarily restored more holistic human recognition when participants viewed sexualized images, reducing a tendency to process people as objects rather than as whole persons.",
+          "whyItMatters": "The work offers experimental evidence that targeted brain stimulation can alter social perception in the short term, which helps researchers understand neural mechanisms of objectification. The effect was temporary and from a single experimental study, so clinical or long-term applications are not established.",
+          "takeaways": [
+            "Non‑invasive brain stimulation produced a short‑term reduction in objectification bias in the study sample.",
+            "Results illuminate neural contributors to social perception but do not imply a ready clinical intervention.",
+            "Replication, larger samples and testing of durability and safety are needed before considering applied uses."
+          ]
+        },
+        "es": {
+          "title": "Sesión breve de estimulación cerebral no invasiva redujo el sesgo de objetificación en un estudio",
+          "summary": "Un estudio informó que 10 minutos de estimulación cerebral no invasiva restauraron temporalmente un reconocimiento humano más holístico cuando los participantes vieron imágenes sexualizadas, reduciendo la tendencia a procesar a las personas como objetos en lugar de seres completos.",
+          "whyItMatters": "El trabajo aporta evidencia experimental de que la estimulación cerebral dirigida puede alterar la percepción social a corto plazo, lo que ayuda a entender los mecanismos neuronales de la objetificación. El efecto fue temporal y proviene de un solo estudio experimental, por lo que no están establecidas aplicaciones clínicas o a largo plazo.",
+          "takeaways": [
+            "La estimulación cerebral no invasiva produjo una reducción a corto plazo del sesgo de objetificación en la muestra del estudio.",
+            "Los resultados iluminan contribuyentes neuronales a la percepción social pero no implican una intervención clínica lista para usar.",
+            "Se necesitan replicación, muestras más grandes y pruebas de durabilidad y seguridad antes de considerar usos aplicados."
+          ]
+        },
+        "ru": {
+          "title": "Короткая сессия неинвазивной стимуляции мозга уменьшила предвзятость объектификации в исследовании",
+          "summary": "Исследование показало, что 10 минут неинвазивной стимуляции мозга временно восстанавливали более целостное распознавание людей при демонстрации сексуализированных изображений, снижая склонность воспринимать людей как объекты, а не как целостных личностей.",
+          "whyItMatters": "Работа даёт экспериментальные данные о том, что направленная стимуляция мозга может кратковременно менять социальное восприятие, что помогает понять нейронные механизмы объектификации. Эффект был временным и получен в одном экспериментальном исследовании, поэтому клинические или долгосрочные применения не установлены.",
+          "takeaways": [
+            "Неинвазивная стимуляция мозга вызвала краткосрочное снижение предвзятости объектификации в выборке исследования.",
+            "Результаты проясняют нейронные вкладчики в социальное восприятие, но не означают готовую клиническую интервенцию.",
+            "Перед рассмотрением прикладного использования необходимы повторные исследования, большие выборки и оценка стойкости эффекта и безопасности."
+          ]
+        },
+        "uk": {
+          "title": "Коротка сесія неінвазивної стимуляції мозку тимчасово зменшила упередженість об’єктивації в дослідженні",
+          "summary": "Дослідження повідомило, що 10 хвилин неінвазивної стимуляції мозку тимчасово відновили більш цілісне сприйняття людей під час перегляду сексуалізованих зображень, зменшуючи схильність розглядати людей як об’єкти замість цілісних осіб.",
+          "whyItMatters": "Робота дає експериментальні докази того, що спрямована стимуляція мозку може короткостроково змінювати соціальне сприйняття, допомагаючи зрозуміти нейронні механізми об’єктивації. Ефект був тимчасовим і отриманий в єдиному експериментальному дослідженні, тому клінічні або довготривалі застосування не встановлені.",
+          "takeaways": [
+            "У дослідженні неінвазивна стимуляція мозку спричинила короткочасне зниження упередженості об’єктивації.",
+            "Результати проливають світло на нейронні чинники соціального сприйняття, але не означають наявність готового клінічного втручання.",
+            "Потрібні відтворення, більші вибірки та перевірка стійкості й безпеки ефекту перед розглядом прикладного використання."
+          ]
+        },
+        "fr": {
+          "title": "Une courte séance de stimulation cérébrale non invasive a réduit temporairement le biais d’objectivation dans une étude",
+          "summary": "Une étude rapporte que 10 minutes de stimulation cérébrale non invasive ont temporairement restauré une reconnaissance plus holistique des personnes lorsqu’elles regardaient des images sexualisées, réduisant la tendance à traiter les personnes comme des objets plutôt que comme des individus à part entière.",
+          "whyItMatters": "Le travail fournit des preuves expérimentales que la stimulation cérébrale ciblée peut modifier à court terme la perception sociale, ce qui aide à comprendre les mécanismes neuronaux de l’objectivation. L’effet était temporaire et provient d’une seule étude expérimentale, donc les applications cliniques ou à long terme ne sont pas établies.",
+          "takeaways": [
+            "La stimulation cérébrale non invasive a produit une réduction à court terme du biais d’objectivation dans l’échantillon étudié.",
+            "Les résultats éclairent les contributions neuronales à la perception sociale mais n’impliquent pas une intervention clinique prête à l’emploi.",
+            "Des réplications, des échantillons plus larges et des tests de la durabilité et de la sécurité sont nécessaires avant d’envisager des usages appliqués."
+          ]
+        },
+        "de": {
+          "title": "Kurze Sitzung nicht‑invasiver Hirnstimulation verringerte Objektifizierungsbias in einer Studie",
+          "summary": "Eine Studie berichtete, dass 10 Minuten nicht‑invasiver Hirnstimulation vorübergehend eine ganzheitlichere menschliche Wahrnehmung wiederherstellten, als Teilnehmende sexualisierte Bilder betrachteten, und damit die Tendenz verringerten, Menschen eher als Objekte statt als ganze Personen zu verarbeiten.",
+          "whyItMatters": "Die Arbeit liefert experimentelle Belege, dass gezielte Hirnstimulation soziale Wahrnehmung kurzfristig verändern kann und hilft, neuronale Mechanismen der Objektifizierung zu verstehen. Der Effekt war vorübergehend und stammt aus einer einzelnen experimentellen Studie, daher sind klinische oder langfristige Anwendungen nicht etabliert.",
+          "takeaways": [
+            "Nicht‑invasive Hirnstimulation führte in der Studienprobe zu einer kurzfristigen Reduktion des Objektifizierungsbias.",
+            "Die Ergebnisse beleuchten neuronale Beiträge zur sozialen Wahrnehmung, implizieren aber keine sofort anwendbare klinische Intervention.",
+            "Replikation, größere Stichproben sowie Prüfungen zur Dauerhaftigkeit und Sicherheit sind nötig, bevor Anwendungen in Betracht gezogen werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Sessão curta de estimulação cerebral não invasiva reduziu viés de objetificação em estudo",
+          "summary": "Um estudo relatou que 10 minutos de estimulação cerebral não invasiva restauraram temporariamente um reconhecimento humano mais holístico quando participantes viram imagens sexualizadas, reduzindo a tendência de processar pessoas como objetos em vez de como pessoas completas.",
+          "whyItMatters": "O trabalho oferece evidência experimental de que estimulação cerebral direcionada pode alterar a percepção social no curto prazo, ajudando a entender mecanismos neurais da objetificação. O efeito foi temporário e provém de um único estudo experimental, portanto aplicações clínicas ou de longo prazo não estão estabelecidas.",
+          "takeaways": [
+            "A estimulação cerebral não invasiva produziu redução de curto prazo no viés de objetificação na amostra do estudo.",
+            "Os resultados elucidam contribuições neurais à percepção social, mas não implicam uma intervenção clínica pronta.",
+            "São necessárias replicação, amostras maiores e testes sobre durabilidade e segurança antes de considerar usos aplicados."
+          ]
+        },
+        "hu": {
+          "title": "Rövid nem‑invazív agyi stimulációs ülés rövid távon csökkentette az objektifikálási torzítást egy vizsgálatban",
+          "summary": "Egy tanulmány arról számolt be, hogy 10 perc nem‑invazív agyi stimuláció átmenetileg helyreállította a holisztikus emberfelismerést, amikor a résztvevők sexualizált képeket néztek, így csökkent a hajlam arra, hogy az embereket tárgyként, ne pedig teljes személyekként dolgozzák fel.",
+          "whyItMatters": "A munka kísérleti bizonyítékot ad arra, hogy célzott agyi stimuláció rövid távon megváltoztathatja a társas észlelést, ami segít megérteni az objektifikálás neurális mechanizmusait. A hatás átmeneti volt és egyetlen kísérleti tanulmányból származik, ezért a klinikai vagy hosszú távú alkalmazások nem megállapítottak.",
+          "takeaways": [
+            "A nem‑invazív agyi stimuláció a vizsgálat mintájában rövid távon csökkentette az objektifikálási torzítást.",
+            "Az eredmények világítanak rá a társas észlelés neurális hozzájárulásaira, de nem jelentenek kész klinikai beavatkozást.",
+            "A használathoz replikáció, nagyobb minták és a hatás tartósságának és biztonságának vizsgálata szükséges."
+          ]
+        },
+        "ar": {
+          "title": "جلسة قصيرة من التحفيز الدماغي غير الغازي خفضت الانحياز نحو تجسيد الأشخاص في دراسة",
+          "summary": "أفادت دراسة أن 10 دقائق من التحفيز الدماغي غير الغازي أعادت مؤقتاً إدراكاً أكثر شمولية عند مشاهد المشاركين لصور مُحولَة جنسياً، مما قلّل الميل إلى معالجة الأشخاص كأشياء بدلاً من كأشخاص متكاملين.",
+          "whyItMatters": "تقدّم الدراسة دليلاً تجريبياً على أن التحفيز الدماغي المستهدف يمكن أن يغيّر الإدراك الاجتماعي على المدى القصير، مما يساعد الباحثين على فهم الآليات العصبية للتجسيد. كان الأثر مؤقتاً ومن دراسة تجريبية واحدة، لذا لم تُثبت التطبيقات السريرية أو طويلة الأمد.",
+          "takeaways": [
+            "أنتج التحفيز الدماغي غير الغازي انخفاضاً مؤقتاً في انحياز التجسيد في عينة الدراسة.",
+            "تُسلّط النتائج الضوء على المساهمات العصبية في الإدراك الاجتماعي لكنها لا تعني تدخلاً سريرياً جاهزاً.",
+            "هناك حاجة إلى تكرار النتائج، عينات أكبر، وفحص الديمومة والسلامة قبل النظر في تطبيقات عملية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=brain-stimulation-stops-sexual-objectification-04f2b56422e2",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-stimulation-stops-sexual-objectification-04f2b56422e2-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-stimulation-stops-sexual-objectification-04f2b56422e2-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Short session of non‑invasive brain stimulation reduced objectification bias in a study.\nStory summary: A study reported that 10 minutes of non‑invasive brain stimulation temporarily restored more holistic human recognition when participants viewed sexualized images, reducing a tendency to process people as objects rather than as whole persons..\nCategory: Neuroscience & brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "magic-drug-reduces-risk-of-death-by-44-in-lung-cancer-trial-888998893134",
+      "category": "Cancer treatment",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/esmo/123588",
+      "sourceTitle": "'Magic Drug' Reduces Risk of Death by 44% in Lung Cancer Trial",
+      "publishedAt": "Mon, 26 Oct 2026 15:26:59 -0400",
+      "languages": {
+        "en": {
+          "title": "Phase III trial: next-generation KRAS G12C inhibitor shows large survival benefit in NSCLC",
+          "summary": "A phase III trial reported that a next-generation KRAS G12C inhibitor significantly improved survival versus earlier-generation drugs in patients with previously treated advanced or metastatic non–small cell lung cancer. The study found a substantial relative reduction in risk of death compared with first-generation KRAS G12C inhibitors.",
+          "whyItMatters": "KRAS G12C is a targetable mutation in a subset of lung cancers; a new drug that improves survival in a phase III trial may change treatment options for these patients, pending regulatory review and broader clinical adoption. Results from a single trial should be confirmed and contextualized with safety and longer-term data.",
+          "takeaways": [
+            "The trial is phase III and compares a next-generation KRAS G12C inhibitor to earlier drugs in previously treated NSCLC.",
+            "Reported relative reduction in risk of death was large (headline: 44%), indicating a meaningful survival signal in this trial.",
+            "Regulatory approval, wider safety data and independent confirmation will determine clinical impact.",
+            "Findings apply to patients with the KRAS G12C mutation; mutation testing is required to identify eligible patients."
+          ]
+        },
+        "es": {
+          "title": "Ensayo fase III: inhibidor de próxima generación de KRAS G12C muestra gran beneficio de supervivencia en NSCLC",
+          "summary": "Un ensayo de fase III informó que un inhibidor de KRAS G12C de próxima generación mejoró significativamente la supervivencia frente a fármacos de generación anterior en pacientes con cáncer de pulmón no microcítico avanzado o metastásico previamente tratado. El estudio encontró una reducción relativa sustancial del riesgo de muerte comparado con inhibidores de primera generación.",
+          "whyItMatters": "KRAS G12C es una mutación diana en un subconjunto de cánceres de pulmón; un nuevo fármaco que mejora la supervivencia en un ensayo de fase III podría cambiar las opciones de tratamiento para estos pacientes, a la espera de revisión regulatoria y adopción clínica más amplia. Los resultados de un único ensayo deben confirmarse y contextualizarse con datos de seguridad y a más largo plazo.",
+          "takeaways": [
+            "El ensayo es fase III y compara un inhibidor de KRAS G12C de próxima generación con fármacos anteriores en NSCLC previamente tratado.",
+            "Se reportó una gran reducción relativa del riesgo de muerte (titular: 44%), indicando una señal de supervivencia relevante en este ensayo.",
+            "La aprobación regulatoria, datos de seguridad más amplios y confirmación independiente determinarán el impacto clínico.",
+            "Los hallazgos se aplican a pacientes con la mutación KRAS G12C; se requiere testeo de la mutación para identificar a los elegibles."
+          ]
+        },
+        "ru": {
+          "title": "Фаза III: ингибитор KRAS G12C следующего поколения показал существенное преимущество по выживаемости при НМРЛ",
+          "summary": "В рандомизированном исследовании фазы III сообщается, что ингибитор KRAS G12C следующего поколения значительно улучшил выживаемость по сравнению с препаратами раннего поколения у пациентов с ранее леченным местнораспространённым или метастатическим немелкоклеточным раком лёгкого. В исследовании зафиксировано существенное относительное снижение риска смерти по сравнению с ингибиторами первого поколения KRAS G12C.",
+          "whyItMatters": "KRAS G12C — это мишень в подгруппе раков лёгкого; новый препарат, улучшающий выживаемость в исследовании фазы III, может изменить варианты лечения для таких пациентов после регуляторной оценки и широкого клинического внедрения. Результаты одного исследования следует подтвердить и рассмотреть в контексте данных по безопасности и долгосрочных результатов.",
+          "takeaways": [
+            "Исследование относится к фазе III и сравнивает ингибитор KRAS G12C следующего поколения с предыдущими препаратами у ранее лечившихся пациентов с НМРЛ.",
+            "Сообщено о крупном относительном снижении риска смерти (в заголовке: 44%), что указывает на значимый сигнал по выживаемости в этом исследовании.",
+            "Регуляторное одобрение, расширенные данные по безопасности и независимое подтверждение определят клиническое значение.",
+            "Результаты относятся к пациентам с мутацией KRAS G12C; для выявления подходящих пациентов необходим тест на мутацию."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження фази III: інгібітор KRAS G12C наступного покоління показує значну перевагу в виживанні при немалоклітинному раку легень",
+          "summary": "У дослідженні фази III повідомили, що інгібітор KRAS G12C наступного покоління істотно покращив виживання порівняно з препаратами попереднього покоління у пацієнтів з раніше лікуваним прогресуючим або метастатичним немалоклітинним раком легень. Дослідження виявило суттєве відносне зниження ризику смерті порівняно з інгібіторами першого покоління KRAS G12C.",
+          "whyItMatters": "KRAS G12C — це мутація, яка піддається таргетній терапії в частині випадків раку легень; новий препарат, що покращує виживання у дослідженні фази III, може змінити варіанти лікування для цих пацієнтів за умови регуляторного схвалення та ширшого впровадження клінічною спільнотою. Результати одного випробування потребують підтвердження та контекстуалізації з урахуванням даних з безпеки та довгострокових наслідків.",
+          "takeaways": [
+            "Дослідження — фази III і порівнює інгібітор KRAS G12C наступного покоління з попередніми препаратами у пацієнтів з раніше лікуваним НМРЛ.",
+            "Повідомлене відносне зниження ризику смерті було значним (заголовок: 44 %), що свідчить про помітний сигнал щодо виживання в цьому випробуванні.",
+            "Регуляторне схвалення, ширші дані щодо безпеки та незалежне підтвердження визначатимуть клінічний вплив.",
+            "Висновки стосуються пацієнтів з мутацією KRAS G12C; щоб виявити придатних пацієнтів, потрібне тестування на наявність мутації."
+          ]
+        },
+        "fr": {
+          "title": "Essai de phase III : un inhibiteur KRAS G12C de nouvelle génération montre un important bénéfice de survie dans le CPNPC",
+          "summary": "Un essai de phase III a rapporté qu’un inhibiteur KRAS G12C de nouvelle génération a amélioré de manière significative la survie par rapport aux médicaments de génération précédente chez des patients atteints d’un cancer du poumon non à petites cellules avancé ou métastatique déjà traités. L’étude a constaté une réduction relative substantielle du risque de décès comparée aux inhibiteurs KRAS G12C de première génération.",
+          "whyItMatters": "KRAS G12C est une mutation cible dans une partie des cancers du poumon; un nouveau médicament qui améliore la survie dans un essai de phase III pourrait modifier les options thérapeutiques pour ces patients, sous réserve d’examen réglementaire et d’une adoption plus large en pratique clinique. Les résultats d’un seul essai doivent être confirmés et replacés dans le contexte des données de sécurité et des suivis à plus long terme.",
+          "takeaways": [
+            "L’essai est de phase III et compare un inhibiteur KRAS G12C de nouvelle génération à des médicaments antérieurs chez des patients atteints de CPNPC déjà traités.",
+            "La réduction relative rapportée du risque de décès était importante (titre : 44 %), indiquant un signal de survie notable dans cet essai.",
+            "L’approbation réglementaire, des données de sécurité plus larges et une confirmation indépendante détermineront l’impact clinique.",
+            "Les conclusions s’appliquent aux patients porteurs de la mutation KRAS G12C ; un test de mutation est nécessaire pour identifier les patients éligibles."
+          ]
+        },
+        "de": {
+          "title": "Phase‑III‑Studie: Next‑Generation KRAS G12C‑Inhibitor zeigt großen Überlebensvorteil bei NSCLC",
+          "summary": "Eine Phase‑III‑Studie berichtete, dass ein Next‑Generation‑KRAS‑G12C‑Inhibitor das Überleben gegenüber früheren Wirkstoffen bei Patientinnen und Patienten mit zuvor behandeltem fortgeschrittenem oder metastasiertem nicht‑kleinzelligem Lungenkrebs signifikant verbesserte. Die Studie fand eine deutliche relative Verringerung des Sterberisikos im Vergleich zu Erstgeneration‑KRAS‑G12C‑Inhibitoren.",
+          "whyItMatters": "KRAS G12C ist eine zielbare Mutation in einem Teil der Lungenkrebserkrankungen; ein neues Medikament, das in einer Phase‑III‑Studie das Überleben verbessert, könnte die Behandlungsoptionen für diese Patientengruppe verändern, sofern Zulassung und breitere klinische Anwendung folgen. Ergebnisse aus einer einzelnen Studie sollten bestätigt und im Kontext von Sicherheits‑ und Langzeitdaten betrachtet werden.",
+          "takeaways": [
+            "Die Studie ist eine Phase‑III‑Studie, die einen Next‑Generation‑KRAS‑G12C‑Inhibitor mit früheren Wirkstoffen bei zuvor behandeltem NSCLC vergleicht.",
+            "Die gemeldete relative Reduktion des Sterberisikos war groß (Schlagzeile: 44 %), was ein relevantes Überlebenssignal in dieser Studie anzeigt.",
+            "Zulassung, umfassendere Sicherheitsdaten und unabhängige Bestätigung werden den klinischen Einfluss bestimmen.",
+            "Die Befunde gelten für Patientinnen und Patienten mit der KRAS G12C‑Mutation; ein Mutationsnachweis ist erforderlich, um Anspruchsberechtigte zu identifizieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio de fase III: inibidor KRAS G12C de nova geração mostra grande benefício de sobrevida em NSCLC",
+          "summary": "Um ensaio de fase III relatou que um inibidor KRAS G12C de próxima geração melhorou significativamente a sobrevida em comparação com drogas de geração anterior em pacientes com câncer de pulmão não pequenas células avançado ou metastático previamente tratados. O estudo encontrou uma redução relativa substancial no risco de morte em comparação com inibidores KRAS G12C de primeira geração.",
+          "whyItMatters": "KRAS G12C é uma mutação alvo em um subconjunto de cânceres de pulmão; um novo medicamento que melhora a sobrevida em um ensaio de fase III pode mudar opções de tratamento para esses pacientes, dependendo de revisão regulatória e adoção clínica mais ampla. Resultados de um único ensaio devem ser confirmados e contextualizados com dados de segurança e de longo prazo.",
+          "takeaways": [
+            "O ensaio é de fase III e compara um inibidor KRAS G12C de nova geração com drogas anteriores em NSCLC previamente tratados.",
+            "A redução relativa reportada no risco de morte foi grande (manchete: 44 %), indicando um sinal de sobrevida relevante neste estudo.",
+            "A aprovação regulatória, dados de segurança mais amplos e confirmação independente determinarão o impacto clínico.",
+            "As descobertas se aplicam a pacientes com a mutação KRAS G12C; testes de mutação são necessários para identificar elegíveis."
+          ]
+        },
+        "hu": {
+          "title": "III. fázisú vizsgálat: következő generációs KRAS G12C inhibitor jelentős túlélési előnyt mutat NSCLC-ben",
+          "summary": "Egy III. fázisú vizsgálat arról számolt be, hogy egy következő generációs KRAS G12C inhibitor szignifikánsan javította a túlélést a korábbi generációs szerekkel szemben olyan, előkezelt, előrehaladott vagy áttétes nem-kissejtes tüdőrákos betegekben, akiknél a mutáció jelen volt. A tanulmány jelentős relatív halálozási kockázat‑csökkenést talált az első generációs KRAS G12C inhibitorokhoz képest.",
+          "whyItMatters": "A KRAS G12C célzottan kezelhető mutáció egyes tüdőrákokban; egy új gyógyszer, amely III. fázisú vizsgálatban javítja a túlélést, megváltoztathatja a kezelési lehetőségeket ezeknél a betegeknél, amennyiben a szabályozói jóváhagyás és a szélesebb klinikai bevezetés megtörténik. Egyetlen vizsgálat eredményeit megerősítés és a biztonsági, hosszú távú adatok kontextusba helyezése szükséges.",
+          "takeaways": [
+            "A vizsgálat III. fázisú, és egy következő generációs KRAS G12C inhibitort hasonlít össze korábbi szerekkel előkezelt NSCLC-ben.",
+            "A jelentett relatív kockázatcsökkenés a halálozásban nagy volt (közlésszám: 44%), ami jelentős túlélési jelet mutat ebben a vizsgálatban.",
+            "A szabályozói jóváhagyás, szélesebb körű biztonsági adatok és független megerősítés határozzák meg a klinikai hatást.",
+            "Az eredmények azon betegekhez vonatkoznak, akiknél jelen van a KRAS G12C mutáció; a jogosult betegek azonosításához mutációvizsgálat szükséges."
+          ]
+        },
+        "ar": {
+          "title": "تجربة المرحلة الثالثة: مثبط KRAS G12C من الجيل التالي يظهر فائدة كبيرة في البقاء لحالات سرطان الرئة غير صغير الخلايا",
+          "summary": "أفادت تجربة من المرحلة الثالثة أن مثبط KRAS G12C من الجيل التالي حسن البقاء بشكل ملحوظ مقارنة بالأدوية من الجيل السابق لدى مرضى سرطان الرئة غير صغير الخلايا المتقدم أو النقيلي الذين سبق علاجهم. وجدت الدراسة انخفاضاً نسبياً كبيراً في مخاطر الوفاة مقارنة بمثبطات KRAS G12C من الجيل الأول.",
+          "whyItMatters": "تُعد طفرة KRAS G12C هدفاً قابلاً للعلاج في شريحة من سرطانات الرئة؛ قد يغير دواء جديد يُحسن البقاء في تجربة من المرحلة الثالثة خيارات العلاج لهؤلاء المرضى، مع انتظار المراجعات التنظيمية والتبني السريري الأوسع. ينبغي تأكيد نتائج تجربة واحدة ومراعاتها في ضوء بيانات السلامة والبيانات طويلة الأمد.",
+          "takeaways": [
+            "التجربة من المرحلة الثالثة وتقارن مثبط KRAS G12C من الجيل التالي بأدوية سابقة لدى مرضى NSCLC الذين تلقوا علاجات سابقة.",
+            "أُبلغ عن انخفاض نسبي كبير في خطر الوفاة (العنوان: 44%)، ما يشير إلى إشارة بقاء مهمة في هذه التجربة.",
+            "الموافقة التنظيمية، وبيانات السلامة الأوسع، والتأكيد المستقل ستحدد التأثير السريري.",
+            "النتائج تنطبق على المرضى الحاملين لطفرة KRAS G12C؛ يتطلب تحديد المرضى اختبار الطفرة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=magic-drug-reduces-risk-of-death-by-44-in-lung-cancer-trial-888998893134",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/magic-drug-reduces-risk-of-death-by-44-in-lung-cancer-trial-888998893134-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/magic-drug-reduces-risk-of-death-by-44-in-lung-cancer-trial-888998893134-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase III trial: next-generation KRAS G12C inhibitor shows large survival benefit in NSCLC.\nStory summary: A phase III trial reported that a next-generation KRAS G12C inhibitor significantly improved survival versus earlier-generation drugs in patients with previously treated advanced or metastatic non–small cell lung cancer. The study found a substantial relative reduction in risk of death compared with first-generation KRAS G12C inhibitors..\nCategory: Cancer treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "the-regulatory-bottleneck-in-aging-biology-11a7bc0fdf4c",
+      "category": "Policy & ageing research",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/the-regulatory-bottleneck-in-aging-biology/",
+      "sourceTitle": "The Regulatory Bottleneck in Aging Biology",
+      "publishedAt": "Mon, 26 Oct 2026 16:11:57 +0000",
+      "languages": {
+        "en": {
+          "title": "Commentary: regulatory hurdles are slowing translation of multi‑disease ageing therapies",
+          "summary": "This piece discusses how emerging biomedical repair therapies that aim to address multiple age‑related diseases face regulatory pathways designed for single‑disease products, creating a bottleneck for translation from research to patients.",
+          "whyItMatters": "Regulatory design affects how quickly promising ageing interventions can reach clinical testing and patients. Identifying and addressing mismatches between novel therapeutic concepts and existing regulatory frameworks could accelerate safe, evidence‑based development, but proposals are opinion‑based and require stakeholder engagement.",
+          "takeaways": [
+            "Many repair‑oriented ageing therapies confront regulatory frameworks optimized for single-disease indications.",
+            "The article argues for regulatory adaptation to enable efficient evaluation of multi‑disease interventions.",
+            "Policy change would require collaboration among researchers, regulators, industry and patients and careful risk–benefit assessment."
+          ]
+        },
+        "es": {
+          "title": "Comentario: los obstáculos regulatorios están ralentizando la traducción de terapias antienvejecimiento multimórbidas",
+          "summary": "El artículo analiza cómo las terapias biomédicas emergentes orientadas a reparar procesos y abordar múltiples enfermedades relacionadas con la edad se enfrentan a vías regulatorias diseñadas para productos de una sola enfermedad, creando un cuello de botella para la traducción de la investigación a pacientes.",
+          "whyItMatters": "El diseño regulatorio influye en la rapidez con que intervenciones prometedoras contra el envejecimiento pueden llegar a ensayos clínicos y pacientes. Identificar y abordar desajustes entre conceptos terapéuticos novedosos y marcos regulatorios existentes podría acelerar el desarrollo seguro y basado en evidencia, pero las propuestas son de carácter opinativo y requieren la participación de múltiples actores.",
+          "takeaways": [
+            "Muchas terapias orientadas a la reparación para el envejecimiento chocan con marcos regulatorios optimizados para indicaciones de una sola enfermedad.",
+            "El artículo aboga por adaptar la regulación para permitir una evaluación más eficiente de intervenciones que afectan múltiples enfermedades.",
+            "El cambio de políticas requerirá colaboración entre investigadores, reguladores, industria y pacientes y una cuidadosa valoración de riesgos y beneficios."
+          ]
+        },
+        "ru": {
+          "title": "Комментарий: регуляторные барьеры замедляют трансляцию терапий против старения, нацеленных на несколько заболеваний",
+          "summary": "Материал обсуждает, как новые биомедицинские терапевтические подходы, направленные на восстановление и борьбу с несколькими возраст‑ассоциированными заболеваниями, сталкиваются с регуляторными путями, разработанными для продуктов против одного заболевания, что создаёт узкое место при переводе исследований к пациентам.",
+          "whyItMatters": "Регуляторная система влияет на скорость, с которой перспективные интервенции против старения могут дойти до клинических испытаний и пациентов. Выявление и устранение несоответствий между новыми терапевтическими концепциями и существующими регуляторными рамками могло бы ускорить безопасную разработку на основе доказательств, но предложения имеют характер мнения и требуют вовлечения заинтересованных сторон.",
+          "takeaways": [
+            "Многие восстанавливающие терапии для борьбы со старением сталкиваются с регуляторными рамками, оптимизированными под одно заболевание.",
+            "В статье приводится аргумент в пользу адаптации регуляторной практики для эффективной оценки вмешательств, затрагивающих несколько заболеваний.",
+            "Изменение политики потребует сотрудничества исследователей, регуляторов, промышленности и пациентов, а также тщательной оценки риска и пользы."
+          ]
+        },
+        "uk": {
+          "title": "Коментар: регуляторні перепони уповільнюють трансляцію терапій, націлених на кілька вікових хвороб",
+          "summary": "У матеріалі йдеться про те, як нові біомедичні ремонтні терапії, що прагнуть впливати на кілька вікових захворювань, стикаються з регуляторними шляхами, розробленими для препаратів з однією хворобою, створюючи вузьке місце для трансляції від досліджень до пацієнтів.",
+          "whyItMatters": "Регуляторна конструкція впливає на те, як швидко перспективні інтервенції старіння можуть потрапити до клінічних випробувань і до пацієнтів. Виявлення й усунення невідповідностей між новими терапевтичними концепціями та існуючими регуляторними рамками могло б пришвидшити безпечний, доказовий розвиток, але пропозиції мають характер думки й потребують залучення зацікавлених сторін.",
+          "takeaways": [
+            "Багато ремонтно‑орієнтованих терапій для старіння стикаються з регуляторними рамками, оптимізованими для показань однієї хвороби.",
+            "У статті аргументується необхідність адаптації регулювання для ефективної оцінки інтервенцій, що охоплюють кілька захворювань.",
+            "Зміни політики вимагатимуть співпраці між дослідниками, регуляторами, індустрією та пацієнтами й ретельної оцінки ризик‑користь."
+          ]
+        },
+        "fr": {
+          "title": "Commentaire : des obstacles réglementaires ralentissent la traduction des thérapies anti‑âge multi‑maladies",
+          "summary": "Cet article discute de la manière dont les nouvelles thérapies réparatrices biomédicales visant à traiter plusieurs maladies liées à l’âge se heurtent à des voies réglementaires conçues pour des produits ciblant une seule maladie, créant un goulot d’étranglement pour la translation de la recherche vers les patients.",
+          "whyItMatters": "La conception réglementaire affecte la rapidité avec laquelle des interventions prometteuses contre le vieillissement peuvent accéder aux essais cliniques et aux patients. Identifier et corriger les inadéquations entre les nouveaux concepts thérapeutiques et les cadres réglementaires existants pourrait accélérer le développement sûr et fondé sur des preuves, mais les propositions sont d’ordre opinionnel et nécessitent l’engagement des parties prenantes.",
+          "takeaways": [
+            "De nombreuses thérapies axées sur la réparation liées au vieillissement se confrontent à des cadres réglementaires optimisés pour des indications mono‑maladie.",
+            "L’article plaide pour une adaptation réglementaire afin de permettre une évaluation efficiente des interventions multi‑maladies.",
+            "Un changement de politique exigerait la collaboration entre chercheurs, régulateurs, industrie et patients ainsi qu’une évaluation soigneuse du rapport risque–bénéfice."
+          ]
+        },
+        "de": {
+          "title": "Kommentar: Regulatorische Hürden verzögern die Translation von Therapien gegen altersbedingte Mehrfacherkrankungen",
+          "summary": "Der Beitrag erörtert, wie aufkommende biomedizinische Reparaturtherapien, die mehrere altersbedingte Erkrankungen adressieren, auf regulatorische Wege stoßen, die für Einzelerkrankungen ausgelegt sind, und dadurch einen Flaschenhals für die Translation von Forschung zu Patienten schaffen.",
+          "whyItMatters": "Regulatorische Rahmenbedingungen beeinflussen, wie schnell vielversprechende Altersinterventionen in klinische Prüfungen und zu Patientinnen und Patienten gelangen können. Das Erkennen und Anpassen von Fehlanpassungen zwischen neuartigen Therapieansätzen und bestehenden Regulierungen könnte die sichere, evidenzbasierte Entwicklung beschleunigen, aber die Vorschläge sind meinungsbasiert und erfordern Einbindung relevanter Akteure.",
+          "takeaways": [
+            "Viele reparaturorientierte Alters‑Therapien stoßen auf regulatorische Rahmen, die für Einzelerkrankungsindikationen optimiert sind.",
+            "Der Artikel plädiert für regulatorische Anpassungen, um eine effiziente Bewertung multikrankheitsbezogener Interventionen zu ermöglichen.",
+            "Politische Änderungen würden Zusammenarbeit zwischen Forschenden, Regulierungsbehörden, Industrie und Patientengruppen sowie sorgfältige Risiko‑Nutzen‑Abwägungen erfordern."
+          ]
+        },
+        "pt-br": {
+          "title": "Comentário: gargalo regulatório na biologia do envelhecimento atrasa tradução de terapias multi‑doença",
+          "summary": "O texto discute como terapias biomédicas emergentes de reparo, que visam tratar múltiplas doenças relacionadas ao envelhecimento, enfrentam vias regulatórias desenhadas para produtos de doença única, criando um gargalo para a tradução da pesquisa para pacientes.",
+          "whyItMatters": "O desenho regulatório afeta a velocidade com que intervenções promissoras contra o envelhecimento podem chegar a testes clínicos e a pacientes. Identificar e lidar com descompassos entre conceitos terapêuticos inovadores e estruturas regulatórias existentes poderia acelerar um desenvolvimento seguro e baseado em evidências, mas as propostas são de opinião e exigem engajamento das partes interessadas.",
+          "takeaways": [
+            "Muitas terapias orientadas ao reparo enfrentam estruturas regulatórias otimizadas para indicações de doença única.",
+            "O artigo defende adaptação regulatória para viabilizar avaliação eficiente de intervenções multi‑doença.",
+            "Mudanças de política exigiriam colaboração entre pesquisadores, reguladores, indústria e pacientes, além de avaliação cuidadosa de risco‑benefício."
+          ]
+        },
+        "hu": {
+          "title": "Kommentár: szabályozási akadályok lassítják a többbetegséget célzó öregedéskezelések átfordítását",
+          "summary": "A cikk azt tárgyalja, hogyan ütköznek az új, biomedicinális javító terápiák, amelyek több életkorral összefüggő betegséget kívánnak kezelni, olyan szabályozási útvonalakba, amelyek egy‑betegségre tervezettek, ezáltal torlódást okozva a kutatástól a betegekhez való eljuttatásban.",
+          "whyItMatters": "A szabályozási kialakítás befolyásolja, milyen gyorsan juthatnak el a ígéretes öregedési beavatkozások klinikai tesztelésre és a betegekhez. A javasolt eltérések azonosítása és kezelése a meglévő szabályozási keretek és az új terápiás koncepciók között felgyorsíthatja a biztonságos, bizonyíték alapú fejlesztést, de a javaslatok véleményalapúak és érintetti bevonást igényelnek.",
+          "takeaways": [
+            "Sok javító jellegű öregedéskezelés olyan szabályozási keretekbe ütközik, amelyeket egybetegség‑indikációkra optimalizáltak.",
+            "A cikk a szabályozás adaptálását javasolja a többbetegséget érintő beavatkozások hatékony értékeléséhez.",
+            "A politikai változások együttműködést igényelnek kutatók, szabályozók, ipar és betegek között, valamint gondos kockázat–haszon értékelést."
+          ]
+        },
+        "ar": {
+          "title": "تعليق: الاختناقات التنظيمية في بيولوجيا الشيخوخة",
+          "summary": "يناقش هذا المقال كيف تواجه العلاجات البِيومِدِية التصحيحية الناشئة، التي تهدف إلى معالجة عدة أمراض مرتبطة بالشيخوخة، مسارات تنظيمية مصمَّمة لمنتجات مرض واحد، مما يخلق عنق زجاجة أمام الانتقال من البحث إلى المرضى.",
+          "whyItMatters": "تصميم اللوائح يؤثر على مدى سرعة وصول تدخلات الشيخوخة الواعدة للاختبار السريري والمرضى. قد يسرّع تحديد ومعالجة عدم التوافق بين المفاهيم العلاجية الجديدة والأطر التنظيمية القائمة التطوير الآمن القائم على الأدلة، لكن المقترحات قائمة على آراء وتحتاج إلى مشاركة أصحاب المصلحة.",
+          "takeaways": [
+            "تواجه العديد من العلاجات التصحيحية للشيخوخة أطراً تنظيمية مصممة لمؤشرات مرضية مفردة.",
+            "يجادل المقال بضرورة تكييف التنظيم لتمكين تقييم أكثر كفاءة للتدخلات المتعددة الأمراض.",
+            "ستتطلب تغييرات السياسة تعاون الباحثين والمنظمين والقطاع والمرضى وتقييماً دقيقاً للمخاطر والفوائد."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=the-regulatory-bottleneck-in-aging-biology-11a7bc0fdf4c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/the-regulatory-bottleneck-in-aging-biology-11a7bc0fdf4c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/the-regulatory-bottleneck-in-aging-biology-11a7bc0fdf4c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Commentary: regulatory hurdles are slowing translation of multi‑disease ageing therapies.\nStory summary: This piece discusses how emerging biomedical repair therapies that aim to address multiple age‑related diseases face regulatory pathways designed for single‑disease products, creating a bottleneck for translation from research to patients..\nCategory: Policy & ageing research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "treatment-revives-old-liver-cells-in-lab-study-may-help-prevent-a-a5c80e8017fb",
+      "category": "Regeneration & stem cells",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-treatment-revives-liver-cells-lab.html",
+      "sourceTitle": "Treatment revives old liver cells in lab study, may help prevent Alzheimer's and heart disease",
+      "publishedAt": "Mon, 26 Oct 2026 10:09:20 EDT",
+      "languages": {
+        "en": {
+          "title": "Lab study shows a treatment can 'revive' older liver cells; implications suggested for systemic diseases",
+          "summary": "Researchers at Keck School of Medicine of USC report laboratory findings in the Journal of Biological Chemistry showing a treatment that restored function in aged liver cells. The authors suggest liver clearance capacity could relate to diseases such as Alzheimer’s and heart disease, but the work is preclinical.",
+          "whyItMatters": "The liver's role in clearing metabolites is linked conceptually to systemic health; restoring aged liver cell function in the lab could point to new mechanistic targets. However, cell‑level or early lab results do not demonstrate clinical benefit and require animal and human studies.",
+          "takeaways": [
+            "The study demonstrated restoration of function in aged liver cells in laboratory experiments.",
+            "Authors note potential connections between liver clearance and diseases like Alzheimer’s and heart disease, but this is speculative at present.",
+            "Translational steps—animal models, safety testing and human trials—are needed before clinical implications can be drawn."
+          ]
+        },
+        "es": {
+          "title": "Estudio de laboratorio muestra que un tratamiento puede 'revivir' células hepáticas envejecidas; se sugieren implicaciones para enfermedades sistémicas",
+          "summary": "Investigadores de la Keck School of Medicine de USC informan hallazgos de laboratorio en Journal of Biological Chemistry que muestran un tratamiento que restauró la función en células hepáticas envejecidas. Los autores sugieren que la capacidad de depuración hepática podría relacionarse con enfermedades como el Alzheimer y la cardiopatía, pero el trabajo es preclínico.",
+          "whyItMatters": "El papel del hígado en la eliminación de metabolitos se vincula conceptualmente con la salud sistémica; restaurar la función de células hepáticas envejecidas en el laboratorio podría señalar nuevos blancos mecanísticos. Sin embargo, resultados a nivel celular o de laboratorio tempranos no demuestran beneficio clínico y requieren estudios en animales y humanos.",
+          "takeaways": [
+            "El estudio mostró restauración de la función en células hepáticas envejecidas en experimentos de laboratorio.",
+            "Los autores señalan conexiones potenciales entre la depuración hepática y enfermedades como Alzheimer y cardiopatía, pero esto es especulativo por ahora.",
+            "Se necesitan pasos de traslación —modelos animales, pruebas de seguridad y ensayos humanos— antes de extraer implicaciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Лабораторное исследование показывает, что лечение может «оживить» старые печёночные клетки; предполагаются последствия для системных заболеваний",
+          "summary": "Исследователи из Keck School of Medicine при USC сообщают в Journal of Biological Chemistry о лабораторных результатах, где лечение восстановило функцию стареющих печёночных клеток. Авторы предполагают, что способность печени к очистке метаболитов может быть связана с такими заболеваниями, как болезнь Альцгеймера и сердечные заболевания, но работа является доклинической.",
+          "whyItMatters": "Роль печени в удалении метаболитов концептуально связана с системным здоровьем; восстановление функции стареющих печёночных клеток в лаборатории может указывать на новые механистические мишени. Однако клеточные или ранние лабораторные результаты не доказывают клиническую пользу и требуют исследований на животных и у людей.",
+          "takeaways": [
+            "В исследовании продемонстрировано восстановление функции стареющих печёночных клеток в лабораторных экспериментах.",
+            "Авторы указывают на возможные связи между печёночной очисткой и такими заболеваниями, как болезнь Альцгеймера и сердечные болезни, но это пока гипотетично.",
+            "Для клинических выводов необходимы этапы трансляции — модели на животных, тестирование безопасности и клинические испытания на людях."
+          ]
+        },
+        "uk": {
+          "title": "Лабораторне дослідження показує, що лікування може «оживити» старіші печінкові клітини; запропоновані можливі зв’язки з системними хворобами",
+          "summary": "Дослідники Keck School of Medicine (USC) повідомляють у Journal of Biological Chemistry про лабораторні результати, які показують, що лікування відновило функцію старіючих печінкових клітин. Автори припускають, що здатність печінки до очищення може бути пов’язана з такими захворюваннями, як хвороба Альцгеймера та серцево‑судинні хвороби, але робота є доклінічною.",
+          "whyItMatters": "Роль печінки у виведенні метаболітів концептуально пов’язана з системним здоров’ям; відновлення функції старіючих печінкових клітин у лабораторії може вказувати на нові механістичні мішені. Однак результати на клітинному рівні чи ранні лабораторні дані не доводять клінічної користі і потребують досліджень на тваринах та людей.",
+          "takeaways": [
+            "Дослідження продемонструвало відновлення функції старіючих печінкових клітин у лабораторних експериментах.",
+            "Автори зазначають можливі зв’язки між очищальною здатністю печінки та захворюваннями, такими як Альцгеймер і серцеві хвороби, але це наразі спекулятивно.",
+            "Для трансляції у клініку потрібні подальші кроки — дослідження на тваринах, тести безпеки та випробування на людях."
+          ]
+        },
+        "fr": {
+          "title": "Une étude en laboratoire montre qu’un traitement peut «raviver» des cellules hépatiques âgées ; implications suggérées pour des maladies systémiques",
+          "summary": "Des chercheurs de la Keck School of Medicine (USC) rapportent dans le Journal of Biological Chemistry des résultats de laboratoire montrant qu’un traitement a restauré la fonction de cellules hépatiques vieillissantes. Les auteurs suggèrent que la capacité d’élimination du foie pourrait être liée à des maladies comme la maladie d’Alzheimer et les maladies cardiovasculaires, mais le travail est préclinique.",
+          "whyItMatters": "Le rôle du foie dans l’élimination des métabolites est conceptuellement lié à la santé systémique ; restaurer la fonction de cellules hépatiques âgées en laboratoire pourrait indiquer de nouvelles cibles mécanistiques. Toutefois, des résultats au niveau cellulaire ou des données préliminaires en laboratoire ne démontrent pas un bénéfice clinique et nécessitent des études animales et humaines.",
+          "takeaways": [
+            "L’étude a montré la restauration de la fonction de cellules hépatiques vieillissantes dans des expériences en laboratoire.",
+            "Les auteurs notent des liens potentiels entre l’élimination par le foie et des maladies comme Alzheimer et les maladies cardiaques, mais cela reste spéculatif pour l’instant.",
+            "Des étapes de translation — modèles animaux, tests de sécurité et essais sur l’homme — sont nécessaires avant de pouvoir tirer des implications cliniques."
+          ]
+        },
+        "de": {
+          "title": "Laborexperiment zeigt Behandlung, die ältere Leberzellen „wiederbelebt“; mögliche Implikationen für systemische Krankheiten",
+          "summary": "Forscher der Keck School of Medicine of USC berichten Laborbefunde im Journal of Biological Chemistry, die zeigen, dass eine Behandlung die Funktion gealterter Leberzellen wiederherstellte. Die Autorinnen und Autoren schlagen vor, dass die Leberreinigungskapazität mit Erkrankungen wie Alzheimer und Herzkrankheiten zusammenhängen könnte, betonen aber, dass die Arbeit vorklinisch ist.",
+          "whyItMatters": "Die Rolle der Leber beim Abbau von Metaboliten steht konzeptionell im Zusammenhang mit systemischer Gesundheit; die Wiederherstellung gealterter Leberzellfunktionen im Labor könnte neue mechanistische Ziele aufzeigen. Zell‑ oder frühe Laborergebnisse zeigen jedoch keinen klinischen Nutzen und benötigen Tier‑ und Humanstudien.",
+          "takeaways": [
+            "Die Studie demonstrierte in Laborexperimenten die Wiederherstellung der Funktion gealterter Leberzellen.",
+            "Die Autorinnen und Autoren nennen mögliche Verbindungen zwischen Leberreinigung und Erkrankungen wie Alzheimer und Herzkrankheiten, dies ist derzeit jedoch spekulativ.",
+            "Übergangsstudien – Tiermodelle, Sicherheitstests und Humanstudien – sind nötig, bevor klinische Implikationen abgeleitet werden können."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em laboratório mostra tratamento que pode 'reviver' células hepáticas envelhecidas; implicações sugeridas para doenças sistêmicas",
+          "summary": "Pesquisadores da Keck School of Medicine of USC reportam achados laboratoriais no Journal of Biological Chemistry mostrando um tratamento que restaurou a função de células hepáticas envelhecidas. Os autores sugerem que a capacidade de depuração do fígado poderia se relacionar com doenças como Alzheimer e doenças cardíacas, mas o trabalho é pré‑clínico.",
+          "whyItMatters": "O papel do fígado na remoção de metabólitos está conceitualmente ligado à saúde sistêmica; restaurar a função de células hepáticas envelhecidas no laboratório pode apontar para novos alvos mecanísticos. No entanto, resultados em nível celular ou de laboratório não demonstram benefício clínico e exigem estudos em animais e humanos.",
+          "takeaways": [
+            "O estudo demonstrou restauração da função em células hepáticas envelhecidas em experimentos de laboratório.",
+            "Os autores observam possíveis conexões entre depuração hepática e doenças como Alzheimer e cardíacas, mas isso é especulativo no momento.",
+            "Passos de tradução — modelos animais, testes de segurança e ensaios em humanos — são necessários antes de se tirar implicações clínicas."
+          ]
+        },
+        "hu": {
+          "title": "Laboratóriumi vizsgálatban egy kezelés „életre keltette” az öregebb májsejteket; rendszerbetegségekre vonatkozó következtetések felvetve",
+          "summary": "A USC Keck Orvostudományi Iskolájának kutatói a Journal of Biological Chemistry‑ben közölt laboratóriumi eredményeket jelentenek olyan kezeléssel kapcsolatban, amely helyreállította az öregedett májsejtek működését. A szerzők feltételezik, hogy a máj tisztító kapacitása kapcsolatban állhat olyan betegségekkel, mint az Alzheimer‑kór és a szívbetegség, de a munka preklinikai.",
+          "whyItMatters": "A máj szerepe a metabolitok eltávolításában fogalmi kapcsolatban áll a rendszerszintű egészséggel; az öregedett májsejtek laboratóriumi funkciójának helyreállítása új mechanisztikus célpontokra utalhat. Ugyanakkor a sejtszintű vagy korai laboreredmények nem bizonyítanak klinikai hasznot, és állat‑ illetve humán vizsgálatokat igényelnek.",
+          "takeaways": [
+            "A tanulmány laboratóriumi kísérletekben bemutatta az öregedett májsejtek működésének helyreállítását.",
+            "A szerzők megjegyzik a máj tisztító szerepe és az olyan betegségek, mint az Alzheimer‑kór és a szívbetegség közötti lehetséges kapcsolatot, de ez jelenleg spekulatív.",
+            "A transzlációs lépések — állatmodellek, biztonsági tesztelés és humán vizsgálatok — szükségesek, mielőtt klinikai következtetéseket lehetne levonni."
+          ]
+        },
+        "ar": {
+          "title": "دراسة مخبرية تُظهر أن علاجاً أعاد «إحياء» خلايا كبدية مسنة؛ يُشار إلى تداعيات لأمراض جهازية",
+          "summary": "أبلغ باحثون من كلية الطب Keck بجامعة USC عن نتائج مخبرية في Journal of Biological Chemistry تُظهر علاجاً أعاد وظيفة خلايا كبدية مُسنَّة. يقترح المؤلفون أن قدرة الكبد على التخلص من المستقلبات قد ترتبط بأمراض مثل الزهايمر وأمراض القلب، لكن العمل قبل سريري.",
+          "whyItMatters": "يلتقي دور الكبد في تنظيف المستقلبات بشكل مفهومي مع الصحة الجهازية؛ قد تشير استعادة وظيفة الخلايا الكبدية المسنة في المختبر إلى أهداف آلية جديدة. ومع ذلك، فإن نتائج الخلايا أو المختبر المبكرة لا تثبت فائدة سريرية وتحتاج دراسات على الحيوانات والإنسان.",
+          "takeaways": [
+            "أظهرت الدراسة استعادة وظيفة خلايا كبدية مسنة في تجارب مخبرية.",
+            "يشير المؤلفون إلى اتصالات محتملة بين تنظيف الكبد وأمراض مثل الزهايمر وأمراض القلب، لكن هذا تكهّن حالياً.",
+            "هناك حاجة إلى خطوات ترجميّة — نماذج حيوانية، اختبارات سلامة وتجارب بشرية — قبل استخلاص دلالات سريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=treatment-revives-old-liver-cells-in-lab-study-may-help-prevent-a-a5c80e8017fb",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/treatment-revives-old-liver-cells-in-lab-study-may-help-prevent-a-a5c80e8017fb-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/treatment-revives-old-liver-cells-in-lab-study-may-help-prevent-a-a5c80e8017fb-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Lab study shows a treatment can 'revive' older liver cells; implications suggested for systemic diseases.\nStory summary: Researchers at Keck School of Medicine of USC report laboratory findings in the Journal of Biological Chemistry showing a treatment that restored function in aged liver cells. The authors suggest liver clearance capacity could relate to diseases such as Alzheimer’s and heart disease, but the work is preclinical..\nCategory: Regeneration & stem cells.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "clues-to-prostate-cancer-risk-in-blood-samples-taken-15-years-ear-3c253b8c039b",
+      "category": "Cancer prevention & biomarkers",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261026/Clues-to-prostate-cancer-risk-in-blood-samples-taken-15-years-earlier.aspx",
+      "sourceTitle": "Clues to prostate cancer risk in blood samples taken 15 years earlier",
+      "publishedAt": "Mon, 26 Oct 2026 09:44:00 -0400",
+      "languages": {
+        "en": {
+          "title": "Study links proteins in archived blood samples to later aggressive prostate cancer",
+          "summary": "A recent study identified blood proteins measured up to 15 years before diagnosis that were associated with subsequent aggressive prostate cancer, suggesting candidate biomarkers for earlier risk prediction and insights into immune activity related to disease development.",
+          "whyItMatters": "If validated prospectively, long‑lead biomarkers could improve early detection and risk stratification for prostate cancer. Current findings are observational and require replication, assay standardization and evaluation in clinical cohorts before they could be used in practice.",
+          "takeaways": [
+            "Proteomic signals in archived blood were associated with later development of aggressive prostate cancer.",
+            "The work provides candidate biomarkers but is retrospective and needs prospective validation.",
+            "Understanding immune-related signals could inform prevention and screening strategies if confirmed."
+          ]
+        },
+        "es": {
+          "title": "Estudio vincula proteínas en muestras de sangre archivadas con cáncer de próstata agresivo posterior",
+          "summary": "Un estudio reciente identificó proteínas en sangre medidas hasta 15 años antes del diagnóstico que se asociaron con el desarrollo posterior de cáncer de próstata agresivo, sugiriendo biomarcadores candidatos para una predicción de riesgo más temprana y aportando información sobre la actividad inmune relacionada con el desarrollo de la enfermedad.",
+          "whyItMatters": "Si se validan prospectivamente, biomarcadores con amplio adelanto temporal podrían mejorar la detección temprana y la estratificación de riesgo para el cáncer de próstata. Los hallazgos actuales son observacionales y requieren replicación, estandarización de ensayos y evaluación en cohortes clínicas antes de poder aplicarse en la práctica.",
+          "takeaways": [
+            "Se asociaron señales proteómicas en sangre archivada con el desarrollo posterior de cáncer de próstata agresivo.",
+            "El trabajo ofrece biomarcadores candidatos, pero es retrospectivo y necesita validación prospectiva.",
+            "Comprender señales relacionadas con la respuesta inmune podría informar estrategias de prevención y cribado si se confirma."
+          ]
+        },
+        "ru": {
+          "title": "Исследование связывает белки в архивных образцах крови с последующим агрессивным раком простаты",
+          "summary": "Недавнее исследование выявило белки в крови, измеренные за период до 15 лет до постановки диагноза, которые ассоциировались с последующим развитием агрессивного рака простаты, что указывает на кандидатов в биомаркеры для более раннего прогнозирования риска и даёт представление об иммунной активности, связанной с развитием заболевания.",
+          "whyItMatters": "Если такие биомаркеры подтвердятся в проспективных исследованиях, они могли бы улучшить раннюю детекцию и стратификацию риска при раке простаты. Текущие результаты являются наблюдательными и требуют репликации, стандартизации методов и оценки в клинических когортах, прежде чем их можно будет применять на практике.",
+          "takeaways": [
+            "Протеомные сигналы в архивной крови ассоциировались с последующим развитием агрессивного рака простаты.",
+            "Работа предлагает кандидатов в биомаркеры, но она ретроспективна и требует проспективной валидации.",
+            "Понимание иммуно-связаных сигналов может информировать стратегии профилактики и скрининга в случае подтверждения."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження пов’язує білки в архівних зразках крові з пізнішим агресивним раком передміхурової залози",
+          "summary": "Нещодавнє дослідження виявило білки в крові, виміряні до 15 років до діагнозу, які були пов’язані з подальшим розвитком агресивного раку передміхурової залози, пропонуючи кандидатні біомаркери для раннішого прогнозування ризику та уявлення про імунну активність, пов’язану з розвитком хвороби.",
+          "whyItMatters": "Якщо такі біомаркери будуть підтверджені проспективно, вони могли б покращити раннє виявлення й стратифікацію ризику при раку передміхурової залози. Нині результати є спостережливими і потребують реплікації, стандартизації аналізів та оцінки в клінічних когортах перед використанням у практиці.",
+          "takeaways": [
+            "Протеомні сигнали в архівних зразках крові були пов’язані з подальшим розвитком агресивного раку передміхурової залози.",
+            "Робота пропонує кандидатні біомаркери, але є ретроспективною і вимагає проспективної валідації.",
+            "Розуміння імунозалежних сигналів може інформувати заходи профілактики та скринінгу, якщо ці знахідки будуть підтверджені."
+          ]
+        },
+        "fr": {
+          "title": "Étude liant des protéines dans des échantillons sanguins archivés à un cancer de la prostate agressif ultérieur",
+          "summary": "Une étude récente a identifié des protéines sanguines mesurées jusqu’à 15 ans avant le diagnostic qui étaient associées au développement ultérieur d’un cancer de la prostate agressif, suggérant des biomarqueurs candidats pour une prédiction de risque plus précoce et des indications sur l’activité immunitaire liée au développement de la maladie.",
+          "whyItMatters": "Si elles sont validées prospectivement, des biomarqueurs à long terme pourraient améliorer le dépistage précoce et la stratification du risque pour le cancer de la prostate. Les résultats actuels sont observationnels et nécessitent réplication, standardisation des tests et évaluation dans des cohortes cliniques avant d’être utilisés en pratique.",
+          "takeaways": [
+            "Des signaux protéomiques dans des échantillons sanguins archivés ont été associés au développement ultérieur d’un cancer de la prostate agressif.",
+            "Le travail fournit des biomarqueurs candidats, mais il est rétrospectif et nécessite une validation prospective.",
+            "La compréhension des signaux liés au système immunitaire pourrait éclairer des stratégies de prévention et de dépistage si elle est confirmée."
+          ]
+        },
+        "de": {
+          "title": "Studie verknüpft Proteine in archivierten Blutproben mit späterem aggressivem Prostatakrebs",
+          "summary": "Eine aktuelle Studie identifizierte Blutproteine, die bis zu 15 Jahre vor der Diagnose gemessen wurden und mit einem späteren Auftreten von aggressivem Prostatakrebs assoziiert waren. Das deutet auf Kandidatenbiomarker für frühere Risikoabschätzung und Einblicke in immunologische Aktivität im Zusammenhang mit Krankheitsentwicklung hin.",
+          "whyItMatters": "Wenn prospektiv validiert, könnten langfristige Biomarker die Früherkennung und Risikostratifizierung beim Prostatakrebs verbessern. Die aktuellen Befunde sind beobachtend und erfordern Replikation, Standardisierung der Tests und Evaluation in klinischen Kohorten, bevor sie in der Praxis einsetzbar wären.",
+          "takeaways": [
+            "Proteomische Signale in archivierten Blutproben korrelierten mit späterer Entwicklung von aggressivem Prostatakrebs.",
+            "Die Arbeit liefert Kandidatenbiomarker, ist retrospektiv und braucht prospektive Validierung.",
+            "Das Verständnis immunbezogener Signale könnte, falls bestätigt, Präventions‑ und Screeningstrategien informieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo liga proteínas em amostras de sangue arquivadas a câncer de próstata agressivo posteriormente",
+          "summary": "Um estudo recente identificou proteínas no sangue medidas até 15 anos antes do diagnóstico que estavam associadas ao desenvolvimento posterior de câncer de próstata agressivo, sugerindo biomarcadores candidatos para predição precoce de risco e dando insights sobre atividade imune relacionada ao desenvolvimento da doença.",
+          "whyItMatters": "Se validados prospectivamente, biomarcadores com longa antecedência poderiam melhorar a detecção precoce e a estratificação de risco do câncer de próstata. As descobertas atuais são observacionais e exigem replicação, padronização dos ensaios e avaliação em coortes clínicas antes de uso na prática.",
+          "takeaways": [
+            "Sinais proteômicos em sangue arquivado foram associados ao desenvolvimento futuro de câncer de próstata agressivo.",
+            "O trabalho fornece biomarcadores candidatos, mas é retrospectivo e precisa de validação prospectiva.",
+            "Compreender sinais relacionados ao sistema imune pode, se confirmado, informar estratégias de prevenção e rastreamento."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány összekapcsolt fehérjéket archivált vérmintákban későbbi agresszív prosztatarákkal",
+          "summary": "Egy friss tanulmány olyan vérfehérjéket azonosított, amelyeket akár 15 évvel a diagnózis előtt mértek és amelyek összefüggtek későbbi agresszív prosztatarákkal, ami jelölt biomarkereket sugall a korábbi kockázatbecsléshez és betekintést adhat a betegség kialakulásával kapcsolatos immunaktivitásba.",
+          "whyItMatters": "Ha prospektíven validálják, a hosszú elővezetési idejű biomarkerek javíthatják a prosztatarák korai felismerését és kockázatstratifikálását. A jelenlegi eredmények megfigyelő jellegűek, és replikációt, vizsgálati módszerek szabványosítását és klinikai kohorszokban történő értékelést igényelnek, mielőtt gyakorlatban alkalmazhatók lennének.",
+          "takeaways": [
+            "Archivált vérminták proteomikai jelei összefüggtek későbbi agresszív prosztatarák kialakulásával.",
+            "A munka jelölteket szolgáltat, de visszatekintő jellegű, és prospektív validálásra van szükség.",
+            "Az immunhoz kapcsolódó jelek megértése — ha megerősítik — hozzájárulhat a megelőzéshez és a szűrési stratégiákhoz."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تربط بروتينات في عينات دم مؤرشفة بسرطان البروستاتا العدواني لاحقاً",
+          "summary": "حددت دراسة حديثة بروتينات في الدم تم قياسها قبل التشخيص بما يصل إلى 15 عاماً والتي ارتبطت بظهور سرطان البروستاتا العدواني لاحقاً، ما يشير إلى مؤشرات مرشحة للتنبؤ المبكر بالمخاطر وإلى رؤى حول النشاط المناعي المرتبط بتطور المرض.",
+          "whyItMatters": "إذا تم التحقق من صحتها بشكل استشرافي، يمكن للمؤشرات الحيوية طويلة الأمد أن تحسّن الكشف المبكر وتصنيف المخاطر لسرطان البروستاتا. النتائج الحالية رصدية وتتطلب تكراراً، وتوحيد الطرق، وتقييماً في مجموعات سريرية قبل استخدامها في الممارسة.",
+          "takeaways": [
+            "ارتبطت إشارات بروتينية في عينات دم مؤرشفة بتطور سرطان البروستاتا العدواني لاحقاً.",
+            "العمل يُقدّم مؤشرات مرشحة لكنه استعادي ويحتاج إلى تحقق استشرافي.",
+            "قد يوفّر فهم الإشارات المرتبطة بالمناعة معلومات للاحتواء والفحص إذا تأكدت النتائج."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=clues-to-prostate-cancer-risk-in-blood-samples-taken-15-years-ear-3c253b8c039b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/clues-to-prostate-cancer-risk-in-blood-samples-taken-15-years-ear-3c253b8c039b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/clues-to-prostate-cancer-risk-in-blood-samples-taken-15-years-ear-3c253b8c039b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links proteins in archived blood samples to later aggressive prostate cancer.\nStory summary: A recent study identified blood proteins measured up to 15 years before diagnosis that were associated with subsequent aggressive prostate cancer, suggesting candidate biomarkers for earlier risk prediction and insights into immune activity related to disease development..\nCategory: Cancer prevention & biomarkers.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "ai-chatbots-can-be-a-valuable-health-resource-for-older-adults-if-dc8305754ff1",
       "category": "AI and health literacy",
@@ -3747,6 +4523,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nurses are an important resource in Swedish bowel cancer screening.\nStory summary: A Karolinska Institutet study published in Endoscopy found that colonoscopies performed by specially trained nurses as part of Sweden's bowel cancer screening programme were at least the same quality as those performed by doctors, suggesting nurses could help meet growing demand for examinations..\nCategory: Cancer screening.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "who-decides-when-medical-ai-may-be-updated-0fe648ac287a",
+      "category": "AI in medicine",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/who-decides-when-medical-ai-may-be-updated",
+      "sourceTitle": "Who decides when medical AI may be updated?",
+      "publishedAt": "22 October, 2026",
+      "languages": {
+        "en": {
+          "title": "Karolinska researchers propose AEGIS framework to govern updates to medical AI",
+          "summary": "Researchers at Karolinska Institutet outline AEGIS, a framework published in npj Digital Medicine for governing and monitoring updates to deployed medical AI models. The proposal emphasizes that performance‑improving updates should be checked before clinical use to balance improvement with safety and regulatory requirements.",
+          "whyItMatters": "As medical AI systems evolve with new data, governance frameworks are needed to ensure updates do not degrade safety or fairness. AEGIS aims to provide structured oversight to support responsible, monitored model updates, but implementation and real‑world testing are required.",
+          "takeaways": [
+            "AEGIS is a proposed framework for deciding and monitoring when medical AI models may be updated.",
+            "The framework stresses pre‑update checks to protect patient safety while allowing model improvement.",
+            "Adoption will require buy‑in from developers, regulators and health systems and practical validation."
+          ]
+        },
+        "es": {
+          "title": "Investigadores de Karolinska proponen el marco AEGIS para gobernar las actualizaciones de IA médica",
+          "summary": "Investigadores del Karolinska Institutet describen AEGIS, un marco publicado en npj Digital Medicine para gobernar y monitorear las actualizaciones de modelos de IA médica desplegados. La propuesta enfatiza que las actualizaciones que mejoran el rendimiento deben revisarse antes de su uso clínico para equilibrar la mejora con la seguridad y requisitos regulatorios.",
+          "whyItMatters": "A medida que los sistemas de IA médica evolucionan con nuevos datos, se necesitan marcos de gobernanza para asegurar que las actualizaciones no degraden la seguridad o la equidad. AEGIS pretende ofrecer supervisión estructurada para apoyar actualizaciones responsables y monitorizadas, pero su implementación y prueba en entornos reales son necesarias.",
+          "takeaways": [
+            "AEGIS es un marco propuesto para decidir y monitorizar cuándo los modelos de IA médica pueden actualizarse.",
+            "El marco destaca la necesidad de comprobaciones previas a la actualización para proteger la seguridad del paciente al tiempo que permite mejoras del modelo.",
+            "La adopción requerirá aceptación de desarrolladores, reguladores y sistemas de salud y validación práctica."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи Karolinska предлагают рамки AEGIS для регулирования обновлений медицинского ИИ",
+          "summary": "Исследователи из Karolinska Institutet описывают AEGIS — рамки, опубликованные в npj Digital Medicine, для управления и мониторинга обновлений развернутых моделей медицинского ИИ. В предложении подчёркивается, что обновления, улучшающие производительность, должны проверяться перед клиническим использованием, чтобы балансировать улучшение с вопросами безопасности и регуляторными требованиями.",
+          "whyItMatters": "По мере того как медицинские ИИ-системы эволюционируют с приходом новых данных, требуются рамки управления, чтобы обновления не ухудшали безопасность или справедливость. AEGIS стремится обеспечить структурированный надзор для ответственных и контролируемых обновлений моделей, но необходима реализация и тестирование в реальных условиях.",
+          "takeaways": [
+            "AEGIS — предложенная рамочная модель для принятия решений и мониторинга, когда можно обновлять модели медицинского ИИ.",
+            "Рамки подчёркивают необходимость проверок до обновления, чтобы защитить безопасность пациентов и одновременно позволять улучшения модели.",
+            "Для внедрения потребуется поддержка разработчиков, регуляторов и систем здравоохранения, а также практическая валидация."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники Karolinska пропонують рамки AEGIS для регулювання оновлень медичного ШІ",
+          "summary": "Дослідники Інституту Каролінска виклали AEGIS — рамки для регулювання й моніторингу оновлень розгорнутих медичних моделей ШІ, опубліковані в npj Digital Medicine. Пропозиція підкреслює, що оновлення, які покращують продуктивність, повинні перевірятися перед клінічним застосуванням, щоб збалансувати покращення з питаннями безпеки та вимогами регуляторів.",
+          "whyItMatters": "Оскільки медичні системи ШІ еволюціонують з новими даними, потрібні рамки управління, щоб гарантувати, що оновлення не погіршують безпеку чи справедливість. AEGIS має на меті надати структурований нагляд для відповідальних, контрольованих оновлень моделей, але потрібна реалізація та тестування в реальних умовах.",
+          "takeaways": [
+            "AEGIS — запропонована рамка для прийняття рішень і моніторингу того, коли можна оновлювати медичні моделі ШІ.",
+            "Рамка наголошує на перевірках перед оновленням, щоб захистити пацієнтів і водночас дозволити покращення моделей.",
+            "Впровадження вимагатиме згоди розробників, регуляторів і систем охорони здоров’я та практичної валідації."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs de Karolinska proposent le cadre AEGIS pour gouverner les mises à jour de l’IA médicale",
+          "summary": "Des chercheurs de l’Institut Karolinska présentent AEGIS, un cadre publié dans npj Digital Medicine pour gouverner et surveiller les mises à jour des modèles d’IA médicale déployés. La proposition souligne que les mises à jour améliorant la performance doivent être vérifiées avant un usage clinique afin d’équilibrer amélioration, sécurité et exigences réglementaires.",
+          "whyItMatters": "À mesure que les systèmes d’IA médicale évoluent avec de nouvelles données, des cadres de gouvernance sont nécessaires pour garantir que les mises à jour ne dégradent pas la sécurité ou l’équité. AEGIS vise à fournir un encadrement structuré pour soutenir des mises à jour responsables et surveillées, mais sa mise en œuvre et son test en conditions réelles sont nécessaires.",
+          "takeaways": [
+            "AEGIS est un cadre proposé pour décider et surveiller quand les modèles d’IA médicale peuvent être mis à jour.",
+            "Le cadre insiste sur des vérifications préalables à la mise à jour pour protéger la sécurité des patients tout en permettant l’amélioration des modèles.",
+            "L’adoption nécessitera l’adhésion des développeurs, des régulateurs et des systèmes de santé ainsi qu’une validation pratique."
+          ]
+        },
+        "de": {
+          "title": "Karolinska‑Forschende schlagen AEGIS‑Rahmen zur Steuerung von Updates medizinischer KI vor",
+          "summary": "Forscher des Karolinska Institutet skizzieren AEGIS, einen in npj Digital Medicine veröffentlichten Rahmen zur Steuerung und Überwachung von Aktualisierungen bereits eingesetzter medizinischer KI‑Modelle. Der Vorschlag betont, dass leistungsverbessernde Updates vor klinischem Einsatz geprüft werden sollten, um Verbesserung mit Sicherheit und regulatorischen Anforderungen in Einklang zu bringen.",
+          "whyItMatters": "Da medizinische KI‑Systeme mit neuen Daten weiterentwickelt werden, sind Governance‑Rahmen nötig, um sicherzustellen, dass Updates Sicherheit oder Fairness nicht beeinträchtigen. AEGIS zielt darauf ab, strukturierte Aufsicht für verantwortungsvolle, überwachte Modellupdates bereitzustellen, aber Implementierung und reale Erprobung sind erforderlich.",
+          "takeaways": [
+            "AEGIS ist ein vorgeschlagener Rahmen, um zu entscheiden und zu überwachen, wann medizinische KI‑Modelle aktualisiert werden dürfen.",
+            "Der Rahmen betont Vorprüfungen vor Updates, um die Patientensicherheit zu schützen und gleichzeitig Modellverbesserungen zu ermöglichen.",
+            "Die Einführung erfordert Zustimmung von Entwicklern, Regulierungsbehörden und Gesundheitssystemen sowie praktische Validierung."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores do Karolinska propõem framework AEGIS para governar atualizações de IA médica",
+          "summary": "Pesquisadores do Karolinska Institutet descrevem o AEGIS, um framework publicado na npj Digital Medicine para governar e monitorar atualizações de modelos de IA médica já implantados. A proposta enfatiza que atualizações que melhorem desempenho devem ser verificadas antes do uso clínico, para equilibrar melhoria com segurança e exigências regulatórias.",
+          "whyItMatters": "À medida que sistemas de IA médica evoluem com novos dados, são necessários frameworks de governança para garantir que atualizações não prejudiquem segurança ou equidade. O AEGIS visa fornecer supervisão estruturada para suportar atualizações responsáveis e monitoradas, mas implementação e testes no mundo real são necessários.",
+          "takeaways": [
+            "AEGIS é um framework proposto para decidir e monitorar quando modelos de IA médica podem ser atualizados.",
+            "O framework ressalta verificações pré‑atualização para proteger a segurança do paciente enquanto permite a melhoria do modelo.",
+            "A adoção exigirá apoio de desenvolvedores, reguladores e sistemas de saúde, além de validação prática."
+          ]
+        },
+        "hu": {
+          "title": "A Karolinska kutatói az AEGIS keretrendszert javasolják az orvosi MI frissítéseinek szabályozására",
+          "summary": "A Karolinska Institutet kutatói ismertetik az AEGIS keretrendszert, amelyet az npj Digital Medicine publikáltak, az üzembe helyezett orvosi MI‑modellek frissítéseinek irányítására és monitorozására. A javaslat hangsúlyozza, hogy a teljesítményt javító frissítéseket klinikai alkalmazás előtt ellenőrizni kell a fejlesztés és a biztonság, valamint a szabályozási követelmények egyensúlyának biztosítása érdekében.",
+          "whyItMatters": "Amint az orvosi MI rendszerek új adatokkal fejlődnek, irányítási keretekre van szükség annak biztosításához, hogy a frissítések ne rontsanak a biztonságon vagy az igazságosságon. Az AEGIS célja strukturált felügyeletet nyújtani a felelős, ellenőrzött modellfrissítésekhez, de a megvalósításhoz és a gyakorlati teszteléshez további munka szükséges.",
+          "takeaways": [
+            "Az AEGIS egy javasolt keretrendszer annak eldöntésére és nyomon követésére, mikor frissíthetők az orvosi MI‑modellek.",
+            "A keretrendszer a frissítés előtti ellenőrzéseket hangsúlyozza a betegbiztonság védelme mellett a modellfejlesztés lehetővé tétele érdekében.",
+            "Az elfogadáshoz fejlesztők, szabályozók és egészségügyi rendszerek jóváhagyása és gyakorlati validáció szükséges."
+          ]
+        },
+        "ar": {
+          "title": "باحثو كارولنسكا يقترحون إطار AEGIS لحوكمة تحديثات الذكاء الاصطناعي الطبي",
+          "summary": "يصوّف باحثو معهد كارولنسكا إطار AEGIS، نُشر في npj Digital Medicine، لحوكمة ومراقبة تحديثات نماذج الذكاء الاصطناعي الطبية المنتشرة. يشدّد الاقتراح على ضرورة فحص التحديثات التي تحسّن الأداء قبل الاستخدام السريري لموازنة التحسين مع متطلبات السلامة والتنظيم.",
+          "whyItMatters": "مع تطور نظم الذكاء الاصطناعي الطبي مع بيانات جديدة، هناك حاجة إلى أطر حوكمة لضمان ألا تُضعف التحديثات السلامة أو العدالة. يهدف AEGIS إلى توفير إشراف منظم لدعم تحديثات النماذج بمسؤولية ومراقبة، لكن التنفيذ والاختبار الواقعي مطلوبان.",
+          "takeaways": [
+            "AEGIS إطار مقترح لاتخاذ القرار ومراقبة متى يمكن تحديث نماذج الذكاء الاصطناعي الطبية.",
+            "يشدّد الإطار على فحوصات ما قبل التحديث لحماية سلامة المرضى مع السماح بتحسين النماذج.",
+            "ستتطلّب الاعتماد موافقة المطورين والمنظمين ونُظم الصحة والتحقّق العملي."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=who-decides-when-medical-ai-may-be-updated-0fe648ac287a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/who-decides-when-medical-ai-may-be-updated-0fe648ac287a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/who-decides-when-medical-ai-may-be-updated-0fe648ac287a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Karolinska researchers propose AEGIS framework to govern updates to medical AI.\nStory summary: Researchers at Karolinska Institutet outline AEGIS, a framework published in npj Digital Medicine for governing and monitoring updates to deployed medical AI models. The proposal emphasizes that performance‑improving updates should be checked before clinical use to balance improvement with safety and regulatory requirements..\nCategory: AI in medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "diabetes-and-adhd-drugs-to-be-tested-on-alzheimer-s-patients-in-n-ade6b4c19f0f",
@@ -10519,6 +11402,113 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Auto‑antibodies against DNA‑repair proteins linked to childhood cancers.\nStory summary: Researchers observed that children with certain cancers were more likely to have auto‑antibodies targeting six proteins essential for DNA repair. The study also found that young adults who later developed cancer had elevated levels of these antibodies years before diagnosis..\nCategory: Cancer research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "pope-leo-xiv-s-lung-cancer-highlights-growing-number-of-nonsmoker-78c1a3321702",
+      "category": "Cancer epidemiology",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/pope-leo-xivs-lung-cancer-highlights-growing-number-of-nonsmokers-diagnosed-with-the-disease-and-younger-people-too-294348",
+      "sourceTitle": "Pope Leo XIV’s lung cancer highlights growing number of nonsmokers diagnosed with the disease – and younger people too",
+      "publishedAt": "2026-10-14T00:50:54Z",
+      "languages": {
+        "en": {
+          "title": "Analysis: shifting patterns in lung cancer include rises in women and nonsmokers",
+          "summary": "A Conversation analysis notes that while lung cancer rates have fallen in men, they have risen in women; the piece discusses potential reasons and argues that broader screening guidelines and attention to early symptoms may be needed as the disease profile changes.",
+          "whyItMatters": "Evolving epidemiology—more cases in women and nonsmokers—could affect screening strategies and clinical vigilance. The article is an expert commentary synthesizing trends rather than primary research.",
+          "takeaways": [
+            "Lung cancer incidence trends are changing, with rising rates in women and an increasing share of cases in nonsmokers.",
+            "Authors recommend reviewing screening criteria and improving early symptom recognition in light of demographic shifts.",
+            "Policy or guideline changes would rely on population data and formal evidence reviews."
+          ]
+        },
+        "es": {
+          "title": "Análisis: patrones cambiantes en el cáncer de pulmón incluyen aumentos en mujeres y en no fumadores",
+          "summary": "Un análisis en The Conversation señala que, aunque las tasas de cáncer de pulmón han caído en hombres, han aumentado en mujeres; la pieza discute posibles razones y sostiene que podrían necesitarse criterios de cribado más amplios y mayor atención a síntomas tempranos a medida que cambia el perfil de la enfermedad.",
+          "whyItMatters": "La evolución epidemiológica —más casos en mujeres y en no fumadores— podría afectar las estrategias de cribado y la vigilancia clínica. El artículo es un comentario experto que sintetiza tendencias más que una investigación primaria.",
+          "takeaways": [
+            "Las tendencias de incidencia del cáncer de pulmón están cambiando, con aumentos en mujeres y una mayor proporción de casos en no fumadores.",
+            "Los autores recomiendan revisar los criterios de cribado y mejorar el reconocimiento temprano de síntomas ante los cambios demográficos.",
+            "Los cambios en políticas o guías dependerían de datos poblacionales y revisiones formales de la evidencia."
+          ]
+        },
+        "ru": {
+          "title": "Анализ: меняющиеся паттерны рака лёгкого включают рост числа случаев у женщин и некурящих",
+          "summary": "Аналитическая статья в The Conversation отмечает, что в то время как заболеваемость раком лёгкого снизилась у мужчин, она выросла у женщин; материал обсуждает возможные причины и утверждает, что может потребоваться расширение критериев скрининга и повышенное внимание к ранним симптомам по мере изменения профиля заболевания.",
+          "whyItMatters": "Эволюция эпидемиологии — больше случаев среди женщин и некурящих — может повлиять на стратегии скрининга и клиническое наблюдение. Статья является экспертным комментарием, синтезирующим тренды, а не первичным исследованием.",
+          "takeaways": [
+            "Тенденции заболеваемости раком лёгкого меняются: наблюдаются рост у женщин и растущая доля случаев среди некурящих.",
+            "Авторы рекомендуют пересмотреть критерии скрининга и улучшить раннее распознавание симптомов с учётом демографических сдвигов.",
+            "Изменения в политике или руководствах будут зависеть от популяционных данных и формальных обзоров доказательств."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз: змінюється картина раку легень — зростає частка випадків у жінок і некурців",
+          "summary": "Аналіз у The Conversation відзначає, що в той час як загальні показники раку легень знизилися у чоловіків, вони зросли у жінок; у публікації обговорюються можливі причини й висловлюється думка, що може знадобитися ширший перегляд критеріїв скринінгу та увага до ранніх симптомів у міру зміни профілю захворювання.",
+          "whyItMatters": "Еволюція епідеміології — більше випадків у жінок і зростаюча частка серед некурців — може вплинути на стратегії скринінгу та клінічну пильність. Стаття є експертним коментарем, що синтезує тренди, а не первинним дослідженням.",
+          "takeaways": [
+            "Тенденції захворюваності на рак легень змінюються: зростають показники у жінок і частка випадків серед некурців.",
+            "Автори рекомендують переглянути критерії скринінгу та покращити розпізнавання ранніх симптомів з урахуванням демографічних змін.",
+            "Зміни в політиці або керівництвах потребуватимуть даних населення та формальних оглядів доказів."
+          ]
+        },
+        "fr": {
+          "title": "Analyse : l’évolution du profil du cancer du poumon inclut une hausse chez les femmes et les non‑fumeurs",
+          "summary": "Une analyse dans The Conversation note que, tandis que les taux de cancer du poumon ont diminué chez les hommes, ils ont augmenté chez les femmes ; l’article discute des raisons possibles et soutient qu’un élargissement des lignes directrices de dépistage et une attention accrue aux symptômes précoces pourraient être nécessaires à mesure que le profil de la maladie évolue.",
+          "whyItMatters": "L’évolution de l’épidémiologie — plus de cas chez les femmes et une part croissante chez les non‑fumeurs — pourrait affecter les stratégies de dépistage et la vigilance clinique. L’article est un commentaire d’experts qui synthétise des tendances plutôt qu’une recherche primaire.",
+          "takeaways": [
+            "Les tendances d’incidence du cancer du poumon évoluent, avec des augmentations chez les femmes et une part croissante de cas chez les non‑fumeurs.",
+            "Les auteurs recommandent de revoir les critères de dépistage et d’améliorer la reconnaissance des symptômes précoces au regard des changements démographiques.",
+            "Les modifications des politiques ou des recommandations reposeraient sur des données de population et des revues formelles des preuves."
+          ]
+        },
+        "de": {
+          "title": "Analyse: Verschiebungen im Lungenkrebsbild beinhalten Zunahmen bei Frauen und Nichtrauchern",
+          "summary": "Eine Analyse in The Conversation stellt fest, dass während die Lungenkrebsraten bei Männern gesunken sind, sie bei Frauen gestiegen sind; der Beitrag diskutiert mögliche Ursachen und argumentiert, dass breitere Screening‑Leitlinien und Aufmerksamkeit für frühe Symptome nötig sein könnten, da sich das Krankheitsprofil verändert.",
+          "whyItMatters": "Sich verändernde Epidemiologie – mehr Fälle bei Frauen und Nichtrauchern – könnte Screening‑Strategien und klinische Aufmerksamkeit beeinflussen. Der Artikel ist ein fachlicher Kommentar, der Trends zusammenfasst, und keine Primärforschung.",
+          "takeaways": [
+            "Die Trends bei Lungenkrebs verschieben sich mit steigenden Raten bei Frauen und einem wachsenden Anteil an Nichtrauchern.",
+            "Die Autorinnen und Autoren empfehlen, Screeningkriterien zu überprüfen und die Früherkennung von Symptomen zu verbessern angesichts demografischer Veränderungen.",
+            "Politik‑ oder Leitlinienänderungen würden sich auf Bevölkerungsdaten und formelle Evidenzbewertungen stützen."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise: padrões de câncer de pulmão mudam, com aumento entre mulheres e não fumantes",
+          "summary": "Uma análise no The Conversation observa que, enquanto as taxas de câncer de pulmão caíram em homens, aumentaram em mulheres; o texto discute razões potenciais e argumenta que diretrizes de rastreamento mais amplas e atenção a sintomas iniciais podem ser necessárias à medida que o perfil da doença muda.",
+          "whyItMatters": "A epidemiologia em evolução — mais casos em mulheres e em não fumantes — pode afetar estratégias de rastreamento e vigilância clínica. O artigo é um comentário de especialista que sintetiza tendências, não uma pesquisa primária.",
+          "takeaways": [
+            "As tendências de incidência do câncer de pulmão estão mudando, com aumento em mulheres e maior proporção de casos em não fumantes.",
+            "Os autores recomendam revisar critérios de rastreamento e melhorar o reconhecimento precoce de sintomas diante das mudanças demográficas.",
+            "Mudanças de política ou diretrizes dependeriam de dados populacionais e revisões formais de evidência."
+          ]
+        },
+        "hu": {
+          "title": "Elemzés: a tüdőrák mintázatai eltolódnak — növekedés nők és nemdohányzók körében",
+          "summary": "A Conversation elemzés rámutat, hogy míg a tüdőrák előfordulása férfiaknál csökkent, nőknél emelkedett; a cikk megvitatja a lehetséges okokat, és azt javasolja, hogy a változó betegségprofil fényében érdemes lehet átgondolni a szélesebb körű szűrési irányelveket és a korai tünetekre való figyelmet.",
+          "whyItMatters": "A változó epidemiológia — több eset nőknél és nemdohányzóknál — befolyásolhatja a szűrési stratégiákat és a klinikai éberséget. A cikk szakértői kommentárként trendeket szintetizál, nem elsődleges kutatásként.",
+          "takeaways": [
+            "A tüdőrák előfordulási trendjei változnak: emelkedő arányok figyelhetők meg nőknél, és növekszik a nemdohányzók aránya.",
+            "A szerzők a szűrési kritériumok felülvizsgálatát és a korai tünetek jobb felismerését javasolják a demográfiai eltolódások fényében.",
+            "A politika vagy irányelvek változtatása népességi adatokon és formális bizonyíték‑értékeléseken alapulna."
+          ]
+        },
+        "ar": {
+          "title": "تحليل: أنماط سرطان الرئة تتغير مع ارتفاع لدى النساء وغير المدخنين",
+          "summary": "يشير تحليل في The Conversation إلى أنه بينما انخفضت معدلات سرطان الرئة لدى الرجال، فقد ارتفعت لدى النساء؛ يناقش المقال الأسباب المحتملة ويشدد على أن توسيع إرشادات الفحص والانتباه للأعراض المبكرة قد يكون ضرورياً مع تغير ملف المرض.",
+          "whyItMatters": "قد تؤثر الوبائيات المتطورة — زيادة الحالات لدى النساء وعدم المدخنين — على استراتيجيات الفحص واليقظة السريرية. المقال عبارة عن تعليق خبير يجمع الاتجاهات وليس بحثاً أولياً.",
+          "takeaways": [
+            "تتغير اتجاهات الإصابة بسرطان الرئة، مع ارتفاع في المعدلات لدى النساء وزيادة نسبة الحالات بين غير المدخنين.",
+            "يوصي المؤلفون بمراجعة معايير الفحص وتحسين تعرف الأعراض المبكرة في ضوء التحولات الديموغرافية.",
+            "أي تغييرات سياساتية أو إرشادية ستعتمد على بيانات سكانية ومراجعات أدلة رسمية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=pope-leo-xiv-s-lung-cancer-highlights-growing-number-of-nonsmoker-78c1a3321702",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/pope-leo-xiv-s-lung-cancer-highlights-growing-number-of-nonsmoker-78c1a3321702-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/pope-leo-xiv-s-lung-cancer-highlights-growing-number-of-nonsmoker-78c1a3321702-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Analysis: shifting patterns in lung cancer include rises in women and nonsmokers.\nStory summary: A Conversation analysis notes that while lung cancer rates have fallen in men, they have risen in women; the piece discusses potential reasons and argues that broader screening guidelines and attention to early symptoms may be needed as the disease profile changes..\nCategory: Cancer epidemiology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "a8",
       "category": "Cardiology / Medical devices",
       "sourceName": "medpagetoday.com",
@@ -12658,6 +13648,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Weekly medical podcast discusses early septic shock strategies and hormone therapy clot risks.\nStory summary: The TTHealthWatch podcast episode reviews current evidence around optimal approaches for early septic shock management and updates on hormone therapy associated blood clot risks, led by experienced medical commentators..\nCategory: medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "new-who-technical-package-to-help-countries-improve-health-data-f-cf7a37db0558",
+      "category": "Public health & data",
+      "sourceName": "who.int",
+      "sourceUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+      "sourceTitle": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+      "publishedAt": "Sat, 10 Oct 2026 07:49:45 Z",
+      "languages": {
+        "en": {
+          "title": "WHO releases SCORE technical package to strengthen national health data systems",
+          "summary": "WHO announced the SCORE for Health Data Technical Package to help countries strengthen routine health information systems, analytics and timely access to data—an effort framed around lessons from the COVID‑19 pandemic to improve emergency response and routine health decision‑making.",
+          "whyItMatters": "Better health data underpins surveillance, research and policy decisions across nutrition, chronic disease and infectious disease. Implementing the package could improve measurement and response capacity, though countries vary in infrastructure and resource needs for adoption.",
+          "takeaways": [
+            "SCORE is intended to boost national capacity for collecting, managing and using health data.",
+            "Stronger data systems support emergency responses and routine public health actions, including monitoring chronic disease trends.",
+            "Implementation will depend on local infrastructure, funding and workforce capacity; impact will vary by country."
+          ]
+        },
+        "es": {
+          "title": "OMS publica el paquete técnico SCORE para fortalecer los sistemas nacionales de datos de salud",
+          "summary": "La OMS anunció el paquete técnico SCORE for Health Data para ayudar a los países a fortalecer los sistemas de información sanitaria rutinaria, el análisis y el acceso oportuno a datos—un esfuerzo enmarcado en las lecciones aprendidas con la pandemia de COVID‑19 para mejorar la respuesta ante emergencias y la toma de decisiones de salud de rutina.",
+          "whyItMatters": "Mejores datos de salud sustentan la vigilancia, la investigación y las decisiones de política en nutrición, enfermedades crónicas e infecciosas. Implementar el paquete podría mejorar la capacidad de medición y respuesta, aunque los países difieren en infraestructura y recursos necesarios para la adopción.",
+          "takeaways": [
+            "SCORE pretende reforzar la capacidad nacional para recopilar, gestionar y usar datos de salud.",
+            "Sistemas de datos más sólidos respaldan respuestas a emergencias y acciones rutinarias de salud pública, incluida la monitorización de tendencias de enfermedades crónicas.",
+            "La implementación dependerá de infraestructura local, financiación y capacidad de personal; el impacto variará según el país."
+          ]
+        },
+        "ru": {
+          "title": "ВОЗ выпустила технический пакет SCORE для укрепления национальных систем данных о здоровье",
+          "summary": "ВОЗ объявила о техническом пакете SCORE for Health Data, предназначенном помочь странам укрепить рутинные системы здравоохранения, аналитику и своевременный доступ к данным — инициатива, основанная на уроках пандемии COVID‑19 для улучшения реагирования в чрезвычайных ситуациях и повседневного принятия здравоохранительных решений.",
+          "whyItMatters": "Лучшие данные о здоровье лежат в основе эпиднадзора, исследований и политических решений в области питания, хроник и инфекционных заболеваний. Внедрение пакета могло бы повысить возможности по измерению и реагированию, хотя страны различаются по инфраструктуре и ресурсным потребностям для его принятия.",
+          "takeaways": [
+            "SCORE нацелен на повышение национальных возможностей по сбору, управлению и использованию данных о здоровье.",
+            "Более надёжные системы данных поддерживают реагирование на чрезвычайные ситуации и повседневные действия общественного здравоохранения, включая мониторинг тенденций хронических заболеваний.",
+            "Реализация будет зависеть от местной инфраструктуры, финансирования и кадровых возможностей; влияние будет варьироваться между странами."
+          ]
+        },
+        "uk": {
+          "title": "ВООЗ випустила технічний пакет SCORE для посилення національних систем даних охорони здоров’я",
+          "summary": "ВООЗ оголосила про технічний пакет SCORE for Health Data, щоб допомогти країнам зміцнити рутинні інформаційні системи охорони здоров’я, аналітику та своєчасний доступ до даних — ініціативу, сформовану на уроках пандемії COVID‑19 для покращення реагування на надзвичайні ситуації та рутинного прийняття рішень у галузі охорони здоров’я.",
+          "whyItMatters": "Кращі дані охорони здоров’я лежать в основі епіднагляду, досліджень і політичних рішень щодо харчування, хронічних і інфекційних хвороб. Впровадження пакета може покращити можливості вимірювання та реагування, хоча країни відрізняються інфраструктурою та ресурсними потребами для прийняття пакета.",
+          "takeaways": [
+            "SCORE має на меті підвищити національні спроможності зі збору, управління та використання даних охорони здоров’я.",
+            "Сильніші системи даних підтримують реагування на надзвичайні ситуації та рутинні дії громадського здоров’я, включно з моніторингом тенденцій хронічних хвороб.",
+            "Впровадження залежатиме від місцевої інфраструктури, фінансування та кадрового потенціалу; вплив різнитиметься між країнами."
+          ]
+        },
+        "fr": {
+          "title": "L’OMS publie le paquet technique SCORE pour renforcer les systèmes nationaux de données de santé",
+          "summary": "L’OMS a annoncé le paquet technique SCORE for Health Data pour aider les pays à renforcer les systèmes d’information sanitaire routiniers, l’analytique et l’accès rapide aux données — une initiative formulée à partir des leçons de la pandémie de COVID‑19 afin d’améliorer la réponse aux urgences et la prise de décision sanitaire de routine.",
+          "whyItMatters": "De meilleures données de santé soutiennent la surveillance, la recherche et les décisions politiques dans les domaines de la nutrition, des maladies chroniques et des maladies infectieuses. La mise en œuvre du paquet pourrait améliorer la capacité de mesure et de réponse, bien que les pays diffèrent en termes d’infrastructures et de ressources nécessaires pour l’adoption.",
+          "takeaways": [
+            "SCORE vise à renforcer la capacité nationale à collecter, gérer et utiliser les données de santé.",
+            "Des systèmes de données plus solides soutiennent les réponses d’urgence et les actions de santé publique de routine, y compris le suivi des tendances des maladies chroniques.",
+            "La mise en œuvre dépendra des infrastructures locales, du financement et des compétences ; l’impact variera selon les pays."
+          ]
+        },
+        "de": {
+          "title": "WHO veröffentlicht SCORE‑Paket zur Stärkung nationaler Gesundheitsdatensysteme",
+          "summary": "Die WHO kündigte das SCORE for Health Data Technical Package an, das Ländern helfen soll, Routinedaten‑Informationssysteme, Analytik und zeitnahen Datenzugang zu stärken—ein Vorhaben, das um Lehren aus der COVID‑19‑Pandemie herum begründet ist, um Notfallreaktionen und routinemäßige Gesundheitsentscheidungen zu verbessern.",
+          "whyItMatters": "Bessere Gesundheitsdaten sind die Grundlage für Überwachung, Forschung und politische Entscheidungen in Bereichen wie Ernährung, chronische Krankheiten und Infektionskrankheiten. Die Umsetzung des Pakets könnte Mess‑ und Reaktionskapazitäten verbessern, wobei Länder jedoch in Infrastruktur und Ressourcen für die Adoption variieren.",
+          "takeaways": [
+            "SCORE soll die nationale Kapazität zum Sammeln, Verwalten und Nutzen von Gesundheitsdaten stärken.",
+            "Stärkere Datensysteme unterstützen Notfallreaktionen und routinemäßige öffentliche Gesundheitsmaßnahmen, einschließlich Überwachung chronischer Krankheits­trends.",
+            "Die Implementierung hängt von lokaler Infrastruktur, Finanzierung und Personalkapazität ab; die Wirkung wird von Land zu Land variieren."
+          ]
+        },
+        "pt-br": {
+          "title": "OMS lança pacote técnico SCORE para fortalecer sistemas nacionais de dados de saúde",
+          "summary": "A OMS anunciou o SCORE for Health Data Technical Package para ajudar países a fortalecer sistemas de informação de saúde rotineiros, análises e acesso oportuno a dados — iniciativa fundamentada em lições da pandemia de COVID‑19 para melhorar resposta a emergências e a tomada de decisões de saúde rotineiras.",
+          "whyItMatters": "Melhores dados de saúde sustentam vigilância, pesquisa e decisões de política em nutrição, doenças crônicas e infecciosas. Implementar o pacote pode melhorar capacidade de medição e resposta, embora os países variem em infraestrutura e necessidades de recursos para adoção.",
+          "takeaways": [
+            "O SCORE tem a intenção de aumentar a capacidade nacional de coletar, gerir e usar dados de saúde.",
+            "Sistemas de dados mais fortes apoiam respostas a emergências e ações de saúde pública rotineiras, incluindo monitoramento de tendências de doenças crônicas.",
+            "A implementação dependerá da infraestrutura local, financiamento e capacidade da força de trabalho; o impacto variará por país."
+          ]
+        },
+        "hu": {
+          "title": "WHO kiadta a SCORE technikai csomagot az országok nemzeti egészségügyi adatrendszereinek megerősítésére",
+          "summary": "A WHO bejelentette a SCORE for Health Data Technical Package‑t, amely segíti az országokat a rutinszerű egészségügyi információs rendszerek, az analitika és az adatokhoz való időben történő hozzáférés megerősítésében — mindezt a COVID‑19 járvány tapasztalataira építve a sürgősségi reagálás és a rutinszerű egészségügyi döntéshozatal javítása érdekében.",
+          "whyItMatters": "A jobb egészségügyi adatok alapot adnak a járványügyi megfigyeléshez, kutatáshoz és politikai döntésekhez a táplálkozás, krónikus betegségek és fertőző betegségek területén. A csomag bevezetése javíthatja a mérési és reagálási képességeket, bár az országok infrastrukturális és erőforrás‑igényei eltérnek, ami befolyásolja az alkalmazást.",
+          "takeaways": [
+            "A SCORE célja az országos kapacitás erősítése az egészségügyi adatok gyűjtésére, kezelésére és használatára.",
+            "Erősebb adat rendszerek támogatják a vészhelyzeti reagálást és a rutinszerű közegészségügyi intézkedéseket, beleértve a krónikus betegségek trendjeinek nyomon követését.",
+            "A megvalósítás a helyi infrastruktúrától, finanszírozástól és munkaerő‑kapacitástól függ; a hatás országonként változni fog."
+          ]
+        },
+        "ar": {
+          "title": "منظمة الصحة العالمية تصدر حزمة SCORE التقنية لتعزيز أنظمة بيانات الصحة الوطنية",
+          "summary": "أعلنت منظمة الصحة العالمية عن حزمة SCORE لتقنية بيانات الصحة لمساعدة البلدان على تعزيز نظم المعلومات الصحية الروتينية والتحليلات والوصول الآني إلى البيانات — مبادرة قائمة على دروس جائحة كوفيد‑19 لتحسين استجابة الطوارئ واتخاذ القرار الصحي الروتيني.",
+          "whyItMatters": "تدعم بيانات صحية أفضل المراقبة والبحث واتخاذ السياسات عبر مجالات التغذية والأمراض المزمنة والمعدية. قد يحسّن تنفيذ الحزمة القدرة على القياس والاستجابة، مع تباين بين البلدان في البُنى التحتية والموارد اللازمة للتبني.",
+          "takeaways": [
+            "تهدف SCORE إلى تعزيز قدرة الدول على جمع وإدارة واستخدام البيانات الصحية.",
+            "أنظمة بيانات أقوى تدعم الاستجابة للطوارئ والإجراءات الروتينية للصحة العامة، بما في ذلك رصد اتجاهات الأمراض المزمنة.",
+            "يعتمد التنفيذ على البنية التحتية المحلية والتمويل والموارد البشرية؛ وسيتفاوت الأثر بحسب البلد."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=new-who-technical-package-to-help-countries-improve-health-data-f-cf7a37db0558",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-who-technical-package-to-help-countries-improve-health-data-f-cf7a37db0558-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-who-technical-package-to-help-countries-improve-health-data-f-cf7a37db0558-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: WHO releases SCORE technical package to strengthen national health data systems.\nStory summary: WHO announced the SCORE for Health Data Technical Package to help countries strengthen routine health information systems, analytics and timely access to data—an effort framed around lessons from the COVID‑19 pandemic to improve emergency response and routine health decision‑making..\nCategory: Public health & data.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "article-4",
@@ -110761,6 +111858,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-27-motivation-1-story-1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Anna Packs Her Lunch",
+          "story": "Anna used to guess what she ate between meetings and felt scattered by midafternoon. She started packing a simple lunch the night before and logging it in the morning. Writing it down before the day began made choosing snacks easier and helped her notice when she was actually hungry versus just tired. Tracking didn’t have to be perfect — it was a practical way to plan, learn what works, and feel more in control of her day.",
+          "habit": "Pack and log your lunch before you leave.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Ana prepara su almuerzo",
+          "story": "Ana solía adivinar lo que comía entre reuniones y a media tarde se sentía sin energía. Empezó a preparar un almuerzo sencillo la noche anterior y a registrarlo por la mañana. Apuntarlo antes de salir le facilitó elegir refrigerios y detectar cuándo tenía hambre de verdad o sólo estaba cansada. No hacía falta ser perfecta: el registro fue una herramienta práctica para planear, aprender qué le funciona y tener más control del día.",
+          "habit": "Prepara y registra tu almuerzo la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Анна собирает ланч с вечера",
+          "story": "Анна раньше записывала еду вскользь и к середине дня была уставшей и рассеянной. Она начала собирать простой ланч вечером и вносить его в журнал утром. Фиксация до начала дня помогла ей легче выбирать перекусы и отличать настоящий голод от усталости. Ведение записей не должно быть идеальным — это практичный способ планировать, понять, что подходит, и чувствовать больше контроля над своим расписанием.",
+          "habit": "Соберите и запишите ланч с вечера.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Анна пакує обід заздалегідь",
+          "story": "Анна раніше лише приблизно записувала, що їсть, і до полудня почувалася втомленою й розгубленою. Вона почала готувати простий обід увечері й записувати його вранці. Фіксація до початку дня допомогла їй легше обирати перекуси й помічати, коли вона справді голодна, а коли просто втомлена. Ведення записів не повинно бути ідеальним — це практичний спосіб планувати, дізнаватися, що підходить, і відчувати більше контролю над днем.",
+          "habit": "Підготуйте й запишіть обід напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть вести записи сьогодні."
+        },
+        "fr": {
+          "title": "Anna prépare son déjeuner",
+          "story": "Anna notait rarement ce qu'elle mangeait et se sentait souvent fatiguée l'après‑midi. Elle a commencé à préparer un déjeuner simple la veille et à le saisir le matin. Le fait de l'enregistrer avant la journée lui a permis de mieux choisir ses en-cas et de distinguer la vraie faim de la fatigue passagère. Le suivi n'a pas à être parfait : c'est une façon concrète de planifier, d'apprendre ce qui marche et de se sentir plus maître de sa journée.",
+          "habit": "Préparez et enregistrez votre déjeuner la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Anna bereitet ihr Mittagessen vor",
+          "story": "Anna schätzte früher oft, was sie zwischen Terminen aß, und fühlte sich am Nachmittag ausgelaugt. Sie begann, abends ein einfaches Mittagessen vorzubereiten und dieses morgens einzutragen. Das Festhalten vor dem Tag machte es ihr leichter, Snacks auszuwählen und echten Hunger von Müdigkeit zu unterscheiden. Tracking muss nicht perfekt sein — es ist eine praktische Methode zum Planen, um herauszufinden, was passt, und um sich im Alltag selbstsicherer zu fühlen.",
+          "habit": "Bereite dein Mittagessen vor und trage es ein, bevor du gehst.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Ana prepara o almoço",
+          "story": "Ana costumava chutar o que comia entre compromissos e acabava sem energia à tarde. Ela passou a preparar um almoço simples na noite anterior e registrá‑lo pela manhã. Anotar antes do dia começar tornou mais fácil escolher lanches e perceber quando estava realmente com fome ou apenas cansada. O registro não precisa ser perfeito — é uma forma prática de planejar, entender o que funciona e se sentir com mais controle ao longo do dia.",
+          "habit": "Prepare e registre seu almoço na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Anna előre csomagolja az ebédjét",
+          "story": "Anna korábban csak tippelgetett, mit eszik a megbeszélések között, és délutánra kimerültnek érezte magát. Elkezdett előző este egyszerű ebédet készíteni, és reggel beírni a naplóba. Ha napindítás előtt rögzíti, könnyebb lesz a nasikat választani, és észrevenni, mikor valóban éhes, és mikor csak fáradt. A nyomon követés nem kell tökéletes legyen — ez egy gyakorlati mód a tervezésre, a tanulásra és a nagyobb kontroll érzésére.",
+          "habit": "Készítsd és rögzítsd az ebéded előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "آنا تُحضّر غدائها مسبقًا",
+          "story": "كانت آنا تقدّر ما تأكله من دون تسجيل دقيق، وفي منتصف النهار تشعر بالإرهاق. بدأت تحضّر غداء بسيط في المساء وتسجّله صباحًا. تدوينه قبل اليوم جعلها تختار الوجبات الخفيفة بسهولة أكبر وتدرك متى تكون جائعة فعلًا ومتى تكون متعبة فقط. لا يجب أن يكون التتبع مثاليًا — هو طريقة عملية للتخطيط، للتعرّف على ما يناسبك، ولشعور أكبر بالتحكم في يومك.",
+          "habit": "حضّر وسجّل غدائك قبل بداية اليوم.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Anna Packs Her Lunch.\nStory: Anna used to guess what she ate between meetings and felt scattered by midafternoon. She started packing a simple lunch the night before and logging it in the morning. Writing it down before the day began made choosing snacks easier and helped her notice when she was actually hungry versus just tired. Tracking didn’t have to be perfect — it was a practical way to plan, learn what works, and feel more in control of her day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-27-motivation-2-story-2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Rafael and the Weekend Treat",
+          "story": "Rafael likes meeting friends on weekends and enjoying a treat without overthinking it. He started logging those outings honestly — the dessert, the shared plate, the extra coffee — then reviewed his week to see where small swaps felt doable. Not every meal needed changing; just noticing patterns helped him make one or two gentle adjustments that fit his life. Tracking became a way to learn, not a chore, and he felt more intentional about his choices.",
+          "habit": "Log social meals honestly, then review your week.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Rafael y el capricho del fin de semana",
+          "story": "A Rafael le gusta quedar con amigos los fines de semana y disfrutar un capricho sin complicaciones. Empezó a registrar esas salidas con honestidad: el postre, el plato para compartir, el café de más; luego revisaba la semana para ver dónde pequeños cambios eran posibles. No hacía falta cambiarlo todo; fijarse en los patrones le permitió ajustar una o dos cosas sin esfuerzo. El registro pasó a ser una forma de aprender y elegir con más intención.",
+          "habit": "Registra las comidas sociales con honestidad y revisa la semana.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Рафаэль и угощение на выходных",
+          "story": "Рафаэлю нравится встречаться с друзьями по выходным и не отказывать себе в десерте. Он стал честно записывать такие выходы — десерт, общее блюдо, лишний кофе — а затем просматривать неделю, чтобы понять, где можно сделать небольшие изменения. Не обязательно менять всё; наблюдение за привычками помогло внести одну-две мягкие корректировки, которые вписались в жизнь. Ведение записей стало способом учиться, а не утомительной обязанностью.",
+          "habit": "Честно записывайте совместные трапезы и просматривайте неделю.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Рафаель і «смаколик» на вихідних",
+          "story": "Рафаель любить зустрічатися з друзями у вихідні й дозволяти собі смаколик без зайвих думок. Він почав чесно записувати такі виходи — десерт, блюдо на двох, зайва кава — а потім переглядав тиждень, щоб побачити, де можна легко внести невеликі зміни. Не потрібно міняти все; помічати закономірності допомогло зробити одну–дві м'які корекції, що підходили для його життя. Ведення записів стало способом навчатися, а не ношею.",
+          "habit": "Чесно записуйте спільні їди і переглядайте тиждень.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть вести записи сьогодні."
+        },
+        "fr": {
+          "title": "Rafael et la gourmandise du week‑end",
+          "story": "Rafael aime retrouver ses amis le week‑end et se faire plaisir sans y penser trop. Il a commencé à noter ces sorties avec sincérité — le dessert, l'assiette à partager, le café en plus — puis à relire sa semaine pour repérer où de petits ajustements étaient possibles. Il n'était pas question de tout changer : repérer des tendances lui a permis d'adopter un ou deux ajustements doux qui collent à son quotidien. Le suivi est devenu un apprentissage, pas une corvée.",
+          "habit": "Notez honnêtement les repas sociaux, puis relisez votre semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Rafael und der Wochenend-Genuss",
+          "story": "Rafael trifft sich gern am Wochenende mit Freunden und genießt dann ohne viel Nachdenken ein Dessert. Er begann, diese Ausflüge ehrlich zu protokollieren — das Dessert, die gemeinsame Platte, den zusätzlichen Kaffee — und schaute sich am Ende der Woche an, wo kleine Anpassungen möglich waren. Es musste nicht alles ändern; Muster zu erkennen half ihm, ein oder zwei sanfte Veränderungen vorzunehmen, die zu seinem Leben passen. Tracking wurde zu einer Lernmethode, nicht zu einer Last.",
+          "habit": "Notiere gesellige Mahlzeiten ehrlich und überprüfe die Woche.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Rafael e o agrado do fim de semana",
+          "story": "Rafael gosta de encontrar amigos no fim de semana e aproveitar um agrado sem pensar demais. Ele passou a registrar essas saídas com honestidade — a sobremesa, o prato compartilhado, o café a mais — e depois revisava a semana para ver onde pequenas trocas eram possíveis. Não era preciso mudar tudo; notar padrões o ajudou a ajustar uma ou duas coisas de forma leve, que cabiam na sua rotina. O registro virou um jeito de aprender, não uma obrigação.",
+          "habit": "Registre refeições sociais com honestidade e reveja sua semana.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Rafael és a hétvégi élvezet",
+          "story": "Rafael szeret hétvégén találkozni a barátaival és egy kis jutalomfalatot enni anélkül, hogy túlgondolná. Elkezdte őszintén rögzíteni ezeket a kimozdulásokat — a desszertet, a közös tálat, a plusz kávét — majd áttekintette a hetét, hogy hol férnek el apróbb cserék. Nem kell mindent megváltoztatni; a minták észrevétele segített egy‑két könnyed igazítást bevezetni, ami illeszkedett az életéhez. A naplózás a tanulás eszközévé vált, nem teherként.",
+          "habit": "Rögzítsd őszintén a közös étkezéseket, majd nézd át a hetet.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "رافائيل والحلوى في عطلة نهاية الأسبوع",
+          "story": "رافائيل يحب لقاء أصدقائه في العطلات والاستمتاع بحلوى دون كثير من التفكير. بدأ يسجل تلك الخروجات بصدق — الحلوى، الطبق المشترك، القهوة الإضافية — ثم يراجع نهاية الأسبوع ليرى أين يمكن إدخال تغييرات صغيرة. ليس مطلوبًا تغيير كل شيء؛ ملاحظة الأنماط ساعدته على إجراء تعديلين أو واحدين بسيطين يتناسبان مع نمط حياته. أصبح التسجيل وسيلة للتعلم، وليس عبئًا.",
+          "habit": "سجل وجباتك الاجتماعية بصدق ثم راجع أسبوعك.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Rafael and the Weekend Treat.\nStory: Rafael likes meeting friends on weekends and enjoying a treat without overthinking it. He started logging those outings honestly — the dessert, the shared plate, the extra coffee — then reviewed his week to see where small swaps felt doable. Not every meal needed changing; just noticing patterns helped him make one or two gentle adjustments that fit his life. Tracking became a way to learn, not a chore, and he felt more intentional about his choices..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-27-motivation-3-story-3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Maya Spots Her Patterns",
+          "story": "Maya noticed she reached for a sweet snack every afternoon but couldn’t remember why. She began logging each snack and jotting a quick note about what she was doing or feeling. After two weeks she saw a pattern: busy afternoons followed by mindless snacking. With that insight she tried a short walk or a glass of water first. Tracking helped her explore small swaps and learn what truly satisfied her, without strict rules or pressure to be perfect.",
+          "habit": "Log snacks plus a one-line note about context.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Maya detecta sus patrones",
+          "story": "Maya se daba cuenta de que Picoteaba algo dulce cada tarde pero no recordaba por qué. Empezó a anotar cada tentempié y una línea sobre lo que hacía o sentía. Tras un par de semanas vio un patrón: tardes ajetreadas seguidas de picoteo automático. Con ese dato probó una caminata corta o un vaso de agua antes del snack. El registro le permitió probar pequeños cambios y entender qué la satisfacía de verdad, sin reglas estrictas ni presiones.",
+          "habit": "Registra snacks y una breve nota sobre el contexto.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Майя замечает свои паттерны",
+          "story": "Майя заметила, что каждый день во второй половине дня тянется к сладкому, но не понимала причину. Она начала записывать каждый перекус и коротко отмечать, что делала или чувствовала. Через пару недель проявился шаблон: напряжённые часы — и бессмысленное перекусывание. Осознав это, она попробовала короткую прогулку или стакан воды перед перекусом. Ведение записей помогло ей пробовать небольшие замены и понять, что действительно её удовлетворяет, без жёстких правил.",
+          "habit": "Записывайте перекусы и короткую строку о ситуации.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Майя помічає свої шаблони",
+          "story": "Майя помітила, що щодня увечері тяга до солодкого повторюється, але вона не розуміла чому. Вона почала записувати кожен перекус і коротко фіксувати, що робила або відчувала. Через пару тижнів виявився шаблон: напружені післяобідні години — і автоматичне перекушування. Усвідомивши це, вона спробувала коротку прогулянку або склянку води перед перекусом. Ведення записів допомогло тестувати невеликі заміни й зрозуміти, що справді приносить задоволення.",
+          "habit": "Записуйте перекуси і коротку примітку про контекст.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть вести записи сьогодні."
+        },
+        "fr": {
+          "title": "Maya repère ses habitudes",
+          "story": "Maya constatait qu'elle prenait une gourmandise chaque après‑midi sans savoir pourquoi. Elle a commencé à noter chaque encas et une ligne sur son activité ou son ressenti. Au bout de deux semaines, un schéma est apparu : des après‑midi chargés suivis d'un grignotage automatique. Forte de cette observation, elle a essayé une courte promenade ou un verre d'eau avant de céder. Le suivi l'a aidée à tester de petits changements et à comprendre ce qui la satisfaisait vraiment, sans pression.",
+          "habit": "Notez les encas et une ligne sur le contexte.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Maya erkennt Muster",
+          "story": "Maya stellte fest, dass sie nachmittags häufig zu einer süßen Kleinigkeit griff, ohne den Grund zu kennen. Sie begann, jeden Snack und eine kurze Notiz zur Situation oder Stimmung aufzuschreiben. Nach zwei Wochen zeigte sich ein Muster: hektische Nachmittage führten zu gedankenlosem Knabbern. Mit dieser Erkenntnis probierte sie einen kurzen Spaziergang oder ein Glas Wasser zuerst. Das Tracking half ihr, kleine Alternativen auszuprobieren und herauszufinden, was sie wirklich zufriedenstellt — ohne Druck oder strikte Regeln.",
+          "habit": "Notiere Snacks und eine kurze Kontext-Notiz.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Maya identifica padrões",
+          "story": "Maya percebeu que pegava um doce toda tarde, mas não sabia por quê. Começou a registrar cada lanche e a anotar em uma linha o que estava fazendo ou sentindo. Depois de duas semanas, apareceu um padrão: tardes agitadas seguidas de petiscos automáticos. Com essa visão, ela tentou uma caminhada rápida ou um copo d'água antes do lanche. O registro ajudou a testar pequenas mudanças e a entender o que realmente a satisfazia, sem regras rígidas nem pressões.",
+          "habit": "Registre lanches e uma nota curta sobre o contexto.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Maya észreveszi a mintákat",
+          "story": "Maya észrevette, hogy minden délután édességre vágyik, de nem értette az okát. Elkezdte rögzíteni az összes nasit, és egy rövid megjegyzést fűzni hozzá arról, mit csinált vagy hogyan érezte magát. Két hét után kirajzolódott egy minta: zsúfolt délutánok után automatikus nassolás. Ezen felismerés birtokában előbb kipróbált egy rövid sétát vagy egy pohár vizet. A naplózás lehetővé tette a kis cserék kipróbálását és azt, hogy kiderüljön, mi elégíti ki igazán.",
+          "habit": "Rögzítsd a nasikat és egy rövid megjegyzést a kontextusról.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "مايا تلاحظ نمطها",
+          "story": "لاحظت مايا أنها تلتهم شيءًا حلوًا كل بعد ظهر دون أن تتذكر السبب. بدأت تسجل كل وجبة خفيفة وتكتب سطرًا قصيرًا عن ما كانت تفعله أو تشعر به. بعد أسبوعين ظهرت لها أنماط: بعد الظهر المزدحم يتبعه تناول تلقائي للوجبات الخفيفة. بفضل هذه الملاحظة جربت المشي القصير أو كوب ماء قبل أن تأكل. ساعدها التتبع على تجربة تغييرات بسيطة ومعرفة ما الذي يرضيها فعلاً، دون قواعد صارمة أو ضغط.",
+          "habit": "سجل الوجبات الخفيفة ومعها ملاحظة قصيرة عن السياق.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya Spots Her Patterns.\nStory: Maya noticed she reached for a sweet snack every afternoon but couldn’t remember why. She began logging each snack and jotting a quick note about what she was doing or feeling. After two weeks she saw a pattern: busy afternoons followed by mindless snacking. With that insight she tried a short walk or a glass of water first. Tracking helped her explore small swaps and learn what truly satisfied her, without strict rules or pressure to be perfect..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-27-motivation-4-story-4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Tom's Ten-Minute Habit",
+          "story": "Tom promised himself he’d be more consistent but kept forgetting to log dinners. He set a simple rule: spend ten minutes after each evening meal to add what he ate. Some nights he typed quick notes, other nights he used photos. Over a month the small ritual turned into routine — not perfect, but reliable enough to spot trends. That gentle consistency helped him feel steadier about food choices and less reactive to busy days.",
+          "habit": "Spend 10 minutes after dinner to log your meal.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "El hábito de diez minutos de Tom",
+          "story": "Tom se prometió ser más constante, pero seguía olvidando registrar las cenas. Puso una regla sencilla: dedicar diez minutos después de cenar para anotar lo que comió. Algunas noches escribía notas rápidas, otras tomaba fotos. Al mes ese pequeño ritual se volvió rutina: no perfecto, pero lo bastante fiable para detectar tendencias. Esa constancia suave le ayudó a sentirse más tranquilo con sus elecciones y menos reactivo en días ocupados.",
+          "habit": "Dedica 10 minutos después de cenar para registrar tu comida.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Десятиминутная привычка Тома",
+          "story": "Том обещал себе быть последовательнее, но постоянно забывал записывать ужины. Он ввёл простое правило: уделять десять минут после каждого ужина, чтобы внести съеденное в журнал. Иногда он писал короткие заметки, иногда делал фото. Через месяц этот небольшой ритуал стал привычкой — не идеальной, но достаточной для выявления закономерностей. Такая мягкая последовательность помогла ему чувствовать себя увереннее в пищевых решениях и меньше реагировать импульсивно в загруженные дни.",
+          "habit": "Выделяйте 10 минут после ужина, чтобы записать приём пищи.",
+          "appCta": "Откройте Calorie Bank Credit и начните регистрировать сегодня."
+        },
+        "uk": {
+          "title": "Десятихвилинна звичка Тома",
+          "story": "Том пообіцяв собі стати послідовнішим, але постійно забував записувати вечері. Він встановив просте правило: витрачати десять хвилин після кожного вечері, щоб внести, що з'їв. Деколи писав короткі нотатки, деколи робив фото. Через місяць цей маленький ритуал перетворився на звичку — не ідеальну, але достатньо надійну, щоб помічати тенденції. Така м'яка послідовність допомогла йому відчувати себе спокійніше щодо вибору їжі і менше через це впадати в реактивність.",
+          "habit": "Виділіть 10 хвилин після вечері, щоб записати прийом їжі.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть вести записи сьогодні."
+        },
+        "fr": {
+          "title": "La règle des dix minutes de Tom",
+          "story": "Tom s'était promis d'être plus régulier, mais oubliait souvent de noter ses dîners. Il s'est donné une règle simple : consacrer dix minutes après chaque repas du soir pour saisir ce qu'il a mangé. Certaines soirées il écrivait une note rapide, d'autres il prenait une photo. Au bout d'un mois, ce petit rituel était devenu une routine — pas parfaite, mais assez fiable pour repérer des tendances. Cette constance douce l'a aidé à se sentir plus serein dans ses choix alimentaires.",
+          "habit": "Consacrez 10 minutes après le dîner pour noter votre repas.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Toms Zehn-Minuten-Regel",
+          "story": "Tom nahm sich vor, konsequenter zu sein, vergaß aber ständig, Abendessen zu protokollieren. Er setzte eine einfache Regel: zehn Minuten nach dem Abendessen einplanen, um einzutragen, was er gegessen hat. An manchen Abenden schrieb er kurze Notizen, an anderen machte er Fotos. Nach einem Monat wurde aus dem kleinen Ritual eine Routine — nicht perfekt, aber zuverlässig genug, um Muster zu erkennen. Diese sanfte Beständigkeit half ihm, sich bei Essen besser zu fühlen und weniger impulsiv zu reagieren.",
+          "habit": "Nimm dir 10 Minuten nach dem Abendessen, um dein Essen einzutragen.",
+          "appCta": "Öffne Calorie Bank Credit und tracke heute."
+        },
+        "pt-br": {
+          "title": "Os dez minutos do Tom",
+          "story": "Tom prometeu a si mesmo ser mais constante, mas continuava esquecendo de registrar os jantares. Criou uma regra simples: gastar dez minutos depois de cada refeição da noite para anotar o que comeu. Algumas noites escrevia notas rápidas, outras tirava fotos. Em um mês o pequeno ritual virou rotina — não perfeito, mas confiável o bastante para perceber tendências. Essa consistência suave o ajudou a sentir-se mais seguro sobre as escolhas e menos reativo em dias corridos.",
+          "habit": "Reserve 10 minutos após o jantar para registrar sua refeição.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Tom tízperces szokása",
+          "story": "Tom megígérte magának, hogy következetesebb lesz, de folyton elfelejtette beírni a vacsorákat. Egy egyszerű szabályt vezetett be: szánjon tíz percet minden vacsora után arra, hogy rögzítse, mit evett. Egyes estéken gyors jegyzetet írt, máskor fotót készített. Egy hónap alatt ez a kis rituálé rutinná vált — nem tökéletes, de elég megbízható ahhoz, hogy tendenciákat észrevegyen. Ez a lágy következetesség nyugalmat adott az ételválasztásokban.",
+          "habit": "Szánj 10 percet vacsora után az étkezés rögzítésére.",
+          "appCta": "Nyisd meg a Calorie Bank Credit-et és rögzíts ma."
+        },
+        "ar": {
+          "title": "عادة توم العشر دقائق",
+          "story": "وعد توم نفسه بأن يكون أكثر انتظامًا لكنه كان ينسى تسجيل العشاء دائمًا. وضع قاعدة بسيطة: قضاء عشر دقائق بعد كل وجبة مسائية لتسجيل ما أكل. بعض الليالي كان يكتب ملاحظات سريعة، وبعضها يلتقط صورًا. خلال شهر أصبح هذا الطقس الصغير عادة — ليست مثالية، لكنها موثوقة بما يكفي لرصد الاتجاهات. ساعدته هذه الاستمرارية الهادئة أن يشعر بتيقّن أكبر في اختياراته الغذائية وأقل اندفاعًا في الأيام المزدحمة.",
+          "habit": "اقضِ 10 دقائق بعد العشاء لتسجل وجبتك.",
+          "appCta": "افتح Calorie Bank Credit وسجّل اليوم."
+        }
+      },
+      "generatedAt": "2026-10-27T12:33:07.104Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-27-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tom's Ten-Minute Habit.\nStory: Tom promised himself he’d be more consistent but kept forgetting to log dinners. He set a simple rule: spend ten minutes after each evening meal to add what he ate. Some nights he typed quick notes, other nights he used photos. Over a month the small ritual turned into routine — not perfect, but reliable enough to spot trends. That gentle consistency helped him feel steadier about food choices and less reactive to busy days..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-26-motivation-1-story-1",
       "category": "consistency",
