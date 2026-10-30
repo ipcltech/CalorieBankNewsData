@@ -1,8 +1,757 @@
 {
-  "generatedAt": "2026-10-29T13:26:18.985Z",
+  "generatedAt": "2026-10-30T13:19:35.824Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "a-proof-of-concept-test-can-spot-bladder-cancer-in-urine-e9a81ca53ec8",
+      "category": "cancer detection",
+      "sourceName": "sciencenews.org",
+      "sourceUrl": "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna",
+      "sourceTitle": "A proof-of-concept test can spot bladder cancer in urine",
+      "publishedAt": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "languages": {
+        "en": {
+          "title": "Proof-of-concept urine RNA test detects bladder cancer",
+          "summary": "Researchers report a proof-of-concept test that analyzes fragments of RNA found in urine to identify cases of bladder cancer.",
+          "whyItMatters": "A noninvasive urine test that flags bladder cancer could simplify screening or monitoring compared with current invasive procedures, but this report describes an early-stage, proof-of-concept approach that needs further validation in larger clinical studies.",
+          "takeaways": [
+            "The test detects bladder cancer by analysing urine RNA fragments.",
+            "This is a proof-of-concept result and not yet an established diagnostic tool.",
+            "Further clinical validation is required before considering clinical use."
+          ]
+        },
+        "es": {
+          "title": "Prueba de concepto: un test de ARN en orina detecta cáncer de vejiga",
+          "summary": "Investigadores informan una prueba de concepto que analiza fragmentos de ARN presentes en la orina para identificar casos de cáncer de vejiga.",
+          "whyItMatters": "Un test no invasivo en orina que detecte cáncer de vejiga podría simplificar el cribado o el seguimiento frente a procedimientos invasivos actuales, pero se trata de un enfoque en fase inicial que requiere validación adicional en estudios clínicos de mayor tamaño.",
+          "takeaways": [
+            "La prueba detecta cáncer de vejiga analizando fragmentos de ARN en la orina.",
+            "Se trata de un resultado de prueba de concepto y aún no es una herramienta diagnóstica establecida.",
+            "Se requiere más validación clínica antes de considerar su uso en la práctica clínica."
+          ]
+        },
+        "ru": {
+          "title": "Пилотный тест на РНК в моче выявляет рак мочевого пузыря",
+          "summary": "Исследователи сообщают о пилотном тесте, который анализирует фрагменты РНК в моче для идентификации случаев рака мочевого пузыря.",
+          "whyItMatters": "Неинвазивный тест по анализу мочи, фиксирующий рак мочевого пузыря, мог бы упростить скрининг или мониторинг по сравнению с текущими инвазивными процедурами, но это ранний этап исследования и подход требует дальнейшей валидации в крупных клинических исследованиях.",
+          "takeaways": [
+            "Тест выявляет рак мочевого пузыря путём анализа фрагментов РНК в моче.",
+            "Это результат пилотного исследования, а не устоявшийся диагностический инструмент.",
+            "Перед рассмотрением для клинического применения требуется дальнейшая клиническая валидация."
+          ]
+        },
+        "uk": {
+          "title": "Доказ концепції: тест на РНК у сечі виявляє рак сечового міхура",
+          "summary": "Дослідники повідомляють про тест-доказ концепції, який аналізує фрагменти РНК у сечі для виявлення випадків раку сечового міхура.",
+          "whyItMatters": "Неінвазивний аналіз сечі, що сигналізує про рак сечового міхура, міг би спростити скринінг або моніторинг порівняно з нинішніми інвазивними процедурами, але цей звіт описує ранній етап — доказ концепції, що потребує подальшої валідації у більших клінічних дослідженнях.",
+          "takeaways": [
+            "Тест виявляє рак сечового міхура шляхом аналізу фрагментів РНК у сечі.",
+            "Це результат доказу концепції, а не встановлений діагностичний інструмент.",
+            "Перед розглядом клінічного застосування потрібна подальша клінічна валідація."
+          ]
+        },
+        "fr": {
+          "title": "Preuve de concept : test d'ARN urinaire détecte le cancer de la vessie",
+          "summary": "Des chercheurs rapportent un test de preuve de concept qui analyse des fragments d'ARN présents dans l'urine pour identifier des cas de cancer de la vessie.",
+          "whyItMatters": "Un test urinaire non invasif signalant un cancer de la vessie pourrait simplifier le dépistage ou le suivi par rapport aux procédures actuelles invasives, mais ce rapport décrit une approche à un stade précoce — une preuve de concept — qui nécessite une validation supplémentaire dans des études cliniques de plus grande ampleur.",
+          "takeaways": [
+            "Le test détecte le cancer de la vessie en analysant des fragments d'ARN dans l'urine.",
+            "Il s'agit d'une preuve de concept et non d'un outil diagnostique établi.",
+            "Une validation clinique supplémentaire est nécessaire avant tout usage clinique."
+          ]
+        },
+        "de": {
+          "title": "Proof‑of‑Concept: Urin‑RNA‑Test erkennt Blasenkrebs",
+          "summary": "Forscher berichten über einen Proof‑of‑Concept‑Test, der Fragmente von RNA im Urin analysiert, um Fälle von Blasenkrebs zu identifizieren.",
+          "whyItMatters": "Ein nichtinvasiver Urintest, der auf Blasenkrebs hinweist, könnte das Screening oder die Überwachung gegenüber den derzeit gebräuchlichen invasiven Verfahren vereinfachen. Dieser Bericht beschreibt jedoch einen frühen Proof‑of‑Concept‑Ansatz, der in größeren klinischen Studien weiter validiert werden muss.",
+          "takeaways": [
+            "Der Test erkennt Blasenkrebs durch Analyse von RNA‑Fragmenten im Urin.",
+            "Es handelt sich um ein Proof‑of‑Concept‑Ergebnis, nicht um ein etabliertes diagnostisches Verfahren.",
+            "Vor einer möglichen Anwendung in der Klinik ist eine weitergehende klinische Validierung erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Teste de RNA urinário (prova de conceito) detecta câncer de bexiga",
+          "summary": "Pesquisadores relatam um teste prova de conceito que analisa fragmentos de RNA encontrados na urina para identificar casos de câncer de bexiga.",
+          "whyItMatters": "Um teste de urina não invasivo que sinalize câncer de bexiga poderia simplificar o rastreamento ou o acompanhamento em comparação com procedimentos invasivos atuais. Este relato, porém, descreve uma abordagem em estágio inicial que precisa de validação em estudos clínicos maiores.",
+          "takeaways": [
+            "O teste detecta câncer de bexiga ao analisar fragmentos de RNA na urina.",
+            "Trata‑se de um resultado de prova de conceito e não de uma ferramenta diagnóstica estabelecida.",
+            "É necessária validação clínica adicional antes de considerar o uso em contexto clínico."
+          ]
+        },
+        "hu": {
+          "title": "Konceptbizonyító vizelet-RNS teszt felismeri a hólyagrákot",
+          "summary": "A kutatók egy konceptbizonyító tesztről számolnak be, amely a vizeletben található RNS-töredékek elemzésével azonosítja a hólyagrák eseteket.",
+          "whyItMatters": "Egy nem invazív vizeletteszt, amely felhívja a figyelmet a hólyagrákra, egyszerűsítheti a szűrést vagy a követést a jelenlegi invazív eljárásokhoz képest. Ez a jelentés azonban korai stádiumú, konceptbizonyító megközelítést ír le, amely további, nagyobb klinikai vizsgálatokkal való validálást igényel.",
+          "takeaways": [
+            "A teszt a vizelet RNS-töredékeinek elemzésével észleli a hólyagrákot.",
+            "Ez konceptbizonyító eredmény, még nem elfogadott diagnosztikai eszköz.",
+            "Klinikai alkalmazás előtt további klinikai validálásra van szükség."
+          ]
+        },
+        "ar": {
+          "title": "اختبار رنا في البول كمفهوم يكتشف سرطان المثانة",
+          "summary": "يبلغ الباحثون عن اختبار إثبات مفهوم يحلل أجزاءً من الرنا الموجودة في البول لتحديد حالات سرطان المثانة.",
+          "whyItMatters": "قد يبسط اختبار البول غير الغازي الذي يشير إلى سرطان المثانة عمليات الفحص أو المتابعة مقارنةً بالإجراءات الغازية الحالية، لكن هذا التقرير يصف نهجاً في مرحلة مبكرة يحتاج إلى مزيد من التحقق في دراسات سريرية أكبر.",
+          "takeaways": [
+            "يكشف الاختبار عن سرطان المثانة من خلال تحليل أجزاء الرنا في البول.",
+            "هذه نتيجة إثبات مفهوم وليست أداة تشخيصية مثبتة بعد.",
+            "يلزم إجراء مزيد من التحقق السريري قبل التفكير في الاستخدام السريري."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-proof-of-concept-test-can-spot-bladder-cancer-in-urine-e9a81ca53ec8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-proof-of-concept-test-can-spot-bladder-cancer-in-urine-e9a81ca53ec8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-proof-of-concept-test-can-spot-bladder-cancer-in-urine-e9a81ca53ec8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Proof-of-concept urine RNA test detects bladder cancer.\nStory summary: Researchers report a proof-of-concept test that analyzes fragments of RNA found in urine to identify cases of bladder cancer..\nCategory: cancer detection.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "type-2-diabetes-breakthrough-as-54-achieve-remission-in-just-6-mo-a78147a34e1d",
+      "category": "diabetes & lifestyle",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+      "sourceTitle": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+      "publishedAt": "Fri, 30 Oct 2026 08:12:46 EDT",
+      "languages": {
+        "en": {
+          "title": "Intensive diet and exercise programme led to remission in many younger adults with type 2 diabetes",
+          "summary": "A study reports that 54% of participants under age 45 who followed an intensive low-calorie diet combined with structured exercise achieved type 2 diabetes remission after six months, compared with 4% receiving usual care.",
+          "whyItMatters": "The finding suggests that an intensive lifestyle intervention can produce rapid remission in a subset of younger adults with type 2 diabetes, but results from a single study may not generalize to all patients and longer-term outcomes and feasibility in routine care remain to be established.",
+          "takeaways": [
+            "In this study, 54% remission at six months was observed among participants under 45 using an intensive diet-plus-exercise programme.",
+            "Usual care participants had a much lower remission rate (reported as 4%).",
+            "Longer-term durability, participant selection, and real-world implementation were not addressed in the summary and require further study."
+          ]
+        },
+        "es": {
+          "title": "Programa intensivo de dieta y ejercicio produjo remisión en muchos adultos jóvenes con diabetes tipo 2",
+          "summary": "Un estudio informa que el 54% de participantes menores de 45 años que siguieron una dieta intensiva baja en calorías combinada con ejercicio estructurado lograron remisión de la diabetes tipo 2 tras seis meses, frente al 4% que recibió la atención habitual.",
+          "whyItMatters": "El hallazgo sugiere que una intervención intensiva en estilo de vida puede provocar una remisión rápida en un subgrupo de adultos jóvenes con diabetes tipo 2, pero los resultados de un solo estudio pueden no generalizarse a todos los pacientes y es necesario establecer los resultados a más largo plazo y la viabilidad en la atención rutinaria.",
+          "takeaways": [
+            "En este estudio, se observó una remisión del 54% a los seis meses entre participantes menores de 45 años que siguieron un programa intensivo de dieta y ejercicio.",
+            "Los participantes que recibieron la atención habitual tuvieron una tasa de remisión mucho menor (informada como 4%).",
+            "No se abordaron en el resumen la durabilidad a largo plazo, la selección de participantes ni la implementación en el mundo real; se requieren más estudios."
+          ]
+        },
+        "ru": {
+          "title": "Интенсивная программа питания и упражнений привела к ремиссии у многих молодых взрослых с диабетом 2 типа",
+          "summary": "В исследовании сообщается, что 54% участников младше 45 лет, соблюдавших интенсивную низкокалорийную диету в сочетании со структурированными упражнениями, достигли ремиссии диабета 2 типа через шесть месяцев по сравнению с 4% в группе обычного наблюдения.",
+          "whyItMatters": "Результат указывает, что интенсивное вмешательство в образ жизни может вызвать быструю ремиссию у части молодых взрослых с диабетом 2 типа, но данные одного исследования не обязательно применимы ко всем пациентам; необходимы данные о долгосрочных результатах и о реализуемости в повседневной практике.",
+          "takeaways": [
+            "В этом исследовании у участников моложе 45 лет наблюдалась ремиссия в 54% случаев через шесть месяцев при интенсивной программе питания и упражнений.",
+            "У участников, получавших обычную помощь, уровень ремиссии был значительно ниже (указан как 4%).",
+            "В резюме не рассмотрены долговременная устойчивость эффекта, отбор участников и внедрение в реальной практике; нужны дополнительные исследования."
+          ]
+        },
+        "uk": {
+          "title": "Інтенсивна програма дієти та вправ призвела до ремісії у багатьох молодих дорослих з діабетом 2 типу",
+          "summary": "Дослідження повідомляє, що 54% учасників молодше 45 років, які дотримувалися інтенсивної низькокалорійної дієти у поєднанні зі структурованими вправами, досягли ремісії діабету 2 типу через шість місяців, порівняно з 4% у групі звичайної допомоги.",
+          "whyItMatters": "Результат вказує, що інтенсивна зміна способу життя може забезпечити швидку ремісію у частини молодших дорослих з діабетом 2 типу, але дані одного дослідження не обов'язково узагальнюються на всіх пацієнтів; потрібно встановити довгострокову стійкість результатів та життєздатність підходу в умовах рутинної медичної допомоги.",
+          "takeaways": [
+            "У цьому дослідженні серед учасників молодше 45 років спостерігали 54% ремісії через шість місяців при інтенсивній дієті й фізичній активності.",
+            "У групі звичайного догляду ремісія була значно нижчою (зазначено 4%).",
+            "Питання довготривалої стійкості, відбору учасників і впровадження в реальній практиці не було вирішено і потребує додаткових досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Programme intensif de régime et d'exercice a conduit à une rémission chez de nombreux jeunes adultes atteints de diabète de type 2",
+          "summary": "Une étude rapporte que 54 % des participants de moins de 45 ans ayant suivi un régime hypocalorique intensif combiné à un programme structuré d'exercices ont atteint la rémission du diabète de type 2 après six mois, contre 4 % recevant des soins habituels.",
+          "whyItMatters": "Cette observation suggère qu'une intervention intensive sur le mode de vie peut induire une rémission rapide chez une partie des jeunes adultes atteints de diabète de type 2, mais les résultats d'une seule étude ne se généralisent pas forcément à tous les patients ; la durabilité à long terme et la faisabilité en pratique courante restent à établir.",
+          "takeaways": [
+            "Dans cette étude, 54 % de rémission à six mois ont été observés chez les participants de moins de 45 ans ayant suivi un programme intensif de régime et d'exercice.",
+            "Les participants recevant les soins habituels présentaient un taux de rémission beaucoup plus faible (rapporté à 4 %).",
+            "La durabilité à long terme, la sélection des participants et la mise en œuvre en conditions réelles n'ont pas été abordées et nécessitent des études complémentaires."
+          ]
+        },
+        "de": {
+          "title": "Intensives Diät‑ und Trainingsprogramm führte bei vielen jüngeren Erwachsenen mit Typ‑2‑Diabetes zur Remission",
+          "summary": "Eine Studie berichtet, dass 54 % der Teilnehmer unter 45 Jahren, die eine intensive kalorienarme Diät in Kombination mit strukturiertem Training befolgten, nach sechs Monaten eine Remission des Typ‑2‑Diabetes erreichten, verglichen mit 4 % in der üblichen Versorgung.",
+          "whyItMatters": "Das Ergebnis legt nahe, dass eine intensive Lebensstilintervention bei einem Teil jüngerer Erwachsener mit Typ‑2‑Diabetes eine schnelle Remission bewirken kann. Allerdings stammt die Beobachtung aus einer einzelnen Studie, die sich nicht notwendigerweise auf alle Patientengruppen übertragen lässt; längerfristige Ergebnisse und die Umsetzbarkeit in der Routineversorgung sind noch offen.",
+          "takeaways": [
+            "In dieser Studie wurde bei Teilnehmern unter 45 Jahren eine Remissionsrate von 54 % nach sechs Monaten mit einem intensiven Diät‑plus‑Bewegungsprogramm beobachtet.",
+            "Teilnehmer mit üblicher Versorgung wiesen eine deutlich niedrigere Remissionsrate (etwa 4 %) auf.",
+            "Dauerhaftigkeit der Wirkung, Auswahl der Teilnehmer und Umsetzung im Alltag wurden in der Zusammenfassung nicht behandelt und erfordern weitere Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Programa intensivo de dieta e exercício levou à remissão em muitos adultos jovens com diabetes tipo 2",
+          "summary": "Um estudo relata que 54% dos participantes com menos de 45 anos que seguiram uma dieta de baixo teor calórico combinada com exercício estruturado alcançaram remissão do diabetes tipo 2 após seis meses, contra 4% dos que receberam os cuidados usuais.",
+          "whyItMatters": "A descoberta sugere que uma intervenção intensiva no estilo de vida pode produzir remissão rápida em uma parcela de adultos mais jovens com diabetes tipo 2, mas os resultados de um único estudo podem não se generalizar a todos os pacientes; desfechos a longo prazo e viabilidade na prática clínica ainda precisam ser estabelecidos.",
+          "takeaways": [
+            "Neste estudo, observou‑se 54% de remissão em seis meses entre participantes com menos de 45 anos usando um programa intensivo de dieta e exercício.",
+            "Participantes recebendo cuidados usuais apresentaram taxa de remissão muito menor (relatada como 4%).",
+            "Durabilidade a longo prazo, seleção de participantes e implementação no mundo real não foram abordadas na síntese e exigem estudos adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Intenzív diéta- és mozgásprogram sok fiatalabb, 2-es típusú cukorbetegnél remissziót eredményezett",
+          "summary": "A tanulmány szerint a 45 év alatti résztvevők 54%-a ért el 2-es típusú cukorbetegség-remissziót hat hónap után, miután intenzív, alacsony kalóriás étrendet és strukturált testmozgást követtek, szemben a szokásos ellátást kapó résztvevők 4%-ával.",
+          "whyItMatters": "Az eredmény arra utal, hogy egy intenzív életmód-beavatkozás gyors remissziót hozhat egyes fiatalabb felnőtteknél 2-es típusú cukorbetegségben, de egyetlen tanulmány eredményei nem biztos, hogy minden betegre alkalmazhatók; a hosszabb távú kimenetek és a rutin ellátásban való megvalósíthatóság továbbra is tisztázatlan.",
+          "takeaways": [
+            "A vizsgálatban a 45 év alatti résztvevők között hat hónap alatt 54%-os remissziót figyeltek meg intenzív diéta és mozgásprogram mellett.",
+            "A szokásos ellátást kapó résztvevők körében a remisszió lényegesen alacsonyabb volt (kb. 4%).",
+            "A hosszú távú tartósság, a résztvevők kiválasztása és a valós világban történő megvalósítás kérdései nem kerültek megválaszolásra, további vizsgálatok szükségesek."
+          ]
+        },
+        "ar": {
+          "title": "برنامج غذائي وتمارين مكثف أدى إلى هدوء المرض لدى كثير من البالغين الأصغر سناً المصابين بداء السكري من النوع 2",
+          "summary": "تذكر دراسة أن 54% من المشاركين دون سن 45 الذين اتبعوا نظاماً غذائياً منخفض السعرات ومكثفاً مع برنامج تمرين منظم حققوا هدوءاً لداء السكري من النوع 2 بعد ستة أشهر، مقابل 4% لدى من تلقوا الرعاية الاعتيادية.",
+          "whyItMatters": "يشير هذا الاكتشاف إلى أن تدخلات أسلوب الحياة المكثفة يمكن أن تؤدي إلى هدوء سريع لدى شريحة من البالغين الأصغر سناً المصابين بداء السكري من النوع 2، ولكن نتائج دراسة واحدة قد لا تكون قابلة للتعميم إلى جميع المرضى، ولا تزال النتائج طويلة المدى وإمكانية التطبيق في الرعاية الروتينية غير محددة.",
+          "takeaways": [
+            "في هذه الدراسة لوحظت نسبة هدوء 54% بعد ستة أشهر بين المشاركين دون 45 عاماً الذين اتبعوا برنامجاً غذائياً وتمارين مكثفاً.",
+            "كانت نسبة الهُدوء لدى من تلقوا الرعاية الاعتيادية أقل بكثير (حوالي 4%).",
+            "لم تُعالج مسألة الديمومة على المدى الطويل، أو انتقائية المشاركين، أو تنفيذ البرنامج في الواقع العملي؛ وتحتاج هذه الجوانب لمزيد من الدراسة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=type-2-diabetes-breakthrough-as-54-achieve-remission-in-just-6-mo-a78147a34e1d",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/type-2-diabetes-breakthrough-as-54-achieve-remission-in-just-6-mo-a78147a34e1d-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/type-2-diabetes-breakthrough-as-54-achieve-remission-in-just-6-mo-a78147a34e1d-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Intensive diet and exercise programme led to remission in many younger adults with type 2 diabetes.\nStory summary: A study reports that 54% of participants under age 45 who followed an intensive low-calorie diet combined with structured exercise achieved type 2 diabetes remission after six months, compared with 4% receiving usual care..\nCategory: diabetes & lifestyle.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefi-b51dba3a491d",
+      "category": "nutrition",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261029/Discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefits.aspx",
+      "sourceTitle": "Discarded fruit and vegetable parts offer overlooked fiber benefits",
+      "publishedAt": "Thu, 29 Oct 2026 22:32:17 -0400",
+      "languages": {
+        "en": {
+          "title": "Research suggests peels and scraps could be an overlooked source of dietary fiber",
+          "summary": "King's College London research indicates that commonly discarded parts of fruits and vegetables (peels, stalks, seeds, etc.) may be a valuable source of dietary fiber, with potential benefits for public health and the environment.",
+          "whyItMatters": "Using food parts that are normally wasted could increase fibre availability and reduce waste, but practical issues such as safety, processing, consumer acceptance and nutritional variability need further work before broad recommendations.",
+          "takeaways": [
+            "Peels, stems and seeds often discarded at mealtime can contain significant dietary fiber.",
+            "Repurposing these parts could support both nutrition and sustainability goals.",
+            "Further research is needed on processing, safety, and how to incorporate such ingredients into diets at scale."
+          ]
+        },
+        "es": {
+          "title": "Investigación sugiere que cáscaras y recortes podrían ser una fuente subestimada de fibra dietética",
+          "summary": "Investigadores del King's College London indican que las partes de frutas y verduras que se descartan con frecuencia (cáscaras, tallos, semillas, etc.) pueden ser una fuente valiosa de fibra dietética, con posibles beneficios para la salud pública y el medio ambiente.",
+          "whyItMatters": "Utilizar partes de alimentos que normalmente se desperdician podría aumentar la disponibilidad de fibra y reducir residuos, pero cuestiones prácticas como seguridad, procesamiento, aceptación del consumidor y variabilidad nutricional requieren trabajo adicional antes de recomendaciones amplias.",
+          "takeaways": [
+            "Cáscaras, tallos y semillas que a menudo se descartan pueden contener fibra dietética significativa.",
+            "Reaprovechar estas partes podría apoyar objetivos tanto nutricionales como de sostenibilidad.",
+            "Se necesita más investigación sobre procesamiento, seguridad y formas de incorporar estos ingredientes a las dietas a gran escala."
+          ]
+        },
+        "ru": {
+          "title": "Исследование указывает, что очистки и остатки фруктов и овощей могут быть недооценённым источником клетчатки",
+          "summary": "Исследование Королевского колледжа Лондона показывает, что обычно отбрасываемые части фруктов и овощей (кожура, стебли, семена и т. п.) могут представлять собой ценное источ­ни­к пищевой клетчатки с потенциальными выгодами для общественного здоровья и окружающей среды.",
+          "whyItMatters": "Использование частей продуктов, которые обычно выбрасывают, могло бы увеличить доступность клетчатки и сократить отходы, но практические вопросы — безопасность, обработка, принятие потребителями и питательная изменчивость — требуют дополнительной проработки прежде чем давать широкие рекомендации.",
+          "takeaways": [
+            "Кожура, стебли и семена, часто выбрасываемые за столом, могут содержать значительное количество пищевой клетчатки.",
+            "Повторное использование этих частей может поддержать как цели по питанию, так и устойчивости.",
+            "Необходимы дальнейшие исследования по обработке, безопасности и способам включения таких ингредиентов в рацион в масштабах."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження свідчить, що шкірки та обрізки можуть бути недооціненим джерелом харчових волокон",
+          "summary": "Дослідження King’s College London вказує, що часто відкинуті частини фруктів і овочів (шкірки, стебла, насіння тощо) можуть бути цінним джерелом харчових волокон із потенційними вигодами для громадського здоров'я та довкілля.",
+          "whyItMatters": "Використання харчових частин, які зазвичай викидають, могло би підвищити доступність клітковини та зменшити відходи, але практичні питання, такі як безпечність, обробка, споживацьке сприйняття і варіабельність харчової цінності, потребують подальшої роботи перед загальними рекомендаціями.",
+          "takeaways": [
+            "Шкірки, стебла та насіння, які часто викидають під час приготування їжі, можуть містити значну кількість харчових волокон.",
+            "Повторне використання цих частин може підтримати як харчову, так і екологічну користь.",
+            "Потрібні додаткові дослідження щодо обробки, безпеки та способів включення таких інгредієнтів у раціони в масштабі."
+          ]
+        },
+        "fr": {
+          "title": "Des recherches suggèrent que pelures et restes pourraient être une source sous-estimée de fibres alimentaires",
+          "summary": "Une étude du King's College London indique que des parties de fruits et légumes souvent jetées (pelures, tiges, graines, etc.) peuvent constituer une source utile de fibres alimentaires, avec des bénéfices potentiels pour la santé publique et l'environnement.",
+          "whyItMatters": "Valoriser des parties alimentaires habituellement gaspillées pourrait augmenter la disponibilité de fibres et réduire les déchets, mais des questions pratiques telles que la sécurité, le traitement, l'acceptation par les consommateurs et la variabilité nutritionnelle nécessitent des travaux supplémentaires avant de formuler des recommandations générales.",
+          "takeaways": [
+            "Les pelures, tiges et graines souvent jetées peuvent contenir une quantité significative de fibres alimentaires.",
+            "La réutilisation de ces parties pourrait soutenir des objectifs à la fois nutritionnels et de durabilité.",
+            "Des recherches supplémentaires sont nécessaires sur le traitement, la sécurité et l'intégration de ces ingrédients à grande échelle."
+          ]
+        },
+        "de": {
+          "title": "Forschung deutet darauf hin, dass Schalen und Reste eine unterschätzte Quelle für Ballaststoffe sein könnten",
+          "summary": "Forschungen des King's College London zeigen, dass häufig weggeworfene Teile von Obst und Gemüse (Schalen, Stiele, Samen usw.) eine wertvolle Quelle für Ballaststoffe sein können, mit potenziellen Vorteilen für Gesundheit und Umwelt.",
+          "whyItMatters": "Die Nutzung von normalerweise weggeworfenen Nahrungsmittelteilen könnte die Verfügbarkeit von Ballaststoffen erhöhen und Abfall reduzieren. Praktische Fragen wie Sicherheit, Verarbeitung, Akzeptanz bei Verbrauchern und Nährstoffvariabilität müssen jedoch noch geklärt werden, bevor allgemeine Empfehlungen möglich sind.",
+          "takeaways": [
+            "Schalen, Stiele und Samen, die oft beim Essen weggeworfen werden, können bedeutende Ballaststoffmengen enthalten.",
+            "Die Nutzung dieser Teile könnte sowohl Ernährungs‑ als auch Nachhaltigkeitsziele unterstützen.",
+            "Weitere Forschung ist nötig zu Verarbeitung, Sicherheit und zur Integration solcher Zutaten in die Ernährung in großem Maßstab."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisa sugere que cascas e sobras podem ser fonte subestimada de fibras alimentares",
+          "summary": "Pesquisas do King's College London indicam que partes de frutas e vegetais comumente descartadas (cascas, talos, sementes etc.) podem ser uma fonte valiosa de fibras alimentares, com benefícios potenciais para a saúde pública e o meio ambiente.",
+          "whyItMatters": "Aproveitar partes de alimentos normalmente desperdiçadas poderia aumentar a disponibilidade de fibras e reduzir o desperdício, mas questões práticas como segurança, processamento, aceitação do consumidor e variabilidade nutricional precisam ser abordadas antes de recomendações amplas.",
+          "takeaways": [
+            "Cascas, talos e sementes frequentemente descartados à refeição podem conter quantidades significativas de fibras.",
+            "Reaproveitar essas partes pode apoiar objetivos de nutrição e sustentabilidade.",
+            "São necessárias mais pesquisas sobre processamento, segurança e sobre como incorporar esses ingredientes às dietas em larga escala."
+          ]
+        },
+        "hu": {
+          "title": "Kutatás: héjak és maradékok elhanyagolt rostforrást jelenthetnek",
+          "summary": "A King's College London kutatása szerint a gyümölcsök és zöldségek gyakran kidobott részei (héjak, szárak, magok stb.) értékes élelmirost-forrást jelenthetnek, ami potenciális előnyöket hozhat a közegészség és a környezet számára.",
+          "whyItMatters": "Az általában elpazarolt élelmiszerrészek felhasználása növelhetné a rostellátást és csökkenthetné a hulladék mennyiségét, de gyakorlati kérdések — mint a biztonság, feldolgozás, fogyasztói elfogadás és tápérték-ingadozás — további munkát igényelnek, mielőtt széles körű ajánlás tehető.",
+          "takeaways": [
+            "A héjak, szárak és magok, amelyeket gyakran eldobják, jelentős élelmirost-tartalommal rendelkezhetnek.",
+            "Ezeknek az részeknek az újrafelhasználása támogathatná mind a táplálkozási, mind a fenntarthatósági célokat.",
+            "További kutatások szükségesek a feldolgozásról, biztonságról és arról, hogyan lehet ilyen összetevőket skálázható módon beépíteni az étrendbe."
+          ]
+        },
+        "ar": {
+          "title": "بحث يقترح أن قشور وبقايا الفواكه والخضراوات قد تكون مصدر ألياف مهمل",
+          "summary": "تشير أبحاث كلية كينغ إلى أن الأجزاء التي تُهدر عادةً من الفواكه والخضراوات (قشور، سيقان، بذور، إلخ) قد تكون مصدراً قيّماً للألياف الغذائية، مع فوائد محتملة للصحة العامة والبيئة.",
+          "whyItMatters": "قد يؤدي استخدام أجزاء الطعام التي تُهدر عادةً إلى زيادة توفر الألياف وتقليل النفايات، لكن هناك قضايا عملية مثل السلامة والمعالجة وقبول المستهلك وتفاوت المحتوى الغذائي تتطلب مزيداً من العمل قبل إصدار توصيات واسعة النطاق.",
+          "takeaways": [
+            "قد تحتوي القشور والسيقان والبذور التي تُرمى غالباً على ألياف غذائية مهمة.",
+            "إعادة استخدام هذه الأجزاء قد تدعم أهداف التغذية والاستدامة معاً.",
+            "يلزم إجراء مزيد من الأبحاث حول المعالجة والسلامة وكيفية إدماج مثل هذه المكونات في الأنظمة الغذائية على نطاق واسع."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefi-b51dba3a491d",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefi-b51dba3a491d-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefi-b51dba3a491d-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Research suggests peels and scraps could be an overlooked source of dietary fiber.\nStory summary: King's College London research indicates that commonly discarded parts of fruits and vegetables (peels, stalks, seeds, etc.) may be a valuable source of dietary fiber, with potential benefits for public health and the environment..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "many-women-have-never-discussed-heart-health-with-a-clinician-and-e2b45bcbb884",
+      "category": "cardiovascular health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-women-discussed-heart-health-clinician.html",
+      "sourceTitle": "Many women have never discussed heart health with a clinician, and most report multiple symptoms",
+      "publishedAt": "Thu, 29 Oct 2026 21:00:01 EDT",
+      "languages": {
+        "en": {
+          "title": "International study finds many women haven't discussed heart health with clinicians",
+          "summary": "An international study found that only about half of women knew heart disease is the leading cause of death and that many women have never talked with a clinician about their heart health; most reported experiencing multiple symptoms.",
+          "whyItMatters": "Awareness gaps and low rates of clinician discussion could contribute to missed opportunities for prevention and early detection of heart disease in women; the report highlights a need for improved patient–clinician communication and education, though it does not provide clinical guidance.",
+          "takeaways": [
+            "Only around half of women in the study recognized heart disease as the leading cause of death.",
+            "Many women reported never having discussed heart health with a doctor or nurse.",
+            "Most participants reported multiple symptoms, suggesting unmet needs for evaluation and care communication."
+          ]
+        },
+        "es": {
+          "title": "Estudio internacional halla que muchas mujeres no han hablado sobre salud cardíaca con clínicos",
+          "summary": "Un estudio internacional encontró que solo alrededor de la mitad de las mujeres sabía que las enfermedades cardíacas son la principal causa de muerte y que muchas nunca habían hablado con un clínico sobre su salud cardíaca; la mayoría informó experimentar múltiples síntomas.",
+          "whyItMatters": "Las lagunas de conocimiento y las bajas tasas de discusión con clínicos podrían contribuir a oportunidades perdidas de prevención y detección temprana de enfermedades cardíacas en mujeres; el informe subraya la necesidad de mejorar la comunicación y la educación entre paciente y profesional, sin ofrecer orientación clínica específica.",
+          "takeaways": [
+            "Aproximadamente la mitad de las mujeres en el estudio reconoció que la enfermedad cardíaca es la principal causa de muerte.",
+            "Muchas mujeres informaron no haber discutido su salud cardíaca con un médico o enfermero.",
+            "La mayoría de las participantes señaló múltiples síntomas, lo que sugiere necesidades no atendidas en evaluación y comunicación del cuidado."
+          ]
+        },
+        "ru": {
+          "title": "Международное исследование: многие женщины не обсуждали сердечное здоровье с клиницистами",
+          "summary": "Международное исследование показало, что лишь около половины женщин знали, что сердечные заболевания являются ведущей причиной смерти, и многие никогда не обсуждали со специалистом своё сердечное здоровье; большинство отмечало множественные симптомы.",
+          "whyItMatters": "Недостаток осведомлённости и низкие показатели обсуждения с клиницистами могут приводить к упущенным возможностям профилактики и раннего выявления сердечных заболеваний у женщин; доклад подчёркивает необходимость улучшения общения и образования между пациентами и врачами, но не содержит клинических рекомендаций.",
+          "takeaways": [
+            "Лишь около половины женщин в исследовании признали, что сердечные заболевания — ведущая причина смерти.",
+            "Многие женщины сообщили, что никогда не обсуждали сердечное здоровье с врачом или медсестрой.",
+            "Большинство участниц отметили множественные симптомы, что указывает на неудовлетворённые потребности в оценке и коммуникации по уходу."
+          ]
+        },
+        "uk": {
+          "title": "Міжнародне дослідження виявляє, що багато жінок не обговорювали серцеве здоров'я з лікарями",
+          "summary": "Міжнародне дослідження показало, що лише близько половини жінок знали про те, що серцеві хвороби є провідною причиною смерті, і багато жінок ніколи не розмовляли з лікарем про своє серцеве здоров'я; більшість повідомляла про наявність кількох симптомів.",
+          "whyItMatters": "Пробіли в обізнаності та низькі рівні обговорення з клініцистами можуть призводити до втрачених можливостей профілактики та раннього виявлення серцевих хвороб у жінок; доповідь підкреслює потребу в поліпшенні комунікації між пацієнтами та лікарями, хоча не містить клінічних рекомендацій.",
+          "takeaways": [
+            "Лише близько половини жінок у дослідженні визнали серцеві хвороби провідною причиною смерті.",
+            "Багато жінок повідомили, що ніколи не обговорювали серцеве здоров'я з лікарем чи медсестрою.",
+            "Більшість учасниць повідомляла про кілька симптомів, що свідчить про невиконані потреби щодо оцінки та комунікації щодо догляду."
+          ]
+        },
+        "fr": {
+          "title": "Étude internationale : de nombreuses femmes n'ont pas discuté de leur santé cardiaque avec des cliniciens",
+          "summary": "Une étude internationale a trouvé qu'environ la moitié seulement des femmes savaient que les maladies cardiaques sont la principale cause de décès et que beaucoup n'avaient jamais parlé de leur santé cardiaque avec un clinicien ; la plupart ont signalé la présence de plusieurs symptômes.",
+          "whyItMatters": "Les lacunes en matière de sensibilisation et les faibles taux de discussion avec les cliniciens peuvent contribuer à des occasions manquées de prévention et de détection précoce des maladies cardiaques chez les femmes ; le rapport souligne la nécessité d'améliorer la communication et l'éducation entre patientes et cliniciens, sans toutefois fournir de directives cliniques.",
+          "takeaways": [
+            "Seulement environ la moitié des femmes de l'étude reconnaissaient les maladies cardiaques comme la principale cause de décès.",
+            "Beaucoup de femmes ont déclaré n'avoir jamais discuté de leur santé cardiaque avec un médecin ou une infirmière.",
+            "La plupart des participantes ont rapporté plusieurs symptômes, suggérant des besoins non satisfaits en matière d'évaluation et de communication sur les soins."
+          ]
+        },
+        "de": {
+          "title": "Internationale Studie: Viele Frauen haben noch nicht mit Klinikerinnen/Klinikern über Herzgesundheit gesprochen",
+          "summary": "Eine internationale Studie fand heraus, dass nur etwa die Hälfte der Frauen wusste, dass Herzkrankheiten die häufigste Todesursache sind, und dass viele Frauen noch nie mit einem Kliniker über ihre Herzgesundheit gesprochen hatten; die meisten gaben an, mehrere Symptome zu erleben.",
+          "whyItMatters": "Bewusstseinslücken und niedrige Raten an Gesprächen mit Klinikern könnten zu verpassten Chancen für Prävention und Früherkennung von Herzkrankheiten bei Frauen beitragen; der Bericht hebt den Bedarf an verbesserter Kommunikation und Aufklärung zwischen Patientinnen und Klinikpersonal hervor, bietet jedoch keine klinische Anleitung.",
+          "takeaways": [
+            "Nur etwa die Hälfte der befragten Frauen erkannte Herzkrankheiten als führende Todesursache.",
+            "Viele Frauen berichteten, noch nie mit einem Arzt oder einer Ärztin bzw. Pflegefachperson über Herzgesundheit gesprochen zu haben.",
+            "Die meisten Teilnehmenden berichteten von mehreren Symptomen, was auf ungeklärte Bedürfnisse hinsichtlich Untersuchung und Kommunikation über Versorgung hinweist."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo internacional mostra que muitas mulheres nunca conversaram com clínicos sobre saúde do coração",
+          "summary": "Um estudo internacional constatou que apenas cerca de metade das mulheres sabia que as doenças cardíacas são a principal causa de morte e que muitas nunca conversaram com um profissional de saúde sobre sua saúde cardíaca; a maioria relatou experimentar múltiplos sintomas.",
+          "whyItMatters": "Lacunas de conhecimento e baixas taxas de diálogo com profissionais de saúde podem contribuir para oportunidades perdidas de prevenção e detecção precoce de doenças cardíacas em mulheres; o relatório destaca a necessidade de melhorar a comunicação e a educação entre pacientes e clínicos, sem oferecer orientações clínicas.",
+          "takeaways": [
+            "Apenas cerca de metade das mulheres no estudo reconheceu as doenças cardíacas como principal causa de morte.",
+            "Muitas mulheres relataram nunca ter discutido saúde cardíaca com um médico ou enfermeiro.",
+            "A maioria das participantes relatou múltiplos sintomas, sugerindo necessidades não atendidas para avaliação e comunicação sobre cuidados."
+          ]
+        },
+        "hu": {
+          "title": "Nemzetközi vizsgálat: sok nő nem beszélt még szívügyi kérdésekről egészségügyi szakemberrel",
+          "summary": "Egy nemzetközi vizsgálat megállapította, hogy a nők csak nagyjából fele tudta, hogy a szívbetegség a vezető halálok, és sokan soha nem beszéltek egészségügyi szakemberrel a szívük egészségéről; a legtöbben több tünetről számoltak be.",
+          "whyItMatters": "A tudatosság hiánya és az alacsony arányú szakemberrel folytatott beszélgetések hozzájárulhatnak a megelőzés és a korai felismerés elmulasztásához a nők körében; a jelentés a beteg–szakember kommunikáció és oktatás javításának szükségességét emeli ki, de nem ad klinikai útmutatást.",
+          "takeaways": [
+            "A tanulmányban szereplő nők körülbelül fele ismerte fel, hogy a szívbetegség a vezető halálozási ok.",
+            "Sok nő számolt be arról, hogy soha nem beszélt szívproblémáiról orvossal vagy ápolóval.",
+            "A legtöbb résztvevő több tünetről számolt be, ami a kivizsgálásra és az ellátásra vonatkozó kommunikációs igények meglétét sugallja."
+          ]
+        },
+        "ar": {
+          "title": "دراسة دولية تجد أن كثيراً من النساء لم يناقشن صحة القلب مع أخصائيي الرعاية الصحية",
+          "summary": "وجدت دراسة دولية أن نحو نصف النساء فقط كن على علم بأن أمراض القلب هي السبب الرئيس للوفاة، وأن كثيراً من النساء لم يتحدثن أبداً مع أخصائي رعاية صحية عن صحة قلوبهن؛ كما أفاد معظمهن بتعرضهن لعدة أعراض.",
+          "whyItMatters": "قد تسهم فجوات الوعي وقلة المناقشات مع الأخصائيين في فقدان فرص الوقاية والكشف المبكر عن أمراض القلب لدى النساء؛ تُبرز الدراسة الحاجة إلى تحسين التواصل والتعليم بين المريض والطبيب، لكنها لا تقدم توجيهات سريرية.",
+          "takeaways": [
+            "حوالي نصف النساء في الدراسة فقط أدركن أن أمراض القلب هي السبب الرئيس للوفاة.",
+            "أفادت الكثيرات بأنهن لم يناقشن صحة القلب مطلقاً مع طبيب أو ممرضة.",
+            "أبلغ معظم المشاركات عن عدة أعراض، ما يشير إلى احتياجات غير ملباة للتقييم والتواصل بشأن الرعاية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=many-women-have-never-discussed-heart-health-with-a-clinician-and-e2b45bcbb884",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/many-women-have-never-discussed-heart-health-with-a-clinician-and-e2b45bcbb884-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/many-women-have-never-discussed-heart-health-with-a-clinician-and-e2b45bcbb884-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: International study finds many women haven't discussed heart health with clinicians.\nStory summary: An international study found that only about half of women knew heart disease is the leading cause of death and that many women have never talked with a clinician about their heart health; most reported experiencing multiple symptoms..\nCategory: cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "premature-birth-alters-cerebellar-wiring-992651fc4029",
+      "category": "neuroscience",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
+      "sourceTitle": "Premature Birth Alters Cerebellar Wiring",
+      "publishedAt": "Thu, 29 Oct 2026 21:17:03 +0000",
+      "languages": {
+        "en": {
+          "title": "Study finds prematurity rewires molecular programs in cerebellar cells",
+          "summary": "A Science study led by Children's National reports that developing outside the womb alters the molecular programs of cerebellar Purkinje and granule cells, which may explain motor and language delays in premature infants even when there is no visible brain injury.",
+          "whyItMatters": "The research offers a biological explanation for cognitive and motor delays after prematurity and challenges the idea that brain development simply 'catches up' after birth; these are mechanistic findings that may guide future interventions but require translation into tested clinical approaches.",
+          "takeaways": [
+            "Premature birth was associated with rewiring of molecular programs in cerebellar Purkinje and granule cells.",
+            "This may help explain motor and language delays observed in some premature infants without overt brain injury.",
+            "Findings are mechanistic and point to directions for future research rather than immediate clinical changes."
+          ]
+        },
+        "es": {
+          "title": "Estudio encuentra que la prematuridad reconfigura programas moleculares en células del cerebelo",
+          "summary": "Un estudio en Science dirigido por Children's National informa que el desarrollo fuera del útero altera los programas moleculares de las células de Purkinje y de las células granulares del cerebelo, lo que podría explicar los retrasos motores y del lenguaje en recién nacidos prematuros incluso cuando no hay lesión cerebral visible.",
+          "whyItMatters": "La investigación ofrece una explicación biológica para los retrasos cognitivos y motores tras la prematuridad y cuestiona la idea de que el desarrollo cerebral simplemente «se pone al día» después del nacimiento; son hallazgos mecanísticos que podrían orientar futuras intervenciones, pero requieren traducción a enfoques clínicos probados.",
+          "takeaways": [
+            "La prematuridad se asoció con la reconfiguración de programas moleculares en células de Purkinje y granulares del cerebelo.",
+            "Esto puede ayudar a explicar retrasos motores y del lenguaje observados en algunos bebés prematuros sin daño cerebral evidente.",
+            "Los hallazgos son mecanísticos y señalan direcciones para futuras investigaciones más que cambios clínicos inmediatos."
+          ]
+        },
+        "ru": {
+          "title": "Исследование показывает, что преждевременные роды перенастраивают молекулярные программы в клетках мозжечка",
+          "summary": "Исследование, опубликованное в Science под руководством Children's National, сообщает, что развитие вне утробы изменяет молекулярные программы клеток Пуркинье и зернистых клеток мозжечка, что может объяснять моторные и речевые задержки у недоношенных детей даже при отсутствии видимого повреждения мозга.",
+          "whyItMatters": "Работа предлагает биологическое объяснение когнитивных и моторных задержек после преждевременных родов и ставит под сомнение представление о том, что развитие мозга просто «наверстывает» после рождения; это механистические выводы, которые могут направить будущие исследования, но требуют перевода в проверенные клинические подходы.",
+          "takeaways": [
+            "Преждевременные роды связаны с перенастройкой молекулярных программ в клетках Пуркинье и зернистых клетках мозжечка.",
+            "Это может помочь объяснить моторные и речевые задержки у некоторых недоношенных детей без очагового повреждения мозга.",
+            "Результаты имеют механистический характер и указывают на направления для дальнейших исследований, а не на немедленные изменения клинической практики."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє, що передчасні пологи перепрограмовують молекулярні програми в клітинах мозочка",
+          "summary": "Дослідження в Science під керівництвом Children's National повідомляє, що розвиток поза утробою змінює молекулярні програми пуркіньєвих і зернистих клітин мозочка, що може пояснювати моторні й мовні затримки у передчасно народжених немовлят, навіть за відсутності видимого ушкодження мозку.",
+          "whyItMatters": "Дослідження дає біологічне пояснення когнітивних та моторних затримок після передчасних пологів і ставить під сумнів ідею про те, що розвиток мозку просто «набуткується» після народження; це механістичні висновки, які можуть підштовхнути майбутні інтервенції, але потребують трансляції в перевірені клінічні підходи.",
+          "takeaways": [
+            "Передчасні пологи були пов'язані зі перепрограмуванням молекулярних програм у пуркіньєвих і зернистих клітинах мозочка.",
+            "Це може допомогти пояснити моторні й мовні затримки, спостережувані в деяких передчасно народжених дітей без явних ушкоджень мозку.",
+            "Висновки є механістичними й вказують напрямки для майбутніх досліджень, а не на негайні клінічні зміни."
+          ]
+        },
+        "fr": {
+          "title": "L'étude montre que la prématurité reprogramme les programmes moléculaires dans les cellules cérébelleuses",
+          "summary": "Une étude publiée dans Science et dirigée par le Children's National rapporte que le développement hors de l'utérus modifie les programmes moléculaires des cellules de Purkinje et des cellules granulaires du cervelet, ce qui peut expliquer les retards moteurs et de langage chez les nourrissons prématurés même en l'absence de lésion cérébrale visible.",
+          "whyItMatters": "La recherche propose une explication biologique aux retards cognitifs et moteurs après une naissance prématurée et remet en question l'idée selon laquelle le développement cérébral « rattrape » simplement après la naissance ; il s'agit de résultats mécanistiques qui pourront orienter de futures interventions mais nécessitent une traduction en approches cliniques testées.",
+          "takeaways": [
+            "La prématurité a été associée à une reprogrammation des programmes moléculaires dans les cellules de Purkinje et les cellules granulaires du cervelet.",
+            "Cela pourrait aider à expliquer les retards moteurs et de langage observés chez certains nourrissons prématurés sans lésion cérébrale évidente.",
+            "Les résultats sont mécanistiques et indiquent des pistes pour la recherche future plutôt que des changements cliniques immédiats."
+          ]
+        },
+        "de": {
+          "title": "Studie: Frühgeburt verändert molekulare Programme in Kleinhirnzellen",
+          "summary": "Eine Studie in Science unter Leitung von Children's National berichtet, dass die Entwicklung außerhalb der Gebärmutter die molekularen Programme von Purkinje‑ und Körnerzellen des Kleinhirns verändert, was motorische und sprachliche Verzögerungen bei Frühgeborenen erklären kann, selbst wenn keine sichtbaren Hirnschäden vorliegen.",
+          "whyItMatters": "Die Forschung liefert eine biologische Erklärung für kognitive und motorische Verzögerungen nach Frühgeburt und stellt die Annahme in Frage, dass sich die Gehirnentwicklung nach der Geburt einfach ‚nachholt‘; es handelt sich um mechanistische Befunde, die künftige Interventionen leiten können, aber noch in klinisch getestete Ansätze übersetzt werden müssen.",
+          "takeaways": [
+            "Frühgeburt wurde mit einer Umprogrammierung molekularer Programme in Purkinje‑ und Körnerzellen des Kleinhirns in Verbindung gebracht.",
+            "Dies könnte motorische und sprachliche Verzögerungen bei einigen Frühgeborenen ohne offensichtliche Hirnschäden erklären.",
+            "Die Ergebnisse sind mechanistischer Natur und weisen auf Forschungsrichtungen hin, statt sofortige klinische Änderungen zu begründen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo encontra que prematuridade reprograma programas moleculares em células do cerebelo",
+          "summary": "Um estudo publicado na Science liderado pelo Children's National relata que o desenvolvimento fora do útero altera os programas moleculares de células de Purkinje e grânulo do cerebelo, o que pode explicar atrasos motores e de linguagem em bebês prematuros mesmo quando não há lesão cerebral visível.",
+          "whyItMatters": "A pesquisa oferece uma explicação biológica para atrasos cognitivos e motores após a prematuridade e questiona a ideia de que o desenvolvimento cerebral simplesmente 'se recupera' após o nascimento; são achados mecanísticos que podem orientar futuras intervenções, mas precisam ser traduzidos em abordagens clínicas testadas.",
+          "takeaways": [
+            "A prematuridade foi associada à reprogramação de programas moleculares em células de Purkinje e grânulo do cerebelo.",
+            "Isso pode ajudar a explicar atrasos motores e de linguagem observados em alguns prematuros sem lesão cerebral evidente.",
+            "Os achados são mecanísticos e indicam direções para pesquisas futuras, não mudanças clínicas imediatas."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: koraszülés átírja a kisagy sejtek molekuláris programjait",
+          "summary": "A Children's National vezette Science-cikk szerint a méhen kívüli fejlődés megváltoztatja a kisagyi Purkinje- és granuláris sejtek molekuláris programjait, ami magyarázatot adhat a koraszülöttek mozgás- és beszédkésésére még akkor is, ha nincs látható agykárosodás.",
+          "whyItMatters": "A kutatás biológiai magyarázatot kínál a koraszülést követő kognitív és mozgásos késésekre, és megkérdőjelezi azt a feltételezést, hogy az agyi fejlődés egyszerűen „behozza a lemaradást” születés után; ezek mechanisztikus eredmények, amelyek jövőbeli beavatkozások irányát jelezhetik, de klinikailag kipróbált megközelítésekké történő átfordítást igényelnek.",
+          "takeaways": [
+            "A koraszülés összefüggésbe hozható a kisagyi Purkinje- és granuláris sejtek molekuláris programjainak átírásával.",
+            "Ez magyarázatot adhat arra, hogy miért észlelnek mozgás- és beszédkésést egyes koraszülötteknél, még látható agykárosodás hiányában is.",
+            "Az eredmények mechanisztikus jellegűek, és a jövőbeli kutatások irányát mutatják, nem pedig azonnali klinikai változtatásokat."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تجد أن الولادة قبل الأوان تعيد برمجة البرامج الجزيئية في الخلايا المخيخية",
+          "summary": "تقرير في مجلة Science بقيادة Children's National يشير إلى أن التطور خارج الرحم يغير البرامج الجزيئية لخلايا بوركينجيه والخلايا الحبيبية في المخيخ، ما قد يفسر التأخر الحركي واللغوي لدى الرضع المولودين مبكراً حتى عند غياب إصابات دماغية مرئية.",
+          "whyItMatters": "يقدم البحث تفسيراً بيولوجياً للتأخيرات المعرفية والحركية التي تلي الولادة المبكرة، ويتحدى الفكرة القائلة بأن تطور الدماغ «يلحق بالركب» ببساطة بعد الولادة؛ هذه نتائج آلية قد توجه تدخلات مستقبلية لكنها تتطلب تحويلها إلى مقاربات سريرية مجربة.",
+          "takeaways": [
+            "ارتبطت الولادة المبكرة بإعادة برمجة البرامج الجزيئية في خلايا بوركينجيه والخلايا الحبيبية بالمخيخ.",
+            "قد يساعد ذلك في تفسير التأخيرات الحركية واللغوية التي تُرى لدى بعض الأطفال الخدج دون وجود إصابة دماغية واضحة.",
+            "النتائج آلية وتُشير إلى اتجاهات للبحث المستقبلي بدلاً من تغييرات سريرية فورية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=premature-birth-alters-cerebellar-wiring-992651fc4029",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/premature-birth-alters-cerebellar-wiring-992651fc4029-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/premature-birth-alters-cerebellar-wiring-992651fc4029-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds prematurity rewires molecular programs in cerebellar cells.\nStory summary: A Science study led by Children's National reports that developing outside the womb alters the molecular programs of cerebellar Purkinje and granule cells, which may explain motor and language delays in premature infants even when there is no visible brain injury..\nCategory: neuroscience.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "an-astrocytic-factor-slows-whole-body-aging-in-mice-e0b4e2ba1b0f",
+      "category": "aging & longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/an-astrocytic-factor-slows-whole-body-aging-in-mice/",
+      "sourceTitle": "An Astrocytic Factor Slows Whole-Body Aging in Mice",
+      "publishedAt": "Thu, 29 Oct 2026 20:24:44 +0000",
+      "languages": {
+        "en": {
+          "title": "Mouse study: increasing an astrocyte factor linked to reduced whole-body ageing",
+          "summary": "Researchers reported in Aging Cell that raising levels of fibroblast growth factor 13 (FGF13) in astrocytes reduced signs of ageing across multiple tissues in mice.",
+          "whyItMatters": "The work highlights a brain-derived factor that can influence systemic ageing in a mouse model, suggesting new biological pathways for longevity research; however, these are preclinical animal results and do not imply immediate applicability to humans.",
+          "takeaways": [
+            "In mice, higher astrocyte expression of FGF13 was associated with reduced indicators of ageing across the body.",
+            "FGF13 belongs to a family of signalling molecules (FGFs) with known roles in development and tissue function.",
+            "This is preclinical research in animals; human relevance and safety are not established."
+          ]
+        },
+        "es": {
+          "title": "Estudio en ratones: aumentar un factor astroglial vinculado a menor envejecimiento corporal",
+          "summary": "Investigadores informaron en Aging Cell que elevar los niveles del factor de crecimiento de fibroblastos 13 (FGF13) en astrocitos redujo signos de envejecimiento en múltiples tejidos de ratones.",
+          "whyItMatters": "El trabajo destaca un factor derivado del cerebro que puede influir en el envejecimiento sistémico en un modelo murino, sugiriendo nuevas vías biológicas para la investigación sobre longevidad; sin embargo, son resultados preclínicos en animales y no implican aplicabilidad inmediata en humanos.",
+          "takeaways": [
+            "En ratones, una mayor expresión de FGF13 en astrocitos se asoció con indicadores reducidos de envejecimiento en todo el organismo.",
+            "FGF13 pertenece a una familia de moléculas de señalización (FGF) con roles conocidos en el desarrollo y la función tisular.",
+            "Se trata de investigación preclínica en animales; la relevancia y la seguridad en humanos no están establecidas."
+          ]
+        },
+        "ru": {
+          "title": "Исследование на мышах: повышение фактора астроцитов связано со снижением признаков старения организма",
+          "summary": "Исследователи сообщили в Aging Cell, что повышение уровней фактора роста фибробластов 13 (FGF13) в астроцитах уменьшало признаки старения в нескольких тканях у мышей.",
+          "whyItMatters": "Работа подчёркивает фактор, получаемый из мозга, который может влиять на системное старение в мышиной модели, что указывает на новые биологические пути для исследований долголетия; однако это доклинические данные на животных и не означают немедленной применимости для людей.",
+          "takeaways": [
+            "У мышей более высокая экспрессия FGF13 в астроцитах сопровождалась снижением индикаторов старения по всему организму.",
+            "FGF13 относится к семейству сигнальных молекул (FGF) с известными ролями в развитии и функции тканей.",
+            "Это доклиническое исследование на животных; значимость и безопасность для человека не установлены."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах: підвищення фактора астроцитів, пов'язаного зі зниженням ознак старіння організму",
+          "summary": "Дослідники у статті в Aging Cell повідомляють, що підвищення рівня фактору росту фібробластів 13 (FGF13) в астроцитах зменшувало ознаки старіння в різних тканинах у мишей.",
+          "whyItMatters": "Робота показує, що фактор, що походить із мозку, може впливати на системне старіння в моделі на мишах і відкриває нові біологічні шляхи для досліджень довголіття; однак це доклінічні результати на тваринах і не означає негайної застосовності для людей.",
+          "takeaways": [
+            "У мишей підвищена експресія FGF13 в астроцитах була пов'язана зі зниженням індикаторів старіння в організмі.",
+            "FGF13 належить до родини сигнальних молекул (FGF) з відомими ролями у розвитку та функціонуванні тканин.",
+            "Це доклінічне дослідження на тваринах; значення для людей та питання безпеки не встановлені."
+          ]
+        },
+        "fr": {
+          "title": "Étude chez la souris : augmentation d'un facteur astrocytaire liée à une diminution du vieillissement de l'ensemble de l'organisme",
+          "summary": "Des chercheurs rapportent dans Aging Cell que l'augmentation des niveaux du facteur de croissance des fibroblastes 13 (FGF13) dans les astrocytes réduisait des signes de vieillissement dans plusieurs tissus chez la souris.",
+          "whyItMatters": "Ce travail met en lumière un facteur d'origine cérébrale pouvant influencer le vieillissement systémique dans un modèle murin, suggérant de nouvelles voies biologiques pour la recherche sur la longévité ; toutefois, il s'agit de résultats précliniques sur des animaux et non d'une applicabilité immédiate chez l'humain.",
+          "takeaways": [
+            "Chez la souris, une expression accrue de FGF13 dans les astrocytes a été associée à une réduction des indicateurs de vieillissement dans l'organisme.",
+            "FGF13 appartient à une famille de molécules de signalisation (FGF) connues pour leurs rôles dans le développement et la fonction des tissus.",
+            "Il s'agit de recherches précliniques sur animaux ; la pertinence pour l'humain et la sécurité ne sont pas établies."
+          ]
+        },
+        "de": {
+          "title": "Mäusestudie: Erhöhung eines astrozytären Faktors steht im Zusammenhang mit geringerer systemischer Alterung",
+          "summary": "Forscher berichteten in Aging Cell, dass erhöhte Spiegel des fibroblasten‑wachstumsfaktor 13 (FGF13) in Astrozyten mit einer Verringerung altersbedingter Merkmale in mehreren Geweben von Mäusen einhergingen.",
+          "whyItMatters": "Die Arbeit hebt einen vom Gehirn stammenden Faktor hervor, der die systemische Alterung in einem Mausmodell beeinflussen kann und damit neue biologische Wege für die Langlebigkeitsforschung nahelegt; es handelt sich jedoch um präklinische Tierergebnisse, die keine unmittelbare Übertragbarkeit auf den Menschen bedeuten.",
+          "takeaways": [
+            "Bei Mäusen war eine höhere Astrozyten‑Expression von FGF13 mit verringerten Altersindikatoren im ganzen Körper verbunden.",
+            "FGF13 gehört zu einer Familie von Signalstoffen (FGFs) mit bekannten Rollen in Entwicklung und Gewebefunktion.",
+            "Es handelt sich um präklinische Forschung an Tieren; Relevanz und Sicherheit beim Menschen sind nicht festgestellt."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo em camundongos: aumento de fator de astrócito associado à redução do envelhecimento corporal",
+          "summary": "Pesquisadores relataram em Aging Cell que elevar os níveis do fator de crescimento de fibroblastos 13 (FGF13) em astrócitos reduziu sinais de envelhecimento em vários tecidos de camundongos.",
+          "whyItMatters": "O trabalho destaca um fator de origem cerebral que pode influenciar o envelhecimento sistêmico em um modelo de camundongo, sugerindo novas vias biológicas para pesquisa sobre longevidade; contudo, são resultados pré‑clínicos em animais e não implicam aplicabilidade imediata em humanos.",
+          "takeaways": [
+            "Em camundongos, maior expressão de FGF13 em astrócitos associou‑se a indicadores reduzidos de envelhecimento no corpo inteiro.",
+            "FGF13 pertence a uma família de moléculas sinalizadoras (FGFs) com papéis conhecidos no desenvolvimento e na função tecidual.",
+            "Trata‑se de pesquisa pré‑clínica em animais; relevância e segurança em humanos não estão estabelecidas."
+          ]
+        },
+        "hu": {
+          "title": "Egértanulmány: az asztrócita FGF13 szintjének növelése összefüggésbe hozható a csökkent testöregedéssel",
+          "summary": "A kutatók az Aging Cellben számoltak be arról, hogy az asztrócitákban a fibroblaszt növekedési faktor 13 (FGF13) szintjének megemelése az egerekben több szövetben az öregedés jeleinek csökkenésével társult.",
+          "whyItMatters": "A munka kiemel egy agyból származó faktort, amely befolyásolhatja a szervezeti öregedést egérmodellben, és új biológiai útvonalakat javasolhat az élettartam-kutatás számára; ezek azonban preklinikai állatkísérletes eredmények, és nem jelentik azt, hogy azonnal alkalmazhatók lennének emberekre.",
+          "takeaways": [
+            "Egerekben az asztrócita FGF13 kifejeződésének növekedése összefüggött a test öregedésére utaló mutatók csökkenésével.",
+            "Az FGF13 az FGF-jelekő molekulacsaládhoz tartozik, amelyek ismert szerepet játszanak a fejlődésben és a szövetfunkciókban.",
+            "Ez preklinikai állatkísérletes kutatás; az emberi relevancia és a biztonságosság nem bizonyított."
+          ]
+        },
+        "ar": {
+          "title": "دراسة على الفئران: زيادة عامل أستروسايت مرتبطة بتباطؤ شيخوخة الجسم",
+          "summary": "أفاد باحثون في Aging Cell أن رفع مستويات عامل نمو الأرومات الليفية 13 (FGF13) في الخلايا الدبقية النجميّة (الأستروسايتات) قلل من مؤشرات الشيخوخة عبر عدة أنسجة في الفئران.",
+          "whyItMatters": "تسلط الدراسة الضوء على عامل منشأه الدماغ قد يؤثر على شيخوخة الجسم في نموذج فأري، مقترحة مسارات بيولوجية جديدة لأبحاث طول العمر؛ ومع ذلك فهذه نتائج قبل سريرية على حيوانات ولا تعني إمكانية التطبيق الفوري على البشر.",
+          "takeaways": [
+            "في الفئران، ارتبطت زيادة تعبير FGF13 في الأستروسايتات بتقليل مؤشرات الشيخوخة عبر الجسم.",
+            "ينتمي FGF13 إلى عائلة جزيئات إشارية (FGFs) المعروفة بدورها في التطور ووظائف الأنسجة.",
+            "هذا بحث قبل سريري على حيوانات؛ لم تُثبت صلته بالبشر أو سلامته."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=an-astrocytic-factor-slows-whole-body-aging-in-mice-e0b4e2ba1b0f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/an-astrocytic-factor-slows-whole-body-aging-in-mice-e0b4e2ba1b0f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/an-astrocytic-factor-slows-whole-body-aging-in-mice-e0b4e2ba1b0f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mouse study: increasing an astrocyte factor linked to reduced whole-body ageing.\nStory summary: Researchers reported in Aging Cell that raising levels of fibroblast growth factor 13 (FGF13) in astrocytes reduced signs of ageing across multiple tissues in mice..\nCategory: aging & longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "fda-plans-to-update-infant-formula-nutrition-requirements-for-fir-1b00c39c9812",
+      "category": "nutrition policy",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/10/29/health/infant-formula-nutrition-fda",
+      "sourceTitle": "FDA plans to update infant formula nutrition requirements for first time in nearly 30 years",
+      "publishedAt": "2026-10-29T18:33:34.270Z",
+      "languages": {
+        "en": {
+          "title": "FDA proposes updates to infant formula nutrient requirements",
+          "summary": "The US Food and Drug Administration has proposed changes to the nutrient requirements for infant formula, marking the first nutrition review for formula in nearly three decades.",
+          "whyItMatters": "Updates could affect formula composition and regulatory standards that govern infant nutrition, with implications for manufacturers, health professionals and caregivers; the proposal will go through the agency's rulemaking and evidence-review process before any changes take effect.",
+          "takeaways": [
+            "The FDA is proposing revisions to nutrient requirements for infant formula for the first time in almost 30 years.",
+            "Any regulatory change will proceed through public rulemaking and review processes.",
+            "Potential impacts include changes to formula composition and guidance for infant nutrition policy."
+          ]
+        },
+        "es": {
+          "title": "La FDA propone actualizaciones a los requisitos de nutrientes en la fórmula infantil",
+          "summary": "La Administración de Alimentos y Medicamentos de EE. UU. (FDA) ha propuesto cambios en los requisitos de nutrientes para la fórmula infantil, marcando la primera revisión nutricional de la fórmula en casi tres décadas.",
+          "whyItMatters": "Las actualizaciones podrían afectar la composición de las fórmulas y las normas regulatorias que rigen la nutrición infantil, con implicaciones para fabricantes, profesionales de la salud y cuidadores; la propuesta seguirá el proceso de elaboración de normas y revisión de evidencia de la agencia antes de que cualquier cambio entre en vigor.",
+          "takeaways": [
+            "La FDA propone revisar los requisitos de nutrientes para la fórmula infantil por primera vez en casi 30 años.",
+            "Cualquier cambio reglamentario pasará por procesos públicos de elaboración de normas y revisión.",
+            "Los posibles impactos incluyen cambios en la composición de las fórmulas y en las orientaciones de política nutricional infantil."
+          ]
+        },
+        "ru": {
+          "title": "FDA предлагает обновить требования к питательным веществам в детских смесях",
+          "summary": "Управление по контролю за продуктами и лекарствами США (FDA) предложило изменения в требованиях к питательным веществам для детских смесей, что станет первой ревизией в этой области почти за три десятилетия.",
+          "whyItMatters": "Обновления могут повлиять на состав смесей и нормативные стандарты, регулирующие детское питание, что затронет производителей, медицинских работников и опекунов; предложение пройдёт через процесс создания правил и оценку доказательств в агентстве прежде чем какие-либо изменения вступят в силу.",
+          "takeaways": [
+            "FDA предлагает пересмотреть требования к питательным веществам в детских смесях впервые почти за 30 лет.",
+            "Любые регуляторные изменения пройдут через публичные процессы разработки правил и ревью.",
+            "Потенциальные последствия включают изменения в составе смесей и рекомендации в области политики по детскому питанию."
+          ]
+        },
+        "uk": {
+          "title": "FDA пропонує оновлення вимог до поживних речовин дитячих сумішей",
+          "summary": "Управління з контролю за продуктами та лікарськими засобами США (FDA) запропонувало зміни до вимог щодо поживних речовин у дитячих сумішах, що є першою переглядом поживних норм для сумішей майже за три десятиліття.",
+          "whyItMatters": "Оновлення можуть вплинути на склад сумішей і регуляторні стандарти, що стосуються дитячого харчування, з наслідками для виробників, медичних працівників та опікунів; пропозиція проходитиме через процес розробки правил і перегляд доказової бази агентства перед набранням чинності будь-яких змін.",
+          "takeaways": [
+            "FDA пропонує зміни до вимог щодо поживних речовин для дитячих сумішей уперше майже за 30 років.",
+            "Будь-які регуляторні зміни проходитимуть публічний процес розробки правил і перегляду.",
+            "Можливі наслідки включають зміни складу сумішей та вплив на політику щодо дитячого харчування."
+          ]
+        },
+        "fr": {
+          "title": "La FDA propose des mises à jour des exigences nutritionnelles pour les préparations pour nourrissons",
+          "summary": "La Food and Drug Administration des États-Unis (FDA) a proposé des changements aux exigences en matière de nutriments pour les préparations pour nourrissons, marquant la première révision nutritionnelle des formules depuis près de trente ans.",
+          "whyItMatters": "Ces mises à jour pourraient affecter la composition des préparations et les normes réglementaires régissant la nutrition infantile, avec des implications pour les fabricants, les professionnels de santé et les aidants ; la proposition suivra le processus réglementaire et d'examen des preuves de l'agence avant toute mise en œuvre.",
+          "takeaways": [
+            "La FDA propose de réviser les exigences en nutriments pour les préparations infantiles pour la première fois depuis presque 30 ans.",
+            "Toute modification réglementaire suivra les processus publics d'élaboration de règles et d'examen.",
+            "Les impacts potentiels incluent des changements de composition des formules et des orientations pour la politique de nutrition infantile."
+          ]
+        },
+        "de": {
+          "title": "FDA schlägt Aktualisierungen der Nährstoffanforderungen für Säuglingsnahrung vor",
+          "summary": "Die US‑Lebensmittelbehörde FDA hat vorgeschlagene Änderungen der Nährstoffanforderungen für Säuglingsnahrung vorgelegt und damit die erste Überprüfung der Formelernährung seit fast drei Jahrzehnten eingeleitet.",
+          "whyItMatters": "Änderungen könnten die Zusammensetzung von Formeln und die regulatorischen Standards für Säuglingsernährung beeinflussen, was Folgen für Hersteller, Gesundheitsfachkräfte und Betreuungspersonen haben kann; der Vorschlag wird das rulemaking‑ und Evidenzprüfungsverfahren der Behörde durchlaufen, bevor Änderungen wirksam werden.",
+          "takeaways": [
+            "Die FDA schlägt Revisionen der Nährstoffanforderungen für Säuglingsnahrung vor — erstmals seit fast 30 Jahren.",
+            "Jegliche regulatorische Änderung wird durch öffentliche Regelsetzungs‑ und Prüfprozesse gehen.",
+            "Mögliche Auswirkungen umfassen Änderungen der Formulazusammensetzung und Hinweise für die Säuglingsernährungspolitik."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA propõe atualizações nos requisitos de nutrientes para fórmula infantil",
+          "summary": "A Food and Drug Administration dos EUA propôs mudanças nos requisitos de nutrientes para fórmula infantil, marcando a primeira revisão nutricional da fórmula em quase três décadas.",
+          "whyItMatters": "As atualizações podem afetar a composição das fórmulas e os padrões regulatórios que regem a nutrição infantil, com implicações para fabricantes, profissionais de saúde e cuidadores; a proposta passará pelo processo de regulamentação e revisão de evidências da agência antes de qualquer mudança entrar em vigor.",
+          "takeaways": [
+            "A FDA está propondo revisões nos requisitos de nutrientes para fórmula infantil pela primeira vez em quase 30 anos.",
+            "Qualquer alteração regulatória seguirá processos públicos de elaboração de regras e revisão.",
+            "Impactos potenciais incluem mudanças na composição das fórmulas e nas diretrizes de política de nutrição infantil."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA javaslatot tett a csecsemőtápszer tápanyagszabványainak frissítésére",
+          "summary": "Az Egyesült Államok Élelmiszer- és Gyógyszerügyi Hivatala javaslatot tett a csecsemőtápszer tápanyagkövetelményeinek módosítására, ez az első táplálkozási áttekintés a tápszerre vonatkozóan közel három évtizede.",
+          "whyItMatters": "A frissítések befolyásolhatják a tápszer összetételét és az azt szabályozó előírásokat, ami hatással lehet a gyártókra, egészségügyi szakemberekre és gondozókra; a javaslat a szabályalkotási és bizonyíték-értékelési folyamaton megy keresztül, mielőtt bármilyen változás hatályba léphet.",
+          "takeaways": [
+            "Az FDA közel 30 év után először javasol módosításokat a csecsemőtápszer tápanyagkövetelményeiben.",
+            "Bármilyen szabályozási változás nyilvános szabályalkotási és felülvizsgálati folyamaton megy majd keresztül.",
+            "A lehetséges hatások közé tartozhat a tápszer összetételének és az infant táplálkozási politikának a módosulása."
+          ]
+        },
+        "ar": {
+          "title": "إدارة الغذاء والدواء تقترح تحديث متطلبات المغذيات لحليب الرضع الاصطناعي",
+          "summary": "اقترحت إدارة الغذاء والدواء الأمريكية تغييرات على متطلبات المغذيات لحليب الرضع الصناعي، وهو أول استعراض تغذوي للصيغة منذ ما يقرب من ثلاثين عاماً.",
+          "whyItMatters": "قد تؤثر التحديثات على تركيبة الحليب الاصطناعي والمعايير التنظيمية التي تحكم تغذية الرضع، مما قد يكون له تبعات على المصنعين والمهنيين الصحيين والآباء؛ سيمر الاقتراح بعملية سن القواعد ومراجعة الأدلة لدى الوكالة قبل أن تدخل أي تغييرات حيز التنفيذ.",
+          "takeaways": [
+            "تقترح FDA مراجعات لمتطلبات المغذيات لحليب الرضع الصناعي للمرة الأولى منذ نحو 30 عاماً.",
+            "أية تغييرات تنظيمية ستمر بعمليات سن القواعد والمراجعة العامة.",
+            "من التأثيرات المحتملة: تغييرات في تركيبة الحليب وإرشادات سياسة تغذية الرضع."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fda-plans-to-update-infant-formula-nutrition-requirements-for-fir-1b00c39c9812",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fda-plans-to-update-infant-formula-nutrition-requirements-for-fir-1b00c39c9812-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fda-plans-to-update-infant-formula-nutrition-requirements-for-fir-1b00c39c9812-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA proposes updates to infant formula nutrient requirements.\nStory summary: The US Food and Drug Administration has proposed changes to the nutrient requirements for infant formula, marking the first nutrition review for formula in nearly three decades..\nCategory: nutrition policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "six-popular-sugar-substitutes-linked-to-faster-brain-aging-387dc289cb36",
       "category": "nutrition & brain ageing",
@@ -439,6 +1188,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Karolinska project selected by WHO to showcase AI for earlier heart failure detection in primary care.\nStory summary: A European research project involving Karolinska Institutet will evaluate whether artificial intelligence can help detect heart failure earlier in primary care; the project was chosen by WHO Europe for presentation at an international conference..\nCategory: AI in cardiovascular care.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "digital-twins-provide-answers-to-health-11171e795288",
+      "category": "AI & health",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/digital-twins-provide-answers-to-health",
+      "sourceTitle": "Digital twins provide answers to health",
+      "publishedAt": "29 October, 2026",
+      "languages": {
+        "en": {
+          "title": "Medical digital twins could enable virtual testing of treatments",
+          "summary": "A researcher describes medical digital twins—computerized models of patients that can be used to test different treatments and identify promising options without exposing patients to risk—and suggests personalised digital replicas may become more common in the future.",
+          "whyItMatters": "Digital twins could accelerate personalised treatment selection and reduce trial-and-error clinical decisions, but they depend on high-quality data, validation against real-world outcomes, and ethical and privacy safeguards before routine clinical use.",
+          "takeaways": [
+            "Digital twins are virtual patient models used to simulate treatment responses.",
+            "They have potential to help identify effective treatments with lower risk to patients.",
+            "Significant challenges remain, including data quality, validation, and ethical considerations."
+          ]
+        },
+        "es": {
+          "title": "Gemelos digitales médicos podrían permitir pruebas virtuales de tratamientos",
+          "summary": "Un investigador describe los gemelos digitales médicos—modelos computacionales de pacientes que pueden usarse para probar distintos tratamientos e identificar opciones prometedoras sin exponer a los pacientes al riesgo—y sugiere que réplicas digitales personalizadas podrían volverse más comunes en el futuro.",
+          "whyItMatters": "Los gemelos digitales podrían acelerar la selección personalizada de tratamientos y reducir decisiones clínicas de prueba y error, pero dependen de datos de alta calidad, validación frente a resultados reales y salvaguardias éticas y de privacidad antes de su uso rutinario.",
+          "takeaways": [
+            "Los gemelos digitales son modelos virtuales de pacientes que se usan para simular respuestas a tratamientos.",
+            "Tienen el potencial de ayudar a identificar tratamientos efectivos con menor riesgo para los pacientes.",
+            "Persisten desafíos importantes, incluidos la calidad de los datos, la validación y consideraciones éticas."
+          ]
+        },
+        "ru": {
+          "title": "Медицинские цифровые двойники могут позволить виртуальное тестирование лечения",
+          "summary": "Исследователь описывает медицинские цифровые двойники — компьютерные модели пациентов, которые можно использовать для тестирования различных вариантов лечения и выявления перспективных опций без риска для пациентов, и предполагает, что персонализированные цифровые копии могут стать более распространёнными в будущем.",
+          "whyItMatters": "Цифровые двойники могут ускорить подбор индивидуального лечения и сократить клинические решения методом проб и ошибок, но их использование зависит от качественных данных, валидации на основе реальных исходов и этических и конфиденциальных гарантий до внедрения в рутинную практику.",
+          "takeaways": [
+            "Цифровые двойники — это виртуальные модели пациентов для симуляции реакций на лечение.",
+            "Они потенциально могут помочь выявлять эффективные терапии с меньшим риском для пациентов.",
+            "Остаётся много задач, включая качество данных, валидацию и этические вопросы."
+          ]
+        },
+        "uk": {
+          "title": "Медичні цифрові «двійники» можуть дозволити віртуальне тестування лікувань",
+          "summary": "Дослідник описує медичні цифрові двійники — комп’ютерні моделі пацієнтів, які можна використовувати для моделювання різних лікувань і виявлення перспективних варіантів без ризику для пацієнтів — і припускає, що персоналізовані цифрові копії можуть стати більш поширеними в майбутньому.",
+          "whyItMatters": "Цифрові двійники можуть прискорити вибір персоналізованого лікування та зменшити тестування методом проб і помилок, але вони залежать від високоякісних даних, валідації на реальних результатах, а також етичних і питань конфіденційності перед впровадженням у рутинну клінічну практику.",
+          "takeaways": [
+            "Цифрові двійники — це віртуальні моделі пацієнтів, які використовуються для симуляції відповіді на лікування.",
+            "Вони мають потенціал допомогти в ідентифікації ефективних лікувань із меншим ризиком для пацієнтів.",
+            "Залишаються значні проблеми, включно з якістю даних, валідацією та етичними аспектами."
+          ]
+        },
+        "fr": {
+          "title": "Les jumeaux numériques médicaux pourraient permettre des tests virtuels de traitements",
+          "summary": "Un chercheur décrit les jumeaux numériques médicaux — modèles informatiques de patients pouvant être utilisés pour tester différents traitements et identifier des options prometteuses sans exposer les patients au risque — et suggère que des répliques numériques personnalisées pourraient devenir plus courantes à l'avenir.",
+          "whyItMatters": "Les jumeaux numériques pourraient accélérer la sélection de traitements personnalisés et réduire les décisions cliniques fondées sur l'essai-erreur, mais ils dépendent de données de haute qualité, d'une validation par rapport aux résultats réels et de garanties éthiques et de confidentialité avant une utilisation clinique courante.",
+          "takeaways": [
+            "Les jumeaux numériques sont des modèles virtuels de patients utilisés pour simuler les réponses aux traitements.",
+            "Ils ont le potentiel d'aider à identifier des traitements efficaces avec un risque réduit pour les patients.",
+            "Des défis importants demeurent, notamment la qualité des données, la validation et les considérations éthiques."
+          ]
+        },
+        "de": {
+          "title": "Medizinische digitale Zwillinge könnten virtuelle Behandlungstests ermöglichen",
+          "summary": "Ein Forscher beschreibt medizinische digitale Zwillinge — computerbasierte Patientenmodelle, mit denen unterschiedliche Behandlungen getestet und vielversprechende Optionen identifiziert werden können, ohne Patienten Risiken auszusetzen — und schlägt vor, dass personalisierte digitale Replikate künftig häufiger werden könnten.",
+          "whyItMatters": "Digitale Zwillinge könnten die Auswahl personalisierter Behandlungen beschleunigen und trial‑and‑error‑Entscheidungen in der Klinik reduzieren, sie sind jedoch auf qualitativ hochwertige Daten, Validierung an realen Ergebnissen sowie ethische und datenschutzrechtliche Schutzmaßnahmen angewiesen, bevor sie routinemäßig eingesetzt werden können.",
+          "takeaways": [
+            "Digitale Zwillinge sind virtuelle Patientenmodelle, mit denen Behandlungsantworten simuliert werden.",
+            "Sie haben das Potenzial, wirksame Behandlungen mit geringerem Risiko für Patienten zu identifizieren.",
+            "Es bestehen erhebliche Herausforderungen, darunter Datenqualität, Validierung und ethische Fragen."
+          ]
+        },
+        "pt-br": {
+          "title": "Gêmeos digitais médicos podem permitir testes virtuais de tratamentos",
+          "summary": "Um pesquisador descreve gêmeos digitais médicos — modelos computacionais de pacientes que podem ser usados para testar diferentes tratamentos e identificar opções promissoras sem expor pacientes a riscos — e sugere que réplicas digitais personalizadas podem tornar‑se mais comuns no futuro.",
+          "whyItMatters": "Gêmeos digitais podem acelerar a seleção de tratamentos personalizados e reduzir decisões clínicas por tentativa e erro, mas dependem de dados de alta qualidade, validação contra resultados do mundo real e salvaguardas éticas e de privacidade antes do uso rotineiro.",
+          "takeaways": [
+            "Gêmeos digitais são modelos virtuais de pacientes usados para simular respostas a tratamentos.",
+            "Eles têm potencial para ajudar a identificar tratamentos eficazes com menor risco para os pacientes.",
+            "Persistem desafios significativos, incluindo qualidade dos dados, validação e considerações éticas."
+          ]
+        },
+        "hu": {
+          "title": "Orvosi digitális ikrek lehetővé tehetik a kezelések virtuális tesztelését",
+          "summary": "Egy kutató bemutatja az orvosi digitális ikreket — páciensek számítógépes modellezett másait, amelyeket a különböző kezelések virtuális kipróbálására lehet használni a páciensek kockáztatása nélkül — és úgy véli, hogy a személyre szabott digitális másolatok a jövőben gyakoribbá válhatnak.",
+          "whyItMatters": "A digitális ikrek gyorsíthatnák a személyre szabott kezelés kiválasztását és csökkenthetik a próbálkozásos klinikai döntéseket, de rutinszerű klinikai használatukhoz jó minőségű adatokra, valós kimenetekkel való validálásra, valamint etikai és adatvédelmi garanciákra van szükség.",
+          "takeaways": [
+            "A digitális ikrek virtuális betegmodellek, amelyeket a kezelési válaszok szimulálására használnak.",
+            "Lehetőségük van segíteni hatékony kezelések azonosításában alacsonyabb kockázat mellett a páciensek számára.",
+            "Jelentős kihívások maradnak, többek között az adatok minősége, validálás és etikai kérdések."
+          ]
+        },
+        "ar": {
+          "title": "التوائم الرقمية الطبية قد تتيح اختبار العلاجات افتراضياً",
+          "summary": "يصف باحث مفهوم التوائم الرقمية الطبية—نماذج حاسوبية للمرضى يمكن استخدامها لاختبار علاجات مختلفة وتحديد الخيارات الواعدة دون تعريض المرضى للمخاطر—ويقترح أن النسخ الرقمية المخصصة قد تصبح أكثر شيوعاً في المستقبل.",
+          "whyItMatters": "قد تسرع التوائم الرقمية اختيار العلاج المخصص وتقلل من القرارات التجريبية في العيادات، لكنها تعتمد على بيانات عالية الجودة، والتحقق مقابل النتائج الحقيقية، وضمانات أخلاقية وخصوصية قبل الاستخدام الروتيني في الممارسة السريرية.",
+          "takeaways": [
+            "التوائم الرقمية نماذج افتراضية للمرضى تُستخدم لمحاكاة استجابات العلاجات.",
+            "قد تساعد في تحديد العلاجات الفعّالة مع مخاطر أقل للمرضى.",
+            "توجد تحديات كبيرة بما في ذلك جودة البيانات، والتحقق، والاعتبارات الأخلاقية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=digital-twins-provide-answers-to-health-11171e795288",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/digital-twins-provide-answers-to-health-11171e795288-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/digital-twins-provide-answers-to-health-11171e795288-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Medical digital twins could enable virtual testing of treatments.\nStory summary: A researcher describes medical digital twins—computerized models of patients that can be used to test different treatments and identify promising options without exposing patients to risk—and suggests personalised digital replicas may become more common in the future..\nCategory: AI & health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "another-win-for-novel-drug-this-time-in-egfr-mutated-lung-cancer-22c047fa07a8",
@@ -1527,6 +2383,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Life Biosciences Announces First-in-Human Phase 1 Trial Data.\nStory summary: A biotechnology company reported interim Phase 1 data from a first‑in‑human trial of its cellular rejuvenation approach. The announcement comes from the company and presents early, preliminary results rather than peer‑reviewed published data..\nCategory: longevity biotech.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "reducing-food-loss-and-waste-making-nutritious-foods-more-availab-0406f22b1099",
+      "category": "nutrition & food systems",
+      "sourceName": "gainhealth.org",
+      "sourceUrl": "https://www.gainhealth.org/blogs/reducing-food-loss-and-waste-making-nutritious-foods-more-available-vulnerable-communities",
+      "sourceTitle": "Reducing Food Loss and Waste: Making Nutritious Foods More Available for Vulnerable Communities",
+      "publishedAt": "Tue, 27 Oct 2026 10:16:09 +0000",
+      "languages": {
+        "en": {
+          "title": "Reducing food loss and waste to improve access to nutritious foods",
+          "summary": "A GAIN blog discusses strategies to cut food loss and waste with the goal of making nutritious foods more available to vulnerable communities.",
+          "whyItMatters": "Reducing post-harvest loss and household waste can increase the availability and affordability of nutritious foods for populations at risk of undernutrition, but effective implementation requires coordinated policy, supply-chain investments and context-specific solutions.",
+          "takeaways": [
+            "Cutting food loss and waste can expand access to nutritious foods for vulnerable groups.",
+            "Solutions span production, storage, processing and consumer-level behaviour.",
+            "Scaling these approaches requires policy support, investment and tailoring to local contexts."
+          ]
+        },
+        "es": {
+          "title": "Reducir pérdidas y desperdicio alimentario para mejorar el acceso a alimentos nutritivos",
+          "summary": "Un blog de GAIN aborda estrategias para reducir la pérdida y el desperdicio de alimentos con el objetivo de hacer que los alimentos nutritivos estén más disponibles para comunidades vulnerables.",
+          "whyItMatters": "Reducir la pérdida poscosecha y el desperdicio en el hogar puede aumentar la disponibilidad y asequibilidad de alimentos nutritivos para poblaciones en riesgo de desnutrición, pero la implementación efectiva requiere políticas coordinadas, inversiones en la cadena de suministro y soluciones adaptadas al contexto local.",
+          "takeaways": [
+            "Reducir la pérdida y el desperdicio de alimentos puede ampliar el acceso a alimentos nutritivos para grupos vulnerables.",
+            "Las soluciones abarcan producción, almacenamiento, procesamiento y comportamiento del consumidor.",
+            "Escalar estas medidas requiere apoyo político, inversión y adaptación al contexto local."
+          ]
+        },
+        "ru": {
+          "title": "Сокращение потерь и отходов пищи для повышения доступности питательных продуктов",
+          "summary": "Блог GAIN рассматривает стратегии сокращения потерь и отходов пищи с целью повышения доступности питательных продуктов для уязвимых сообществ.",
+          "whyItMatters": "Снижение потерь после сбора урожая и домашних отходов может увеличить доступность и доступность по цене питательных продуктов для групп, подверженных риску недоедания, но эффективная реализация требует скоординированной политики, инвестиций в цепочку поставок и решений, адаптированных к местному контексту.",
+          "takeaways": [
+            "Сокращение потерь и отходов пищи может расширить доступ к питательным продуктам для уязвимых групп.",
+            "Решения охватывают производство, хранение, переработку и поведение потребителей.",
+            "Масштабирование этих подходов требует политической поддержки, инвестиций и адаптации к местным условиям."
+          ]
+        },
+        "uk": {
+          "title": "Скорочення втрат і марнотратства їжі для покращення доступу до поживних продуктів",
+          "summary": "Блог GAIN обговорює стратегії скорочення втрат і марнотратства їжі з метою зробити поживні продукти більш доступними для вразливих спільнот.",
+          "whyItMatters": "Скорочення втрат після збирання та побутових відходів може підвищити доступність і доступність за ціною поживних продуктів для груп, що ризикують недоїдати, але ефективне впровадження потребує скоординованої політики, інвестицій у ланцюги постачання та рішень, пристосованих до конкретних умов.",
+          "takeaways": [
+            "Скорочення втрат і марнотратства їжі може розширити доступ до поживних продуктів для вразливих груп.",
+            "Рішення охоплюють виробництво, зберігання, переробку та поведінку споживачів.",
+            "Масштабування підходів потребує політичної підтримки, інвестицій і адаптації до місцевих умов."
+          ]
+        },
+        "fr": {
+          "title": "Réduire les pertes et le gaspillage alimentaire pour améliorer l'accès à des aliments nutritifs",
+          "summary": "Un billet de GAIN présente des stratégies pour réduire les pertes et le gaspillage alimentaires dans le but de rendre les aliments nutritifs plus accessibles aux communautés vulnérables.",
+          "whyItMatters": "Réduire les pertes post-récolte et le gaspillage au niveau des ménages peut accroître la disponibilité et l'accessibilité financière des aliments nutritifs pour les populations à risque de sous-nutrition, mais une mise en œuvre efficace nécessite des politiques coordonnées, des investissements dans la chaîne d'approvisionnement et des solutions adaptées au contexte.",
+          "takeaways": [
+            "Réduire les pertes et le gaspillage alimentaire peut élargir l'accès à des aliments nutritifs pour les groupes vulnérables.",
+            "Les solutions couvrent la production, le stockage, la transformation et les comportements des consommateurs.",
+            "La généralisation de ces approches nécessite un soutien politique, des investissements et une adaptation aux contextes locaux."
+          ]
+        },
+        "de": {
+          "title": "Lebensmittelverluste und -verschwendung reduzieren, um Zugang zu nahrhaften Lebensmitteln zu verbessern",
+          "summary": "Ein GAIN‑Blog erörtert Strategien zur Verringerung von Lebensmittelverlust und ‑verschwendung mit dem Ziel, nahrhafte Lebensmittel für verletzliche Gemeinschaften besser verfügbar zu machen.",
+          "whyItMatters": "Die Reduzierung von Nachernteverlusten und Haushaltsabfällen kann die Verfügbarkeit und Erschwinglichkeit nahrhafter Lebensmittel für unterernährungsgefährdete Bevölkerungsgruppen erhöhen, erfordert jedoch koordinierte Politik, Investitionen in Lieferketten und kontextspezifische Lösungen für eine effektive Umsetzung.",
+          "takeaways": [
+            "Weniger Lebensmittelverlust und ‑verschwendung kann den Zugang zu nahrhaften Lebensmitteln für gefährdete Gruppen erweitern.",
+            "Lösungen reichen von Produktion über Lagerung und Verarbeitung bis zu Verbraucher‑Verhalten.",
+            "Die Skalierung dieser Ansätze benötigt politische Unterstützung, Investitionen und Anpassung an lokale Kontexte."
+          ]
+        },
+        "pt-br": {
+          "title": "Reduzir perdas e desperdício de alimentos para melhorar o acesso a alimentos nutritivos",
+          "summary": "Um blog da GAIN discute estratégias para cortar perdas e desperdício de alimentos com o objetivo de tornar alimentos nutritivos mais disponíveis para comunidades vulneráveis.",
+          "whyItMatters": "Reduzir perdas pós‑colheita e desperdício doméstico pode aumentar a disponibilidade e a acessibilidade de alimentos nutritivos para populações em risco de desnutrição, mas a implementação eficaz exige políticas coordenadas, investimentos nas cadeias de suprimento e soluções adaptadas ao contexto local.",
+          "takeaways": [
+            "Reduzir perdas e desperdício pode ampliar o acesso a alimentos nutritivos para grupos vulneráveis.",
+            "As soluções abrangem produção, armazenamento, processamento e comportamento do consumidor.",
+            "Escalar essas abordagens requer apoio político, investimentos e adequação aos contextos locais."
+          ]
+        },
+        "hu": {
+          "title": "Élelmiszerveszteség és -hulladék csökkentése a tápláló élelmiszerekhez való jobb hozzáférésért",
+          "summary": "Egy GAIN blog a posztharveszt vesztés és a háztartási hulladék csökkentésére irányuló stratégiákról értekezik azzal a céllal, hogy a tápláló élelmiszerek jobban elérhetők legyenek a sérülékeny közösségek számára.",
+          "whyItMatters": "A posztharveszt veszteség és a háztartási hulladék csökkentése növelheti a tápláló élelmiszerek elérhetőségét és megfizethetőségét a alultápláltságnak kitett népességek körében, de a hatékony megvalósításhoz összehangolt politika, ellátási lánc beruházások és helyspecifikus megoldások szükségesek.",
+          "takeaways": [
+            "Az élelmiszerveszteség és -hulladék csökkentése bővítheti a tápláló élelmiszerekhez való hozzáférést a sérülékeny csoportok számára.",
+            "A megoldások a termeléstől a tároláson és feldolgozáson át a fogyasztói viselkedésig terjednek.",
+            "A megközelítések skálázásához politikai támogatásra, beruházásra és a helyi környezethez igazításra van szükség."
+          ]
+        },
+        "ar": {
+          "title": "تقليل خسائر وهدر الغذاء لتحسين الوصول إلى الأطعمة المغذية",
+          "summary": "يناقش مدوّنة تابعة لـ GAIN استراتيجيات لخفض خسائر الطعام وهدره بهدف جعل الأطعمة المغذية أكثر توفرًا للمجتمعات الضعيفة.",
+          "whyItMatters": "يمكن أن يؤدي تقليل فقدان المحصول والهدر على مستوى الأسر إلى زيادة توفر وإتاحة الأطعمة المغذية للفئات المعرضة لسوء التغذية، لكن التنفيذ الفعّال يتطلب سياسات منسقة واستثمارات في سلاسل الإمداد وحلول ملائمة للسياق المحلي.",
+          "takeaways": [
+            "يمكن أن يوسّع تقليل خسائر وهدر الطعام الوصول إلى الأطعمة المغذية للفئات الضعيفة.",
+            "تشمل الحلول جوانب الإنتاج والتخزين والمعالجة وسلوك المستهلك.",
+            "يتطلب توسيع هذه الأساليب دعماً سياسياً واستثماراً وتكييفاً مع السياقات المحلية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=reducing-food-loss-and-waste-making-nutritious-foods-more-availab-0406f22b1099",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/reducing-food-loss-and-waste-making-nutritious-foods-more-availab-0406f22b1099-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/reducing-food-loss-and-waste-making-nutritious-foods-more-availab-0406f22b1099-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Reducing food loss and waste to improve access to nutritious foods.\nStory summary: A GAIN blog discusses strategies to cut food loss and waste with the goal of making nutritious foods more available to vulnerable communities..\nCategory: nutrition & food systems.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "scientists-discover-a-surprising-clue-to-why-some-brains-resist-a-7b2018e4e5ea",
@@ -113722,6 +114685,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-30-motivation-1-story-plan-lunch",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Plan a calmer lunch",
+          "story": "Anna started packing a simple lunch the night before work so she wouldn’t choose something on autopilot. She writes the planned meal into the app as she packs it, then checks it off after eating. Over a couple of weeks she noticed fewer impulsive takeout orders and felt less rushed at noon. The habit of planning and logging made decisions easier and helped her see what she actually eats without judgment.",
+          "habit": "Plan tomorrow’s meals tonight.",
+          "appCta": "Open Calorie Bank Credit and track your plan today."
+        },
+        "es": {
+          "title": "Planea un almuerzo más tranquilo",
+          "story": "Ana empezó a preparar un almuerzo sencillo la noche anterior para no decidir con prisa por la mañana. Al guardarlo, lo apunta en la app y lo marca cuando termina de comer. En unas semanas notó menos pedidos de última hora y menos estrés a la hora de comer. La rutina de planificar y registrar hizo las decisiones más fáciles y le permitió ver lo que realmente comía, sin juzgarse.",
+          "habit": "Planifica las comidas de mañana esta noche.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar tu plan hoy."
+        },
+        "ru": {
+          "title": "Спланируйте спокойный обед",
+          "story": "Анна стала собирать простой ланч с вечера, чтобы утром не принимать решения на автомате. Она записывает запланированный приём пищи в приложении и отмечает его после еды. Через несколько недель она заметила меньше спонтанных заказов и ощущала себя спокойнее в обеденное время. Привычка планировать и логировать упростила выбор и помогла увидеть, что она действительно ест, без осуждения.",
+          "habit": "Спланируйте приёмы пищи на завтра вечером.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать свой план сегодня."
+        },
+        "uk": {
+          "title": "Сплануйте спокійний обід",
+          "story": "Анна почала готувати простий обід ввечері наперед, щоб вранці не діяти на автоматі. Вона записує запланований прийом їжі в додатку й відмічає його після того, як поснідає чи пообідає. Через кілька тижнів помітила менше спонтанних замовлень і менше поспіху в обідню перерву. Звичка планувати й фіксувати зробила вибір простішим і допомогла зрозуміти, що вона насправді їсть, без осуду.",
+          "habit": "Сплануйте завтра їжу ввечері.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати свій план сьогодні."
+        },
+        "fr": {
+          "title": "Préparez un déjeuner plus serein",
+          "story": "Anna a commencé à préparer un déjeuner simple la veille pour ne pas choisir à la hâte le matin. Elle note le repas prévu dans l’application et le coche après l’avoir mangé. En quelques semaines, elle a réduit les commandes impulsives et se sent moins pressée à midi. Le fait de planifier et d’enregistrer a rendu les choix plus faciles et lui a permis de voir ce qu’elle mange réellement, sans jugement.",
+          "habit": "Planifiez les repas de demain ce soir.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre plan dès aujourd’hui."
+        },
+        "de": {
+          "title": "Plane ein ruhigeres Mittagessen",
+          "story": "Anna begann, sich am Abend vorher ein einfaches Mittagessen vorzubereiten, damit sie morgens nicht aus Gewohnheit entscheidet. Sie trägt das geplante Essen in die App ein und markiert es nach dem Essen. Nach ein paar Wochen bemerkte sie weniger spontane Bestellungen und fühlte sich mittags weniger gestresst. Die Gewohnheit zu planen und zu protokollieren machte Entscheidungen leichter und zeigte ihr, was sie wirklich isst – ohne Bewertung.",
+          "habit": "Plane die Mahlzeiten für morgen heute Abend.",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute, deinen Plan zu erfassen."
+        },
+        "pt-br": {
+          "title": "Plane um almoço mais tranquilo",
+          "story": "Ana começou a preparar um almoço simples na noite anterior para não decidir no automático pela manhã. Ela registra a refeição planejada no app e marca quando termina de comer. Em algumas semanas percebeu menos pedidos por impulso e menos pressa ao meio-dia. O hábito de planejar e registrar tornou as decisões mais fáceis e a ajudou a ver o que realmente come, sem julgamentos.",
+          "habit": "Planeje as refeições de amanhã hoje à noite.",
+          "appCta": "Abra o Calorie Bank Credit e registre seu plano hoje."
+        },
+        "hu": {
+          "title": "Tervez nyugodtabb ebédet",
+          "story": "Anna este összeállít egyszerű ebédet, hogy reggel ne hozzon döntést megszokásból. A tervezett ételt beírja az alkalmazásba, és az evés után kipipálja. Pár hét alatt kevesebb impulzusvásárlást vett észre, és délben kevésbé volt kapkodó. A tervezés és a naplózás szokása megkönnyítette a döntéseket, és segített meglátni, mit eszik valójában, ítélkezés nélkül.",
+          "habit": "Tervezd meg a holnapi étkezéseket ma este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezd el ma követni a terved."
+        },
+        "ar": {
+          "title": "خطط لغداء أكثر هدوءًا",
+          "story": "بدأت آنا بتحضير غداء بسيط مساءً حتى لا تتخذ قرارًا بسرعة في الصباح. تسجل الوجبة المخططة في التطبيق ثم تشير إليها بعد الأكل. خلال أسابيع قليلة لاحظت طلبات أقل من الخارج وشعورًا بانقضاء وقت الغداء بهدوء أكثر. جعلت عادة التخطيط والتسجيل اتخاذ القرار أسهل وساعدتها على معرفة ما تأكله فعليًا من دون إصدار أحكام.",
+          "habit": "خطط وجبات الغد الليلة.",
+          "appCta": "افتح Calorie Bank Credit وسجّل خطة اليوم."
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-1-story-plan-lunch-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-1-story-plan-lunch-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan a calmer lunch.\nStory: Anna started packing a simple lunch the night before work so she wouldn’t choose something on autopilot. She writes the planned meal into the app as she packs it, then checks it off after eating. Over a couple of weeks she noticed fewer impulsive takeout orders and felt less rushed at noon. The habit of planning and logging made decisions easier and helped her see what she actually eats without judgment..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-30-motivation-2-story-log-honestly",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Be honest about snacks",
+          "story": "Sam used to skip small bites and treats when tracking because they felt 'too small to matter.' One week he made a point of logging every snack without judging himself. Seeing the little entries added up helped him understand when he tended to nibble—mid-afternoon meetings or late evenings. That simple honesty made the app a clearer reflection of his routine and helped him make tiny, manageable choices rather than striving for perfection.",
+          "habit": "Log one snack honestly today.",
+          "appCta": "Open Calorie Bank Credit and log honestly today."
+        },
+        "es": {
+          "title": "Sé honesto con los tentempiés",
+          "story": "Samuel solía omitir pequeños bocados y caprichos al registrar porque sentía que 'eran insignificantes'. Una semana decidió apuntar cada snack sin juzgarse. Ver que esas pequeñas entradas sumaban le mostró cuándo tendía a picar: a media tarde o por la noche. Esa honestidad simple convirtió la app en un reflejo más claro de su rutina y le ayudó a tomar decisiones pequeñas y manejables en vez de buscar la perfección.",
+          "habit": "Registra hoy un snack con honestidad.",
+          "appCta": "Abre Calorie Bank Credit y registra con honestidad hoy."
+        },
+        "ru": {
+          "title": "Будьте честны с перекусами",
+          "story": "Сэм раньше не записывал маленькие кусочки и угощения, считая их 'незначительными'. Однажды он решил фиксировать каждый перекус без самокритики. Когда он увидел, как маленькие записи суммируются, стало ясно, когда он склонен перекусывать — в середине дня во время встреч или поздно вечером. Простая честность сделала приложение более точным отражением его привычек и позволила выбирать небольшие управляемые шаги, а не стремиться к идеалу.",
+          "habit": "Запишите один перекус честно сегодня.",
+          "appCta": "Откройте Calorie Bank Credit и введите записи честно сегодня."
+        },
+        "uk": {
+          "title": "Будьте чесні з перекусами",
+          "story": "Сем раніше не записував невеликі укусики й смаколики, бо вважав їх 'незначними'. Протягом тижня він почав фіксувати кожний перекус без самооцінок. Коли маленькі записи склалися, він побачив, коли найчастіше перекушує — під час полуденних зустрічей або пізно ввечері. Та проста чесність зробила додаток точнішим віддзеркаленням його рутини й допомогла робити невеликі керовані кроки, а не прагнути досконалості.",
+          "habit": "Запиши сьогодні один перекус чесно.",
+          "appCta": "Відкрийте Calorie Bank Credit і фіксуйте чесно сьогодні."
+        },
+        "fr": {
+          "title": "Notez vos snacks honnêtement",
+          "story": "Sam avait l'habitude d'omettre les petites bouchées et gourmandises en les jugeant 'trop petites pour compter'. Une semaine, il s'est engagé à tout enregistrer sans se juger. Voir ces petites lignes s'additionner lui a permis d'identifier ses moments de grignotage — l'après-midi en réunion ou le soir tard. Cette honnêteté simple a rendu l'application plus fidèle à sa routine et lui a permis de faire de petits choix réalistes plutôt que de viser la perfection.",
+          "habit": "Enregistrez honnêtement un snack aujourd'hui.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez honnêtement aujourd’hui."
+        },
+        "de": {
+          "title": "Sei ehrlich bei Snacks",
+          "story": "Sam hat früher kleine Bissen und Leckereien beim Protokollieren weggelassen, weil sie ihm 'zu unbedeutend' erschienen. Eine Woche lang hat er sich vorgenommen, jeden Snack ohne Bewertung zu erfassen. Als er sah, wie die kleinen Einträge zusammenkamen, wurde klar, wann er zum Naschen neigte – nachmittags bei Meetings oder spätabends. Diese Ehrlichkeit machte die App zu einem klareren Abbild seiner Routine und ermöglichte ihm kleine, handhabbare Entscheidungen statt Perfektionismus.",
+          "habit": "Trage heute ehrlich einen Snack ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ehrlich ein."
+        },
+        "pt-br": {
+          "title": "Seja honesto com os lanches",
+          "story": "Samuel costumava não registrar pequenos pedaços e guloseimas porque achava que 'não contavam'. Uma semana decidiu anotar todo lanche sem se julgar. Ver essas pequenas entradas somarem ajudou-o a identificar quando costumava beliscar — no meio da tarde em reuniões ou à noite. Essa honestidade simples tornou o app um reflexo mais claro da rotina e ajudou a fazer pequenas escolhas gerenciáveis em vez de buscar perfeição.",
+          "habit": "Registre com honestidade um lanche hoje.",
+          "appCta": "Abra o Calorie Bank Credit e registre com honestidade hoje."
+        },
+        "hu": {
+          "title": "Legyél őszinte a nassolással",
+          "story": "Sam korábban kihagyta a kis falatokat és édességeket a naplóból, mert 'túl kicsiknek' gondolta őket. Egy héten keresztül minden nassolást bejegyzett ítélkezés nélkül. Amikor látta, hogy a kis tételek összeadódnak, felismerte, mikor szokott rágcsálni — délutáni értekezletek közben vagy késő este. Ez az egyszerű őszinteség világosabbá tette az alkalmazás képét a rutinjáról, és segített apró, kezelhető döntéseket hozni a tökéletesség hajszolása helyett.",
+          "habit": "Jegyezz fel ma egy nassolást őszintén.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzíts őszintén ma."
+        },
+        "ar": {
+          "title": "كن صريحًا مع الوجبات الخفيفة",
+          "story": "كان سام يتجاهل لقيمات صغيرة وحلوى عند التسجيل لأنه يظن أنها 'لا تهم'. خلال أسبوع قرر أن يسجل كل وجبة خفيفة دون أن يحكم على نفسه. عندما رأى كيف تتراكم هذه التسجيلات الصغيرة، فهم متى يميل إلى النَهْم — في منتصف الظهيرة أثناء الاجتماعات أو في ساعات متأخرة من الليل. هذه الصراحة البسيطة جعلت التطبيق يعكس روتينه بوضوح وساعدته على اتخاذ خيارات صغيرة يمكنه التحكم بها بدلاً من السعي للكمال.",
+          "habit": "سجّل وجبة خفيفة واحدة بصدق اليوم.",
+          "appCta": "افتح Calorie Bank Credit وسجّل بصدق اليوم."
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-2-story-log-honestly-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-2-story-log-honestly-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Be honest about snacks.\nStory: Sam used to skip small bites and treats when tracking because they felt 'too small to matter.' One week he made a point of logging every snack without judging himself. Seeing the little entries added up helped him understand when he tended to nibble—mid-afternoon meetings or late evenings. That simple honesty made the app a clearer reflection of his routine and helped him make tiny, manageable choices rather than striving for perfection..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-30-motivation-3-story-notice-patterns",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Notice a clear pattern",
+          "story": "Priya began glancing at her weekly summary each Sunday evening. Over time she spotted a pattern: on days she skipped breakfast she tended to snack more after work. Rather than punishing herself, she used that insight to try small changes—like having a fruit or yogurt in the morning—and logged what happened. Tracking made the pattern visible and gave her simple options to try, one step at a time.",
+          "habit": "Review your weekly trend each Sunday.",
+          "appCta": "Open Calorie Bank Credit and check your week today."
+        },
+        "es": {
+          "title": "Detecta un patrón",
+          "story": "Priya empezó a revisar el resumen semanal cada domingo por la tarde. Con el tiempo vio un patrón: los días que se saltaba el desayuno picaba más después del trabajo. Sin castigarse, usó ese hallazgo para probar pequeños cambios —por ejemplo una fruta o yogur por la mañana— y registró lo que ocurría. El seguimiento hizo visible el patrón y le dio opciones sencillas para intentar, paso a paso.",
+          "habit": "Revisa tu tendencia semanal cada domingo.",
+          "appCta": "Abre Calorie Bank Credit y revisa tu semana hoy."
+        },
+        "ru": {
+          "title": "Заметьте закономерность",
+          "story": "Прия стала просматривать недельную сводку каждое воскресенье вечером. Со временем она увидела закономерность: в те дни, когда она пропускала завтрак, после работы чаще перекусывала. Не обвиняя себя, она использовала это наблюдение, чтобы внедрять небольшие изменения — например, брать фрукт или йогурт по утрам — и записывать результаты. Отслеживание сделало паттерн видимым и дало простые варианты для постепенной работы.",
+          "habit": "Просматривайте недельную тенденцию каждое воскресенье.",
+          "appCta": "Откройте Calorie Bank Credit и проверьте свою неделю сегодня."
+        },
+        "uk": {
+          "title": "Поміти закономірність",
+          "story": "Прія почала дивитися на тижневу зведення щонеділі ввечері. З часом помітила закономірність: у дні, коли вона пропускала сніданок, після роботи частіше перекушувала. Не картуючи себе, вона використала це спостереження, щоб спробувати невеликі зміни — наприклад, їсти фрукт або йогурт вранці — і фіксувати результат. Відстеження зробило патерн видимим і дало прості варіанти поступових змін.",
+          "habit": "Переглядай тижневу тенденцію щонеділі.",
+          "appCta": "Відкрийте Calorie Bank Credit і перевірте свій тиждень сьогодні."
+        },
+        "fr": {
+          "title": "Repérez un motif",
+          "story": "Priya a pris l'habitude de consulter le résumé hebdomadaire chaque dimanche soir. Au fil du temps, elle a repéré un motif : les jours où elle sautait le petit-déjeuner, elle grignotait davantage en fin de journée. Sans se blâmer, elle a utilisé cette information pour tester de petits changements — par exemple un fruit ou un yaourt le matin — et a noté les effets. Le suivi a rendu le motif visible et lui a offert des options simples à tester, pas à pas.",
+          "habit": "Consultez votre tendance hebdomadaire chaque dimanche.",
+          "appCta": "Ouvrez Calorie Bank Credit et vérifiez votre semaine aujourd’hui."
+        },
+        "de": {
+          "title": "Erkenne ein Muster",
+          "story": "Priya schaute sonntags abends regelmäßig auf die Wochenübersicht. Mit der Zeit entdeckte sie ein Muster: an Tagen, an denen sie das Frühstück ausließ, griff sie nach der Arbeit öfter zum Snack. Ohne sich zu verurteilen nutzte sie diese Erkenntnis für kleine Änderungen — zum Beispiel morgens Obst oder Joghurt — und notierte, was passierte. Das Tracking machte das Muster sichtbar und gab ihr einfache Optionen, Schritt für Schritt auszuprobieren.",
+          "habit": "Schau dir sonntags deinen Wochentrend an.",
+          "appCta": "Öffne Calorie Bank Credit und überprüfe deine Woche heute."
+        },
+        "pt-br": {
+          "title": "Perceba um padrão",
+          "story": "Priya passou a olhar o resumo semanal todo domingo à noite. Com o tempo percebeu um padrão: nos dias em que pulava o café da manhã, acabava beliscando mais depois do trabalho. Sem se culpar, ela usou essa informação para testar pequenas mudanças — como comer uma fruta ou iogurte pela manhã — e registrou o que acontecia. O acompanhamento tornou o padrão visível e lhe deu opções simples para tentar, passo a passo.",
+          "habit": "Revise sua tendência semanal todo domingo.",
+          "appCta": "Abra o Calorie Bank Credit e confira sua semana hoje."
+        },
+        "hu": {
+          "title": "Vesd meg a mintázatot",
+          "story": "Priya minden vasárnap este rápillantott a heti összegzésre. Idővel észrevett egy mintát: azokban a napokban, amikor kihagyta a reggelit, gyakrabban nassolt munka után. Harag nélkül azonosította a helyzetet, és apró változtatásokat próbált — például gyümölcsöt vagy joghurtot reggelire — majd rögzítette az eredményt. A naplózás láthatóvá tette a mintát, és egyszerű lehetőségeket adott kipróbálásra, lépésről lépésre.",
+          "habit": "Ellenőrizd a heti trendet minden vasárnap.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és nézd át a heted ma."
+        },
+        "ar": {
+          "title": "اكتشف نمطًا واضحًا",
+          "story": "بدأت بريا بمراجعة ملخص الأسبوع كل مساء أحد. مع الوقت لاحظت نمطًا: في الأيام التي تتخطى فيها وجبة الإفطار كانت تميل إلى الوجبات الخفيفة بعد العمل. بدلاً من لوم نفسها استثمرت تلك المعلومة لتجربة تغييرات صغيرة—مثل تناول فاكهة أو زبادي صباحًا—وسجلت النتائج. جعل التتبع هذا النمط مرئيًا ومنحها خيارات بسيطة لتجربتها خطوة بخطوة.",
+          "habit": "راجع اتجاهك الأسبوعي كل يوم أحد.",
+          "appCta": "افتح Calorie Bank Credit وتحقق من أسبوعك اليوم."
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-3-story-notice-patterns-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-3-story-notice-patterns-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Notice a clear pattern.\nStory: Priya began glancing at her weekly summary each Sunday evening. Over time she spotted a pattern: on days she skipped breakfast she tended to snack more after work. Rather than punishing herself, she used that insight to try small changes—like having a fruit or yogurt in the morning—and logged what happened. Tracking made the pattern visible and gave her simple options to try, one step at a time..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-30-motivation-4-story-small-swaps",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Try one small swap",
+          "story": "Liam was curious what a tiny change might do, so he swapped a heavy dressing for a lighter vinaigrette one night and logged both meals. The app made it easy to compare how he felt after each dinner and whether he was still satisfied. It wasn’t about restriction—just noticing effects of small swaps. Logging those dinners helped him build confidence to try other tiny adjustments without pressure.",
+          "habit": "Make one small swap at dinner.",
+          "appCta": "Open Calorie Bank Credit and try tracking a small swap today."
+        },
+        "es": {
+          "title": "Prueba un pequeño cambio",
+          "story": "Liam tenía curiosidad por ver el efecto de un cambio pequeño, así que una noche cambió una salsa pesada por una vinagreta ligera y registró ambas cenas. La app permitió comparar cómo se sentía tras cada comida y si quedaba satisfecho. No se trataba de restricción, sino de observar el efecto de pequeños cambios. Registrar esas cenas le dio confianza para probar otras pequeñas modificaciones sin presiones.",
+          "habit": "Haz un pequeño cambio en la cena.",
+          "appCta": "Abre Calorie Bank Credit y prueba registrar un pequeño cambio hoy."
+        },
+        "ru": {
+          "title": "Попробуйте маленькую замену",
+          "story": "Лиаму было интересно, какой эффект даст небольшая замена: он однажды заменил густой соус на лёгкую винегрет и записал обе трапезы. Приложение помогло сравнить, как он чувствовал себя после каждого ужина и был ли он доволен. Речь не о запретах, а о наблюдении за эффектом мелких замен. Записи придали ему уверенности пробовать другие небольшие изменения без давления.",
+          "habit": "Сделайте одну небольшую замену на ужине.",
+          "appCta": "Откройте Calorie Bank Credit и попробуйте записать небольшую замену сегодня."
+        },
+        "uk": {
+          "title": "Спробуйте маленьку заміну",
+          "story": "Ліам хотів знати, що дасть невелика заміна, тому одного вечора замінив важку заправку на легку вінегрет і записав обидві вечері. Додаток допоміг порівняти, як він почувався після кожної вечері і чи був ситий. Це не про обмеження, а про спостереження за наслідками маленьких змін. Фіксація тих вечерь додала впевненості пробувати інші невеликі корекції без тиску.",
+          "habit": "Зроби одну маленьку заміну за вечерею.",
+          "appCta": "Відкрийте Calorie Bank Credit і спробуйте записати маленьку заміну сьогодні."
+        },
+        "fr": {
+          "title": "Testez un petit changement",
+          "story": "Liam voulait savoir ce qu’un petit changement pouvait apporter : un soir, il a remplacé une sauce lourde par une vinaigrette légère et a enregistré les deux dîners. L’application a permis de comparer son ressenti après chaque repas et s’il était satisfait. Il ne s’agissait pas de restriction, mais d’observer l’effet des petits ajustements. Consigner ces dîners lui a donné la confiance d’essayer d’autres petites modifications sans pression.",
+          "habit": "Fais un petit changement au dîner.",
+          "appCta": "Ouvrez Calorie Bank Credit et essayez d’enregistrer un petit changement aujourd’hui."
+        },
+        "de": {
+          "title": "Probiere einen kleinen Tausch",
+          "story": "Liam war neugierig auf die Wirkung einer kleinen Veränderung, also tauschte er an einem Abend eine schwere Sauce gegen ein leichtes Vinaigrette und protokollierte beide Mahlzeiten. Die App machte den Vergleich einfach: Wie fühlte er sich danach, war er satt? Es ging nicht um Einschränkung, sondern darum, die Wirkung kleiner Änderungen zu beobachten. Das Erfassen dieser Abende gab ihm Vertrauen, weitere kleine Anpassungen ohne Druck auszuprobieren.",
+          "habit": "Mache beim Abendessen einen kleinen Wechsel.",
+          "appCta": "Öffne Calorie Bank Credit und probiere heute, eine kleine Änderung zu protokollieren."
+        },
+        "pt-br": {
+          "title": "Tente uma pequena troca",
+          "story": "Liam tinha curiosidade sobre o efeito de uma mudança pequena, então trocou um molho pesado por uma vinagrete leve em uma noite e registrou as duas refeições. O app facilitou comparar como ele se sentiu após cada jantar e se ficou satisfeito. Não se tratava de restrição, mas de observar o efeito de pequenas trocas. Registrar esses jantares deu confiança para tentar outros ajustes pequenos sem pressão.",
+          "habit": "Faça uma pequena troca no jantar.",
+          "appCta": "Abra o Calorie Bank Credit e experimente registrar uma pequena troca hoje."
+        },
+        "hu": {
+          "title": "Próbálj ki egy apró cserét",
+          "story": "Liam kíváncsi volt, mit hoz egy kis változtatás, így egy este a nehéz öntetet könnyű vinaigrettra cserélte, és mindkét vacsorát rögzítette. Az alkalmazás könnyen összehasonlíthatóvá tette, hogyan érezte magát minden étkezés után, és maradt-e teltségérzete. Nem a megvonásról szólt, hanem az apró cserék hatásának megfigyeléséről. Ezeknek a vacsoráknak a naplózása önbizalmat adott további kis változtatások kipróbálásához, nyomás nélkül.",
+          "habit": "Végezzen egy apró cserét vacsoránál.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és próbálj meg ma rögzíteni egy apró cserét."
+        },
+        "ar": {
+          "title": "جرّب تغييرًا صغيرًا",
+          "story": "كان ليام فضوليًا لمعرفة تأثير تغيير بسيط، فبدّل صوصًا ثقيلًا بفيْناجريت أخفّ في إحدى الليالي وسجّل كلتا الوجبتين. جعل التطبيق المقارنة سهلة: كيف شعر بعد كل عشاء وهل كان راضيًا؟ لم تكن الفكرة حرمانًا، بل ملاحظة أثر التغييرات الصغيرة. ساعده تسجيل تلك العشاءات على اكتساب ثقة لتجربة تعديلات صغيرة أخرى دون ضغط.",
+          "habit": "قم بتغيير صغير في العشاء اليوم.",
+          "appCta": "افتح Calorie Bank Credit وجرب تسجيل تغيير صغير اليوم."
+        }
+      },
+      "generatedAt": "2026-10-30T13:19:35.824Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-4-story-small-swaps-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-30-motivation-4-story-small-swaps-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Try one small swap.\nStory: Liam was curious what a tiny change might do, so he swapped a heavy dressing for a lighter vinaigrette one night and logged both meals. The app made it easy to compare how he felt after each dinner and whether he was still satisfied. It wasn’t about restriction—just noticing effects of small swaps. Logging those dinners helped him build confidence to try other tiny adjustments without pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-29-motivation-1-story-1",
       "category": "calorie-tracking",
