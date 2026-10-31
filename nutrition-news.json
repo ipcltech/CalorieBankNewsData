@@ -1,8 +1,436 @@
 {
-  "generatedAt": "2026-10-30T13:19:35.824Z",
+  "generatedAt": "2026-10-31T12:51:56.253Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "myeloid-immune-cells-play-key-roles-in-aortic-health-and-disease-e8594a5ddd43",
+      "category": "blood vessels and cardiovascular health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261030/Myeloid-immune-cells-play-key-roles-in-aortic-health-and-disease.aspx",
+      "sourceTitle": "Myeloid immune cells play key roles in aortic health and disease",
+      "publishedAt": "Fri, 30 Oct 2026 16:23:21 -0400",
+      "languages": {
+        "en": {
+          "title": "Myeloid immune cells play key roles in aortic health and disease",
+          "summary": "A report describes research implicating myeloid-lineage immune cells in maintaining aortic structure and in processes that contribute to aortic disease. The piece frames the aorta not only as a passive conduit but as tissue influenced by immune-cell activity.",
+          "whyItMatters": "If immune cells influence aortic maintenance and pathology, understanding those mechanisms could point to new biomarkers or therapeutic targets for aortic disease. The article summarizes research findings; translation to clinical practice will require further validation.",
+          "takeaways": [
+            "The aorta's health involves interactions with myeloid immune cells, not just mechanical properties.",
+            "Findings may identify mechanisms underlying aortic disease and potential intervention points.",
+            "The report summarizes research (model details not specified); further preclinical and clinical work is needed before clinical use."
+          ]
+        },
+        "es": {
+          "title": "Las células inmunitarias mieloides desempeñan papeles clave en la salud y enfermedad de la aorta",
+          "summary": "Un informe describe investigaciones que implican a células inmunitarias de linaje mieloide en el mantenimiento de la estructura aórtica y en procesos que contribuyen a la enfermedad aórtica. El texto presenta la aorta no solo como un conducto pasivo, sino como un tejido influido por la actividad de células inmunitarias.",
+          "whyItMatters": "Si las células inmunitarias influyen en el mantenimiento y la patología de la aorta, comprender esos mecanismos podría señalar nuevos biomarcadores o dianas terapéuticas para la enfermedad aórtica. El artículo resume hallazgos de investigación; la traducción a la práctica clínica requerirá validación adicional.",
+          "takeaways": [
+            "La salud de la aorta implica interacciones con células inmunitarias mieloides, no solo propiedades mecánicas.",
+            "Los hallazgos pueden identificar mecanismos subyacentes a la enfermedad aórtica y posibles puntos de intervención.",
+            "El informe resume investigación (no se especifican detalles del modelo); se necesitan más estudios preclínicos y clínicos antes de uso clínico."
+          ]
+        },
+        "ru": {
+          "title": "Клетки миелоидного иммунитета играют ключевую роль в здоровье и заболеваниях аорты",
+          "summary": "В отчёте описывается исследование, связывающее иммунные клетки миелоидной линии с поддержанием структуры аорты и с процессами, способствующими заболеваниям аорты. Статья рассматривает аорту не только как пассивный канал, но и как ткань, на которую влияет активность иммунных клеток.",
+          "whyItMatters": "Если иммунные клетки влияют на поддержание аорты и её патологию, понимание этих механизмов может указать на новые биомаркеры или терапевтические мишени при заболеваниях аорты. Статья обобщает исследовательские данные; для переноса в клинику потребуется дальнейшая валидация.",
+          "takeaways": [
+            "Здоровье аорты включает взаимодействия с миелоидными иммунными клетками, а не только механические характеристики.",
+            "Результаты могут выявить механизмы, лежащие в основе заболеваний аорты, и потенциальные точки вмешательства.",
+            "Отчёт суммирует исследования (детали моделей не указаны); прежде чем применять в клинике, необходимы дополнительные доклинические и клинические исследования."
+          ]
+        },
+        "uk": {
+          "title": "Мієлоїдні імунні клітини відіграють ключову роль у здоров'ї та захворюваннях аорти",
+          "summary": "У репортажі описується дослідження, яке пов'язує імунні клітини мієлоїдного походження з підтримкою структури аорти та процесами, що сприяють патології аорти. Стаття подає аорту не лише як пасивний канал, а як тканину, на яку впливає активність імунних клітин.",
+          "whyItMatters": "Якщо імунні клітини впливають на підтримку аорти та її патологію, розуміння цих механізмів може вказати на нові біомаркери або терапевтичні мішені для захворювань аорти. Стаття узагальнює наукові висновки; для перенесення в клінічну практику потрібна подальша верифікація.",
+          "takeaways": [
+            "Здоров'я аорти включає взаємодію з мієлоїдними імунними клітинами, а не лише механічні властивості.",
+            "Результати можуть виявити механізми, що лежать в основі хвороб аорти, і потенційні точки втручання.",
+            "Репортаж узагальнює дослідницькі результати (деталі моделей не вказані); перш ніж використовувати висновки в клініці, потрібні додаткові доклінічні та клінічні дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Les cellules immunitaires myéloïdes jouent un rôle clé dans la santé et les maladies de l'aorte",
+          "summary": "Un article décrit des recherches impliquant des cellules immunitaires d'origine myéloïde dans le maintien de la structure de l'aorte et dans des processus contribuant aux maladies de l'aorte. Le texte présente l'aorte non seulement comme un conduit passif, mais comme un tissu influencé par l'activité des cellules immunitaires.",
+          "whyItMatters": "Si les cellules immunitaires influencent l'entretien et la pathologie de l'aorte, comprendre ces mécanismes pourrait indiquer de nouveaux biomarqueurs ou cibles thérapeutiques pour les maladies aortiques. L'article résume des résultats de recherche ; leur traduction en pratique clinique nécessitera une validation supplémentaire.",
+          "takeaways": [
+            "La santé de l'aorte implique des interactions avec des cellules immunitaires myéloïdes, pas uniquement des propriétés mécaniques.",
+            "Ces résultats peuvent identifier des mécanismes sous-jacents aux maladies aortiques et des points d'intervention potentiels.",
+            "Le rapport synthétise des travaux de recherche (les détails des modèles ne sont pas précisés) ; des études précliniques et cliniques supplémentaires sont nécessaires avant une application clinique."
+          ]
+        },
+        "de": {
+          "title": "Myeloische Immunzellen spielen eine Schlüsselrolle für die Gesundheit und Erkrankungen der Aorta",
+          "summary": "Ein Bericht beschreibt Forschungsergebnisse, die myeloische Immunzellen bei der Erhaltung der Aortenstruktur und bei Prozessen, die zu Aortenerkrankungen beitragen, in Verbindung bringen. Der Beitrag stellt die Aorta nicht nur als passives Leitungsorgan dar, sondern als Gewebe, das durch Immunzellaktivität beeinflusst wird.",
+          "whyItMatters": "Wenn Immunzellen die Erhaltung und Pathologie der Aorta beeinflussen, könnte das Verständnis dieser Mechanismen auf neue Biomarker oder therapeutische Zielstrukturen für Aortenerkrankungen hinweisen. Der Artikel fasst Forschungsbefunde zusammen; eine Übertragung in die klinische Praxis erfordert weitere Validierung.",
+          "takeaways": [
+            "Die Gesundheit der Aorta beinhaltet Interaktionen mit myeloischen Immunzellen und nicht nur mechanische Eigenschaften.",
+            "Die Ergebnisse könnten Mechanismen aufdecken, die Aortenerkrankungen zugrunde liegen, und mögliche Ansatzpunkte für Interventionen bieten.",
+            "Der Bericht fasst Forschung zusammen (Modellangaben sind nicht spezifiziert); vor einer klinischen Anwendung sind weitere präklinische und klinische Untersuchungen nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Células imunes mieloides desempenham papéis-chave na saúde e nas doenças da aorta",
+          "summary": "Um relatório descreve pesquisas que implicam células imunes da linhagem mieloide na manutenção da estrutura da aorta e em processos que contribuem para doenças da aorta. A matéria enquadra a aorta não apenas como um conduto passivo, mas como um tecido influenciado pela atividade de células imunes.",
+          "whyItMatters": "Se células imunes influenciam a manutenção e a patologia da aorta, entender esses mecanismos pode indicar novos biomarcadores ou alvos terapêuticos para doenças aórticas. O artigo resume achados de pesquisa; a tradução para a prática clínica exigirá validação adicional.",
+          "takeaways": [
+            "A saúde da aorta envolve interações com células imunes mieloides, e não apenas propriedades mecânicas.",
+            "Os achados podem identificar mecanismos subjacentes às doenças da aorta e possíveis pontos de intervenção.",
+            "O relatório resume pesquisa (detalhes dos modelos não especificados); são necessários mais estudos pré-clínicos e clínicos antes do uso clínico."
+          ]
+        },
+        "hu": {
+          "title": "A myeloid eredetű immunsejtek kulcsszerepet játszanak az aorta egészségében és betegségeiben",
+          "summary": "Egy beszámoló olyan kutatásokat ismertet, amelyek a myeloid vonalba tartozó immunsejtek szerepét jelzik az aorta szerkezetének fenntartásában és az aortabetegségek kialakulásában szerepet játszó folyamatokban. A cikk az aortát nem pusztán átvezető csatornaként, hanem az immunsejtek aktivitása által befolyásolt szövetként mutatja be.",
+          "whyItMatters": "Ha az immunsejtek befolyásolják az aorta fenntartását és patológiáját, ezen mechanizmusok megértése új biomarkerekre vagy terápiás célpontokra utalhat az aortabetegségek terén. A cikk kutatási eredményeket foglal össze; klinikai alkalmazáshoz további igazolás szükséges.",
+          "takeaways": [
+            "Az aorta egészsége nemcsak mechanikai tulajdonságoktól függ, hanem kölcsönhatásban áll myeloid immunsejtekkel is.",
+            "Az eredmények feltárhatják azokat a mechanizmusokat, amelyek az aortabetegségek hátterében állnak, és potenciális beavatkozási pontokat jelezhetnek.",
+            "A beszámoló kutatási eredményeket foglal össze (a modellek részletei nincsenek megadva); klinikai alkalmazás előtt további előklinikai és klinikai vizsgálatok szükségesek."
+          ]
+        },
+        "ar": {
+          "title": "خلايا المناعة الميويدية تلعب أدواراً رئيسية في صحة الأبهر والأمراض المرتبطة به",
+          "summary": "تصف تقريراً عن أبحاث تشير إلى أن الخلايا المناعية المنتمية للسلالة الميويدية تساهم في الحفاظ على بنية الأبهر وفي عمليات تسهم في أمراض الأبهر. يعرض المقال الأبهر ليس مجرد قناة سلبية، بل نسيج تتأثر حالته بنشاط الخلايا المناعية.",
+          "whyItMatters": "إذا كانت الخلايا المناعية تؤثر على صيانة الأبهر والمرضاة المرتبطة به، فقد يوجه فهم هذه الآليات إلى مؤشرات حيوية جديدة أو أهداف علاجية لأمراض الأبهر. يلخص المقال نتائج بحثية؛ ولتطبيقها سريرياً يلزم تحقق إضافي.",
+          "takeaways": [
+            "صحة الأبهر تتضمن تفاعلات مع خلايا مناعية ميويدية، وليست مسألة خصائص ميكانيكية فقط.",
+            "قد تكشف النتائج آليات كامنة وراء أمراض الأبهر ونقاط تدخل محتملة.",
+            "التقرير يلخص أبحاثاً (لم تُحدد تفاصيل النماذج)؛ يلزم إجراء المزيد من الدراسات ما قبل السريرية والسريرية قبل الاستخدام السريري."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=myeloid-immune-cells-play-key-roles-in-aortic-health-and-disease-e8594a5ddd43",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/myeloid-immune-cells-play-key-roles-in-aortic-health-and-disease-e8594a5ddd43-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/myeloid-immune-cells-play-key-roles-in-aortic-health-and-disease-e8594a5ddd43-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Myeloid immune cells play key roles in aortic health and disease.\nStory summary: A report describes research implicating myeloid-lineage immune cells in maintaining aortic structure and in processes that contribute to aortic disease. The piece frames the aorta not only as a passive conduit but as tissue influenced by immune-cell activity..\nCategory: blood vessels and cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "dietary-lecithin-linked-to-lower-cognitive-impairment-461a38daa88b",
+      "category": "nutrition; healthy ageing and longevity; neuroscience",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/dietary-lecithin-cognition-aging-32363/",
+      "sourceTitle": "Dietary Lecithin Linked to Lower Cognitive Impairment",
+      "publishedAt": "Fri, 30 Oct 2026 19:15:09 +0000",
+      "languages": {
+        "en": {
+          "title": "Dietary lecithin linked to lower cognitive impairment in older adults (association study)",
+          "summary": "A study of 1,917 older adults combined Montreal Cognitive Assessment (MoCA) testing with targeted lipidomics and found that dietary lecithin and certain polyunsaturated phosphatidylcholine species were associated with lower rates of mild cognitive impairment, with stronger associations in adults with lower education.",
+          "whyItMatters": "The results point to a possible link between dietary lipid components or lipid-related biomarkers and cognitive status in older adults. This is observational evidence of association, not proof that lecithin prevents cognitive decline; intervention trials would be required to test causation.",
+          "takeaways": [
+            "The study reports an association between higher lecithin / polyunsaturated phosphatidylcholine levels and lower prevalence of mild cognitive impairment.",
+            "Findings are observational and do not establish causality; confounding and dietary assessment details matter.",
+            "Results may guide future biomarker research or randomized trials but are not a basis for clinical recommendations."
+          ]
+        },
+        "es": {
+          "title": "La lecitina dietética se asocia con menor deterioro cognitivo en adultos mayores (estudio de asociación)",
+          "summary": "Un estudio con 1.917 adultos mayores combinó la prueba Montreal Cognitive Assessment (MoCA) con lipidómica dirigida y halló que la lecitina dietética y ciertas especies poliinsaturadas de fosfatidilcolina estaban asociadas con menores tasas de deterioro cognitivo leve, con asociaciones más fuertes en adultos con menor nivel educativo.",
+          "whyItMatters": "Los resultados apuntan a una posible relación entre componentes lipídicos dietéticos o biomarcadores lipídicos y el estado cognitivo en adultos mayores. Se trata de evidencia observacional de asociación, no de prueba de que la lecitina prevenga el deterioro cognitivo; para evaluar causalidad serían necesarios ensayos de intervención.",
+          "takeaways": [
+            "El estudio informa una asociación entre niveles más altos de lecitina / fosfatidilcolinas poliinsaturadas y menor prevalencia de deterioro cognitivo leve.",
+            "Los hallazgos son observacionales y no establecen causalidad; los factores de confusión y los detalles de la evaluación dietética son importantes.",
+            "Los resultados pueden orientar futuras investigaciones sobre biomarcadores o ensayos aleatorizados, pero no constituyen una base para recomendaciones clínicas."
+          ]
+        },
+        "ru": {
+          "title": "Диетическая лецитин связана с меньшими когнитивными нарушениями у пожилых взрослых (ассоциативное исследование)",
+          "summary": "Исследование 1 917 пожилых людей сочетало тест Montreal Cognitive Assessment (MoCA) с таргетной липидомикой и обнаружило, что диетический лецитин и некоторые полиненасыщенные виды фосфатидилхолина связаны с более низкой частотой лёгких когнитивных нарушений, при этом связь была сильнее у людей с более низким уровнем образования.",
+          "whyItMatters": "Результаты указывают на возможную связь между диетическими липидными компонентами или липидными биомаркерами и когнитивным статусом у пожилых людей. Это наблюдательные данные об ассоциации, а не доказательство того, что лецитин предотвращает когнитивный спад; для проверки причинно-следственной связи нужны интервенционные исследования.",
+          "takeaways": [
+            "Исследование сообщает об ассоциации между более высокими уровнями лецитина / полиненасыщенных фосфатидилхолинов и более низкой распространённостью лёгких когнитивных нарушений.",
+            "Результаты наблюдательные и не устанавливают причинности; важны возможные смешивающие факторы и детали оценки питания.",
+            "Результаты могут направить будущие исследования биомаркеров или рандомизированные испытания, но не являются основанием для клинических рекомендаций."
+          ]
+        },
+        "uk": {
+          "title": "Дієтичний лецитин пов'язаний з нижчою частотою когнітивних порушень у літніх дорослих (дослідження асоціації)",
+          "summary": "Дослідження за участі 1 917 літніх людей поєднало тестування за Montreal Cognitive Assessment (MoCA) і таргетну ліпідоміку та виявило, що дієтичний лецитин і певні поліненасичені види фосфатидилхоліну були асоційовані з нижчим рівнем легкого когнітивного порушення, причому асоціації були сильнішими в дорослих із нижчим рівнем освіти.",
+          "whyItMatters": "Результати вказують на можливий зв'язок між дієтичними ліпідними компонентами або ліпід‑пов’язаними біомаркерами й когнітивним станом літніх людей. Це спостережні докази асоціації, а не доказ того, що лецитин запобігає когнітивному зниженню; для встановлення причинності потрібні інтервенційні випробування.",
+          "takeaways": [
+            "Дослідження повідомляє про асоціацію між вищими рівнями лецитину / поліненасичених фосфатидилхолінів і нижчою поширеністю легкого когнітивного порушення.",
+            "Результати є спостережними і не встановлюють причинно-наслідковий зв'язок; можуть бути впливи змішування та питання оцінки харчування.",
+            "Ці дані можуть спрямувати подальші дослідження біомаркерів або рандомізовані випробування, але не є підставою для клінічних рекомендацій."
+          ]
+        },
+        "fr": {
+          "title": "Le lécithine alimentaire associé à une moindre déficience cognitive chez les personnes âgées (étude d'association)",
+          "summary": "Une étude portant sur 1 917 personnes âgées a combiné le Montreal Cognitive Assessment (MoCA) et une lipidomique ciblée et a trouvé que la lécithine alimentaire et certaines espèces de phosphatidylcholine polyinsaturée étaient associées à des taux plus faibles de troubles cognitifs légers, avec des associations plus fortes chez les adultes ayant un niveau d'éducation plus faible.",
+          "whyItMatters": "Les résultats indiquent un lien possible entre des composants lipidiques alimentaires ou des biomarqueurs liés aux lipides et le statut cognitif des personnes âgées. Il s'agit de preuves observationnelles d'association, et non d'une preuve que la lécithine prévient le déclin cognitif ; des essais d'intervention seraient nécessaires pour tester la causalité.",
+          "takeaways": [
+            "L'étude rapporte une association entre des niveaux plus élevés de lécithine / phosphatidylcholines polyinsaturées et une moindre prévalence de troubles cognitifs légers.",
+            "Ces résultats sont observationnels et n'établissent pas la causalité ; des facteurs de confusion et les modalités d'évaluation diététique sont importants.",
+            "Les résultats peuvent orienter la recherche future sur les biomarqueurs ou les essais randomisés, mais ne constituent pas une base pour des recommandations cliniques."
+          ]
+        },
+        "de": {
+          "title": "Ernährungs-Lecithin mit geringerer kognitiver Beeinträchtigung bei älteren Erwachsenen verknüpft (Assoziationsstudie)",
+          "summary": "Eine Studie mit 1.917 älteren Erwachsenen kombinierte Montreal Cognitive Assessment (MoCA)-Tests mit zielgerichtetem Lipidomik-Analysen und fand, dass Ernährungs‑Lecithin und bestimmte mehrfach ungesättigte Phosphatidylcholin‑Arten mit niedrigeren Raten leichter kognitiver Beeinträchtigung assoziiert waren, wobei die Assoziationen bei Erwachsenen mit geringerem Bildungsniveau stärker waren.",
+          "whyItMatters": "Die Ergebnisse deuten auf einen möglichen Zusammenhang zwischen diätetischen Lipidkomponenten oder lipidbezogenen Biomarkern und dem kognitiven Status älterer Erwachsener hin. Dies ist Beobachtungs‑evidence für eine Assoziation und kein Beweis dafür, dass Lecithin kognitiven Abbau verhindert; Interventionsstudien wären erforderlich, um Kausalität zu prüfen.",
+          "takeaways": [
+            "Die Studie berichtet über eine Assoziation zwischen höheren Lecithin-/polyungesättigten Phosphatidylcholin‑Werten und geringerer Prävalenz leichter kognitiver Beeinträchtigung.",
+            "Die Befunde sind beobachtend und begründen keine Kausalität; Confounding und Details zur Ernährungsbeurteilung sind wichtig.",
+            "Die Ergebnisse können künftige Biomarkerforschung oder randomisierte Studien informieren, sind aber keine Grundlage für klinische Empfehlungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Lecitina dietética relacionada a menor comprometimento cognitivo em idosos (estudo de associação)",
+          "summary": "Um estudo com 1.917 idosos combinou testes do Montreal Cognitive Assessment (MoCA) com lipidômica direcionada e encontrou que lecitina dietética e certas espécies poli-insaturadas de fosfatidilcolina estavam associadas a taxas mais baixas de comprometimento cognitivo leve, com associações mais fortes em adultos com menor escolaridade.",
+          "whyItMatters": "Os resultados apontam para uma possível ligação entre componentes lipídicos da dieta ou biomarcadores relacionados a lipídios e o estado cognitivo em idosos. Trata‑se de evidência observacional de associação, não de prova de que a lecitina previne o declínio cognitivo; ensaios de intervenção seriam necessários para testar causalidade.",
+          "takeaways": [
+            "O estudo relata uma associação entre níveis mais altos de lecitina/espécies poli‑insaturadas de fosfatidilcolina e menor prevalência de comprometimento cognitivo leve.",
+            "Os achados são observacionais e não estabelecem causalidade; fatores de confusão e detalhes da avaliação dietética são relevantes.",
+            "Os resultados podem orientar pesquisas futuras sobre biomarcadores ou ensaios randomizados, mas não constituem base para recomendações clínicas."
+          ]
+        },
+        "hu": {
+          "title": "A diétás lecitin összefüggést mutatott az enyhébb kognitív károsodással időseknél (asszociációs tanulmány)",
+          "summary": "Egy 1 917 idős felnőttet vizsgáló tanulmány a Montreal Cognitive Assessment (MoCA) tesztet célzott lipidomikai mérésekkel kombinálta, és azt találta, hogy a diétás lecitin és bizonyos többszörösen telítetlen foszfatidilkolin‑típusok alacsonyabb enyhe kognitív károsodás előfordulásával voltak társíthatók, különösen alacsonyabb iskolai végzettségű résztvevők között.",
+          "whyItMatters": "Az eredmények arra utalnak, hogy bizonyos diétás lipidek vagy lipiddel kapcsolatos biomarkerek összefüggésbe hozhatók az idős felnőttek kognitív állapotával. Ez megfigyeléses bizonyíték az összefüggésre, nem bizonyíték arra, hogy a lecitin megelőzi a kognitív hanyatlást; oksági vizsgálathoz intervenciós kísérletek szükségesek.",
+          "takeaways": [
+            "A tanulmány kapcsolatot jelzett a magasabb lecitin-/többszörösen telítetlen foszfatidilkolin‑szintek és az enyhe kognitív károsodás alacsonyabb előfordulása között.",
+            "Az eredmények megfigyelésesek és nem állapítanak meg okságot; befolyásoló tényezők és a táplálkozási adatok pontossága számít.",
+            "Az eredmények iránymutatóak lehetnek biomarker‑kutatás vagy randomizált kísérletek számára, de nem alapoznak klinikai ajánlásra."
+          ]
+        },
+        "ar": {
+          "title": "الليسيثين الغذائي مرتبط بانخفاض الخلل الإدراكي لدى كبار السن (دراسة ارتباطية)",
+          "summary": "جمعَت دراسة شملت 1917 من كبار السن اختبار Montreal Cognitive Assessment (MoCA) مع قياسات لِبِيدومية مستهدفة، ووجدت أن الليسيثين الغذائي وبعض أنواع الفوسفاتيديلكولين متعدد غير المشبعة ارتبطت بمعدلات أقل من الخلل الإدراكي الطفيف، مع ارتباطات أقوى لدى البالغين ذوي التعليم المنخفض.",
+          "whyItMatters": "تشير النتائج إلى صلة محتملة بين مكونات دهنية غذائية أو مؤشرات حيوية مرتبطة بالدهون والحالة الإدراكية لدى كبار السن. هذه أدلة رصدية عن ارتباط، وليست إثباتاً بأن الليسيثين يمنع تدهور الإدراك؛ لاختبار السببية يلزم تنفيذ تجارب تدخلية.",
+          "takeaways": [
+            "أبلغت الدراسة عن ارتباط بين مستويات أعلى من الليسيثين/الفوسفاتيديلكولين متعدد غير المشبع وانتشار أقل للخلل الإدراكي الطفيف.",
+            "النتائج رصدية ولا تثبت السببية؛ عوامل الخلط وتفاصيل تقييم النظام الغذائي ذات أهمية.",
+            "قد توجّه النتائج أبحاث المؤشرات الحيوية المستقبلية أو التجارب العشوائية، لكنها ليست أساساً لتوصيات سريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=dietary-lecithin-linked-to-lower-cognitive-impairment-461a38daa88b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dietary-lecithin-linked-to-lower-cognitive-impairment-461a38daa88b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/dietary-lecithin-linked-to-lower-cognitive-impairment-461a38daa88b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Dietary lecithin linked to lower cognitive impairment in older adults (association study).\nStory summary: A study of 1,917 older adults combined Montreal Cognitive Assessment (MoCA) testing with targeted lipidomics and found that dietary lecithin and certain polyunsaturated phosphatidylcholine species were associated with lower rates of mild cognitive impairment, with stronger associations in adults with lower education..\nCategory: nutrition; healthy ageing and longevity; neuroscience.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "an-anti-senescence-vaccine-increases-mouse-lifespan-f9c58cf60bd7",
+      "category": "healthy ageing and longevity; regeneration",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/an-anti-senescence-vaccine-increases-mouse-lifespan/",
+      "sourceTitle": "An Anti-Senescence Vaccine Increases Mouse Lifespan",
+      "publishedAt": "Fri, 30 Oct 2026 16:49:52 +0000",
+      "languages": {
+        "en": {
+          "title": "Anti-senescence vaccine reported to increase median lifespan in mice (preclinical)",
+          "summary": "A preclinical report describes late-life treatment of female B6 mice with a three-component senolytic vaccine, which was associated with reduced senescence markers and a reported 12% increase in median lifespan compared with controls.",
+          "whyItMatters": "This is a proof-of-concept animal study suggesting immune-targeted approaches to clear senescent cells might affect healthspan or lifespan in mice. Such findings are preliminary and do not indicate safety or efficacy in humans without extensive further testing.",
+          "takeaways": [
+            "The intervention was tested in mice and showed a modest median lifespan increase and lower senescence markers in that model.",
+            "Animal results do not directly translate to humans; replication, dose-finding, and safety studies are required.",
+            "The report illustrates a growing preclinical research area targeting cellular senescence as a route to influence ageing."
+          ]
+        },
+        "es": {
+          "title": "Vacuna anti-senescencia informada que aumenta la mediana de vida en ratones (preclínico)",
+          "summary": "Un informe preclínico describe el tratamiento en etapas tardías de hembras de ratón B6 con una vacuna senolítica de tres componentes, asociado con marcadores de senescencia reducidos y un aumento reportado del 12% en la mediana de vida en comparación con controles.",
+          "whyItMatters": "Este es un estudio de prueba de concepto en animales que sugiere que enfoques inmunitarios dirigidos a eliminar células senescentes podrían afectar la salud o la longevidad en ratones. Tales hallazgos son preliminares y no indican seguridad ni eficacia en humanos sin pruebas extensas adicionales.",
+          "takeaways": [
+            "La intervención se probó en ratones y mostró un aumento modesto de la mediana de vida y reducción de marcadores de senescencia en ese modelo.",
+            "Los resultados en animales no se traducen directamente a humanos; se requieren estudios de replicación, determinación de dosis y seguridad.",
+            "El informe ilustra un área de investigación preclínica en crecimiento que apunta a la senescencia celular como posible vía para influir en el envejecimiento."
+          ]
+        },
+        "ru": {
+          "title": "Анти-сенесцентная вакцина, сообщается, увеличила медиану продолжительности жизни у мышей (доклиническое исследование)",
+          "summary": "Доклиническая работа описывает лечение в позднем возрасте самок мышей линии B6 трёхкомпонентной сенолитической вакциной, что было связано с уменьшением маркеров сенесценции и сообщаемым увеличением медианы продолжительности жизни на 12% по сравнению с контролем.",
+          "whyItMatters": "Это исследование доказательства принципа на животных, указывающее, что иммунно-направленные подходы к удалению сенесцентных клеток могут влиять на здоровье или продолжительность жизни у мышей. Такие результаты предварительны и не свидетельствуют о безопасности или эффективности у людей без обширных дальнейших испытаний.",
+          "takeaways": [
+            "Вмешательство протестировано на мышах и показало умеренное увеличение медианы жизни и снижение маркеров сенесценции в этой модели.",
+            "Результаты животных не переносятся напрямую на человека; нужны репликация, подбор доз и исследования безопасности.",
+            "Отчёт демонстрирует растущую доклиническую область исследований, нацеленную на клеточную сенесценцию как путь воздействия на старение."
+          ]
+        },
+        "uk": {
+          "title": "Анти‑сенесцентна вакцина, про яку повідомляють, що збільшує медіанну тривалість життя мишей (доклінічне дослідження)",
+          "summary": "Доклінічний звіт описує пізнє лікування самиць мишей лінії B6 трьома компонентами сенолітичної вакцини; це пов'язували зі зниженням маркерів сенесценції та повідомленим збільшенням медіанної тривалості життя на 12% порівняно з контролем.",
+          "whyItMatters": "Це підтвердження концепції в тваринній моделі, яке свідчить, що імунно‑орієнтовані підходи для видалення сенесцентних клітин можуть впливати на тривалість здорового життя або тривалість життя у мишей. Такі результати є попередніми і не свідчать про безпеку чи ефективність у людей без значно більш докладних досліджень.",
+          "takeaways": [
+            "Інтервенцію тестували в мишах і зафіксували помірне збільшення медіанної тривалості життя та зниження маркерів сенесценції в цій моделі.",
+            "Результати тваринних досліджень не переносяться безпосередньо на людей; потрібні відтворення, визначення доз та дослідження безпеки.",
+            "Звіт ілюструє зростаючу доклінічну галузь досліджень, спрямованих на клітинну сенесценцію як шлях впливу на старіння."
+          ]
+        },
+        "fr": {
+          "title": "Un vaccin anti-sénescence rapporté pour augmenter la durée de vie médiane chez la souris (préclinique)",
+          "summary": "Un rapport préclinique décrit un traitement en fin de vie de femelles de souris B6 avec un vaccin sénolytique à trois composants, associé à une réduction des marqueurs de sénescence et à une augmentation rapportée de 12 % de la durée de vie médiane par rapport aux témoins.",
+          "whyItMatters": "Il s'agit d'une preuve de concept en modèle animal suggérant que des approches immunitaires ciblées pour éliminer les cellules sénescentes pourraient affecter la durée de vie en bonne santé ou la longévité chez la souris. Ces résultats sont préliminaires et n'indiquent pas la sécurité ou l'efficacité chez l'humain sans des tests supplémentaires approfondis.",
+          "takeaways": [
+            "L'intervention a été testée chez la souris et a montré une augmentation modeste de la durée de vie médiane et une diminution des marqueurs de sénescence dans ce modèle.",
+            "Les résultats animaux ne se traduisent pas directement chez l'humain ; il faut des réplications, des études de posologie et des évaluations de sécurité.",
+            "Le rapport illustre un domaine préclinique croissant visant la sénescence cellulaire comme voie d'intervention contre le vieillissement."
+          ]
+        },
+        "de": {
+          "title": "Bericht: Anti‑Seneszenz‑Impfstoff erhöht die mediane Lebensspanne von Mäusen (präklinisch)",
+          "summary": "Ein präklinischer Bericht beschreibt eine Behandlung älterer weiblicher B6‑Mäuse mit einem dreikomponentigen senolytischen Impfstoff, die mit reduzierten Seneszenzmarkern und einer berichteten 12%igen Erhöhung der medianen Lebensspanne im Vergleich zu Kontrolltieren verbunden war.",
+          "whyItMatters": "Dies ist eine Machbarkeitsstudie an Tieren, die nahelegt, dass immungezielte Ansätze zum Entfernen seneszenter Zellen die Gesundheitsdauer oder Lebensspanne von Mäusen beeinflussen könnten. Solche Befunde sind vorläufig und sagen nichts über Sicherheit oder Wirksamkeit beim Menschen ohne umfangreiche weitere Tests aus.",
+          "takeaways": [
+            "Die Intervention wurde in Mäusen getestet und zeigte in diesem Modell eine moderate Erhöhung der medianen Lebensdauer sowie niedrigere Seneszenzmarker.",
+            "Tierbefunde lassen sich nicht direkt auf Menschen übertragen; Replikation, Dosisfindung und Sicherheitsstudien sind erforderlich.",
+            "Der Bericht veranschaulicht ein wachsendes präklinisches Forschungsfeld, das zelluläre Seneszenz als Ziel zur Beeinflussung des Alterns untersucht."
+          ]
+        },
+        "pt-br": {
+          "title": "Vacina anti‑senescência relatada como aumentadora da mediana de vida em camundongos (pré‑clínico)",
+          "summary": "Um relatório pré‑clínico descreve tratamento em idade avançada de camundongas fêmeas B6 com uma vacina senolítica de três componentes, que foi associado a marcadores de senescência reduzidos e a um aumento reportado de 12% na mediana de vida em comparação com controles.",
+          "whyItMatters": "Este é um estudo de prova de conceito em animais que sugere que abordagens imuno‑direcionadas para remover células senescentes podem afetar a saúde ou a longevidade em camundongos. Esses achados são preliminares e não indicam segurança ou eficácia em humanos sem testes adicionais extensivos.",
+          "takeaways": [
+            "A intervenção foi testada em camundongos e mostrou um aumento modesto na mediana de vida e marcadores de senescência mais baixos nesse modelo.",
+            "Resultados animais não se traduzem diretamente para humanos; são necessárias replicação, estudos de dose e segurança.",
+            "O relatório ilustra uma área crescente de pesquisa pré‑clínica que mira a senescência celular como via para influenciar o envelhecimento."
+          ]
+        },
+        "hu": {
+          "title": "Szeneszcencia‑ellenes vakcináról számoltak be, amely növelte az egerek medián élettartamát (preklinikai)",
+          "summary": "Egy előklinikai beszámoló szerint idős korban kezelt nőstény B6 egerekben egy háromkomponensű szenolitikus vakcina alkalmazása csökkentett szeneszcencia‑jelzőket, és a kontrollokhoz képest körülbelül 12%-os medián élettartam‑növekedéssel járt.",
+          "whyItMatters": "Ez egy fogalom‑bizonyító állatkísérlet, amely azt sugallja, hogy az immuncélzott megközelítések a szeneszcens sejtek eltávolítására befolyásolhatják az egészség‑ vagy élettartamot egerekben. Az ilyen eredmények előzetesek, és emberi alkalmazhatóságra vonatkozó biztonságossági és hatékonysági következtetésekhez jelentős további vizsgálatok szükségesek.",
+          "takeaways": [
+            "A beavatkozást egerekben tesztelték; a modellben mérsékelt medián élettartam‑növekedést és alacsonyabb szeneszcencia‑jelzőket mutattak.",
+            "Az állati eredmények nem fordíthatók közvetlenül emberekre; replikáció, dózis‑feltárás és biztonsági vizsgálatok szükségesek.",
+            "A beszámoló azt a növekvő előklinikai kutatási irányt illusztrálja, amely a sejtes szeneszcencia célzását vizsgálja az öregedés befolyásolására."
+          ]
+        },
+        "ar": {
+          "title": "تقرير عن لقاح مضاد للتشيخ الخلوي يزيد العمر الوسيط للفئران (دراسة ما قبل سريرية)",
+          "summary": "تصف دراسة ما قبل سريرية معالجةً في مرحلة متأخرة من الحياة لأناث فئران B6 بلقاح سنوليتك مكوّن من ثلاثة عناصر، والذي ارتبط بانخفاض مؤشرات التشيخ الخلوي وزيادة مُبلَّغ عنها بنسبة ~12% في العمر الوسيط مقارنةً بالمجموعات الضابطة.",
+          "whyItMatters": "تعد هذه دراسة إثبات مبدأ على الحيوانات تشير إلى أن النهج المناعي المستهدف لإزالة الخلايا المتشيخة قد يؤثر على مدة الصحة أو العمر في الفئران. مثل هذه النتائج أولية ولا تدل على السلامة أو الفاعلية لدى البشر دون اختبارات إضافية واسعة النطاق.",
+          "takeaways": [
+            "اختُبر التدخل على الفئران وأظهر زيادة متواضعة في العمر الوسيط وانخفاض مؤشرات التشيخ في ذلك النموذج.",
+            "نتائج الحيوانات لا تنتقل مباشرة إلى البشر؛ يلزم التكرار وتحديد الجرعة ودراسات السلامة.",
+            "التقرير يبرز مجالاً متنامياً من البحوث قبل السريرية الذي يستهدف التشيخ الخلوي كطريق للتأثير على الشيخوخة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=an-anti-senescence-vaccine-increases-mouse-lifespan-f9c58cf60bd7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/an-anti-senescence-vaccine-increases-mouse-lifespan-f9c58cf60bd7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/an-anti-senescence-vaccine-increases-mouse-lifespan-f9c58cf60bd7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Anti-senescence vaccine reported to increase median lifespan in mice (preclinical).\nStory summary: A preclinical report describes late-life treatment of female B6 mice with a three-component senolytic vaccine, which was associated with reduced senescence markers and a reported 12% increase in median lifespan compared with controls..\nCategory: healthy ageing and longevity; regeneration.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "should-ai-replace-doctors-a-conversation-with-zeke-emanuel-7059dae8ec8a",
+      "category": "AI in medicine; policy and ethics",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/opinion/faustfiles/123660",
+      "sourceTitle": "Should AI Replace Doctors? A Conversation With Zeke Emanuel",
+      "publishedAt": "Fri, 30 Oct 2026 11:31:28 -0400",
+      "languages": {
+        "en": {
+          "title": "Webinar discussion on AI's role in medicine with bioethicist Zeke Emanuel",
+          "summary": "MedPage Today's webinar features Ezekiel J. Emanuel discussing arguments about whether AI should displace or augment physicians. The program is a conversation on the ethical, practical, and policy dimensions of introducing AI into healthcare.",
+          "whyItMatters": "Debates about AI's role affect clinical workflows, patient safety, and how new tools are evaluated and regulated. This is an expert discussion rather than empirical research on AI performance in clinical tasks.",
+          "takeaways": [
+            "The content is a webinar/opinion-format discussion focusing on ethical and practical issues of AI in medicine.",
+            "It addresses broad questions about replacing versus augmenting clinicians and the implications for care delivery.",
+            "Insights can inform policy and professional debate but do not substitute for clinical validation studies of specific AI tools."
+          ]
+        },
+        "es": {
+          "title": "Seminario web sobre el papel de la IA en la medicina con el bioeticista Zeke Emanuel",
+          "summary": "El seminario web de MedPage Today presenta a Ezekiel J. Emanuel discutiendo argumentos sobre si la IA debe desplazar o ampliar el trabajo de los médicos. El programa es una conversación sobre las dimensiones éticas, prácticas y de política al introducir la IA en la atención sanitaria.",
+          "whyItMatters": "Los debates sobre el papel de la IA afectan los flujos de trabajo clínicos, la seguridad del paciente y la forma en que se evalúan y regulan las nuevas herramientas. Esto es una discusión de expertos y no una investigación empírica sobre el rendimiento de la IA en tareas clínicas.",
+          "takeaways": [
+            "Se trata de un seminario web/formato de opinión que se centra en cuestiones éticas y prácticas sobre la IA en medicina.",
+            "Aborda preguntas generales sobre reemplazar frente a ampliar la labor de los clínicos y las implicaciones para la prestación de atención.",
+            "Las ideas pueden informar la política y el debate profesional, pero no sustituyen estudios de validación clínica de herramientas de IA concretas."
+          ]
+        },
+        "ru": {
+          "title": "Вебинар о роли ИИ в медицине с биоэтиком Зиком Эмануэлем",
+          "summary": "Вебинар MedPage Today с участием Ezekiel J. Emanuel обсуждает аргументы о том, должен ли ИИ вытеснять врачей или дополнять их. Программа представляет собой беседу об этических, практических и нормативных аспектах внедрения ИИ в здравоохранение.",
+          "whyItMatters": "Дебаты о роли ИИ влияют на клинические рабочие процессы, безопасность пациентов и то, как новые инструменты оцениваются и регулируются. Это экспертная дискуссия, а не эмпирическое исследование производительности ИИ в клинических задачах.",
+          "takeaways": [
+            "Контент — это вебинар/мнение, сосредоточенное на этических и практических вопросах применения ИИ в медицине.",
+            "Обсуждаются общие вопросы о замене versus дополнении врачей и последствия для организации ухода.",
+            "Выводы могут информировать политику и профессиональные обсуждения, но не заменяют клинические исследования валидации конкретных ИИ-инструментов."
+          ]
+        },
+        "uk": {
+          "title": "Вебінар про роль ШІ в медицині з біоетиком Езекіелем Дж. Еммануелем",
+          "summary": "Вебінар MedPage Today за участю Езекіеля Дж. Еммануеля обговорює аргументи щодо того, чи має ШІ витісняти чи доповнювати лікарів. Програма — це розмова про етичні, практичні та політичні виміри впровадження ШІ в охорону здоров'я.",
+          "whyItMatters": "Дискусії про роль ШІ впливають на робочі процеси в клініці, безпеку пацієнтів та те, як оцінюють і регулюють нові інструменти. Це експертна розмова, а не емпіричне дослідження продуктивності ШІ у клінічних завданнях.",
+          "takeaways": [
+            "Зміст має формат вебінару/думки і зосереджений на етичних та практичних питаннях застосування ШІ в медицині.",
+            "Обговорюється широка проблема заміни проти доповнення клініцистів і наслідки для організації медичної допомоги.",
+            "Уваги з вебінару можуть інформувати політику та професійну дебату, але не замінюють клінічні валідаційні дослідження конкретних інструментів ШІ."
+          ]
+        },
+        "fr": {
+          "title": "Webinaire sur le rôle de l'IA en médecine avec le bioéthicien Ezekiel J. Emanuel",
+          "summary": "Le webinaire de MedPage Today présente Ezekiel J. Emanuel discutant des arguments sur la question de savoir si l'IA doit remplacer ou compléter les médecins. Le programme est une conversation sur les dimensions éthiques, pratiques et politiques de l'introduction de l'IA dans les soins de santé.",
+          "whyItMatters": "Les débats sur le rôle de l'IA affectent les flux de travail cliniques, la sécurité des patients et la manière dont les nouveaux outils sont évalués et réglementés. Il s'agit d'une discussion d'experts et non d'une recherche empirique sur les performances de l'IA dans des tâches cliniques.",
+          "takeaways": [
+            "Le contenu est un webinaire/de format opinion centré sur les enjeux éthiques et pratiques de l'IA en médecine.",
+            "Il aborde la question large du remplacement versus l'augmentation des cliniciens et les implications pour l'organisation des soins.",
+            "Les éléments de réflexion peuvent éclairer les débats politiques et professionnels, mais ne se substituent pas aux études de validation clinique d'outils d'IA spécifiques."
+          ]
+        },
+        "de": {
+          "title": "Webinar zur Rolle von KI in der Medizin mit dem Bioethiker Zeke Emanuel",
+          "summary": "MedPage Today veranstaltete ein Webinar mit Ezekiel J. Emanuel, in dem Argumente dazu diskutiert wurden, ob KI Ärztinnen und Ärzte verdrängen oder sie ergänzen sollte. Das Programm ist ein Gespräch über ethische, praktische und politische Dimensionen der Einführung von KI im Gesundheitswesen.",
+          "whyItMatters": "Debatten über die Rolle von KI beeinflussen klinische Arbeitsabläufe, Patientensicherheit und wie neue Werkzeuge bewertet und reguliert werden. Dies ist eine Experten‑Diskussion und keine empirische Untersuchung zur Leistungsfähigkeit von KI‑Systemen bei klinischen Aufgaben.",
+          "takeaways": [
+            "Der Inhalt ist ein Webinar/Meinungsformat, das sich auf ethische und praktische Fragen zur KI in der Medizin konzentriert.",
+            "Es behandelt grundlegende Fragen zum Ersetzen versus Ergänzen von Klinikerinnen und Klinikern und die Auswirkungen auf die Versorgung.",
+            "Die Einsichten können Politik und professionelle Debatten informieren, ersetzen aber keine klinischen Validierungsstudien zu spezifischen KI‑Tools."
+          ]
+        },
+        "pt-br": {
+          "title": "Webinar sobre o papel da IA na medicina com o bioeticista Zeke Emanuel",
+          "summary": "O webinar do MedPage Today apresenta Ezekiel J. Emanuel discutindo argumentos sobre se a IA deveria substituir ou aumentar o trabalho dos médicos. O programa é uma conversa sobre as dimensões éticas, práticas e de política pública da introdução da IA na saúde.",
+          "whyItMatters": "Debates sobre o papel da IA afetam fluxos de trabalho clínicos, segurança do paciente e a forma como novas ferramentas são avaliadas e regulamentadas. Trata‑se de uma discussão de especialistas, não de pesquisa empírica sobre o desempenho da IA em tarefas clínicas.",
+          "takeaways": [
+            "O conteúdo é um formato de webinar/opinião que foca em questões éticas e práticas da IA na medicina.",
+            "Aborda perguntas amplas sobre substituir versus ampliar o trabalho dos clínicos e as implicações para a prestação de cuidados.",
+            "Os insights podem informar políticas e debates profissionais, mas não substituem estudos de validação clínica de ferramentas específicas de IA."
+          ]
+        },
+        "hu": {
+          "title": "Webinár‑beszélgetés az AI orvosi szerepéről Zeke Emanuellel",
+          "summary": "A MedPage Today webinárja Ezekiel J. Emanuel részvételével vitatja, hogy a mesterséges intelligencia elmozdíthatja‑e vagy kiegészítheti az orvosokat. A műsor az etikai, gyakorlati és szabályozási dimenziókat járja körül az egészségügybe történő AI‑bevezetés kapcsán.",
+          "whyItMatters": "Az AI szerepéről folyó viták befolyásolják a klinikai munkafolyamatokat, a betegbiztonságot és azt, hogyan értékelik és szabályozzák az új eszközöket. Ez szakértői beszélgetés, nem empirikus kutatás az AI klinikai teljesítményéről.",
+          "takeaways": [
+            "A tartalom egy webinár/opinió formátumú beszélgetés, amely az AI etikai és gyakorlati kérdéseire összpontosít az orvostudományban.",
+            "Témája a klinikusok helyettesítése versus kiegészítése és ennek következményei az ellátásszolgáltatásra.",
+            "A meglátások támpontként szolgálhatnak a politika és szakmai viták számára, de nem helyettesítik az egyes AI‑eszközök klinikai validációs vizsgálatait."
+          ]
+        },
+        "ar": {
+          "title": "نقاش عبر الويب حول دور الذكاء الاصطناعي في الطب مع زيك إيمانويل",
+          "summary": "تستضيف MedPage Today ندوة عبر الويب يشارك فيها Ezekiel J. Emanuel لمناقشة الحجج حول ما إذا كان يجب أن يحل الذكاء الاصطناعي محل الأطباء أو أن يُكمّلهم. البرنامج حوار حول الأبعاد الأخلاقية والعملية والسياساتية لإدخال الذكاء الاصطناعي إلى الرعاية الصحية.",
+          "whyItMatters": "تلقي المناقشات حول دور الذكاء الاصطناعي تأثيراً على سير العمل السريري وسلامة المرضى وكيفية تقييم وتنظيم الأدوات الجديدة. هذا نقاش لخبير وليس بحثاً تجريبياً حول أداء الذكاء الاصطناعي في مهام سريرية.",
+          "takeaways": [
+            "المحتوى عبارة عن ندوة/نقاش رأي يركز على القضايا الأخلاقية والعملية للذكاء الاصطناعي في الطب.",
+            "يتناول أسئلة عامة حول استبدال الأطباء مقابل تكاملهم والتبعات على تقديم الرعاية.",
+            "يمكن أن تُثري الرؤى الحوار السياسي والمهني لكنها لا تُغني عن دراسات التحقق السريري للأدوات المحددة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=should-ai-replace-doctors-a-conversation-with-zeke-emanuel-7059dae8ec8a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/should-ai-replace-doctors-a-conversation-with-zeke-emanuel-7059dae8ec8a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/should-ai-replace-doctors-a-conversation-with-zeke-emanuel-7059dae8ec8a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Webinar discussion on AI's role in medicine with bioethicist Zeke Emanuel.\nStory summary: MedPage Today's webinar features Ezekiel J. Emanuel discussing arguments about whether AI should displace or augment physicians. The program is a conversation on the ethical, practical, and policy dimensions of introducing AI into healthcare..\nCategory: AI in medicine; policy and ethics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a-proof-of-concept-test-can-spot-bladder-cancer-in-urine-e9a81ca53ec8",
       "category": "cancer detection",
@@ -216,6 +644,220 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Intensive diet and exercise programme led to remission in many younger adults with type 2 diabetes.\nStory summary: A study reports that 54% of participants under age 45 who followed an intensive low-calorie diet combined with structured exercise achieved type 2 diabetes remission after six months, compared with 4% receiving usual care..\nCategory: diabetes & lifestyle.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-new-framework-for-safe-patient-centered-prescribing-of-obesity--77322d01eb3b",
+      "category": "healthy ageing and longevity; clinical practice",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-framework-safe-patient-centered-obesity.html",
+      "sourceTitle": "A new framework for safe, patient-centered prescribing of obesity medications in older adults",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:05 EDT",
+      "languages": {
+        "en": {
+          "title": "American Geriatrics Society issues framework for prescribing obesity medications in older adults",
+          "summary": "The American Geriatrics Society released a case-based framework to help clinicians prescribe obesity medications in older adults. The framework covers practical considerations for older patients, including assessment, monitoring, and use of GLP‑1 receptor agonists and other agents.",
+          "whyItMatters": "Older adults were underrepresented in many trials of newer obesity drugs. A clinician-focused framework can support individualized, safer prescribing and monitoring, but it is guidance rather than new trial evidence and should be applied alongside clinical judgment and patient preferences.",
+          "takeaways": [
+            "The framework is a practical, case-based guide to help clinicians weigh risks and benefits of obesity medications in older adults.",
+            "It addresses assessment and monitoring considerations and includes discussion of GLP‑1 receptor agonists.",
+            "This is guidance, not new efficacy data; clinicians should individualize decisions and watch for adverse effects in older patients."
+          ]
+        },
+        "es": {
+          "title": "La American Geriatrics Society emite un marco para prescribir medicamentos contra la obesidad en adultos mayores",
+          "summary": "La American Geriatrics Society publicó un marco basado en casos para ayudar a los clínicos a prescribir medicamentos contra la obesidad en adultos mayores. El marco aborda consideraciones prácticas para pacientes mayores, incluida la evaluación, el seguimiento y el uso de agonistas del receptor GLP‑1 y otros agentes.",
+          "whyItMatters": "Los adultos mayores estuvieron subrepresentados en muchos ensayos de los fármacos más recientes para la obesidad. Un marco dirigido a clínicos puede apoyar una prescripción y monitorización más individualizadas y seguras, pero es una orientación y debe aplicarse junto con el juicio clínico y las preferencias del paciente.",
+          "takeaways": [
+            "El marco es una guía práctica basada en casos para ayudar a los clínicos a sopesar riesgos y beneficios de los medicamentos contra la obesidad en adultos mayores.",
+            "Aborda consideraciones de evaluación y monitorización e incluye discusión sobre agonistas del receptor GLP‑1.",
+            "Se trata de orientación, no de nuevos datos de eficacia; los clínicos deben individualizar decisiones y vigilar los efectos adversos en pacientes mayores."
+          ]
+        },
+        "ru": {
+          "title": "Американское общество гериатрии выпустило рамочное руководство по назначению препаратов от ожирения у пожилых людей",
+          "summary": "Американское общество гериатрии опубликовало кейс-ориентированное руководство, чтобы помочь клиницистам назначать препараты от ожирения у пожилых пациентов. Руководство охватывает практические аспекты для пожилых людей, включая оценку, мониторинг и использование агонистов рецептора GLP‑1 и других средств.",
+          "whyItMatters": "Пожилые люди были недостаточно представлены во многих исследованиях новых препаратов от ожирения. Руководство для клиницистов может способствовать более индивидуализированному и безопасному назначению и мониторингу, но это рекомендация, а не новые результаты клинических испытаний, и её следует применять вместе с клиническим суждением и предпочтениями пациентов.",
+          "takeaways": [
+            "Руководство представляет собой практическое кейс-ориентированное пособие, помогающее клиницистам взвешивать риски и пользу препаратов от ожирения у пожилых пациентов.",
+            "Охватывает вопросы оценки и мониторинга, включая обсуждение агонистов рецептора GLP‑1.",
+            "Это рекомендации, а не новые данные об эффективности; клиницисты должны индивидуализировать решения и следить за побочными эффектами у пожилых пациентов."
+          ]
+        },
+        "uk": {
+          "title": "Американське товариство геріатрії випускає рамки для призначення ліків від ожиріння літнім дорослим",
+          "summary": "Американське товариство геріатрії опублікувало казусо‑орієнтовану рамку, яка допомагає клініцистам призначати ліки від ожиріння літнім пацієнтам. У рамці розглядаються практичні аспекти для пацієнтів старшого віку, включно з оцінкою, моніторингом та застосуванням агоністів рецептора GLP‑1 та інших препаратів.",
+          "whyItMatters": "Літні дорослі були недостатньо представлені в багатьох випробуваннях нових препаратів від ожиріння. Клінічний настановний підхід може підтримати індивідуалізоване й безпечніше призначення та моніторинг, але це керівництво, а не нові докази ефективності, і має застосовуватися разом із клінічним судженням і уподобаннями пацієнта.",
+          "takeaways": [
+            "Рамка є практичним, казусо‑орієнтованим посібником, що допомагає клініцистам зважувати ризики і вигоди ліків від ожиріння у літніх пацієнтів.",
+            "Вона охоплює питання оцінки та моніторингу й містить обговорення агоністів рецептора GLP‑1.",
+            "Це рекомендаційне керівництво, а не нові дані про ефективність; клініцисти повинні індивідуалізувати рішення і стежити за побічними ефектами у літніх пацієнтів."
+          ]
+        },
+        "fr": {
+          "title": "L'American Geriatrics Society publie un cadre pour la prescription de médicaments contre l'obésité chez les personnes âgées",
+          "summary": "L'American Geriatrics Society a publié un cadre basé sur des cas pour aider les cliniciens à prescrire des médicaments contre l'obésité chez les patients âgés. Le cadre aborde des considérations pratiques pour les patients plus âgés, y compris l'évaluation, la surveillance et l'utilisation des agonistes du récepteur GLP‑1 et d'autres agents.",
+          "whyItMatters": "Les personnes âgées étaient sous‑représentées dans de nombreux essais des nouveaux médicaments contre l'obésité. Un cadre destiné aux cliniciens peut soutenir une prescription et une surveillance individualisées et plus sûres, mais il s'agit d'une orientation et non de nouvelles preuves d'essais, et il doit être appliqué en tenant compte du jugement clinique et des préférences du patient.",
+          "takeaways": [
+            "Le cadre est un guide pratique basé sur des cas pour aider les cliniciens à peser les risques et bénéfices des médicaments contre l'obésité chez les personnes âgées.",
+            "Il traite des considérations d'évaluation et de surveillance et inclut une discussion sur les agonistes du récepteur GLP‑1.",
+            "Il s'agit d'orientations, pas de nouvelles données d'efficacité ; les cliniciens doivent individualiser les décisions et surveiller les effets indésirables chez les patients âgés."
+          ]
+        },
+        "de": {
+          "title": "American Geriatrics Society legt Rahmenwerk für Verordnung von Adipositasmedikamenten bei älteren Erwachsenen vor",
+          "summary": "Die American Geriatrics Society veröffentlichte ein fallbasiertes Rahmenwerk, das Klinikern helfen soll, Adipositasmedikamente bei älteren Erwachsenen zu verschreiben. Das Rahmenwerk behandelt praktische Überlegungen für ältere Patientinnen und Patienten, einschließlich Beurteilung, Überwachung und Einsatz von GLP‑1‑Rezeptor‑Agonisten und anderen Wirkstoffen.",
+          "whyItMatters": "Ältere Erwachsene waren in vielen Studien zu neueren Adipositasmedikamenten unterrepräsentiert. Ein clinician‑orientiertes Rahmenwerk kann eine individuellere und sicherere Verschreibung und Überwachung unterstützen, ist jedoch eine Leitlinie und keine neue Studiendatenbasis; es sollte gemeinsam mit klinischem Urteilsvermögen und Patientenpräferenzen angewendet werden.",
+          "takeaways": [
+            "Das Rahmenwerk ist ein praktischer, fallbasierter Leitfaden, der Klinikern helfen soll, Risiken und Nutzen von Adipositasmedikamenten bei älteren Erwachsenen abzuwägen.",
+            "Es behandelt Beurteilungs‑ und Überwachungsaspekte und beinhaltet Diskussionen zu GLP‑1‑Rezeptor‑Agonisten.",
+            "Dies ist eine Leitlinie, keine neue Wirksamkeitsdatenlage; Kliniker sollten Entscheidungen individualisieren und bei älteren Patienten auf Nebenwirkungen achten."
+          ]
+        },
+        "pt-br": {
+          "title": "American Geriatrics Society divulga estrutura para prescrição segura e centrada no paciente de medicamentos para obesidade em adultos mais velhos",
+          "summary": "A American Geriatrics Society lançou uma estrutura baseada em casos para ajudar clínicos a prescrever medicamentos para obesidade em adultos mais velhos. A estrutura aborda considerações práticas para pacientes idosos, incluindo avaliação, monitoramento e uso de agonistas do receptor GLP‑1 e outros agentes.",
+          "whyItMatters": "Adultos mais velhos foram subrepresentados em muitos ensaios de novos medicamentos para obesidade. Uma estrutura voltada para clínicos pode apoiar prescrições e monitoramento individualizados e mais seguros, mas é uma orientação, não novos dados de ensaio, e deve ser aplicada juntamente com julgamento clínico e preferências do paciente.",
+          "takeaways": [
+            "A estrutura é um guia prático, baseado em casos, para ajudar clínicos a ponderar riscos e benefícios de medicamentos para obesidade em idosos.",
+            "Aborda considerações de avaliação e monitoramento e inclui discussão sobre agonistas do receptor GLP‑1.",
+            "Trata‑se de uma orientação, não de novos dados de efetividade; os clínicos devem individualizar decisões e vigiar efeitos adversos em pacientes mais velhos."
+          ]
+        },
+        "hu": {
+          "title": "Az American Geriatrics Society keretrendszert adott ki az elhízás gyógyszereinek felírásához idősebb felnőtteknél",
+          "summary": "Az American Geriatrics Society esettanulány‑alapú keretrendszert tett közzé, hogy segítse az orvosokat az elhízás gyógyszereinek felírásában idősebb pácienseknél. A keretrendszer gyakorlati szempontokat fed le, beleértve az értékelést, monitorozást és a GLP‑1 receptor agonisták és más szerek alkalmazásának kérdéseit.",
+          "whyItMatters": "Az időseket alulreprezentálták sok újabb elhízásellenes gyógyszer vizsgálatában. Egy klinikusoknak szóló keretrendszer támogathatja a személyre szabottabb, biztonságosabb felírást és nyomon követést, de iránymutatásról van szó, nem új klinikai bizonyítékról; alkalmazása során klinikai megítélés és a beteg preferenciái is számítanak.",
+          "takeaways": [
+            "A keretrendszer gyakorlati, esettanulány‑alapú útmutató, amely segít a klinikusoknak mérlegelni az elhízásgyógyszerek kockázatait és előnyeit időseknél.",
+            "Foglalkozik az értékelés és monitorozás kérdéseivel, és tárgyalja a GLP‑1 receptor agonisták szerepét is.",
+            "Ez iránymutatás, nem új hatékonysági adat; a döntéseket egyénre kell szabni, és figyelni kell az időseknél előforduló mellékhatásokat."
+          ]
+        },
+        "ar": {
+          "title": "الجمعية الأمريكية لطب الشيخوخة تصدر إطاراً لوصف أدوية السمنة لدى البالغين الأكبر سناً",
+          "summary": "أصدرت الجمعية الأمريكية لطب الشيخوخة إطاراً قائماً على حالات عملية لمساعدة الأطباء في وصف أدوية السمنة لدى البالغين الأكبر سناً. يغطي الإطار اعتبارات عملية للمرضى المسنين، بما في ذلك التقييم والمتابعة ومناقشة منبهات مستقبلات GLP‑1 وأدوية أخرى.",
+          "whyItMatters": "كان تمثيل كبار السن ناقصاً في كثير من تجارب الأدوية الأحدث لمكافحة السمنة. يمكن أن يدعم إطار العمل الموجَّه للأطباء وصفاً ومتابعة أكثر تكييفاً وأمناً، لكنه إرشاد وليس دليلاً تجريبياً جديداً ويجب تطبيقه مع الاجتهاد السريري وتفضيلات المريض.",
+          "takeaways": [
+            "الإطار دليل عملي قائم على حالات لمساعدة الأطباء في موازنة مخاطر وفوائد أدوية السمنة لدى كبار السن.",
+            "يتناول اعتبارات التقييم والمتابعة ويتضمن مناقشة لمنبهات مستقبلات GLP‑1.",
+            "هذا توجيه وليس بيانات فعالية جديدة؛ يجب تكييف القرارات لكل مريض ومراقبة الآثار الضارة لدى المسنين."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-new-framework-for-safe-patient-centered-prescribing-of-obesity--77322d01eb3b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-new-framework-for-safe-patient-centered-prescribing-of-obesity-77322d01eb3b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-new-framework-for-safe-patient-centered-prescribing-of-obesity-77322d01eb3b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: American Geriatrics Society issues framework for prescribing obesity medications in older adults.\nStory summary: The American Geriatrics Society released a case-based framework to help clinicians prescribe obesity medications in older adults. The framework covers practical considerations for older patients, including assessment, monitoring, and use of GLP‑1 receptor agonists and other agents..\nCategory: healthy ageing and longevity; clinical practice.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "why-some-lower-risk-childhood-cancers-turn-deadly-7e123a634152",
+      "category": "cancer prevention and treatment",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
+      "sourceTitle": "Why some “lower-risk” childhood cancers turn deadly",
+      "publishedAt": "Fri, 30 Oct 2026 06:15:28 EDT",
+      "languages": {
+        "en": {
+          "title": "Hidden aggressive cells identified in some lower-risk childhood rhabdomyosarcomas",
+          "summary": "Researchers report finding previously unrecognized aggressive cancer-cell subpopulations in pediatric rhabdomyosarcoma cases that had been classified as lower risk. The discovery may help explain why some ostensibly low-risk tumors behave aggressively and could inform risk stratification and tailored treatment.",
+          "whyItMatters": "Detecting aggressive cell subtypes within tumors could improve early identification of high‑risk patients and enable more personalized treatment strategies that balance survival benefits against chemotherapy toxicity. Clinical validation and prospective studies are required before changing practice.",
+          "takeaways": [
+            "Study authors identified tumor cell subpopulations that may mark higher-risk biology within some low-risk rhabdomyosarcomas.",
+            "The finding could lead to improved biomarkers for risk stratification and more personalized therapy, pending further validation.",
+            "Current clinical implications are preliminary; additional studies are needed to confirm prognostic value and treatment implications."
+          ]
+        },
+        "es": {
+          "title": "Identifican células agresivas ocultas en algunos rabdomiosarcomas infantiles de «bajo riesgo»",
+          "summary": "Investigadores informan haber encontrado subpoblaciones de células cancerosas previamente no reconocidas y agresivas en casos pediátricos de rabdomiosarcoma que habían sido clasificados como de bajo riesgo. El hallazgo puede ayudar a explicar por qué algunos tumores aparentemente de bajo riesgo se comportan de forma agresiva y podría orientar la estratificación del riesgo y tratamientos más personalizados.",
+          "whyItMatters": "Detectar subtipos celulares agresivos dentro de los tumores podría mejorar la identificación temprana de pacientes de alto riesgo y permitir estrategias de tratamiento más personalizadas que equilibren los beneficios de supervivencia con la toxicidad de la quimioterapia. Se requieren validación clínica y estudios prospectivos antes de cambiar la práctica.",
+          "takeaways": [
+            "Los autores identificaron subpoblaciones de células tumorales que podrían indicar biología de mayor riesgo dentro de algunos rabdomiosarcomas considerados de bajo riesgo.",
+            "El hallazgo podría conducir a mejores biomarcadores para la estratificación del riesgo y a una terapia más personalizada, tras la validación adicional.",
+            "Las implicaciones clínicas actuales son preliminares; se necesitan estudios adicionales para confirmar el valor pronóstico y las consecuencias terapéuticas."
+          ]
+        },
+        "ru": {
+          "title": "Выявлены скрытые агрессивные клетки в некоторых детских рабдомиосаркомах с «низким риском»",
+          "summary": "Исследователи сообщают о ранее не распознанных подгруппах агрессивных раковых клеток в педиатрических случаях рабдомиосаркомы, которые были классифицированы как низкий риск. Это открытие может помочь объяснить, почему некоторые, казалось бы, низкорисковые опухоли ведут себя агрессивно, и может повлиять на стратификацию риска и индивидуальный подход к лечению.",
+          "whyItMatters": "Выявление агрессивных субтипов клеток внутри опухолей может улучшить раннюю идентификацию пациентов с высоким риском и позволить более персонализированное лечение, учитывая соотношение пользы для выживания и токсичности химиотерапии. Для изменения клинической практики необходима клиническая валидация и проспективные исследования.",
+          "takeaways": [
+            "Авторы исследования выявили субпопуляции опухолевых клеток, которые могут свидетельствовать о более высоком риске в некоторых рабдомиосаркомах, классифицированных как низкий риск.",
+            "Открытие может привести к улучшению биомаркеров для стратификации риска и более персонализированной терапии при условии дополнительной валидации.",
+            "Текущие клинические последствия предварительны; необходимы дополнительные исследования для подтверждения прогностической значимости и терапевтических выводов."
+          ]
+        },
+        "uk": {
+          "title": "Виявлені приховано агресивні клітини в деяких низькоризикових дитячих рабдоміосаркомах",
+          "summary": "Дослідники повідомляють про виявлення раніше невизнаних агресивних підпопуляцій ракових клітин у випадках педіатричної рабдоміосаркоми, які класифікувалися як нижчого ризику. Це відкриття може допомогти пояснити, чому деякі на перший погляд низькоризикові пухлини поводяться агресивно, і може інформувати стратифікацію ризику та індивідуалізоване лікування.",
+          "whyItMatters": "Виявлення агресивних підтипів клітин у пухлині може покращити ранню ідентифікацію пацієнтів із вищим ризиком і дозволити більш персоналізовані стратегії лікування, що зважують користь виживання проти токсичності хіміотерапії. Потрібні клінічна валідація і проспективні дослідження перед внесенням змін у практику.",
+          "takeaways": [
+            "Автори дослідження виявили субпопуляції пухлинних клітин, які можуть визначати більш ризикову біологію в деяких низькоризикових рабдоміосаркомах.",
+            "Відкриття може привести до кращих біомаркерів для стратифікації ризику та персоналізації терапії за умови подальшої валідації.",
+            "Поточні клінічні наслідки є попередніми; необхідні додаткові дослідження для підтвердження прогностичної значущості та наслідків для лікування."
+          ]
+        },
+        "fr": {
+          "title": "Des cellules agressives cachées identifiées dans certains rhabdomyosarcomes pédiatriques à faible risque",
+          "summary": "Des chercheurs rapportent avoir trouvé des sous‑populations de cellules cancéreuses auparavant non reconnues et agressives dans des cas pédiatriques de rhabdomyosarcome classés à faible risque. Cette découverte peut aider à expliquer pourquoi certaines tumeurs apparemment à faible risque se comportent de manière agressive et pourrait éclairer la stratification du risque et des traitements adaptés.",
+          "whyItMatters": "Détecter des sous‑types cellulaires agressifs au sein des tumeurs pourrait améliorer l'identification précoce des patients à risque élevé et permettre des stratégies thérapeutiques plus personnalisées qui équilibrent bénéfices en termes de survie et toxicité de la chimiothérapie. Une validation clinique et des études prospectives sont nécessaires avant de modifier la pratique.",
+          "takeaways": [
+            "Les auteurs ont identifié des sous‑populations de cellules tumorales susceptibles d'indiquer une biologie à plus haut risque dans certains rhabdomyosarcomes classés à faible risque.",
+            "Cette découverte pourrait conduire à de meilleurs biomarqueurs pour la stratification du risque et à une personnalisation des traitements, sous réserve de validations ultérieures.",
+            "Les implications cliniques actuelles sont préliminaires ; des études supplémentaires sont nécessaires pour confirmer la valeur pronostique et les conséquences thérapeutiques."
+          ]
+        },
+        "de": {
+          "title": "Versteckte aggressive Zellen in manchen als geringrisikog eingestuften kindlichen Rhabdomyosarkomen identifiziert",
+          "summary": "Forscher berichten, in pädiatrischen Rhabdomyosarkomfällen zuvor unbekannte aggressive Unterpopulationen von Krebszellen gefunden zu haben, die als niedriges Risiko klassifiziert worden waren. Die Entdeckung könnte erklären, warum sich manche vermeintlich niedrig‑riskanten Tumoren aggressiv verhalten, und könnte die Risikoabschätzung und individuellere Behandlungsansätze informieren.",
+          "whyItMatters": "Das Erkennen aggressiver Zellsubtypen innerhalb von Tumoren könnte die frühe Identifikation von Hochrisiko‑Patienten verbessern und personalisiertere Behandlungsstrategien ermöglichen, die Überlebensvorteile gegen Chemotherapie‑Toxizität abwägen. Klinische Validierung und prospektive Studien sind erforderlich, bevor sich die Praxis ändert.",
+          "takeaways": [
+            "Studienautoren identifizierten Tumorzellsubpopulationen, die in einigen niedrig‑riskigen Rhabdomyosarkomen eine höher‑riskige Biologie markieren könnten.",
+            "Der Befund könnte zu verbesserten Biomarkern für die Risikostratifizierung und personalisiertere Therapien führen, vorausgesetzt weitere Validierung.",
+            "Die aktuellen klinischen Implikationen sind vorläufig; zusätzliche Studien sind nötig, um prognostischen Wert und Therapieauswirkungen zu bestätigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Células agressivas ocultas identificadas em alguns rabdomiossarcomas pediátricos de menor risco",
+          "summary": "Pesquisadores relatam ter encontrado subpopulações de células cancerígenas previamente não reconhecidas e agressivas em casos pediátricos de rabdomiossarcoma que haviam sido classificados como de menor risco. A descoberta pode ajudar a explicar por que alguns tumores aparentemente de baixo risco se comportam de forma agressiva e pode orientar estratificação de risco e tratamentos sob medida.",
+          "whyItMatters": "Detectar subtipos celulares agressivos dentro de tumores pode melhorar a identificação precoce de pacientes de alto risco e permitir estratégias de tratamento mais personalizadas que equilibrem benefícios de sobrevida e toxicidade da quimioterapia. Validação clínica e estudos prospectivos são necessários antes de mudanças na prática.",
+          "takeaways": [
+            "Os autores identificaram subpopulações de células tumorais que podem indicar uma biologia de maior risco em alguns rabdomiossarcomas de baixo risco.",
+            "A descoberta pode levar a biomarcadores aprimorados para estratificação de risco e terapias mais personalizadas, mediante validação adicional.",
+            "As implicações clínicas atuais são preliminares; estudos adicionais são necessários para confirmar o valor prognóstico e as implicações terapêuticas."
+          ]
+        },
+        "hu": {
+          "title": "Rejtett agresszív sejtcsoportokat azonosítottak egyes alacsonyabb kockázatú gyermekkorú rhabdomyosarcomákban",
+          "summary": "A kutatók olyan, korábban fel nem ismert agresszív daganatsejt‑alpopulációkat találtak gyermek‑ és serdülőkori rhabdomyosarcoma esetek egyes, alacsony kockázatúnak minősített mintáiban. A felfedezés segíthet megmagyarázni, miért viselkednek egyes látszólag alacsony kockázatú daganatok agresszíven, és hozzájárulhat a kockázat‑stratifikáció és a személyre szabott kezelés fejlesztéséhez.",
+          "whyItMatters": "Az agresszív sejttípusok kimutatása a daganaton belül javíthatja a magas kockázatú betegek korai azonosítását és lehetővé teheti a személyre szabott kezelési stratégiákat, amelyek egyensúlyozzák a túlélési előnyöket és a kemoterápia mérgezőségét. Klinikai gyakorlat megváltoztatásához prospektív és validáló vizsgálatok szükségesek.",
+          "takeaways": [
+            "A szerzők olyan daganatsejt‑alpopulációkat azonosítottak, amelyek magasabb kockázati biológiát jelezhetnek egyes alacsony kockázatú rhabdomyosarcomákban.",
+            "A felfedezés potenciálisan jobb biomarkereket eredményezhet a kockázat szerinti osztályozáshoz és személyre szabott terápiához, de további igazolás szükséges.",
+            "A jelenlegi klinikai következmények előzetesek; további vizsgálatok szükségesek a prognosztikai érték és a kezelési következmények megerősítéséhez."
+          ]
+        },
+        "ar": {
+          "title": "تم تحديد خلايا عدوانية مخفية في بعض حالات رابدوميو ساركوما الطفولية المصنفة منخفضة المخاطر",
+          "summary": "أبلغ الباحثون عن اكتشاف مجموعات فرعية من خلايا السرطان عديمة التعرف سابقاً في حالات رابدوميو ساركوما لدى الأطفال التي كانت مصنفة على أنها منخفضة المخاطر. قد يساعد هذا الاكتشاف في تفسير سبب تصرف بعض الأورام المبدوءة بأنها منخفضة المخاطر بشكل عدواني، وقد يساهم في تحسين تصنيف المخاطر والعلاج المخصص.",
+          "whyItMatters": "قد يؤدي اكتشاف أنواع خلايا عدوانية داخل الورم إلى تحسين التعرف المبكر على المرضى ذوي المخاطر العالية وتمكين استراتيجيات علاجية أكثر تخصيصاً تراعي المنافع البقاء مقابل سمية العلاج الكيميائي. يلزم التحقق السريري والدراسات المستقبلية قبل تعديل الممارسات السريرية.",
+          "takeaways": [
+            "حدد المؤلفون مجموعات خلوية داخل الورم قد تشير إلى بيولوجيا ذات مخاطر أعلى ضمن بعض حالات الرابدوميو ساركوما المصنفة منخفضة المخاطر.",
+            "قد يؤدي هذا الاكتشاف إلى مؤشرات حيوية محسنة لتصنيف المخاطر وعلاجات أكثر تخصيصاً، شريطة إجراء تحقيقات إضافية.",
+            "التداعيات السريرية الحالية تمهيدية؛ هناك حاجة إلى دراسات إضافية لتأكيد القيمة النبوئية وتبعات العلاج."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=why-some-lower-risk-childhood-cancers-turn-deadly-7e123a634152",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-some-lower-risk-childhood-cancers-turn-deadly-7e123a634152-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-some-lower-risk-childhood-cancers-turn-deadly-7e123a634152-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Hidden aggressive cells identified in some lower-risk childhood rhabdomyosarcomas.\nStory summary: Researchers report finding previously unrecognized aggressive cancer-cell subpopulations in pediatric rhabdomyosarcoma cases that had been classified as lower risk. The discovery may help explain why some ostensibly low-risk tumors behave aggressively and could inform risk stratification and tailored treatment..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefi-b51dba3a491d",
@@ -1297,6 +1939,113 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Medical digital twins could enable virtual testing of treatments.\nStory summary: A researcher describes medical digital twins—computerized models of patients that can be used to test different treatments and identify promising options without exposing patients to risk—and suggests personalised digital replicas may become more common in the future..\nCategory: AI & health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohes-d00cc115fbce",
+      "category": "healthy ageing and longevity; reproduction",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01245-5",
+      "sourceTitle": "Oocyte-specific OMC1 is required for maintaining chromosome cohesion through reproductive life",
+      "publishedAt": "2026-10-29",
+      "languages": {
+        "en": {
+          "title": "OMC1 identified as an oocyte-specific protein that preserves chromosome cohesion (mechanistic study)",
+          "summary": "A Nature Aging paper reports that OMC1, an oocyte-specific protein, helps maintain sister-chromatid cohesion during the prolonged meiotic arrest of mammalian oocytes. Loss of OMC1 was associated with accelerated age-related aneuploidy in the reported work.",
+          "whyItMatters": "Mechanistic insight into factors that preserve chromosome cohesion in oocytes advances understanding of reproductive ageing and the biological basis of age-related aneuploidy. These are laboratory and likely animal-based findings that may guide future fertility research but do not imply immediate clinical interventions.",
+          "takeaways": [
+            "OMC1 is proposed as a specific factor that preserves chromosome cohesion in oocytes across reproductive life.",
+            "Loss of OMC1 may accelerate age-related aneuploidy in the models studied; human relevance requires confirmation.",
+            "The study offers a mechanistic target for follow-up research into reproductive ageing and fertility preservation."
+          ]
+        },
+        "es": {
+          "title": "OMC1 identificado como proteína específica de ovocitos que preserva la cohesión cromosómica (estudio mecanicista)",
+          "summary": "Un artículo en Nature Aging informa que OMC1, una proteína específica de ovocitos, ayuda a mantener la cohesión entre cromátidas hermanas durante la prolongada detención meiótica de los ovocitos de mamíferos. La pérdida de OMC1 se asoció con una aceleración de la aneuploidía relacionada con la edad en el trabajo reportado.",
+          "whyItMatters": "El conocimiento mecanístico de factores que preservan la cohesión cromosómica en ovocitos avanza la comprensión del envejecimiento reproductivo y de la base biológica de la aneuploidía relacionada con la edad. Son hallazgos de laboratorio y probablemente en modelos animales que pueden orientar investigaciones futuras en fertilidad, pero no implican intervenciones clínicas inmediatas.",
+          "takeaways": [
+            "Se propone que OMC1 es un factor específico que preserva la cohesión cromosómica en ovocitos a lo largo de la vida reproductiva.",
+            "La pérdida de OMC1 podría acelerar la aneuploidía relacionada con la edad en los modelos estudiados; la relevancia en humanos requiere confirmación.",
+            "El estudio ofrece una diana mecanicista para investigaciones de seguimiento sobre el envejecimiento reproductivo y la preservación de la fertilidad."
+          ]
+        },
+        "ru": {
+          "title": "OMC1 — ооцит-специфичный белок, сохраняющий хромосомную когезию (механистическое исследование)",
+          "summary": "Статья в Nature Aging сообщает, что OMC1, специфичный для ооцитов белок, помогает поддерживать когезию сестринских хроматид во время длительной меиотической паузы ооцитов млекопитающих. Потеря OMC1 была связана с ускорением возраст-связанных анеуплоидий в описанной работе.",
+          "whyItMatters": "Механистическое понимание факторов, сохраняющих хромосомную когезию в ооцитах, продвигает знания о репродуктивном старении и биологической основе возрастной анеуплоидии. Это лабораторные и, вероятно, животные данные, которые могут направить дальнейшие исследования фертильности, но не означают немедленных клинических вмешательств.",
+          "takeaways": [
+            "OMC1 предлагается как специфический фактор, сохраняющий хромосомную когезию в ооцитах в течение репродуктивной жизни.",
+            "Потеря OMC1 может ускорять возрастную анеуплоидию в изученных моделях; подтверждение у человека требуется.",
+            "Исследование предоставляет механистическую мишень для последующих работ по репродуктивному старению и сохранению фертильности."
+          ]
+        },
+        "uk": {
+          "title": "OMC1 визначений як ооцит-специфічний білок, що зберігає когезію хромосом (механістичне дослідження)",
+          "summary": "Стаття в Nature Aging повідомляє, що OMC1, ооцит‑специфічний білок, допомагає підтримувати когезію сестринських хроматид під час тривалої мейотичної паузи в мішаних ооцитах ссавців. Втрата OMC1 була пов'язана з прискореним віковим анеуплоїдією в наведених роботах.",
+          "whyItMatters": "Механістичне розуміння факторів, що зберігають когезію хромосом в ооцитах, поглиблює знання про репродуктивне старіння та біологічні основи вікової анеуплоїдії. Це лабораторні й, ймовірно, експериментальні дослідження на тваринах, які можуть спрямувати майбутні дослідження фертильності, але не означають негайних клінічних втручань.",
+          "takeaways": [
+            "OMC1 пропонується як специфічний фактор, що зберігає когезію хромосом в ооцитах протягом репродуктивного життя.",
+            "Втрата OMC1 може прискорювати вікову анеуплоїдію в досліджених моделях; значущість для людей потребує підтвердження.",
+            "Дослідження пропонує механістичну мішень для подальших робіт над репродуктивним старінням і збереженням фертильності."
+          ]
+        },
+        "fr": {
+          "title": "OMC1 identifié comme une protéine spécifique des ovocytes qui préserve la cohésion des chromosomes (étude mécanistique)",
+          "summary": "Un article de Nature Aging rapporte que OMC1, une protéine spécifique des ovocytes, contribue à maintenir la cohésion des chromatides sœurs pendant l'arrêt méiotique prolongé des ovocytes de mammifères. La perte de OMC1 a été associée à une accélération de l'aneuploïdie liée à l'âge dans les résultats rapportés.",
+          "whyItMatters": "Les éclairages mécanistiques sur les facteurs qui préservent la cohésion des chromosomes dans les ovocytes approfondissent la compréhension du vieillissement reproductif et des bases biologiques de l'aneuploïdie liée à l'âge. Il s'agit de travaux de laboratoire et probablement d'études animales qui peuvent orienter des recherches futures en fertilité, mais ne signifient pas d'interventions cliniques immédiates.",
+          "takeaways": [
+            "OMC1 est proposé comme un facteur spécifique qui préserve la cohésion des chromosomes dans les ovocytes tout au long de la vie reproductive.",
+            "La perte d'OMC1 pourrait accélérer l'aneuploïdie liée à l'âge dans les modèles étudiés ; la pertinence humaine doit être confirmée.",
+            "L'étude propose une cible mécanistique pour des recherches de suivi sur le vieillissement reproductif et la préservation de la fertilité."
+          ]
+        },
+        "de": {
+          "title": "OMC1 als eizellenspezifisches Protein identifiziert, das Chromosomenkohäsion bewahrt (mechanistische Studie)",
+          "summary": "Ein Beitrag in Nature Aging berichtet, dass OMC1, ein eizellenspezifisches Protein, dabei hilft, die Kohäsion von Schwesterchromatiden während der lang andauernden meiotischen Ruhe mammaler Eizellen aufrechtzuerhalten. Verlust von OMC1 war in der Studie mit beschleunigter altersbedingter Aneuploidie verbunden.",
+          "whyItMatters": "Mechanistische Einsichten in Faktoren, die die Chromosomenkohäsion in Eizellen erhalten, vertiefen das Verständnis des reproduktiven Alterns und der biologischen Basis altersbedingter Aneuploidie. Dies sind Labor‑ und wahrscheinlich tierbasierte Befunde, die künftige Fruchtbarkeitsforschung leiten können, aber keine unmittelbaren klinischen Interventionen implizieren.",
+          "takeaways": [
+            "OMC1 wird als spezifischer Faktor vorgeschlagen, der die Kohäsion der Schwesterchromatiden in Eizellen über die reproduktive Lebenszeit bewahrt.",
+            "Der Verlust von OMC1 kann die altersbedingte Aneuploidie in den untersuchten Modellen beschleunigen; die Relevanz für den Menschen muss bestätigt werden.",
+            "Die Studie bietet ein mechanistisches Ziel für Folgeforschung zum reproduktiven Altern und zur Erhaltung der Fruchtbarkeit."
+          ]
+        },
+        "pt-br": {
+          "title": "OMC1 identificado como proteína específica de oócito que preserva a coesão cromossômica (estudo mecanístico)",
+          "summary": "Um artigo na Nature Aging relata que OMC1, uma proteína específica de oócitos, ajuda a manter a coesão entre cromátides irmãs durante a prolongada parada meiótica dos oócitos de mamíferos. A perda de OMC1 foi associada a uma aceleração da aneuploidia relacionada à idade nos trabalhos relatados.",
+          "whyItMatters": "Percepções mecanísticas sobre fatores que preservam a coesão cromossômica em oócitos avançam a compreensão do envelhecimento reprodutivo e da base biológica da aneuploidia relacionada à idade. São achados de laboratório e possivelmente animais que podem orientar pesquisas futuras em fertilidade, mas não implicam intervenções clínicas imediatas.",
+          "takeaways": [
+            "OMC1 é proposto como um fator específico que preserva a coesão entre cromátides irmãs em oócitos ao longo da vida reprodutiva.",
+            "A perda de OMC1 pode acelerar a aneuploidia relacionada à idade nos modelos estudados; a relevância humana precisa ser confirmada.",
+            "O estudo oferece um alvo mecanístico para pesquisas de acompanhamento sobre envelhecimento reprodutivo e preservação da fertilidade."
+          ]
+        },
+        "hu": {
+          "title": "Az OMC1 oocita‑specifikus fehérjeként azonosították, amely megőrzi a kromatidák kohézióját (mechanisztikus tanulmány)",
+          "summary": "Egy Nature Aging közlemény szerint az OMC1, oocitákra specifikus fehérje, hozzájárul a testvérkromatidák kohéziójának fenntartásához a hosszú ideig tartó meiózisos nyugalom alatt. Az OMC1 hiánya a közölt munkában gyorsított életkorral összefüggő aneuploiditással társult.",
+          "whyItMatters": "A kromatidák kohézióját fenntartó tényezők mechanisztikus megértése előrevivő a reproduktív öregedés és az életkorral összefüggő aneuploidia biológiai hátterének feltárásában. Ezek laboratóriumi és feltehetően állati eredmények, amelyek irányt adhatnak a jövőbeli termékenységi kutatásoknak, de nem jelentenek azonnali klinikai beavatkozást.",
+          "takeaways": [
+            "Az OMC1-t olyan specifikus tényezőként javasolják, amely megőrzi a kromatidák kohézióját az oocitákban a reproduktív időszak alatt.",
+            "Az OMC1 hiánya a vizsgált modellekben felgyorsíthatja az életkorhoz kapcsolódó aneuploiditást; emberi érintettség megerősítést igényel.",
+            "A tanulmány mechanisztikus célpontot kínál további kutatásokhoz a reproduktív öregedés és a termékenység megőrzése terén."
+          ]
+        },
+        "ar": {
+          "title": "تحديد OMC1 كبروتين مخصوص للبويضات يحافظ على تماسك الكروماتيدات (دراسة ميكانيكية)",
+          "summary": "تفيد ورقة في Nature Aging بأن OMC1، وهو بروتين خاص بالبويضات، يساعد في الحفاظ على تماسك الكروماتيدات الشقيقة خلال التوقف المطوّل للتمايز الاختزالي في البويضات الثديية. ارتبط فقدان OMC1 بتسارع التغيرات العددية في الكروموسومات المرتبطة بالعمر في العمل المبلغ عنه.",
+          "whyItMatters": "تقدّم الرؤى الميكانيكية حول العوامل التي تحافظ على تماسك الكروماتيدات في البويضات فهماً أعمق لشيخوخة الجهاز التناسلي والأساس البيولوجي للتشوهات العددية المرتبطة بالعمر. هذه نتائج مختبرية وعلى الأرجح حيوانية قد توجه أبحاث الخصوبة المستقبلية لكنها لا تعني تدخلات سريرية فورية.",
+          "takeaways": [
+            "يُقترح أن OMC1 عامل مخصوص يحافظ على تماسك الكروماتيدات في البويضات عبر فترة الخصوبة.",
+            "قد يسرّع فقدان OMC1 التغيرات العددية للكروموسومات المرتبطة بالعمر في النماذج المدروسة؛ وهناك حاجة لتأكيد الصلة بالبشر.",
+            "توفر الدراسة هدفاً ميكانيكياً للمتابعة في بحوث شيخوخة الجهاز التناسلي والحفاظ على الخصوبة."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohes-d00cc115fbce",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohes-d00cc115fbce-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohes-d00cc115fbce-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: OMC1 identified as an oocyte-specific protein that preserves chromosome cohesion (mechanistic study).\nStory summary: A Nature Aging paper reports that OMC1, an oocyte-specific protein, helps maintain sister-chromatid cohesion during the prolonged meiotic arrest of mammalian oocytes. Loss of OMC1 was associated with accelerated age-related aneuploidy in the reported work..\nCategory: healthy ageing and longevity; reproduction.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "another-win-for-novel-drug-this-time-in-egfr-mutated-lung-cancer-22c047fa07a8",
       "category": "cancer treatment",
       "sourceName": "medpagetoday.com",
@@ -1616,6 +2365,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nature study reports competitive synaptic pruning removes neurons with abnormal DNA in the developing brain.\nStory summary: A Nature study led by Harvard Medical School and Boston Children’s Hospital shows that the prenatal brain uses competitive synaptic pruning to eliminate neurons carrying abnormal DNA mutations, addressing why many neurons are produced and then removed during development..\nCategory: neuroscience & development.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "three-quarters-of-nfl-football-players-may-end-up-with-cte-5b6a0394c4b3",
+      "category": "sport and health; neuroscience",
+      "sourceName": "sciencenews.org",
+      "sourceUrl": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+      "sourceTitle": "Three-quarters of NFL football players may end up with CTE",
+      "publishedAt": "Wed, 28 Oct 2026 15:32:00 +0000",
+      "languages": {
+        "en": {
+          "title": "Estimate suggests high prevalence of CTE among NFL players (population estimate with limitations)",
+          "summary": "A report presents the first estimate of chronic traumatic encephalopathy (CTE) prevalence across the NFL and suggests that as many as 75% of players may develop the condition. The piece highlights the scale of potential long-term brain injury among professional football players.",
+          "whyItMatters": "If CTE prevalence in this group is high, it has major implications for player health, concussion protocols, and long-term care. Estimates of this kind depend heavily on data sources and methodology; readers should note potential sampling and inference limitations described by the authors.",
+          "takeaways": [
+            "The article reports an estimate indicating high possible CTE prevalence among former NFL players.",
+            "Such estimates are sensitive to methodology and sampling; they highlight concern but are not definitive population-level proof.",
+            "Findings underscore the need for improved prevention, monitoring, and research into long-term brain health after contact sports."
+          ]
+        },
+        "es": {
+          "title": "Estimación sugiere alta prevalencia de ETC entre jugadores de la NFL (estimación poblacional con limitaciones)",
+          "summary": "Un informe presenta la primera estimación de la prevalencia de encefalopatía traumática crónica (ETC) en toda la NFL y sugiere que hasta un 75% de los jugadores podrían desarrollar la condición. La pieza destaca la magnitud del posible daño cerebral a largo plazo entre jugadores de fútbol americano profesional.",
+          "whyItMatters": "Si la prevalencia de ETC en este grupo es alta, tiene importantes implicaciones para la salud de los jugadores, los protocolos de conmoción cerebral y la atención a largo plazo. Las estimaciones de este tipo dependen en gran medida de las fuentes de datos y la metodología; los lectores deben tener en cuenta las posibles limitaciones de muestreo e inferencia descritas por los autores.",
+          "takeaways": [
+            "El artículo presenta una estimación que indica una posible alta prevalencia de ETC entre los exjugadores de la NFL.",
+            "Tales estimaciones son sensibles a la metodología y el muestreo; subrayan la preocupación pero no constituyen una prueba definitiva a nivel poblacional.",
+            "Los hallazgos enfatizan la necesidad de mejorar la prevención, el seguimiento y la investigación sobre la salud cerebral a largo plazo tras los deportes de contacto."
+          ]
+        },
+        "ru": {
+          "title": "Оценка указывает на высокую распространённость ХТЭ у игроков НФЛ (популяционная оценка с ограничениями)",
+          "summary": "В отчёте представлена первая оценка распространённости хронической травматической энцефалопатии (ХТЭ) среди игроков НФЛ и предполагается, что до 75% игроков могут развить это состояние. Статья подчёркивает масштаб потенциального долгосрочного повреждения мозга у профессиональных футболистов США.",
+          "whyItMatters": "Если распространённость ХТЭ в этой группе действительно высока, это имеет серьёзные последствия для здоровья игроков, протоколов при сотрясениях и долгосрочной помощи. Оценки такого рода сильно зависят от источников данных и методологии; читателям следует учитывать возможные ограничения выборки и выводов, отмеченные авторами.",
+          "takeaways": [
+            "В статье приводится оценка, указывающая на возможную высокую распространённость ХТЭ среди бывших игроков НФЛ.",
+            "Такие оценки чувствительны к методологии и выборке; они подчёркивают проблему, но не являются окончательным доказательством на популяционном уровне.",
+            "Результаты подчёркивают необходимость улучшения профилактики, мониторинга и исследований долгосрочного здоровья мозга после контактых видов спорта."
+          ]
+        },
+        "uk": {
+          "title": "Оцінка вказує на високу поширеність хронічної травматичної енцефалопатії (ХТЕ) серед гравців НФЛ (популяційна оцінка з обмеженнями)",
+          "summary": "У репортажі наводиться перша оцінка поширеності хронічної травматичної енцефалопатії (ХТЕ) у лізі НФЛ і стверджується, що до 75% гравців можуть розвинути цей стан. Стаття підкреслює масштаби потенційного довгострокового ушкодження мозку серед професійних футболістів.",
+          "whyItMatters": "Якщо поширеність ХТЕ в цій групі є високою, це має серйозні наслідки для здоров'я гравців, протоколів при струсі мозку та довгострокової допомоги. Оцінки такого роду сильно залежать від джерел даних і методології; читачам слід враховувати потенційні обмеження вибірки та робіт із висновками, які описують автори.",
+          "takeaways": [
+            "У статті наводиться оцінка, яка вказує на можливу високу поширеність ХТЕ серед колишніх гравців НФЛ.",
+            "Такі оцінки чутливі до методології та вибірки; вони підкреслюють занепокоєння, але не є остаточним доказом для всієї популяції.",
+            "Результати підкреслюють потребу в покращенні профілактики, моніторингу та досліджень щодо довгострокового стану мозку після контактних видів спорту."
+          ]
+        },
+        "fr": {
+          "title": "Une estimation suggère une forte prévalence d'ETC chez les joueurs de la NFL (estimation de population avec limites)",
+          "summary": "Un rapport présente la première estimation de la prévalence de l'encéphalopathie traumatique chronique (ETC) au sein de la NFL et suggère que jusqu'à 75 % des joueurs pourraient développer cette condition. L'article met en évidence l'ampleur des blessures cérébrales potentielles à long terme chez les footballeurs professionnels.",
+          "whyItMatters": "Si la prévalence de l'ETC dans ce groupe est élevée, cela a des implications majeures pour la santé des joueurs, les protocoles de gestion des commotions et les soins à long terme. Les estimations de ce type dépendent fortement des sources de données et de la méthodologie ; les lecteurs doivent noter les limites d'échantillonnage et d'inférence décrites par les auteurs.",
+          "takeaways": [
+            "L'article rapporte une estimation indiquant une possible forte prévalence d'ETC chez d'anciens joueurs de la NFL.",
+            "Ces estimations sont sensibles à la méthodologie et à l'échantillonnage ; elles soulignent un problème mais ne constituent pas une preuve définitive au niveau populationnel.",
+            "Les résultats renforcent la nécessité d'améliorer la prévention, la surveillance et la recherche sur la santé cérébrale à long terme après les sports de contact."
+          ]
+        },
+        "de": {
+          "title": "Schätzung deutet auf hohe Prävalenz von CTE unter NFL‑Spielern hin (Populationsschätzung mit Einschränkungen)",
+          "summary": "Ein Bericht präsentiert die erste Schätzung der Prävalenz von chronisch traumatischer Enzephalopathie (CTE) in der NFL und legt nahe, dass bis zu 75% der Spieler die Erkrankung entwickeln könnten. Der Beitrag hebt das Ausmaß potenzieller langfristiger Hirnschäden bei Profifußballspielern hervor.",
+          "whyItMatters": "Wenn die CTE‑Prävalenz in dieser Gruppe hoch ist, hat das weitreichende Folgen für die Gesundheit der Spieler, Protokolle bei Gehirnerschütterungen und die langfristige Versorgung. Solche Schätzungen hängen stark von Datenquellen und Methodik ab; Leser sollten auf die vom Autor beschriebenen Stichproben‑ und Inferenz‑Einschränkungen achten.",
+          "takeaways": [
+            "Der Artikel berichtet eine Schätzung, die auf eine mögliche hohe CTE‑Prävalenz bei ehemaligen NFL‑Spielern hinweist.",
+            "Solche Schätzungen sind empfindlich gegenüber Methodik und Stichprobenwahl; sie betonen Besorgnis, sind aber kein endgültiger Nachweis auf Bevölkerungsebene.",
+            "Die Befunde unterstreichen die Notwendigkeit verbesserter Prävention, Überwachung und Forschung zur langfristigen Gehirngesundheit nach Kontaktsportarten."
+          ]
+        },
+        "pt-br": {
+          "title": "Estimativa sugere alta prevalência de CTE entre jogadores da NFL (estimativa populacional com limitações)",
+          "summary": "Um relatório apresenta a primeira estimativa da prevalência de encefalopatia traumática crônica (CTE) na NFL e sugere que até 75% dos jogadores podem desenvolver a condição. A matéria destaca a dimensão do possível dano cerebral de longo prazo entre jogadores profissionais de futebol americano.",
+          "whyItMatters": "Se a prevalência de CTE nesse grupo for alta, isso tem grandes implicações para a saúde dos jogadores, protocolos de concussão e cuidados de longo prazo. Estimativas desse tipo dependem fortemente das fontes de dados e da metodologia; os leitores devem observar as limitações de amostragem e inferência descritas pelos autores.",
+          "takeaways": [
+            "O artigo relata uma estimativa indicando possível alta prevalência de CTE entre ex‑jogadores da NFL.",
+            "Tais estimativas são sensíveis à metodologia e à amostragem; destacam preocupação, mas não provam definitivamente valores populacionais.",
+            "Os achados reforçam a necessidade de melhor prevenção, monitoramento e pesquisa sobre saúde cerebral de longo prazo após esportes de impacto."
+          ]
+        },
+        "hu": {
+          "title": "Becslés magas CTE‑előfordulást jelez az NFL játékosok között (populációs becslés korlátokkal)",
+          "summary": "Egy beszámoló az NFL egészére kiterjedő első CTE‑előfordulás‑becslést mutat be, és azt sugallja, hogy akár a játékosok 75%-a is kialakulhat nála. A cikk kiemeli a profi amerikai futballjátékosok hosszú távú agykárosodásának esetleges nagyságrendjét.",
+          "whyItMatters": "Ha a CTE‑előfordulás ebben a csoportban magas, az jelentős következményekkel járhat a játékosok egészségére, a fejsérülés‑protokollokra és a hosszú távú ellátásra nézve. Az ilyen becslések nagy mértékben függenek az adatoktól és a módszertantól; az olvasóknak figyelembe kell venniük a szerzők által leírt mintavételi és következtetési korlátokat.",
+          "takeaways": [
+            "A cikk egy olyan becslést közöl, amely magas lehetséges CTE‑elterjedtséget jelez volt NFL‑játékosok körében.",
+            "Az ilyen becslések érzékenyek a módszertanra és a mintavételre; aggodalmakat jeleznek, de nem tekinthetők végleges népességi bizonyítéknak.",
+            "Az eredmények hangsúlyozzák a megelőzés, a nyomon követés és a hosszú távú agyegészség kutatásának szükségességét a kontakt sportok után."
+          ]
+        },
+        "ar": {
+          "title": "تقدير يشير إلى انتشار مرتفع لمرض CTE بين لاعبي الـNFL (تقدير سكاني مع حدود)",
+          "summary": "يعرض تقرير أول تقدير لانتشار الاعتلال الدماغي الرضحي المزمن (CTE) عبر دوري الNFL ويقترح أن ما يصل إلى 75% من اللاعبين قد يصابون به. يبرز المقال حجم احتمال الإصابات الدماغية طويلة الأمد بين لاعبي كرة القدم المحترفين.",
+          "whyItMatters": "إذا كان انتشار CTE في هذه الفئة عالياً فقد تكون لذلك آثار كبيرة على صحة اللاعبين، وبروتوكولات الارتجاج، والرعاية طويلة الأمد. تعتمد مثل هذه التقديرات بشدة على مصادر البيانات والمنهجية؛ يجب الانتباه لقيود العينات والاستدلال التي يصفها المؤلفون.",
+          "takeaways": [
+            "يفيد المقال بتقدير يشير إلى احتمال انتشار مرتفع للـCTE بين لاعبي الـNFL السابقين.",
+            "مثل هذه التقديرات حساسة للمنهجية والعيّنة؛ تبيّن القلق لكنها ليست دليلاً قاطعاً على مستوى السكان.",
+            "تؤكد النتائج الحاجة لتحسين الوقاية والمراقبة والبحث في صحة الدماغ طويلة الأمد بعد الرياضات الاحتكاكية."
+          ]
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=three-quarters-of-nfl-football-players-may-end-up-with-cte-5b6a0394c4b3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/three-quarters-of-nfl-football-players-may-end-up-with-cte-5b6a0394c4b3-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/three-quarters-of-nfl-football-players-may-end-up-with-cte-5b6a0394c4b3-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Estimate suggests high prevalence of CTE among NFL players (population estimate with limitations).\nStory summary: A report presents the first estimate of chronic traumatic encephalopathy (CTE) prevalence across the NFL and suggests that as many as 75% of players may develop the condition. The piece highlights the scale of potential long-term brain injury among professional football players..\nCategory: sport and health; neuroscience.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "how-a-neurologist-is-rethinking-stroke-prevention-for-the-longevi-abeb51534719",
@@ -114685,6 +115541,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-10-31-motivation-1-story-1",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Maria's Lunchbox Routine",
+          "story": "Maria is a busy parent who started packing lunches on Sunday evenings. She uses quick notes in her app to plan meals and logs each lunch honestly. Over a few weeks she noticed which combinations kept her midday energy steady and which left her reaching for snacks. Instead of aiming for perfection, Maria makes one small swap at a time — a lighter dressing, an extra veg — and records what changed. Seeing patterns helps her plan better and makes tracking feel like a helpful habit rather than a chore.",
+          "habit": "Plan and log lunches the night before.",
+          "appCta": "Open Calorie Bank Credit and track your lunch today."
+        },
+        "es": {
+          "title": "La rutina de la fiambrera de María",
+          "story": "María tiene poco tiempo entre trabajo y niños, así que decidió preparar las comidas los domingos. Anota rápido en la app lo que piensa llevar y registra cada fiambrera con sinceridad. En unas semanas vio qué combinaciones le daban energía a media mañana y cuáles la dejaban con ganas de picar. En lugar de buscar la perfección, María prueba un cambio pequeño a la vez — una salsa más ligera, una ración extra de verduras — y apunta los resultados. Ver esos patrones le ayuda a planear mejor y a disfrutar el seguimiento.",
+          "habit": "Planifica y registra las comidas la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra tu comida hoy."
+        },
+        "ru": {
+          "title": "Рутинный ланч Марии",
+          "story": "Мария — работающая мама, которая начала собирать ланчи заранее. Она быстро планирует в приложении и честно записывает каждый приём пищи. Через несколько недель Мария заметила, какие сочетания дают ей устойчивую энергию днём, а какие вызывают перекусы. Вместо стремления к идеалу она делает по одной маленькой замене — лёгкая заправка или дополнительная овощная порция — и фиксирует, что изменилось. Наблюдение за шаблонами помогает ей лучше планировать и превращает ведение записей в полезную привычку, а не в обязанность.",
+          "habit": "Планируйте и записывайте ланчи накануне вечером.",
+          "appCta": "Откройте Calorie Bank Credit и зарегистрируйте приём пищи сегодня."
+        },
+        "uk": {
+          "title": "Рутина ланчбоксу Марії",
+          "story": "Марія — зайнята мама, яка почала збирати ланчі на вихідних. Вона швидко планує в додатку й чесно записує кожну їжу. Через кілька тижнів помітила, які поєднання дають їй бадьорість удень, а які — викликають бажання перекусити. Замість прагнення до ідеалу Марія робить по одній невеличкій заміні — легша заправка або додаткові овочі — і фіксує результат. Помічати патерни допомогло їй краще планувати й сприймати відстеження як корисну звичку, а не як тягар.",
+          "habit": "Плануйте й записуйте ланчі напередодні ввечері.",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте свою їжу сьогодні."
+        },
+        "fr": {
+          "title": "La routine du déjeuner de Maria",
+          "story": "Maria, entre le travail et la famille, a pris l'habitude de préparer ses déjeuners le dimanche soir. Elle planifie rapidement ses repas dans l'application et enregistre chaque déjeuner avec honnêteté. Au bout de quelques semaines, elle a repéré quelles associations lui donnaient de l'énergie en milieu de journée et lesquelles la poussaient à grignoter. Plutôt que de viser la perfection, Maria effectue un petit changement à la fois — une vinaigrette plus légère, plus de légumes — et note l'effet. Voir ces tendances lui permet de mieux anticiper et d'adopter le suivi comme une aide pratique.",
+          "habit": "Préparez et enregistrez vos déjeuners la veille au soir.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre repas aujourd'hui."
+        },
+        "de": {
+          "title": "Marias Lunchbox-Routine",
+          "story": "Maria jongliert zwischen Arbeit und Familie und begann, ihre Mittagessen sonntags vorzubereiten. Sie plant schnell in der App und trägt jedes Mittagessen ehrlich ein. Nach ein paar Wochen bemerkte sie, welche Kombinationen ihr mittags gleichmäßige Energie gaben und welche zu Heißhunger führten. Statt Perfektion anzustreben, tauscht Maria eine Zutat nach der anderen aus — ein leichteres Dressing, mehr Gemüse — und dokumentiert die Wirkung. Das Erkennen von Mustern hilft ihr besser zu planen und macht das Tracking zu einer nützlichen Angewohnheit statt zu einer Pflicht.",
+          "habit": "Plane und protokolliere Mittagessen am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und trage dein Mittagessen heute ein."
+        },
+        "pt-br": {
+          "title": "A rotina da marmita da Maria",
+          "story": "Maria divide o tempo entre trabalho e família e passou a preparar as marmitas aos domingos. Ela planeja rápido no app e registra cada almoço com sinceridade. Em algumas semanas percebeu quais combinações mantinham sua energia à tarde e quais levavam a petiscos. Em vez de buscar perfeição, Maria faz uma pequena troca por vez — um molho mais leve, mais legumes — e anota as mudanças. Ver esses padrões ajuda a planejar melhor e faz com que o registro vire um hábito útil, não uma obrigação.",
+          "habit": "Planeje e registre o almoço na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre sua refeição hoje."
+        },
+        "hu": {
+          "title": "Mária tízórais rutinja",
+          "story": "Mária munkája és családja mellett rendszeresen vasárnap este készíti elő az ebédet. Gyorsan megtervezi a napot az appban, és őszintén rögzíti minden ebédjét. Néhány hét után észrevette, melyik ételpárosítás tartja egyenletesen az energiaszintjét, és melyik vált ki nassolási vágyat. A tökéletesség helyett apró cseréket vezet be — könnyebb öntet, több zöldség — és feljegyzi az eredményt. A minták felismerése segít jobban tervezni, és a naplózás hasznos szokássá válik, nem teherként.",
+          "habit": "Tervezd meg és jegyezd fel az ebédet az előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzítsd az ebéded ma."
+        },
+        "ar": {
+          "title": "روتين غداء مريم",
+          "story": "مريم أم مشغولة بدأت تُعد وجبات الغداء قبل أيام العمل. تخطط بسرعة في التطبيق وتسجل كل غداء بصدق. بعد بضعة أسابيع لاحظت أي تركيبات تمنحها طاقة مستقرة خلال النهار وأيها يدفعها للتسالى. بدلاً من السعي للكمال، تُجري مريم تغييراً صغيراً كل مرة — تتبدل الصلصة بخفيفة أو تضيف خضاراً — وتسجل النتائج. رؤية الأنماط تساعدها على التخطيط بشكل أفضل وتجعل التتبع عادة مفيدة بدلاً من مهمة مرهقة.",
+          "habit": "خطط وسجل الغداء في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجل وجبتك اليوم."
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maria's Lunchbox Routine.\nStory: Maria is a busy parent who started packing lunches on Sunday evenings. She uses quick notes in her app to plan meals and logs each lunch honestly. Over a few weeks she noticed which combinations kept her midday energy steady and which left her reaching for snacks. Instead of aiming for perfection, Maria makes one small swap at a time — a lighter dressing, an extra veg — and records what changed. Seeing patterns helps her plan better and makes tracking feel like a helpful habit rather than a chore..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-31-motivation-2-story-2",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Noon Snack Check — Jamal's Discovery",
+          "story": "Jamal started adding short notes to each mid-afternoon snack he ate at the office. He didn't restrict himself, he just recorded what and when. Over time he noticed a pattern: certain meetings led to quick, mindless munching. With that insight he experimented — bringing a different snack, taking a five-minute walk, or pouring a cup of tea — and logged the results. Those small adjustments helped him make calmer choices during busy days. Tracking became a tool to understand his habits, not a test of willpower.",
+          "habit": "Log snacks immediately after you eat them.",
+          "appCta": "Open Calorie Bank Credit and log a snack today."
+        },
+        "es": {
+          "title": "Chequeo de la media tarde — el descubrimiento de Jamal",
+          "story": "Jamal empezó a anotar de forma breve cada snack de la tarde en la oficina. No se prohibió nada, solo registró qué y cuándo comía. Con el tiempo vio un patrón: ciertas reuniones le llevaban a picar sin pensar. Con esa observación probó alternativas — llevar otro snack, caminar cinco minutos o prepararse un té — y apuntó qué pasaba. Esos pequeños cambios le ayudaron a elegir con más calma en días ocupados. El registro se volvió una herramienta para entender sus hábitos, no una prueba de fuerza de voluntad.",
+          "habit": "Registra los snacks justo después de comerlos.",
+          "appCta": "Abre Calorie Bank Credit y registra un snack hoy."
+        },
+        "ru": {
+          "title": "Полдник — открытие Джамаля",
+          "story": "Джамаль стал коротко заносить в приложение каждый полуденный перекус в офисе. Он ничего не запрещал себе, просто записывал что и когда ест. Постепенно обнаружился паттерн: определённые совещания провоцировали бесконтрольные перекусы. Осознав это, он попробовал небольшие изменения — приносил другой перекус, выходил на 5 минут прогуляться или заваривал чай — и фиксировал результат. Эти мелкие шаги помогли ему спокойнее выбирать в напряжённые дни. Ведение записей стало способом понять привычки, а не мерилом силы воли.",
+          "habit": "Записывайте перекусы сразу после еды.",
+          "appCta": "Откройте Calorie Bank Credit и внесите перекус сегодня."
+        },
+        "uk": {
+          "title": "Полуденний перекус — відкриття Джамаля",
+          "story": "Джамаль почав коротко записувати кожний полуденний перекус в офісі. Він нічого не забороняв собі, просто фіксував що і коли з'їв. З часом з'явився патерн: деякі наради стимулювали бездумні перекуси. Помітивши це, він експериментував — приносив інший перекус, виходив на п'ятихвилинну прогулянку або заварював чай — і записував результати. Ці невеликі зміни допомогли йому робити спокійніші вибори в напружені дні. Відстеження стало інструментом для розуміння звичок, а не випробуванням сили волі.",
+          "habit": "Записуйте перекуси відразу після їжі.",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте перекус сьогодні."
+        },
+        "fr": {
+          "title": "Le coup de barre de 15h — la découverte de Jamal",
+          "story": "Jamal a commencé à noter brièvement chaque snack de l'après-midi pris au bureau. Il ne se privait pas, il consignait simplement quoi et quand il mangeait. Progressivement, un schéma est apparu : certaines réunions le poussaient à grignoter sans y penser. Grâce à cette prise de conscience, il a testé des alternatives — un autre encas, une marche de cinq minutes ou une tasse de thé — et noté les effets. Ces petits ajustements l'ont aidé à choisir avec plus de calme lors des journées chargées. Le suivi est devenu un outil de compréhension, pas une épreuve.",
+          "habit": "Enregistrez vos snacks juste après les avoir pris.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un snack aujourd'hui."
+        },
+        "de": {
+          "title": "Nachmittags-Snack — Jamals Erkenntnis",
+          "story": "Jamal notierte seit Kurzem jeden kleinen Snack am Nachmittag im Büro. Er verbot sich nichts, sondern trug ehrlich ein, was und wann er naschte. Nach einer Weile zeigte sich ein Muster: bestimmte Meetings führten zu unbewusstem Naschen. Mit dieser Einsicht probierte er Alternativen — einen anderen Snack mitbringen, fünf Minuten spazieren gehen oder eine Tasse Tee — und dokumentierte die Wirkung. Kleine Anpassungen halfen ihm, an geschäftigen Tagen ruhiger zu entscheiden. Tracking wurde für ihn ein Werkzeug zum Verstehen, kein Test der Willenskraft.",
+          "habit": "Trage Snacks sofort nach dem Essen ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute einen Snack ein."
+        },
+        "pt-br": {
+          "title": "Checagem do lanche da tarde — descoberta do Jamal",
+          "story": "Jamal passou a anotar rapidamente cada lanche da tarde no escritório. Ele não se privou, apenas registrou o que e quando comia. Com o tempo percebeu um padrão: certas reuniões o levavam a beliscar sem pensar. Com essa percepção, experimentou alternativas — levar um lanche diferente, caminhar cinco minutos ou tomar um chá — e registrou os resultados. Pequenas mudanças ajudaram-no a escolher com mais calma em dias corridos. O registro virou uma ferramenta para entender hábitos, não uma prova de força de vontade.",
+          "habit": "Registre os lanches imediatamente após comer.",
+          "appCta": "Abra o Calorie Bank Credit e registre um lanche hoje."
+        },
+        "hu": {
+          "title": "Délutáni nasi — Jamal felismerése",
+          "story": "Jamal elkezdte röviden feljegyezni az irodai délutáni nassolásait. Nem tiltott meg semmit magának, egyszerűen rögzítette, mit és mikor eszik. Hamarosan mintázat rajzolódott ki: bizonyos megbeszélések váltották ki a gondolatlan csipegetést. Ezt felismerve más lehetőségeket próbált ki — más típusú nasit vitt, öt percet sétált vagy teát főzött — és lejegyezte az eredményt. A kis változtatások segítettek nyugodtabb döntéseket hozni zsúfolt napokon. A naplózás eszközzé vált a szokások megértéséhez, nem akaraterő-próbává.",
+          "habit": "Jegyezd fel a nasit azonnal, miután megetted.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezz fel egy nassolnivalót ma."
+        },
+        "ar": {
+          "title": "فحص الوجبة الخفيفة ظهراً — اكتشاف جمال",
+          "story": "بدأ جمال بكتابة ملاحظات قصيرة عن كل وجبة خفيفة يتناولها بعد الظهيرة في المكتب. لم يمنع نفسه، بل سجل بصراحة ماذا ومتى يأكل. مع الوقت لاحظ نمطاً: بعض الاجتماعات تدفعه للأكل دون وعي. بناءً على ذلك جرب بدائل — إحضار وجبة خفيفة مختلفة، المشي لخمس دقائق، أو شرب كوب شاي — وسجل النتيجة. تلك التغييرات الصغيرة ساعدته على اتخاذ خيارات أكثر هدوءاً في الأيام المزدحمة. أصبح التتبع أداة لفهم عاداته وليس اختباراً لقوة الإرادة.",
+          "habit": "سجل الوجبات الخفيفة فور تناولها.",
+          "appCta": "افتح Calorie Bank Credit وسجل وجبة خفيفة اليوم."
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Noon Snack Check — Jamal's Discovery.\nStory: Jamal started adding short notes to each mid-afternoon snack he ate at the office. He didn't restrict himself, he just recorded what and when. Over time he noticed a pattern: certain meetings led to quick, mindless munching. With that insight he experimented — bringing a different snack, taking a five-minute walk, or pouring a cup of tea — and logged the results. Those small adjustments helped him make calmer choices during busy days. Tracking became a tool to understand his habits, not a test of willpower..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-31-motivation-3-story-3",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Lena's Weekend Cooking Experiments",
+          "story": "Lena enjoys cooking on weekends and started measuring a few ingredients to better estimate portions. She keeps short notes in her app about recipes she likes and how she tweaks them — a bit less oil, a different grain, or an extra handful of greens. When she logs those meals she can compare how different choices made her feel the next day. That gentle curiosity turned cooking into a learning habit: small experiments, honest logging, and gradual improvements that fit her life instead of strict rules.",
+          "habit": "Measure one ingredient and log it when you cook.",
+          "appCta": "Open Calorie Bank Credit and log a recipe today."
+        },
+        "es": {
+          "title": "Los experimentos culinarios de fin de semana de Lena",
+          "story": "A Lena le gusta cocinar los fines de semana y empezó a medir algunos ingredientes para estimar mejor las raciones. En la app anota brevemente las recetas que le gustan y las variaciones que prueba — un poco menos de aceite, otro cereal o un puñado extra de verduras. Al registrar esas comidas puede comparar cómo le sentaron al día siguiente. Esa curiosidad amigable convirtió cocinar en un hábito de aprendizaje: pequeños experimentos, registro honesto y mejoras graduales que encajan con su vida, sin seguir reglas rígidas.",
+          "habit": "Mide un ingrediente y regístralo cuando cocines.",
+          "appCta": "Abre Calorie Bank Credit y registra una receta hoy."
+        },
+        "ru": {
+          "title": "Кулинарные эксперименты Лены",
+          "story": "Лена любит готовить по выходным и начала измерять несколько ингредиентов, чтобы точнее оценивать порции. В приложении она кратко записывает любимые рецепты и свои правки — чуть меньше масла, другая крупа или лишняя горсть зелени. Записывая такие блюда, Лена может сравнить, как разные решения отражаются на самочувствии на следующий день. Такая бережная любознательность превратила готовку в привычку обучения: маленькие эксперименты, честные записи и постепенные улучшения, которые вписываются в её жизнь, а не в строгие правила.",
+          "habit": "Измерьте один ингредиент и запишите его при готовке.",
+          "appCta": "Откройте Calorie Bank Credit и внесите рецепт сегодня."
+        },
+        "uk": {
+          "title": "Кулінарні експерименти Лени",
+          "story": "Лена любить готувати на вихідних і почала вимірювати кілька інгредієнтів, щоб краще оцінювати порції. Вона коротко записує в додатку улюблені рецепти та зміни — трохи менше олії, інше зерно або додає зайвий пучок зелені. Коли фіксує такі страви, може порівняти, як різні варіанти впливають на самопочуття наступного дня. Така м’яка допитливість зробила кулінарію звичкою навчання: невеликі експерименти, чесні записи й поступові покращення, що підлаштовуються під її життя, а не під жорсткі правила.",
+          "habit": "Виміряйте один інгредієнт і запишіть його під час готування.",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте рецепт сьогодні."
+        },
+        "fr": {
+          "title": "Les essais culinaires du week-end de Lena",
+          "story": "Lena aime cuisiner le week-end et a commencé à mesurer quelques ingrédients pour mieux estimer les portions. Elle note brièvement dans l'application les recettes qu'elle aime et les ajustements qu'elle teste — un peu moins d'huile, une céréale différente, une poignée de légumes en plus. En enregistrant ces plats, elle peut comparer comment ses choix l'ont fait sentir le lendemain. Cette curiosité bienveillante a transformé la cuisine en une habitude d'apprentissage : petits essais, enregistrement honnête et améliorations progressives qui s'adaptent à sa vie, sans contraintes strictes.",
+          "habit": "Mesurez un ingrédient et enregistrez-le quand vous cuisinez.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez une recette aujourd'hui."
+        },
+        "de": {
+          "title": "Lenas Koch-Experimente am Wochenende",
+          "story": "Lena kocht gern am Wochenende und begann, einige Zutaten zu wiegen, um Portionen besser einzuschätzen. In der App notiert sie kurz ihre Lieblingsrezepte und wie sie sie abwandelt — etwas weniger Öl, anderes Getreide oder eine extra Handvoll Gemüse. Wenn sie diese Mahlzeiten einträgt, kann sie vergleichen, wie sich die unterschiedlichen Entscheidungen am nächsten Tag anfühlen. Diese neugierige Herangehensweise machte das Kochen zur Lerngewohnheit: kleine Experimente, ehrliches Eintragen und schrittweise Verbesserungen, die zu ihrem Leben passen und keine strikten Regeln sind.",
+          "habit": "Miss eine Zutat und trage sie beim Kochen ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein Rezept ein."
+        },
+        "pt-br": {
+          "title": "Os experimentos culinários de fim de semana da Lena",
+          "story": "Lena gosta de cozinhar aos finais de semana e passou a medir alguns ingredientes para estimar melhor as porções. No app ela anota rapidamente as receitas favoritas e as alterações que faz — um pouco menos de óleo, outro grão ou um punhado extra de verduras. Ao registrar essas refeições, consegue comparar como diferentes escolhas afetaram seu bem-estar no dia seguinte. Essa curiosidade suave transformou a cozinha em um hábito de aprendizado: pequenos experimentos, registro honesto e melhorias graduais que se encaixam na vida dela, sem regras rígidas.",
+          "habit": "Meça um ingrediente e registre-o ao cozinhar.",
+          "appCta": "Abra o Calorie Bank Credit e registre uma receita hoje."
+        },
+        "hu": {
+          "title": "Lena hétvégi főzős kísérletei",
+          "story": "Lena szeret főzni hétvégén, és elkezdett néhány hozzávalót lemérni, hogy jobban belője a adagokat. Az appban röviden feljegyzi a kedvenc recepteket és az apróbb módosításokat — kevesebb olaj, más gabona vagy egy marék zöldség pluszban. Ha rögzíti ezeket az ételeket, össze tudja hasonlítani, hogyan hatottak rá másnap. Ez a kíváncsi, de nyugodt megközelítés a főzést tanulási szokássá tette: kis kísérletek, őszinte rögzítés és fokozatos javítások, amelyek illeszkednek az életéhez.",
+          "habit": "Mérj le egy hozzávalót és rögzítsd főzés közben.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts egy receptet ma."
+        },
+        "ar": {
+          "title": "تجارب الطبخ في عطلة نهاية الأسبوع مع لينا",
+          "story": "لينا تحب الطبخ في عطلات نهاية الأسبوع وبدأت تقيس بعض المكونات لتقدير الحصص بدقة أكبر. تدون سريعاً في التطبيق الوصفات التي تحبها وما تُعدّل عليها — زيت أقل، نوع حبوب مختلف، أو حفنة إضافية من الخضار. عندما تسجل هذه الوجبات يمكنها مقارنة كيف أثرت الاختيارات المختلفة على شعورها في اليوم التالي. هذا الفضول الهادف حوّل الطبخ إلى عادة تعلم: تجارب صغيرة، تسجيل صادق، وتحسينات تدريجية تتوافق مع حياتها دون قواعد صارمة.",
+          "habit": "قِس مكوناً واحداً وسجّله أثناء الطهي.",
+          "appCta": "افتح Calorie Bank Credit وسجل وصفة اليوم."
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Lena's Weekend Cooking Experiments.\nStory: Lena enjoys cooking on weekends and started measuring a few ingredients to better estimate portions. She keeps short notes in her app about recipes she likes and how she tweaks them — a bit less oil, a different grain, or an extra handful of greens. When she logs those meals she can compare how different choices made her feel the next day. That gentle curiosity turned cooking into a learning habit: small experiments, honest logging, and gradual improvements that fit her life instead of strict rules..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-10-31-motivation-4-story-4",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Otto's Gentle Consistency",
+          "story": "Otto likes a simple, steady routine: a morning walk, tea at 10, and a light dinner. He started using his app to mark at least one meal every day, even on days when he forgot other entries. Over months he saw trends — days with late dinners felt different from days with earlier meals — and he used that insight to adjust timing rather than to judge himself. Otto treats tracking as a friendly log of his days: consistent, gentle, and flexible when life gets busy. That approach makes it easier to keep going.",
+          "habit": "Record at least one meal every day.",
+          "appCta": "Open Calorie Bank Credit and add one meal today."
+        },
+        "es": {
+          "title": "La constancia tranquila de Otto",
+          "story": "Otto mantiene una rutina sencilla: paseo matutino, té a las diez y cena ligera. Empezó a usar la app para registrar al menos una comida al día, incluso en días en que olvidaba otros registros. Con el tiempo vio tendencias: los días con cenas tarde se sentían distintos a los de cenas tempranas, y usó esa información para ajustar horarios sin juzgarse. Otto considera el seguimiento como un registro amistoso de sus días: constante, amable y flexible cuando la vida se complica. Ese enfoque le ayuda a perseverar.",
+          "habit": "Registra al menos una comida cada día.",
+          "appCta": "Abre Calorie Bank Credit y añade una comida hoy."
+        },
+        "ru": {
+          "title": "Нежная последовательность Отто",
+          "story": "Отто любит простую рутину: утренняя прогулка, чай в десять и лёгкий ужин. Он начал отмечать в приложении хотя бы один приём пищи в день, даже если забывал другие записи. Месяцы наблюдений показали тенденции — дни с поздними ужинами ощущались иначе, чем с ранними — и он использовал это знание, чтобы подстроить расписание, а не ругать себя. Отто воспринимает отслеживание как дружелюбный дневник: последовательный, мягкий и гибкий, когда жизнь становится занятой. Такой подход помогает не бросать.",
+          "habit": "Записывайте хотя бы один приём пищи в день.",
+          "appCta": "Откройте Calorie Bank Credit и добавьте одну еду сегодня."
+        },
+        "uk": {
+          "title": "Ніжна послідовність Отто",
+          "story": "Отто дотримується простої рутини: ранкова прогулянка, чай о 10 і легка вечеря. Він почав відмічати в додатку хоча б один прийом їжі щодня, навіть у ті дні, коли забував інші записи. Протягом місяців він помітив тенденції — дні з пізніми вечері відчувалися інакше, ніж з ранніми — і використовував це для підстроювання часу, а не для самокритики. Отто сприймає відстеження як дружній журнал: послідовний, м'який і гнучкий, коли життя зайняте. Такий підхід допомагає йому не кидати.",
+          "habit": "Записуйте щонайменше один прийом їжі щодня.",
+          "appCta": "Відкрийте Calorie Bank Credit і додайте одну їжу сьогодні."
+        },
+        "fr": {
+          "title": "La constance douce d'Otto",
+          "story": "Otto aime une routine simple : une promenade matinale, un thé à 10h et un dîner léger. Il a commencé à utiliser l'application pour inscrire au moins un repas chaque jour, même les jours où il oubliait d'autres enregistrements. Au fil des mois, il a observé des tendances — les jours avec dîner tardif le faisaient se sentir différemment — et il a ajusté ses horaires sans jugement. Otto voit le suivi comme un journal bienveillant de ses journées : constant, doux et flexible quand la vie est chargée. Cette approche facilite la continuité.",
+          "habit": "Enregistrez au moins un repas chaque jour.",
+          "appCta": "Ouvrez Calorie Bank Credit et ajoutez un repas aujourd'hui."
+        },
+        "de": {
+          "title": "Ottos sanfte Beständigkeit",
+          "story": "Otto mag eine einfache, gleichbleibende Routine: Morgenspaziergang, Tee um 10 und ein leichtes Abendessen. Er begann, in der App täglich mindestens eine Mahlzeit zu markieren, auch an Tagen, an denen er sonst Einträge vergaß. Im Laufe der Monate sah er Muster — Tage mit späterem Abendessen fühlten sich anders an als solche mit früherem — und nutzte diese Erkenntnis, um den Ablauf anzupassen, statt sich selbst zu verurteilen. Otto betrachtet das Tracking als freundliches Protokoll seiner Tage: beständig, sanft und flexibel, wenn das Leben voll wird. Das macht es ihm leichter dranzubleiben.",
+          "habit": "Erfasse täglich mindestens eine Mahlzeit.",
+          "appCta": "Öffne Calorie Bank Credit und füge heute eine Mahlzeit hinzu."
+        },
+        "pt-br": {
+          "title": "A constância gentil de Otto",
+          "story": "Otto gosta de uma rotina simples e constante: caminhada matinal, chá às 10h e jantar leve. Ele passou a usar o app para marcar pelo menos uma refeição por dia, mesmo nos dias em que esquecia outros registros. Ao longo de meses percebeu padrões — dias com jantares tardios tinham sensação diferente dos com jantares cedo — e usou essa percepção para ajustar horários, sem se julgar. Otto vê o registro como um diário amigo dos seus dias: consistente, gentil e flexível quando a vida fica corrida. Esse jeito facilita continuar.",
+          "habit": "Registre pelo menos uma refeição por dia.",
+          "appCta": "Abra o Calorie Bank Credit e adicione uma refeição hoje."
+        },
+        "hu": {
+          "title": "Otto nyugodt következetessége",
+          "story": "Ottónak egyszerű rutinja van: reggeli séta, tea tízkor és egy könnyű vacsora. Elkezdte az appban naponta legalább egy étkezést rögzíteni, akkor is, ha más bejegyzéseket elfelejtett. Hónapok alatt mintákat látott — a késői vacsorás napok másképp hatottak rá, mint a korábbiak — és ezt az információt inkább időzítés módosítására használta, mint önvádra. Ottó a naplózást barátságos naplóként kezeli: következetes, gyengéd és rugalmas, amikor az élet sűrű. Ez a hozzáállás segít kitartani.",
+          "habit": "Jegyezz fel naponta legalább egy étkezést.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és adj hozzá egy étkezést ma."
+        },
+        "ar": {
+          "title": "ثبات أوتو الهادئ",
+          "story": "يحب أوتو روتيناً بسيطاً وثابتاً: مشي صباحي، وشاي في العاشرة، وعشاء خفيف. بدأ يستخدم التطبيق لتسجيل وجبة واحدة على الأقل يومياً، حتى في الأيام التي ينسى فيها إدخالات أخرى. على مدى أشهر لاحظ أنماطاً — الأيام التي يأكل فيها في وقت متأخر تختلف عن الأيام المبكرة — فاستَخدم تلك الملاحظة لتعديل مواعيده بدل أن يحكم على نفسه. يعتبر أوتو التتبع سجلاً ودوداً لأيامه: ثابتاً، لطيفاً، ومرناً عندما تصبح الحياة مشغولة. هذا النهج يسهل الاستمرار.",
+          "habit": "سجل وجبة واحدة على الأقل كل يوم.",
+          "appCta": "افتح Calorie Bank Credit وأضف وجبة اليوم."
+        }
+      },
+      "generatedAt": "2026-10-31T12:51:56.253Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-10-31-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Otto's Gentle Consistency.\nStory: Otto likes a simple, steady routine: a morning walk, tea at 10, and a light dinner. He started using his app to mark at least one meal every day, even on days when he forgot other entries. Over months he saw trends — days with late dinners felt different from days with earlier meals — and he used that insight to adjust timing rather than to judge himself. Otto treats tracking as a friendly log of his days: consistent, gentle, and flexible when life gets busy. That approach makes it easier to keep going..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-10-30-motivation-1-story-plan-lunch",
       "category": "calorie-tracking",
