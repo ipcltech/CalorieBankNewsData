@@ -1,8 +1,864 @@
 {
-  "generatedAt": "2026-11-01T13:43:52.897Z",
+  "generatedAt": "2026-11-02T16:22:30.758Z",
   "sourceCount": 35,
-  "availableSourceCount": 34,
+  "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "glp-1-drugs-may-help-combat-antipsychotic-weight-gain-in-schizoph-f8598e12856c",
+      "category": "healthy ageing and longevity",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/spotlight/schizophrenia/123671",
+      "sourceTitle": "GLP-1 Drugs May Help Combat Antipsychotic Weight Gain in Schizophrenia",
+      "publishedAt": "Mon, 02 Nov 2026 09:55:51 -0500",
+      "languages": {
+        "en": {
+          "title": "Interest in GLP‑1 receptor agonists to address antipsychotic-related metabolic harm",
+          "summary": "MedPage Today reports growing attention to GLP‑1 receptor agonists as a potential way to mitigate weight gain and metabolic effects associated with antipsychotic medications in people with schizophrenia, a population with elevated cardiometabolic risk.",
+          "whyItMatters": "Antipsychotic-induced metabolic problems contribute to reduced life expectancy in serious mental illness; repurposing GLP‑1 drugs could address this unmet need, but evidence on efficacy and safety in this specific context is still emerging.",
+          "takeaways": [
+            "GLP‑1 drugs are being investigated as a strategy to reduce antipsychotic-associated weight gain and metabolic harm.",
+            "This reporting summarises evolving evidence — clinicians should await robust trial data specific to this population before routine adoption.",
+            "Any treatment decisions must balance potential metabolic benefits against safety, psychiatric stability and access considerations."
+          ]
+        },
+        "es": {
+          "title": "Interés en agonistas del receptor GLP‑1 para abordar el daño metabólico relacionado con antipsicóticos",
+          "summary": "MedPage Today informa sobre el creciente interés en los agonistas del receptor GLP‑1 como una posible forma de mitigar el aumento de peso y los efectos metabólicos asociados con los antipsicóticos en personas con esquizofrenia, población con riesgo cardiometabólico elevado.",
+          "whyItMatters": "Los problemas metabólicos inducidos por antipsicóticos contribuyen a la reducción de la esperanza de vida en enfermedades mentales graves; reutilizar fármacos GLP‑1 podría abordar esta necesidad no cubierta, pero la evidencia sobre eficacia y seguridad en este contexto específico aún está emergiendo.",
+          "takeaways": [
+            "Los fármacos GLP‑1 se investigan como estrategia para reducir el aumento de peso y el daño metabólico asociado a antipsicóticos.",
+            "La cobertura resume una evidencia en evolución: los clínicos deberían esperar datos sólidos de ensayos específicos antes de adoptar su uso de rutina.",
+            "Cualquier decisión terapéutica debe sopesar los posibles beneficios metabólicos frente a la seguridad, la estabilidad psiquiátrica y las cuestiones de acceso."
+          ]
+        },
+        "ru": {
+          "title": "Интерес к агонистам рецептора GLP‑1 для борьбы с метаболическими побочными эффектами антипсихотиков",
+          "summary": "MedPage Today сообщает о возросшем интересе к агонистам рецептора GLP‑1 как возможному способу смягчить прибавку в весе и метаболические эффекты, связанные с приемом антипсихотиков у людей с шизофренией — группы с повышенным кардиометаболическим риском.",
+          "whyItMatters": "Метаболические проблемы, вызванные антипсихотиками, способствуют снижению продолжительности жизни при тяжёлых психических заболеваниях; перепрофилирование препаратов GLP‑1 может решить эту неудовлетворённую потребность, но доказательства эффективности и безопасности в этой конкретной популяции пока формируются.",
+          "takeaways": [
+            "Препараты GLP‑1 изучаются как стратегия для снижения увеличения веса и метаболического вреда, связанного с антипсихотиками.",
+            "Материал суммирует развивающиеся данные — клиницистам следует дождаться надёжных результатов специальных испытаний перед повсеместным применением.",
+            "Любое решение о лечении должно учитывать баланс между потенциальными метаболическими преимуществами, безопасностью, психиатрической стабильностью и доступностью."
+          ]
+        },
+        "uk": {
+          "title": "Зацікавленість агоністами рецептора GLP‑1 для боротьби з метаболічними наслідками антипсихотиків",
+          "summary": "MedPage Today повідомляє про зростаючу увагу до агоністів рецептора GLP‑1 як потенційного способу зменшити збільшення ваги та метаболічні ефекти, пов’язані з антипсихотичними препаратами у людей із шизофренією, групи з підвищеним кардіометаболічним ризиком.",
+          "whyItMatters": "Метаболічні проблеми, спричинені антипсихотиками, сприяють зниженню тривалості життя при тяжких психічних розладах; перенаправлення застосування препаратів GLP‑1 може допомогти заповнити цю невирішену потребу, але дані про ефективність і безпеку саме в цій популяції все ще з’являються.",
+          "takeaways": [
+            "Препарати GLP‑1 досліджуються як стратегія зменшення пов’язаного з антипсихотиками збільшення ваги та метаболічної шкоди.",
+            "Цей матеріал підсумовує розвиваючіся докази — клініцистам слід чекати на міцні дані з випробувань, специфічних для цієї популяції, перед рутинним впровадженням.",
+            "Будь‑які рішення щодо лікування мають зважувати потенційні метаболічні вигоди проти питань безпеки, психіатричної стабільності та доступності."
+          ]
+        },
+        "fr": {
+          "title": "Intérêt pour les agonistes du récepteur GLP‑1 afin de limiter les effets métaboliques liés aux antipsychotiques",
+          "summary": "MedPage Today rapporte un intérêt croissant pour les agonistes du récepteur GLP‑1 comme moyen potentiel d’atténuer la prise de poids et les effets métaboliques associés aux antipsychotiques chez les personnes atteintes de schizophrénie, une population à risque cardiométabolique accru.",
+          "whyItMatters": "Les troubles métaboliques induits par les antipsychotiques contribuent à la réduction de l’espérance de vie chez les personnes atteintes de maladies mentales sévères ; le repositionnement des médicaments GLP‑1 pourrait répondre à ce besoin non satisfait, mais les preuves d’efficacité et de sécurité dans ce contexte sont encore en développement.",
+          "takeaways": [
+            "Les médicaments GLP‑1 sont étudiés comme stratégie pour réduire la prise de poids et les dommages métaboliques associés aux antipsychotiques.",
+            "Ce reportage résume des preuves évolutives — les cliniciens devraient attendre des essais robustes spécifiques à cette population avant une adoption systématique.",
+            "Toute décision thérapeutique doit peser les bénéfices métaboliques potentiels contre la sécurité, la stabilité psychiatrique et les questions d’accès."
+          ]
+        },
+        "de": {
+          "title": "Interesse an GLP‑1‑Rezeptoragonisten zur Bekämpfung antipsychotika‑bedingter Stoffwechselschäden",
+          "summary": "MedPage Today berichtet über wachsende Aufmerksamkeit für GLP‑1‑Rezeptoragonisten als mögliche Option, um Gewichtszunahme und metabolische Effekte, die mit Antipsychotika bei Menschen mit Schizophrenie verbunden sind, zu mildern — einer Gruppe mit erhöhtem kardiometabolischem Risiko.",
+          "whyItMatters": "Antipsychotika‑induzierte metabolische Probleme tragen zur verkürzten Lebenserwartung bei schweren psychischen Erkrankungen bei; die Umwidmung von GLP‑1‑Medikamenten könnte dieses ungedeckte Bedürfnis adressieren. Allerdings sind Daten zur Wirksamkeit und Sicherheit in diesem speziellen Kontext noch im Entstehen begriffen.",
+          "takeaways": [
+            "GLP‑1‑Medikamente werden untersucht, um antipsychotika‑assoziierte Gewichtszunahme und metabolische Schäden zu reduzieren.",
+            "Die Berichterstattung fasst sich entwickelnde Evidenz zusammen — Kliniker sollten auf robuste, populationsspezifische Studiendaten warten, bevor sie dies routinemäßig einsetzen.",
+            "Therapieentscheidungen müssen potenzielle metabolische Vorteile gegen Sicherheitsaspekte, psychiatrische Stabilität und Zugangsfragen abwägen."
+          ]
+        },
+        "pt-br": {
+          "title": "Interesse em agonistas do receptor GLP‑1 para enfrentar prejuízos metabólicos relacionados a antipsicóticos",
+          "summary": "A MedPage Today relata crescente atenção aos agonistas do receptor GLP‑1 como possível forma de mitigar ganho de peso e efeitos metabólicos associados a medicamentos antipsicóticos em pessoas com esquizofrenia, população com risco cardiometabólico elevado.",
+          "whyItMatters": "Problemas metabólicos induzidos por antipsicóticos contribuem para redução da expectativa de vida em transtornos psiquiátricos graves; o reaproveitamento de drogas GLP‑1 poderia atender essa necessidade não satisfeita, mas as evidências sobre eficácia e segurança nesse contexto específico ainda estão emergindo.",
+          "takeaways": [
+            "Drogas GLP‑1 estão sendo investigadas como estratégia para reduzir ganho de peso e prejuízos metabólicos associados a antipsicóticos.",
+            "A reportagem resume evidências em evolução — clínicos devem aguardar dados robustos de ensaios específicos nessa população antes da adoção rotineira.",
+            "Decisões terapêuticas precisam equilibrar potenciais benefícios metabólicos com segurança, estabilidade psiquiátrica e questões de acesso."
+          ]
+        },
+        "hu": {
+          "title": "Növekvő érdeklődés a GLP‑1 receptor agonisták iránt az antipszichotikumokkal kapcsolatos metabolikus károk enyhítésére",
+          "summary": "A MedPage Today szerint egyre nagyobb figyelem irányul a GLP‑1 receptor agonistákra mint lehetséges módszerre az antipszichotikumok által okozott testsúlygyarapodás és anyagcserehatások mérséklésére szkizofréniás betegek körében, akiknél fokozott kardiometabolikus kockázat áll fenn.",
+          "whyItMatters": "Az antipszichotikumok okozta metabolikus problémák hozzájárulnak a súlyos mentális betegségekben a csökkent élettartamhoz; a GLP‑1 gyógyszerek újrapozícionálása kezelhetné ezt a nem kielégített igényt, de a hatékonyságra és biztonságra vonatkozó bizonyítékok ebben a konkrét kontextusban még kialakulóban vannak.",
+          "takeaways": [
+            "A GLP‑1 gyógyszereket vizsgálják az antipszichotikumokhoz kötődő testsúlygyarapodás és metabolikus károk csökkentésére.",
+            "A beszámoló az alakuló bizonyítékokat foglalja össze — a klinikusoknak várniuk kell a robusztus, specifikus populációra vonatkozó vizsgálati adatokat a rutinszerű alkalmazás előtt.",
+            "Bármilyen kezelési döntésnél mérlegelni kell a lehetséges metabolikus előnyöket a biztonsággal, a pszichiátriai stabilitással és a hozzáférhetőséggel."
+          ]
+        },
+        "ar": {
+          "title": "اهتمام بعقاقير GLP‑1 لمعالجة زيادة الوزن والضرر الأيضي المرتبط بمضادات الذهان",
+          "summary": "تذكر MedPage Today تزايد الاهتمام بمحفّزات مستقبلات GLP‑1 كوسيلة محتملة للتخفيف من زيادة الوزن والتأثيرات الأيضية المرتبطة بأدوية مضادات الذهان لدى الأشخاص المصابين بالفصام، وهي فئة ذات خطر قلب‑استقلابي مرتفع.",
+          "whyItMatters": "تساهم المشاكل الأيضية الناجمة عن مضادات الذهان في تقصير العمر لدى الأشخاص المصابين باضطرابات نفسية شديدة؛ وقد يعالج إعادة توظيف أدوية GLP‑1 هذه الحاجة غير الملبّاة، لكن الأدلة على الفعالية والسلامة في هذا السياق المحدد لا تزال قيد التطور.",
+          "takeaways": [
+            "تُجري دراسات على أدوية GLP‑1 كاستراتيجية لتقليل زيادة الوزن والضرر الأيضي المرتبط بمضادات الذهان.",
+            "التقرير يلخّص أدلة متطورة — وينبغي على الأطباء انتظار بيانات تجارب قوية ومحددة لهذه الفئة قبل التبني الروتيني.",
+            "يجب موازنة أي قرار علاجي بين الفوائد الأيضية المحتملة، وسلامة المريض، واستقرار الحالة النفسية، وإمكانية الوصول إلى العلاج."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glp-1-drugs-may-help-combat-antipsychotic-weight-gain-in-schizoph-f8598e12856c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp-1-drugs-may-help-combat-antipsychotic-weight-gain-in-schizoph-f8598e12856c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp-1-drugs-may-help-combat-antipsychotic-weight-gain-in-schizoph-f8598e12856c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Interest in GLP‑1 receptor agonists to address antipsychotic-related metabolic harm.\nStory summary: MedPage Today reports growing attention to GLP‑1 receptor agonists as a potential way to mitigate weight gain and metabolic effects associated with antipsychotic medications in people with schizophrenia, a population with elevated cardiometabolic risk..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "experts-say-high-blood-pressure-guidelines-are-missing-half-the-e-19314be503eb",
+      "category": "hypertension",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261102075553.htm",
+      "sourceTitle": "Experts say high blood pressure guidelines are missing half the equation",
+      "publishedAt": "Mon, 02 Nov 2026 08:10:42 EST",
+      "languages": {
+        "en": {
+          "title": "Report suggests increasing potassium intake should be paired with sodium reduction for better blood pressure control",
+          "summary": "A new report argues that current approaches to managing high blood pressure focus too narrowly on lowering sodium and that increasing dietary potassium — for example from fruits and vegetables — combined with reduced sodium may offer greater benefits.",
+          "whyItMatters": "Dietary advice that considers both sodium and potassium could shift public-health strategies for blood pressure control, but the report reflects expert interpretation and synthesis rather than a single new randomized trial.",
+          "takeaways": [
+            "Researchers call for rethinking guidelines to emphasise both reducing sodium and increasing potassium intake.",
+            "Potassium-rich foods (e.g., fruits, vegetables) may complement sodium reduction in blood pressure strategies.",
+            "Further clinical trials and policy work would be needed to implement guideline changes and to quantify expected benefits."
+          ]
+        },
+        "es": {
+          "title": "Informe sugiere que aumentar potasio debería acompañar la reducción de sodio para controlar mejor la presión arterial",
+          "summary": "Un nuevo informe sostiene que los enfoques actuales para manejar la hipertensión se centran demasiado en reducir el sodio y que aumentar el potasio en la dieta —por ejemplo, mediante frutas y verduras— combinado con menor sodio podría ofrecer mayores beneficios.",
+          "whyItMatters": "El consejo dietético que considere tanto el sodio como el potasio podría cambiar las estrategias de salud pública para el control de la presión arterial, pero el informe representa la interpretación y síntesis de expertos más que un único ensayo aleatorizado nuevo.",
+          "takeaways": [
+            "Investigadores piden replantear las guías para enfatizar tanto la reducción de sodio como el aumento de la ingesta de potasio.",
+            "Los alimentos ricos en potasio (p. ej., frutas y verduras) podrían complementar la reducción de sodio en las estrategias para la presión arterial.",
+            "Se necesitarían más ensayos clínicos y trabajo en políticas para implementar cambios en las guías y cuantificar los beneficios esperados."
+          ]
+        },
+        "ru": {
+          "title": "Доклад предлагает сочетать увеличение потребления калия с сокращением натрия для лучшего контроля давления",
+          "summary": "В новом докладе утверждается, что современные подходы к управлению высоким кровяным давлением слишком узко сосредоточены на снижении натрия и что увеличение потребления калия в рационе — например, из фруктов и овощей — в сочетании с уменьшением натрия может дать большие преимущества.",
+          "whyItMatters": "Диетические рекомендации, учитывающие и натрий, и калий, могут изменить стратегии общественного здравоохранения по контролю артериального давления, но доклад отражает интерпретацию и синтез мнений экспертов, а не единичное новое рандомизированное исследование.",
+          "takeaways": [
+            "Исследователи призывают пересмотреть руководства, чтобы подчеркнуть и снижение натрия, и увеличение потребления калия.",
+            "Продукты, богатые калием (например, фрукты, овощи), могут дополнять снижение натрия в стратегиях контроля давления.",
+            "Для внедрения изменений в руководства и количественной оценки ожидаемых выгод потребуются дополнительные клинические испытания и работа по политике."
+          ]
+        },
+        "uk": {
+          "title": "Звіт пропонує поєднати підвищення споживання калію зі зниженням натрію для кращого контролю тиску",
+          "summary": "Новий звіт стверджує, що нинішні підходи до лікування високого кров’яного тиску надто зосереджені на зниженні натрію, і що збільшення надходження калію з харчових джерел — наприклад, із фруктів і овочів — у поєднанні зі зменшенням натрію може дати більше переваг.",
+          "whyItMatters": "Дієтичні поради, які враховують одночасно натрій і калій, могли б змінити стратегії громадського здоров’я щодо контролю артеріального тиску, але звіт є інтерпретацією та синтезом думок експертів, а не окремим новим рандомізованим дослідженням.",
+          "takeaways": [
+            "Дослідники закликають переглянути настанови, щоб наголосити як на зменшенні натрію, так і на підвищенні споживання калію.",
+            "Продукти, багаті на калій (наприклад, фрукти й овочі), можуть доповнювати стратегії зі зниження натрію для контролю тиску.",
+            "Потрібні додаткові клінічні випробування та політична робота, щоб впровадити зміни в настановах і кількісно оцінити очікувані переваги."
+          ]
+        },
+        "fr": {
+          "title": "Un rapport suggère d’associer augmentation du potassium et réduction du sodium pour mieux contrôler la tension artérielle",
+          "summary": "Un nouveau rapport soutient que les approches actuelles de prise en charge de l’hypertension mettent trop l’accent sur la réduction du sodium et que l’augmentation de l’apport en potassium — par exemple via les fruits et légumes — combinée à une réduction du sodium pourrait offrir des bénéfices supérieurs.",
+          "whyItMatters": "Des recommandations diététiques prenant en compte à la fois le sodium et le potassium pourraient faire évoluer les stratégies de santé publique pour le contrôle de la tension artérielle, mais le rapport reflète l’interprétation et la synthèse d’experts plutôt qu’un nouvel essai randomisé unique.",
+          "takeaways": [
+            "Des chercheurs appellent à repenser les directives pour insister à la fois sur la réduction du sodium et l’augmentation de l’apport en potassium.",
+            "Les aliments riches en potassium (p. ex. fruits, légumes) peuvent compléter la réduction du sodium dans les stratégies de contrôle de la tension artérielle.",
+            "Des essais cliniques supplémentaires et un travail politique seraient nécessaires pour mettre en œuvre des changements de directives et quantifier les bénéfices attendus."
+          ]
+        },
+        "de": {
+          "title": "Bericht empfiehlt: Kaliumzufuhr erhöhen sollte mit Natriumreduktion kombiniert werden für besseren Blutdruck",
+          "summary": "Ein neuer Bericht argumentiert, dass aktuelle Ansätze zur Behandlung von Bluthochdruck zu sehr auf die Senkung von Natrium fokussieren und dass eine erhöhte Zufuhr von Kalium — zum Beispiel aus Obst und Gemüse — kombiniert mit reduziertem Natrium größeren Nutzen bringen könnte.",
+          "whyItMatters": "Ernährungsempfehlungen, die sowohl Natrium als auch Kalium berücksichtigen, könnten die Strategien der öffentlichen Gesundheit zur Blutdruckkontrolle verändern. Der Bericht stellt jedoch eine Experteninterpretation und -synthese dar und nicht die Ergebnisse einer einzelnen neuen randomisierten Studie.",
+          "takeaways": [
+            "Forscher fordern, Leitlinien neu zu denken und sowohl Natriumreduktion als auch erhöhte Kaliumzufuhr zu betonen.",
+            "Kaliumreiche Lebensmittel (z. B. Obst, Gemüse) könnten die Natriumreduktion bei Blutdruckstrategien ergänzen.",
+            "Weitere klinische Studien und politische Arbeit wären nötig, um Leitlinienänderungen umzusetzen und erwartete Vorteile zu quantifizieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Relatório sugere que aumentar ingestão de potássio deve ser associado à redução de sódio para melhor controle da pressão arterial",
+          "summary": "Um novo relatório argumenta que as abordagens atuais para manejo da hipertensão se concentram demais na redução do sódio e que aumentar o potássio na dieta — por exemplo via frutas e vegetais — combinado com redução do sódio pode oferecer benefícios maiores.",
+          "whyItMatters": "Conselhos dietéticos que considerem tanto o sódio quanto o potássio poderiam alterar estratégias de saúde pública para controle da pressão arterial. O relatório, porém, reflete interpretação e síntese de especialistas, não um único ensaio randomizado novo.",
+          "takeaways": [
+            "Pesquisadores pedem repensar diretrizes para enfatizar tanto a redução de sódio quanto o aumento da ingestão de potássio.",
+            "Alimentos ricos em potássio (por exemplo, frutas e hortaliças) podem complementar a redução do sódio nas estratégias para pressão arterial.",
+            "Mais ensaios clínicos e trabalho em políticas públicas seriam necessários para implementar mudanças nas diretrizes e quantificar os benefícios esperados."
+          ]
+        },
+        "hu": {
+          "title": "Jelentés: a káliumbevitel növelését párosítani kellene a nátrium csökkentésével a jobb vérnyomás‑kontrollért",
+          "summary": "Egy új jelentés azt állítja, hogy a jelenlegi magasvérnyomás‑kezelési megközelítések túl szűken a nátrium csökkentésére összpontosítanak, és hogy a diétás kálium — például gyümölcsökből és zöldségekből — növelése a nátrium mérséklésével együtt nagyobb előnyöket kínálhat.",
+          "whyItMatters": "A só‑ és kálium‑együttesre figyelő étrendi tanácsok elmozdíthatják a népegészségügyi stratégiákat a vérnyomás‑kontroll terén, de a jelentés szakértői értelmezést és szintézist tükröz, nem pedig egyetlen új randomizált vizsgálatot.",
+          "takeaways": [
+            "A kutatók a irányelvek újragondolását javasolják, hogy hangsúlyt kapjon mind a nátrium csökkentése, mind a káliumbevitel növelése.",
+            "Káliumban gazdag élelmiszerek (pl. gyümölcsök, zöldségek) kiegészíthetik a nátriumcsökkentést a vérnyomás‑kezelési stratégiákban.",
+            "Iránymutatás‑változtatásokhoz további klinikai vizsgálatokra és politikai munkára lenne szükség, valamint a várható előnyök számszerűsítésére."
+          ]
+        },
+        "ar": {
+          "title": "تقرير يقترح دمج زيادة تناول البوتاسيوم مع تقليل الصوديوم لتحسين السيطرة على ضغط الدم",
+          "summary": "يجادل تقرير جديد بأن المقاربات الحالية لإدارة ارتفاع ضغط الدم تركز بشكل مفرط على خفض الصوديوم، وأن زيادة البوتاسيوم الغذائي — مثلما يتوافر في الفواكه والخضروات — مع تقليل الصوديوم قد تقدم فوائد أكبر.",
+          "whyItMatters": "النصائح الغذائية التي تراعي الصوديوم والبوتاسيوم معاً قد تحوّل استراتيجيات الصحة العامة للسيطرة على ضغط الدم، لكن التقرير يعكس تفسير وخلاصة خبراء وليس تجربة عشوائية جديدة واحدة.",
+          "takeaways": [
+            "الباحثون يدعون لإعادة التفكير في الإرشادات لتأكيد أهمية كل من تقليل الصوديوم وزيادة البوتاسيوم.",
+            "الأطعمة الغنية بالبوتاسيوم (مثل الفواكه والخضروات) قد تكمل تقليل الصوديوم في استراتيجيات ضغط الدم.",
+            "تنفيذ تغييرات في الإرشادات يتطلب مزيداً من التجارب السريرية والعمل السياسي لقياس الفوائد المتوقعة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=experts-say-high-blood-pressure-guidelines-are-missing-half-the-e-19314be503eb",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/experts-say-high-blood-pressure-guidelines-are-missing-half-the-e-19314be503eb-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/experts-say-high-blood-pressure-guidelines-are-missing-half-the-e-19314be503eb-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Report suggests increasing potassium intake should be paired with sodium reduction for better blood pressure control.\nStory summary: A new report argues that current approaches to managing high blood pressure focus too narrowly on lowering sodium and that increasing dietary potassium — for example from fruits and vegetables — combined with reduced sodium may offer greater benefits..\nCategory: hypertension.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "medically-tailored-meals-improve-high-blood-pressure-type-2-diabe-e8c7ef39334d",
+      "category": "nutrition",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-10-medically-tailored-meals-high-blood.html",
+      "sourceTitle": "Medically tailored meals improve high blood pressure, type 2 diabetes and diet in adults",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:14 EST",
+      "languages": {
+        "en": {
+          "title": "Preliminary AHA presentation: medically tailored meals linked to better diet and cardiometabolic markers",
+          "summary": "An eight-month program providing medically tailored meals to adults with type 2 diabetes and high blood pressure was reported to improve diet quality, increase access to healthy food and lower blood pressure and blood sugar in preliminary research presented at the American Heart Association Scientific Sessions.",
+          "whyItMatters": "If reproducible in peer-reviewed randomized studies, medically tailored meal programs could be a practical intervention to improve diet and some cardiometabolic outcomes for people with chronic conditions, but these findings are preliminary and from a conference presentation.",
+          "takeaways": [
+            "Program duration reported: eight months; target group: adults with T2D and hypertension.",
+            "Reported benefits include improved diet quality and reductions in blood pressure and blood sugar markers.",
+            "Results were preliminary and presented at a conference — peer-reviewed publication and randomized data would strengthen evidence for routine use."
+          ]
+        },
+        "es": {
+          "title": "Presentación preliminar en la AHA: comidas médicamente adaptadas vinculadas a mejor dieta y marcadores cardiometabólicos",
+          "summary": "Un programa de ocho meses que proporcionó comidas médicamente adaptadas a adultos con diabetes tipo 2 e hipertensión arterial mejoró la calidad de la dieta, aumentó el acceso a alimentos saludables y redujo la presión arterial y los niveles de glucosa según una investigación preliminar presentada en las Sesiones Científicas de la American Heart Association.",
+          "whyItMatters": "Si se reproduce en estudios aleatorizados revisados por pares, los programas de comidas médicamente adaptadas podrían ser una intervención práctica para mejorar la dieta y algunos resultados cardiometabólicos en personas con enfermedades crónicas; sin embargo, estos hallazgos son preliminares y provienen de una presentación en conferencia.",
+          "takeaways": [
+            "Duración del programa reportada: ocho meses; grupo objetivo: adultos con diabetes tipo 2 e hipertensión.",
+            "Beneficios notificados incluyen mejor calidad de la dieta y reducciones en marcadores de presión arterial y glucemia.",
+            "Los resultados son preliminares y se presentaron en una conferencia: la publicación revisada por pares y datos aleatorizados reforzarían la evidencia para uso rutinario."
+          ]
+        },
+        "ru": {
+          "title": "Предварительная презентация на AHA: медицински адаптированные блюда связаны с улучшением питания и кардиометаболических показателей",
+          "summary": "Восьмимесячная программа предоставления медицински адаптированных блюд взрослым с сахарным диабетом 2 типа и артериальной гипертензией, по предварительным данным, представленных на Научных сессиях Американской кардиологической ассоциации, улучшила качество питания, увеличила доступ к полезной пище и снизила артериальное давление и уровень глюкозы.",
+          "whyItMatters": "Если эти результаты воспроизведут в рецензируемых рандомизированных исследованиях, программы медицински адаптированных блюд могут стать практическим вмешательством для улучшения питания и некоторых кардиометаболических показателей у людей с хроническими заболеваниями; однако эти выводы предварительны и получены на конференции.",
+          "takeaways": [
+            "Отчётная длительность программы: восемь месяцев; целевая группа: взрослые с СД2 и гипертензией.",
+            "Указаны улучшение качества питания и снижение показателей артериального давления и гликемии.",
+            "Результаты предварительные и представлены на конференции — рецензируемые публикации и рандомизированные данные укрепили бы доказательную базу для рутинного применения."
+          ]
+        },
+        "uk": {
+          "title": "Попередня доповідь AHA: медично адаптовані обіди пов’язані з кращою якістю харчування та кардіометаболічними показниками",
+          "summary": "У попередньому дослідженні, представленому на наукових сесіях Американської асоціації серця, повідомляють, що восьмимісячна програма доставки медично адаптованих страв дорослим із цукровим діабетом 2‑го типу й артеріальною гіпертензією покращила якість харчування, підвищила доступ до здорової їжі та знизила кров’яний тиск і рівні цукру в крові.",
+          "whyItMatters": "Якщо ці результати відтворяться в рецензованих рандомізованих дослідженнях, програми медично адаптованого харчування могли б стати практичним заходом для покращення дієти та деяких кардіометаболічних показників у людей із хронічними захворюваннями; однак ці дані є попередніми й отримані з доповіді на конференції.",
+          "takeaways": [
+            "Тривалість програми: вісім місяців; цільова група: дорослі з Т2Д і гіпертензією.",
+            "Заявлені переваги включають покращення якості харчування і зниження показників кров’яного тиску та глікемії.",
+            "Результати є попередніми і були представлені на конференції — публікація в рецензованому журналі та рандомізовані дані посилять доказову базу для рутинного використання."
+          ]
+        },
+        "fr": {
+          "title": "Présentation préliminaire AHA : repas médicalement adaptés associés à une meilleure alimentation et à des marqueurs cardiométaboliques améliorés",
+          "summary": "Une programme de huit mois fournissant des repas médicalement adaptés à des adultes atteints de diabète de type 2 et d’hypertension aurait amélioré la qualité de l’alimentation, augmenté l’accès à des aliments sains et réduit la pression artérielle et la glycémie, selon des résultats préliminaires présentés aux sessions scientifiques de l’American Heart Association.",
+          "whyItMatters": "Si ces résultats sont reproductibles dans des études randomisées évaluées par des pairs, les programmes de repas médicalement adaptés pourraient constituer une intervention pratique pour améliorer l’alimentation et certains indicateurs cardiométaboliques chez les personnes atteintes de maladies chroniques, mais ces constats sont préliminaires et proviennent d’une présentation de conférence.",
+          "takeaways": [
+            "Durée du programme rapportée : huit mois ; population ciblée : adultes avec DT2 et hypertension.",
+            "Les bénéfices rapportés incluent une meilleure qualité de l’alimentation et des réductions de la tension artérielle et des marqueurs glycémiques.",
+            "Les résultats sont préliminaires et présentés en conférence — une publication évaluée par les pairs et des données randomisées renforceraient les preuves pour un usage courant."
+          ]
+        },
+        "de": {
+          "title": "Vorläufige AHA‑Präsentation: medizinisch angepasste Mahlzeiten mit besserer Ernährung und kardiometabolischen Markern assoziiert",
+          "summary": "Ein achtmonatiges Programm, das Erwachsenen mit Typ‑2‑Diabetes und Bluthochdruck medizinisch angepasste Mahlzeiten bereitstellte, zeigte in vorläufigen Forschungsergebnissen, die auf den Scientific Sessions der American Heart Association vorgestellt wurden, Verbesserungen der Ernährungsqualität, besseren Zugang zu gesunder Nahrung sowie Senkungen von Blutdruck und Blutzucker.",
+          "whyItMatters": "Falls sich die Befunde in peer‑reviewten randomisierten Studien reproduzieren lassen, könnten Programme mit medizinisch angepassten Mahlzeiten eine praktische Intervention zur Verbesserung der Ernährung und einiger kardiometabolischer Ergebnisse bei Menschen mit chronischen Erkrankungen darstellen. Diese Ergebnisse sind jedoch vorläufig und stammen aus einer Konferenzpräsentation.",
+          "takeaways": [
+            "Berichtete Programmdauer: acht Monate; Zielgruppe: Erwachsene mit Typ‑2‑Diabetes und Bluthochdruck.",
+            "Berichtete Vorteile umfassen verbesserte Ernährungsqualität sowie Reduktionen von Blutdruck und Blutzuckerwerten.",
+            "Die Ergebnisse sind vorläufig und wurden auf einer Konferenz vorgestellt — eine peer‑reviewte Publikation und randomisierte Daten würden die Evidenz für eine routinemäßige Anwendung stärken."
+          ]
+        },
+        "pt-br": {
+          "title": "Apresentação preliminar na AHA: refeições medicamente adaptadas associadas a melhor dieta e marcadores cardiometabólicos",
+          "summary": "Um programa de oito meses que forneceu refeições medicamente adaptadas a adultos com diabetes tipo 2 e hipertensão arterial foi relatado como capaz de melhorar a qualidade da dieta, aumentar o acesso a alimentos saudáveis e reduzir pressão arterial e glicemia em pesquisa preliminar apresentada nas Sessões Científicas da American Heart Association.",
+          "whyItMatters": "Se reproduzíveis em estudos randomizados publicados por pares, programas de refeições medicamente adaptadas poderiam ser uma intervenção prática para melhorar a dieta e alguns desfechos cardiometabólicos em pessoas com condições crônicas. Contudo, esses achados são preliminares e vêm de uma apresentação em congresso.",
+          "takeaways": [
+            "Duração do programa relatada: oito meses; grupo‑alvo: adultos com DT2 e hipertensão.",
+            "Benefícios relatados incluem melhora na qualidade da dieta e reduções em marcadores de pressão arterial e glicemia.",
+            "Os resultados são preliminares e foram apresentados em conferência — publicações revisadas por pares e dados randomizados fortaleceriam a evidência para uso rotineiro."
+          ]
+        },
+        "hu": {
+          "title": "Előzetes AHA bemutató: medicinailag célzott étkezések jobb táplálkozást és kardiometabolikus jelzőket társítanak",
+          "summary": "Egy nyolc hónapos program, amely medicinailag célzott ételeket biztosított 2‑es típusú cukorbeteg és magas vérnyomásos felnőtteknek, a prelimináris kutatás szerint javította a táplálkozás minőségét, növelte a hozzáférést egészséges élelmiszerhez, és csökkentette a vérnyomást és a vércukorszintet — az eredményeket az American Heart Association tudományos ülésén mutatták be.",
+          "whyItMatters": "Ha reprodukálhatóak peer‑review alatt álló, randomizált tanulmányokban, a medicinailag célzott étkezési programok gyakorlatias beavatkozást jelenthetnek a táplálkozás és bizonyos kardiometabolikus eredmények javítására krónikus betegek körében, de ezek az eredmények előzetesek és konferencia‑bemutatásból származnak.",
+          "takeaways": [
+            "A program időtartama jelentett: nyolc hónap; célcsoport: 2‑es típusú diabéteszes és hipertóniás felnőttek.",
+            "A jelentett előnyök közé tartozik a táplálkozás minőségének javulása és a vérnyomás‑ illetve vércukor‑jelzők csökkenése.",
+            "Az eredmények előzetesek és konferencián bemutatottak — peer‑review publikáció és randomizált adatok erősítenék az alapot a rutinszerű alkalmazáshoz."
+          ]
+        },
+        "ar": {
+          "title": "عرض أُولي في جمعية القلب الأمريكية: وجبات طبية مخصصة مرتبطة بتحسّن النظام الغذائي ومؤشرات القلب والأيض",
+          "summary": "أشارت أبحاث أولية عُرضت في جلسات الجمعية الأمريكية للقلب إلى أن برنامجاً لمدة ثمانية أشهر يوفّر وجبات طبية مخصصة للبالغين المصابين بداء السكري من النوع 2 وارتفاع ضغط الدم حسّن نوعية النظام الغذائي، وزاد الوصول إلى غذاء صحي، وخفض ضغط الدم وسكر الدم.",
+          "whyItMatters": "إذا تكررت هذه النتائج في دراسات عشوائية محكّمة وراجعة من قبل الخبراء، فقد تكون برامج الوجبات الطبية المخصصة تدخلًا عمليًا لتحسين النظام الغذائي وبعض النتائج القلبية‑الاستقلابية لدى الأشخاص ذوي الحالات المزمنة، لكن هذه النتائج أولية ومأخوذة من عرض مؤتمر.",
+          "takeaways": [
+            "مدة البرنامج المذكورة: ثمانية أشهر؛ المجموعة المستهدفة: بالغون مصابون بداء السكري النوع 2 وارتفاع ضغط الدم.",
+            "الفوائد المبلغ عنها تشمل تحسّن نوعية النظام الغذائي وتخفيض مؤشرات ضغط الدم وسكر الدم.",
+            "النتائج كانت أولية وعُرضت في مؤتمر — نشر محكّم وبيانات عشوائية سيقوّيان الأدلة اللازمة للاستخدام الروتيني."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=medically-tailored-meals-improve-high-blood-pressure-type-2-diabe-e8c7ef39334d",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medically-tailored-meals-improve-high-blood-pressure-type-2-diabe-e8c7ef39334d-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/medically-tailored-meals-improve-high-blood-pressure-type-2-diabe-e8c7ef39334d-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Preliminary AHA presentation: medically tailored meals linked to better diet and cardiometabolic markers.\nStory summary: An eight-month program providing medically tailored meals to adults with type 2 diabetes and high blood pressure was reported to improve diet quality, increase access to healthy food and lower blood pressure and blood sugar in preliminary research presented at the American Heart Association Scientific Sessions..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "could-this-robot-help-cut-gynae-waiting-lists-e28cec6bc86e",
+      "category": "health technology & surgical innovation",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c6qjn8x29klvo?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "Could this robot help cut gynae waiting lists?",
+      "publishedAt": "Mon, 02 Nov 2026 06:25:26 GMT",
+      "languages": {
+        "en": {
+          "title": "BBC report: new surgical robot demonstrated at Belfast City Hospital — could it reduce gynecology waiting lists?",
+          "summary": "BBC News Northern Ireland covered a demonstration of a new surgical robot performing gynaecological procedures at Belfast City Hospital and discussed whether robotic systems could help reduce local waiting lists for surgery.",
+          "whyItMatters": "Robotic surgical systems may affect capacity and workflow in hospitals, but a demonstration and local reporting do not provide evidence about comparative effectiveness, safety, costs or system‑level impacts.",
+          "takeaways": [
+            "The report documents a real‑world robotic surgical demonstration and explores the potential to increase surgical throughput.",
+            "Demonstration coverage is not a substitute for clinical trial or health‑economic data on outcomes, safety and cost‑effectiveness.",
+            "Wider evaluation is needed before drawing conclusions about impact on waiting lists or patient outcomes."
+          ]
+        },
+        "es": {
+          "title": "Informe de la BBC: nuevo robot quirúrgico demostrado en el Belfast City Hospital — ¿podría reducir las listas de espera en ginecología?",
+          "summary": "BBC News Northern Ireland cubrió la demostración de un nuevo robot quirúrgico realizando procedimientos ginecológicos en el Belfast City Hospital y discutió si los sistemas robóticos podrían ayudar a reducir las listas de espera locales para cirugías.",
+          "whyItMatters": "Los sistemas quirúrgicos robóticos pueden afectar la capacidad y el flujo de trabajo en los hospitales, pero una demostración y una cobertura local no aportan evidencia sobre efectividad comparativa, seguridad, costes o impactos a nivel del sistema.",
+          "takeaways": [
+            "El reportaje documenta una demostración real de cirugía robótica y explora el potencial de aumentar la capacidad quirúrgica.",
+            "La cobertura de una demostración no sustituye a datos de ensayos clínicos ni a análisis económicos sobre resultados, seguridad y coste‑efectividad.",
+            "Se necesita una evaluación más amplia antes de sacar conclusiones sobre el impacto en listas de espera o en los resultados para los pacientes."
+          ]
+        },
+        "ru": {
+          "title": "Репортаж BBC: новый хирургический робот продемонстрирован в Belfast City Hospital — может ли он сократить очереди на гинекологию?",
+          "summary": "BBC News Northern Ireland осветила демонстрацию нового хирургического робота, выполнявшего гинекологические процедуры в Belfast City Hospital, и обсудила, могут ли роботизированные системы помочь сократить местные очереди на операции.",
+          "whyItMatters": "Роботизированные хирургические системы могут влиять на пропускную способность и организации работы в больницах, но демонстрация и местное освещение не дают данных о сравнительной эффективности, безопасности, затратах или системных эффектах.",
+          "takeaways": [
+            "В репортаже показана реальная демонстрация роботизированной хирургии и обсуждается потенциал увеличения пропускной способности операций.",
+            "Покрытие демонстрации не заменяет данные клинических испытаний или экономической оценки по исходам, безопасности и рентабельности.",
+            "Необходима более широкая оценка, прежде чем делать выводы о влиянии на очереди или исходы пациентов."
+          ]
+        },
+        "uk": {
+          "title": "BBC: демонстрація нового хірургічного робота в лікарні Белфаста — чи може він скоротити черги на гінекологічні операції?",
+          "summary": "BBC News Northern Ireland висвітлила демонстрацію нового хірургічного робота, який виконував гінекологічні процедури в Belfast City Hospital, і обговорила, чи можуть роботизовані системи допомогти скоротити місцеві черги на хірургічні операції.",
+          "whyItMatters": "Роботизовані хірургічні системи можуть впливати на пропускну спроможність і робочі процеси в лікарнях, але демонстрація та місцеве висвітлення не дають доказів порівняльної ефективності, безпеки, витрат або системних наслідків.",
+          "takeaways": [
+            "Репортаж документує реальну демонстрацію роботизованої хірургії та досліджує потенціал підвищення пропускної здатності операційних.",
+            "Покриття демонстрації не замінює дані клінічних випробувань або економічної оцінки щодо результатів, безпеки та рентабельності.",
+            "Потрібна ширша оцінка, перш ніж робити висновки про вплив на черги або результати пацієнтів."
+          ]
+        },
+        "fr": {
+          "title": "BBC : démonstration d’un nouveau robot chirurgical à l’hôpital de Belfast — pourrait‑il réduire les listes d’attente en gynécologie ?",
+          "summary": "BBC News Northern Ireland a couvert la démonstration d’un nouveau robot chirurgical réalisant des interventions gynécologiques à Belfast City Hospital et a discuté de la possibilité pour les systèmes robotisés de réduire les listes d’attente locales pour la chirurgie.",
+          "whyItMatters": "Les systèmes chirurgicaux robotisés peuvent modifier la capacité et l’organisation des hôpitaux, mais une démonstration et un reportage local n’apportent pas de preuves sur l’efficacité comparative, la sécurité, les coûts ou les impacts au niveau du système.",
+          "takeaways": [
+            "Le reportage documente une démonstration en conditions réelles et explore le potentiel d’augmentation du débit chirurgical.",
+            "La couverture d’une démonstration ne remplace pas des données d’essais cliniques ou d’évaluations médico‑économiques sur les résultats, la sécurité et la rentabilité.",
+            "Une évaluation plus large est nécessaire avant de conclure à l’impact sur les listes d’attente ou les résultats pour les patients."
+          ]
+        },
+        "de": {
+          "title": "BBC‑Bericht: neuer Operationsroboter in Belfast City Hospital demonstriert — könnte er gynäkologische Wartelisten verkürzen?",
+          "summary": "BBC News Northern Ireland berichtete über eine Demonstration eines neuen chirurgischen Roboters für gynäkologische Eingriffe im Belfast City Hospital und diskutierte, ob robotische Systeme lokale Wartelisten für Operationen reduzieren könnten.",
+          "whyItMatters": "Robotische Operationssysteme können Kapazität und Arbeitsabläufe in Krankenhäusern beeinflussen, aber eine Demonstration und lokale Berichterstattung liefern keine belastbaren Daten zu vergleichender Wirksamkeit, Sicherheit, Kosten oder systemweiten Effekten.",
+          "takeaways": [
+            "Der Bericht dokumentiert eine reale Demonstration eines robotischen chirurgischen Systems und untersucht das Potenzial, die Operationsleistung zu erhöhen.",
+            "Demonstrationsberichte ersetzen nicht klinische Studien oder gesundheitsökonomische Daten zu Ergebnissen, Sicherheit und Kosteneffektivität.",
+            "Eine breitere Bewertung ist erforderlich, bevor Aussagen zu Auswirkungen auf Wartelisten oder Patientenergebnisse gemacht werden können."
+          ]
+        },
+        "pt-br": {
+          "title": "Reportagem da BBC: novo robô cirúrgico demonstrado no Belfast City Hospital — poderia reduzir filas em ginecologia?",
+          "summary": "A BBC News Northern Ireland cobriu a demonstração de um novo robô cirúrgico realizando procedimentos ginecológicos no Belfast City Hospital e discutiu se sistemas robóticos poderiam ajudar a reduzir as filas locais por cirurgia.",
+          "whyItMatters": "Sistemas cirúrgicos robóticos podem afetar capacidade e fluxo de trabalho em hospitais, mas uma demonstração e cobertura local não fornecem evidência sobre eficácia comparativa, segurança, custos ou impactos em nível de sistema.",
+          "takeaways": [
+            "A reportagem documenta uma demonstração prática de cirurgia robótica e explora o potencial para aumentar o volume cirúrgico.",
+            "Cobertura de demonstração não substitui dados de ensaios clínicos ou análises de custo‑efetividade sobre resultados e segurança.",
+            "Avaliação mais ampla é necessária antes de tirar conclusões sobre impacto em filas de espera ou resultados para pacientes."
+          ]
+        },
+        "hu": {
+          "title": "BBC: új műtéti robot bemutatója a Belfast City Kórházban — csökkentheti‑e a nőgyógyászati várólistákat?",
+          "summary": "A BBC Észak‑Írország beszámolt egy új műtéti robot bemutatójáról, amely nőgyógyászati beavatkozásokat végzett a Belfast City Kórházban, és tárgyalta, hogy a robotrendszerek csökkenthetik‑e a helyi műtétre váró listákat.",
+          "whyItMatters": "A robotsebészeti rendszerek befolyásolhatják a kórházi kapacitást és munkafolyamatokat, de egy bemutató és helyi tudósítás nem ad bizonyítékot az összehasonlító hatékonyságról, biztonságról, költségekről vagy rendszerszintű hatásokról.",
+          "takeaways": [
+            "A riport egy valós robotsebészeti bemutatót dokumentál és vizsgálja a sebészeti áteresztőképesség növelésének lehetőségét.",
+            "A bemutató‑jellegű tudósítás nem helyettesíti a klinikai vagy egészség‑gazdaságtani adatokat az eredményekről, a biztonságról és a költséghatékonyságról.",
+            "Szélesebb körű értékelés szükséges, mielőtt következtetéseket vonnánk le a várólistákra vagy a betegkimenetekre gyakorolt hatásról."
+          ]
+        },
+        "ar": {
+          "title": "بي بي سي: عرض روبوت جراحي جديد في مستشفى بلفاست — هل قد يساعد في تقليل قوائم انتظار جراحة النساء؟",
+          "summary": "غطّت بي بي سي أيرلندا الشمالية عرضًا لروبوت جراحي جديد يؤدي عمليات نسائية في مستشفى بلفاست سيتي، وناقشت إمكانية أن تساعد الأنظمة الروبوتية في تقليل قوائم الانتظار المحلية للجراحة.",
+          "whyItMatters": "قد تؤثر أنظمة الجراحة بالروبوت على الطاقة الاستيعابية وسير العمل بالمستشفيات، لكن عرضًا توضيحيًا وتغطية محلية لا تقدمان دليلًا على الفعالية المقارنة أو السلامة أو التكاليف أو الآثار على مستوى النظام.",
+          "takeaways": [
+            "التقرير يوثّق عرضًا عمليًا لروبوت جراحي ويستكشف إمكان زيادة إنتاجية العمليات الجراحية.",
+            "التغطية العرضية ليست بديلاً عن بيانات تجارب سريرية أو تحليلات اقتصادية للرعاية حول النتائج والسلامة والجدوى المالية.",
+            "مطلوبة تقييمات أوسع قبل استخلاص استنتاجات حول التأثير على قوائم الانتظار أو نتائج المرضى."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=could-this-robot-help-cut-gynae-waiting-lists-e28cec6bc86e",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/could-this-robot-help-cut-gynae-waiting-lists-e28cec6bc86e-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/could-this-robot-help-cut-gynae-waiting-lists-e28cec6bc86e-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: BBC report: new surgical robot demonstrated at Belfast City Hospital — could it reduce gynecology waiting lists?.\nStory summary: BBC News Northern Ireland covered a demonstration of a new surgical robot performing gynaecological procedures at Belfast City Hospital and discussed whether robotic systems could help reduce local waiting lists for surgery..\nCategory: health technology & surgical innovation.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "neoadjuvant-botensilimab-with-or-without-balstilimab-in-pmmr-and--fcb2543b2cb4",
+      "category": "cancer prevention and treatment",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04710-1",
+      "sourceTitle": "Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial",
+      "publishedAt": "2026-11-02",
+      "languages": {
+        "en": {
+          "title": "Phase 2 UNICORN trial: neoadjuvant botensilimab ± balstilimab shows major pathological responses in colon cancer",
+          "summary": "The phase 2 UNICORN trial tested a short neoadjuvant course of the immune agent botensilimab, with or without the PD‑1 antibody balstilimab, in patients with pMMR or dMMR colon cancer and met its primary endpoint of increased pathological major response rate.",
+          "whyItMatters": "Neoadjuvant immunotherapy producing major pathological responses could expand treatment options for some colon cancers, but this is a phase 2 result that requires confirmation in larger, longer studies before changing clinical practice.",
+          "takeaways": [
+            "This was a phase 2 trial showing promising pathological response rates with botensilimab ± balstilimab given before surgery.",
+            "Patients with both pMMR and dMMR colon cancer were included; the study met its pre-specified primary endpoint.",
+            "Phase 2 success is encouraging but not definitive — further randomized trials and follow-up are needed to assess survival, safety and broader applicability."
+          ]
+        },
+        "es": {
+          "title": "Ensayo fase 2 UNICORN: botensilimab neoadyuvante ± balstilimab muestra respuestas patológicas importantes en cáncer de colon",
+          "summary": "El ensayo fase 2 UNICORN evaluó un breve curso neoadyuvante del agente inmunitario botensilimab, con o sin el anticuerpo PD‑1 balstilimab, en pacientes con cáncer de colon pMMR o dMMR y cumplió su objetivo primario de aumento de la tasa de respuesta patológica mayor.",
+          "whyItMatters": "La inmunoterapia neoadyuvante que produce respuestas patológicas importantes podría ampliar las opciones de tratamiento para algunos cánceres de colon, pero se trata de un resultado de fase 2 que requiere confirmación en estudios más amplios y más prolongados antes de cambiar la práctica clínica.",
+          "takeaways": [
+            "Se trató de un ensayo de fase 2 que mostró tasas de respuesta patológica prometedoras con botensilimab ± balstilimab administrado antes de la cirugía.",
+            "Incluyó pacientes con cáncer de colon pMMR y dMMR; el estudio alcanzó su criterio primario preespecificado.",
+            "El éxito en fase 2 es alentador pero no concluyente: se necesitan ensayos aleatorizados adicionales y seguimiento para evaluar supervivencia, seguridad y aplicabilidad más amplia."
+          ]
+        },
+        "ru": {
+          "title": "Фаза 2 (UNICORN): неоадъювантный ботенсилимаб ± бальстилимаб показали значимые патологические ответы при раке толстой кишки",
+          "summary": "В фазе 2 исследования UNICORN короткий неоадъювантный курс иммунного препарата ботенсилимаба с или без антитела PD‑1 бальстилимаба исследовали у пациентов с раком толстой кишки pMMR или dMMR и достигли первичной конечной точки — увеличения частоты крупных патологических ответов.",
+          "whyItMatters": "Неоадъювантная иммунотерапия, вызывающая крупные патологические ответы, может расширить варианты лечения некоторых случаев рака толстой кишки, но это результат фазы 2, который требует подтверждения в более крупных и длительных исследованиях перед изменением клинической практики.",
+          "takeaways": [
+            "Это фазовое исследование показало многообещающие патологические ответы при применении ботенсилимаба ± бальстилимаба до операции.",
+            "В исследование включали пациентов с pMMR и dMMR раком толстой кишки; был выполнен заранее установленный первичный критерий.",
+            "Успех в фазе 2 обнадеживает, но не окончателен — нужны дополнительные рандомизированные исследования и длительное наблюдение для оценки выживаемости, безопасности и широкой применимости."
+          ]
+        },
+        "uk": {
+          "title": "Фаза 2 дослідження UNICORN: неоад’ювантний ботенсилімаб ± балстилімаб дає значні патологічні відповіді при раку товстої кишки",
+          "summary": "У фазі 2 дослідження UNICORN короткий курс неоад’ювантної імунної терапії ботенсилімабом з або без антитіла до PD‑1 балстилімабу у пацієнтів з pMMR або dMMR раком товстої кишки досягнув первинної кінцевої точки — збільшення частки патологічних «major» відповідей.",
+          "whyItMatters": "Неоад’ювантна імунна терапія, яка викликає значні патологічні відповіді, може розширити варіанти лікування для певних випадків раку товстої кишки, але це результат фази 2, який потребує підтвердження у більших і довших дослідженнях перед внесенням змін у клінічну практику.",
+          "takeaways": [
+            "Фаза 2 показала обнадійливі патологічні відгуки при застосуванні ботенсилімабу ± балстилімабу перед операцією.",
+            "До дослідження включали пацієнтів як із pMMR, так і з dMMR раком товстої кишки; було досягнуто заздалегідь визначеної первинної кінцевої точки.",
+            "Успіх у фазі 2 є обнадійливим, але не остаточним — потрібні подальші рандомізовані випробування та тривале спостереження для оцінки виживаності, безпеки та ширшої застосовності."
+          ]
+        },
+        "fr": {
+          "title": "Essai de phase 2 UNICORN : botensilimab ± balstilimab en néo‑adjuvant donne des réponses pathologiques majeures dans le cancer du côlon",
+          "summary": "L’essai de phase 2 UNICORN a testé un court traitement néo‑adjuvant par le modulateur immunitaire botensilimab, avec ou sans l’anticorps anti‑PD‑1 balstilimab, chez des patients atteints de cancer du côlon pMMR ou dMMR, et a atteint son critère principal d’augmentation du taux de réponses pathologiques majeures.",
+          "whyItMatters": "Une immunothérapie néo‑adjuvante produisant des réponses pathologiques majeures pourrait élargir les options de traitement pour certains cancers du côlon, mais il s’agit d’un résultat de phase 2 qui nécessite confirmation dans des études plus larges et plus longues avant de modifier la pratique clinique.",
+          "takeaways": [
+            "Il s’agit d’un essai de phase 2 montrant des taux de réponse pathologique prometteurs avec botensilimab ± balstilimab donné avant la chirurgie.",
+            "Les patients pMMR et dMMR ont été inclus ; l’étude a atteint son critère principal préspécifié.",
+            "Le succès en phase 2 est encourageant mais non définitif — d’autres essais randomisés et un suivi sont nécessaires pour évaluer la survie, la sécurité et l’applicabilité générale."
+          ]
+        },
+        "de": {
+          "title": "Phase‑2‑UNICORN‑Studie: neoadjuvantes Botensilimab ± Balstilimab zeigt große pathologische Ansprechraten bei Darmkrebs",
+          "summary": "Die Phase‑2‑UNICORN‑Studie prüfte eine kurze neoadjuvante Behandlung mit dem Immunwirkstoff Botensilimab, mit oder ohne den PD‑1‑Antikörper Balstilimab, bei Patientinnen und Patienten mit pMMR- oder dMMR‑Darmkrebs und erreichte ihr primäres Studienziel einer erhöhten Rate an pathologischen Major‑Responses.",
+          "whyItMatters": "Neoadjuvante Immuntherapie, die zu großen pathologischen Ansprechen führt, könnte die Behandlungsoptionen für bestimmte Darmkrebserkrankungen erweitern. Es handelt sich jedoch um Ergebnisse einer Phase‑2‑Studie, die in grösseren und längeren Studien bestätigt werden müssen, bevor sich die klinische Praxis ändern sollte.",
+          "takeaways": [
+            "Dies war eine Phase‑2‑Studie, die vielversprechende pathologische Ansprechraten mit Botensilimab ± Balstilimab vor einer Operation zeigte.",
+            "Patienten mit sowohl pMMR‑ als auch dMMR‑Darmkrebs wurden eingeschlossen; die Studie erfüllte das vorgegebene primäre Ziel.",
+            "Erfolge in Phase‑2 sind ermutigend, aber nicht endgültig — randomisierte Folge‑Studien und längere Nachbeobachtung sind erforderlich, um Überleben, Sicherheit und breitere Anwendbarkeit zu bewerten."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio de fase 2 UNICORN: neoadjuvância com botensilimab ± balstilimab mostra respostas patológicas importantes no câncer de cólon",
+          "summary": "O ensaio de fase 2 UNICORN testou um curto curso neoadjuvante do agente imunológico botensilimab, com ou sem o anticorpo anti‑PD‑1 balstilimab, em pacientes com câncer de cólon pMMR ou dMMR e atingiu seu desfecho primário de aumento da taxa de respostas patológicas maiores.",
+          "whyItMatters": "A imunoterapia neoadjuvante que produz respostas patológicas importantes pode ampliar as opções de tratamento para alguns cânceres de cólon, mas trata‑se de um resultado de fase 2 que precisa ser confirmado em estudos maiores e mais longos antes de alterar a prática clínica.",
+          "takeaways": [
+            "Este foi um ensaio de fase 2 que mostrou taxas patológicas promissoras com botensilimab ± balstilimab administrados antes da cirurgia.",
+            "Pacientes com câncer de cólon pMMR e dMMR foram incluídos; o estudo atingiu o desfecho primário pré‑especificado.",
+            "O sucesso em fase 2 é encorajador, mas não definitivo — são necessários ensaios randomizados adicionais e acompanhamento para avaliar sobrevida, segurança e aplicabilidade mais ampla."
+          ]
+        },
+        "hu": {
+          "title": "UNICORN fázis 2: neoadjuváns botensilimab ± balstilimab jelentős patológiai válaszokat mutat vastagbélrákban",
+          "summary": "A fázis 2 UNICORN vizsgálat rövid neoadjuváns kezelést tesztelt botensilimabbal, balstilimabbal vagy anélkül pMMR és dMMR vastagbélrákos betegeknél, és elérte elsődleges végpontját: nőtt a patológiai major válaszarány.",
+          "whyItMatters": "A neoadjuváns immunterápia által kiváltott jelentős patológiai válaszok egyes vastagbélrákok kezelési lehetőségeit bővíthetik, de ez fázis 2 eredmény; megerősítésre van szükség nagyobb, hosszabb vizsgálatokban, mielőtt változtatnának a klinikai gyakorlaton.",
+          "takeaways": [
+            "Fázis 2 vizsgálatról van szó, amely ígéretes patológiai válaszarányokat mutatott botensilimab ± balstilimab preoperatív alkalmazásakor.",
+            "A vizsgálatban szerepeltek pMMR és dMMR vastagbélrákos betegek; a tanulmány elérte előre meghatározott elsődleges végpontját.",
+            "A fázis 2 siker biztató, de nem végleges — további randomizált vizsgálatokra és követésre van szükség a túlélés, a biztonság és az általános alkalmazhatóság felméréséhez."
+          ]
+        },
+        "ar": {
+          "title": "تجربة UNICORN مرحلة 2: بوتنسيليماب مع/بدون بالستيليماب تُظهر استجابات مرضية كبيرة في سرطان القولون",
+          "summary": "اختبرت تجربة UNICORN في المرحلة 2 دورة نئية قصيرة من العامل المناعي بوتنسيليماب، مع أو بدون جسم مضاد لـ PD‑1 بالستيليماب، لدى مرضى بسرطان القولون ذو الطراز pMMR أو dMMR، وحققت الهدف الأساسي بزيادة معدل الاستجابة المرضية الكبيرة.",
+          "whyItMatters": "يمكن أن توسع المعالجات المناعية النئوية التي تُحدث استجابات مرضية كبيرة خيارات العلاج لبعض سرطانات القولون، لكن هذه نتيجة من مرحلة 2 وتحتاج إلى تأكيد في دراسات أكبر وأطول قبل تغيير الممارسة السريرية.",
+          "takeaways": [
+            "كانت تجربة في المرحلة 2 أظهرت معدلات استجابة مرضية واعدة عند إعطاء بوتنسيليماب ± بالستيليماب قبل الجراحة.",
+            "شمل البحث مرضى من نمطي pMMR و dMMR؛ وقد تحقّق الهدف الأولي المحدد مسبقاً.",
+            "نجاح المرحلة 2 مشجع لكنه غير قاطع — هناك حاجة إلى تجارب عشوائية ومتابعة إضافية لتقييم البقاء والسلامة وشمولية التطبيق."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=neoadjuvant-botensilimab-with-or-without-balstilimab-in-pmmr-and--fcb2543b2cb4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neoadjuvant-botensilimab-with-or-without-balstilimab-in-pmmr-and-fcb2543b2cb4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/neoadjuvant-botensilimab-with-or-without-balstilimab-in-pmmr-and-fcb2543b2cb4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase 2 UNICORN trial: neoadjuvant botensilimab ± balstilimab shows major pathological responses in colon cancer.\nStory summary: The phase 2 UNICORN trial tested a short neoadjuvant course of the immune agent botensilimab, with or without the PD‑1 antibody balstilimab, in patients with pMMR or dMMR colon cancer and met its primary endpoint of increased pathological major response rate..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "erling-persson-foundation-supports-clinical-study-on-liver-metast-dcd341e9203d",
+      "category": "cancer prevention and treatment",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/erling-persson-foundation-supports-clinical-study-on-liver-metastases",
+      "sourceTitle": "Erling-Persson Foundation supports clinical study on liver metastases",
+      "publishedAt": "2 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Funding awarded for clinical study testing a repurposed drug to improve delivery to liver metastases",
+          "summary": "Karolinska Institutet reports that SEK 6 million from the Erling‑Persson Foundation will support a clinical study led by Arne Östman to test whether an existing drug can help other cancer drugs reach liver metastases more effectively.",
+          "whyItMatters": "Improving drug penetration into liver metastases could enhance therapeutic responses across cancers where the liver is a common metastatic site; this funding enables a clinical study but outcomes remain to be seen.",
+          "takeaways": [
+            "The grant supports a clinical study testing a drug‑repurposing approach aimed at increasing delivery of anticancer agents to liver metastases.",
+            "This is an early, funded clinical study — it will generate feasibility and initial clinical data but is not evidence of efficacy yet.",
+            "Successful results could inform larger trials and potential new combination strategies for metastatic disease."
+          ]
+        },
+        "es": {
+          "title": "Financiación para estudio clínico que prueba un fármaco reutilizado para mejorar la entrega a metástasis hepáticas",
+          "summary": "Karolinska Institutet informa que 6 millones de SEK de la Fundación Erling‑Persson financiarán un estudio clínico dirigido por Arne Östman para probar si un fármaco existente puede ayudar a que otros medicamentos contra el cáncer lleguen con mayor eficacia a las metástasis hepáticas.",
+          "whyItMatters": "Mejorar la penetración de fármacos en metástasis hepáticas podría aumentar las respuestas terapéuticas en cánceres donde el hígado es un sitio común de metástasis; esta financiación posibilita un estudio clínico, pero los resultados están por verse.",
+          "takeaways": [
+            "La subvención apoya un estudio clínico que prueba un enfoque de reposicionamiento de fármacos destinado a incrementar la entrega de agentes anticancerígenos a metástasis hepáticas.",
+            "Se trata de un estudio clínico inicial financiado: generará datos de viabilidad e información clínica preliminar, pero no es evidencia de eficacia aún.",
+            "Resultados exitosos podrían orientar ensayos mayores y nuevas estrategias de combinación para enfermedad metastásica."
+          ]
+        },
+        "ru": {
+          "title": "Выделено финансирование на клиническое исследование репрофилируемого препарата для улучшения доставки в печёночные метастазы",
+          "summary": "Karolinska Institutet сообщает, что фонд Erling‑Persson выделил 6 миллионов шведских крон на клиническое исследование под руководством Арне Остмана, которое проверит, может ли существующий препарат помочь другим противораковым средствам эффективнее достигать печёночных метастаз.",
+          "whyItMatters": "Улучшение проникновения препаратов в печёночные метастазы может повысить терапевтические отклики при раках, где печень часто поражается метастазами; это финансирование даёт возможность провести клиническое исследование, но результаты остаются неизвестными.",
+          "takeaways": [
+            "Грант поддерживает клиническое исследование, проверяющее подход репозиционирования препарата с целью увеличить доставку противоопухолевых средств в печёночные метастазы.",
+            "Это раннее клиническое исследование — оно даст данные о реализуемости и начальную клиническую информацию, но ещё не является доказательством эффективности.",
+            "Успешные результаты могут послужить основанием для более крупных испытаний и новых комбинационных стратегий при метастатическом заболевании."
+          ]
+        },
+        "uk": {
+          "title": "Фінансування для клінічного дослідження, що перевіряє перенаправлений препарат для покращення доставки в печінкові метастази",
+          "summary": "Karolinska Institutet повідомляє, що фонд Erling‑Persson виділив 6 мільйонів шведських крон на клінічне дослідження під керівництвом Арне Остмана, яке перевірятиме, чи може існуючий препарат допомогти іншим протираковим лікам ефективніше досягати печінкових метастаз.",
+          "whyItMatters": "Покращення проникнення ліків у печінкові метастази могло б підвищити терапевтичні відповіді при різних раках, де печінка є частим місцем метастазування; це фінансування дає змогу провести клінічне дослідження, але результати ще належить отримати.",
+          "takeaways": [
+            "Грант підтримує клінічне дослідження, що тестує підхід репурпосингу з метою підвищення доставки протиракових агентів до печінкових метастаз.",
+            "Це раннє клінічне дослідження з фінансуванням — воно надасть дані про здійсненність та початкові клінічні результати, але не є доказом ефективності.",
+            "Успішні результати можуть лягти в основу більших випробувань і потенційних нових комбінованих стратегій лікування метастатичної хвороби."
+          ]
+        },
+        "fr": {
+          "title": "Financement accordé pour une étude clinique testant un médicament repositionné visant à améliorer la livraison aux métastases hépatiques",
+          "summary": "Le Karolinska Institutet rapporte que la fondation Erling‑Persson accordera 6 millions de SEK pour une étude clinique dirigée par Arne Östman afin de tester si un médicament existant peut aider d’autres agents anticancéreux à atteindre plus efficacement les métastases hépatiques.",
+          "whyItMatters": "Améliorer la pénétration des médicaments dans les métastases hépatiques pourrait renforcer les réponses thérapeutiques dans des cancers où le foie est un site métastatique fréquent ; ce financement permet de réaliser une étude clinique, mais les résultats restent à déterminer.",
+          "takeaways": [
+            "La subvention soutient une étude clinique testant une approche de repositionnement de médicament visant à accroître la livraison d’agents anticancéreux aux métastases hépatiques.",
+            "Il s’agit d’une étude clinique précoce financée — elle fournira des données de faisabilité et des résultats cliniques initiaux, mais n’est pas une preuve d’efficacité.",
+            "Des résultats positifs pourraient orienter des essais plus larges et de nouvelles stratégies de combinaison pour les maladies métastatiques."
+          ]
+        },
+        "de": {
+          "title": "Förderung für klinische Studie zur Verbesserung der Wirkstoffzufuhr in Lebermetastasen bewilligt",
+          "summary": "Das Karolinska Institutet berichtet, dass 6 Millionen SEK von der Erling‑Persson‑Stiftung eine klinische Studie unter Leitung von Arne Östman unterstützen werden, die prüfen soll, ob ein bereits vorhandenes Medikament anderen Krebsmedikamenten helfen kann, Lebermetastasen effektiver zu erreichen.",
+          "whyItMatters": "Die Verbesserung der Medikamentenpenetration in Lebermetastasen könnte die therapeutischen Reaktionen bei Tumoren verbessern, bei denen die Leber ein häufiger Metastasierungsort ist. Die Förderung ermöglicht eine klinische Studie, die Ergebnisse bleiben jedoch abzuwarten.",
+          "takeaways": [
+            "Der Zuschuss unterstützt eine klinische Studie, die einen Drug‑Repurposing‑Ansatz testet, um die Abgabe antitumoraler Mittel an Lebermetastasen zu erhöhen.",
+            "Es handelt sich um eine frühe, finanzierte klinische Studie — sie wird Machbarkeits‑ und erste klinische Daten liefern, ist aber noch kein Beleg für Wirksamkeit.",
+            "Erfolgreiche Ergebnisse könnten größere Studien und potenzielle neue Kombinationsstrategien bei metastatischen Erkrankungen informieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Financiamento concedido para estudo clínico que testa droga reposicionada para melhorar entrega a metástases hepáticas",
+          "summary": "O Karolinska Institutet relata que 6 milhões de SEK da Erling‑Persson Foundation apoiarão um estudo clínico liderado por Arne Östman para testar se um medicamento existente pode ajudar outros fármacos anticâncer a alcançar metástases hepáticas com maior eficácia.",
+          "whyItMatters": "Melhorar a penetração de drogas em metástases hepáticas pode aumentar respostas terapêuticas em cânceres onde o fígado é local comum de metástase; esse financiamento possibilita um estudo clínico, mas os resultados ainda precisam ser observados.",
+          "takeaways": [
+            "A bolsa apoia um estudo clínico que testa uma abordagem de reposicionamento de fármaco visando aumentar a entrega de agentes anticâncer a metástases hepáticas.",
+            "Trata‑se de um estudo clínico inicial financiado — ele gerará dados de viabilidade e clínicos iniciais, mas não é evidência de eficácia ainda.",
+            "Resultados positivos poderiam orientar ensaios maiores e potenciais novas estratégias combinadas para doença metastática."
+          ]
+        },
+        "hu": {
+          "title": "Támogatást kapott klinikai tanulmány a májmetasztázisok gyógyszerelésének javítására egy újrafelhasználható szerrel",
+          "summary": "A Karolinska Institutet szerint az Erling‑Persson Alapítvány 6 millió SEK támogatást biztosít Arne Östman vezetésével zajló klinikai tanulmányhoz, amely azt vizsgálja, hogy egy meglévő gyógyszer segíthet‑e más rákellenes szereknek hatékonyabban eljutni a májmetasztázisokhoz.",
+          "whyItMatters": "A gyógyszerbehatolás javítása a májmetasztázisokba fokozhatná a terápiás választ olyan daganatoknál, ahol a máj gyakori célpont; ez a támogatás klinikai vizsgálatot tesz lehetővé, de az eredmények még váratnak magukra.",
+          "takeaways": [
+            "A támogatás egy olyan klinikai tanulmányt finanszíroz, amely gyógyszer‑újrafelhasználási megközelítést tesztel a rákellenes szerek májmetasztázisokba történő jobb eljuttatására.",
+            "Ez egy korai, támogatott klinikai vizsgálat — adatokat szolgáltat a kivitelezhetőségről és kezdeti klinikai hatásokról, de nem bizonyítja a hatékonyságot.",
+            "Sikeres eredmények megalapozhatják nagyobb vizsgálatokat és új kombinációs stratégiákat a metastatikus betegségek kezelésében."
+          ]
+        },
+        "ar": {
+          "title": "تمويل لدراسة سريرية تختبر دواءً معادَ استخدامه لتحسين وصول الأدوية إلى نقائل الكبد",
+          "summary": "تُفيد كلية كارولينسكا أن مؤسسة Erling‑Persson منحت 6 ملايين كرونا سويدية لدعم دراسة سريرية يقودها Arne Östman لاختبار ما إذا كان دواء موجود يمكن أن يساعد أدوية السرطان الأخرى على الوصول إلى نقائل الكبد بشكل أكثر فعالية.",
+          "whyItMatters": "تحسين اختراق الأدوية إلى نقائل الكبد قد يعزز الاستجابة العلاجية في أنواع السرطان التي يعد فيها الكبد موقعاً شائعاً للانتشار؛ هذا التمويل يمكّن إجراء دراسة سريرية لكن النتائج ستظهر لاحقاً.",
+          "takeaways": [
+            "المنحة تدعم دراسة سريرية تختبر نهج إعادة استخدام دواء بهدف زيادة توصيل العلاجات المضادة للسرطان إلى نقائل الكبد.",
+            "هذه دراسة سريرية مبكرة وممولة — ستنتج بيانات عن الجدوى والمؤشرات السريرية الأولية، لكنها ليست دليلاً على الفعالية بعد.",
+            "النتائج الإيجابية قد تؤدي إلى تجارب أكبر واستراتيجيات تركيبية جديدة للمرض النقِيلي."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=erling-persson-foundation-supports-clinical-study-on-liver-metast-dcd341e9203d",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/erling-persson-foundation-supports-clinical-study-on-liver-metast-dcd341e9203d-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/erling-persson-foundation-supports-clinical-study-on-liver-metast-dcd341e9203d-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Funding awarded for clinical study testing a repurposed drug to improve delivery to liver metastases.\nStory summary: Karolinska Institutet reports that SEK 6 million from the Erling‑Persson Foundation will support a clinical study led by Arne Östman to test whether an existing drug can help other cancer drugs reach liver metastases more effectively..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "eating-walnuts-was-linked-to-higher-igg-levels-but-what-does-that-af2d53602901",
+      "category": "nutrition",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261101/Eating-walnuts-was-linked-to-higher-IgG-levels-but-what-does-that-mean-for-health.aspx",
+      "sourceTitle": "Eating walnuts was linked to higher IgG levels, but what does that mean for health?",
+      "publishedAt": "Sun, 01 Nov 2026 18:26:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Two‑year randomized trial: daily walnuts modestly increased total serum IgG in older adults",
+          "summary": "A two‑year randomized trial of 474 older adults found that daily consumption of 30–60 g of walnuts was associated with about a 6% higher total serum IgG concentration compared with a control diet, with a larger difference observed in U.S. participants; other immune and oxidative markers were unchanged.",
+          "whyItMatters": "The trial shows that a specific dietary change can alter an immune biomarker in older adults, but the clinical significance of a modest IgG increase for cardiovascular or infection outcomes is unknown and was not demonstrated.",
+          "takeaways": [
+            "This was a randomized human trial lasting two years with 474 participants; reported outcome was a modest rise in total IgG.",
+            "No significant changes were reported for IgM or the measured oxidative/antibody markers (MDA‑LDL related).",
+            "The study does not establish that the IgG change translates into meaningful health benefits; further research linking biomarkers to clinical outcomes is needed."
+          ]
+        },
+        "es": {
+          "title": "Ensayo aleatorizado de dos años: consumo diario de nueces aumentó modestamente la IgG sérica total en adultos mayores",
+          "summary": "Un ensayo aleatorizado de dos años con 474 adultos mayores encontró que el consumo diario de 30–60 g de nueces se asoció con aproximadamente un 6% más de concentración sérica total de IgG en comparación con una dieta control, con una diferencia mayor observada en participantes de EE. UU.; otros marcadores inmunitarios y oxidativos no cambiaron.",
+          "whyItMatters": "El ensayo muestra que un cambio dietético específico puede alterar un biomarcador inmunitario en adultos mayores, pero la importancia clínica de un aumento modesto de IgG para resultados cardiovasculares o de infección es desconocida y no se demostró.",
+          "takeaways": [
+            "Fue un ensayo humano aleatorizado de dos años con 474 participantes; el resultado informado fue un aumento modesto en la IgG total.",
+            "No se reportaron cambios significativos en IgM ni en los marcadores antioxidantes/anticuerpos medidos (relacionados con MDA‑LDL).",
+            "El estudio no establece que el cambio en IgG se traduzca en beneficios de salud significativos; se necesita más investigación que vincule biomarcadores con resultados clínicos."
+          ]
+        },
+        "ru": {
+          "title": "Двухлетнее рандомизированное исследование: ежедневное потребление грецких орехов умеренно увеличивало общий уровень сывороточной IgG у пожилых людей",
+          "summary": "Двухлетнее рандомизированное исследование 474 пожилых участников показало, что ежедневное потребление 30–60 г грецких орехов было связано примерно с 6% более высоким уровнем общей сывороточной IgG по сравнению с контрольной диетой; более выраженная разница наблюдалась среди участников в США; другие иммунные и окислительные маркеры не изменились.",
+          "whyItMatters": "Исследование показывает, что определённое изменение в питании может повлиять на иммунный биомаркер у пожилых людей, но клиническое значение умеренного увеличения IgG для сердечно‑сосудистых или инфекционных исходов неизвестно и не было продемонстрировано.",
+          "takeaways": [
+            "Это рандомизированное исследование на людях продолжительностью два года с 474 участниками; зафиксировано умеренное повышение общей IgG.",
+            "Значимых изменений IgM или измеренных окислительных/антителозависимых маркеров (связанных с MDA‑LDL) не обнаружено.",
+            "Исследование не доказывает, что изменение IgG приводит к заметным полезным эффектам для здоровья; необходимы дальнейшие исследования, связывающие биомаркеры с клиническими исходами."
+          ]
+        },
+        "uk": {
+          "title": "Двохрічне рандомізоване дослідження: щоденне вживання волоських горіхів помірно підвищило загальний сироватковий IgG в людей похилого віку",
+          "summary": "Двохрічне рандомізоване дослідження за участю 474 літніх дорослих показало, що щоденне споживання 30–60 г волоських горіхів було пов’язане приблизно з 6% вищою концентрацією загального сироваткового IgG порівняно з контрольною дієтою; у учасників із США різниця була більшою; інші імунні та окисні маркери не змінилися.",
+          "whyItMatters": "Дослідження демонструє, що конкретна дієтична зміна може модифікувати імунний біомаркер у людей похилого віку, але клінічне значення помірного підвищення IgG щодо серцево‑судинних або інфекційних наслідків невідоме і не було показане.",
+          "takeaways": [
+            "Це рандомізоване дослідження на людях тривалістю два роки з 474 учасниками; повідомлений результат — помірне підвищення загального IgG.",
+            "Не відзначено значущих змін для IgM або виміряних окисних/антитільних маркерів (пов’язаних із MDA‑LDL).",
+            "Дослідження не встановлює, що зміна IgG призводить до відчутних користей для здоров’я; потрібні подальші дослідження, що пов’язують біомаркери з клінічними наслідками."
+          ]
+        },
+        "fr": {
+          "title": "Essai randomisé de deux ans : consommation quotidienne de noix augmente modestement l’IgG sérique totale chez les personnes âgées",
+          "summary": "Un essai randomisé sur deux ans chez 474 personnes âgées a trouvé que la consommation quotidienne de 30–60 g de noix était associée à environ +6 % d’IgG sérique totale par rapport à un régime témoin, avec une différence plus marquée chez les participants américains ; d’autres marqueurs immunitaires et oxydatifs sont restés inchangés.",
+          "whyItMatters": "L’essai montre qu’un changement diététique spécifique peut modifier un biomarqueur immunitaire chez les personnes âgées, mais la signification clinique d’une augmentation modeste de l’IgG pour les résultats cardiovasculaires ou infectieux est inconnue et n’a pas été démontrée.",
+          "takeaways": [
+            "Il s’agit d’un essai randomisé humain de deux ans impliquant 474 participants ; le résultat rapporté est une hausse modeste de l’IgG totale.",
+            "Aucun changement significatif n’a été observé pour l’IgM ou les marqueurs oxydatifs/anticorps mesurés (liés à MDA‑LDL).",
+            "L’étude n’établit pas que la variation d’IgG entraîne des bénéfices cliniques ; d’autres recherches reliant ces biomarqueurs à des résultats cliniques sont nécessaires."
+          ]
+        },
+        "de": {
+          "title": "Zwei‑Jahres‑Randomisiert: täglicher Walnusskonsum erhöhte leicht das gesamte Serum‑IgG bei älteren Erwachsenen",
+          "summary": "Eine zweijährige randomisierte Studie mit 474 älteren Erwachsenen fand, dass der tägliche Verzehr von 30–60 g Walnüssen mit etwa 6 % höherer Gesamtserum‑IgG‑Konzentration im Vergleich zu einer Kontrolldiät verbunden war, wobei in US‑Teilnehmern ein größerer Unterschied beobachtet wurde; andere Immun‑ und Oxidationsmarker blieben unverändert.",
+          "whyItMatters": "Die Studie zeigt, dass eine spezifische Ernährungsumstellung einen Immunmarker bei älteren Erwachsenen verändern kann. Die klinische Bedeutung einer modesten IgG‑Zunahme für kardiovaskuläre oder infektiöse Endpunkte ist jedoch unbekannt und wurde nicht gezeigt.",
+          "takeaways": [
+            "Es handelte sich um eine randomisierte Humanstudie über zwei Jahre mit 474 Teilnehmenden; gemeldetes Ergebnis war ein moderater Anstieg des Gesamt‑IgG.",
+            "Für IgM und die gemessenen oxidativen/Antikörpermarker (bezogen auf MDA‑LDL) wurden keine signifikanten Änderungen berichtet.",
+            "Die Studie stellt nicht fest, dass die IgG‑Veränderung in bedeutsame Gesundheitsvorteile übersetzt; weitere Forschung, die Biomarker mit klinischen Ergebnissen verknüpft, ist erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio randomizado de dois anos: nozes diárias aumentaram modestamente IgG sérica total em adultos mais velhos",
+          "summary": "Um ensaio randomizado de dois anos com 474 adultos mais velhos encontrou que o consumo diário de 30–60 g de nozes foi associado a cerca de 6% a mais de concentração sérica total de IgG em comparação com uma dieta controle, com diferença maior observada em participantes nos EUA; outros marcadores imunes e de oxidação não se alteraram.",
+          "whyItMatters": "O ensaio mostra que uma mudança dietética específica pode alterar um biomarcador imunológico em adultos mais velhos, mas o significado clínico de um aumento modesto de IgG para desfechos cardiovasculares ou de infecção é desconhecido e não foi demonstrado.",
+          "takeaways": [
+            "Foi um ensaio humano randomizado de dois anos com 474 participantes; o desfecho relatado foi um aumento moderado no IgG total.",
+            "Nenhuma mudança significativa foi relatada para IgM ou para os marcadores oxidativos/anticorpos medidos (relacionados a MDA‑LDL).",
+            "O estudo não demonstra que a mudança no IgG se traduza em benefícios de saúde significativos; são necessárias pesquisas adicionais que vinculem biomarcadores a desfechos clínicos."
+          ]
+        },
+        "hu": {
+          "title": "Kétéves randomizált vizsgálat: napi diófogyasztás mérsékelten növelte az össz‑szérum IgG‑t idősebb felnőtteknél",
+          "summary": "Egy kétéves, 474 idős résztvevős randomizált vizsgálat kimutatta, hogy napi 30–60 g dió fogyasztása körülbelül 6%-kal magasabb össz‑szérum IgG‑koncentrációval társult a kontroll diétához képest; az amerikai résztvevők között nagyobb különbség volt, míg más immun- és oxidációs markerek nem változtak.",
+          "whyItMatters": "A vizsgálat bemutatja, hogy egy konkrét étrendi változtatás képes megváltoztatni egy immunbiomarkert idősebb felnőtteknél, de egy mérsékelt IgG‑emelkedés klinikai jelentősége — például kardiovaszkuláris vagy fertőzéses kimenetelekre — ismeretlen és nem bizonyított.",
+          "takeaways": [
+            "Randomizált humán vizsgálatról van szó, két évig, 474 résztvevővel; az eredmény egy mérsékelt emelkedés az össz‑IgG‑ben.",
+            "Nem jelentettek szignifikáns változásokat IgM‑ben vagy a mért oxidációs/ellenanyag‑markerben (MDA‑LDL kapcsolódó jelzők).",
+            "A tanulmány nem bizonyítja, hogy az IgG‑változás jelentős egészségügyi előnyre fordítható; további kutatás szükséges a biomarkerek és a klinikai kimenetek összekapcsolására."
+          ]
+        },
+        "ar": {
+          "title": "تجربة عشوائية لمدة عامين: تناول الجوز يومياً زاد بشكل طفيف إجمالي IgG في البالغين المسنين",
+          "summary": "وجدت تجربة عشوائية استمرت عامين وشملت 474 مشاركًا مسنًا أن استهلاك 30–60 غ من الجوز يوميًا ارتبط بزيادة تقارب 6% في تركيز إجمالي IgG المصل مقارنةً بنظام غذائي ضابط، مع فرق أكبر بين المشاركين في الولايات المتحدة؛ أما المؤشرات المناعية والأكسدة الأخرى فلم تتغير.",
+          "whyItMatters": "تُظهر التجربة أن تغييراً غذائياً محدداً يمكنه تعديل علامة مناعية لدى البالغين المسنين، لكن الأهمية السريرية لزيادة IgG المتواضعة هذه بالنسبة لنتائج قلبية أو عدوانية غير معروفة ولم تُبرهن.",
+          "takeaways": [
+            "كانت تجربة بشرية عشوائية مدتها سنتان مع 474 مشاركًا؛ النتيجة المبلغ عنها كانت ارتفاع طفيف في إجمالي IgG.",
+            "لم تُسجَّل تغيّرات مهمة في IgM أو المؤشرات المؤكسدة/المضادة للأجسام المقاسة (المتعلقة بـ MDA‑LDL).",
+            "الدراسة لا تثبت أن تغير IgG يترجم إلى فوائد صحية ملموسة؛ هناك حاجة لأبحاث إضافية لربط العلامات الحيوية بالنتائج السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=eating-walnuts-was-linked-to-higher-igg-levels-but-what-does-that-af2d53602901",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eating-walnuts-was-linked-to-higher-igg-levels-but-what-does-that-af2d53602901-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/eating-walnuts-was-linked-to-higher-igg-levels-but-what-does-that-af2d53602901-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Two‑year randomized trial: daily walnuts modestly increased total serum IgG in older adults.\nStory summary: A two‑year randomized trial of 474 older adults found that daily consumption of 30–60 g of walnuts was associated with about a 6% higher total serum IgG concentration compared with a control diet, with a larger difference observed in U.S. participants; other immune and oxidative markers were unchanged..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "parents-let-your-kids-eat-as-much-candy-as-they-want-less-restric-04ed1e24b468",
+      "category": "nutrition",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113",
+      "sourceTitle": "Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat",
+      "publishedAt": "2026-11-01T15:39:51Z",
+      "languages": {
+        "en": {
+          "title": "Opinion/review: strict restriction of sweets may increase children's desire and overeating",
+          "summary": "This Conversation piece reviews research suggesting that strict parental restriction of access to candy can backfire, potentially increasing children's desire for and likelihood of overeating those foods; the authors note long‑term effects on eating relationships and the evidence base has limitations.",
+          "whyItMatters": "How parents manage access to treat foods can influence children's eating behaviour and relationship with food; however, evidence is nuanced and does not prescribe a one‑size‑fits‑all approach.",
+          "takeaways": [
+            "Some studies indicate that overly strict restriction can heighten the appeal of restricted foods and lead to overeating when available.",
+            "The article synthesises behavioural research and cautions that evidence on long‑term weight or health outcomes is limited.",
+            "Parents and clinicians should consider balanced, context‑sensitive strategies rather than blanket restriction, while more long‑term research is needed."
+          ]
+        },
+        "es": {
+          "title": "Opinión/revisión: la restricción estricta de golosinas puede aumentar el deseo y el exceso de consumo en niños",
+          "summary": "Esta pieza de The Conversation revisa investigaciones que sugieren que la restricción estricta de acceso a caramelos por parte de los padres puede resultar contraproducente, aumentando potencialmente el deseo de los niños por esos alimentos y la probabilidad de comerlos en exceso; los autores señalan efectos a largo plazo en la relación con la comida y limitaciones en la base de evidencia.",
+          "whyItMatters": "La forma en que los padres gestionan el acceso a alimentos de recompensa puede influir en el comportamiento alimentario de los niños y su relación con la comida; sin embargo, la evidencia es matizada y no prescribe un enfoque único para todos.",
+          "takeaways": [
+            "Algunos estudios indican que la restricción excesiva puede aumentar el atractivo de los alimentos restringidos y conducir a un consumo excesivo cuando están disponibles.",
+            "El artículo sintetiza investigaciones conductuales y advierte que la evidencia sobre efectos a largo plazo en el peso o la salud es limitada.",
+            "Padres y clínicos deberían considerar estrategias equilibradas y sensibles al contexto en lugar de la restricción absoluta, aunque se necesita más investigación a largo plazo."
+          ]
+        },
+        "ru": {
+          "title": "Мнение/обзор: строгие ограничения на сладости могут повысить желание детей и привести к перееданию",
+          "summary": "Статья в The Conversation рассматривает исследования, указывающие, что строгие родительские ограничения доступа к конфетам могут сыграть злую шутку — потенциально усиливая желание детей к этим продуктам и вероятность их переедания; авторы отмечают долгосрочные эффекты на отношения с едой и ограничения доказательной базы.",
+          "whyItMatters": "То, как родители регулируют доступ к «лакомствам», может влиять на пищевое поведение детей и их отношения с едой; однако доказательства неоднозначны и не дают универсальных рекомендаций.",
+          "takeaways": [
+            "Некоторые исследования показывают, что чрезмерные запреты могут повысить привлекательность запрещённых продуктов и привести к их избыточному потреблению при наличии доступа.",
+            "Статья синтезирует поведенческие исследования и предупреждает, что доказательств долгосрочного влияния на вес или здоровье мало.",
+            "Родителям и клиницистам рекомендуется рассматривать сбалансированные, чувствительные к контексту стратегии вместо абсолютного запрета, при этом требуется больше долгосрочных исследований."
+          ]
+        },
+        "uk": {
+          "title": "Оглядна стаття: сувора заборона солодощів може підвищити бажання дітей і привести до переїдання",
+          "summary": "Матеріал у The Conversation переглядає дослідження, які свідчать, що надто сувора батьківська заборона доступу до цукерок може давати зворотний ефект, підвищуючи бажання дітей і ймовірність переїдання цих продуктів; автори відзначають довгострокові наслідки для стосунків з їжею та обмеження в доказовій базі.",
+          "whyItMatters": "Те, як батьки регулюють доступ до частувань, може впливати на харчову поведінку дітей і їхні стосунки з їжею; однак докази є нюансованими і не вказують на універсальний підхід.",
+          "takeaways": [
+            "Деякі дослідження показують, що надмірна заборона може підвищити привабливість заборонених продуктів і сприяти переїданню, коли вони стають доступними.",
+            "Стаття синтезує поведінкові дослідження і застерігає, що дані про довгострокову вагу або здоров’я обмежені.",
+            "Батькам і клініцистам варто розглядати збалансовані, чутливі до контексту підходи замість категоричних заборон, при цьому потрібні додаткові довгострокові дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Opinion/révision : une restriction stricte des friandises peut accroître le désir des enfants et conduire au grignotage excessif",
+          "summary": "Cet article de The Conversation passe en revue des recherches suggérant qu’une restriction parentale stricte de l’accès aux bonbons peut se retourner contre elle, augmentant potentiellement le désir des enfants et la probabilité qu’ils trop mangent ces aliments ; les auteurs notent des effets à long terme sur la relation à l’alimentation et des limites de la base de preuves.",
+          "whyItMatters": "La manière dont les parents gèrent l’accès aux aliments de fête peut influencer le comportement alimentaire des enfants et leur relation à la nourriture ; toutefois, les preuves sont nuancées et ne prescrivent pas d’approche universelle.",
+          "takeaways": [
+            "Certaines études indiquent qu’une restriction trop stricte peut augmenter l’attrait des aliments restreints et conduire à un excès de consommation lorsqu’ils sont disponibles.",
+            "L’article synthétise des travaux en psychologie du comportement et met en garde sur le fait que les données concernant les effets à long terme sur le poids ou la santé sont limitées.",
+            "Les parents et les cliniciens devraient envisager des stratégies équilibrées et adaptées au contexte plutôt que des interdictions totales, et davantage de recherches à long terme sont nécessaires."
+          ]
+        },
+        "de": {
+          "title": "Meinung/Übersicht: strikte Einschränkung von Süßigkeiten kann das Verlangen und Überessen bei Kindern fördern",
+          "summary": "Dieser Beitrag in The Conversation fasst Forschung zusammen, die darauf hindeutet, dass strikte elterliche Beschränkungen des Zugangs zu Süßigkeiten nach hinten losgehen können und das Verlangen sowie die Wahrscheinlichkeit des Überessens dieser Lebensmittel bei Kindern erhöhen; die Autorinnen und Autoren weisen auf langfristige Auswirkungen auf die Essbeziehung und auf Einschränkungen der Evidenzbasis hin.",
+          "whyItMatters": "Wie Eltern den Zugang zu Leckereien steuern, kann das Essverhalten von Kindern und deren Verhältnis zu Lebensmitteln beeinflussen. Die Evidenz ist jedoch nuanciert und gibt keine universal gültige Vorgehensweise vor.",
+          "takeaways": [
+            "Einige Studien deuten darauf hin, dass übermäßig strikte Einschränkungen die Attraktivität eingeschränkter Lebensmittel erhöhen und zu Überessen führen können, wenn diese verfügbar sind.",
+            "Der Artikel synthetisiert verhaltenswissenschaftliche Forschung und warnt, dass Belege zu langfristigen Effekten auf Gewicht oder Gesundheit begrenzt sind.",
+            "Eltern und Fachkräfte sollten ausgewogene, kontextsensitive Strategien in Betracht ziehen statt pauschaler Verbote, während langfristigere Forschung erforderlich bleibt."
+          ]
+        },
+        "pt-br": {
+          "title": "Opinião/revisão: restrição severa de doces pode aumentar desejo e comer em excesso em crianças",
+          "summary": "Esta peça do The Conversation revisa pesquisas que sugerem que a restrição parental rígida ao acesso a doces pode ser contraproducente, potencialmente aumentando o desejo das crianças e a probabilidade de comerem em excesso esses alimentos; os autores observam efeitos de longo prazo no relacionamento com a comida e limitação da base de evidências.",
+          "whyItMatters": "A forma como os pais gerenciam o acesso a alimentos de recompensa pode influenciar o comportamento alimentar das crianças e a relação delas com a comida. Contudo, as evidências são nuançadas e não prescrevem uma abordagem única para todos.",
+          "takeaways": [
+            "Alguns estudos indicam que restrições excessivas podem aumentar o apelo dos alimentos restritos e levar a comer em excesso quando disponíveis.",
+            "O artigo sintetiza pesquisas comportamentais e alerta que as evidências sobre efeitos de longo prazo em peso ou saúde são limitadas.",
+            "Pais e profissionais devem considerar estratégias equilibradas e sensíveis ao contexto em vez de restrições absolutas, ao mesmo tempo em que mais pesquisas de longo prazo são necessárias."
+          ]
+        },
+        "hu": {
+          "title": "Vélemény/áttekintés: a szigorú édességkorlátozás növelheti a gyerekek vágyát és túlevését",
+          "summary": "A The Conversation cikke áttekinti azokat a kutatásokat, amelyek szerint a szülők túl szigorú korlátozása a cukorkákhoz való hozzáférésben visszaüthet, növelheti a gyerekek vonzódását és a későbbi túlevés esélyét; a szerzők hangsúlyozzák, hogy a hosszú távú hatások és a bizonyítékok korlátai miatt nincs egyetlen, mindenki számára megfelelő recept.",
+          "whyItMatters": "Az, hogy a szülők hogyan kezelik a jutalomételekhez való hozzáférést, befolyásolhatja a gyerekek étkezési viselkedését és az élelmiszerekkel való kapcsolatát; azonban a bizonyítékok árnyaltak, és nem írnak elő univerzális megoldást.",
+          "takeaways": [
+            "Egyes tanulmányok szerint a túl szigorú korlátozás fokozhatja a tiltott ételek vonzerejét és vezethet túlzott fogyasztáshoz, ha azok rendelkezésre állnak.",
+            "A cikk viselkedési kutatásokat szintetizál, és óvatosságra int: a hosszú távú testsúlyra vagy egészségre gyakorolt hatásokról kevés bizonyíték áll rendelkezésre.",
+            "A szülőknek és klinikusoknak egyensúlyozott, kontextus‑érzékeny stratégiákat érdemes fontolóra venniük a teljes tiltás helyett, miközben több hosszú távú kutatás szükséges."
+          ]
+        },
+        "ar": {
+          "title": "رأي/مراجعة: التقييد الصارم للحلويات قد يزيد من رغبة الأطفال والإفراط في الأكل",
+          "summary": "تستعرض قطعة في The Conversation أبحاثًا تشير إلى أن تقييد الوالدين الشديد للوصول إلى الحلوى قد ينقلب إلى نتائج عكسية، ويزيد من رغبة الأطفال واحتمال الإفراط في تناول تلك الأطعمة؛ ويشير المؤلفون إلى أن الآثار طويلة المدى على علاقة الطفل بالطعام والأدلة المتاحة محدودة.",
+          "whyItMatters": "طريقة إدارة الوالدين للوصول إلى الأطعمة الترفيهية يمكن أن تؤثر في سلوك الأكل وعلاقة الأطفال مع الطعام؛ ومع ذلك الأدلة معقدة ولا تفرض نهجًا واحدًا يناسب الجميع.",
+          "takeaways": [
+            "تشير بعض الدراسات إلى أن التقييد المفرط قد يزيد من جاذبية الأطعمة الممنوعة ويؤدي إلى الإفراط في الأكل عند توفرها.",
+            "المقال يجمع أبحاثًا سلوكية ويحذّر من أن الأدلة حول التأثيرات الطويلة الأمد على الوزن أو الصحة محدودة.",
+            "يجب أن ينظر الآباء والأطباء في استراتيجيات متزنة وحساسة للسياق بدلاً من التقييد الكلي، مع الحاجة إلى المزيد من البحوث الطولية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=parents-let-your-kids-eat-as-much-candy-as-they-want-less-restric-04ed1e24b468",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restric-04ed1e24b468-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restric-04ed1e24b468-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Opinion/review: strict restriction of sweets may increase children's desire and overeating.\nStory summary: This Conversation piece reviews research suggesting that strict parental restriction of access to candy can backfire, potentially increasing children's desire for and likelihood of overeating those foods; the authors note long‑term effects on eating relationships and the evidence base has limitations..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "scientists-discover-a-hidden-driver-of-high-cholesterol-and-a-way-bff5ea14f941",
       "category": "cardiovascular health",
@@ -644,6 +1500,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mayo Clinic work on 'precure' looks at earliest biological shifts before symptoms.\nStory summary: Mayo Clinic researchers are investigating the earliest changes in disease biology that occur long before symptoms appear, aiming to identify, predict and potentially prevent disease development at a much earlier stage..\nCategory: cancer research / early detection.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "overlooked-blood-cell-may-tracks-parkinson-s-brain-changes-fc66d23696e8",
+      "category": "neuroscience and brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/platelets-genetics-parkinsons-32362/",
+      "sourceTitle": "Overlooked Blood Cell May Tracks Parkinson’s Brain Changes",
+      "publishedAt": "Fri, 30 Oct 2026 17:07:23 +0000",
+      "languages": {
+        "en": {
+          "title": "Study suggests platelets may reflect Parkinson’s-related brain changes better than whole blood",
+          "summary": "Research from the Germans Trias i Pujol Research Institute indicated that blood platelets show molecular changes—such as signs of mitochondrial dysfunction—that may mirror neurodegenerative processes in Parkinson’s disease more closely than analyses of whole blood.",
+          "whyItMatters": "A peripheral blood cell that reliably tracks brain changes could simplify monitoring of disease progression or therapeutic effects, but findings need replication, validation across cohorts and demonstration of clinical utility.",
+          "takeaways": [
+            "Platelets showed biological signatures that correlated with neurodegenerative shifts in Parkinson’s research samples.",
+            "This is an early-stage research finding that could inform biomarker development if validated in larger, longitudinal human studies.",
+            "Clinical application would require standardised assays, prospective validation and comparison with existing biomarkers."
+          ]
+        },
+        "es": {
+          "title": "Estudio sugiere que las plaquetas pueden reflejar mejor los cambios cerebrales de Parkinson que la sangre total",
+          "summary": "Investigadores del Germans Trias i Pujol Research Institute hallaron que las plaquetas sanguíneas muestran cambios moleculares —como signos de disfunción mitocondrial— que podrían reflejar procesos neurodegenerativos en la enfermedad de Parkinson más de cerca que los análisis de sangre total.",
+          "whyItMatters": "Una célula sanguínea periférica que siga de forma fiable los cambios cerebrales podría simplificar el seguimiento de la progresión de la enfermedad o de los efectos terapéuticos, pero los hallazgos necesitan replicación, validación en otras cohortes y demostración de utilidad clínica.",
+          "takeaways": [
+            "Las plaquetas mostraron firmas biológicas que se correlacionaron con cambios neurodegenerativos en muestras de investigación sobre Parkinson.",
+            "Se trata de un hallazgo en fase temprana que podría orientar el desarrollo de biomarcadores si se valida en estudios humanos más grandes y longitudinales.",
+            "La aplicación clínica requeriría ensayos estandarizados, validación prospectiva y comparación con biomarcadores ya existentes."
+          ]
+        },
+        "ru": {
+          "title": "Исследование показывает, что тромбоциты могут отражать изменения мозга при болезни Паркинсона лучше, чем цельная кровь",
+          "summary": "Исследование Института Germans Trias i Pujol показало, что тромбоциты крови содержат молекулярные изменения — например, признаки митохондриальной дисфункции — которые, возможно, ближе отражают нейродегенеративные процессы при болезни Паркинсона, чем анализы цельной крови.",
+          "whyItMatters": "Периферическая клетка крови, которая надёжно отслеживает изменения в мозге, могла бы упростить мониторинг прогрессирования болезни или эффектов терапии, но результаты требуют репликации, валидации в других когортах и демонстрации клинической полезности.",
+          "takeaways": [
+            "В тромбоцитах обнаружены биологические сигнатуры, коррелирующие с нейродегенеративными сдвигами в образцах для исследования Паркинсона.",
+            "Это раннее исследование, которое может способствовать разработке биомаркеров при подтверждении в крупных продольных исследованиях на людях.",
+            "Клиническое применение потребует стандартизированных тестов, проспективной валидации и сравнения с существующими биомаркерами."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження вказує, що тромбоцити можуть краще відображати зміни мозку при Паркінсоні, ніж ціла кров",
+          "summary": "Дослідження з Інституту досліджень Germans Trias i Pujol показало, що тромбоцити містять молекулярні зміни — наприклад, ознаки порушень мітохондріальної функції — які, можливо, ближче відображають нейродегенеративні процеси при хворобі Паркінсона, ніж аналізи цілої крові.",
+          "whyItMatters": "Периферична клітина крові, яка надійно відстежує зміни мозку, могла б спростити моніторинг прогресування хвороби або ефектів терапії, але ці висновки потребують відтворення, валідації в інших когорт і демонстрації клінічної користі.",
+          "takeaways": [
+            "У тромбоцитах виявили біологічні сигнатури, що корелювали з нейродегенеративними зрушеннями в зразках для досліджень Паркінсона.",
+            "Це раннє дослідження, яке може сприяти розробці біомаркерів за умови валідації в більших продовжуваних дослідженнях людей.",
+            "Клінічне застосування вимагатиме стандартизованих тестів, проспективної валідації та порівняння з існуючими біомаркерами."
+          ]
+        },
+        "fr": {
+          "title": "Une cellule sanguine négligée : les plaquettes pourraient mieux refléter les changements cérébraux du Parkinson que le sang total",
+          "summary": "Des recherches de l’Institut Germans Trias i Pujol indiquent que les plaquettes montrent des modifications moléculaires — par exemple des signes de dysfonction mitochondriale — qui pourraient mieux refléter les processus neurodégénératifs du Parkinson que les analyses de sang total.",
+          "whyItMatters": "Une cellule sanguine périphérique qui suivrait de façon fiable les changements cérébraux pourrait simplifier le suivi de la progression de la maladie ou des effets thérapeutiques, mais ces résultats doivent être reproduits, validés dans d’autres cohortes et démontrer une utilité clinique.",
+          "takeaways": [
+            "Les plaquettes ont montré des signatures biologiques corrélées aux changements neurodégénératifs dans des échantillons de recherche sur le Parkinson.",
+            "Il s’agit d’un résultat de recherche précoce pouvant orienter le développement de biomarqueurs si validé dans des études humaines longitudinales et de plus grande taille.",
+            "L’application clinique nécessitera des tests standardisés, une validation prospective et une comparaison avec les biomarqueurs existants."
+          ]
+        },
+        "de": {
+          "title": "Studie legt nahe: Blutplättchen könnten Parkinson‑verwandte Hirnveränderungen besser widerspiegeln als Vollblut",
+          "summary": "Forschung des Germans Trias i Pujol Research Institute zeigte, dass Blutplättchen molekulare Veränderungen — etwa Hinweise auf mitochondriale Dysfunktion — aufweisen, die neurodegenerative Prozesse bei Parkinson möglicherweise näher widerspiegeln als Analysen von Vollblut.",
+          "whyItMatters": "Eine periphere Blutzelle, die verlässlich Hirnveränderungen abbildet, könnte das Monitoring von Krankheitsprogression oder Therapieeffekten vereinfachen. Die Ergebnisse müssen jedoch repliziert, in weiteren Kohorten validiert und hinsichtlich klinischem Nutzen gezeigt werden.",
+          "takeaways": [
+            "Bei Platelets wurden biologische Signaturen beobachtet, die mit neurodegenerativen Veränderungen in Parkinson‑Proben korrelierten.",
+            "Es handelt sich um einen frühen Forschungsbefund, der die Biomarker‑Entwicklung informieren könnte, wenn er in größeren, longitudinalen Humanstudien validiert wird.",
+            "Für die klinische Anwendung wären standardisierte Tests, prospektive Validierung und Vergleiche mit vorhandenen Biomarkern erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo sugere que plaquetas podem refletir alterações cerebrais relacionadas ao Parkinson melhor que sangue total",
+          "summary": "Pesquisas do Germans Trias i Pujol Research Institute indicaram que plaquetas sanguíneas apresentam alterações moleculares — como sinais de disfunção mitocondrial — que podem espelhar processos neurodegenerativos no Parkinson mais de perto do que análises de sangue total.",
+          "whyItMatters": "Uma célula sanguínea periférica que rastreie de forma confiável mudanças cerebrais poderia simplificar o monitoramento da progressão da doença ou de efeitos terapêuticos, mas os achados precisam ser replicados, validados em outras coortes e demonstrados quanto à utilidade clínica.",
+          "takeaways": [
+            "Plaquetas mostraram assinaturas biológicas que se correlacionaram com alterações neurodegenerativas em amostras de pesquisa sobre Parkinson.",
+            "Trata‑se de um achado em estágio inicial que poderia orientar o desenvolvimento de biomarcadores se validado em estudos humanos maiores e longitudinais.",
+            "A aplicação clínica exigiria ensaios padronizados, validação prospectiva e comparação com biomarcadores existentes."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: a vérlemezkék jobban tükrözhetik a Parkinsonnal kapcsolatos agyi változásokat, mint a teljes vér",
+          "summary": "A Germans Trias i Pujol Kutatóintézet kutatása szerint a vérlemezkék molekuláris változásokat — például mitokondriális diszfunkció jeleit — mutattak, amelyek a vizsgálati anyagok alapján közelebb állhatnak a Parkinson‑kori neurodegeneratív folyamatokhoz, mint a teljes vér elemzése.",
+          "whyItMatters": "Egy olyan perifériás vérsejt, amely megbízhatóan követi az agyi változásokat, egyszerűsíthetné a betegség progressziójának vagy a terápiás hatások követését, de az eredményeket meg kell ismételni, validálni különböző kohorszokban és igazolni a klinikai hasznot.",
+          "takeaways": [
+            "A vérlemezkék biológiai jeleket mutattak, amelyek korreláltak a Parkinsonhoz kötődő neurodegeneratív eltolódásokkal a vizsgálati mintákban.",
+            "Ez korai stádiumú kutatási eredmény, amely biomarker‑fejlesztést segíthet, ha nagyobb, longitudinális humán tanulmányokban igazolják.",
+            "A klinikai alkalmazáshoz standardizált vizsgálatokra, prospektív validálásra és összehasonlításra lesz szükség a meglévő biomarkerekkel."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تقترح أن الصفائح الدموية قد تعكس تغيّرات دماغية مرتبطة بمرض باركنسون أفضل من الدم الكامل",
+          "summary": "أشارت أبحاث معهد Germans Trias i Pujol إلى أن الصفائح الدموية تظهر تغيّرات جزيئية — مثل دلائل خلل الميتوكوندريا — قد تعكس عمليات التنكس العصبي في مرض باركنسون بشكل أوضح من تحاليل الدم الكامل في العينات المدروسة.",
+          "whyItMatters": "خلايا دموية طرفية تتابع تغيّرات الدماغ بشكل موثوق يمكن أن تبسط رصد تقدم المرض أو تأثير العلاجات، لكن النتائج تحتاج إلى تكرار، والتحقق في مجموعات مرجعية مختلفة، وإثبات الفائدة السريرية.",
+          "takeaways": [
+            "أظهرت الصفائح الدموية مؤشرات بيولوجية ارتبطت بتحوّلات تنكسية عصبية في عينات أبحاث باركنسون.",
+            "هذه نتيجة بحثية مبكرة قد تساهم في تطوير علامات حيوية إذا ثَبتت في دراسات بشرية أكبر وطولية.",
+            "يتطلب التطبيق السريري اختبارات معيارية، وتحققاً مستقبلياً، ومقارنةً مع العلامات الحيوية الموجودة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=overlooked-blood-cell-may-tracks-parkinson-s-brain-changes-fc66d23696e8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/overlooked-blood-cell-may-tracks-parkinson-s-brain-changes-fc66d23696e8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/overlooked-blood-cell-may-tracks-parkinson-s-brain-changes-fc66d23696e8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study suggests platelets may reflect Parkinson’s-related brain changes better than whole blood.\nStory summary: Research from the Germans Trias i Pujol Research Institute indicated that blood platelets show molecular changes—such as signs of mitochondrial dysfunction—that may mirror neurodegenerative processes in Parkinson’s disease more closely than analyses of whole blood..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "an-anti-senescence-vaccine-increases-mouse-lifespan-f9c58cf60bd7",
@@ -116397,6 +117360,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-02-motivation-1-story-1",
+      "category": "calorie_tracking_motivation",
+      "languages": {
+        "en": {
+          "title": "Emma plans ahead",
+          "story": "Emma used to skip lunch or grab whatever was closest. She started packing a simple meal the night before and logging it in the app each morning. Tracking helped her see when she was under-fueling and when snacks filled the gaps. Instead of aiming for perfection, she focused on consistency: planning one meal a day and noting how it made her feel. Over a few weeks she felt more in control of choices and less rushed around mealtimes.",
+          "habit": "Plan and log one meal the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Ana planifica con antelación",
+          "story": "Ana solía saltarse el almuerzo o comprar lo primero que encontraba. Empezó a preparar una comida sencilla la noche anterior y a registrarla en la app cada mañana. Llevar el registro le permitió ver cuándo no comía lo suficiente y cuándo los snacks ocupaban ese espacio. En lugar de buscar la perfección, se centró en la constancia: planificar una comida al día y anotar cómo se sentía. En pocas semanas notó que tenía más control sobre sus decisiones y menos prisas a la hora de comer.",
+          "habit": "Prepara y registra una comida la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Елена планирует заранее",
+          "story": "Елена часто пропускала обед или брала что попалось под руку. Она стала готовить простой перекус накануне и вносить его в приложение каждое утро. Ведение учёта помогло ей заметить, когда она недоедала, а когда перекусы заменяли полноценный приём пищи. Вместо стремления к идеалу она сделала упор на регулярность: планировать один приём пищи в день и отмечать, как это влияет на самочувствие. Через несколько недель ей стало проще принимать решения о питании и меньше торопиться.",
+          "habit": "Спланируйте и запишите один приём пищи накануне.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Олена планує наперед",
+          "story": "Олена часто пропускала обід або брала перше, що під руку. Вона почала готувати просту страву напередодні та записувати її в додаток щоранку. Ведення записів допомогло помітити, коли вона недоїдала, а коли перекуси замінювали повноцінний прийом їжі. Замість прагнення до досконалості вона зробила акцент на регулярності: планувати один прийом їжі на день і відзначати, як це впливає на самопочуття. Через кілька тижнів їй стало легше робити вибір і менше поспішати.",
+          "habit": "Заплануйте й запишіть один прийом їжі напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежуйте сьогодні."
+        },
+        "fr": {
+          "title": "Emma planifie à l'avance",
+          "story": "Emma sautait souvent le déjeuner ou prenait ce qui était sous la main. Elle a commencé à préparer un repas simple la veille et à le noter dans l'application chaque matin. Le suivi lui a permis de voir quand elle manquait d'énergie et quand les en-cas prenaient la place d'un vrai repas. Plutôt que de rechercher la perfection, elle a privilégié la régularité : planifier un repas par jour et noter comment elle se sent. En quelques semaines, elle a gagné en sérénité et en clarté dans ses choix.",
+          "habit": "Préparez et enregistrez un repas la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Emma plant voraus",
+          "story": "Emma übersprang oft das Mittagessen oder griff nach dem, was gerade verfügbar war. Sie begann, am Abend zuvor eine einfache Mahlzeit vorzubereiten und diese morgens in die App einzutragen. Das Tracking half ihr zu erkennen, wann sie zu wenig aß und wann Snacks die Mahlzeiten ersetzten. Statt nach Perfektion zu streben, setzte sie auf Regelmäßigkeit: eine Mahlzeit pro Tag planen und festhalten, wie sie sich dabei fühlt. Nach ein paar Wochen traf sie bewusstere Entscheidungen und hatte weniger Hektik beim Essen.",
+          "habit": "Plane und trage eine Mahlzeit am Vorabend ein.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute nach."
+        },
+        "pt-br": {
+          "title": "Ana planeja com antecedência",
+          "story": "Ana costumava pular o almoço ou escolher o que estivesse à mão. Começou a preparar uma refeição simples na noite anterior e a registrar tudo no app pela manhã. Acompanhar as refeições mostrou quando ela estava com menos energia e quando os lanches substituíam uma refeição. Em vez de buscar perfeição, ela priorizou a constância: planejar uma refeição por dia e observar como se sentia. Em poucas semanas ficou mais tranquila nas escolhas e menos apressada na hora de comer.",
+          "habit": "Prepare e registre uma refeição na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Emma előre tervez",
+          "story": "Emma gyakran kihagyta az ebédet, vagy az első kézre eső ételt választotta. Elkezdett egy egyszerű ételt előkészíteni előző este, és reggelente beírni az alkalmazásba. A naplózás megmutatta, mikor volt alul-energizált, és mikor pótolták a nassolások a főétkezést. A tökéletesség helyett a következetességre koncentrált: naponta egy étkezést megtervezni és feljegyezni, hogyan érzi magát. Néhány hét után könnyebben hozott döntéseket és kevésbé sietett étkezéskor.",
+          "habit": "Tervezd meg és jegyezd fel az egyik étkezést előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdd el a nyomonkövetést ma."
+        },
+        "ar": {
+          "title": "إيما تخطط مسبقًا",
+          "story": "كانت إيما غالبًا ما تُفَوِّت الغداء أو تختار أي شيء سهل. بدأت تُحضِّر وجبة بسيطة ليلةً قبل وتُسجلها في التطبيق كل صباح. ساعدها التتبع على معرفة متى لا تحصل على طاقة كافية ومتى تحلّ الوجبات الخفيفة محل الوجبات الرئيسية. بدلًا من السعي للكمال، ركّزت على الانتظام: تخطيط وجبة واحدة يوميًا وتسجيل شعورها بعدها. بعد أسابيع قليلة شعرت براحة أكبر في اختياراتها وأقل اندفاعًا وقت الوجبات.",
+          "habit": "خطط وسجّل وجبة واحدة في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Emma plans ahead.\nStory: Emma used to skip lunch or grab whatever was closest. She started packing a simple meal the night before and logging it in the app each morning. Tracking helped her see when she was under-fueling and when snacks filled the gaps. Instead of aiming for perfection, she focused on consistency: planning one meal a day and noting how it made her feel. Over a few weeks she felt more in control of choices and less rushed around mealtimes..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-02-motivation-2-story-2",
+      "category": "calorie_tracking_motivation",
+      "languages": {
+        "en": {
+          "title": "Carlos notices his snack habits",
+          "story": "Carlos loved a mid-afternoon snack but never wrote it down. When he started logging snacks honestly, a clear pattern appeared: certain meetings led to salty chips, while others led to fruit. Seeing the pattern felt empowering, not shameful. He picked one small swap—carrot sticks instead of chips on meeting days—and tracked how it affected his mood and energy. Over time the app helped him spot triggers and make tiny choices that matched how he wanted to feel.",
+          "habit": "Log one snack honestly this week.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Carlos observa sus snacks",
+          "story": "A Carlos le encantaba el snack de media tarde, pero nunca lo registraba. Al empezar a anotar los snacks con honestidad, apareció un patrón: unas reuniones le hacían comer patatas fritas, otras fruta. Verlo así le dio control, no vergüenza. Eligió un pequeño cambio: bastones de zanahoria en lugar de patatas los días de reunión, y registró cómo afectaba su ánimo y energía. Con el tiempo la app le ayudó a identificar disparadores y a probar decisiones pequeñas que encajaban con cómo quería sentirse.",
+          "habit": "Registra honestamente un snack esta semana.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Сергей заметил перекусы",
+          "story": "Сергей любил полдник, но никогда не записывал его. Когда он начал честно фиксировать перекусы, вырисовался явный шаблон: одни совещания — чипсы, другие — фрукты. Увидеть это означало получить контроль, а не стыд. Он выбрал небольшую замену — морковные палочки вместо чипсов в дни совещаний — и отслеживал, как меняется настроение и энергия. Со временем приложение помогло ему распознавать триггеры и делать маленькие изменения в пользу желаемых ощущений.",
+          "habit": "Запишите честно один перекус на этой неделе.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Сергій помічає перекуси",
+          "story": "Сергій дуже любив післяобідній перекус, але ніколи його не записував. Коли він почав чесно фіксувати перекуси, виявився чіткий візерунок: на одних зустрічах — чипси, на інших — фрукти. Побачити це дало відчуття контролю, а не сорому. Він обрав маленьку заміну — палички з моркви замість чипсів у дні зустрічей — і відстежував, як змінюється настрій та енергія. З часом додаток допоміг помічати тригери і робити невеликі кроки для бажаних відчуттів.",
+          "habit": "Занотуйте чесно один перекус цього тижня.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежуйте сьогодні."
+        },
+        "fr": {
+          "title": "Carlos observe ses habitudes de grignotage",
+          "story": "Carlos aimait grignoter l'après-midi, mais il ne le notait jamais. En commençant à consigner ses snacks avec honnêteté, un modèle a émergé : certaines réunions le poussaient vers des chips, d'autres vers des fruits. Le constater a été libérateur, pas culpabilisant. Il a choisi un petit remplacement — bâtonnets de carotte à la place des chips les jours de réunion — et a noté l'impact sur son humeur et son énergie. Avec le temps, l'application l'a aidé à repérer les déclencheurs et à ajuster doucement ses choix.",
+          "habit": "Notez un snack honnêtement cette semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Carlos erkennt seine Snack-Muster",
+          "story": "Carlos liebte den Nachmittagssnack, trug ihn aber nie ein. Als er begann, Snacks ehrlich zu protokollieren, zeigte sich ein Muster: bestimmte Meetings führten zu Chips, andere zu Obst. Das Muster zu sehen war stärkend, nicht beschämend. Er entschied sich für einen kleinen Austausch — Karottensticks statt Chips an Meeting-Tagen — und beobachtete, wie Stimmung und Energie reagierten. Mit der Zeit half die App ihm, Auslöser zu erkennen und kleine Entscheidungen zu treffen, die zu seinem Wohlbefinden passten.",
+          "habit": "Trage diese Woche einen Snack ehrlich ein.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute nach."
+        },
+        "pt-br": {
+          "title": "Carlos percebe seus lanches",
+          "story": "Carlos gostava de um lanche à tarde, mas nunca registrava. Ao começar a anotar os lanches com honestidade, surgiu um padrão: certas reuniões levavam a salgadinhos, outras a frutas. Ver isso foi libertador, não motivo de culpa. Ele escolheu uma troca pequena — palitos de cenoura no lugar de salgadinhos nos dias de reunião — e acompanhou como isso mudava seu humor e energia. Com o tempo, o app ajudou a identificar gatilhos e a fazer pequenas escolhas alinhadas ao que ele queria sentir.",
+          "habit": "Registre honestamente um lanche esta semana.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Károly felfedezi a nassolási mintákat",
+          "story": "Károly imádta a délutáni nassolást, de soha nem jegyezte fel. Amikor elkezdte őszintén rögzíteni a nassokat, világos mintázat jelent meg: bizonyos megbeszélések csipszhez vezettek, mások gyümölcshöz. Ennek meglátása felszabadító volt, nem bíráló. Egy apró cserét választott — sárgarépa rudakat csipsz helyett a megbeszéléses napokon — és követte, hogyan hat ez a hangulatára és energiájára. Az alkalmazás idővel segített felismerni a kiváltó okokat és apró lépéseket tenni a kívánt közérzetért.",
+          "habit": "Jegyezd fel őszintén egy nassolást ezen a héten.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd ma."
+        },
+        "ar": {
+          "title": "كريم يلاحظ عادات الوجبات الخفيفة",
+          "story": "كان كريم يحب وجبة خفيفة بعد الظهر لكنه لم يسجلها أبدًا. عندما بدأ بتسجيل الوجبات الخفيفة بصدق، ظهر نمط واضح: بعض الاجتماعات تدفعه إلى رقائق بطاطس، وأخرى إلى الفاكهة. رؤية هذا الأمر منحتَه شعورًا بالسيطرة وليس بالخجل. اختار تغييرًا بسيطًا — أصابع جزر بدل الرقائق في أيام الاجتماعات — وسجل كيف أثّر ذلك على مزاجه وطاقة جسده. مع الوقت ساعده التطبيق على التعرف على المحفزات وإجراء تغييرات صغيرة بما يتناسب مع شعوره المرغوب.",
+          "habit": "سجل وجبة خفيفة واحدة بصدق هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Carlos notices his snack habits.\nStory: Carlos loved a mid-afternoon snack but never wrote it down. When he started logging snacks honestly, a clear pattern appeared: certain meetings led to salty chips, while others led to fruit. Seeing the pattern felt empowering, not shameful. He picked one small swap—carrot sticks instead of chips on meeting days—and tracked how it affected his mood and energy. Over time the app helped him spot triggers and make tiny choices that matched how he wanted to feel..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-02-motivation-3-story-3",
+      "category": "calorie_tracking_motivation",
+      "languages": {
+        "en": {
+          "title": "Olga tracks timing, not guilt",
+          "story": "Olga noticed she often ate late at night and felt sluggish in the morning. Instead of blaming herself, she started noting the time of each meal in the app for a week. The data showed a pattern: late work nights led to later snacks. With that insight she tried one small adjustment—setting a reminder to pause for 20 minutes before reaching for food—and logged how that felt. Tracking helped her understand timing, not judge it, and she used what she learned to plan gentler routines.",
+          "habit": "Record the time of each meal for three days.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Olga registra horarios sin culpa",
+          "story": "Olga se dio cuenta de que comía tarde y se sentía lenta por la mañana. En lugar de culparse, empezó a anotar la hora de cada comida en la app durante una semana. Los datos mostraron un patrón: noches de mucho trabajo llevaban a snacks a deshoras. Con esa información probó un pequeño ajuste: esperar 20 minutos antes de comer y apuntar cómo se sentía. Registrar le ayudó a entender los horarios sin juzgarse, y usó lo aprendido para planificar rutinas más amables.",
+          "habit": "Apunta la hora de cada comida durante tres días.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Ольга фиксирует время без упрёков",
+          "story": "Ольга заметила, что часто ест поздно и по утрам чувствует усталость. Вместо того чтобы винить себя, она стала отмечать время каждого приёма пищи в приложении в течение недели. Данные показали закономерность: поздние рабочие вечера — поздние перекусы. Получив это понимание, она попробовала небольшую корректировку — подождать 20 минут перед тем, как взять еду, и записывать ощущения. Трекинг помог ей разобраться с режимом, не осуждая себя, и составить более мягкие привычки.",
+          "habit": "Зафиксируйте время каждого приёма пищи в течение трёх дней.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Ольга фіксує час без докорів",
+          "story": "Ольга помітила, що часто їсть пізно й вранці почувається розбитою. Замість докорів вона почала записувати час кожного прийому їжі в додатку протягом тижня. Дані показали закономірність: пізні робочі вечори призводили до пізніх перекусів. З цим усвідомленням вона спробувала невелике коригування — зачекати 20 хвилин перед перекусом і записати відчуття. Ведення записів допомогло їй зрозуміти режим без осуду і планувати більш лагідні звички.",
+          "habit": "Запишіть час кожного прийому їжі протягом трьох днів.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежуйте сьогодні."
+        },
+        "fr": {
+          "title": "Olga suit les horaires sans culpabilité",
+          "story": "Olga constatait qu'elle mangeait souvent tard et se sentait lourde le matin. Plutôt que de se blâmer, elle a noté l'heure de chaque repas dans l'application pendant une semaine. Les données ont révélé un schéma : les soirées de travail tardives entraînaient des grignotages tardifs. Avec cette prise de conscience, elle a ajusté une chose simple — attendre 20 minutes avant de manger — et noter ses ressentis. Le suivi l'a aidée à comprendre ses horaires sans jugement et à aménager une routine plus douce.",
+          "habit": "Notez l'heure de chaque repas pendant trois jours.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Olga protokolliert Zeiten ohne Schuldgefühl",
+          "story": "Olga stellte fest, dass sie oft spät am Abend aß und sich morgens träge fühlte. Statt sich Vorwürfe zu machen, begann sie, eine Woche lang die Uhrzeit jeder Mahlzeit in der App zu notieren. Die Daten zeigten ein Muster: späte Arbeitstage führten zu späten Snacks. Mit diesem Wissen probierte sie eine kleine Anpassung — 20 Minuten warten, bevor sie etwas greift — und hielt fest, wie sich das anfühlte. Das Tracking half ihr, die Zeitpunkte zu verstehen, ohne sie zu bewerten, und langsam passende Routinen zu finden.",
+          "habit": "Notiere die Uhrzeit jeder Mahlzeit für drei Tage.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute nach."
+        },
+        "pt-br": {
+          "title": "Olga registra horários sem culpa",
+          "story": "Olga percebeu que costumava comer tarde e se sentir lenta pela manhã. Em vez de se culpar, passou a anotar o horário de cada refeição no app por uma semana. Os dados mostraram um padrão: noites longas de trabalho levavam a lanches tardios. Com esse insight, ela fez um ajuste pequeno — esperar 20 minutos antes de pegar a comida — e registrou como se sentiu. O acompanhamento a ajudou a entender os horários sem julgamentos e a planejar rotinas mais suaves.",
+          "habit": "Registre o horário de cada refeição por três dias.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Olga időpontokat követ ítélkezés nélkül",
+          "story": "Olga észrevette, hogy gyakran eszik késő este, és reggel fáradtnak érzi magát. Ahelyett, hogy hibáztatta volna magát, egy hétig feljegyezte az alkalmazásba minden étkezés időpontját. Az adatok mintát mutattak: a késő esti munka késői nassoláshoz vezetett. Ezzel a felismeréssel kipróbált egy apró változtatást — 20 perc várakozás evés előtt — és lejegyezte az érzéseit. A követés segített megérteni az időzítést ítélkezés nélkül, és finomabb rutint kialakítani.",
+          "habit": "Rögzítsd minden étkezés időpontját három napon át.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezd el a nyomon követést ma."
+        },
+        "ar": {
+          "title": "أولغا تسجل التوقيت بدون لوم",
+          "story": "لاحظت أولغا أنها كثيرًا ما تأكل في وقت متأخر فتشعر بالكسل صباحًا. بدلًا من لوم نفسها، بدأت تكتب وقت كل وجبة في التطبيق لمدة أسبوع. أظهرت البيانات نمطًا واضحًا: الليالي الطويلة في العمل أدت إلى وجبات خفيفة متأخرة. بناءً على ذلك جربت تعديلًا بسيطًا — الانتظار 20 دقيقة قبل الأكل — وسجلت شعورها. ساعدها التتبع على فهم توقيت الوجبات دون حكم، واستخدام ما تعلمته لبناء روتين ألطف.",
+          "habit": "سجل وقت كل وجبة لمدة ثلاثة أيام.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Olga tracks timing, not guilt.\nStory: Olga noticed she often ate late at night and felt sluggish in the morning. Instead of blaming herself, she started noting the time of each meal in the app for a week. The data showed a pattern: late work nights led to later snacks. With that insight she tried one small adjustment—setting a reminder to pause for 20 minutes before reaching for food—and logged how that felt. Tracking helped her understand timing, not judge it, and she used what she learned to plan gentler routines..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-02-motivation-4-story-4",
+      "category": "calorie_tracking_motivation",
+      "languages": {
+        "en": {
+          "title": "Amir learns from family dinners",
+          "story": "Amir often shared dishes at family dinners and wasn't sure how to record portions. He began estimating or weighing one shared dish and logging it in the app, then dividing mentally for his portion. Tracking helped him notice that swapping one side—like a small salad instead of fries—made him feel lighter after meals. He treated the app as a tool for learning, not perfection: one recorded portion at a time, observing how small changes affected comfort and energy during the evening.",
+          "habit": "Estimate or weigh one portion and log it.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Amir aprende en cenas familiares",
+          "story": "Amir compartía platos en las cenas familiares y no sabía cómo registrar las porciones. Empezó a estimar o pesar un plato compartido y anotarlo en la app, dividiendo luego mentalmente su ración. El seguimiento le permitió ver que cambiar un acompañamiento—por ejemplo, una pequeña ensalada en vez de patatas—le hacía sentir más ligero después de comer. Consideró la app como una herramienta de aprendizaje, no de perfección: una porción registrada a la vez, observando cómo los pequeños cambios afectaban su comodidad y energía por la noche.",
+          "habit": "Estima o pesa una porción y regístrala.",
+          "appCta": "Abre Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Амир учится на семейных ужинах",
+          "story": "Амир часто делил блюда на семейных ужинах и не знал, как учитывать порции. Он стал прикидывать или взвешивать одно общее блюдо и вносить это в приложение, затем мысленно деля на свою порцию. Трекинг показал, что замена одного гарнира — например, небольшой салат вместо картофеля фри — помогает чувствовать себя легче после еды. Он рассmatривал приложение как инструмент обучения, не совершенства: по одной записанной порции и наблюдение за тем, как мелкие изменения влияют на самочувствие и энергию вечером.",
+          "habit": "Прикиньте или взвесьте одну порцию и запишите её.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Аміру корисні сімейні вечері",
+          "story": "Аміру доводилося ділити страви на сімейних вечорах, й він не знав, як фіксувати порції. Він почав оцінювати або зважувати одну спільну страву й записувати це в додаток, потім уявно визначати свою частку. Відстеження показало, що заміна одного гарніру — наприклад, маленький салат замість картоплі — допомагала відчувати себе легше після їжі. Він сприймав додаток як інструмент навчання, не досконалості: по одній записаній порції й спостереження за тим, як маленькі зміни впливають на комфорт і енергію ввечері.",
+          "habit": "Оцініть або зважте одну порцію й запишіть її.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежуйте сьогодні."
+        },
+        "fr": {
+          "title": "Amir apprend lors des repas familiaux",
+          "story": "Amir partageait souvent les plats au dîner et ne savait pas comment enregistrer les portions. Il a commencé à estimer ou peser un plat partagé et à le noter dans l'application, puis à évaluer mentalement sa part. Le suivi lui a montré qu'un petit changement d'accompagnement — une salade plutôt que des frites — le faisait sentir plus léger après le repas. Il a abordé l'app comme un outil d'apprentissage, pas de perfection : une portion enregistrée à la fois, en observant l'effet des petits changements sur le confort et l'énergie du soir.",
+          "habit": "Estimez ou pesez une portion et enregistrez-la.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez aujourd'hui."
+        },
+        "de": {
+          "title": "Amir lernt bei Familienessen",
+          "story": "Amir teilte oft Speisen bei Familienessen und wusste nicht, wie er Portionen erfassen sollte. Er begann, ein gemeinsames Gericht abzuschätzen oder zu wiegen und in der App zu notieren, dann seine eigene Portion gedanklich zu bestimmen. Das Tracking zeigte ihm, dass ein Tausch bei einer Beilage — etwa ein kleiner Salat statt Pommes — ihm nach dem Essen leichter vorkam. Er nutzte die App als Lernwerkzeug, nicht als Perfektionsanspruch: eine erfasste Portion nach der anderen und beobachten, wie kleine Änderungen Komfort und Energie am Abend beeinflussen.",
+          "habit": "Schätze oder wiege eine Portion und trage sie ein.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute nach."
+        },
+        "pt-br": {
+          "title": "Amir aprende nas refeições em família",
+          "story": "Amir costumava dividir pratos nas refeições de família e não sabia como registrar porções. Começou a estimar ou pesar um prato compartilhado e registrá-lo no app, depois dividir mentalmente a sua parte. O acompanhamento mostrou que trocar um acompanhamento — por exemplo, uma salada pequena no lugar de batatas fritas — fazia com que se sentisse mais leve após a refeição. Ele usou o app como ferramenta de aprendizado, não perfeição: uma porção registrada por vez, observando como pequenas mudanças afetavam o conforto e a energia à noite.",
+          "habit": "Estimule ou pese uma porção e registre-a.",
+          "appCta": "Abra o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Amir tanul a családi vacsorákból",
+          "story": "Amir gyakran osztozott ételeken a családi vacsorákon, és nem tudta, hogyan rögzítse a adagokat. Elkezdett egy megosztott ételt megbecsülni vagy megmérni, és beírni az alkalmazásba, majd fejben meghatározni a saját részét. A követés megmutatta, hogy egy köret kicserélése — például egy kis saláta a sültkrumpli helyett — könnyedebb érzést adott az étkezés után. Az alkalmazást tanulási eszközként használta, nem a tökéletesség szimbólumaként: egy rögzített adag egyszerre, figyelve a kis változtatások hatását.",
+          "habit": "Becsülj vagy mérj le egy adagot, és jegyezd fel.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdd el a nyomon követést ma."
+        },
+        "ar": {
+          "title": "أمير يتعلم من عشاء العائلة",
+          "story": "غالبًا ما يشارك أمير الأطباق في عشاء العائلة ولم يكن متأكدًا كيف يسجل الحصص. بدأ بتقدير أو وزن طبق مشترك وتسجيله في التطبيق، ثم يقسمه ذهنيًا لحصته. ساعده التتبع على ملاحظة أن استبدال طبق جانبي واحد — مثل سلطة صغيرة بدلاً من البطاطس المقلية — يجعله يشعر بخفة بعد الأكل. عامل التطبيق كأداة تعلم، لا وسيلة للكمال: حصة مسجلة واحدة في كل مرة، وملاحظة كيف تؤثر التغييرات الصغيرة على الراحة والطاقة في المساء.",
+          "habit": "قدّر أو وزن حصة واحدة وسجلها.",
+          "appCta": "افتح Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-02T16:22:30.758Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-02-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Amir learns from family dinners.\nStory: Amir often shared dishes at family dinners and wasn't sure how to record portions. He began estimating or weighing one shared dish and logging it in the app, then dividing mentally for his portion. Tracking helped him notice that swapping one side—like a small salad instead of fries—made him feel lighter after meals. He treated the app as a tool for learning, not perfection: one recorded portion at a time, observing how small changes affected comfort and energy during the evening..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-01-motivation-1-s1",
       "category": "meal_planning",
