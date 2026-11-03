@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T01:17:55.770Z",
+  "generatedAt": "2026-11-03T14:47:55.204Z",
   "items": [
+    {
+      "id": "2026-11-03-pm",
+      "publishedAt": "2026-11-03T14:47:55.204Z",
+      "format": "summary",
+      "source": {
+        "id": "article:guide-to-food-label-calories",
+        "kind": "article",
+        "name": "Calorie Bank Credit",
+        "title": "Guide to Food Label Calories Without Guesswork",
+        "urls": {
+          "en": "https://www.calorie-bank.com/articles/guide-to-food-label-calories.html",
+          "es": "https://www.calorie-bank.com/articles/es/guide-to-food-label-calories.html",
+          "ru": "https://www.calorie-bank.com/articles/ru/guide-to-food-label-calories.html",
+          "uk": "https://www.calorie-bank.com/articles/uk/guide-to-food-label-calories.html",
+          "fr": "https://www.calorie-bank.com/articles/fr/guide-to-food-label-calories.html",
+          "de": "https://www.calorie-bank.com/articles/de/guide-to-food-label-calories.html",
+          "pt-br": "https://www.calorie-bank.com/articles/pt-br/guide-to-food-label-calories.html",
+          "hu": "https://www.calorie-bank.com/articles/hu/guide-to-food-label-calories.html",
+          "ar": "https://www.calorie-bank.com/articles/ar/guide-to-food-label-calories.html"
+        },
+        "originalUrl": "https://www.calorie-bank.com/articles/guide-to-food-label-calories.html",
+        "imageUrl": "/article-images/guide-to-food-label-calories.webp"
+      },
+      "languages": {
+        "en": {
+          "title": "Calorie labels: count what you actually eat",
+          "intro": "Quick steps to log the calories that truly belong in your day: check serving size, use per-100g/ml to compare, and spot hidden extras. Labels are regulated but still estimates; % reference intake isn't your own",
+          "points": [
+            "Check the stated serving size and multiply by how much you actually eat—packs often contain multiple servings.",
+            "Use the per-100g (or per-100ml) value to compare brands, then scale it to your portion weight to get real calories.",
+            "Include add-ons (oil, butter, dressings, milk, mayo) when logging; remember pack, restaurant and homemade portions are estimates."
+          ],
+          "takeaway": "Pause and ask “how much of this pack will I eat?” Scan or estimate portions, log the scaled value, and treat label numbers as useful estimates to keep tracking simple.",
+          "imageUrl": "/infographic-images/2026-11-03-pm-en.jpg"
+        },
+        "es": {
+          "title": "Etiquetas de calorías: cuenta lo que realmente comes",
+          "intro": "Pasos rápidos para registrar las calorías que realmente pertenecen a tu día: comprueba el tamaño de la ración, usa el valor por 100 g/ml para comparar y detecta extras ocultos. Las etiquetas están reguladas, но",
+          "points": [
+            "Comprueba el tamaño de ración indicado y multiplícalo por lo que realmente comes: los envases suelen contener varias raciones.",
+            "Usa el valor por 100 g (o por 100 ml) para comparar marcas, luego ajústalo al peso de tu porción para obtener las calorías reales.",
+            "Incluye añadidos (aceite, mantequilla, salsas, leche, mayonesa) al registrar; recuerda que las porciones de envase, restaurante y caseras son estimaciones."
+          ],
+          "takeaway": "Pausa y pregúntate “¿cuánto de este envase comeré?” Escanea o estima las porciones, registra el valor ajustado y trata los números de la etiqueta como estimaciones útiles para mantener el registro si",
+          "imageUrl": "/infographic-images/2026-11-03-pm-es.jpg"
+        },
+        "ru": {
+          "title": "Этикетки с калориями: учитывайте то, что вы действительно съедаете",
+          "intro": "Короткие шаги для записи калорий, которые действительно относятся к вашему дню: проверьте размер порции, используйте значение на 100 г/мл для сравнения и выявляйте скрытые добавки. Этикетки регулируются, но по",
+          "points": [
+            "Проверьте указанный размер порции и умножьте на то, сколько вы реально съедаете — упаковки часто содержат несколько порций.",
+            "Используйте значение на 100 г (или на 100 мл) для сравнения брендов, затем пересчитайте на вес вашей порции, чтобы получить реальные калории.",
+            "Включайте добавки (растительное масло, сливочное масло, заправки, молоко, майонез) при учёте; помните, что порции в упаковках, ресторанах и домашние — это оценки."
+          ],
+          "takeaway": "Остановитесь и спросите «сколько из этой упаковки я съем?» Отсканируйте или оцените порции, внесите пересчитанное значение и относитесь к данным на этикетке как к полезным оценкам, чтобы упростить учё",
+          "imageUrl": "/infographic-images/2026-11-03-pm-ru.jpg"
+        },
+        "uk": {
+          "title": "Калорійні етикетки: рахувати те, що ви справді з’їдаєте",
+          "intro": "Короткі кроки для запису калорій, які насправді належать вашому дню: перевірте розмір порції, використайте значення на 100 г/мл для порівняння і помітте приховані добавки. Етикетки регулюються, але це оцінки; %",
+          "points": [
+            "Перевірте вказаний розмір порції і помножте на те, скільки ви насправді їсте — упаковки часто містять кілька порцій.",
+            "Використовуйте значення на 100 г (або на 100 мл) для порівняння брендів, потім масштабируйте на вагу вашої порції, щоб отримати реальні калорії.",
+            "Включайте добавки (олія, масло, соуси, молоко, майонез) при записі; пам’ятайте, що порції з пачки, ресторану і домашні — це оцінки."
+          ],
+          "takeaway": "Зупиніться й запитайте: «Скільки з цієї упаковки я з’їм?» Скануйте або оцінюйте порції, запишіть масштабоване значення і ставтесь до цифр на етикетці як до корисних оцінок, щоб простіше відстежувати.",
+          "imageUrl": "/infographic-images/2026-11-03-pm-uk.jpg"
+        },
+        "fr": {
+          "title": "Étiquettes caloriques : comptez ce que vous mangez vraiment",
+          "intro": "Étapes rapides pour enregistrer les calories qui appartiennent vraiment à votre journée : vérifiez la taille de la portion, utilisez la valeur pour 100 g/ml pour comparer et repérez les extras cachés. Les étiq.",
+          "points": [
+            "Vérifiez la taille de portion indiquée et multipliez par ce que vous mangez réellement — les emballages contiennent souvent plusieurs portions.",
+            "Utilisez la valeur pour 100 g (ou 100 ml) pour comparer les marques, puis adaptez-la au poids de votre portion pour obtenir les calories réelles.",
+            "Incluez les suppléments (huile, beurre, sauces, lait, mayonnaise) lors de l'enregistrement ; souvenez-vous que les portions des paquets, restaurants et maison sont des estimations."
+          ],
+          "takeaway": "Faites une pause et demandez « combien de cette boîte vais‑je manger ? » Scannez ou estimez les portions, enregistrez la valeur ajustée et considérez les chiffres des étiquettes comme des estimations ",
+          "imageUrl": "/infographic-images/2026-11-03-pm-fr.jpg"
+        },
+        "de": {
+          "title": "Kalorienangaben: Zähle, was du wirklich isst",
+          "intro": "Schnelle Schritte, um die Kalorien zu protokollieren, die wirklich in deinen Tag gehören: überprüfe die Portionsgröße, nutze Angaben pro 100 g/ml zum Vergleich und erkenne versteckte Extras. Angaben sind regulI",
+          "points": [
+            "Prüfe die angegebene Portionsgröße und multipliziere mit dem, was du wirklich isst – Packungen enthalten oft mehrere Portionen.",
+            "Nutze den Wert pro 100 g (oder pro 100 ml), um Marken zu vergleichen, und rechne ihn auf dein Portionsgewicht hoch, um die tatsächlichen Kalorien zu erhalten.",
+            "Erfasse Zugaben (Öl, Butter, Dressings, Milch, Mayo) beim Protokollieren; Packungs-, Restaurant- und Hausportionen sind Schätzwerte."
+          ],
+          "takeaway": "Halte kurz inne und frage: „Wie viel von dieser Packung werde ich essen?“ Scanne oder schätze Portionen, trage den hochgerechneten Wert ein und behandle die Zahlen auf dem Etikett als nützliche Schätz",
+          "imageUrl": "/infographic-images/2026-11-03-pm-de.jpg"
+        },
+        "pt-br": {
+          "title": "Rótulos de calorias: conte o que você realmente consome",
+          "intro": "Passos rápidos para registrar as calorias que realmente pertencem ao seu dia: verifique o tamanho da porção, use o valor por 100 g/ml para comparar e identifique extras ocultos. Rótulos são regulados, mas ainda",
+          "points": [
+            "Verifique o tamanho da porção declarado e multiplique pelo quanto você realmente come — embalagens costumam conter várias porções.",
+            "Use o valor por 100 g (ou por 100 ml) para comparar marcas, depois ajuste para o peso da sua porção para obter as calorias reais.",
+            "Inclua complementos (óleo, manteiga, molhos, leite, maionese) ao registrar; lembre que porções de embalagem, restaurante e caseiras são estimativas."
+          ],
+          "takeaway": "Faça uma pausa e pergunte “quanto desta embalagem vou comer?” Escaneie ou estime porções, registre o valor ajustado e trate os números do rótulo como estimativas úteis para manter o registro simples.",
+          "imageUrl": "/infographic-images/2026-11-03-pm-pt-br.jpg"
+        },
+        "hu": {
+          "title": "Kalóriajelölések: számold azt, amit ténylegesen megeszel",
+          "intro": "Gyors lépések, hogy rögzítsd a napodba való valós kalóriákat: ellenőrizd az adagméretet, használd a per-100 g/ml értéket összehasonlításhoz, és keresd a rejtett kiegészítőket. A címkék szabályozottak, de becslé",
+          "points": [
+            "Ellenőrizd a megadott adagméretet, és szorozd meg azzal, amennyit ténylegesen megeszel — a csomagok gyakran több adagot tartalmaznak.",
+            "Használd a per-100 g (vagy per-100 ml) értéket a márkák összehasonlításához, majd igazítsd saját adagod súlyához a valós kalóriamennyiséghez.",
+            "A rögzítésnél számolj a kiegészítőkkel (olaj, vaj, öntetek, tej, majonéz); a csomagolt, éttermi és házi adagok is becslések."
+          ],
+          "takeaway": "Kérdezd meg: „ebből a csomagból mennyit fogok megenni?” Szkenneld vagy becsüld az adagokat, rögzítsd az átszámolt értéket, és kezeld a címke adatait hasznos becslésként a nyomon követés egyszerűsítésé",
+          "imageUrl": "/infographic-images/2026-11-03-pm-hu.jpg"
+        },
+        "ar": {
+          "title": "ملصقات السعرات: احسب ما تأكله فعلاً",
+          "intro": "خطوات سريعة لتسجيل السعرات التي تنتمي فعلاً إلى يومك: تحقق من حجم الحصة، استخدم قيمة لكل 100 غ (أو لكل 100 مل) للمقارنة، ولاحظ الإضافات المخفية. الملصقات منظمة لكنها تقديرات؛ % القيمة المرجعية للاستهلاك ليست خ",
+          "points": [
+            "تحقق من حجم الحصة المذكور واضربه بكمية ما تأكله فعلاً — العبوات غالباً ما تحتوي على عدة حصص.",
+            "استخدم القيمة لكل 100 غ (أو لكل 100 مل) لمقارنة الماركات، ثم قم بتعديلها حسب وزن حصتك للحصول على السعرات الحقيقية.",
+            "اشمل الإضافات (زيت، زبدة، صلصات، حليب، مايونيز) عند التسجيل؛ تذكّر أن حصص العبوات والمطاعم والمنزلية تقديرات."
+          ],
+          "takeaway": "توقّف واسأل «كم من هذه العبوة سأأكل؟» امسح أو قدّر الحصص، سجّل القيمة بعد القياس، وتعامل مع أرقام الملصق كتقديرات مفيدة لتبسيط المتابعة.",
+          "imageUrl": "/infographic-images/2026-11-03-pm-ar.jpg"
+        }
+      },
+      "slug": "calorie-labels-count-what-you-actually-eat"
+    },
     {
       "id": "2026-11-03-am",
       "publishedAt": "2026-11-03T01:17:55.770Z",
