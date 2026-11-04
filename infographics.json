@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:47:55.204Z",
+  "generatedAt": "2026-11-04T15:01:26.765Z",
   "items": [
+    {
+      "id": "2026-11-04-pm",
+      "publishedAt": "2026-11-04T15:01:26.765Z",
+      "format": "summary",
+      "source": {
+        "id": "article:food-recognition-versus-barcode-scanning",
+        "kind": "article",
+        "name": "Calorie Bank Credit",
+        "title": "Food Recognition Versus Barcode Scanning for Logging",
+        "urls": {
+          "en": "https://www.calorie-bank.com/articles/food-recognition-versus-barcode-scanning.html",
+          "es": "https://www.calorie-bank.com/articles/es/food-recognition-versus-barcode-scanning.html",
+          "ru": "https://www.calorie-bank.com/articles/ru/food-recognition-versus-barcode-scanning.html",
+          "uk": "https://www.calorie-bank.com/articles/uk/food-recognition-versus-barcode-scanning.html",
+          "fr": "https://www.calorie-bank.com/articles/fr/food-recognition-versus-barcode-scanning.html",
+          "de": "https://www.calorie-bank.com/articles/de/food-recognition-versus-barcode-scanning.html",
+          "pt-br": "https://www.calorie-bank.com/articles/pt-br/food-recognition-versus-barcode-scanning.html",
+          "hu": "https://www.calorie-bank.com/articles/hu/food-recognition-versus-barcode-scanning.html",
+          "ar": "https://www.calorie-bank.com/articles/ar/food-recognition-versus-barcode-scanning.html"
+        },
+        "originalUrl": "https://www.calorie-bank.com/articles/food-recognition-versus-barcode-scanning.html",
+        "imageUrl": "/article-images/food-recognition-versus-barcode-scanning.webp"
+      },
+      "languages": {
+        "en": {
+          "title": "Snap or Scan: When to Use Food Recognition vs Barcode Scanning",
+          "intro": "Two fast ways to log food: snap a photo for meals and scan barcodes for packaged items. Neither is always best — choose based on what's on your plate, required detail, and how quickly you want to log.",
+          "points": [
+            "Use food recognition for restaurant and homemade meals — a photo gives a quick, editable estimate; correct portion errors and add oils, dressings or sauces.",
+            "Scan barcodes for packaged foods and frequent purchases. Labels provide a precise starting point, but always confirm the serving basis and edit amounts.",
+            "Combine both: scan when you have the package, snap when the meal is on the plate. If portions are large or calorie-dense, take a moment to adjust the entry."
+          ],
+          "takeaway": "Use the lowest-effort accurate method that fits each situation so you keep logging. Small edits for calorie-dense items help; trends over weeks matter more than one imperfect entry.",
+          "imageUrl": "/infographic-images/2026-11-04-pm-en.jpg"
+        },
+        "es": {
+          "title": "Foto o código: cuándo usar reconocimiento de alimentos o escanear códigos",
+          "intro": "Dos formas rápidas de registrar alimentos: toma una foto para comidas y escanea códigos de barras para productos empaquetados. Ninguna es siempre la mejor — elige según lo que haya en tu plato, el detalle que p",
+          "points": [
+            "Usa reconocimiento por foto para comidas de restaurante y caseras; la foto ofrece una estimación rápida y editable; corrige porciones y añade aceites, aderezos o salsas.",
+            "Escanea códigos de barras para alimentos envasados y compras frecuentes. Las etiquetas dan un punto de partida preciso, pero confirma la base de la ración y edita las cantidades.",
+            "Combina ambos: escanea si tienes el paquete, fotografía cuando la comida esté en el plato. Si las porciones son grandes o densas en calorías, ajusta la entrada."
+          ],
+          "takeaway": "Usa el método más preciso con el menor esfuerzo que encaje en cada situación para seguir registrando. Pequeños ajustes en alimentos densos en calorías ayudan; las tendencias en semanas importan más qu",
+          "imageUrl": "/infographic-images/2026-11-04-pm-es.jpg"
+        },
+        "ru": {
+          "title": "Сфотографировать или сканировать: когда использовать распознавание еды или штрихкоды",
+          "intro": "Два быстрых способа записывать еду: сфотографируйте блюдо, а для упакованных продуктов сканируйте штрихкод. Ничто не всегда лучше — выбирайте по содержимому тарелки, требуемой детализации и скорости записи.",
+          "points": [
+            "Используйте распознавание для ресторанных и домашних блюд — фото даёт быстрый редактируемый расчёт; исправляйте ошибки с порциями и добавляйте масла, заправки или соусы.",
+            "Сканируйте штрихкоды для упакованных продуктов и частых покупок. Надписи на упаковке дают точную отправную точку, но всегда проверьте основу порции и отредактируйте количества.",
+            "Комбинируйте: сканируйте, когда есть упаковка; фотографируйте, когда еда на тарелке. Если порции большие или богаты калориями, скорректируйте запись."
+          ],
+          "takeaway": "Используйте наименее трудоёмкий точный метод для каждой ситуации, чтобы продолжать вести запись. Небольшие правки для калорийных продуктов помогают; важнее недельные тренды, чем одна несовершенная зап",
+          "imageUrl": "/infographic-images/2026-11-04-pm-ru.jpg"
+        },
+        "uk": {
+          "title": "Коли використовувати розпізнавання їжі або сканування штрих-кодів",
+          "intro": "Два швидкі способи записувати харчування: зробіть фото для страв і скануйте штрих-коди для фасованих продуктів. Жоден не завжди кращий — вибирайте за тим, що на тарілці, потрібною деталізацією і швидкістю запис",
+          "points": [
+            "Використовуйте розпізнавання для ресторанних і домашніх страв — фото дає швидку, редаговану оцінку; виправляйте помилки порцій і додавайте олії, заправки чи соуси.",
+            "Скануйте штрих-коди для фасованих продуктів і частих покупок. Етикетки дають точну відправну точку, але завжди перевіряйте одиницю порції та редагуйте кількість.",
+            "Поєднуйте обидва: скануйте, коли є упаковка; фотографуйте, коли страва на тарілці. Якщо порції великі або багаті на калорії, виділіть хвилину на коригування запису."
+          ],
+          "takeaway": "Використовуйте найменш затратний, але достатньо точний метод для кожної ситуації, щоб продовжувати записувати. Невеликі правки для калорійних страв допомагають; тенденції за тижні важливіші за один не",
+          "imageUrl": "/infographic-images/2026-11-04-pm-uk.jpg"
+        },
+        "fr": {
+          "title": "Quand utiliser la reconnaissance alimentaire ou le scan de codes-barres",
+          "intro": "Deux façons rapides d'enregistrer la nourriture : prenez une photo pour les repas et scannez les codes-barres pour les produits emballés. Aucun n'est toujours meilleur — choisissez selon l'assiette, le niveau d",
+          "points": [
+            "Utilisez la reconnaissance pour repas au restaurant et faits maison — une photo donne une estimation rapide modifiable ; corrigez les portions et ajoutez huiles, vinaigrettes ou s ",
+            "Scannez les codes-barres pour produits emballés et achats fréquents. Les étiquettes fournissent un point de départ précis, mais vérifiez toujours l'unité de portion et modifiez les",
+            "Combinez les deux : scannez si vous avez l'emballage, prenez une photo quand le repas est dans l'assiette. Si les portions sont volumineuses ou riches en calories, prenez un"
+          ],
+          "takeaway": "Utilisez la méthode la moins contraignante et suffisamment précise selon la situation pour continuer à enregistrer. De petits ajustements pour aliments riches en calories aident ; les tendances sur  ",
+          "imageUrl": "/infographic-images/2026-11-04-pm-fr.jpg"
+        },
+        "de": {
+          "title": "Foto oder Scan: Wann Lebensmittelerkennung vs. Barcode-Scan nutzen",
+          "intro": "Zwei schnelle Wege, Essen zu protokollieren: Für Mahlzeiten ein Foto machen, für verpackte Produkte Barcodes scannen. Keiner ist immer optimal — wählen Sie nach Tellerinhalt, gewünschtem Detailgrad und wie fix ",
+          "points": [
+            "Bei Restaurant- und selbstgekochten Mahlzeiten Lebensmittelerkennung verwenden — ein Foto liefert eine schnelle, editierbare Schätzung; korrigieren Sie Portionsfehler und fügen Sie",
+            "Barcodes bei verpackten Lebensmitteln und häufigen Käufen scannen. Etiketten bieten einen genauen Ausgangswert, aber prüfen Sie immer die Bezugsgröße und passen Sie Mengen an.",
+            "Beides kombinieren: Scannen, wenn die Verpackung da ist; Foto machen, wenn das Essen auf dem Teller liegt. Bei großen oder kaloriendichten Portionen kurz den Eintrag anpassen."
+          ],
+          "takeaway": "Nutzen Sie die genaueste Methode mit dem geringsten Aufwand, die zur Situation passt, damit Sie weiter protokollieren. Kleine Korrekturen bei kaloriendichten Speisen helfen; Trends über Wochen sind.",
+          "imageUrl": "/infographic-images/2026-11-04-pm-de.jpg"
+        },
+        "pt-br": {
+          "title": "Foto ou Scan: Quando usar reconhecimento de alimentos vs leitura de código de barras",
+          "intro": "Duas formas rápidas de registrar alimentos: tire uma foto para refeições e escaneie códigos de barras para itens embalados. Nenhuma é sempre a melhor — escolha pelo que há no prato, nível de detalhe e rapidez.",
+          "points": [
+            "Use reconhecimento de alimentos para refeições de restaurante e caseiras — uma foto dá uma estimativa rápida e editável; corrija erros de porção e acrescente óleos, molhos ou condi",
+            "Leia códigos de barras para alimentos embalados e compras frequentes. Os rótulos fornecem um ponto de partida preciso, mas confirme sempre a base de porção e edite as quantidades.",
+            "Combine ambos: escaneie quando tiver a embalagem, fotografe quando a refeição estiver no prato. Se as porções forem grandes ou densas em calorias, reserve um momento para ajustar o"
+          ],
+          "takeaway": "Use o método preciso de menor esforço que se encaixe em cada situação para continuar registrando. Pequenas edições em itens densos em calorias ajudam; tendências ao longo de semanas importam mais.",
+          "imageUrl": "/infographic-images/2026-11-04-pm-pt-br.jpg"
+        },
+        "hu": {
+          "title": "Fotó vagy vonalkód: mikor használj ételfelismerést és mikor vonalkód-szkennert",
+          "intro": "Két gyors mód az ételnaplózáshoz: készíts fotót az étkezésekről és olvasd be a vonalkódot csomagolt termékeknél. egyik sem mindig a legjobb — válassz aszerint, mi van a tányérodon, mennyi részlet kell és milyen",
+          "points": [
+            "Használj ételfelismerést éttermi és házi ételeknél — a fotó gyors, szerkeszthető becslést ad; javítsd az adagokat, és add hozzá az olajat, öntetet vagy szószt.",
+            "Olvasd be a vonalkódot csomagolt és gyakran vásárolt termékeknél. A címke pontos kiindulópontot ad, de mindig ellenőrizd az adagmértéket és szerkeszd a mennyiségeket.",
+            "Kombináld a módszereket: olvasd be a vonalkódot, ha megvan a csomag, fotózz, ha az étel a tányéron van. Ha az adagok nagyok vagy kalóriadúsak, szánj időt az bejegyzés igazítására."
+          ],
+          "takeaway": "Használj a legkevesebb erőfeszítéssel is pontos módszert minden helyzethez, hogy folytasd a naplózást. Kalóriadús tételeknél apró szerkesztések hasznosak; a hetek trendjei többet számítanak, mint egy-",
+          "imageUrl": "/infographic-images/2026-11-04-pm-hu.jpg"
+        },
+        "ar": {
+          "title": "التصوير أم المسح الضوئي: متى تستخدم تمييز الطعام ومتى مسح الباركود",
+          "intro": "طريقتان سريعتان لتسجيل الطعام: التقط صورة للوجبات وامسح باركود الأطعمة المعبأة. لا تُعدّ أي طريقة الأفضل دائمًا — اختر بحسب ما على طبقك، مستوى التفاصيل المطلوب وسرعة التسجيل.",
+          "points": [
+            "استخدم تمييز الطعام للوجبات في المطاعم والمنزل — الصورة تعطي تقديرًا سريعًا قابلًا للتعديل؛ صحّح أخطاء الحجم وأضف الزيوت والصلصات أو التتبيلات.",
+            "امسح باركودات الأطعمة المعبأة والمشتريات المتكررة. توفر الملصقات نقطة بداية دقيقة، لكن تأكد دائمًا من أساس الحصة وعدّل الكميات.",
+            "ادمج الطريقتين: امسح الباركود إذا كان التعبئة معك، وصوّر عندما تكون الوجبة على الطبق. إذا كانت الحصص كبيرة أو عالية السعرات، خُصّص لحظة لتعديل الإدخال."
+          ],
+          "takeaway": "استخدم أسهل وسيلة دقيقة تناسب كل موقف لكي تستمر في التسجيل. تعديلات صغيرة للعناصر عالية السعرات مفيدة؛ الاتجاهات على مدى أسابيع أهم من إدخال واحد غير مثالي.",
+          "imageUrl": "/infographic-images/2026-11-04-pm-ar.jpg"
+        }
+      },
+      "slug": "snap-or-scan-when-to-use-food-recognition-vs-barcode-scanning"
+    },
     {
       "id": "2026-11-03-pm",
       "publishedAt": "2026-11-03T14:47:55.204Z",
