@@ -1,8 +1,793 @@
 {
-  "generatedAt": "2026-11-03T14:37:27.785Z",
+  "generatedAt": "2026-11-04T14:51:20.810Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "a-surprising-discovery-could-help-aging-muscles-repair-themselves-44b7f6da631e",
+      "category": "regeneration and stem cells",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+      "sourceTitle": "A surprising discovery could help aging muscles repair themselves",
+      "publishedAt": "Wed, 04 Nov 2026 08:26:06 EST",
+      "languages": {
+        "en": {
+          "title": "Compound boosts a muscle-repair protein and shows benefit in mice",
+          "summary": "Researchers report a compound that converts a natural muscle-repair protein into a version called “Super HGF,” which—according to the team—more than doubled its receptor binding while being protected from age-related chemical damage. Early experiments in mice supported improved muscle-repair activity.",
+          "whyItMatters": "The finding points to a potential way to enhance biological repair mechanisms that decline with age. However, the result is at a preclinical stage (mouse experiments) and requires further testing for safety and effectiveness in humans.",
+          "takeaways": [
+            "Investigators modified a muscle-repair protein into a stronger form described as “Super HGF.”",
+            "The modified protein showed >2× receptor binding and resistance to age-related chemical damage, per the report.",
+            "Evidence so far comes from early-stage laboratory and mouse studies, not clinical trials.",
+            "Translation to human therapies would require additional preclinical work and clinical testing."
+          ]
+        },
+        "es": {
+          "title": "Un compuesto potencia una proteína reparadora muscular y muestra beneficio en ratones",
+          "summary": "Los investigadores informan de un compuesto que convierte una proteína natural reparadora del músculo en una versión llamada “Super HGF”, que —según el equipo—más que duplicó su unión al receptor y quedó protegida frente al daño químico relacionado con la edad. Experimentos iniciales en ratones respaldaron una mayor actividad de reparación muscular.",
+          "whyItMatters": "El hallazgo señala una posible forma de mejorar mecanismos biológicos de reparación que declinan con la edad. Sin embargo, el resultado está en una fase preclínica (experimentos en ratones) y requiere pruebas adicionales de seguridad y eficacia en humanos.",
+          "takeaways": [
+            "Los investigadores modificaron una proteína reparadora muscular en una forma más potente descrita como “Super HGF”.",
+            "La proteína modificada mostró más de el doble de unión al receptor y resistencia al daño químico asociado a la edad, según el informe.",
+            "La evidencia procede hasta ahora de estudios tempranos de laboratorio y en ratones, no de ensayos clínicos.",
+            "La traducción a terapias humanas requeriría trabajo preclínico adicional y ensayos clínicos."
+          ]
+        },
+        "ru": {
+          "title": "Соединение усиливает белок, восстанавливающий мышцы, и показывает эффект на мышах",
+          "summary": "Исследователи сообщают о соединении, которое превращает природный белок, отвечающий за восстановление мышц, в версию под названием «Super HGF», которая — по данным команды — более чем вдвое увеличила связывание с рецептором и оказалась защищённой от химического повреждения, связанного со старением. Ранние эксперименты на мышах подтвердили повышенную активность восстановления мышц.",
+          "whyItMatters": "Открытие указывает на потенциальный способ усиления биологических механизмов восстановления, ослабляющихся с возрастом. Однако результаты находятся на доклинической стадии (исследования на мышах) и требуют дальнейшей проверки безопасности и эффективности у людей.",
+          "takeaways": [
+            "Исследователи модифицировали белок, восстанавливающий мышцы, в более мощную форму, названную «Super HGF».",
+            "Модифицированный белок продемонстрировал более чем двукратное связывание с рецептором и устойчивость к химическому повреждению, связанному со старением, согласно сообщению.",
+            "На данный момент доказательства получены в ранних лабораторных и мышиных исследованиях, а не в клинических испытаниях.",
+            "Перевод в терапию для людей потребует дополнительных доклинических исследований и клинических испытаний."
+          ]
+        },
+        "uk": {
+          "title": "Сполука посилює білок відновлення м’язів і показала користь у мишей",
+          "summary": "Дослідники повідомляють про сполуку, яка перетворює природний білок відновлення м’язів на версію, яку вони назвали «Super HGF», що, за їхніми даними, більше ніж у два рази підвищує зв’язування з рецептором і є захищеною від вікових хімічних ушкоджень. Ранні експерименти на мишах підтримали підвищену активність відновлення м’язів.",
+          "whyItMatters": "Знахідка вказує на потенційний спосіб підсилити біологічні механізми ремонту, які погіршуються з віком. Проте результат наразі доклінічний (експерименти на мишах) і потребує подальшого тестування безпеки й ефективності в людей.",
+          "takeaways": [
+            "Дослідники модифікували білок відновлення м’язів у потужнішу форму, яку описали як «Super HGF».",
+            "Модифікований білок, за звітом, показав >2× зв’язування з рецептором і стійкість до вікових хімічних ушкоджень.",
+            "Докази наразі походять із ранніх лабораторних і мишачих досліджень, а не з клінічних випробувань.",
+            "Переклад на людські терапії вимагатиме додаткової доклінічної роботи та клінічних випробувань."
+          ]
+        },
+        "fr": {
+          "title": "Un composé renforce une protéine de réparation musculaire et montre un bénéfice chez la souris",
+          "summary": "Des chercheurs rapportent un composé qui convertit une protéine naturelle de réparation musculaire en une version appelée «Super HGF» qui, selon l'équipe, a plus que doublé sa liaison au récepteur tout en étant protégée des dommages chimiques liés à l'âge. Des expériences préliminaires chez la souris ont soutenu une activité de réparation musculaire améliorée.",
+          "whyItMatters": "Cette découverte indique une voie potentielle pour renforcer des mécanismes biologiques de réparation qui déclinent avec l'âge. Toutefois, le résultat est à un stade préclinique (expériences sur souris) et nécessite des tests supplémentaires de sécurité et d'efficacité chez l'humain.",
+          "takeaways": [
+            "Les investigateurs ont modifié une protéine de réparation musculaire en une forme plus forte décrite comme «Super HGF».",
+            "La protéine modifiée a montré, d'après le rapport, >2× de liaison au récepteur et une résistance aux dommages chimiques liés à l'âge.",
+            "Les preuves proviennent pour l'instant d'études préliminaires en laboratoire et chez la souris, pas d'essais cliniques.",
+            "La transposition en thérapeutiques humaines nécessitera des travaux précliniques supplémentaires et des essais cliniques."
+          ]
+        },
+        "de": {
+          "title": "Verbindung verstärkt ein muskelreparierendes Protein und zeigt Nutzen bei Mäusen",
+          "summary": "Forscher berichten über eine Verbindung, die ein natürliches muskelreparierendes Protein in eine Version namens \"Super HGF\" umwandelt, die der Gruppe zufolge ihre Rezeptorbindung mehr als verdoppelte und dabei vor altersbedingten chemischen Schäden geschützt war. Erste Experimente an Mäusen zeigten eine verbesserte Muskelreparaturaktivität.",
+          "whyItMatters": "Der Befund weist auf einen möglichen Weg hin, biologische Reparaturmechanismen zu stärken, die mit dem Alter nachlassen. Das Ergebnis stammt jedoch aus einer präklinischen Phase (Maus‑Experimente) und erfordert weitere Tests zur Sicherheit und Wirksamkeit beim Menschen.",
+          "takeaways": [
+            "Die Forschenden modifizierten ein muskelreparierendes Protein zu einer stärkeren Form, als \"Super HGF\" beschrieben.",
+            "Die modifizierte Form zeigte nach Angaben der Studie eine >2× höhere Rezeptorbindung und Resistenz gegen altersbedingte chemische Schäden.",
+            "Die bisherigen Belege stammen aus frühen Labor‑ und Mausstudien, nicht aus klinischen Studien.",
+            "Eine Übertragung auf Therapien für Menschen würde zusätzliche präklinische Arbeiten und klinische Prüfungen erfordern."
+          ]
+        },
+        "pt-br": {
+          "title": "Composto aumenta proteína de reparo muscular e mostra benefício em camundongos",
+          "summary": "Pesquisadores relatam um composto que converte uma proteína natural de reparo muscular em uma versão chamada \"Super HGF\", que — segundo a equipe — mais que dobrou sua ligação ao receptor enquanto ficava protegida de danos químicos relacionados à idade. Experimentos iniciais em camundongos apoiaram uma atividade de reparo muscular melhorada.",
+          "whyItMatters": "A descoberta aponta para uma possível forma de melhorar mecanismos biológicos de reparo que declinam com a idade. No entanto, o resultado está em estágio pré‑clínico (experimentos em camundongos) e exige testes adicionais de segurança e eficácia em humanos.",
+          "takeaways": [
+            "Os investigadores modificaram uma proteína de reparo muscular para uma forma mais forte, descrita como \"Super HGF\".",
+            "A proteína modificada mostrou, segundo o relatório, >2× ligação ao receptor e resistência a danos químicos relacionados à idade.",
+            "As evidências até agora vêm de estudos laboratoriais e em camundongos em estágio inicial, não de ensaios clínicos.",
+            "A tradução para terapias humanas exigiria trabalho pré‑clínico adicional e testes clínicos."
+          ]
+        },
+        "hu": {
+          "title": "Egy vegyület fokoz egy izomjavító fehérjét és egereken előnyt mutat",
+          "summary": "A kutatók egy olyan vegyületről számolnak be, amely egy természetes izomjavító fehérjét egy úgynevezett Super HGF változattá alakít át; a csapat szerint ez a változat több mint kétszeresre növelte a receptorkötődést, miközben védett volt a korhoz kötődő kémiai károsodással szemben. Korai egérkísérletek javuló izomjavító aktivitást jeleztek.",
+          "whyItMatters": "A felfedezés azt jelzi, hogy lehetséges módon lehet erősíteni az életkorral csökkenő biológiai javító mechanizmusokat. Az eredmény azonban preklinikai stádiumban van (egérkísérletek), és további vizsgálatokat igényel a biztonságosság és hatékonyság emberre vonatkozó megítéléséhez.",
+          "takeaways": [
+            "A kutatók egy izomjavító fehérjét egy erősebb, Super HGF néven említett változattá módosítottak.",
+            "A módosított fehérje a jelentés szerint több mint kétszeres receptorkötődést mutatott, és ellenállóbb volt a korral járó kémiai károsodással szemben.",
+            "A jelenlegi bizonyítékok korai laboratóriumi és egérkísérletekből származnak, nem klinikai vizsgálatokból.",
+            "Az emberi terápiává fordításhoz további preklinikai munka és klinikai tesztelés szükséges."
+          ]
+        },
+        "ar": {
+          "title": "مركب يعزز بروتين إصلاح العضلات ويظهر فائدة في الفئران",
+          "summary": "يصف الباحثون مركبًا يحول بروتينًا طبيعيًا لإصلاح العضلات إلى نسخة يطلقون عليها Super HGF؛ وبحسب الفريق فقد ضاعف ارتباطها بالمستقبلات أكثر من الضعف مع حماية من الأضرار الكيميائية المرتبطة بالشيخوخة. وأظهرت تجارب مبكرة على الفئران نشاطًا محسنًا لإصلاح العضلات.",
+          "whyItMatters": "تشير النتيجة إلى احتمال وجود طريقة لتعزيز آليات الإصلاح البيولوجي التي تتراجع مع التقدم في العمر. ومع ذلك، فإن النتيجة في مرحلة ما قبل السريرية (تجارب على الفئران) وتحتاج إلى مزيد من الاختبارات لتقييم السلامة والفعالية لدى البشر.",
+          "takeaways": [
+            "قام الباحثون بتعديل بروتين إصلاح العضلات إلى شكل أقوى يُشار إليه باسم Super HGF.",
+            "أظهر البروتين المعدل، وفق التقرير، ارتباطًا بالمستقبل يزيد عن الضعفين وكان مقاومًا للأضرار الكيميائية المرتبطة بالعمر.",
+            "الأدلة الحالية مستمدة من تجارب مخبرية مبكرة وتجارب على الفئران، وليست من تجارب سريرية.",
+            "سيستلزم تحويل هذه النتيجة إلى علاج بشري عملًا قبل سريري إضافيًا واختبارات سريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-surprising-discovery-could-help-aging-muscles-repair-themselves-44b7f6da631e",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-surprising-discovery-could-help-aging-muscles-repair-themselves-44b7f6da631e-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-surprising-discovery-could-help-aging-muscles-repair-themselves-44b7f6da631e-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Compound boosts a muscle-repair protein and shows benefit in mice.\nStory summary: Researchers report a compound that converts a natural muscle-repair protein into a version called “Super HGF,” which—according to the team—more than doubled its receptor binding while being protected from age-related chemical damage. Early experiments in mice supported improved muscle-repair activity..\nCategory: regeneration and stem cells.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-healthier-form-of-salt-could-prevent-millions-of-deaths-from-st-1916ec709023",
+      "category": "heart disease & public health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-healthier-salt-millions-deaths-heart.html",
+      "sourceTitle": "A healthier form of salt could prevent millions of deaths from stroke and heart disease",
+      "publishedAt": "Wed, 04 Nov 2026 05:00:08 EST",
+      "languages": {
+        "en": {
+          "title": "Modeling study estimates large global benefits from switching to potassium-enriched salt",
+          "summary": "Researchers assessed the health impact of replacing the global salt supply with potassium-enriched salt across 193 countries and estimated that nearly 3 million deaths and 10 million new cases of cardiovascular and kidney disease could be prevented each year; the research was published in Nature Health.",
+          "whyItMatters": "The modeling suggests substantial potential public-health benefits from supply-level dietary change. These are projection-based estimates that depend on assumptions about uptake, effectiveness, and safety in different populations and are not the same as evidence from randomized interventions.",
+          "takeaways": [
+            "The study used global modeling to estimate effects of switching to potassium-enriched salt across many countries.",
+            "Authors estimated up to ~3 million deaths and ~10 million new disease cases could be prevented annually under their assumptions.",
+            "Findings are model-based projections; real-world impact would depend on implementation, population-specific risks and monitoring.",
+            "Policy or supply changes would require evaluation of feasibility and safety in target populations."
+          ]
+        },
+        "es": {
+          "title": "Estudio de modelos estima grandes beneficios globales al cambiar a sal enriquecida con potasio",
+          "summary": "Los investigadores evaluaron el impacto en la salud de reemplazar el suministro global de sal por sal enriquecida con potasio en 193 países y estimaron que casi 3 millones de muertes y 10 millones de nuevos casos de enfermedad cardiovascular y renal podrían prevenirse cada año; la investigación se publicó en Nature Health.",
+          "whyItMatters": "El modelado sugiere beneficios potenciales sustanciales para la salud pública derivados de un cambio dietético a nivel de suministro. Se trata de estimaciones basadas en proyecciones que dependen de supuestos sobre la adopción, la eficacia y la seguridad en distintas poblaciones, y no son equivalentes a la evidencia de intervenciones aleatorizadas.",
+          "takeaways": [
+            "El estudio utilizó modelado global para estimar los efectos de cambiar a sal enriquecida con potasio en muchos países.",
+            "Los autores estimaron que podrían prevenirse hasta aproximadamente 3 millones de muertes y 10 millones de casos nuevos de enfermedad anualmente bajo sus supuestos.",
+            "Los hallazgos son proyecciones basadas en modelos; el impacto en el mundo real dependería de la implementación, los riesgos específicos por población y el seguimiento.",
+            "Los cambios de política o en el suministro requerirían evaluar la viabilidad y la seguridad en las poblaciones objetivo."
+          ]
+        },
+        "ru": {
+          "title": "Модельное исследование оценивает крупные глобальные выгоды от перехода на соль, обогащённую калием",
+          "summary": "Исследователи оценили влияние на здоровье замены мирового поставки соли на соль, обогащённую калием, в 193 странах и подсчитали, что ежегодно можно было бы предотвратить почти 3 миллиона смертей и 10 миллионов новых случаев сердечно‑сосудистых и почечных заболеваний; исследование опубликовано в Nature Health.",
+          "whyItMatters": "Моделирование указывает на значительный потенциальный общественно‑здравственный эффект от изменения питания на уровне поставок. Это прогнозные оценки, зависящие от допущений об уровне внедрения, эффективности и безопасности в разных популяциях, и они не эквивалентны данным рандомизированных интервенций.",
+          "takeaways": [
+            "В исследовании использовали глобальное моделирование, чтобы оценить эффекты перехода на соль, обогащённую калием, в многих странах.",
+            "Авторы оценили, что при их предположениях можно предотвратить до примерно 3 миллионов смертей и 10 миллионов новых случаев заболеваний ежегодно.",
+            "Выводы основаны на моделях; реальное влияние будет зависеть от внедрения, рисков, характерных для конкретных популяций, и мониторинга.",
+            "Для изменения политики или поставок потребуется оценка осуществимости и безопасности в целевых популяциях."
+          ]
+        },
+        "uk": {
+          "title": "Моделювання оцінює великі глобальні вигоди від переходу на калій‑збагачену сіль",
+          "summary": "Дослідники оцінили вплив на здоров’я заміни глобальних запасів солі на калій‑збагачену сіль у 193 країнах і оцінили, що щорічно можна запобігти майже 3 мільйонам смертей та 10 мільйонам нових випадків серцево‑судинних і ниркових захворювань; дослідження опубліковане в Nature Health.",
+          "whyItMatters": "Моделювання вказує на значний потенційний громадський оздоровчий ефект від зміни постачання харчових продуктів. Це прогностичні оцінки, які залежать від припущень щодо впровадження, ефективності та безпеки в різних популяціях і не дорівнюють доказам із рандомізованих втручань.",
+          "takeaways": [
+            "Дослідження використовувало глобальне моделювання, щоб оцінити наслідки переходу на калій‑збагачену сіль у багатьох країнах.",
+            "Автори оцінили, що за їхніми припущеннями можна запобігти приблизно 3 мільйонам смертей і близько 10 мільйонам нових випадків захворювань щороку.",
+            "Результати — це проєкції на основі моделі; реальний вплив залежатиме від реалізації, ризиків у конкретних популяціях та моніторингу.",
+            "Політичні чи постачальні зміни вимагатимуть оцінки здійсненності та безпеки у цільових популяціях."
+          ]
+        },
+        "fr": {
+          "title": "Une étude de modélisation estime d’importants bénéfices globaux du passage au sel enrichi en potassium",
+          "summary": "Les chercheurs ont évalué l'impact sanitaire du remplacement de l'approvisionnement mondial en sel par du sel enrichi en potassium dans 193 pays et estiment qu'il serait possible de prévenir près de 3 millions de décès et 10 millions de nouveaux cas de maladies cardiovasculaires et rénales chaque année ; l'étude a été publiée dans Nature Health.",
+          "whyItMatters": "La modélisation suggère des bénéfices potentiels substantiels pour la santé publique en cas de changement au niveau de l'approvisionnement alimentaire. Ce sont des estimations projetées qui dépendent d'hypothèses sur l'adoption, l'efficacité et la sécurité selon les populations et ne valent pas comme preuves issues d'interventions randomisées.",
+          "takeaways": [
+            "L'étude a utilisé une modélisation globale pour estimer les effets d'un passage au sel enrichi en potassium dans de nombreux pays.",
+            "Les auteurs estiment qu'il serait possible de prévenir jusqu'à ~3 millions de décès et ~10 millions de nouveaux cas de maladies chaque année sous leurs hypothèses.",
+            "Les résultats sont des projections basées sur un modèle ; l'impact réel dépendra de la mise en œuvre, des risques spécifiques aux populations et du suivi.",
+            "Toute modification de politique ou d'approvisionnement nécessiterait une évaluation de la faisabilité et de la sécurité dans les populations ciblées."
+          ]
+        },
+        "de": {
+          "title": "Modellierungsstudie schätzt große globale Vorteile durch Umstellung auf kaliumangereichertes Salz",
+          "summary": "Forscher bewerteten die gesundheitlichen Auswirkungen, wenn das weltweite Salzangebot durch kaliumangereichertes Salz ersetzt würde (193 Länder) und schätzten, dass nach ihren Annahmen jährlich fast 3 Millionen Todesfälle und 10 Millionen neue Fälle von Herz‑Kreislauf‑ und Nierenerkrankungen verhindert werden könnten; die Forschung wurde in Nature Health veröffentlicht.",
+          "whyItMatters": "Die Modellierung deutet auf erhebliche potenzielle gesundheitliche Vorteile auf Bevölkerungsebene durch eine Änderung in der Versorgung hin. Dies sind prognosebasierte Schätzungen, die von Annahmen über Akzeptanz, Wirksamkeit und Sicherheit in verschiedenen Populationen abhängen und nicht mit Evidenz aus randomisierten Interventionen gleichzusetzen sind.",
+          "takeaways": [
+            "Die Studie nutzte globales Modellieren, um die Effekte eines landesweiten Umstiegs auf kaliumangereichertes Salz abzuschätzen.",
+            "Die Autoren schätzten unter ihren Annahmen bis zu ~3 Millionen vermiedene Todesfälle und ~10 Millionen vermiedene Neuerkrankungen pro Jahr.",
+            "Die Ergebnisse sind modellbasierte Projektionen; der reale Effekt würde von Umsetzung, populationsspezifischen Risiken und Überwachung abhängen.",
+            "Politische oder versorgungsseitige Änderungen würden Bewertungen zur Machbarkeit und Sicherheit in Zielpopulationen erfordern."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo de modelagem estima grandes benefícios globais com substituição por sal enriquecido com potássio",
+          "summary": "Pesquisadores avaliaram o impacto na saúde de substituir o fornecimento global de sal por sal enriquecido com potássio em 193 países e estimaram que quase 3 milhões de mortes e 10 milhões de novos casos de doenças cardiovasculares e renais poderiam ser prevenidos a cada ano; a pesquisa foi publicada na Nature Health.",
+          "whyItMatters": "A modelagem sugere benefícios potenciais substanciais para a saúde pública a partir de uma mudança na oferta dietética. São estimativas baseadas em projeções que dependem de pressupostos sobre adesão, eficácia e segurança em diferentes populações e não equivalem a evidência de intervenções randomizadas.",
+          "takeaways": [
+            "O estudo usou modelagem global para estimar os efeitos da substituição por sal enriquecido com potássio em muitos países.",
+            "Os autores estimaram, sob suas suposições, que até ~3 milhões de mortes e ~10 milhões de novos casos poderiam ser prevenidos anualmente.",
+            "As conclusões são projeções baseadas em modelo; o impacto no mundo real dependerá da implementação, riscos específicos por população e monitoramento.",
+            "Mudanças de política ou no fornecimento exigiriam avaliação de viabilidade e segurança nas populações‑alvo."
+          ]
+        },
+        "hu": {
+          "title": "Modellezés szerint nagy globális előny származhat a káliummal dúsított sóra való áttéréssel",
+          "summary": "A kutatók azt értékelték, milyen egészségügyi hatása lenne, ha az egész világ sóellátását káliummal dúsított sóra cserélnék 193 országban, és becslésük szerint évente közel 3 millió haláleset és 10 millió új szív- és érrendszeri vagy vesebetegség megelőzhető lenne; a kutatást a Nature Health közölte.",
+          "whyItMatters": "A modellezés jelentős közegészségügyi előnyök lehetőségét mutatja a készletszintű táplálkozási változtatásból. Ezek előrejelzésen alapuló becslések, amelyek feltételezésektól függnek — például a bevezetés mértékétől, hatékonyságtól és a különböző populációk biztonságosságától —, és nem egyenértékűek randomizált beavatkozások bizonyítékával.",
+          "takeaways": [
+            "A tanulmány globális modellezést használt annak becslésére, milyen hatása lenne a káliummal dúsított sóra való átállásnak sok országban.",
+            "A szerzők becslése szerint feltételeik mellett évente akár mintegy 3 millió haláleset és körülbelül 10 millió új betegségmegbetegedés előzhető meg.",
+            "Az eredmények modellezésen alapuló előrejelzések; a valós hatás a megvalósítástól, a populációspecifikus kockázatoktól és a monitorozástól függ.",
+            "A politikai vagy ellátási változtatások megvalósíthatóságának és a célpopulációk biztonságosságának értékelése szükséges."
+          ]
+        },
+        "ar": {
+          "title": "دراسة نمذجة تقدر فوائد عالمية كبيرة من التحول إلى ملح معزَّز بالبوتاسيوم",
+          "summary": "قيّم الباحثون الأثر الصحي لاستبدال إمدادات الملح العالمية بملح معزز بالبوتاسيوم عبر 193 دولة، وخلصت تقديراتهم إلى أنه يمكن منع ما يقرب من 3 ملايين حالة وفاة و10 ملايين حالة جديدة من أمراض القلب والكلى سنويًا؛ ونُشرت الدراسة في Nature Health.",
+          "whyItMatters": "تشير النمذجة إلى فوائد محتملة كبيرة على الصحة العامة من تغيير النظام الغذائي على مستوى الإمداد. هذه تقديرات مبنية على توقعات تعتمد على افتراضات حول الانتشار والفعالية والسلامة في مجموعات سكانية مختلفة، وليست بمثابة دليل من تدخلات عشوائية مُراقبة.",
+          "takeaways": [
+            "استخدمت الدراسة نمذجة عالمية لتقدير آثار التحول إلى ملح معزز بالبوتاسيوم عبر دول كثيرة.",
+            "قدَّر المؤلفون أنه تحت افتراضاتهم يمكن منع ما يقرب من 3 ملايين وفاة وحوالي 10 ملايين حالة مرضية جديدة سنويًا.",
+            "النتائج مبنية على نمذجة وتوقعات؛ وسيعتمد الأثر الفعلي على التنفيذ والمخاطر الخاصة بكل مجموعة سكانية والمراقبة.",
+            "أي تغييرات سياساتية أو في الإمداد ستحتاج إلى تقييم الجدوى والسلامة في الفئات المستهدفة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-healthier-form-of-salt-could-prevent-millions-of-deaths-from-st-1916ec709023",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-healthier-form-of-salt-could-prevent-millions-of-deaths-from-st-1916ec709023-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-healthier-form-of-salt-could-prevent-millions-of-deaths-from-st-1916ec709023-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Modeling study estimates large global benefits from switching to potassium-enriched salt.\nStory summary: Researchers assessed the health impact of replacing the global salt supply with potassium-enriched salt across 193 countries and estimated that nearly 3 million deaths and 10 million new cases of cardiovascular and kidney disease could be prevented each year; the research was published in Nature Health..\nCategory: heart disease & public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "multi-cancer-blood-tests-coming-to-some-gp-surgeries-soon-7939dc6ba0d6",
+      "category": "cancer detection",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+      "publishedAt": "Wed, 04 Nov 2026 00:04:28 GMT",
+      "languages": {
+        "en": {
+          "title": "Plans to offer multi-cancer blood tests in some GP surgeries",
+          "summary": "The BBC reports that multi-cancer blood tests will be introduced in some general practices with the aim of detecting hard-to-diagnose abdominal cancers — including liver, ovarian and pancreatic cancers — at an earlier stage.",
+          "whyItMatters": "Earlier detection of cancers that are often diagnosed late could improve patient outcomes, but details on test accuracy, selection criteria, and impact on care pathways will determine real-world benefit.",
+          "takeaways": [
+            "Health services plan to offer multi-cancer blood tests in some GP surgeries.",
+            "The initiative targets cancers that are difficult to diagnose early, such as liver, ovarian and pancreatic cancers.",
+            "Key questions remain about test performance, follow-up pathways, and expected impact on outcomes."
+          ]
+        },
+        "es": {
+          "title": "Planes para ofrecer pruebas sanguíneas multi‑cáncer en algunas consultas de atención primaria",
+          "summary": "La BBC informa que se introducirán pruebas sanguíneas multi‑cáncer en algunas consultas de atención primaria con el objetivo de detectar antes cánceres abdominales de difícil diagnóstico —incluyendo cánceres de hígado, ovario y páncreas—.",
+          "whyItMatters": "Detectar antes cánceres que con frecuencia se diagnostican en fases avanzadas podría mejorar los resultados para los pacientes, pero los detalles sobre la precisión de las pruebas, los criterios de selección y el impacto en las vías de atención determinarán el beneficio real en la práctica.",
+          "takeaways": [
+            "Los servicios de salud planean ofrecer pruebas sanguíneas multi‑cáncer en algunas consultas de atención primaria.",
+            "La iniciativa está dirigida a cánceres que son difíciles de diagnosticar precozmente, como los de hígado, ovario y páncreas.",
+            "Siguen existiendo preguntas clave sobre el rendimiento de la prueba, las vías de seguimiento y el impacto esperado en los resultados."
+          ]
+        },
+        "ru": {
+          "title": "Планы введения мультионкологических анализов крови в некоторых врачебных амбулаториях",
+          "summary": "BBC сообщает, что в некоторых амбулаториях общей практики будут внедрены мультионкологические анализы крови с целью более раннего выявления трудно диагностируемых абдоминальных опухолей — в том числе рака печени, яичников и поджелудочной железы.",
+          "whyItMatters": "Более раннее выявление опухолей, которые часто диагностируются на поздних стадиях, может улучшить исходы для пациентов, однако реальные выгоды будут зависеть от точности теста, критериев отбора и влияния на маршруты оказания помощи.",
+          "takeaways": [
+            "Службы здравоохранения планируют предложить мультионкологические анализы крови в некоторых амбулаториях общей практики.",
+            "Инициатива нацелена на опухоли, которые трудно диагностировать на ранних стадиях, такие как рак печени, яичников и поджелудочной железы.",
+            "Остаются ключевые вопросы о работе теста, последующих действиях и ожидаемом влиянии на исходы."
+          ]
+        },
+        "uk": {
+          "title": "Плани запропонувати багаторакові аналізи крові в деяких клініках загальної практики",
+          "summary": "BBC повідомляє, що багаторакові аналізи крові будуть запроваджені в деяких практиках первинної медичної допомоги з метою виявлення важкодіагностованих черевних пухлин — зокрема раку печінки, яєчників і підшлункової залози — на раннішій стадії.",
+          "whyItMatters": "Раннє виявлення пухлин, які часто діагностують пізно, могло б покращити результати для пацієнтів, але точна користь у реальному світі залежатиме від характеристики точності тесту, критеріїв відбору та впливу на маршрути подальшого обстеження й лікування.",
+          "takeaways": [
+            "Служби охорони здоров’я планують пропонувати багаторакові аналізи крові в деяких клініках загальної практики.",
+            "Ініціатива спрямована на раки, які важко діагностувати на ранніх стадіях, такі як рак печінки, яєчників і підшлункової залози.",
+            "Залишаються ключові питання щодо характеристик тесту, шляхів подальшого обстеження та очікуваного впливу на результати."
+          ]
+        },
+        "fr": {
+          "title": "Plans pour proposer des tests sanguins multi‑cancers dans certains cabinets de médecine générale",
+          "summary": "La BBC rapporte que des tests sanguins multi‑cancers seront introduits dans certaines cabinets de médecine générale dans le but de détecter plus tôt des cancers abdominaux difficiles à diagnostiquer — notamment le cancer du foie, des ovaires et du pancréas.",
+          "whyItMatters": "La détection plus précoce de cancers souvent diagnostiqués tardivement pourrait améliorer les résultats pour les patients, mais le bénéfice réel dépendra des données sur la précision du test, les critères de sélection et l'impact sur les parcours de soins.",
+          "takeaways": [
+            "Les services de santé prévoient d’offrir des tests sanguins multi‑cancers dans certains cabinets de médecine générale.",
+            "L’initiative cible des cancers difficiles à diagnostiquer précocement, comme le foie, les ovaires et le pancréas.",
+            "Des questions clés subsistent concernant les performances du test, les voies de suivi et l'impact attendu sur les résultats."
+          ]
+        },
+        "de": {
+          "title": "Pläne, Multi‑Krebs‑Bluttests in einigen Hausarztpraxen anzubieten",
+          "summary": "Die BBC berichtet, dass Multi‑Krebs‑Bluttests in einigen Allgemeinpraxen eingeführt werden sollen, mit dem Ziel, schwer zu diagnostizierende Bauchraumkrebserkrankungen — darunter Leber‑, Eierstock‑ und Bauchspeicheldrüsenkrebs — früher zu erkennen.",
+          "whyItMatters": "Eine frühere Erkennung von Krebserkrankungen, die oft spät diagnostiziert werden, könnte die Patientenergebnisse verbessern. Die Details zur Testgenauigkeit, Auswahlkriterien und zur Wirkung auf Versorgungswege werden jedoch den realen Nutzen bestimmen.",
+          "takeaways": [
+            "Gesundheitsdienste planen, Multi‑Krebs‑Bluttests in einigen Hausarztpraxen anzubieten.",
+            "Die Initiative zielt auf Krebsarten ab, die schwer früh zu erkennen sind, wie Leber‑, Eierstock‑ und Bauchspeicheldrüsenkrebs.",
+            "Wesentliche Fragen betreffen die Leistungsfähigkeit der Tests, Nachverfolgungswege und den erwarteten Einfluss auf Behandlungsergebnisse."
+          ]
+        },
+        "pt-br": {
+          "title": "Planos para oferecer testes sanguíneos multi‑câncer em algumas clínicas de atenção primária",
+          "summary": "A BBC relata que testes sanguíneos multi‑câncer serão introduzidos em algumas clínicas de atenção primária, com o objetivo de detectar, em estágio mais precoce, cânceres abdominais de difícil diagnóstico — incluindo fígado, ovário e pâncreas.",
+          "whyItMatters": "Detectar mais cedo cânceres que costumam ser diagnosticados tardiamente pode melhorar os desfechos dos pacientes. No entanto, detalhes sobre a acurácia do teste, critérios de seleção e impacto nas vias de cuidado determinarão o benefício no mundo real.",
+          "takeaways": [
+            "Serviços de saúde planejam oferecer testes sanguíneos multi‑câncer em algumas clínicas de atenção primária.",
+            "A iniciativa mira cânceres difíceis de diagnosticar precocemente, como fígado, ovário e pâncreas.",
+            "Perguntas-chave permanecem sobre desempenho do teste, encaminhamentos de seguimento e impacto esperado nos desfechos."
+          ]
+        },
+        "hu": {
+          "title": "Tervek többrákos vértesztek bevezetésére egyes háziorvosi rendelőkben",
+          "summary": "A BBC arról számol be, hogy többrákos vérteszteket vezetnek be egyes általános orvosi praxisokban azzal a céllal, hogy bizonyos nehezen felismerhető hasi daganatokat — köztük máj-, petefészek- és hasnyálmirigyrákot — korábbi stádiumban felismerjék.",
+          "whyItMatters": "Az olyan rákok korábbi felismerése, amelyeket gyakran későn diagnosztizálnak, javíthatja a betegkimeneteleket, de a valós előny attól függ, hogy a tesztek pontossága, a kiválasztási kritériumok és az ellátási útvonalak hogyan alakulnak.",
+          "takeaways": [
+            "Az egészségügyi szolgálatok terveik szerint többrákos vérteszteket kínálnak egyes háziorvosi rendelőkben.",
+            "A kezdeményezés célja olyan daganatok korai felderítése, amelyek nehezen diagnosztizálhatók korai stádiumban, például a máj-, petefészek- és hasnyálmirigyrák.",
+            "Fontos kérdések maradnak a tesztek teljesítményéről, az utókövetési útvonalakról és a várható hatásról a kimenetekre."
+          ]
+        },
+        "ar": {
+          "title": "خطط لتقديم اختبارات دم متعددة للسرطان في بعض عيادات الأطباء العامين",
+          "summary": "تفيد بي بي سي أن اختبارات الدم متعددة السرطانات ستُدخَل في بعض الممارسات الطبية العامة بهدف كشف أنواع منسرطانات البطن التي يصعب تشخيصها — بما في ذلك سرطان الكبد والمبيض والبنكرياس — في مراحل أبكر.",
+          "whyItMatters": "قد يؤدي الكشف المبكر عن سرطانات غالبًا ما تُشخّص متأخرًا إلى تحسين نتائج المرضى، لكن الفائدة الواقعية ستتحدد بدقة الاختبار ومعايير الاختيار ومسارات المتابعة في الرعاية.",
+          "takeaways": [
+            "تخطط خدمات الصحة لتقديم اختبارات دم متعددة للسرطان في بعض عيادات الأطباء العامين.",
+            "تستهدف المبادرة سرطانات يصعب تشخيصها مبكرًا، مثل سرطانات الكبد والمبيض والبنكرياس.",
+            "لا تزال هناك أسئلة رئيسية حول أداء الاختبار ومسارات المتابعة والتأثير المتوقع على النتائج."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=multi-cancer-blood-tests-coming-to-some-gp-surgeries-soon-7939dc6ba0d6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/multi-cancer-blood-tests-coming-to-some-gp-surgeries-soon-7939dc6ba0d6-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/multi-cancer-blood-tests-coming-to-some-gp-surgeries-soon-7939dc6ba0d6-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Plans to offer multi-cancer blood tests in some GP surgeries.\nStory summary: The BBC reports that multi-cancer blood tests will be introduced in some general practices with the aim of detecting hard-to-diagnose abdominal cancers — including liver, ovarian and pancreatic cancers — at an earlier stage..\nCategory: cancer detection.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "screening-for-parkinson-s-disease-across-questionnaires-using-lan-084a519378ef",
+      "category": "AI & diagnostics",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01271-3",
+      "sourceTitle": "Screening for Parkinson’s disease across questionnaires using language models",
+      "publishedAt": "2026-11-04",
+      "languages": {
+        "en": {
+          "title": "Language-model method enables screening across different health questionnaires",
+          "summary": "A Nature Aging report describes Quest2Dx, an approach that encodes the meaning of question–response pairs so an AI model trained on one questionnaire can screen for Parkinson’s disease using other questionnaires it has not seen before.",
+          "whyItMatters": "Differences in questionnaire wording and format have limited AI transferability between instruments. A method that improves cross-questionnaire performance could help scale screening tools, but real-world validation and clinical evaluation are still needed.",
+          "takeaways": [
+            "Quest2Dx encodes semantic meaning of question–response pairs to improve model generalization.",
+            "The approach aims to let AI screen for Parkinson’s disease on questionnaires it was not trained on.",
+            "This work is a methodological advance and does not by itself establish a validated clinical screening test.",
+            "Further validation across populations and settings will be required before clinical use."
+          ]
+        },
+        "es": {
+          "title": "Método con modelos de lenguaje permite cribado entre distintos cuestionarios",
+          "summary": "Un informe en Nature Aging describe Quest2Dx, un enfoque que codifica el significado de pares pregunta‑respuesta para que un modelo de IA entrenado con un cuestionario pueda cribar para la enfermedad de Parkinson usando otros cuestionarios que no ha visto antes.",
+          "whyItMatters": "Las diferencias en la redacción y el formato de los cuestionarios han limitado la transferibilidad de la IA entre instrumentos. Un método que mejore el rendimiento entre cuestionarios podría ayudar a ampliar las herramientas de cribado, pero todavía se necesita validación en condiciones reales y evaluación clínica.",
+          "takeaways": [
+            "Quest2Dx codifica el significado semántico de pares pregunta‑respuesta para mejorar la generalización del modelo.",
+            "El enfoque pretende permitir que la IA cribe para la enfermedad de Parkinson en cuestionarios en los que no fue entrenada.",
+            "Este trabajo es un avance metodológico y por sí mismo no establece un test de cribado clínicamente validado.",
+            "Se requerirá validación adicional en distintas poblaciones y entornos antes de su uso clínico."
+          ]
+        },
+        "ru": {
+          "title": "Метод на основе языковых моделей позволяет проводить скрининг по разным опросникам",
+          "summary": "В отчёте Nature Aging описывается Quest2Dx — подход, который кодирует смысл пар «вопрос‑ответ», чтобы модель ИИ, обученная на одном опроснике, могла проводить скрининг на болезнь Паркинсона, используя другие опросники, с которыми она не знакома.",
+          "whyItMatters": "Различия в формулировках и формате опросников ограничивали переносимость ИИ между инструментами. Метод, который улучшает работу между опросниками, мог бы помочь масштабировать инструменты скрининга, но по‑прежнему нужна проверка в реальных условиях и клиническая оценка.",
+          "takeaways": [
+            "Quest2Dx кодирует семантический смысл пар «вопрос—ответ» для улучшения обобщающей способности модели.",
+            "Подход направлен на то, чтобы ИИ мог проводить скрининг на болезнь Паркинсона по опросникам, на которых он не обучался.",
+            "Эта работа представляет собой методологический прогресс и сама по себе не устанавливает клинически валидный тест скрининга.",
+            "До клинического применения потребуется дальнейшая валидация в разных популяциях и условиях."
+          ]
+        },
+        "uk": {
+          "title": "Метод на основі мовних моделей дозволяє скринінг на різних медичних опитувальниках",
+          "summary": "У звіті Nature Aging описано Quest2Dx — підхід, який кодує смисл пар «питання–відповідь», щоб модель штучного інтелекту, навчена на одному опитувальнику, могла скринити на хворобу Паркінсона з використанням інших опитувальників, яких вона раніше не бачила.",
+          "whyItMatters": "Різниця в формулюваннях і форматах опитувальників обмежувала переносимість моделей ШІ між інструментами. Метод, що покращує роботу між опитувальниками, може допомогти масштабувати інструменти скринінгу, але все ще потрібна валідація у реальних умовах та клінічна оцінка.",
+          "takeaways": [
+            "Quest2Dx кодує семантичне значення пар питання–відповідь для покращення узагальнення моделі.",
+            "Підхід має на меті дозволити ШІ скринити на хворобу Паркінсона опитувальники, на яких він не був навчений.",
+            "Ця робота є методологічним кроком і сама по собі не встановлює валідифікований клінічний тест скринінгу.",
+            "Перед клінічним застосуванням знадобиться подальша валідація в різних популяціях і умовах."
+          ]
+        },
+        "fr": {
+          "title": "Une méthode par modèle de langage permet le dépistage via différents questionnaires de santé",
+          "summary": "Un rapport dans Nature Aging décrit Quest2Dx, une approche qui encode le sens des paires question–réponse de sorte qu'un modèle d'IA entraîné sur un questionnaire puisse dépister la maladie de Parkinson à partir d'autres questionnaires qu'il n'a pas vus auparavant.",
+          "whyItMatters": "Les différences de formulation et de format entre questionnaires ont limité la transférabilité des IA entre instruments. Une méthode améliorant la performance inter-questionnaires pourrait aider à étendre les outils de dépistage, mais une validation en conditions réelles et une évaluation clinique restent nécessaires.",
+          "takeaways": [
+            "Quest2Dx encode la signification sémantique des paires question–réponse pour améliorer la généralisation du modèle.",
+            "L'approche vise à permettre à l'IA de dépister la maladie de Parkinson sur des questionnaires non utilisés pour son entraînement.",
+            "Il s'agit d'un progrès méthodologique et non d'un test de dépistage clinique validé en soi.",
+            "Une validation supplémentaire dans diverses populations et contextes sera requise avant un usage clinique."
+          ]
+        },
+        "de": {
+          "title": "Sprachmodell‑Methode ermöglicht Screening über verschiedene Gesundheitsfragebögen",
+          "summary": "Ein Bericht in Nature Aging beschreibt Quest2Dx, einen Ansatz, der die Bedeutung von Frage‑Antwort‑Paaren kodiert, sodass ein auf einem Fragebogen trainiertes KI‑Modell mit anderen, zuvor nicht gesehenen Fragebögen auf Parkinson screenen kann.",
+          "whyItMatters": "Unterschiede in Wortwahl und Format von Fragebögen haben die Übertragbarkeit von KI zwischen Instrumenten begrenzt. Eine Methode, die die Leistung über Fragebögen hinweg verbessert, könnte helfen, Screening‑Instrumente zu skalieren, aber Validierung in realen Einsatzszenarien und klinische Bewertung sind weiterhin erforderlich.",
+          "takeaways": [
+            "Quest2Dx kodiert die semantische Bedeutung von Frage‑Antwort‑Paaren, um die Generalisierung von Modellen zu verbessern.",
+            "Der Ansatz zielt darauf ab, KI das Screening auf Parkinson mit Fragebögen zu ermöglichen, auf denen sie nicht trainiert wurde.",
+            "Diese Arbeit ist ein methodischer Fortschritt und begründet nicht von sich aus einen validierten klinischen Screeningt‑test.",
+            "Vor einer klinischen Anwendung sind weitere Validierungen in verschiedenen Populationen und Einsatzumgebungen nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Método com modelo de linguagem permite triagem entre diferentes questionários de saúde",
+          "summary": "Um relatório na Nature Aging descreve o Quest2Dx, uma abordagem que codifica o significado de pares pergunta‑resposta para que um modelo de IA treinado em um questionário possa rastrear a doença de Parkinson usando outros questionários que não viu antes.",
+          "whyItMatters": "Diferenças na redação e no formato dos questionários têm limitado a transferibilidade da IA entre instrumentos. Um método que melhora o desempenho entre questionários pode ajudar a ampliar ferramentas de triagem, mas são necessárias validação em cenários reais e avaliação clínica.",
+          "takeaways": [
+            "Quest2Dx codifica o significado semântico de pares pergunta‑resposta para melhorar a generalização do modelo.",
+            "A abordagem pretende permitir que a IA faça triagem para Parkinson em questionários nos quais não foi treinada.",
+            "Este trabalho é um avanço metodológico e não estabelece por si só um teste de triagem clínico validado.",
+            "Serão necessárias validações adicionais em diferentes populações e contextos antes do uso clínico."
+          ]
+        },
+        "hu": {
+          "title": "Nyelvi modell alapú módszer lehetővé teszi a szűrést különböző kérdőíveken keresztül",
+          "summary": "A Nature Aging beszámolója ismerteti a Quest2Dx nevű megközelítést, amely a kérdés–válasz párok jelentését kódolja úgy, hogy egy kérdőíven tanított MI-modell képes legyen Parkinson-kórra szűrni olyan kérdőíveken is, amelyeket korábban nem látott.",
+          "whyItMatters": "A kérdőívek megfogalmazásbeli és formátumbeli különbségei korlátozták az MI átvihetőségét az eszközök között. Egy olyan módszer, amely javítja a keresztkérdőíves teljesítményt, segíthet a szűrőeszközök kiterjesztésében, de valós világban történő validálásra és klinikai értékelésre még szükség van.",
+          "takeaways": [
+            "A Quest2Dx a kérdés–válasz párok szemantikai jelentését kódolja a modell általánosíthatóságának javítása érdekében.",
+            "A cél az, hogy az MI olyan kérdőíveken is tudjon Parkinson-kórra szűrni, amelyeken nem tanították.",
+            "Ez módszertani előrelépés, önmagában nem hoz létre validált klinikai szűrőtesztet.",
+            "Klinikai alkalmazás előtt további validálásra lesz szükség különböző populációkban és környezetekben."
+          ]
+        },
+        "ar": {
+          "title": "طريقة تعتمد على نموذج لغوي تمكّن الفحص عبر استبيانات مختلفة",
+          "summary": "تصف دراسة في Nature Aging نهجًا يُدعى Quest2Dx، يقوم بترميز معنى أزواج السؤال–الإجابة بحيث يمكن لنموذج ذكاء اصطناعي مدرّب على استبيان واحد أن يفحص احتمالية مرض باركنسون باستخدام استبيانات أخرى لم يسبق له رؤيتها.",
+          "whyItMatters": "حدّت اختلافات الصياغة والتنسيق بين الاستبيانات من إمكانية نقل نماذج الذكاء الاصطناعي بينها. قد يساعد نهج يحسّن الأداء عبر الاستبيانات في توسيع أدوات الفحص، لكن لا بد من التحقق من مداها في العالم الحقيقي وتقييم سريري.",
+          "takeaways": [
+            "يقوم Quest2Dx بترميز المعنى الدلالي لأزواج السؤال–الإجابة لتحسين تعميم النموذج.",
+            "الهدف أن يسمح هذا النهج للذكاء الاصطناعي بالفحص على استبيانات لم يُدرّب عليها مسبقًا.",
+            "هذا عمل منهجي ولا يمثل بحد ذاته اختبار فحص سريري مُثبتًا.",
+            "قبل الاستخدام السريري يلزم إجراء مزيد من التحقق عبر مجموعات سكانية وسياقات مختلفة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=screening-for-parkinson-s-disease-across-questionnaires-using-lan-084a519378ef",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/screening-for-parkinson-s-disease-across-questionnaires-using-lan-084a519378ef-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/screening-for-parkinson-s-disease-across-questionnaires-using-lan-084a519378ef-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Language-model method enables screening across different health questionnaires.\nStory summary: A Nature Aging report describes Quest2Dx, an approach that encodes the meaning of question–response pairs so an AI model trained on one questionnaire can screen for Parkinson’s disease using other questionnaires it has not seen before..\nCategory: AI & diagnostics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "memory-problems-may-matter-more-than-slower-thinking-for-dementia-0b9bcc6a7db7",
+      "category": "neuroscience & dementia",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261103/Memory-problems-may-matter-more-than-slower-thinking-for-dementia-risk-in-frail-adults.aspx",
+      "sourceTitle": "Memory problems may matter more than slower thinking for dementia risk in frail adults",
+      "publishedAt": "Tue, 03 Nov 2026 18:27:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Longitudinal study links memory impairment profiles in frailty to higher dementia odds",
+          "summary": "In a study of 7,023 adults in England followed for about 10 years, researchers identified three cognitive-frailty profiles. Profiles that included memory impairment were associated with higher odds of subsequent dementia, while socioeconomic, educational and psychosocial factors showed different patterns across the groups.",
+          "whyItMatters": "The findings suggest memory deficits within frailty profiles may be a stronger marker of future dementia risk than slower processing speed alone, which could inform screening and research. These are observational associations and do not prove causation.",
+          "takeaways": [
+            "Researchers analysed 7,023 adults and identified three distinct cognitive‑frailty profiles.",
+            "Profiles involving memory impairment were linked with higher odds of later dementia over ~10 years.",
+            "Socioeconomic, educational and psychosocial factors had differing associations across profiles.",
+            "This is an observational study; associations do not establish causation and further research is needed."
+          ]
+        },
+        "es": {
+          "title": "Estudio longitudinal vincula perfiles de deterioro de la memoria en la fragilidad con mayores probabilidades de demencia",
+          "summary": "En un estudio de 7.023 adultos en Inglaterra seguidos durante unos 10 años, los investigadores identificaron tres perfiles cognitivo‑fragilidad. Los perfiles que incluían deterioro de la memoria se asociaron con mayores probabilidades de demencia posterior, mientras que factores socioeconómicos, educativos y psicosociales mostraron patrones distintos entre los grupos.",
+          "whyItMatters": "Los hallazgos sugieren que los déficits de memoria dentro de los perfiles de fragilidad pueden ser un marcador más fuerte del riesgo futuro de demencia que la mera lentitud en el procesamiento, lo que podría informar cribado e investigación. Se trata de asociaciones observacionales que no prueban causalidad.",
+          "takeaways": [
+            "Los investigadores analizaron 7.023 adultos e identificaron tres perfiles distintos de cognición y fragilidad.",
+            "Los perfiles que incluían deterioro de la memoria se vincularon con mayores probabilidades de demencia en ~10 años.",
+            "Los factores socioeconómicos, educativos y psicosociales mostraron asociaciones diferentes entre los perfiles.",
+            "Este es un estudio observacional; las asociaciones no establecen causalidad y se necesita más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Продольное исследование связывает профили нарушения памяти при дряхлости с повышенным риском деменции",
+          "summary": "В исследовании 7 023 взрослых в Англии, наблюдавшихся около 10 лет, исследователи выделили три профиля когнитивной уязвимости/дряхлости. Профили, включавшие нарушение памяти, были связаны с более высокой вероятностью последующей деменции, тогда как социально‑экономические, образовательные и психосоциальные факторы проявляли разные закономерности в разных группах.",
+          "whyItMatters": "Результаты указывают, что дефицит памяти в рамках профилей дряхлости может быть более сильным маркером будущего риска деменции, чем только замедление мышления, что может повлиять на скрининг и исследования. Это наблюдательные ассоциации и они не доказывают причинно‑следственную связь.",
+          "takeaways": [
+            "Исследователи проанализировали 7 023 взрослых и выделили три различных профиля когнитивной уязвимости/дряхлости.",
+            "Профили с нарушением памяти были связаны с повышенной вероятностью деменции в течение ~10 лет.",
+            "Социально‑экономические, образовательные и психосоциальные факторы имели различные ассоциации в разных профилях.",
+            "Это наблюдательное исследование; ассоциации не устанавливают причинности, и необходимы дополнительные исследования."
+          ]
+        },
+        "uk": {
+          "title": "Лонгітюдне дослідження пов’язує профілі когнітивної крихкості з вищою ймовірністю деменції",
+          "summary": "У дослідженні 7 023 дорослих в Англії, яких спостерігали близько 10 років, дослідники виокремили три профілі когнітивної крихкості. Профілі, що включали порушення пам’яті, були пов’язані з вищою ймовірністю подальшої деменції, тоді як соціально‑економічні, освітні та психосоціальні фактори показали різні патерни між групами.",
+          "whyItMatters": "Результати свідчать, що дефіцити пам’яті в рамках профілів крихкості можуть бути сильнішим маркером майбутнього ризику деменції, ніж лише уповільнена швидкість обробки інформації, що може вплинути на скринінг і дослідження. Це спостережні асоціації й не доводять причинно‑наслідкового зв’язку.",
+          "takeaways": [
+            "Дослідники проаналізували 7 023 дорослих і визначили три відмінні профілі когнітивної крихкості.",
+            "Профілі з порушеннями пам’яті були пов’язані з вищою ймовірністю пізнішої деменції протягом ~10 років.",
+            "Соціально‑економічні, освітні та психосоціальні фактори мали різні асоціації в різних профілях.",
+            "Це спостережне дослідження; асоціації не встановлюють причинності і потребують подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Étude longitudinale liant des profils de fragilité cognitive avec altération de la mémoire à un risque accru de démence",
+          "summary": "Dans une étude de 7 023 adultes en Angleterre suivis pendant environ 10 ans, les chercheurs ont identifié trois profils de fragilité cognitive. Les profils comprenant une atteinte de la mémoire étaient associés à des odds plus élevés de démence ultérieure, tandis que des facteurs socio‑économiques, éducatifs et psychosociaux ont montré des schémas différents selon les groupes.",
+          "whyItMatters": "Ces résultats suggèrent que les déficits de mémoire au sein des profils de fragilité pourraient être un marqueur plus fort du risque futur de démence que le ralentissement du traitement de l'information seul, ce qui pourrait informer le dépistage et la recherche. Ce sont des associations observationnelles et n'établissent pas de relation causale.",
+          "takeaways": [
+            "Les chercheurs ont analysé 7 023 adultes et identifié trois profils distincts de fragilité cognitive.",
+            "Les profils impliquant des troubles de la mémoire étaient liés à des odds plus élevées de démence ultérieure sur ~10 ans.",
+            "Les facteurs socio‑économiques, éducatifs et psychosociaux ont montré des associations différentes selon les profils.",
+            "Il s'agit d'une étude observationnelle ; les associations n'établissent pas la causalité et nécessitent des recherches supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Längsschnittstudie verknüpft Gedächtnisstörungen in Gebrechlichkeitsprofilen mit höherer Demenzwahrscheinlichkeit",
+          "summary": "In einer Studie mit 7.023 Erwachsenen in England, die etwa 10 Jahre verfolgt wurden, identifizierten Forschende drei kognitive‑Gebrechlichkeitsprofile. Profile mit Gedächtnisstörungen waren mit höheren Odds auf eine spätere Demenz verbunden, während sozioökonomische, Bildungs‑ und psychosoziale Faktoren sich zwischen den Gruppen unterschieden.",
+          "whyItMatters": "Die Ergebnisse deuten darauf hin, dass Gedächtnisdefizite innerhalb von Gebrechlichkeitsprofilen ein stärkerer Marker für das spätere Demenzrisiko sein könnten als allein verlangsamte Denkprozesse, was Screening und Forschung informieren könnte. Dies sind beobachtende Zusammenhänge und keine Belege für Kausalität.",
+          "takeaways": [
+            "Forschende analysierten 7.023 Erwachsene und identifizierten drei unterschiedliche kognitive‑Gebrechlichkeitsprofile.",
+            "Profile mit Gedächtnisstörungen waren über ~10 Jahre mit höheren Odds für spätere Demenz verbunden.",
+            "Sozioökonomische, Bildungs‑ und psychosoziale Faktoren zeigten unterschiedliche Muster zwischen den Profilen.",
+            "Dies ist eine Beobachtungsstudie; Assoziationen begründen keine Kausalität und es ist weitere Forschung nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo longitudinal relaciona déficits de memória em perfis de fragilidade a maior probabilidade de demência",
+          "summary": "Em um estudo com 7.023 adultos na Inglaterra acompanhados por cerca de 10 anos, pesquisadores identificaram três perfis de fragilidade cognitiva. Perfis que incluíam comprometimento de memória estiveram associados a maiores chances de demência subsequente, enquanto fatores socioeconômicos, educacionais e psicossociais apresentaram padrões diferentes entre os grupos.",
+          "whyItMatters": "Os achados sugerem que déficits de memória dentro de perfis de fragilidade podem ser um marcador mais forte de risco futuro de demência do que apenas redução na velocidade de processamento, o que pode orientar triagem e pesquisa. Trata‑se de associações observacionais e não provam causalidade.",
+          "takeaways": [
+            "Os pesquisadores analisaram 7.023 adultos e identificaram três perfis distintos de fragilidade cognitiva.",
+            "Perfis envolvendo comprometimento de memória foram ligados a maiores chances de demência ao longo de ~10 anos.",
+            "Fatores socioeconômicos, educacionais e psicossociais apresentaram diferentes associações entre os perfis.",
+            "Este é um estudo observacional; associações não estabelecem causalidade e mais pesquisas são necessárias."
+          ]
+        },
+        "hu": {
+          "title": "Hosszú távú vizsgálat: a memóriaproblémák fontosabbak lehetnek a késői gondolkodási sebességnél a demencia kockázatában idősödő sérülékeny felnőtteknél",
+          "summary": "Egy Angliában követett, mintegy 7 023 felnőttet magában foglaló, körülbelül 10 éves adatfelvétel során a kutatók három kognitív‑sérülékenységi profilt azonosítottak. Azok a profilok, amelyek memóriakárosodást tartalmaztak, magasabb eséllyel jártak a későbbi demencia kialakulásával, miközben a társadalmi‑gazdasági, oktatási és pszichoszociális tényezők különböző mintázatokat mutattak a csoportok között.",
+          "whyItMatters": "Az eredmények arra utalnak, hogy a memóriadeficitek a sérülékenységen belül erősebb jelzői lehetnek a jövőbeni demenciakockázatnak, mint önmagában a lassabb feldolgozási sebesség, ami alakíthatja a szűrést és a kutatást. Ezek megfigyelési kapcsolatok, és nem bizonyítják az okságot.",
+          "takeaways": [
+            "A kutatók 7 023 felnőttet elemeztek és három különböző kognitív‑sérülékenységi profilt azonosítottak.",
+            "A memóriakárosodást tartalmazó profilok nagyobb valószínűséggel társultak későbbi demenciával körülbelül 10 év alatt.",
+            "A társadalmi‑gazdasági helyzet, az oktatás és a pszichoszociális tényezők eltérő összefüggéseket mutattak a profilok között.",
+            "Ez megfigyeléses tanulmány; az összefüggések nem bizonyítják az okságot, és további kutatás szükséges."
+          ]
+        },
+        "ar": {
+          "title": "دراسة طولية تربط بين ملفات ضعف إدراكي تتضمن تدهور الذاكرة وخطر أعلى للخرف لدى البالغين الضعفاء",
+          "summary": "في دراسة تابعت نحو 7,023 بالغًا في إنجلترا لمدة تقارب 10 سنوات، حدَّد الباحثون ثلاث ملفات للإصابة المعرفية إلى جانب الهشاشة. ارتبطت الملفات التي شملت ضعف الذاكرة باحتمالات أعلى للإصابة بالخرف لاحقًا، بينما أظهرت العوامل الاجتماعية والاقتصادية والتعليمية والنفسية‑الاجتماعية أنماطًا مختلفة بين المجموعات.",
+          "whyItMatters": "تشير النتائج إلى أن عجز الذاكرة ضمن ملفات الهشاشة قد يكون علامة أقوى لخطر الخرف المستقبلي مقارنةً ببساطة بطء سرعة المعالجة، وهو ما قد يؤثر على البحث وأساليب الفحص. هذه علاقات رصدية ولا تثبت السببية.",
+          "takeaways": [
+            "حلل الباحثون بيانات 7,023 بالغًا وحددوا ثلاث ملفات مميزة للضعف المعرفي‑الهلعوي.",
+            "ارتبطت الملفات التي تضمنت ضعف الذاكرة بزيادة احتمال الإصابة بالخرف لاحقًا خلال نحو 10 سنوات.",
+            "أظهرت العوامل الاجتماعية‑الاقتصادية والتعليمية والنفسية‑الاجتماعية علاقات متباينة عبر الملفات.",
+            "هذه دراسة رصدية؛ والعلاقات المرصودة لا تثبت سببًا ونتيجة، وهناك حاجة لمزيد من البحوث."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=memory-problems-may-matter-more-than-slower-thinking-for-dementia-0b9bcc6a7db7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/memory-problems-may-matter-more-than-slower-thinking-for-dementia-0b9bcc6a7db7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/memory-problems-may-matter-more-than-slower-thinking-for-dementia-0b9bcc6a7db7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Longitudinal study links memory impairment profiles in frailty to higher dementia odds.\nStory summary: In a study of 7,023 adults in England followed for about 10 years, researchers identified three cognitive-frailty profiles. Profiles that included memory impairment were associated with higher odds of subsequent dementia, while socioeconomic, educational and psychosocial factors showed different patterns across the groups..\nCategory: neuroscience & dementia.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "upfront-tavr-may-be-the-way-forward-in-moderate-aortic-stenosis-t-28cc81d7e641",
+      "category": "cardiovascular health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/tct/123709",
+      "sourceTitle": "Upfront TAVR May Be the Way Forward in Moderate Aortic Stenosis, Trial Suggests",
+      "publishedAt": "Tue, 03 Nov 2026 17:21:59 -0500",
+      "languages": {
+        "en": {
+          "title": "Trial suggests upfront TAVR reduced death and heart-failure events in moderate aortic stenosis with risk features",
+          "summary": "MedPage Today summarizes a trial reporting that upfront transcatheter aortic valve replacement (TAVR) was more protective against death and heart-failure events than clinical surveillance for patients with moderate aortic stenosis who had at least one at-risk feature.",
+          "whyItMatters": "If confirmed and adopted, earlier valve intervention could change management for a subset of patients with moderate aortic stenosis. Trial context, patient selection, and longer-term outcomes will influence practice and guideline changes.",
+          "takeaways": [
+            "The trial compared upfront TAVR to clinical surveillance in patients with moderate aortic stenosis and at least one risk feature.",
+            "Results reported fewer deaths and heart-failure events with upfront TAVR in the studied group.",
+            "Implications depend on trial details, eligibility criteria, follow-up duration and replication in additional studies."
+          ]
+        },
+        "es": {
+          "title": "Ensayo sugiere que TAVR inicial redujo muertes y eventos de insuficiencia cardíaca en estenosis aórtica moderada con factores de riesgo",
+          "summary": "MedPage Today resume un ensayo que informa que el reemplazo valvular aórtico transcatéter (TAVR) realizado de entrada fue más protector frente a la muerte y a los eventos de insuficiencia cardíaca que la vigilancia clínica en pacientes con estenosis aórtica moderada que tenían al menos un factor de riesgo.",
+          "whyItMatters": "Si se confirma y adopta, una intervención valvular más temprana podría cambiar el manejo de un subconjunto de pacientes con estenosis aórtica moderada. El contexto del ensayo, la selección de pacientes y los resultados a más largo plazo influirán en la práctica clínica y en las guías.",
+          "takeaways": [
+            "El ensayo comparó TAVR inicial con vigilancia clínica en pacientes con estenosis aórtica moderada y al menos un factor de riesgo.",
+            "En el grupo estudiado se comunicaron menos muertes y eventos de insuficiencia cardíaca con TAVR inicial.",
+            "Las implicaciones dependen de los detalles del ensayo, los criterios de elegibilidad, la duración del seguimiento y la replicación en estudios adicionales."
+          ]
+        },
+        "ru": {
+          "title": "Исследование предполагает, что ранний TAVR снизил смертность и случаи сердечной недостаточности при умеренном стенозе аортального клапана с факторами риска",
+          "summary": "MedPage Today подводит итоги исследования, в котором сообщается, что раннее транскатетерное протезирование аортального клапана (TAVR) было более защищающим от смерти и случаев сердечной недостаточности, чем клиническое наблюдение у пациентов с умеренным стенозом аорты и как минимум одним фактором риска.",
+          "whyItMatters": "Если результаты подтвердятся и будут приняты, более раннее вмешательство на клапане может изменить ведение части пациентов с умеренным стенозом аорты. На изменение практики и рекомендации повлияют контекст исследования, отбор пациентов и долгосрочные результаты.",
+          "takeaways": [
+            "В исследовании сравнивали ранний TAVR и клиническое наблюдение у пациентов с умеренным стенозом аортального клапана и по крайней мере одним фактором риска.",
+            "В изученной группе при раннем TAVR сообщалось о меньшем количестве смертей и случаев сердечной недостаточности.",
+            "Последствия зависят от деталей исследования, критериев включения, продолжительности наблюдения и воспроизведения результатов в других работах."
+          ]
+        },
+        "uk": {
+          "title": "Випробування свідчить, що ранній TAVR зменшив смертність і події серцевої недостатності при помірному стенозі аорти з ризиковими ознаками",
+          "summary": "MedPage Today підсумовує випробування, яке повідомляє, що рання транскатетерна заміна аортального клапана (TAVR) була більш захисною щодо смертності та подій серцевої недостатності порівняно з клінічним спостереженням у пацієнтів із помірним стенозом аорти, які мали щонайменше одну ризикову ознаку.",
+          "whyItMatters": "Якщо ці результати підтвердять і впровадять, більш раннє втручання на клапані могло б змінити ведення підгрупи пацієнтів із помірним стенозом аорти. Контекст випробування, відбір пацієнтів і довгострокові результати впливатимуть на практику та рекомендації.",
+          "takeaways": [
+            "Випробування порівнювало ранній TAVR зі спостереженням у пацієнтів із помірним стенозом аорти та принаймні однією ризиковою ознакою.",
+            "У досліджуваній групі повідомляли про менше смертей і подій серцевої недостатності за наявності раннього TAVR.",
+            "Наслідки залежать від деталей випробування, критеріїв включення, тривалості спостереження та відтворення результатів у додаткових дослідженнях."
+          ]
+        },
+        "fr": {
+          "title": "Un essai suggère que le TAVR précoce a réduit la mortalité et les épisodes d’insuffisance cardiaque dans la sténose aortique modérée avec facteurs de risque",
+          "summary": "MedPage Today résume un essai rapportant que la pose précoce d'une valve aortique par cathéter (TAVR) était plus protectrice contre la mortalité et les épisodes d'insuffisance cardiaque que la surveillance clinique chez des patients atteints d'une sténose aortique modérée présentant au moins un facteur de risque.",
+          "whyItMatters": "Si ces résultats sont confirmés et adoptés, une intervention valvulaire plus précoce pourrait modifier la prise en charge d'un sous‑groupe de patients atteints de sténose aortique modérée. Le contexte de l'essai, la sélection des patients et les résultats à plus long terme influenceront la pratique et les recommandations.",
+          "takeaways": [
+            "L'essai a comparé le TAVR précoce à la surveillance clinique chez des patients ayant une sténose aortique modérée et au moins un facteur de risque.",
+            "Les résultats signalent moins de décès et d'événements d'insuffisance cardiaque avec le TAVR précoce dans le groupe étudié.",
+            "Les implications dépendent des détails de l'essai, des critères d'éligibilité, de la durée du suivi et de la réplication dans d'autres études."
+          ]
+        },
+        "de": {
+          "title": "Studie legt nahe, dass früher TAVR Tod und Herzinsuffizienzereignisse bei moderater Aortenstenose reduzierte",
+          "summary": "MedPage Today fasst eine Studie zusammen, wonach ein frühzeitiger transkatheterer Aortenklappenersatz (TAVR) gegenüber klinischer Überwachung bei Patienten mit moderater Aortenstenose und mindestens einem Risikofaktor besser vor Tod und Herzinsuffizienzereignissen schützte.",
+          "whyItMatters": "Würde dies bestätigt und übernommen, könnte eine frühere Klappenintervention das Management für eine Untergruppe von Patienten mit moderater Aortenstenose verändern. Kontext der Studie, Patientenauswahl und längerfristige Ergebnisse werden Praxis und Leitlinien beeinflussen.",
+          "takeaways": [
+            "Die Studie verglich frühzeitigen TAVR mit klinischer Überwachung bei Patienten mit moderater Aortenstenose und mindestens einem Risikomerkmal.",
+            "In der untersuchten Gruppe wurden weniger Todesfälle und Herzinsuffizienzereignisse mit frühzeitigem TAVR berichtet.",
+            "Die Implikationen hängen von Studiendetails, Einschlusskriterien, Nachbeobachtungsdauer und Bestätigung in weiteren Studien ab."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio sugere que TAVR precoce reduziu mortes e eventos de insuficiência cardíaca na estenose aórtica moderada com fatores de risco",
+          "summary": "A MedPage Today resume um ensaio que relatou que substituição valvar aórtica transcateter (TAVR) realizada precocemente foi mais protetora contra morte e eventos de insuficiência cardíaca do que vigilância clínica em pacientes com estenose aórtica moderada que apresentavam pelo menos uma característica de risco.",
+          "whyItMatters": "Se confirmado e adotado, um procedimento valvar mais precoce poderia mudar o manejo de um subconjunto de pacientes com estenose aórtica moderada. O contexto do ensaio, a seleção dos pacientes e os desfechos em prazo mais longo influenciarão prática e diretrizes.",
+          "takeaways": [
+            "O ensaio comparou TAVR precoce com vigilância clínica em pacientes com estenose aórtica moderada e ao menos uma característica de risco.",
+            "Os resultados relataram menos mortes e eventos de insuficiência cardíaca com TAVR precoce no grupo estudado.",
+            "As implicações dependem de detalhes do ensaio, critérios de elegibilidade, duração do seguimento e replicação em estudos adicionais."
+          ]
+        },
+        "hu": {
+          "title": "A trial szerint az előre végzett TAVR csökkentette a halálozást és a szívelégtelenségi eseményeket mérsékelt aortasztenózisban kockázati jellemzőkkel",
+          "summary": "A MedPage Today összegzése szerint egy vizsgálat azt találta, hogy az előre elvégzett transzkatéteres aortabillentyű-beültetés (TAVR) jobban védett a halálozástól és a szívelégtelenségi eseményektől, mint a klinikai megfigyelés azoknál a betegek között, akiknek mérsékelt aortasztenózisa volt és legalább egy kockázati jellemzőjük.",
+          "whyItMatters": "Ha megerősítik és elfogadják, a korábbi billentyűintervenciók megváltoztathatják a kezelés módját egyes mérsékelt aortasztenózisban szenvedő betegeknél. A gyakorlatra és irányelvekre gyakorolt hatást a vizsgálat kontextusa, a betegkiválasztás és a hosszabb távú eredmények befolyásolják.",
+          "takeaways": [
+            "A vizsgálat összehasonlította az előre végzett TAVR-t a klinikai megfigyeléssel mérsékelt aortasztenózisban szenvedő, legalább egy kockázati jellemzővel rendelkező betegeknél.",
+            "A jelentés szerint az előre végzett TAVR-csoportban kevesebb volt a haláleset és a szívelégtelenségi esemény.",
+            "A következmények értékelése a vizsgálat részleteitől, a jogosultsági kritériumoktól, a követési időtartamtól és további reprodukciótól függ."
+          ]
+        },
+        "ar": {
+          "title": "تجربة تشير إلى أن TAVR المبكر خفّض الوفيات وحوادث فشل القلب في تضيق الأبهر المتوسط مع عوامل خطر",
+          "summary": "تلخّص MedPage Today تجربة أفادت بأن إجراء استبدال الصمام الأبهري عبر القسطرة (TAVR) بشكل مبكر كان أكثر حماية من الوفيات وحوادث فشل القلب مقارنة بالمراقبة السريرية لدى مرضى يعانون من تضيق أبهري متوسط وكان لديهم على الأقل عامل خطر واحد.",
+          "whyItMatters": "إذا تمّ تأكيدها وتبنّيها، قد تغير التدخّلات الصمامية المبكرة إدارة مجموعة من مرضى التضيق الأبهري المتوسط. ستؤثر سياقات التجربة واختيار المرضى والنتائج الطويلة الأمد على الممارسة والتوصيات.",
+          "takeaways": [
+            "قارنة التجربة بين TAVR المبكر والمراقبة السريرية لدى مرضى تضيق أبهري متوسط لديهم عامل خطر واحد على الأقل.",
+            "أفادت النتائج بحدوث وفيات وحوادث فشل قلب أقل في مجموعة TAVR المبكرة في العينة المدروسة.",
+            "تعتمد الاستنتاجات على تفاصيل التجربة ومعايير الأهلية ومدة المتابعة والحاجة لتكرار النتائج."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=upfront-tavr-may-be-the-way-forward-in-moderate-aortic-stenosis-t-28cc81d7e641",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/upfront-tavr-may-be-the-way-forward-in-moderate-aortic-stenosis-t-28cc81d7e641-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/upfront-tavr-may-be-the-way-forward-in-moderate-aortic-stenosis-t-28cc81d7e641-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Trial suggests upfront TAVR reduced death and heart-failure events in moderate aortic stenosis with risk features.\nStory summary: MedPage Today summarizes a trial reporting that upfront transcatheter aortic valve replacement (TAVR) was more protective against death and heart-failure events than clinical surveillance for patients with moderate aortic stenosis who had at least one at-risk feature..\nCategory: cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "omega-3-dha-eases-autism-behaviors-by-calming-inflammation-ab043b695ece",
+      "category": "neuroscience & nutrition",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/dha-inflammation-neurons-asd-behavior-32379/",
+      "sourceTitle": "Omega-3 DHA Eases Autism Behaviors by Calming Inflammation",
+      "publishedAt": "Tue, 03 Nov 2026 20:20:54 +0000",
+      "languages": {
+        "en": {
+          "title": "DHA reduced autism‑like behaviors and inflammation in an early‑stress rat model",
+          "summary": "A preclinical study in rats reported that the omega‑3 fatty acid DHA reduced repetitive behaviors and restored sociability in an early‑stress model of autism. The authors link effects to inhibition of a prefrontal JNK inflammatory cascade and activation of NRF2 antioxidant pathways.",
+          "whyItMatters": "The results illuminate possible biological mechanisms by which DHA can affect behavior in an animal model, but they do not establish efficacy or safety in humans with autism spectrum conditions.",
+          "takeaways": [
+            "DHA administration reduced repetitive behaviors and improved social measures in an early‑stress rat model.",
+            "Reported mechanisms include blocking JNK inflammation and boosting NRF2 antioxidant responses in the prefrontal cortex.",
+            "This is animal research; translation to humans requires clinical studies."
+          ]
+        },
+        "es": {
+          "title": "El DHA redujo comportamientos tipo autismo y la inflamación en un modelo de rata con estrés temprano",
+          "summary": "Un estudio preclínico en ratas informó que el ácido graso omega‑3 DHA redujo comportamientos repetitivos y restauró la sociabilidad en un modelo de autismo por estrés temprano. Los autores vinculan los efectos con la inhibición de una cascada inflamatoria JNK en la corteza prefrontal y la activación de vías antioxidantes NRF2.",
+          "whyItMatters": "Los resultados iluminan posibles mecanismos biológicos por los que el DHA puede afectar el comportamiento en un modelo animal, pero no establecen eficacia o seguridad en humanos con trastornos del espectro autista.",
+          "takeaways": [
+            "La administración de DHA redujo comportamientos repetitivos y mejoró medidas sociales en un modelo de rata con estrés temprano.",
+            "Los mecanismos reportados incluyen bloqueo de la inflamación JNK y aumento de las respuestas antioxidantes NRF2 en la corteza prefrontal.",
+            "Se trata de investigación en animales; la traducción a humanos requiere estudios clínicos."
+          ]
+        },
+        "ru": {
+          "title": "DHA снизил аутично‑подобные поведенческие проявления и воспаление в ранней стрессовой модели у крыс",
+          "summary": "Доклиническое исследование на крысах показало, что омега‑3 жирная кислота DHA уменьшала повторяющиеся поведенческие реакции и восстанавливала социальное взаимодействие в модели аутизма, вызванной ранним стрессом. Авторы связывают эффекты с ингибированием воспалительного каскада JNK в префронтальной коре и активацией антиоксидантных путей NRF2.",
+          "whyItMatters": "Результаты проясняют возможные биологические механизмы, через которые DHA может влиять на поведение в модели на животных, но они не доказывают эффективность или безопасность у людей с расстройствами аутистического спектра.",
+          "takeaways": [
+            "Применение DHA уменьшило повторяющееся поведение и улучшило социальные показатели в ранней стрессовой модели у крыс.",
+            "Сообщаемые механизмы включают блокирование воспаления JNK и усиление NRF2‑опосредованных антиоксидантных ответов в префронтальной коре.",
+            "Это исследование на животных; перенос результатов на людей требует клинических исследований."
+          ]
+        },
+        "uk": {
+          "title": "DHA зменшив аутизмоподібну поведінку й запалення в моделі щурів із раннім стресом",
+          "summary": "Доклінічне дослідження на щурах повідомило, що омега‑3 жирна кислота DHA зменшувала повторювану поведінку й відновлювала соціальність у моделі аутизму, заснованій на ранньому стресі. Автори пов’язують ефекти з інгібуванням запального каскаду JNK у префронтальній корі та активацією антиоксидантних шляхів NRF2.",
+          "whyItMatters": "Результати показують можливі біологічні механізми, через які DHA може впливати на поведінку в тваринній моделі, але вони не встановлюють ефективності чи безпеки для людей з розладами аутистичного спектра.",
+          "takeaways": [
+            "Введення DHA зменшило повторювану поведінку та покращило соціальні показники в моделі щурів із раннім стресом.",
+            "Заявлені механізми включають блокування JNK‑запалення та посилення NRF2‑антиоксидантних відповідей у префронтальній корі.",
+            "Це дослідження на тваринах; для перенесення на людей потрібні клінічні дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Le DHA a réduit des comportements de type autistique et l'inflammation dans un modèle de rat soumis à un stress précoce",
+          "summary": "Une étude préclinique chez le rat rapporte que l'acide gras oméga‑3 DHA a réduit les comportements répétitifs et restauré la sociabilité dans un modèle d'autisme lié à un stress précoce. Les auteurs lient les effets à l'inhibition d'une cascade inflammatoire JNK dans le cortex préfrontal et à l'activation des voies antioxydantes NRF2.",
+          "whyItMatters": "Les résultats éclairent de possibles mécanismes biologiques par lesquels le DHA peut affecter le comportement dans un modèle animal, mais n'établissent pas l'efficacité ni la sécurité chez les personnes avec des troubles du spectre autistique.",
+          "takeaways": [
+            "L'administration de DHA a réduit les comportements répétitifs et amélioré des mesures sociales dans un modèle de rat soumis à un stress précoce.",
+            "Les mécanismes rapportés incluent le blocage de l'inflammation JNK et le renforcement des réponses antioxydantes NRF2 dans le cortex préfrontal.",
+            "Il s'agit d'une recherche animale ; la traduction chez l'humain nécessite des études cliniques."
+          ]
+        },
+        "de": {
+          "title": "DHA verringerte autismusähnliche Verhaltensweisen und Entzündung in einem Frühstress‑Rattenmodell",
+          "summary": "Eine präklinische Studie an Ratten berichtete, dass die Omega‑3‑Fettsäure DHA repetitives Verhalten reduzierte und die Sozialisierung in einem Frühstressmodell von Autismus wiederherstellte. Die Autoren führen die Effekte auf die Hemmung einer präfrontalen JNK‑Entzündungskaskade und die Aktivierung von NRF2‑antioxidativen Wegen zurück.",
+          "whyItMatters": "Die Ergebnisse beleuchten mögliche biologische Mechanismen, durch die DHA Verhalten in einem Tiermodell beeinflussen kann, stellen jedoch keine Wirksamkeit oder Sicherheit bei Menschen mit Autismus‑Spektrum‑Störungen fest.",
+          "takeaways": [
+            "Die Gabe von DHA verringerte repetitive Verhaltensweisen und verbesserte soziale Messwerte in einem Frühstress‑Rattenmodell.",
+            "Berichtete Mechanismen umfassen die Blockade von JNK‑vermittelter Entzündung und die Stärkung von NRF2‑antikoxidativen Antworten im präfrontalen Kortex.",
+            "Dies ist Tierforschung; eine Übertragung auf Menschen erfordert klinische Studien."
+          ]
+        },
+        "pt-br": {
+          "title": "DHA reduziu comportamentos relacionados ao autismo e inflamação em modelo de rato exposto ao estresse precoce",
+          "summary": "Um estudo pré‑clínico em ratos relatou que o ácido graxo ômega‑3 DHA reduziu comportamentos repetitivos e restaurou a sociabilidade em um modelo de autismo associado ao estresse precoce. Os autores vinculam os efeitos à inibição de uma cascata inflamatória JNK no pré‑frontal e à ativação de vias antioxidantes NRF2.",
+          "whyItMatters": "Os resultados esclarecem possíveis mecanismos biológicos pelos quais o DHA pode afetar o comportamento em um modelo animal, mas não estabelecem eficácia ou segurança em pessoas com transtorno do espectro do autismo.",
+          "takeaways": [
+            "A administração de DHA reduziu comportamentos repetitivos e melhorou medidas sociais em um modelo de rato de estresse precoce.",
+            "Os mecanismos relatados incluem bloqueio da inflamação mediada por JNK e aumento das respostas antioxidantes via NRF2 no córtex pré‑frontal.",
+            "Trata‑se de pesquisa em animais; a tradução para humanos requer estudos clínicos."
+          ]
+        },
+        "hu": {
+          "title": "DHA csökkentette az autizmushoz hasonló viselkedést és gyulladást egy korai stressz patkánymodellben",
+          "summary": "Egy preklinikai patkánystudium arról számolt be, hogy az omega‑3 zsirsav DHA csökkentette a repetitív viselkedést és helyreállította a társas viselkedést egy korai stressz alapú autizmusmodellben. A szerzők az eredményeket a prefrontális JNK gyulladásos kaszkádjának gátlásával és az NRF2 antioxidáns utak aktiválásával hozzák összefüggésbe.",
+          "whyItMatters": "Az eredmények lehetséges biológiai mechanizmusokat világítanak meg, amelyek révén a DHA befolyásolhatja a viselkedést egy állatmodellben, de nem bizonyítják a hatékonyságot vagy biztonságosságot emberekben autizmus spektrumzavarok esetén.",
+          "takeaways": [
+            "A DHA alkalmazása csökkentette a repetitív viselkedést és javította a társas mutatókat egy korai stressz patkánymodellben.",
+            "A jelentett mechanizmusok közé tartozik a JNK-gyulladás gátlása és az NRF2-antioxidáns válaszok fokozása a prefrontális kéregben.",
+            "Ez állatkísérleti kutatás; az emberre való átvitelhez klinikai vizsgálatok szükségesek."
+          ]
+        },
+        "ar": {
+          "title": "DHA قلّل سلوكيات شبيهة بالتوحد وأعاد التوازن عن طريق تهدئة الالتهاب في نموذج فأري للإجهاد المبكر",
+          "summary": "أفادت دراسة قبل سريرية على الفئران أن حمض أوميغا‑3 الدهني DHA خفّض السلوكيات التكرارية وأعاد السلوك الاجتماعي في نموذج توحد مبني على الإجهاد المبكر. يربط المؤلفون التأثيرات بتثبيط مسار الالتهاب JNK في القشرة أمام الجبهية وتنشيط مسارات NRF2 المضادة للأكسدة.",
+          "whyItMatters": "توضح النتائج آليات بيولوجية محتملة يمكن من خلالها أن يؤثر DHA على السلوك في نموذج حيواني، لكنها لا تثبت الفعالية أو الأمان لدى البشر ذوي حالات طيف التوحد.",
+          "takeaways": [
+            "قلّلت إدارة DHA السلوكيات التكرارية وحسّنت المقاييس الاجتماعية في نموذج فأري للإجهاد المبكر.",
+            "تشمل الآليات المبلغ عنها تثبيط التهاب JNK وتعزيز استجابات NRF2 المضادة للأكسدة في القشرة أمام الجبهية.",
+            "هذه أبحاث على الحيوانات؛ وسيتطلب الانتقال إلى البشر دراسات سريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=omega-3-dha-eases-autism-behaviors-by-calming-inflammation-ab043b695ece",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/omega-3-dha-eases-autism-behaviors-by-calming-inflammation-ab043b695ece-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/omega-3-dha-eases-autism-behaviors-by-calming-inflammation-ab043b695ece-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: DHA reduced autism‑like behaviors and inflammation in an early‑stress rat model.\nStory summary: A preclinical study in rats reported that the omega‑3 fatty acid DHA reduced repetitive behaviors and restored sociability in an early‑stress model of autism. The authors link effects to inhibition of a prefrontal JNK inflammatory cascade and activation of NRF2 antioxidant pathways..\nCategory: neuroscience & nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a-drug-free-diabetes-treatment-an-implant-lowers-blood-sugar-in-m-607a2ccfe43c",
       "category": "Diabetes / Metabolic research (animal study)",
@@ -644,6 +1429,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase 1b study: oral multi-strain live biotherapeutic (SER-155) after allogeneic HCT.\nStory summary: In a phase 1b trial including open-label and randomized placebo-controlled cohorts of adult allogeneic hematopoietic cell transplantation recipients, the oral multi-strain bacterial live biotherapeutic SER-155 had a safety profile similar to placebo and was associated with fewer bloodstream infections in the study population..\nCategory: Microbiome / Transplant infectious complications (early clinical trial).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lipid-organization-in-health-and-disease-a58b45ca9a2a",
+      "category": "lipid biology & disease",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00387-6?rss=yes",
+      "sourceTitle": "Lipid organization in health and disease",
+      "publishedAt": "2026-11-03",
+      "languages": {
+        "en": {
+          "title": "Perspective on how lipid spatial organization contributes to disease",
+          "summary": "A Voices piece in Cell Metabolism discusses how lipids are organized spatially and dynamically within organelles, cells and across organs, and how disruption of this organization is implicated in conditions such as neurodegeneration, cardiovascular disease and inflammation.",
+          "whyItMatters": "Framing lipid biology in terms of organization highlights shared mechanisms across diseases and may point to new research directions and targets. As a perspectives article, it synthesizes existing evidence rather than reporting new trial or experimental data.",
+          "takeaways": [
+            "Lipid composition and spatial dynamics are important across cellular compartments and tissues.",
+            "Disruption of lipid organization is linked to several pathological states, including neurodegeneration and cardiovascular disease.",
+            "The article synthesizes examples and suggests research priorities rather than presenting new experimental results."
+          ]
+        },
+        "es": {
+          "title": "Perspectiva sobre cómo la organización espacial de los lípidos contribuye a la enfermedad",
+          "summary": "Una pieza 'Voices' en Cell Metabolism analiza cómo los lípidos se organizan espacial y dinámicamente dentro de orgánulos, células y entre órganos, y cómo la alteración de esta organización está implicada en condiciones como la neurodegeneración, las enfermedades cardiovasculares y la inflamación.",
+          "whyItMatters": "Enmarcar la biología de los lípidos en términos de organización destaca mecanismos compartidos entre enfermedades y puede señalar nuevas direcciones y objetivos de investigación. Como artículo de perspectiva, sintetiza evidencia existente en lugar de presentar datos experimentales o ensayos nuevos.",
+          "takeaways": [
+            "La composición y la dinámica espacial de los lípidos son importantes en compartimentos celulares y tejidos.",
+            "La alteración de la organización lipídica se asocia con varios estados patológicos, incluida la neurodegeneración y la enfermedad cardiovascular.",
+            "El artículo sintetiza ejemplos y sugiere prioridades de investigación en lugar de presentar nuevos resultados experimentales."
+          ]
+        },
+        "ru": {
+          "title": "Перспектива о том, как пространственная организация липидов способствует заболеваниям",
+          "summary": "Материал «Voices» в Cell Metabolism обсуждает, как липиды организованы пространственно и динамически внутри органелл, клеток и между органами, и как нарушение этой организации связано с такими состояниями, как нейродегенерация, сердечно‑сосудистые заболевания и воспаление.",
+          "whyItMatters": "Рассмотрение липидной биологии с точки зрения организации подчёркивает общие механизмы между заболеваниями и может указать новые направления и мишени для исследований. Как статья‑перспектива, она синтезирует имеющиеся данные, а не представляет новые экспериментальные или клинические результаты.",
+          "takeaways": [
+            "Состав и пространственная динамика липидов важны в клеточных компартментах и тканях.",
+            "Нарушение организации липидов связано с несколькими патологическими состояниями, включая нейродегенерацию и сердечно‑сосудистые заболевания.",
+            "Статья синтезирует примеры и предлагает приоритеты исследований, а не представляет новые экспериментальные результаты."
+          ]
+        },
+        "uk": {
+          "title": "Перспектива щодо того, як просторове упорядкування ліпідів сприяє хворобам",
+          "summary": "Матеріал у Cell Metabolism розглядає, як ліпіди організовані просторово й динамічно в органелах, клітинах і між органами, і як порушення цієї організації пов’язане з такими станами, як нейродегенерація, серцево‑судинні захворювання і запалення.",
+          "whyItMatters": "Фреймування біології ліпідів у термінах організації підкреслює спільні механізми між хворобами і може вказувати нові напрями досліджень і цілі. Як стаття-перспектива, вона синтезує наявні дані, а не повідомляє про нові випробування чи експериментальні результати.",
+          "takeaways": [
+            "Склад ліпідів і їх просторові динаміки важливі в різних клітинних компартментах і тканинах.",
+            "Порушення організації ліпідів пов'язане з низкою патологічних станів, включаючи нейродегенерацію та серцево‑судинні захворювання.",
+            "Стаття синтезує приклади та пропонує наукові пріоритети, а не представляє нових експериментальних результатів."
+          ]
+        },
+        "fr": {
+          "title": "Perspective sur la façon dont l'organisation spatiale des lipides contribue aux maladies",
+          "summary": "Un article dans Cell Metabolism discute de la manière dont les lipides sont organisés spatialement et dynamiquement au sein des organites, des cellules et entre organes, et comment la perturbation de cette organisation est impliquée dans des pathologies telles que la neurodégénérescence, les maladies cardiovasculaires et l'inflammation.",
+          "whyItMatters": "Cadre d'analyse axé sur l'organisation des lipides qui met en lumière des mécanismes communs entre maladies et peut orienter de nouvelles pistes de recherche et cibles. En tant qu'article de perspective, il synthétise des preuves existantes plutôt que de rapporter de nouvelles données expérimentales ou d'essais.",
+          "takeaways": [
+            "La composition lipidique et la dynamique spatiale sont importantes dans les compartiments cellulaires et les tissus.",
+            "La perturbation de l'organisation lipidique est liée à plusieurs états pathologiques, y compris la neurodégénérescence et les maladies cardiovasculaires.",
+            "L'article synthétise des exemples et suggère des priorités de recherche plutôt que de présenter de nouveaux résultats expérimentaux."
+          ]
+        },
+        "de": {
+          "title": "Perspektive zur Rolle der Lipid‑räumlichen Organisation bei Erkrankungen",
+          "summary": "Ein Voices‑Beitrag in Cell Metabolism diskutiert, wie Lipide räumlich und dynamisch innerhalb von Organellen, Zellen und zwischen Organen organisiert sind und wie die Störung dieser Organisation mit Erkrankungen wie Neurodegeneration, Herz‑Kreislauf‑Erkrankungen und Entzündung in Verbindung steht.",
+          "whyItMatters": "Die Betrachtung der Lipidbiologie unter dem Aspekt der Organisation betont gemeinsame Mechanismen über verschiedene Erkrankungen hinweg und kann neue Forschungsrichtungen und Zielstrukturen aufzeigen. Als Perspektivartikel fasst er vorhandene Evidenz zusammen, statt neue experimentelle oder klinische Daten zu berichten.",
+          "takeaways": [
+            "Lipidzusammensetzung und räumliche Dynamik sind in zellulären Kompartimenten und Geweben wichtig.",
+            "Störungen der Lipidorganisation stehen im Zusammenhang mit mehreren pathologischen Zuständen, einschließlich Neurodegeneration und Herz‑Kreislauf‑Erkrankungen.",
+            "Der Artikel synthetisiert Beispiele und schlägt Forschungsprioritäten vor, statt neue experimentelle Ergebnisse zu präsentieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Perspectiva sobre como a organização espacial de lipídios contribui para doenças",
+          "summary": "Um texto na seção Voices da Cell Metabolism discute como os lipídios são organizados espacial e dinamicamente dentro de organelas, células e entre órgãos, e como a ruptura dessa organização está implicada em condições como neurodegeneração, doenças cardiovasculares e inflamação.",
+          "whyItMatters": "Enquadrar a biologia dos lipídios em termos de organização destaca mecanismos comuns entre doenças e pode apontar novas direções de pesquisa e alvos. Como artigo de perspectiva, ele sintetiza evidências existentes em vez de relatar novos dados experimentais.",
+          "takeaways": [
+            "Composição lipídica e dinâmica espacial são importantes em compartimentos celulares e tecidos.",
+            "A perturbação da organização lipídica está ligada a vários estados patológicos, incluindo neurodegeneração e doenças cardiovasculares.",
+            "O artigo sintetiza exemplos e sugere prioridades de pesquisa, em vez de apresentar novos resultados experimentais."
+          ]
+        },
+        "hu": {
+          "title": "Szemlélet a lipidek térbeli szerveződéséről és szerepéről a betegségekben",
+          "summary": "A Cell Metabolism Voices írása arról beszél, hogyan szerveződnek a lipidek térben és dinamikusan a sejtszervecskékben, a sejtekben és a szervek között, és hogyan járul a szerveződés zavara olyan állapotokhoz, mint a neurodegeneráció, kardiovaszkuláris betegségek és gyulladás.",
+          "whyItMatters": "A lipidek biológiájának a szervezettség szempontjából való keretezése kiemeli a betegségek közötti közös mechanizmusokat és új kutatási irányokat, illetve célpontokat jelezhet. Mivel ez egy perspektíva cikk, meglévő bizonyítékokat szintetizál, nem pedig új kísérleti eredményeket közöl.",
+          "takeaways": [
+            "A lipidek összetétele és térbeli dinamikája fontos a sejten belüli és szöveti kompartmentekben.",
+            "A lipidek szerveződésének zavara több kóros állapottal hozható összefüggésbe, például neurodegenerációval és kardiovaszkuláris betegségekkel.",
+            "A cikk példákat szintetizál és kutatási prioritásokat javasol, nem pedig új kísérleti eredményeket mutat be."
+          ]
+        },
+        "ar": {
+          "title": "منظور حول كيفية مساهمة التنظيم المكاني للدهون في المرض",
+          "summary": "يناقش مقالة Voices في Cell Metabolism كيف تُنظَّم الشحوم مكانيًا وديناميكيًا داخل العضيّات والخلايا وعبر الأعضاء، وكيف يشارك اضطراب هذا التنظيم في حالات مثل التنكس العصبي وأمراض القلب والأوعية والالتهاب.",
+          "whyItMatters": "يسلّط تأطير بيولوجيا الشحوم من منظور التنظيم الضوء على آليات مشتركة عبر أمراض مختلفة وقد يشير إلى اتجاهات بحثية وأهداف جديدة. وبما أنها مقالة وجهة نظر، فهي تُركّب الأدلة المتاحة بدلًا من عرض بيانات تجريبية جديدة أو تجارب سريرية.",
+          "takeaways": [
+            "تركيبة الشحوم والديناميكيات المكانية مهمة عبر الحوافظ الخلوية والأنسجة.",
+            "يرتبط اضطراب تنظيم الشحوم بعدة حالات مرضية، بما في ذلك التنكس العصبي وأمراض القلب والأوعية الدموية.",
+            "تُجمّع المقالة أمثلة وتقترح أولويات بحثية بدلاً من عرض نتائج تجريبية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lipid-organization-in-health-and-disease-a58b45ca9a2a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lipid-organization-in-health-and-disease-a58b45ca9a2a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lipid-organization-in-health-and-disease-a58b45ca9a2a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Perspective on how lipid spatial organization contributes to disease.\nStory summary: A Voices piece in Cell Metabolism discusses how lipids are organized spatially and dynamically within organelles, cells and across organs, and how disruption of this organization is implicated in conditions such as neurodegeneration, cardiovascular disease and inflammation..\nCategory: lipid biology & disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "parents-autoimmune-disease-linked-to-kids-type-1-diabetes-risk-1ee42ca09130",
@@ -118323,6 +119215,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-04-motivation-1-story-1",
+      "category": "planning-meals",
+      "languages": {
+        "en": {
+          "title": "Maria’s Week of Packed Lunches",
+          "story": "Maria works long afternoons and started packing lunches on Sundays so she’s not guessing when she’s hungry. She opens the app to add each planned meal to her Calorie Bank Credit, noting simple portions and a favorite snack. On busy days she adjusts the plan instead of skipping logging. Over a few weeks she notices fewer last-minute takeout orders and feels more in control of her choices. The point isn’t perfection — it’s making a small plan that helps her show up for herself every day.",
+          "habit": "Plan one meal the evening before.",
+          "appCta": "Log your plan in Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Las comidas preparadas de María",
+          "story": "María tiene tardes de trabajo largas y empezó a preparar sus almuerzos los domingos para no improvisar cuando le entra hambre. Abre la app y añade cada comida planificada a Calorie Bank Credit, anotando porciones sencillas y su snack favorito. En los días ocupados ajusta el plan en vez de dejar de registrar. En pocas semanas nota menos pedidos de última hora y siente más control sobre sus elecciones. No se trata de ser perfecta, sino de tener un plan pequeño que la ayude a cuidarse cada día.",
+          "habit": "Planifica una comida la noche anterior.",
+          "appCta": "Anota tu plan en Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Упакованные обеды Марии",
+          "story": "Мария часто работает до вечера и начала готовить обеды заранее по воскресеньям, чтобы не принимать решения на голодный желудок. Она вносит запланированные блюда в Calorie Bank Credit, отмечая простые порции и любимый перекус. В загруженные дни она корректирует план, но не бросает записи. Через пару недель заметила меньше спонтанных заказов и почувствовала больше контроля над выбором. Это не о совершенстве, а о маленьком плане, который помогает заботиться о себе ежедневно.",
+          "habit": "Запланируйте хотя бы одну еду с вечера.",
+          "appCta": "Добавьте свой план в Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Обіди, які пакує Марія",
+          "story": "Марія часто працює допізна і почала заздалегідь готувати обіди по неділях, щоб не вибирати, коли голодна. Вона вносить заплановані страви в Calorie Bank Credit, позначаючи прості порції та улюблений перекус. У зайняті дні вона коригує план, але не припиняє записів. Через кілька тижнів помітила менше випадкових замовлень і відчула більше контролю над вибором. Справа не в ідеалі, а в маленькому плані, який допомагає піклуватися про себе щодня.",
+          "habit": "Заплануйте одну страву наперед ввечері.",
+          "appCta": "Занесіть план у Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Les déjeuners préparés de Maria",
+          "story": "Maria a des après‑midi chargés et a commencé à préparer ses déjeuners le dimanche pour ne pas improviser quand elle a faim. Elle ajoute chaque repas planifié dans Calorie Bank Credit, en notant des portions simples et son encas favori. Les jours pressés, elle ajuste plutôt que d’abandonner le suivi. En quelques semaines, elle remarque moins de commandes de dernière minute et se sent plus maîtresse de ses choix. L’essentiel n’est pas la perfection, mais un petit plan qui l’aide au quotidien.",
+          "habit": "Planifiez un repas la veille au soir.",
+          "appCta": "Enregistrez votre plan dans Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Marias vorbereitete Mittagsessen",
+          "story": "Maria hat oft lange Nachmittage und begann, sonntags Mittagessen vorzubereiten, damit sie nicht hungrig improvisieren muss. Sie trägt jede geplante Mahlzeit in Calorie Bank Credit ein und notiert einfache Portionen sowie einen Lieblingssnack. An stressigen Tagen passt sie den Plan an, statt das Protokollieren auszulassen. Nach wenigen Wochen bemerkt sie weniger spontane Lieferungen und fühlt sich bei ihren Entscheidungen sicherer. Es geht nicht um Perfektion, sondern um einen kleinen Plan, der ihr jeden Tag hilft.",
+          "habit": "Plane eine Mahlzeit am Abend vorher.",
+          "appCta": "Speichere deinen Plan in Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Os almoços prontos da Maria",
+          "story": "Maria tem tardes corridas e começou a preparar almoços aos domingos para não decidir na hora da fome. Ela registra cada refeição planejada no Calorie Bank Credit, anotando porções simples e um lanche preferido. Nos dias cheios, ajusta o plano em vez de parar de registrar. Em algumas semanas percebe menos pedidos por impulso e sente mais controle nas escolhas. Não é sobre perfeição, e sim sobre um pequeno plano que a ajuda a cuidar de si todos os dias.",
+          "habit": "Planeje uma refeição na noite anterior.",
+          "appCta": "Cadastre seu plano no Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Mária előrecsomagolt ebédei",
+          "story": "Máriának gyakran hosszú a délutánja, ezért vasárnaponként elkezdte előkészíteni az ebédeket, hogy ne az éhség döntse el. A tervezett ételeket beírja a Calorie Bank Creditbe, egyszerű adagokat és egy kedvenc nassolnivalót feljegyezve. Forgalmas napokon a tervet módosítja, a naplózást nem hagyja abba. Néhány hét után kevesebb az impulzusvásárlás, és magabiztosabban érzi magát a döntéseiben. Nem a tökéletesség a cél, hanem egy kis terv, ami naponta támogatja.",
+          "habit": "Tervezd meg a következő nap egyik étkezését előző este.",
+          "appCta": "Rögzítsd a tervedet a Calorie Bank Creditben és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "وجبات غداء ماريا الجاهزة",
+          "story": "ماريا تعمل لساعات طويلة بعد الظهر فبدأت تُحضّر وجبات غدائها أيام الأحد كي لا تقرر وهي جائعة. تضيف كل وجبة مخططة إلى Calorie Bank Credit وتدوّن حصصًا بسيطة ووجبة خفيفة مفضلة. في الأيام المزدحمة تُعدِّل الخطة بدلًا من التوقف عن التسجيل. بعد أسابيع قليلة لاحظت طلبات توصيل أقل وشعرت بمزيد من السيطرة على اختياراتها. الأمر ليس عن الكمال، بل عن خطة صغيرة تساعدها على الاعتناء بنفسها يومًا بعد يوم.",
+          "habit": "خطّط وجبة واحدة مساءً قبل النوم.",
+          "appCta": "سجّل خطتك في Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maria’s Week of Packed Lunches.\nStory: Maria works long afternoons and started packing lunches on Sundays so she’s not guessing when she’s hungry. She opens the app to add each planned meal to her Calorie Bank Credit, noting simple portions and a favorite snack. On busy days she adjusts the plan instead of skipping logging. Over a few weeks she notices fewer last-minute takeout orders and feels more in control of her choices. The point isn’t perfection — it’s making a small plan that helps her show up for herself every day..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-04-motivation-2-story-2",
+      "category": "honest-logging",
+      "languages": {
+        "en": {
+          "title": "James and the Honest Snack Log",
+          "story": "James used to skip tracking the small things: a handful of chips here, an extra cookie there. When he started noting everything in Calorie Bank Credit, he stopped feeling like he had to be perfect. Seeing the little entries added up helped him spot the times he reached for snacks—usually mid‑afternoon slump or during movie nights. Instead of blaming himself, he tested small swaps and timed snacks to fit his routine. Tracking honestly gave him clearer decisions and fewer surprises about how his day felt.",
+          "habit": "Log every snack, even the small ones.",
+          "appCta": "Add your entries to Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "El registro honesto de bocadillos de James",
+          "story": "James solía no apuntar las pequeñas cosas: un puñado de patatas aquí, una galleta extra allá. Cuando empezó a anotar todo en Calorie Bank Credit dejó de sentir que debía ser perfecto. Ver cómo se sumaban las pequeñas entradas le ayudó a identificar cuándo picaba, casi siempre por la bajada de la tarde o las noches de película. En lugar de culparse, probó pequeños cambios y ajustó los snacks a su rutina. Registrar con honestidad le dio decisiones más claras y menos sorpresas sobre su día.",
+          "habit": "Registra cada snack, aunque sea pequeño.",
+          "appCta": "Añade tus anotaciones en Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честные перекусы Джеймса",
+          "story": "Джеймс раньше не учитывал мелочи: горсточку чипсов или лишнее печенье. Когда он начал записывать всё в Calorie Bank Credit, исчезло ощущение, что нужно быть идеальным. Маленькие записи сложились в заметную картину, и он увидел, когда чаще перекусывает — обычно послеобеденный спад или кино-вечер. Вместо того, чтобы винить себя, он пробовал небольшие замены и планировал перекусы под распорядок. Честный учёт дал ему ясность и меньше неожиданных ощущений в течение дня.",
+          "habit": "Записывайте все перекусы, даже маленькие.",
+          "appCta": "Внесите записи в Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Чесні перекуси Джеймса",
+          "story": "Джеймс раніше не записував дрібниці: жменю чипсів чи зайве печиво. Коли він почав записувати все в Calorie Bank Credit, зникла думка про необхідність бути ідеальним. Невеликі записи склали помітну картину, і він побачив, коли найчастіше перекушує — зазвичай післяобідній спад або вечір кіно. Замість докорів собі він спробував маленькі заміни та підлаштував перекуси під розпорядок. Чесний облік дав йому більше ясності і менше несподіванок протягом дня.",
+          "habit": "Записуйте всі перекуси, навіть найменші.",
+          "appCta": "Додайте записи в Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Le carnet honnête de James",
+          "story": "James laissait de côté les petites choses : une poignée de chips, un biscuit en plus. En notant tout dans Calorie Bank Credit, il a cessé de se mettre la pression. Voir les petites lignes s’additionner lui a permis d’identifier ses moments de grignotage — souvent la baisse d’énergie de l’après‑midi ou les soirées cinéma. Sans s’auto‑culpabiliser, il a testé des ajustements simples et calé ses encas sur sa routine. Le suivi honnête lui a apporté plus de clarté et moins de surprises dans sa journée.",
+          "habit": "Notez chaque encas, même petit.",
+          "appCta": "Ajoutez vos enregistrements dans Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "James’ ehrliches Snack‑Protokoll",
+          "story": "James hat Kleinigkeiten wie eine Handvoll Chips oder einen Extra‑Keks früher nicht protokolliert. Als er anfing, alles in Calorie Bank Credit einzutragen, fiel der Druck, perfekt sein zu müssen. Die kleinen Einträge ergaben ein klares Bild und zeigten, wann er zu Snacks griff — meist am Nachmittagstief oder beim Filmabend. Statt sich zu beschuldigen, probierte er kleine Änderungen und plante Snacks nach seinem Alltag. Ehrliches Eintragen gab ihm mehr Klarheit und weniger Überraschungen im Tagesverlauf.",
+          "habit": "Trage jeden Snack ein, auch die kleinen.",
+          "appCta": "Füge deine Einträge in Calorie Bank Credit hinzu und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "O registro honesto de lanches do James",
+          "story": "James costumava não registrar as pequenas coisas: um punhado de salgadinhos aqui, um biscoito a mais ali. Quando começou a anotar tudo no Calorie Bank Credit, parou de achar que precisava ser perfeito. Ver as pequenas entradas somarem ajudou‑o a perceber quando buscava lanches — geralmente à tarde ou em noites de filme. Em vez de se culpar, testou pequenas trocas e organizou os lanches na rotina. Registrar com honestidade deu‑lhe decisões mais claras e menos surpresas ao longo do dia.",
+          "habit": "Registre todo lanche, mesmo os pequenos.",
+          "appCta": "Adicione suas entradas no Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "James őszinte nassolónaplója",
+          "story": "James korábban kihagyta a kis dolgokat: egy marék chipset, egy plusz kekszet. Amikor mindent beírt a Calorie Bank Creditbe, elmúlt az érzés, hogy tökéletesnek kell lennie. A kis bejegyzések összeadva segítettek felismerni, mikor nassol leggyakrabban — általában délutáni energiaszint‑esésnél vagy filmnézéskor. Ahelyett, hogy hibáztatná magát, kipróbált apró cseréket és időzítette a nasikat a rutinjához. Az őszinte naplózás tisztább döntéseket és kevesebb meglepetést hozott.",
+          "habit": "Írd be az összes nassolnivalót, még a kicsiket is.",
+          "appCta": "Rögzítsd a bejegyzéseidet a Calorie Bank Creditben és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "سجل الوجبات الخفيفة الصادق لجيمس",
+          "story": "كان جيمس يتغاضى عن الأشياء الصغيرة: قبضة رقائق هنا، قطعة بسكويت إضافية هناك. عندما بدأ بتدوين كل شيء في Calorie Bank Credit توقف عن الشعور بضرورة الكمال. رؤية الإدخالات الصغيرة تتراكم ساعدته على معرفة أوقات تناوله للوجبات الخفيفة — عادة في هبوط منتصف بعد الظهر أو أثناء أمسيات مشاهدة الأفلام. بدلاً من لوم نفسه، جرب تعديلات بسيطة وضبط التوقيت بما يناسب روتينه. التسجيل بصراحة منحَه قرارات أوضح ومفاجآت أقل خلال اليوم.",
+          "habit": "سجل كل وجبة خفيفة، حتى الصغيرة.",
+          "appCta": "أضف إدخالاتك في Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: James and the Honest Snack Log.\nStory: James used to skip tracking the small things: a handful of chips here, an extra cookie there. When he started noting everything in Calorie Bank Credit, he stopped feeling like he had to be perfect. Seeing the little entries added up helped him spot the times he reached for snacks—usually mid‑afternoon slump or during movie nights. Instead of blaming himself, he tested small swaps and timed snacks to fit his routine. Tracking honestly gave him clearer decisions and fewer surprises about how his day felt..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-04-motivation-3-story-3",
+      "category": "notice-patterns",
+      "languages": {
+        "en": {
+          "title": "Aisha’s Weekly Trend Check",
+          "story": "Aisha started a simple habit: every Sunday she reviews the past week in Calorie Bank Credit. She looks for patterns — days with low energy, evenings when she eats more, or breakfasts that keep her satisfied. Spotting one repeat moment, she experimented with a different morning routine and a slightly heartier breakfast on two days. Over time those small changes made midweek afternoons smoother. Reviewing trends became a calm weekend ritual that helped her make informed, low-pressure adjustments to her routine.",
+          "habit": "Review one weekly trend every Sunday.",
+          "appCta": "Check your week in Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "El chequeo semanal de Aisha",
+          "story": "Aisha empezó un hábito sencillo: cada domingo revisa la semana pasada en Calorie Bank Credit. Busca patrones: días con menos energía, noches en las que come más o desayunos que la mantienen satisfecha. Al detectar un momento recurrente, probó una rutina matinal distinta y un desayuno un poco más completo dos días seguidos. Con el tiempo esos pequeños cambios hicieron que las tardes de mitad de semana fueran más llevaderas. Revisar tendencias se volvió un ritual tranquilo que la ayuda a ajustar su rutina sin presión.",
+          "habit": "Revisa una tendencia semanal cada domingo.",
+          "appCta": "Consulta tu semana en Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Еженедельный обзор Айши",
+          "story": "Айша ввела простую привычку: каждое воскресенье она просматривает прошедшую неделю в Calorie Bank Credit. Она ищет закономерности — дни с низкой энергией, вечера с большими порциями, или завтраки, которые надолго насыщают. Найдя повторяющийся момент, она изменила утренний распорядок и съела более плотный завтрак пару дней. Со временем эти небольшие изменения сгладили послеполуденные провалы. Просмотр трендов стал спокойным воскресным ритуалом, который помогает ей вносить обдуманные небольшие коррективы.",
+          "habit": "Просматривайте одну еженедельную тенденцию по воскресеньям.",
+          "appCta": "Посмотрите свою неделю в Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Тижневий огляд Айші",
+          "story": "Айша завела просту звичку: щонеділі переглядає минулий тиждень у Calorie Bank Credit. Вона шукає закономірності — дні з низькою енергією, вечори з більшими порціями чи сніданки, що надовго насичують. Виявивши повторюваний момент, вона змінила ранковий ритуал і зробила більш ситний сніданок у два дні. З часом ці невеликі зміни зробили післяполуденні години легшими. Перегляд трендів став спокійним недільним ритуалом, що допомагає вносити обдумані, неквапливі корективи.",
+          "habit": "Щонеділі переглядайте одну тижневу тенденцію.",
+          "appCta": "Перевірте свій тиждень у Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Le bilan hebdomadaire d’Aisha",
+          "story": "Aisha a adopté une habitude simple : chaque dimanche, elle regarde sa semaine passée dans Calorie Bank Credit. Elle repère des tendances — des jours où elle manque d’énergie, des soirées où elle mange davantage, ou des petits‑déjeuners qui la tiennent. En identifiant un moment récurrent, elle a essayé une routine matinale différente et un petit‑déjeuner un peu plus consistant deux jours. Ces petits ajustements ont rendu ses après‑midis plus agréables. Le suivi des tendances est devenu un rituel calme du week‑end, utile pour ajuster sa routine sans pression.",
+          "habit": "Vérifiez une tendance hebdomadaire chaque dimanche.",
+          "appCta": "Consultez votre semaine dans Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Aishas Wochenrückblick",
+          "story": "Aisha fing an mit einer einfachen Gewohnheit: jeden Sonntag schaut sie sich die vergangene Woche in Calorie Bank Credit an. Sie sucht nach Mustern — Tage mit wenig Energie, Abende, an denen sie mehr isst, oder Frühstücke, die satt machen. Als sie ein wiederkehrendes Muster fand, probierte sie eine andere Morgenroutine und an zwei Tagen ein etwas nahrhafteres Frühstück. Mit der Zeit glätteten diese kleinen Änderungen ihre Nachmittage. Das Überprüfen der Trends wurde zu einem ruhigen Wochenendritual, mit dem sie unaufgeregt Anpassungen vornimmt.",
+          "habit": "Überprüfe jeden Sonntag einen wöchentlichen Trend.",
+          "appCta": "Schau dir deine Woche in Calorie Bank Credit an und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "A checagem semanal da Aisha",
+          "story": "Aisha criou um hábito simples: todo domingo ela revisa a semana anterior no Calorie Bank Credit. Ela procura padrões — dias com pouca energia, noites em que come mais, ou cafés da manhã que a mantêm satisfeita. Ao perceber um momento recorrente, experimentou uma rotina matinal diferente e um café da manhã um pouco mais reforçado em dois dias. Com o tempo, essas pequenas mudanças deixaram as tardes mais tranquilas. Revisar tendências virou um ritual sereno que ajuda a ajustar a rotina sem pressão.",
+          "habit": "Revise uma tendência semanal todo domingo.",
+          "appCta": "Confira sua semana no Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Aisha heti áttekintése",
+          "story": "Aisha egy egyszerű szokást vezetett be: minden vasárnap átnézi az előző hetet a Calorie Bank Creditben. Keresi a mintákat — mikor volt kevés az energiája, mely esték voltak nagyobb adagokkal, vagy mely reggelik tartották jóllakva. Egy ismétlődő helyzet észrevétele után kipróbált egy másik reggeli rutint és két napon egy kicsit laktatóbb reggelit. Idővel ezek a kis változtatások simábbá tették a kedd‑csütörtök délutánokat. A trendek átnézése nyugodt hétvégi rutinná vált, ami segített átgondolt, nyomásmentes módosításokat tenni.",
+          "habit": "Nézz át egy heti trendet minden vasárnap.",
+          "appCta": "Ellenőrizd a hetedet a Calorie Bank Creditben és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "مراجعة آيشا الأسبوعية للاتجاهات",
+          "story": "بدأت آيشا عادة بسيطة: كل يوم أحد تراجع الأسبوع الماضي في Calorie Bank Credit. تبحث عن أنماط — أيام انخفاض الطاقة، أمسيات تتناول فيها كميات أكبر، أو إفطارات تشعرها بالشبع لفترة أطول. بعد أن لاحظت نمطًا متكررًا، جربت روتينًا صباحيًا مختلفًا وإفطارًا أشبعها أكثر يومين. مع الوقت جعلت هذه التغييرات الصغيرة فترات منتصف الأسبوع أكثر سلاسة. أصبح مراجعة الاتجاهات طقسًا أسبوعيًا هادئًا يساعدها على إجراء تغييرات محسوبة دون ضغط.",
+          "habit": "راجع اتجاهًا واحدًا أسبوعيًا كل يوم أحد.",
+          "appCta": "اطّلع على أسبوعك في Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Aisha’s Weekly Trend Check.\nStory: Aisha started a simple habit: every Sunday she reviews the past week in Calorie Bank Credit. She looks for patterns — days with low energy, evenings when she eats more, or breakfasts that keep her satisfied. Spotting one repeat moment, she experimented with a different morning routine and a slightly heartier breakfast on two days. Over time those small changes made midweek afternoons smoother. Reviewing trends became a calm weekend ritual that helped her make informed, low-pressure adjustments to her routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-04-motivation-4-story-4",
+      "category": "small-adjustments",
+      "languages": {
+        "en": {
+          "title": "Lukas’s Tiny Swaps",
+          "story": "Lukas loves family dinners but noticed his favorite pasta nights left him sluggish. He started using Calorie Bank Credit to record meals and tried one tiny swap: lemon and herbs instead of a heavy cream sauce twice a week. He didn’t overhaul his cooking—just one small change. Over a month he felt a little lighter after meals and enjoyed more variety. The habit wasn’t about rigid rules, it was about trying a gentle tweak and noticing how it made him feel. Small swaps, small wins.",
+          "habit": "Try one small swap at a meal this week.",
+          "appCta": "Record the swap in Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Los pequeños cambios de Lukas",
+          "story": "A Lukas le encantan las cenas familiares, pero notó que sus noches de pasta le dejaban pesado. Empezó a registrar las comidas en Calorie Bank Credit y probó un pequeño cambio: limón y hierbas en lugar de una salsa cremosa, dos veces por semana. No cambió toda su cocina, solo un detalle. En un mes se sintió algo más ligero tras las comidas y disfrutó de más variedad. La idea no fue imponer reglas estrictas, sino probar un ajuste suave y ver cómo le sentaba. Pequeños cambios, pequeñas victorias.",
+          "habit": "Prueba un pequeño cambio en una comida esta semana.",
+          "appCta": "Registra el cambio en Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Небольшие изменения Лукаса",
+          "story": "Лукас любит семейные ужины, но заметил, что его любимая паста делает его вялым. Он стал фиксировать блюда в Calorie Bank Credit и попробовал небольшой ход: дважды в неделю лимон и зелень вместо плотного сливочного соуса. Он не менял всю кухню — только маленькое дополнение. Через месяц он стал чувствовать себя легче после еды и получил больше разнообразия. Суть не в строгих правилах, а в мягком эксперименте и наблюдении за самочувствием. Маленькие замены — маленькие победы.",
+          "habit": "Попробуйте одну небольшую замену за прием пищи на этой неделе.",
+          "appCta": "Запишите замену в Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Маленькі заміни Лукаса",
+          "story": "Лукас любить сімейні вечері, але помітив, що його улюблена паста робить його втомленим. Він почав записувати страви в Calorie Bank Credit і спробував невелике рішення: двічі на тиждень лимон та трави замість важкого вершкового соусу. Він не міняв всю кухню — лише маленьку деталь. Через місяць він почав почуватися легше після їжі і насолоджувався більшою різноманітністю. Суть не в суворих правилах, а в делікатному експерименті та спостереженні за відчуттями. Маленькі заміни, маленькі перемоги.",
+          "habit": "Спробуйте одну маленьку заміну за їжу цього тижня.",
+          "appCta": "Занотуйте заміну в Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Les petits changements de Lukas",
+          "story": "Lukas aime les dîners en famille, mais il a remarqué que ses soirées pâtes le rendaient un peu lourd. Il a commencé à enregistrer ses repas dans Calorie Bank Credit et a testé une petite modification : deux fois par semaine, citron et herbes au lieu d’une sauce crème épaisse. Il n’a pas tout changé dans sa cuisine — juste un détail. Au bout d’un mois, il se sentait un peu plus léger après les repas et appréciait plus de variété. L’essentiel n’est pas la règle stricte, mais l’exploration douce et l’observation des effets. Petits changements, petites victoires.",
+          "habit": "Essayez une petite substitution à un repas cette semaine.",
+          "appCta": "Enregistrez la substitution dans Calorie Bank Credit et commencez à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Lukas’ kleine Anpassungen",
+          "story": "Lukas liebt Familienessen, merkte aber, dass ihm seine Pasta‑Abende schwer im Magen lagen. Er begann, Mahlzeiten in Calorie Bank Credit zu protokollieren, und probierte einen kleinen Wechsel: zweimal pro Woche Zitrone und Kräuter statt einer schweren Sahnesauce. Seine Küche veränderte er nicht komplett — nur eine kleine Anpassung. Nach einem Monat fühlte er sich nach den Mahlzeiten etwas leichter und genoss mehr Abwechslung. Es geht nicht um strenge Regeln, sondern um sanftes Ausprobieren und Beobachten, wie es einem bekommt. Kleine Änderungen, kleine Erfolge.",
+          "habit": "Versuche diese Woche einen kleinen Tausch bei einer Mahlzeit.",
+          "appCta": "Notiere den Wechsel in Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "As pequenas trocas do Lukas",
+          "story": "Lukas adora jantares em família, mas percebeu que as noites de macarrão o deixavam lento. Ele começou a registrar as refeições no Calorie Bank Credit e fez uma pequena troca: limão e ervas no lugar de um molho cremoso pesado duas vezes por semana. Não mudou toda a cozinha — só um detalhe. Em um mês sentiu‑se mais leve após as refeições e gostou de mais variedade. Não se trata de regras rígidas, e sim de testar uma mudança suave e observar como se sente. Pequenas trocas, pequenas vitórias.",
+          "habit": "Faça uma pequena troca em uma refeição esta semana.",
+          "appCta": "Registre a troca no Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Lukas apró cseréi",
+          "story": "Lukast imádja a családi vacsorákat, de észrevette, hogy a kedvenc tésztaestjei után levertnek érzi magát. Elkezdte rögzíteni az ételeket a Calorie Bank Creditben, és kipróbált egy apró cserét: hetente kétszer citromot és fűszernövényeket a nehéz tejszínes szóssz helyett. Nem változtatta meg a teljes konyháját — csak egy kis részletet. Egy hónap alatt könnyebbnek érezte magát étkezés után, és több változatosságot élvezett. Nem szigorú szabályokról van szó, hanem egy gyengéd kísérletről és az érzések megfigyeléséről. Apró cserék, apró sikerek.",
+          "habit": "Próbálj ki egy apró cserét egy étkezésnél ezen a héten.",
+          "appCta": "Jegyezd fel a cserét a Calorie Bank Creditben és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "التغييرات الصغيرة لدى لوكاس",
+          "story": "يحب لوكاس عشاء العائلة لكنه لاحظ أن أمسيات المعكرونة تُشعره بالخمول. بدأ بتسجيل الوجبات في Calorie Bank Credit وجرب تغييرًا بسيطًا: الليمون والأعشاب بدلًا من صلصة كريمية ثقيلة مرتين أسبوعيًا. لم يغيّر مطبخه بأكمله — بل تغيير صغير واحد. بعد شهر شعر بخفة أكثر بعد الوجبات واستمتع بتنوع أكبر. الفكرة ليست قواعد صارمة، بل تجربة لطيفة وملاحظة كيف يشعر. تغييرات صغيرة، انتصارات صغيرة.",
+          "habit": "جرب تبديلًا صغيرًا في إحدى الوجبات هذا الأسبوع.",
+          "appCta": "سجّل التبديل في Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-04T14:51:20.810Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-04-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Lukas’s Tiny Swaps.\nStory: Lukas loves family dinners but noticed his favorite pasta nights left him sluggish. He started using Calorie Bank Credit to record meals and tried one tiny swap: lemon and herbs instead of a heavy cream sauce twice a week. He didn’t overhaul his cooking—just one small change. Over a month he felt a little lighter after meals and enjoyed more variety. The habit wasn’t about rigid rules, it was about trying a gentle tweak and noticing how it made him feel. Small swaps, small wins..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-03-motivation-1-s1",
       "category": "calorie_tracking",
