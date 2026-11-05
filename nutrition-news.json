@@ -1,8 +1,820 @@
 {
-  "generatedAt": "2026-11-04T14:51:20.810Z",
+  "generatedAt": "2026-11-05T14:57:33.252Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "mammograms-can-do-more-than-detect-breast-cancer-they-also-offer--145a13e361c9",
+      "category": "cardiovascular imaging / prevention",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/mammograms-can-do-more-than-detect-breast-cancer-they-also-offer-important-clues-on-heart-health-294073",
+      "sourceTitle": "Mammograms can do more than detect breast cancer – they also offer important clues on heart health",
+      "publishedAt": "2026-11-05T13:26:33Z",
+      "languages": {
+        "en": {
+          "title": "Arterial calcium seen on mammograms may provide clues to cardiovascular risk",
+          "summary": "This Conversation piece notes that calcium deposits seen on mammograms — typically used for breast cancer screening — can also indicate arterial calcification and prompt cardiovascular health checks. The article frames such imaging findings as a potential nudge for further heart-health assessment.",
+          "whyItMatters": "Repurposing routinely acquired imaging to flag possible cardiovascular risk could improve early detection opportunities without extra tests. However, mammogram-detected calcification is an imaging marker and requires appropriate clinical follow-up to assess individual risk.",
+          "takeaways": [
+            "Calcified arteries can sometimes be visible on mammograms and may warrant cardiovascular follow-up when present.",
+            "This is an observational imaging cue, not a diagnostic test for heart disease by itself.",
+            "Using existing scans to identify other health risks could be efficient, but pathways for referral and clear thresholds are needed.",
+            "Patients with concerns should discuss imaging findings with their clinicians rather than making treatment decisions based on the article alone."
+          ]
+        },
+        "es": {
+          "title": "El calcio arterial visto en mamografías puede ofrecer pistas sobre el riesgo cardiovascular",
+          "summary": "Esta pieza de The Conversation señala que depósitos de calcio visibles en mamografías —normalmente utilizadas para la detección del cáncer de mama— también pueden indicar calcificación arterial y motivar evaluaciones de salud cardiovascular. El artículo plantea que tales hallazgos en imágenes pueden servir como un estímulo para un seguimiento cardiológico adicional.",
+          "whyItMatters": "Reutilizar imágenes obtenidas de forma rutinaria para señalar riesgo cardiovascular potencial podría mejorar las oportunidades de detección temprana sin pruebas adicionales. Sin embargo, la calcificación detectada en mamografías es un marcador de imagen y requiere seguimiento clínico apropiado para evaluar el riesgo individual.",
+          "takeaways": [
+            "A veces pueden verse arterias calcificadas en mamografías y, cuando están presentes, podrían justificar un seguimiento cardiovascular.",
+            "Esto es una pista observacional por imagen, no una prueba diagnóstica de enfermedad cardíaca por sí misma.",
+            "Usar escáneres existentes para identificar otros riesgos para la salud puede ser eficiente, pero hacen falta vías de derivación y umbrales claros.",
+            "Pacientes con inquietudes deberían hablar de los hallazgos de imagen con sus médicos en lugar de tomar decisiones terapéuticas basadas solo en el artículo."
+          ]
+        },
+        "ru": {
+          "title": "Кальцинаты артерий, заметные на маммограммах, могут дать подсказки о сердечно-сосудистом риске",
+          "summary": "Материал в The Conversation отмечает, что отложения кальция, видимые на маммограммах — обычно используемых для скрининга рака молочной железы — также могут указывать на артериальную кальцификацию и послужить поводом для проверки сердечно-сосудистого статуса. Авторы рассматривают такие находки на изображениях как возможный стимул для дальнейшей оценки здоровья сердца.",
+          "whyItMatters": "Повторное использование рутинно получаемых изображений для выявления потенциального сердечно-сосудистого риска может улучшить раннее обнаружение без дополнительных тестов. Однако кальцификация, обнаруженная на маммограмме, является маркером на изображении и требует соответствующего клинического последующего обследования для оценки индивидуального риска.",
+          "takeaways": [
+            "Иногда кальцинированные артерии видны на маммограммах и при их наличии может потребоваться кардиологическое наблюдение.",
+            "Это наблюдательная подсказка на изображении, а не самостоятельный диагностический тест на сердечные заболевания.",
+            "Использование имеющихся сканов для выявления других рисков может быть эффективным, но необходимы маршруты направления и чёткие пороговые значения.",
+            "Пациентам с беспокойством следует обсуждать находки визуализации с лечащими врачами, а не принимать решения о лечении только на основе статьи."
+          ]
+        },
+        "uk": {
+          "title": "Кальцинати артерій, помітні на мамограмах, можуть давати підказки про серцево‑судинний ризик",
+          "summary": "У матеріалі The Conversation зазначається, що відкладення кальцію, помітні на мамограмах — які зазвичай використовують для скринінгу раку молочної залози — також можуть вказувати на артеріальну кальцифікацію і стимулювати серцево‑судинні перевірки. Статтю подано як можливий поштовх до подальшої оцінки серцево‑судинного здоров’я.",
+          "whyItMatters": "Переосмислення рутинних зображень для виявлення потенційного серцево‑судинного ризику може покращити раннє виявлення без додаткових тестів. Однак кальцифікація, виявлена на мамограмі, є маркером зображення і потребує належного клінічного дообстеження для оцінки індивідуального ризику.",
+          "takeaways": [
+            "Іноді кальциновані артерії можна побачити на мамограмах, і при їх наявності може бути доцільним серцево‑судинне дообстеження.",
+            "Це спостережливий підказковий маркер зображення, а не самостійний діагностичний тест на хвороби серця.",
+            "Використання наявних сканів для ідентифікації інших ризиків для здоров’я може бути ефективним, але потрібні маршрути для направлення та чіткі пороги.",
+            "Пацієнтки, які мають занепокоєння, повинні обговорити результати зображення зі своїм лікарем, а не ухвалювати рішення про лікування на підставі статті."
+          ]
+        },
+        "fr": {
+          "title": "Le calcium artériel visible sur une mammographie peut apporter des indices sur le risque cardiovasculaire",
+          "summary": "Cet article de The Conversation note que des dépôts de calcium visibles sur des mammographies — utilisées principalement pour le dépistage du cancer du sein — peuvent aussi indiquer une calcification artérielle et inciter à des bilans cardiovasculaires. L’article présente ces constatations d’imagerie comme une incitation possible à une évaluation complémentaire de la santé cardiaque.",
+          "whyItMatters": "Réutiliser des images acquises de façon routinière pour signaler un risque cardiovasculaire potentiel pourrait améliorer les opportunités de détection précoce sans examens supplémentaires. Toutefois, la calcification détectée sur une mammographie est un marqueur d’imagerie et requiert un suivi clinique approprié pour évaluer le risque individuel.",
+          "takeaways": [
+            "Des artères calcifiées peuvent parfois être visibles sur des mammographies et peuvent justifier un suivi cardiovasculaire lorsqu’elles sont observées.",
+            "Il s’agit d’un indice d’imagerie observationnel, et non d’un test diagnostique de la maladie cardiaque en soi.",
+            "Utiliser des examens existants pour identifier d’autres risques pour la santé peut être efficace, mais des parcours de référencement et des seuils clairs sont nécessaires.",
+            "Les patientes inquiètes devraient discuter des résultats d’imagerie avec leur clinicien·ne plutôt que de prendre des décisions thérapeutiques sur la seule base de l’article."
+          ]
+        },
+        "de": {
+          "title": "Arterielle Kalkablagerungen auf Mammogrammen können Hinweise auf kardiovaskuläres Risiko liefern",
+          "summary": "Dieser Conversation‑Beitrag weist darauf hin, dass auf Mammogrammen sichtbare Kalziumablagerungen — üblicherweise zur Brustkrebs‑Screening verwendet — auch arterielle Verkalkung anzeigen und zu kardiovaskulären Untersuchungen anregen können. Der Artikel stellt solche Bildbefunde als möglichen Auslöser für weitergehende Herzgesundheitsprüfungen dar.",
+          "whyItMatters": "Die Nutzung routinemäßig erhobener Bildgebung zur Erkennung möglichen kardiovaskulären Risikos könnte frühe Erkennungs‑Chancen verbessern, ohne zusätzliche Tests. Mammographisch nachgewiesene Verkalkungen sind jedoch ein Bildmarker und benötigen eine geeignete klinische Nachverfolgung, um das individuelle Risiko zu bewerten.",
+          "takeaways": [
+            "Verkalkte Arterien können manchmal auf Mammogrammen sichtbar sein und bei Vorliegen eine kardiovaskuläre Nachverfolgung rechtfertigen.",
+            "Dies ist ein beobachtbarer Bildhinweis, kein eigenständiger diagnostischer Test für Herzkrankheiten.",
+            "Die Nutzung vorhandener Aufnahmen zur Identifizierung anderer Gesundheitsrisiken könnte effizient sein, aber es werden klare Überweisungswege und Schwellenwerte benötigt.",
+            "Patientinnen mit Bedenken sollten Befunde mit ihren Ärztinnen und Ärzten besprechen, statt allein auf Grundlage des Artikels Behandlungsentscheidungen zu treffen."
+          ]
+        },
+        "pt-br": {
+          "title": "Cálcio arterial observado em mamografias pode fornecer pistas sobre risco cardiovascular",
+          "summary": "Esta matéria da The Conversation observa que depósitos de cálcio vistos em mamografias — tipicamente usadas para rastreamento do câncer de mama — também podem indicar calcificação arterial e levar a checagens da saúde cardiovascular. O artigo apresenta esses achados de imagem como um estímulo potencial para avaliação adicional do coração.",
+          "whyItMatters": "Reaproveitar imagens rotineiras para sinalizar possível risco cardiovascular pode melhorar oportunidades de detecção precoce sem testes extras. Contudo, a calcificação detectada na mamografia é um marcador de imagem e requer acompanhamento clínico apropriado para avaliar o risco individual.",
+          "takeaways": [
+            "Artérias calcificadas às vezes podem ser visíveis em mamografias e, quando presentes, podem justificar acompanhamento cardiovascular.",
+            "Isto é uma pista observacional de imagem, não um teste diagnóstico para doença cardíaca por si só.",
+            "Usar exames existentes para identificar outros riscos de saúde pode ser eficiente, mas são necessários caminhos de encaminhamento e limiares claros.",
+            "Pacientes com preocupações devem discutir os achados de imagem com seus clínicos em vez de tomar decisões de tratamento baseadas apenas no artigo."
+          ]
+        },
+        "hu": {
+          "title": "Arteriális kalcium a mammográfián: nyom lehet a kardiovaszkuláris kockázatra",
+          "summary": "A The Conversation írása megjegyzi, hogy a mammográfián látható kalciumlerakódások — amelyeket tipikusan emlőrák-szűrésre használnak — utalhatnak artériás meszesedésre és ösztönözhetnek kardiovaszkuláris kivizsgálást. A cikk azt vázolja, hogy az ilyen képalkotó jelek potenciálisan további szív-egészségügyi értékelésre serkenthetnek.",
+          "whyItMatters": "A rutinszerűen készített képalkotás újrafelhasználása a lehetséges kardiovaszkuláris kockázat jelzésére javíthatná a korai felismerés lehetőségeit további vizsgálatok nélkül. Ugyanakkor a mammográfián észlelt meszesedés csak képalkotó jel; egyedi kockázat értékeléséhez megfelelő klinikai követésre van szükség.",
+          "takeaways": [
+            "A mammográfián néha láthatók meszesedések az artériákon, és jelenlétük esetén kardiovaszkuláris követés indokoltnak tűnhet.",
+            "Ez megfigyelésen alapuló képalkotó jel, önmagában nem diagnosztikus teszt a szívbetegségre.",
+            "A meglévő vizsgálatok más egészségügyi kockázatok azonosítására történő használata hatékony lehet, de szükség van irányokra a továbbküldésre és egyértelmű küszöbökre.",
+            "A betegeknek, akik aggódnak, a képalkotási eredményekről orvosaikkal kell beszélniük, nem szabad csak a cikk alapján kezelési döntéseket hozniuk."
+          ]
+        },
+        "ar": {
+          "title": "الكالسيوم الشرياني المرصود في صور الماموغرام قد يقدم دلائل على مخاطر القلب",
+          "summary": "يشير مقال في The Conversation إلى أن الترسبات الكلسية الظاهرة في الماموغرام — التي تُستخدم عادةً لفحص سرطان الثدي — قد تدل أيضًا على تكلس الشرايين وتدفع لإجراء فحوصات لصحة القلب. يعرض المقال هذه النتائج التصويرية كمحفز محتمل لمزيد من تقييم صحة القلب.",
+          "whyItMatters": "إعادة استخدام الصور المألوفة لكشف مخاطر القلب المحتملة قد يحسّن فرص الكشف المبكر دون اختبارات إضافية. ومع ذلك، فإن تكلسًا يُكتشف في الماموغرام يعد علامة تصويرية ويتطلب متابعة سريرية مناسبة لتقييم المخاطر الفردية.",
+          "takeaways": [
+            "قد تُرى شرايين متكلسة أحيانًا في الماموغرام وقد تستدعي متابعة قلبية عندما تكون موجودة.",
+            "هذا دليل تصويري رصدي، وليس اختبارًا تشخيصيًا لمرض القلب بحد ذاته.",
+            "قد تكون استخدامات الصور الحالية لتحديد مخاطر صحية أخرى فعّالة، لكن هناك حاجة لمسارات إحالة ومعايير واضحة.",
+            "يجب على المرضى الذين لديهم مخاوف مناقشة نتائج التصوير مع أطبائهم بدلًا من اتخاذ قرارات علاجية استنادًا إلى المقال وحده."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mammograms-can-do-more-than-detect-breast-cancer-they-also-offer--145a13e361c9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mammograms-can-do-more-than-detect-breast-cancer-they-also-offer-145a13e361c9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mammograms-can-do-more-than-detect-breast-cancer-they-also-offer-145a13e361c9-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Arterial calcium seen on mammograms may provide clues to cardiovascular risk.\nStory summary: This Conversation piece notes that calcium deposits seen on mammograms — typically used for breast cancer screening — can also indicate arterial calcification and prompt cardiovascular health checks. The article frames such imaging findings as a potential nudge for further heart-health assessment..\nCategory: cardiovascular imaging / prevention.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "hot-homes-cause-heart-strain-in-older-australians-2557849908de",
+      "category": "cardiovascular health & environment",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-hot-homes-heart-strain-older.html",
+      "sourceTitle": "Hot homes cause heart strain in older Australians",
+      "publishedAt": "Thu, 05 Nov 2026 07:30:01 EST",
+      "languages": {
+        "en": {
+          "title": "Study from Griffith University warns indoor temperatures above 26°C can strain older adults' hearts",
+          "summary": "Griffith University researchers report that indoor temperatures exceeding about 26°C (79°F) can impose significant cardiovascular strain on older Australians. The finding is presented as a timely reminder ahead of summer about the health risks posed by hot, humid indoor conditions for older people.",
+          "whyItMatters": "Rising heat exposures indoors can increase cardiovascular stress among vulnerable older adults. Identifying temperature thresholds linked to strain helps target public-health messaging and home interventions, but the report described here does not provide clinical guidelines.",
+          "takeaways": [
+            "Researchers highlight cardiovascular strain in older adults when indoor temperatures rise above approximately 26°C (79°F).",
+            "The work underscores heat as a modifiable environmental risk that may exacerbate heart stress in older populations.",
+            "Translation into practice (policy, home cooling interventions) requires careful consideration of equity, feasibility, and local climate.",
+            "The report is a research-based warning, not a substitute for individual medical advice for people with heart disease."
+          ]
+        },
+        "es": {
+          "title": "Estudio de Griffith University advierte que temperaturas interiores superiores a 26°C pueden tensionar el corazón de adultos mayores",
+          "summary": "Investigadores de Griffith University informan que temperaturas interiores que superan aproximadamente los 26°C (79°F) pueden imponer una carga cardiovascular significativa en adultos mayores en Australia. El hallazgo se presenta como un recordatorio oportuno antes del verano sobre los riesgos para la salud que suponen las condiciones interiores cálidas y húmedas en personas mayores.",
+          "whyItMatters": "El aumento de la exposición al calor en interiores puede incrementar el estrés cardiovascular en adultos mayores vulnerables. Identificar umbrales de temperatura asociados a tensión ayuda a orientar mensajes de salud pública e intervenciones en el hogar, pero el informe aquí descrito no proporciona guías clínicas.",
+          "takeaways": [
+            "Los investigadores resaltan tensión cardiovascular en adultos mayores cuando la temperatura interior sube por encima de aproximadamente 26°C (79°F).",
+            "El trabajo subraya el calor como un riesgo ambiental modificable que puede agravar la carga cardíaca en poblaciones mayores.",
+            "La traducción a la práctica (políticas, intervenciones de enfriamiento en el hogar) requiere considerar la equidad, la viabilidad y el clima local.",
+            "El informe es una advertencia basada en investigación, no un sustituto del consejo médico individual para personas con enfermedades cardíacas."
+          ]
+        },
+        "ru": {
+          "title": "Исследование Griffith University предупреждает, что температура в помещении выше 26°C может нагружать сердце пожилых людей",
+          "summary": "Исследователи из Griffith University сообщают, что температура в помещении, превышающая примерно 26°C (79°F), может создавать значительную кардиоваскулярную нагрузку у пожилых австралийцев. Результат приведён как своевременное напоминание перед летом о рисках для здоровья, связанных с тёплыми и влажными условиями в домах для пожилых людей.",
+          "whyItMatters": "Рост воздействия тепла в помещениях может увеличивать кардиоваскулярный стресс у уязвимых пожилых людей. Выявление температурных порогов, связанных с нагрузкой, помогает нацеливать сообщения общественного здравоохранения и меры в домах, но указанный отчёт не даёт клинических рекомендаций.",
+          "takeaways": [
+            "Исследователи отмечают кардиоваскулярную нагрузку у пожилых людей при повышении температуры в помещении выше примерно 26°C (79°F).",
+            "Работа подчёркивает тепло как модифицируемый фактор окружающей среды, который может усилить сердечную нагрузку в пожилых популяциях.",
+            "Для внедрения в практику (политики, меры по охлаждению жилья) требуется учёт справедливости, реализуемости и местного климата.",
+            "Отчёт является предупреждением на основе исследования, а не заменой индивидуальных медицинских рекомендаций для людей с сердечными заболеваниями."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження університету Гріффіта попереджає, що температура в приміщенні понад ~26°C може створювати навантаження на серце літніх людей",
+          "summary": "Дослідники з Griffith University повідомляють, що внутрішня температура, що перевищує приблизно 26°C (79°F), може спричиняти суттєве серцево‑судинне навантаження на літніх австралійців. Це подається як своєчасне нагадування напередодні літа про ризики, пов’язані з гарячими і вологими умовами в приміщеннях для людей похилого віку.",
+          "whyItMatters": "Зростання експозицій тепла в приміщеннях може підвищувати серцево‑судинний стрес у вразливих літніх людей. Виявлення порогів температур, пов’язаних із навантаженням, допомагає націлювати суспільне інформування та домашні інтервенції, але цей звіт не містить клінічних рекомендацій.",
+          "takeaways": [
+            "Дослідники відзначають серцево‑судинне навантаження у людей похилого віку, коли температура в приміщенні піднімається вище приблизно 26°C (79°F).",
+            "Робота підкреслює тепло як змінюваний екологічний ризик, який може посилювати серцеве навантаження в старших групах.",
+            "Перетворення цих результатів на практику (політика, охолодження в помешканнях) вимагатиме уваги до питань справедливості, здійсненності та місцевого клімату.",
+            "Це дослідницьке попередження, а не заміна індивідуальної медичної поради для людей з серцевими захворюваннями."
+          ]
+        },
+        "fr": {
+          "title": "Une étude de l’université Griffith alerte que des températures intérieures au‑delà d’environ 26 °C peuvent solliciter le cœur des personnes âgées",
+          "summary": "Des chercheurs de Griffith University rapportent que des températures intérieures dépassant environ 26 °C (79 °F) peuvent imposer une sollicitation cardiovasculaire significative aux personnes âgées en Australie. Le constat est présenté comme un rappel opportun avant l’été concernant les risques pour la santé liés à des conditions intérieures chaudes et humides chez les personnes âgées.",
+          "whyItMatters": "Une exposition accrue à la chaleur à l’intérieur peut augmenter le stress cardiovasculaire chez des personnes âgées vulnérables. Identifier des seuils de température associés à une sollicitation aide à cibler les messages de santé publique et les interventions à domicile, mais le rapport ne fournit pas de directives cliniques.",
+          "takeaways": [
+            "Les chercheurs mettent en évidence une sollicitation cardiovasculaire chez les personnes âgées lorsque la température intérieure dépasse environ 26 °C (79 °F).",
+            "Le travail souligne la chaleur comme un risque environnemental modifiable pouvant aggraver la charge cardiaque chez les populations âgées.",
+            "La traduction en pratique (politiques, interventions de refroidissement à domicile) nécessite de prendre en compte l’équité, la faisabilité et le climat local.",
+            "Le rapport constitue un avertissement basé sur la recherche, et ne remplace pas un avis médical individuel pour les personnes atteintes de maladies cardiaques."
+          ]
+        },
+        "de": {
+          "title": "Studie der Griffith University warnt: Raumtemperaturen über 26°C können bei älteren Menschen Herzbelastung verursachen",
+          "summary": "Forscher der Griffith University berichten, dass Raumtemperaturen deutlich über etwa 26°C (79°F) bei älteren Australiern eine signifikante kardiovaskuläre Belastung verursachen können. Die Erkenntnis wird als Erinnerung vor dem Sommer präsentiert, dass heiße, feuchte Innenräume für ältere Menschen Gesundheitsrisiken bergen können.",
+          "whyItMatters": "Steigende Hitzeexpositionen in Innenräumen können die kardiovaskuläre Belastung bei gefährdeten älteren Personen erhöhen. Die Identifikation von Temperaturschwellen, die mit Belastung verbunden sind, kann helfen, öffentlich‑gesundheitliche Botschaften und häusliche Maßnahmen zu fokussieren, aber der hier beschriebene Bericht liefert keine klinischen Leitlinien.",
+          "takeaways": [
+            "Die Forschenden heben hervor, dass bei älteren Erwachsenen kardiovaskuläre Belastung auftreten kann, wenn die Raumtemperatur auf etwa 26°C (79°F) oder mehr steigt.",
+            "Die Arbeit unterstreicht Hitze als modifizierbaren Umweltfaktor, der die Herzbelastung in älteren Bevölkerungsgruppen verschlimmern kann.",
+            "Die Übertragung in die Praxis (Politik, häusliche Kühlmaßnahmen) erfordert sorgfältige Abwägung von Gerechtigkeit, Umsetzbarkeit und lokalem Klima.",
+            "Der Bericht ist eine forschungsbasierte Warnung und ersetzt nicht die individuelle medizinische Beratung für Menschen mit Herzerkrankungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo da Griffith University alerta que temperaturas internas acima de 26°C podem sobrecarregar o coração de idosos",
+          "summary": "Pesquisadores da Griffith University relatam que temperaturas internas superiores a cerca de 26°C (79°F) podem impor tensão cardiovascular significativa a idosos australianos. O achado é apresentado como um lembrete oportuno antes do verão sobre os riscos à saúde causados por ambientes internos quentes e úmidos para pessoas mais velhas.",
+          "whyItMatters": "A exposição crescente ao calor em ambientes internos pode aumentar o estresse cardiovascular entre idosos vulneráveis. Identificar limiares de temperatura associados à sobrecarga ajuda a direcionar mensagens de saúde pública e intervenções domésticas, mas o relatório aqui descrito não fornece diretrizes clínicas.",
+          "takeaways": [
+            "Os pesquisadores destacam tensão cardiovascular em idosos quando a temperatura interna ultrapassa aproximadamente 26°C (79°F).",
+            "O trabalho ressalta o calor como um risco ambiental modificável que pode agravar o estresse cardíaco em populações mais velhas.",
+            "A tradução para a prática (políticas, intervenções de resfriamento doméstico) requer consideração cuidadosa de equidade, viabilidade e clima local.",
+            "O relatório é um alerta baseado em pesquisa, não substitui aconselhamento médico individual para pessoas com doença cardíaca."
+          ]
+        },
+        "hu": {
+          "title": "A Griffith Egyetem tanulmánya figyelmeztet: 26°C feletti beltéri hőmérséklet megterhelheti az idős felnőttek szívét",
+          "summary": "A Griffith Egyetem kutatói arról számolnak be, hogy a beltéri hőmérséklet körülbelül 26°C (79°F) fölé emelkedve jelentős kardiovaszkuláris terhelést okozhat az idős ausztráloknál. Az eredményt nyári időszak előtti figyelmeztetésként mutatják be a forró, párás beltéri körülmények által jelentett egészségkockázatok miatt az idősebbekre nézve.",
+          "whyItMatters": "A növekvő hőterhelés beltéren fokozhatja a kardiovaszkuláris stresszt a sérülékeny, idős felnőttek körében. A terheléssel összefüggő hőmérsékleti küszöbök azonosítása segíthet a közegészségügyi üzenetek és otthoni beavatkozások célzásában, de a leírt jelentés nem ad klinikai útmutatást.",
+          "takeaways": [
+            "A kutatók hangsúlyozzák a kardiovaszkuláris terhelést idős felnőttek esetén, amikor a beltéri hőmérséklet megközelíti vagy meghaladja a hozzávetőleg 26°C-ot (79°F).",
+            "A munka rámutat, hogy a hő mint módosítható környezeti kockázat fokozhatja a szívre nehezedő stresszt az idősebb populációkban.",
+            "A gyakorlati átültetés (politika, otthoni hűtési beavatkozások) igazságossági, megvalósíthatósági és helyi éghajlati szempontokat igényel.",
+            "A jelentés kutatásalapú figyelmeztetés; nem helyettesíti az egyéni orvosi tanácsot szívbetegségben szenvedők számára."
+          ]
+        },
+        "ar": {
+          "title": "دراسة من جامعة Griffith تحذر: درجات حرارة داخلية فوق 26°C يمكن أن تُجهد قلوب كبار السن",
+          "summary": "يبلغ باحثو جامعة Griffith أن درجات الحرارة الداخلية التي تتجاوز حوالي 26°C (79°F) قد تفرض إجهادًا قلبيًا كبيرًا على كبار السن في أستراليا. تُعرض النتيجة كتذكير ملائم قبل الصيف حول مخاطر الظروف الداخلية الحارة والرطبة على صحة المسنين.",
+          "whyItMatters": "قد تزيد التعرضات الحرارية المتزايدة داخل المنازل من الضغط القلبي الوعائي لدى كبار السن الضعفاء. يساعد تحديد حدود درجات الحرارة المرتبطة بالإجهاد على توجيه رسائل الصحة العامة وتدخلات المنازل، لكن التقرير الوارد هنا لا يقدم إرشادات سريرية.",
+          "takeaways": [
+            "يبرز الباحثون وجود إجهاد قلبي وعائي لدى كبار السن عندما ترتفع درجة الحرارة الداخلية إلى نحو 26°C (79°F) أو أكثر.",
+            "تُبرز الدراسة أن الحرارة عامل بيئي قابل للتعديل قد يزيد من ضغط القلب لدى فئات سكانية مسنة.",
+            "يتطلب تحويل النتائج إلى ممارسات (سياسات، تدخلات تبريد منزلي) مراعاة العدالة، وإمكانية التطبيق، والمناخ المحلي.",
+            "التقرير تحذيري مستند إلى البحث، وليس بديلاً عن المشورة الطبية الشخصية للأشخاص ذوي أمراض القلب."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=hot-homes-cause-heart-strain-in-older-australians-2557849908de",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hot-homes-cause-heart-strain-in-older-australians-2557849908de-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hot-homes-cause-heart-strain-in-older-australians-2557849908de-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study from Griffith University warns indoor temperatures above 26°C can strain older adults' hearts.\nStory summary: Griffith University researchers report that indoor temperatures exceeding about 26°C (79°F) can impose significant cardiovascular strain on older Australians. The finding is presented as a timely reminder ahead of summer about the health risks posed by hot, humid indoor conditions for older people..\nCategory: cardiovascular health & environment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "scientists-solve-30-year-old-mystery-and-discover-a-hidden-defens-28e0aeb350fc",
+      "category": "immunology & inflammation (basic research)",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+      "sourceTitle": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+      "publishedAt": "Thu, 05 Nov 2026 06:05:46 EST",
+      "languages": {
+        "en": {
+          "title": "Researchers identify a previously unknown cellular defense that limits harm from inflammation",
+          "summary": "ScienceDaily reports that scientists have solved a longstanding question by uncovering a hidden immune-system defense that protects healthy cells from collateral damage during inflammation. The discovery is suggested to have potential relevance for cancer, inflammatory bowel disease and other inflammation-related conditions.",
+          "whyItMatters": "Uncovering fundamental mechanisms that limit inflammation could point to new therapeutic strategies for diseases where excessive inflammation causes damage. The work is described as a scientific discovery; translational impact will depend on follow-up studies and validation.",
+          "takeaways": [
+            "The study reports a basic-science discovery of a cellular mechanism that shields healthy cells during inflammatory responses.",
+            "Authors and reporters frame potential applications in cancer and inflammatory diseases, but clinical translation is speculative at this stage.",
+            "Further research is needed to replicate findings, understand mechanisms across tissues, and assess therapeutic feasibility.",
+            "News summaries of basic discoveries highlight promise but do not equate to available treatments."
+          ]
+        },
+        "es": {
+          "title": "Investigadores identifican una defensa celular hasta ahora desconocida que limita el daño por la inflamación",
+          "summary": "ScienceDaily informa que científicos han resuelto una pregunta de larga data al descubrir una defensa del sistema inmunitario que protege a las células sanas del daño colateral durante la inflamación. El hallazgo se sugiere que podría tener relevancia potencial para el cáncer, la enfermedad inflamatoria intestinal y otras afecciones relacionadas con la inflamación.",
+          "whyItMatters": "Descubrir mecanismos fundamentales que limitan la inflamación podría señalar nuevas estrategias terapéuticas para enfermedades en las que la inflamación excesiva causa daño. El trabajo se presenta como un descubrimiento científico; el impacto traslacional dependerá de estudios y validaciones posteriores.",
+          "takeaways": [
+            "El estudio reporta un descubrimiento de ciencias básicas: un mecanismo celular que protege las células sanas durante respuestas inflamatorias.",
+            "Autores y reporteros sitúan posibles aplicaciones en cáncer y enfermedades inflamatorias, pero la traducción clínica es especulativa en esta etapa.",
+            "Se necesita más investigación para replicar los hallazgos, entender los mecanismos en distintos tejidos y evaluar la viabilidad terapéutica.",
+            "Los resúmenes mediáticos de descubrimientos básicos destacan promesa, pero no equivalen a tratamientos disponibles."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи выявили ранее неизвестную клеточную защиту, ограничивающую вред от воспаления",
+          "summary": "ScienceDaily сообщает, что учёные решили многолетнюю задачу, обнаружив скрытую защиту иммунной системы, которая защищает здоровые клетки от побочного ущерба во время воспаления. Утверждается, что открытие может иметь потенциальное значение для рака, воспалительных заболеваний кишечника и других состояний, связанных с воспалением.",
+          "whyItMatters": "Выявление фундаментальных механизмов, ограничивающих воспаление, может указать на новые терапевтические подходы при заболеваниях, где чрезмерное воспаление причиняет вред. Работа представлена как научное открытие; трансляционное влияние будет зависеть от последующих исследований и валидации.",
+          "takeaways": [
+            "В исследовании сообщается об открытии в области базовой науки: клеточного механизма, защищающего здоровые клетки во время воспалительной реакции.",
+            "Авторы и репортёры указывают на возможные применения в онкологии и воспалительных заболеваниях, но клиническая трансляция на данном этапе носит спекулятивный характер.",
+            "Требуются дополнительные исследования для воспроизведения результатов, изучения механизмов в разных тканях и оценки терапевтической реализуемости.",
+            "Новостные сводки о фундаментальных открытиях подчёркивают перспективность, но не равнозначны доступным методам лечения."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники виявили раніше невідомий клітинний захист, який обмежує шкоду від запалення",
+          "summary": "ScienceDaily повідомляє, що вчені розгадали давню загадку, виявивши прихований імунний механізм, який захищає здорові клітини від побічної шкоди під час запалення. Відкриття називають потенційно релевантним для раку, запальних захворювань кишківника та інших станів, пов’язаних із запаленням.",
+          "whyItMatters": "Виявлення фундаментальних механізмів, що обмежують запалення, може вказувати на нові терапевтичні підходи при захворюваннях, де надмірне запалення завдає шкоди. Роботу описують як наукове відкриття; трансляційний вплив залежатиме від подальших досліджень і валідації.",
+          "takeaways": [
+            "Дослідження повідомляє про відкриття механізму базової науки, який захищає здорові клітини під час запальних реакцій.",
+            "Автори й репортери вказують на потенційні застосунки в онкології та запальних захворюваннях, але клінічна трансляція наразі спекулятивна.",
+            "Потрібні подальші дослідження для відтворення висновків, з’ясування механізмів у різних тканинах і оцінки можливості терапевтичного використання.",
+            "Новинні підсумки базових відкриттів підкреслюють перспективи, але не означають наявності доступних лікувань."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs identifient une défense cellulaire jusque‑là inconnue qui limite les dommages liés à l’inflammation",
+          "summary": "ScienceDaily rapporte que des scientifiques ont résolu une question vieille de plusieurs décennies en découvrant un mécanisme de défense immunitaire caché qui protège les cellules saines des dommages collatéraux durant l’inflammation. Cette découverte est présentée comme potentiellement pertinente pour le cancer, les maladies inflammatoires de l’intestin et d’autres affections liées à l’inflammation.",
+          "whyItMatters": "Découvrir des mécanismes fondamentaux qui limitent l’inflammation pourrait pointer vers de nouvelles stratégies thérapeutiques pour des maladies où une inflammation excessive cause des dommages. Les travaux sont décrits comme une découverte scientifique ; l’impact translationnel dépendra d’études ultérieures et de validations.",
+          "takeaways": [
+            "L’étude rapporte la découverte, en science fondamentale, d’un mécanisme cellulaire qui protège les cellules saines lors des réponses inflammatoires.",
+            "Les auteurs et les comptes rendus évoquent des applications potentielles en oncologie et dans les maladies inflammatoires, mais la translation clinique reste spéculative à ce stade.",
+            "Des recherches supplémentaires sont nécessaires pour reproduire les résultats, comprendre les mécanismes dans différents tissus et évaluer la faisabilité thérapeutique.",
+            "Les résumés médiatiques d’avancées fondamentales soulignent des promesses, mais ne correspondent pas à des traitements disponibles."
+          ]
+        },
+        "de": {
+          "title": "Forscher identifizieren eine zuvor unbekannte zelluläre Abwehr, die Schaden durch Entzündungen begrenzt",
+          "summary": "ScienceDaily berichtet, dass Forschende ein lange bestehendes Rätsel gelöst und eine verborgene Immunabwehr entdeckt haben, die gesunde Zellen vor Kollateralschäden während Entzündungen schützt. Die Entdeckung wird als potenziell relevant für Krebs, entzündliche Darmerkrankungen und andere entzündungsbezogene Zustände dargestellt.",
+          "whyItMatters": "Das Aufdecken grundlegender Mechanismen, die Entzündungen begrenzen, könnte auf neue therapeutische Strategien für Erkrankungen hinweisen, bei denen überschießende Entzündung Schäden verursacht. Die Arbeit wird als wissenschaftliche Entdeckung beschrieben; ihr translationeller Einfluss hängt von Folgeuntersuchungen und Validierung ab.",
+          "takeaways": [
+            "Die Studie berichtet eine grundlagenwissenschaftliche Entdeckung eines zellulären Mechanismus, der gesunde Zellen während entzündlicher Reaktionen schützt.",
+            "Autorinnen, Autoren und Berichterstatter sehen potenzielle Anwendungen bei Krebs und entzündlichen Erkrankungen, doch die klinische Translation ist derzeit spekulativ.",
+            "Weitere Forschung ist nötig, um Befunde zu replizieren, Mechanismen über Gewebe hinweg zu verstehen und therapeutische Machbarkeit zu prüfen.",
+            "Nachrichten über Grundlagenentdeckungen betonen Versprechen, bedeuten aber nicht, dass bereits verfügbare Behandlungen existieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores identificam uma defesa celular até então desconhecida que limita danos causados pela inflamação",
+          "summary": "A ScienceDaily relata que cientistas resolveram um mistério de longa data ao descobrir uma defesa do sistema imunológico que protege células saudáveis de danos colaterais durante a inflamação. A descoberta é sugerida como potencialmente relevante para câncer, doença inflamatória intestinal e outras condições relacionadas à inflamação.",
+          "whyItMatters": "Descobrir mecanismos fundamentais que limitam a inflamação pode apontar para novas estratégias terapêuticas para doenças em que a inflamação excessiva causa danos. O trabalho é descrito como uma descoberta científica; o impacto translacional dependerá de estudos e validações subsequentes.",
+          "takeaways": [
+            "O estudo relata uma descoberta de ciência básica de um mecanismo celular que protege células saudáveis durante respostas inflamatórias.",
+            "Autores e reportagens mencionam aplicações potenciais em câncer e doenças inflamatórias, mas a tradução clínica é especulativa neste estágio.",
+            "Mais pesquisas são necessárias para replicar os achados, entender mecanismos em diferentes tecidos e avaliar a viabilidade terapêutica.",
+            "Resumos de notícias sobre descobertas básicas destacam potencial, mas não equivalem a tratamentos disponíveis."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók korábban ismeretlen sejtes védelmet azonosítanak, amely korlátozza a gyulladás okozta károkat",
+          "summary": "A ScienceDaily beszámolója szerint a tudósok megoldottak egy évtizedek óta fennálló kérdést azáltal, hogy felfedeztek egy rejtett immunvédelmi mechanizmust, amely megóvja az egészséges sejteket a gyulladás közbeni mellékhatásoktól. A felfedezés potenciális relevanciát jelezhet a rák, a gyulladásos bélbetegség és más gyulladással kapcsolatos állapotok tekintetében.",
+          "whyItMatters": "Az olyan alapvető mechanizmusok feltárása, amelyek korlátozzák a gyulladást, új terápiás stratégiákra mutathat rá olyan betegségekben, ahol a túlzott gyulladás károsít. A munka tudományos felfedezésként van leírva; a transzlációs hatás a további vizsgálatoktól és validációtól függ.",
+          "takeaways": [
+            "A tanulmány egy alapkutatási felfedezést jelent: egy sejtes mechanizmust, amely megóvja az egészséges sejteket a gyulladás közbeni károktól.",
+            "A szerzők és a közlemények lehetséges alkalmazásokat említenek rákkal és gyulladásos betegségekkel kapcsolatban, de a klinikai transzláció ezen a szinten spekulatív.",
+            "További kutatás szükséges az eredmények megismétléséhez, a mechanizmusok szövetek közötti megértéséhez és a terápiás megvalósíthatóság értékeléséhez.",
+            "Az alapkutatási felfedezésekről szóló híradások ígéretet mutatnak, de nem jelentenek elérhető kezeléseket."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يحددون آلية دفاع خلوية مجهولة سابقًا تحد من الضرر الناتج عن الالتهاب",
+          "summary": "تفيد تقارير ScienceDaily أن العلماء حلوا لغزًا دام 30 عامًا عبر اكتشاف آلية دفاعية مناعية مخفية تحمي الخلايا السليمة من الأذى الجانبي أثناء الالتهاب. يُقترح أن يكون للاكتشاف صلة محتملة بالسرطان ومرض الأمعاء الالتهابي وحالات أخرى مرتبطة بالالتهاب.",
+          "whyItMatters": "قد تشير معرفة الآليات الأساسية التي تحد من الالتهاب إلى استراتيجيات علاجية جديدة لأمراض يتسبب فيها الالتهاب المفرط بضرر. العمل موصوف على أنه اكتشاف علمي؛ وستعتمد الأهمية التطبيقية على دراسات متابعة وتحقق.",
+          "takeaways": [
+            "تبلغ الدراسة عن اكتشاف في علوم الأساس لآلية خلوية تحمي الخلايا السليمة أثناء الاستجابات الالتهابية.",
+            "يطور المؤلفون والمراسلون تطبيقات محتملة في السرطان والأمراض الالتهابية، لكن الترجمة السريرية في هذه المرحلة مضاربة.",
+            "هناك حاجة إلى بحوث إضافية لتكرار النتائج، وفهم الآليات عبر الأنسجة المختلفة، وتقييم جدوى التدخلات العلاجية.",
+            "تلخِّص تقارير الأخبار عن الاكتشافات الأساسية الإمكانات دون أن تُعد بدائل لعلاجات متاحة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-solve-30-year-old-mystery-and-discover-a-hidden-defens-28e0aeb350fc",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-solve-30-year-old-mystery-and-discover-a-hidden-defens-28e0aeb350fc-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-solve-30-year-old-mystery-and-discover-a-hidden-defens-28e0aeb350fc-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers identify a previously unknown cellular defense that limits harm from inflammation.\nStory summary: ScienceDaily reports that scientists have solved a longstanding question by uncovering a hidden immune-system defense that protects healthy cells from collateral damage during inflammation. The discovery is suggested to have potential relevance for cancer, inflammatory bowel disease and other inflammation-related conditions..\nCategory: immunology & inflammation (basic research).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "graded-physical-activity-prescriptions-improve-functional-outcome-43962df841c6",
+      "category": "physical activity & mental health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261105/Graded-physical-activity-prescriptions-improve-functional-outcomes-in-psychiatry.aspx",
+      "sourceTitle": "Graded physical activity prescriptions improve functional outcomes in psychiatry",
+      "publishedAt": "Thu, 05 Nov 2026 02:12:39 -0500",
+      "languages": {
+        "en": {
+          "title": "Viewpoint proposes graded activity prescriptions to improve functional outcomes in psychiatric care",
+          "summary": "A peer-reviewed Viewpoint in Brain Health synthesizes randomized trials, meta-analyses, and cohort studies to argue for graded physical-activity prescriptions in psychiatric practice. The authors present a framework for using stepwise, individualized activity plans to support functional recovery.",
+          "whyItMatters": "The article consolidates existing evidence to recommend structured, graduated exercise prescriptions as an adjunct in psychiatry. As a Viewpoint, it recommends practice change based on existing literature rather than reporting a new randomized trial.",
+          "takeaways": [
+            "Authors propose individualized, graded activity plans informed by evidence from trials and observational studies.",
+            "The piece is a synthesis and clinical perspective (Viewpoint), not a new randomized trial demonstrating efficacy.",
+            "Implementing graded prescriptions in routine care would require training, resources, and evaluation in real-world settings.",
+            "Patients and clinicians should consider activity as one component of comprehensive psychiatric care, pending tailored clinical judgment."
+          ]
+        },
+        "es": {
+          "title": "Proponen prescripciones de actividad física graduada para mejorar resultados funcionales en psiquiatría",
+          "summary": "Un Viewpoint revisado por pares en Brain Health sintetiza ensayos aleatorizados, metaanálisis y estudios de cohorte para abogar por prescripciones de actividad física graduadas en la práctica psiquiátrica. Los autores presentan un marco para usar planes de actividad escalonados e individualizados que apoyen la recuperación funcional.",
+          "whyItMatters": "El artículo consolida la evidencia existente para recomendar prescripciones estructuradas y graduadas de ejercicio como complemento en psiquiatría. Como Viewpoint, propone un cambio de práctica basado en la literatura disponible en lugar de reportar un nuevo ensayo aleatorizado.",
+          "takeaways": [
+            "Los autores proponen planes individualizados de actividad graduada basados en evidencia de ensayos y estudios observacionales.",
+            "El texto es una síntesis y perspectiva clínica (Viewpoint), no un nuevo ensayo aleatorizado que demuestre eficacia.",
+            "Implementar prescripciones graduadas en la atención rutinaria requeriría formación, recursos y evaluación en entornos reales.",
+            "Pacientes y clínicos deberían considerar la actividad como un componente de la atención psiquiátrica integral, aplicando juicio clínico personalizado."
+          ]
+        },
+        "ru": {
+          "title": "Предлагают поэтапные назначения физической активности для улучшения функциональных исходов в психиатрии",
+          "summary": "Рецензируемая точка зрения (Viewpoint) в Brain Health синтезирует данные рандомизированных испытаний, метаанализов и когортных исследований в пользу поэтапных назначений физической активности в психиатрической практике. Авторы предлагают рамочную схему использования пошаговых индивидуализированных планов активности для поддержки функционального восстановления.",
+          "whyItMatters": "Статья обобщает имеющиеся данные и рекомендует структурированные градуированные программы упражнений как дополнение в психиатрии. Поскольку это Viewpoint, она предлагает изменить практику на основе существующей литературы, а не представляет новый рандомизированный контрольный trial.",
+          "takeaways": [
+            "Авторы предлагают индивидуализированные поэтапные планы активности, опираясь на данные испытаний и наблюдательных исследований.",
+            "Это синтез и клиническая перспектива (Viewpoint), а не новое рандомизированное исследование, подтверждающее эффективность.",
+            "Внедрение градуированных назначений в рутинную практику потребует обучения, ресурсов и оценки в реальных условиях.",
+            "Пациентам и клиницистам следует рассматривать активность как компонент комплексной психиатрической помощи с учётом индивидуального клинического суждения."
+          ]
+        },
+        "uk": {
+          "title": "Стаття у форматі Viewpoint пропонує поетапні призначення фізичної активності для поліпшення функціональних результатів у психіатрії",
+          "summary": "Оглядна стаття (Viewpoint) в Brain Health узагальнює рандомізовані дослідження, метааналізи та когортні дослідження, обґрунтовуючи поетапні призначення фізичної активності в психіатричній практиці. Автори пропонують рамки для використання поступових, індивідуалізованих планів активності для підтримки функціонального відновлення.",
+          "whyItMatters": "Стаття консолідує наявні докази й рекомендує структурування та поступове призначення активності як доповнення в психіатрії. Оскільки це Viewpoint, вона радше пропонує зміну практики на підставі літератури, ніж повідомляє про нове рандомізоване дослідження.",
+          "takeaways": [
+            "Автори пропонують індивідуалізовані поетапні плани активності, підкріплені доказами з випробувань та спостережних досліджень.",
+            "Матеріал є синтезом і клінічною перспективою (Viewpoint), а не новим рандомізованим дослідженням, що демонструє ефективність.",
+            "Впровадження поетапних призначень у рутинну практику потребуватиме навчання, ресурсів і оцінки в реальних умовах.",
+            "Пацієнти та клініцисти повинні розглядати активність як одну складову комплексної психіатричної допомоги з урахуванням індивідуального клінічного судження."
+          ]
+        },
+        "fr": {
+          "title": "Point de vue (Viewpoint) proposant des prescriptions d’activité graduées pour améliorer les résultats fonctionnels en psychiatrie",
+          "summary": "Un Viewpoint publié dans Brain Health synthétise des essais randomisés, des méta‑analyses et des études de cohorte pour plaider en faveur de prescriptions d’activité physique graduées en pratique psychiatrique. Les auteurs proposent un cadre d’utilisation de plans d’activité progressifs et individualisés pour soutenir la récupération fonctionnelle.",
+          "whyItMatters": "L’article rassemble les preuves existantes pour recommander des prescriptions d’activité structurées et graduées comme adjuvant en psychiatrie. En tant que Viewpoint, il recommande un changement de pratique sur la base de la littérature existante plutôt que de rapporter un nouvel essai randomisé.",
+          "takeaways": [
+            "Les auteurs proposent des plans d’activité individualisés et gradués, fondés sur des preuves issues d’essais et d’études observationnelles.",
+            "L’article est une synthèse et une perspective clinique (Viewpoint), et non un nouvel essai randomisé démontrant l’efficacité.",
+            "La mise en œuvre des prescriptions graduées en soins courants nécessitera formation, ressources et évaluation en conditions réelles.",
+            "Les patient·e·s et clinicien·ne·s devraient considérer l’activité comme un composant de la prise en charge psychiatrique globale, en appliquant un jugement clinique individualisé."
+          ]
+        },
+        "de": {
+          "title": "Standpunkt empfiehlt gestufte Aktivitäts‑Verordnungen zur Verbesserung funktionaler Ergebnisse in der Psychiatrie",
+          "summary": "Ein Peer‑reviewter Standpunkt in Brain Health fasst randomisierte Studien, Metaanalysen und Kohortenstudien zusammen und plädiert für gestufte körperliche Aktivitätsverordnungen in der psychiatrischen Praxis. Die Autorinnen und Autoren stellen einen Rahmen für schrittweise, individualisierte Aktivitätspläne zur Unterstützung der funktionalen Erholung vor.",
+          "whyItMatters": "Der Beitrag konsolidiert vorhandene Evidenz und empfiehlt strukturierte, graduelle Bewegungs‑Verordnungen als Ergänzung in der Psychiatrie. Als Standpunkt schlägt er eine Praxisänderung auf Basis bestehender Literatur vor, berichtet jedoch keinen neuen randomisierten Versuch.",
+          "takeaways": [
+            "Die Autorinnen und Autoren schlagen individualisierte, gestufte Aktivitätspläne vor, gestützt auf Evidenz aus Studien und Beobachtungsdaten.",
+            "Der Beitrag ist eine Synthese und klinische Perspektive (Viewpoint), kein neuer randomisierter Versuch, der Wirksamkeit nachweist.",
+            "Die Umsetzung gestufter Verordnungen in der Routineversorgung würde Schulung, Ressourcen und Evaluation in realen Settings erfordern.",
+            "Patienten und Behandler sollten Bewegung als einen Teil der umfassenden psychiatrischen Versorgung betrachten, unter Berücksichtigung individueller klinischer Einschätzung."
+          ]
+        },
+        "pt-br": {
+          "title": "Artigo de opinião propõe prescrições graduais de atividade física para melhorar resultados funcionais na psiquiatria",
+          "summary": "Um Viewpoint revisado por pares na revista Brain Health sintetiza ensaios randomizados, meta‑análises e estudos de coorte para defender prescrições graduais de atividade física na prática psiquiátrica. Os autores apresentam um quadro para usar planos de atividade individualizados e em passos para apoiar a recuperação funcional.",
+          "whyItMatters": "O artigo consolida evidências existentes e recomenda prescrições estruturadas e graduais de exercício como complemento na psiquiatria. Como Viewpoint, propõe mudança de prática com base na literatura disponível em vez de relatar um novo ensaio randomizado.",
+          "takeaways": [
+            "Os autores propõem planos individualizados e graduais de atividade, informados por evidências de ensaios e estudos observacionais.",
+            "O texto é uma síntese e uma perspectiva clínica (Viewpoint), não um novo ensaio randomizado que comprove eficácia.",
+            "Implementar prescrições graduais na rotina exigiria treinamento, recursos e avaliação em contextos reais.",
+            "Pacientes e clínicos devem considerar a atividade como um componente da atenção psiquiátrica abrangente, com julgamento clínico individualizado."
+          ]
+        },
+        "hu": {
+          "title": "Szerzői vélemény: fokozatos aktivitás-receptek javíthatják a funkcionális kimeneteket a pszichiátriában",
+          "summary": "A Brain Health folyóiratban megjelent szerkesztői vélemény összegzi a randomizált vizsgálatokat, meta-analíziseket és kohorszokat, és a pszichiátriai gyakorlatban a fokozatos, személyre szabott fizikai aktivitás-receptek alkalmazását javasolja. A szerzők keretet mutatnak be a lépcsőzetes, egyéni aktivitásprogramok funkcionális helyreállítást támogató használatához.",
+          "whyItMatters": "A cikk a rendelkezésre álló bizonyítékokat összegezve ajánlja a strukturált, fokozatos mozgásrecept alkalmazását kiegészítőként a pszichiátriában. Mivel véleménycikk (Viewpoint), a gyakorlatváltoztatásra vonatkozó javaslatok a meglévő irodalomra épülnek, nem pedig egy új randomizált vizsgálat eredményére.",
+          "takeaways": [
+            "A szerzők egyéni, fokozatosan emelkedő aktivitási terveket javasolnak, melyeket a vizsgálatok és megfigyelések bizonyítékai támasztanak alá.",
+            "A közlemény összegzés és klinikai nézőpont (Viewpoint), nem egy új randomizált vizsgálat, amely hatékonyságot bizonyítana.",
+            "A fokozatos receptek bevezetéséhez a rutin ellátásban képzésre, forrásokra és valós világbeli értékelésre lenne szükség.",
+            "A betegeknek és klinikusoknak a mozgást a komplex pszichiátriai ellátás egyik elemének kell tekinteniük, az egyéni klinikai megítélés figyelembevételével."
+          ]
+        },
+        "ar": {
+          "title": "رأي يقترح وصفات نشاط بدني متدرجة لتحسين المخرجات الوظيفية في الرعاية النفسية",
+          "summary": "يلخص رأي منشور في Brain Health تجارب عشوائية وتحليلات تجميعية ودراسات طولية ليؤيد وصفات نشاط بدني متدرجة في الممارسة النفسية. يعرض المؤلفون إطارًا لاستخدام خطط نشاط خطوة بخطوة ومفصلة فرديًا لدعم التعافي الوظيفي.",
+          "whyItMatters": "يجمع المقال الأدلة المتاحة ليُوصي بوصفات تمرين منظمة ومتدرجة كعنصر مساعد في الرعاية النفسية. وبما أنه رأي (Viewpoint)، فالتوصية بتغيير الممارسة تستند إلى الأدبيات القائمة وليس إلى تجربة عشوائية جديدة.",
+          "takeaways": [
+            "يقترح المؤلفون خطط نشاط فردية ومتدرجة تستند إلى الأدلة من التجارب والدراسات الرصدية.",
+            "المقال عبارة عن تجميع ورأي سريري (Viewpoint)، وليس تجربة عشوائية جديدة تُظهر الفعالية.",
+            "يتطلب تنفيذ الوصفات المتدرجة في الممارسة الروتينية تدريبًا وموارد وتقييمًا في سياق العالم الواقعي.",
+            "ينبغي أن يعتبر المرضى والممارسون النشاط جزءًا من رعاية نفسية شاملة، مع الاعتماد على حكم سريري مخصص."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=graded-physical-activity-prescriptions-improve-functional-outcome-43962df841c6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/graded-physical-activity-prescriptions-improve-functional-outcome-43962df841c6-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/graded-physical-activity-prescriptions-improve-functional-outcome-43962df841c6-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Viewpoint proposes graded activity prescriptions to improve functional outcomes in psychiatric care.\nStory summary: A peer-reviewed Viewpoint in Brain Health synthesizes randomized trials, meta-analyses, and cohort studies to argue for graded physical-activity prescriptions in psychiatric practice. The authors present a framework for using stepwise, individualized activity plans to support functional recovery..\nCategory: physical activity & mental health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "opposing-microbiome-mediated-axes-link-modifiable-lifestyles-to-h-fd69ed0467cf",
+      "category": "microbiome & chronic disease",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04744-5",
+      "sourceTitle": "Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases",
+      "publishedAt": "2026-11-05",
+      "languages": {
+        "en": {
+          "title": "Two opposing microbiome axes tie lifestyle to health and 15 diseases, large multi-cohort study finds",
+          "summary": "A Nature Medicine study using fecal shotgun metagenomics from 6,803 adults in a Japanese cohort derived microbiome-based prediction scores and validated those scores across 13 independent cohorts. The authors report two opposing microbiome-mediated axes that associate modifiable lifestyle factors with health outcomes and with 15 diseases.",
+          "whyItMatters": "This large, multi-cohort analysis links gut microbial patterns to a wide set of diseases and lifestyle factors, suggesting microbiome signatures could help stratify risk or guide further research into mechanisms and interventions — but association does not prove causation.",
+          "takeaways": [
+            "Study pooled deep metagenomic data from a large Japanese cohort (6,803 adults) and validated findings across multiple geographically diverse cohorts.",
+            "Researchers describe two opposing axes in the microbiome that correlate with lifestyle and disease profiles across 15 conditions.",
+            "Findings are associative and hypothesis-generating; they do not demonstrate that changing the microbiome will prevent or treat disease.",
+            "Results may help prioritize microbial taxa or functions for experimental studies and eventual intervention trials."
+          ]
+        },
+        "es": {
+          "title": "Dos ejes microbianos opuestos vinculan el estilo de vida con la salud y 15 enfermedades, revela un gran estudio multicohorte",
+          "summary": "Un estudio en Nature Medicine que utilizó metagenómica fecal (shotgun) de 6.803 adultos en una cohorte japonesa derivó puntuaciones predictivas basadas en el microbioma y las validó en 13 cohortes independientes. Los autores describen dos ejes mediados por el microbioma, opuestos entre sí, que asocian factores de estilo de vida modificables con resultados de salud y con 15 enfermedades.",
+          "whyItMatters": "Este amplio análisis multicohorte vincula patrones microbianos intestinales con un conjunto amplio de enfermedades y factores de estilo de vida, lo que sugiere que las firmas del microbioma podrían ayudar a estratificar el riesgo o guiar investigaciones sobre mecanismos e intervenciones —pero la asociación no demuestra causalidad.",
+          "takeaways": [
+            "El estudio agrupó datos metagenómicos profundos de una gran cohorte japonesa (6.803 adultos) y validó los hallazgos en múltiples cohortes geográficamente diversas.",
+            "Los investigadores describen dos ejes opuestos en el microbioma que se correlacionan con perfiles de estilo de vida y enfermedad en 15 condiciones.",
+            "Los hallazgos son asociativos y generan hipótesis; no demuestran que modificar el microbioma prevenga o trate enfermedades.",
+            "Los resultados pueden ayudar a priorizar taxones microbianos o funciones para estudios experimentales y futuros ensayos de intervención."
+          ]
+        },
+        "ru": {
+          "title": "Две противоположные микробиомные оси связывают образ жизни со здоровьем и 15 заболеваниями — крупное многокогортное исследование",
+          "summary": "Исследование в Nature Medicine, использовавшее фекальную шотган-метагеномику у 6 803 взрослых в японской когорте, вывело микробиомные предиктивные шкалы и верифицировало их в 13 независимых когортах. Авторы сообщают о двух противоположных осях, опосредованных микробиотой, которые связывают изменяемые факторы образа жизни с исходами здоровья и с 15 заболеваниями.",
+          "whyItMatters": "Это крупное многокогортное исследование связывает паттерны кишечной микробиоты с широким набором заболеваний и факторов образа жизни, что указывает на возможное использование микробиомных сигнатур для стратификации риска или направления дальнейших исследований механизмов и вмешательств — однако ассоциация не доказывает причинно-следственную связь.",
+          "takeaways": [
+            "В исследование были объединены глубокие метагеномные данные большой японской когорты (6 803 взрослого) и результаты верифицированы в нескольких географически разных когортах.",
+            "Исследователи описывают две противоположные оси микробиома, коррелирующие с образами жизни и профилями заболеваний при 15 состояниях.",
+            "Результаты носят ассоциативный характер и служат для выдвижения гипотез; они не доказывают, что изменение микробиома предотвратит или вылечит болезнь.",
+            "Полученные данные могут помочь приоритизировать микроорганизмы или функции для экспериментальных исследований и последующих испытаний вмешательств."
+          ]
+        },
+        "uk": {
+          "title": "Дві протилежні осі мікробіому пов’язують спосіб життя зі здоров’ям і 15 захворюваннями — велике багато­когортне дослідження",
+          "summary": "Дослідження в Nature Medicine, що використовувало фекальну шотган-метагеноміку у 6 803 дорослих японського когорту, вивело прогностичні оцінки на основі мікробіому та перевірило їх у 13 незалежних когортах. Автори повідомляють про дві протилежні мікробіомні осі, які пов’язують змінювані фактори способу життя з показниками здоров’я та з 15 захворюваннями.",
+          "whyItMatters": "Цей великий багато­когортний аналіз пов’язує патерни кишкового мікробіому з широким набором захворювань і факторів способу життя, натякаючи, що підписи мікробіому можуть допомогти у стратифікації ризику або спрямувати подальші дослідження механізмів і втручань — але асоціація не доводить причинно-наслідкового зв’язку.",
+          "takeaways": [
+            "Дослідження об’єднало глибокі метагеномні дані великої японської когорти (6 803 дорослих) і перевірило результати в кількох географічно різних когортах.",
+            "Дослідники описують дві протилежні осі в мікробіомі, що корелюють із профілями способу життя та хворобами в межах 15 станів.",
+            "Результати є асоціативними і породжують гіпотези; вони не демонструють, що зміна мікробіому запобіжить або лікуватиме захворювання.",
+            "Отримані дані можуть допомогти пріоритизувати мікробні таксони або функції для експериментальних досліджень та майбутніх випробувань втручань."
+          ]
+        },
+        "fr": {
+          "title": "Deux axes microbiomiques opposés relient le mode de vie à la santé et à 15 maladies — grande étude multi‑cohorte",
+          "summary": "Une étude publiée dans Nature Medicine, utilisant la métagénomique shotgun fécale de 6 803 adultes d’une cohorte japonaise, a dérivé des scores prédictifs basés sur le microbiome et a validé ces scores dans 13 cohortes indépendantes. Les auteurs rapportent deux axes microbiomiques opposés qui associent des facteurs de mode de vie modifiables à des issues de santé et à 15 maladies.",
+          "whyItMatters": "Cette large analyse multi‑cohorte relie des motifs du microbiote intestinal à un vaste ensemble de maladies et de facteurs de mode de vie, suggérant que des signatures microbiomiques pourraient aider à stratifier le risque ou orienter des recherches ultérieures sur les mécanismes et interventions — mais une association n’établit pas la causalité.",
+          "takeaways": [
+            "L’étude a regroupé des données métagénomiques approfondies d’une grande cohorte japonaise (6 803 adultes) et a validé les résultats dans plusieurs cohortes géographiquement diverses.",
+            "Les chercheurs décrivent deux axes opposés dans le microbiome qui corrèlent avec des profils de mode de vie et de maladie sur 15 affections.",
+            "Les résultats sont de nature associative et servent à générer des hypothèses ; ils ne démontrent pas que modifier le microbiome préviendra ou traitera une maladie.",
+            "Ces résultats peuvent aider à prioriser des taxons microbiens ou des fonctions pour des études expérimentales et d’éventuels essais d’intervention."
+          ]
+        },
+        "de": {
+          "title": "Zwei entgegengesetzte mikrobiom-vermittelte Achsen verknüpfen Lebensstil mit Gesundheit und 15 Krankheiten, große Multi‑Kohorten‑Studie zeigt",
+          "summary": "Eine Studie in Nature Medicine verwendete fäkale Shotgun‑Metagenomik von 6.803 Erwachsenen aus einer japanischen Kohorte, leitete mikrobiombasierte Vorhersagewerte ab und validierte diese in 13 unabhängigen Kohorten. Die Autorinnen und Autoren berichten über zwei entgegengesetzte, mikrobiom‑vermittelte Achsen, die modifizierbare Lebensstilfaktoren mit Gesundheitsausgängen und 15 Erkrankungen assoziieren.",
+          "whyItMatters": "Diese große Multi‑Kohorten‑Analyse verbindet Darmmikrobenmuster mit einer breiten Reihe von Krankheiten und Lebensstilfaktoren und legt nahe, dass Mikrobiom‑Signaturen helfen könnten, Risiken zu stratifizieren oder weitere Mechanismenforschung anzustoßen — Assoziation beweist jedoch keine Kausalität.",
+          "takeaways": [
+            "Die Studie bündelte tiefe Metagenomik‑Daten aus einer großen japanischen Kohorte (6.803 Erwachsene) und validierte die Ergebnisse in mehreren geografisch unterschiedlichen Kohorten.",
+            "Die Forschenden beschreiben zwei entgegengesetzte Achsen im Mikrobiom, die mit Lebensstil‑ und Krankheitsprofilen bei 15 Erkrankungen korrelieren.",
+            "Die Befunde sind assoziativ und generieren Hypothesen; sie zeigen nicht, dass eine Änderung des Mikrobioms Krankheiten verhindert oder behandelt.",
+            "Die Ergebnisse können helfen, mikrobielle Taxa oder Funktionen für experimentelle Studien und spätere Interventionsstudien zu priorisieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Duas eixos microbianos opostos ligam estilo de vida à saúde e a 15 doenças, diz grande estudo multi‑coorte",
+          "summary": "Um estudo na Nature Medicine usou metagenômica por shotgun de fezes de 6.803 adultos de uma coorte japonesa, derivou escores preditivos baseados no microbioma e validou esses escores em 13 coortes independentes. Os autores relatam dois eixos microbianos opostos que associam fatores de estilo de vida modificáveis a desfechos de saúde e a 15 doenças.",
+          "whyItMatters": "Essa ampla análise multi‑coorte associa padrões microbianos intestinais a um conjunto amplo de doenças e fatores de estilo de vida, sugerindo que assinaturas do microbioma podem ajudar a estratificar risco ou orientar pesquisas sobre mecanismos e intervenções — mas associação não é prova de causalidade.",
+          "takeaways": [
+            "O estudo agrupou dados metagenômicos profundos de uma grande coorte japonesa (6.803 adultos) e validou achados em várias coortes geograficamente diversas.",
+            "Os pesquisadores descrevem dois eixos opostos no microbioma que se correlacionam com perfis de estilo de vida e doença em 15 condições.",
+            "Os achados são associativos e geradores de hipótese; não demonstram que mudar o microbioma previne ou trata doenças.",
+            "Os resultados podem ajudar a priorizar táxons microbianos ou funções para estudos experimentais e eventuais ensaios de intervenção."
+          ]
+        },
+        "hu": {
+          "title": "Két ellentétes mikrobiom-tengely köti össze az életmódot az egészséggel és 15 betegséggel, nagy többkohorszos vizsgálat szerint",
+          "summary": "A Nature Medicine-nek közölt tanulmányban 6 803 fős japán kohorsz székletből végzett shotgun metagenomikai adataiból mikrobiom-alapú predikciós pontszámokat állítottak elő, majd ezeket 13 független kohorszban érvényesítették. A szerzők két ellentétes, mikrobiom által közvetített tengelyt írnak le, amelyek a módosítható életmódbeli tényezőket összekapcsolják az egészségi kimenetekkel és 15 betegséggel.",
+          "whyItMatters": "Ez a nagy, többkohorszos elemzés összekapcsolja a bélmikrobiom mintázatait számos betegséggel és életmódbeli tényezővel, ami azt sugallja, hogy a mikrobiom-jellegzetességek segíthetnek a kockázat rétegzésében vagy további mechanisztikus kutatások irányításában — de az asszociáció nem bizonyítja az okozati összefüggést.",
+          "takeaways": [
+            "A vizsgálat mély metagenomikai adatokat gyűjtött egy nagy japán kohorszból (6 803 felnőtt), és több földrajzilag különböző kohorszban érvényesítette az eredményeket.",
+            "A kutatók két ellentétes tengelyt írnak le a mikrobiomban, amelyek összefüggnek életmódbeli és betegségi profilokkal 15 állapotra kiterjedően.",
+            "Az eredmények asszociatívak és hipotéziskeltők; nem igazolják, hogy a mikrobiom megváltoztatása megelőzné vagy kezelné a betegséget.",
+            "Az eredmények segíthetnek priorizálni mikrobiális taxonokat vagy funkciókat kísérleti vizsgálatokhoz és későbbi intervenciós próbákhoz."
+          ]
+        },
+        "ar": {
+          "title": "محوران متعاكسان في الميكروبيوم يربطان نمط الحياة بالصحة و15 مرضًا، وفق دراسة كبيرة متعددة المجموعات",
+          "summary": "نشرت Nature Medicine دراسة استخدمت التحليل الميتاجينومي الشوتغن للبراز من 6,803 بالغين في مجموعة يابانية لاستخراج درجات تنبؤية مستندة إلى الميكروبيوم، ثم حققت في صحة هذه الدرجات عبر 13 مجموعة مستقلة. يذكر المؤلفون وجود محورين متعاكسين بوساطة الميكروبيوم يربطان عوامل نمط الحياة القابلة للتعديل بمخرجات الصحة وبـ15 مرضًا.",
+          "whyItMatters": "ترابط هذه التحليلية الكبيرة متعددة المجموعات أنماط الميكروبيوم المعوي بمجموعة واسعة من الأمراض وعوامل نمط الحياة، مما يوحي بأن بصمات الميكروبيوم قد تساعد في تصنيف المخاطر أو توجيه البحوث الآلية والتدخلية المستقبلية — لكن الارتباط لا يثبت السببية.",
+          "takeaways": [
+            "جمعت الدراسة بيانات ميتاجينومية عميقة من مجموعة يابانية كبيرة (6,803 بالغين) وصحّحت النتائج عبر مجموعات متعددة جغرافياً.",
+            "وصف الباحثون محورين متعاكسين في الميكروبيوم يرتبطان بملفات نمط الحياة والأمراض عبر 15 حالة.",
+            "النتائج ارتباطية ومولدة للفرضيات؛ لا تظهر أن تغيير الميكروبيوم يمنع أو يعالج الأمراض.",
+            "قد تساعد النتائج في تحديد أولويات أنواع أو وظائف ميكروبية للدراسات التجريبية وللتجارب التدخلية المستقبلية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=opposing-microbiome-mediated-axes-link-modifiable-lifestyles-to-h-fd69ed0467cf",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/opposing-microbiome-mediated-axes-link-modifiable-lifestyles-to-h-fd69ed0467cf-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/opposing-microbiome-mediated-axes-link-modifiable-lifestyles-to-h-fd69ed0467cf-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Two opposing microbiome axes tie lifestyle to health and 15 diseases, large multi-cohort study finds.\nStory summary: A Nature Medicine study using fecal shotgun metagenomics from 6,803 adults in a Japanese cohort derived microbiome-based prediction scores and validated those scores across 13 independent cohorts. The authors report two opposing microbiome-mediated axes that associate modifiable lifestyle factors with health outcomes and with 15 diseases..\nCategory: microbiome & chronic disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "brain-health-linked-with-longer-lifetime-estrogen-exposure-3a8581bcf149",
+      "category": "healthy ageing & brain health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/neurology/dementia/123721",
+      "sourceTitle": "Brain Health Linked With Longer Lifetime Estrogen Exposure",
+      "publishedAt": "Wed, 04 Nov 2026 16:07:20 -0500",
+      "languages": {
+        "en": {
+          "title": "Swedish cohort study links longer reproductive span (higher lifetime estrogen exposure) to less cerebrovascular pathology",
+          "summary": "A cohort study from Sweden reported in MedPage Today found that women with longer lifetime estrogen exposure (longer reproductive span) had lower odds of cerebrovascular pathology: a longer reproductive span was associated with about 8% lower odds of showing two or more signs of cerebral small vessel disease on imaging.",
+          "whyItMatters": "The finding is observational and describes an association between reproductive history (a proxy for lifetime estrogen exposure) and cerebrovascular imaging signs. Observational associations cannot establish causation, and clinical implications for hormone therapies are not provided by this study alone.",
+          "takeaways": [
+            "Longer reproductive span was associated with modestly lower odds of having multiple signs of cerebral small vessel disease in this cohort.",
+            "This is an observational association from a cohort study; it does not prove that estrogen exposure causes the differences in brain pathology.",
+            "Decisions about hormone therapies should not be based on this result alone; randomized trials and mechanistic studies are needed.",
+            "Findings may stimulate further research into how reproductive factors influence vascular brain ageing."
+          ]
+        },
+        "es": {
+          "title": "Estudio de cohorte sueco asocia mayor duración del periodo reproductivo (mayor exposición estrogénica a lo largo de la vida) con menos patología cerebrovascular",
+          "summary": "Un estudio de cohorte de Suecia reportado en MedPage Today encontró que las mujeres con un mayor periodo reproductivo (indicador de mayor exposición a estrógenos a lo largo de la vida) tenían menores probabilidades de presentar patología cerebrovascular: un periodo reproductivo más largo se asoció con aproximadamente un 8% menos de probabilidades de mostrar dos o más signos de enfermedad de pequeños vasos cerebrales en imágenes.",
+          "whyItMatters": "El hallazgo es observacional y describe una asociación entre la historia reproductiva (un proxy de la exposición estrogénica a lo largo de la vida) y signos de imagen cerebrovascular. Las asociaciones observacionales no establecen causalidad, y este estudio por sí solo no aporta implicaciones clínicas sobre terapias hormonales.",
+          "takeaways": [
+            "Un periodo reproductivo más largo se asoció con una reducción modesta (≈8%) en las probabilidades de tener múltiples signos de enfermedad de pequeños vasos cerebrales en esta cohorte.",
+            "Esto es una asociación observacional de un estudio de cohorte; no prueba que la exposición a estrógenos cause las diferencias en la patología cerebral.",
+            "Las decisiones sobre terapias hormonales no deberían basarse únicamente en este resultado; se necesitan ensayos aleatorizados y estudios mecanísticos.",
+            "Los hallazgos pueden estimular más investigación sobre cómo los factores reproductivos influyen en el envejecimiento vascular cerebral."
+          ]
+        },
+        "ru": {
+          "title": "Шведское когортное исследование связывает более длинную репродуктивную фазу (большую суммарную экспозицию эстрогенов) с меньшей цереброваскулярной патологией",
+          "summary": "Когортное исследование из Швеции, описанное в MedPage Today, показало, что женщины с более длительной репродуктивной фазой (показатель большей суммарной экспозиции эстрогенов) имели более низкую вероятность цереброваскулярной патологии: более длительная репродуктивная фаза ассоциировалась примерно с 8% меньшей вероятностью наличия двух или более признаков заболевания мелких сосудов мозга на визуализации.",
+          "whyItMatters": "Это наблюдательное наблюдение, показывающее ассоциацию между репродуктивной историей (приблизительным показателем суммарной экспозиции эстрогенов) и признаками на цереброваскулярной визуализации. Наблюдательные ассоциации не устанавливают причинно-следственную связь, и это исследование само по себе не даёт клинических рекомендаций по гормональной терапии.",
+          "takeaways": [
+            "Более длительная репродуктивная фаза была связана с умеренным снижением (~8%) вероятности наличия нескольких признаков заболевания мелких сосудов мозга в этой когорте.",
+            "Это наблюдательная ассоциация; она не доказывает, что экспозиция эстрогенов вызывает различия в мозговой патологии.",
+            "Решения о гормональной терапии не следует принимать на основе только этого результата; необходимы рандомизированные исследования и механистические работы.",
+            "Результаты могут послужить поводом для дальнейших исследований влияния репродуктивных факторов на сосудистое старение мозга."
+          ]
+        },
+        "uk": {
+          "title": "Шведське когортне дослідження пов’язує довший репродуктивний період (вищу сумарну експозицію естрогенів) з меншою цереброваскулярною патологією",
+          "summary": "Когортне дослідження зі Швеції, висвітлене в MedPage Today, виявило, що у жінок із довшим періодом репродуктивного життя (припущення більшої сумарної експозиції естрогенів) були нижчі шанси мати цереброваскулярну патологію: довший репродуктивний період асоціювався приблизно з 8% меншими шансами виявити два або більше ознак ураження дрібних судин мозку на зображеннях.",
+          "whyItMatters": "Це спостережливе дослідження описує асоціацію між репродуктивною історією (як проксі сумарної експозиції естрогенів) і ознаками цереброваскулярної патології на зображеннях. Спостережливі асоціації не встановлюють причинності, і клінічні наслідки для гормональної терапії не випливають із цього дослідження самі по собі.",
+          "takeaways": [
+            "Довший репродуктивний період був пов’язаний з помірно нижчими шансами мати кілька ознак ураження дрібних судин мозку в цій когорті.",
+            "Це спостережлива асоціація з когортного дослідження; вона не доводить, що експозиція естрогенів спричиняє відмінності в патології мозку.",
+            "Рішення щодо гормональних терапій не слід ухвалювати лише на підставі цього результату; потрібні рандомізовані випробування і механістичні дослідження.",
+            "Отримані дані можуть стимулювати подальші дослідження впливу репродуктивних факторів на судинне старіння мозку."
+          ]
+        },
+        "fr": {
+          "title": "Une cohorte suédoise associe une durée de vie reproductive plus longue (exposition cumulée aux œstrogènes plus élevée) à moins de pathologie cérébrovasculaire",
+          "summary": "Une étude de cohorte suédoise rapportée dans MedPage Today a montré que les femmes ayant une durée de vie reproductive plus longue (proxy d’une exposition cumulée plus élevée aux œstrogènes) avaient des odds plus faibles de présenter une pathologie cérébrovasculaire : une durée reproductive plus longue était associée à environ 8 % d’odds en moins d’avoir deux signes ou plus de maladie des petits vaisseaux cérébraux à l’imagerie.",
+          "whyItMatters": "Le résultat est observationnel et décrit une association entre l’histoire reproductive (proxy d’exposition cumulée aux œstrogènes) et des signes d’imagerie cérébrovasculaire. Les associations observationnelles ne permettent pas d’établir la causalité, et cette étude seule n’apporte pas d’éléments sur les implications cliniques en matière de traitements hormonaux.",
+          "takeaways": [
+            "Une durée de vie reproductive plus longue était associée à une diminution modeste des odds d’avoir plusieurs signes de maladie des petits vaisseaux cérébraux dans cette cohorte.",
+            "Il s’agit d’une association observationnelle issue d’une étude de cohorte ; elle ne prouve pas que l’exposition aux œstrogènes cause les différences observées dans la pathologie cérébrale.",
+            "Les décisions concernant les thérapies hormonales ne devraient pas se fonder uniquement sur ce résultat ; des essais randomisés et des études mécanistiques sont nécessaires.",
+            "Les résultats peuvent encourager des recherches supplémentaires sur la façon dont les facteurs reproductifs influent sur le vieillissement vasculaire cérébral."
+          ]
+        },
+        "de": {
+          "title": "Schwedische Kohortenstudie verknüpft längere reproduktive Spanne (höhere lebenslange Östrogenexposition) mit weniger zerebrovaskulärer Pathologie",
+          "summary": "Eine Kohortenstudie aus Schweden, berichtet in MedPage Today, fand, dass Frauen mit längerer lebenslanger Östrogenexposition (längere reproduktive Spanne) geringere Odds für zerebrovaskuläre Pathologie hatten: Eine längere reproduktive Spanne war mit etwa 8% niedrigeren Odds verbunden, zwei oder mehr Zeichen kleiner Gefäßkrankheit im Gehirn im Bildgebungsbefund zu zeigen.",
+          "whyItMatters": "Der Befund ist beobachtend und beschreibt eine Assoziation zwischen reproduktivem Verlauf (als Proxy für lebenslange Östrogenexposition) und Befunden in zerebrovaskulärer Bildgebung. Beobachtende Assoziationen können keine Kausalität belegen, und klinische Implikationen für Hormontherapien werden allein durch diese Studie nicht geliefert.",
+          "takeaways": [
+            "In dieser Kohorte war eine längere reproduktive Spanne mit moderat niedrigeren Odds verbunden, mehrere Zeichen zerebraler Kleingefäßkrankheit zu haben.",
+            "Dies ist eine beobachtende Assoziation aus einer Kohortenstudie; sie beweist nicht, dass Östrogenexposition die Unterschiede in der Hirnpathologie verursacht.",
+            "Entscheidungen zu Hormontherapien sollten nicht allein auf diesem Ergebnis beruhen; randomisierte Studien und Mechanismusforschung sind erforderlich.",
+            "Die Ergebnisse können weitere Forschung darüber anregen, wie reproduktive Faktoren das vaskuläre Altern des Gehirns beeinflussen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo de coorte sueco liga maior duração reprodutiva (maior exposição ao estrogênio ao longo da vida) a menos patologia cerebrovascular",
+          "summary": "Um estudo de coorte da Suécia divulgado no MedPage Today encontrou que mulheres com maior exposição ao estrogênio ao longo da vida (maior duração reprodutiva) tiveram menores chances de apresentar patologia cerebrovascular: uma duração reprodutiva mais longa associou‑se a cerca de 8% menos chances de apresentar dois ou mais sinais de doença de pequenos vasos cerebrais em imagem.",
+          "whyItMatters": "O achado é observacional e descreve uma associação entre história reprodutiva (um proxy para exposição ao estrogênio ao longo da vida) e sinais em imagem cerebrovascular. Associações observacionais não estabelecem causalidade, e implicações clínicas para terapias hormonais não são fornecidas por este estudo isoladamente.",
+          "takeaways": [
+            "Maior duração reprodutiva foi associada a chances modestamente menores de ter múltiplos sinais de doença de pequenos vasos cerebrais nesta coorte.",
+            "Trata‑se de uma associação observacional de um estudo de coorte; não prova que a exposição ao estrogênio cause as diferenças na patologia cerebral.",
+            "Decisões sobre terapias hormonais não devem basear‑se apenas neste resultado; ensaios randomizados e estudos mecanísticos são necessários.",
+            "Os achados podem estimular mais pesquisas sobre como fatores reprodutivos influenciam o envelhecimento vascular cerebral."
+          ]
+        },
+        "hu": {
+          "title": "Svéd kohorsz: hosszabb reproduktív időszak (nagyobb életnyi ösztrogén-expozíció) összefüggésben kevesebb cerebrovaszkuláris elváltozással",
+          "summary": "Egy svéd kohorszvizsgálat, amelyről a MedPage Today számol be, azt találta, hogy a hosszabb élettartamra kiterjedő ösztrogén-expozíciónak tekintett hosszabb reproduktív időszakú nők kisebb valószínűséggel mutattak cerebrovaszkuláris patológiát: a hosszabb reproduktív időszak körülbelül 8%-kal alacsonyabb eséllyel volt társítható két vagy több jel megjelenésével a kisagy- és kiserek betegségére utaló képalkotáson.",
+          "whyItMatters": "Az eredmény megfigyeléses, és asszociációt ír le a reproduktív történet (az életnyi ösztrogén-expozíció proxyja) és a cerebrovaszkuláris képalkotási jelek között. A megfigyeléses összefüggések nem bizonyítják az okozatiságot, és a hormonkezelésekre vonatkozó klinikai következtetések nem alapozhatók erre a vizsgálatra egyedül.",
+          "takeaways": [
+            "A hosszabb reproduktív időszak összefüggött mérsékelten alacsonyabb eséllyel, hogy a résztvevőknél több jel legyen jelen a cerebrális kisér-betegség képalkotásán.",
+            "Ez megfigyeléses összefüggés egy kohorszvizsgálatból; nem bizonyítja, hogy az ösztrogén expozíció okozza a különbségeket az agyi patológiában.",
+            "A hormonterápiára vonatkozó döntések nem alapulhatnak kizárólag ezen eredményen; szükségesek randomizált vizsgálatok és mechanisztikus kutatások.",
+            "Az eredmények ösztönözhetik a további kutatásokat arról, hogyan befolyásolják a reproduktív tényezők az érrendszeri agyi öregedést."
+          ]
+        },
+        "ar": {
+          "title": "دراسة سويدية تربط طول الفترة الإنجابية (تعرض أكبر للاستروجين مدى الحياة) بوجود أقل لتغيرات أوعية المخ",
+          "summary": "أفادت دراسة أترابية من السويد نُقلت على MedPage Today أن النساء اللواتي لمثلن فترة إنجابية أطول — ما يُعتبر مؤشرًا لتعرض أعلى للاستروجين مدى الحياة — كانت لديهن احتمالات أقل لوجود أمراض وعائية دماغية: ارتبطت الفترة الإنجابية الأطول بانخفاض بنحو 8% في احتمال ظهور علامتين أو أكثر تشير إلى مرض الأوعية الدقيقة الدماغية في التصوير.",
+          "whyItMatters": "النتيجة مراقَبة وتصف ارتباطًا بين التاريخ التناسلي (بمثابة مؤشر لتعرض الاستروجين مدى الحياة) وعلامات التصوير الوعائية الدماغية. الارتباطات الرصدية لا تثبت السببية، ولا تقدم هذه الدراسة وحدها استنتاجات علاجية حول العلاجات الهرمونية.",
+          "takeaways": [
+            "ارتبطت الفترة الإنجابية الأطول بانخفاض معتدل في احتمالات وجود علامات متعددة لمرض الأوعية الدقيقة الدماغية في هذه العينة.",
+            "هذا ارتباط رصدي من دراسة أترابية؛ لا يثبت أن تعرض الاستروجين يسبب الاختلافات في مَظاهر مرض المخ.",
+            "لا ينبغي اتخاذ قرارات بشأن العلاجات الهرمونية استنادًا إلى هذه النتيجة وحدها؛ هناك حاجة لتجارب عشوائية ودراسات آلية.",
+            "قد تحفز النتائج أبحاثًا إضافية حول كيفية تأثير العوامل التناسلية على شيخوخة الأوعية الدموية الدماغية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=brain-health-linked-with-longer-lifetime-estrogen-exposure-3a8581bcf149",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-health-linked-with-longer-lifetime-estrogen-exposure-3a8581bcf149-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/brain-health-linked-with-longer-lifetime-estrogen-exposure-3a8581bcf149-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Swedish cohort study links longer reproductive span (higher lifetime estrogen exposure) to less cerebrovascular pathology.\nStory summary: A cohort study from Sweden reported in MedPage Today found that women with longer lifetime estrogen exposure (longer reproductive span) had lower odds of cerebrovascular pathology: a longer reproductive span was associated with about 8% lower odds of showing two or more signs of cerebral small vessel disease on imaging..\nCategory: healthy ageing & brain health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "glioblastoma-s-chaos-follows-predictable-rules-2a2c5e11e99e",
+      "category": "neuroscience & cancer (computational/preclinical)",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/glioblastomas-cellular-plasticity-cancer-32383/",
+      "sourceTitle": "Glioblastoma’s Chaos Follows Predictable Rules",
+      "publishedAt": "Wed, 04 Nov 2026 18:57:42 +0000",
+      "languages": {
+        "en": {
+          "title": "AI analysis of >1 million tumor cells uncovers molecular switches behind glioblastoma plasticity",
+          "summary": "Researchers applied large-scale single-cell analysis and AI to over one million tumor cells and report identifying molecular 'switches' that may reprogram malignant glioblastoma cells toward less harmful states. The work is described as revealing predictable rules underlying tumor cellular plasticity.",
+          "whyItMatters": "Understanding the molecular logic of glioblastoma cell-state changes could inform new therapeutic strategies to limit tumor adaptability. The findings appear computational and experimental and should be considered preliminary until replicated and connected to interventions in models or patients.",
+          "takeaways": [
+            "Study used AI and very large single-cell datasets to identify candidate molecular regulators of glioblastoma cell plasticity.",
+            "Authors suggest these regulators might be targeted to reprogram malignant cells, but intervention efficacy remains to be shown.",
+            "Results are promising for hypothesis generation; clinical relevance requires further experimental and translational work.",
+            "Large-scale computational analyses depend on data quality and algorithmic choices; independent validation is important."
+          ]
+        },
+        "es": {
+          "title": "Análisis por IA de más de 1 millón de células tumorales descubre interruptores moleculares detrás de la plasticidad del glioblastoma",
+          "summary": "Investigadores aplicaron análisis a gran escala a nivel de célula única y herramientas de IA a más de un millón de células tumorales y reportan la identificación de «interruptores» moleculares que podrían reprogramar células malignas de glioblastoma hacia estados menos dañinos. El trabajo se describe como revelar reglas previsibles subyacentes a la plasticidad celular tumoral.",
+          "whyItMatters": "Comprender la lógica molecular de los cambios de estado celular en glioblastoma podría informar nuevas estrategias terapéuticas para limitar la adaptabilidad tumoral. Los hallazgos parecen ser computacionales y experimentales, y deben considerarse preliminares hasta su replicación y vinculación con intervenciones en modelos o pacientes.",
+          "takeaways": [
+            "El estudio usó IA y conjuntos de datos unicelulares muy grandes para identificar reguladores moleculares candidatos de la plasticidad celular en glioblastoma.",
+            "Los autores sugieren que estos reguladores podrían dirigirse para reprogramar células malignas, pero la eficacia de tales intervenciones aún no está demostrada.",
+            "Los resultados son prometedores para la generación de hipótesis; la relevancia clínica requiere más trabajo experimental y traslacional.",
+            "Los análisis computacionales a gran escala dependen de la calidad de los datos y de las decisiones algorítmicas; la validación independiente es importante."
+          ]
+        },
+        "ru": {
+          "title": "ИИ‑анализ более чем 1 млн опухолевых клеток выявляет молекулярные переключатели, управляющие пластичностью глиобластомы",
+          "summary": "Исследователи применили крупномасштабный одноклеточный анализ и методы ИИ к более чем одному миллиону опухолевых клеток и сообщают об идентификации молекулярных «переключателей», которые могут перепрограммировать злокачественные клетки глиобластомы в менее вредные состояния. Работа описывается как выявление предсказуемых правил, лежащих в основе клеточной пластичности опухоли.",
+          "whyItMatters": "Понимание молекулярной логики переключений состояния клеток глиобластомы может помочь в разработке новых терапевтических стратегий для ограничения адаптивности опухоли. Результаты имеют вычислительный и экспериментальный характер и должны считаться предварительными до воспроизведения и связи с интервенциями в моделях или у пациентов.",
+          "takeaways": [
+            "Исследование использовало ИИ и очень большие одноклеточные наборы данных для выявления кандидатов на регуляторы пластичности клеток глиобластомы.",
+            "Авторы предполагают, что эти регуляторы можно нацелить для перепрограммирования злокачественных клеток, но эффективность вмешательств пока не показана.",
+            "Результаты полезны для выдвижения гипотез; клиническая значимость требует дальнейших экспериментальных и трансляционных исследований.",
+            "Крупномасштабные вычислительные анализы зависят от качества данных и выбора алгоритмов; важна независимая валидация."
+          ]
+        },
+        "uk": {
+          "title": "Штучний інтелект проаналізував >1 млн пухлинних клітин і виявив молекулярні перемикачі пластичності гліобластоми",
+          "summary": "Дослідники застосували масштабний одноклітинний аналіз і ШІ до понад одного мільйона пухлинних клітин і повідомляють про виявлення молекулярних «перемикачів», які можуть перепрограмовувати злоякісні клітини гліобластоми у менш шкідливі стани. Роботу описано як таку, що виявляє передбачувані правила, які лежать в основі клітинної пластичності пухлини.",
+          "whyItMatters": "Розуміння молекулярної логіки змін станів клітин гліобластоми може інформувати нові терапевтичні стратегії для обмеження адаптивності пухлини. Знахідки мають обчислювальний і експериментальний характер і їх слід вважати попередніми до відтворення та зв’язку з втручаннями у моделях або пацієнтів.",
+          "takeaways": [
+            "Дослідження використало ШІ та дуже великі одноклітинні набори даних для ідентифікації кандидатних молекулярних регуляторів пластичності гліобластоми.",
+            "Автори припускають, що ці регулятори можуть бути націлені для перепрограмування злоякісних клітин, але ефективність втручання ще має бути продемонстрована.",
+            "Результати є перспективними для генерації гіпотез; клінічна значущість потребує подальших експериментальних та трансляційних досліджень.",
+            "Великі обчислювальні аналізи залежать від якості даних та вибору алгоритмів; важлива незалежна валідація."
+          ]
+        },
+        "fr": {
+          "title": "Analyse par IA de >1 million de cellules tumorales révèle des interrupteurs moléculaires de la plasticité du glioblastome",
+          "summary": "Des chercheurs ont appliqué une analyse unicellulaire à très grande échelle et l’IA à plus d’un million de cellules tumorales et rapportent l’identification de « switchs » moléculaires qui pourraient reprogrammer des cellules malignes de glioblastome vers des états moins dommageables. Le travail est présenté comme révélant des règles prévisibles sous‑tendant la plasticité cellulaire tumorale.",
+          "whyItMatters": "Comprendre la logique moléculaire des changements d’état des cellules de glioblastome pourrait éclairer de nouvelles stratégies thérapeutiques visant à limiter l’adaptabilité tumorale. Les conclusions sont computationnelles et expérimentales et doivent être considérées comme préliminaires jusqu’à réplication et application à des interventions en modèles ou chez l’homme.",
+          "takeaways": [
+            "L’étude a utilisé l’IA et d’énormes jeux de données unicellulaires pour identifier des régulateurs moléculaires candidats de la plasticité du glioblastome.",
+            "Les auteurs suggèrent que ces régulateurs pourraient être ciblés pour reprogrammer des cellules malignes, mais l’efficacité d’interventions reste à démontrer.",
+            "Les résultats sont prometteurs pour la génération d’hypothèses ; la pertinence clinique nécessite des travaux expérimentaux et translationnels supplémentaires.",
+            "Les analyses computationnelles à grande échelle dépendent de la qualité des données et des choix algorithmiques ; une validation indépendante est importante."
+          ]
+        },
+        "de": {
+          "title": "KI‑Analyse von mehr als einer Million Tumorzellen enthüllt molekulare Schalter hinter Glioblastom‑Plastizität",
+          "summary": "Forscher wendeten groß angelegte Einzelzellanalysen und KI auf über eine Million Tumorzellen an und berichten, molekulare 'Schalter' identifiziert zu haben, die maligne Glioblastomzellen in weniger schädliche Zustände umprogrammieren könnten. Die Arbeit wird als Aufdeckung vorhersehbarer Regeln beschrieben, die der zellulären Plastizität von Tumoren zugrunde liegen.",
+          "whyItMatters": "Das Verständnis der molekularen Logik von Zellzustandswechseln im Glioblastom könnte neue therapeutische Strategien zur Begrenzung der Anpassungsfähigkeit von Tumoren informieren. Die Befunde sind rechnerisch und experimentell und sollten als vorläufig angesehen werden, bis sie repliziert und mit Interventionen in Modellen oder Patienten verbunden sind.",
+          "takeaways": [
+            "Die Studie nutzte KI und sehr große Einzelzell‑Datensätze, um Kandidaten‑Regulatoren der Plastizität im Glioblastom zu identifizieren.",
+            "Die Autorinnen und Autoren schlagen vor, diese Regulatoren könnten gezielt werden, um maligne Zellen umzuprogrammieren, aber die Wirksamkeit von Interventionen bleibt zu zeigen.",
+            "Die Ergebnisse sind vielversprechend für die Generierung von Hypothesen; die klinische Relevanz erfordert weitere experimentelle und translationale Arbeit.",
+            "Groß angelegte rechnerische Analysen hängen von Datenqualität und algorithmischen Entscheidungen ab; unabhängige Validierung ist wichtig."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise por IA de mais de 1 milhão de células tumorais revela interruptores moleculares por trás da plasticidade do glioblastoma",
+          "summary": "Pesquisadores aplicaram análise em grande escala por célula única e IA a mais de um milhão de células tumorais e relatam ter identificado 'interruptores' moleculares que podem reprogramar células malignas do glioblastoma para estados menos nocivos. O trabalho é descrito como revelador de regras previsíveis que regem a plasticidade celular tumoral.",
+          "whyItMatters": "Entender a lógica molecular das mudanças de estado celular no glioblastoma pode informar novas estratégias terapêuticas para limitar a adaptabilidade tumoral. Os achados parecem computacionais e experimentais e devem ser considerados preliminares até serem replicados e conectados a intervenções em modelos ou pacientes.",
+          "takeaways": [
+            "O estudo usou IA e conjuntos de dados de célula única muito grandes para identificar reguladores candidatos da plasticidade do glioblastoma.",
+            "Os autores sugerem que esses reguladores podem ser alvos para reprogramar células malignas, mas a eficácia de intervenções ainda precisa ser demonstrada.",
+            "Os resultados são promissores para geração de hipóteses; a relevância clínica requer trabalho experimental e translacional adicional.",
+            "Análises computacionais em grande escala dependem da qualidade dos dados e das escolhas algorítmicas; validação independente é importante."
+          ]
+        },
+        "hu": {
+          "title": "AI-elemzés több mint egymillió tumorsejten molekuláris kapcsolókat tár fel a glioblastóma plaszticitása mögött",
+          "summary": "A kutatók nagy léptékű egységsejtes elemzést és mesterséges intelligenciát alkalmaztak több mint egymillió tumorsejten, és arról számolnak be, hogy molekuláris „kapcsolókat” azonosítottak, amelyek átteremthetnek rosszindulatú glioblastóma-sejteket kevésbé veszélyes állapotok felé. A munka azt mutatja, hogy a tumorsejtes plaszticitás mögött előrejelezhető szabályok lehetnek.",
+          "whyItMatters": "A glioblastóma sejtes állapotváltozásainak molekuláris logikájának megértése új terápiás stratégiákhoz vezethet a daganat alkalmazkodóképességének korlátozására. Az eredmények számítási és kísérleti természetűek, és előzetesnek tekintendők, amíg meg nem ismétlik és nem kapcsolják beavatkozásokhoz modellekben vagy betegeknél.",
+          "takeaways": [
+            "A tanulmány AI-t és nagyon nagy egységsejtes adatkészleteket használt a glioblastóma sejtplaszticitásának molekuláris szabályozóinak jelöltjei azonosítására.",
+            "A szerzők azt javasolják, hogy ezeket a szabályozókat célozni lehetne a malignus sejtek átterelésére, de az beavatkozások hatékonysága még nem bizonyított.",
+            "Az eredmények ígéretesek a hipotézisgeneráláshoz; a klinikai relevancia további kísérleti és transzlációs munkát igényel.",
+            "A nagyléptékű számítási elemzések a forrásadatok minőségétől és az algoritmusválasztástól függnek; független validáció fontos."
+          ]
+        },
+        "ar": {
+          "title": "تحليل بالذكاء الاصطناعي لأكثر من مليون خلية ورمية يكشف محولات جزيئية وراء مرونة الورم الدبقي",
+          "summary": "طبق الباحثون تحليلاً أحادي الخلية واسع النطاق والذكاء الاصطناعي على أكثر من مليون خلية ورمية وأبلغوا عن تحديد محولات جزيئية قد تعيد برمجة خلايا الورم الدبقي الخبيثة نحو حالات أقل ضرراً. يُوصف العمل بأنه يكشف قواعد متوقعة تحكم مرونة خلايا الورم.",
+          "whyItMatters": "فهم المنطق الجزيئي لتغيرات حالة خلايا الورم الدبقي قد يساهم في استراتيجيات علاجية جديدة للحد من قابلية الورم للتكيف. تبدو النتائج حسابية وتجريبية ويجب اعتبارها أولية إلى أن تُكرر وتُربَط بتدخلات في نماذج أو مرضى.",
+          "takeaways": [
+            "استخدمت الدراسة الذكاء الاصطناعي وبيانات أحادية الخلية كبيرة جدًا لتحديد مُنظِّمين جزيئيين مرشحين لمرونة خلايا الورم الدبقي.",
+            "يقترح المؤلفون أنه يمكن استهداف هذه المُنظِّمات لإعادة برمجة الخلايا الخبيثة، لكن فعالية التدخلات لم تُظهر بعد.",
+            "النتائج واعدة لتوليد الفرضيات؛ والملاءمة السريرية تتطلب أعمالًا تجريبية وترجَمَة لاحقة.",
+            "تعتمد التحليلات كبيرة النطاق على جودة البيانات والاختيارات الخوارزمية؛ لذا فالتحقق المستقل مهم."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glioblastoma-s-chaos-follows-predictable-rules-2a2c5e11e99e",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glioblastoma-s-chaos-follows-predictable-rules-2a2c5e11e99e-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glioblastoma-s-chaos-follows-predictable-rules-2a2c5e11e99e-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI analysis of >1 million tumor cells uncovers molecular switches behind glioblastoma plasticity.\nStory summary: Researchers applied large-scale single-cell analysis and AI to over one million tumor cells and report identifying molecular 'switches' that may reprogram malignant glioblastoma cells toward less harmful states. The work is described as revealing predictable rules underlying tumor cellular plasticity..\nCategory: neuroscience & cancer (computational/preclinical).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "a-surprising-discovery-could-help-aging-muscles-repair-themselves-44b7f6da631e",
       "category": "regeneration and stem cells",
@@ -234,6 +1046,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Modeling study estimates large global benefits from switching to potassium-enriched salt.\nStory summary: Researchers assessed the health impact of replacing the global salt supply with potassium-enriched salt across 193 countries and estimated that nearly 3 million deaths and 10 million new cases of cardiovascular and kidney disease could be prevented each year; the research was published in Nature Health..\nCategory: heart disease & public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "data-to-decisions-unlocking-the-potential-of-india-s-food-systems-b04a0b2a541a",
+      "category": "nutrition policy & data",
+      "sourceName": "gainhealth.org",
+      "sourceUrl": "https://www.gainhealth.org/blogs/data-decisions-unlocking-potential-indias-food-systems-dashboard",
+      "sourceTitle": "Data to Decisions: Unlocking the potential of India’s Food Systems Dashboard",
+      "publishedAt": "Wed, 04 Nov 2026 09:10:59 +0000",
+      "languages": {
+        "en": {
+          "title": "GAIN blog outlines how India’s Food Systems Dashboard can support data-driven policy and programming",
+          "summary": "A GAIN blog describes efforts to unlock the potential of India’s Food Systems Dashboard as a tool to guide policy and program decisions related to food systems, nutrition and public health. The piece discusses data use, dashboard features, and opportunities for stakeholders to apply the resource.",
+          "whyItMatters": "Decision-support dashboards can help translate complex nutrition and food-systems data into actionable insights for policymakers and implementers. As a blog, this is a practical discussion of tools and implementation rather than peer-reviewed research on health outcomes.",
+          "takeaways": [
+            "The dashboard is presented as a platform to make food-systems and nutrition data more usable for policy and program decisions in India.",
+            "This is an implementation-focused blog post; claims about impact would require evaluation and independent assessment.",
+            "Data tools can improve targeting and monitoring but depend on data quality, accessibility, and stakeholder capacity.",
+            "Policymakers and practitioners should consider dashboards as one component of evidence-informed decision-making."
+          ]
+        },
+        "es": {
+          "title": "Blog de GAIN explica cómo el Food Systems Dashboard de India puede apoyar políticas y programas basados en datos",
+          "summary": "Un blog de GAIN describe esfuerzos para desbloquear el potencial del Food Systems Dashboard de India como herramienta para guiar decisiones de política y programación relacionadas con los sistemas alimentarios, la nutrición y la salud pública. La pieza aborda el uso de datos, las funciones del tablero y oportunidades para que las partes interesadas apliquen el recurso.",
+          "whyItMatters": "Los paneles de apoyo a la toma de decisiones pueden ayudar a traducir datos complejos sobre sistemas alimentarios y nutrición en información accionable para responsables de políticas e implementadores. Como blog, se trata de una discusión práctica sobre herramientas e implementación, no de investigación revisada por pares sobre resultados en salud.",
+          "takeaways": [
+            "El tablero se presenta como una plataforma para hacer que los datos sobre sistemas alimentarios y nutrición sean más utilizables en decisiones de política y programas en India.",
+            "Se trata de un artículo centrado en la implementación; las afirmaciones sobre impacto requerirían evaluación y valoración independientes.",
+            "Las herramientas de datos pueden mejorar el direccionamiento y el monitoreo, pero dependen de la calidad de los datos, su accesibilidad y la capacidad de las partes interesadas.",
+            "Responsables de políticas y profesionales deberían considerar los tableros como un componente de la toma de decisiones informada por la evidencia."
+          ]
+        },
+        "ru": {
+          "title": "Блог GAIN объясняет, как Food Systems Dashboard Индии может поддержать принятие политических и программных решений на основе данных",
+          "summary": "Блог GAIN описывает усилия по раскрытию потенциала Food Systems Dashboard Индии как инструмента для руководства политическими и программными решениями, связанными с продовольственными системами, питанием и общественным здравоохранением. В материале обсуждаются использование данных, функции дашборда и возможности для заинтересованных сторон по применению ресурса.",
+          "whyItMatters": "Панели поддержки принятия решений могут помочь преобразовать сложные данные о продовольственных системах и питании в практические выводы для политиков и исполнителей. Поскольку это блог, материал представляет собой практическое обсуждение инструментов и внедрения, а не рецензируемое исследование по влиянию на здоровье.",
+          "takeaways": [
+            "Дашборд представлен как платформа для повышения полезности данных о продовольственных системах и питании для принятия политических и программных решений в Индии.",
+            "Это материал, ориентированный на внедрение; утверждения об эффекте требуют оценки и независимой проверки.",
+            "Инструменты данных могут улучшить таргетирование и мониторинг, но зависят от качества данных, их доступности и возможностей заинтересованных сторон.",
+            "Политики и практики должны рассматривать дашборды как один из компонентов принятия решений, основанных на доказательствах."
+          ]
+        },
+        "uk": {
+          "title": "Блог GAIN описує, як Індійська панель харчових систем може підтримати політику, орієнтовану на дані",
+          "summary": "Блог GAIN описує зусилля щодо розкриття потенціалу Індійської панелі харчових систем як інструмента для керування політикою та програмами, пов’язаними з продовольчими системами, харчуванням та громадським здоров’ям. У статті обговорюють використання даних, функції панелі та можливості для зацікавлених сторін застосувати цей ресурс.",
+          "whyItMatters": "Панелі підтримки прийняття рішень можуть допомогти перетворити складні дані про харчові системи та харчування на практичні результати для політиків і реалізаторів програм. Оскільки це блог, це практичне обговорення інструментів і впровадження, а не рецензоване дослідження про результати для здоров’я.",
+          "takeaways": [
+            "Панель представлена як платформа для зроблення даних про харчові системи та харчування більш придатними для політичних і програмних рішень в Індії.",
+            "Це матеріал зосереджений на впровадженні; ствердження про вплив потребують оцінки та незалежної перевірки.",
+            "Інструменти даних можуть покращити таргетування і моніторинг, але залежать від якості даних, доступності і спроможності зацікавлених сторін.",
+            "Політики та практики повинні розглядати панелі як одну зі складових прийняття рішень, що базуються на доказах."
+          ]
+        },
+        "fr": {
+          "title": "Le blog de GAIN présente comment le Food Systems Dashboard indien peut soutenir des politiques fondées sur les données",
+          "summary": "Un billet de blog de GAIN décrit les efforts pour libérer le potentiel du Food Systems Dashboard de l’Inde en tant qu’outil d’orientation des politiques et des programmes liés aux systèmes alimentaires, à la nutrition et à la santé publique. Le texte aborde l’utilisation des données, les fonctionnalités du tableau de bord et les opportunités pour les parties prenantes d’appliquer cette ressource.",
+          "whyItMatters": "Les tableaux de bord d’aide à la décision peuvent aider à traduire des données complexes sur les systèmes alimentaires et la nutrition en informations actionnables pour les décideurs et les opérateurs. Étant un blog, il s’agit d’une discussion pratique sur les outils et la mise en œuvre plutôt que d’une recherche évaluée par les pairs sur les résultats sanitaires.",
+          "takeaways": [
+            "Le tableau de bord est présenté comme une plateforme rendant les données sur les systèmes alimentaires et la nutrition plus utilisables pour les décisions politiques et programmatiques en Inde.",
+            "Il s’agit d’un article axé sur la mise en œuvre ; les affirmations d’impact nécessiteraient une évaluation et un examen indépendant.",
+            "Les outils de données peuvent améliorer le ciblage et le suivi, mais dépendent de la qualité des données, de l’accessibilité et des capacités des parties prenantes.",
+            "Les responsables politiques et praticiens devraient considérer les tableaux de bord comme un élément de la prise de décision fondée sur les preuves."
+          ]
+        },
+        "de": {
+          "title": "GAIN‑Blog skizziert, wie Indiens Food Systems Dashboard datenbasierte Politik und Programme unterstützen kann",
+          "summary": "Ein GAIN‑Blog beschreibt Bemühungen, das Potenzial von Indiens Food Systems Dashboard als Werkzeug zur Steuerung datenbasierter Politik‑ und Programmentscheidungen im Bereich Ernährung und öffentliche Gesundheit zu erschließen. Der Beitrag diskutiert Datennutzung, Dashboard‑Funktionen und Möglichkeiten für Interessengruppen, die Ressource anzuwenden.",
+          "whyItMatters": "Entscheidungsunterstützende Dashboards können komplexe Ernährungs‑ und Ernährungssystemdaten in umsetzbare Einsichten für Politik und Implementierung übersetzen. Als Blog ist dies eine praxisorientierte Diskussion von Werkzeugen und Umsetzung und kein peer‑reviewter Forschungsbericht zu gesundheitlichen Ergebnissen.",
+          "takeaways": [
+            "Das Dashboard wird als Plattform dargestellt, um Daten zu Ernährungssystemen und Ernährung in Indien nutzbarer für Politik‑ und Programmentscheidungen zu machen.",
+            "Dies ist ein implementierungsorientierter Blogbeitrag; Aussagen über Wirkung erfordern Evaluation und unabhängige Bewertung.",
+            "Datentools können Zielausrichtung und Überwachung verbessern, sind jedoch abhängig von Datenqualität, Zugänglichkeit und Kapazitäten der Akteure.",
+            "Politikgestaltende und Praktiker sollten Dashboards als einen Bestandteil evidenzbasierter Entscheidungsfindung betrachten."
+          ]
+        },
+        "pt-br": {
+          "title": "Blog da GAIN descreve como o Food Systems Dashboard da Índia pode apoiar políticas e programas baseados em dados",
+          "summary": "Um blog da GAIN descreve esforços para desbloquear o potencial do Food Systems Dashboard da Índia como uma ferramenta para orientar decisões de políticas e programas relacionadas a sistemas alimentares, nutrição e saúde pública. O texto discute uso de dados, recursos do dashboard e oportunidades para partes interessadas aplicarem o recurso.",
+          "whyItMatters": "Dashboards de apoio à decisão podem ajudar a traduzir dados complexos sobre nutrição e sistemas alimentares em insights acionáveis para formuladores de políticas e implementadores. Como um blog, esta é uma discussão prática sobre ferramentas e implementação, não uma pesquisa revisada por pares sobre desfechos de saúde.",
+          "takeaways": [
+            "O dashboard é apresentado como uma plataforma para tornar dados sobre sistemas alimentares e nutrição mais utilizáveis para decisões de políticas e programas na Índia.",
+            "Trata‑se de um post focado em implementação; alegações sobre impacto exigiriam avaliação e verificação independente.",
+            "Ferramentas de dados podem melhorar direcionamento e monitoramento, mas dependem da qualidade dos dados, acessibilidade e capacidade das partes interessadas.",
+            "Formuladores de políticas e profissionais devem considerar dashboards como um componente da tomada de decisão informada por evidências."
+          ]
+        },
+        "hu": {
+          "title": "A GAIN blog bemutatja, hogyan támogathatja India Food Systems Dashboardja az adatvezérelt politikát és programozást",
+          "summary": "Egy GAIN-blog bemutatja erőfeszítéseket India Food Systems Dashboardjának lehetőségeinek feltárására mint eszközre az élelmiszerrendszerekre, táplálkozásra és közegészségre vonatkozó politikai és programozási döntések irányításához. A bejegyzés tárgyalja az adathasználatot, a dashboard jellemzőit és a szereplők számára rendelkezésre álló alkalmazási lehetőségeket.",
+          "whyItMatters": "A döntéstámogató dashboardok segíthetnek az összetett táplálkozási és élelmiszerrendszeri adatok cselekvésre fordítható betekintésekké alakításában a döntéshozók és kivitelezők számára. Mivel ez egy blogbejegyzés, gyakorlati eszköz- és megvalósítási vitát kínál, nem pedig lektorált kutatást az egészségügyi kimenetekről.",
+          "takeaways": [
+            "A dashboardot olyan platformként mutatják be, amely használhatóbbá teheti az élelmiszerrendszeri és táplálkozási adatokat India politikai és programozási döntéseihez.",
+            "Ez egy megvalósításközpontú blogbejegyzés; az eredményekre vonatkozó hatásigényléseket értékelésnek és független vizsgálatnak kell alávetni.",
+            "Az adat-eszközök javíthatják a célzást és a monitorozást, de függnek az adatok minőségétől, hozzáférhetőségétől és a szereplők kapacitásától.",
+            "A döntéshozóknak és gyakorlati szakembereknek a dashboardokat az evidencián alapuló döntéshozatal egyik elemeként érdemes fontolóra venniük."
+          ]
+        },
+        "ar": {
+          "title": "مدونة GAIN توضح كيف يمكن لقاعدة بيانات أنظمة الغذاء في الهند دعم السياسات والبرمجة المبنية على البيانات",
+          "summary": "تصف مدونة لـGAIN الجهود الرامية إلى فتح إمكانات لوحة معلومات أنظمة الغذاء في الهند كأداة لتوجيه قرارات السياسات والبرامج المتعلقة بأنظمة الغذاء والتغذية والصحة العامة. يناقش المقال استخدام البيانات وميزات اللوحة وفرص تطبيقها من قِبل الجهات المعنية.",
+          "whyItMatters": "يمكن لأدوات دعم القرار من نوع اللوحات المعلوماتية أن تساعد في تحويل بيانات أنظمة الغذاء والتغذية المعقدة إلى رؤى قابلة للتنفيذ لصانعي السياسات والمنفذين. وبما أن هذا منشور مدونة، فهو نقاش عملي حول الأدوات والتنفيذ ولا يعد بحثًا محكّمًا حول نتائج صحية.",
+          "takeaways": [
+            "تُعرض اللوحة كمنصة لجعل بيانات أنظمة الغذاء والتغذية أكثر قابلية للاستخدام لقرارات السياسة والبرمجة في الهند.",
+            "هذا منشور مدونة يركز على التنفيذ؛ وستستلزم الادعاءات حول التأثير تقييمًا وتدقيقًا مستقلًا.",
+            "يمكن لأدوات البيانات تحسين الاستهداف والمراقبة، لكنها تعتمد على جودة البيانات وإمكانية الوصول وقدرة الجهات المعنية.",
+            "ينبغي على صانعي السياسات والممارسين اعتبار اللوحات كأحد مكونات صنع القرار المبني على الأدلة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=data-to-decisions-unlocking-the-potential-of-india-s-food-systems-b04a0b2a541a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/data-to-decisions-unlocking-the-potential-of-india-s-food-systems-b04a0b2a541a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/data-to-decisions-unlocking-the-potential-of-india-s-food-systems-b04a0b2a541a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: GAIN blog outlines how India’s Food Systems Dashboard can support data-driven policy and programming.\nStory summary: A GAIN blog describes efforts to unlock the potential of India’s Food Systems Dashboard as a tool to guide policy and program decisions related to food systems, nutrition and public health. The piece discusses data use, dashboard features, and opportunities for stakeholders to apply the resource..\nCategory: nutrition policy & data.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "multi-cancer-blood-tests-coming-to-some-gp-surgeries-soon-7939dc6ba0d6",
@@ -1536,6 +2464,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Perspective on how lipid spatial organization contributes to disease.\nStory summary: A Voices piece in Cell Metabolism discusses how lipids are organized spatially and dynamically within organelles, cells and across organs, and how disruption of this organization is implicated in conditions such as neurodegeneration, cardiovascular disease and inflammation..\nCategory: lipid biology & disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "beyond-bacteria-a-fungal-metabolite-drives-liver-cancer-from-with-d4bf49d3e5c9",
+      "category": "liver disease & cancer (preclinical)",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00441-9?rss=yes",
+      "sourceTitle": "Beyond bacteria: A fungal metabolite drives liver cancer from within",
+      "publishedAt": "2026-11-03",
+      "languages": {
+        "en": {
+          "title": "Gut fungus Rhizopus arrhizus and its metabolite linked to MASLD-associated liver cancer in experimental study",
+          "summary": "A Cell Metabolism report describes work by Zhou et al. implicating the fungus Rhizopus arrhizus in promoting MASLD-associated liver cancer through production of kynurenic acid, which the authors propose engages the cytoplasmic scaffold IQGAP1. The paper characterizes a fungal metabolite–driven mechanism linking gut fungi to liver tumorigenesis.",
+          "whyItMatters": "Most microbiome cancer research focuses on bacteria; this study highlights fungi and a specific metabolite as potential contributors to liver cancer biology. The work appears mechanistic and experimental, so it is preliminary with respect to human clinical relevance.",
+          "takeaways": [
+            "The study identifies a fungal species and a metabolite (kynurenic acid) that the authors link mechanistically to liver cancer pathways involving IQGAP1.",
+            "Evidence reported is mechanistic/experimental — not clinical proof that the fungus causes cancer in people.",
+            "If independently replicated, the finding could open new avenues for studying fungal contributions to metabolic liver disease and cancer.",
+            "Translational steps (epidemiology, human validation, intervention studies) are required before clinical implications are clear."
+          ]
+        },
+        "es": {
+          "title": "Hongo intestinal Rhizopus arrhizus y su metabolito vinculados al cáncer hepático asociado a MASLD en estudio experimental",
+          "summary": "Un informe en Cell Metabolism describe el trabajo de Zhou et al., que implica al hongo Rhizopus arrhizus en la promoción del cáncer hepático asociado a MASLD mediante la producción de ácido quinurénico, que los autores proponen que interactúa con el andamiaje citoplasmático IQGAP1. El artículo caracteriza un mecanismo impulsado por un metabolito fúngico que vincula hongos intestinales con la tumorogénesis hepática.",
+          "whyItMatters": "La mayor parte de la investigación del microbioma en cáncer se centra en bacterias; este estudio destaca a los hongos y a un metabolito específico como posibles contribuyentes a la biología del cáncer hepático. El trabajo parece ser mecanístico y experimental, por lo que es preliminar en cuanto a su relevancia clínica humana.",
+          "takeaways": [
+            "El estudio identifica una especie fúngica y un metabolito (ácido quinurénico) que los autores vinculan de forma mecanística a vías implicadas en el cáncer hepático que involucran IQGAP1.",
+            "La evidencia presentada es mecanística/experimental — no prueba clínica de que el hongo cause cáncer en personas.",
+            "Si se reproduce de forma independiente, el hallazgo podría abrir nuevas vías para estudiar la contribución de los hongos a la enfermedad hepática metabólica y al cáncer.",
+            "Se requieren pasos traslacionales (epidemiología, validación en humanos, estudios de intervención) antes de que las implicaciones clínicas queden claras."
+          ]
+        },
+        "ru": {
+          "title": "Кишечный гриб Rhizopus arrhizus и его метаболит связаны с раком печени, ассоциированным с MASLD, в экспериментальном исследовании",
+          "summary": "Отчет в Cell Metabolism описывает работу Zhou et al., в которой гриб Rhizopus arrhizus предположительно способствует развитию рака печени, связанного с MASLD, через продукцию кинуреновой кислоты, которую авторы предполагают вовлекающей цитоплазматический каркас IQGAP1. В статье характеризуется механизм, опосредованный грибным метаболитом, связывающий кишечные грибы с печёночной опухолеобразованием.",
+          "whyItMatters": "Большая часть исследований микробиома в онкологии фокусируется на бактериях; это исследование обращает внимание на грибы и конкретный метаболит как возможных участников биологии рака печени. Работа носит механистический и экспериментальный характер, поэтому её значение для клинической практики у людей пока предварительное.",
+          "takeaways": [
+            "Исследование выделяет вид гриба и метаболит (кинуреновая кислота), которые авторы связывают механизмами с путями ракообразования печени, включающими IQGAP1.",
+            "Представленные данные являются механистическими/экспериментальными — это не клиническое доказательство того, что гриб вызывает рак у людей.",
+            "При независимом воспроизведении находка может открыть новые направления для изучения роли грибов в метаболической болезни печени и раке.",
+            "Для прояснения клинических последствий необходимы трансляционные шаги: эпидемиологические исследования, подтверждение в человеcких образцах и исследования вмешательств."
+          ]
+        },
+        "uk": {
+          "title": "Кишковий гриб Rhizopus arrhizus та його метаболіт пов’язані з раком печінки, асоційованим із MASLD, в експериментальному дослідженні",
+          "summary": "Повідомлення в Cell Metabolism описує роботу Zhou et al., які вказують на роль гриба Rhizopus arrhizus у сприянні раку печінки, пов’язаному з MASLD, через продукцію кінуренової кислоти, яку автори пропонують залучати до взаємодії з цитоплазматичним «каркасом» IQGAP1. Стаття характеризує механізм, керований грибковим метаболітом, що пов’язує кишкові гриби з печінковою пухлиногенезою.",
+          "whyItMatters": "Більшість досліджень мікробіому й раку зосереджені на бактеріях; це дослідження висвітлює роль грибів і конкретного метаболіту як потенційних учасників біології раку печінки. Робота є механістичною та експериментальною, тому її клінічна значущість для людей наразі попередня.",
+          "takeaways": [
+            "Дослідження ідентифікує грибковий вид і метаболіт (кінуренову кислоту), які автори пов’язують механістично з печінковими онкологічними шляхами за участю IQGAP1.",
+            "Подані докази є механістичними/експериментальними — це не клінічне підтвердження того, що гриб викликає рак у людей.",
+            "У разі незалежного відтворення це відкриття може відкрити нові напрямки вивчення внеску грибів у метаболічні захворювання печінки та рак.",
+            "Потрібні трансляційні кроки (епідеміологія, підтвердження в людей, дослідження втручань), перш ніж стануть ясні клінічні наслідки."
+          ]
+        },
+        "fr": {
+          "title": "Le champignon intestinal Rhizopus arrhizus et son métabolite liés au cancer du foie associé à la MASLD dans une étude expérimentale",
+          "summary": "Un article dans Cell Metabolism décrit le travail de Zhou et al. impliquant le champignon Rhizopus arrhizus dans la promotion du cancer du foie associé à la MASLD via la production d’acide kynurénique, que les auteurs proposent comme interagissant avec l’échafaudage cytoplasmique IQGAP1. L’article caractérise un mécanisme entraîné par un métabolite fongique reliant les champignons intestinaux à la tumorigénèse hépatique.",
+          "whyItMatters": "La plupart des recherches sur le microbiome et le cancer se concentrent sur les bactéries ; cette étude met en lumière les champignons et un métabolite spécifique comme contributeurs potentiels à la biologie du cancer du foie. Les travaux sont mécanistiques et expérimentaux, donc préliminaires quant à leur pertinence clinique humaine.",
+          "takeaways": [
+            "L’étude identifie une espèce fongique et un métabolite (acide kynurénique) que les auteurs lient mécanistiquement à des voies du cancer du foie impliquant IQGAP1.",
+            "Les preuves rapportées sont mécanistiques/expérimentales — ce n’est pas une preuve clinique que le champignon cause le cancer chez l’humain.",
+            "Si reproduit de manière indépendante, ce résultat pourrait ouvrir de nouvelles voies pour étudier la contribution des champignons aux maladies hépatiques métaboliques et au cancer.",
+            "Des étapes translationnelles (épidémiologie, validation humaine, études d’intervention) sont nécessaires avant d’établir des implications cliniques."
+          ]
+        },
+        "de": {
+          "title": "Darmpilz Rhizopus arrhizus und dessen Metabolit mit MASLD‑assoziertem Leberkrebs in experimenteller Studie in Verbindung gebracht",
+          "summary": "Ein Bericht in Cell Metabolism beschreibt Arbeiten von Zhou et al., die den Pilz Rhizopus arrhizus mit der Förderung von MASLD‑assoziertem Leberkrebs in Verbindung bringen, vermittelt durch die Produktion von Kynurensäure, von der die Autorinnen und Autoren vorschlagen, dass sie das zytoplasmatische Gerüstprotein IQGAP1 einbindet. Das Paper charakterisiert einen pilzmetabolit‑getriebenen Mechanismus, der Darmpilze mit Lebertumorbildung verbindet.",
+          "whyItMatters": "Die meisten Mikrobiom‑Krebsstudien konzentrieren sich auf Bakterien; diese Arbeit hebt Pilze und einen spezifischen Metaboliten als mögliche Mitwirkende in der Leberkrebsbiologie hervor. Die Studie ist mechanistisch und experimentell und damit vorläufig in Bezug auf die Relevanz beim Menschen.",
+          "takeaways": [
+            "Die Studie identifiziert eine Pilzart und einen Metaboliten (Kynurensäure), die die Autorinnen und Autoren mechanistisch mit Leberkrebs‑Signalwegen unter Einbeziehung von IQGAP1 verknüpfen.",
+            "Die berichteten Belege sind mechanistisch/experimentell – kein klinischer Beweis dafür, dass der Pilz beim Menschen Krebs verursacht.",
+            "Bei unabhängiger Replikation könnte der Befund neue Wege eröffnen, um pilzliche Beiträge zu metabolischer Lebererkrankung und Krebs zu untersuchen.",
+            "Übersetzende Schritte (Epidemiologie, Validierung beim Menschen, Interventionsstudien) sind erforderlich, bevor klinische Implikationen klar sind."
+          ]
+        },
+        "pt-br": {
+          "title": "Fungo intestinal Rhizopus arrhizus e seu metabólito associados ao câncer hepático ligado à MASLD em estudo experimental",
+          "summary": "Um relatório na Cell Metabolism descreve o trabalho de Zhou et al., que implicam o fungo Rhizopus arrhizus na promoção do câncer hepático associado à MASLD por meio da produção de ácido quinurênico, que os autores propõem envolver o andaime citoplasmático IQGAP1. O artigo caracteriza um mecanismo impulsionado por um metabólito fúngico que liga fungos intestinais à tumorigenese hepática.",
+          "whyItMatters": "A maior parte da pesquisa sobre microbioma e câncer foca em bactérias; este estudo destaca fungos e um metabólito específico como possíveis contribuintes na biologia do câncer de fígado. O trabalho é mecanístico e experimental, portanto preliminar quanto à relevância clínica humana.",
+          "takeaways": [
+            "O estudo identifica uma espécie fúngica e um metabólito (ácido quinurênico) que os autores vinculam mecanisticamente a vias de câncer hepático envolvendo IQGAP1.",
+            "As evidências relatadas são mecanísticas/experimentais — não prova clínica de que o fungo causa câncer em pessoas.",
+            "Se replicado de forma independente, o achado pode abrir novas vias para estudar contribuições fúngicas à doença hepática metabólica e ao câncer.",
+            "São necessários passos de tradução (epidemiologia, validação em humanos, estudos de intervenção) antes que as implicações clínicas fiquem claras."
+          ]
+        },
+        "hu": {
+          "title": "A bélgomba Rhizopus arrhizus és metabolitja összefüggésbe hozható MASLD-hoz társuló májrákkal kísérleti vizsgálatban",
+          "summary": "A Cell Metabolism-ben közölt beszámoló Zhou és munkatársai munkáját írja le, amely a Rhizopus arrhizus gombát kapcsolja össze a MASLD-hoz társuló májrák előmozdításával a kinurénsav termelése révén; a szerzők azt javasolják, hogy ez a metabolit az IQGAP1 citoplazmatikus vázfehérjét kapcsolja be. A közlemény egy gombás metabolit által meghajtott mechanizmust jellemzi, amely összeköti a bélgombákat a májtumorképződéssel.",
+          "whyItMatters": "A legtöbb mikrobiomrák-kutatás a baktériumokra fókuszál; ez a tanulmány a gombákat és egy konkrét metabolitot emeli ki, mint lehetséges hozzájáruló tényezőket a májrák biológiájában. A munka mechanisztikus és kísérleti jellegű, ezért az emberi klinikai relevanciára nézve még kezdeti.",
+          "takeaways": [
+            "A tanulmány egy gombafajt és egy metabolitot (kinurénsavnak nevezett anyagot) azonosít, amelyet a szerzők mechanisztikusan a IQGAP1-et érintő májrákútvonalakhoz kötnek.",
+            "A jelentett bizonyítékok mechanisztikus/kísérleti természetűek — nem klinikai bizonyítékok arra, hogy a gomba emberekben rákot okoz.",
+            "Ha függetlenül megismétlik, a felfedezés új irányokat nyithat a gombák szerepének tanulmányozásához a metabolikus májbetegségben és a rákkeltésben.",
+            "A transzlációhoz epidemiológiai vizsgálatokra, emberi validációra és beavatkozási tanulmányokra van szükség, mielőtt a klinikai vonatkozások tisztázódnának."
+          ]
+        },
+        "ar": {
+          "title": "فطر الأمعاء Rhizopus arrhizus ومستقلبه مرتبطان بسرطان الكبد المرتبط بـMASLD في دراسة تجريبية",
+          "summary": "تصف رسالة في Cell Metabolism عمل Zhou وآخرين الذي يورط الفطر Rhizopus arrhizus في تعزيز سرطان الكبد المرتبط بـMASLD عبر إنتاج حمض الكينورينيك، والذي يقترح المؤلفون أنه يتفاعل مع السقالة السيتوبلازمية IQGAP1. تصف الورقة آلية مدفوعة بمستقلب فطري تربط فطريات الأمعاء بتكوّن أورام الكبد.",
+          "whyItMatters": "تركز معظم أبحاث الميكروبيوم المتعلقة بالسرطان على البكتيريا؛ تبرز هذه الدراسة الفطريات ومستقلبًا محددًا كمساهمين محتملين في بيولوجيا سرطان الكبد. العمل يبدو آليًا وتجريبيًا، لذا فهو أولي فيما يتعلق بالملاءمة السريرية البشرية.",
+          "takeaways": [
+            "تحدد الدراسة نوعًا فطريًا ومستقلبًا (حمض الكينورينيك) يربطهما المؤلفون آليًا بمسارات سرطان الكبد المتعلقة بـIQGAP1.",
+            "الأدلة المبلغ عنها آلية/تجريبية — ليست دليلًا سريريًا على أن الفطر يسبب السرطان لدى البشر.",
+            "إذا تكررت النتائج بشكل مستقل، فقد تفتح استكشاف دور الفطريات في مرض الكبد الأيضي والسرطان اتجاهات جديدة للبحث.",
+            "مطلوبة خطوات ترجمة (علم الأوبئة، التحقق البشري، دراسات التدخل) قبل أن تتضح الدلالات السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=beyond-bacteria-a-fungal-metabolite-drives-liver-cancer-from-with-d4bf49d3e5c9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/beyond-bacteria-a-fungal-metabolite-drives-liver-cancer-from-with-d4bf49d3e5c9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/beyond-bacteria-a-fungal-metabolite-drives-liver-cancer-from-with-d4bf49d3e5c9-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Gut fungus Rhizopus arrhizus and its metabolite linked to MASLD-associated liver cancer in experimental study.\nStory summary: A Cell Metabolism report describes work by Zhou et al. implicating the fungus Rhizopus arrhizus in promoting MASLD-associated liver cancer through production of kynurenic acid, which the authors propose engages the cytoplasmic scaffold IQGAP1. The paper characterizes a fungal metabolite–driven mechanism linking gut fungi to liver tumorigenesis..\nCategory: liver disease & cancer (preclinical).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "parents-autoimmune-disease-linked-to-kids-type-1-diabetes-risk-1ee42ca09130",
@@ -119215,6 +120259,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-05-motivation-1-story-1",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Emma's Weekend Prep",
+          "story": "Emma started prepping a few lunches on Sundays so weekday choices felt calmer. She spends 20 minutes planning simple meals, then logs those planned items in her tracker. On busy days she updates the log if plans change, which keeps her record honest and useful. The small upfront effort helps her notice which meals keep her satisfied and when she tends to reach for extras. It’s not about perfection—just a predictable habit that makes her week a little easier.",
+          "habit": "Plan and log one meal the night before.",
+          "appCta": "Open Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "La planificación de fin de semana de Emma",
+          "story": "Emma dedica un rato el domingo a preparar un par de almuerzos para que entre semana sea más fácil elegir. Anota esas comidas planeadas en su registro y, si algo cambia, actualiza la entrada. Ese pequeño esfuerzo al principio le ayuda a mantener su registro honesto y a ver qué comidas la dejan satisfecha o cuándo busca un picoteo extra. No se trata de hacerlo perfecto, sino de crear una rutina práctica que facilite sus días.",
+          "habit": "Planea y registra una comida la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Подготовка Эммы к неделе",
+          "story": "Эмма посвящает немного времени по воскресеньям на приготовление нескольких обедов, чтобы будни стали спокойнее. Она вносит эти запланированные блюда в трекер, а при изменениях просто обновляет запись. Небольшая предварительная работа помогает ей вести честный журнал и увидеть, какие блюда дольше сохраняют сытость и когда чаще возникает желание перекусить. Речь не о совершенстве, а о привычке, которая делает неделю чуть проще.",
+          "habit": "Спланируйте и отметьте одну еду вечером перед днём.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Підготовка Емми на вихідні",
+          "story": "Емма витрачає трохи часу в неділю, щоб заздалегідь приготувати кілька обідів — так будні проходять спокійніше. Вона записує заплановані страви у трекер, а якщо щось змінюється, оновлює запис. Невелика підготовка допомагає їй вести чесний журнал і помічати, які страви довше втамовують голод і коли тягне на перекус. Це не про досконалість, а про просту звичку, що полегшує тиждень.",
+          "habit": "Заплануйте та зафіксуйте одну їжу заздалегідь.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "La préparation du week‑end d'Emma",
+          "story": "Emma consacre un peu de temps le dimanche à préparer quelques déjeuners pour que les jours de semaine soient plus sereins. Elle note ces repas prévus dans son suivi et met à jour les entrées si les plans changent. Cet effort simple en amont lui permet de garder un suivi sincère et d’observer quels repas la rassasient, ou quand elle a tendance à grignoter. L’idée n’est pas la perfection, mais une habitude pratique qui simplifie sa semaine.",
+          "habit": "Planifiez et enregistrez un repas la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Emmas Wochenend‑Vorbereitung",
+          "story": "Emma nimmt sich sonntags 20 Minuten, um einige Mittagessen vorzubereiten, damit die Wochentage entspannter werden. Sie trägt die geplanten Mahlzeiten in ihren Tracker ein und aktualisiert den Eintrag, wenn sich etwas ändert. Die kleine Vorarbeit hilft ihr, ehrlich zu protokollieren und zu erkennen, welche Mahlzeiten länger sättigen und wann sie eher zu Snacks greift. Es geht nicht um Perfektion, sondern um eine hilfreiche Gewohnheit, die die Woche erleichtert.",
+          "habit": "Plane und notiere eine Mahlzeit am Vorabend.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute nach."
+        },
+        "pt-br": {
+          "title": "O preparo de fim de semana da Emma",
+          "story": "Emma reserva um tempo no domingo para preparar alguns almoços, assim os dias úteis ficam mais tranquilos. Ela registra essas refeições planejadas no app e atualiza quando algo muda. Esse pequeno esforço prévio ajuda a manter um registro honesto e a entender quais refeições a deixam satisfeita e quando ela tende a beliscar. Não se trata de perfeição, mas de criar um hábito prático que torna a semana mais leve.",
+          "habit": "Planeje e registre uma refeição na noite anterior.",
+          "appCta": "Abra Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Emma hétvégi előkészülete",
+          "story": "Emma vasárnaponként előre elkészít néhány ebédet, hogy a hétköznapok nyugodtabbak legyenek. A tervezett ételeket beírja a naplóba, és ha változik a terv, frissíti a bejegyzést. A kis előkészület segít őszintén vezetni a naplót, és észrevenni, mely ételek tartanak jóllakottnak, vagy mikor kíván többet. Nem a tökéletességről van szó, hanem egy egyszerű szokásról, ami megkönnyíti a hetet.",
+          "habit": "Tervezd meg és jegyezd fel az egyik étkezést előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "تحضيرات إيما لعطلة نهاية الأسبوع",
+          "story": "تخصص إيما وقتًا يوم الأحد لإعداد بعض وجبات الغداء لتسهيل خياراتها خلال الأسبوع. تسجل تلك الوجبات المخططة في تطبيقها، وإذا تغير شيء تحدث السجل. يساعدها هذا الجهد الصغير مقدمًا على أن تظل مسجلاتها صادقة وعلى ملاحظة الوجبات التي تشبعها ومتى تميل لتناول وجبات خفيفة إضافية. الفكرة ليست الكمال، بل عادة عملية تبسط أيامها.",
+          "habit": "خطط وسجل وجبة واحدة في الليلة السابقة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Emma's Weekend Prep.\nStory: Emma started prepping a few lunches on Sundays so weekday choices felt calmer. She spends 20 minutes planning simple meals, then logs those planned items in her tracker. On busy days she updates the log if plans change, which keeps her record honest and useful. The small upfront effort helps her notice which meals keep her satisfied and when she tends to reach for extras. It’s not about perfection—just a predictable habit that makes her week a little easier..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-05-motivation-2-story-2",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Marco's Honest Log",
+          "story": "Marco used to skip logging coffee, thinking it didn't matter. When he started recording small things—coffee, a mid‑afternoon cookie, a glass of juice—he noticed patterns in his energy and cravings. Logging honestly gave him clearer information to make tiny adjustments, like choosing a filling snack or delaying a treat. He treats the log as data, not judgment, and updates entries even on imperfect days. That openness makes the tracker more useful and less stressful.",
+          "habit": "Log one small item you might usually skip.",
+          "appCta": "Use Calorie Bank Credit to track today."
+        },
+        "es": {
+          "title": "El registro sincero de Marco",
+          "story": "Marco solía no anotar el café porque creía que no importaba. Cuando empezó a registrar pequeños detalles—el café, galletas por la tarde, un vaso de zumo—empezó a ver patrones en su energía y apetitos. Registrar con honestidad le dio información clara para hacer pequeños ajustes, como elegir un snack más saciante o posponer un capricho. Trata el registro como datos, no como juicio, y lo actualiza aun en días imperfectos. Esa honestidad hace el registro más útil y menos estresante.",
+          "habit": "Registra un pequeño alimento que suelas pasar por alto.",
+          "appCta": "Usa Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Честный журнал Марко",
+          "story": "Марко раньше не записывал кофе, думая, что это неважно. Когда он начал фиксировать мелочи — кофе, печенье в полдень, стакан сока — он стал видеть закономерности в энергии и желании перекусить. Честный журнал дал ему данные, чтобы внести небольшие изменения, например выбрать более сытный перекус или отложить угощение. Он воспринимает записи как информацию, а не как осуждение, и обновляет их даже в неидеальные дни. Эта открытость делает трекер полезнее и спокойнее.",
+          "habit": "Запишите один маленький пункт, который обычно пропускаете.",
+          "appCta": "Воспользуйтесь Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Чесний запис Марко",
+          "story": "Марко раніше не занотовував каву, вважаючи це неважливим. Коли він почав фіксувати дрібниці — каву, печиво вдень, склянку соку — помітив закономірності в енергії й бажанні перекусити. Чесний запис дав йому чіткі дані для невеликих змін, наприклад вибрати ситніший перекус або відкласти частування. Він сприймає журнал як дані, а не осуд, і оновлює записи навіть у неідеальні дні. Така відвертість робить трекер кориснішим і менш стресовим.",
+          "habit": "Запишіть одну дрібницю, яку зазвичай пропускаєте.",
+          "appCta": "Скористайтеся Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Le journal honnête de Marco",
+          "story": "Marco ne notait pas son café, pensant que ce n’était pas important. Quand il a commencé à enregistrer les petites choses — le café, un biscuit l’après‑midi, un verre de jus — il a repéré des tendances dans son énergie et ses envies. Enregistrer honnêtement lui a fourni des informations pour faire de petits ajustements, comme choisir une collation plus rassasiante ou retarder une gourmandise. Il considère son journal comme des données, pas un jugement, et l’actualise même lors de journées imparfaites.",
+          "habit": "Notez un petit élément que vous oubliez souvent.",
+          "appCta": "Utilisez Calorie Bank Credit pour suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Marcos ehrliches Protokoll",
+          "story": "Marco hat früher Kaffee nicht protokolliert, weil er dachte, das sei unwichtig. Als er anfing, Kleinigkeiten zu erfassen – Kaffee, ein Nachmittagskeks, ein Glas Saft – erkannte er Muster in seiner Energie und seinem Verlangen. Ehrliches Eintragen gab ihm klare Daten für kleine Anpassungen, zum Beispiel einen sättigenderen Snack zu wählen oder einen Genuss aufzuschieben. Er betrachtet das Protokoll als Information, nicht als Urteil, und aktualisiert es auch an unperfekten Tagen.",
+          "habit": "Trage eine Kleinigkeit ein, die du sonst überspringst.",
+          "appCta": "Nutze Calorie Bank Credit und zeichne heute auf."
+        },
+        "pt-br": {
+          "title": "O registro honesto do Marco",
+          "story": "Marco costumava não anotar o café achando que não fazia diferença. Quando passou a registrar pequenas coisas — o café, um biscoito à tarde, um copo de suco — percebeu padrões na energia e nos desejos. Registrar com honestidade deu a ele informações para fazer pequenos ajustes, como escolher um lanche mais saciante ou adiar um doce. Ele vê o registro como dados, não como julgamento, e atualiza mesmo nos dias menos perfeitos. Essa abertura deixa o app mais útil e menos estressante.",
+          "habit": "Registre um item pequeno que você costuma pular.",
+          "appCta": "Use Calorie Bank Credit para registrar hoje."
+        },
+        "hu": {
+          "title": "Marco őszinte naplója",
+          "story": "Marco korábban nem jegyezte fel a kávét, mert azt hitte, nem számít. Amikor elkezdett apróságokat is rögzíteni — kávé, délutáni sütike, egy pohár gyümölcslé — mintákat vett észre az energiájában és az édességvágyában. Az őszinte napló tiszta adatokat adott a kis módosításokhoz, például választani egy laktatóbb nasit vagy késleltetni a jutalmat. A naplót adatnak, nem ítéletnek tekinti, és még a nem tökéletes napokon is frissíti.",
+          "habit": "Írj be egy apróságot, amit általában kihagysz.",
+          "appCta": "Használd a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "سجل ماركو الصريح",
+          "story": "كان ماركو يتجاهل تسجيل القهوة ظناً منه أنها لا تهم. عندما بدأ يسجل الأشياء الصغيرة—القهوة، بسكويت بعد الظهر، كوب عصير—لاحظ أنماطاً في طاقته ورغباته. منحه التسجيل بصراحة معلومات واضحة لإجراء تعديلات صغيرة، مثل اختيار وجبة خفيفة تشعره بالشبع أو تأجيل المكافأة. يعتبر السجل بيانات وليس حكماً، ويحدثه حتى في الأيام غير المثالية. هذه الصراحة تجعل التتبع أكثر فائدة وأقل إزعاجاً.",
+          "habit": "سجل عنصرًا صغيرًا عادة ما تتجاهله.",
+          "appCta": "استخدم Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Marco's Honest Log.\nStory: Marco used to skip logging coffee, thinking it didn't matter. When he started recording small things—coffee, a mid‑afternoon cookie, a glass of juice—he noticed patterns in his energy and cravings. Logging honestly gave him clearer information to make tiny adjustments, like choosing a filling snack or delaying a treat. He treats the log as data, not judgment, and updates entries even on imperfect days. That openness makes the tracker more useful and less stressful..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-05-motivation-3-story-3",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Nadia Notices Patterns",
+          "story": "Nadia began glancing at her weekly summaries and realized she often felt hungrier late afternoons on days she skipped breakfast. Rather than judging herself, she used that observation to try simple shifts: a slightly bigger breakfast or a protein snack midafternoon, then she logged how she felt. Tracking helped Nadia spot reliable patterns and test one small change at a time. Over a few weeks she learned what timing and choices worked better for her routine.",
+          "habit": "Review your last 7 days and note one pattern.",
+          "appCta": "Check Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Nadia observa patrones",
+          "story": "Nadia empezó a revisar los resúmenes semanales y se dio cuenta de que tenía más hambre por la tarde cuando se saltaba el desayuno. Sin juzgarse, probó pequeños cambios: un desayuno un poco más completo o un snack proteico a media tarde, y anotó cómo se sentía. El seguimiento le permitió identificar patrones fiables y probar un ajuste a la vez. En unas semanas aprendió qué horarios y elecciones encajaban mejor con su rutina.",
+          "habit": "Revisa tus últimos 7 días y apunta un patrón.",
+          "appCta": "Consulta Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Надя замечает закономерности",
+          "story": "Надя начала просматривать недельные сводки и заметила: в те дни, когда она пропускала завтрак, к вечеру сильнее испытывала голод. Не осуждая себя, она попробовала небольшие изменения — чуть более питательный завтрак или белковый перекус после обеда — и фиксировала самочувствие. Трекинг помог ей выявить устойчивые шаблоны и тестировать по одному изменению. Через несколько недель она поняла, какие тайминги и выборы лучше подходят её распорядку.",
+          "habit": "Просмотрите последние 7 дней и отметьте один шаблон.",
+          "appCta": "Проверьте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Надія помічає закономірності",
+          "story": "Надія почала переглядати тижневі підсумки і помітила: у ті дні, коли вона пропускала сніданок, пізнього пополудня вона відчувала більше голоду. Без осуду вона спробувала прості зміни — трохи щільніший сніданок або білковий перекус — і записувала свої відчуття. Ведення записів допомогло їй помітити стабільні шаблони і тестувати по одній зміні. За кілька тижнів вона зрозуміла, які часові рамки та вибори краще підходять для її рутини.",
+          "habit": "Перегляньте останні 7 днів і зафіксуйте один шаблон.",
+          "appCta": "Перевірте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Nadia repère des tendances",
+          "story": "Nadia a consulté ses résumés hebdomadaires et constaté qu’elle avait souvent plus faim en fin d’après‑midi les jours où elle sautait le petit‑déjeuner. Sans se juger, elle a testé de petits changements : un petit‑déjeuner un peu plus consistant ou une collation protéinée en milieu d’après‑midi, puis elle a noté ses sensations. Le suivi l’a aidée à repérer des tendances fiables et à tester un ajustement à la fois. En quelques semaines, elle a appris ce qui convient à sa routine.",
+          "habit": "Consultez vos 7 derniers jours et notez un motif.",
+          "appCta": "Vérifiez Calorie Bank Credit et suivez aujourd'hui."
+        },
+        "de": {
+          "title": "Nadia erkennt Muster",
+          "story": "Nadia schaute sich ihre Wochenübersichten an und stellte fest, dass sie an Nachmittagen hungriger war, wenn sie das Frühstück ausgelassen hatte. Ohne sich zu bewerten, probierte sie kleine Änderungen: ein etwas größeres Frühstück oder einen proteinreichen Snack am Nachmittag, und notierte, wie sie sich fühlte. Das Tracking half ihr, verlässliche Muster zu erkennen und jeweils eine kleine Veränderung zu testen. Nach einigen Wochen wusste sie, welche Zeiten und Entscheidungen besser zu ihrem Alltag passen.",
+          "habit": "Sieh dir deine letzten 7 Tage an und notiere ein Muster.",
+          "appCta": "Schau in Calorie Bank Credit und zeichne heute auf."
+        },
+        "pt-br": {
+          "title": "Nadia percebe padrões",
+          "story": "Nadia começou a olhar os resumos semanais e percebeu que ficava mais com fome à tarde nos dias em que pulava o café da manhã. Sem se julgar, ela testou pequenas mudanças: um café da manhã um pouco mais reforçado ou um lanche proteico à tarde, e registrou como se sentia. O acompanhamento ajudou Nadia a identificar padrões consistentes e testar uma mudança de cada vez. Em algumas semanas ela aprendeu quais horários e escolhas funcionavam melhor para sua rotina.",
+          "habit": "Revise seus últimos 7 dias e anote um padrão.",
+          "appCta": "Verifique o Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Nadia észrevesz mintákat",
+          "story": "Nadia megnézte a heti összegzéseit, és észrevette, hogy azokban a napokban, amikor kihagyta a reggelit, gyakrabban éhes lett délután. Bíró ítélet nélkül kipróbált apró változtatásokat: egy picit tartalmasabb reggelit vagy egy fehérjedús nasit délután, és rögzítette, hogyan érezte magát. A követés segített megbízható minták felderítésében és abban, hogy egyetlen dolgot módosítson egyszerre. Pár hét alatt megtudta, mi illik jobban a rutinjához.",
+          "habit": "Nézd át az elmúlt 7 napot és jegyezz fel egy mintát.",
+          "appCta": "Ellenőrizd a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "ناديا تلاحِظ الأنماط",
+          "story": "بدأت ناديا بمراجعة ملخصات الأسبوع ولاحظت أنها غالبًا ما تشعر بالجوع في أواخر الظهيرة في الأيام التي تتخطى فيها وجبة الإفطار. بدلًا من اللوم، جربت تغييرات صغيرة: إفطارًا أكثر إشباعًا قليلًا أو وجبة خفيفة غنية بالبروتين في منتصف النهار، ثم سجّلت شعورها. ساعدها التتبع على اكتشاف أنماط ثابتة وتجربة تعديل واحد في كل مرة. خلال أسابيع قليلة تعلّمت ما يلائم روتينها بشكل أفضل.",
+          "habit": "راجع آخر 7 أيام وسجّل نمطًا واحدًا.",
+          "appCta": "تحقق من Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Nadia Notices Patterns.\nStory: Nadia began glancing at her weekly summaries and realized she often felt hungrier late afternoons on days she skipped breakfast. Rather than judging herself, she used that observation to try simple shifts: a slightly bigger breakfast or a protein snack midafternoon, then she logged how she felt. Tracking helped Nadia spot reliable patterns and test one small change at a time. Over a few weeks she learned what timing and choices worked better for her routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-05-motivation-4-story-4",
+      "category": "calorie_tracking",
+      "languages": {
+        "en": {
+          "title": "Anna's Small Swaps",
+          "story": "Anna liked her usual sandwich but wondered if a tiny swap could help her feel steadier until dinner. She tried swapping one ingredient for a slightly heartier option and logged the meal and how long she felt full. After a few tries she saw that a small change made a practical difference in her afternoons. Tracking allowed her to experiment without pressure: one small swap, one short test, and a clear note about the outcome. Simple experiments felt doable and low‑stress.",
+          "habit": "Try one small swap and log how you feel.",
+          "appCta": "Try Calorie Bank Credit and track today."
+        },
+        "es": {
+          "title": "Los pequeños cambios de Anna",
+          "story": "A Anna le gustaba su sándwich habitual, pero se preguntó si un pequeño cambio le ayudaría a llegar mejor a la cena. Probó sustituir un ingrediente por otro un poco más saciante y anotó la comida y cuánto tiempo se sintió llena. Tras varios intentos vio que ese pequeño ajuste tenía un efecto práctico por las tardes. El registro le permitió experimentar sin presión: un cambio, una breve prueba y una nota clara del resultado. Los experimentos sencillos le resultaron manejables.",
+          "habit": "Prueba un pequeño cambio y registra cómo te sientes.",
+          "appCta": "Prueba Calorie Bank Credit y registra hoy."
+        },
+        "ru": {
+          "title": "Небольшая замена Анны",
+          "story": "Анне нравился её обычный сэндвич, но она задумалась, не поможет ли небольшая замена чувствовать себя спокойнее до ужина. Она заменила один ингредиент на чуть более сытный и записала приём пищи и то, как долго была сыта. После нескольких попыток она увидела, что маленькое изменение даёт практическую разницу днём. Трекинг позволял экспериментировать без давления: одна небольшая замена, короткий тест и чёткая заметка о результате. Простые эксперименты были выполнимы и спокойны.",
+          "habit": "Попробуйте одну небольшую замену и запишите самочувствие.",
+          "appCta": "Попробуйте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Малі заміни Анни",
+          "story": "Анна любила свій звичний сендвіч, але задумалася, чи не допоможе невелика заміна дотягнути краще до вечері. Вона замінила один інгредієнт на трохи ситніший і записала прийом їжі та те, як довго була ситою. Після кількох спроб помітила, що маленька зміна дає практичний ефект по днях. Ведення записів дозволило експериментувати без тиску: одна заміна, короткий тест і чітка нотатка про результат. Просте експериментування було здійсненним і без стресу.",
+          "habit": "Спробуйте одну невелику заміну і запишіть самопочуття.",
+          "appCta": "Спробуйте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Les petits ajustements d'Anna",
+          "story": "Anna aimait son sandwich habituel, mais se demandait si un petit changement pourrait l'aider à tenir jusqu'au dîner. Elle a remplacé un ingrédient par un autre un peu plus consistant et a noté le repas et la durée de sa satiété. Après quelques essais, elle a constaté qu'un petit ajustement avait un impact pratique sur ses après‑midi. Le suivi lui a permis d'expérimenter sans pression : un petit changement, un court test et une note claire du résultat. Ces essais étaient simples et sans stress.",
+          "habit": "Faites un petit changement et notez comment vous vous sentez.",
+          "appCta": "Essayez Calorie Bank Credit et suivez aujourd'hui."
+        },
+        "de": {
+          "title": "Annas kleine Änderungen",
+          "story": "Anna mochte ihr gewohntes Sandwich, fragte sich aber, ob ein kleiner Tausch ihr helfen würde, bis zum Abendessen ausgeglichener zu bleiben. Sie ersetzte eine Zutat durch eine etwas nahrhaftere und notierte die Mahlzeit sowie, wie lange sie satt blieb. Nach ein paar Versuchen merkte sie, dass eine kleine Änderung praktisch einen Unterschied machte. Das Tracking ermöglichte ihr, ohne Druck zu experimentieren: ein kleiner Tausch, ein kurzer Test und eine klare Notiz zum Ergebnis. Solche Tests wirkten machbar und entspannt.",
+          "habit": "Probiere einen kleinen Tausch und notiere, wie du dich fühlst.",
+          "appCta": "Probier Calorie Bank Credit und zeichne heute auf."
+        },
+        "pt-br": {
+          "title": "As pequenas trocas da Anna",
+          "story": "Anna gostava do sanduíche de sempre, mas se perguntou se uma troca pequena ajudaria a se manter saciada até o jantar. Ela trocou um ingrediente por outro um pouco mais nutritivo e registrou a refeição e quanto tempo ficou satisfeita. Depois de algumas tentativas percebeu que a mudança fazia diferença nas tardes. O registro permitiu que ela experimentasse sem pressão: uma troca pequena, um teste curto e uma nota clara sobre o resultado. Experimentos simples foram fáceis e sem estresse.",
+          "habit": "Faça uma pequena troca e registre como se sente.",
+          "appCta": "Experimente Calorie Bank Credit e registre hoje."
+        },
+        "hu": {
+          "title": "Anna apró váltásai",
+          "story": "Anna szerette a megszokott szendvicsét, de kíváncsi volt, segít‑e egy apró csere abban, hogy estig kiegyensúlyozottabb legyen. Kicserélt egy összetevőt egy kicsit laktatóbbra, és feljegyezte az étkezést és hogy mennyi ideig volt tele. Néhány próbálkozás után látta, hogy a kis módosítás gyakorlati különbséget hoz a délutánokban. A követés lehetővé tette, hogy nyomás nélkül kísérletezzen: egy kis csere, egy rövid teszt és egy egyértelmű megjegyzés az eredményről. Az egyszerű kísérletek kivitelezhetők és nyugodtak maradtak.",
+          "habit": "Próbálj ki egy kis cserét, és jegyezd fel, hogyan érzed magad.",
+          "appCta": "Próbáld ki a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "البدائل الصغيرة لآنا",
+          "story": "تحب آنا شطيرتها المعتادة لكنها تساءلت إن كان تبديل بسيط يساعدها على الشعور بثبات حتى العشاء. جربت استبدال مكوّن واحد بخيار أكثر إشباعًا وسجلت الوجبة ومدة شعورها بالشبع. بعد عدة محاولات لاحظت أن التغيير الصغير أحدث فرقًا عمليًا في فترات بعد الظهر. أتاح لها التتبع التجربة دون ضغوط: تبديل صغير، تجربة قصيرة، وملاحظة واضحة عن النتيجة. كانت التجارب البسيطة قابلة للتطبيق وبعيدة عن التوتر.",
+          "habit": "جرب تبديلًا صغيرًا وسجل كيف تشعر.",
+          "appCta": "جرّب Calorie Bank Credit وسجل اليوم."
+        }
+      },
+      "generatedAt": "2026-11-05T14:57:33.252Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-05-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Anna's Small Swaps.\nStory: Anna liked her usual sandwich but wondered if a tiny swap could help her feel steadier until dinner. She tried swapping one ingredient for a slightly heartier option and logged the meal and how long she felt full. After a few tries she saw that a small change made a practical difference in her afternoons. Tracking allowed her to experiment without pressure: one small swap, one short test, and a clear note about the outcome. Simple experiments felt doable and low‑stress..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-04-motivation-1-story-1",
       "category": "planning-meals",
