@@ -1,8 +1,820 @@
 {
-  "generatedAt": "2026-11-05T14:57:33.252Z",
+  "generatedAt": "2026-11-06T14:33:53.911Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "longevity-supplement-improved-blood-vessels-in-a-human-trial-0236eb376c9c",
+      "category": "longevity / cardiovascular health",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/longevity-supplement-improved-blood-vessels-in-a-human-trial/",
+      "sourceTitle": "Longevity Supplement Improved Blood Vessels in a Human Trial",
+      "publishedAt": "Fri, 06 Nov 2026 13:15:39 +0000",
+      "languages": {
+        "en": {
+          "title": "Small clinical trial reports improved artery function with a multi-ingredient supplement",
+          "summary": "A clinical trial reported by Lifespan.io found that the multi-ingredient supplement NOVOS Core was associated with statistically significant improvements in artery function and systolic blood pressure. The report notes it is unknown which ingredient(s) produced the effect.",
+          "whyItMatters": "If confirmed in independent trials, multi-ingredient approaches that affect vascular function could be relevant to ageing and cardiovascular risk. However, the report does not identify which component(s) were active and cannot establish long-term benefits or safety.",
+          "takeaways": [
+            "Source reports a clinical trial finding improved artery function and lower systolic blood pressure associated with NOVOS Core.",
+            "The trial result does not isolate which ingredient(s) caused the effect—multi-ingredient supplements pose attribution challenges.",
+            "A single or small trial does not establish long-term efficacy or safety; replication and detailed reporting (dose, population, endpoints) are needed.",
+            "This is not medical advice; people should consult clinicians before starting supplements."
+          ]
+        },
+        "es": {
+          "title": "Ensayo clínico pequeño informa mejora de la función arterial con un suplemento multicomponente",
+          "summary": "Un ensayo clínico reportado por Lifespan.io encontró que el suplemento multicomponente NOVOS Core se asoció con mejoras estadísticamente significativas en la función arterial y en la presión arterial sistólica. El informe señala que se desconoce qué ingrediente(s) produjeron el efecto.",
+          "whyItMatters": "Si se confirma en ensayos independientes, los enfoques multicomponentes que afectan la función vascular podrían ser relevantes para el envejecimiento y el riesgo cardiovascular. Sin embargo, el informe no identifica qué componente(s) estuvieron activos y no puede establecer beneficios o seguridad a largo plazo.",
+          "takeaways": [
+            "La fuente informa un ensayo clínico que encontró mejora de la función arterial y reducción de la presión arterial sistólica asociadas con NOVOS Core.",
+            "El resultado del ensayo no aísla qué ingrediente(s) causaron el efecto: los suplementos multicomponente plantean dificultades para atribuir efectos a componentes individuales.",
+            "Un único ensayo o uno pequeño no establece eficacia o seguridad a largo plazo; se necesitan replicación e informes detallados (dosis, población, criterios de valoración).",
+            "Esto no es asesoramiento médico; las personas deben consultar a profesionales de la salud antes de iniciar suplementos."
+          ]
+        },
+        "ru": {
+          "title": "Небольшое клиническое исследование сообщило об улучшении функции артерий при приеме многокомпонентного добавки",
+          "summary": "В клиническом исследовании, о котором сообщил Lifespan.io, многокомпонентная добавка NOVOS Core была связана со статистически значимыми улучшениями функции артерий и систолического артериального давления. В отчёте отмечается, что неизвестно, какой(ие) ингредиент(ы) вызвали эффект.",
+          "whyItMatters": "Если это подтвердят независимые исследования, многокомпонентные подходы, влияющие на сосудистую функцию, могут иметь значение для изучения старения и сердечно‑сосудистого риска. Однако отчёт не указывает, какие компоненты были активны, и не может установить долгосрочные польза или безопасность.",
+          "takeaways": [
+            "Источник сообщает о клиническом исследовании, в котором улучшилась функция артерий и снизилось систолическое давление в связи с приёмом NOVOS Core.",
+            "Результат исследования не отделяет, какие именно ингредиенты вызвали эффект — у многокомпонентных добавок сложнее определить вклад каждого компонента.",
+            "Один или несколько небольших исследований не доказывают долгосрочную эффективность или безопасность; необходимы повторные исследования и подробные отчёты (доза, популяция, конечные точки).",
+            "Это не медицинская рекомендация; людям следует консультироваться с врачами перед началом приёма добавок."
+          ]
+        },
+        "uk": {
+          "title": "Невелике клінічне дослідження повідомляє про покращення функції артерій при багатокомпонентній добавці",
+          "summary": "Клінічне дослідження, про яке повідомляє Lifespan.io, виявило, що багатокомпонентна добавка NOVOS Core була пов'язана зі статистично значущим покращенням функції артерій та систолічного артеріального тиску. У звіті зазначено, що невідомо, який(і) інгредієнт(и) спричинили ефект.",
+          "whyItMatters": "Якщо це підтвердять незалежні дослідження, багатокомпонентні підходи, що впливають на судинну функцію, можуть бути релевантними для старіння й ризику серцево‑судинних хвороб. Однак звіт не вказує, який компонент чи компоненти були активними, і не може встановити довгострокові користь або безпеку.",
+          "takeaways": [
+            "Джерело повідомляє про клінічне дослідження з покращенням функції артерій і зниженням систолічного тиску в асоціації з NOVOS Core.",
+            "Результат дослідження не дозволяє виділити, який(і) інгредієнт(и) викликав(и) ефект — багатокомпонентні добавки ускладнюють атрибуцію.",
+            "Один або невеликий підхід дослідження не встановлює довгострокової ефективності або безпеки; потрібні повторні дослідження та детальні звіти (доза, популяція, кінцеві точки).",
+            "Це не медична порада; перед початком прийому добавок слід консультуватися з лікарем."
+          ]
+        },
+        "fr": {
+          "title": "Petit essai clinique signale une amélioration de la fonction artérielle avec un supplément multi‑ingrédients",
+          "summary": "Un essai clinique rapporté par Lifespan.io a trouvé que le supplément multi‑ingrédients NOVOS Core était associé à des améliorations statistiquement significatives de la fonction artérielle et de la pression artérielle systolique. Le rapport note qu'il est inconnu lequel des ingrédients a produit l'effet.",
+          "whyItMatters": "Si cela est confirmé par des essais indépendants, des approches multi‑ingrédients qui affectent la fonction vasculaire pourraient être pertinentes pour le vieillissement et le risque cardiovasculaire. Toutefois, le rapport n'identifie pas quel(s) composant(s) étaient actifs et ne peut établir des bénéfices ou la sécurité à long terme.",
+          "takeaways": [
+            "La source rapporte un essai clinique montrant une amélioration de la fonction artérielle et une baisse de la pression systolique associées à NOVOS Core.",
+            "Le résultat de l'essai n'isole pas quel(s) ingrédient(s) ont causé l'effet — les suppléments multi‑ingrédients compliquent l'attribution.",
+            "Un seul essai ou un petit essai n'établit pas l'efficacité ou la sécurité à long terme ; des réplications et des rapports détaillés (dose, population, critères) sont nécessaires.",
+            "Ce n'est pas un avis médical ; consultez un professionnel de santé avant de commencer des compléments."
+          ]
+        },
+        "de": {
+          "title": "Kleine klinische Studie berichtet über verbesserte Arterienfunktion mit einem Mehrkomponentenpräparat",
+          "summary": "Eine von Lifespan.io berichtete klinische Studie fand, dass das Mehrkomponentenpräparat NOVOS Core mit statistisch signifikanten Verbesserungen der Arterienfunktion und des systolischen Blutdrucks einherging. Der Bericht stellt fest, dass nicht bekannt ist, welche(n) Wirkstoff(e) den Effekt verursacht haben.",
+          "whyItMatters": "Wenn unabhängige Studien das bestätigen, könnten Mehrkomponentenansätze, die die Gefäßfunktion beeinflussen, für Alterungsprozesse und kardiovaskuläres Risiko relevant sein. Der Bericht identifiziert jedoch nicht, welche Komponente(n) aktiv waren, und kann keine langfristigen Nutzen oder Sicherheitsaspekte feststellen.",
+          "takeaways": [
+            "Der Bericht beschreibt eine klinische Studie mit verbesseter Arterienfunktion und reduziertem systolischem Blutdruck unter NOVOS Core.",
+            "Die Studie isoliert nicht, welche Zutat(en) den Effekt verursacht haben—bei Mehrkomponentenpräparaten ist Zuschreibung schwierig.",
+            "Ein einmaliger oder kleineres Studiendesign begründet keine langfristige Wirksamkeit oder Sicherheit; Replikation und detaillierte Angaben (Dosis, Population, Endpunkte) sind nötig.",
+            "Dies ist keine medizinische Beratung; vor Beginn von Nahrungsergänzungen sollten Personen mit Behandelnden sprechen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pequeno ensaio clínico relata melhora na função das artérias com suplemento multicomponentes",
+          "summary": "Um ensaio clínico relatado pela Lifespan.io encontrou que o suplemento multicomponentes NOVOS Core esteve associado a melhorias estatisticamente significativas na função arterial e na pressão arterial sistólica. O relatório observa que não se sabe quais ingredientes produziram o efeito.",
+          "whyItMatters": "Se confirmado em estudos independentes, abordagens multicomponentes que afetam a função vascular podem ser relevantes para envelhecimento e risco cardiovascular. Contudo, o relatório não identifica qual(is) componente(s) foram ativos e não pode estabelecer benefícios ou segurança a longo prazo.",
+          "takeaways": [
+            "O relatório descreve um ensaio clínico com melhora na função arterial e redução da pressão arterial sistólica associadas ao NOVOS Core.",
+            "O resultado do ensaio não isola qual(is) ingrediente(s) causaram o efeito—suplementos multicomponentes dificultam a atribuição.",
+            "Um estudo único ou pequeno não estabelece eficácia ou segurança a longo prazo; são necessárias replicação e relatórios detalhados (dose, população, desfechos).",
+            "Isto não é aconselhamento médico; pessoas devem consultar profissionais de saúde antes de iniciar suplementos."
+          ]
+        },
+        "hu": {
+          "title": "Kis klinikai vizsgálat: többösszetevős készítmény javította az artériafunkciót",
+          "summary": "A Lifespan.io által ismertetett klinikai vizsgálat szerint a többösszetevős NOVOS Core-kiegészítő statisztikailag szignifikáns javulással volt összefüggésben az artériafunkció és a szisztolés vérnyomás tekintetében. A jelentés hangsúlyozza, hogy nem ismert, mely összetevő(k) idézték elő a hatást.",
+          "whyItMatters": "Ha független vizsgálatok megerősítik az eredményeket, a többösszetevős megközelítések, amelyek befolyásolják az érrendszer működését, relevánsak lehetnek az öregedés és a kardiovaszkuláris kockázat szempontjából. Ugyanakkor a jelentés nem azonosítja, mely komponensek voltak aktívak, és nem tud hosszú távú előnyöket vagy biztonságosságot megállapítani.",
+          "takeaways": [
+            "A forrás egy klinikai vizsgálatról számol be, amelyben a NOVOS Core javuló artériafunkcióval és alacsonyabb szisztolés vérnyomással volt összefüggésben.",
+            "A vizsgálat nem különíti el, hogy mely összetevők okozták a hatást — a többösszetevős készítményeknél nehéz az attribúció.",
+            "Egyetlen vagy kis mintájú vizsgálat nem bizonyít hosszú távú hatékonyságot vagy biztonságosságot; ismétlésre és részletes beszámolásra (dózis, populáció, végpontok) van szükség.",
+            "Ez nem orvosi tanács; az emberek konzultáljanak egészségügyi szakemberrel, mielőtt kiegészítőt kezdenek szedni."
+          ]
+        },
+        "ar": {
+          "title": "تجربة سريرية صغيرة تفيد بتحسّن وظيفة الشرايين مع مكمّل متعدد المكوّنات",
+          "summary": "أفادت تجربة سريرية ذكرتها Lifespan.io بأن المكمّل متعدد المكوّنات NOVOS Core ارتبط بتحسّنات معنوية إحصائيًا في وظيفة الشرايين وضغط الدم الانقباضي. وتشير التقارير إلى أنه غير معروف أي مكوّن/مكوّنات تسبّبت في هذا التأثير.",
+          "whyItMatters": "إذا أكدت تجارب مستقلة هذه النتائج، فقد تكون المقاربات متعددة المكوّنات التي تؤثر على وظيفة الأوعية الدموية ذات صلة بالشيخوخة ومخاطر الجهاز القلبي الوعائي. مع ذلك، لا تحدد التقارير أي المكونات كانت فعّالة، ولا يمكنها إثبات فوائد أو سلامة طويلة الأمد.",
+          "takeaways": [
+            "المصدر يورد تجربة سريرية أظهرت تحسين وظيفة الشرايين وانخفاض ضغط الدم الانقباضي المرتبط بـ NOVOS Core.",
+            "نتيجة التجربة لا تعزل أي مكوّن تسبب في الأثر — المكمّلات متعددة المكوّنات تجعل نسبة الفاعل صعبة التحديد.",
+            "تجربة واحدة أو صغيرة الحجم لا تؤسس لفعالية أو سلامة طويلة الأمد؛ هناك حاجة للتكرار والتقارير التفصيلية (الجرعة، الفئة السكانية، نقاط النهاية).",
+            "هذه ليست نصيحة طبية؛ يجب على الأشخاص استشارة الأطباء قبل البدء بتناول المكمّلات."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=longevity-supplement-improved-blood-vessels-in-a-human-trial-0236eb376c9c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/longevity-supplement-improved-blood-vessels-in-a-human-trial-0236eb376c9c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/longevity-supplement-improved-blood-vessels-in-a-human-trial-0236eb376c9c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Small clinical trial reports improved artery function with a multi-ingredient supplement.\nStory summary: A clinical trial reported by Lifespan.io found that the multi-ingredient supplement NOVOS Core was associated with statistically significant improvements in artery function and systolic blood pressure. The report notes it is unknown which ingredient(s) produced the effect..\nCategory: longevity / cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "i-m-an-athletic-trainer-here-s-how-to-know-when-kids-sports-are-t-aa6ebe1d7911",
+      "category": "sport and health / youth",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/im-an-athletic-trainer-heres-how-to-know-when-kids-sports-are-too-intense-293479",
+      "sourceTitle": "I’m an athletic trainer – here’s how to know when kids sports are too intense",
+      "publishedAt": "2026-11-06T13:13:36Z",
+      "languages": {
+        "en": {
+          "title": "Athletic trainer outlines signs that youth sports may be too intense",
+          "summary": "An athletic trainer writes that pushing training intensity for children can be counterproductive, and that prioritizing fun and letting children guide participation may be more beneficial.",
+          "whyItMatters": "Balancing intensity, enjoyment and development in youth sport can affect long‑term physical activity, injury risk and mental wellbeing. Practical guidance can help parents and coaches recognise when to adjust training, but individual medical concerns require professional assessment.",
+          "takeaways": [
+            "Author emphasizes prioritising enjoyment and child‑led participation over excessive training intensity.",
+            "Signs of excessive intensity often relate to physical, emotional or behavioural changes and merit attention from adults and professionals.",
+            "Guidance is experiential and not a substitute for medical evaluation for injuries or health issues.",
+            "Coaches and parents can consider workload, rest, and variety to support healthy youth sport participation."
+          ]
+        },
+        "es": {
+          "title": "Entrenador atlético describe señales de que los deportes infantiles pueden ser demasiado intensos",
+          "summary": "Un entrenador atlético escribe que forzar la intensidad del entrenamiento en niños puede ser contraproducente, y que priorizar la diversión y dejar que los niños guíen su participación puede ser más beneficioso.",
+          "whyItMatters": "Equilibrar intensidad, disfrute y desarrollo en el deporte juvenil puede afectar la actividad física a largo plazo, el riesgo de lesiones y el bienestar mental. La orientación práctica puede ayudar a padres y entrenadores a reconocer cuándo ajustar la carga, pero las preocupaciones médicas individuales requieren evaluación profesional.",
+          "takeaways": [
+            "El autor enfatiza priorizar el disfrute y la participación guiada por el niño frente a una intensidad de entrenamiento excesiva.",
+            "Las señales de intensidad excesiva suelen relacionarse con cambios físicos, emocionales o de conducta y merecen la atención de adultos y profesionales.",
+            "La orientación se basa en experiencia y no sustituye la evaluación médica para lesiones o problemas de salud.",
+            "Entrenadores y padres pueden considerar carga de trabajo, descanso y variedad para apoyar una participación saludable en el deporte juvenil."
+          ]
+        },
+        "ru": {
+          "title": "Атлетический тренер описывает признаки того, что детский спорт может быть чрезмерно интенсивным",
+          "summary": "Атлетический тренер пишет, что чрезмерное повышение интенсивности тренировок для детей может быть контрпродуктивным, и что приоритет удовольствия и участие, основанное на желаниях ребёнка, может быть более полезным.",
+          "whyItMatters": "Баланс между интенсивностью, удовольствием и развитием в детском спорте влияет на долгосрочную физическую активность, риск травм и психическое благополучие. Практические рекомендации могут помочь родителям и тренерам распознать, когда стоит корректировать тренировки, однако индивидуальные медицинские вопросы требуют профессиональной оценки.",
+          "takeaways": [
+            "Автор подчеркивает приоритет удовольствия и участия, управляемого ребёнком, вместо чрезмерной тренировочной интенсивности.",
+            "Признаки чрезмерной интенсивности часто связаны с физическими, эмоциональными или поведенческими изменениями и требуют внимания взрослых и специалистов.",
+            "Рекомендации основаны на опыте и не заменяют медицинскую оценку при травмах или проблемах со здоровьем.",
+            "Тренеры и родители могут учитывать рабочую нагрузку, отдых и разнообразие, чтобы поддержать здоровое участие детей в спорте."
+          ]
+        },
+        "uk": {
+          "title": "Атлетичний тренер описує ознаки, що дитячі види спорту можуть бути надто інтенсивними",
+          "summary": "Атлетичний тренер пише, що підвищення інтенсивності тренувань для дітей може бути контрпродуктивним, і що пріоритетом слід робити задоволення та дозволяти дітям самостійно визначати участь, що може бути більш корисним.",
+          "whyItMatters": "Баланс інтенсивності, задоволення та розвитку в дитячому спорті може впливати на тривалу фізичну активність, ризик травм і психічне благополуччя. Практичні поради можуть допомогти батькам і тренерам розпізнати, коли варто коригувати тренування, але індивідуальні медичні питання потребують професійної оцінки.",
+          "takeaways": [
+            "Автор наголошує на пріоритеті задоволення та участі, яку визначає сама дитина, замість надмірної інтенсивності тренувань.",
+            "Ознаки надмірної інтенсивності часто пов'язані з фізичними, емоційними або поведінковими змінами і потребують уваги дорослих та фахівців.",
+            "Наведені поради базуються на досвіді й не замінюють медичну оцінку при травмах або проблемах зі здоров'ям.",
+            "Тренери й батьки можуть враховувати навантаження, відпочинок і різноманітність, щоб підтримувати здорову участь дітей у спорті."
+          ]
+        },
+        "fr": {
+          "title": "Un entraîneur sportif décrit les signes indiquant que le sport chez les enfants peut être trop intense",
+          "summary": "Un entraîneur sportif écrit que pousser l'intensité d'entraînement chez les enfants peut être contre‑productif, et que privilégier le plaisir et laisser les enfants guider leur participation peut être plus bénéfique.",
+          "whyItMatters": "Équilibrer intensité, plaisir et développement dans le sport jeunesse peut affecter l'activité physique à long terme, le risque de blessures et le bien‑être mental. Des conseils pratiques peuvent aider parents et entraîneurs à reconnaître quand ajuster l'entraînement, mais les préoccupations médicales individuelles nécessitent une évaluation professionnelle.",
+          "takeaways": [
+            "L'auteur insiste sur la priorité du plaisir et d'une participation guidée par l'enfant plutôt que sur une intensité d'entraînement excessive.",
+            "Les signes d'intensité excessive se manifestent souvent par des changements physiques, émotionnels ou comportementaux et méritent l'attention des adultes et des professionnels.",
+            "Les conseils sont basés sur l'expérience et ne remplacent pas une évaluation médicale pour les blessures ou problèmes de santé.",
+            "Entraîneurs et parents peuvent considérer la charge d'entraînement, le repos et la variété pour soutenir une pratique sportive saine chez les jeunes."
+          ]
+        },
+        "de": {
+          "title": "Athletic Trainer nennt Anzeichen dafür, dass Kindersport zu intensiv sein könnte",
+          "summary": "Ein Athletic Trainer schreibt, dass das Erhöhen der Trainingsintensität bei Kindern kontraproduktiv sein kann und dass Freude und kindgesteuerte Teilnahme oft vorteilhafter sind.",
+          "whyItMatters": "Das Ausbalancieren von Intensität, Freude und Entwicklung im Jugendsport kann langfristige körperliche Aktivität, Verletzungsrisiko und psychisches Wohlbefinden beeinflussen. Praktische Hinweise können Eltern und Trainer helfen, anzupassen; bei individuellen medizinischen Problemen ist professionelle Abklärung nötig.",
+          "takeaways": [
+            "Der Autor betont, Freude und kindgesteuerte Teilnahme über übermäßige Trainingsintensität zu stellen.",
+            "Anzeichen für übertriebene Intensität zeigen sich oft in physischen, emotionalen oder Verhaltensänderungen und sollten von Erwachsenen und Fachpersonen beachtet werden.",
+            "Die gegebene Anleitung beruht auf Erfahrung und ersetzt keine medizinische Abklärung bei Verletzungen oder gesundheitlichen Problemen.",
+            "Trainer und Eltern können Belastung, Erholung und Vielfalt im Training berücksichtigen, um gesunde Jugendsportteilnahme zu fördern."
+          ]
+        },
+        "pt-br": {
+          "title": "Treinador atlético descreve sinais de que esportes infantis podem estar intensos demais",
+          "summary": "Um treinador atlético escreve que aumentar a intensidade do treino para crianças pode ser contraproducente, e que priorizar a diversão e permitir que as crianças conduzam a participação pode ser mais benéfico.",
+          "whyItMatters": "Equilibrar intensidade, prazer e desenvolvimento no esporte juvenil pode afetar a atividade física a longo prazo, risco de lesões e bem‑estar mental. Orientações práticas podem ajudar pais e treinadores a saber quando ajustar o treino, mas questões médicas individuais requerem avaliação profissional.",
+          "takeaways": [
+            "O autor enfatiza priorizar a diversão e a participação guiada pela criança em vez de treinamento excessivamente intenso.",
+            "Sinais de intensidade excessiva costumam relacionar‑se a alterações físicas, emocionais ou comportamentais e merecem atenção de adultos e profissionais.",
+            "As orientações são baseadas na experiência e não substituem avaliação médica para lesões ou problemas de saúde.",
+            "Treinadores e pais podem considerar carga de treino, descanso e variedade para apoiar uma participação saudável no esporte juvenil."
+          ]
+        },
+        "hu": {
+          "title": "Egy atlétikai edző elmagyarázza, mikor lehet túl intenzív a gyerekek sportja",
+          "summary": "Egy atlétikai edző azt írja, hogy a gyerekek túlzott edzésintenzitásra való hajszolása ellenkező hatású lehet, és hogy a szórakozás előtérbe helyezése és a gyermek által irányított részvétel előnyösebb lehet.",
+          "whyItMatters": "Az intenzitás, az élvezet és a fejlődés közötti egyensúly hatással lehet a hosszú távú fizikai aktivitásra, a sérülések kockázatára és a mentális jóllétre. A gyakorlati útmutatás segíthet a szülőknek és edzőknek felismerni, mikor kell módosítani az edzést, de egyéni orvosi aggályok esetén szakértői vizsgálat szükséges.",
+          "takeaways": [
+            "A szerző hangsúlyozza az élvezet és a gyermek‑irányította részvétel előtérbe helyezését a túlzott edzési intenzitás helyett.",
+            "A túlzott intenzitás jelei gyakran fizikai, érzelmi vagy viselkedési változásokhoz kapcsolódnak, és felnőttek, szakemberek figyelmét igénylik.",
+            "Az útmutatás tapasztalati jellegű, és nem helyettesíti a sérülésekre vagy egészségügyi problémákra vonatkozó orvosi értékelést.",
+            "Az edzők és szülők figyelembe vehetik a terhelést, a pihenőt és a változatosságot a fiatalok egészséges sportolásának támogatásához."
+          ]
+        },
+        "ar": {
+          "title": "مدرّب رياضي يوضّح علامات أن رياضات الأطفال قد تكون مفرطة في الشدة",
+          "summary": "يكتب مدرّب رياضي أن دفع الأطفال لزيادة شدة التدريب قد يكون غير مفيد، وأن إعطاء الأولوية للمتعة والسماح للأطفال بتوجيه مشاركتهم قد يكون أكثر فائدة.",
+          "whyItMatters": "يمكن أن يؤثر موازنة الشدة والمتعة والتطور في الرياضة الشبابية على النشاط البدني طويل الأمد، ومخاطر الإصابات، والصحة النفسية. يمكن أن تساعد الإرشادات العملية الآباء والمدرّبين على التعرف على متى يجب تعديل التدريب، لكن القضايا الطبية الفردية تتطلب تقييمًا مهنيًا.",
+          "takeaways": [
+            "يؤكد المؤلف على أهمية جعل المتعة والمشاركة بقيادة الطفل أولوية بدلاً من شدة تدريب مفرطة.",
+            "علامات الشدة المفرطة غالبًا ما تتعلق بتغيّرات جسدية أو عاطفية أو سلوكية وتستدعي انتباه البالغين والمهنيين.",
+            "الإرشاد مبني على الخبرة ولا يغني عن التقييم الطبي للإصابات أو مشكلات الصحة.",
+            "يمكن للمدرّبين والآباء مراعاة عبء التدريب والراحة والتنوع لدعم مشاركة صحّية في الرياضة لدى الأطفال."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=i-m-an-athletic-trainer-here-s-how-to-know-when-kids-sports-are-t-aa6ebe1d7911",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/i-m-an-athletic-trainer-here-s-how-to-know-when-kids-sports-are-t-aa6ebe1d7911-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/i-m-an-athletic-trainer-here-s-how-to-know-when-kids-sports-are-t-aa6ebe1d7911-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Athletic trainer outlines signs that youth sports may be too intense.\nStory summary: An athletic trainer writes that pushing training intensity for children can be counterproductive, and that prioritizing fun and letting children guide participation may be more beneficial..\nCategory: sport and health / youth.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "metal-fumes-drinking-habits-and-dementia-what-a-new-study-found-e4e14f620e27",
+      "category": "neurodegeneration / occupational health",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261106/Metal-fumes-drinking-habits-and-dementia-What-a-new-study-found.aspx",
+      "sourceTitle": "Metal fumes, drinking habits and dementia: What a new study found",
+      "publishedAt": "Fri, 06 Nov 2026 07:43:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Study reports associations between workplace exposures, lifestyle and Lewy body dementia risk",
+          "summary": "A new study examined how workplace chemical exposures (such as metal fumes) and lifestyle factors (including alcohol use) relate to the risk of Lewy body dementia, and reported potential differences in exposure effects between sexes.",
+          "whyItMatters": "Identifying occupational and lifestyle factors linked to dementia risk can help target research and prevention strategies. Observational findings require careful interpretation, and sex‑specific patterns need replication.",
+          "takeaways": [
+            "Study analyzed associations of workplace chemicals and lifestyle habits with Lewy body dementia risk and noted possible sex differences.",
+            "Observational design means associations may be influenced by unmeasured confounders; causation is not established.",
+            "Results highlight areas for focused occupational health and dementia research rather than immediate changes to clinical care.",
+            "Workers concerned about exposures should consult occupational health resources and follow workplace safety guidance."
+          ]
+        },
+        "es": {
+          "title": "Estudio informa asociaciones entre exposiciones laborales, hábitos y riesgo de demencia con cuerpos de Lewy",
+          "summary": "Un nuevo estudio examinó cómo las exposiciones químicas en el lugar de trabajo (como humos de metales) y factores de estilo de vida (incluido el consumo de alcohol) se relacionan con el riesgo de demencia con cuerpos de Lewy, y reportó posibles diferencias en los efectos de la exposición entre sexos.",
+          "whyItMatters": "Identificar factores ocupacionales y de estilo de vida vinculados al riesgo de demencia puede ayudar a orientar la investigación y estrategias de prevención. Los hallazgos observacionales requieren interpretación cuidadosa, y los patrones específicos por sexo necesitan replicación.",
+          "takeaways": [
+            "El estudio analizó asociaciones de químicos laborales y hábitos de vida con el riesgo de demencia con cuerpos de Lewy y observó posibles diferencias por sexo.",
+            "El diseño observacional implica que las asociaciones pueden estar influenciadas por factores de confusión no medidos; no se establece causalidad.",
+            "Los resultados resaltan áreas para investigación focalizada en salud ocupacional y demencia más que cambios inmediatos en la atención clínica.",
+            "Trabajadores preocupados por exposiciones deben consultar recursos de salud laboral y seguir las normas de seguridad en el trabajo."
+          ]
+        },
+        "ru": {
+          "title": "Исследование сообщает об ассоциациях между воздействием металлических паров на рабочем месте, образом жизни и риском деменции с тельцами Леви",
+          "summary": "Новое исследование изучало, как химические воздействия на рабочем месте (например, металлические пары) и факторы образа жизни (включая потребление алкоголя) связаны с риском деменции с тельцами Леви, и сообщило о возможных различиях эффектов воздействия между полами.",
+          "whyItMatters": "Выявление профессиональных и поведенческих факторов, связанных с риском деменции, может помочь нацелить исследования и стратегии профилактики. Наблюдательные результаты требуют осторожной интерпретации, а пол‑специфические паттерны нуждаются в репликации.",
+          "takeaways": [
+            "Исследование проанализировало связи между профессиональными химическими экспозициями и привычками образа жизни и риском деменции с тельцами Леви, отметив возможные различия по полу.",
+            "Наблюдательный дизайн означает, что ассоциации могут быть обусловлены немеренными смешивающими факторами; причинность не установлена.",
+            "Результаты выделяют направления для целевых исследований в области профессионального здоровья и деменции, но не предполагают немедленных изменений в клинической практике.",
+            "Работникам, обеспокоенным экспозициями, следует обращаться к службам охраны труда и соблюдать правила безопасности на рабочем месте."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження повідомляє про асоціації між професійними впливами, способом життя та ризиком деменції з тілами Леві",
+          "summary": "Нове дослідження вивчало, як професійні хімічні впливи (наприклад, металеві пари) та фактори способу життя (включно зі вживанням алкоголю) пов'язані з ризиком деменції з тілами Леві, і повідомило про можливі відмінності в ефектах експозицій між статями.",
+          "whyItMatters": "Виявлення професійних і факторів способу життя, пов'язаних з ризиком деменції, може допомогти націлити дослідження та стратегії профілактики. Спостережні результати вимагають обережної інтерпретації, а статеві відмінності потребують відтворення.",
+          "takeaways": [
+            "Дослідження проаналізувало асоціації професійних хімічних впливів і звичок життя з ризиком деменції з тілами Леві і відзначило можливі відмінності за статтю.",
+            "Спостережний дизайн означає, що асоціації можуть бути зумовлені невиміреними факторами; причинність не встановлена.",
+            "Результати виділяють напрямки для спеціалізованих досліджень з охорони праці та деменції, а не для негайних змін у клінічній практиці.",
+            "Працівники, стурбовані впливами, мають звертатися до ресурсів охорони праці та дотримуватися правил безпеки на робочому місці."
+          ]
+        },
+        "fr": {
+          "title": "Étude rapporte des associations entre expositions professionnelles, habitudes de vie et risque de démence à corps de Lewy",
+          "summary": "Une nouvelle étude a examiné comment les expositions chimiques au travail (comme les fumées métalliques) et les facteurs de mode de vie (y compris la consommation d'alcool) se rapportent au risque de démence à corps de Lewy, et a rapporté des différences potentielles des effets d'exposition entre les sexes.",
+          "whyItMatters": "Identifier des facteurs professionnels et des modes de vie liés au risque de démence peut aider à cibler la recherche et les stratégies de prévention. Les résultats observationnels nécessitent une interprétation prudente, et les schémas spécifiques au sexe doivent être reproduits.",
+          "takeaways": [
+            "L'étude a analysé les associations entre produits chimiques professionnels et habitudes de vie avec le risque de démence à corps de Lewy et a noté d'éventuelles différences selon le sexe.",
+            "La conception observationnelle signifie que les associations peuvent être influencées par des facteurs de confusion non mesurés ; la causalité n'est pas établie.",
+            "Les résultats mettent en lumière des domaines pour la recherche en santé au travail et sur la démence plutôt que des changements immédiats dans les soins cliniques.",
+            "Les travailleurs inquiets des expositions devraient consulter les ressources de santé au travail et suivre les consignes de sécurité en milieu professionnel."
+          ]
+        },
+        "de": {
+          "title": "Studie berichtet über Assoziationen zwischen beruflichen Expositionen, Lebensstil und Risiko für Lewy‑Körper‑Demenz",
+          "summary": "Eine neue Studie untersuchte, wie berufliche chemische Expositionen (etwa Metallrauch) und Lebensstilfaktoren (einschließlich Alkoholkonsum) mit dem Risiko für Lewy‑Körper‑Demenz zusammenhängen, und berichtete über mögliche geschlechtsspezifische Unterschiede in den Expositionseffekten.",
+          "whyItMatters": "Die Identifizierung beruflicher und Lebensstil‑Faktoren, die mit Demenzrisiko in Verbindung stehen, kann Forschung und Präventionsstrategien fokussieren. Beobachtungsbefunde sind vorsichtig zu interpretieren, und geschlechtsspezifische Muster müssen repliziert werden.",
+          "takeaways": [
+            "Die Studie analysierte Assoziationen von beruflichen Chemikalienexpositionen und Lebensgewohnheiten mit dem Risiko für Lewy‑Körper‑Demenz und bemerkte mögliche Geschlechtsunterschiede.",
+            "Das beobachtende Design bedeutet, dass Assoziationen von unbeachteten Confoundern beeinflusst sein können; Kausalität ist nicht belegt.",
+            "Die Ergebnisse heben Bereiche für gezielte Arbeits‑ und Demenzforschung hervor, nicht sofortige Änderungen der klinischen Versorgung.",
+            "Beschäftigte, die sich wegen Expositionen sorgen, sollten arbeitsmedizinische Ressourcen konsultieren und Arbeitsplatzzsicherheitshinweise befolgen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo relata associações entre fumos metálicos no trabalho, hábitos de consumo e risco de demência por corpos de Lewy",
+          "summary": "Um novo estudo examinou como exposições químicas no local de trabalho (como fumos metálicos) e fatores de estilo de vida (incluindo consumo de álcool) se relacionam com o risco de demência por corpos de Lewy, e relatou potenciais diferenças nos efeitos de exposição entre os sexos.",
+          "whyItMatters": "Identificar fatores ocupacionais e de estilo de vida ligados ao risco de demência pode ajudar a direcionar pesquisas e estratégias de prevenção. Achados observacionais exigem interpretação cautelosa, e padrões específicos por sexo precisam de replicação.",
+          "takeaways": [
+            "O estudo analisou associações de produtos químicos ocupacionais e hábitos de vida com risco de demência por corpos de Lewy e notou possíveis diferenças por sexo.",
+            "O desenho observacional significa que as associações podem ser influenciadas por confundidores não medidos; causalidade não está estabelecida.",
+            "Os resultados destacam áreas para pesquisa focada em saúde ocupacional e demência, em vez de mudanças imediatas no cuidado clínico.",
+            "Trabalhadores preocupados com exposições devem consultar recursos de saúde ocupacional e seguir orientações de segurança no trabalho."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: munkahelyi fémgőzök, alkoholfogyasztás és Lewy‑testes demencia kockázata közötti összefüggések",
+          "summary": "Egy új tanulmány azt vizsgálta, hogyan kapcsolódnak a munkahelyi kémiai expozíciók (például fémgőzök) és életmódbeli tényezők (ideértve az alkoholfogyasztást) a Lewy‑testes demencia kockázatához, és potenciális nemi különbségeket jelentett az expozíciók hatásaiban.",
+          "whyItMatters": "A foglalkozási és életmódi tényezők megismerése, amelyek demencia‑kockázattal hozhatók összefüggésbe, segíthet a kutatás és a megelőzési stratégiák célzásában. A megfigyeléses eredményeket óvatosan kell értelmezni, és a nemi sajátosságokat meg kell ismételni.",
+          "takeaways": [
+            "A tanulmány a munkahelyi kémiai expozíciók és életmódbeli szokások kapcsolatait elemezte a Lewy‑testes demencia kockázatával, és lehetséges nemi különbségeket említ.",
+            "A megfigyeléses kialakítás miatt az összefüggéseket befolyásolhatják nem mért zavaró tényezők; okozati összefüggés nem állapítható meg.",
+            "Az eredmények a foglalkozási egészség és demencia kutatásának fókuszát jelezhetik, nem pedig azonnali változtatást a klinikai ellátásban.",
+            "A munkavállalók, akiket aggasztanak a kitettségek, forduljanak foglalkozási egészségügyi forrásokhoz és kövessék a munkahelyi biztonsági irányelveket."
+          ]
+        },
+        "ar": {
+          "title": "دراسة: أبخرة المعادن، عادات الشرب وخطر الخرف — ما الذي وجدتْه الدراسة الجديدة",
+          "summary": "بحثت دراسة جديدة كيف ترتبط التعرضات الكيميائية في مكان العمل (مثل أبخرة المعادن) وعوامل نمط الحياة (بما في ذلك تعاطي الكحول) بخطر الخرف بجسم ليوي، وأبلغت عن اختلافات محتملة في تأثيرات التعرض بين الجنسين.",
+          "whyItMatters": "تحديد العوامل المهنية ونمط الحياة المرتبطة بخطر الخرف يمكن أن يساعد في توجيه البحث واستراتيجيات الوقاية. النتائج الرصدية تتطلب تفسيرًا حذرًا، وأنماط الاختلاف حسب الجنس بحاجة للتكرار.",
+          "takeaways": [
+            "حلّلت الدراسة ارتباطات المواد الكيميائية في مكان العمل وعادات نمط الحياة مع خطر الخرف بجسم ليوي ولاحظت فروقًا محتملة حسب الجنس.",
+            "التصميم الرصدي يعني أن الارتباطات قد تتأثر بعوامل مشوِّشة غير مقاسة؛ لا يُثبت السببية.",
+            "تُبرز النتائج مجالات للبحث المتخصص في صحة المهنة والخرف أكثر من توجيه تغييرات فورية في الرعاية السريرية.",
+            "يجب على العمال الذين يشعرون بالقلق بشأن التعرضات استشارة مصادر صحة المهنة واتباع إرشادات السلامة في مكان العمل."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=metal-fumes-drinking-habits-and-dementia-what-a-new-study-found-e4e14f620e27",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metal-fumes-drinking-habits-and-dementia-what-a-new-study-found-e4e14f620e27-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metal-fumes-drinking-habits-and-dementia-what-a-new-study-found-e4e14f620e27-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study reports associations between workplace exposures, lifestyle and Lewy body dementia risk.\nStory summary: A new study examined how workplace chemical exposures (such as metal fumes) and lifestyle factors (including alcohol use) relate to the risk of Lewy body dementia, and reported potential differences in exposure effects between sexes..\nCategory: neurodegeneration / occupational health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "major-trial-challenges-how-doctors-decide-who-really-needs-statin-638f85b46af0",
+      "category": "cardiovascular disease / prevention",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+      "sourceTitle": "Major trial challenges how doctors decide who really needs statins",
+      "publishedAt": "Fri, 06 Nov 2026 05:59:18 EST",
+      "languages": {
+        "en": {
+          "title": "Heart‑scan strategy matched event rates while recommending statins to fewer people",
+          "summary": "A nearly 5,800‑participant trial reported that using coronary artery calcium scans to guide statin recommendations produced the same observed rate of major cardiovascular events as traditional risk assessments, while advising statins for far fewer patients. The trial also found higher adherence among people advised to take statins based on scan results.",
+          "whyItMatters": "The findings raise questions about how best to target preventive therapy: imaging may reduce the number of people advised to take statins and improve adherence in those who are advised, but implications for long‑term outcomes, cost, and implementation need careful evaluation.",
+          "takeaways": [
+            "Trial compared calcium-scoring imaging strategy to standard risk assessment in ~5,800 adults.",
+            "Observed major cardiovascular event rates were similar between strategies, despite fewer statin recommendations from the imaging approach.",
+            "Scan‑based recommendations were linked to higher medication adherence, but the trial does not automatically imply superiority for all populations or long‑term outcomes.",
+            "Clinical practice changes would require consideration of resources, risks of imaging, and replication in diverse settings."
+          ]
+        },
+        "es": {
+          "title": "Estrategia basada en escáner cardíaco igualó tasas de eventos mientras recomendaba estatinas a menos personas",
+          "summary": "Un ensayo con casi 5.800 participantes informó que usar escáneres de calcio coronario para guiar las recomendaciones de estatinas produjo la misma tasa observada de eventos cardiovasculares mayores que las evaluaciones de riesgo tradicionales, al tiempo que aconsejaba estatinas a muchos menos pacientes. El ensayo también encontró mayor adherencia entre las personas a las que se les recomendó tomar estatinas en base a los resultados del escáner.",
+          "whyItMatters": "Los hallazgos plantean preguntas sobre cómo dirigir mejor la terapia preventiva: la imagenología podría reducir el número de personas a las que se recomienda estatinas y mejorar la adherencia en quienes las reciben, pero las implicaciones para resultados a largo plazo, costos e implementación necesitan evaluación cuidadosa.",
+          "takeaways": [
+            "El ensayo comparó una estrategia de valoración mediante puntuación de calcio con la evaluación de riesgo estándar en ~5.800 adultos.",
+            "Las tasas observadas de eventos cardiovasculares mayores fueron similares entre las estrategias, pese a que el enfoque por imagen recomendó estatinas a menos personas.",
+            "Las recomendaciones basadas en el escáner se relacionaron con mayor adherencia a la medicación, pero el ensayo no implica automáticamente superioridad para todas las poblaciones ni en resultados a largo plazo.",
+            "Cambios en la práctica clínica requerirían considerar recursos, riesgos de la imagenología y replicación en entornos diversos."
+          ]
+        },
+        "ru": {
+          "title": "Стратегия с сердечным сканированием обеспечила сопоставимые показатели событий при назначении статинов меньшему числу людей",
+          "summary": "В исследовании почти с 5 800 участниками сообщается, что использование кальциевых сканов коронарных артерий для руководства рекомендациями по статинам дало такую же наблюдаемую частоту крупных сердечно‑сосудистых событий, как и традиционные оценки риска, при этом статинов рекомендовали значительно меньшему числу пациентов. В исследовании также отмечена более высокая приверженность среди людей, которым рекомендовали статин на основе результатов сканирования.",
+          "whyItMatters": "Результаты ставят вопросы о том, как лучше нацеливать профилактическую терапию: визуализация может сократить число людей, которым рекомендуют статины, и повысить соблюдение у тех, кому рекомендуют, но последствия для долгосрочных исходов, затрат и внедрения требуют тщательной оценки.",
+          "takeaways": [
+            "Исследование сравнило стратегию оценки с кальциевым скорингом и стандартную оценку риска примерно у 5 800 взрослых.",
+            "Наблюдаемые показатели крупных сердечно‑сосудистых событий были сопоставимы между стратегиями, несмотря на то, что подход с визуализацией рекомендовал статины меньшему числу людей.",
+            "Рекомендации на основе сканирования были связаны с более высокой приверженностью лечению, но это не доказывает превосходства для всех популяций или долгосрочных исходов.",
+            "Изменения клинической практики потребуют учета ресурсов, рисков визуализации и репликации в разнообразных условиях."
+          ]
+        },
+        "uk": {
+          "title": "Стратегія з використанням коронарного кальцієвого сканування показала ті ж події при призначенні статинів меншій кількості людей",
+          "summary": "У майже 5 800 учасників трейлі повідомили, що застосування сканування коронарного кальцію для керування рекомендаціями щодо статинів дало той самий спостережуваний рівень серйозних серцево‑судинних подій, як і традиційна оцінка ризику, водночас радивши статини значно меншій кількості пацієнтів. Дослідження також виявило вищу прихильність серед осіб, яким радили приймати статини на підставі результатів сканування.",
+          "whyItMatters": "Результати ставлять питання про те, як найкраще націлювати профілактичну терапію: візуалізація може зменшити кількість людей, яким радять статини, і підвищити прихильність у тих, кому радять, але наслідки для довгострокових результатів, вартості та впровадження потребують ретельної оцінки.",
+          "takeaways": [
+            "Дослідження порівнювало стратегію із кальцієвим скорингом і стандартну оцінку ризику у ~5 800 дорослих.",
+            "Спостережувані частоти серйозних серцево‑судинних подій були подібні між стратегіями, незважаючи на те, що підхід із візуалізацією рекомендував статини меншій кількості людей.",
+            "Рекомендації на підставі сканування були пов'язані з вищою прихильністю до ліків, але це не означає автоматичну перевагу для всіх популяцій або довгострокових результатів.",
+            "Зміни в клінічній практиці вимагатимуть розгляду ресурсів, ризиків візуалізації та відтворення в різних умовах."
+          ]
+        },
+        "fr": {
+          "title": "La stratégie par scanner cardiaque a obtenu des taux d'événements équivalents tout en recommandant des statines à moins de personnes",
+          "summary": "Un essai d'environ 5 800 participants a rapporté que l'utilisation de scans du calcium des artères coronaires pour guider les recommandations de statines a produit le même taux observé d'événements cardiovasculaires majeurs que les évaluations de risque traditionnelles, tout en conseillant des statines à beaucoup moins de patients. L'essai a également constaté une meilleure observance chez les personnes à qui on a recommandé des statines sur la base des résultats du scanner.",
+          "whyItMatters": "Les résultats posent la question de la meilleure manière de cibler la thérapie préventive : l'imagerie pourrait réduire le nombre de personnes conseillées de prendre des statines et améliorer l'adhérence chez celles qui le sont, mais les implications pour les résultats à long terme, les coûts et la mise en œuvre doivent être soigneusement évaluées.",
+          "takeaways": [
+            "L'essai a comparé la stratégie d'imagerie par score calcique à l'évaluation de risque standard chez ~5 800 adultes.",
+            "Les taux observés d'événements cardiovasculaires majeurs étaient similaires entre les stratégies, malgré moins de recommandations de statines avec l'approche par imagerie.",
+            "Les recommandations basées sur le scanner étaient liées à une meilleure observance, mais l'essai n'implique pas automatiquement une supériorité pour toutes les populations ou pour le long terme.",
+            "Un changement de pratique clinique nécessiterait de prendre en compte les ressources, les risques liés à l'imagerie et la réplication dans des contextes divers."
+          ]
+        },
+        "de": {
+          "title": "Herz-Scan-Strategie zeigte ähnliche Ereignisraten und empfahl Statine für weniger Personen",
+          "summary": "Eine Studie mit fast 5.800 Teilnehmenden berichtete, dass der Einsatz von Coronary-Artery-Calcification-Scans (CAC) zur Steuerung von Statinempfehlungen dieselbe beobachtete Rate schwerer kardiovaskulärer Ereignisse ergab wie traditionelle Risikoabschätzungen, dabei aber deutlich weniger Personen Statine empfohlen wurden. Die Studie fand zudem eine höhere Adhärenz unter denjenigen, denen auf Basis des Scans Statine empfohlen wurden.",
+          "whyItMatters": "Die Ergebnisse werfen Fragen dazu auf, wie präventive Therapien am besten zielgerichtet werden: Bildgebende Verfahren könnten die Zahl der Personen, denen Statine empfohlen werden, reduzieren und die Adhärenz bei den Empfohlenen verbessern, aber die Auswirkungen auf langfristige Ergebnisse, Kosten und Umsetzung müssen sorgfältig bewertet werden.",
+          "takeaways": [
+            "Die Studie verglich ein bildgebendes Calcium-Scoring mit standardmäßiger Risikoabschätzung in rund 5.800 Erwachsenen.",
+            "Die beobachteten Raten großer kardiovaskulärer Ereignisse waren zwischen den Strategien ähnlich, obwohl das Bildgebungsverfahren weniger Statinempfehlungen aussprach.",
+            "Auf Scans basierende Empfehlungen standen mit höherer Medikamentenadhärenz in Verbindung, aber das bedeutet nicht automatisch Überlegenheit für alle Bevölkerungsgruppen oder langfristige Ergebnisse.",
+            "Änderungen in der klinischen Praxis müssten Ressourcen, Risiken der Bildgebung und Replikation in diversen Umgebungen berücksichtigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estratégia com exame cardíaco apresentou taxas de eventos semelhantes e recomendou estatinas para menos pessoas",
+          "summary": "Um ensaio com quase 5.800 participantes relatou que usar tomografias de cálcio nas artérias coronárias para orientar recomendações de estatinas produziu a mesma taxa observada de eventos cardiovasculares maiores que avaliações de risco tradicionais, enquanto recomendava estatinas para bem menos pacientes. O estudo também observou maior adesão entre pessoas aconselhadas a tomar estatinas com base nos resultados do exame.",
+          "whyItMatters": "Os achados levantam questões sobre a melhor forma de direcionar terapias preventivas: a imagem pode reduzir o número de pessoas a serem orientadas a usar estatinas e melhorar a adesão entre as orientadas, mas as implicações para desfechos a longo prazo, custo e implementação precisam de avaliação cuidadosa.",
+          "takeaways": [
+            "O ensaio comparou estratégia de score de cálcio por imagem com avaliação de risco padrão em ~5.800 adultos.",
+            "As taxas observadas de eventos cardiovasculares maiores foram semelhantes entre as estratégias, apesar de a abordagem por imagem recomendar estatinas para menos pessoas.",
+            "Recomendações baseadas no exame se associaram a maior adesão medicamentosa, mas o ensaio não implica automaticamente superioridade para todas as populações ou desfechos a longo prazo.",
+            "Mudanças na prática clínica exigiriam considerar recursos, riscos da imagem e replicação em contextos diversos."
+          ]
+        },
+        "hu": {
+          "title": "Szív‑CT alapú stratégia hasonló eseményszámot ért el, miközben kevesebb embernek ajánlott sztatin",
+          "summary": "Közel 5 800 résztvevőt felölelő vizsgálat szerint a koszorúserek kalcium‑szkóring‑vizsgálatát alkalmazó stratégia a hagyományos kockázatfelméréssel azonos megfigyelt súlyos kardiovaszkuláris eseményszámot eredményezett, miközben jóval kevesebb embernek ajánlott sztatinokat. A vizsgálat továbbá nagyobb gyógyszerszedési adherenciát talált azoknál, akiket a szkennelés alapján tanácsoltak sztatin szedésére.",
+          "whyItMatters": "Az eredmények kérdéseket vetnek fel a megelőző terápia célzásáról: a képalkotás csökkentheti azok számát, akiknek sztatint javasolnak, és javíthatja az adherenciát a javasoltaknál, de a hosszú távú kimenetekre, költségekre és alkalmazhatóságra gyakorolt hatást óvatosan kell értékelni.",
+          "takeaways": [
+            "A vizsgálat kalcium‑pontszám alapú képalkotási stratégiát hasonlított össze a szokásos kockázatértékeléssel körülbelül 5 800 felnőttnél.",
+            "A megfigyelt súlyos kardiovaszkuláris események aránya hasonló volt a két stratégia között, noha a képalkotás kevesebb sztatin‑ajánlást eredményezett.",
+            "A szkennelés alapú ajánlások magasabb gyógyszerszedési adherenciával társultak, de ez nem jelenti automatikusan a jobb teljesítményt minden populációban vagy hosszú távon.",
+            "A klinikai gyakorlat megváltoztatása erőforrások, a képalkotás kockázatai és különböző környezetekben történő megismételhetőség figyelembevételét igényli."
+          ]
+        },
+        "ar": {
+          "title": "استراتيجية فحص القلب أعطت معدلات أحداث مماثلة أثناء توصية السّتراتينات لعدد أقل من الأشخاص",
+          "summary": "أفادت تجربة شملت نحو 5,800 مشارك أن استخدام فحوصات مقدار الكالسيوم في الشرايين التاجية لتوجيه توصيات الستاتين أنتج نفس معدل الأحداث القلبية الوعائية الكبرى الملحوظ كما في تقييمات المخاطر التقليدية، بينما أوصت بالستاتينات لعدد أقل بكثير من المرضى. كما وجدت التجربة التزامًا أعلى بين الأشخاص الذين نُصحوا بتناول الستاتين استنادًا إلى نتائج الفحص.",
+          "whyItMatters": "تثير النتائج تساؤلات حول أفضل طريقة لاستهداف العلاج الوقائي: قد تقلل التصوير الطبي عدد الذين تُنصح لهم الستاتينات وتحسّن الالتزام لدى الموصى لهم، لكن تبعات ذلك على النتائج الطويلة الأمد والتكلفة والتنفيذ تتطلب تقييماً دقيقاً.",
+          "takeaways": [
+            "قارنة التجربة بين استراتيجية تصويرية لحساب الكالسيوم واستراتيجية تقييم المخاطر التقليدية في حوالي 5,800 بالغ.",
+            "كانت معدلات الأحداث القلبية الوعائية الكبرى الملحوظة متشابهة بين الاستراتيجيتين، رغم أن النهج التصويري أوصى بالستاتينات لعدد أقل.",
+            "ترتبط التوصيات المبنية على الفحص بزيادة الالتزام بتناول الدواء، لكن ذلك لا يعني بالضرورة تفوقها لجميع الفئات أو للنتائج طويلة الأمد.",
+            "أي تعديل للممارسة السريرية سيتطلب التفكير في الموارد ومخاطر الفحص وإمكانية التكرار في سياقات متنوعة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=major-trial-challenges-how-doctors-decide-who-really-needs-statin-638f85b46af0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/major-trial-challenges-how-doctors-decide-who-really-needs-statin-638f85b46af0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/major-trial-challenges-how-doctors-decide-who-really-needs-statin-638f85b46af0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Heart‑scan strategy matched event rates while recommending statins to fewer people.\nStory summary: A nearly 5,800‑participant trial reported that using coronary artery calcium scans to guide statin recommendations produced the same observed rate of major cardiovascular events as traditional risk assessments, while advising statins for far fewer patients. The trial also found higher adherence among people advised to take statins based on scan results..\nCategory: cardiovascular disease / prevention.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "nad-precursor-fails-in-parkinson-s-disease-e76703af3a75",
+      "category": "neurodegeneration / clinical trial outcomes",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01277-x",
+      "sourceTitle": "NAD + precursor fails in Parkinson’s disease",
+      "publishedAt": "2026-11-06",
+      "languages": {
+        "en": {
+          "title": "Nature Aging report: NAD+ precursor did not show benefit in Parkinson’s disease",
+          "summary": "A report in Nature Aging is titled to indicate that an NAD+ precursor failed in the context of Parkinson’s disease. The publication signals a negative or null outcome for this therapeutic approach as presented in the article.",
+          "whyItMatters": "Negative or null trials are important to refine research priorities and guide resources away from ineffective approaches. The title alone does not provide study design, population, or detailed results—those details are required to interpret implications for patients or ongoing research.",
+          "takeaways": [
+            "Nature Aging published a report indicating an NAD+ precursor did not succeed for Parkinson’s disease in the study described.",
+            "A negative result can inform future research direction but does not comment on other NAD+ strategies or contexts without full trial details.",
+            "Readers should consult the full paper for study type (preclinical vs. clinical), endpoints, and limitations before drawing conclusions.",
+            "This summary is informational and not medical advice; treatment decisions require clinical consultation."
+          ]
+        },
+        "es": {
+          "title": "Informe en Nature Aging: precursor de NAD+ no mostró beneficio en la enfermedad de Parkinson",
+          "summary": "Un informe en Nature Aging señala que un precursor de NAD+ fracasó en el contexto de la enfermedad de Parkinson. La publicación indica un resultado negativo o nulo para este enfoque terapéutico tal como se presenta en el artículo.",
+          "whyItMatters": "Los ensayos con resultados negativos o nulos son importantes para refinar prioridades de investigación y orientar recursos alejándolos de enfoques ineficaces. Sólo el título no aporta diseño del estudio, población ni resultados detallados; esos datos son necesarios para interpretar las implicaciones para pacientes o investigaciones en curso.",
+          "takeaways": [
+            "Nature Aging publicó un informe que indica que un precursor de NAD+ no tuvo éxito para la enfermedad de Parkinson en el estudio descrito.",
+            "Un resultado negativo puede orientar futuras líneas de investigación, pero no se pronuncia sobre otras estrategias con NAD+ o distintos contextos sin los detalles completos del ensayo.",
+            "Los lectores deben consultar el artículo completo para conocer el tipo de estudio (preclínico vs. clínico), los criterios de valoración y las limitaciones antes de sacar conclusiones.",
+            "Este resumen es informativo y no constituye asesoramiento médico; las decisiones de tratamiento requieren consulta clínica."
+          ]
+        },
+        "ru": {
+          "title": "Отчет в Nature Aging: предшественник NAD+ не показал пользы при болезни Паркинсона",
+          "summary": "В отчёте в Nature Aging говорится, что предшественник NAD+ не сработал в контексте болезни Паркинсона. Публикация сигнализирует об отрицательном или нулевом результате для этого терапевтического подхода, как представлено в статье.",
+          "whyItMatters": "Отрицательные или нулевые результаты важны для уточнения приоритетов исследований и перенаправления ресурсов от неэффективных подходов. Один только заголовок не даёт информации о дизайне исследования, популяции или детальных результатах — эти данные необходимы для интерпретации последствий для пациентов и продолжающихся исследований.",
+          "takeaways": [
+            "Nature Aging опубликовал отчёт, в котором указано, что предшественник NAD+ не оказался успешным для болезни Паркинсона в описанном исследовании.",
+            "Отрицательный результат может помочь в формировании направлений будущих исследований, но он не комментирует другие стратегии, связанные с NAD+, или другие контексты без полного описания исследования.",
+            "Читателям следует обратиться к полной статье, чтобы узнать тип исследования (доклиническое или клиническое), конечные точки и ограничения, прежде чем делать выводы.",
+            "Это информационное резюме, а не медицинская рекомендация; решения по лечению требуют консультации с врачом."
+          ]
+        },
+        "uk": {
+          "title": "Звіт Nature Aging: прекурсор NAD+ не показав користі для хвороби Паркінсона",
+          "summary": "У Nature Aging опубліковано матеріал, заголовок якого вказує, що прекурсор NAD+ зазнав невдачі в контексті хвороби Паркінсона. Публікація сигналізує про негативний або нульовий результат для цього терапевтичного підходу, як описано в статті.",
+          "whyItMatters": "Негативні або нульові випробування важливі для уточнення пріоритетів досліджень і спрямування ресурсів від неефективних підходів. Один лише заголовок не дає інформації про дизайн дослідження, популяцію або детальні результати — ці відомості потрібні для інтерпретації наслідків для пацієнтів або подальших досліджень.",
+          "takeaways": [
+            "Nature Aging опублікувала звіт, що вказує: прекурсор NAD+ не досяг успіху для хвороби Паркінсона в описаному дослідженні.",
+            "Негативний результат може інформувати подальші напрямки досліджень, але не коментує інші стратегії, пов'язані з NAD+, без повних даних випробування.",
+            "Читачам слід звертатися до повної статті для деталей про тип дослідження (доклінічне чи клінічне), кінцеві точки та обмеження, перш ніж робити висновки.",
+            "Це інформаційне резюме і не є медичною порадою; рішення про лікування потребують консультації з клініцистом."
+          ]
+        },
+        "fr": {
+          "title": "Nature Aging : un précurseur du NAD+ n'a pas montré de bénéfice dans la maladie de Parkinson",
+          "summary": "Un article dans Nature Aging est intitulé de façon à indiquer qu'un précurseur du NAD+ a échoué dans le contexte de la maladie de Parkinson. La publication signale un résultat négatif ou nul pour cette approche thérapeutique, tel que présenté dans l'article.",
+          "whyItMatters": "Les essais négatifs ou nuls sont importants pour affiner les priorités de recherche et orienter les ressources loin des approches inefficaces. Le seul titre ne fournit pas le design de l'étude, la population ou les résultats détaillés — ces éléments sont nécessaires pour interpréter les implications pour les patients ou la recherche en cours.",
+          "takeaways": [
+            "Nature Aging a publié un rapport indiquant qu'un précurseur du NAD+ n'a pas réussi pour la maladie de Parkinson dans l'étude décrite.",
+            "Un résultat négatif peut éclairer les orientations futures de la recherche mais ne concerne pas d'autres stratégies liées au NAD+ sans les détails complets de l'essai.",
+            "Les lecteurs doivent consulter l'article complet pour connaître le type d'étude (préclinique vs clinique), les critères d'évaluation et les limites avant de tirer des conclusions.",
+            "Ce résumé est informatif et ne constitue pas un avis médical ; les décisions de traitement nécessitent une consultation clinique."
+          ]
+        },
+        "de": {
+          "title": "Nature Aging‑Bericht: NAD+-Vorläufer zeigte keinen Nutzen bei Parkinson",
+          "summary": "Ein Bericht in Nature Aging ist überschrieben, dass ein NAD+-Vorläufer im Kontext der Parkinson‑Krankheit gescheitert sei. Die Publikation signalisiert ein negatives oder null Ergebnis für diesen therapeutischen Ansatz, wie im Artikel dargestellt.",
+          "whyItMatters": "Negative oder nullen Ergebnisse sind wichtig, um Forschungsprioritäten zu verfeinern und Ressourcen von unwirksamen Ansätzen abzuziehen. Allein der Titel liefert jedoch keine Angaben zu Studiendesign, Population oder detaillierten Ergebnissen—diese Details sind erforderlich, um die Bedeutung für Patienten oder laufende Forschung zu bewerten.",
+          "takeaways": [
+            "Nature Aging veröffentlichte einen Bericht, der anzeigt, dass ein NAD+-Vorläufer in der beschriebenen Studie bei Parkinson nicht erfolgreich war.",
+            "Ein negatives Ergebnis kann die zukünftige Forschungsrichtung informieren, sagt aber nichts über andere NAD+-Strategien oder Kontexte ohne vollständige Studiendetails aus.",
+            "Lesende sollten das vollständige Papier für Angaben zu Studientyp (präklinisch vs. klinisch), Endpunkten und Einschränkungen konsultieren, bevor Schlüsse gezogen werden.",
+            "Diese Zusammenfassung ist informativ und keine medizinische Beratung; Therapieentscheidungen erfordern klinische Beratung."
+          ]
+        },
+        "pt-br": {
+          "title": "Relato na Nature Aging: precursor de NAD+ não mostrou benefício na doença de Parkinson",
+          "summary": "Um relato na Nature Aging tem título indicando que um precursor de NAD+ falhou no contexto da doença de Parkinson. A publicação sinaliza um resultado negativo ou nulo para essa abordagem terapêutica conforme apresentado no artigo.",
+          "whyItMatters": "Ensaios com resultados negativos ou nulos são importantes para refinar prioridades de pesquisa e direcionar recursos para longe de abordagens ineficazes. Apenas o título não fornece desenho do estudo, população ou resultados detalhados—esses detalhes são necessários para interpretar as implicações para pacientes ou pesquisas em curso.",
+          "takeaways": [
+            "A Nature Aging publicou um relato indicando que um precursor de NAD+ não teve sucesso para Parkinson no estudo descrito.",
+            "Um resultado negativo pode orientar pesquisas futuras, mas não comenta sobre outras estratégias relacionadas a NAD+ ou outros contextos sem os detalhes completos do estudo.",
+            "Leitores devem consultar o artigo completo para tipo de estudo (pré-clínico vs. clínico), desfechos e limitações antes de tirar conclusões.",
+            "Este resumo é informativo e não constitui aconselhamento médico; decisões de tratamento exigem consulta clínica."
+          ]
+        },
+        "hu": {
+          "title": "Nature Aging: NAD+ előanyag nem mutatott előnyt Parkinson‑kórban",
+          "summary": "A Nature Agingben megjelent közlemés címe azt jelzi, hogy egy NAD+ előanyag eredménytelen volt a Parkinson‑kór kontextusában. A közlés egy negatív vagy nulla eredményre utal az adott terápiás megközelítésre vonatkozóan, ahogy a cikk leírja.",
+          "whyItMatters": "A negatív vagy nulla eredményű vizsgálatok fontosak a kutatási prioritások finomhangolásához és a források elmozdításához a hatástalan megközelítésektől. Magában a címben nem szerepelnek a vizsgálat részletei (terv, populáció, eredmények), és ezekre szükség van ahhoz, hogy a páciensekre vagy a folyamatban lévő kutatásokra vonatkozó következtetéseket levonhassunk.",
+          "takeaways": [
+            "A Nature Aging közölt egy jelentést, amely azt jelzi, hogy az adott vizsgálatban egy NAD+ előanyag nem bizonyult sikeresnek Parkinson‑kórban.",
+            "Egy negatív eredmény informálhatja a jövőbeni kutatási irányokat, de nem ad választ más NAD+ stratégiák vagy más kontextusok hatékonyságára vonatkozóan a teljes közlemény nélkül.",
+            "Az olvasóknak a teljes tanulmányt kell megtekinteniük a vizsgálat típusáról (preklinikai vagy klinikai), a végpontokról és a korlátokról szóló részletekért, mielőtt következtetéseket vonnak le.",
+            "Ez az összefoglaló tájékoztató jellegű és nem orvosi tanács; a kezelési döntéseket klinikai konzultáció alapján kell meghozni."
+          ]
+        },
+        "ar": {
+          "title": "تقرير في Nature Aging: مُقدّم NAD+ لم يظهر فائدة في مرض باركنسون",
+          "summary": "عنوان تقرير منشور في Nature Aging يشير إلى أن مُقدّم NAD+ فشل في سياق مرض باركنسون. يلمّح النشر إلى نتيجة سلبية أو عدم وجود أثر لهذه المقاربة العلاجية كما عرضها المقال.",
+          "whyItMatters": "التجارب السلبية أو التي تسجل نتائج معدومة مهمة لصياغة أولويات البحث وتوجيه الموارد بعيدا عن الأساليب غير الفعّالة. العنوان وحده لا يقدّم تصميم الدراسة أو السكان أو النتائج التفصيلية — وتلك التفاصيل ضرورية لتفسير الدلالات للمرضى أو للبحوث الجارية.",
+          "takeaways": [
+            "نشرت Nature Aging تقريرًا يفيد بأن مُقدّم NAD+ لم ينجح لمرض باركنسون في الدراسة الموصوفة.",
+            "يمكن للنتيجة السلبية أن توجه الأبحاث المستقبلية لكنها لا تتناول استراتيجيات NAD+ الأخرى أو غيرها من السياقات دون تفاصيل الدراسة الكاملة.",
+            "ينبغي على القرّاء الرجوع إلى المقال الكامل لمعرفة نوع الدراسة (قبل سريري أم سريري)، ونقاط النهاية، والقيود قبل استخلاص استنتاجات.",
+            "هذا الملخّص معلوماتي وليس نصيحة طبية؛ قرارات العلاج تتطلّب استشارة طبية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=nad-precursor-fails-in-parkinson-s-disease-e76703af3a75",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nad-precursor-fails-in-parkinson-s-disease-e76703af3a75-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/nad-precursor-fails-in-parkinson-s-disease-e76703af3a75-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nature Aging report: NAD+ precursor did not show benefit in Parkinson’s disease.\nStory summary: A report in Nature Aging is titled to indicate that an NAD+ precursor failed in the context of Parkinson’s disease. The publication signals a negative or null outcome for this therapeutic approach as presented in the article..\nCategory: neurodegeneration / clinical trial outcomes.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "high-levels-of-indoor-radon-linked-to-higher-risk-of-heart-failur-285fe04a5a69",
+      "category": "environmental exposures / cardiovascular health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-high-indoor-radon-linked-higher.html",
+      "sourceTitle": "High levels of indoor radon linked to higher risk of heart failure in postmenopausal women",
+      "publishedAt": "Thu, 05 Nov 2026 18:00:08 EST",
+      "languages": {
+        "en": {
+          "title": "Observational study links higher estimated indoor radon to increased heart failure risk in postmenopausal women",
+          "summary": "A study published in JAMA Network Open and led by researchers at UNC Gillings School of Global Public Health reported that postmenopausal women living in areas with higher estimated indoor radon levels had a higher risk of heart failure.",
+          "whyItMatters": "Radon is a known environmental hazard for lung cancer; evidence of cardiovascular effects would broaden concerns about exposure. Observational designs and estimated exposure measures mean residual confounding and exposure misclassification are possible.",
+          "takeaways": [
+            "Analysis found an association between estimated indoor radon levels and heart failure risk among postmenopausal women.",
+            "The study is observational and uses estimated exposures—causal inference is limited and further research is needed.",
+            "If confirmed, findings could influence public‑health messaging and radon mitigation policies, but clinical recommendations require more evidence.",
+            "Home radon testing and mitigation are established for lung cancer risk; consult local health guidance for radon concerns."
+          ]
+        },
+        "es": {
+          "title": "Estudio observacional vincula mayores niveles estimados de radón interior con mayor riesgo de insuficiencia cardíaca en mujeres posmenopáusicas",
+          "summary": "Un estudio publicado en JAMA Network Open y liderado por investigadores de la UNC Gillings School of Global Public Health informó que mujeres posmenopáusicas que vivían en áreas con niveles estimados más altos de radón en interiores tenían un mayor riesgo de insuficiencia cardíaca.",
+          "whyItMatters": "El radón es un peligro ambiental conocido por el cáncer de pulmón; la evidencia de efectos cardiovasculares ampliaría las preocupaciones sobre la exposición. Los diseños observacionales y las medidas de exposición estimadas implican que pueden existir confusión residual y errores en la clasificación de la exposición.",
+          "takeaways": [
+            "El análisis encontró una asociación entre niveles estimados de radón interior y riesgo de insuficiencia cardíaca en mujeres posmenopáusicas.",
+            "El estudio es observacional y usa exposiciones estimadas: la inferencia causal es limitada y se necesita más investigación.",
+            "Si se confirma, los hallazgos podrían influir en mensajes de salud pública y políticas de mitigación del radón, pero las recomendaciones clínicas requieren más pruebas.",
+            "Las pruebas y mitigación del radón en el hogar ya están establecidas para el riesgo de cáncer de pulmón; consulte las guías sanitarias locales sobre el radón."
+          ]
+        },
+        "ru": {
+          "title": "Наблюдательное исследование связывает более высокие оценённые уровни бытового радона с повышенным риском сердечной недостаточности у постменопаузальных женщин",
+          "summary": "Исследование, опубликованное в JAMA Network Open и возглавляемое исследователями из UNC Gillings School of Global Public Health, показало, что постменопаузальные женщины, проживавшие в районах с более высокими оценёнными уровнями радона в помещениях, имели повышенный риск сердечной недостаточности.",
+          "whyItMatters": "Радон известен как фактор риска рака лёгких; свидетельства о сердечно‑сосудистых эффектах расширили бы озабоченность по поводу экспозиции. Наблюдательный дизайн и оценочные меры экспозиции означают, что возможны остаточные смешивающие факторы и ошибки классификации экспозиции.",
+          "takeaways": [
+            "Анализ обнаружил ассоциацию между оценёнными уровнями бытового радона и риском сердечной недостаточности среди постменопаузальных женщин.",
+            "Исследование является наблюдательным и использует оценочные показатели экспозиции — причинно‑следственные выводы ограничены, требуется дальнейшее исследование.",
+            "Если результаты подтвердятся, они могут повлиять на сообщения общественного здравоохранения и политику по снижению радона, но клинические рекомендации потребуют дополнительных данных.",
+            "Тестирование и снижение уровня радона в домашних условиях уже рекомендованы из‑за риска рака лёгких; обращайтесь к местным рекомендациям по вопросам радона."
+          ]
+        },
+        "uk": {
+          "title": "Спостережне дослідження пов'язує вищі оцінені рівні радону в приміщенні з підвищеним ризиком серцевої недостатності у постменопаузальних жінок",
+          "summary": "Дослідження, опубліковане в JAMA Network Open і кероване дослідниками з UNC Gillings School of Global Public Health, повідомило, що постменопаузальні жінки, які живуть у районах з вищими оціненими рівнями радону в приміщенні, мали вищий ризик серцевої недостатності.",
+          "whyItMatters": "Радон — відомий фактор ризику раку легень; докази кардіоваскулярних ефектів розширили б занепокоєння щодо експозицій. Спостережна конструкція та оцінені показники експозиції означають можливість залишкового конфаундингу та помилок класифікації експозиції.",
+          "takeaways": [
+            "Аналіз виявив асоціацію між оціненими рівнями радону в приміщенні та ризиком серцевої недостатності серед постменопаузальних жінок.",
+            "Дослідження спостережне і використовує оцінені експозиції — причинні висновки обмежені, потрібні додаткові дослідження.",
+            "Якщо підтвердиться, це може вплинути на повідомлення громадського здоров'я і політику щодо пом'якшення радону, але клінічні рекомендації потребують більше доказів.",
+            "Тестування дому на радон і заходи з їх усунення вже встановлені щодо ризику раку легень; у разі занепокоєння слід звертатися до місцевих рекомендацій охорони здоров'я."
+          ]
+        },
+        "fr": {
+          "title": "Étude observationnelle lie des niveaux plus élevés de radon intérieur à un risque accru d'insuffisance cardiaque chez les femmes postménopausées",
+          "summary": "Une étude publiée dans JAMA Network Open et menée par des chercheurs de la UNC Gillings School of Global Public Health a rapporté que les femmes postménopausées vivant dans des zones avec des niveaux estimés plus élevés de radon intérieur présentaient un risque plus élevé d'insuffisance cardiaque.",
+          "whyItMatters": "Le radon est un danger environnemental reconnu pour le cancer du poumon ; des preuves d'effets cardiovasculaires élargiraient les préoccupations liées à l'exposition. Les conceptions observationnelles et les mesures d'exposition estimées signifient qu'il peut exister des confusions résiduelles et des erreurs de classification de l'exposition.",
+          "takeaways": [
+            "L'analyse a trouvé une association entre le radon intérieur estimé et le risque d'insuffisance cardiaque chez les femmes postménopausées.",
+            "L'étude est observationnelle et utilise des expositions estimées — l'inférence causale est limitée et d'autres recherches sont nécessaires.",
+            "Si confirmé, cela pourrait influencer la communication de santé publique et les politiques de mitigation du radon, mais les recommandations cliniques exigent davantage de preuves.",
+            "Les tests et la mitigation du radon à domicile sont déjà établis pour le risque de cancer du poumon ; consultez les recommandations locales de santé pour les préoccupations liées au radon."
+          ]
+        },
+        "de": {
+          "title": "Beobachtungsstudie verknüpft höhere geschätzte Radonwerte in Innenräumen mit erhöhtem Herzinsuffizienzrisiko bei postmenopausalen Frauen",
+          "summary": "Eine in JAMA Network Open veröffentlichte Studie unter Leitung der UNC Gillings School of Global Public Health berichtete, dass postmenopausale Frauen, die in Gebieten mit höheren geschätzten Radonwerten in Innenräumen leben, ein höheres Risiko für Herzinsuffizienz hatten.",
+          "whyItMatters": "Radon ist als Umweltgift für Lungenkrebs bekannt; Hinweise auf kardiovaskuläre Effekte würden die Besorgnis über Expositionen erweitern. Beobachtungsdesigns und geschätzte Expositionsmaße bedeuten, dass Restconfounding und Fehlklassifikation der Exposition möglich sind.",
+          "takeaways": [
+            "Die Analyse fand eine Assoziation zwischen geschätzten Radonwerten in Innenräumen und Herzinsuffizienzrisiko bei postmenopausalen Frauen.",
+            "Die Studie ist beobachtend und verwendet geschätzte Expositionen—kausale Schlussfolgerungen sind begrenzt und weitere Forschung nötig.",
+            "Wenn bestätigt, könnten die Ergebnisse öffentliche‑Gesundheits‑Botschaften und Radon‑Minderungsmaßnahmen beeinflussen; klinische Empfehlungen erfordern jedoch mehr Evidenz.",
+            "Haus‑Radontests und Minderungsmaßnahmen sind etabliert für das Lungenkrebsrisiko; bei Radonbedenken lokalen Gesundheitshinweisen folgen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo observacional associa níveis mais altos estimados de radônio em ambientes internos a maior risco de insuficiência cardíaca em mulheres pós‑menopausa",
+          "summary": "Um estudo publicado no JAMA Network Open e conduzido por pesquisadores da UNC Gillings School of Global Public Health relatou que mulheres pós‑menopausa que vivem em áreas com níveis estimados mais altos de radônio em ambientes internos tiveram maior risco de insuficiência cardíaca.",
+          "whyItMatters": "O radônio é um risco ambiental conhecido para câncer de pulmão; evidências de efeitos cardiovasculares ampliariam as preocupações sobre a exposição. Desenhos observacionais e medidas de exposição estimadas implicam que possa haver confundimento residual e erro de classificação da exposição.",
+          "takeaways": [
+            "A análise encontrou uma associação entre níveis estimados de radônio em ambientes internos e risco de insuficiência cardíaca entre mulheres pós‑menopausa.",
+            "O estudo é observacional e usa exposições estimadas—inferência causal é limitada e são necessárias mais pesquisas.",
+            "Se confirmado, os achados podem influenciar mensagens de saúde pública e políticas de mitigação do radônio, mas recomendações clínicas exigem mais evidência.",
+            "Testes e mitigação de radônio doméstico são medidas estabelecidas para risco de câncer de pulmão; consulte orientações locais de saúde em caso de preocupação com radônio."
+          ]
+        },
+        "hu": {
+          "title": "Megfigyeléses tanulmány: magasabb becsült beltéri radonszint összefüggésben a szívelégtelenség nagyobb kockázatával posztmenopauzás nőkben",
+          "summary": "A JAMA Network Open‑ban megjelent, az UNC Gillings School of Global Public Health által vezetett tanulmány arról számolt be, hogy a posztmenopauzás nők körében azoknál, akik olyan területeken éltek, ahol magasabb volt a becsült beltéri radon, nagyobb volt a szívelégtelenség kockázata.",
+          "whyItMatters": "A radon ismert környezeti veszély a tüdőrák szempontjából; ha kiderülnek kardiovaszkuláris hatások is, az kibővítené az expozícióval kapcsolatos aggályokat. A megfigyeléses tervezés és a becsült expozíciós mérők miatt maradhatnak maradék összeférkőzési tényezők és expozíció‑félremérés.",
+          "takeaways": [
+            "Az elemzés összefüggést talált a becsült beltéri radonszint és a szívelégtelenség kockázata között posztmenopauzás nőkben.",
+            "A tanulmány megfigyeléses és becsült expozíciókat használ — az okozati következtetések korlátozottak, további kutatás szükséges.",
+            "Ha megerősítik az eredményeket, azok befolyásolhatják a közegészségügyi üzeneteket és a radon‑csökkentési politikákat, de a klinikai ajánlások több bizonyítékot igényelnek.",
+            "A lakóhelyi radontesztelés és a mérséklés már bevett gyakorlat a tüdőrák kockázatának csökkentésére; radon‑aggodalmak esetén kövesse a helyi egészségügyi iránymutatásokat."
+          ]
+        },
+        "ar": {
+          "title": "دراسة رصدية تربط مستويات رادون داخلية مقدرة أعلى بزيادة خطر فشل القلب لدى النساء بعد انقطاع الطمث",
+          "summary": "أوردت دراسة منشورة في JAMA Network Open وقادها باحثون في كلية UNC Gillings للصحة العامة العالمية أن النساء بعد انقطاع الطمث اللاتي يعشن في مناطق ذات مستويات رادون داخلية مقدرة أعلى كانت لديهن مخاطر أعلى من فشل القلب.",
+          "whyItMatters": "الرادون معروف كمخاطر بيئية لسرطان الرئة؛ وإذا وُجدت أيضًا آثار قلبية وعائية فهذا يوسّع نطاق القلق بشأن التعرض. التصميم الرصدي وقياسات التعرض المقدرة تعني أن بقايا التداخل وسوء تصنيف التعرض ممكنان.",
+          "takeaways": [
+            "وجد التحليل ارتباطًا بين مستوى الرادون الداخلي المقدر وخطر فشل القلب بين النساء بعد انقطاع الطمث.",
+            "الدراسة رصدية وتستخدم تعرّضات مقدرة — الاستدلال السببي محدود وتحتاج لمزيد من الأبحاث.",
+            "لو تم تأكيد النتائج قد تؤثر على الرسائل الصحية العامة وسياسات التخفيف من الرادون، لكن التوصيات السريرية تتطلب أدلة إضافية.",
+            "اختبار الرادون في المنزل والتخفيف منه إجراءات معتمدة للحد من مخاطر سرطان الرئة؛ استشر الإرشادات الصحية المحلية بشأن مخاوف الرادون."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=high-levels-of-indoor-radon-linked-to-higher-risk-of-heart-failur-285fe04a5a69",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/high-levels-of-indoor-radon-linked-to-higher-risk-of-heart-failur-285fe04a5a69-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/high-levels-of-indoor-radon-linked-to-higher-risk-of-heart-failur-285fe04a5a69-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Observational study links higher estimated indoor radon to increased heart failure risk in postmenopausal women.\nStory summary: A study published in JAMA Network Open and led by researchers at UNC Gillings School of Global Public Health reported that postmenopausal women living in areas with higher estimated indoor radon levels had a higher risk of heart failure..\nCategory: environmental exposures / cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "forever-chemicals-linked-to-aggressive-breast-cancers-b47693682ea1",
+      "category": "environmental exposures / cancer epidemiology",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/hematologyoncology/breastcancer/123741",
+      "sourceTitle": "'Forever Chemicals' Linked to Aggressive Breast Cancers",
+      "publishedAt": "Thu, 05 Nov 2026 16:38:08 -0500",
+      "languages": {
+        "en": {
+          "title": "Prospective study finds associations between certain PFAS and higher ER‑negative breast cancer risk",
+          "summary": "A prospective case‑cohort analysis reported that higher exposures to two widespread per‑ and polyfluoroalkyl substances (PFAS) were associated with an increased risk of estrogen receptor‑negative breast cancer. The highest exposure quartile for PFOA was specifically mentioned in the report.",
+          "whyItMatters": "PFAS are pervasive environmental chemicals; associations with more aggressive breast cancer subtypes could inform exposure research and public health policies. Observational associations do not establish causation and require replication and mechanistic study.",
+          "takeaways": [
+            "Study design described as prospective case‑cohort and found associations between higher PFAS levels and ER‑negative breast cancer.",
+            "An observed association does not prove causation—confounding and exposure measurement issues may affect results.",
+            "Findings warrant further epidemiologic and mechanistic work and could inform regulatory and exposure‑mitigation discussions.",
+            "Individuals should follow public health guidance; this is not cancer prevention advice for individuals."
+          ]
+        },
+        "es": {
+          "title": "Estudio prospectivo halla asociaciones entre ciertas PFAS y mayor riesgo de cáncer de mama ER‑negativo",
+          "summary": "Un análisis prospectivo tipo caso‑cohorte informó que exposiciones más altas a dos per‑ y polifluoroalquiladas (PFAS) generalizadas se asociaron con un mayor riesgo de cáncer de mama receptor de estrógeno negativo. El informe mencionó específicamente el cuartil de exposición más alto para el PFOA.",
+          "whyItMatters": "Las PFAS son sustancias ambientales omnipresentes; las asociaciones con subtipos de cáncer de mama más agresivos podrían orientar la investigación sobre exposiciones y políticas de salud pública. Las asociaciones observacionales no establecen causalidad y requieren replicación y estudio mecanístico.",
+          "takeaways": [
+            "El estudio, descrito como prospectivo caso‑cohorte, encontró asociaciones entre mayores niveles de PFAS y cáncer de mama ER‑negativo.",
+            "Una asociación observada no demuestra causalidad: el confunde y las mediciones de exposición pueden afectar los resultados.",
+            "Los hallazgos justifican más trabajos epidemiológicos y mecanísticos y podrían informar debates regulatorios y sobre mitigación de exposiciones.",
+            "Las personas deben seguir las orientaciones de salud pública; esto no es un consejo de prevención del cáncer para individuos."
+          ]
+        },
+        "ru": {
+          "title": "Проспективное исследование выявило связь между некоторыми PFAS и повышенным риском ER‑отрицательного рака молочной железы",
+          "summary": "Анализ проспективного когорто‑случайного исследования показал, что более высокие воздействия двух широко распространённых пер‑ и полифторалкильных веществ (PFAS) были связаны с повышенным риском рака молочной железы без рецепторов эстрогена. В отчёте конкретно упомянут наивысший квартиль экспозиции PFOA.",
+          "whyItMatters": "PFAS — повсеместные загрязнители окружающей среды; ассоциации с более агрессивными подтипами рака молочной железы могут повлиять на направления исследований по экспозициям и политику общественного здравоохранения. Наблюдательные ассоциации не устанавливают причинно‑следственную связь и требуют репликации и механистических исследований.",
+          "takeaways": [
+            "Исследование описано как проспективное когорто‑случайное и обнаружило ассоциации между более высокими уровнями PFAS и ER‑отрицательным раком молочной железы.",
+            "Наблюдаемая ассоциация не доказывает причинности — возможны искажения из‑за смешивающих факторов и ошибки измерения экспозиции.",
+            "Результаты оправдывают дальнейшие эпидемиологические и механистические исследования и могут информировать регуляторные обсуждения и меры по снижению экспозиции.",
+            "Людям следует следовать рекомендациям общественного здравоохранения; это не является индивидуальным советом по профилактике рака."
+          ]
+        },
+        "uk": {
+          "title": "Проспективне дослідження виявило асоціації між деякими PFAS і підвищеним ризиком ER‑негативного раку молочної залози",
+          "summary": "Проспективний аналіз випадку‑коhortи повідомив, що вищі експозиції до двох поширених пер‑ та поліфторалкільних речовин (PFAS) були пов'язані зі збільшеним ризиком естроген‑рецептор‑негативного раку молочної залози. У звіті згадується найвищий квартиль експозиції до PFOA.",
+          "whyItMatters": "PFAS — поширені забруднювачі довкілля; асоціації з більш агресивними підтипами раку молочної залози можуть впливати на дослідження експозицій та громадську політику. Спостережні асоціації не встановлюють причинності і потребують повторення та механістичного вивчення.",
+          "takeaways": [
+            "Дослідження описано як проспективний аналіз випадок‑коhortи і знайшло асоціації між вищими рівнями PFAS і ER‑негативним раком молочної залози.",
+            "Спостережувана асоціація не доводить причинності — змішувальні фактори та проблеми вимірювання експозиції можуть впливати на результати.",
+            "Результати виправдовують подальшу епідеміологічну та механістичну роботу і можуть інформувати регуляторні та заходи щодо зниження експозицій.",
+            "Особи повинні дотримуватися рекомендацій громадського здоров'я; це не є індивідуальною порадою щодо запобігання раку."
+          ]
+        },
+        "fr": {
+          "title": "Étude prospective trouve des associations entre certains PFAS et un risque plus élevé de cancer du sein ER‑négatif",
+          "summary": "Une analyse prospective cas‑cohorte a rapporté que des expositions plus élevées à deux substances per‑ et polyfluoroalkylées (PFAS) répandues étaient associées à un risque accru de cancer du sein négatif pour le récepteur aux œstrogènes. Le quartile d'exposition le plus élevé pour le PFOA est spécifiquement mentionné dans le rapport.",
+          "whyItMatters": "Les PFAS sont des produits chimiques environnementaux omniprésents ; des associations avec des sous‑types de cancer du sein plus agressifs pourraient orienter la recherche sur les expositions et les politiques de santé publique. Les associations observationnelles n'établissent pas la causalité et nécessitent réplication et études mécanistes.",
+          "takeaways": [
+            "L'étude est décrite comme une analyse prospective cas‑cohorte et a trouvé des associations entre des niveaux plus élevés de PFAS et le cancer du sein ER‑négatif.",
+            "Une association observée ne prouve pas la causalité — des facteurs de confusion et des problèmes de mesure de l'exposition peuvent affecter les résultats.",
+            "Les résultats justifient des travaux épidémiologiques et mécanistiques supplémentaires et pourraient informer les discussions réglementaires et d'atténuation des expositions.",
+            "Les individus doivent suivre les recommandations de santé publique ; ce n'est pas un conseil individuel de prévention du cancer."
+          ]
+        },
+        "de": {
+          "title": "Prospektive Studie findet Assoziationen zwischen bestimmten PFAS und höherem Risiko für ER‑negativen Brustkrebs",
+          "summary": "Eine prospektive Fall‑Kohorten‑Analyse berichtete, dass höhere Expositionen gegenüber zwei weit verbreiteten Per‑ und Polyfluoralkylstoffen (PFAS) mit einem erhöhten Risiko für östrogenrezeptornegativen Brustkrebs verbunden waren. Im Bericht wurde speziell das höchste Expositionsquartil für PFOA erwähnt.",
+          "whyItMatters": "PFAS sind allgegenwärtige Umweltchemikalien; Assoziationen mit aggressiveren Brustkrebssubtypen könnten die Expositionsforschung und die öffentliche Gesundheitspolitik informieren. Beobachtungsassoziationen begründen keine Kausalität und erfordern Replikation sowie mechanistische Untersuchungen.",
+          "takeaways": [
+            "Die Studie, prospektiv im Fall‑Kohorten‑Design, fand Assoziationen zwischen höheren PFAS‑Werten und ER‑negativem Brustkrebs.",
+            "Eine beobachtete Assoziation beweist keine Kausalität—Confounding und Messfehler bei der Exposition können die Ergebnisse beeinflussen.",
+            "Die Ergebnisse rechtfertigen weitere epidemiologische und mechanistische Forschung und könnten regulatorische sowie Maßnahmen zur Expositionsminderung informieren.",
+            "Individuen sollten öffentlichen Gesundheitsanweisungen folgen; dies ist keine individuelle Krebspräventionsberatung."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo prospectivo encontra associações entre certos PFAS e maior risco de câncer de mama ER‑negativo",
+          "summary": "Uma análise caso‑coorte prospectiva relatou que exposições mais altas a dois per‑ e polifluoroalquilados (PFAS) amplamente presentes estiveram associadas a um risco aumentado de câncer de mama receptor de estrogênio negativo. O quartil de exposição mais alto para PFOA foi mencionado especificamente no relatório.",
+          "whyItMatters": "PFAS são químicos ambientais onipresentes; associações com subtipos de câncer de mama mais agressivos podem orientar pesquisas sobre exposições e políticas de saúde pública. Associações observacionais não estabelecem causalidade e exigem replicação e estudos mecanísticos.",
+          "takeaways": [
+            "O estudo, desenhado como caso‑coorte prospectivo, encontrou associações entre níveis mais altos de PFAS e câncer de mama ER‑negativo.",
+            "Uma associação observada não prova causalidade—confusão residual e medidas de exposição podem afetar os resultados.",
+            "Os achados justificam trabalho epidemiológico e mecanístico adicional e podem informar discussões regulatórias e de mitigação de exposição.",
+            "Indivíduos devem seguir orientações de saúde pública; isto não é aconselhamento para prevenção de câncer individual."
+          ]
+        },
+        "hu": {
+          "title": "Előretekintő vizsgálat: bizonyos PFAS‑ok összefüggésben az ER‑negatív emlőrák nagyobb kockázatával",
+          "summary": "Egy prospektív case‑cohort elemzés arról számolt be, hogy két, széles körben elterjedt per‑ és polifluorozott vegyülethez (PFAS) magasabb expozíció összefüggött a hormonreceptor‑negatív (ER‑negatív) emlőrák fokozott kockázatával. A jelentés külön kiemelte a PFOA legmagasabb expozíciós kvartilisét.",
+          "whyItMatters": "A PFAS‑ok elterjedt környezeti vegyszerek; az agresszívebb emlőrák‑altípusokkal való összefüggések informálhatják az expozíciós kutatást és a közegészségügyi politikákat. A megfigyeléses összefüggések nem bizonyítják az okozati összefüggést, és replikációt valamint mechanisztikus vizsgálatot igényelnek.",
+          "takeaways": [
+            "A vizsgálat prospektív case‑cohort felépítésűnek írja le magát, és összefüggéseket talált magasabb PFAS‑szintek és az ER‑negatív emlőrák között.",
+            "A megfigyelt összefüggés nem igazolja az okozást — a kevert hatások és az expozíció mérésének pontossága befolyásolhatják az eredményt.",
+            "Az eredmények további epidemiológiai és mechanisztikus kutatást indokolnak, és befolyásolhatják a szabályozási és expozíciócsökkentési vitákat.",
+            "Az egyének kövessék a közegészségügyi iránymutatásokat; ez nem egyéni rákelővigyázási tanács."
+          ]
+        },
+        "ar": {
+          "title": "دراسة مستقبلية تجد ارتباطات بين بعض مركبات PFAS وخطر أعلى لسرطان الثدي سالِب مستقبلات الاستروجين",
+          "summary": "أفاد تحليل حالة‑تحت‑المجتمع المستقبلي أن التعرضات الأعلى لمادتين من مركبات البير‑و/أو بولي فلورو ألكيل (PFAS) الشائعة ارتبطت بزيادة في خطر سرطان الثدي سالِب مستقبلات الاستروجين. ذُكر على وجه التحديد الربع الأعلى للتعرّض لـ PFOA في التقرير.",
+          "whyItMatters": "مركبات PFAS هي مواد كيميائية بيئية منتشرة؛ والارتباطات مع أنواع أكثر عدوانية من سرطان الثدي يمكن أن توجّه بحوث التعرض والسياسات الصحية العامة. الارتباطات الرصدية لا تثبت السببية وتتطلّب إعادة تكرار ودراسات آلية.",
+          "takeaways": [
+            "وُصفت الدراسة بأنها حالة‑تحت‑المجتمع مستقبلية ووجدت ارتباطات بين مستويات PFAS الأعلى وسرطان الثدي سالِب مستقبلات الاستروجين.",
+            "الارتباط الملحوظ لا يثبت السببية — قد تؤثر عوامل مختلطة أو قياس التعرض على النتائج.",
+            "تستدعي النتائج المزيد من العمل الوبائي والآلي ويمكن أن تُخبر مناقشات التنظيم والحدّ من التعرض.",
+            "يجب على الأفراد اتباع إرشادات الصحة العامة؛ هذا ليس نصيحة للوقاية من السرطان على المستوى الفردي."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=forever-chemicals-linked-to-aggressive-breast-cancers-b47693682ea1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/forever-chemicals-linked-to-aggressive-breast-cancers-b47693682ea1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/forever-chemicals-linked-to-aggressive-breast-cancers-b47693682ea1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Prospective study finds associations between certain PFAS and higher ER‑negative breast cancer risk.\nStory summary: A prospective case‑cohort analysis reported that higher exposures to two widespread per‑ and polyfluoroalkyl substances (PFAS) were associated with an increased risk of estrogen receptor‑negative breast cancer. The highest exposure quartile for PFOA was specifically mentioned in the report..\nCategory: environmental exposures / cancer epidemiology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "mammograms-can-do-more-than-detect-breast-cancer-they-also-offer--145a13e361c9",
       "category": "cardiovascular imaging / prevention",
@@ -582,6 +1394,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Two opposing microbiome axes tie lifestyle to health and 15 diseases, large multi-cohort study finds.\nStory summary: A Nature Medicine study using fecal shotgun metagenomics from 6,803 adults in a Japanese cohort derived microbiome-based prediction scores and validated those scores across 13 independent cohorts. The authors report two opposing microbiome-mediated axes that associate modifiable lifestyle factors with health outcomes and with 15 diseases..\nCategory: microbiome & chronic disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "alzheimer-s-in-younger-adults-brain-scans-reveal-faster-tau-build-a11f7ff82088",
+      "category": "neuroscience / Alzheimer’s disease",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/alzheimers-in-younger-adults-brain-scans-reveal-faster-tau-build-up",
+      "sourceTitle": "Alzheimer’s in younger adults: brain scans reveal faster tau build-up",
+      "publishedAt": "5 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Karolinska and UCSF study finds faster, wider tau accumulation in younger Alzheimer’s patients",
+          "summary": "Researchers at Karolinska Institutet and UCSF reported in Science Translational Medicine that tau protein accumulates more than twice as fast and more broadly in younger Alzheimer’s patients compared with older patients, based on advanced brain imaging.",
+          "whyItMatters": "Faster tau accumulation in younger‑onset cases could affect diagnosis timing, prognosis, and selection for trials. Imaging findings underscore the need for access to advanced diagnostics and tailored research on age‑related disease dynamics.",
+          "takeaways": [
+            "Study used advanced brain imaging to compare tau accumulation rates between younger and older Alzheimer’s patients.",
+            "Reported that younger patients showed faster and more widespread tau build‑up, with implications for earlier diagnosis and trial design.",
+            "Imaging‑based findings help characterize disease biology but require integration with clinical outcomes and replication.",
+            "Access to advanced imaging and specialist assessment may be important for suspected younger‑onset Alzheimer’s cases."
+          ]
+        },
+        "es": {
+          "title": "Estudio de Karolinska y UCSF encuentra acumulación de tau más rápida y extensa en pacientes más jóvenes con Alzheimer",
+          "summary": "Investigadores del Karolinska Institutet y UCSF reportaron en Science Translational Medicine que la proteína tau se acumula más del doble de rápido y de forma más amplia en pacientes más jóvenes con Alzheimer en comparación con los pacientes de mayor edad, según imágenes cerebrales avanzadas.",
+          "whyItMatters": "Una acumulación más rápida de tau en los casos de inicio más temprano podría afectar el momento del diagnóstico, el pronóstico y la selección para ensayos. Los hallazgos por imagen subrayan la necesidad de acceso a diagnósticos avanzados y de investigación ajustada a las dinámicas de la enfermedad según la edad.",
+          "takeaways": [
+            "El estudio empleó imágenes cerebrales avanzadas para comparar las tasas de acumulación de tau entre pacientes jóvenes y mayores con Alzheimer.",
+            "Se informó que los pacientes más jóvenes mostraron una acumulación de tau más rápida y más extensa, con implicaciones para el diagnóstico temprano y el diseño de ensayos.",
+            "Los hallazgos basados en imagen ayudan a caracterizar la biología de la enfermedad, pero deben integrarse con resultados clínicos y replicarse.",
+            "El acceso a imágenes avanzadas y a evaluación especializada puede ser importante para casos sospechosos de inicio temprano de Alzheimer."
+          ]
+        },
+        "ru": {
+          "title": "Исследование Каролинского института и UCSF выявило более быструю и широкую аккумуляцию тау у молодых пациентов с болезнью Альцгеймера",
+          "summary": "Исследователи из Karolinska Institutet и UCSF сообщили в Science Translational Medicine, что белок тау накапливается более чем вдвое быстрее и шире у молодых пациентов с болезнью Альцгеймера по сравнению со старшими пациентами, на основании передовой нейровизуализации.",
+          "whyItMatters": "Более быстрая аккумуляция тау при раннем начале болезни может влиять на сроки диагностики, прогноз и отбор в клинические испытания. Результаты визуализации подчёркивают необходимость доступа к продвинутой диагностике и исследований, учитывающих возрастную динамику болезни.",
+          "takeaways": [
+            "В исследовании использовалась передовая нейровизуализация для сравнения скоростей накопления тау между молодыми и старыми пациентами с Альцгеймером.",
+            "Сообщается, что у более молодых пациентов накапливание тау происходит быстрее и шире, что имеет значение для ранней диагностики и дизайна исследований.",
+            "Находки, основанные на визуализации, помогают характеризовать биологию болезни, но требуют объединения с клиническими исходами и репликации.",
+            "Доступ к продвинутой визуализации и специализированной оценке может быть важным для подозреваемых случаев раннего начала болезни Альцгеймера."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження Каролінського інституту та UCSF виявило швидше і ширше накопичення тау у молодших пацієнтів з хворобою Альцгеймера",
+          "summary": "Дослідники з Karolinska Institutet і UCSF повідомили у Science Translational Medicine, що білок тау накопичується більш ніж удвічі швидше і ширше у молодших пацієнтів з хворобою Альцгеймера порівняно зі старшими пацієнтами, за даними сучасної візуалізації мозку.",
+          "whyItMatters": "Швидше накопичення тау у випадках із раннім початком може вплинути на час діагностики, прогноз і відбір у клінічні дослідження. Результати візуалізації підкреслюють потребу в доступі до передових діагностичних методів і цільових досліджень динаміки хвороби за віковими групами.",
+          "takeaways": [
+            "У дослідженні використали сучасні методи візуалізації мозку для порівняння швидкостей накопичення тау між молодшими і старшими пацієнтами з Альцгеймером.",
+            "Повідомляється, що у молодших пацієнтів накопичення тау відбувається швидше і більш широко, що має значення для ранньої діагностики й дизайну випробувань.",
+            "Результати на основі візуалізації допомагають охарактеризувати біологію хвороби, але потребують інтеграції з клінічними наслідками та відтворення.",
+            "Доступ до передової візуалізації та консультація спеціалістів можуть бути важливими при підозрі на ранній початок Альцгеймера."
+          ]
+        },
+        "fr": {
+          "title": "Étude Karolinska et UCSF : accumulation de tau plus rapide et plus étendue chez les patients plus jeunes atteints d'Alzheimer",
+          "summary": "Des chercheurs du Karolinska Institutet et de l'UCSF ont rapporté dans Science Translational Medicine que la protéine tau s'accumule plus de deux fois plus rapidement et de façon plus étendue chez les patients plus jeunes atteints de la maladie d'Alzheimer comparés aux patients plus âgés, sur la base d'imageries cérébrales avancées.",
+          "whyItMatters": "Une accumulation plus rapide de tau dans les cas d'apparition précoce pourrait affecter le calendrier du diagnostic, le pronostic et la sélection pour les essais. Les résultats d'imagerie soulignent la nécessité d'un accès à des diagnostics avancés et d'une recherche ciblée sur la dynamique de la maladie selon l'âge.",
+          "takeaways": [
+            "L'étude a utilisé une imagerie cérébrale avancée pour comparer les taux d'accumulation de tau entre patients plus jeunes et plus âgés atteints d'Alzheimer.",
+            "Elle rapporte que les patients plus jeunes présentent une accumulation de tau plus rapide et plus étendue, avec des implications pour le diagnostic précoce et la conception des essais.",
+            "Les résultats basés sur l'imagerie aident à caractériser la biologie de la maladie mais doivent être intégrés aux résultats cliniques et reproduits.",
+            "L'accès à l'imagerie avancée et à une évaluation spécialisée peut être important pour les cas suspectés d'apparition précoce de la maladie d'Alzheimer."
+          ]
+        },
+        "de": {
+          "title": "Karolinska und UCSF finden schnellere, breitere Tau‑Akkumulation bei jüngeren Alzheimer‑Patienten",
+          "summary": "Forscher des Karolinska Institutet und der UCSF berichteten in Science Translational Medicine, dass sich das Tau‑Protein bei jüngeren Alzheimer‑Patienten anhand fortgeschrittener Hirnbildgebung mehr als doppelt so schnell und umfassender ansammelt wie bei älteren Patienten.",
+          "whyItMatters": "Schnellere Tau‑Akkumulation in jüngeren Erkrankungsfällen könnte Diagnosezeitpunkt, Prognose und Auswahl für Studien beeinflussen. Bildgebende Befunde unterstreichen die Notwendigkeit des Zugangs zu fortgeschrittener Diagnostik und gezielter Forschung zu altersabhängigen Krankheitsdynamiken.",
+          "takeaways": [
+            "Die Studie nutzte fortgeschrittene Hirnbildgebung, um Raten der Tau‑Akkumulation zwischen jüngeren und älteren Alzheimer‑Patienten zu vergleichen.",
+            "Es wurde berichtet, dass jüngere Patienten schnellere und weiter verbreitete Tau‑Ablagerungen zeigten, mit möglichen Folgen für frühere Diagnosen und Studiendesigns.",
+            "Befunde aus Bildgebung tragen zur Charakterisierung der Krankheitsbiologie bei, müssen aber mit klinischen Ergebnissen integriert und repliziert werden.",
+            "Zugang zu fortgeschrittener Bildgebung und fachärztlicher Beurteilung kann wichtig sein bei Verdacht auf jüngeren Erkrankungsbeginn."
+          ]
+        },
+        "pt-br": {
+          "title": "Karolinska e UCSF encontram acúmulo de tau mais rápido e amplo em pacientes mais jovens com Alzheimer",
+          "summary": "Pesquisadores do Karolinska Institutet e da UCSF relataram na Science Translational Medicine que a proteína tau se acumula mais do que duas vezes mais rápido e de forma mais ampla em pacientes mais jovens com Alzheimer em comparação com pacientes mais velhos, com base em imagem cerebral avançada.",
+          "whyItMatters": "Acúmulo mais rápido de tau em casos de início mais precoce pode afetar o momento do diagnóstico, prognóstico e seleção para ensaios clínicos. Achados de imagem ressaltam a necessidade de acesso a diagnósticos avançados e pesquisa direcionada sobre dinâmicas da doença relacionadas à idade.",
+          "takeaways": [
+            "O estudo usou imagem cerebral avançada para comparar taxas de acúmulo de tau entre pacientes mais jovens e mais velhos com Alzheimer.",
+            "Relataram que pacientes mais jovens apresentaram acúmulo de tau mais rápido e disseminado, com implicações para diagnóstico precoce e desenho de ensaios.",
+            "Achados de imagem ajudam a caracterizar a biologia da doença, mas precisam ser integrados a desfechos clínicos e replicados.",
+            "Acesso a imagem avançada e avaliação especializada pode ser importante em casos suspeitos de início precoce do Alzheimer."
+          ]
+        },
+        "hu": {
+          "title": "Karolinska és UCSF: fiatalabb Alzheimeres betegekben gyorsabb és szélesebb tau‑felhalmozódás",
+          "summary": "A Karolinska Institutet és az UCSF kutatói a Science Translational Medicineben közöltek arról, hogy a tau fehérje több mint kétszer gyorsabban és szélesebb körben halmozódik fel a fiatalabb életkorban kezdődő Alzheimer‑betegséggel élőknél az idősebb betegekkel összehasonlítva, fejlett agyi képalkotás alapján.",
+          "whyItMatters": "A fiatalabb kezdettel járó esetekben gyorsabb tau‑felhalmozódás befolyásolhatja a diagnózis időzítését, a prognózist és a vizsgálatokba való beválasztást. A képalkotási eredmények hangsúlyozzák az előrehaladott diagnosztika hozzáférésének és az életkori különbségekre szabott kutatás szükségességét.",
+          "takeaways": [
+            "A tanulmány fejlett agyi képalkotást használt a tau‑felhalmozódás ütemének összehasonlítására fiatalabb és idősebb Alzheimer‑betegek között.",
+            "Jelentették, hogy a fiatalabb betegekben gyorsabb és kiterjedtebb a tau‑felhalmozódás, ami hatással lehet a korai diagnózisra és a vizsgálatok tervezésére.",
+            "A képalkotáson alapuló eredmények segítenek a betegség biológiájának jellemzésében, de integrálni kell őket a klinikai kimenetekkel és meg kell ismételni.",
+            "A fejlett képalkotás és szakorvosi értékelés elérhetősége fontos lehet a feltételezett fiatal kezdettel járó Alzheimer‑esetekben."
+          ]
+        },
+        "ar": {
+          "title": "كارولنسكا وUCSF: تراكم البروتين تاو أسرع وأوسع لدى مرضى ألزهايمر الأصغر سنًا",
+          "summary": "أبلغ باحثو معهد كارولنسكا وUCSF في Science Translational Medicine أن بروتين تاو يتراكم بأكثر من ضعف السرعة وبشكل أوسع لدى مرضى ألزهايمر ذوي بداية مبكرة مقارنةً بالمرضى الأكبر سنًا، استنادًا إلى تصوير دماغي متقدّم.",
+          "whyItMatters": "قد يؤثر تراكم تاو الأسرع في حالات البداية المبكرة على توقيت التشخيص والتنبؤ واختيار المشاركين للتجارب. تؤكد نتائج التصوير الحاجة إلى الوصول إلى تشخيصات متقدمة وبحوث مخصّصة لديناميكيات المرض المتعلقة بالعمر.",
+          "takeaways": [
+            "استخدمت الدراسة تصويرًا دماغيًا متقدّمًا لمقارنة معدلات تراكم تاو بين مرضى ألزهايمر الأصغر والأكبر سنًا.",
+            "ذكرت الدراسة أن المرضى الأصغر سنًا أظهروا تراكمًا أسرع وأكثر انتشارًا لبروتين تاو، مع آثار على التشخيص المبكر وتصميم التجارب.",
+            "تساعد النتائج المبنية على التصوير في توصيف بيولوجيا المرض لكن يلزم دمجها مع النتائج السريرية وإعادة التكرار.",
+            "قد تكون إمكانية الوصول إلى التصوير المتقدّم والتقييم المتخصّص مهمّة لحالات الاشتباه ببداية مبكرة لألزهايمر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=alzheimer-s-in-younger-adults-brain-scans-reveal-faster-tau-build-a11f7ff82088",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/alzheimer-s-in-younger-adults-brain-scans-reveal-faster-tau-build-a11f7ff82088-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/alzheimer-s-in-younger-adults-brain-scans-reveal-faster-tau-build-a11f7ff82088-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Karolinska and UCSF study finds faster, wider tau accumulation in younger Alzheimer’s patients.\nStory summary: Researchers at Karolinska Institutet and UCSF reported in Science Translational Medicine that tau protein accumulates more than twice as fast and more broadly in younger Alzheimer’s patients compared with older patients, based on advanced brain imaging..\nCategory: neuroscience / Alzheimer’s disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "brain-health-linked-with-longer-lifetime-estrogen-exposure-3a8581bcf149",
@@ -2580,6 +3508,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Gut fungus Rhizopus arrhizus and its metabolite linked to MASLD-associated liver cancer in experimental study.\nStory summary: A Cell Metabolism report describes work by Zhou et al. implicating the fungus Rhizopus arrhizus in promoting MASLD-associated liver cancer through production of kynurenic acid, which the authors propose engages the cytoplasmic scaffold IQGAP1. The paper characterizes a fungal metabolite–driven mechanism linking gut fungi to liver tumorigenesis..\nCategory: liver disease & cancer (preclinical).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "metformin-supportive-nutrition-when-gut-microbes-eat-drugs-a5048d43cdfc",
+      "category": "pharmacology / microbiome",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00394-3?rss=yes",
+      "sourceTitle": "Metformin-supportive nutrition: When gut microbes eat drugs",
+      "publishedAt": "2026-11-03",
+      "languages": {
+        "en": {
+          "title": "Study identifies a microbial enzyme linked to reduced metformin response",
+          "summary": "Zhao et al., in Cell Metabolism, identify a microbial enzyme (AdhE) that can degrade metformin in individuals who respond poorly to the drug and propose enzyme‑targeted microbiome interventions as a potential way to rescue metformin effectiveness.",
+          "whyItMatters": "Variability in metformin response is a clinical issue; pinpointing microbial mechanisms suggests new routes to enhance therapy. These findings are at the mechanistic/early‑translational stage and would require clinical testing before any change in practice.",
+          "takeaways": [
+            "Authors report that a bacterial enzyme, AdhE, can degrade metformin and is associated with low therapeutic response.",
+            "The work proposes enzyme‑based microbiome interventions as a strategy to improve metformin efficacy—this is early translational research, not an established therapy.",
+            "Further clinical studies are needed to test safety and effectiveness of microbiome‑targeted approaches.",
+            "Do not change diabetes treatment without consulting healthcare professionals."
+          ]
+        },
+        "es": {
+          "title": "Estudio identifica una enzima microbiana vinculada a una respuesta reducida a la metformina",
+          "summary": "Zhao et al., en Cell Metabolism, identifican una enzima microbiana (AdhE) que puede degradar la metformina en personas que responden mal al fármaco y proponen intervenciones dirigidas a la enzima en el microbioma como una vía potencial para recuperar la efectividad de la metformina.",
+          "whyItMatters": "La variabilidad en la respuesta a la metformina es un problema clínico; identificar mecanismos microbianos sugiere nuevas vías para mejorar la terapia. Estos hallazgos están en una etapa mecanística/traslacional temprana y requerirían ensayos clínicos antes de cualquier cambio en la práctica.",
+          "takeaways": [
+            "Los autores informan que una enzima bacteriana, AdhE, puede degradar la metformina y se asocia con baja respuesta terapéutica.",
+            "El trabajo propone intervenciones microbioma‑orientadas hacia la enzima como estrategia para mejorar la eficacia de la metformina: se trata de investigación traslacional temprana, no de una terapia establecida.",
+            "Se necesitan más estudios clínicos para probar la seguridad y eficacia de los enfoques dirigidos al microbioma.",
+            "No cambie el tratamiento de la diabetes sin consultar a profesionales de la salud."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выявило микробную фермент, связанную со сниженным ответом на метформин",
+          "summary": "Zhao и соавторы в Cell Metabolism идентифицировали микробную фермент (AdhE), которая может разрушать метформин у людей с плохим ответом на препарат, и предлагают нацеленные на этот фермент вмешательства в микробиоту как потенциальный путь восстановления эффективности метформина.",
+          "whyItMatters": "Вариабельность ответа на метформин является клинической проблемой; выявление микробных механизмов открывает новые пути для улучшения терапии. Эти результаты находятся на механистической/ранней трансляционной стадии и требуют клинической проверки прежде, чем вносить изменения в практику.",
+          "takeaways": [
+            "Авторы сообщают, что бактериальная фермент AdhE может разрушать метформин и связана с низким терапевтическим ответом.",
+            "В работе предлагаются вмешательства, нацеленные на фермент в составе микробиоты, как стратегия улучшения эффективности метформина — это ранняя трансляционная исследовательская идея, а не установленная терапия.",
+            "Необходимы дальнейшие клинические исследования для проверки безопасности и эффективности подходов, нацеленных на микробиоту.",
+            "Не изменяйте лечение диабета без консультации с медицинскими специалистами."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє мікробний фермент, пов'язаний зі зниженою відповіддю на метформін",
+          "summary": "Zhao та співавт., у Cell Metabolism, ідентифікують мікробний фермент (AdhE), який може деградувати метформін у людей із поганою відповіддю на препарат, і пропонують інтервенції, спрямовані на цей фермент у мікробіомі, як потенційний спосіб відновити ефективність метформіну.",
+          "whyItMatters": "Варіабельність відповіді на метформін є клінічно важливою; виявлення мікробних механізмів пропонує нові шляхи для підсилення терапії. Ці результати належать до механістичного/раннього трансляційного етапу і потребують клінічної перевірки перед будь‑якими змінами практики.",
+          "takeaways": [
+            "Автори повідомляють, що бактеріальний фермент AdhE може деградувати метформін і пов'язаний із низькою терапевтичною відповіддю.",
+            "Робота пропонує інтервенції мікробіому, орієнтовані на фермент, як стратегію покращення ефективності метформіну — це ранні трансляційні дослідження, а не встановлена терапія.",
+            "Потрібні подальші клінічні дослідження для перевірки безпеки та ефективності підходів, спрямованих на мікробіом.",
+            "Не змінюйте лікування діабету без консультації з медичними працівниками."
+          ]
+        },
+        "fr": {
+          "title": "Une étude identifie une enzyme microbienne liée à une moindre réponse au metformine",
+          "summary": "Zhao et al., dans Cell Metabolism, identifient une enzyme microbienne (AdhE) qui peut dégrader la metformine chez les personnes qui répondent mal au médicament et proposent des interventions ciblant cette enzyme du microbiote comme moyen potentiel de restaurer l'efficacité du metformine.",
+          "whyItMatters": "La variabilité de la réponse au metformine est un enjeu clinique ; identifier des mécanismes microbiens suggère de nouvelles voies pour améliorer la thérapie. Ces résultats sont au stade mécanistique/translationnel précoce et nécessiteraient des essais cliniques avant tout changement de pratique.",
+          "takeaways": [
+            "Les auteurs rapportent qu'une enzyme bactérienne, AdhE, peut dégrader la metformine et est associée à une faible réponse thérapeutique.",
+            "Le travail propose des interventions sur le microbiote ciblant l'enzyme comme stratégie pour améliorer l'efficacité du metformine — il s'agit de recherche translationnelle précoce, pas d'une thérapie établie.",
+            "Des études cliniques supplémentaires sont nécessaires pour tester la sécurité et l'efficacité des approches ciblant le microbiote.",
+            "Ne modifiez pas le traitement du diabète sans consulter des professionnels de santé."
+          ]
+        },
+        "de": {
+          "title": "Studie identifiziert mikrobielles Enzym, das mit verringerter Metforminwirkung verbunden ist",
+          "summary": "Zhao et al. berichteten in Cell Metabolism über ein mikrobielles Enzym (AdhE), das Metformin bei Personen mit geringer Ansprechrate abbauen kann, und schlagen enzymgezielte Mikrobiom‑Interventionen als möglichen Weg vor, die Wirksamkeit von Metformin wiederherzustellen.",
+          "whyItMatters": "Variabilität in der Metforminwirkung ist ein klinisches Problem; das Aufdecken mikrobieller Mechanismen weist auf neue Wege hin, die Therapie zu verbessern. Diese Befunde befinden sich auf dem mechanistischen/früh‑translationalen Niveau und würden klinische Tests erfordern, bevor Änderungen der Praxis gerechtfertigt sind.",
+          "takeaways": [
+            "Die Autoren berichten, dass ein bakterielles Enzym, AdhE, Metformin abbauen kann und mit geringer therapeutischer Wirkung assoziiert ist.",
+            "Die Arbeit schlägt enzymbasierte Mikrobiom‑Interventionen vor, um die Metforminwirkung zu verbessern—das ist frühe translationale Forschung, keine etablierte Therapie.",
+            "Weitere klinische Studien sind nötig, um Sicherheit und Wirksamkeit mikrobiomzielgerichteter Ansätze zu prüfen.",
+            "Änderungen der Diabetesbehandlung sollten nicht ohne Rücksprache mit Gesundheitsfachpersonen erfolgen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo identifica enzima microbiana ligada a resposta reduzida ao metformina",
+          "summary": "Zhao et al., na Cell Metabolism, identificam uma enzima microbiana (AdhE) que pode degradar a metformina em indivíduos com baixa resposta ao fármaco e propõem intervenções no microbioma direcionadas à enzima como forma potencial de recuperar a eficácia da metformina.",
+          "whyItMatters": "A variabilidade na resposta à metformina é uma questão clínica; identificar mecanismos microbianos sugere novas vias para melhorar a terapia. Esses achados estão em estágio mecanístico/early‑translacional e exigiriam testes clínicos antes de qualquer mudança na prática.",
+          "takeaways": [
+            "Os autores relatam que uma enzima bacteriana, AdhE, pode degradar a metformina e está associada a baixa resposta terapêutica.",
+            "O trabalho propõe intervenções no microbioma baseadas em enzimas como estratégia para melhorar a eficácia da metformina—isso é pesquisa translacional inicial, não uma terapia estabelecida.",
+            "Mais estudos clínicos são necessários para testar segurança e eficácia de abordagens que miram o microbioma.",
+            "Não altere o tratamento do diabetes sem consultar profissionais de saúde."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány mikrobiális enzimet azonosít, amely a metforminre adott választ csökkentheti",
+          "summary": "Zhao és mtsai a Cell Metabolismben egy mikrobiális enzimet (AdhE) azonosítanak, amely képes lebontani a metformint olyan egyénekben, akikre a gyógyszer kevéssé hatékony, és enzimcélzott mikrobiom‑beavatkozásokat javasolnak a metformin‑hatékonyság helyreállítására.",
+          "whyItMatters": "A metforminre adott válasz változó volta klinikai kérdés; a mikrobiális mechanizmusok feltárása új utakat jelezhet a terápia javítására. Ezek az eredmények mechanisztikus/korai transzlációs szinten vannak, és klinikai vizsgálatokat igényelnek, mielőtt a gyakorlat megváltozna.",
+          "takeaways": [
+            "A szerzők arról számolnak be, hogy egy bakteriális enzim, az AdhE, képes lebontani a metformint és összefüggésbe hozható az alacsony terápiás válasszal.",
+            "A munka enzimalapú mikrobiom‑beavatkozásokat javasol stratégiailag a metformin hatékonyságának javítására — ez korai transzlációs kutatás, nem bizonyított terápia.",
+            "További klinikai vizsgálatok szükségesek a mikrobiom‑célzott megközelítések biztonságosságának és hatékonyságának teszteléséhez.",
+            "Ne változtasson a cukorbetegség kezelésén anélkül, hogy konzultálna egészségügyi szakemberrel."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تحدّد إنزيمًا ميكروبيًا مرتبطًا بتراجع استجابة الميتفورمين",
+          "summary": "يحدد Zhao وآخرون في Cell Metabolism إنزيمًا ميكروبيًا (AdhE) يمكنه أن يحرّق الميتفورمين لدى أشخاص يستجيبون للدواء بشكل ضعيف، ويقترحون تدخلات موجهة ضد هذا الإنزيم في الميكروبيوم كوسيلة محتملة لاستعادة فاعلية الميتفورمين.",
+          "whyItMatters": "تباين الاستجابة للميتفورمين مشكلة سريرية؛ وتشير معرفة الآليات الميكروبيّة إلى طرق جديدة محتملة لتعزيز العلاج. هذه النتائج في مرحلة ميكانيكية/انتقالية مبكرة وتستدعي اختبارات سريرية قبل أي تغيير في الممارسة.",
+          "takeaways": [
+            "أفاد المؤلفون أن إنزيمًا بكتيريًا، AdhE، يمكنه تحطيم الميتفورمين ويرتبط برد فعل علاجي منخفض.",
+            "تقترح الدراسة تدخلات على أساس استهداف الإنزيم في الميكروبيوم لتحسين فاعلية الميتفورمين — هذا عمل ترجمي مبكر، وليس علاجًا مثبتًا.",
+            "مطلوب مزيد من الدراسات السريرية لاختبار سلامة وفعالية المقاربات الموجّهة إلى الميكروبيوم.",
+            "لا تغيّر علاج السكري دون استشارة أخصائي الرعاية الصحية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=metformin-supportive-nutrition-when-gut-microbes-eat-drugs-a5048d43cdfc",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metformin-supportive-nutrition-when-gut-microbes-eat-drugs-a5048d43cdfc-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metformin-supportive-nutrition-when-gut-microbes-eat-drugs-a5048d43cdfc-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study identifies a microbial enzyme linked to reduced metformin response.\nStory summary: Zhao et al., in Cell Metabolism, identify a microbial enzyme (AdhE) that can degrade metformin in individuals who respond poorly to the drug and propose enzyme‑targeted microbiome interventions as a potential way to rescue metformin effectiveness..\nCategory: pharmacology / microbiome.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "parents-autoimmune-disease-linked-to-kids-type-1-diabetes-risk-1ee42ca09130",
@@ -120259,6 +121303,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-06-motivation-1-morning-meal-plan",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Morning meal plan",
+          "story": "Sam started setting aside 10 minutes each evening to plan breakfast and pack a simple lunch. By logging those planned meals in the app, they noticed how different morning choices affected their afternoon energy. Instead of judging a day that didn’t go perfectly, Sam used the logs to try one small change at a time — a bit more protein at breakfast or a prepared snack — and watched those choices feel easier to repeat. Tracking became a helpful habit for noticing patterns, not a test to pass or fail.",
+          "habit": "Plan tomorrow’s breakfast and lunch tonight.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Plan matutino",
+          "story": "María dedicó diez minutos cada noche para planear el desayuno y preparar un almuerzo sencillo. Al registrar esas comidas en la app, notó cómo las decisiones de la mañana influían en su energía por la tarde. En vez de culparse cuando algo no salía perfecto, usó sus registros para probar un cambio pequeño a la vez — un poco más de proteína al desayunar o llevar un snack preparado — y vio que repetir esos cambios fue más fácil. Llevar el registro se convirtió en una forma práctica de detectar patrones, no en un examen.",
+          "habit": "Prepara mañana lo que desayunarás y llevarás.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Утренний план питания",
+          "story": "Анна стала выделять 10 минут вечером, чтобы спланировать завтрак и собрать простой обед. Записывая эти планы в приложении, она заметила, как утренний выбор влияет на самочувствие после обеда. Вместо того чтобы себя ругать за неидеальный день, Анна использовала записи, чтобы вносить небольшие изменения — чуть больше белка на завтрак или готовый перекус — и увидела, что такие правки легче повторять. Ведение учёта помогло замечать закономерности, а не оценивать себя.",
+          "habit": "Спланируй завтрак и обед на завтра сегодня вечером.",
+          "appCta": "Открой Calorie Bank Credit и начни вести учёт сегодня."
+        },
+        "uk": {
+          "title": "Ранковий план харчування",
+          "story": "Олена присвячувала 10 хвилин щоночі, щоб спланувати сніданок і зібрати простий обід. Записуючи ці плани у додатку, вона помітила, як ранковий вибір впливає на енергію вдень. Замість того, щоб дорікати себе через неідеальний день, Олена використовувала записи, щоб пробувати невеликі зміни — трохи більше білка вранці або підготовлена закуска — і побачила, що такі звички легше повторювати. Відстеження допомогло помічати закономірності, а не ставити оцінки.",
+          "habit": "Сплануй сніданок і обід на завтра сьогодні ввечері.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Planifier le matin",
+          "story": "Julie a pris l’habitude, dix minutes chaque soir, de planifier son petit-déjeuner et de préparer un déjeuner simple. En notant ces repas dans l’application, elle a observé l’impact de ses choix matinaux sur son énergie l’après-midi. Plutôt que de se juger après une journée imparfaite, Julie s’est servie des enregistrements pour tester un petit ajustement à la fois — un peu plus de protéines au petit-déjeuner ou une collation prête — et a trouvé plus facile de répéter ces gestes. Le suivi est devenu un outil pour repérer des tendances, pas un examen.",
+          "habit": "Prépare ton petit-déjeuner et ton déjeuner pour demain.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Morgen planen",
+          "story": "Lena nimmt sich abends zehn Minuten, um Frühstück und ein einfaches Mittagessen vorzubereiten. Wenn sie diese geplanten Mahlzeiten in der App erfasst, merkt sie, wie sich ihre morgendlichen Entscheidungen auf die Energie am Nachmittag auswirken. Anstatt sich wegen eines nicht perfekten Tages Vorwürfe zu machen, nutzt Lena ihre Protokolle, um eine kleine Änderung nach der anderen auszuprobieren — etwas mehr Eiweiß beim Frühstück oder einen vorbereiteten Snack — und merkt, dass sich solche Anpassungen leichter wiederholen lassen. Tracking hilft ihr, Muster zu erkennen, nicht, sich zu bewerten.",
+          "habit": "Plane dein Frühstück und Mittagessen für morgen.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Plano da manhã",
+          "story": "Ana passou a reservar dez minutos à noite para planejar o café da manhã e preparar um almoço simples. Ao registrar essas refeições no app, ela percebeu como as escolhas matinais afetavam sua energia à tarde. Em vez de se culpar por dias que não saíam perfeitos, Ana usou os registros para testar uma mudança pequena por vez — um pouco mais de proteína no café da manhã ou um lanche pronto — e achou mais fácil manter esses hábitos. O registro virou uma ferramenta para notar padrões, não para julgar-se.",
+          "habit": "Planeje o café da manhã e o almoço de amanhã hoje à noite.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Reggeli terv",
+          "story": "Dóra minden este tíz percet szánt arra, hogy megtervezze a reggelit és összekészítsen egy egyszerű ebédet. Amikor ezeket az étkezéseket rögzítette az alkalmazásban, észrevette, hogy a reggeli választások hogyan hatnak a délutáni energiaszintre. Ahelyett, hogy hibáztatta volna magát egy nem tökéletes nap miatt, apró változtatásokat próbált ki — egy kis több fehérje reggelre vagy előkészített nasi — és könnyebbnek találta ezeket ismételni. A naplózás segített mintákat látni, nem kritikát gyakorolni.",
+          "habit": "Tervezd meg holnap reggelijét és ebédjét ma este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezd el a nyomon követést ma."
+        },
+        "ar": {
+          "title": "خطة الصباح",
+          "story": "قبلت ليلى على نفسها أن تخصص عشر دقائق كل ليلة لتخطيط الفطور وتجهيز غداء بسيط. عند تسجيل هذه الوجبات في التطبيق، لاحظت كيف تؤثر اختيارات الصباح على طاقتها بعد الظهر. بدلاً من لوم نفسها على يوم لم يكن مثالياً، استخدمت السجلات لتجربة تعديل صغير في كل مرة — مزيد من البروتين في الفطور أو وجبة خفيفة جاهزة — ولاحظت أن تكرار هذه التغييرات أصبح أسهل. أصبحت المتابعة وسيلة لملاحظة الأنماط، لا لاختبار النجاح أو الفشل.",
+          "habit": "خطّط فطور وغداء الغد هذه الليلة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-1-morning-meal-plan-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-1-morning-meal-plan-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Morning meal plan.\nStory: Sam started setting aside 10 minutes each evening to plan breakfast and pack a simple lunch. By logging those planned meals in the app, they noticed how different morning choices affected their afternoon energy. Instead of judging a day that didn’t go perfectly, Sam used the logs to try one small change at a time — a bit more protein at breakfast or a prepared snack — and watched those choices feel easier to repeat. Tracking became a helpful habit for noticing patterns, not a test to pass or fail..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-06-motivation-2-honest-guest-logging",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Logging at a dinner out",
+          "story": "When Priya went to a friend’s birthday dinner, she decided to log her choices afterward, including the dessert. Writing things down honestly helped her notice how portion sizes and sauces changed the meal’s feel, not to criticize herself but to learn. Later she looked back and realized small swaps she enjoyed — sharing a dessert or choosing a lighter side — could make future outings feel simpler. Tracking in social moments became a gentle habit that kept her aware without making events stressful.",
+          "habit": "Log shared meals and treats honestly after social outings.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Registrar en una cena fuera",
+          "story": "En la cena de cumpleaños de una amiga, Lucía decidió registrar lo que comió, incluido el postre. Anotar todo con sinceridad le ayudó a ver cómo el tamaño de las porciones y las salsas cambiaban la experiencia, no para criticarse sino para aprender. Más tarde, al revisar, descubrió pequeños cambios que disfrutaba — compartir el postre o elegir una guarnición más ligera — que hacían que las salidas futuras fueran más sencillas. Registrar en momentos sociales se volvió un hábito suave que la mantenía atenta sin estresar el evento.",
+          "habit": "Registra honestamente comidas compartidas y caprichos después de salir.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Запись во время ужина вне дома",
+          "story": "На день рождения подруги Игорь решил занести в приложение всё, что съел, включая десерт. Честные записи помогли ему увидеть, как размер порций и соусы меняют восприятие еды — не для самокритики, а для понимания. Позже, просматривая записи, он нашёл простые замены, которые ему понравились — поделиться десертом или выбрать более лёгкую гарнир — и понял, что будущие выходы станут легче. Ведение учёта на мероприятиях помогло оставаться в курсе без лишнего давления.",
+          "habit": "Записывай совместные блюда и угощения честно после встреч.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Записувати під час вечері надворі",
+          "story": "На день народження подруги Марко вирішив записати в додатку все, що з’їв, включно з десертом. Чесні записи допомогли йому помітити, як розмір порцій і соуси змінюють відчуття від страви — не щоб себе критикувати, а щоб краще розуміти. Згодом, переглянувши записи, він знайшов прості заміни, які йому сподобались — поділитися десертом або обрати легший гарнір — і помітив, що майбутні виходи стануть простішими. Відстеження під час спілкування стало м’якою звичкою, що не створює стресу.",
+          "habit": "Після зустрічей чесно записуй спільні страви та частування.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Noter un dîner à l'extérieur",
+          "story": "Lors d'un dîner pour l'anniversaire d'une amie, Karim a choisi de noter ce qu'il avait mangé, même le dessert. L'honnêteté des notes lui a permis de voir comment les portions et les sauces changeaient son ressenti, non pas pour se juger, mais pour comprendre. Plus tard, en relisant, il a repéré de petits choix qu'il aimait — partager un dessert ou prendre un accompagnement plus léger — qui rendaient les sorties suivantes plus faciles. Suivre ses repas en société est devenu une habitude douce qui évite le stress.",
+          "habit": "Note honnêtement les plats partagés et les plaisirs après une sortie.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Ein Abendessen notieren",
+          "story": "Bei einem Geburtstagsessen einer Freundin entschied sich Jonas, seine Auswahl im Anschluss zu protokollieren — auch das Dessert. Ehrliches Aufschreiben half ihm zu erkennen, wie Portionsgrößen und Saucen das Essen verändern, nicht um sich zu verurteilen, sondern um zu lernen. Später sah er sich die Einträge an und entdeckte kleine Varianten, die ihm gefallen — ein Dessert teilen oder eine leichtere Beilage wählen — die künftige Ausflüge einfacher machten. Tracking bei sozialen Anlässen wurde zu einer sanften Gewohnheit ohne Stress.",
+          "habit": "Notiere gemeinsame Mahlzeiten und Leckereien ehrlich nach Ausflügen.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Registrar em um jantar fora",
+          "story": "No jantar de aniversário de uma amiga, João decidiu registrar o que comeu depois, inclusive a sobremesa. Anotar com sinceridade o ajudou a perceber como o tamanho das porções e os molhos mudavam a sensação da refeição — não para se criticar, mas para aprender. Depois, ao olhar os registros, encontrou pequenas trocas que gostava — dividir a sobremesa ou optar por um acompanhamento mais leve — que tornaram saídas futuras mais simples. Registrar em momentos sociais virou um hábito suave sem causar estresse.",
+          "habit": "Registre honestamente refeições compartilhadas e guloseimas após sair.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Bevásárlás utáni vacsora bejegyzés",
+          "story": "Egy barátnő születésnapi vacsoráján Balázs úgy döntött, később beírja az alkalmazásba, mit evett, még a desszertet is. Az őszinte rögzítés segített észrevenni, hogyan változtatja a adagméret és a szósz az étkezés élményét — nem önostorozásként, hanem tanulásként. Később visszanézve talált apró cseréket, amiket szeretett — desszert megosztása vagy könnyebb köret választása — és ezek megkönnyítették a későbbi étkezéseket. A közösségi helyzetekben való naplózás finom szokássá vált stressz nélkül.",
+          "habit": "A találkozók után őszintén jegyezd fel a közösen fogyasztott ételeket és nassolnivalókat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezd el ma a nyomon követést."
+        },
+        "ar": {
+          "title": "التدوين أثناء العشاء خارج المنزل",
+          "story": "في عشاء عيد ميلاد لصديقة، قررت سارة تدوين ما تناولته لاحقًا، بما في ذلك الحلوى. ساعدها التسجيل الصادق في ملاحظة كيف يغيّر حجم الحصة والصلصات تجربة الوجبة، ليس لتبخيس نفسها بل للتعلّم. لاحقًا، عند مراجعة السجلات، وجدت بدائل بسيطة أعجبتها — مشاركة الحلوى أو اختيار طبق جانبي أخف — مما جعل الخروجات المستقبلية أسهل. أصبح التتبع في المناسبات الاجتماعية عادة لطيفة تبقيها واعية دون توتر.",
+          "habit": "دوّن بصدق الوجبات المشتركة والحلويات بعد الخروجات.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-2-honest-guest-logging-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-2-honest-guest-logging-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Logging at a dinner out.\nStory: When Priya went to a friend’s birthday dinner, she decided to log her choices afterward, including the dessert. Writing things down honestly helped her notice how portion sizes and sauces changed the meal’s feel, not to criticize herself but to learn. Later she looked back and realized small swaps she enjoyed — sharing a dessert or choosing a lighter side — could make future outings feel simpler. Tracking in social moments became a gentle habit that kept her aware without making events stressful..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-06-motivation-3-spot-snack-patterns",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Noticing snack patterns",
+          "story": "After two weeks of logging, Mateo saw a familiar spike: an afternoon cookie most workdays. Instead of feeling bad, he used that insight as data. He experimented with swapping one cookie for a piece of fruit on three days, and on others he simply wrote a note about how hungry or tired he felt before snacking. Seeing the pattern in the app helped him make thoughtful adjustments and recognize triggers — deadlines or long meetings — so he could plan a different response when needed.",
+          "habit": "Make a quick note of your hunger or mood before snacking.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Detectar patrones de snack",
+          "story": "Tras dos semanas registrando, Mateo vio un pico familiar: una galleta por la tarde la mayoría de los días laborales. En vez de sentirse mal, usó ese dato para aprender. Probó cambiar la galleta por una pieza de fruta tres días, y otros días simplemente anotó si tenía hambre o estaba cansado antes de comer. Ver el patrón en la app le ayudó a hacer ajustes con sentido y a identificar detonantes — plazos o reuniones largas — para planear otra respuesta cuando hiciera falta.",
+          "habit": "Apunta brevemente tu hambre o ánimo antes de picar.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Замечать перекусы",
+          "story": "Через пару недель записей Михаил обнаружил повторяющуюся привычку: после обеда почти каждый рабочий день печенье. Вместо упрёков он воспринял это как данные. Он экспериментировал: три дня заменял печенье фруктом, а в другие дни просто отмечал, был ли он голоден или устал перед перекусом. Наблюдение за паттерном в приложении помогло ему вносить осознанные изменения и распознавать триггеры — дедлайны или долгие митинги — чтобы заранее планировать иную реакцию.",
+          "habit": "Коротко запиши уровень голода или настроение перед перекусом.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Помічати перекусні патерни",
+          "story": "Після двох тижнів ведення записів Андрій помітив знайому закономірність: після обіду майже щодня печиво. Замість того, щоб засмучуватися, він сприйняв це як інформацію. Він спробував замінити печиво на фрукт три дні, інші дні просто записував, чи був голодний або втомлений перед перекусом. Помітити цей патерн у додатку допомогло йому робити виважені корективи й визначати тригери — дедлайни чи довгі наради — щоб підготувати іншу реакцію за потреби.",
+          "habit": "Коротко запиши голод або настрій перед перекусом.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Repérer les grignotages",
+          "story": "Après deux semaines de suivi, Karim a repéré un pic : un biscuit l'après-midi la plupart des jours de travail. Plutôt que de culpabiliser, il a pris cette observation comme une information. Il a testé de remplacer le biscuit par un fruit trois jours, et d'autres jours il a simplement noté s'il avait faim ou s'il était fatigué avant de grignoter. Voir le schéma dans l'app l'a aidé à ajuster ses choix et à repérer les déclencheurs — des échéances ou de longues réunions — pour prévoir une autre stratégie quand nécessaire.",
+          "habit": "Note brièvement ta faim ou ton humeur avant de grignoter.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Snack-Muster erkennen",
+          "story": "Nach zwei Wochen Tracking entdeckte Jonas ein Wiederkehrendes: meist nachmittags ein Keks an Arbeitstagen. Statt sich schlecht zu fühlen, wertete er das als Datenpunkt. Er probierte, an drei Tagen den Keks durch Obst zu ersetzen, an anderen Tagen notierte er kurz, wie hungrig oder müde er vor dem Snacken war. Das Erkennen dieses Musters in der App half ihm, überlegte Anpassungen vorzunehmen und Auslöser — Deadlines oder lange Meetings — zu erkennen, um bei Bedarf anders zu reagieren.",
+          "habit": "Notiere kurz Hunger oder Stimmung vor dem Snack.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Reparar nos padrões de lanches",
+          "story": "Depois de duas semanas registrando, Mateus percebeu um padrão familiar: um biscoito à tarde na maioria dos dias de trabalho. Em vez de se sentir mal, usou essa informação como dado. Experimentou trocar o biscoito por uma fruta em três dias, e em outros apenas anotou se estava com fome ou cansado antes de beliscar. Ver o padrão no app ajudou a fazer ajustes conscientes e reconhecer gatilhos — prazos ou reuniões longas — para planejar outra reação quando necessário.",
+          "habit": "Anote rapidamente sua fome ou humor antes de beliscar.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Észrevenni a nassolási mintákat",
+          "story": "Két hét rögzítés után Zoltán egy ismerős csúcsot látott: munkaidő alatt délutánonként majdnem mindig egy keksz. Ahelyett, hogy rosszul érezte volna magát, adatként kezelte. Kipróbálta, hogy három napon a kekszet gyümölcsre cseréli, más napokon csak feljegyezte, mennyire volt éhes vagy fáradt nassolás előtt. A minta meglátása az appban segített megfontolt módosításokat tenni és felismerni a kiváltó okokat — határidők vagy hosszú megbeszélések — hogy szükség esetén másképp reagáljon.",
+          "habit": "Írj egy rövid megjegyzést az éhségedről vagy hangulatodról nassolás előtt.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezd el ma a nyomon követést."
+        },
+        "ar": {
+          "title": "ملاحظة أنماط الوجبات الخفيفة",
+          "story": "بعد أسبوعين من التتبع، لاحظ خالد نمطًا مألوفًا: بسكويت بعد الظهر في معظم أيام العمل. بدلًا من الشعور بالسوء، اعتبر ذلك بيانات مفيدة. جرّب استبدال البسكويت بثمرة فاكهة لثلاثة أيام، وفي أيام أخرى دوّن فقط إن كان يشعر بالجوع أو التعب قبل التناول. ساعدته رؤية النمط في التطبيق على إجراء تعديلات مدروسة والتعرّف على المحفزات — مواعيد نهائية أو اجتماعات طويلة — حتى يتمكن من التخطيط لاستجابة مختلفة عند الحاجة.",
+          "habit": "دوّن بسرعة شعور الجوع أو المزاج قبل الوجبة الخفيفة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-3-spot-snack-patterns-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-3-spot-snack-patterns-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Noticing snack patterns.\nStory: After two weeks of logging, Mateo saw a familiar spike: an afternoon cookie most workdays. Instead of feeling bad, he used that insight as data. He experimented with swapping one cookie for a piece of fruit on three days, and on others he simply wrote a note about how hungry or tired he felt before snacking. Seeing the pattern in the app helped him make thoughtful adjustments and recognize triggers — deadlines or long meetings — so he could plan a different response when needed..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-06-motivation-4-tiny-daily-adjustments",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Tiny daily adjustments",
+          "story": "Nora didn’t overhaul her routine overnight. Instead, she tried one tiny change each week and logged the result: swapping a creamy dressing for lemon on two lunches, or ordering a side salad once. Keeping notes in the app made those small experiments feel intentional, not restrictive. Over time, the log showed which swaps she liked and which felt forced. That quiet feedback helped Nora build simple habits she could keep — tracking became a practical checklist for small choices, not a source of pressure.",
+          "habit": "Try one small swap this week and note how it felt.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Pequeños ajustes diarios",
+          "story": "Carla no cambió su rutina de la noche a la mañana. En su lugar, probó un pequeño cambio cada semana y registró el resultado: cambiar una salsa cremosa por limón en dos almuerzos o pedir una ensalada como acompañamiento una vez. Apuntar esas pruebas en la app hizo que fueran intencionales, no restrictivas. Con el tiempo, el registro mostró qué cambios le gustaban y cuáles no. Ese feedback tranquilo ayudó a Carla a crear hábitos sencillos y mantenibles — el seguimiento se volvió una lista práctica, no una presión.",
+          "habit": "Haz un pequeño cambio esta semana y anota cómo te sentiste.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие ежедневные поправки",
+          "story": "Ольга не меняла привычки разом. Она пробовала по одному маленькому изменению каждую неделю и записывала результат: заменить кремовую заправку на лимон дважды за обедом или заказать салат в качестве гарнира. Записи в приложении сделали эти эксперименты осознанными, а не ограничивающими. Со временем журнал показал, какие замены ей нравятся, а какие — нет. Такое мягкое обратное связывание помогло Ольге выработать простые, выдерживаемые привычки — трекинг стал практичным чек-листом, а не напряжением.",
+          "habit": "Попробуй одну маленькую замену на этой неделе и запиши ощущения.",
+          "appCta": "Открой Calorie Bank Credit и начни вести учёт сегодня."
+        },
+        "uk": {
+          "title": "Невеликі щоденні зміни",
+          "story": "Оксана не змінювала звички відразу. Натомість щотижня пробувала одну маленьку зміну й записувала результат: заміна кремової заправки на лимон у двох обідах або замовлення салату одного разу. Записи у додатку зробили ці експерименти усвідомленими, а не обмежувальними. З часом журнал показав, які заміни їй подобаються, а які — ні. Такий спокійний зворотний зв’язок допоміг Оксані виробити прості, стійкі звички — відстеження стало практичним чеклістом, а не джерелом тиску.",
+          "habit": "Спробуй одну маленьку заміну цього тижня і зафіксуй відчуття.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Petits ajustements quotidiens",
+          "story": "Camille n'a pas tout changé du jour au lendemain. Elle a essayé un petit changement par semaine et noté le résultat : remplacer une sauce crémeuse par du citron sur deux déjeuners, ou commander une salade en accompagnement une fois. Mettre ces essais dans l'app rendait les gestes intentionnels, pas contraignants. Avec le temps, les notes ont montré quels changements lui convenaient et lesquels la gênaient. Ce retour discret a aidé Camille à instaurer des habitudes simples et durables — le suivi est devenu une checklist utile, pas une pression.",
+          "habit": "Essaie un petit changement cette semaine et note ton ressenti.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine tägliche Anpassungen",
+          "story": "Miriam hat ihre Routine nicht über Nacht umgestellt. Stattdessen probierte sie jede Woche eine winzige Veränderung und notierte das Ergebnis: zweimal ein cremiges Dressing gegen Zitrone tauschen oder einmal einen Beilagensalat bestellen. Diese kleinen Versuche in der App zu dokumentieren machte sie bewusst, nicht einschränkend. Mit der Zeit zeigten die Einträge, welche Änderungen ihr lagen und welche sich erzwungen anfühlten. Dieses ruhige Feedback half Miriam, einfache Gewohnheiten aufzubauen — Tracking wurde zur praktischen Checkliste statt zur Belastung.",
+          "habit": "Probiere diese Woche einen kleinen Austausch und notiere dein Gefühl.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Pequenos ajustes diários",
+          "story": "Bruna não mudou a rotina de uma hora para outra. Em vez disso, testou uma pequena mudança por semana e registrou o resultado: trocar um molho cremoso por limão em dois almoços ou pedir uma salada como acompanhamento uma vez. Registrar esses testes no app tornou as ações intencionais, não restritivas. Com o tempo, o registro mostrou quais trocas ela gostou e quais não. Esse retorno tranquilo ajudou Bruna a criar hábitos simples e sustentáveis — o registro virou uma lista prática, não uma pressão.",
+          "habit": "Faça uma pequena troca esta semana e anote como se sentiu.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Apró napi módosítások",
+          "story": "Eszter nem változtatta meg a napi rutinját egyik napról a másikra. Helyette hetente kipróbált egy apró változtatást és rögzítette az eredményt: kétszer a krémes öntetet citromra cserélte ebédeknél vagy egyszer köretként salátát rendelt. Az appba írt kísérletek tudatossá tették a lépéseket, nem korlátozóvá. Idővel a napló megmutatta, mely cserék váltak be és melyek voltak kényelmetlenek. Ez a csendes visszajelzés segített Eszternek egyszerű, fenntartható szokásokat kialakítani — a nyomon követés gyakorlati ellenőrzőlista lett, nem teher.",
+          "habit": "Próbálj ki egy apró cserét ezen a héten és jegyezd fel, milyen volt.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezd el ma a nyomon követést."
+        },
+        "ar": {
+          "title": "تعديلات يومية صغيرة",
+          "story": "لم تغيّر مريم روتينها بين ليلة وضحاها. بدلًا من ذلك جرّبت تغييرًا صغيرًا كل أسبوع وسجلت النتيجة: استبدال صلصة كريمية بعصير ليمون في غدائين، أو طلب سلطة جانبية مرة واحدة. جعلت الملاحظات في التطبيق تلك التجارب مقصودة وليست مقيدة. مع الوقت أظهر السجل أي التغييرات أعجبتها وأيها شعرت أنه مفروض. هذا التغذية الهادئة ساعدت مريم على بناء عادات بسيطة يمكنها الالتزام بها — أصبح التتبع قائمة عملية للخيارات الصغيرة، لا مصدر ضغط.",
+          "habit": "جرّب تغييرًا صغيرًا هذا الأسبوع وسجل شعورك.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-06T14:33:53.911Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-4-tiny-daily-adjustments-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-06-motivation-4-tiny-daily-adjustments-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny daily adjustments.\nStory: Nora didn’t overhaul her routine overnight. Instead, she tried one tiny change each week and logged the result: swapping a creamy dressing for lemon on two lunches, or ordering a side salad once. Keeping notes in the app made those small experiments feel intentional, not restrictive. Over time, the log showed which swaps she liked and which felt forced. That quiet feedback helped Nora build simple habits she could keep — tracking became a practical checklist for small choices, not a source of pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-05-motivation-1-story-1",
       "category": "calorie_tracking",
