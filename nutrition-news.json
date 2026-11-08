@@ -1,8 +1,436 @@
 {
-  "generatedAt": "2026-11-07T13:26:53.741Z",
+  "generatedAt": "2026-11-08T13:49:10.438Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "mit-scientists-turn-immune-cells-into-cancer-killers-inside-the-b-0f61d01a353b",
+      "category": "cancer treatment; immunotherapy",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+      "sourceTitle": "MIT scientists turn immune cells into cancer killers inside the body",
+      "publishedAt": "Sun, 08 Nov 2026 05:52:31 EST",
+      "languages": {
+        "en": {
+          "title": "Nanoparticles reprogram immune cells in mice to attack cancer",
+          "summary": "MIT researchers report nanoparticles that reprogram immune cells in vivo to target cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The approach aims to simplify immune therapies by modifying cells inside the body rather than extracting and engineering them ex vivo.",
+          "whyItMatters": "If reproducible and safe in humans, an in‑body reprogramming approach could reduce complexity and cost of advanced cell‑based immunotherapies used in cancer and autoimmune disease. Current results are preclinical, so human safety and efficacy are not established.",
+          "takeaways": [
+            "Mouse experiments show nanoparticles can alter immune cells in situ to produce anti-tumor effects.",
+            "This is a preclinical proof-of-concept; translation to humans will require safety, dosing and delivery studies.",
+            "Potential benefits include simpler, lower-cost therapies versus current ex vivo cell-engineering approaches."
+          ]
+        },
+        "es": {
+          "title": "Nanopartículas reprograman células inmunitarias en ratones para atacar el cáncer",
+          "summary": "Investigadores del MIT informan de nanopartículas que reprograman células inmunitarias en el organismo para dirigirse tanto a células cancerosas como a células inmunitarias dañinas, eliminando tumores y revirtiendo daño hepático en experimentos con ratones. El enfoque pretende simplificar las inmunoterapias al modificar las células dentro del cuerpo en lugar de extraerlas y manipularlas ex vivo.",
+          "whyItMatters": "Si fuera reproducible y seguro en humanos, un enfoque de reprogramación dentro del organismo podría reducir la complejidad y el coste de inmunoterapias celulares avanzadas usadas en cáncer y enfermedades autoinmunes. Los resultados actuales son preclínicos, por lo que la seguridad y eficacia en humanos no están establecidas.",
+          "takeaways": [
+            "Experimentos en ratones muestran que nanopartículas pueden alterar células inmunitarias in situ para producir efectos antitumorales.",
+            "Se trata de una prueba de concepto preclínica; la traducción a humanos requerirá estudios de seguridad, dosificación y entrega.",
+            "Los beneficios potenciales incluyen terapias más sencillas y de menor coste frente a los actuales enfoques de ingeniería celular ex vivo."
+          ]
+        },
+        "ru": {
+          "title": "Наночастицы перепрограммируют иммунные клетки у мышей, чтобы атаковать рак",
+          "summary": "Исследователи MIT сообщили о наночастицах, которые перепрограммируют иммунные клетки в организме, чтобы они нацеливались на раковые и вредные иммунные клетки, уничтожая опухоли и обращая повреждение печени в экспериментах на мышах. Подход направлен на упрощение иммунных терапий за счёт модификации клеток внутри тела вместо их изъятия и обработки ex vivo.",
+          "whyItMatters": "Если методы окажутся воспроизводимыми и безопасными для людей, перепрограммирование в организме могло бы снизить сложность и стоимость передовых клеточных иммунотерапий, применяемых при раке и аутоиммунных заболеваниях. Текущие результаты доклинические, поэтому безопасность и эффективность у людей не установлены.",
+          "takeaways": [
+            "Эксперименты на мышах показывают, что наночастицы могут изменять иммунные клетки in situ, вызывая противоопухолевые эффекты.",
+            "Это доклиническая демонстрация принципа; перевод в клинику потребует исследований безопасности, дозирования и способов доставки.",
+            "Потенциальные преимущества включают более простые и менее дорогостоящие терапии по сравнению с существующими подходами с обработкой клеток ex vivo."
+          ]
+        },
+        "uk": {
+          "title": "Наночастинки перепрограмовують імунні клітини у мишей, щоб атакувати рак",
+          "summary": "Дослідники MIT описують наночастинки, які в живому організмі перепрограмовують імунні клітини для націлення на пухлину та шкідливі імунні клітини, що в експериментах на мишах призводило до зникнення пухлин і відновлення ушкоджень печінки. Підхід має на меті спростити імунні терапії шляхом модифікації клітин всередині тіла замість їх видалення й інженерії поза організмом.",
+          "whyItMatters": "Якщо метод виявиться відтворюваним і безпечним у людей, перепрограмування клітин в організмі може зменшити складність і вартість передових клітинних імунних терапій при раку й автоімунних хворобах. Нині результати є прекліничними, тому безпека та ефективність у людей не встановлені.",
+          "takeaways": [
+            "Експерименти на мишах показали, що наночастинки можуть змінювати імунні клітини на місці, викликаючи протипухлинні ефекти.",
+            "Це прекліничне доказове дослідження; перенесення на людей вимагатиме досліджень безпеки, дозування та способів доставки.",
+            "Можливі переваги включають простіші та менш витратні терапії в порівнянні з поточними підходами, що інженерують клітини поза організмом."
+          ]
+        },
+        "fr": {
+          "title": "Des nanoparticules reprogramment des cellules immunitaires chez la souris pour attaquer le cancer",
+          "summary": "Des chercheurs du MIT rapportent des nanoparticules qui reprogramment in vivo des cellules immunitaires pour cibler à la fois le cancer et des cellules immunitaires nuisibles, entraînant l’élimination des tumeurs et la régression de lésions hépatiques dans des expériences sur souris. L’approche vise à simplifier les thérapies immunitaires en modifiant les cellules à l’intérieur du corps plutôt qu’en les extrayant et en les modifiant ex vivo.",
+          "whyItMatters": "Si la méthode se révèle reproductible et sûre chez l’humain, la reprogrammation in vivo pourrait réduire la complexité et le coût des thérapies cellulaires immunitaires avancées pour le cancer et les maladies auto‑immunes. Les résultats actuels sont précliniques, donc la sécurité et l’efficacité chez l’humain ne sont pas établies.",
+          "takeaways": [
+            "Des expériences sur souris montrent que des nanoparticules peuvent altérer les cellules immunitaires in situ pour obtenir des effets antitumoraux.",
+            "Il s’agit d’une preuve de concept préclinique ; la traduction chez l’humain nécessitera des études de sécurité, de posologie et de délivrance.",
+            "Les bénéfices potentiels incluent des traitements plus simples et moins coûteux par rapport aux approches actuelles d’ingénierie cellulaire ex vivo."
+          ]
+        },
+        "de": {
+          "title": "Nanopartikel programmieren Immunzellen in Mäusen um, damit sie Krebs angreifen",
+          "summary": "MIT‑Forscher berichten über Nanopartikel, die Immunzellen in vivo so umprogrammieren, dass sie Krebszellen und schädliche Immunzellen anvisieren, Tumoren eliminieren und Leberschäden in Mausversuchen rückgängig machen. Der Ansatz zielt darauf ab, Immuntherapien zu vereinfachen, indem Zellen im Körper verändert werden statt sie ex vivo zu entnehmen und zu bearbeiten.",
+          "whyItMatters": "Falls sich das Verfahren beim Menschen reproduzierbar und sicher erweist, könnte eine In‑body‑Umprogrammierung die Komplexität und Kosten fortgeschrittener zellbasierter Immuntherapien für Krebs und Autoimmunerkrankungen senken. Die aktuellen Ergebnisse sind präklinisch; Sicherheit und Wirksamkeit beim Menschen sind nicht nachgewiesen.",
+          "takeaways": [
+            "Mausversuche zeigen, dass Nanopartikel Immunzellen vor Ort verändern können, um antitumorale Effekte zu erzeugen.",
+            "Dies ist ein präklinischer Proof‑of‑Concept; die Übertragung auf den Menschen erfordert Studien zu Sicherheit, Dosierung und Verabreichung.",
+            "Mögliche Vorteile wären einfachere und kostengünstigere Therapien im Vergleich zu aktuellen ex‑vivo Zell‑Engineering‑Ansätzen."
+          ]
+        },
+        "pt-br": {
+          "title": "Nanopartículas reprogramam células imunes em camundongos para atacar o câncer",
+          "summary": "Pesquisadores do MIT relatam nanopartículas que reprogramam células imunes in vivo para mirar em células cancerosas e células imunes prejudiciais, eliminando tumores e revertendo danos no fígado em experimentos com camundongos. A abordagem pretende simplificar terapias imunológicas ao modificar células dentro do corpo em vez de extraí‑las e manipulá‑las ex vivo.",
+          "whyItMatters": "Se reprodutível e segura em humanos, a reprogramação in‑body poderia reduzir a complexidade e o custo de imunoterapias celulares avançadas usadas no câncer e em doenças autoimunes. Os resultados atuais são pré‑clínicos; segurança e eficácia em humanos não estão estabelecidas.",
+          "takeaways": [
+            "Experimentos em camundongos mostram que nanopartículas podem alterar células imunes in situ para produzir efeitos antitumorais.",
+            "Trata‑se de um proof‑of‑concept pré‑clínico; a tradução para humanos exigirá estudos de segurança, doseamento e entrega.",
+            "Benefícios potenciais incluem terapias mais simples e de menor custo em comparação com abordagens atuais de engenharia celular ex vivo."
+          ]
+        },
+        "hu": {
+          "title": "Nanorészecskék egerekben újraprogramozzák az immunsejteket a rák megtámadására",
+          "summary": "A MIT kutatói olyan nanorészecskékről számolnak be, amelyek in vivo újraprogramozzák az immunsejteket úgy, hogy azok a rákos és káros immunsejteket célozzák meg; egérkísérletekben ez daganatok eltűnéséhez és májkárosodás visszafordulásához vezetett. A megközelítés célja az immunterápiák egyszerűsítése azáltal, hogy a sejteket a szervezeten belül módosítják a kivétel és ex vivo módosítás helyett.",
+          "whyItMatters": "Ha humánban reprodukálható és biztonságos, a szervezetben történő újraprogramozás csökkentheti a fejlett sejtes immunterápiák összetettségét és költségét rákban és autoimmun betegségekben. A jelen eredmények preklinikaiak, így a humán biztonság és hatékonyság nincs megállapítva.",
+          "takeaways": [
+            "Egérkísérletek szerint a nanorészecskék helyben képesek módosítani az immunsejteket anti-tumor hatás létrehozásához.",
+            "Ez preklinikai bizonyíték; az emberi alkalmazás átalakításához biztonsági, dózis- és célzott eljuttatási vizsgálatok szükségesek.",
+            "Lehetséges előnyök közé tartozik az egyszerűbb, alacsonyabb költségű terápia a jelenlegi ex vivo sejtmódosításhoz képest."
+          ]
+        },
+        "ar": {
+          "title": "جزيئات نانوية تعيد برمجة الخلايا المناعية في الفئران لمهاجمة السرطان",
+          "summary": "يُبلغ باحثو MIT عن جزيئات نانوية تعيد برمجة الخلايا المناعية داخل الكائن الحي بحيث تستهدف السرطان والخلايا المناعية الضارة؛ في تجارب على الفئران أدّى ذلك إلى القضاء على الأورام وعكس تلف الكبد. تهدف الطريقة إلى تبسيط العلاجات المناعية عن طريق تعديل الخلايا داخل الجسم بدلاً من سحبها وتعديلها خارجيًا.",
+          "whyItMatters": "إذا أمكن تكرارها وكانت آمنة لدى البشر، فقد تُقلّل إعادة البرمجة داخل الجسم من تعقيد وتكلفة العلاجات الخلوية المناعية المتقدمة المستخدمة في السرطان والأمراض المناعية الذاتية. النتائج الحالية ما تزال ما قبل سريرية، لذا لم يتم إثبات السلامة أو الفعالية لدى البشر.",
+          "takeaways": [
+            "تُظهر تجارب على الفئران أن الجزيئات النانوية يمكن أن تغيّر الخلايا المناعية موضعياً لإحداث تأثيرات مضادة للأورام.",
+            "هذا دليل برهاني ما قبل سريري؛ سيتطلب الانتقال إلى البشر دراسات حول السلامة والجرعات وطرق التوصيل.",
+            "من الفوائد المحتملة تبسيط العلاجات وخفض التكلفة مقارنةً بأساليب تعديل الخلايا خارج الجسم."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mit-scientists-turn-immune-cells-into-cancer-killers-inside-the-b-0f61d01a353b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mit-scientists-turn-immune-cells-into-cancer-killers-inside-the-b-0f61d01a353b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mit-scientists-turn-immune-cells-into-cancer-killers-inside-the-b-0f61d01a353b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nanoparticles reprogram immune cells in mice to attack cancer.\nStory summary: MIT researchers report nanoparticles that reprogram immune cells in vivo to target cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The approach aims to simplify immune therapies by modifying cells inside the body rather than extracting and engineering them ex vivo..\nCategory: cancer treatment; immunotherapy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "cancer-treatment-plummeted-me-into-menopause-b250cd1deeb0",
+      "category": "cancer survivorship; women's health",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "'Cancer treatment plummeted me into menopause'",
+      "publishedAt": "Sun, 08 Nov 2026 09:17:32 GMT",
+      "languages": {
+        "en": {
+          "title": "Survivors describe sudden treatment‑induced menopause and call for better support",
+          "summary": "A BBC article reports that women affected by treatment‑induced menopause after cancer are calling for more support. The piece highlights personal experiences and advocacy for improved information, symptom management and survivorship care relating to menopause triggered by cancer therapies.",
+          "whyItMatters": "Treatment‑induced menopause is a significant survivorship issue with physical and psychosocial consequences. Reporting patient perspectives underscores gaps in support services and the need for clinicians and health systems to address survivorship needs, though the article is not a research study.",
+          "takeaways": [
+            "Cancer treatments can cause sudden menopause, affecting quality of life and generating calls for better post‑treatment support.",
+            "This is a patient‑experience and advocacy report rather than a research study; it highlights service and informational gaps.",
+            "Improving survivorship care requires attention to symptom management, counselling and access to appropriate services."
+          ]
+        },
+        "es": {
+          "title": "Sobrevivientes describen la menopausia repentina inducida por el tratamiento y piden mejor apoyo",
+          "summary": "Un artículo de la BBC informa que mujeres afectadas por menopausia inducida por el tratamiento contra el cáncer piden más apoyo. La pieza destaca experiencias personales y la defensa por mejor información, manejo de síntomas y atención de supervivencia relacionada con la menopausia provocada por terapias oncológicas.",
+          "whyItMatters": "La menopausia inducida por el tratamiento es un problema importante en la supervivencia con consecuencias físicas y psicosociales. Reportar las perspectivas de las pacientes subraya las carencias en servicios de apoyo y la necesidad de que clínicos y sistemas de salud aborden las necesidades de la supervivencia; el artículo no es un estudio de investigación.",
+          "takeaways": [
+            "Los tratamientos contra el cáncer pueden provocar una menopausia repentina, afectando la calidad de vida y motivando demandas de mejor apoyo postratamiento.",
+            "Se trata de un reportaje sobre experiencias de pacientes y defensa, no de un estudio de investigación; destaca brechas en servicios e información.",
+            "Mejorar la atención a la supervivencia requiere atender al manejo de síntomas, el asesoramiento y el acceso a servicios adecuados."
+          ]
+        },
+        "ru": {
+          "title": "Выжившие описывают внезапную менопаузу, вызванную лечением, и требуют лучшей поддержки",
+          "summary": "Статья BBC сообщает, что женщины, пережившие менопаузу, вызванную лечением рака, призывают к повышению уровня поддержки. Материал подчёркивает личные истории и адвокацию за лучшую информацию, управление симптомами и уход в период выживания, связанный с менопаузой, вызванной онкологическими методами лечения.",
+          "whyItMatters": "Менопауза, вызванная лечением, является важной проблемой выживания с физическими и психосоциальными последствиями. Освещение взглядов пациентов подчёркивает пробелы в службах поддержки и необходимость того, чтобы клиницисты и системы здравоохранения учитывали потребности выживших; статья не является исследованием.",
+          "takeaways": [
+            "Лечение рака может вызвать внезапную менопаузу, что влияет на качество жизни и порождает требования улучшить постлечебную поддержку.",
+            "Это репортаж о переживаниях пациентов и адвокация, а не исследование; он указывает на нехватку услуг и информации.",
+            "Улучшение ухода за выжившими требует внимания к управлению симптомами, консультированию и доступу к соответствующим услугам."
+          ]
+        },
+        "uk": {
+          "title": "Вижилиці описують раптову менопаузу після лікування раку і закликають до кращої підтримки",
+          "summary": "Стаття BBC повідомляє, що жінки, які пережили лікування раку, яке спричинило менопаузу, закликають до більшої підтримки. У матеріалі висвітлені особисті історії та адвокація щодо покращення інформації, управління симптомами та догляду під час виживання, пов’язаного з менопаузою, викликаною онкотерапією.",
+          "whyItMatters": "Менопауза, спричинена лікуванням, є важливим питанням у догляді за вижившими з фізичними та психологічними наслідками. Репортаж про досвід пацієнтів підкреслює прогалини в службах підтримки та потребу, щоб клініцисти й системи охорони здоров’я враховували потреби у виживанні, хоча це не наукове дослідження.",
+          "takeaways": [
+            "Онкотерапії можуть спричинити раптову менопаузу, що впливає на якість життя й викликає потребу в кращій післялікувальній підтримці.",
+            "Це репортаж про досвід пацієнтів і адвокацію, а не наукове дослідження; він висвітлює прогалини в послугах і інформації.",
+            "Покращення догляду за вижившими потребує уваги до керування симптомами, консультування та доступу до відповідних послуг."
+          ]
+        },
+        "fr": {
+          "title": "Des survivantes décrivent une ménopause induite par le traitement du cancer et demandent un meilleur soutien",
+          "summary": "Un article de la BBC rapporte que des femmes touchées par une ménopause induite par un traitement du cancer réclament davantage de soutien. L’article met en avant des témoignages personnels et un plaidoyer pour une amélioration de l’information, de la prise en charge des symptômes et des soins aux survivantes concernant la ménopause déclenchée par les thérapies contre le cancer.",
+          "whyItMatters": "La ménopause induite par un traitement est un enjeu important pour les survivantes, avec des conséquences physiques et psychosociales. Le reportage sur l’expérience des patientes souligne des lacunes dans les services de soutien et la nécessité pour les cliniciens et les systèmes de santé de répondre aux besoins des survivantes, bien qu’il ne s’agisse pas d’une étude de recherche.",
+          "takeaways": [
+            "Les traitements contre le cancer peuvent provoquer une ménopause soudaine, affectant la qualité de vie et générant des appels à une meilleure prise en charge après traitement.",
+            "Il s’agit d’un récit d’expérience et d’un rapport de plaidoyer plutôt que d’une recherche ; il souligne des lacunes dans les services et l’information.",
+            "Améliorer les soins aux survivantes nécessite de s’attacher à la prise en charge des symptômes, au conseil et à l’accès à des services appropriés."
+          ]
+        },
+        "de": {
+          "title": "Überlebende berichten von plötzlicher therapiebedingter Menopause und fordern bessere Unterstützung",
+          "summary": "Ein BBC‑Beitrag berichtet, dass Frauen, die nach Krebsbehandlungen in die therapiebedingte Menopause geraten sind, mehr Unterstützung fordern. Der Artikel hebt persönliche Erfahrungen und Advocacy für bessere Information, Symptommanagement und Nachsorge in Bezug auf durch Krebstherapien ausgelöste Menopause hervor.",
+          "whyItMatters": "Therapiebedingte Menopause ist ein wichtiges Thema in der Survivorship mit physischen und psychosozialen Folgen. Die Darstellung von Patientenerfahrungen macht Lücken in Unterstützungsangeboten sichtbar und zeigt, dass Kliniker und Gesundheitssysteme Survivorship‑Bedürfnisse adressieren sollten; der Artikel ist kein Forschungsbericht.",
+          "takeaways": [
+            "Krebsbehandlungen können eine plötzliche Menopause auslösen, die die Lebensqualität beeinträchtigt und Forderungen nach besserer Nachsorge hervorruft.",
+            "Es handelt sich um einen Bericht zu Patientenerfahrungen und Interessenvertretung, nicht um eine Forschungsstudie; er macht Versorgungs‑ und Informationslücken deutlich.",
+            "Verbesserte Survivorship‑Versorgung erfordert Aufmerksamkeit für Symptommanagement, Beratung und Zugang zu passenden Diensten."
+          ]
+        },
+        "pt-br": {
+          "title": "Sobreviventes descrevem menopausa induzida pelo tratamento e pedem mais apoio",
+          "summary": "Uma matéria da BBC relata que mulheres afetadas por menopausa induzida por tratamento do câncer estão pedindo mais apoio. A peça destaca experiências pessoais e defesa por melhor informação, manejo de sintomas e cuidados de sobrevivência relacionados à menopausa desencadeada por terapias oncológicas.",
+          "whyItMatters": "A menopausa induzida pelo tratamento é uma questão importante na sobrevivência ao câncer, com consequências físicas e psicossociais. Relatos de pacientes destacam lacunas em serviços de apoio e a necessidade de que clínicos e sistemas de saúde atendam às necessidades de sobrevivência; o artigo não é um estudo de pesquisa.",
+          "takeaways": [
+            "Tratamentos contra o câncer podem causar menopausa súbita, afetando a qualidade de vida e gerando pedidos por melhor apoio pós‑tratamento.",
+            "Trata‑se de um relato de experiências e defesa dos pacientes, não de um estudo de pesquisa; evidencia lacunas em serviços e informação.",
+            "Melhorar os cuidados de sobrevivência exige atenção ao manejo de sintomas, aconselhamento e acesso a serviços apropriados."
+          ]
+        },
+        "hu": {
+          "title": "Túlélők leírják a kezeléssel kiváltott hirtelen menopauzát és jobb támogatást követelnek",
+          "summary": "A BBC cikke arról számol be, hogy a rákkezelés miatt menopauzába került nők több támogatást követelnek. A riport személyes tapasztalatokat és a tünetkezelésre, információnyújtásra és túlélőgondozásra vonatkozó követeléseket emeli ki a kezelések által kiváltott menopauzával kapcsolatban.",
+          "whyItMatters": "A kezeléssel kiváltott menopauza jelentős túlélői problémát jelent fizikai és pszichoszociális következményekkel. A betegek nézőpontjának bemutatása rámutat a támogatási hiányokra és szükség van arra, hogy a klinikusok és egészségügyi rendszerek foglalkozzanak a túlélői igényekkel; a cikk nem kutatási tanulmány.",
+          "takeaways": [
+            "A rákkezelések hirtelen menopauzát okozhatnak, ami rontja az életminőséget és nagyobb támogatási igényt eredményez.",
+            "Ez egy betegélmény‑ és érdekképviseleti beszámoló, nem kutatás; rávilágít a szolgáltatási és információs hiányokra.",
+            "A túlélői ellátás javítása a tünetkezelésre, tanácsadásra és megfelelő szolgáltatásokhoz való hozzáférésre irányuló figyelmet igényel."
+          ]
+        },
+        "ar": {
+          "title": "الناجيات يصفن سن اليأس المفاجئ الناتج عن العلاج ويطالبن بدعم أفضل",
+          "summary": "تفيد مقالة بـBBC أن نساءً أصبن بسن اليأس الناتج عن العلاج السرطاني يطالبن بمزيد من الدعم. تبرز القطعة تجارب شخصية والمناصرة من أجل معلومات محسّنة، وإدارة الأعراض، ورعاية البقاء المتعلقة بانقطاع الطمث الناتج عن علاجات السرطان.",
+          "whyItMatters": "يعد انقطاع الطمث الناتج عن العلاج قضية مهمة لمرحلة ما بعد السرطان لما لها من عواقب جسدية ونفسية‑اجتماعية. يبرز تغطية تجارب المرضى وجود فجوات في خدمات الدعم وحاجة الأطباء ونظم الرعاية إلى معالجة احتياجات الناجين؛ والمقال ليس دراسة بحثية.",
+          "takeaways": [
+            "يمكن أن تتسبب علاجات السرطان في انقطاع الطمث المفاجئ، مما يؤثر على جودة الحياة ويؤدي إلى مطالبات بدعم أفضل بعد العلاج.",
+            "هذا تقرير عن تجارب المرضى والمناصرة وليس دراسة بحثية؛ ويسلّط الضوء على نقص الخدمات والمعلومات.",
+            "يتطلب تحسين رعاية الناجين التركيز على إدارة الأعراض والاستشارات وإتاحة الخدمات المناسبة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cancer-treatment-plummeted-me-into-menopause-b250cd1deeb0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cancer-treatment-plummeted-me-into-menopause-b250cd1deeb0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cancer-treatment-plummeted-me-into-menopause-b250cd1deeb0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Survivors describe sudden treatment‑induced menopause and call for better support.\nStory summary: A BBC article reports that women affected by treatment‑induced menopause after cancer are calling for more support. The piece highlights personal experiences and advocacy for improved information, symptom management and survivorship care relating to menopause triggered by cancer therapies..\nCategory: cancer survivorship; women's health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "ziltivekimab-falls-short-for-cutting-cardiovascular-events-in-asc-ae79f0d44cd4",
+      "category": "cardiovascular disease; clinical trials",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/aha/123773",
+      "sourceTitle": "Ziltivekimab Falls Short for Cutting Cardiovascular Events in ASCVD, CKD",
+      "publishedAt": "Sat, 07 Nov 2026 17:15:26 -0500",
+      "languages": {
+        "en": {
+          "title": "Anti-inflammatory antibody ziltivekimab lowered biomarkers but did not cut major cardiovascular events",
+          "summary": "A clinical study reported that ziltivekimab, a monoclonal antibody that reduced inflammatory markers, did not lead to fewer cardiovascular events in patients with atherosclerotic cardiovascular disease (ASCVD) and chronic kidney disease (CKD). The trial result contrasts biomarker improvement with lack of clinical benefit for event reduction.",
+          "whyItMatters": "The finding warns that lowering inflammation biomarkers alone may not translate into reduced cardiovascular events in this high‑risk population and underscores the need for outcome-based evidence before adopting new anti‑inflammatory therapies.",
+          "takeaways": [
+            "Ziltivekimab reduced inflammatory markers but failed to decrease clinical cardiovascular events in the studied population.",
+            "Biomarker changes do not always predict patient‑level outcome benefits; large outcome trials remain essential.",
+            "Further research may explore which patients, if any, could benefit from this mechanism or whether different endpoints are needed."
+          ]
+        },
+        "es": {
+          "title": "El anticuerpo antiinflamatorio ziltivekimab redujo biomarcadores pero no disminuyó eventos cardiovasculares mayores",
+          "summary": "Un estudio clínico informó que ziltivekimab, un anticuerpo monoclonal que redujo marcadores inflamatorios, no condujo a menos eventos cardiovasculares en pacientes con enfermedad cardiovascular aterosclerótica (EAC) y enfermedad renal crónica (ERC). El resultado contrasta la mejora de biomarcadores con la falta de beneficio clínico en la reducción de eventos.",
+          "whyItMatters": "El hallazgo advierte que la mera reducción de biomarcadores de inflamación puede no traducirse en menos eventos cardiovasculares en esta población de alto riesgo y subraya la necesidad de evidencia basada en resultados clínicos antes de adoptar nuevas terapias antiinflamatorias.",
+          "takeaways": [
+            "Ziltivekimab redujo marcadores inflamatorios pero no logró disminuir eventos cardiovasculares clínicos en la población estudiada.",
+            "Los cambios en biomarcadores no siempre predicen beneficios en resultados para el paciente; siguen siendo esenciales los grandes ensayos de desenlace.",
+            "Se necesitará más investigación para explorar qué pacientes, si los hay, podrían beneficiarse de este mecanismo o si hacen falta otros criterios de valoración."
+          ]
+        },
+        "ru": {
+          "title": "Антиэндотелийный антитело зилтивекимаб снизило биомаркеры, но не уменьшило число крупные сердечно‑сосудистых событий",
+          "summary": "Клиническое исследование показало, что зилтивекимаб, моноклональное антитело, снижавшее маркеры воспаления, не привело к уменьшению числа сердечно‑сосудистых событий у пациентов с атеросклеротическим сердечно‑сосудистым заболеванием (ASCVD) и хронической болезнью почек (ХБП). Результат противопоставляет улучшение биомаркеров отсутствию клинической пользы в снижении событий.",
+          "whyItMatters": "Это показывает, что снижение только маркеров воспаления может не привести к уменьшению сердечно‑сосудистых событий в этой группе высокого риска и подчёркивает необходимость доказательств на основе клинических исходов перед внедрением новых противовоспалительных методов лечения.",
+          "takeaways": [
+            "Зилтивекимаб снизил маркеры воспаления, но не уменьшил клинические сердечно‑сосудистые события в изучённой популяции.",
+            "Изменения биомаркеров не всегда предсказывают пользу для пациентов; по‑прежнему необходимы крупные исследования с клиническими исходами.",
+            "Нужны дополнительные исследования, чтобы выяснить, какие пациенты, если такие есть, могли бы получить выгоду от этого механизма, или нужны иные конечные точки."
+          ]
+        },
+        "uk": {
+          "title": "Протизапальна антитіло зилтівекімаб знизило біомаркери, але не скоротило великі серцево‑судинні події",
+          "summary": "Клінічне дослідження повідомило, що зилтівекімаб, моноклональне антитіло, яке знижувало маркери запалення, не призвело до меншої кількості серцево‑судинних подій у пацієнтів із атеросклеротичною серцево‑судинною хворобою (ASCVD) та хронічною хворобою нирок (ХХН). Результат випробування ставить у контраст зниження біомаркерів та відсутність клінічної вигоди в зниженні подій.",
+          "whyItMatters": "Цей висновок застерігає, що само по собі зниження маркерів запалення може не перетворюватися на зменшення серцево‑судинних подій у цій групі високого ризику і підкреслює потребу в доказах на основі кінцевих результатів перед впровадженням нових протизапальних терапій.",
+          "takeaways": [
+            "Зилтівекімаб знизив маркери запалення, але не зменшив клінічні серцево‑судинні події у вивченій популяції.",
+            "Зміни біомаркерів не завжди передбачають користь на рівні пацієнта; залишаються важливими великі дослідження з кінцевими точками.",
+            "Подальші дослідження можуть з’ясувати, які пацієнти, якщо такі є, можуть отримати користь від цього механізму або чи потрібні інші кінцеві точки."
+          ]
+        },
+        "fr": {
+          "title": "L’anticorps anti‑inflammatoire ziltivekimab a abaissé des biomarqueurs mais n’a pas réduit les événements cardiovasculaires majeurs",
+          "summary": "Une étude clinique a rapporté que ziltivekimab, un anticorps monoclonal qui réduisait des marqueurs inflammatoires, n’a pas entraîné une diminution des événements cardiovasculaires chez des patients atteints de maladie cardiovasculaire athéroscléreuse (ASCVD) et de maladie rénale chronique (MRC). Le résultat du essai met en contraste l’amélioration des biomarqueurs et l’absence de bénéfice clinique sur la réduction des événements.",
+          "whyItMatters": "Cette observation met en garde que la seule réduction des biomarqueurs d’inflammation peut ne pas se traduire par une diminution des événements cardiovasculaires dans cette population à haut risque et souligne la nécessité de preuves axées sur les résultats avant d’adopter de nouvelles thérapies anti‑inflammatoires.",
+          "takeaways": [
+            "Ziltivekimab a réduit des marqueurs inflammatoires mais n’a pas diminué les événements cardiovasculaires cliniques dans la population étudiée.",
+            "Les changements de biomarqueurs ne prédisent pas toujours un bénéfice sur les résultats cliniques ; les essais d’issue restent essentiels.",
+            "Des recherches supplémentaires pourront explorer quels patients, le cas échéant, pourraient bénéficier de ce mécanisme ou si des critères d’évaluation différents sont nécessaires."
+          ]
+        },
+        "de": {
+          "title": "Entzündungshemmender Antikörper Ziltivekimab senkte Biomarker, reduzierte aber nicht große Herz‑Kreislauf‑Ereignisse",
+          "summary": "Eine klinische Studie berichtete, dass Ziltivekimab, ein monoklonaler Antikörper, der Entzündungsmarker reduzierte, nicht zu weniger kardiovaskulären Ereignissen bei Patienten mit atherosklerotischer Herz‑Kreislauf‑Erkrankung (ASCVD) und chronischer Nierenerkrankung (CKD) führte. Das Ergebnis stellt eine Diskrepanz zwischen Biomarker‑Verbesserung und fehlendem klinischem Nutzen für Ereignisreduktion dar.",
+          "whyItMatters": "Die Befundlage mahnt, dass die Senkung von Entzündungs‑Biomarkern allein nicht notwendigerweise in einer Reduktion kardiovaskulärer Ereignisse in dieser Hochrisikopopulation mündet und betont die Notwendigkeit ergebnisorientierter Evidenz vor der Einführung neuer entzündungshemmender Therapien.",
+          "takeaways": [
+            "Ziltivekimab senkte Entzündungsmarker, vermochte jedoch die klinischen kardiovaskulären Ereignisse in der untersuchten Population nicht zu reduzieren.",
+            "Biomarker‑Änderungen sagen nicht immer patientenrelevante Outcome‑Vorteile vorher; groß angelegte Ergebnisstudien bleiben essenziell.",
+            "Weitere Forschung könnte untersuchen, welche Patienten eventuell von diesem Wirkmechanismus profitieren könnten oder ob andere Endpunkte nötig sind."
+          ]
+        },
+        "pt-br": {
+          "title": "Anticorpo anti‑inflamatório ziltivekimab reduziu biomarcadores, mas não diminuiu eventos cardiovasculares maiores",
+          "summary": "Um estudo clínico relatou que ziltivekimab, um anticorpo monoclonal que reduziu marcadores inflamatórios, não levou a menos eventos cardiovasculares em pacientes com doença cardiovascular aterosclerótica (ASCVD) e doença renal crônica (CKD). O resultado contrasta a melhora nos biomarcadores com a falta de benefício clínico na redução de eventos.",
+          "whyItMatters": "O achado alerta que reduzir apenas biomarcadores de inflamação pode não se traduzir em redução de eventos cardiovasculares nesta população de alto risco e ressalta a necessidade de evidência baseada em desfechos antes da adoção de novas terapias anti‑inflamatórias.",
+          "takeaways": [
+            "Ziltivekimab reduziu marcadores inflamatórios, mas não conseguiu diminuir eventos cardiovasculares clínicos na população estudada.",
+            "Mudanças em biomarcadores nem sempre predizem benefícios em desfechos no nível do paciente; ensaios de desfecho continuent sendo essenciais.",
+            "Mais pesquisas podem explorar quais pacientes, se houver, poderiam se beneficiar desse mecanismo ou se são necessários endpoints diferentes."
+          ]
+        },
+        "hu": {
+          "title": "Gyulladáscsökkentő antitest, a ziltivekimab csökkentette a biomarkereket, de nem mérsékelte a súlyos szív‑ és érrendszeri eseményeket",
+          "summary": "Egy klinikai vizsgálat beszámolója szerint a ziltivekimab, egy monoklonális antitest, amely csökkentette a gyulladásos markereket, nem vezetett kevesebb szív‑ és érrendszeri eseményhez olyan betegeknél, akiknek atheroszklerotikus szív‑ és érrendszeri betegsége (ASCVD) és krónikus vesebetegsége (CKD) volt. A vizsgálati eredmény ellentétben áll a biomarkerek javulása és a klinikai események csökkenésének hiánya között.",
+          "whyItMatters": "Az eredmény figyelmeztet, hogy maguk a gyulladásos biomarkerek csökkentése nem feltétlenül vezet kevesebb kardiovaszkuláris eseményhez ebben a magas kockázatú populációban, és hangsúlyozza az eredményalapú bizonyítékok szükségességét új gyulladáscsökkentő terápiák bevezetése előtt.",
+          "takeaways": [
+            "A ziltivekimab csökkentette a gyulladásos markereket, de nem sikerült csökkenteni a klinikai szív‑ és érrendszeri események számát a vizsgált populációban.",
+            "A biomarkerváltozások nem mindig jósolják meg a betegelőnyöket; nagyméretű kimenetelvizsgálatok továbbra is alapvetők.",
+            "További kutatások vizsgálhatják, hogy mely betegek, ha vannak ilyenek, részesülhetnek a mechanizmusból, vagy hogy más végpontok szükségesek‑e."
+          ]
+        },
+        "ar": {
+          "title": "المضاد الالتهابي زيلتيفيكيماب خفّض مؤشرات حيوية لكنه لم يقلل الأحداث القلبية الوعائية الكبرى",
+          "summary": "أفادت دراسة سريرية أن زيلتيفيكيماب، وهو جسم أحادي النسيلة خفّض مؤشرات الالتهاب، لم يؤدِ إلى تقليل الأحداث القلبية الوعائية لدى مرضى لديهم مرض قلبي وعائي تصلُّبي (ASCVD) ومرض كلوي مزمن (CKD). تتناقض نتيجة التجربة بين تحسن المؤشرات الحيوية وغياب فائدة سريرية في تقليل الأحداث.",
+          "whyItMatters": "تُحذّر النتيجة من أن خفض مؤشرات الالتهاب وحدها قد لا يترجم إلى تقليل الأحداث القلبية لدى هذه الفئة عالية المخاطر، وتؤكد حاجة الأدلة المبنية على النتائج قبل اعتماد علاجات التهابية جديدة.",
+          "takeaways": [
+            "زيلتيفيكيماب خفّض مؤشرات الالتهاب لكنه فشل في تقليل الأحداث القلبية الوعائية السريرية في السكان المدروسين.",
+            "تغيّر المؤشرات الحيوية لا يتنبّأ دائمًا بفائدة على مستوى المريض؛ تظل التجارب الكبرى المعتمدة على النتائج ضرورية.",
+            "قد تستكشف أبحاث إضافية أي المرضى، إن وُجدوا، قد يستفيدون من هذا الآلية، أو ما إذا كانت هناك حاجة إلى نقاط نهاية مختلفة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=ziltivekimab-falls-short-for-cutting-cardiovascular-events-in-asc-ae79f0d44cd4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ziltivekimab-falls-short-for-cutting-cardiovascular-events-in-asc-ae79f0d44cd4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/ziltivekimab-falls-short-for-cutting-cardiovascular-events-in-asc-ae79f0d44cd4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Anti-inflammatory antibody ziltivekimab lowered biomarkers but did not cut major cardiovascular events.\nStory summary: A clinical study reported that ziltivekimab, a monoclonal antibody that reduced inflammatory markers, did not lead to fewer cardiovascular events in patients with atherosclerotic cardiovascular disease (ASCVD) and chronic kidney disease (CKD). The trial result contrasts biomarker improvement with lack of clinical benefit for event reduction..\nCategory: cardiovascular disease; clinical trials.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-promising-drug-for-an-inherited-heart-risk-flops-stunning-docto-e0725049a485",
+      "category": "heart disease; lipid-lowering therapies",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/11/07/health/novartis-pelacarsen-heart-drug-trial",
+      "sourceTitle": "A promising drug for an inherited heart risk flops, stunning doctors",
+      "publishedAt": "2026-11-07T14:50:15.149Z",
+      "languages": {
+        "en": {
+          "title": "Pelacarsen failed to reduce major heart events in a key trial",
+          "summary": "A highly anticipated trial of pelacarsen, an experimental therapy aimed at lowering lipoprotein(a) for people with inherited heart risk, did not demonstrate a reduction in major cardiovascular events. The trial outcome surprised clinicians who had hoped lipoprotein(a) lowering would translate into event reduction.",
+          "whyItMatters": "Lipoprotein(a) is a known inherited risk factor; this trial outcome highlights that therapies that modify a risk biomarker may still fail to improve clinical outcomes, emphasizing the importance of outcome trials before changing practice.",
+          "takeaways": [
+            "Pelacarsen lowered its target lipid but did not reduce major cardiovascular events in the reported trial.",
+            "A negative outcome underscores that addressing a single biomarker may not be sufficient to alter clinical risk.",
+            "Further analysis will be needed to understand subgroup responses, trial design factors, and implications for future Lp(a)-targeting therapies."
+          ]
+        },
+        "es": {
+          "title": "Pelacarsen no logró reducir eventos cardiovasculares mayores en un ensayo clave",
+          "summary": "Un ensayo muy esperado de pelacarsen, una terapia experimental destinada a bajar lipoproteína(a) en personas con riesgo hereditario de enfermedad cardíaca, no demostró reducción de eventos cardiovasculares mayores. El resultado sorprendió a los clínicos que esperaban que la reducción de lipoproteína(a) se tradujera en menos eventos.",
+          "whyItMatters": "La lipoproteína(a) es un factor de riesgo hereditario conocido; este resultado destaca que las terapias que modifican un biomarcador de riesgo pueden aun así no mejorar los resultados clínicos, enfatizando la importancia de ensayos de desenlace antes de cambiar la práctica clínica.",
+          "takeaways": [
+            "Pelacarsen redujo su objetivo lipídico pero no disminuyó los eventos cardiovasculares mayores en el ensayo informado.",
+            "Un resultado negativo subraya que abordar un único biomarcador puede no ser suficiente para modificar el riesgo clínico.",
+            "Se necesitarán análisis adicionales para entender respuestas por subgrupos, factores del diseño del ensayo e implicaciones para futuras terapias dirigidas a Lp(a)."
+          ]
+        },
+        "ru": {
+          "title": "Пелакарсен не снизил число крупных сердечных событий в ключевом исследовании",
+          "summary": "Ожидаемое исследование пелакарсена — экспериментальной терапии, направленной на снижение липопротеина(a) у людей с наследственным риском сердечных заболеваний — не показало сокращения крупных сердечно‑сосудистых событий. Результат удивил клиницистов, которые надеялись, что снижение Lp(a) приведёт к уменьшению числа событий.",
+          "whyItMatters": "Липопротеин(a) — известный наследственный фактор риска; этот результат подчёркивает, что модификация биомаркера риска не обязательно приводит к улучшению клинических исходов, поэтому перед изменением практики важны исследования с клиническими исходами.",
+          "takeaways": [
+            "Пелакарсен снизил целевой липид, но не уменьшил число крупных сердечно‑сосудистых событий в отчётном исследовании.",
+            "Отрицательный результат показывает, что воздействие на один бизнесомаркер может быть недостаточным для снижения клинического риска.",
+            "Понадобятся дополнительные анализы, чтобы понять ответы в подгруппах, факторы дизайна исследования и последствия для будущих терапий, нацеленных на Lp(a)."
+          ]
+        },
+        "uk": {
+          "title": "Пелакарсен не знизив число серйозних серцевих подій у ключовому випробуванні",
+          "summary": "Очікуване випробування пелакарсену, експериментальної терапії, спрямованої на зниження рівнів ліпопротеїну(а) у людей з успадкованим ризиком серцевих хвороб, не показало зниження числа серйозних серцево‑судинних подій. Результат здивував клініцистів, які сподівалися, що зниження ліпопротеїну(а) призведе до зменшення подій.",
+          "whyItMatters": "Ліпопротеїн(а) є відомим спадковим фактором ризику; цей результат підкреслює, що терапії, що змінюють біомаркер ризику, можуть не поліпшувати клінічні результати, наголошуючи на важливості випробувань з кінцевими результатами перед зміною практики.",
+          "takeaways": [
+            "Пелакарсен знизив цільовий ліпід, але не зменшив серйозні серцево‑судинні події в повідомленому випробуванні.",
+            "Негативний результат підкреслює, що вплив на один біомаркер може бути недостатнім для зміни клінічного ризику.",
+            "Потрібен подальший аналіз, щоб зрозуміти реакції підгруп, особливості дизайну випробування та наслідки для майбутніх терапій, що націлені на Lp(a)."
+          ]
+        },
+        "fr": {
+          "title": "Le pelacarsen n’a pas réduit les événements cardiaques majeurs dans un essai clé",
+          "summary": "Un essai très attendu du pelacarsen, une thérapie expérimentale visant à abaisser le lipoprotéine(a) chez les personnes présentant un risque cardiaque héréditaire, n’a pas montré de réduction des événements cardiovasculaires majeurs. Le résultat a surpris des cliniciens qui espéraient qu’une baisse du lipoprotéine(a) se traduirait par une réduction des événements.",
+          "whyItMatters": "Le lipoprotéine(a) est un facteur de risque héréditaire connu ; ce résultat illustre que des thérapies modifiant un biomarqueur de risque peuvent néanmoins échouer à améliorer les résultats cliniques, soulignant l’importance d’essais d’issue avant de changer la pratique.",
+          "takeaways": [
+            "Le pelacarsen a abaissé sa cible lipidique mais n’a pas réduit les événements cardiovasculaires majeurs dans l’essai rapporté.",
+            "Un résultat négatif montre que s’attaquer à un seul biomarqueur peut ne pas suffire à modifier le risque clinique.",
+            "Des analyses supplémentaires seront nécessaires pour comprendre les réponses par sous‑groupes, les facteurs de conception de l’essai et les implications pour les futures thérapies ciblant Lp(a)."
+          ]
+        },
+        "de": {
+          "title": "Pelacarsen konnte in einer wichtigen Studie schwere Herzereignisse nicht reduzieren",
+          "summary": "Eine mit Spannung erwartete Studie zu Pelacarsen, einer experimentellen Therapie zur Senkung von Lipoprotein(a) bei Menschen mit vererbtem Herzrisiko, zeigte keine Reduktion schwerer kardiovaskulärer Ereignisse. Das Ergebnis überraschte Kliniker, die gehofft hatten, dass die Senkung von Lipoprotein(a) zu weniger Ereignissen führen würde.",
+          "whyItMatters": "Lipoprotein(a) ist ein bekannter vererbter Risikofaktor; das Studienergebnis unterstreicht, dass Therapien, die einen Risikomarker verändern, dennoch daran scheitern können, klinische Outcomes zu verbessern. Ergebnisstudien bleiben entscheidend, bevor sich die Praxis ändert.",
+          "takeaways": [
+            "Pelacarsen senkte den Ziel‑Lipidwert, konnte aber in der berichteten Studie schwere kardiovaskuläre Ereignisse nicht verringern.",
+            "Ein negatives Ergebnis verdeutlicht, dass die Beeinflussung eines einzelnen Biomarkers möglicherweise nicht ausreicht, um das klinische Risiko zu verändern.",
+            "Weitere Analysen sind nötig, um Subgruppenreaktionen, Studiendesign‑Faktoren und Konsequenzen für künftige Lp(a)‑gerichtete Therapien zu verstehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Pelacarsen não conseguiu reduzir eventos cardíacos maiores em ensaio importante",
+          "summary": "Um ensaio muito aguardado de pelacarsen, uma terapia experimental projetada para reduzir lipoproteína(a) em pessoas com risco cardíaco hereditário, não demonstrou redução em eventos cardiovasculares maiores. O resultado surpreendeu clínicos que esperavam que a redução da Lp(a) se traduzisse em menos eventos.",
+          "whyItMatters": "A lipoproteína(a) é um fator de risco hereditário conhecido; esse resultado destaca que terapias que modificam um biomarcador de risco podem ainda assim falhar em melhorar desfechos clínicos, enfatizando a importância de ensaios de desfecho antes de mudanças na prática.",
+          "takeaways": [
+            "Pelacarsen reduziu seu alvo lipídico, mas não diminuiu eventos cardiovasculares maiores no ensaio relatado.",
+            "Um desfecho negativo reforça que atacar um único biomarcador pode não ser suficiente para alterar o risco clínico.",
+            "Serão necessárias análises adicionais para entender respostas por subgrupos, fatores do desenho do ensaio e implicações para futuras terapias direcionadas à Lp(a)."
+          ]
+        },
+        "hu": {
+          "title": "A pelacarsen nem csökkentette a nagy szív‑események előfordulását egy fontos vizsgálatban",
+          "summary": "Egy nagy várakozással követett vizsgálat, amely a pelacarsen nevű kísérleti szerrel a lipoprotein(a) csökkentését célozta öröklődő szívkockázatú betegeknél, nem mutatott ki csökkenést a súlyos kardiovaszkuláris eseményekben. Az eredmény meglepte a klinikusokat, akik azt remélték, hogy a lipoprotein(a) csökkentése eseménycsökkenést eredményez.",
+          "whyItMatters": "A lipoprotein(a) ismert öröklött kockázati tényező; a kísérlet eredménye rámutat, hogy egy rizikómarkert módosító terápia még mindig megbukhat a klinikai eredmények javításában, és hangsúlyozza az eredményalapú vizsgálatok fontosságát a gyakorlat megváltoztatása előtt.",
+          "takeaways": [
+            "A pelacarsen csökkentette a célzott lipidet, de nem mérsékelte a főbb kardiovaszkuláris eseményeket a jelentett vizsgálatban.",
+            "A negatív eredmény hangsúlyozza, hogy egyetlen biomarker kezelése nem biztos, hogy elegendő a klinikai kockázat megváltoztatásához.",
+            "További elemzések szükségesek a alcsoportok reakcióinak, a vizsgálati tervezés tényezőinek és a jövőbeni Lp(a)-célozású terápiák következményeinek megértéséhez."
+          ]
+        },
+        "ar": {
+          "title": "بيلاكارسن فشل في تقليل الأحداث القلبية الكبرى في تجربة مهمة",
+          "summary": "لم تُظهر تجربة منتظرة بشدة للعلاج التجريبي بيلاكارسن، الذي يستهدف خفض شحوم البروتين (a) للأشخاص ذوي الخطر الوراثي القلبي، انخفاضًا في الأحداث القلبية الوعائية الكبرى. فاجأت نتيجة التجربة الأطباء الذين كانوا يأملون أن يؤدي خفض شحوم البروتين (a) إلى تقليل هذه الأحداث.",
+          "whyItMatters": "تُعد شحوم البروتين (a) عامل خطر وراثي معروفًا؛ تبرز نتيجة التجربة أن العلاجات التي تعدّل مؤشر خطر وحيدًا قد تفشل مع ذلك في تحسين النتائج السريرية، مما يؤكد أهمية تجارب النتائج قبل تغيير الممارسات.",
+          "takeaways": [
+            "بيلاكارسن خفّض الهدف الشحمي لكنه لم يقلل الأحداث القلبية الوعائية الكبرى في التجربة المذكورة.",
+            "النتيجة السلبية تؤكد أن معالجة مؤشر واحد قد لا تكون كافية لتغيير الخطر السريري.",
+            "ستحتاج التحليلات اللاحقة لفهم استجابات الفئات الفرعية وعوامل تصميم التجربة وتبعات العلاجات المستقبلية التي تستهدف Lp(a)."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-promising-drug-for-an-inherited-heart-risk-flops-stunning-docto-e0725049a485",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-promising-drug-for-an-inherited-heart-risk-flops-stunning-docto-e0725049a485-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-promising-drug-for-an-inherited-heart-risk-flops-stunning-docto-e0725049a485-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pelacarsen failed to reduce major heart events in a key trial.\nStory summary: A highly anticipated trial of pelacarsen, an experimental therapy aimed at lowering lipoprotein(a) for people with inherited heart risk, did not demonstrate a reduction in major cardiovascular events. The trial outcome surprised clinicians who had hoped lipoprotein(a) lowering would translate into event reduction..\nCategory: heart disease; lipid-lowering therapies.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "drinking-2-3-cups-of-coffee-a-day-linked-to-dramatically-lower-de-ca07920b9c23",
       "category": "Neuroscience / Nutrition",
@@ -325,6 +753,113 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Review examines how extracellular vesicles influence cancer and aging processes.\nStory summary: A recently published review (Oncoscience) summarizes current evidence on extracellular vesicles (small particles released by cells) and their roles across health, aging and cancer. The review collates mechanistic studies and emerging clinical observations linking vesicle-mediated signalling to cellular ageing and tumor biology..\nCategory: Cancer / Aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "can-obesity-drugs-protect-the-brain-9a41e07b8d83",
+      "category": "neuroscience; pharmacology",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/glp1-brain-health-neuropharmacology-32389/",
+      "sourceTitle": "Can Obesity Drugs Protect the Brain?",
+      "publishedAt": "Fri, 06 Nov 2026 19:48:16 +0000",
+      "languages": {
+        "en": {
+          "title": "Review assesses how GLP‑1 weight‑loss drugs might affect brain health",
+          "summary": "A review in Science by researchers at the Universities of Copenhagen and Gothenburg examines evidence on how GLP‑1 receptor agonists (widely used for weight loss) interact with cognitive pathways. The authors parse systemic metabolic benefits versus possible direct brain effects when considering claims about memory and neuroprotection.",
+          "whyItMatters": "With widespread use of GLP‑1 drugs, rigorous synthesis of mechanisms and evidence helps separate plausible neuroprotective actions from speculative claims. The piece is a review, not new clinical trial data, and highlights knowledge gaps.",
+          "takeaways": [
+            "The review differentiates systemic metabolic improvements from putative direct brain mechanisms for GLP‑1 effects.",
+            "Current evidence is mixed and more targeted research is needed to determine whether these drugs protect cognition independent of metabolic changes.",
+            "Readers should note that review conclusions summarize existing studies and do not establish new treatment recommendations."
+          ]
+        },
+        "es": {
+          "title": "Revisión evalúa cómo los fármacos para bajar de peso con GLP‑1 podrían afectar la salud cerebral",
+          "summary": "Una revisión publicada en Science por investigadores de las universidades de Copenhague y Gotemburgo examina la evidencia sobre cómo los agonistas del receptor GLP‑1 (ampliamente usados para la pérdida de peso) interactúan con vías cognitivas. Los autores distinguen los beneficios metabólicos sistémicos de los posibles efectos directos en el cerebro al considerar afirmaciones sobre memoria y neuroprotección.",
+          "whyItMatters": "Con el uso generalizado de fármacos GLP‑1, una síntesis rigurosa de mecanismos y evidencia ayuda a separar acciones neuroprotectoras plausibles de afirmaciones especulativas. El artículo es una revisión, no datos nuevos de ensayos clínicos, y destaca lagunas en el conocimiento.",
+          "takeaways": [
+            "La revisión diferencia mejoras metabólicas sistémicas de posibles mecanismos directos en el cerebro para los efectos de GLP‑1.",
+            "La evidencia actual es mixta y se necesita investigación más específica para determinar si estos fármacos protegen la cognición independientemente de los cambios metabólicos.",
+            "Los lectores deben notar que las conclusiones de la revisión resumen estudios existentes y no establecen nuevas recomendaciones de tratamiento."
+          ]
+        },
+        "ru": {
+          "title": "Обзор рассматривает, как препараты для похудения на основе GLP‑1 могут влиять на здоровье мозга",
+          "summary": "Обзор в Science, выполненный исследователями из Университетов Копенгагена и Гётеборга, анализирует данные о том, как агонисты рецептора GLP‑1 (широко применяемые для похудения) взаимодействуют с когнитивными путями. Авторы различают системные метаболические преимущества и возможные прямые эффекты в мозге при оценке утверждений о памяти и нейропротекции.",
+          "whyItMatters": "При широком применении препаратов GLP‑1 тщательный обзор механизмов и доказательств помогает отделить правдоподобные нейропротективные эффекты от спекулятивных заявлений. Это обзор, а не новые клинические данные, и он подчёркивает пробелы в знаниях.",
+          "takeaways": [
+            "Обзор проводит различие между системными метаболическими улучшениями и предполагаемыми прямыми мозговыми механизмами эффектов GLP‑1.",
+            "Текущие данные противоречивы; требуется целенаправленная исследовательская работа, чтобы установить, защищают ли эти препараты когнитивные функции независимо от метаболических изменений.",
+            "Выводы обзора суммируют существующие исследования и не устанавливают новых рекомендаций по лечению."
+          ]
+        },
+        "uk": {
+          "title": "Огляд оцінює, як препарати для схуднення на основі GLP‑1 можуть впливати на здоров’я мозку",
+          "summary": "Огляд у Science авторства дослідників з університетів Копенгагена та Гетеборга розбирає докази щодо того, як агонисти рецептора GLP‑1 (широко застосовувані для зниження ваги) взаємодіють із когнітивними шляхами. Автори відрізняють системні метаболічні вигоди від можливих прямих ефектів у мозку при розгляді тверджень про пам’ять і нейропротекцію.",
+          "whyItMatters": "За поширеного використання препаратів на основі GLP‑1 ретельний синтез механізмів і доказів допомагає відокремити правдоподібні нейропротекторні дії від спекулятивних заяв. Це огляд літератури, а не нові клінічні дані, і він підкреслює прогалини у знаннях.",
+          "takeaways": [
+            "Огляд розрізняє системні метаболічні покращення і припустимі прямі мозкові механізми дії GLP‑1.",
+            "Нинішні докази неоднозначні, необхідні більш цілеспрямовані дослідження, щоб визначити, чи захищають ці препарати когнітивні функції незалежно від метаболічних змін.",
+            "Читачам варто зауважити, що висновки огляду підсумовують наявні дослідження і не встановлюють нових рекомендацій щодо лікування."
+          ]
+        },
+        "fr": {
+          "title": "Revue évaluant comment les médicaments amaigrissants à base de GLP‑1 pourraient affecter la santé cérébrale",
+          "summary": "Une revue publiée dans Science par des chercheurs des universités de Copenhague et de Göteborg examine les preuves sur la façon dont les agonistes du récepteur GLP‑1 (largement utilisés pour la perte de poids) interagissent avec les voies cognitives. Les auteurs distinguent les bénéfices métaboliques systémiques des éventuels effets directs sur le cerveau lorsqu’ils examinent les affirmations concernant la mémoire et la neuroprotection.",
+          "whyItMatters": "Avec l’utilisation répandue des médicaments GLP‑1, une synthèse rigoureuse des mécanismes et des preuves aide à séparer les actions neuroprotectrices plausibles des affirmations spéculatives. L’article est une revue, pas de nouvelles données d’essais cliniques, et il met en évidence des lacunes de connaissances.",
+          "takeaways": [
+            "La revue différencie les améliorations métaboliques systémiques des mécanismes cérébraux putatifs des GLP‑1.",
+            "Les preuves actuelles sont mitigées et des recherches ciblées sont nécessaires pour déterminer si ces médicaments protègent la cognition indépendamment des changements métaboliques.",
+            "Les conclusions de la revue résument les études existantes et n’établissent pas de nouvelles recommandations thérapeutiques."
+          ]
+        },
+        "de": {
+          "title": "Review untersucht, wie GLP‑1‑Abnehmmittel das Gehirn beeinflussen könnten",
+          "summary": "Ein Review in Science von Forschern der Universitäten Kopenhagen und Göteborg prüft Evidenz dazu, wie GLP‑1‑Rezeptoragonisten (häufig zur Gewichtsreduktion eingesetzt) mit kognitiven Pfaden interagieren. Die Autorinnen und Autoren unterscheiden systemische metabolische Vorteile von möglichen direkten Effekten im Gehirn beim Abwägen von Aussagen über Gedächtnis und Neuroprotektion.",
+          "whyItMatters": "Bei der breiten Anwendung von GLP‑1‑Medikamenten hilft eine rigorose Zusammenfassung von Mechanismen und Evidenz, plausible neuroprotektive Effekte von spekulativen Behauptungen zu trennen. Der Beitrag ist ein Review, keine neue klinische Studie, und hebt Wissenslücken hervor.",
+          "takeaways": [
+            "Das Review trennt systemische metabolische Verbesserungen von möglichen direkten Gehirnmechanismen für GLP‑1‑Effekte.",
+            "Die aktuelle Evidenz ist uneinheitlich; gezielte Forschung ist nötig, um zu klären, ob diese Medikamente die Kognition unabhängig von Stoffwechselveränderungen schützen.",
+            "Leser sollten beachten, dass Review‑Schlussfolgerungen vorhandene Studien zusammenfassen und keine neuen Behandlungs­empfehlungen begründen."
+          ]
+        },
+        "pt-br": {
+          "title": "Revisão avalia como medicamentos com GLP‑1 para perda de peso podem afetar a saúde cerebral",
+          "summary": "Uma revisão publicada na Science por pesquisadores das universidades de Copenhague e Gotemburgo examina evidências sobre como agonistas do receptor GLP‑1 (amplamente usados para perda de peso) interagem com vias cognitivas. Os autores distinguem benefícios metabólicos sistêmicos de possíveis efeitos diretos no cérebro ao avaliar alegações sobre memória e neuroproteção.",
+          "whyItMatters": "Com o uso disseminado de medicamentos com GLP‑1, uma síntese rigorosa de mecanismos e evidências ajuda a separar ações neuroprotetoras plausíveis de afirmações especulativas. O texto é uma revisão, não um novo ensaio clínico, e destaca lacunas de conhecimento.",
+          "takeaways": [
+            "A revisão diferencia melhorias metabólicas sistêmicas de mecanismos cerebrais diretos supostos para os efeitos do GLP‑1.",
+            "Evidências atuais são mistas; pesquisas mais direcionadas são necessárias para determinar se esses medicamentos protegem a cognição independentemente de mudanças metabólicas.",
+            "Leitores devem notar que as conclusões da revisão resumem estudos existentes e não estabelecem novas recomendações de tratamento."
+          ]
+        },
+        "hu": {
+          "title": "Összefoglaló: hogyan befolyásolhatják az GLP‑1 fogyókúrás gyógyszerek az agy egészségét",
+          "summary": "A Koppenhága és Göteborgi Egyetem kutatói által írt Science‑beli áttekintés azt vizsgálja, hogyan hatnak a GLP‑1 receptor agonisták (amelyeket széles körben használnak fogyáshoz) a kognitív útvonalakra. A szerzők különválasztják a szisztémás metabolikus előnyöket a lehetséges közvetlen agyi hatásoktól, amikor az emlékezettel és neuroprotekcióval kapcsolatos állításokat mérlegelik.",
+          "whyItMatters": "A GLP‑1 gyógyszerek széles körű használata mellett a mechanizmusok és a bizonyítékok szigorú összegzése segít elkülöníteni a lehetséges neuroprotektív hatásokat a spekulatív állításoktól. A cikk áttekintés, nem új klinikai vizsgálati adat, és hangsúlyozza a tudásbeli hiányosságokat.",
+          "takeaways": [
+            "Az áttekintés megkülönbözteti a szisztémás metabolikus javulásokat a GLP‑1‑hez kötött feltételezett közvetlen agyi mechanizmusoktól.",
+            "A rendelkezésre álló bizonyítékok vegyesek, és célzottabb kutatások szükségesek annak megállapítására, hogy ezek a gyógyszerek védenek‑e a kognitív hanyatlástól a metabolikus változásoktól függetlenül.",
+            "Az olvasóknak szem előtt kell tartaniuk, hogy az áttekintés a meglévő tanulmányokat foglalja össze, és nem állít fel új kezelési javaslatokat."
+          ]
+        },
+        "ar": {
+          "title": "مراجعة تقوّم كيف قد تؤثر أدوية خسارة الوزن المعتمدة على GLP‑1 على صحة الدماغ",
+          "summary": "تستعرض مراجعة في مجلة Science قام بها باحثون من جامعات كوبنهاغن وغوتنبرغ الأدلة حول كيفية تفاعل ناهضات مستقبلات GLP‑1 (المستخدمة على نطاق واسع لفقدان الوزن) مع المسارات المعرفية. يفرّق المؤلفون بين الفوائد الأيضية الجهازية والآثار الدماغية المباشرة المفترضة عند مناقشة الادعاءات المتعلقة بالذاكرة والحماية العصبية.",
+          "whyItMatters": "مع الاستخدام الواسع لأدوية GLP‑1، تساعد المراجعات الدقيقة للآليات والأدلة على تمييز الأفعال العصبية الواقعية عن الادعاءات الافتراضية. المقال مراجعة وليس بيانات تجربة سريرية جديدة، ويُبرز الفجوات المعرفية.",
+          "takeaways": [
+            "تفصل المراجعة بين التحسّن الأيضي النظامي والآليات الدماغية المباشرة المحتملة لتأثيرات GLP‑1.",
+            "الأدلة الحالية متباينة، وهناك حاجة لأبحاث مركّزة لتحديد ما إذا كانت هذه الأدوية تحمي الإدراك بشكل مستقل عن التغيرات الأيضية.",
+            "يجب أن يدرك القراء أن استنتاجات المراجعة تلخّص دراسات سابقة ولا تؤسس لتوصيات علاجية جديدة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=can-obesity-drugs-protect-the-brain-9a41e07b8d83",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-obesity-drugs-protect-the-brain-9a41e07b8d83-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-obesity-drugs-protect-the-brain-9a41e07b8d83-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Review assesses how GLP‑1 weight‑loss drugs might affect brain health.\nStory summary: A review in Science by researchers at the Universities of Copenhagen and Gothenburg examines evidence on how GLP‑1 receptor agonists (widely used for weight loss) interact with cognitive pathways. The authors parse systemic metabolic benefits versus possible direct brain effects when considering claims about memory and neuroprotection..\nCategory: neuroscience; pharmacology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "superager-ai-connectome-predicts-alzheimer-s-years-early-bf583cdfd087",
       "category": "Neuroscience / AI",
       "sourceName": "neurosciencenews.com",
@@ -430,6 +965,220 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Machine learning connectome links SuperAger brain patterns with Alzheimer’s vulnerability.\nStory summary: The ARC machine-learning framework maps functional brain connectivity that distinguishes SuperAger resilience patterns from connectivity associated with Alzheimer’s vulnerability, and reportedly predicts Alzheimer’s years before clinical diagnosis..\nCategory: Neuroscience / AI.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "breast-milk-fatty-acids-linked-to-infant-motor-development-38fefc05a861",
+      "category": "nutrition; early development",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-breast-fatty-acids-linked-infant.html",
+      "sourceTitle": "Breast milk fatty acids linked to infant motor development",
+      "publishedAt": "Fri, 06 Nov 2026 11:40:27 EST",
+      "languages": {
+        "en": {
+          "title": "Association found between odd‑ and branched‑chain fatty acids in breast milk and infant motor development",
+          "summary": "A population‑based study reports an association between levels of certain odd‑ and branched‑chain fatty acids (OBCFAs) in breast milk and measures of infant motor development. The work adds observational evidence to early‑life nutrition research but does not establish causation.",
+          "whyItMatters": "Understanding breast milk composition and links to neurodevelopment can guide future nutritional research, but observational associations cannot prove that OBCFAs cause developmental differences; intervention studies would be needed to test causality.",
+          "takeaways": [
+            "Higher OBCFA levels in breast milk were associated with measures of better infant motor development in this population study.",
+            "The finding is correlational — confounding factors and reverse causation cannot be excluded.",
+            "Further research, including intervention or mechanistic studies, is required before drawing conclusions about dietary recommendations."
+          ]
+        },
+        "es": {
+          "title": "Asociación encontrada entre ácidos grasos impares y ramificados en la leche materna y el desarrollo motor infantil",
+          "summary": "Un estudio poblacional informa una asociación entre los niveles de ciertos ácidos grasos impares y ramificados (OBCFA) en la leche materna y medidas del desarrollo motor infantil. El trabajo aporta evidencia observacional a la investigación nutricional de la primera infancia, pero no establece causalidad.",
+          "whyItMatters": "Comprender la composición de la leche materna y sus vínculos con el desarrollo neurológico puede orientar futuras investigaciones nutricionales, pero las asociaciones observacionales no prueban que los OBCFA causen diferencias en el desarrollo; serían necesarios estudios de intervención para probar causalidad.",
+          "takeaways": [
+            "Niveles más altos de OBCFA en la leche materna se asociaron con medidas de mejor desarrollo motor infantil en este estudio poblacional.",
+            "El hallazgo es correlacional: no se puede descartar la influencia de factores de confusión ni la causalidad inversa.",
+            "Se requieren más investigaciones, incluidas estudios de intervención o mecanísticos, antes de sacar conclusiones sobre recomendaciones dietéticas."
+          ]
+        },
+        "ru": {
+          "title": "Найдена связь между нечетными и разветвлёнными жирными кислотами в грудном молоке и моторным развитием младенцев",
+          "summary": "Популяционное исследование сообщает о связи между уровнями некоторых нечетных и разветвлённых жирных кислот (OBCFA) в грудном молоке и показателями моторного развития младенцев. Работа добавляет наблюдательные данные в область питания раннего детства, но не устанавливает причинно‑следственной связи.",
+          "whyItMatters": "Понимание состава грудного молока и его связи с нейроразвитием может направить будущие исследования в области питания, однако наблюдательные ассоциации не доказывают, что OBCFA вызывают различия в развитии; для проверки причинности потребуются интервенционные исследования.",
+          "takeaways": [
+            "В этом популяционном исследовании более высокие уровни OBCFA в грудном молоке ассоциировались с лучшими показателями моторного развития у младенцев.",
+            "Нахождение является корреляционным: нельзя исключить влияние смешивающих факторов или обратной причинности.",
+            "Требуются дополнительные исследования, включая интервенционные и механистические, прежде чем делать выводы для диетических рекомендаций."
+          ]
+        },
+        "uk": {
+          "title": "Знайдена асоціація між непарними і розгалуженими жирними кислотами у грудному молоці та моторним розвитком немовлят",
+          "summary": "Популяційне дослідження повідомляє про асоціацію між рівнями певних непарних і розгалужених жирних кислот (OBCFA) у грудному молоці та показниками моторного розвитку немовлят. Робота додає спостережувальні докази до досліджень харчування раннього віку, але не встановлює причинно‑наслідкового зв’язку.",
+          "whyItMatters": "Розуміння складу грудного молока та зв’язків з нейророзвитком може спрямувати майбутні дослідження харчування, але спостережувальні асоціації не доводять, що OBCFA викликають різницю в розвитку; для перевірки причинності потрібні інтервенційні дослідження.",
+          "takeaways": [
+            "Вищі рівні OBCFA у грудному молоці були пов’язані з кращими показниками моторного розвитку немовлят у цьому популяційному дослідженні.",
+            "Це кореляційний результат — не можна виключити вплив змішуючих факторів або зворотну причинність.",
+            "Потрібні подальші дослідження, включно з інтервенційними або механістичними роботами, перш ніж робити висновки щодо харчових рекомендацій."
+          ]
+        },
+        "fr": {
+          "title": "Association observée entre des acides gras impairs et à chaîne ramifiée dans le lait maternel et le développement moteur des nourrissons",
+          "summary": "Une étude de population rapporte une association entre les niveaux de certains acides gras impairs et à chaîne ramifiée (OBCFA) dans le lait maternel et des mesures du développement moteur des nourrissons. Le travail apporte des preuves observationnelles à la recherche sur la nutrition du jeune âge, mais n’établit pas de causalité.",
+          "whyItMatters": "Comprendre la composition du lait maternel et ses liens avec le neurodéveloppement peut orienter de futures recherches nutritionnelles, mais les associations observationnelles ne prouvent pas que les OBCFA causent des différences de développement ; des études d’intervention seraient nécessaires pour tester la causalité.",
+          "takeaways": [
+            "Des niveaux plus élevés d’OBCFA dans le lait maternel étaient associés à de meilleurs indicateurs du développement moteur des nourrissons dans cette étude de population.",
+            "La conclusion est corrélationnelle : des facteurs de confusion et la causalité inversée ne peuvent être exclus.",
+            "Davantage de recherches, y compris des études d’intervention ou mécanistiques, sont requises avant de tirer des conclusions pour les recommandations alimentaires."
+          ]
+        },
+        "de": {
+          "title": "Zusammenhang zwischen ungeraden/ verzweigtkettigen Fettsäuren in Muttermilch und motorischer Entwicklung von Säuglingen gefunden",
+          "summary": "Eine bevölkerungsbasierte Studie berichtet über einen Zusammenhang zwischen Gehalten bestimmter odd‑ und branched‑chain‑Fettsäuren (OBCFAs) in Muttermilch und Messungen der motorischen Entwicklung von Säuglingen. Die Arbeit liefert beobachtende Evidenz zur frühkindlichen Ernährung, stellt aber keine Kausalität fest.",
+          "whyItMatters": "Das Verständnis der Zusammensetzung von Muttermilch und ihrer Verknüpfung zur Neuroentwicklung kann zukünftige Ernährungsforschung leiten. Beobachtende Assoziationen können jedoch nicht beweisen, dass OBCFAs Entwicklungsunterschiede verursachen; Interventionsstudien wären nötig, um Kausalität zu prüfen.",
+          "takeaways": [
+            "Höhere OBCFA‑Werte in Muttermilch waren in dieser Populationsstudie mit besseren Maßen der motorischen Entwicklung bei Säuglingen assoziiert.",
+            "Der Befund ist korrelativ — Störfaktoren und umgekehrte Kausalität können nicht ausgeschlossen werden.",
+            "Weitere Forschung, einschließlich Interventions‑ oder Mechanismusstudien, ist erforderlich, bevor Schlüsse für Ernährungsempfehlungen gezogen werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Associação encontrada entre ácidos graxos ímpares e ramificados no leite materno e desenvolvimento motor infantil",
+          "summary": "Um estudo populacional relata uma associação entre níveis de certos ácidos graxos de cadeia ímpar e ramificada (OBCFAs) no leite materno e medidas do desenvolvimento motor em lactentes. O trabalho acrescenta evidência observacional à pesquisa sobre nutrição na primeira infância, mas não estabelece causalidade.",
+          "whyItMatters": "Entender a composição do leite materno e suas ligações com o neurodesenvolvimento pode orientar pesquisas nutricionais futuras, mas associações observacionais não provam que OBCFAs causem diferenças no desenvolvimento; estudos de intervenção seriam necessários para testar causalidade.",
+          "takeaways": [
+            "Níveis mais altos de OBCFAs no leite materno foram associados a medidas de melhor desenvolvimento motor em lactentes nesta população.",
+            "A descoberta é correlacional — fatores de confusão e causalidade reversa não podem ser excluídos.",
+            "Mais pesquisas, incluindo estudos de intervenção ou mecanísticos, são necessárias antes de tirar conclusões sobre recomendações dietéticas."
+          ]
+        },
+        "hu": {
+          "title": "Összefüggés találtak az anya tejének páratlan és elágazó láncú zsírsavai és az csecsemők motoros fejlődése között",
+          "summary": "Egy populációs vizsgálat összefüggést jelentett bizonyos páratlan és elágazó láncú zsírsavak (OBCFA-k) szintje és a csecsemők motoros fejlődésének mérései között az anyatejben. A munka megfigyelési bizonyítékot szolgáltat a korai élet táplálkozási kutatásához, de nem állít fel oksági kapcsolatot.",
+          "whyItMatters": "Az anyatej összetételének és a neurofejlődéshez fűződő kapcsolatok megismerése irányt adhat a jövőbeli táplálkozási kutatásoknak, de a megfigyelési összefüggések nem bizonyítják, hogy az OBCFA-k okozzák a fejlődési különbségeket; okság vizsgálatához intervenciós vizsgálatok szükségesek.",
+          "takeaways": [
+            "A vizsgálatban magasabb OBCFA‑szintek az anyatejben összefüggtek jobb csecsemői motoros fejlődési mérésekkel.",
+            "Az eredmény korrelációs jellegű — zavaró tényezők és fordított okság nem zárhatók ki.",
+            "További kutatások, beleértve intervenciós vagy mechanisztikus vizsgálatokat, szükségesek mielőtt táplálkozási ajánlások vonhatók le."
+          ]
+        },
+        "ar": {
+          "title": "عثور علاقة بين أحماض دهنية فردية ومتفرعة السلسلة في حليب الأم وتطور المهارات الحركية للرضيع",
+          "summary": "تبلغ دراسة سكانية عن ارتباط بين مستويات بعض الأحماض الدهنية الفردية والمتفرعة السلسلة (OBCFA) في حليب الثدي وقياسات تطور المهارات الحركية لدى الرضع. تضيف الدراسة أدلة ملاحظة إلى أبحاث التغذية في مراحل الحياة المبكرة لكنها لا تثبت السببية.",
+          "whyItMatters": "فهم تركيب حليب الأم وصلته بالنمو العصبي قد يوجّه أبحاثًا تغذوية مستقبلية، لكن الارتباطات الرصدية لا تثبت أن OBCFA تسبب فروقًا في النمو؛ لاختبار السببية ستكون هناك حاجة إلى دراسات تدخلية.",
+          "takeaways": [
+            "في هذه الدراسة السكانية، ارتبطت مستويات أعلى من OBCFA في حليب الأم بقياسات أفضل لتطور المهارات الحركية لدى الرضع.",
+            "النتيجة ارتباطية — ولا يمكن استبعاد العوامل المربكة أو السببية العكسية.",
+            "مزيد من البحث، بما في ذلك دراسات تدخلية أو ميكانيكية، مطلوب قبل استخلاص استنتاجات حول التوصيات الغذائية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=breast-milk-fatty-acids-linked-to-infant-motor-development-38fefc05a861",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/breast-milk-fatty-acids-linked-to-infant-motor-development-38fefc05a861-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/breast-milk-fatty-acids-linked-to-infant-motor-development-38fefc05a861-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Association found between odd‑ and branched‑chain fatty acids in breast milk and infant motor development.\nStory summary: A population‑based study reports an association between levels of certain odd‑ and branched‑chain fatty acids (OBCFAs) in breast milk and measures of infant motor development. The work adds observational evidence to early‑life nutrition research but does not establish causation..\nCategory: nutrition; early development.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "digital-program-boosts-positive-experiences-for-chinese-american--846a844c9da1",
+      "category": "dementia care; interventions",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261106/Digital-program-boosts-positive-experiences-for-Chinese-American-dementia-caregivers.aspx",
+      "sourceTitle": "Digital program boosts positive experiences for Chinese-American dementia caregivers",
+      "publishedAt": "Fri, 06 Nov 2026 11:08:37 -0500",
+      "languages": {
+        "en": {
+          "title": "Seven‑week digital support program improved caregivers' sense of control and positivity",
+          "summary": "Researchers at George Mason University report that Chinese‑American family caregivers of people with dementia who completed a seven‑week digital support program reported greater perceived control, competence and more positive views of caregiving than before the program.",
+          "whyItMatters": "Digital interventions can expand access to culturally tailored caregiver support, which may improve caregiver well‑being and potentially care quality. The report describes outcomes from a specific program and population; broader effectiveness and long‑term impacts require further study.",
+          "takeaways": [
+            "Participants reported improvements in caregiving confidence and more positive perceptions after the seven‑week program.",
+            "Study findings apply to the program and population studied; replication and longer follow‑up are needed to confirm benefits.",
+            "Digital, culturally tailored support could be a scalable option to supplement existing caregiver services, pending further research."
+          ]
+        },
+        "es": {
+          "title": "Programa digital de siete semanas mejoró la sensación de control y positividad de cuidadores",
+          "summary": "Investigadores de George Mason University informan que cuidadores familiares chinoamericanos de personas con demencia que completaron un programa de apoyo digital de siete semanas comunicaron una mayor percepción de control, mayor competencia y una visión más positiva del cuidado que antes del programa.",
+          "whyItMatters": "Las intervenciones digitales pueden ampliar el acceso a apoyo culturalmente adaptado para cuidadores, lo que podría mejorar el bienestar del cuidador y, potencialmente, la calidad del cuidado. El informe describe resultados de un programa y población específicos; la efectividad general y los impactos a largo plazo requieren más estudio.",
+          "takeaways": [
+            "Los participantes informaron mejoras en la confianza para cuidar y percepciones más positivas tras el programa de siete semanas.",
+            "Los hallazgos se aplican al programa y la población estudiados; se necesita replicación y seguimiento a más largo plazo para confirmar los beneficios.",
+            "El apoyo digital adaptado culturalmente podría ser una opción escalable para complementar servicios a cuidadores, pendiente de más investigación."
+          ]
+        },
+        "ru": {
+          "title": "Семинедельная цифровая программа повысила чувство контроля и позитивное восприятие у ухаживающих",
+          "summary": "Исследователи из George Mason University сообщают, что семейные ухаживающие китайско‑американского происхождения, ухаживавшие за людьми с деменцией и прошедшие семинедельную цифровую программу поддержки, сообщили о большем ощущении контроля, повышении компетентности и более позитивном отношении к уходу по сравнению с до‑программным состоянием.",
+          "whyItMatters": "Цифровые интервенции могут расширить доступ к культурно адаптированной поддержке ухаживающих, что может улучшить их благополучие и потенциально качество ухода. Отчёт описывает результаты для конкретной программы и популяции; для оценки широкой эффективности и долгосрочных эффектов нужны дальнейшие исследования.",
+          "takeaways": [
+            "Участники сообщили об улучшении уверенности в уходе и более позитивном восприятии после семинедельной программы.",
+            "Результаты относятся к исследуемой программе и популяции; требуется воспроизведение и более длительное наблюдение для подтверждения выгод.",
+            "Цифровая поддержка с учётом культурных особенностей может быть масштабируемым дополнением к существующим услугам для ухаживающих, при условии дальнейших исследований."
+          ]
+        },
+        "uk": {
+          "title": "Семитижнева цифрова програма підвищила відчуття контролю та позитиву у доглядачів китайсько‑американських пацієнтів з деменцією",
+          "summary": "Дослідники з Університету Джорджа Мейсона повідомляють, що китайсько‑американські сімейні доглядачі людей з деменцією, які пройшли семитижневу цифрову програму підтримки, повідомили про підвищене відчуття контролю, компетентності та більш позитивне ставлення до догляду порівняно з доведенням до участі.",
+          "whyItMatters": "Цифрові інтервенції можуть розширити доступ до культурно орієнтованої підтримки доглядачів, що може покращити їхнє самопочуття та потенційно якість догляду. Звіт описує результати конкретної програми та популяції; ширша ефективність і довгострокові наслідки потребують додаткового вивчення.",
+          "takeaways": [
+            "Учасники повідомили про покращення впевненості у догляді та більш позитивне ставлення після семитижневої програми.",
+            "Результати стосуються конкретної програми і вивченої популяції; потрібне відтворення та довше спостереження для підтвердження вигод.",
+            "Цифрова, культурно адаптована підтримка може бути масштабованим варіантом для доповнення наявних послуг для доглядачів за умови подальших досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Un programme numérique de sept semaines a amélioré le sentiment de contrôle et la positivité chez des aidants sino‑américains de personnes atteintes de démence",
+          "summary": "Des chercheurs de George Mason University rapportent que des proches aidants sino‑américains de personnes atteintes de démence ayant suivi un programme numérique de soutien de sept semaines ont déclaré un plus grand sentiment de contrôle, de compétence et une vision plus positive du rôle d’aidant qu’avant la participation.",
+          "whyItMatters": "Les interventions numériques peuvent élargir l’accès à un soutien culturellement adapté aux aidants, ce qui peut améliorer leur bien‑être et potentiellement la qualité des soins. Le rapport décrit les résultats d’un programme et d’une population spécifiques ; l’efficacité à plus large échelle et les impacts à long terme nécessitent des études complémentaires.",
+          "takeaways": [
+            "Les participants ont rapporté une amélioration de la confiance dans leur rôle d’aidant et une perception plus positive après le programme de sept semaines.",
+            "Les conclusions s’appliquent au programme et à la population étudiés ; il faut des réplications et un suivi prolongé pour confirmer les bénéfices.",
+            "Le soutien numérique et culturellement adapté pourrait être une option évolutive pour compléter les services aux aidants, sous réserve de recherches supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Siebenwöchiges digitales Programm verbesserte Gefühl von Kontrolle und Positivität bei Pflegepersonen",
+          "summary": "Forscher der George Mason University berichten, dass chinesisch‑amerikanische Familienpflegepersonen von Menschen mit Demenz, die ein siebenwöchiges digitales Unterstützungsprogramm abschlossen, ein gesteigertes wahrgenommenes Kontrollgefühl, mehr Kompetenz und positivere Ansichten zur Pflege angaben als vor dem Programm.",
+          "whyItMatters": "Digitale Interventionen können den Zugang zu kulturell angepasster Angehörigenunterstützung erweitern und so das Wohlbefinden von Pflegepersonen und möglicherweise die Versorgungsqualität verbessern. Der Bericht beschreibt Ergebnisse für ein spezifisches Programm und eine Population; breitere Wirksamkeit und Langzeiteffekte erfordern weitere Studien.",
+          "takeaways": [
+            "Teilnehmende berichteten nach dem siebenwöchigen Programm über Verbesserungen im Selbstvertrauen bei der Pflege und positivere Wahrnehmungen.",
+            "Die Studienergebnisse gelten für das untersuchte Programm und die untersuchte Population; Replikation und längere Nachverfolgung sind nötig, um Vorteile zu bestätigen.",
+            "Digitale, kulturell angepasste Unterstützung könnte eine skalierbare Ergänzung zu bestehenden Pflegediensten sein, vorbehaltlich weiterer Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Programa digital de sete semanas melhorou sensação de controle e positividade em cuidadores",
+          "summary": "Pesquisadores da George Mason University relatam que cuidadores familiares sino‑americanos de pessoas com demência que completaram um programa digital de apoio de sete semanas relataram maior percepção de controle, mais competência e visões mais positivas sobre o papel de cuidador do que antes do programa.",
+          "whyItMatters": "Intervenções digitais podem ampliar o acesso a apoio culturalmente adaptado para cuidadores, o que pode melhorar o bem‑estar do cuidador e potencialmente a qualidade do cuidado. O relato descreve resultados de um programa e população específicos; eficácia mais ampla e impactos a longo prazo exigem mais estudo.",
+          "takeaways": [
+            "Participantes relataram melhorias na confiança para cuidar e percepções mais positivas após o programa de sete semanas.",
+            "Os achados aplicam‑se ao programa e à população estudados; replicação e acompanhamento mais longo são necessários para confirmar os benefícios.",
+            "Suporte digital e culturalmente adaptado pode ser uma opção escalável para complementar serviços a cuidadores, dependendo de pesquisas adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Heti hét program: digitális támogatás növelte a kínai‑amerikai demenciaápolók kontrollérzetét és pozitivitását",
+          "summary": "A George Mason Egyetem kutatói arról számolnak be, hogy kínai‑amerikai családi gondozók, akik egy hétig tartó (héthetes) digitális támogató programot teljesítettek demenciás gondozottak mellett, nagyobb önkéntes kontrollérzetet, kompetenciát és pozitívabb gondozói hozzáállást jeleztek a program előtti állapothoz képest.",
+          "whyItMatters": "A digitális beavatkozások kiterjeszthetik a kulturálisan testreszabott gondozói támogatást, ami javíthatja a gondozók jólétét és potenciálisan a gondozás minőségét. A beszámoló egy konkrét program és populáció eredményeit írja le; a szélesebb hatékonyságot és a hosszú távú hatásokat további vizsgálatokkal kell megerősíteni.",
+          "takeaways": [
+            "A résztvevők arról számoltak be, hogy a héthetes program után javult a gondozói magabiztosságuk és pozitívabb lett a hozzáállásuk.",
+            "A vizsgálat eredményei az adott programra és vizsgált populációra vonatkoznak; az előnyök megerősítéséhez ismétlés és hosszabb követés szükséges.",
+            "A kulturálisan testreszabott digitális támogatás skálázható kiegészítő lehet a meglévő gondozói szolgáltatásokhoz, további kutatásig."
+          ]
+        },
+        "ar": {
+          "title": "برنامج رقمي لمدة سبعة أسابيع عزّز شعور الرعاة الصينيين‑الأمريكيين بالتحكم والإيجابية",
+          "summary": "يُبلغ باحثو جامعة جورج ميسون أن رعاة عائليين صينيين‑أمريكيين لأشخاص مصابين بالخرف الذين أتمّوا برنامج دعم رقمي لمدة سبعة أسابيع أبلغوا عن شعور أكبر بالتحكم والكفاءة ونظرة أكثر إيجابية تجاه دورهم كمقدِّمي رعاية مقارنةً بما كانوا عليه قبل البرنامج.",
+          "whyItMatters": "يمكن للتدخلات الرقمية توسيع إمكانية الوصول إلى دعم مخصّص ثقافيًا لمقدّمي الرعاية، مما قد يحسّن رفاهية المرافقين وربما جودة الرعاية. التقرير يصف نتائج برنامج وسكان محددين؛ يتطلب تأكيد الفعالية العامة والتأثيرات طويلة الأمد مزيدًا من الدراسة.",
+          "takeaways": [
+            "أبلغ المشاركون عن تحسّن في الثقة والرؤية الإيجابية تجاه الرعاية بعد إكمال البرنامج الذي استمر سبعة أسابيع.",
+            "تنطبق نتائج الدراسة على البرنامج والسكان الذين دُرِسوا؛ وتحتاج النتائج إلى تكرار ومتابعة طويلة لتأكيد الفوائد.",
+            "قد يكون الدعم الرقمي المخصّص ثقافيًا خيارًا قابلاً للتوسيع لاستكمال خدمات مقدّمي الرعاية القائمة، مع الحاجة للمزيد من البحث."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=digital-program-boosts-positive-experiences-for-chinese-american--846a844c9da1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/digital-program-boosts-positive-experiences-for-chinese-american-846a844c9da1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/digital-program-boosts-positive-experiences-for-chinese-american-846a844c9da1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Seven‑week digital support program improved caregivers' sense of control and positivity.\nStory summary: Researchers at George Mason University report that Chinese‑American family caregivers of people with dementia who completed a seven‑week digital support program reported greater perceived control, competence and more positive views of caregiving than before the program..\nCategory: dementia care; interventions.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "longevity-supplement-improved-blood-vessels-in-a-human-trial-0236eb376c9c",
@@ -662,6 +1411,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Athletic trainer outlines signs that youth sports may be too intense.\nStory summary: An athletic trainer writes that pushing training intensity for children can be counterproductive, and that prioritizing fun and letting children guide participation may be more beneficial..\nCategory: sport and health / youth.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "what-the-measles-vaccine-s-97-effective-rating-means-for-pittsbur-f978bc6c21b8",
+      "category": "infectious disease; public health",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/what-the-measles-vaccines-97-effective-rating-means-for-pittsburgh-parents-295297",
+      "sourceTitle": "What the measles vaccine’s ‘97% effective’ rating means for Pittsburgh parents",
+      "publishedAt": "2026-11-06T13:13:08Z",
+      "languages": {
+        "en": {
+          "title": "Explainer: what '97% effective' measles vaccine efficacy means for parents",
+          "summary": "An epidemiologist explains how measles vaccine efficacy percentages are measured and what they mean for families, discussing why high effectiveness still requires strong vaccination coverage to prevent outbreaks and how local factors influence risk.",
+          "whyItMatters": "Clear explanations of vaccine effectiveness help parents interpret risk and the continued importance of high vaccination rates for community protection; the piece is an expert explainer rather than primary research.",
+          "takeaways": [
+            "A 97% efficacy rating reflects reduced risk among vaccinated individuals in trial or observational contexts, but population protection depends on coverage.",
+            "High vaccine efficacy does not eliminate outbreak risk if local vaccination rates fall below herd immunity thresholds.",
+            "Parents should consider both individual protection and community vaccination levels when assessing risk; this explainer does not replace professional medical guidance."
+          ]
+        },
+        "es": {
+          "title": "Explicador: qué significa para los padres que la vacuna contra el sarampión sea '97% eficaz'",
+          "summary": "Un epidemiólogo explica cómo se miden los porcentajes de eficacia de la vacuna contra el sarampión y lo que significan para las familias, discutiendo por qué una alta eficacia aún requiere una cobertura de vacunación sólida para prevenir brotes y cómo factores locales influyen en el riesgo.",
+          "whyItMatters": "Explicaciones claras sobre la eficacia de las vacunas ayudan a los padres a interpretar el riesgo y a entender la importancia continua de altas tasas de vacunación para la protección comunitaria; el artículo es un explicador por un experto y no un estudio primario.",
+          "takeaways": [
+            "Una eficacia del 97% refleja la reducción del riesgo entre las personas vacunadas en contextos de ensayo u observacionales, pero la protección poblacional depende de la cobertura.",
+            "Una alta eficacia no elimina el riesgo de brotes si las tasas locales de vacunación caen por debajo de los umbrales de inmunidad colectiva.",
+            "Los padres deben considerar tanto la protección individual como los niveles de vacunación en la comunidad al valorar el riesgo; este explicador no sustituye la orientación médica profesional."
+          ]
+        },
+        "ru": {
+          "title": "Объяснение: что означает для родителей показатель эффективности вакцины от кори «97%»",
+          "summary": "Эпидемиолог объясняет, как измеряются проценты эффективности вакцины от кори и что они означают для семей, обсуждая, почему даже высокая эффективность требует высокого охвата вакцинацией для предотвращения вспышек и как местные факторы влияют на риск.",
+          "whyItMatters": "Понятные объяснения эффективности вакцин помогают родителям интерпретировать риск и важность поддержания высокого уровня вакцинации для защиты сообщества; это экспертное разъяснение, а не первичное исследование.",
+          "takeaways": [
+            "Эффективность 97% отражает снижение риска среди вакцинированных в условиях испытаний или наблюдений, но популяционная защита зависит от охвата вакцинацией.",
+            "Высокая эффективность не устраняет риск вспышек, если локальные показатели вакцинации упадут ниже порогов коллективного иммунитета.",
+            "Родителям стоит учитывать как индивидуальную защиту, так и уровень вакцинации в сообществе при оценке риска; этот материал не заменяет профессиональные медицинские рекомендации."
+          ]
+        },
+        "uk": {
+          "title": "Пояснення: що означає для батьків рейтинг ефективності проти кору '97%'",
+          "summary": "Епідеміолог пояснює, як вимірюється відсоток ефективності вакцини проти кору і що це означає для сімей, розглядаючи, чому висока ефективність все одно потребує широкого охоплення вакцинацією для запобігання спалахів і як локальні фактори впливають на ризик.",
+          "whyItMatters": "Чіткі пояснення ефективності вакцин допомагають батькам інтерпретувати ризик і розуміти важливість високих показників вакцинації для захисту громади; матеріал є експертним поясненням, а не первинним дослідженням.",
+          "takeaways": [
+            "Рейтинг ефективності 97% відображає зниження ризику серед щеплених осіб у контексті випробувань або спостережних досліджень, але захист населення залежить від рівня охоплення.",
+            "Висока ефективність вакцини не усуває ризиків спалахів, якщо місцеві показники вакцинації опускаються нижче порогів колективного імунітету.",
+            "Батькам слід враховувати як індивідуальний захист, так і рівні вакцинації в громаді при оцінці ризику; цей матеріал не замінює професійні медичні поради."
+          ]
+        },
+        "fr": {
+          "title": "Explication : ce que signifie pour les parents l’efficacité « 97 % » du vaccin contre la rougeole",
+          "summary": "Un épidémiologiste explique comment sont mesurés les pourcentages d’efficacité du vaccin contre la rougeole et ce qu’ils signifient pour les familles, en discutant pourquoi une forte efficacité exige néanmoins une couverture vaccinale élevée pour prévenir les épidémies et comment des facteurs locaux influencent le risque.",
+          "whyItMatters": "Des explications claires sur l’efficacité des vaccins aident les parents à interpréter le risque et l’importance de taux de vaccination élevés pour la protection communautaire ; l’article est une explication d’expert et non une recherche primaire.",
+          "takeaways": [
+            "Un taux d’efficacité de 97 % reflète une réduction du risque chez les personnes vaccinées dans le contexte d’un essai ou d’études observationnelles, mais la protection de la population dépend de la couverture vaccinale.",
+            "Une forte efficacité vaccinale n’élimine pas le risque d’épidémie si les taux de vaccination locaux tombent en dessous des seuils d’immunité collective.",
+            "Les parents doivent considérer à la fois la protection individuelle et les niveaux de vaccination communautaire pour évaluer le risque ; cet article explicatif ne remplace pas les conseils médicaux professionnels."
+          ]
+        },
+        "de": {
+          "title": "Erklärstück: Was eine '97% wirksame' Masernimpfung für Eltern bedeutet",
+          "summary": "Ein Epidemiologe erläutert, wie die Wirksamkeitsprozentsätze für die Masernimpfung gemessen werden und was sie für Familien bedeuten, und bespricht, warum hohe Effektivität trotzdem eine hohe Durchimpfungsrate erfordert, um Ausbrüche zu verhindern, sowie wie lokale Faktoren das Risiko beeinflussen.",
+          "whyItMatters": "Klare Erklärungen zur Impfwirksamkeit helfen Eltern, Risiken einzuordnen und die weiterhin wichtige Bedeutung hoher Impfquoten für den Gemeinschaftsschutz zu verstehen; der Beitrag ist ein Experten‑Erklärstück und keine Primärforschung.",
+          "takeaways": [
+            "Eine Wirksamkeit von 97% bedeutet reduziertes Risiko bei Geimpften in Studienkontexten, aber der Schutz der Population hängt von der Durchimpfungsrate ab.",
+            "Hohe Impfwirksamkeit beseitigt nicht das Ausbruchsrisiko, wenn lokale Impfquoten unter die Herdimmunitätsschwelle fallen.",
+            "Eltern sollten sowohl den individuellen Schutz als auch die Impfniveaus in der Gemeinschaft berücksichtigen; dieses Erklärstück ersetzt keine ärztliche Beratung."
+          ]
+        },
+        "pt-br": {
+          "title": "Explicador: o que significa para os pais a vacina contra sarampo ser '97% eficaz'",
+          "summary": "Um epidemiologista explica como as porcentagens de eficácia da vacina contra o sarampo são medidas e o que elas significam para as famílias, discutindo por que alta efetividade ainda exige ampla cobertura vacinal para prevenir surtos e como fatores locais influenciam o risco.",
+          "whyItMatters": "Explicações claras sobre eficácia vacinal ajudam pais a interpretar o risco e a importância contínua de altas taxas de vacinação para proteção comunitária; o texto é um explicador de especialista, não pesquisa primária.",
+          "takeaways": [
+            "Uma eficácia de 97% reflete risco reduzido entre vacinados em contextos de ensaio ou observacionais, mas a proteção populacional depende da cobertura.",
+            "Alta eficácia não elimina o risco de surtos se as taxas locais de vacinação caírem abaixo dos limiares de imunidade de grupo.",
+            "Pais devem considerar tanto a proteção individual quanto os níveis de vacinação na comunidade ao avaliar risco; este explicador não substitui orientação médica profissional."
+          ]
+        },
+        "hu": {
+          "title": "Magyarázat: mit jelent a szülők számára a kanyaróoltás '97% hatékony' besorolása",
+          "summary": "Egy járványügyi szakember elmagyarázza, hogyan mérik az oltás hatékonyságának százalékait és mit jelentenek ezek a családok számára, kitérve arra, miért igényel a magas hatékonyság is erős oltási lefedettséget a kitörések megelőzéséhez, és hogyan befolyásolják a helyi tényezők a kockázatot.",
+          "whyItMatters": "Az oltások hatékonyságának világos magyarázata segít a szülőknek a kockázat értelmezésében és a magas oltottsági arányok fontosságának megértésében a közösségi védelem érdekében; a cikk szakértői magyarázat, nem primer kutatás.",
+          "takeaways": [
+            "A 97% hatékonyság csökkentett kockázatot tükröz az oltott egyének körében vizsgálati vagy megfigyelési kontextusban, de a népességi védelem a lefedettségtől függ.",
+            "A magas oltási hatékonyság sem szünteti meg a járványkockázatot, ha a helyi átoltottság a herd immunity küszöb alá esik.",
+            "A szülőknek figyelembe kell venniük az egyéni védettséget és a közösségi oltottságot a kockázat felmérésekor; ez a magyarázat nem helyettesíti az orvosi tanácsot."
+          ]
+        },
+        "ar": {
+          "title": "توضيح: ماذا يعني تقييم فعالية لقاح الحصبة '97%' للآباء؟",
+          "summary": "يشرح اختصاصي وبائيات كيف تُقاس نسب فعالية لقاح الحصبة وماذا تعني للعائلات، ويبيّن لماذا تتطلب الفعالية العالية أيضًا تغطية تطعيمية قوية لمنع التفشيات وكيف تؤثر العوامل المحلية على المخاطر.",
+          "whyItMatters": "تساعد التوضيحات الواضحة حول فعالية اللقاحات الآباء على تفسير المخاطر وأهمية معدلات التطعيم العالية لحماية المجتمع؛ والمقال تفسير من خبير وليس بحثًا أوليًا.",
+          "takeaways": [
+            "يعكس تقييم 97% تقليل المخاطر بين المطعمين في سياق التجارب أو الدراسات الملاحظة، لكن حماية السكان تعتمد على مستوى التغطية.",
+            "لا تلغي الفعالية العالية خطر التفشّي إذا انخفضت معدلات التطعيم المحلية دون حدود المناعة المجتمعية.",
+            "ينبغي للآباء مراعاة كل من الحماية الفردية ومستويات التطعيم المجتمعي عند تقييم المخاطر؛ هذا الشرح لا يحل محل الإرشاد الطبي المهني."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=what-the-measles-vaccine-s-97-effective-rating-means-for-pittsbur-f978bc6c21b8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/what-the-measles-vaccine-s-97-effective-rating-means-for-pittsbur-f978bc6c21b8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/what-the-measles-vaccine-s-97-effective-rating-means-for-pittsbur-f978bc6c21b8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Explainer: what '97% effective' measles vaccine efficacy means for parents.\nStory summary: An epidemiologist explains how measles vaccine efficacy percentages are measured and what they mean for families, discussing why high effectiveness still requires strong vaccination coverage to prevent outbreaks and how local factors influence risk..\nCategory: infectious disease; public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "metal-fumes-drinking-habits-and-dementia-what-a-new-study-found-e4e14f620e27",
@@ -1224,6 +2080,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: AI gait model predicts multiple health phenotypes from 3D motion data.\nStory summary: Researchers developed a 'gait foundation model' trained on 3D skeletal motion from 3,328 adults that predicts a range of clinical characteristics and diagnoses, including cardiometabolic conditions, mental-health markers and frailty phenotypes..\nCategory: AI in Health / Aging.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sympathetic-neurons-remodel-the-extracellular-matrix-for-thermoge-7b8f9ee92a4a",
+      "category": "metabolism; healthy ageing",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s42255-026-01659-w",
+      "sourceTitle": "Sympathetic neurons remodel the extracellular matrix for thermogenesis",
+      "publishedAt": "2026-11-06",
+      "languages": {
+        "en": {
+          "title": "Sympathetic neurons reshape adipose tissue microenvironment to control thermogenesis",
+          "summary": "A Nature Metabolism study describes a population of GUSB‑expressing sympathetic neurons that modulate adipose thermogenesis by remodelling the extracellular matrix (ECM) around nerve endings. The work implicates the neuronal microenvironment as an active regulator of adipose metabolism.",
+          "whyItMatters": "Understanding how nerve‑tissue interactions regulate energy expenditure could inform biology of metabolic health and obesity; these findings are mechanistic and likely from animal or cellular models, so direct implications for human therapies are preliminary.",
+          "takeaways": [
+            "Specific sympathetic neurons can change the adipose ECM to influence thermogenic activity.",
+            "The neuronal microenvironment is an underappreciated regulator of tissue metabolism.",
+            "Translational relevance for human metabolic disease will require follow‑up in appropriate models and human tissue studies."
+          ]
+        },
+        "es": {
+          "title": "Neuronas simpáticas remodelan el microambiente del tejido adiposo para controlar la termogénesis",
+          "summary": "Un estudio en Nature Metabolism describe una población de neuronas simpáticas que expresan GUSB y que modulan la termogénesis del tejido adiposo al remodelar la matriz extracelular alrededor de las terminaciones nerviosas. El trabajo implica que el microambiente neuronal actúa como un regulador activo del metabolismo adiposo.",
+          "whyItMatters": "Comprender cómo las interacciones entre nervios y tejido regulan el gasto energético podría aportar información sobre la biología de la salud metabólica y la obesidad; estos hallazgos son mecanísticos y probablemente proceden de modelos animales o celulares, por lo que las implicaciones directas para terapias humanas son preliminares.",
+          "takeaways": [
+            "Neuronas simpáticas específicas pueden cambiar la matriz extracelular del tejido adiposo para influir en la actividad termogénica.",
+            "El microambiente neuronal es un regulador poco apreciado del metabolismo tisular.",
+            "La relevancia traslacional para la enfermedad metabólica humana requerirá estudios adicionales en modelos apropiados y en tejido humano."
+          ]
+        },
+        "ru": {
+          "title": "Симпатические нейроны перестраивают микроокружение жировой ткани, контролируя термогенез",
+          "summary": "Исследование в Nature Metabolism описывает популяцию симпатических нейронов, экспрессирующих GUSB, которые модулируют термогенез в жировой ткани путем ремоделирования внеклеточного матрикса вокруг нервных окончаний. Работа указывает на микроокружение нейронов как активного регулятора метаболизма жировой ткани.",
+          "whyItMatters": "Понимание того, как взаимодействия между нервами и тканью регулируют расход энергии, может прояснить биологию метаболического здоровья и ожирения; эти выводы механистические и, вероятно, получены на животных или клеточных моделях, поэтому прямые последствия для человеческих терапий предварительны.",
+          "takeaways": [
+            "Определённые симпатические нейроны могут изменять внеклеточный матрикс жировой ткани, влияя на термогенную активность.",
+            "Микроокружение нейронов — недооценённый регулятор тканевого метаболизма.",
+            "Трансляционная значимость для человеческих метаболических заболеваний потребует дополнительных исследований в подходящих моделях и на человеческих тканях."
+          ]
+        },
+        "uk": {
+          "title": "Симпатичні нейрони змінюють мікросередовище жирової тканини, контролюючи термогенез",
+          "summary": "Дослідження в Nature Metabolism описує популяцію симпатичних нейронів, які експресують GUSB і модулюють термогенез в жировій тканині шляхом ремоделювання позаклітинного матриксу навколо нервових закінчень. Робота вказує на те, що нейронне мікросередовище активно регулює обмін речовин у жировій тканині.",
+          "whyItMatters": "Розуміння того, як взаємодія нервів і тканини регулює енергетичні витрати, може допомогти пояснити механізми метаболічного здоров’я та ожиріння; ці висновки є механістичними і, ймовірно, отримані в тваринних або клітинних моделях, тому прямі наслідки для людської терапії попередні.",
+          "takeaways": [
+            "Певні симпатичні нейрони можуть змінювати ECM жирової тканини, впливаючи на термогенетичну активність.",
+            "Нейронне мікросередовище є недооціненим регулятором метаболізму тканини.",
+            "Трансляційна релевантність для людських метаболічних захворювань потребує подальших досліджень у відповідних моделях і на людських зразках."
+          ]
+        },
+        "fr": {
+          "title": "Les neurones sympathiques remodèlent le microenvironnement du tissu adipeux pour contrôler la thermogenèse",
+          "summary": "Une étude de Nature Metabolism décrit une population de neurones sympathiques exprimant GUSB qui moduleraient la thermogenèse adipose en remodelant la matrice extracellulaire (MEC) autour des terminaisons nerveuses. Le travail implique que le microenvironnement neuronal est un régulateur actif du métabolisme adipeux.",
+          "whyItMatters": "Comprendre comment les interactions nerf‑tissu régulent la dépense énergétique pourrait éclairer la biologie de la santé métabolique et de l’obésité ; ces résultats sont mécanistiques et probablement issus de modèles animaux ou cellulaires, donc les implications directes pour la thérapie humaine restent provisoires.",
+          "takeaways": [
+            "Des neurones sympathiques spécifiques peuvent modifier la MEC adipeuse pour influencer l’activité thermogénique.",
+            "Le microenvironnement neuronal est un régulateur sous‑estimé du métabolisme tissulaire.",
+            "La pertinence translationnelle pour les maladies métaboliques humaines nécessitera des suivis dans des modèles appropriés et sur des tissus humains."
+          ]
+        },
+        "de": {
+          "title": "Sympathische Neuronen formen das Mikro‑Umfeld von Fettgewebe um, um Thermogenese zu steuern",
+          "summary": "Eine Studie in Nature Metabolism beschreibt eine Population von GUSB‑expressierenden sympathischen Neuronen, die die Thermogenese des Fettgewebes modulieren, indem sie die extrazelluläre Matrix (ECM) um Nervenendigungen umbauen. Die Arbeit impliciert das neuronale Mikro‑Umfeld als aktiven Regulator des Fettstoffwechsels.",
+          "whyItMatters": "Zu verstehen, wie Nerven‑Gewebe‑Interaktionen den Energieverbrauch steuern, kann die Biologie von metabolischer Gesundheit und Adipositas beleuchten; die Befunde sind mechanistisch und stammen wahrscheinlich aus Tier‑ oder Zellmodellen, sodass direkte Implikationen für menschliche Therapien vorläufig sind.",
+          "takeaways": [
+            "Spezifische sympathische Neuronen können die adipöse ECM verändern und so thermogene Aktivität beeinflussen.",
+            "Das neuronale Mikro‑Umfeld ist ein bislang wenig beachteter Regulator des Gewebestoffwechsels.",
+            "Die Übersetzbarkeit auf menschliche Stoffwechselerkrankungen erfordert Folgeuntersuchungen in geeigneten Modellen und Humangewebe."
+          ]
+        },
+        "pt-br": {
+          "title": "Neurônios simpáticos remodelam o microambiente do tecido adiposo para controlar a termogênese",
+          "summary": "Um estudo na Nature Metabolism descreve uma população de neurônios simpáticos que expressam GUSB e modulam a termogênese adiposa ao remodelar a matriz extracelular (ECM) ao redor das terminações nervosas. O trabalho implica o microambiente neuronal como um regulador ativo do metabolismo adiposo.",
+          "whyItMatters": "Compreender como interações entre nervos e tecido regulam o gasto de energia pode informar a biologia da saúde metabólica e da obesidade; esses achados são mecanísticos e provavelmente provenientes de modelos animais ou celulares, portanto as implicações diretas para terapias humanas são preliminares.",
+          "takeaways": [
+            "Neurônios simpáticos específicos podem alterar a ECM adiposa para influenciar a atividade termogênica.",
+            "O microambiente neuronal é um regulador subestimado do metabolismo tecidual.",
+            "A relevância translacional para doenças metabólicas humanas exigirá estudos adicionais em modelos apropriados e em tecido humano."
+          ]
+        },
+        "hu": {
+          "title": "Szimpátiás neuronok átformálják a zsírszövet mikrokörnyezetét a termogenezis szabályozásához",
+          "summary": "Egy Nature Metabolism tanulmány olyan GUSB‑expresszáló szimpatikus neuronpopulációt ír le, amely a zsír termogenezisét az idegvégződések körüli extracelluláris mátrix (ECM) átalakításával módosítja. A munka azt sugallja, hogy az idegi mikrokörnyezet aktív szabályozója az adipóz anyagcserének.",
+          "whyItMatters": "Az energiafelhasználást szabályozó ideg‑szövet kölcsönhatások jobb megértése hozzájárulhat a metabolikus egészség és az elhízás biológiájának ismeretéhez; az eredmények mechanisztikus jellegűek és valószínűleg állati vagy sejtes modellekből származnak, így az emberi terápiás következmények előzetesek.",
+          "takeaways": [
+            "Specifikus szimpatikus neuronok képesek megváltoztatni az adipóz ECM-et, hogy befolyásolják a termogén aktivitást.",
+            "Az idegi mikrokörnyezet alulértékelt szabályozója lehet a szöveti anyagcserének.",
+            "Az emberi metabolikus betegségekre vonatkozó transzlációs relevancia további megfelelő modelleket és humán szövettanulmányokat igényel."
+          ]
+        },
+        "ar": {
+          "title": "الخلايا العصبية الوديّة تعيد تشكيل بيئة النسيج الدهني للتحكم في التوليد الحراري",
+          "summary": "تصف دراسة في Nature Metabolism مجموعة من الخلايا العصبية الوديّة التي تعبّر عن GUSB وتعدّل التوليد الحراري في النسيج الدهني عن طريق إعادة تشكيل مصفوفة الخلايا خارج الخلوية حول النهايات العصبية. تشير الدراسة إلى أن بيئة الخلايا العصبية تلعب دورًا فعّالًا في تنظيم أيض النسيج الدهني.",
+          "whyItMatters": "قد يسهم فهم كيفية تنظيم التفاعل بين الأعصاب والأنسجة في بيولوجيا الإنفاق الطاقي والصحة الأيضية والسمنة؛ النتائج آلية وربما مستمدة من نماذج حيوانية أو خلوية، لذا فإن الدلالات العلاجية البشرية لا تزال أولية.",
+          "takeaways": [
+            "بعض الخلايا العصبية الوديّة تستطيع تغيير مصفوفة النسيج الدهني خارج الخلية للتأثير على النشاط الحراري.",
+            "بيئة الخلايا العصبية هي منظم مهم وغير مُقدَّر بما يكفي لتميّز أيض الأنسجة.",
+            "لاستجلاء الصلة التطبيقية بالأمراض الأيضية البشرية يلزم متابعة في نماذج مناسبة ودراسات على نسيج بشري."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sympathetic-neurons-remodel-the-extracellular-matrix-for-thermoge-7b8f9ee92a4a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sympathetic-neurons-remodel-the-extracellular-matrix-for-thermoge-7b8f9ee92a4a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sympathetic-neurons-remodel-the-extracellular-matrix-for-thermoge-7b8f9ee92a4a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Sympathetic neurons reshape adipose tissue microenvironment to control thermogenesis.\nStory summary: A Nature Metabolism study describes a population of GUSB‑expressing sympathetic neurons that modulate adipose thermogenesis by remodelling the extracellular matrix (ECM) around nerve endings. The work implicates the neuronal microenvironment as an active regulator of adipose metabolism..\nCategory: metabolism; healthy ageing.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "high-levels-of-indoor-radon-linked-to-higher-risk-of-heart-failur-285fe04a5a69",
@@ -4373,6 +5336,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mechanistic study suggests SGLT2 inhibitors engage cardiac pantothenate kinase 1 to support energy metabolism.\nStory summary: A recent mechanistic paper reports that SGLT2 inhibitors bind to cardiac pantothenate kinase 1 (PANK1), boosting coenzyme A biosynthesis and supporting cardiac energy metabolism and functional recovery. The work proposes a direct molecular interaction as part of the drugs’ cardioprotective effects..\nCategory: Cardiovascular / Mechanism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "lactate-charging-of-trnas-brakes-the-ribosome-c6ed60dbb8e6",
+      "category": "cancer biology; metabolism",
+      "sourceName": "cell.com",
+      "sourceUrl": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00438-9?rss=yes",
+      "sourceTitle": "Lactate charging of tRNAs “brakes” the ribosome",
+      "publishedAt": "2026-11-03",
+      "languages": {
+        "en": {
+          "title": "Study describes a lactate-derived molecular brake on protein synthesis in cancer cells",
+          "summary": "A molecular study reports that when lactate accumulates, the enzyme AARS1 can attach lactate to tRNAs, creating 'lactyl‑tRNAs' that stall translation elongation and act as a brake on protein synthesis. Cancer cells may avoid this constraint by upregulating lactate exporters, suggesting a metabolic mechanism linking lactate handling to translational control.",
+          "whyItMatters": "The work identifies a mechanistic link between cancer metabolism and protein synthesis that could explain why some tumors export lactate aggressively; findings are at the molecular/lab level and not clinical, but they may inform future therapeutic strategies targeting tumor metabolism.",
+          "takeaways": [
+            "Researchers identified lactyl‑tRNAs as translation inhibitors formed under excess lactate production.",
+            "Cancer cells may evade this translational brake by increasing lactate export, revealing a potential metabolic vulnerability.",
+            "Findings are from cellular and molecular experiments; clinical relevance requires further validation in vivo."
+          ]
+        },
+        "es": {
+          "title": "Estudio describe un freno molecular derivado del lactato sobre la síntesis de proteínas en células cancerosas",
+          "summary": "Un estudio molecular informa que cuando se acumula lactato, la enzima AARS1 puede unir lactato a ARNt, formando 'lactil‑ARNt' que detienen la elongación de la traducción y actúan como un freno a la síntesis proteica. Las células cancerosas podrían evitar esta limitación aumentando la exportación de lactato, lo que sugiere un mecanismo metabólico que vincula el manejo del lactato con el control de la traducción.",
+          "whyItMatters": "El trabajo identifica un vínculo mecanístico entre el metabolismo tumoral y la síntesis de proteínas que podría explicar por qué algunos tumores exportan lactato de forma activa; los hallazgos son a nivel molecular/en laboratorio y no clínicos, pero pueden orientar futuras estrategias terapéuticas dirigidas al metabolismo tumoral.",
+          "takeaways": [
+            "Los investigadores identificaron lactil‑ARNt como inhibidores de la traducción formados bajo exceso de producción de lactato.",
+            "Las células cancerosas pueden evadir este freno translacional aumentando la exportación de lactato, lo que revela una posible vulnerabilidad metabólica.",
+            "Los hallazgos proceden de experimentos celulares y moleculares; la relevancia clínica requiere validación adicional in vivo."
+          ]
+        },
+        "ru": {
+          "title": "Исследование описывает молекулярный «тормоз» на синтез белка, основанный на лактате",
+          "summary": "Молекулярное исследование сообщает, что при накоплении лактата фермент AARS1 может присоединять лактат к тРНК, образуя «лактил‑тРНК», которые замедляют этап удлинения трансляции и действуют как тормоз синтеза белка. Раковые клетки могут избегать этого ограничения за счёт усиления экспорта лактата, что указывает на метаболический механизм, связывающий утилизацию лактата с контролем трансляции.",
+          "whyItMatters": "Работа выявляет механистическую связь между метаболизмом опухоли и синтезом белка, что может объяснить, почему некоторые опухоли активно экспортируют лактат; результаты получены на молекулярном/клеточном уровне и не являются клиническими, но могут направлять будущие терапевтические стратегии, нацеленные на метаболизм опухоли.",
+          "takeaways": [
+            "Учёные выявили лактил‑тРНК как ингибиторы трансляции, образующиеся при избытке продукции лактата.",
+            "Раковые клетки могут обходить этот трансляционный тормоз, усилив экспорт лактата, что выявляет потенциальную метаболическую уязвимость.",
+            "Выводы основаны на клеточных и молекулярных экспериментах; клиническая значимость требует дальнейшей верификации in vivo."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження описує молекулярне 'гальмо' синтезу білка з лактату в ракових клітинах",
+          "summary": "Молекулярне дослідження повідомляє, що при накопиченні лактату фермент AARS1 може приєднувати лактат до тРНК, утворюючи «лактил‑тРНК», які гальмують елонгацію трансляції й діють як гальмо синтезу білка. Ракові клітини можуть уникати цього обмеження шляхом підвищення експресії транспортерів лактату, що вказує на метаболічний механізм, що пов’язує обробку лактату з контролем трансляції.",
+          "whyItMatters": "Робота виявляє механістичний зв’язок між метаболізмом раку та синтезом білка, який може пояснювати, чому деякі пухлини активно експортують лактат; висновки отримані на молекулярному/клітинному рівні і не мають безпосереднього клінічного підтвердження, але можуть інформувати майбутні терапевтичні підходи, що націлені на метаболізм пухлини.",
+          "takeaways": [
+            "Дослідники ідентифікували лактил‑тРНК як інгібітори трансляції, що утворюються при надвиробництві лактату.",
+            "Ракові клітини можуть обходити це «гальмо» трансляції, збільшуючи експорт лактату, що відкриває потенційну метаболічну вразливість.",
+            "Висновки отримані в клітинних і молекулярних дослідженнях; клінічне значення потребує подальшої валідації in vivo."
+          ]
+        },
+        "fr": {
+          "title": "Une étude décrit un frein moléculaire dérivé du lactate sur la synthèse protéique dans les cellules cancéreuses",
+          "summary": "Une étude moléculaire rapporte que lorsque le lactate s’accumule, l’enzyme AARS1 peut attacher du lactate aux ARNt, formant des « lactyl‑ARNt » qui bloquent l’élongation de la traduction et agissent comme un frein sur la synthèse des protéines. Les cellules cancéreuses peuvent échapper à cette contrainte en surexprimant des exporteurs de lactate, suggérant un mécanisme métabolique reliant la gestion du lactate au contrôle translationnel.",
+          "whyItMatters": "Ce travail identifie un lien mécanistique entre le métabolisme du cancer et la synthèse protéique qui pourrait expliquer pourquoi certaines tumeurs exportent activement le lactate ; les résultats sont au niveau moléculaire/cellulaire et non cliniques, mais ils peuvent éclairer de futures stratégies thérapeutiques ciblant le métabolisme tumoral.",
+          "takeaways": [
+            "Les chercheurs ont identifié des lactyl‑ARNt comme inhibiteurs de la traduction formés en cas de production excessive de lactate.",
+            "Les cellules cancéreuses pourraient éviter ce frein translationnel en augmentant l’export de lactate, révélant une vulnérabilité métabolique potentielle.",
+            "Les conclusions proviennent d’expériences cellulaires et moléculaires ; la pertinence clinique nécessite une validation supplémentaire in vivo."
+          ]
+        },
+        "de": {
+          "title": "Studie beschreibt einen lactat‑abgeleiteten molekularen 'Bremsmechanismus' der Proteinsynthese in Krebszellen",
+          "summary": "Eine molekulare Studie berichtet, dass bei Laktatansammlung das Enzym AARS1 Laktat an tRNAs anhängen kann, wodurch 'lactyl‑tRNAs' entstehen, die die Elongation der Translation hemmen und als Bremsen der Proteinsynthese wirken. Krebszellen könnten diese Einschränkung umgehen, indem sie Lactatexporter hochregulieren, was einen metabolischen Mechanismus zwischen Laktatverarbeitung und translationaler Kontrolle nahelegt.",
+          "whyItMatters": "Die Arbeit identifiziert einen mechanistischen Zusammenhang zwischen Krebsstoffwechsel und Proteinsynthese, der erklären könnte, warum manche Tumoren Laktat verstärkt exportieren; die Ergebnisse stammen aus molekularen/ Zell‑Experimenten und sind nicht klinisch, könnten aber künftige therapeutische Ansätze zur Tumormetabolik informieren.",
+          "takeaways": [
+            "Forscher identifizierten lactyl‑tRNAs als Übersetzungsinhibitoren, die unter Überschuss an Laktat gebildet werden.",
+            "Krebszellen könnten dieser translationalen Bremse entkommen, indem sie den Laktatexport erhöhen, was eine potenzielle metabolische Verwundbarkeit offenbart.",
+            "Die Ergebnisse stammen aus zellulären und molekularen Experimenten; klinische Relevanz erfordert weitere Validierung in vivo."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo descreve um 'freio' molecular derivado de lactato na síntese de proteínas em células cancerosas",
+          "summary": "Um estudo molecular relata que, quando o lactato se acumula, a enzima AARS1 pode ligar lactato a tRNAs, formando 'lactyl‑tRNAs' que retardam a elongação da tradução e atuam como um freio na síntese proteica. Células cancerosas podem evitar essa restrição aumentando exportadores de lactato, sugerindo um mecanismo metabólico que liga o manejo do lactato ao controle translacional.",
+          "whyItMatters": "O trabalho identifica uma ligação mecanicista entre metabolismo tumoral e síntese proteica que pode explicar por que alguns tumores exportam lactato de forma agressiva; as descobertas são em nível molecular/laboratorial e não clínicas, mas podem informar estratégias terapêuticas futuras que visem o metabolismo tumoral.",
+          "takeaways": [
+            "Pesquisadores identificaram lactyl‑tRNAs como inibidores da tradução formados sob produção excessiva de lactato.",
+            "Células cancerosas podem escapar desse freio translacional ao aumentar a exportação de lactato, revelando uma possível vulnerabilidade metabólica.",
+            "As descobertas provêm de experimentos celulares e moleculares; a relevância clínica requer validação adicional in vivo."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: a laktátből származó molekuláris 'fék' lassítja a fehérjeszintézist a ráksejtekben",
+          "summary": "Egy molekuláris tanulmány arról számol be, hogy laktátfelhalmozódáskor az AARS1 enzim laktátot képes rNS‑ekhez kapcsolni, 'laktil‑tRNS'okat létrehozva, amelyek megakadályozzák a transzláció elongációját és fékezik a fehérjeszintézist. A ráksejtek elkerülhetik ezt a korlátozást azáltal, hogy fokozzák a laktátexportot, ami egy metabolikus mechanizmust sugall a laktáthasználat és a translációs kontroll között.",
+          "whyItMatters": "A munka mechanisztikus kapcsolatot azonosít a daganatanyagcsere és a fehérjeszintézis között, ami magyarázatot adhat arra, miért exportálnak egyes tumorok agresszíven laktátot; az eredmények molekuláris/laboratóriumi szinten vannak, nem klinikaiak, de informálhatják a jövőbeli, a tumor anyagcserét célzó terápiás stratégiákat.",
+          "takeaways": [
+            "A kutatók azonosították a laktil‑tRNS-eket mint a transzlációt gátló molekulákat, amelyek felesleges laktáttermelés során keletkeznek.",
+            "A ráksejtek a laktát exportjának növelésével kikerülhetik ezt a translációs féket, ami potenciális metabolikus sérülékenységet jelez.",
+            "Az eredmények sejtes és molekuláris kísérletekből származnak; a klinikai relevancia igazolása további in vivo vizsgálatokat igényel."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تصف ضابطًا جزيئيًا مشتقًا من اللاكتات يعيق تصنيع البروتين في الخلايا السرطانية",
+          "summary": "تفيد دراسة جزيئية أنه عند تراكم اللاكتات يمكن للإنزيم AARS1 أن يربط اللاكتات إلى الرنا الرسول (tRNA)، مكوّنًا 'لاكتيل‑tRNA' التي تعطل استطالة الترجمة وتعمل كقابض على تصنيع البروتين. قد تتفادى الخلايا السرطانية هذا القيد بزيادة مُصدِّرات اللاكتات، مما يشير إلى آلية أيضية تربط تعامل الخلايا مع اللاكتات بالتحكم في الترجمة.",
+          "whyItMatters": "تحدِّد الدراسة ارتباطًا آليًا بين أيض السرطان وتصنيع البروتين يمكن أن يفسر سبب تصدير بعض الأورام للاكتات بشكل مكثف؛ النتائج على مستوى الجزيئات والمختبر وليست سريرية، لكنها قد تُعلم استراتيجيات علاجية مستقبلية تستهدف أيض الورم.",
+          "takeaways": [
+            "تعرف الباحثون على لاكتيل‑tRNA كعامل يثبط الترجمة ويتكون عند زيادة إنتاج اللاكتات.",
+            "قد تتفادى الخلايا السرطانية هذا القابض الترجموي بزيادة تصدير اللاكتات، ما يكشف عن ضعف أيضي محتمل.",
+            "النتائج مستمدة من تجارب خلوية وجزيئية؛ والمغزى السريري يتطلب تحققًا إضافيًا في نماذج حية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=lactate-charging-of-trnas-brakes-the-ribosome-c6ed60dbb8e6",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lactate-charging-of-trnas-brakes-the-ribosome-c6ed60dbb8e6-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/lactate-charging-of-trnas-brakes-the-ribosome-c6ed60dbb8e6-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study describes a lactate-derived molecular brake on protein synthesis in cancer cells.\nStory summary: A molecular study reports that when lactate accumulates, the enzyme AARS1 can attach lactate to tRNAs, creating 'lactyl‑tRNAs' that stall translation elongation and act as a brake on protein synthesis. Cancer cells may avoid this constraint by upregulating lactate exporters, suggesting a metabolic mechanism linking lactate handling to translational control..\nCategory: cancer biology; metabolism.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "parents-autoimmune-disease-linked-to-kids-type-1-diabetes-risk-1ee42ca09130",
@@ -122159,6 +123229,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-08-motivation-1-story-1",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Pack a lunch, log it before you go",
+          "story": "Maya started preparing lunches the night before and wrote each item into her food log as she packed. She found that logging before the day began made it easier to keep track honestly when work got busy. Some days she adjusted portions; other days she noted a favorite comfort food and moved on without judgement. Over a few weeks she noticed clearer patterns in what kept her full through the afternoon. The simple habit of planning + logging helped her feel more in control of everyday choices.",
+          "habit": "Pack and log your lunch the night before.",
+          "appCta": "Open Calorie Bank Credit and log your packed meal today."
+        },
+        "es": {
+          "title": "Prepara tu almuerzo y regístralo",
+          "story": "Lucía empezó a preparar sus almuerzos la noche anterior y a anotar cada cosa en su registro mientras empaquetaba. Descubrió que registrar antes del día la ayudaba a ser honesta cuando el trabajo se complicaba. Unos días ajustaba las porciones; otros simplemente apuntaba su comida reconfortante sin juzgarse. En unas semanas vio patrones sobre qué la llenaba hasta la tarde. El hábito sencillo de planear y registrar la hizo sentir más segura en sus decisiones del día a día.",
+          "habit": "Prepara y registra tu almuerzo la noche anterior.",
+          "appCta": "Abre Calorie Bank Credit y registra tu comida hoy."
+        },
+        "ru": {
+          "title": "Собери обед и запиши заранее",
+          "story": "Ольга стала собирать обед на вечер и вносить каждый продукт в журнал питания сразу при упаковке. Она заметила, что запись до начала дня помогала честно учитывать питание в загруженные рабочие дни. Иногда она меняла порции, иногда отмечала любимое блюдо без упрёка. Через пару недель появились понятные шаблоны того, что помогает ей не оставаться голодной до полудня. Простой ритуал планирования и записи дал ей больше уверенности в ежедневных решениях.",
+          "habit": "Собирай и записывай обед с вечера.",
+          "appCta": "Открой Calorie Bank Credit и запиши приём пищи сегодня."
+        },
+        "uk": {
+          "title": "Пакуй обід і занотовуй завчасно",
+          "story": "Оксана почала готувати обід ввечері й записувати кожен елемент у щоденник під час пакування. Виявилося, що запис до початку дня допомагає чесніше фіксувати харчування, коли робочий день стає суєтним. Інколи вона змінювала об’єми, інколи просто зазначала улюблену страву без самообвинувачень. Через кілька тижнів з’явилися зрозумілі закономірності щодо того, що її ситим до полудня. Простий ритуал планування й запису дав їй більше контролю над буденними виборами.",
+          "habit": "Приготуйте й занотуйте обід напередодні.",
+          "appCta": "Відкрийте Calorie Bank Credit і занотуйте прийом їжі сьогодні."
+        },
+        "fr": {
+          "title": "Préparez votre déjeuner et notez-le",
+          "story": "Sophie a commencé à préparer son déjeuner la veille et à inscrire chaque élément dans son journal dès qu’elle rangeait sa boîte. Elle a constaté que noter avant la journée l’aidait à rester honnête quand le travail devenait intense. Certains jours, elle ajustait les quantités ; d’autres, elle notait un plat réconfortant sans jugement. Au bout de quelques semaines, elle a repéré des tendances sur ce qui la soutenait jusqu’à l’après-midi. Ce petit rituel de planification + enregistrement lui a apporté plus de sérénité.",
+          "habit": "Préparez et enregistrez votre déjeuner la veille.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre repas aujourd’hui."
+        },
+        "de": {
+          "title": "Lunch vorbereiten und vorher eintragen",
+          "story": "Anna begann, ihren Mittagslunch am Abend vorzubereiten und jeden Bestandteil direkt beim Packen ins Log zu schreiben. Sie merkte, dass das Vorab-Notieren ihr half, im stressigen Arbeitsalltag ehrlich zu bleiben. An manchen Tagen passte sie die Portionen an, an anderen notierte sie einfach ein Lieblingsessen ohne sich zu verurteilen. Nach ein paar Wochen erkannte sie Muster dahingehend, was sie bis zum Nachmittag satt hielt. Die einfache Routine aus Planen und Eintragen gab ihr mehr Gelassenheit bei täglichen Entscheidungen.",
+          "habit": "Bereite deinen Lunch vor und trage ihn ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute eine Mahlzeit ein."
+        },
+        "pt-br": {
+          "title": "Prepare o almoço e registre antes",
+          "story": "Marina começou a montar o almoço na noite anterior e a anotar cada item no diário enquanto embalava. Ela percebeu que registrar antes do dia começar a ajudava a ser mais honesta quando o trabalho apertava. Em alguns dias ela ajustava as porções, em outros apenas registrava uma comida favorita sem se julgar. Em poucas semanas ela passou a enxergar padrões sobre o que a mantinha saciada até a tarde. O hábito simples de planejar e registrar deu a ela mais controle nas escolhas diárias.",
+          "habit": "Prepare e registre seu almoço na noite anterior.",
+          "appCta": "Abra o Calorie Bank Credit e registre sua refeição hoje."
+        },
+        "hu": {
+          "title": "Készítsd elő az ebédet és írd le előre",
+          "story": "Dóra este előkészítette az ebédét és minden tételt a naplóba írt, miközben pakolt. Meglepődött, mennyivel könnyebb volt őszintén követni az étkezését, amikor dolgozni kezdett a nap. Egyes napokon módosított a mennyiségen, máskor beírta a kedvencét ítélkezés nélkül. Néhány hét alatt észrevett mintákat arról, mi tartja jóllakottnak délutánig. A tervezés és az előzetes bejegyzés egyszerű szokása több nyugalmat adott a mindennapi döntésekhez.",
+          "habit": "Készítsd elő és jegyezd fel az ebédet előző este.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts egy étkezést ma."
+        },
+        "ar": {
+          "title": "حضِّر غدائك وسجله مسبقًا",
+          "story": "نُور بدأت تحضّر غداءها مساءً وتكتب كل مكوّن في سجلها أثناء التعبئة. لاحظت أن التسجيل قبل بدء اليوم جعلها أكثر صدقًا عند انشغال العمل. في بعض الأيام كانت تعدّل الكميات، وفي أيام أخرى تسجّل وجبة مفضلة دون حكم على نفسها. بعد أسابيع قليلة لاحظت أنماطًا واضحة عمّا يبقيها مشبعة حتى الظهيرة. عادة بسيطة من التخطيط والتسجيل منحتها شعورًا أكبر بالتحكم في خياراتها اليومية.",
+          "habit": "حضّر وسجّل غداءك في المساء السابق.",
+          "appCta": "افتح Calorie Bank Credit وسجّل وجبتك اليوم."
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Pack a lunch, log it before you go.\nStory: Maya started preparing lunches the night before and wrote each item into her food log as she packed. She found that logging before the day began made it easier to keep track honestly when work got busy. Some days she adjusted portions; other days she noted a favorite comfort food and moved on without judgement. Over a few weeks she noticed clearer patterns in what kept her full through the afternoon. The simple habit of planning + logging helped her feel more in control of everyday choices..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-08-motivation-2-story-2",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Small snack notes turn into insight",
+          "story": "Ethan kept a tiny note of every snack he ate—an apple at 3 p.m., a handful of nuts at a meeting—then uploaded those notes to his tracker each evening. Writing small entries removed the pressure of being 'perfect' and helped him notice when he reached for snacks out of habit versus true hunger. Seeing the pattern in the app nudged him to prepare filling mini-meals and keep a water bottle nearby. Logging honestly, even rough notes, made his choices easier and less emotional.",
+          "habit": "Record every snack quickly, then sync later.",
+          "appCta": "Open Calorie Bank Credit and log one snack today."
+        },
+        "es": {
+          "title": "Apuntes de snacks que suman claridad",
+          "story": "Carlos empezó a anotar cada snack: una manzana a las 3 p. m., un puñado de frutos secos en una reunión; luego subía esas notas a la app por la noche. Apuntar así quitó la presión de hacerlo “perfecto” y le permitió ver cuándo picaba por costumbre y cuándo por hambre real. Ver esos patrones en la aplicación le impulsó a preparar mini comidas más saciantes y a tener agua a mano. Registrar con honestidad, aunque sea de forma simple, facilitó sus decisiones sin carga emocional.",
+          "habit": "Apunta cada snack rápido y sincroniza después.",
+          "appCta": "Abre Calorie Bank Credit y registra un snack hoy."
+        },
+        "ru": {
+          "title": "Маленькие заметки о перекусах — большой смысл",
+          "story": "Иван записывал каждый перекус — яблоко в 15:00, горсть орехов на совещании — а вечером переносил записи в трекер. Краткие пометки снимали давление «быть идеальным» и помогали понять, перекусы — по привычке или по голоду. Видя эти схемы в приложении, он стал готовить более сытные мини-еды и держать воду рядом. Честные записи, пусть и простые, сделали выборы легче и спокойнее.",
+          "habit": "Записывайте перекус быстро, синхронизируйте позже.",
+          "appCta": "Откройте Calorie Bank Credit и запишите один перекус сегодня."
+        },
+        "uk": {
+          "title": "Малі нотатки про перекуси — велика користь",
+          "story": "Микита записував кожен перекус — яблуко о 15:00, жменю горіхів на зустрічі — а ввечері переносив нотатки в трекер. Короткі записи знімали тиск «бути ідеальним» і допомагали розрізняти звичкові та справжні відчуття голоду. Побачивши ці закономірності в додатку, він став готувати ситніші міні-страви і тримати воду під рукою. Чесні записи, навіть прості, зробили його вибір легшим і спокійнішим.",
+          "habit": "Записуйте перекуси швидко, синхронізуйте потім.",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте один перекус сьогодні."
+        },
+        "fr": {
+          "title": "De petits snacks, de grands enseignements",
+          "story": "Lucas notait chaque snack — une pomme à 15h, une poignée d’amandes en réunion — puis synchronisait ses notes le soir. Ces petits enregistrements ont levé la pression du « parfait » et l’ont aidé à distinguer grignotage par habitude et véritable faim. En voyant les tendances dans l’application, il a commencé à préparer des mini-repas plus rassasiants et à garder une bouteille d’eau à portée de main. Noter honnêtement, même brièvement, a rendu ses choix plus simples et sereins.",
+          "habit": "Notez chaque snack rapidement, puis synchronisez.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un snack aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Snack-Notizen, große Erkenntnisse",
+          "story": "Jonas schrieb jeden Snack auf — einen Apfel um 15 Uhr, eine Handvoll Nüsse in einer Besprechung — und übertrug die Notizen abends in seinen Tracker. Kurze Einträge nahmen den Druck, ‚perfekt‘ sein zu müssen, und halfen zu unterscheiden, ob er aus Gewohnheit oder echtem Hunger griff. Die Muster in der App motivierten ihn, sättigende Mini-Mahlzeiten vorzubereiten und eine Wasserflasche griffbereit zu halten. Ehrliches, auch simples Eintragen machte seine Entscheidungen leichter und ruhiger.",
+          "habit": "Notiere Snacks kurz und synchronisiere später.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute einen Snack ein."
+        },
+        "pt-br": {
+          "title": "Anotações rápidas, descobertas grandes",
+          "story": "Gustavo começou a anotar cada lanche — uma maçã às 15h, um punhado de castanhas durante uma reunião — e à noite colocava tudo no app. As notas rápidas tiraram a pressão de ser “perfeito” e o ajudaram a perceber quando comia por hábito ou por fome. Ver esses padrões no app o levou a preparar mini-refeições mais saciantes e a ter água sempre por perto. Registrar com honestidade, mesmo de forma simples, tornou as escolhas mais fáceis e menos carregadas de emoção.",
+          "habit": "Anote cada lanche rápido e sincronize depois.",
+          "appCta": "Abra o Calorie Bank Credit e registre um lanche hoje."
+        },
+        "hu": {
+          "title": "Apró uzsonyanoták, nagy felismerések",
+          "story": "Bence minden nasit feljegyzett — egy almát 15:00-kor, egy marék diót a megbeszélésen — majd este feltöltötte a naplójába. A rövid feljegyzések levették a „tökéletesnek” lenni kívánt nyomást, és segítettek megkülönböztetni a megszokásból és az igazi éhségből fakadó nassolást. Az appban megjelenő minták arra ösztönözték, hogy táplálóbb miniétkezéseket készítsen és vizet tartson kéznél. Az őszinte, még ha egyszerű is, naplózás könnyebbé és nyugodtabbá tette a döntéseit.",
+          "habit": "Jegyezd fel gyorsan a nasit, majd szinkronizálj.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts egy nasit ma."
+        },
+        "ar": {
+          "title": "ملاحظات صغيرة عن الوجبات الخفيفة تولّد وعيًا",
+          "story": "أحمد صار يسجل كل وجبة خفيفة—تفاحة الساعة الثالثة، قبضة مكسرات أثناء اجتماع—ثم يرفع هذه الملاحظات إلى المتتبع مساءً. الكتابة القصيرة أزالت ضغط الكمال وساعدته على التمييز بين الأكل من عادة أو من جوع حقيقي. رؤية الأنماط في التطبيق شجعته على تحضير وجبات صغيرة مشبعة والحفاظ على زجاجة ماء قريبة. التسجيل بصراحة، حتى لو كان بسيطًا، جعل قراراته أسهل وأقل انفعالية.",
+          "habit": "سجل كل وجبة خفيفة بسرعة ثم مزامنتها لاحقًا.",
+          "appCta": "افتح Calorie Bank Credit وسجّل وجبة خفيفة اليوم."
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Small snack notes turn into insight.\nStory: Ethan kept a tiny note of every snack he ate—an apple at 3 p.m., a handful of nuts at a meeting—then uploaded those notes to his tracker each evening. Writing small entries removed the pressure of being 'perfect' and helped him notice when he reached for snacks out of habit versus true hunger. Seeing the pattern in the app nudged him to prepare filling mini-meals and keep a water bottle nearby. Logging honestly, even rough notes, made his choices easier and less emotional..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-08-motivation-3-story-3",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Noticing energy, not judging food",
+          "story": "Priya began noting how different meals made her feel through the afternoon—more focused after eggs and veggies, a dip after heavy takeout. She didn’t label foods as good or bad; she simply recorded meals and the energy she experienced. Over time the gentle log helped her choose combinations that fit her day, like pairing fiber with protein when she needed steady focus. Tracking became a neutral tool for discovering what worked for her schedule, not a test or punishment.",
+          "habit": "After a meal, jot one word about your energy.",
+          "appCta": "Open Calorie Bank Credit and log one meal and how you felt today."
+        },
+        "es": {
+          "title": "Detecta la energía, sin juzgar la comida",
+          "story": "Priya empezó a anotar cómo le sentaban las comidas durante la tarde: más concentración tras huevos y verduras, bajón tras comida pesada para llevar. No etiquetaba alimentos como buenos o malos; simplemente registraba qué comía y cómo se sentía. Con el tiempo, ese registro le ayudó a elegir combinaciones que encajaban con su rutina, por ejemplo combinar fibra y proteína cuando necesitaba mantener la concentración. El seguimiento se volvió una herramienta neutral para entender lo que funcionaba en su día a día.",
+          "habit": "Anota una palabra sobre tu energía tras comer.",
+          "appCta": "Abre Calorie Bank Credit y registra una comida y cómo te sentiste hoy."
+        },
+        "ru": {
+          "title": "Замечать энергию, не судить еду",
+          "story": "При́я стала записывать, как разные приёмы пищи влияли на её дневную энергию — более сосредоточена после яиц и овощей, спад после тяжёлой доставки. Она не помечала продукты как хорошие или плохие, просто фиксировала еду и своё самочувствие. Со временем такой спокойный журнал помог ей подбирать сочетания под график, например белок с клетчаткой для устойчивой работоспособности. Трекер стал нейтральным инструментом для поиска того, что подходит её ритму, а не мерилом вины.",
+          "habit": "После еды запишите одно слово о своей энергии.",
+          "appCta": "Откройте Calorie Bank Credit и запишите одну еду и своё самочувствие сегодня."
+        },
+        "uk": {
+          "title": "Помічати енергію, не судити їжу",
+          "story": "Прія почала записувати, як різні страви впливали на її енергію вдень — більш зосереджена після яєць і овочів, спад після важкої їжі із закладу. Вона не підписувала їжу як «хорошу» чи «погану», а просто фіксувала що з’їла й як почувалася. З часом цей невимушений журнал допоміг їй обирати поєднання, що пасували до розкладу, наприклад білок із клітковиною для стабільної уваги. Трекер став нейтральним інструментом для пошуку того, що працює для неї.",
+          "habit": "Після їжі запишіть одне слово про свій рівень енергії.",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте одну їжу та самопочуття сьогодні."
+        },
+        "fr": {
+          "title": "Observer l'énergie, sans juger la nourriture",
+          "story": "Priya a commencé à noter l’effet des repas sur son après-midi — plus de concentration après des œufs et des légumes, une baisse après un plat lourd. Elle n’a pas classé les aliments en bons ou mauvais ; elle consignait simplement ce qu’elle mangeait et son énergie. Ce petit journal lui a permis, au fil du temps, de choisir des associations adaptées à sa journée, comme associer fibres et protéines quand elle a besoin d’un focus constant. Le suivi est devenu un outil neutre pour trouver ce qui lui convient.",
+          "habit": "Après un repas, notez un mot sur votre énergie.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un repas et comment vous vous êtes senti aujourd’hui."
+        },
+        "de": {
+          "title": "Energie bemerken, Essen nicht bewerten",
+          "story": "Priya begann zu notieren, wie verschiedene Mahlzeiten ihr Energielevel am Nachmittag beeinflussten — fokussierter nach Eiern und Gemüse, ein Tief nach schwerem Take-away. Sie wertete Lebensmittel nicht als gut oder schlecht, sondern dokumentierte schlicht Mahlzeit und Empfinden. Mit der Zeit half ihr dieses ruhige Log, Kombinationen zu wählen, die zu ihrem Tag passten, etwa Ballaststoffe mit Protein für gleichmäßige Konzentration. Tracking wurde so zu einem neutralen Werkzeug, um herauszufinden, was für ihren Alltag funktioniert.",
+          "habit": "Schreibe nach dem Essen ein Wort zu deiner Energie.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute eine Mahlzeit und dein Gefühl ein."
+        },
+        "pt-br": {
+          "title": "Perceba a energia, sem julgar a comida",
+          "story": "Priya passou a anotar como cada refeição influenciava sua energia à tarde — mais foco após ovos e legumes, queda depois de uma comida pesada. Ela não rotulou alimentos como bons ou ruins; apenas registrou o que comeu e como se sentiu. Com o tempo, esse diário gentil a ajudou a escolher combinações que se encaixavam no seu dia, como unir fibras e proteína quando precisava de foco constante. O acompanhamento virou uma ferramenta neutra para descobrir o que funciona para ela.",
+          "habit": "Depois da refeição, escreva uma palavra sobre sua energia.",
+          "appCta": "Abra o Calorie Bank Credit e registre uma refeição e como você se sentiu hoje."
+        },
+        "hu": {
+          "title": "Figyeld az energiát, ne ítélkezz az étel felett",
+          "story": "Priya elkezdte lejegyezni, hogyan hatnak rá különböző ételek délután — tojás és zöldség után fókuszáltabb, nehéz kiszállított étel után energiacsökkenés. Nem minősítette az ételeket jónak vagy rossznak, egyszerűen feljegyezte a bevitt ételt és az energiaérzetét. Idővel ez a visszafogott napló segített olyan kombinációkat választani, amelyek illeszkednek a napjához, például rost+fehérje, ha stabil figyelem kell. A naplózás semleges eszközzé vált, ami segít megtalálni, mi működik számára.",
+          "habit": "Étkezés után írj egy szót az energiádról.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts egy étkezést és az érzésed ma."
+        },
+        "ar": {
+          "title": "لاحظ طاقتك دون الحكم على الطعام",
+          "story": "بَدَأَت priya تدوين كيف تؤثر الوجبات المختلفة على طاقتها بعد الظهر — كانت مركّزة أكثر بعد البيض والخضار، وتشعر بانخفاض بعد الوجبات الثقيلة الجاهزة. لم تصِف الأطعمة بأنها جيدة أو سيئة؛ بل سجّلت ببساطة ما أكلت وكيف شعرت. مع الوقت ساعدها هذا السجل الهادئ على اختيار تركيبات تناسب يومها، مثل الجمع بين الألياف والبروتين عندما تحتاج تركيزًا ثابتًا. أصبح التتبع أداة محايدة لاكتشاف ما يناسب جدولها.",
+          "habit": "بعد كل وجبة اكتب كلمة واحدة عن طاقتك.",
+          "appCta": "افتح Calorie Bank Credit وسجّل وجبة واحدة وكيف شعرت اليوم."
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Noticing energy, not judging food.\nStory: Priya began noting how different meals made her feel through the afternoon—more focused after eggs and veggies, a dip after heavy takeout. She didn’t label foods as good or bad; she simply recorded meals and the energy she experienced. Over time the gentle log helped her choose combinations that fit her day, like pairing fiber with protein when she needed steady focus. Tracking became a neutral tool for discovering what worked for her schedule, not a test or punishment..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-08-motivation-4-story-4",
+      "category": "consistency",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, steady habits",
+          "story": "Jordan, juggling daycare drop-offs and late work calls, started making one small swap each week—adding a veggie to dinner, choosing a whole-grain snack, or prepping a smoothie pack. He logged those swaps to see what stuck and which made him feel more satisfied. Tracking wasn’t about perfection; it was a way to test small changes and keep momentum. Celebrating tiny wins in the app helped Jordan stay consistent, and the weekly experiments kept the process flexible and realistic for his busy life.",
+          "habit": "Try one small swap this week and log it.",
+          "appCta": "Open Calorie Bank Credit and log a small swap today."
+        },
+        "es": {
+          "title": "Pequeños cambios, hábitos constantes",
+          "story": "Jordán, que equilibra dejar a los niños en la guardería y llamadas de trabajo nocturnas, empezó a hacer un cambio pequeño cada semana: añadir una verdura en la cena, elegir un snack integral o preparar packs para batidos. Iba registrando esos cambios para ver cuáles funcionaban y le dejaban más satisfecho. Para él, el registro no era perfección, sino probar pequeñas variaciones y mantener el impulso. Celebrar los pequeños logros en la app ayudó a Jordán a seguir con constancia y a mantener el proceso realista.",
+          "habit": "Haz un pequeño cambio esta semana y regístralo.",
+          "appCta": "Abre Calorie Bank Credit y registra un pequeño cambio hoy."
+        },
+        "ru": {
+          "title": "Небольшие замены — стабильные привычки",
+          "story": "Дмитрий, совмещающий сдачу ребёнка в детсад и поздние рабочие звонки, стал каждую неделю вносить одну небольшую замену — добавлять овощ к ужину, выбирать цельнозерновой перекус или готовить пакеты для смузи. Он фиксировал эти эксперименты, чтобы понять, что прижилось и что давало чувство сытости. Для него трекер не был про идеал, а про тестирование мелких изменений и поддержание инерции. Отмечая маленькие победы в приложении, он поддерживал постоянство и делал процесс реалистичным для своего ритма жизни.",
+          "habit": "Сделайте одну маленькую замену на этой неделе и запишите её.",
+          "appCta": "Откройте Calorie Bank Credit и запишите небольшую замену сегодня."
+        },
+        "uk": {
+          "title": "Маленькі заміни — сталі звички",
+          "story": "Сергій, який поєднує відвезення дітей до садка й пізні робочі дзвінки, щотижня робив одну невелику заміну — додавав овоч до вечері, обирав цільнозерновий перекус або готував пакети для смузі. Він записував ці заміни, щоб побачити, що залишається, а що дає більше ситості. Для нього трекер не був про досконалість, а про випробування маленьких змін і збереження руху вперед. Фіксація маленьких перемог у додатку допомогла залишатися послідовним і зробила процес реалістичним.",
+          "habit": "Спробуйте одну маленьку заміну цього тижня й занотуйте її.",
+          "appCta": "Відкрийте Calorie Bank Credit і занотуйте сьогодні маленьку зміну."
+        },
+        "fr": {
+          "title": "Petits ajustements, habitudes durables",
+          "story": "Jordan, partagé entre déposer les enfants et des appels tardifs, a commencé à faire un petit changement chaque semaine — ajouter un légume au dîner, choisir une collation complète, ou préparer des sachets pour smoothies. Il consignait ces essais pour voir ce qui restait et ce qui lui apportait de la satiété. Le suivi n’était pas une quête de perfection mais un moyen d’essayer de petites choses et de garder l’élan. Célébrer ces petits succès dans l’app a aidé Jordan à maintenir la constance, de façon réaliste.",
+          "habit": "Faites un petit changement cette semaine et enregistrez-le.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un petit changement aujourd’hui."
+        },
+        "de": {
+          "title": "Winzige Änderungen, beständige Gewohnheiten",
+          "story": "Jordan, der KiTa-Bringen und späte Arbeitstelefonate jongliert, fing an, jede Woche einen kleinen Tausch vorzunehmen — Gemüse zum Abendessen, einen Vollkorn-Snack wählen oder Smoothie-Pack vorbereiten. Er protokollierte diese Änderungen, um zu sehen, was bleibt und was ihn länger satt macht. Tracking war nicht Perfektion, sondern ein Weg, kleine Anpassungen zu testen und das Momentum zu halten. Kleine Erfolge in der App zu feiern half Jordan, dran zu bleiben und das Ganze realistisch in seinen Alltag zu integrieren.",
+          "habit": "Probiere diese Woche eine kleine Änderung und trage sie ein.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute eine kleine Änderung ein."
+        },
+        "pt-br": {
+          "title": "Pequenas mudanças, hábitos constantes",
+          "story": "João, que divide as deixas na creche com chamadas de trabalho à noite, passou a fazer uma pequena troca por semana — colocar um vegetal no jantar, escolher um lanche integral ou preparar kits de smoothie. Ele registrava essas trocas para ver o que permaneceu e o que o deixou mais satisfeito. Para ele, registrar não era sobre perfeição, mas sobre testar mudanças pequenas e manter o ritmo. Celebrar pequenas vitórias no app ajudou João a manter a consistência, de forma prática para sua rotina corrida.",
+          "habit": "Faça uma pequena troca esta semana e registre.",
+          "appCta": "Abra o Calorie Bank Credit e registre uma pequena troca hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, tartós szokások",
+          "story": "Jordán, aki az óvodába vitelek és késő esti munkahívások között egyensúlyoz, minden héten bevezetett egy apró változtatást — zöldség hozzáadása vacsorához, teljes kiőrlésű nasi választása vagy smoothie-csomag előkészítése. Ezeket rögzítette, hogy lássa, mi marad meg és mi ad tartós teltségérzetet. A naplózás nem a tökéletességről szólt, hanem a kis változtatások kipróbálásáról és a lendület megtartásáról. A kis sikerek ünneplése az appban segített következetesnek maradni, reálisan a zsúfolt napjai között.",
+          "habit": "Próbálj ki egy apró cserét ezen a héten és jegyezd fel.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezz fel ma egy apró cserét."
+        },
+        "ar": {
+          "title": "تغييرات صغيرة، عادات ثابتة",
+          "story": "سالم، الذي يوازن بين توصيل الأطفال للحضانة ومكالمات العمل المتأخرة، بدأ يقوم بتغيير صغير كل أسبوع — إضافة خضار للعشاء، اختيار وجبة خفيفة من الحبوب الكاملة، أو تجهيز أكياس سموثي مسبقًا. كان يسجل تلك التغييرات ليرى ما يستمر وما يجعله يشعر بالشبع أكثر. لم يكن التتبع بحثًا عن الكمال، بل وسيلة لتجربة تغييرات صغيرة والحفاظ على الزخم. الاحتفال بالإنجازات الصغيرة في التطبيق ساعد سالم على الاستمرار وجعل العملية واقعية لجدوله المزدحم.",
+          "habit": "جرّب تغييرًا صغيرًا هذا الأسبوع وسجّله.",
+          "appCta": "افتح Calorie Bank Credit وسجّل تغييرًا صغيرًا اليوم."
+        }
+      },
+      "generatedAt": "2026-11-08T13:49:10.438Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-08-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, steady habits.\nStory: Jordan, juggling daycare drop-offs and late work calls, started making one small swap each week—adding a veggie to dinner, choosing a whole-grain snack, or prepping a smoothie pack. He logged those swaps to see what stuck and which made him feel more satisfied. Tracking wasn’t about perfection; it was a way to test small changes and keep momentum. Celebrating tiny wins in the app helped Jordan stay consistent, and the weekly experiments kept the process flexible and realistic for his busy life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-07-motivation-1-story-1",
       "category": "consistency",
