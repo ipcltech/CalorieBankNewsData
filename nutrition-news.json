@@ -1,8 +1,757 @@
 {
-  "generatedAt": "2026-11-10T15:10:21.451Z",
+  "generatedAt": "2026-11-11T14:42:22.871Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "precision-nutrition-shifts-the-focus-from-calorie-cuts-to-quality-351bc743cdf5",
+      "category": "nutrition",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261111/Precision-nutrition-shifts-the-focus-from-calorie-cuts-to-quality.aspx",
+      "sourceTitle": "Precision nutrition shifts the focus from calorie cuts to quality",
+      "publishedAt": "Wed, 11 Nov 2026 09:03:14 -0500",
+      "languages": {
+        "en": {
+          "title": "Precision nutrition emphasizes dietary quality over simple calorie reduction",
+          "summary": "An article reviews the shift from broad calorie-restriction paradigms toward precision nutrition approaches that tailor dietary recommendations based on individual biology. It notes that while dietary restriction extends lifespan in model organisms, human-focused precision strategies prioritize food quality and personalized responses.",
+          "whyItMatters": "Personalized dietary approaches could improve metabolic outcomes compared with one-size-fits-all advice, but translating findings from laboratory models to clinical practice requires robust human data and careful evaluation.",
+          "takeaways": [
+            "Laboratory evidence supports dietary restriction effects on lifespan across species, but human application is complex.",
+            "Precision nutrition aims to match diet to individual biology rather than relying solely on calorie counting.",
+            "More clinical research is needed to determine how personalized diets affect long-term health and aging in people."
+          ]
+        },
+        "es": {
+          "title": "La nutrición de precisión enfatiza la calidad de la dieta por encima de la simple reducción calórica",
+          "summary": "Un artículo revisa el giro desde los paradigmas amplios de restricción calórica hacia enfoques de nutrición de precisión que adaptan las recomendaciones dietéticas según la biología individual. Señala que, aunque la restricción dietética extiende la longevidad en organismos modelo, las estrategias de precisión centradas en humanos priorizan la calidad de los alimentos y las respuestas personalizadas.",
+          "whyItMatters": "Los enfoques dietéticos personalizados podrían mejorar los resultados metabólicos en comparación con consejos uniformes, pero trasladar hallazgos de modelos de laboratorio a la práctica clínica requiere datos sólidos en humanos y evaluación cuidadosa.",
+          "takeaways": [
+            "La evidencia de laboratorio respalda los efectos de la restricción dietética sobre la longevidad en varias especies, pero la aplicación humana es compleja.",
+            "La nutrición de precisión pretende ajustar la dieta a la biología individual en lugar de depender únicamente del conteo de calorías.",
+            "Se necesita más investigación clínica para determinar cómo las dietas personalizadas afectan la salud y el envejecimiento a largo plazo en las personas."
+          ]
+        },
+        "ru": {
+          "title": "Персонализированная (прецизионная) нутрициология делает упор на качество питания вместо простого сокращения калорий",
+          "summary": "В обзоре рассматривается переход от широких парадигм ограничения калорий к подходам прецизионной нутрициологии, которые адаптируют рекомендации по питанию в соответствии с индивидуальной биологией. Отмечается, что хотя ограничение питания продлевает жизнь в модельных организмах, стратегии, ориентированные на человека, ставят в приоритет качество пищи и персональные ответы.",
+          "whyItMatters": "Персонализированные подходы к питанию могут улучшать метаболические показатели по сравнению с универсальными рекомендациями, но перенос результатов из лабораторных моделей в клиническую практику требует надёжных данных у людей и тщательной оценки.",
+          "takeaways": [
+            "Лабораторные данные подтверждают эффекты ограничения питания на продолжительность жизни в разных видах, но применение к людям сложно.",
+            "Прецизионная нутрициология стремится подбирать питание под индивидуальную биологию, а не полагаться только на подсчёт калорий.",
+            "Требуются дополнительные клинические исследования, чтобы определить, как персонализированные диеты влияют на долгосрочное здоровье и старение у людей."
+          ]
+        },
+        "uk": {
+          "title": "Прецизійне харчування наголошує на якості їжі більше, ніж на простому скороченні калорій",
+          "summary": "Огляд описує зсув від загальних підходів обмеження калорій до прецизійних стратегій харчування, що підбирають рекомендації з урахуванням індивідуальної біології. Зазначається, що хоча обмеження дієти подовжує життя у модельних організмів, людські підходи пріоритезують якість їжі та персоналізовані реакції.",
+          "whyItMatters": "Персоналізовані харчові підходи могли б покращити метаболічні результати порівняно з універсальною порадою, але перенесення результатів з лабораторних моделей у клінічну практику потребує надійних даних у людей і ретельної оцінки.",
+          "takeaways": [
+            "Експериментальні дані підтримують вплив обмеження харчування на тривалість життя в різних видів, проте застосування до людей є складним.",
+            "Прецизійне харчування має на меті підбирати раціон відповідно до індивідуальної біології, а не лише рахувати калорії.",
+            "Потрібні додаткові клінічні дослідження, щоб встановити, як персоналізовані дієти впливають на довгострокове здоров’я і старіння у людей."
+          ]
+        },
+        "fr": {
+          "title": "La nutrition de précision met l’accent sur la qualité alimentaire plutôt que sur la simple réduction des calories",
+          "summary": "Un article passe en revue le déplacement du paradigme de la restriction calorique générale vers des approches de nutrition de précision, qui adaptent les recommandations alimentaires à la biologie individuelle. Il note que si la restriction alimentaire prolonge la durée de vie chez des organismes modèles, les stratégies centrées sur l’humain privilégient la qualité des aliments et les réponses personnalisées.",
+          "whyItMatters": "Les approches alimentaires personnalisées pourraient améliorer les résultats métaboliques par rapport aux conseils « taille unique », mais la traduction des résultats des modèles de laboratoire en pratique clinique nécessite des données humaines robustes et une évaluation prudente.",
+          "takeaways": [
+            "Les données de laboratoire soutiennent les effets de la restriction alimentaire sur la durée de vie dans plusieurs espèces, mais l’application à l’humain est complexe.",
+            "La nutrition de précision vise à adapter l’alimentation à la biologie individuelle plutôt que de se limiter au comptage des calories.",
+            "Davantage de recherches cliniques sont nécessaires pour déterminer comment les régimes personnalisés affectent la santé à long terme et le vieillissement chez l’homme."
+          ]
+        },
+        "de": {
+          "title": "Präzisionsernährung betont Ernährungsqualität statt einfacher Kalorienreduktion",
+          "summary": "Ein Artikel beschreibt die Verlagerung von pauschalen Kalorienreduktionsparadigmen hin zu Präzisionsernährungsansätzen, die Ernährungsempfehlungen an die individuelle Biologie anpassen. Er stellt fest, dass zwar kalorische Restriktion die Lebensspanne in Modellorganismen verlängert, menschbezogene Präzisionsstrategien jedoch die Nahrungsqualität und personalisierte Reaktionen in den Vordergrund stellen.",
+          "whyItMatters": "Personalisierte Ernährungsansätze könnten metabolische Ergebnisse gegenüber Einheitsrat verbessern, aber die Übertragung von Befunden aus Laborversuchen in die klinische Praxis erfordert robuste humanwissenschaftliche Daten und sorgfältige Bewertung.",
+          "takeaways": [
+            "Laborbefunde stützen Effekte kalorischer Restriktion auf die Lebensdauer über Arten hinweg, doch die Anwendung beim Menschen ist komplex.",
+            "Präzisionsernährung zielt darauf ab, die Ernährung an die individuelle Biologie anzupassen, statt sich ausschließlich auf Kalorienzählen zu stützen.",
+            "Mehr klinische Forschung ist nötig, um zu bestimmen, wie personalisierte Diäten die langfristige Gesundheit und das Altern beim Menschen beeinflussen."
+          ]
+        },
+        "pt-br": {
+          "title": "Nutrição de precisão enfatiza qualidade da dieta em vez de simples redução de calorias",
+          "summary": "Um artigo revisa a mudança de paradigmas de restrição calórica generalizada para abordagens de nutrição de precisão que ajustam recomendações dietéticas com base na biologia individual. Observa‑se que, embora a restrição dietética aumente a longevidade em modelos animais, estratégias de precisão voltadas para humanos priorizam qualidade dos alimentos e respostas personalizadas.",
+          "whyItMatters": "Abordagens dietéticas personalizadas podem melhorar resultados metabólicos em comparação com conselhos uniformes, mas traduzir achados de modelos laboratoriais para a prática clínica exige dados robustos em humanos e avaliação cuidadosa.",
+          "takeaways": [
+            "Evidência de laboratório apoia efeitos da restrição dietética sobre longevidade entre espécies, mas a aplicação humana é complexa.",
+            "Nutrição de precisão busca adequar a dieta à biologia individual em vez de depender apenas da contagem de calorias.",
+            "Mais pesquisa clínica é necessária para determinar como dietas personalizadas afetam a saúde e o envelhecimento a longo prazo nas pessoas."
+          ]
+        },
+        "hu": {
+          "title": "A precíziós táplálkozás a kalóriamegvonás helyett az étrendi minőségre helyezi a hangsúlyt",
+          "summary": "Egy áttekintés bemutatja az elmozdulást a széles körű kalóriamegszorításon alapuló paradigmák felől a precíziós táplálkozás felé, amely az egyéni biológián alapuló étrendi ajánlásokat helyezi előtérbe. Megjegyzi, hogy bár a táplálék-megszorítás meghosszabbította az élettartamot modellorganizmokban, az emberi fókuszú precíziós stratégiák az élelmiszer minőségére és a személyre szabott válaszokra összpontosítanak.",
+          "whyItMatters": "A személyre szabott étrendi megközelítések javíthatják a metabolikus eredményeket a mindenki számára egyforma tanácsokhoz képest, de a laboratóriumi eredmények klinikai gyakorlatba ültetéséhez robusztus humán adatokra és gondos értékelésre van szükség.",
+          "takeaways": [
+            "A laboratóriumi bizonyítékok alátámasztják a táplálék-megszorítás hatását az élettartamra több fajban, de az emberi alkalmazás összetett.",
+            "A precíziós táplálkozás célja az étrend igazítása az egyéni biológiához a puszta kalóriaszámolás helyett.",
+            "További klinikai kutatások szükségesek annak megállapítására, hogy a személyre szabott étrendek hogyan befolyásolják a hosszú távú egészséget és az öregedést emberekben."
+          ]
+        },
+        "ar": {
+          "title": "التغذية الدقيقة تركز على جودة النظام الغذائي بدلًا من مجرد خفض السعرات",
+          "summary": "تستعرض مقالة التحول من نماذج التقييد الحراري الشاملة نحو نهج التغذية الدقيقة التي تفصّل التوصيات الغذائية بناءً على علم الأحياء الفردي. وتلاحظ أنه بينما يطيل تقييد الغذاء العمر في نماذج حيوانية، تركز استراتيجيات التغذية الدقيقة الموجهة للإنسان على جودة الطعام والاستجابات الشخصية.",
+          "whyItMatters": "قد تحسّن الأساليب الغذائية المخصصة النتائج الأيضية مقارنة بالنصائح العامة، لكن تحويل النتائج المختبرية إلى الممارسة السريرية يتطلب بيانات بشرية قوية وتقييماً دقيقاً.",
+          "takeaways": [
+            "تدعّم الأدلة المعملية آثار تقييد الغذاء على طول العمر عبر أنواع متعددة، لكن التطبيق البشري معقد.",
+            "تهدف التغذية الدقيقة لمطابقة النظام الغذائي مع البيولوجيا الفردية بدلًا من الاعتماد على عد السعرات فقط.",
+            "مزيد من الأبحاث السريرية ضرورية لتحديد كيفية تأثير الأنظمة الغذائية المخصصة على الصحة والشيخوخة على المدى الطويل لدى الناس."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=precision-nutrition-shifts-the-focus-from-calorie-cuts-to-quality-351bc743cdf5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/precision-nutrition-shifts-the-focus-from-calorie-cuts-to-quality-351bc743cdf5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/precision-nutrition-shifts-the-focus-from-calorie-cuts-to-quality-351bc743cdf5-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Precision nutrition emphasizes dietary quality over simple calorie reduction.\nStory summary: An article reviews the shift from broad calorie-restriction paradigms toward precision nutrition approaches that tailor dietary recommendations based on individual biology. It notes that while dietary restriction extends lifespan in model organisms, human-focused precision strategies prioritize food quality and personalized responses..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "canine-companionship-with-a-catch-health-effects-of-big-city-dog--d3111a81cc2b",
+      "category": "healthy ageing and longevity",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-canine-companionship-health-effects-big.html",
+      "sourceTitle": "Canine companionship, with a catch: Health effects of big-city dog ownership differ by location",
+      "publishedAt": "Wed, 11 Nov 2026 08:20:01 EST",
+      "languages": {
+        "en": {
+          "title": "Study explores how dog walking and neighborhood environment interact for healthy aging in dense cities",
+          "summary": "Research examined how dog walking, an everyday activity, interacts with neighborhood environments in dense Asian cities to influence healthy aging. The study highlights that the health effects of dog ownership vary by local environmental support for walking and other factors.",
+          "whyItMatters": "Physical activity benefits of dog walking may depend on neighborhood design and resources; interventions to promote healthy aging should consider environment–behavior interactions rather than assuming uniform benefits.",
+          "takeaways": [
+            "Dog ownership and walking are linked to health outcomes, but benefits vary by neighborhood context.",
+            "Urban design and local resources can influence whether dog-related activity supports healthy aging.",
+            "Policymakers and planners should consider environment-level factors when promoting physical activity for older adults."
+          ]
+        },
+        "es": {
+          "title": "Estudio explora cómo pasear al perro y el entorno vecinal interactúan para un envejecimiento saludable en ciudades densas",
+          "summary": "La investigación examinó cómo pasear al perro, una actividad cotidiana, interactúa con los entornos vecinales en ciudades asiáticas densas para influir en el envejecimiento saludable. El estudio destaca que los efectos en la salud de tener un perro varían según el apoyo ambiental local para caminar y otros factores.",
+          "whyItMatters": "Los beneficios de la actividad física por pasear al perro pueden depender del diseño y los recursos del vecindario; las intervenciones para promover un envejecimiento saludable deberían considerar las interacciones entre entorno y conducta en lugar de asumir beneficios uniformes.",
+          "takeaways": [
+            "La tenencia y el paseo de perros se asocian con resultados de salud, pero los beneficios varían según el contexto vecinal.",
+            "El diseño urbano y los recursos locales pueden influir en si la actividad relacionada con perros favorece un envejecimiento saludable.",
+            "Los responsables de políticas y planificación deberían considerar factores a nivel ambiental al promover la actividad física para adultos mayores."
+          ]
+        },
+        "ru": {
+          "title": "Исследование изучает, как выгул собак и окружение района взаимодействуют для здорового старения в густонаселённых городах",
+          "summary": "Исследование рассмотрело, как ежедневная активность — выгул собаки — взаимодействует с характеристиками районов в плотных азиатских городах и влияет на здоровое старение. Работа подчёркивает, что эффекты владения собакой на здоровье зависят от того, насколько окружение способствует прогулкам и другим факторам.",
+          "whyItMatters": "Польза физической активности при выгуле собаки может зависеть от планировки района и доступных ресурсов; программы по продвижению здорового старения должны учитывать взаимодействие среды и поведения, а не предполагать одинаковую пользу для всех.",
+          "takeaways": [
+            "Владение собакой и её выгул связаны с показателями здоровья, но выгода зависит от контекста района.",
+            "Градостроение и местные ресурсы могут влиять на то, способствует ли активность с собакой здоровому старению.",
+            "Политикам и городским планировщикам стоит учитывать факторы окружения при продвижении физической активности среди пожилых людей."
+          ]
+        },
+        "uk": {
+          "title": "Дружба з собакою з оговоркою: ефекти на здоров’я власництва великого міського собаки залежать від місця",
+          "summary": "Дослідження вивчало, як прогулянки з собакою, повсякденна активність, взаємодіють із середовищем кварталу у щільних азіатських містах та впливають на здорове старіння. Робота підкреслює, що користь від володіння собакою різниться в залежності від місцевої підтримки для прогулянок та інших факторів.",
+          "whyItMatters": "Переваги фізичної активності від прогулянок з собакою можуть залежати від дизайну та ресурсів району; інтервенції для підтримки здорового старіння повинні враховувати взаємодію середовища й поведінки замість припущення однакової користі для всіх.",
+          "takeaways": [
+            "Володіння собакою та прогулянки пов’язані з результатами здоров’я, але користь варіює залежно від контексту району.",
+            "Міський дизайн і місцеві ресурси можуть впливати на те, чи підтримує активність з собакою здорове старіння.",
+            "Політики та планувальники повинні враховувати фактори навколишнього середовища при просуванні фізичної активності серед літніх людей."
+          ]
+        },
+        "fr": {
+          "title": "Compagnie canine, avec réserve : les effets sur la santé de la possession d’un chien en grande ville diffèrent selon le lieu",
+          "summary": "Une recherche a examiné comment la promenade du chien, une activité quotidienne, interagit avec l’environnement de quartier dans des villes denses d’Asie pour influencer le vieillissement en bonne santé. L’étude souligne que les effets sur la santé de la possession d’un chien varient selon le soutien local à la marche et d’autres facteurs.",
+          "whyItMatters": "Les bénéfices de l’activité physique liés à la promenade du chien peuvent dépendre de la conception du quartier et des ressources locales ; les interventions visant à promouvoir un vieillissement sain devraient considérer les interactions environnement‑comportement plutôt que de supposer des bénéfices uniformes.",
+          "takeaways": [
+            "La possession et la promenade d’un chien sont liées à des résultats de santé, mais les bénéfices varient selon le contexte du quartier.",
+            "L’aménagement urbain et les ressources locales peuvent influencer si l’activité liée au chien favorise un vieillissement sain.",
+            "Les décideurs et urbanistes devraient prendre en compte les facteurs environnementaux lorsqu’ils promeuvent l’activité physique chez les personnes âgées."
+          ]
+        },
+        "de": {
+          "title": "Studie untersucht Wechselwirkung von Hundespaziergang und Nachbarschaftsumfeld für gesundes Altern in dicht bebauten Städten",
+          "summary": "Forschung untersuchte, wie Hundespaziergänge, eine Alltagsaktivität, mit Nachbarschaftsumfeldern in dichten asiatischen Städten interagieren, um gesundes Altern zu beeinflussen. Die Studie betont, dass die gesundheitlichen Effekte des Hundebesitzes je nach lokaler Unterstützung für das Gehen und anderen Faktoren variieren.",
+          "whyItMatters": "Die gesundheitlichen Vorteile körperlicher Aktivität durch Hundespaziergänge können von der Gestaltung und Ausstattung der Nachbarschaft abhängen; Maßnahmen zur Förderung gesunden Alterns sollten Umwelt‑Verhaltens‑Interaktionen berücksichtigen, statt einheitliche Vorteile anzunehmen.",
+          "takeaways": [
+            "Hundebesitz und -spaziergänge sind mit Gesundheitsoutcomes verbunden, aber die Vorteile variieren je nach Nachbarschaftskontext.",
+            "Stadtplanung und lokale Ressourcen können beeinflussen, ob hundebezogene Aktivität gesundes Altern unterstützt.",
+            "Politikgestalter und Planer sollten Umweltfaktoren berücksichtigen, wenn sie körperliche Aktivität für ältere Erwachsene fördern."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo explora como passear com cães e ambiente do bairro interagem para envelhecimento saudável em cidades densas",
+          "summary": "Uma pesquisa examinou como passear com o cão, uma atividade do dia a dia, interage com ambientes de bairro em cidades asiáticas densas para influenciar o envelhecimento saudável. O estudo destaca que os efeitos na saúde da posse de cães variam conforme o suporte local para caminhada e outros fatores.",
+          "whyItMatters": "Os benefícios de atividade física de passear com o cão podem depender do desenho e dos recursos do bairro; intervenções para promover envelhecimento saudável devem considerar interações entre ambiente e comportamento em vez de presumir benefícios uniformes.",
+          "takeaways": [
+            "Posse de cães e passeios estão ligados a desfechos de saúde, mas os benefícios variam conforme o contexto do bairro.",
+            "O desenho urbano e recursos locais podem influenciar se a atividade relacionada a cães apoia o envelhecimento saudável.",
+            "Formuladores de políticas e planejadores devem considerar fatores em nível ambiental ao promover atividade física para adultos mais velhos."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány vizsgálja, hogyan hat a kutyasétáltatás és a környezeti jellemzők kölcsönhatása az egészséges öregedésre sűrű városokban",
+          "summary": "A kutatás azt vizsgálta, hogyan hat a mindennapi kutyasétáltatás a környezettel való kölcsönhatás révén a sűrű ázsiai városokban az egészséges öregedésre. A tanulmány kiemeli, hogy a kutyatartás egészségre gyakorolt hatásai eltérnek attól függően, mennyire támogatja a helyi környezet a sétát és egyéb tényezők.",
+          "whyItMatters": "A kutyasétáltatás fizikai aktivitásból származó előnyei függhetnek a városrendezéstől és a helyi erőforrásoktól; az egészséges öregedést támogató beavatkozásoknál fontos figyelembe venni a környezet és a viselkedés közötti kölcsönhatásokat, nem pedig feltételezni az egyenletes előnyöket.",
+          "takeaways": [
+            "A kutyatartás és a sétáltatás összefügg az egészségügyi eredményekkel, de az előnyök a környezeti kontextustól függnek.",
+            "A városi tervezés és a helyi források befolyásolhatják, hogy a kutyával végzett aktivitás támogatja‑e az egészséges öregedést.",
+            "A döntéshozóknak és tervezőknek figyelembe kell venniük a környezeti tényezőket, amikor az idősebbek fizikai aktivitását ösztönzik."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تستكشف تفاعل المشي مع الكلب ووسط الحي لصالح الشيخوخة الصحية في مدن مكتظة",
+          "summary": "بحثت الدراسة كيف يتفاعل المشي مع الكلب — نشاط يومي — مع بيئات الأحياء في مدن آسيوية مكتظة ليؤثر على الشيخوخة الصحية. وتُبرز الدراسة أن آثار امتلاك كلب على الصحة تختلف باختلاف مدى دعم البيئة المحلية للمشي وعوامل أخرى.",
+          "whyItMatters": "قد تعتمد فوائد النشاط البدني من مشي الكلب على تصميم الحي والموارد المحلية؛ وبالتالي ينبغي أن تأخذ البرامج الرامية لتعزيز الشيخوخة الصحية بعين الاعتبار تفاعلات البيئة والسلوك بدلاً من افتراض فوائد موحّدة.",
+          "takeaways": [
+            "يرتبط امتلاك كلب والمشي به بنتائج صحية، لكن الفوائد تختلف تبعًا لسياق الحي.",
+            "يمكن لتخطيط المدن والموارد المحلية أن تؤثر فيما إذا كانت أنشطة متصلة بالكلب تساند الشيخوخة الصحية.",
+            "على واضعي السياسات والمخططين مراعاة عوامل المستوى البيئي عند تشجيع النشاط البدني لدى البالغين الأكبر سنًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=canine-companionship-with-a-catch-health-effects-of-big-city-dog--d3111a81cc2b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/canine-companionship-with-a-catch-health-effects-of-big-city-dog-d3111a81cc2b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/canine-companionship-with-a-catch-health-effects-of-big-city-dog-d3111a81cc2b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study explores how dog walking and neighborhood environment interact for healthy aging in dense cities.\nStory summary: Research examined how dog walking, an everyday activity, interacts with neighborhood environments in dense Asian cities to influence healthy aging. The study highlights that the health effects of dog ownership vary by local environmental support for walking and other factors..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest-6221444eecf9",
+      "category": "blood vessels and cardiovascular health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "sourceTitle": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "publishedAt": "Wed, 11 Nov 2026 08:10:51 EST",
+      "languages": {
+        "en": {
+          "title": "Study links energy drinks and stimulant supplements to disproportionately frequent cardiovascular reports",
+          "summary": "A new analysis found that reports involving energy drinks and stimulant supplements disproportionately included serious heart problems: about 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults made up nearly half of the cardiovascular reports. The researchers caution the study cannot establish causation.",
+          "whyItMatters": "Signals from reporting systems can highlight potential safety concerns with widely used products, especially among younger people, but reported associations do not prove the products caused the events.",
+          "takeaways": [
+            "The finding is an association from reported events, not proof of causation.",
+            "Young adults accounted for a large share of reported cardiovascular events linked to these products in this analysis.",
+            "Further controlled investigations are needed to assess risk and mechanisms; consumers and clinicians should be aware of the safety signal."
+          ]
+        },
+        "es": {
+          "title": "Estudio vincula bebidas energéticas y suplementos estimulantes con reportes cardiovasculares desproporcionados",
+          "summary": "Un nuevo análisis encontró que los reportes que involucraban bebidas energéticas y suplementos estimulantes incluían desproporcionadamente problemas cardíacos graves: aproximadamente 11 veces más reportes de paro cardíaco y 4,5 veces más reportes de infartos. Los adultos jóvenes representaron casi la mitad de los reportes cardiovasculares. Los investigadores advierten que el estudio no puede establecer causalidad.",
+          "whyItMatters": "Señales procedentes de sistemas de notificación pueden destacar posibles problemas de seguridad con productos de uso generalizado, especialmente entre personas más jóvenes, pero las asociaciones reportadas no prueban que los productos causaran los eventos.",
+          "takeaways": [
+            "El hallazgo es una asociación derivada de eventos notificados, no una prueba de causalidad.",
+            "Los adultos jóvenes representaron una gran proporción de los eventos cardiovasculares reportados vinculados a estos productos en este análisis.",
+            "Se necesitan investigaciones controladas adicionales para evaluar riesgos y mecanismos; consumidores y clínicos deberían estar al tanto de esta señal de seguridad."
+          ]
+        },
+        "ru": {
+          "title": "Исследование связывает энергетические напитки и стимулирующие добавки с чрезмерно частыми сообщениями о сердечно‑сосудистых событиях",
+          "summary": "Новое исследование показало, что в отчетах, связанных с энергетическими напитками и стимулирующими добавками, непропорционально часто встречались серьезные сердечные проблемы: примерно в 11 раз больше сообщений о сердечной остановке и в 4,5 раза больше сообщений об инфаркте. Молодые взрослые составили почти половину таких сообщений. Исследователи предупреждают, что исследование не может установить причинно‑следственную связь.",
+          "whyItMatters": "Сигналы из систем регистрации могут выявлять потенциальные проблемы безопасности для широко используемых продуктов, особенно среди молодёжи, но зарегистрированные ассоциации не доказывают, что продукты вызвали события.",
+          "takeaways": [
+            "Это ассоциация на основе зарегистрированных событий, а не доказательство причинности.",
+            "Молодые взрослые составили значительную долю зарегистрированных сердечно‑сосудистых событий, связанных с этими продуктами в анализе.",
+            "Для оценки рисков и механизмов требуются дальнейшие контролируемые исследования; потребителям и клиницистам следует знать об этой сигнальной информации по безопасности."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження пов’язує енергетичні напої та стимулюючі добавки з непропорційно частими повідомленнями про серцево‑судинні події",
+          "summary": "Нове дослідження виявило, що у звітах, пов’язаних з енергетичними напоями і стимулюючими харчовими добавками, непропорційно часто фіксувалися серйозні проблеми з серцем: приблизно у 11 разів більше повідомлень про серцеву зупинку та у 4,5 раза більше повідомлень про інфаркт. Молоді дорослі становили майже половину таких повідомлень. Автори застерігають, що дослідження не може встановити причинно‑наслідковий зв’язок.",
+          "whyItMatters": "Сигнали з систем звітування можуть вказувати на потенційні проблеми безпеки широко вживаних продуктів, особливо серед молоді, але асоціації у звітах не доводять, що продукти спричинили події.",
+          "takeaways": [
+            "Це асоціація на основі зареєстрованих повідомлень, а не доказ причинності.",
+            "У цьому аналізі молоді дорослі становили велику частину повідомлень про серцево‑судинні події, пов’язані з цими продуктами.",
+            "Потрібні подальші контрольовані дослідження для оцінки ризику і механізмів; споживачам і лікарям слід бути обізнаними про цей сигнал безпеки."
+          ]
+        },
+        "fr": {
+          "title": "Une étude lie boissons énergétiques et compléments stimulants à des signalements cardiovasculaires disproportionnés",
+          "summary": "Une nouvelle analyse a trouvé que les signalements impliquant des boissons énergétiques et des compléments stimulants comportaient de manière disproportionnée des problèmes cardiaques sérieux : environ 11 fois plus de signalements d’arrêt cardiaque et 4,5 fois plus de signalements d’infarctus. Les jeunes adultes représentaient près de la moitié des signalements cardiovasculaires. Les chercheurs précisent que l’étude ne permet pas d’établir une relation de cause à effet.",
+          "whyItMatters": "Les signaux issus des systèmes de déclaration peuvent mettre en lumière des préoccupations potentielles de sécurité pour des produits largement utilisés, surtout chez les plus jeunes, mais les associations signalées ne prouvent pas que les produits ont causé les événements.",
+          "takeaways": [
+            "Il s’agit d’une association issue de signalements, non d’une preuve de causalité.",
+            "Les jeunes adultes représentaient une large part des signalements cardiovasculaires liés à ces produits dans cette analyse.",
+            "Des investigations contrôlées supplémentaires sont nécessaires pour évaluer les risques et mécanismes ; consommateurs et cliniciens doivent être informés de ce signal de sécurité."
+          ]
+        },
+        "de": {
+          "title": "Studie verbindet Energydrinks und stimulierende Nahrungsergänzungen mit überproportional vielen kardiovaskulären Meldungen",
+          "summary": "Eine neue Analyse ergab, dass Meldungen, in denen Energydrinks und stimulierende Nahrungsergänzungsmittel genannt wurden, überproportional schwere Herzprobleme enthielten: etwa 11‑mal mehr Meldungen über Herzstillstand und 4,5‑mal mehr Meldungen über Herzinfarkt. Fast die Hälfte der kardiovaskulären Meldungen betraf junge Erwachsene. Die Forschenden betonen, dass die Studie keine Kausalität nachweisen kann.",
+          "whyItMatters": "Signale aus Meldesystemen können auf mögliche Sicherheitsprobleme bei weit verbreiteten Produkten hinweisen, insbesondere bei Jüngeren; gemeldete Zusammenhänge beweisen jedoch nicht, dass die Produkte die Ereignisse verursacht haben.",
+          "takeaways": [
+            "Der Befund ist eine Assoziation aus gemeldeten Ereignissen und kein Beweis für Kausalität.",
+            "Junge Erwachsene machten in dieser Analyse einen großen Anteil der gemeldeten kardiovaskulären Ereignisse im Zusammenhang mit diesen Produkten aus.",
+            "Weitere kontrollierte Untersuchungen sind nötig, um Risiko und Mechanismen zu bewerten; Verbraucher und medizinisches Personal sollten das beobachtete Sicherheitsignal kennen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo liga bebidas energéticas e suplementos estimulantes a relatos cardiovasculares desproporcionalmente frequentes",
+          "summary": "Uma nova análise constatou que relatos envolvendo bebidas energéticas e suplementos estimulantes incluíam desproporcionalmente problemas cardíacos graves: cerca de 11 vezes mais relatos de parada cardíaca e 4,5 vezes mais relatos de infarto. Adultos jovens representaram quase metade dos relatos cardiovasculares. Os pesquisadores avisam que o estudo não estabelece causalidade.",
+          "whyItMatters": "Sinais vindos de sistemas de notificação podem destacar potenciais preocupações de segurança com produtos amplamente usados, especialmente entre pessoas mais jovens, mas associações relatadas não provam que os produtos causaram os eventos.",
+          "takeaways": [
+            "O achado é uma associação a partir de eventos relatados, não prova de causalidade.",
+            "Adultos jovens responderam por grande parte dos eventos cardiovasculares relatados ligados a esses produtos nesta análise.",
+            "Investigações controladas adicionais são necessárias para avaliar riscos e mecanismos; consumidores e clínicos devem estar cientes do sinal de segurança."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: energiadrinkehez és serkentő kiegészítőkhöz aránytalanul gyakori szív-érrendszeri bejelentések kapcsolódnak",
+          "summary": "Egy új elemzés szerint az energiadrinkshez és serkentő étrend-kiegészítőkhöz tartozó bejelentések aránytalanul gyakran tartalmaztak súlyos szívproblémákat: körülbelül 11-szer több szívmegállás-jelentés és 4,5-ször több szívrohammal kapcsolatos jelentés. A fiatal felnőttek közel a bejelentések felét tették ki. A kutatók hangsúlyozzák, hogy a vizsgálat nem igazolja az okozati összefüggést.",
+          "whyItMatters": "A jelentési rendszerek jelzései rávilágíthatnak lehetséges biztonsági aggályokra széles körben használt termékeknél, különösen fiatalok körében, de a jelentett összefüggések nem bizonyítják, hogy a termékek okozták az eseményeket.",
+          "takeaways": [
+            "A megállapítás egy bejelentéseken alapuló összefüggés, nem okozati bizonyíték.",
+            "A fiatal felnőttek jelentős arányban képviseltették magukat a termékekhez kötődő szív-érrendszeri bejelentésekben ebben az elemzésben.",
+            "További kontrollált vizsgálatok szükségesek a kockázat és mechanizmusok felméréséhez; a fogyasztóknak és klinikusoknak tisztában kell lenniük e jelzéssel."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تربط مشروبات الطاقة والمكملات المنشطة بتكرار أكبر لتقارير مشاكل القلب والأوعية الدموية",
+          "summary": "وجد تحليل جديد أن التقارير التي تتضمن مشروبات الطاقة والمكملات المنشطة تضمنت بشكل غير متناسب مشكلات قلبية خطيرة: نحو 11 ضعفًا من تقارير السكتة القلبية و4.5 ضعفًا من تقارير النوبات القلبية. شكل البالغون الصغار النسبة الكبرى تقريبًا من تقارير الأحداث القلبية الوعائية. يحذر الباحثون من أن الدراسة لا تثبت السببية.",
+          "whyItMatters": "يمكن لإشارات نظم الإبلاغ أن تُبرز مخاوف محتملة تتعلق بالسلامة بشأن منتجات مستخدمة على نطاق واسع، خاصة بين صغار السن، لكن الارتباطات المبلغ عنها لا تثبت أن المنتجات هي السبب في الحوادث.",
+          "takeaways": [
+            "النتيجة تعكس ارتباطًا استنادًا إلى البلاغات، وليست دليلًا على السببية.",
+            "شكل البالغون الصغار حصة كبيرة من تقارير الأحداث القلبية المرتبطة بهذه المنتجات في هذا التحليل.",
+            "تتطلب المسألة مزيدًا من الدراسات المحكومة لتقييم المخاطر والآليات؛ على المستهلكين والمهنيين الصحيين أن يكونوا واعين بهذه الإشارة إلى المخاطر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest-6221444eecf9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest-6221444eecf9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest-6221444eecf9-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links energy drinks and stimulant supplements to disproportionately frequent cardiovascular reports.\nStory summary: A new analysis found that reports involving energy drinks and stimulant supplements disproportionately included serious heart problems: about 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults made up nearly half of the cardiovascular reports. The researchers caution the study cannot establish causation..\nCategory: blood vessels and cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "normalized-membrane-ratio-of-trop2-as-a-predictor-of-clinical-out-4d85c3f5d5ff",
+      "category": "AI in cancer detection and treatment",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04716-9",
+      "sourceTitle": "Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer",
+      "publishedAt": "2026-11-11",
+      "languages": {
+        "en": {
+          "title": "Computational pathology biomarker (TROP2 membrane ratio) predicts benefit from datopotamab deruxtecan in NSCLC",
+          "summary": "Researchers developed and validated a computational pathology biomarker called the TROP2 normalized membrane ratio that quantifies subcellular TROP2 localization. In patients with nonsquamous non-small-cell lung cancer (without actionable genomic alterations), the biomarker was associated with improved progression-free and overall survival on datopotamab deruxtecan.",
+          "whyItMatters": "If validated broadly, a quantitative pathology biomarker could help identify patients more likely to benefit from an antibody–drug conjugate, guiding treatment choices in a hard-to-treat subgroup.",
+          "takeaways": [
+            "This report presents a computational pathology biomarker correlated with patient outcomes on a specific drug, not proof that the biomarker causes benefit.",
+            "Findings are based on development and validation reported in Nature Medicine; external replication and clinical utility studies would be needed before routine clinical use.",
+            "The work illustrates how image-based biomarkers can potentially stratify patients for targeted cancer therapies."
+          ]
+        },
+        "es": {
+          "title": "Biomarcador de patología computacional (ratio de membrana de TROP2) predice beneficio de datopotamab deruxtecan en NSCLC",
+          "summary": "Los investigadores desarrollaron y validaron un biomarcador de patología computacional llamado ratio de membrana normalizada de TROP2 que cuantifica la localización subcelular de TROP2. En pacientes con cáncer de pulmón de células no pequeñas no escamoso (sin alteraciones genómicas accionables), el biomarcador se asoció con una mayor supervivencia libre de progresión y supervivencia global con datopotamab deruxtecan.",
+          "whyItMatters": "Si se valida de forma amplia, un biomarcador cuantitativo de patología podría ayudar a identificar a los pacientes con más probabilidades de beneficiarse de un conjugado anticuerpo‑fármaco y orientar las decisiones de tratamiento en un subgrupo de difícil tratamiento.",
+          "takeaways": [
+            "Este informe presenta un biomarcador de patología computacional correlacionado con resultados de pacientes con un fármaco específico; no demuestra que el biomarcador cause el beneficio.",
+            "Los hallazgos se basan en desarrollo y validación publicados en Nature Medicine; se necesitarían replicación externa y estudios de utilidad clínica antes de su uso clínico rutinario.",
+            "El trabajo ilustra cómo los biomarcadores basados en imágenes pueden, potencialmente, estratificar a los pacientes para terapias oncológicas dirigidas."
+          ]
+        },
+        "ru": {
+          "title": "Биомаркер вычислительной патологии (коэффициент мембраны TROP2) предсказывает пользу от datopotamab deruxtecan при НМРЛ",
+          "summary": "Исследователи разработали и валидаировали биомаркер вычислительной патологии — нормализованный коэффициент мембраны TROP2, который количественно оценивает субклеточную локализацию TROP2. У пациентов с не‑плоскоклеточным немелкоклеточным раком легкого (без терапевтически значимых геномных изменений) присутствовала связь между этим биомаркером и улучшенной выживаемостью без прогрессирования и общей выживаемостью при лечении datopotamab deruxtecan.",
+          "whyItMatters": "При широкой валидации количественный патологический биомаркер мог бы помочь выявлять пациентов, более вероятно получающих пользу от антитело‑лекарственного конъюгата, и направлять выбор терапии в трудно поддающемся лечению подгруппе.",
+          "takeaways": [
+            "В докладе представлен вычислительный патологический биомаркер, коррелирующий с исходами у пациентов при конкретном препарате; это не доказательство того, что биомаркер вызывает пользу.",
+            "Результаты основаны на разработке и валидации, описанных в Nature Medicine; прежде чем использовать в рутинной клинике, требуются внешняя репликация и исследования клинической полезности.",
+            "Работа показывает, как биомаркеры на основе изображений потенциально могут стратифицировать пациентов для целевых онкологических терапий."
+          ]
+        },
+        "uk": {
+          "title": "Біомаркер комп'ютерної патології (мембранне співвідношення TROP2) прогнозує користь від datopotamab deruxtecan при немелкоклітинному раку легень",
+          "summary": "Дослідники розробили та валідували обчислювальний патологічний біомаркер — нормалізоване мембранне співвідношення TROP2, який кількісно оцінює субклітинну локалізацію TROP2. У пацієнтів з немелкоклітинним раком легень без цілеспрямованих геномних змін цей біомаркер був пов’язаний із покращеною безпрогресивною та загальною виживаністю при лікуванні datopotamab deruxtecan.",
+          "whyItMatters": "Якщо такий кількісний патологічний біомаркер підтвердять у ширшому масштабі, він міг би допомогти відбирати пацієнтів, які швидше отримають користь від антитіло‑лікарської сполуки, і таким чином інформувати вибір лікування в важковиліковній підгрупі.",
+          "takeaways": [
+            "Звіт описує кореляцію біомаркера з результатами пацієнтів на конкретному препараті, але не доводить, що біомаркер спричинює користь.",
+            "Висновки базуються на розробці та валідації, опублікованих у Nature Medicine; перед рутинним клінічним застосуванням потрібні зовнішня реплікація та дослідження клінічної корисності.",
+            "Робота ілюструє, як біомаркери на основі зображень можуть потенційно стратифікувати пацієнтів для таргетних протиракових терапій."
+          ]
+        },
+        "fr": {
+          "title": "Un biomarqueur de pathologie computationnelle (ratio membranaire normalisé de TROP2) prédit le bénéfice du datopotamab deruxtecan dans le cancer du poumon non à petites cellules",
+          "summary": "Des chercheurs ont développé et validé un biomarqueur de pathologie computationnelle — le ratio membranaire normalisé de TROP2 — qui quantifie la localisation subcellulaire de TROP2. Chez des patients atteints de cancer du poumon non à petites cellules sans altérations génomiques actionnables, ce biomarqueur était associé à une survie sans progression et une survie globale améliorées sous datopotamab deruxtecan.",
+          "whyItMatters": "Si ce biomarqueur quantitatif est confirmé à plus grande échelle, il pourrait aider à identifier les patients susceptibles de bénéficier d’un conjugué anticorps‑médicament, guidant ainsi le choix thérapeutique dans un sous‑groupe difficile à traiter.",
+          "takeaways": [
+            "Le rapport présente une corrélation entre le biomarqueur et les résultats chez des patients traités par un médicament spécifique, ce n’est pas la preuve que le biomarqueur cause le bénéfice.",
+            "Les résultats reposent sur le développement et la validation rapportés dans Nature Medicine ; une réplication externe et des études sur l’utilité clinique sont nécessaires avant un usage courant.",
+            "Ce travail illustre comment des biomarqueurs issus d’images peuvent potentiellement stratifier les patients pour des thérapies oncologiques ciblées."
+          ]
+        },
+        "de": {
+          "title": "Computergestützter pathologischer Biomarker (normalisiertes TROP2‑Membranverhältnis) sagt Nutzen von Datopotamab Deruxtecan bei NSCLC voraus",
+          "summary": "Forscher entwickelten und validierten einen computergestützten pathologischen Biomarker, das normalisierte TROP2‑Membranverhältnis, das die subzelluläre Lokalisation von TROP2 quantifiziert. Bei Patientinnen und Patienten mit nicht‑squamösem nicht‑kleinzelligen Lungenkrebs (ohne verwertbare genomische Veränderungen) war der Biomarker mit längerer progressionsfreier und Gesamtüberlebenszeit unter Datopotamab Deruxtecan assoziiert.",
+          "whyItMatters": "Würde sich der Biomarker breit validieren lassen, könnte ein quantitativer pathologischer Marker helfen, Patienten zu identifizieren, die eher von einem Antikörper‑Wirkstoff‑Konjugat profitieren, und so Behandlungsentscheidungen in einer schwer zu behandelnden Untergruppe lenken.",
+          "takeaways": [
+            "Der Bericht stellt einen computergestützten pathologischen Biomarker vor, der mit Patientenergebnissen bei einem bestimmten Medikament korreliert; er beweist nicht, dass der Biomarker den Nutzen verursacht.",
+            "Die Befunde beruhen auf Entwicklung und Validierung, wie in Nature Medicine berichtet; externe Replikation und Studien zur klinischen Nützlichkeit wären vor einer routinemäßigen Anwendung erforderlich.",
+            "Die Arbeit zeigt, wie bildbasierte Biomarker potenziell Patientengruppen für gezielte Krebstherapien stratifizieren können."
+          ]
+        },
+        "pt-br": {
+          "title": "Biomarcador de patologia computacional (relação membrana TROP2 normalizada) prevê benefício de datopotamab deruxtecan em NSCLC",
+          "summary": "Pesquisadores desenvolveram e validaram um biomarcador de patologia computacional chamado razão membrana TROP2 normalizada, que quantifica a localização subcelular de TROP2. Em pacientes com câncer de pulmão não pequenas células não escamoso (sem alterações genômicas acionáveis), o biomarcador esteve associado a maior sobrevida livre de progressão e sobrevida global com datopotamab deruxtecan.",
+          "whyItMatters": "Se validado amplamente, um biomarcador patológico quantitativo poderia ajudar a identificar pacientes com maior probabilidade de se beneficiarem de um conjugado anticorpo‑fármaco, orientando escolhas de tratamento em um subgrupo de difícil manejo.",
+          "takeaways": [
+            "Este relatório apresenta um biomarcador de patologia computacional correlacionado com desfechos de pacientes em um medicamento específico; não é prova de que o biomarcador causa o benefício.",
+            "As descobertas baseiam‑se em desenvolvimento e validação relatados na Nature Medicine; replicação externa e estudos de utilidade clínica seriam necessários antes do uso rotineiro.",
+            "O trabalho ilustra como biomarcadores baseados em imagem podem, potencialmente, estratificar pacientes para terapias oncológicas direcionadas."
+          ]
+        },
+        "hu": {
+          "title": "Számítógépes patológiai biomarker (TROP2 membránarány) előrejelzi a datopotamab deruxtecan előnyét NSCLC-ben",
+          "summary": "A kutatók kifejlesztettek és validáltak egy számítógépes patológiai biomarkert, a TROP2 normalizált membránarányt, amely a TROP2 sejtszubcelluláris lokalizációját számszerűsíti. Nemkissejtes, nem laphám eredetű tüdőrákos betegekben (akciós genomikai eltérések nélkül) ez a biomarker összefüggésbe hozható a datopotamab deruxtecan kezelés melletti javuló progressziómentes és teljes túléléssel.",
+          "whyItMatters": "Ha széles körben validálják, egy mennyiségi patológiai biomarker segíthet azonosítani azokat a betegeket, akik nagyobb eséllyel részesülnek előnyben egy antitest–mérgező szerkonjugátumtól, ezáltal irányíthatja a kezelési döntéseket egy nehezen kezelhető altípusban.",
+          "takeaways": [
+            "A jelentés egy számítógépes patológiai biomarkert mutat be, amely összefügg a betegek eredményeivel egy adott gyógyszerrel kapcsolatban; ez nem bizonyíték arra, hogy a biomarker önmagában okozza az előnyt.",
+            "Az eredmények a Nature Medicine-ben közölt fejlesztésen és validáción alapulnak; rutin klinikai alkalmazás előtt külső reprodukcióra és klinikai hasznosságot vizsgáló tanulmányokra lenne szükség.",
+            "A munka azt szemlélteti, hogy a kép alapú biomarkerek potenciálisan képesek lehetnek a betegek sztratifikálására célzott daganatterápiákhoz."
+          ]
+        },
+        "ar": {
+          "title": "مؤشر نسيجي حسابي (نسبة غشاء TROP2) يتنبأ بفائدة datopotamab deruxtecan في سرطان الرئة غير صغير الخلايا",
+          "summary": "طور الباحثون وقاموا بالتحقق من مؤشر نسيجي حسابي يسمى نسبة غشاء TROP2 المحوّلة، الذي يقيس تحديد موضع TROP2 داخل الخلية بشكل كمي. لدى مرضى سرطان الرئة غير صغير الخلايا من النوع غير الحرشفي (دون تغيّرات جينومية قابلة للاستهداف)، ارتبط هذا المؤشر بتحسّن في البقاء دون تقدم المرض والبقاء الكلي عند استخدام datopotamab deruxtecan.",
+          "whyItMatters": "إذا تم التحقق منه على نطاق واسع، فقد يساعد مؤشر نسيجي كمي في تحديد المرضى الأكثر احتمالاً للاستفادة من مقترنات الأجسام المضادة-الدواء، مما قد يوجّه خيارات العلاج ضمن مجموعة فرعية يصعب علاجها.",
+          "takeaways": [
+            "هذا التقرير يعرض مؤشرًا نسيجيًا حسابيًا مرتبطًا بنتائج المرضى عند استخدام دواء محدد؛ ليس دليلًا على أن المؤشر هو السبب في الاستفادة.",
+            "النتائج تستند إلى التطوير والتحقق المنشورين في Nature Medicine؛ قبل الاستخدام الروتيني يلزم تكرار خارجي ودراسات لفائدة سريرية.",
+            "تبين هذه الدراسة كيف يمكن لمؤشرات الصور النسيجية أن تفرّق بين المرضى المحتمل استفادتهم من علاجات السرطان الموجّهة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=normalized-membrane-ratio-of-trop2-as-a-predictor-of-clinical-out-4d85c3f5d5ff",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/normalized-membrane-ratio-of-trop2-as-a-predictor-of-clinical-out-4d85c3f5d5ff-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/normalized-membrane-ratio-of-trop2-as-a-predictor-of-clinical-out-4d85c3f5d5ff-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Computational pathology biomarker (TROP2 membrane ratio) predicts benefit from datopotamab deruxtecan in NSCLC.\nStory summary: Researchers developed and validated a computational pathology biomarker called the TROP2 normalized membrane ratio that quantifies subcellular TROP2 localization. In patients with nonsquamous non-small-cell lung cancer (without actionable genomic alterations), the biomarker was associated with improved progression-free and overall survival on datopotamab deruxtecan..\nCategory: AI in cancer detection and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "glp-1-pill-shows-benefit-in-sleep-apnea-fa3e0b4659e7",
+      "category": "healthy ageing and longevity",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/aha/123819",
+      "sourceTitle": "GLP-1 Pill Shows Benefit in Sleep Apnea",
+      "publishedAt": "Tue, 10 Nov 2026 16:49:07 -0500",
+      "languages": {
+        "en": {
+          "title": "Orforglipron (oral GLP-1) improved sleep-disordered breathing in phase III trials",
+          "summary": "Two phase III trials reported that the oral GLP-1 receptor agonist orforglipron (Foundayo) improved sleep-disordered breathing in patients with moderate-to-severe obstructive sleep apnea who were overweight or living with obesity. The report summarizes topline trial findings presented at a meeting.",
+          "whyItMatters": "If confirmed in full peer-reviewed publications, metabolic therapies may have benefits beyond weight loss, such as improving sleep apnea; however, meeting abstracts and topline reports need detailed scrutiny for safety and long-term outcomes.",
+          "takeaways": [
+            "The results come from phase III trials but are reported as topline/meeting coverage; full peer-reviewed data are awaited.",
+            "Benefits were observed in people with overweight/obesity and moderate-to-severe obstructive sleep apnea, according to the report.",
+            "Assessment of long-term effects, side effects, and how the drug compares with existing treatments requires the complete trial data."
+          ]
+        },
+        "es": {
+          "title": "Orforglipron (GLP‑1 oral) mejoró la respiración con trastornos del sueño en ensayos de fase III",
+          "summary": "Dos ensayos de fase III informaron que el agonista oral del receptor GLP‑1 orforglipron (Foundayo) mejoró la respiración con trastornos del sueño en pacientes con apnea obstructiva del sueño de moderada a severa que tenían sobrepeso o vivían con obesidad. El informe resume resultados principales presentados en una reunión.",
+          "whyItMatters": "Si se confirman en publicaciones revisadas por pares, las terapias metabólicas podrían tener beneficios más allá de la pérdida de peso, como mejorar la apnea del sueño; sin embargo, los resúmenes de reuniones e informes principales requieren un examen detallado de seguridad y efectos a largo plazo.",
+          "takeaways": [
+            "Los resultados provienen de ensayos de fase III pero se reportan como datos principales/cobertura de reunión; se esperan los datos completos revisados por pares.",
+            "Según el informe, se observaron beneficios en personas con sobrepeso/obesidad y apnea obstructiva del sueño de moderada a severa.",
+            "La evaluación de efectos a largo plazo, efectos secundarios y la comparación con tratamientos existentes requiere los datos completos del ensayo."
+          ]
+        },
+        "ru": {
+          "title": "Orforglipron (пероральный GLP‑1) улучшил расстройства дыхания во сне в фазе III",
+          "summary": "Два рандомизированных исследования фазы III сообщили, что пероральный агонист рецептора GLP‑1 orforglipron (Foundayo) улучшил нарушения дыхания во сне у пациентов с умеренной‑тяжёлой обструктивной апноэ сна, имеющих лишний вес или ожирение. Отчёт суммирует основные результаты, представленные на конференции.",
+          "whyItMatters": "Если эти данные подтвердятся в полноценных рецензируемых публикациях, метаболические терапии могут иметь эффекты, выходящие за рамки потери веса, например улучшать апноэ сна; однако тезисы и отчёты о предварительных результатах требуют детальной проверки по безопасности и долговременным исходам.",
+          "takeaways": [
+            "Результаты получены в испытаниях фазы III, но представлены как предварительные/на конференции; ожидаются полные рецензируемые данные.",
+            "По сообщению, преимущества наблюдались у людей с лишним весом/ожирением и умеренной‑тяжёлой обструктивной апноэ сна.",
+            "Оценка долгосрочных эффектов, побочных явлений и сравнение с существующими методами лечения требует полного отчёта по испытанию."
+          ]
+        },
+        "uk": {
+          "title": "Orforglipрон (пероральний агоніст GLP‑1) покращив порушення дихання під час сну в випробуваннях III фази",
+          "summary": "Два випробування III фази повідомили, що пероральний агоніст рецептора GLP‑1 orforglipron (Foundayo) покращив порушення дихання під час сну у пацієнтів із помірною‑тяжкою обструктивною апное сну та надмірною вагою або ожирінням. Звіт підсумовує основні результати, представлені на науковому заході.",
+          "whyItMatters": "Якщо це підтвердять у повних рецензованих публікаціях, метаболічні терапії можуть мати переваги, окрім зниження ваги, наприклад покращення апное, але абстракти конференцій і топ‑лайн повідомлення потребують детального розгляду щодо безпеки та довгострокових результатів.",
+          "takeaways": [
+            "Результати походять від випробувань III фази, але повідомлені як топ‑лайн/доклад на зустрічі; чекають повних рецензованих даних.",
+            "Звіт описує покращення у людей із надмірною вагою/ожирінням і помірною‑тяжкою обструктивною апное сну.",
+            "Оцінка довгострокових ефектів, побічних реакцій і порівняння з наявними методами лікування потребує повних даних випробувань."
+          ]
+        },
+        "fr": {
+          "title": "Orforglipron (agoniste oral du GLP‑1) a amélioré les troubles respiratoires du sommeil dans des essais de phase III",
+          "summary": "Deux essais de phase III ont rapporté que l’agoniste oral du récepteur GLP‑1 orforglipron (Foundayo) améliorait les troubles respiratoires du sommeil chez des patients atteints d’apnée obstructive du sommeil modérée à sévère et présentant un surpoids ou une obésité. Le rapport résume les résultats principaux présentés lors d’une réunion scientifique.",
+          "whyItMatters": "Si ces résultats sont confirmés dans des publications complètes et revue par les pairs, les thérapies métaboliques pourraient avoir des bénéfices au‑delà de la perte de poids, comme l’amélioration de l’apnée du sommeil ; toutefois, les résumés de congrès et rapports top‑line nécessitent un examen approfondi pour la sécurité et les effets à long terme.",
+          "takeaways": [
+            "Les résultats proviennent d’essais de phase III mais sont rapportés sous forme top‑line/présentation de réunion ; les données complètes et revues sont attendues.",
+            "Des bénéfices ont été observés chez des personnes en surpoids/obèses souffrant d’apnée obstructive du sommeil modérée à sévère, selon le rapport.",
+            "L’évaluation des effets à long terme, des effets indésirables et de la comparaison avec les traitements existants nécessite les données complètes des essais."
+          ]
+        },
+        "de": {
+          "title": "Orforglipron (orale GLP‑1) verbesserte schlafbezogene Atmungsstörungen in Phase‑III‑Studien",
+          "summary": "Zwei Phase‑III‑Studien berichteten, dass der orale GLP‑1‑Rezeptoragonist Orforglipron (Foundayo) schlafbezogene Atmungsstörungen bei Patientinnen und Patienten mit mittelschwerer bis schwerer obstruktiver Schlafapnoe sowie Übergewicht oder Adipositas verbesserte. Der Bericht fasst die Topline‑Ergebnisse zusammen, die auf einer Tagung präsentiert wurden.",
+          "whyItMatters": "Falls die Ergebnisse in vollständigen, peer‑reviewten Publikationen bestätigt werden, könnten metabolische Therapien Vorteile über Gewichtsabnahme hinaus haben, etwa bei Schlafapnoe; Tagungsabstracts und Topline‑Berichte müssen jedoch für Sicherheit und Langzeitergebnisse genau geprüft werden.",
+          "takeaways": [
+            "Die Ergebnisse stammen aus Phase‑III‑Studien, wurden aber als Topline/Tagungsbericht präsentiert; vollständige, peer‑reviewte Daten stehen noch aus.",
+            "Laut Bericht wurden Vorteile bei Personen mit Übergewicht/Adipositas und mittelschwerer bis schwerer obstruktiver Schlafapnoe beobachtet.",
+            "Bewertung von Langzeiteffekten, Nebenwirkungen und Vergleich mit bestehenden Behandlungen erfordert die vollständigen Studiendaten."
+          ]
+        },
+        "pt-br": {
+          "title": "Orforglipron (GLP‑1 oral) melhorou respiração prejudicada durante o sono em ensaios de fase III",
+          "summary": "Dois ensaios de fase III relataram que o agonista oral do receptor GLP‑1 orforglipron (Foundayo) melhorou distúrbios respiratórios do sono em pacientes com apneia obstrutiva do sono de moderada a grave que tinham sobrepeso ou obesidade. O relatório resume resultados principais apresentados em um congresso.",
+          "whyItMatters": "Se confirmado em publicações completas e revisadas por pares, terapias metabólicas podem ter benefícios além da perda de peso, como melhorar a apneia do sono; entretanto, resumos de congresso e relatórios principais precisam ser examinados em detalhes quanto à segurança e desfechos a longo prazo.",
+          "takeaways": [
+            "Os resultados vêm de ensaios de fase III, mas foram reportados como topline/relato de congresso; os dados completos revisados por pares são aguardados.",
+            "Benefícios foram observados em pessoas com sobrepeso/obesidade e apneia obstrutiva do sono de moderada a grave, segundo o relatório.",
+            "A avaliação de efeitos a longo prazo, efeitos colaterais e comparação com tratamentos existentes exige os dados completos do estudo."
+          ]
+        },
+        "hu": {
+          "title": "Orforglipron (orális GLP‑1) javította az alvási rendellenességekkel járó légzést III. fázisú vizsgálatokban",
+          "summary": "Két III. fázisú vizsgálat számolt be arról, hogy az orális GLP‑1 receptor agonista orforglipron (Foundayo) javította az alvási légzészavart közepesen súlyos vagy súlyos obstruktív alvási apnoéban szenvedő, túlsúllyal vagy elhízással élő betegeknél. A jelentés összegzi a konferencián bemutatott topline eredményeket.",
+          "whyItMatters": "Ha ezt megerősítik a teljes, lektorált közlemények, a metabolikus terápiáknak lehetnek a fogyáson túlmutató előnyei, például az alvási apnoé javítása; azonban a konferencia-összefoglalók és topline jelentések részletes ellenőrzést igényelnek a biztonság és a hosszú távú kimenetek szempontjából.",
+          "takeaways": [
+            "Az eredmények III. fázisú vizsgálatokból származnak, de topline/konferenciaközlés formájában jelentették őket; várják a teljes, lektorált adatokat.",
+            "A beszámoló szerint előnyöket figyeltek meg túlsúllyal/elhízással élőknél közepesen súlyos vagy súlyos obstruktív alvási apnoé esetén.",
+            "A hosszú távú hatások, mellékhatások és a gyógyszer összehasonlítása a meglévő kezelésekkel a teljes vizsgálati adatok alapján értékelhető."
+          ]
+        },
+        "ar": {
+          "title": "Orforglipron (GLP‑1 فموي) حسّن اضطراب التنفس أثناء النوم في تجارب المرحلة الثالثة",
+          "summary": "أفادت تجربتان من المرحلة الثالثة أن ناهض مستقبلات GLP‑1 الفموي orforglipron (Foundayo) حسّن اضطرابات التنفّس أثناء النوم لدى مرضى انقطاع النفس الانسدادي النّومي المتوسط إلى الشديد الذين يعانون زيادة في الوزن أو السمنة. يلخّص التقرير النتائج الأولية المُقدمة في مؤتمر.",
+          "whyItMatters": "إذا تم تأكيد ذلك في منشورات مُحكَّمة كاملة، فقد يكون للعلاجات الأيضية فوائد تتجاوز خسارة الوزن، مثل تحسين انقطاع النفس النومي؛ ومع ذلك، تحتاج الملخّصات المؤتمراتية والتقارير الأولية إلى فحص تفصيلي للسلامة والنتائج على المدى الطويل.",
+          "takeaways": [
+            "النتائج مأخوذة من تجارب المرحلة الثالثة ولكنها أُبلغت في شكل نتائج أولية/مؤتمريّة؛ ينتظر النشر الكامل المُحكَّم.",
+            "سُجلت فوائد لدى أشخاص يعانون زيادة في الوزن/سمنة وانقطاع نفس نومي متوسط إلى شديد وفقًا للتقرير.",
+            "تقييم الآثار الطويلة الأمد والآثار الجانبية ومقارنة الدواء مع العلاجات الموجودة يتطلب بيانات التجربة الكاملة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=glp-1-pill-shows-benefit-in-sleep-apnea-fa3e0b4659e7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp-1-pill-shows-benefit-in-sleep-apnea-fa3e0b4659e7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/glp-1-pill-shows-benefit-in-sleep-apnea-fa3e0b4659e7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Orforglipron (oral GLP-1) improved sleep-disordered breathing in phase III trials.\nStory summary: Two phase III trials reported that the oral GLP-1 receptor agonist orforglipron (Foundayo) improved sleep-disordered breathing in patients with moderate-to-severe obstructive sleep apnea who were overweight or living with obesity. The report summarizes topline trial findings presented at a meeting..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "cass4-gene-directs-microglia-to-contain-alzheimer-s-plaques-9450fe15895f",
+      "category": "neuroscience and brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/cass4-gene-microglia-alzheimers-32404/",
+      "sourceTitle": "CASS4 Gene Directs Microglia to Contain Alzheimer’s Plaques",
+      "publishedAt": "Tue, 10 Nov 2026 21:45:12 +0000",
+      "languages": {
+        "en": {
+          "title": "Study links CASS4 gene to microglial containment of amyloid plaques",
+          "summary": "UVA Health researchers reported that the CASS4 risk gene appears to direct microglia—the brain's immune cells—to tightly pack and contain toxic amyloid plaques. The work suggests that at least some Alzheimer's disease genetic risk operates via immune defenses rather than solely through neurons.",
+          "whyItMatters": "Understanding how risk genes affect brain immune responses can inform where to target therapies or diagnostics, but translating such mechanistic findings into treatments requires further validation in humans.",
+          "takeaways": [
+            "The research points to a role for microglial behavior in modulating plaque pathology linked to a genetic risk factor.",
+            "This is mechanistic work suggesting a pathway by which genetic risk may act; it is not evidence of an effective treatment.",
+            "Further studies are needed to confirm relevance to human disease progression and therapeutic potential."
+          ]
+        },
+        "es": {
+          "title": "Estudio vincula el gen CASS4 con la contención microglial de placas amiloides",
+          "summary": "Investigadores de UVA Health informaron que el gen de riesgo CASS4 parece dirigir a las microglías —las células inmunitarias del cerebro— a empacar y contener de forma apretada las placas amiloides tóxicas. El trabajo sugiere que al menos parte del riesgo genético de la enfermedad de Alzheimer opera a través de defensas inmunitarias y no únicamente a través de las neuronas.",
+          "whyItMatters": "Comprender cómo los genes de riesgo afectan las respuestas inmunitarias cerebrales puede orientar dónde dirigir terapias o diagnósticos, pero traducir hallazgos mecanísticos en tratamientos requiere más validación en humanos.",
+          "takeaways": [
+            "La investigación apunta a un papel del comportamiento microglial en la modulación de la patología de las placas vinculada a un factor de riesgo genético.",
+            "Se trata de trabajo mecanicista que sugiere una vía por la que podría actuar el riesgo genético; no es evidencia de un tratamiento efectivo.",
+            "Se necesitan más estudios para confirmar la relevancia para la progresión de la enfermedad en humanos y el potencial terapéutico."
+          ]
+        },
+        "ru": {
+          "title": "Исследование связывает ген CASS4 с локализацией микроглии вокруг амилоидных бляшек",
+          "summary": "Исследователи из UVA Health сообщили, что ген риска CASS4, по‑видимому, направляет микроглию — иммунные клетки мозга — на плотное упаковывание и ограничение токсичных амилоидных бляшек. Работа указывает, что по крайней мере часть генетического риска болезни Альцгеймера может действовать через иммунные механизмы, а не только через нейроны.",
+          "whyItMatters": "Понимание того, как гены риска влияют на иммунные ответы мозга, может указать направления для терапий или диагностики, но перевод подобных механистических находок в лечение требует дополнительной валидации на людях.",
+          "takeaways": [
+            "Исследование указывает на роль поведения микроглии в модуляции патологии бляшек, связанной с генетическим фактором риска.",
+            "Это механистическая работа, предполагающая путь действия генетического риска; это не доказательство эффективности лечения.",
+            "Нужны дальнейшие исследования для подтверждения значимости для прогрессирования заболевания у людей и терапевтического потенциала."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження пов’язує ген CASS4 із дією мікроглії щодо обмеження амілоїдних бляшок",
+          "summary": "Дослідники з UVA Health повідомили, що ризиковий ген CASS4, імовірно, спрямовує мікроглію — імунні клітини мозку — щільно упакувати й обмежувати токсичні амілоїдні бляшки. Робота свідчить, що частина генетичного ризику хвороби Альцгеймера може діяти через імунні механізми, а не лише через нейрони.",
+          "whyItMatters": "Розуміння того, як генетичні фактори впливають на імунні відповіді мозку, може підказати цілі для терапій або діагностики, але перенесення таких механістичних висновків у лікування потребує подальшої перевірки на людях.",
+          "takeaways": [
+            "Дослідження вказує на роль поведінки мікроглії у модулюванні патології бляшок, пов’язаної з генетичним фактором ризику.",
+            "Це механістична робота, що пропонує шлях дії генетичного ризику; вона не є доказом ефективного лікування.",
+            "Потрібні додаткові дослідження, щоб підтвердити значущість для прогресування хвороби у людей і терапевтичний потенціал."
+          ]
+        },
+        "fr": {
+          "title": "Une étude relie le gène CASS4 au confinement microglial des plaques amyloïdes",
+          "summary": "Des chercheurs de l’UVA Health ont rapporté que le gène de risque CASS4 semble orienter les microglies — les cellules immunitaires du cerveau — à compacter et contenir étroitement les plaques amyloïdes toxiques. Ce travail suggère qu’au moins une partie du risque génétique de la maladie d’Alzheimer agit via des défenses immunitaires plutôt que seulement au niveau des neurones.",
+          "whyItMatters": "Comprendre comment les gènes de risque influencent les réponses immunitaires cérébrales peut indiquer des cibles pour des thérapies ou diagnostics, mais la traduction de ces résultats mécanistiques en traitements nécessite une validation supplémentaire chez l’humain.",
+          "takeaways": [
+            "La recherche pointe vers un rôle du comportement microglial dans la modulation de la pathologie des plaques liée à un facteur génétique de risque.",
+            "Il s’agit d’un travail mécanistique suggérant une voie d’action du risque génétique ; ce n’est pas une preuve d’un traitement efficace.",
+            "Des études supplémentaires sont nécessaires pour confirmer la pertinence pour la progression de la maladie humaine et le potentiel thérapeutique."
+          ]
+        },
+        "de": {
+          "title": "Studie verbindet das CASS4‑Gen mit mikroglialer Eindämmung von Amyloidplaques",
+          "summary": "Forscher der UVA Health berichteten, dass das Risikogen CASS4 offenbar Mikroglia — die Immunzellen des Gehirns — dazu veranlasst, toxische Amyloidplaques dicht zu verpacken und einzudämmen. Die Arbeit legt nahe, dass ein Teil des genetischen Alzheimer‑Risikos über Immunabwehrmechanismen wirkt und nicht nur über Neurone.",
+          "whyItMatters": "Zu verstehen, wie Risikogene die Immunantworten im Gehirn beeinflussen, kann Hinweise geben, wo Therapien oder Diagnostika ansetzen sollten; die Überführung solcher mechanistischer Befunde in Behandlungen erfordert jedoch weitere Validierung am Menschen.",
+          "takeaways": [
+            "Die Forschung weist auf eine Rolle mikroglialen Verhaltens bei der Modulation der Plaque‑Pathologie hin, die mit einem genetischen Risikofaktor verknüpft ist.",
+            "Es handelt sich um mechanistische Arbeit, die einen möglichen Wirkungsweg des genetischen Risikos vorschlägt; sie ist kein Beleg für eine wirksame Behandlung.",
+            "Weitere Studien sind nötig, um die Relevanz für den Krankheitsverlauf beim Menschen und das therapeutische Potenzial zu bestätigen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo liga gene CASS4 à contenção microglial de placas amiloides",
+          "summary": "Pesquisadores da UVA Health relataram que o gene de risco CASS4 parece direcionar microglia — as células imunológicas do cérebro — a compactar e conter placas amiloides tóxicas. O trabalho sugere que parte do risco genético para Alzheimer age por meio de defesas imunes, e não apenas via neurônios.",
+          "whyItMatters": "Entender como genes de risco afetam respostas imunes no cérebro pode orientar onde direcionar terapias ou diagnósticos, mas traduzir esses achados mecanísticos em tratamentos requer validação adicional em humanos.",
+          "takeaways": [
+            "A pesquisa aponta um papel do comportamento microglial na modulação da patologia de placas associada a um fator genético de risco.",
+            "Trata‑se de trabalho mecanístico que sugere uma via pela qual o risco genético pode atuar; não é evidência de um tratamento eficaz.",
+            "São necessários estudos adicionais para confirmar a relevância para a progressão da doença em humanos e o potencial terapêutico."
+          ]
+        },
+        "hu": {
+          "title": "A CASS4 gén összekapcsolása a mikroglia által végzett amiloid plakkok körbezárásával",
+          "summary": "A Virginiai Egyetem kutatói arról számoltak be, hogy a CASS4 kockázatigén úgy tűnik, irányítja a mikroglia—az agy immunsejtjei—viselkedését úgy, hogy szorosan összecsomózzák és korlátozzák a mérgező amiloid plakkokat. A munka azt sugallja, hogy az Alzheimer-kór genetikai kockázatának legalább egy része az immunválaszokon keresztül hat, nem csupán az idegsejteken keresztül.",
+          "whyItMatters": "Annak megértése, hogy a kockázatigének hogyan befolyásolják az agyi immunválaszokat, segíthet meghatározni a terápiás vagy diagnosztikai célpontokat, de az ilyen mechanisztikus eredmények gyógyszerré való átültetése további emberi validációt igényel.",
+          "takeaways": [
+            "A kutatás arra utal, hogy a mikroglia viselkedése szerepet játszhat a plakkpatológia szabályozásában egy genetikai kockázati tényező kapcsán.",
+            "Ez mechanisztikus munka, amely egy lehetséges útvonalat javasol, amin keresztül a genetikai kockázat hathat; nem bizonyíték hatékony kezelésre.",
+            "További vizsgálatok szükségesek annak megerősítésére, hogy ez releváns-e az emberi betegség előrehaladására és terápiás lehetőségekre."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تربط جين CASS4 بتوجيه الميكروغليا لاحتواء لويحات الأميلويد",
+          "summary": "أفاد باحثون من جامعة فيرجينيا أن جين الخطر CASS4 يبدو أنه يوجّه الميكروغليا — خلايا المناعة في الدماغ — لتعبئة واحتواء لويحات الأميلويد السامة بإحكام. تشير الدراسة إلى أن بعض مخاطر الإصابة بمرض ألزهايمر قد تعمل عبر الدفاعات المناعية بدلاً من العمل عبر الخلايا العصبية وحدها.",
+          "whyItMatters": "فهم كيف تؤثر جينات الخطر على استجابات المناعة الدماغية يمكن أن يوجّه مناطق استهداف العلاجات أو التشخيصات، لكن نقل هذه النتائج الميكانيكية إلى علاجات يتطلب تحققًا إضافيًا لدى البشر.",
+          "takeaways": [
+            "تُشير الأبحاث إلى دور لسلوك الميكروغليا في تعديل آفة اللويحات المرتبطة بعامل خطر جيني.",
+            "هذا عمل ميكانيكي يقترح مسارًا محتملًا لعمل الخطر الجيني؛ لكنه ليس دليلًا على علاج فعّال.",
+            "هناك حاجة لمزيد من الدراسات لتأكيد الصلة بتطور المرض لدى البشر وإمكانيات العلاج."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cass4-gene-directs-microglia-to-contain-alzheimer-s-plaques-9450fe15895f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cass4-gene-directs-microglia-to-contain-alzheimer-s-plaques-9450fe15895f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cass4-gene-directs-microglia-to-contain-alzheimer-s-plaques-9450fe15895f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links CASS4 gene to microglial containment of amyloid plaques.\nStory summary: UVA Health researchers reported that the CASS4 risk gene appears to direct microglia—the brain's immune cells—to tightly pack and contain toxic amyloid plaques. The work suggests that at least some Alzheimer's disease genetic risk operates via immune defenses rather than solely through neurons..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-supplement-kills-senescent-cells-and-extends-life-in-mice-d17f4c81892c",
+      "category": "healthy ageing and longevity",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/a-supplement-kills-senescent-cells-and-extends-life-in-mice/",
+      "sourceTitle": "A Supplement Kills Senescent Cells and Extends Life in Mice",
+      "publishedAt": "Tue, 10 Nov 2026 17:34:40 +0000",
+      "languages": {
+        "en": {
+          "title": "Preclinical report: vanadyl sulfate reduced senescent cells and extended lifespan in male mice",
+          "summary": "A study reported late-life treatment with vanadyl sulfate, a food-derived molecule available as a supplement, increased healthspan and lifespan in male mice and appeared to reduce senescent cells. The findings come from research published in Nature Aging and are preclinical.",
+          "whyItMatters": "Preclinical results in mice can identify promising targets for ageing research, but animal effects often do not translate directly to humans; supplement availability does not imply safety or proven benefit in people.",
+          "takeaways": [
+            "The reported lifespan and healthspan benefits were observed in mice; human effects are unknown.",
+            "The work is preclinical; clinical trials would be required to assess safety and efficacy in people.",
+            "Consumers should not interpret the study as proof that over-the-counter vanadyl sulfate is an established anti‑ageing therapy."
+          ]
+        },
+        "es": {
+          "title": "Informe preclínico: sulfato de vanadilo redujo células senescentes y extendió la vida en ratones machos",
+          "summary": "Un estudio informó que un tratamiento tardío con sulfato de vanadilo, una molécula derivada de alimentos disponible como suplemento, aumentó la esperanza de vida saludable y la longevidad en ratones machos y pareció reducir las células senescentes. Los hallazgos provienen de investigación publicada en Nature Aging y son preclínicos.",
+          "whyItMatters": "Los resultados preclínicos en ratones pueden identificar objetivos prometedores para la investigación del envejecimiento, pero los efectos en animales a menudo no se traducen directamente a las personas; la disponibilidad como suplemento no implica seguridad ni beneficio probado en humanos.",
+          "takeaways": [
+            "Los beneficios informados en esperanza de vida y salud se observaron en ratones; los efectos en humanos son desconocidos.",
+            "El trabajo es preclínico; serían necesarios ensayos clínicos para evaluar seguridad y eficacia en personas.",
+            "Los consumidores no deben interpretar el estudio como prueba de que el sulfato de vanadilo de venta libre es una terapia anti‑edad establecida."
+          ]
+        },
+        "ru": {
+          "title": "Доклад доклинического исследования: ванадилсульфат уменьшал число сенесцентных клеток и продлевал жизнь у самцов мышей",
+          "summary": "В исследовании сообщается, что позднее лечение ванадилсульфатом, молекулой, встречающейся в продуктах и доступной как пищевая добавка, увеличивало здоровье и продолжительность жизни у самцов мышей и, по‑видимому, снижало число сенесцентных клеток. Эти результаты опубликованы в Nature Aging и являются доклиническими.",
+          "whyItMatters": "Доклинические результаты на мышах могут указывать на перспективные направления в исследованиях старения, но эффекты у животных часто не переносимы напрямую на людей; наличие добавки в продаже не означает её безопасность или доказанную пользу для людей.",
+          "takeaways": [
+            "Сообщённые преимущества по продолжительности и качеству жизни наблюдались у мышей; эффекты у людей неизвестны.",
+            "Это доклиническая работа; для оценки безопасности и эффективности у людей потребуются клинические испытания.",
+            "Потребителям не следует рассматривать исследование как доказательство того, что ванадилсульфат из свободной продажи является установленной антиейдж‑терапией."
+          ]
+        },
+        "uk": {
+          "title": "Доклад у доклінічних моделях: ванадил сульфат знизив число сенесцентних клітин і продовжив життя у самців мишей",
+          "summary": "Дослідження повідомило, що лікування на пізніх стадіях життя ванадил сульфатом, молекулою, доступною як харчова добавка, збільшувало тривалість здорового життя й загальну тривалість життя у самців мишей і, за даними авторів, здавалося, зменшувало число сенесцентних клітин. Результати опубліковано в Nature Aging і вони є доклінічними.",
+          "whyItMatters": "Доклінічні результати в мишах можуть вказувати на перспективні цілі для досліджень старіння, але ефекти в тварин часто не переносяться безпосередньо на людей; наявність добавки в продажу не означає її безпеку або доведену користь у людей.",
+          "takeaways": [
+            "Заявлені вигоди щодо тривалості життя та здорового життя спостерігалися у мишей; вплив на людей невідомий.",
+            "Робота доклінічна; для оцінки безпеки та ефективності у людей потрібні клінічні випробування.",
+            "Споживачам не слід трактувати дослідження як доказ того, що безрецептурний ванадил сульфат є доведеним антиейджинг‑терапевтичним засобом."
+          ]
+        },
+        "fr": {
+          "title": "Rapport préclinique : le sulfate de vanadyle réduit les cellules sénescentes et prolonge la durée de vie chez des souris mâles",
+          "summary": "Une étude a rapporté qu’un traitement en fin de vie par sulfate de vanadyle, une molécule d’origine alimentaire disponible en complément, augmentait l’espérance de vie en bonne santé et la durée de vie chez des souris mâles et semblait réduire les cellules sénescentes. Les résultats, publiés dans Nature Aging, sont de nature préclinique.",
+          "whyItMatters": "Les résultats précliniques chez la souris peuvent identifier des cibles prometteuses pour la recherche sur le vieillissement, mais les effets animaux ne se traduisent pas toujours directement chez l’humain ; la disponibilité commerciale d’un complément n’implique ni sécurité ni bénéfice prouvé chez l’homme.",
+          "takeaways": [
+            "Les bénéfices rapportés sur la durée de vie et l’espérance de vie en bonne santé ont été observés chez la souris ; les effets humains sont inconnus.",
+            "Il s’agit de travaux précliniques ; des essais cliniques seraient nécessaires pour évaluer la sécurité et l’efficacité chez l’humain.",
+            "Les consommateurs ne doivent pas interpréter l’étude comme une preuve que le sulfate de vanadyle en vente libre est une thérapie anti‑âge établie."
+          ]
+        },
+        "de": {
+          "title": "Präklinischer Bericht: Vanadylsulfat verringerte seneszente Zellen und verlängerte Lebensdauer bei männlichen Mäusen",
+          "summary": "Eine Studie berichtete, dass eine späte Behandlung mit Vanadylsulfat, einem lebensmittelassoziierten Molekül, das als Nahrungsergänzung erhältlich ist, Gesundheitsspanne und Lebensdauer bei männlichen Mäusen erhöhte und offenbar seneszente Zellen reduzierte. Die Ergebnisse stammen aus in Nature Aging veröffentlichten präklinischen Untersuchungen.",
+          "whyItMatters": "Präklinische Ergebnisse in Mäusen können vielversprechende Ziele für Alternsforschung identifizieren, aber Tiereffekte lassen sich oft nicht direkt auf den Menschen übertragen; die Verfügbarkeit als Supplement bedeutet nicht automatisch Sicherheit oder nachgewiesenen Nutzen beim Menschen.",
+          "takeaways": [
+            "Die berichteten Vorteile für Lebens- und Gesundheitsspanne wurden bei Mäusen beobachtet; Effekte beim Menschen sind unbekannt.",
+            "Es handelt sich um präklinische Forschung; klinische Studien wären erforderlich, um Sicherheit und Wirksamkeit beim Menschen zu beurteilen.",
+            "Verbraucher sollten die Studie nicht als Beleg dafür ansehen, dass frei erhältliches Vanadylsulfat eine etablierte Anti‑Aging‑Therapie ist."
+          ]
+        },
+        "pt-br": {
+          "title": "Relato pré‑clínico: sulfato de vanadila reduziu células senescentes e estendeu vida em camundongos machos",
+          "summary": "Um estudo relatou que tratamento tardio com sulfato de vanadila, uma molécula presente em alimentos e disponível como suplemento, aumentou a saúde e a longevidade em camundongos machos e aparentou reduzir células senescentes. Os achados vêm de pesquisa publicada em Nature Aging e são pré‑clínicos.",
+          "whyItMatters": "Resultados pré‑clínicos em camundongos podem identificar alvos promissores para pesquisa do envelhecimento, mas efeitos em animais frequentemente não se traduzem diretamente para humanos; disponibilidade como suplemento não implica segurança ou benefício comprovado em pessoas.",
+          "takeaways": [
+            "Os benefícios relatados para longevidade e saúde foram observados em camundongos; efeitos em humanos são desconhecidos.",
+            "O trabalho é pré‑clínico; ensaios clínicos seriam necessários para avaliar segurança e eficácia em pessoas.",
+            "Consumidores não devem interpretar o estudo como prova de que sulfato de vanadila de venda livre é uma terapia anti‑envelhecimento estabelecida."
+          ]
+        },
+        "hu": {
+          "title": "Előklinikai jelentés: vanadil-szulfát csökkentette a szeneszcens sejtek számát és meghosszabbította az élettartamot hím egerekben",
+          "summary": "Egy tanulmány arról számolt be, hogy késői életben adott vanadil-szulfát — egy élelmiszerből származó molekula, amely kiegészítőként is kapható — növelte a hím egerek egészséges élettartamát és teljes élettartamát, és úgy tűnt, csökkentette a szeneszcens sejteket. Az eredmények a Nature Agingben közölt kutatásból származnak és előklinikai jellegűek.",
+          "whyItMatters": "Az előklinikai eredmények egerekben ígéretes célpontokat jelezhetnek az öregedéskutatás számára, de az állati hatások gyakran nem fordíthatók egy az egyben emberekre; a kiegészítőként való elérhetőség nem jelenti azt, hogy biztonságos vagy bizonyítottan hasznos emberek számára.",
+          "takeaways": [
+            "A jelentett egészség- és élettartam-előnyöket egerekben figyelték meg; emberi hatások ismeretlenek.",
+            "A munka előklinikai; az emberekben történő biztonságosság és hatékonyság értékeléséhez klinikai vizsgálatok szükségesek.",
+            "A fogyasztók ne tekintsék a tanulmányt bizonyítéknak arra, hogy a vény nélkül kapható vanadil‑szulfát bevett anti‑öregedési terápia lenne."
+          ]
+        },
+        "ar": {
+          "title": "تقرير ما قبل السريري: كبريتات الفاناديل خفضت الخلايا الشيخوخية ومَدَّت العمر لدى ذكور الفئران",
+          "summary": "أفادت دراسة أن معالجة الفئران في مرحلة متأخرة من العمر بكبريتات الفاناديل — وهي جزيئة موجودة في الطعام ومتاحة كمكمل — زادت مدة الصحة والحياة لدى الفئران الذكور وبدا أنها خفضت عدد الخلايا الشائخة. تأتي النتائج من بحث نُشر في Nature Aging وهي نتائج قبل سريرية.",
+          "whyItMatters": "يمكن أن تكشف النتائج قبل السريرية في الفئران عن أهداف واعدة لأبحاث الشيخوخة، لكن تأثيرات الحيوانات غالبًا لا تُترجم مباشرة إلى البشر؛ وتوافر المكمل لا يعني أنه آمن أو مفيد مثبت لدى الناس.",
+          "takeaways": [
+            "سُجلت الفوائد المبلغ عنها على الصحة وطول العمر في فئران؛ وتأثيراتها على البشر غير معروفة.",
+            "العمل ما قبل سريري؛ وهناك حاجة لتجارب سريرية لتقييم السلامة والفعالية لدى البشر.",
+            "لا ينبغي للمستهلكين تفسير الدراسة كدليل على أن كبريتات الفاناديل المتاحة دون وصفة تُعد علاجًا مثبتًا لمقاومة الشيخوخة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-supplement-kills-senescent-cells-and-extends-life-in-mice-d17f4c81892c",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-supplement-kills-senescent-cells-and-extends-life-in-mice-d17f4c81892c-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-supplement-kills-senescent-cells-and-extends-life-in-mice-d17f4c81892c-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Preclinical report: vanadyl sulfate reduced senescent cells and extended lifespan in male mice.\nStory summary: A study reported late-life treatment with vanadyl sulfate, a food-derived molecule available as a supplement, increased healthspan and lifespan in male mice and appeared to reduce senescent cells. The findings come from research published in Nature Aging and are preclinical..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "blood-proteins-that-may-predict-brain-and-cardiovascular-health-i-1a04fbc7a3a3",
       "category": "cardiovascular & brain health biomarkers",
@@ -860,6 +1609,113 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Review: poor sleep and chronic low‑grade inflammation (inflammaging) exacerbate one another.\nStory summary: A review summarised in Lifespan.io describes literature published in Aging Cell concluding that poor sleep quality and age‑related chronic inflammation form a bidirectional, self‑reinforcing cycle that can worsen health in older adults..\nCategory: healthy ageing & sleep.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound-802f363b3faf",
+      "category": "heart disease",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/11/09/health/glp1-vision-loss-fda-warning",
+      "sourceTitle": "US FDA orders new eye risk warnings for Ozempic, Zepbound",
+      "publishedAt": "2026-11-09T16:43:44.205Z",
+      "languages": {
+        "en": {
+          "title": "FDA advises new eye‑risk warnings for GLP‑1 drugs used in diabetes and weight loss",
+          "summary": "The US Food and Drug Administration informed patients and providers about a potential increased risk of a serious eye condition associated with GLP‑1 drugs used for diabetes and weight loss, prompting new labeling and risk communication.",
+          "whyItMatters": "As GLP‑1 receptor agonists are increasingly used, updated regulatory warnings highlight the importance of monitoring for rare but serious adverse effects and discussing risks and benefits with clinicians.",
+          "takeaways": [
+            "The FDA action communicates a potential safety concern and requires updated warnings for affected drugs.",
+            "Regulatory warnings do not necessarily mean a common risk but indicate that surveillance identified enough evidence to change labeling.",
+            "Patients on these medications should follow clinical guidance and discuss any vision changes with their healthcare provider; this report is informational and not medical advice."
+          ]
+        },
+        "es": {
+          "title": "La FDA recomienda nuevas advertencias sobre riesgos oculares para fármacos GLP‑1 usados en diabetes y pérdida de peso",
+          "summary": "La Agencia del Medicamento de EE. UU. informó a pacientes y proveedores sobre un posible aumento del riesgo de una condición ocular grave asociado con fármacos GLP‑1 usados para la diabetes y la pérdida de peso, lo que motivó nuevas indicaciones en el etiquetado y comunicación del riesgo.",
+          "whyItMatters": "A medida que se usan cada vez más los agonistas del receptor GLP‑1, las advertencias regulatorias actualizadas subrayan la importancia de vigilar efectos adversos raros pero graves y de discutir riesgos y beneficios con los clínicos.",
+          "takeaways": [
+            "La acción de la FDA comunica una posible preocupación de seguridad y requiere advertencias actualizadas para los fármacos afectados.",
+            "Las advertencias regulatorias no implican necesariamente un riesgo común, sino que indican que la vigilancia identificó suficiente evidencia para cambiar el etiquetado.",
+            "Los pacientes que toman estos medicamentos deben seguir la orientación clínica y consultar a su proveedor si notan cambios en la visión; este informe es informativo y no constituye consejo médico."
+          ]
+        },
+        "ru": {
+          "title": "FDA советует добавить новые предупреждения о риске для глаз для препаратов GLP‑1, применяемых при диабете и снижении веса",
+          "summary": "Управление по контролю за продуктами и лекарствами США (FDA) информировало пациентов и медицинских работников о возможном повышенном риске серьёзного офтальмологического состояния, связанного с препаратами GLP‑1, применяемыми при диабете и для снижения веса, что привело к обновлению маркировки и коммуникации рисков.",
+          "whyItMatters": "По мере роста применения агонистов рецептора GLP‑1 обновлённые регуляторные предупреждения подчёркивают важность мониторинга редких, но серьёзных побочных эффектов и обсуждения рисков и пользы с врачом.",
+          "takeaways": [
+            "Действие FDA сообщает о потенциальной проблеме безопасности и требует обновления предупреждений для соответствующих препаратов.",
+            "Регуляторные предупреждения не обязательно означают частый риск, но указывают, что наблюдение выявило достаточно данных для изменения маркировки.",
+            "Пациентам, принимающим эти препараты, следует следовать клиническим рекомендациям и обсуждать любые изменения зрения с лечащим врачом; этот отчёт носят информационный характер и не заменяет медицинского совета."
+          ]
+        },
+        "uk": {
+          "title": "FDA США рекомендує нові попередження щодо ризику для очей для препаратів GLP‑1, що застосовуються при діабеті та зниженні ваги",
+          "summary": "Управління з контролю за продуктами та ліками США поінформувало пацієнтів і медпрацівників про потенційно підвищений ризик серйозного захворювання ока, пов’язаного з препаратами GLP‑1, що застосовуються при діабеті та для зниження ваги, що призвело до оновлення маркування й комунікації про ризики.",
+          "whyItMatters": "Оскільки агоністи рецептора GLP‑1 застосовуються все частіше, оновлені регуляторні попередження підкреслюють важливість моніторингу рідкісних, але серйозних побічних ефектів і обговорення ризиків і користі з клініцистами.",
+          "takeaways": [
+            "Дія FDA передбачає повідомлення про потенційну проблему безпеки та вимагає оновленого маркування для уражених препаратів.",
+            "Регуляторні попередження не означають обов’язково поширений ризик, але вказують, що нагляд виявив достатньо доказів для зміни маркування.",
+            "Пацієнти на цих медикаментах мають дотримуватися клінічних рекомендацій і повідомляти лікарю про будь‑які зміни зору; цей звіт є інформаційним, а не медичною порадою."
+          ]
+        },
+        "fr": {
+          "title": "La FDA conseille de nouveaux avertissements oculaires pour les médicaments GLP‑1 utilisés dans le diabète et la perte de poids",
+          "summary": "L’Agence américaine des médicaments (FDA) a informé patients et professionnels de santé d’un risque potentiellement accru d’une affection oculaire grave liée aux médicaments GLP‑1 utilisés pour le diabète et la perte de poids, entraînant une mise à jour du libellé et de la communication sur les risques.",
+          "whyItMatters": "À mesure que les agonistes du récepteur GLP‑1 sont de plus en plus utilisés, les avertissements réglementaires actualisés soulignent l’importance de surveiller des effets indésirables rares mais graves et de discuter des risques et bénéfices avec les cliniciens.",
+          "takeaways": [
+            "L’action de la FDA communique une préoccupation de sécurité potentielle et exige des avertissements mis à jour pour les médicaments concernés.",
+            "Un avertissement réglementaire n’indique pas nécessairement un risque fréquent, mais signale que la surveillance a fourni suffisamment d’éléments pour modifier l’étiquetage.",
+            "Les patients sous ces traitements doivent suivre les conseils cliniques et consulter leur professionnel de santé en cas de changement de la vision ; ce rapport est informatif et ne remplace pas un avis médical."
+          ]
+        },
+        "de": {
+          "title": "FDA empfiehlt neue Warnhinweise zu Augenrisiken für GLP‑1‑Medikamente bei Diabetes und Gewichtsverlust",
+          "summary": "Die US‑Arzneimittelbehörde FDA informierte Patienten und Behandler über ein möglich erhöhtes Risiko einer schweren Augenerkrankung im Zusammenhang mit GLP‑1‑Medikamenten, die bei Diabetes und Gewichtsverlust eingesetzt werden, und veranlasste neue Kennzeichnung und Kommunikation des Risikos.",
+          "whyItMatters": "Da GLP‑1‑Rezeptoragonisten zunehmend eingesetzt werden, unterstreichen aktualisierte regulatorische Warnungen die Bedeutung der Überwachung seltener, aber schwerwiegender Nebenwirkungen und der Abwägung von Risiken und Nutzen mit behandelnden Ärztinnen und Ärzten.",
+          "takeaways": [
+            "Die FDA‑Maßnahme kommuniziert ein mögliches Sicherheitsproblem und erfordert aktualisierte Warnhinweise für betroffene Medikamente.",
+            "Regulatorische Warnungen bedeuten nicht notwendigerweise ein häufiges Risiko, weisen aber darauf hin, dass Überwachung genügend Hinweise zur Änderung der Kennzeichnung geliefert hat.",
+            "Patienten, die diese Medikamente einnehmen, sollten klinische Anweisungen befolgen und Sehveränderungen mit ihrem Gesundheitsdienstleister besprechen; dieser Bericht ist informativ und stellt keine medizinische Beratung dar."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA recomenda novos avisos de risco ocular para medicamentos GLP‑1 usados em diabetes e perda de peso",
+          "summary": "A Food and Drug Administration dos EUA informou pacientes e profissionais sobre um possível aumento do risco de uma condição ocular séria associada a medicamentos GLP‑1 usados para diabetes e perda de peso, levando a atualizações na rotulagem e comunicação de risco.",
+          "whyItMatters": "À medida que agonistas do receptor GLP‑1 são cada vez mais usados, avisos regulatórios atualizados ressaltam a importância de monitorar efeitos adversos raros, porém graves, e de discutir riscos e benefícios com os clínicos.",
+          "takeaways": [
+            "A ação da FDA comunica uma possível preocupação de segurança e exige avisos atualizados para os medicamentos afetados.",
+            "Avisos regulatórios não significam necessariamente um risco comum, mas indicam que a vigilância identificou evidências suficientes para alterar a rotulagem.",
+            "Pacientes em uso desses medicamentos devem seguir as orientações clínicas e discutir quaisquer alterações visuais com seu profissional de saúde; este relato é informativo e não constitui aconselhamento médico."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA új szemkockázati figyelmeztetéseket javasol az Ozempic és Zepbound típusú GLP‑1 gyógyszerekhez",
+          "summary": "Az Egyesült Államok Élelmiszer- és Gyógyszerügyi Hivatala tájékoztatta a betegeket és az ellátókat egy, a diabéteszben és testsúlycsökkentésben használt GLP‑1 gyógyszerekkel összefüggő súlyos szemészeti állapot fokozott kockázatának lehetőségéről, ami új cimkézési és kockázatkommunikációs intézkedéseket eredményezett.",
+          "whyItMatters": "Mivel a GLP‑1 receptor agonisták egyre gyakoribb használatban vannak, a frissített szabályozói figyelmeztetések hangsúlyozzák a ritka, de súlyos mellékhatások nyomon követésének fontosságát, valamint a kockázatok és előnyök megvitatását a klinikusokkal.",
+          "takeaways": [
+            "Az FDA intézkedése egy potenciális biztonsági aggályt közöl és megköveteli az érintett gyógyszerek címkéinek frissítését.",
+            "A szabályozói figyelmeztetések nem feltétlenül jelentenek gyakori kockázatot, de azt jelzik, hogy a megfigyelés elegendő bizonyítékot talált a cimke módosítására.",
+            "A ezekkel a gyógyszerekkel kezelt betegek kövessék a klinikai útmutatást és beszéljék meg a látásváltozásokat ellátójukkal; a jelentés tájékoztató jellegű, nem orvosi tanács."
+          ]
+        },
+        "ar": {
+          "title": "الهيئة الأمريكية للأغذية والأدوية توصي بتحذيرات جديدة تتعلق بالمخاطر العينية لأدوية GLP‑1 مثل Ozempic وZepbound",
+          "summary": "أبلغت إدارة الغذاء والدواء الأمريكية المرضى ومقدمي الرعاية عن إمكانية زيادة خطر حالة عينية خطيرة مرتبطة بأدوية GLP‑1 المستخدمة في السكري وفقدان الوزن، ما أدى إلى تحديث وسم المنتجات والتواصل حول المخاطر.",
+          "whyItMatters": "مع تزايد استخدام ناهضات مستقبلات GLP‑1، تبرز التحذيرات التنظيمية أهمية المراقبة لآثار جانبية نادرة لكنها خطيرة ومناقشة الفوائد والمخاطر مع مقدمي الرعاية الصحية.",
+          "takeaways": [
+            "إجراء الـ FDA ينقل قلقًا محتملاً بشأن السلامة ويستلزم تحديث تحذيرات الأدوية المتأثرة.",
+            "التحذيرات التنظيمية لا تعني بالضرورة وجود خطر شائع، لكنها تشير إلى أن المراقبة رصدت ما يكفي من الأدلة لتعديل الوسم.",
+            "ينبغي للمرضى المتناولين هذه الأدوية اتباع التوجيهات السريرية ومراجعة أي تغيّر في الرؤية مع مقدم الرعاية؛ هذا التقرير معلوماتي وليس نصيحة طبية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound-802f363b3faf",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound-802f363b3faf-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound-802f363b3faf-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA advises new eye‑risk warnings for GLP‑1 drugs used in diabetes and weight loss.\nStory summary: The US Food and Drug Administration informed patients and providers about a potential increased risk of a serious eye condition associated with GLP‑1 drugs used for diabetes and weight loss, prompting new labeling and risk communication..\nCategory: heart disease.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "us-youths-see-nearly-4-000-food-marketing-messages-on-digital-med-7da9e5ade005",
       "category": "Public health / Nutrition",
       "sourceName": "medicalxpress.com",
@@ -1179,6 +2035,220 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Randomized trial: yoga-based cardiac rehab improved exercise capacity and quality of life but not cardiac outcomes in HFrEF.\nStory summary: MedPage Today reports on an Indian randomized trial of yoga‑based cardiac rehabilitation for people with heart failure and reduced ejection fraction (HFrEF). The intervention did not change cardiac outcomes but produced substantial gains in exercise capacity and quality of life..\nCategory: Cardiology / Rehabilitation.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-high-fiber-diet-may-clear-away-plastic-in-the-gut-c6628da2d926",
+      "category": "nutrition",
+      "sourceName": "sciencenews.org",
+      "sourceUrl": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+      "sourceTitle": "A high-fiber diet may clear away plastic in the gut",
+      "publishedAt": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "languages": {
+        "en": {
+          "title": "Mouse research suggests dietary fiber may help remove nanoplastic from the gut",
+          "summary": "A study in mice found that dietary fiber may physically interact with small plastic particles, helping to remove them from the gut. The research indicates a potential mechanism by which fiber alters retention of micro- and nanoplastic in the digestive tract.",
+          "whyItMatters": "The work is preclinical and mechanistic in animals; while it suggests a possible protective role for fiber against gut retention of tiny plastics, implications for human health and exposure require further study.",
+          "takeaways": [
+            "Findings are based on mouse experiments and describe a possible mechanism, not proven human effects.",
+            "Dietary fiber had a physical interaction with plastic particles in the gut in this model.",
+            "More research is needed to determine relevance to human exposure and health outcomes before drawing conclusions."
+          ]
+        },
+        "es": {
+          "title": "Investigación en ratones sugiere que la fibra dietética puede ayudar a eliminar nanoplásticos del intestino",
+          "summary": "Un estudio en ratones encontró que la fibra dietética puede interactuar físicamente con pequeñas partículas de plástico, ayudando a eliminarlas del intestino. La investigación indica un posible mecanismo por el que la fibra altera la retención de micro‑ y nanoplásticos en el tracto digestivo.",
+          "whyItMatters": "El trabajo es preclínico y mecanicista en animales; si bien sugiere un posible papel protector de la fibra frente a la retención intestinal de plásticos diminutos, las implicaciones para la salud humana y la exposición requieren más estudio.",
+          "takeaways": [
+            "Los hallazgos se basan en experimentos con ratones y describen un posible mecanismo, no efectos humanos probados.",
+            "En este modelo, la fibra dietética tuvo una interacción física con partículas plásticas en el intestino.",
+            "Se necesita más investigación para determinar la relevancia para la exposición humana y los resultados de salud antes de sacar conclusiones."
+          ]
+        },
+        "ru": {
+          "title": "Исследование на мышах показывает, что диетическая клетчатка может способствовать выведению нанопластика из кишечника",
+          "summary": "В исследовании на мышах установили, что диетическая клетчатка может физически взаимодействовать с мелкими пластиковыми частицами, помогая выводить их из кишечника. Работа указывает на возможный механизм, с помощью которого клетчатка изменяет удержание микро‑ и нанопластика в пищеварительном тракте.",
+          "whyItMatters": "Это доклиническая механистическая работа на животных; хотя она предполагает возможную защитную роль клетчатки в отношении удержания пластика в кишечнике, последствия для здоровья людей и степень воздействия требуют дальнейшего изучения.",
+          "takeaways": [
+            "Выводы основаны на экспериментах на мышах и описывают возможный механизм, а не доказанные эффекты у людей.",
+            "В этой модели диетическая клетчатка физически взаимодействовала с пластиковыми частицами в кишечнике.",
+            "Нужны дополнительные исследования, чтобы определить значимость для экспозиции у людей и для здоровья, прежде чем делать выводы."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження на мишах свідчить, що дієтична клітковина може допомогти вивести нанопластик з кишківника",
+          "summary": "Дослідження на мишах виявило, що дієтична клітковина може фізично взаємодіяти з дрібними частинками пластику, сприяючи їх видаленню з кишківника. Робота показує можливий механізм, за допомогою якого клітковина змінює утримання мікро‑ та нанопластику в шлунково‑кишковому тракті.",
+          "whyItMatters": "Це доклінічна механістична робота на тваринах; хоча вона вказує на потенційну захисну роль клітковини щодо утримання малих пластмас у кишківнику, наслідки для здоров’я людей і вплив впливу потребують подальших досліджень.",
+          "takeaways": [
+            "Висновки базуються на експериментах на мишах і описують можливий механізм, а не доведені ефекти у людей.",
+            "У цій моделі дієтична клітковина фізично взаємодіяла з частинками пластику в кишківнику.",
+            "Потрібні додаткові дослідження, щоб встановити значущість для людської експозиції та здоров’я перед будь‑якими висновками."
+          ]
+        },
+        "fr": {
+          "title": "Des recherches chez la souris suggèrent que les fibres alimentaires peuvent aider à éliminer les nanoplastiques de l’intestin",
+          "summary": "Une étude chez la souris a trouvé que les fibres alimentaires peuvent interagir physiquement avec de petites particules plastiques, aidant à les éliminer de l’intestin. La recherche indique un mécanisme potentiel par lequel les fibres modulent la rétention de micro‑ et nanoplastiques dans le tube digestif.",
+          "whyItMatters": "Il s’agit d’un travail préclinique et mécanistique chez l’animal ; bien qu’il suggère un rôle protecteur possible des fibres contre la rétention de très petits plastiques dans l’intestin, les implications pour la santé humaine et l’exposition nécessitent des études complémentaires.",
+          "takeaways": [
+            "Les résultats reposent sur des expériences chez la souris et décrivent un mécanisme possible, pas des effets prouvés chez l’homme.",
+            "Dans ce modèle, les fibres alimentaires ont interagi physiquement avec des particules plastiques dans l’intestin.",
+            "Davantage de recherches sont nécessaires pour déterminer la pertinence pour l’exposition et la santé humaines avant de tirer des conclusions."
+          ]
+        },
+        "de": {
+          "title": "Mausstudie legt nahe, dass Ballaststoffe helfen könnten, Nanoplastik aus dem Darm zu entfernen",
+          "summary": "Eine Studie an Mäusen fand, dass Ballaststoffe physikalisch mit kleinen Plastikpartikeln interagieren und deren Ausscheidung aus dem Darm unterstützen können. Die Forschung beschreibt einen möglichen Mechanismus, wie Ballaststoffe die Verweildauer von Mikro‑ und Nanoplastik im Verdauungstrakt verändern könnten.",
+          "whyItMatters": "Die Arbeit ist präklinisch und mechanistisch in einem Tiermodell; obwohl sie auf eine mögliche schützende Rolle von Ballaststoffen gegen Darmverweildauer winziger Kunststoffe hindeutet, sind die Auswirkungen auf die menschliche Gesundheit und Exposition weiter zu untersuchen.",
+          "takeaways": [
+            "Die Ergebnisse basieren auf Mausexperimenten und beschreiben einen möglichen Mechanismus, keine nachgewiesenen Effekte beim Menschen.",
+            "In diesem Modell ging eine physikalische Interaktion von Ballaststoffen mit Plastikpartikeln im Darm einher.",
+            "Weitere Forschung ist nötig, um die Relevanz für menschliche Exposition und Gesundheitsfolgen zu klären, bevor Schlussfolgerungen gezogen werden."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisa em camundongos sugere que fibra dietética pode ajudar a remover nanoplástico do intestino",
+          "summary": "Um estudo em camundongos encontrou que fibras dietéticas podem interagir fisicamente com pequenas partículas plásticas, ajudando a removê‑las do intestino. A pesquisa indica um possível mecanismo pelo qual a fibra altera a retenção de micro e nanoplásticos no trato digestivo.",
+          "whyItMatters": "O trabalho é pré‑clínico e mecanístico em animais; embora sugira um possível papel protetor da fibra contra retenção de plásticos no intestino, as implicações para a saúde humana e exposição exigem mais estudo.",
+          "takeaways": [
+            "Os achados baseiam‑se em experimentos com camundongos e descrevem um possível mecanismo, não efeitos comprovados em humanos.",
+            "A fibra dietética mostrou interação física com partículas plásticas no intestino neste modelo.",
+            "Mais pesquisas são necessárias para determinar a relevância para exposição humana e desfechos de saúde antes de tirar conclusões."
+          ]
+        },
+        "hu": {
+          "title": "Egérkutatás szerint az élelmi rost segíthet a nanoműanyagok eltávolításában a bélből",
+          "summary": "Egy egereken végzett vizsgálat azt találta, hogy az élelmi rost fizikai kölcsönhatásba léphet a kis műanyag részecskékkel, és segíthet azok eltávolításában a bélből. A kutatás leír egy lehetséges mechanizmust, amelyen keresztül a rost befolyásolhatja a mikro- és nanoműanyagok bent maradását az emésztőrendszerben.",
+          "whyItMatters": "A munka előklinikai és mechanisztikus jellegű állatokon; bár lehetséges védő szerepet sugall a rost számára a kis műanyagok bélbeli megtartódása ellen, az emberi egészségre és expozícióra vonatkozó következmények további vizsgálatot igényelnek.",
+          "takeaways": [
+            "Az eredmények egérkísérleteken alapulnak és egy lehetséges mechanizmust írnak le, nem bizonyított emberi hatásokat.",
+            "Ebben a modellben az élelmi rost fizikai kölcsönhatásba lépett a műanyag részecskékkel a bélben.",
+            "További kutatások szükségesek annak megállapítására, hogy ez releváns-e az emberi expozíciónak és egészségügyi kimeneteknek."
+          ]
+        },
+        "ar": {
+          "title": "بحث على الفئران يشير إلى أن الألياف الغذائية قد تساعد في إزالة النانوبلاستيك من الأمعاء",
+          "summary": "وجدت دراسة على الفئران أن الألياف الغذائية قد تتفاعل ماديًا مع جسيمات البلاستيك الصغيرة، مما يساعد على إزالتها من الأمعاء. تُشير الأبحاث إلى آلية محتملة يقوم من خلالها الألياف بتغيير بقاء الميكرو-والنانوبلاستيك في الجهاز الهضمي.",
+          "whyItMatters": "العمل قبل سريري وميكانيكي على حيوانات؛ ورغم أنه يشير إلى دور وقائي محتمل للألياف في تقليل احتباس البلاستيك الدقيق في الأمعاء، فإن تداعياته على صحة الإنسان والتعرّض البلاستيكي تتطلب مزيدًا من الدراسة.",
+          "takeaways": [
+            "النتائج مستندة إلى تجارب على الفئران وتصف آلية ممكنة، وليست تأثيرات مثبتة لدى البشر.",
+            "تفاعلت الألياف الغذائية ماديًا مع جسيمات البلاستيك في الأمعاء في هذا النموذج.",
+            "ثمة حاجة لمزيد من البحوث لتحديد مدى صلة ذلك بتعرّض الإنسان والآثار الصحية قبل استخلاص استنتاجات."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-high-fiber-diet-may-clear-away-plastic-in-the-gut-c6628da2d926",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-high-fiber-diet-may-clear-away-plastic-in-the-gut-c6628da2d926-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-high-fiber-diet-may-clear-away-plastic-in-the-gut-c6628da2d926-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mouse research suggests dietary fiber may help remove nanoplastic from the gut.\nStory summary: A study in mice found that dietary fiber may physically interact with small plastic particles, helping to remove them from the gut. The research indicates a potential mechanism by which fiber alters retention of micro- and nanoplastic in the digestive tract..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-b-0ac7479d3a6a",
+      "category": "cancer prevention and treatment",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-but-theres-no-evidence-it-can-reduce-your-risk-of-dying-from-cancer-293409",
+      "sourceTitle": "New blood test claims to detect 50-plus cancers before symptoms – but there’s no evidence it can reduce your risk of dying from cancer",
+      "publishedAt": "2026-11-09T13:43:56Z",
+      "languages": {
+        "en": {
+          "title": "Expert review questions whether multicancer blood test reduces cancer mortality",
+          "summary": "A physician involved in U.S. screening guidelines discusses the benefits and limitations of the Galleri multicancer early detection blood test. The author notes the test can detect many cancer types before symptoms but emphasizes there is no current evidence that it reduces deaths from cancer.",
+          "whyItMatters": "Early detection tests can find cancers earlier, but detecting more cancers does not automatically translate into fewer deaths; evaluating impact on mortality, harms of false positives, and downstream consequences is essential before broad adoption.",
+          "takeaways": [
+            "Detection of multiple cancers earlier is not the same as demonstrated mortality benefit.",
+            "Screening tests need evidence of net benefit, accounting for false positives and downstream procedures.",
+            "Clinicians and patients should weigh current evidence and guideline recommendations when considering such tests."
+          ]
+        },
+        "es": {
+          "title": "Revisión experta cuestiona si la prueba sanguínea multicáncer reduce la mortalidad por cáncer",
+          "summary": "Un médico involucrado en las guías de cribado de EE. UU. analiza los beneficios y limitaciones de la prueba sanguínea multicáncer Galleri. El autor señala que la prueba puede detectar muchos tipos de cáncer antes de los síntomas, pero enfatiza que no existe evidencia actual de que reduzca las muertes por cáncer.",
+          "whyItMatters": "Las pruebas de detección temprana pueden encontrar cánceres antes, pero detectar más cánceres no se traduce automáticamente en menos muertes; es esencial evaluar el impacto en la mortalidad, los daños por falsos positivos y las consecuencias posteriores antes de una adopción generalizada.",
+          "takeaways": [
+            "Detectar múltiples cánceres de forma más temprana no equivale a una demostrada reducción de la mortalidad.",
+            "Las pruebas de cribado necesitan evidencia de beneficio neto, teniendo en cuenta falsos positivos y procedimientos posteriores.",
+            "Clínicos y pacientes deben sopesar la evidencia actual y las recomendaciones de guías al considerar este tipo de pruebas."
+          ]
+        },
+        "ru": {
+          "title": "Экспертный обзор ставит под вопрос, снижает ли мультионкологический тест крови смертность от рака",
+          "summary": "Врач, участвующий в разработке руководств по скринингу в США, обсуждает преимущества и ограничения мультионкологического теста крови Galleri. Автор отмечает, что тест может обнаруживать многие виды рака до появления симптомов, но подчёркивает, что в настоящее время нет доказательств снижения смертности от рака.",
+          "whyItMatters": "Тесты раннего обнаружения могут выявлять раки на более ранних стадиях, но выявление большего числа случаев не обязательно приводит к снижению смертности; перед широким внедрением важно оценить влияние на смертность, вред от ложноположительных результатов и последующие последствия.",
+          "takeaways": [
+            "Раннее обнаружение множества видов рака не равно доказанному преимуществу в снижении смертности.",
+            "Скрининговые тесты требуют доказательств чистой пользы с учётом ложноположительных результатов и последующих вмешательств.",
+            "Клиницистам и пациентам следует учитывать текущие данные и рекомендации руководств при принятии решения о таких тестах."
+          ]
+        },
+        "uk": {
+          "title": "Експерт переглядає, чи тест для виявлення кількох раків знижує смертність від раку",
+          "summary": "Лікар, залучений до розробки рекомендацій зі скринінгу в США, обговорює переваги й обмеження багатовидового тесту Galleri для раннього виявлення раку по крові. Автор зазначає, що тест може виявляти багато типів раку до появи симптомів, але підкреслює відсутність доказів того, що він зменшує смертність від раку на даний момент.",
+          "whyItMatters": "Тести раннього виявлення можуть виявляти рак раніше, але більше виявлень не обов’язково означає менше смертей; перед широким впровадженням важливі оцінки впливу на смертність, шкоди від хибнопозитивних результатів та наслідків подальших втручань.",
+          "takeaways": [
+            "Раннє виявлення багатьох видів раку — це не те саме, що доведена користь у зниженні смертності.",
+            "Скринінгові тести потребують доказів чистої користі, з урахуванням хибнопозитивних результатів і подальших процедур.",
+            "Клініцисти і пацієнти повинні зважувати наявні дані та рекомендації керівництв при розгляді таких тестів."
+          ]
+        },
+        "fr": {
+          "title": "Un expert s’interroge sur l’effet du test sanguin multicancer sur la mortalité",
+          "summary": "Un médecin impliqué dans les recommandations américaines de dépistage discute des avantages et des limites du test sanguin Galleri pour la détection précoce de plusieurs cancers. L’auteur note que le test peut détecter de nombreux types de cancer avant l’apparition de symptômes, mais souligne qu’il n’existe actuellement aucune preuve qu’il réduise la mortalité par cancer.",
+          "whyItMatters": "Les tests de détection précoce peuvent repérer des cancers plus tôt, mais détecter davantage de cancers ne se traduit pas automatiquement par moins de décès ; il est essentiel d’évaluer l’impact sur la mortalité, les préjudices liés aux faux positifs et les conséquences en aval avant un déploiement large.",
+          "takeaways": [
+            "La détection précoce de plusieurs cancers n’équivaut pas à une preuve de bénéfice en termes de mortalité.",
+            "Les tests de dépistage doivent démontrer un bénéfice net, en tenant compte des faux positifs et des procédures en aval.",
+            "Cliniciens et patients doivent tenir compte des preuves actuelles et des recommandations de bonnes pratiques lors de l’évaluation de ces tests."
+          ]
+        },
+        "de": {
+          "title": "Expertin hinterfragt, ob ein multikanzer‑Bluttest die Krebssterblichkeit senkt",
+          "summary": "Ein in die US‑Screeningrichtlinien involvierter Arzt erörtert Vor‑ und Nachteile des Galleri‑Bluttests zur frühen Erkennung mehrerer Krebsarten. Der Autor stellt fest, dass der Test viele Krebsarten vor Symptombeginn erkennen kann, betont aber, dass es derzeit keine Belege dafür gibt, dass er die krebsbedingte Sterblichkeit senkt.",
+          "whyItMatters": "Früherkennungstests können Tumoren früher finden, aber mehr Entdeckungen führen nicht automatisch zu weniger Todesfällen; die Bewertung der Auswirkungen auf die Sterblichkeit, der Schäden durch falsch‑positive Ergebnisse und der nachgelagerten Folgen ist vor einer breiten Einführung essenziell.",
+          "takeaways": [
+            "Die frühe Entdeckung mehrerer Krebsarten ist nicht gleichbedeutend mit einem nachgewiesenen Sterblichkeitsvorteil.",
+            "Screeningtests benötigen Nachweise für einen Nettovorteil, einschließlich der Berücksichtigung falsch‑positiver Befunde und nachfolgender Eingriffe.",
+            "Kliniker und Patienten sollten bei der Erwägung solcher Tests die aktuelle Evidenz und Richtlinienempfehlungen abwägen."
+          ]
+        },
+        "pt-br": {
+          "title": "Revisor especialista questiona se teste sanguíneo multicâncer reduz a mortalidade por câncer",
+          "summary": "Um médico envolvido nas diretrizes de rastreamento dos EUA discute os benefícios e limites do teste sanguíneo Galleri para detecção precoce de múltiplos cânceres. O autor observa que o teste pode detectar muitos tipos de câncer antes dos sintomas, mas enfatiza que atualmente não há evidência de que reduza mortes por câncer.",
+          "whyItMatters": "Testes de detecção precoce podem encontrar cânceres em estágio inicial, mas detectar mais cânceres não se traduz automaticamente em menos mortes; avaliar o impacto sobre a mortalidade, os danos por falsos positivos e as consequências subsequentes é essencial antes da adoção ampla.",
+          "takeaways": [
+            "Detectar múltiplos cânceres mais cedo não é o mesmo que demonstrar benefício em mortalidade.",
+            "Testes de rastreamento precisam de evidência de benefício líquido, levando em conta falsos positivos e procedimentos subsequentes.",
+            "Profissionais de saúde e pacientes devem ponderar a evidência atual e as recomendações das diretrizes ao considerar esses testes."
+          ]
+        },
+        "hu": {
+          "title": "Szakértői áttekintés megkérdőjelezi, hogy a multicancer vérteszt csökkenti-e a rák miatti halálozást",
+          "summary": "Egy, az amerikai szűrési irányelvekben részt vevő orvos ismerteti a Galleri többdaganatos korai felismerést célzó vérteszt előnyeit és korlátait. A szerző megjegyzi, hogy a teszt sok rákfajtát képes kimutatni tünetek megjelenése előtt, de hangsúlyozza, hogy jelenleg nincs bizonyíték arra, hogy ez csökkentené a rák miatti halálozást.",
+          "whyItMatters": "A korai felismerő tesztek több daganatot találhatnak korábban, de az, hogy többet észlelnek, nem feltétlenül vezet kevesebb halálesethez; a mortalitásra gyakorolt hatás, a hibás pozitív eredmények káros következményei és az utókövetés értékelése elengedhetetlen a széles körű bevezetés előtt.",
+          "takeaways": [
+            "Többféle rák korai észlelése nem ugyanaz, mint bizonyított mortalitáscsökkenés.",
+            "A szűrővizsgálatoknak bizonyítékon kell alapuló nettó előnyt kell mutatniuk, figyelembe véve a hamis pozitív eredményeket és az ezekből fakadó beavatkozásokat.",
+            "Klinikusoknak és pácienseknek a jelenlegi bizonyítékokat és irányelveket kell mérlegelniük az ilyen tesztek megfontolásakor."
+          ]
+        },
+        "ar": {
+          "title": "مراجعة خبيرة تتساءل عما إذا كان فحص دم متعدد السرطانات يقلل وفيات السرطان",
+          "summary": "يناقش طبيب مشارك في إعداد إرشادات الفحص في الولايات المتحدة فوائد وحدود فحص الدم Galleri لاكتشاف عدة أنواع من السرطان مبكرًا. يشير الكاتب إلى أن الاختبار قادر على اكتشاف العديد من الأنواع قبل ظهور الأعراض، لكنه يؤكد أنه لا توجد أدلة حالية تُظهر أنه يقلل الوفيات الناتجة عن السرطان.",
+          "whyItMatters": "يمكن لاختبارات الكشف المبكر أن تكتشف السرطانات في مراحل أبكر، لكن اكتشاف المزيد من السرطانات لا يترجم تلقائيًا إلى انخفاض الوفيات؛ من الضروري تقييم التأثير على الوفيات، والأضرار الناتجة عن الإيجابيات الكاذبة، والعواقب اللاحقة قبل الاعتماد الواسع.",
+          "takeaways": [
+            "اكتشاف عدة سرطانات مبكرًا ليس هو ذاته فائدة مثبتة في تقليل الوفيات.",
+            "تحتاج اختبارات الفحص إلى دليل على فائدة صافية يأخذ في الحسبان الإيجابيات الكاذبة والإجراءات اللاحقة.",
+            "ينبغي على الأطباء والمرضى موازنة الأدلة الحالية وتوصيات الإرشادات عند النظر في هذه الاختبارات."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-b-0ac7479d3a6a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-b-0ac7479d3a6a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-blood-test-claims-to-detect-50-plus-cancers-before-symptoms-b-0ac7479d3a6a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Expert review questions whether multicancer blood test reduces cancer mortality.\nStory summary: A physician involved in U.S. screening guidelines discusses the benefits and limitations of the Galleri multicancer early detection blood test. The author notes the test can detect many cancer types before symptoms but emphasizes there is no current evidence that it reduces deaths from cancer..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "for-veterans-with-mild-traumatic-brain-injury-a-restaurant-or-oth-234259a2ed38",
@@ -125369,6 +126439,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-11-motivation-1-story-1",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Pack with purpose",
+          "story": "Anna started packing her lunches on Sunday evenings. Instead of guessing at noon, she opens the app to plan a simple meal, logs the components as she packs them, and keeps a note of how full she felt afterward. Over a few weeks she stopped wasting time deciding at work and discovered small swaps that made meals more satisfying. Tracking became a calm, practical part of her routine rather than a chore.",
+          "habit": "Plan and log one packed meal on Sunday.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Preparar con intención",
+          "story": "María empezó a preparar sus almuerzos los domingos por la tarde. En vez de improvisar al mediodía, abre la app para planificar una comida sencilla, anota lo que lleva al preparar la fiambrera y apunta cómo se quedó de saciada después. En pocas semanas dejó de perder tiempo decidiendo en el trabajo y descubrió pequeños cambios que hicieron las comidas más completas. El registro pasó a ser una parte tranquila y práctica de su rutina, no una obligación.",
+          "habit": "Planifica y registra una comida preparada el domingo.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Планируй с намерением",
+          "story": "Анна стала собирать обеды воскресными вечерами. Вместо утренних догадок она открывала приложение, планировала простой приём пищи, записывала ингредиенты при сборке и отмечала, насколько была сыта после. Через несколько недель она перестала тратить время на выбор в офисе и нашла небольшие замены, делающие обеды более удовлетворительными. Ведение записей стало спокойной и практичной частью её распорядка, а не рутиной, которую надо «перенести».",
+          "habit": "Спланируй и запиши один собранный обед в воскресенье.",
+          "appCta": "Открой Calorie Bank Credit и начни записывать сегодня."
+        },
+        "uk": {
+          "title": "Пакувати навмисно",
+          "story": "Ганна почала готувати ланчі ввечері в неділю. Замість того, щоб вгадувати в обід, вона відкриває додаток, планує простий прийом їжі, записує компоненти під час пакування та відзначає, наскільки була ситою потім. Через кілька тижнів вона перестала витрачати час на вибір на роботі й помітила невеликі заміни, які зробили страви більш задовольняючими. Відстеження стало спокійною, практичною частиною її рутини, а не тягарем.",
+          "habit": "Сплануй і занотуй один пакований обід у неділю.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Préparer avec intention",
+          "story": "Anne a commencé à préparer ses déjeuners le dimanche soir. Plutôt que d’improviser à midi, elle ouvre l’application pour planifier un repas simple, note les éléments en les préparant et indique si elle s’est sentie rassasiée ensuite. En quelques semaines, elle a arrêté de perdre du temps à décider au travail et a trouvé de petits ajustements qui rendaient les repas plus satisfaisants. Le suivi est devenu une étape calme et utile de sa routine, sans pression.",
+          "habit": "Planifie et enregistre un déjeuner préparé le dimanche.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Mit Absicht packen",
+          "story": "Anna packt seit neuestem sonntags ihre Mittagessen. Statt mittags zu überlegen öffnet sie die App, plant eine einfache Mahlzeit, notiert die Bestandteile beim Packen und hält fest, wie satt sie danach war. Nach ein paar Wochen verschwendet sie keine Zeit mehr mit Entscheidungen am Arbeitsplatz und hat kleine Varianten gefunden, die die Mahlzeiten befriedigender machen. Das Tracking wurde ein ruhiger, praktischer Teil ihrer Routine statt einer lästigen Pflicht.",
+          "habit": "Plane und notiere eine vorbereitete Mahlzeit am Sonntag.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Preparar com propósito",
+          "story": "Ana passou a montar os almoços aos domingos à noite. Em vez de decidir na hora, ela abre o app para planejar uma refeição simples, registra os itens enquanto monta a marmita e anota o quanto ficou satisfeita depois. Em poucas semanas ela parou de perder tempo escolhendo no trabalho e descobriu pequenas trocas que deixaram as refeições mais completas. Registrar virou uma parte calma e prática da rotina, não uma obrigação.",
+          "habit": "Planeje e registre uma refeição preparada no domingo.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Szándékosan csomagolj",
+          "story": "Anna mostantól vasárnap esténként készíti elő az ebédjeit. Ahelyett, hogy délben találgatna, megnyitja az alkalmazást, megtervezi az egyszerű étkezést, beírja az összetevőket összecsomagolás közben, és feljegyzi, mennyire volt jóllakott utána. Néhány hét alatt abbahagyta az időpazarlást a munkahelyi döntéseknél, és kis cseréket talált, amelyek kielégítőbbé tették az ételeket. A naplózás nyugodt, praktikus része lett a rutinjának.",
+          "habit": "Tervezd meg és jegyezd fel egy vasárnapi ebédet.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "حضّر بقصد",
+          "story": "ليلى بدأت تحضّر غداءها مساء يوم الأحد. بدلاً من التخمين عند الظهيرة، تفتح التطبيق لتخطيط وجبة بسيطة، تُسجل المكونات أثناء التعبئة وتدوّن مدى شعورها بالشبع بعدها. خلال أسابيع قليلة توقفت عن إضاعة الوقت في اتخاذ قرار أثناء العمل ووجدت تغييرات صغيرة جعلت الوجبات أكثر إرضاءً. أصبح التتبع جزءًا هادئًا وعمليًا من روتينها بدلًا من مهمة مرهقة.",
+          "habit": "خططي وسجّلي وجبة محضّرة يوم الأحد.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Pack with purpose.\nStory: Anna started packing her lunches on Sunday evenings. Instead of guessing at noon, she opens the app to plan a simple meal, logs the components as she packs them, and keeps a note of how full she felt afterward. Over a few weeks she stopped wasting time deciding at work and discovered small swaps that made meals more satisfying. Tracking became a calm, practical part of her routine rather than a chore..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-11-motivation-2-story-2",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Honest bites, clearer habits",
+          "story": "Marcus used to skip logging snacks because they felt small or embarrassing. One evening he decided to note everything, even the handful of nuts and that late cookie. Seeing the record over a week helped him spot when small bites added up—usually around meetings or while watching TV. With that awareness he started keeping easy options nearby and set a gentle reminder to log in the moment. The change was simple: honest logging made his patterns visible and easier to adjust.",
+          "habit": "Log every snack immediately after eating.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Bocados honestos, hábitos claros",
+          "story": "Javier solía no registrar las meriendas porque le parecían pequeñas o vergonzosas. Una noche decidió anotar todo, incluso un puñado de frutos secos y aquella galleta tardía. Al ver el registro durante una semana, detectó cuándo las pequeñas porciones se acumulaban—muchas veces durante reuniones o mientras veía la tele. Con esa información empezó a tener opciones fáciles a mano y a ponerse un recordatorio amable para registrar en el momento. Lo simple cambió: registrar con honestidad hizo visibles los patrones.",
+          "habit": "Registra cada merienda justo después de comerla.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Честные перекусы, ясные привычки",
+          "story": "Михаил раньше не записывал перекусы — казались мелкими или неловкими. Однажды он решил фиксировать всё, даже горсть орехов и позднее печенье. Просмотр записей за неделю помог увидеть, когда маленькие перекусы складывались в значимую сумму — чаще во время встреч или перед телевизором. Осознав это, он держит под рукой простые варианты и ставит мягкое напоминание записывать сразу. Простое действие: честное ведение записей сделало привычки заметными и управляемыми.",
+          "habit": "Записывай каждый перекус сразу после еды.",
+          "appCta": "Открой Calorie Bank Credit и начни записывать сегодня."
+        },
+        "uk": {
+          "title": "Чесні перекуси, зрозумілі звички",
+          "story": "Михайло раніше не записував перекуси — здавалися дрібними або незручними. Одного вечора він вирішив фіксувати все, навіть жменю горіхів і ту пізню печивину. Через тиждень записів він помітив, коли маленькі перекуси накопичуються — зазвичай під час нарад або перегляду телебачення. Усвідомивши це, він почав тримати під рукою легкі варіанти і ставив м’яке нагадування записувати відразу. Простий крок: чесні записи зробили шаблони помітними й простішими до коригування.",
+          "habit": "Записуй кожен перекус одразу після їжі.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Petites bouchées, habitudes claires",
+          "story": "Marc évitait parfois d’enregistrer les encas parce qu’ils lui semblaient insignifiants ou gênants. Un soir, il a noté tout, y compris une poignée de fruits secs et ce biscuit tardif. Voir son journal sur une semaine lui a permis d’identifier les moments où ces petites portions s’accumulaient—souvent pendant des réunions ou devant la télé. Avec cette prise de conscience, il garde des alternatives faciles à portée et s’envoie un rappel pour enregistrer sur le moment. L’honnêteté a rendu ses habitudes visibles et plus simples à ajuster.",
+          "habit": "Enregistre chaque encas juste après l’avoir pris.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Ehrliche Bissen, klare Gewohnheiten",
+          "story": "Marcus hat Snacks früher oft nicht protokolliert, weil sie ihm zu klein oder peinlich erschienen. Eines Abends notierte er alles, sogar eine Handvoll Nüsse und den späten Keks. Die Wochenübersicht zeigte ihm, wann kleine Häppchen sich summierten—meist bei Meetings oder beim Fernsehen. Mit diesem Bewusstsein hält er nun einfache Alternativen griffbereit und stellt sich eine sanfte Erinnerung, sofort zu notieren. Die einfache Veränderung: ehrliches Protokollieren machte seine Muster sichtbar und leichter anzupassen.",
+          "habit": "Protokolliere jeden Snack direkt nach dem Essen.",
+          "appCta": "Öffne Calorie Bank Credit und starte heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Petiscos honestos, hábitos claros",
+          "story": "Miguel costumava não registrar os lanchinhos porque pareciam pequenos ou embaraçosos. Numa noite decidiu anotar tudo, até o punhado de nozes e o biscoito tardio. Ver o registro durante uma semana o ajudou a perceber quando pequenas mordidas se acumulavam—geralmente em reuniões ou assistindo TV. Com essa percepção, passou a ter opções fáceis por perto e a usar um lembrete gentil para registrar na hora. A mudança foi simples: registrar com honestidade tornou os padrões visíveis e mais fáceis de ajustar.",
+          "habit": "Registre todo lanche imediatamente após comer.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Őszinte falatok, tisztább szokások",
+          "story": "Máté korábban kihagyta a nassokat a naplóból, mert apróknak vagy kínosnak érezte őket. Egy este úgy döntött, mindent feljegyez – még egy marék diót és az esti sütit is. A heti összesítés megmutatta, mikor álltak össze az apró falatok – legtöbbször megbeszélések alatt vagy tévézés közben. Ezzel a tudatossággal könnyű opciókat tart magánál, és beállított egy finom emlékeztetőt, hogy azonnal rögzítse. Az őszinte naplózás láthatóvá tette a mintákat.",
+          "habit": "Írd be az összes nassolnivalót közvetlenül evés után.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "لقيمات صادقة، عادات أوضح",
+          "story": "عمر كان يتجاهل تسجيل الوجبات الخفيفة لأنها تبدو صغيرة أو محرجة. في إحدى الأمسيات قرر تدوين كل شيء، حتى قبضة من المكسرات وتلك الكعكة المتأخرة. عندما راجع السجل لمدة أسبوع رأى متى تتجمع اللقيمات الصغيرة—غالبًا أثناء الاجتماعات أو مشاهدة التلفاز. ومع هذا الوعي أبقى خيارات سهلة في المتناول ووضع تذكيرًا لطيفًا للتسجيل في اللحظة. كانت التغيير بسيطًا: التسجيل الصادق جعل عاداته مرئية وأسهل للتعديل.",
+          "habit": "سجّل كل وجبة خفيفة فورًا بعد تناولها.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Honest bites, clearer habits.\nStory: Marcus used to skip logging snacks because they felt small or embarrassing. One evening he decided to note everything, even the handful of nuts and that late cookie. Seeing the record over a week helped him spot when small bites added up—usually around meetings or while watching TV. With that awareness he started keeping easy options nearby and set a gentle reminder to log in the moment. The change was simple: honest logging made his patterns visible and easier to adjust..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-11-motivation-3-story-3",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Shifted routine, clearer choices",
+          "story": "Sofia works nights and used to eat when she felt tired, not hungry. She began tracking a week at a time to spot trends: late meals after long shifts, quick sugary options, and how those choices affected her energy. Seeing the pattern helped her swap one late snack for a small protein-rich option and schedule a light meal before a long shift. The point wasn't perfection—just noticing a pattern allowed small adjustments that fit her life and made meals feel more intentional.",
+          "habit": "Track evening meals for one week to spot patterns.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Rutina cambiada, decisiones más claras",
+          "story": "Sofía trabaja de noche y solía comer cuando estaba cansada, no con hambre. Empezó a registrar una semana para identificar tendencias: comidas tardías tras turnos largos, opciones azucaradas rápidas y cómo influían en su energía. Ver el patrón le ayudó a cambiar un snack tardío por algo con proteína y a programar una comida ligera antes de un turno largo. No se trataba de perfección: solo observar la pauta le permitió pequeños ajustes que encajaban en su vida y hicieron las comidas más intencionales.",
+          "habit": "Registra las cenas durante una semana para notar patrones.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Сменный график, ясный выбор",
+          "story": "София работает по ночам и часто ела от усталости, а не от голода. Она стала отслеживать питание по неделям, чтобы увидеть тренды: поздние приёмы пищи после долгих смен, быстрые сладкие перекусы и как это влияло на энергию. Увидев закономерности, она заменила один поздний снек на что-то с белком и стала планировать лёгкий приём пищи перед долгой сменой. Речь не о совершенстве — а о том, что замеченная закономерность позволила внести небольшие изменения в ритм жизни.",
+          "habit": "Отслеживай вечерние приёмы пищи неделю, чтобы увидеть шаблоны.",
+          "appCta": "Открой Calorie Bank Credit и начни записывать сегодня."
+        },
+        "uk": {
+          "title": "Інший режим, зрозуміліші рішення",
+          "story": "Софія працює в нічну зміну і колись їла від втоми, а не голоду. Вона почала відстежувати харчування протягом тижня, щоб помітити тенденції: пізні страви після довгих змін, швидкі солодкі перекуси і як вони впливають на енергію. Побачивши патерн, вона замінила один вечірній снек на щось з білком і запланувала легкий прийом їжі перед довгою зміною. Це не про досконалість — а про те, що помітна закономірність дозволила невеликі коригування, що пасують до життя.",
+          "habit": "Відстежуй вечірні прийоми їжі тиждень, щоб помітити закономірності.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Horaires décalés, choix plus clairs",
+          "story": "Sofia travaille de nuit et avait l’habitude de manger quand elle était fatiguée, pas forcément quand elle avait faim. Elle a commencé à suivre son alimentation semaine par semaine pour repérer les tendances : repas tardifs après les longues gardes, en-cas sucrés et l’effet sur son énergie. Repérer ces schémas lui a permis de remplacer un encas tardif par une petite option riche en protéines et de planifier un repas léger avant une longue garde. L’idée n’est pas la perfection, mais de petits ajustements pensés pour son quotidien.",
+          "habit": "Suivez vos repas du soir pendant une semaine pour repérer des tendances.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Versetzter Rhythmus, klarere Entscheidungen",
+          "story": "Sofia arbeitet nachts und hat oft gegessen, weil sie müde war, nicht weil sie Hunger hatte. Sie begann, eine Woche lang zu protokollieren, um Muster zu erkennen: späte Mahlzeiten nach langen Schichten, schnelle zuckerhaltige Optionen und wie das ihre Energie beeinflusste. Das Erkennen des Musters half ihr, einen späten Snack durch eine kleine eiweißreiche Alternative zu ersetzen und eine leichte Mahlzeit vor einer langen Schicht einzuplanen. Es geht nicht um Perfektion, sondern darum, Muster zu bemerken und kleine Anpassungen vorzunehmen.",
+          "habit": "Verfolge Abendmahlzeiten eine Woche, um Muster zu erkennen.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Rotina invertida, escolhas mais claras",
+          "story": "Sofia trabalha à noite e costumava comer quando estava cansada, não com fome. Ela passou a registrar por uma semana para perceber tendências: refeições tarde após longos turnos, opções açucaradas rápidas e como isso afetava sua energia. Ver o padrão a ajudou a trocar um lanche tardio por algo com proteína e a programar uma refeição leve antes de um turno longo. Não é sobre perfeição — é sobre notar um padrão e fazer pequenos ajustes que funcionam na rotina.",
+          "habit": "Registre as refeições noturnas por uma semana para identificar padrões.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Eltolódott ritmus, tisztább döntések",
+          "story": "Zsófia éjszakai műszakban dolgozik, és gyakran evett fáradtságból, nem éhségből. Elkezdett egy hétre követni minden étkezést, hogy lássa a mintákat: késői étkezések hosszú műszakok után, gyors, cukros opciók és ezek hatása az energiára. A minta észlelése segített kicserélni egy esti nassolnivalót egy fehérjedúsabb alternatívára, és beütemezni egy könnyű étkezést a hosszú műszak előtt. Nem a tökéletesség számít, hanem hogy a felismerés lehetővé teszi a kisebb alkalmazkodásokat.",
+          "habit": "Kövess egy hétig esti étkezéseket, hogy észrevedd a mintákat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "روتين مختلف، اختيارات أوضح",
+          "story": "سارة تعمل ليلاً وكانت تأكل عندما تشعر بالتعب لا عندما تكون جائعة. بدأت بتتبع أسبوع كامل لترى الاتجاهات: وجبات متأخرة بعد نوبات طويلة، خيارات سريعة مليئة بالسكر، وكيف تؤثر على طاقتها. رؤية هذا النمط ساعدتها على استبدال وجبة خفيفة متأخرة بخيار يحتوي على بروتين وجدولة وجبة خفيفة قبل النوبة الطويلة. الفكرة ليست السعي للكمال، بل ملاحظة النمط لإجراء تعديلات صغيرة تتناسب مع حياتها وتجعل الوجبات أكثر قصدًا.",
+          "habit": "تتبّع وجبات المساء لمدة أسبوع لملاحظة الأنماط.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Shifted routine, clearer choices.\nStory: Sofia works nights and used to eat when she felt tired, not hungry. She began tracking a week at a time to spot trends: late meals after long shifts, quick sugary options, and how those choices affected her energy. Seeing the pattern helped her swap one late snack for a small protein-rich option and schedule a light meal before a long shift. The point wasn't perfection—just noticing a pattern allowed small adjustments that fit her life and made meals feel more intentional..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-11-motivation-4-story-4",
+      "category": "calorie-tracking",
+      "languages": {
+        "en": {
+          "title": "Tiny swaps, steady rhythm",
+          "story": "Tom started making one small swap a week and logging it so he could see the effect. He chose modest changes—adding a serving of veggies, swapping a beverage, or adding a handful of seeds—and noted how those choices made meals feel. The act of recording helped him keep consistent without overthinking every detail. Over time the small swaps added up to a steadier rhythm: meals felt balanced more often and tracking felt like a helpful signal, not a test.",
+          "habit": "Make and log one small swap each week.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Pequeños cambios, ritmo constante",
+          "story": "Tom decidió hacer un pequeño cambio por semana y registrarlo para ver el impacto. Eligió modificaciones modestísimas: añadir una porción de verduras, cambiar una bebida o sumar un puñado de semillas, y anotó cómo se sentían las comidas tras esos cambios. El simple acto de registrar le ayudó a mantener la constancia sin pensar en los detalles todo el tiempo. Con el paso del tiempo, los pequeños cambios sumaron un ritmo más estable: las comidas se sintieron más equilibradas y el seguimiento se volvió una señal útil, no una prueba.",
+          "habit": "Haz y registra un pequeño cambio cada semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие замены, ровный ритм",
+          "story": "Олег стал вводить по одной маленькой замене в неделю и записывать её, чтобы увидеть эффект. Он выбирал скромные шаги — добавить порцию овощей, заменить напиток или положить горсть семян — и отмечал, как меняется ощущение от еды. Само ведение записей помогло ему быть последовательным, не переживая о каждой детали. Со временем эти мелкие изменения сложились в более стабильный ритм: приёмы пищи стали чаще казаться сбалансированными, а трекинг — полезным ориентиром, а не испытанием.",
+          "habit": "Внедри и запиши одну маленькую замену каждую неделю.",
+          "appCta": "Открой Calorie Bank Credit и начни записывать сегодня."
+        },
+        "uk": {
+          "title": "Дрібні заміни, рівний ритм",
+          "story": "Олег почав робити по одній невеликій заміні на тиждень і записувати її, щоб побачити ефект. Він обирав скромні зміни — додати порцію овочів, замінити напій або жменю насіння — і відзначав, як це впливає на відчуття від їжі. Сам процес запису допоміг йому зберігати послідовність без зайвих роздумів. Згодом ці маленькі заміни склалися в більш стабільний ритм: страви частіше здавалися збалансованими, а відстеження — корисним сигналом, а не випробуванням.",
+          "habit": "Зроби і занотуй одну маленьку заміну щотижня.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Petits changements, rythme stable",
+          "story": "Thomas a commencé à faire un petit changement par semaine et à le noter pour en voir les effets. Il a choisi des ajustements modestes—ajouter une portion de légumes, remplacer une boisson ou ajouter une poignée de graines—et a noté l’impact sur la sensation des repas. Le simple fait d’enregistrer l’a aidé à rester constant sans sur-analyser chaque détail. Avec le temps, ces petits changements ont créé un rythme plus régulier : les repas paraissaient plus équilibrés et le suivi devenait un repère utile, pas une épreuve.",
+          "habit": "Fais et enregistre un petit changement chaque semaine.",
+          "appCta": "Ouvre Calorie Bank Credit et commence à suivre aujourd’hui."
+        },
+        "de": {
+          "title": "Kleine Tausch, gleichmäßiger Rhythmus",
+          "story": "Tom begann, jede Woche einen kleinen Austausch vorzunehmen und zu protokollieren, um die Wirkung zu sehen. Er wählte bescheidene Änderungen—eine Portion Gemüse mehr, ein anderes Getränk oder eine Handvoll Samen—und notierte, wie sich die Mahlzeiten dadurch anfühlten. Das Aufzeichnen half ihm, beständig zu bleiben, ohne jede Kleinigkeit zu überdenken. Mit der Zeit summierten sich die kleinen Änderungen zu einem beständigeren Rhythmus: die Mahlzeiten wirkten häufiger ausgewogen, und das Tracking fühlte sich wie ein hilfreiches Signal an, nicht wie ein Test.",
+          "habit": "Mache und protokolliere jede Woche eine kleine Änderung.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Pequenas trocas, ritmo constante",
+          "story": "Lucas passou a fazer uma pequena troca por semana e a registrá-la para ver o efeito. Escolheu mudanças modestas—acrescentar uma porção de legumes, trocar uma bebida ou incluir um punhado de sementes—e anotou como isso afetava a sensação das refeições. O ato de registrar o ajudou a manter consistência sem pensar demais em cada detalhe. Com o tempo, essas pequenas trocas se somaram em um ritmo mais estável: as refeições ficaram mais equilibradas e o registro virou um sinal útil, não um teste.",
+          "habit": "Faça e registre uma pequena troca a cada semana.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Apró cserék, kiegyensúlyozott ritmus",
+          "story": "Tamás egy hétre egy apró cserét vezetett be és rögzítette, hogy lássa a hatást. Kisebb változtatásokat választott—plusz zöldségadag, italcsere vagy egy marék mag—és feljegyezte, hogyan hatnak ezek az étkezésekre. Maga az írás segített következetes maradni anélkül, hogy minden részleten aggódnia kellene. Idővel az apró cserék stabilabb ritmust adtak: az ételek gyakrabban tűntek kiegyensúlyozottnak, és a naplózás hasznos jelzéssé vált, nem vizsgává.",
+          "habit": "Végezzen és jegyezzen fel egy apró cserét hetente.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el ma naplózni."
+        },
+        "ar": {
+          "title": "تغييرات بسيطة، وتوازن أهدأ",
+          "story": "خالد بدأ يُجري تغييرًا صغيرًا كل أسبوع ويسجله ليلاحظ التأثير. اختار تغييرات بسيطة—إضافة حصة خضار، استبدال مشروب، أو إضافة قبضة من البذور—وسجل كيف أثرت هذه الاختيارات على شعوره من الوجبات. ساعده فعل التدوين على الاستمرار دون الإفراط في التفكير في كل تفصيل. مع الوقت تراكمت هذه التغييرات الصغيرة إلى نمط أكثر استقرارًا: أصبحت الوجبات تبدو متوازنة أكثر، وأصبح التتبع إشارة مفيدة بدلًا من اختبار.",
+          "habit": "قم بتغيير صغير وسجّله كل أسبوع.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-11T14:42:22.871Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-11-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Tiny swaps, steady rhythm.\nStory: Tom started making one small swap a week and logging it so he could see the effect. He chose modest changes—adding a serving of veggies, swapping a beverage, or adding a handful of seeds—and noted how those choices made meals feel. The act of recording helped him keep consistent without overthinking every detail. Over time the small swaps added up to a steadier rhythm: meals felt balanced more often and tracking felt like a helpful signal, not a test..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-10-motivation-1-s1",
       "category": "planning",
