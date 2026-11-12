@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:52:26.787Z",
+  "generatedAt": "2026-11-12T01:00:15.400Z",
   "items": [
+    {
+      "id": "2026-11-12-am",
+      "publishedAt": "2026-11-12T01:00:15.400Z",
+      "format": "summary",
+      "source": {
+        "id": "news:a1",
+        "kind": "news",
+        "name": "medicalxpress.com",
+        "title": "Q&A: What should women do to keep their bones healthy?",
+        "urls": {
+          "en": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=en",
+          "es": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=es",
+          "ru": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=ru",
+          "uk": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=uk",
+          "fr": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=fr",
+          "de": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=de",
+          "pt-br": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=pt-br",
+          "hu": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=hu",
+          "ar": "https://www.calorie-bank.com/nutrition-news.html?article=a1&lang=ar"
+        },
+        "originalUrl": "https://medicalxpress.com/news/2026-04-qa-women-bones-healthy.html",
+        "imageUrl": "/news-images/a1-news.webp"
+      },
+      "languages": {
+        "en": {
+          "title": "Midlife bone health: what women should know",
+          "intro": "Osteoporosis is common and disproportionately affects women. A Penn State expert says midlife — especially around menopause — is a key time to learn about risk and prevention.",
+          "points": [
+            "Osteoporosis raises fracture risk and is much more common among women.",
+            "About 1 in 10 Americans have osteoporosis, with women making up most cases.",
+            "Risk peaks around menopause; midlife is an important time to focus on bone health."
+          ],
+          "takeaway": "Treat midlife as a prompt to learn about bone health, prevention options, and when to seek professional assessment for personalized guidance.",
+          "imageUrl": "/infographic-images/2026-11-12-am-en.jpg"
+        },
+        "es": {
+          "title": "Salud ósea en la mediana edad: lo que las mujeres deben saber",
+          "intro": "La osteoporosis es común y afecta de forma desproporcionada a las mujeres. Un experto de Penn State dice que la mediana edad —especialmente alrededor de la menopausia— es un momento clave para conocer el riesgo",
+          "points": [
+            "La osteoporosis aumenta el riesgo de fracturas y es mucho más frecuente en mujeres.",
+            "Aproximadamente 1 de cada 10 estadounidenses tiene osteoporosis, y las mujeres constituyen la mayoría de los casos.",
+            "El riesgo alcanza su pico alrededor de la menopausia; la mediana edad es un momento importante para centrarse en la salud ósea."
+          ],
+          "takeaway": "Considere la mediana edad como un recordatorio para informarse sobre la salud ósea, las opciones de prevención y cuándo buscar evaluación profesional para orientación personalizada.",
+          "imageUrl": "/infographic-images/2026-11-12-am-es.jpg"
+        },
+        "ru": {
+          "title": "Здоровье костей в среднем возрасте: что должны знать женщины",
+          "intro": "Остеопороз распространён и непропорционально чаще поражает женщин. Эксперт из Penn State говорит, что средний возраст — особенно период вокруг менопаузы — это ключевое время, чтобы узнать о риске и профилактике",
+          "points": [
+            "Остеопороз повышает риск переломов и значительно чаще встречается у женщин.",
+            "Примерно у 1 из 10 американцев диагностируется остеопороз; женщины составляют большинство случаев.",
+            "Риск достигает пика около менопаузы; средний возраст — важное время, чтобы уделить внимание здоровью костей."
+          ],
+          "takeaway": "Рассматривайте средний возраст как повод узнать о здоровье костей, вариантах профилактики и о том, когда следует обратиться за профессиональной оценкой для получения персонализированных рекомендаций.",
+          "imageUrl": "/infographic-images/2026-11-12-am-ru.jpg"
+        },
+        "uk": {
+          "title": "Здоровʼя кісток у середньому віці: що повинні знати жінки",
+          "intro": "Остеопороз поширений і непропорційно впливає на жінок. Експерт із Пенсільванського державного університету каже, що середній вік — особливо період навколо менопаузи — ключовий для розуміння ризиків і профілакти",
+          "points": [
+            "Остеопороз підвищує ризик переломів і значно частіший у жінок.",
+            "Близько 1 з 10 американців має остеопороз, при цьому більшість випадків — у жінок.",
+            "Ризик зростає навколо менопаузи; середній вік — важливий час для турботи про кістки."
+          ],
+          "takeaway": "Ставтеся до середнього віку як до нагадування дізнатися про здоровʼя кісток, варіанти профілактики та коли звертатися за професійною оцінкою для персоналізованих порад.",
+          "imageUrl": "/infographic-images/2026-11-12-am-uk.jpg"
+        },
+        "fr": {
+          "title": "Santé osseuse à la mi‑vie : ce que les femmes doivent savoir",
+          "intro": "L'ostéoporose est courante et touche de manière disproportionnée les femmes. Un expert de Penn State affirme que la mi‑vie — surtout autour de la ménopause — est un moment clé pour connaître les risques et la p",
+          "points": [
+            "L'ostéoporose augmente le risque de fracture et est beaucoup plus fréquente chez les femmes.",
+            "Environ 1 Américain sur 10 a une ostéoporose, les femmes représentant la majorité des cas.",
+            "Le risque culmine autour de la ménopause ; la mi‑vie est un moment important pour se concentrer sur la santé osseuse."
+          ],
+          "takeaway": "Considérez la mi‑vie comme une invitation à vous renseigner sur la santé osseuse, les options de prévention et quand consulter un professionnel pour un suivi personnalisé.",
+          "imageUrl": "/infographic-images/2026-11-12-am-fr.jpg"
+        },
+        "de": {
+          "title": "Knochengesundheit in der Lebensmitte: Was Frauen wissen sollten",
+          "intro": "Osteoporose ist häufig und betrifft Frauen überproportional. Ein Experte von Penn State sagt, dass die Lebensmitte – besonders rund um die Menopause – eine Schlüsselzeit ist, um über Risiko und Vorbeugung zu lе",
+          "points": [
+            "Osteoporose erhöht das Bruchrisiko und ist bei Frauen deutlich häufiger.",
+            "Etwa 1 von 10 Amerikanern hat Osteoporose; Frauen machen den Großteil der Fälle aus.",
+            "Das Risiko erreicht um die Menopause seinen Höhepunkt; die Lebensmitte ist eine wichtige Zeit, um Knochengesundheit in den Blick zu nehmen."
+          ],
+          "takeaway": "Nutzen Sie die Lebensmitte als Anlass, sich über Knochengesundheit, Präventionsmöglichkeiten und den Zeitpunkt für professionelle Untersuchungen zur individuellen Beratung zu informieren.",
+          "imageUrl": "/infographic-images/2026-11-12-am-de.jpg"
+        },
+        "pt-br": {
+          "title": "Saúde óssea na meia-idade: o que as mulheres devem saber",
+          "intro": "A osteoporose é comum e afeta as mulheres de forma desproporcional. Um especialista da Penn State afirma que a meia-idade — especialmente ao redor da menopausa — é um momento chave para aprender sobre risco e p",
+          "points": [
+            "A osteoporose aumenta o risco de fraturas e é muito mais comum entre as mulheres.",
+            "Cerca de 1 em 10 americanos têm osteoporose, e as mulheres representam a maior parte dos casos.",
+            "O risco atinge o pico ao redor da menopausa; a meia-idade é um momento importante para focar na saúde óssea."
+          ],
+          "takeaway": "Encare a meia-idade como um lembrete para aprender sobre saúde óssea, opções de prevenção e quando procurar avaliação profissional para orientação personalizada.",
+          "imageUrl": "/infographic-images/2026-11-12-am-pt-br.jpg"
+        },
+        "hu": {
+          "title": "Középkorú nők csontegészsége: amit tudniuk kell",
+          "intro": "A csontritkulás gyakori és aránytalanul gyakrabban érinti a nőket. A Penn State szakértője szerint a középkor — különösen a változókor környékén — kulcsfontosságú időszak a kockázat és a megelőzés megismerésére",
+          "points": [
+            "A csontritkulás növeli a törések kockázatát, és jóval gyakoribb a nők körében.",
+            "Körülbelül 1 a 10 amerikaiból csontritkulással él, és az esetek többségét nők teszik ki.",
+            "A kockázat a változókor körül éri el a csúcsát; a középkor fontos időszak a csontok állapotára való odafigyelésre."
+          ],
+          "takeaway": "Tekintse a középkort jelzésnek: ismerje meg a csontok egészségét, a megelőzési lehetőségeket és azt, mikor kérjen szakértői értékelést személyre szabott tanácsért.",
+          "imageUrl": "/infographic-images/2026-11-12-am-hu.jpg"
+        },
+        "ar": {
+          "title": "صحة العظام في منتصف العمر: ما الذي يجب أن تعرفه النساء",
+          "intro": "هشاشة العظام شائعة وتؤثر بشكل غير متناسب على النساء. يقول خبير من Penn State إن منتصف العمر — وخاصة حول انقطاع الطمث — وقت مهم لمعرفة المخاطر والوقاية.",
+          "points": [
+            "هشاشة العظام تزيد خطر الكسور وهي أكثر شيوعًا بكثير بين النساء.",
+            "حوالي 1 من كل 10 أمريكيين لديهم هشاشة عظام، وتشكل النساء معظم الحالات.",
+            "يصل الخطر إلى ذروته حول انقطاع الطمث؛ منتصف العمر وقت مهم للتركيز على صحة العظام."
+          ],
+          "takeaway": "اعتبري منتصف العمر تذكيرًا للتعرّف على صحة العظام وخيارات الوقاية ومتى تطلبين تقييمًا مهنيًا للحصول على توجيه مخصّص.",
+          "imageUrl": "/infographic-images/2026-11-12-am-ar.jpg"
+        }
+      },
+      "slug": "midlife-bone-health-what-women-should-know"
+    },
     {
       "id": "2026-11-11-pm",
       "publishedAt": "2026-11-11T14:52:26.787Z",
