@@ -1,8 +1,936 @@
 {
-  "generatedAt": "2026-11-15T14:15:07.705Z",
+  "generatedAt": "2026-11-16T16:14:47.761Z",
   "sourceCount": 35,
-  "availableSourceCount": 35,
+  "availableSourceCount": 34,
   "articles": [
+    {
+      "id": "gut-microbiome-activity-linked-to-exceptional-longevity-may-suppo-c17bd4d3fc89",
+      "category": "Longevity & microbiome",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-gut-microbiome-linked-exceptional-longevity.html",
+      "sourceTitle": "Gut microbiome activity linked to exceptional longevity may support healthier aging",
+      "publishedAt": "Mon, 16 Nov 2026 11:00:11 EST",
+      "languages": {
+        "en": {
+          "title": "Gut microbiome activity associated with exceptional longevity; engineered bacteria improved metabolism in aged mice",
+          "summary": "Researchers at the University of California San Diego report metabolic activity patterns in the gut microbiome that are associated with exceptional human longevity. In laboratory tests, boosting the same microbiome activity with engineered bacteria produced improvements in metabolic health in aged mice.",
+          "whyItMatters": "The study links a specific microbial metabolic profile with long-lived people and shows an experimental intervention that changed metabolism in aged animals. That suggests microbiome metabolism is a plausible target for ageing research, but human causal evidence and safety data are not yet available.",
+          "takeaways": [
+            "Researchers identified gut microbial metabolic changes that co-occur with exceptional longevity in humans (association).",
+            "An engineered-bacteria intervention improved metabolic measures in aged mice (preclinical animal result).",
+            "Findings are preliminary for human treatment — animal benefits do not prove safe or effective human therapies.",
+            "Further human studies are needed to test causality, safety and whether similar interventions alter ageing-related outcomes."
+          ]
+        },
+        "es": {
+          "title": "Actividad del microbioma intestinal asociada con longevidad excepcional; bacterias modificadas mejoraron el metabolismo en ratones ancianos",
+          "summary": "Investigadores de la Universidad de California en San Diego informan patrones de actividad metabólica en el microbioma intestinal que se asocian con longevidad humana excepcional. En pruebas de laboratorio, aumentar la misma actividad microbiana con bacterias modificadas produjo mejoras en la salud metabólica de ratones envejecidos.",
+          "whyItMatters": "El estudio enlaza un perfil metabólico microbiano específico con personas longevas y muestra una intervención experimental que cambió el metabolismo en animales envejecidos. Eso sugiere que el metabolismo del microbioma es un blanco plausible para la investigación del envejecimiento, pero aún no hay evidencia causal en humanos ni datos de seguridad.",
+          "takeaways": [
+            "Los investigadores identificaron cambios metabólicos microbianos intestinales que ocurren junto con la longevidad excepcional en humanos (asociación).",
+            "Una intervención con bacterias modificadas mejoró medidas metabólicas en ratones envejecidos (resultado preclínico en animales).",
+            "Los hallazgos son preliminares para el tratamiento humano: los beneficios en animales no prueban que sean seguros o efectivos en personas.",
+            "Se necesitan más estudios en humanos para probar causalidad, seguridad y si intervenciones similares alteran resultados relacionados con el envejecimiento."
+          ]
+        },
+        "ru": {
+          "title": "Активность кишечного микробиома, связанная с исключительной долголетием; модифицированные бактерии улучшили метаболизм у старых мышей",
+          "summary": "Исследователи Университета Калифорнии в Сан-Диего сообщают о паттернах метаболической активности микробиома кишечника, которые связаны с исключительной человеческой долголетием. В лабораторных тестах усиление той же микробной активности с помощью модифицированных бактерий вызвало улучшения метаболического здоровья у старых мышей.",
+          "whyItMatters": "Исследование связывает конкретный микробный метаболический профиль с долгожителями и демонстрирует экспериментальное вмешательство, изменившее метаболизм у старых животных. Это указывает, что метаболизм микробиома может быть перспективной целью в исследованиях старения, но причинная доказательная база у людей и данные по безопасности пока отсутствуют.",
+          "takeaways": [
+            "Исследователи выявили изменения метаболизма кишечных микробов, совпадающие с исключительной долголетием у людей (ассоциация).",
+            "Вмешательство с модифицированными бактериями улучшило метаболические показатели у старых мышей (доклинический результат на животных).",
+            "Результаты предварительные для людей — преимущества у животных не доказывают безопасность или эффективность у людей.",
+            "Требуются дальнейшие исследования на людях, чтобы проверить причинность, безопасность и возможность влияния подобных вмешательств на показатели, связанные со старением."
+          ]
+        },
+        "uk": {
+          "title": "Активність кишкової мікробіоти, пов’язана з винятковою тривалістю життя; модифіковані бактерії покращили метаболізм у старих мишей",
+          "summary": "Дослідники з Університету Каліфорнії в Сан-Дієго повідомляють про патерни метаболічної активності в кишковій мікробіоті, що асоціюються з винятковою тривалістю життя у людей. У лабораторних експериментах посилення тієї самої мікробної активності за допомогою модифікованих бактерій призвело до покращення показників метаболічного здоров’я у старих мишей.",
+          "whyItMatters": "Дослідження пов’язує конкретний мікробний метаболічний профіль із довгожителями і демонструє експериментальну втручання, що змінило метаболізм у старих тварин. Це свідчить, що метаболізм мікробіому є правдоподібною мішенню для досліджень старіння, але причинні докази й дані про безпеку у людей наразі відсутні.",
+          "takeaways": [
+            "Дослідники ідентифікували зміни метаболізму кишкових мікробів, що співіснують з винятковою тривалістю життя у людей (асоціація).",
+            "Впровадження модифікованих бактерій покращило метаболічні показники у старих мишей (дослідження на тваринах, доклінічні результати).",
+            "Отримані результати є попередніми для лікування людей — користь у тварин не доводить безпечності чи ефективності у людей.",
+            "Потрібні подальші дослідження на людях, щоб перевірити причинність, безпеку та чи подібні втручання впливають на результати, пов’язані зі старінням."
+          ]
+        },
+        "fr": {
+          "title": "Activité du microbiote intestinal associée à une longévité exceptionnelle ; des bactéries modifiées ont amélioré le métabolisme chez des souris âgées",
+          "summary": "Des chercheurs de l'Université de Californie à San Diego rapportent des profils d'activité métabolique du microbiote intestinal associés à une longévité humaine exceptionnelle. Dans des tests en laboratoire, renforcer cette même activité microbienne avec des bactéries modifiées a entraîné des améliorations des paramètres métaboliques chez des souris âgées.",
+          "whyItMatters": "L'étude relie un profil métabolique microbien spécifique aux personnes longévives et montre une intervention expérimentale qui a modifié le métabolisme chez des animaux âgés. Cela suggère que le métabolisme du microbiote est une cible plausible pour la recherche sur le vieillissement, mais des preuves causales et des données de sécurité chez l'humain ne sont pas encore disponibles.",
+          "takeaways": [
+            "Les chercheurs ont identifié des modifications du métabolisme des microbes intestinaux qui coexistent avec une longévité exceptionnelle chez l'humain (association).",
+            "Une intervention par des bactéries modifiées a amélioré des mesures métaboliques chez des souris âgées (résultat préclinique sur animaux).",
+            "Ces résultats sont préliminaires pour le traitement humain — les bénéfices chez l'animal ne prouvent pas la sécurité ou l'efficacité chez l'humain.",
+            "Des études supplémentaires chez l'humain sont nécessaires pour tester la causalité, la sécurité et si des interventions similaires modifient des issues liées au vieillissement."
+          ]
+        },
+        "de": {
+          "title": "Aktivität des Darmmikrobioms, die mit außergewöhnlicher Langlebigkeit verbunden ist; gentechnisch veränderte Bakterien verbesserten den Stoffwechsel bei alten Mäusen",
+          "summary": "Forscher der University of California San Diego berichten über Muster metabolischer Aktivität im Darmmikrobiom, die mit außergewöhnlicher menschlicher Langlebigkeit assoziiert sind. In Laborversuchen führte die Verstärkung derselben Mikrobiom‑Aktivität durch gentechnisch veränderte Bakterien zu Verbesserungen der Stoffwechselgesundheit bei alten Mäusen.",
+          "whyItMatters": "Die Studie verknüpft ein spezifisches mikrobielles Stoffwechselprofil mit langlebigen Menschen und zeigt eine experimentelle Intervention, die den Stoffwechsel bei gealterten Tieren veränderte. Das legt nahe, dass der Mikrobiom‑Stoffwechsel ein plausibles Ziel für Alternsforschung ist, aber kausale Belege beim Menschen und Sicherheitsdaten liegen noch nicht vor.",
+          "takeaways": [
+            "Forscher identifizierten mikrobielle Stoffwechselveränderungen im Darm, die mit außergewöhnlicher Langlebigkeit beim Menschen zusammen auftreten (Assoziation).",
+            "Eine Intervention mit gentechnisch veränderten Bakterien verbesserte Stoffwechselparameter bei alten Mäusen (präklinisches Tierergebnis).",
+            "Die Befunde sind vorläufig in Bezug auf eine Behandlung beim Menschen — tierische Nutzen belegen nicht, dass Therapien beim Menschen sicher oder wirksam sind.",
+            "Weitere Studien am Menschen sind nötig, um Kausalität, Sicherheit und die Frage zu prüfen, ob ähnliche Interventionen altersbezogene Outcomes verändern."
+          ]
+        },
+        "pt-br": {
+          "title": "Atividade do microbioma intestinal associada à longevidade excepcional; bactérias geneticamente modificadas melhoraram o metabolismo em camundongos idosos",
+          "summary": "Pesquisadores da University of California San Diego relatam padrões de atividade metabólica no microbioma intestinal que estão associados à longevidade humana excepcional. Em testes de laboratório, aumentar essa mesma atividade do microbioma com bactérias geneticamente modificadas produziu melhorias na saúde metabólica de camundongos idosos.",
+          "whyItMatters": "O estudo associa um perfil metabólico microbiano específico a pessoas muito longevas e demonstra uma intervenção experimental que alterou o metabolismo em animais envelhecidos. Isso sugere que o metabolismo do microbioma é um alvo plausível para pesquisas sobre envelhecimento, mas evidências causais em humanos e dados de segurança ainda não estão disponíveis.",
+          "takeaways": [
+            "Pesquisadores identificaram mudanças metabólicas microbianas no intestino que ocorrem junto com longevidade excepcional em humanos (associação).",
+            "Uma intervenção com bactérias geneticamente modificadas melhorou medidas metabólicas em camundongos idosos (resultado pré-clínico em animais).",
+            "As descobertas são preliminares para tratamento humano — benefícios em animais não provam que terapias sejam seguras ou eficazes em humanos.",
+            "São necessários mais estudos em humanos para testar causalidade, segurança e se intervenções semelhantes alteram desfechos relacionados ao envelhecimento."
+          ]
+        },
+        "hu": {
+          "title": "A bélmikrobiom aktivitása összefügg a kiemelkedő élettartammal; mérnökölt baktériumok javították az anyagcserét idős egerekben",
+          "summary": "A Kaliforniai Egyetem San Diego kutatói olyan anyagcsere-aktivitási mintázatokat írnak le a bélmikrobiomban, amelyek a kiemelkedő emberi élettartammal társulnak. Laboratóriumi vizsgálatokban ugyanennek a mikrobiom-aktivitásnak a fokozása mérnökölt baktériumokkal javulást eredményezett az anyagcsere-mutatókban idős egerekben.",
+          "whyItMatters": "A tanulmány egy konkrét mikrobiális anyagcsere-profillal köti össze a hosszú életet és bemutat egy kísérleti beavatkozást, amely megváltoztatta az anyagcserét idős állatokban. Ez arra utal, hogy a mikrobiom anyagcseréje lehetséges célpont az öregedéskutatásban, de emberi okozati bizonyítékok és biztonsági adatok még nem állnak rendelkezésre.",
+          "takeaways": [
+            "A kutatók olyan bélmikrobiális anyagcsere-változásokat azonosítottak, amelyek együtt járnak a kiemelkedő élettartammal emberekben (asszociáció).",
+            "Egy mérnökölt baktériumokból álló beavatkozás javította az anyagcserére vonatkozó méréseket idős egerekben (preklinikai állatkísérleti eredmény).",
+            "Az eredmények előzetesek emberi kezelések szempontjából — az állati előnyök nem bizonyítják, hogy biztonságosak vagy hatékonyak lennének emberek számára.",
+            "További humán vizsgálatok szükségesek az okozatiság, a biztonság és az öregedéssel kapcsolatos kimenetekre gyakorolt hatás teszteléséhez."
+          ]
+        },
+        "ar": {
+          "title": "نشاط ميكروبيوم الأمعاء مرتبط بطول عمر استثنائي؛ بكتيريا مُهندَسة حسَّنت الأيض في الفئران المسنة",
+          "summary": "يذكر باحثون من جامعة كاليفورنيا في سان دييغو أنماط نشاط أيضي في ميكروبيوم الأمعاء ترتبط بطول عمر بشري استثنائي. في اختبارات مختبرية، أدى تعزيز نفس نشاط الميكروبيوم باستخدام بكتيريا مهندَسة إلى تحسّن في مقاييس الأيض لدى فئران مسنة.",
+          "whyItMatters": "تربط الدراسة ملفًا أيضيًا ميكروبيًا محددًا مع الأشخاص طويلِي العمر وتُظهر تدخلاً تجريبيًا غيّر الأيض في حيوانات مسنة. هذا يشير إلى أن أيض الميكروبيوم قد يكون هدفًا معقولًا لأبحاث الشيخوخة، لكن الأدلة السببية لدى البشر وبيانات السلامة غير متاحة بعد.",
+          "takeaways": [
+            "حدد الباحثون تغيّرات في الأيض الميكروبي المعوي تتوافق مع طول عمر استثنائي لدى البشر (ارتباط).",
+            "تدخل باستخدام بكتيريا مهندَسة حسّن مقاييس الأيض في فئران مسنة (نتيجة قبل سريرية على حيوانات).",
+            "النتائج أولية بالنسبة للعلاج البشري — الفوائد الحيوانية لا تثبت أن العلاجات آمنة أو فعالة للبشر.",
+            "هناك حاجة إلى دراسات بشرية إضافية لاختبار السببية والسلامة وما إذا كانت تدخلات مشابهة تؤثر على مخرجات مرتبطة بالشيخوخة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=gut-microbiome-activity-linked-to-exceptional-longevity-may-suppo-c17bd4d3fc89",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gut-microbiome-activity-linked-to-exceptional-longevity-may-suppo-c17bd4d3fc89-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/gut-microbiome-activity-linked-to-exceptional-longevity-may-suppo-c17bd4d3fc89-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Gut microbiome activity associated with exceptional longevity; engineered bacteria improved metabolism in aged mice.\nStory summary: Researchers at the University of California San Diego report metabolic activity patterns in the gut microbiome that are associated with exceptional human longevity. In laboratory tests, boosting the same microbiome activity with engineered bacteria produced improvements in metabolic health in aged mice..\nCategory: Longevity & microbiome.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "scientists-discover-that-the-heart-doesn-t-age-the-way-we-thought-bff6f006b0df",
+      "category": "Cardiovascular health",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+      "sourceTitle": "Scientists discover that the heart doesn't age the way we thought",
+      "publishedAt": "Mon, 16 Nov 2026 09:16:56 EST",
+      "languages": {
+        "en": {
+          "title": "Study finds uneven cardiac ageing with inflammation and scarring concentrated in valves and major vessels",
+          "summary": "Scientists report that ageing of the heart is not uniform: hotspots of inflammation and scarring appear concentrated in heart valves and major blood vessels rather than being evenly distributed through the heart muscle. The finding challenges some prevailing assumptions about how the heart changes with age.",
+          "whyItMatters": "If ageing-related damage is concentrated in specific cardiac structures, research and preventive strategies may need to target those areas. However, the report describes a research finding — implications for preventing or treating heart disease will require more work to confirm mechanisms and clinical relevance.",
+          "takeaways": [
+            "The study identifies localized patterns of inflammation and scarring in cardiac valves and large vessels during ageing.",
+            "This is a research observation that may shift where scientists look for ageing-related cardiac damage.",
+            "Clinical implications (screening or treatments) are not established and will need further translational and clinical research.",
+            "Readers should not assume this finding changes current care for heart disease without confirmatory studies."
+          ]
+        },
+        "es": {
+          "title": "Estudio encuentra envejecimiento cardíaco desigual con inflamación y cicatrización concentradas en válvulas y grandes vasos",
+          "summary": "Científicos informan que el envejecimiento del corazón no es uniforme: focos de inflamación y cicatrización parecen concentrarse en las válvulas cardíacas y en los principales vasos sanguíneos en lugar de distribuirse de forma homogénea por el músculo cardíaco. El hallazgo desafía algunas suposiciones sobre cómo cambia el corazón con la edad.",
+          "whyItMatters": "Si el daño relacionado con la edad se concentra en estructuras cardíacas específicas, la investigación y las estrategias preventivas podrían necesitar dirigirse a esas áreas. Sin embargo, el informe describe un hallazgo de investigación: las implicaciones para prevenir o tratar la enfermedad cardíaca requerirán más trabajo para confirmar mecanismos y relevancia clínica.",
+          "takeaways": [
+            "El estudio identifica patrones localizados de inflamación y cicatrización en válvulas cardíacas y grandes vasos durante el envejecimiento.",
+            "Se trata de una observación de investigación que puede reorientar dónde los científicos buscan daño cardíaco relacionado con la edad.",
+            "Las implicaciones clínicas (cribado o tratamientos) no están establecidas y necesitarán más investigación traslacional y clínica.",
+            "Los lectores no deben asumir que este hallazgo cambia la atención actual de las enfermedades del corazón sin estudios confirmatorios."
+          ]
+        },
+        "ru": {
+          "title": "Исследование выявляет неравномерное старение сердца с воспалением и рубцеванием, сосредоточенными в клапанах и крупных сосудах",
+          "summary": "Ученые сообщают, что старение сердца происходит неравномерно: очаги воспаления и рубцевания, по-видимому, сосредоточены в сердечных клапанах и крупных кровеносных сосудах, а не равномерно распределены по сердечной мышце. Это открытие оспаривает некоторые существующие представления о возрастных изменениях сердца.",
+          "whyItMatters": "Если повреждения, связанные со старением, концентрируются в определенных сердечных структурах, исследования и превентивные стратегии возможно потребуется направлять именно на эти области. Тем не менее отчет описывает исследовательское наблюдение — последствия для профилактики или лечения сердечных заболеваний потребуют дополнительных работ для подтверждения механизмов и клинической значимости.",
+          "takeaways": [
+            "В исследовании выявлены локализованные паттерны воспаления и рубцевания в сердечных клапанах и крупных сосудах при старении.",
+            "Это исследовательское наблюдение, которое может изменить представление ученых о локализации возрастного повреждения сердца.",
+            "Клинические последствия (скрининг или лечение) не установлены и потребуют дальнейших трансляционных и клинических исследований.",
+            "Не следует считать, что это открытие уже меняет текущую помощь при сердечных заболеваниях без подтверждающих исследований."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження виявляє нерівномірне старіння серця з вогнищами запалення та рубцювання у клапанах і великих судинах",
+          "summary": "Вчені повідомляють, що старіння серця не є однорідним: вогнища запалення та рубцювання здаються зосередженими в серцевих клапанах і великих кровоносних судинах, а не рівномірно по серцевому м'язу. Це відкриття ставить під сумнів деякі усталені уявлення про те, як серце змінюється з віком.",
+          "whyItMatters": "Якщо ушкодження, пов’язані зі старінням, концентруються в конкретних структурах серця, дослідження та профілактичні стратегії можуть повинні спрямовуватись на ці ділянки. Однак звіт описує дослідницьке спостереження — наслідки для профілактики чи лікування серцевих захворювань потребують додаткової роботи для підтвердження механізмів і клінічної релевантності.",
+          "takeaways": [
+            "Дослідження виявляє локалізовані патерни запалення та рубцювання в клапанах серця та великих судинах під час старіння.",
+            "Це наукове спостереження, яке може змінити фокус дослідників щодо місць ушкоджень серця, пов’язаних зі старінням.",
+            "Клінічні наслідки (скринінг або лікування) не встановлені й потребуватимуть подальших трансляційних і клінічних досліджень.",
+            "Читачам не слід вважати, що це відкриття змінює поточний підхід до лікування серцевих захворювань без підтверджуючих досліджень."
+          ]
+        },
+        "fr": {
+          "title": "L'étude montre un vieillissement cardiaque inégal avec inflammation et cicatrisation concentrées dans les valves et les gros vaisseaux",
+          "summary": "Des scientifiques rapportent que le vieillissement du cœur n'est pas uniforme : des foyers d'inflammation et de cicatrisation semblent concentrés dans les valves cardiaques et les gros vaisseaux sanguins plutôt que répartis de manière homogène dans le muscle cardiaque. Cette constatation remet en question certaines idées reçues sur l'évolution du cœur avec l'âge.",
+          "whyItMatters": "Si les dommages liés à l'âge sont concentrés dans des structures cardiaques spécifiques, la recherche et les stratégies préventives pourraient devoir cibler ces zones. Toutefois, le rapport décrit une observation de recherche — les implications pour la prévention ou le traitement des maladies cardiaques nécessiteront des travaux supplémentaires pour confirmer les mécanismes et la pertinence clinique.",
+          "takeaways": [
+            "L'étude identifie des schémas localisés d'inflammation et de cicatrisation dans les valves cardiaques et les gros vaisseaux lors du vieillissement.",
+            "Il s'agit d'une observation de recherche qui pourrait déplacer le regard des scientifiques sur les lieux des dommages cardiaques liés à l'âge.",
+            "Les implications cliniques (dépistage ou traitements) ne sont pas établies et nécessiteront des recherches translationnelles et cliniques supplémentaires.",
+            "Les lecteurs ne doivent pas supposer que cette découverte modifie les soins actuels pour les maladies cardiaques sans études confirmatoires."
+          ]
+        },
+        "de": {
+          "title": "Studie findet ungleichmäßiges Herzaltern mit Entzündungen und Vernarbung, die sich auf Klappen und große Gefäße konzentrieren",
+          "summary": "Wissenschaftler berichten, dass das Altern des Herzens nicht gleichmäßig verläuft: Hotspots mit Entzündung und Vernarbung scheinen sich eher in Herzklappen und großen Blutgefäßen zu konzentrieren als gleichmäßig im Herzmuskel verteilt zu sein. Dieser Befund stellt einige bisherige Annahmen über altersbedingte Veränderungen des Herzens infrage.",
+          "whyItMatters": "Wenn altersbedingte Schäden in bestimmten kardialen Strukturen konzentriert sind, müssten Forschung und Präventionsstrategien diese Bereiche gezielt untersuchen. Der Bericht beschreibt jedoch einen Forschungsbefund — die Bedeutung für Prävention oder Behandlung von Herzkrankheiten erfordert weitere Arbeit zur Bestätigung von Mechanismen und klinischer Relevanz.",
+          "takeaways": [
+            "Die Studie identifiziert lokalisierte Muster von Entzündung und Vernarbung in Herzklappen und großen Gefäßen im Alterungsprozess.",
+            "Dies ist eine Forschungsbeobachtung, die verändern kann, wo Wissenschaftler nach altersbedingten Herzschäden suchen.",
+            "Klinische Implikationen (Screening oder Behandlungen) sind nicht etabliert und benötigen weitere translationale und klinische Forschung.",
+            "Leser sollten nicht annehmen, dass dieser Befund die aktuelle Versorgung von Herzkrankheiten ohne bestätigende Studien ändert."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo encontra envelhecimento cardíaco desigual, com inflamação e cicatrização concentradas em válvulas e grandes vasos",
+          "summary": "Cientistas relatam que o envelhecimento do coração não é uniforme: pontos com inflamação e cicatrização parecem concentrar‑se nas válvulas cardíacas e nos grandes vasos sanguíneos, em vez de estarem distribuídos de forma homogênea pelo músculo cardíaco. A descoberta desafia algumas suposições prevalentes sobre como o coração muda com a idade.",
+          "whyItMatters": "Se o dano relacionado ao envelhecimento estiver concentrado em estruturas cardíacas específicas, pesquisas e estratégias preventivas podem precisar focalizar essas áreas. No entanto, o relatório descreve um achado de pesquisa — as implicações para prevenir ou tratar doenças cardíacas exigirão mais trabalho para confirmar mecanismos e relevância clínica.",
+          "takeaways": [
+            "O estudo identifica padrões localizados de inflamação e cicatrização em válvulas cardíacas e grandes vasos durante o envelhecimento.",
+            "Trata‑se de uma observação de pesquisa que pode mudar onde os cientistas procuram danos cardíacos relacionados à idade.",
+            "Implicações clínicas (triagem ou tratamentos) não estão estabelecidas e precisarão de mais pesquisa translacional e clínica.",
+            "Os leitores não devem assumir que esse achado altera os cuidados atuais para doenças cardíacas sem estudos confirmatórios."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány egyenetlen szívöregedést talál: gyulladás és hegesedés elsősorban billentyűkben és nagy erekben koncentrálódik",
+          "summary": "A kutatók arról számolnak be, hogy a szív öregedése nem egyenletes: a gyulladás és hegesedés „hotspotjai” elsősorban a szívbillentyűkben és a nagy vérerekben jelennek meg, nem pedig egyenletesen a szívizomban. A megállapítás megkérdőjelezi néhány, a korban bekövetkező szívváltozásról korábban uralkodó feltételezést.",
+          "whyItMatters": "Ha az öregedéssel kapcsolatos károsodás bizonyos szívstruktúrákban koncentrálódik, akkor a kutatásokat és a megelőzési stratégiákat ezeken a területeken kell megcélozni. Ugyanakkor a jelentés egy kutatási megfigyelésről szól — a szívbetegségek megelőzésére vagy kezelésére vonatkozó gyakorlati következmények igazolást igényelnek a mechanizmusok és a klinikai jelentőség további vizsgálatával.",
+          "takeaways": [
+            "A tanulmány lokalizált gyulladási és hegesedési mintázatokat azonosít a szívbillentyűkben és a nagy erekben az öregedés során.",
+            "Ez egy kutatási megfigyelés, amely megváltoztathatja, hogy a tudósok hol keresik az öregedéssel kapcsolatos szívkárosodást.",
+            "A klinikai következmények (szűrés vagy kezelések) még nem tisztázottak; további translációs és klinikai kutatás szükséges.",
+            "Az olvasók ne feltételezzék, hogy ez a megállapítás megváltoztatja a jelenlegi szívbetegség-ellátást megerősítő vizsgálatok nélkül."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تكشف شيخوخة قلب غير متجانسة مع تركّز الالتهاب والتليف في الصمامات والأوعية الكبرى",
+          "summary": "أفاد علماء أن شيخوخة القلب ليست متساوية: تظهر بؤر من الالتهاب والتليف مُركّزة في صمامات القلب والأوعية الدموية الكبرى بدلاً من أن تكون موزعة بالتساوي في عضلة القلب. هذا الاكتشاف يتحدّى بعض الافتراضات السائدة حول كيفية تغير القلب مع التقدّم في العمر.",
+          "whyItMatters": "إذا كان الضرر المرتبط بالشيخوخة يتركّز في هياكل قلبية محددة، فقد تحتاج الأبحاث واستراتيجيات الوقاية إلى استهداف تلك المناطق. مع ذلك، التقرير يصف نتيجة بحثية — وسيستلزم إثبات الآثار على الوقاية أو العلاج مزيدًا من العمل لتأكيد الآليات والأهمية السريرية.",
+          "takeaways": [
+            "تحدّد الدراسة أنماطًا موضعية من الالتهاب والتليف في صمامات القلب والأوعية الكبرى أثناء الشيخوخة.",
+            "هذه ملاحظة بحثية قد تغيّر مكان تَركيز العلماء عند البحث عن تلف القلب المرتبط بالشيخوخة.",
+            "لم تُحدد بعد الآثار السريرية مثل طرق الفحص أو العلاجات؛ وهناك حاجة لمزيد من الأبحاث الانتقالية والسريرية.",
+            "لا ينبغي للمطلعين افتراض أن هذا الاكتشاف يغيّر الرعاية الحالية لأمراض القلب بدون دراسات تأكيدية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-discover-that-the-heart-doesn-t-age-the-way-we-thought-bff6f006b0df",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-that-the-heart-doesn-t-age-the-way-we-thought-bff6f006b0df-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-that-the-heart-doesn-t-age-the-way-we-thought-bff6f006b0df-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds uneven cardiac ageing with inflammation and scarring concentrated in valves and major vessels.\nStory summary: Scientists report that ageing of the heart is not uniform: hotspots of inflammation and scarring appear concentrated in heart valves and major blood vessels rather than being evenly distributed through the heart muscle. The finding challenges some prevailing assumptions about how the heart changes with age..\nCategory: Cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "a-lot-of-women-are-angry-what-people-don-t-know-about-perimenopau-604ee2bab2c1",
+      "category": "Healthy ageing & women's health",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/11/16/health/perimenopause-missed-signs-symptoms-wellness",
+      "sourceTitle": "‘A lot of women are angry’: What people don’t know about perimenopause",
+      "publishedAt": "2026-11-16T13:00:15.239Z",
+      "languages": {
+        "en": {
+          "title": "Report highlights under-recognized perimenopause symptoms and gaps in care",
+          "summary": "CNN reports that many people experience pain, cognitive symptoms like 'brain fog,' and anxiety during the years leading up to menopause (perimenopause), but clinicians often under-recognize or dismiss these symptoms. The article notes growing attention to improving recognition and care.",
+          "whyItMatters": "Greater awareness of perimenopause symptoms among clinicians and the public could affect diagnosis, research priorities and support services. This is reporting on clinical practice and social trends rather than a single new study or treatment.",
+          "takeaways": [
+            "Perimenopause can involve a range of symptoms including pain, mood and cognitive changes.",
+            "The piece highlights gaps in recognition and care rather than presenting a new clinical trial.",
+            "Improving clinician education and research on effective management strategies is an ongoing need.",
+            "This article is descriptive journalism about health-care experiences and trends, not medical guidance."
+          ]
+        },
+        "es": {
+          "title": "Informe destaca síntomas de la perimenopausia poco reconocidos y brechas en la atención",
+          "summary": "CNN informa que muchas personas experimentan dolor, síntomas cognitivos como 'niebla mental' y ansiedad durante los años previos a la menopausia (perimenopausia), pero los clínicos a menudo subreconocen o descartan estos síntomas. El artículo señala una mayor atención a mejorar el reconocimiento y la atención.",
+          "whyItMatters": "Una mayor conciencia de los síntomas de la perimenopausia entre clínicos y el público podría afectar el diagnóstico, las prioridades de investigación y los servicios de apoyo. Se trata de un reportaje sobre práctica clínica y tendencias sociales más que de un único estudio o tratamiento nuevo.",
+          "takeaways": [
+            "La perimenopausia puede implicar una variedad de síntomas, incluidos dolor, cambios del estado de ánimo y síntomas cognitivos.",
+            "El artículo subraya brechas en el reconocimiento y la atención más que la presentación de un nuevo ensayo clínico.",
+            "Mejorar la formación clínica e investigar estrategias de manejo efectivas sigue siendo una necesidad.",
+            "Se trata de periodismo descriptivo sobre experiencias y tendencias en la atención sanitaria, no de orientación médica."
+          ]
+        },
+        "ru": {
+          "title": "Отчет подчеркивает недооцененные симптомы перименопаузы и пробелы в помощи",
+          "summary": "CNN сообщает, что многие люди испытывают боль, когнитивные симптомы, такие как «туман в голове», и тревогу в период, предшествующий менопаузе (пери‑менопауза), но клиницисты часто недооценивают или игнорируют эти симптомы. В статье отмечается растущий интерес к улучшению распознавания и ухода.",
+          "whyItMatters": "Большее осознание симптомов перименопаузы среди врачей и населения может повлиять на диагностику, приоритеты исследований и услуги поддержки. Это репортаж о клинической практике и социальных трендах, а не об одном новом исследовании или методе лечения.",
+          "takeaways": [
+            "Пери‑менопауза может включать широкий спектр симптомов, в том числе боль, изменения настроения и когнитивные нарушения.",
+            "Материал подчеркивает пробелы в распознавании и уходе, а не представляет новое клиническое испытание.",
+            "Необходимо улучшать обучение клиницистов и исследовать эффективные стратегии управления симптомами.",
+            "Это описательная журналистика о медицинском опыте и тенденциях, а не медицинские рекомендации."
+          ]
+        },
+        "uk": {
+          "title": "Репортаж висвітлює недооцінені симптоми перименопаузи та прогалини в медичній допомозі",
+          "summary": "CNN повідомляє, що багато людей зазнають болю, когнітивних симптомів як «туман у голові» та тривоги в роки перед менопаузою (перименопауза), але клініцисти часто недооцінюють або ігнорують ці симптоми. У статті зазначається зростаюча увага до покращення визнання та допомоги.",
+          "whyItMatters": "Краще знання про симптоми перименопаузи серед клініцистів і населення може вплинути на діагностику, пріоритети досліджень і служби підтримки. Це репортаж про клінічну практику та соціальні тенденції, а не одне нове дослідження чи лікування.",
+          "takeaways": [
+            "Перименопауза може включати широкий спектр симптомів, зокрема біль, зміни настрою і когнітивні порушення.",
+            "Матеріал підкреслює прогалини у визнанні та наданні допомоги, а не представляє нове клінічне випробування.",
+            "Потрібне покращення освіти клініцистів і досліджень щодо ефективних стратегій керування симптомами.",
+            "Ця стаття є описовою журналістикою про досвід у сфері охорони здоров'я і тенденції, а не медичною порадою."
+          ]
+        },
+        "fr": {
+          "title": "Le reportage souligne des symptômes de la périménopause sous‑reconnus et des lacunes dans les soins",
+          "summary": "CNN rapporte que de nombreuses personnes éprouvent des douleurs, des symptômes cognitifs comme le « brouillard mental » et de l'anxiété durant les années précédant la ménopause (périménopause), mais que les cliniciens reconnaissent souvent mal ou minimisent ces symptômes. L'article note une attention croissante pour améliorer la reconnaissance et les soins.",
+          "whyItMatters": "Une meilleure sensibilisation aux symptômes de la périménopause chez les cliniciens et le public pourrait affecter le diagnostic, les priorités de recherche et les services de soutien. Il s'agit d'un reportage sur la pratique clinique et les tendances sociales, et non d'une étude ou d'un nouveau traitement unique.",
+          "takeaways": [
+            "La périménopause peut impliquer une gamme de symptômes, y compris douleurs, changements d'humeur et troubles cognitifs.",
+            "L'article met en évidence des lacunes dans la reconnaissance et la prise en charge plutôt que de présenter un nouvel essai clinique.",
+            "Il est nécessaire d'améliorer la formation des cliniciens et la recherche sur des stratégies de prise en charge efficaces.",
+            "Cet article est du journalisme descriptif sur les expériences en matière de soins de santé et les tendances, pas un guide médical."
+          ]
+        },
+        "de": {
+          "title": "Bericht hebt wenig beachtete Perimenopause‑Symptome und Versorgungslücken hervor",
+          "summary": "CNN berichtet, dass viele Menschen während der Jahre vor der Menopause (Perimenopause) Schmerzen, kognitive Symptome wie 'Gehirnnebel' und Angst erleben, diese Symptome von Klinikerinnen und Klinikern jedoch oft untererkannt oder abgetan werden. Der Artikel vermerkt wachsende Aufmerksamkeit für bessere Erkennung und Versorgung.",
+          "whyItMatters": "Mehr Bewusstsein für Perimenopause‑Symptome bei Klinikerinnen/Klinikern und in der Öffentlichkeit könnte Diagnosen, Forschungsprioritäten und Unterstützungsangebote beeinflussen. Dies ist Berichterstattung über klinische Praxis und gesellschaftliche Trends, nicht eine einzelne neue Studie oder Behandlung.",
+          "takeaways": [
+            "Perimenopause kann eine Reihe von Symptomen umfassen, darunter Schmerz, Stimmungsschwankungen und kognitive Veränderungen.",
+            "Der Beitrag hebt Lücken in der Erkennung und Versorgung hervor, statt eine neue klinische Studie vorzustellen.",
+            "Verbesserte Ausbildung von Fachkräften und Forschung zu wirksamen Managementstrategien bleiben notwendig.",
+            "Der Artikel ist beschreibender Journalismus zu Patientenerfahrungen und Trends im Gesundheitswesen, keine medizinische Anleitung."
+          ]
+        },
+        "pt-br": {
+          "title": "Reportagem destaca sintomas da perimenopausa pouco reconhecidos e lacunas no atendimento",
+          "summary": "A CNN relata que muitas pessoas experimentam dor, sintomas cognitivos como 'nevoeiro mental' e ansiedade durante os anos que antecedem a menopausa (perimenopausa), mas os clínicos frequentemente subestimam ou desconsideram esses sintomas. A matéria nota atenção crescente para melhorar reconhecimento e atendimento.",
+          "whyItMatters": "Maior conscientização sobre sintomas da perimenopausa entre clínicos e público pode afetar diagnóstico, prioridades de pesquisa e serviços de apoio. Trata‑se de reportagem sobre prática clínica e tendências sociais, não de um único estudo ou tratamento novo.",
+          "takeaways": [
+            "A perimenopausa pode envolver uma gama de sintomas, incluindo dor, alterações de humor e cognitivas.",
+            "A matéria ressalta lacunas no reconhecimento e no atendimento, em vez de apresentar um novo ensaio clínico.",
+            "Melhorar a formação de clínicos e a pesquisa sobre estratégias eficazes de manejo é uma necessidade contínua.",
+            "Este artigo é jornalismo descritivo sobre experiências de cuidado de saúde e tendências, não orientação médica."
+          ]
+        },
+        "hu": {
+          "title": "Jelentés: alulismert perimenopauzás tünetek és ellátási hiányosságok",
+          "summary": "A CNN arról számol be, hogy sokan fájdalmat, kognitív tüneteket, például „agyi ködöt”, és szorongást tapasztalnak a menopauza előtti években (perimenopauza), de ezeket a tüneteket a klinikusok gyakran alul-ismerik vagy elutasítják. A cikk megjegyzi, hogy egyre nagyobb figyelem irányul a felismerés és az ellátás javítására.",
+          "whyItMatters": "A perimenopauza tüneteinek jobb ismertsége a klinikusok és a nyilvánosság körében befolyásolhatja a diagnózist, a kutatási prioritásokat és a támogatási szolgáltatásokat. Ez újságírói beszámoló a klinikai gyakorlatról és társadalmi trendekről, nem pedig egyetlen új tanulmány vagy kezelés.",
+          "takeaways": [
+            "A perimenopauza tünetei közé tartozhatnak fájdalom, hangulati és kognitív változások.",
+            "A cikk a felismerés és az ellátás hiányosságaira hívja fel a figyelmet, nem új klinikai vizsgálatra mutat rá.",
+            "A klinikusok oktatásának javítása és a hatékony kezelési stratégiák kutatása továbbra is szükséges.",
+            "Ez a cikk leíró újságírás az egészségügyi tapasztalatokról és trendekről, nem orvosi útmutatás."
+          ]
+        },
+        "ar": {
+          "title": "تقرير يبرز أعراض انتقال مرحلة ما قبل انقطاع الطمث وما يرافقها من ثغرات في الرعاية",
+          "summary": "تفيد CNN أن كثيرين يعانون ألمًا وأعراضًا إدراكية مثل «ضباب الدماغ» وقلقًا خلال السنوات التي تسبق اليأس (الما قبل انقطاع الطمث)، لكن الأطباء غالبًا ما يقلّلون من شأن هذه الأعراض أو لا يعرِفونها. يشير المقال إلى تزايد الاهتمام بتحسين التعرف على الأعراض وتقديم الرعاية.",
+          "whyItMatters": "قد يؤثر زيادة الوعي بأعراض الما قبل انقطاع الطمث لدى الأطباء والجمهور على التشخيص وأولويات البحث وخدمات الدعم. هذا تقرير صحفي عن الممارسة السريرية والاتجاهات الاجتماعية وليس دراسة أو علاجًا جديدًا واحدًا.",
+          "takeaways": [
+            "قد تتضمن أعراض الما قبل انقطاع الطمث نطاقًا من المشكلات بما في ذلك الألم وتغيّرات المزاج والوظائف الإدراكية.",
+            "يسلط المقال الضوء على ثغرات في التعرف على الأعراض وتقديم الرعاية بدلاً من تقديم تجربة سريرية جديدة.",
+            "تحسين تعليم الأطباء والبحث في استراتيجيات إدارة فعّالة ما زال حاجة مستمرة.",
+            "المقال تقرير وصفي عن تجارب وخبرات رعاية صحية ولا يعدّ إرشادًا طبيًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=a-lot-of-women-are-angry-what-people-don-t-know-about-perimenopau-604ee2bab2c1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-lot-of-women-are-angry-what-people-don-t-know-about-perimenopau-604ee2bab2c1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/a-lot-of-women-are-angry-what-people-don-t-know-about-perimenopau-604ee2bab2c1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Report highlights under-recognized perimenopause symptoms and gaps in care.\nStory summary: CNN reports that many people experience pain, cognitive symptoms like 'brain fog,' and anxiety during the years leading up to menopause (perimenopause), but clinicians often under-recognize or dismiss these symptoms. The article notes growing attention to improving recognition and care..\nCategory: Healthy ageing & women's health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "from-burgers-to-beans-can-plant-based-substitutes-change-how-we-e-f6287f770ad5",
+      "category": "Nutrition & food policy",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261115/From-burgers-to-beans-Can-plant-based-substitutes-change-how-we-eat.aspx",
+      "sourceTitle": "From burgers to beans: Can plant-based substitutes change how we eat?",
+      "publishedAt": "Sun, 15 Nov 2026 21:16:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Perspective: ultra-processed plant-based meat alternatives may help dietary shifts but nutritional quality varies",
+          "summary": "A perspective in the Journal of Nutrition Education and Behavior discussed whether ultra-processed plant-based alternatives can help people move toward more plant-based diets. The authors suggest these products may assist dietary transition, particularly as replacements for red and processed meat, but emphasize that nutritional quality varies and direct evidence of lasting dietary improvement is limited.",
+          "whyItMatters": "Plant-based substitutes are widely available and could influence population diets, but their role depends on product composition, consumer behaviour, and long-term outcomes. Policymakers and clinicians should weigh nutritional profiles and evidence gaps when recommending these products.",
+          "takeaways": [
+            "Authors view plant-based substitutes as a potential tool to reduce red and processed meat intake for some people.",
+            "Many such products are ultra-processed and differ in nutrient content; not all are nutritionally superior.",
+            "There is limited direct evidence that these products lead to sustained healthier diets over the long term.",
+            "Further research is needed on nutritional impacts, consumption patterns, and public-health outcomes."
+          ]
+        },
+        "es": {
+          "title": "Perspectiva: los sustitutos cárnicos vegetales ultraprocesados pueden ayudar la transición dietaria, pero la calidad nutricional varía",
+          "summary": "Una perspectiva en el Journal of Nutrition Education and Behavior debatió si los sustitutos vegetales ultraprocesados pueden ayudar a que las personas adopten dietas más vegetales. Los autores sugieren que estos productos pueden facilitar la transición, especialmente como sustitutos de la carne roja y procesada, pero enfatizan que la calidad nutricional varía y que hay evidencia limitada de mejoras dietarias sostenidas.",
+          "whyItMatters": "Los sustitutos vegetales están ampliamente disponibles y podrían influir en las dietas poblacionales, pero su papel depende de la composición del producto, el comportamiento del consumidor y los resultados a largo plazo. Los responsables de políticas y los clínicos deben sopesar perfiles nutricionales y lagunas de evidencia al considerar recomendaciones.",
+          "takeaways": [
+            "Los autores consideran los sustitutos vegetales como una herramienta potencial para reducir el consumo de carne roja y procesada en algunas personas.",
+            "Muchos de estos productos están ultraprocesados y difieren en contenido de nutrientes; no todos son nutricionalmente superiores.",
+            "Existe evidencia limitada de que estos productos conduzcan a dietas más saludables sostenidas a largo plazo.",
+            "Se necesita más investigación sobre impactos nutricionales, patrones de consumo y resultados de salud pública."
+          ]
+        },
+        "ru": {
+          "title": "Мнение: ультра‑переработанные растительные заменители мяса могут помочь переходу в рацион, но их пищевая ценность различается",
+          "summary": "Статья‑мнение в Journal of Nutrition Education and Behavior рассматривает, могут ли ультра‑переработанные растительные заменители помочь людям перейти к более растительной диете. Авторы предполагают, что такие продукты могут облегчить переход, особенно в качестве заменителя красного и переработанного мяса, но подчеркивают, что пищевая ценность варьируется и что прямых доказательств устойчивого улучшения питания мало.",
+          "whyItMatters": "Растительные заменители широко доступны и могут повлиять на питание населения, но их роль зависит от состава продукта, поведения потребителей и долгосрочных исходов. Политикам и клиницистам следует учитывать нутрициологические профили и пробелы в доказательствах при выработке рекомендаций.",
+          "takeaways": [
+            "Авторы рассматривают растительные заменители как потенциальный инструмент для снижения потребления красного и переработанного мяса у некоторых людей.",
+            "Многие такие продукты ультра‑переработаны и различаются по содержанию нутриентов; не все они имеют лучшие питательные характеристики.",
+            "Имеется ограниченное количество доказательств, что эти продукты приводят к устойчивому улучшению диеты в долгосрочной перспективе.",
+            "Требуются дальнейшие исследования по питательным эффектам, моделям потребления и общественно‑оздоровительным исходам."
+          ]
+        },
+        "uk": {
+          "title": "Перспектива: ультраперероблені рослинні замінники м’яса можуть сприяти дієтичним зсувам, але якість поживних речовин варіює",
+          "summary": "Перспектива в Journal of Nutrition Education and Behavior обговорює, чи можуть ультраперероблені рослинні альтернативи допомогти людям рухатись у бік більш рослинної дієти. Автори припускають, що ці продукти можуть полегшити перехід, особливо як заміна червоного та переробленого м’яса, але наголошують, що поживна якість різниться і прямі докази тривалого покращення дієти обмежені.",
+          "whyItMatters": "Рослинні замінники широко доступні і можуть впливати на харчування в масштабі населення, але їхня роль залежить від складу продукту, поведінки споживачів і довгострокових результатів. Політикам і клініцистам слід враховувати харчові профілі та прогалини в доказах при рекомендаціях щодо таких продуктів.",
+          "takeaways": [
+            "Автори вважають рослинні замінники потенційним інструментом для зниження споживання червоного та переробленого м’яса у деяких людей.",
+            "Багато таких продуктів є ультрапереробленими і відрізняються за вмістом нутрієнтів; не всі є харчово кращими.",
+            "Є обмежені прямі докази того, що ці продукти призводять до тривалого переходу на здоровішу дієту.",
+            "Потрібні додаткові дослідження впливу на поживність, моделі споживання та наслідки для громадського здоров’я."
+          ]
+        },
+        "fr": {
+          "title": "Perspective : les alternatives à base de plantes ultra-transformées peuvent aider les transitions alimentaires mais la qualité nutritionnelle varie",
+          "summary": "Une perspective dans le Journal of Nutrition Education and Behavior a discuté de la capacité des alternatives végétales ultra-transformées à aider les personnes à adopter des régimes plus à base de plantes. Les auteurs suggèrent que ces produits peuvent faciliter la transition, notamment en remplacement des viandes rouges et transformées, mais insistent sur le fait que la qualité nutritionnelle varie et que les preuves directes d'une amélioration diététique durable sont limitées.",
+          "whyItMatters": "Les substituts d'origine végétale sont largement disponibles et pourraient influencer les habitudes alimentaires au niveau populationnel, mais leur rôle dépend de la composition des produits, du comportement des consommateurs et des résultats à long terme. Les décideurs et cliniciens doivent tenir compte des profils nutritionnels et des lacunes de preuves lorsqu'ils recommandent ces produits.",
+          "takeaways": [
+            "Les auteurs considèrent les substituts végétaux comme un outil potentiel pour réduire la consommation de viande rouge et transformée chez certaines personnes.",
+            "Beaucoup de ces produits sont ultra-transformés et diffèrent par leur teneur en nutriments ; ils ne sont pas tous nutritionnellement supérieurs.",
+            "Les preuves directes que ces produits entraînent des régimes plus sains et durables à long terme sont limitées.",
+            "Des recherches supplémentaires sont nécessaires sur les impacts nutritionnels, les comportements de consommation et les résultats de santé publique."
+          ]
+        },
+        "de": {
+          "title": "Perspektive: ultrahochverarbeitete pflanzliche Fleischalternativen können Ernährungsumstellungen unterstützen, die Nährwertqualität variiert",
+          "summary": "Eine Perspektive im Journal of Nutrition Education and Behavior diskutiert, ob ultrahochverarbeitete pflanzliche Alternativen Menschen helfen können, sich stärker pflanzenbasiert zu ernähren. Die Autorinnen und Autoren schlagen vor, dass diese Produkte den Übergang insbesondere als Ersatz für rotes und verarbeitetes Fleisch unterstützen könnten, betonen jedoch, dass die Nährwertqualität variiert und direkte Belege für anhaltende Ernährungsverbesserungen begrenzt sind.",
+          "whyItMatters": "Pflanzenbasierte Ersatzprodukte sind weit verbreitet und könnten Bevölkerungsdiäten beeinflussen, ihre Rolle hängt jedoch von Produktzusammensetzung, Konsumentenverhalten und langfristigen Outcomes ab. Entscheidungsträger und Kliniker sollten Nährstoffprofile und Evidenzlücken abwägen, wenn sie solche Produkte in Betracht ziehen.",
+          "takeaways": [
+            "Die Autorinnen und Autoren sehen pflanzenbasierte Ersatzprodukte als potenzielles Instrument, um bei manchen Menschen die Aufnahme von rotem und verarbeitetem Fleisch zu reduzieren.",
+            "Viele dieser Produkte sind ultrahochverarbeitet und unterscheiden sich in ihrem Nährstoffgehalt; nicht alle sind ernährungsphysiologisch überlegen.",
+            "Es gibt begrenzte direkte Evidenz dafür, dass diese Produkte langfristig zu nachhaltig gesünderen Ernährungsgewohnheiten führen.",
+            "Weitere Forschung zu ernährungsphysiologischen Auswirkungen, Konsummustern und gesundheitspolitischen Outcomes ist erforderlich."
+          ]
+        },
+        "pt-br": {
+          "title": "Perspectiva: alternativas à carne à base de plantas ultraprocessadas podem ajudar mudanças alimentares, mas qualidade nutricional varia",
+          "summary": "Uma perspectiva no Journal of Nutrition Education and Behavior discutiu se alternativas à base de plantas ultraprocessadas podem ajudar as pessoas a adotarem dietas mais baseadas em plantas. Os autores sugerem que esses produtos podem facilitar a transição dietética, particularmente como substitutos da carne vermelha e processada, mas enfatizam que a qualidade nutricional varia e há evidência direta limitada de melhora dietética duradoura.",
+          "whyItMatters": "Substitutos à base de plantas são amplamente disponíveis e podem influenciar as dietas da população, mas seu papel depende da composição dos produtos, do comportamento do consumidor e dos desfechos a longo prazo. Formuladores de políticas e clínicos devem considerar perfis nutricionais e lacunas de evidência ao recomendar esses produtos.",
+          "takeaways": [
+            "Os autores veem os substitutos à base de plantas como uma ferramenta potencial para reduzir o consumo de carne vermelha e processada em algumas pessoas.",
+            "Muitos desses produtos são ultraprocessados e diferem em conteúdo de nutrientes; nem todos são nutricionalmente superiores.",
+            "Há evidência direta limitada de que esses produtos levem a dietas mais saudáveis sustentadas a longo prazo.",
+            "São necessárias mais pesquisas sobre impactos nutricionais, padrões de consumo e desfechos de saúde pública."
+          ]
+        },
+        "hu": {
+          "title": "Szemle: ultrafeldolgozott növényi alapú húshelyettesítők segíthetik az étrendi eltolódást, de a tápanyagminőség változó",
+          "summary": "A Journal of Nutrition Education and Behavior egyik szemléje azt tárgyalta, hogy az ultrafeldolgozott növényi alapú helyettesítők segíthetnek-e az embereknek növényi alapúbb étrendre áttérni. A szerzők szerint ezek a termékek segíthetnek bizonyos esetekben a vörös és feldolgozott húsok helyettesítésében, de hangsúlyozzák, hogy a tápanyagminőség változó és a tartós étrendi javulás közvetlen bizonyítéka korlátozott.",
+          "whyItMatters": "A növényi alapú helyettesítők széles körben elérhetők és befolyásolhatják a népesség étrendjét, de szerepük a termékösszetételtől, a fogyasztói viselkedéstől és a hosszú távú eredményektől függ. A döntéshozóknak és klinikusoknak mérlegelniük kell a tápanyagprofilt és a bizonyítékhiányokat, amikor ezeket a termékeket ajánlják.",
+          "takeaways": [
+            "A szerzők potenciális eszközként tekintenek a növényi alapú helyettesítőkre a vörös és feldolgozott hús fogyasztásának csökkentésére bizonyos embereknél.",
+            "Sok ilyen termék ultrafeldolgozott, és tápanyagtartalmuk eltérő; nem mindegyik tápanyagilag jobb választás.",
+            "Korlátozottak a közvetlen bizonyítékok arra, hogy ezek a termékek hosszú távon tartósan egészségesebb étrendet eredményeznek.",
+            "További kutatás szükséges a tápanyaghatások, fogyasztási minták és a közegészségügyi kimenetek vizsgálatára."
+          ]
+        },
+        "ar": {
+          "title": "وجهة نظر: بدائل اللحوم النباتية فائقة المعالجة قد تساعد في التحول الغذائي لكن الجودة الغذائية تختلف",
+          "summary": "نقاش في Journal of Nutrition Education and Behavior تناول ما إن كانت البدائل النباتية فائقة المعالجة يمكن أن تساعد الناس على الانتقال نحو أنظمة غذائية أكثر اعتمادًا على النبات. يقترح المؤلفون أن هذه المنتجات قد تُسهِم في الانتقال الغذائي، خصوصًا كبدائل للحوم الحمراء والمعالجة، لكنهم يشددون على أن الجودة الغذائية تختلف وأن الأدلة المباشرة على تحسينات غذائية دائمة محدودة.",
+          "whyItMatters": "البدائل النباتية متاحة على نطاق واسع وقد تؤثر على أنماط النظام الغذائي للسكان، لكن دورها يعتمد على تكوين المنتج وسلوك المستهلك والنتائج طويلة الأمد. ينبغي لصانعي السياسات والأطباء مراعاة الموازنات بين ملفات التغذية والفجوات في الأدلة عند التوصية بهذه المنتجات.",
+          "takeaways": [
+            "يرى المؤلفون أن البدائل النباتية قد تكون أداة لتقليل استهلاك اللحوم الحمراء والمعالجة لدى بعض الأشخاص.",
+            "العديد من هذه المنتجات فائقة المعالجة وتختلف في محتواها الغذائي؛ ليست كلها أفضل غذائيًا تلقائيًا.",
+            "الأدلة المباشرة على أن هذه المنتجات تؤدي إلى أنماط غذائية أكثر صحة على المدى الطويل محدودة.",
+            "هناك حاجة لمزيد من البحث حول التأثيرات الغذائية وأنماط الاستهلاك والنتائج الصحية العامة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=from-burgers-to-beans-can-plant-based-substitutes-change-how-we-e-f6287f770ad5",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/from-burgers-to-beans-can-plant-based-substitutes-change-how-we-e-f6287f770ad5-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/from-burgers-to-beans-can-plant-based-substitutes-change-how-we-e-f6287f770ad5-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Perspective: ultra-processed plant-based meat alternatives may help dietary shifts but nutritional quality varies.\nStory summary: A perspective in the Journal of Nutrition Education and Behavior discussed whether ultra-processed plant-based alternatives can help people move toward more plant-based diets. The authors suggest these products may assist dietary transition, particularly as replacements for red and processed meat, but emphasize that nutritional quality varies and direct evidence of lasting dietary improvement is limited..\nCategory: Nutrition & food policy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "cancer-sponge-tests-could-be-offered-to-more-people-with-bad-indi-2c377cce3a77",
+      "category": "Cancer detection",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+      "publishedAt": "Mon, 16 Nov 2026 00:47:04 GMT",
+      "languages": {
+        "en": {
+          "title": "Sponge-on-a-string tests may be deliverable in GP surgeries for people with persistent indigestion",
+          "summary": "The BBC reports that 'sponge on a string' tests — a less invasive sampling technique than hospital endoscopy — can potentially be administered in general practice settings rather than in hospitals for people with problematic indigestion.",
+          "whyItMatters": "Moving less-invasive diagnostic tests into primary care could increase access and reduce the need for hospital endoscopy for some patients. The benefits depend on the test's accuracy, appropriate patient selection, and integration into care pathways.",
+          "takeaways": [
+            "The test is less invasive than endoscopy and can be offered outside hospital settings, which may improve access.",
+            "Wider use depends on evidence about diagnostic accuracy, which patients should be tested, and how results guide follow-up care.",
+            "Implementation would require primary-care workflows, training, and clear referral pathways for positive results.",
+            "This is a service-delivery development rather than a new therapeutic intervention."
+          ]
+        },
+        "es": {
+          "title": "Pruebas tipo 'esponja con cuerda' podrían realizarse en consultas de atención primaria para personas con indigestión persistente",
+          "summary": "La BBC informa que las pruebas de 'esponja en una cuerda', una técnica de muestreo menos invasiva que la endoscopia hospitalaria, podrían administrarse en centros de atención primaria en lugar de en hospitales para personas con indigestión problemática.",
+          "whyItMatters": "Trasladar pruebas diagnósticas menos invasivas a la atención primaria podría aumentar el acceso y reducir la necesidad de endoscopia hospitalaria para algunos pacientes. Los beneficios dependen de la precisión diagnóstica de la prueba, la selección adecuada de pacientes y la integración en los circuitos de atención.",
+          "takeaways": [
+            "La prueba es menos invasiva que la endoscopia y puede ofrecerse fuera del hospital, lo que podría mejorar el acceso.",
+            "El uso más amplio depende de la evidencia sobre la exactitud diagnóstica, qué pacientes deberían hacerse la prueba y cómo guiarán los resultados el seguimiento.",
+            "La implementación requeriría flujos de trabajo en atención primaria, formación y vías claras de derivación para resultados positivos.",
+            "Esto representa un cambio en la organización del servicio más que una nueva intervención terapéutica."
+          ]
+        },
+        "ru": {
+          "title": "Тест «губка на нитке» может проводиться в поликлиниках для людей с хронической изжогой",
+          "summary": "BBC сообщает, что тесты «губка на нитке» — менее инвазивный метод взятия образцов по сравнению с госпитальной эндоскопией — потенциально могут выполняться в кабинете участкового врача, а не в больнице, для людей с проблемной изжогой/диспепсией.",
+          "whyItMatters": "Перенос менее инвазивных диагностических тестов в первичную медико‑санитарную помощь может повысить доступность и снизить потребность в госпитальной эндоскопии для некоторых пациентов. Польза зависит от точности теста, правильного отбора пациентов и интеграции в клинические маршруты.",
+          "takeaways": [
+            "Тест менее инвазивен, чем эндоскопия, и может применяться вне больницы, что потенциально улучшит доступность.",
+            "Широкое внедрение зависит от доказательств диагностической точности, того, кому следует проводить тест, и от того, как результаты будут направлять дальнейшее обследование.",
+            "Для внедрения потребуются рабочие процессы в первичной помощи, обучение и четкие алгоритмы направления при положительных результатах.",
+            "Это изменение организации оказания услуг, а не новое терапевтическое вмешательство."
+          ]
+        },
+        "uk": {
+          "title": "Тести «губка на нитці» можуть бути доступні в сімейних амбулаторіях для людей з тривалою диспепсією",
+          "summary": "BBC повідомляє, що тести «губка на нитці» — менш інвазивна методика взяття зразків порівняно з госпітальною ендоскопією — потенційно можна проводити в загальній практиці, а не в лікарнях, для людей із проблемною диспепсією.",
+          "whyItMatters": "Перенесення менш інвазивних діагностичних тестів у первинну ланку може підвищити доступність і зменшити потребу в госпітальній ендоскопії для деяких пацієнтів. Користь залежить від точності тесту, правильного відбору пацієнтів та інтеграції в маршрути надання допомоги.",
+          "takeaways": [
+            "Тест менш інвазивний, ніж ендоскопія, і може пропонуватися поза лікарнею, що може покращити доступність.",
+            "Ширше застосування залежить від доказів щодо діагностичної точності, того, кого слід тестувати, і як результати визначають подальше ведення.",
+            "Впровадження вимагатиме робочих процесів у первинній ланці, навчання та чітких шляхів направлення при позитивних результатах.",
+            "Це розвиток у сфері організації послуг, а не нова терапевтична інтервенція."
+          ]
+        },
+        "fr": {
+          "title": "Les tests « éponge sur une ficelle » pourraient être réalisables en cabinets de médecine générale pour les personnes ayant une indigestion persistante",
+          "summary": "La BBC rapporte que les tests « éponge sur une ficelle » — une technique d'échantillonnage moins invasive que l'endoscopie hospitalière — pourraient potentiellement être administrés en soins primaires plutôt qu'à l'hôpital pour les personnes souffrant d'indigestion problématique.",
+          "whyItMatters": "Déplacer des tests diagnostiques moins invasifs en soins primaires pourrait augmenter l'accès et réduire le besoin d'endoscopie hospitalière pour certains patients. Les bénéfices dépendent de la précision du test, d'une sélection appropriée des patients et de l'intégration dans les parcours de soins.",
+          "takeaways": [
+            "Le test est moins invasif que l'endoscopie et peut être proposé en dehors de l'hôpital, ce qui peut améliorer l'accès.",
+            "Une utilisation plus large dépend des preuves sur la précision diagnostique, des patients à tester et de la manière dont les résultats orientent le suivi.",
+            "La mise en œuvre nécessiterait des flux de travail en soins primaires, de la formation et des parcours de référence clairs pour les résultats positifs.",
+            "Il s'agit d'une évolution de l'organisation des services plutôt que d'une nouvelle intervention thérapeutique."
+          ]
+        },
+        "de": {
+          "title": "Schwamm‑am‑Faden‑Tests könnten in Hausarztpraxen bei anhaltender Verdauungsstörung angeboten werden",
+          "summary": "Die BBC berichtet, dass 'Schwamm‑am‑Faden'‑Tests — eine weniger invasive Probenahmemethode als die Krankenhausendoskopie — möglicherweise in der hausärztlichen Versorgung statt in Krankenhäusern bei Menschen mit problematischer Verdauungsstörung durchgeführt werden können.",
+          "whyItMatters": "Das Verlegen weniger invasiver diagnostischer Tests in die Primärversorgung könnte den Zugang erweitern und die Notwendigkeit einer Krankenhausendoskopie für manche Patienten verringern. Der Nutzen hängt von der Genauigkeit des Tests, geeigneter Patientenauswahl und der Integration in Versorgungsabläufe ab.",
+          "takeaways": [
+            "Der Test ist weniger invasiv als eine Endoskopie und kann außerhalb von Krankenhäusern angeboten werden, was den Zugang verbessern könnte.",
+            "Eine breitere Anwendung hängt von Nachweisen zur diagnostischen Genauigkeit, der Frage, welche Patienten getestet werden sollten, und davon ab, wie Ergebnisse die weitere Versorgung lenken.",
+            "Die Umsetzung würde primärärztliche Arbeitsabläufe, Schulung und klare Überweisungswege für positive Befunde erfordern.",
+            "Dies ist eine Entwicklung in der Dienstleistungserbringung und kein neues therapeutisches Verfahren."
+          ]
+        },
+        "pt-br": {
+          "title": "Testes de 'esponja na corda' podem ser oferecidos em consultórios de atenção primária para pessoas com indigestão persistente",
+          "summary": "A BBC informa que os testes de 'esponja na corda' — uma técnica de amostragem menos invasiva que a endoscopia hospitalar — podem potencialmente ser realizados em serviços de atenção primária em vez de em hospitais para pessoas com indigestão problemática.",
+          "whyItMatters": "Levar testes diagnósticos menos invasivos para a atenção primária pode aumentar o acesso e reduzir a necessidade de endoscopia hospitalar para alguns pacientes. Os benefícios dependem da precisão do teste, da seleção adequada de pacientes e da integração aos fluxos de cuidado.",
+          "takeaways": [
+            "O teste é menos invasivo que a endoscopia e pode ser oferecido fora de ambientes hospitalares, o que pode melhorar o acesso.",
+            "Uso mais amplo depende de evidências sobre precisão diagnóstica, quais pacientes devem ser testados e como os resultados orientam o seguimento.",
+            "A implementação exigiria fluxos de trabalho na atenção primária, treinamento e caminhos claros de encaminhamento para resultados positivos.",
+            "Trata‑se de uma mudança na prestação de serviços, não de uma nova intervenção terapêutica."
+          ]
+        },
+        "hu": {
+          "title": "„Szivacs a húrra” tesztek általános orvosi rendelőkben is elvégezhetők lehetnek tartós emésztési panaszokkal küzdők számára",
+          "summary": "A BBC arról számol be, hogy a „szivacs-a-húron” típusú tesztek — amelyek kevésbé invazív mintavételi technikát jelentenek a kórházi endoszkópiánál — potenciálisan általános orvosi rendelőkben is elvégezhetők problémás gyomorégés vagy emésztési panaszok esetén, a kórház helyett.",
+          "whyItMatters": "A kevésbé invazív diagnosztikai tesztek primer ellátásba helyezése növelheti a hozzáférést és csökkentheti a kórházi endoszkópiára való szükségletet egyes betegek esetében. Az előnyök a teszt pontosságától, a megfelelő betegkiválasztástól és a gondozási útvonalakba való integrációtól függenek.",
+          "takeaways": [
+            "A teszt kevésbé invazív, mint az endoszkópia, és kórházi környezeten kívül is kínálható, ami javíthatja a hozzáférést.",
+            "A szélesebb körű alkalmazás attól függ, hogy milyen bizonyítékok vannak a diagnosztikai pontosságról, kiket érdemes szűrni, és hogyan irányítják a találatok a további ellátást.",
+            "Bevezetéséhez primer ellátási munkafolyamatokra, képzésre és egyértelmű továbbküldési utakra lesz szükség pozitív eredmények esetén.",
+            "Ez szolgáltatásnyújtási fejlesztésről szól, nem új terápiás beavatkozásról."
+          ]
+        },
+        "ar": {
+          "title": "اختبارات «الإسفنجة على خيط» قد تُقدَّم في عيادات الأطباء لمرضى عسر الهضم المستمر",
+          "summary": "تذكر هيئة الإذاعة البريطانية أن اختبارات «الإسفنجة على خيط» — تقنية أخذ عينات أقل اقتحامية من منظار المستشفى — يمكن أن تُجرى محتملًا في مراكز الرعاية الأولية بدلاً من المستشفيات للأشخاص الذين يعانون من عسر هضم مزمن.",
+          "whyItMatters": "نقل اختبارات تشخيصية أقل اقتحامية إلى الرعاية الأولية قد يزيد من الوصول ويقلّل حاجة بعض المرضى لمناظير المستشفى. تعتمد الفوائد على دقة الاختبار، واختيار المرضى الملائمين، ودمجها في مسارات الرعاية.",
+          "takeaways": [
+            "الاختبار أقل اقتحامية من منظار الجهاز الهضمي ويمكن تقديمه خارج بيئة المستشفى، مما قد يُحسّن الوصول إلى الفحص.",
+            "التوسيع يعتمد على الأدلة المتعلقة بالدقة التشخيصية، ومن هم المرضى الذين يجب فحصهم، وكيف تُوجّه النتائج للمتابعة.",
+            "يتطلب التنفيذ تدفقات عمل في الرعاية الأولية وتدريبًا ومسارات إحالة واضحة للنتائج الإيجابية.",
+            "هذا تقرير عن تغيير في تقديم الخدمة وليس عن تدخل علاجي جديد."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cancer-sponge-tests-could-be-offered-to-more-people-with-bad-indi-2c377cce3a77",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cancer-sponge-tests-could-be-offered-to-more-people-with-bad-indi-2c377cce3a77-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cancer-sponge-tests-could-be-offered-to-more-people-with-bad-indi-2c377cce3a77-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Sponge-on-a-string tests may be deliverable in GP surgeries for people with persistent indigestion.\nStory summary: The BBC reports that 'sponge on a string' tests — a less invasive sampling technique than hospital endoscopy — can potentially be administered in general practice settings rather than in hospitals for people with problematic indigestion..\nCategory: Cancer detection.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "plasma-proteomics-identifies-insulin-resistance-signatures-predic-6c81afc6405b",
+      "category": "Cardiometabolic risk & biomarkers",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s42255-026-01662-1",
+      "sourceTitle": "Plasma proteomics identifies insulin resistance signatures predictive of cardiometabolic disease risk",
+      "publishedAt": "2026-11-16",
+      "languages": {
+        "en": {
+          "title": "Deep plasma proteomics plus clamp studies produce tissue-resolved insulin-resistance signatures that predict cardiometabolic risk",
+          "summary": "A Nature Metabolism paper combined deep plasma proteomics with hyperinsulinaemic–euglycaemic clamp measurements to create a tissue-resolved molecular atlas of insulin resistance. Models derived from these proteomic signatures reportedly outperformed conventional surrogate markers when predicting cardiometabolic disease across large population cohorts.",
+          "whyItMatters": "Improved molecular signatures that better predict cardiometabolic risk could refine risk stratification and research into mechanisms of insulin resistance. But clinical utility, cost, and whether this leads to better patient outcomes require further validation and implementation studies.",
+          "takeaways": [
+            "Study integrated detailed plasma protein profiles with gold-standard clamp measures to map insulin-resistance signatures.",
+            "A predictive model based on those signatures outperformed some conventional markers across large cohorts (reported performance advantage).",
+            "Replication, assessment of clinical benefit, and evaluation of feasibility and cost are needed before routine clinical use.",
+            "This represents an advance in research biomarkers rather than an immediate change in clinical practice."
+          ]
+        },
+        "es": {
+          "title": "Proteómica plasmática profunda y pruebas de clamp generan firmas de resistencia a la insulina con resolución tisular que predicen riesgo cardiometabólico",
+          "summary": "Un artículo de Nature Metabolism combinó proteómica plasmática profunda con pruebas de clamp hiperinsulinémico-euglucémico para crear un atlas molecular con resolución tisular de la resistencia a la insulina. Modelos derivados de estas firmas proteómicas supuestamente superaron a marcadores sustitutivos convencionales al predecir enfermedad cardiometabólica en grandes cohortes poblacionales.",
+          "whyItMatters": "Firmas moleculares mejoradas que predicen mejor el riesgo cardiometabólico podrían refinar la estratificación de riesgo y la investigación sobre mecanismos de resistencia a la insulina. Pero la utilidad clínica, el coste y si esto conduce a mejores resultados para los pacientes requieren más validación e estudios de implementación.",
+          "takeaways": [
+            "El estudio integró perfiles detallados de proteínas plasmáticas con la medida de referencia (clamp) para mapear firmas de resistencia a la insulina.",
+            "Un modelo predictivo basado en esas firmas superó a algunos marcadores convencionales en grandes cohortes (ventaja de rendimiento reportada).",
+            "Se necesitan replicación, evaluación del beneficio clínico y análisis de viabilidad y coste antes del uso clínico rutinario.",
+            "Esto representa un avance en biomarcadores de investigación más que un cambio inmediato en la práctica clínica."
+          ]
+        },
+        "ru": {
+          "title": "Глубокая плазменная протеомика плюс clamp‑исследования дают тканеспецифические сигнатуры инсулинорезистентности, предсказывающие кардиометаболический риск",
+          "summary": "Статья в Nature Metabolism объединила глубокую плазменную протеомику с гиперинсулинемическим–эугликемическим clamp‑исследованием, чтобы создать молекулярный атлас инсулинорезистентности с разрешением по тканям. Модели, полученные из этих протеомных сигнатур, по сообщениям, превзошли традиционные суррогатные маркеры при прогнозировании кардиометаболического заболевания в больших популяционных когортах.",
+          "whyItMatters": "Улучшенные молекулярные сигнатуры, лучше прогнозирующие кардиометаболический риск, могут уточнить стратификацию риска и исследования механизмов инсулинорезистентности. Однако клиническая полезность, стоимость и то, приведет ли это к лучшим исходам для пациентов, требуют дальнейшей валидации и исследований по внедрению.",
+          "takeaways": [
+            "Исследование интегрировало детализированные плазменные профили белков с золотым стандартом (clamp) для картирования сигнатур инсулинорезистентности.",
+            "Предиктивная модель на основе этих сигнатур превзошла некоторые традиционные маркеры в больших когортах (сообщаемое преимущество в производительности).",
+            "Перед рутинным клиническим применением необходимы репликация, оценка клинической пользы и анализ осуществимости и затрат.",
+            "Это прогресс в области исследовательских биомаркеров, а не немедленное изменение клинической практики."
+          ]
+        },
+        "uk": {
+          "title": "Глибока плазмова протеоміка та «кламп»-дослідження формують тканинно-розрізнені підписи інсулінорезистентності, що передбачають кардіометаболічний ризик",
+          "summary": "Стаття в Nature Metabolism поєднала глибоку плазмову протеоміку з вимірюваннями за гіперінсулінемічно-евглікемічним клэмпом, щоб створити молекулярний атлас інсулінорезистентності з розділенням по тканинам. Моделі, побудовані на цих протеомних підписах, нібито перевершували звичайні замінні маркери при прогнозуванні кардіометаболічних захворювань у великих популяційних когорт.",
+          "whyItMatters": "Покращені молекулярні підписи, які краще прогнозують кардіометаболічний ризик, можуть уточнити стратифікацію ризику та дослідження механізмів інсулінорезистентності. Але клінічна корисність, вартість і те, чи це призведе до кращих результатів для пацієнтів, потребують подальшої валідації та імплементаційних досліджень.",
+          "takeaways": [
+            "Дослідження інтегрувало детальні профілі білків плазми з золотим стандартом — кламп-вимірюваннями — для картування підписів інсулінорезистентності.",
+            "Прогностична модель на основі цих підписів, за повідомленням, перевершувала деякі звичайні маркери в широких когортах (заявлена перевага в продуктивності).",
+            "Потрібні реплікація, оцінка клінічної користі та вивчення доцільності й вартості перед рутинним клінічним використанням.",
+            "Це є кроком уперед у дослідницьких біомаркерах, а не негайною зміною клінічної практики."
+          ]
+        },
+        "fr": {
+          "title": "Protéomique plasmatique approfondie et études de clamp produisent des signatures d'insulinorésistance résolues par tissu qui prédisent le risque cardiométabolique",
+          "summary": "Un article de Nature Metabolism a combiné une protéomique plasmatique approfondie avec des mesures par clamp hyperinsulinémique–euglycémique pour créer un atlas moléculaire de l'insulinorésistance résolu par tissu. Les modèles dérivés de ces signatures protéomiques auraient surpassé des marqueurs de substitution conventionnels pour prédire les maladies cardiométaboliques dans de larges cohortes populationnelles.",
+          "whyItMatters": "Des signatures moléculaires améliorées capables de mieux prédire le risque cardiométabolique pourraient affiner la stratification du risque et la recherche sur les mécanismes de l'insulinorésistance. Mais l'utilité clinique, le coût et l'impact sur l'issue des patients nécessitent une validation supplémentaire et des études d'implémentation.",
+          "takeaways": [
+            "L'étude a intégré des profils détaillés de protéines plasmatiques avec la mesure de référence (clamp) pour cartographier des signatures d'insulinorésistance.",
+            "Un modèle prédictif basé sur ces signatures a, selon le rapport, surpassé certains marqueurs conventionnels dans de larges cohortes (avantage de performance rapporté).",
+            "La réplication, l'évaluation du bénéfice clinique et l'examen de la faisabilité et des coûts sont nécessaires avant un usage clinique courant.",
+            "Ceci constitue une avancée en biomarqueurs de recherche plutôt qu'un changement immédiat de la pratique clinique."
+          ]
+        },
+        "de": {
+          "title": "Tiefgehende Plasmaproteomik plus Clamp‑Studien liefern geweberesolvierbare Insulinresistenz‑Signaturen, die kardiometabolisches Risiko vorhersagen",
+          "summary": "Eine Nature Metabolism‑Arbeit kombinierte detaillierte Plasmaproteomik mit hyperinsulinämisch‑euglykämischen Clamp‑Messungen, um einen geweberesolvierten molekularen Atlas der Insulinresistenz zu erstellen. Modelle, die aus diesen proteomischen Signaturen abgeleitet wurden, übertrafen Berichten zufolge konventionelle Surrogatmarker bei der Vorhersage kardiometabolischer Erkrankungen in großen Bevölkerungs kohorten.",
+          "whyItMatters": "Verbesserte molekulare Signaturen, die kardiometabolisches Risiko besser vorhersagen, könnten die Risikostratifizierung verfeinern und die Forschung zu Mechanismen der Insulinresistenz voranbringen. Klinischer Nutzen, Kosten und ob dies zu besseren Patientenergebnissen führt, müssen jedoch durch weitere Validierungs‑ und Implementierungsstudien geklärt werden.",
+          "takeaways": [
+            "Die Studie integrierte detaillierte Plasmaproteinprofile mit Goldstandard‑Clamp‑Messungen, um Insulinresistenz‑Signaturen zu kartieren.",
+            "Ein auf diesen Signaturen basierendes Prognosemodell übertraf in Berichten einige konventionelle Marker in großen Kohorten (berichteter Leistungs‑Vorteil).",
+            "Replikation, Bewertung des klinischen Nutzens sowie Prüfung von Machbarkeit und Kosten sind erforderlich, bevor eine routinemäßige klinische Nutzung in Betracht kommt.",
+            "Dies stellt einen Fortschritt bei Forschungsbiomarkern dar, nicht eine unmittelbare Änderung der klinischen Praxis."
+          ]
+        },
+        "pt-br": {
+          "title": "Proteômica profunda do plasma mais estudos com clamp geram assinaturas de resistência à insulina com resolução tecidual que predizem risco cardiometabólico",
+          "summary": "Um artigo da Nature Metabolism combinou proteômica profunda do plasma com medidas pelo clamp hiperinsulinêmico‑euglicêmico para criar um atlas molecular com resolução tecidual da resistência à insulina. Modelos derivados dessas assinaturas proteômicas, segundo relato, superaram marcadores substitutos convencionais ao prever doenças cardiometabólicas em grandes coortes populacionais.",
+          "whyItMatters": "Assinaturas moleculares aprimoradas que predizem melhor o risco cardiometabólico podem refinar a estratificação de risco e a pesquisa sobre mecanismos da resistência à insulina. Mas utilidade clínica, custos e se isso leva a melhores desfechos para pacientes exigem validação adicional e estudos de implementação.",
+          "takeaways": [
+            "O estudo integrou perfis detalhados de proteínas plasmáticas com medidas de clamp, padrão‑ouro, para mapear assinaturas de resistência à insulina.",
+            "Um modelo preditivo baseado nessas assinaturas superou alguns marcadores convencionais em grandes coortes (vantagem de desempenho relatada).",
+            "Replicação, avaliação do benefício clínico e análise de viabilidade e custo são necessários antes do uso clínico rotineiro.",
+            "Isto representa um avanço em biomarcadores de pesquisa, não uma mudança imediata na prática clínica."
+          ]
+        },
+        "hu": {
+          "title": "Részletes plazmaproteomika és clamp-vizsgálatok szövetre bontott inzulinrezisztencia-aláírásokat hoztak létre, amelyek előrejelzik a kardiometabolikus kockázatot",
+          "summary": "A Nature Metabolism cikk mély plazmaproteomikát kombinált hyperinsulinaemiás–euglikémiás clamp-mérésekkel, hogy szövetek szerint feloldott molekuláris atlaszt készítsen az inzulinrezisztenciáról. A proteomikai aláírásokból származó modellek állításuk szerint jobban teljesítettek a hagyományos helyettesítő jelzőknél a kardiometabolikus betegség előrejelzésében nagy populációs kohorszokban.",
+          "whyItMatters": "A jobb molekuláris aláírások, amelyek pontosabban jósolják a kardiometabolikus kockázatot, finomíthatják a kockázatstratifikálást és az inzulinrezisztencia mechanizmusainak kutatását. Ugyanakkor a klinikai hasznosság, a költségek és az, hogy ez jobb betegkimeneteleket eredményez-e, további validálást és megvalósítási tanulmányokat igényel.",
+          "takeaways": [
+            "A tanulmány részletes plazmafehérje-profilokat integrált aranyszabály clamp-mérésekkel az inzulinrezisztencia-aláírások feltérképezéséhez.",
+            "Egy ezen aláírásokra épülő prediktív modell állításuk szerint felülmúlt bizonyos hagyományos markereket nagy kohorszokban (jelentett teljesítményelőny).",
+            "Reprodukálásra, a klinikai haszon felmérésére és a megvalósíthatóság és költségek értékelésére van szükség, mielőtt rutinszerű klinikai alkalmazásra kerülne sor.",
+            "Ez a munka előrelépés a kutatási biomarkerek terén, nem pedig azonnali változás a klinikai gyakorlatban."
+          ]
+        },
+        "ar": {
+          "title": "بروتيوميات بلازما عميقة مع دراسات clamp تنتج بصمات مقاومة للإنسولين مفصّلة حسب النسيج وتتنبأ بالمخاطر القلبية الأيضية",
+          "summary": "جمع بحث في Nature Metabolism بروتيوميات بلازما عميقة مع قياسات clamp الهايبرإنسولينية–الإيوغليكيمية لإنشاء أطلس جزيئي مفصّل لمقاومة الإنسولين حسب الأنسجة. النماذج المشتقة من هذه البصمات البروتيومية أفادت بأنها تفوقت على بعض العلامات التقليدية عندما توقعّت أمراضًا قلبية أيضية عبر مجموعات سكانية كبيرة.",
+          "whyItMatters": "يمكن أن تُحسّن البصمات الجزيئية الأفضل من تصنيف المخاطر وتوجّه البحث في آليات مقاومة الإنسولين. لكن الفائدة السريرية والتكلفة وما إذا كان ذلك يؤدي إلى نتائج مرضى أفضل يتطلبان مزيدًا من التحقق ودراسات التنفيذ.",
+          "takeaways": [
+            "دمجت الدراسة ملفات بروتينية بلازمية مفصّلة مع قياسات clamp المعيارية لرسم بصمات مقاومة الإنسولين.",
+            "نموذج تنبؤي مبني على تلك البصمات أفاد بتفوّق الأداء على بعض العلامات التقليدية في مجموعات كبيرة (تم الإبلاغ عن تفوّق في الأداء).",
+            "هناك حاجة للتكرار وتقييم الفائدة السريرية ودراسة الجدوى والتكلفة قبل الاستخدام الروتيني في العيادة.",
+            "يمثل هذا تقدّمًا في مجال علامات البحث البيولوجية وليس تغييرًا فوريًا في الممارسة السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=plasma-proteomics-identifies-insulin-resistance-signatures-predic-6c81afc6405b",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/plasma-proteomics-identifies-insulin-resistance-signatures-predic-6c81afc6405b-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/plasma-proteomics-identifies-insulin-resistance-signatures-predic-6c81afc6405b-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Deep plasma proteomics plus clamp studies produce tissue-resolved insulin-resistance signatures that predict cardiometabolic risk.\nStory summary: A Nature Metabolism paper combined deep plasma proteomics with hyperinsulinaemic–euglycaemic clamp measurements to create a tissue-resolved molecular atlas of insulin resistance. Models derived from these proteomic signatures reportedly outperformed conventional surrogate markers when predicting cardiometabolic disease across large population cohorts..\nCategory: Cardiometabolic risk & biomarkers.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "he-develops-imaging-technology-for-the-radiotherapy-of-the-future-2fbfd3c95404",
+      "category": "AI, imaging & cancer therapy",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/he-develops-imaging-technology-for-the-radiotherapy-of-the-future",
+      "sourceTitle": "He develops imaging technology for the radiotherapy of the future",
+      "publishedAt": "16 November, 2026",
+      "languages": {
+        "en": {
+          "title": "KTH researcher developing imaging technology aimed at next-generation radiotherapy",
+          "summary": "A KTH researcher described work on imaging technologies intended to support future radiotherapy. The piece profiles university-led imaging development and the research group's contributions to medical imaging physics.",
+          "whyItMatters": "Advances in imaging can enable more precise targeting in radiotherapy and potentially reduce side effects. University-led imaging research is an early step; translation into clinical practice requires engineering validation, regulatory approval and clinical trials.",
+          "takeaways": [
+            "This is university research focused on imaging physics for radiotherapy improvement.",
+            "Better imaging could enable more precise radiation delivery, which may reduce collateral tissue effects if successfully translated.",
+            "Clinical translation will require technical validation, safety testing, and evaluation in patient studies.",
+            "This article reports ongoing research rather than a completed clinical innovation."
+          ]
+        },
+        "es": {
+          "title": "Investigador del KTH desarrolla tecnología de imagen dirigida a la radioterapia de próxima generación",
+          "summary": "Un investigador del KTH describió trabajos sobre tecnologías de imagen destinadas a apoyar la radioterapia futura. El artículo perfila desarrollos universitarios en imagen y las contribuciones del grupo de investigación a la física de la imagen médica.",
+          "whyItMatters": "Los avances en imagenología pueden permitir una orientación más precisa en radioterapia y potencialmente reducir efectos secundarios. La investigación universitaria en imagen es un paso inicial; la traducción clínica requiere validación de ingeniería, aprobación regulatoria y ensayos clínicos.",
+          "takeaways": [
+            "Se trata de investigación universitaria centrada en la física de imagen para mejorar la radioterapia.",
+            "Mejoras en la imagen podrían permitir una entrega de radiación más precisa y reducir efectos sobre tejidos colaterales si se traducen con éxito.",
+            "La traslación clínica exigirá validación técnica, pruebas de seguridad y evaluación en estudios con pacientes.",
+            "El artículo informa sobre investigación en curso, no sobre una innovación clínica ya completada."
+          ]
+        },
+        "ru": {
+          "title": "Исследователь KTH разрабатывает методы визуализации для радиотерапии будущего",
+          "summary": "Исследователь KTH описывает работу над технологиями визуализации, предназначенными для поддержки будущих методов радиотерапии. В материале рассказывается о университетской разработке и вкладе группы в физику медицинской визуализации.",
+          "whyItMatters": "Улучшение визуализации может обеспечить более точную нацеливаемость при радиотерапии и потенциально уменьшить побочные эффекты. Университетские исследования в области визуализации — ранний этап; для перехода в клинику нужны инженерная валидация, регуляторное одобрение и клинические испытания.",
+          "takeaways": [
+            "Это университетское исследование, сосредоточенное на физике визуализации для улучшения радиотерапии.",
+            "Лучшие методы визуализации могут позволить более точную подачу лучевой терапии и снизить воздействие на окружающие ткани при успешной трансляции.",
+            "Клиническая трансляция потребует технической проверки, тестирования безопасности и оценки в исследованиях с пациентами.",
+            "Статья описывает текущие исследования, а не завершённую клиническую инновацию."
+          ]
+        },
+        "uk": {
+          "title": "Дослідник KTH розвиває візуалізаційні технології, спрямовані на радіотерапію наступного покоління",
+          "summary": "Дослідник KTH описав роботу над технологіями візуалізації, призначеними для підтримки майбутньої радіотерапії. Матеріал профілює університетські розробки з медичної фізики візуалізації та внесок дослідницької групи.",
+          "whyItMatters": "Прогрес у візуалізації може дозволити більш точне націлювання в радіотерапії і потенційно зменшити побічні ефекти. Університетські розробки — це ранній етап; трансляція в клінічну практику вимагатиме інженерної валідації, регуляторного схвалення і клінічних випробувань.",
+          "takeaways": [
+            "Це університетське дослідження, зосереджене на фізиці візуалізації для вдосконалення радіотерапії.",
+            "Краща візуалізація могла б дозволити більш точну доставку випромінювання і, за успішної трансляції, зменшити вплив на суміжні тканини.",
+            "Клінічна трансляція вимагатиме технічної валідації, тестування безпеки та оцінки в дослідженнях з пацієнтами.",
+            "Стаття інформує про поточні дослідження, а не про завершену клінічну інновацію."
+          ]
+        },
+        "fr": {
+          "title": "Un chercheur du KTH développe des technologies d'imagerie destinées à la radiothérapie de nouvelle génération",
+          "summary": "Un chercheur du KTH décrit des travaux sur des technologies d'imagerie visant à soutenir la radiothérapie future. L'article présente le développement universitaire en imagerie médicale et la contribution du groupe de recherche en physique de l'imagerie.",
+          "whyItMatters": "Les progrès en imagerie peuvent permettre un ciblage plus précis en radiothérapie et potentiellement réduire les effets indésirables. Les travaux universitaires constituent une étape précoce ; la traduction en pratique clinique nécessite une validation technique, une approbation réglementaire et des essais cliniques.",
+          "takeaways": [
+            "Il s'agit de recherches universitaires axées sur la physique de l'imagerie pour améliorer la radiothérapie.",
+            "Une meilleure imagerie pourrait permettre une délivrance plus précise des radiations, ce qui pourrait réduire les effets sur les tissus voisins si la technologie est traduite avec succès.",
+            "La traduction clinique exigera une validation technique, des tests de sécurité et une évaluation chez des patients.",
+            "Cet article rend compte de travaux en cours plutôt que d'une innovation clinique aboutie."
+          ]
+        },
+        "de": {
+          "title": "KTH‑Forscher entwickelt Bildgebungstechnologie mit Blick auf die nächste Generation der Strahlentherapie",
+          "summary": "Ein KTH‑Forscher beschreibt Arbeiten an Bildgebungstechnologien, die künftige Strahlentherapie unterstützen sollen. Der Beitrag stellt die universitären Entwicklungsarbeiten und die Beiträge der Forschungsgruppe zur medizinischen Bildgebungsphysik vor.",
+          "whyItMatters": "Fortschritte in der Bildgebung können präzisere Zielsteuerung in der Strahlentherapie ermöglichen und möglicherweise Nebenwirkungen verringern. Universitätsgeführte Bildforschungen sind ein früher Schritt; die Übersetzung in die klinische Praxis erfordert technische Validierung, behördliche Zulassung und klinische Studien.",
+          "takeaways": [
+            "Dies ist universitäre Forschung, die sich auf Bildgebungsphysik zur Verbesserung der Strahlentherapie konzentriert.",
+            "Bessere Bildgebung könnte, falls erfolgreich übersetzt, eine präzisere Bestrahlung ermöglichen und damit Gewebeschäden reduzieren.",
+            "Die klinische Translation erfordert technische Validierung, Sicherheitstests und Bewertungen in Patientinnen‑/Patientenstudien.",
+            "Der Artikel berichtet über laufende Forschungsarbeit und nicht über eine abgeschlossene klinische Innovation."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisador do KTH desenvolve tecnologia de imagem voltada para a radioterapia de próxima geração",
+          "summary": "Um pesquisador do KTH descreveu trabalhos em tecnologias de imagem destinadas a apoiar a radioterapia futura. A matéria perfila o desenvolvimento de imagem liderado pela universidade e as contribuições do grupo de pesquisa para a física da imagem médica.",
+          "whyItMatters": "Avanços em imagem podem permitir um direcionamento mais preciso na radioterapia e potencialmente reduzir efeitos colaterais. Pesquisas universitárias em imagem são um passo inicial; a tradução para a prática clínica exige validação de engenharia, aprovação regulatória e ensaios clínicos.",
+          "takeaways": [
+            "Trata‑se de pesquisa universitária focada na física de imagens para melhorar a radioterapia.",
+            "Imagens melhores poderiam permitir entrega de radiação mais precisa e, se traduzidas com sucesso, reduzir efeitos em tecidos adjacentes.",
+            "A tradução clínica exigirá validação técnica, testes de segurança e avaliação em estudos com pacientes.",
+            "O artigo descreve pesquisa em andamento, não uma inovação clínica já concluída."
+          ]
+        },
+        "hu": {
+          "title": "KTH-kutató olyan képalkotó technológián dolgozik, amely a következő generációs sugárkezelést célozza",
+          "summary": "Egy KTH-kutató munkáját ismertetik, amely olyan képalkotó technológiák fejlesztésére irányul, amelyek a jövő sugárterápiáját támogatnák. A cikk bemutatja az egyetemi vezette képalkotó fejlesztést és a kutatócsoport hozzájárulását az orvosi képalkotás fizikájához.",
+          "whyItMatters": "A képalkotás előrelépései pontosabb célzást tehetnek lehetővé a sugárkezelésben, és potenciálisan csökkenthetik a mellékhatásokat. Az egyetemi kutatás korai lépés; a klinikai gyakorlatba történő átültetés mérnöki validációt, szabályozói jóváhagyást és klinikai vizsgálatokat igényel.",
+          "takeaways": [
+            "Egyetemi kutatásról van szó, amely a sugárkezelés javítására irányuló képalkotás fizikájára fókuszál.",
+            "A jobb képalkotás pontosabb sugár célzást tehet lehetővé, ami sikeres átültetés esetén csökkentheti a környező szövetekre gyakorolt hatásokat.",
+            "A klinikai alkalmazáshoz technikai validációra, biztonsági tesztekre és betegek bevonásával végzett értékelésre lesz szükség.",
+            "A cikk folyamatban lévő kutatást ismertet, nem pedig egy kész klinikai újítást."
+          ]
+        },
+        "ar": {
+          "title": "باحث في KTH يطوّر تقنيات تصوير موجهة إلى جيل قادم من العلاج الإشعاعي",
+          "summary": "يصف مقال عمل باحث في KTH حول تقنيات تصوير تهدف إلى دعم العلاج الإشعاعي المستقبلي. تسلّط القطعة الضوء على تطويرات تصوير يقودها الجامعة ومساهمات فريق البحث في فيزياء التصوير الطبي.",
+          "whyItMatters": "قد تمكّن التطورات في التصوير من استهداف أكثر دقة في العلاج الإشعاعي وقد تقلّل الآثار الجانبية. أبحاث الجامعة خطوة مبكرة؛ تتطلّب الترجمة إلى الممارسة السريرية تحققًا هندسيًا، واعتمادات تنظيمية وتجارب سريرية.",
+          "takeaways": [
+            "هذه أبحاث جامعية تركز على فيزياء التصوير لتحسين العلاج الإشعاعي.",
+            "التصوير الأفضل قد يتيح توجيهًا أكثر دقة للإشعاع، مما قد يقلل آثارًا جانبية في حالة ترجمة التقنية بنجاح.",
+            "ستتطلّب الترجمة السريرية تحققًا تقنيًا، اختبارات سلامة وتقييمًا في دراسات على المرضى.",
+            "المقال يقدّم تقريرًا عن بحث جارٍ وليس ابتكارًا سريريًا مكتملًا."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=he-develops-imaging-technology-for-the-radiotherapy-of-the-future-2fbfd3c95404",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/he-develops-imaging-technology-for-the-radiotherapy-of-the-future-2fbfd3c95404-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/he-develops-imaging-technology-for-the-radiotherapy-of-the-future-2fbfd3c95404-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: KTH researcher developing imaging technology aimed at next-generation radiotherapy.\nStory summary: A KTH researcher described work on imaging technologies intended to support future radiotherapy. The piece profiles university-led imaging development and the research group's contributions to medical imaging physics..\nCategory: AI, imaging & cancer therapy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tirzepatide-cuts-bmi-in-adolescents-with-obesity-in-phase-iii-tri-819b7a28875a",
+      "category": "Obesity treatment & adolescents",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/meetingcoverage/obesityweek/123891",
+      "sourceTitle": "Tirzepatide Cuts BMI in Adolescents With Obesity in Phase III Trial",
+      "publishedAt": "Sun, 15 Nov 2026 18:00:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Phase III trial reports substantial BMI reductions with tirzepatide in adolescents with obesity",
+          "summary": "MedPage Today reports that the phase III SURMOUNT-ADOLESCENTS trial found tirzepatide (Zepbound) produced substantial reductions in body-mass index among adolescents with obesity or overweight plus obesity-related complications.",
+          "whyItMatters": "Phase III trial results in adolescents are important for evaluating the efficacy and safety of new weight-management therapies in younger populations. Long-term effects, safety in adolescents, and regulatory decisions will determine clinical use.",
+          "takeaways": [
+            "The result comes from a phase III clinical trial — a later-stage study of efficacy and safety.",
+            "Reported outcomes were substantial reductions in BMI, but the summary does not provide exact effect sizes or safety data.",
+            "Long-term safety, growth and development implications in adolescents require continued monitoring and study.",
+            "Regulatory review and guideline updates would shape accessibility and recommended use if benefits outweigh risks."
+          ]
+        },
+        "es": {
+          "title": "Ensayo de fase III informa reducciones sustanciales del IMC con tirzepatida en adolescentes con obesidad",
+          "summary": "MedPage Today informa que el ensayo de fase III SURMOUNT-ADOLESCENTS encontró que la tirzepatida (Zepbound) produjo reducciones sustanciales en el índice de masa corporal entre adolescentes con obesidad o con sobrepeso y complicaciones relacionadas con la obesidad.",
+          "whyItMatters": "Los resultados de un ensayo de fase III en adolescentes son importantes para evaluar la eficacia y seguridad de nuevas terapias para el control del peso en poblaciones jóvenes. Los efectos a largo plazo, la seguridad en adolescentes y las decisiones regulatorias determinarán el uso clínico.",
+          "takeaways": [
+            "El resultado proviene de un ensayo clínico de fase III —un estudio de etapa avanzada sobre eficacia y seguridad.",
+            "Se reportaron reducciones sustanciales del IMC, pero el resumen no proporciona tamaños de efecto exactos ni datos de seguridad.",
+            "Las implicaciones a largo plazo en crecimiento y desarrollo de adolescentes requieren seguimiento y estudio continuos.",
+            "La revisión regulatoria y las actualizaciones de guías influirán en la accesibilidad y el uso recomendado si los beneficios superan los riesgos."
+          ]
+        },
+        "ru": {
+          "title": "Фаза III: тиразепатид значительно снижал ИМТ у подростков с ожирением",
+          "summary": "MedPage Today сообщает, что в фазе III исследовании SURMOUNT‑ADOLESCENTS тиразепатид (Zepbound) вызвал значительное снижение индекса массы тела у подростков с ожирением или с избыточным весом и сопутствующими осложнениями, связанными с ожирением.",
+          "whyItMatters": "Результаты фазы III у подростков важны для оценки эффективности и безопасности новых терапий для контроля веса в молодой популяции. Долгосрочные эффекты, безопасность у подростков и регуляторные решения определят клиническое применение.",
+          "takeaways": [
+            "Результат получен в фазе III клинического испытания — поздней стадии исследований эффективности и безопасности.",
+            "Сообщается о значительном снижении ИМТ, но в резюме не приведены точные величины эффекта и данные по безопасности.",
+            "Необходим мониторинг и исследования долгосрочных последствий для роста и развития подростков.",
+            "Регуляторная оценка и обновление руководств определят доступность и рекомендации по использованию, если преимущества превысят риски."
+          ]
+        },
+        "uk": {
+          "title": "Фаза III повідомляє про значне зниження ІМТ при застосуванні тірзепатиду у підлітків з ожирінням",
+          "summary": "MedPage Today повідомляє, що у фазі III дослідженні SURMOUNT-ADOLESCENTS тірзепатид (Zepbound) спричинив значне зниження індексу маси тіла серед підлітків з ожирінням або надмірною вагою з ускладненнями, пов’язаними з ожирінням.",
+          "whyItMatters": "Результати фази III у підлітків важливі для оцінки ефективності та безпеки нових терапій контролю ваги у молодших вікових груп. Довгострокові ефекти, безпека в підлітків та регуляторні рішення визначатимуть клінічне застосування.",
+          "takeaways": [
+            "Результат отримано у фазі III клінічного дослідження — пізніша стадія оцінки ефективності та безпеки.",
+            "Повідомляли про значне зниження ІМТ, але в підсумку не наведено точних розмірів ефекту чи детальних даних про безпеку.",
+            "Потрібен подальший моніторинг і дослідження щодо довгострокової безпеки, росту та розвитку у підлітків.",
+            "Регуляторний розгляд та оновлення рекомендацій визначатимуть доступність і рекомендоване застосування, якщо користь переважатиме ризики."
+          ]
+        },
+        "fr": {
+          "title": "Essai de phase III rapporte des réductions substantielles de l'IMC avec le tirzépatide chez des adolescents obèses",
+          "summary": "MedPage Today rapporte que l'essai de phase III SURMOUNT-ADOLESCENTS a trouvé que le tirzépatide (Zepbound) entraînait des réductions substantielles de l'indice de masse corporelle chez des adolescents souffrant d'obésité ou en surpoids avec complications liées à l'obésité.",
+          "whyItMatters": "Les résultats d'un essai de phase III chez des adolescents sont importants pour évaluer l'efficacité et la sécurité de nouvelles thérapies de gestion du poids dans les populations plus jeunes. Les effets à long terme, la sécurité chez les adolescents et les décisions réglementaires détermineront l'utilisation clinique.",
+          "takeaways": [
+            "Le résultat provient d'un essai clinique de phase III — une étape avancée d'évaluation de l'efficacité et de la sécurité.",
+            "Des réductions substantielles de l'IMC ont été rapportées, mais le résumé ne fournit pas les tailles d'effet exactes ni les données de sécurité détaillées.",
+            "La sécurité à long terme, ainsi que les implications sur la croissance et le développement chez les adolescents, nécessitent une surveillance continue et des études supplémentaires.",
+            "La revue réglementaire et les mises à jour des recommandations façonneront l'accès et l'usage recommandé si les bénéfices l'emportent sur les risques."
+          ]
+        },
+        "de": {
+          "title": "Phase‑III‑Studie berichtet deutliche BMI‑Reduktionen durch Tirzepatid bei Jugendlichen mit Adipositas",
+          "summary": "MedPage Today berichtet, dass die Phase‑III‑SURMOUNT‑ADOLESCENTS‑Studie ergab, dass Tirzepatid (Zepbound) deutliche Reduktionen des Body‑Mass‑Index bei Jugendlichen mit Adipositas oder Übergewicht plus adipositasbedingten Komplikationen hervorbrachte.",
+          "whyItMatters": "Phase‑III‑Ergebnisse bei Jugendlichen sind wichtig, um Wirksamkeit und Sicherheit neuer Gewichtsmanagement‑Therapien in jüngeren Populationen zu bewerten. Langzeiteffekte, Sicherheit bei Jugendlichen und regulatorische Entscheidungen werden die klinische Nutzung bestimmen.",
+          "takeaways": [
+            "Das Ergebnis stammt aus einer Phase‑III‑Klinikstudie — einer späteren Studie zu Wirksamkeit und Sicherheit.",
+            "Berichtet wurden deutliche Reduktionen des BMI; die Zusammenfassung enthält jedoch keine genauen Effektgrößen oder Sicherheitsdaten.",
+            "Langfristige Sicherheit sowie Auswirkungen auf Wachstum und Entwicklung bei Jugendlichen müssen weiter beobachtet und untersucht werden.",
+            "Zugänglichkeit und empfohlene Anwendung würden durch regulatorische Bewertungen und Leitlinien bestimmt, falls Nutzen Nebenwirkungen überwiegen."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio de fase III relata reduções substanciais do IMC com tirzepatida em adolescentes com obesidade",
+          "summary": "A MedPage Today relata que o ensaio de fase III SURMOUNT‑ADOLESCENTS encontrou que a tirzepatida (Zepbound) produziu reduções substanciais no índice de massa corporal entre adolescentes com obesidade ou sobrepeso com complicações relacionadas à obesidade.",
+          "whyItMatters": "Resultados de fase III em adolescentes são importantes para avaliar eficácia e segurança de novas terapias de manejo de peso em populações mais jovens. Efeitos a longo prazo, segurança em adolescentes e decisões regulatórias determinarão o uso clínico.",
+          "takeaways": [
+            "O resultado vem de um ensaio clínico de fase III — um estudo em estágio avançado sobre eficácia e segurança.",
+            "Foram relatadas reduções substanciais do IMC, mas o resumo não fornece tamanhos de efeito ou dados de segurança detalhados.",
+            "Segurança a longo prazo e implicações para crescimento e desenvolvimento em adolescentes precisam de acompanhamento contínuo e estudos adicionais.",
+            "Revisão regulatória e atualizações de diretrizes moldariam o acesso e o uso recomendado caso os benefícios superem os riscos."
+          ]
+        },
+        "hu": {
+          "title": "III. fázisú vizsgálat jelentős BMI-csökkenést jelent tirzepatiddal serdülők elhízásában",
+          "summary": "A MedPage Today szerint a III. fázisú SURMOUNT-ADOLESCENTS vizsgálat megállapította, hogy a tirzepatid (Zepbound) jelentős csökkenést eredményezett a testtömeg-indexben olyan serdülőknél, akik elhízással vagy túlsúllyal és elhízáshoz kapcsolódó komplikációkkal rendelkeztek.",
+          "whyItMatters": "A III. fázisú vizsgálat eredményei fontosak az új testsúlykezelési terápiák hatékonyságának és biztonságosságának értékelésében fiatalabb populációkban. A hosszú távú hatások, a serdülők biztonsága és a szabályozói döntések fogják meghatározni a klinikai alkalmazást.",
+          "takeaways": [
+            "Az eredmény egy III. fázisú klinikai vizsgálatból származik — egy késői stádiumú hatékonysági és biztonságossági tanulmányból.",
+            "A jelentett kimenetek jelentős BMI-csökkenések voltak, de az összegzés nem közöl pontos hatásméreteket vagy részletes biztonsági adatokat.",
+            "A serdülők növekedésére és fejlődésére gyakorolt hosszú távú hatásokat továbbra is nyomon kell követni és kutatni.",
+            "A szabályozói áttekintés és az irányelvek frissítése alakítaná a hozzáférést és az ajánlott használatot, ha a haszon felülmúlja a kockázatokat."
+          ]
+        },
+        "ar": {
+          "title": "تقرير من تجربة المرحلة الثالثة يبيّن انخفاضًا كبيرًا في مؤشر كتلة الجسم مع التيرزيباتيد لدى المراهقين المصابين بالسمنة",
+          "summary": "تفيد MedPage Today أن تجربة المرحلة الثالثة SURMOUNT-ADOLESCENTS وجدت أن التيرزيباتيد (Zepbound) أحدث انخفاضات كبيرة في مؤشر كتلة الجسم لدى المراهقين المصابين بالسمنة أو الذين لديهم زيادة في الوزن مع مضاعفات مرتبطة بالسمنة.",
+          "whyItMatters": "نتائج تجربة المرحلة الثالثة لدى المراهقين مهمة لتقييم فعالية وسلامة علاجات إدارة الوزن الجديدة في الفئات الأصغر سنًا. ستحدّد الآثار طويلة المدى وسلامة المراهقين وقرارات الجهات التنظيمية مدى الاستخدام السريري.",
+          "takeaways": [
+            "النتيجة مأخوذة من تجربة سريرية مرحلَة ثلاثية — دراسة متقدمة لتقييم الفعالية والسلامة.",
+            "الأحداث المبلّغ عنها هي انخفاضات كبيرة في مؤشر كتلة الجسم، لكن الملخص لا يقدّم أحجام أثر دقيقة أو بيانات سلامة مفصّلة.",
+            "ثمة حاجة لمراقبة ودراسة الآثار طويلة المدى على نمو وتطوّر المراهقين.",
+            "ستؤثر المراجعات التنظيمية وتحديث الإرشادات على إمكانية الوصول والتوصيات إذا تبين أن الفوائد تفوق المخاطر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tirzepatide-cuts-bmi-in-adolescents-with-obesity-in-phase-iii-tri-819b7a28875a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tirzepatide-cuts-bmi-in-adolescents-with-obesity-in-phase-iii-tri-819b7a28875a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tirzepatide-cuts-bmi-in-adolescents-with-obesity-in-phase-iii-tri-819b7a28875a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase III trial reports substantial BMI reductions with tirzepatide in adolescents with obesity.\nStory summary: MedPage Today reports that the phase III SURMOUNT-ADOLESCENTS trial found tirzepatide (Zepbound) produced substantial reductions in body-mass index among adolescents with obesity or overweight plus obesity-related complications..\nCategory: Obesity treatment & adolescents.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "alzheimer-s-may-start-shrinking-two-brain-regions-years-before-me-fbedc5a2e1a4",
       "category": "Neuroscience & Healthy ageing",
@@ -1019,6 +1947,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Blood NAD levels track heart disease, not aging, study of more than 1,000 adults finds.\nStory summary: Researchers at Vilnius University measured whole‑blood NAD levels in over 1,000 adults and reported that levels were stable with chronological age in healthy men, rose slightly in women, but were lower in people with cardiovascular disease—particularly hypertension..\nCategory: biomarkers / cardiovascular health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "hidden-body-map-in-brain-explains-complex-coordination-d3eeec2bfb7a",
+      "category": "Neuroscience & motor control",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/motor-coordination-body-map-32413/",
+      "sourceTitle": "Hidden Body Map in Brain Explains Complex Coordination",
+      "publishedAt": "Fri, 13 Nov 2026 18:40:01 +0000",
+      "languages": {
+        "en": {
+          "title": "Scientists identify a previously hidden full-body map in secondary motor cortex that coordinates multi-limb actions",
+          "summary": "Columbia neuroscientists report discovering a 'hidden' full-body map inside the brain's secondary motor cortex (M2). The map, found within resting-state neural patterns, appears to orchestrate complex coordinated actions that involve multiple limbs and facial movements.",
+          "whyItMatters": "Understanding how the brain represents and coordinates whole-body actions could inform basic neuroscience and future technologies such as neuroprosthetics or rehabilitation approaches. These are foundational research findings that will need further work to translate into clinical tools.",
+          "takeaways": [
+            "The discovery describes a new organizational feature in the secondary motor cortex related to multi-limb coordination.",
+            "Findings are basic neuroscience research and do not yet imply direct clinical treatments.",
+            "Potential applications include informing rehabilitation strategies and brain-machine interfaces, pending further study.",
+            "Further replication and investigation of how this map functions across tasks and species are needed."
+          ]
+        },
+        "es": {
+          "title": "Científicos identifican un mapa corporal oculto en la corteza motora secundaria que coordina acciones multi‑miembro",
+          "summary": "Neurocientíficos de Columbia informan el descubrimiento de un 'mapa' corporal completo dentro de la corteza motora secundaria (M2). El mapa, hallado en patrones neuronales en reposo, parece orquestar acciones coordinadas complejas que involucran múltiples extremidades y movimientos faciales.",
+          "whyItMatters": "Comprender cómo el cerebro representa y coordina acciones de todo el cuerpo podría informar la neurociencia básica y tecnologías futuras como neuroprótesis o enfoques de rehabilitación. Se trata de hallazgos de investigación básica que necesitarán más trabajo para traducirse en herramientas clínicas.",
+          "takeaways": [
+            "El descubrimiento describe una nueva característica organizativa en la corteza motora secundaria relacionada con la coordinación multi‑miembro.",
+            "Los hallazgos son investigación básica en neurociencia y aún no implican tratamientos clínicos directos.",
+            "Aplicaciones potenciales incluyen informar estrategias de rehabilitación e interfaces cerebro‑máquina, sujetas a investigación adicional.",
+            "Se requieren replicación e investigación sobre cómo funciona este mapa en distintas tareas y especies."
+          ]
+        },
+        "ru": {
+          "title": "Ученые обнаружили скрытую картину всего тела во вторичной моторной коре, координирующую многоногие действия",
+          "summary": "Нейроученые Колумбийского университета сообщают об обнаружении «скрытой» карты тела внутри вторичной моторной коры (M2). Эта карта, выявленная в состоянии покоя нейронных паттернов, по-видимому, координирует сложные согласованные действия с участием нескольких конечностей и движений лица.",
+          "whyItMatters": "Понимание того, как мозг репрезентирует и координирует действия всего тела, может помочь фундаментальной нейронауке и будущим технологиям, таким как нейропротезы или методы реабилитации. Это фундаментальные исследовательские результаты, требующие дальнейшей работы для трансляции в клинические инструменты.",
+          "takeaways": [
+            "Открытие описывает новую организационную особенность вторичной моторной коры, связанную с координацией нескольких конечностей.",
+            "Результаты — фундаментальное исследование нейронауки и пока не предполагают прямого клинического применения.",
+            "Потенциальные приложения включают информирование стратегий реабилитации и интерфейсов мозг‑машина, при условии дальнейших исследований.",
+            "Требуются репликация и изучение того, как эта карта функционирует в разных задачах и у разных видов."
+          ]
+        },
+        "uk": {
+          "title": "Вчені виявили раніше приховану повнокорпусну карту в вторинній моторній корі, що координує дії кількох кінцівок",
+          "summary": "Нейробіологи з Колумбії повідомляють про відкриття «прихованої» повнокорпусної карти в вторинній моторній корі (M2) мозку. Карта, знайдена у нейронних патернах у стані спокою, ніби координує складні скоординовані дії, що залучають кілька кінцівок і рухи обличчя.",
+          "whyItMatters": "Розуміння того, як мозок репрезентує і координує дії всього тіла, може вплинути на фундаментальні дослідження нейронаук і майбутні технології, такі як нейропротези або підходи до реабілітації. Це фундаментальні наукові результати, які потребуватимуть додаткових досліджень для трансляції у клінічні застосунки.",
+          "takeaways": [
+            "Відкриття описує нову організаційну рису у вторинній моторній корі, пов’язану з координацією багатокінцівкових дій.",
+            "Результати належать до базових досліджень нейронаук і поки не передбачають безпосередніх клінічних лікувань.",
+            "Можливі застосування включають інформування стратегій реабілітації та інтерфейсів «мозок‑машина», за умови подальших досліджень.",
+            "Потрібні реплікація і додаткове вивчення того, як ця карта функціонує в різних завданнях і видах."
+          ]
+        },
+        "fr": {
+          "title": "Des scientifiques identifient une carte corporelle complète jusque-là cachée dans le cortex moteur secondaire qui coordonne des actions multi-membres",
+          "summary": "Des neuroscientifiques de Columbia rapportent la découverte d'une carte « cachée » de tout le corps au sein du cortex moteur secondaire (M2) du cerveau. La carte, détectée dans des schémas neuronaux en état de repos, semble orchestrer des actions coordonnées complexes impliquant plusieurs membres et des mouvements faciaux.",
+          "whyItMatters": "Comprendre comment le cerveau représente et coordonne les actions de tout le corps pourrait éclairer les neurosciences fondamentales et de futures technologies telles que les neuroprothèses ou les approches de rééducation. Ce sont des résultats de recherche fondamentale qui nécessiteront davantage de travaux pour être traduits en outils cliniques.",
+          "takeaways": [
+            "La découverte décrit une nouvelle caractéristique organisationnelle du cortex moteur secondaire liée à la coordination multi-membres.",
+            "Les résultats relèvent de la recherche fondamentale en neurosciences et n'impliquent pas encore de traitements cliniques directs.",
+            "Les applications potentielles incluent l'information des stratégies de rééducation et des interfaces cerveau‑machine, sous réserve d'études complémentaires.",
+            "Une réplication et des investigations supplémentaires sur le fonctionnement de cette carte selon les tâches et les espèces sont nécessaires."
+          ]
+        },
+        "de": {
+          "title": "Wissenschaftler identifizieren eine zuvor verborgene Ganzkörperkarte im sekundären motorischen Kortex, die Mehrgliedmaßen‑Aktionen koordiniert",
+          "summary": "Neurowissenschaftler der Columbia University berichten über die Entdeckung einer 'versteckten' Ganzkörperkarte im sekundären motorischen Kortex (M2). Die im ruhenden neuronalen Muster gefundene Karte scheint komplexe koordinierte Aktionen zu orchestrieren, die mehrere Gliedmaßen und Gesichtsmotorik einbeziehen.",
+          "whyItMatters": "Das Verständnis, wie das Gehirn Ganzkörperaktionen repräsentiert und koordiniert, kann die Grundlagenforschung und zukünftige Technologien wie Neuroprothesen oder Rehabilitationsansätze informieren. Es handelt sich um grundlagenwissenschaftliche Befunde, die weitere Arbeit benötigen, um in klinische Anwendungen übersetzt zu werden.",
+          "takeaways": [
+            "Die Entdeckung beschreibt ein neues Organisationsmerkmal im sekundären motorischen Kortex im Zusammenhang mit Mehrgliedmaßenkoordination.",
+            "Die Ergebnisse stammen aus grundlegender neurowissenschaftlicher Forschung und implizieren noch keine direkten klinischen Behandlungen.",
+            "Potenzielle Anwendungen umfassen Hinweise für Rehabilitationsstrategien und Gehirn‑Maschine‑Schnittstellen, vorausgesetzt, sie werden weiter erforscht.",
+            "Weitere Replikationen und Untersuchungen darüber, wie diese Karte bei verschiedenen Aufgaben und Spezies funktioniert, sind nötig."
+          ]
+        },
+        "pt-br": {
+          "title": "Cientistas identificam um mapa corporal completo previamente oculto no córtex motor secundário que coordena ações com múltiplos membros",
+          "summary": "Neurocientistas da Columbia relatam a descoberta de um mapa 'oculto' do corpo inteiro dentro do córtex motor secundário (M2). O mapa, encontrado em padrões neurais em estado de repouso, parece orquestrar ações coordenadas complexas envolvendo vários membros e movimentos faciais.",
+          "whyItMatters": "Compreender como o cérebro representa e coordena ações de corpo inteiro pode informar a neurociência básica e tecnologias futuras, como neuropróteses ou abordagens de reabilitação. Esses são achados de pesquisa fundamental que precisarão de mais trabalho para serem traduzidos em ferramentas clínicas.",
+          "takeaways": [
+            "A descoberta descreve uma nova característica organizacional no córtex motor secundário relacionada à coordenação de múltiplos membros.",
+            "Os achados são pesquisa básica em neurociência e ainda não implicam tratamentos clínicos diretos.",
+            "Aplicações potenciais incluem informar estratégias de reabilitação e interfaces cérebro‑máquina, sujeitas a estudos adicionais.",
+            "São necessárias mais replicações e investigação sobre como esse mapa funciona em diferentes tarefas e espécies."
+          ]
+        },
+        "hu": {
+          "title": "Tudósok egy korábban rejtett teljes test-térképet azonosítanak a másodlagos motoros kéregben, amely a több végtag együttes mozgását koordinálja",
+          "summary": "A Columbia idegtudósai arról számolnak be, hogy felfedeztek egy „rejtett” teljes test-térképet az agy másodlagos motoros kéregében (M2). A nyugalmi állapotban megfigyelt neurális mintázatokon belül talált térkép úgy tűnik, hogy irányítja az összetett, több végtagot és arcmozgást magában foglaló koordinált cselekvéseket.",
+          "whyItMatters": "Az, hogy az agy hogyan reprezentálja és koordinálja a teljes testet érintő cselekvéseket, alapvető tudományos ismereteket nyújthat, és hasznos lehet jövőbeni technológiák, például neuroprotézisek vagy rehabilitációs megközelítések számára. Ezek alapkutatási eredmények, amelyek további munkát igényelnek a klinikai alkalmazások felé történő fordításhoz.",
+          "takeaways": [
+            "A felfedezés egy új szervezeti jellemzőt ír le a másodlagos motoros kéregben, amely a több végtagos koordinációhoz kapcsolódik.",
+            "Az eredmények alapvető idegtudományi kutatásnak minősülnek, és egyelőre nem jelentenek közvetlen klinikai kezeléseket.",
+            "Potenciális alkalmazások: rehabilitációs stratégiák és agy-gép interfészek informálása, további kutatások függvényében.",
+            "Szükséges a replikáció és annak vizsgálata, hogyan működik ez a térkép különböző feladatok és fajok esetén."
+          ]
+        },
+        "ar": {
+          "title": "علماء يحددون خريطة جسم كاملة مخفية في القشرة الحركية الثانوية تُنسّق الأفعال متعددة الأطراف",
+          "summary": "أبلغ علماء من جامعة كولومبيا عن اكتشاف «خريطة» كاملة للجسم داخل القشرة الحركية الثانوية (M2) في الدماغ. تبدو الخريطة، التي وُجدت ضمن أنماط عصبية في حالة الراحة، أنها تنسّق الأفعال المعقدة التي تتضمن أطرافًا متعددة وحركات وجهية.",
+          "whyItMatters": "فهم كيفية تمثيل الدماغ وتنسيقه للأفعال التي تشمل الجسم بأكمله قد يثري العلوم الأساسية وقد يفيد تقنيات مستقبلية مثل الأطراف الصناعية العصبية أو نهج التأهيل. هذه نتائج بحث أساسي تتطلّب مزيدًا من العمل لترجمتها إلى أدوات سريرية.",
+          "takeaways": [
+            "الاكتشاف يصف ميزة تنظيمية جديدة في القشرة الحركية الثانوية مرتبطة بتنسيق حركات متعددة الأطراف.",
+            "النتائج تنتمي إلى أبحاث علم الأعصاب الأساسية ولا تعني وجود علاجات سريرية مباشرة في الوقت الراهن.",
+            "من التطبيقات المحتملة: إبلاغ استراتيجيات التأهيل وواجهات الدماغ-الآلة، بعد مزيد من الدراسة.",
+            "هناك حاجة للتكرار والتحقيق في كيفية عمل هذه الخريطة عبر مهام وأنواع مختلفة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=hidden-body-map-in-brain-explains-complex-coordination-d3eeec2bfb7a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hidden-body-map-in-brain-explains-complex-coordination-d3eeec2bfb7a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/hidden-body-map-in-brain-explains-complex-coordination-d3eeec2bfb7a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Scientists identify a previously hidden full-body map in secondary motor cortex that coordinates multi-limb actions.\nStory summary: Columbia neuroscientists report discovering a 'hidden' full-body map inside the brain's secondary motor cortex (M2). The map, found within resting-state neural patterns, appears to orchestrate complex coordinated actions that involve multiple limbs and facial movements..\nCategory: Neuroscience & motor control.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "serotonin-signals-suppress-physical-activity-in-aging-mice-670db0a77161",
@@ -6147,6 +7191,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Expert review questions whether multicancer blood test reduces cancer mortality.\nStory summary: A physician involved in U.S. screening guidelines discusses the benefits and limitations of the Galleri multicancer early detection blood test. The author notes the test can detect many cancer types before symptoms but emphasizes there is no current evidence that it reduces deaths from cancer..\nCategory: cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-bre-0f65be58a072",
+      "category": "Nutrition & gut microbiome",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-brewing-in-your-gut-294335",
+      "sourceTitle": "Why do farts smell so bad? A microbiologist explains the odors brewing in your gut",
+      "publishedAt": "2026-11-09T13:42:17Z",
+      "languages": {
+        "en": {
+          "title": "Microbiologist explains how diet and gut microbes shape flatus odors",
+          "summary": "A microbiologist explains that the smells produced by flatulence reflect how gut microbes break down foods; diet strongly influences the gases and odours produced, and the piece links those processes to broader questions about gut health.",
+          "whyItMatters": "The article illustrates how diet–microbiome interactions produce measurable metabolic outputs, providing a concrete example of microbiome function. It is explanatory journalism that clarifies mechanisms rather than reporting on a new clinical trial.",
+          "takeaways": [
+            "Dietary components influence which microbial fermentation products (gases and odours) are produced in the gut.",
+            "Odour differences reflect microbial metabolism but are not in themselves diagnostic of specific diseases.",
+            "The piece is educational, clarifying fundamental microbiology rather than presenting new clinical evidence.",
+            "Understanding diet–microbiome interactions can inform research but does not imply simple self-directed diagnostic or treatment steps."
+          ]
+        },
+        "es": {
+          "title": "Un microbiólogo explica cómo la dieta y los microbios intestinales moldean los olores de los gases",
+          "summary": "Un microbiólogo explica que los olores producidos por la flatulencia reflejan cómo los microbios intestinales descomponen los alimentos; la dieta influye fuertemente en los gases y olores producidos, y el artículo vincula esos procesos con cuestiones más amplias sobre la salud intestinal.",
+          "whyItMatters": "El artículo muestra cómo las interacciones dieta–microbioma generan productos metabólicos medibles, ofreciendo un ejemplo concreto de la función del microbioma. Es periodismo explicativo que aclara mecanismos en lugar de reportar un nuevo ensayo clínico.",
+          "takeaways": [
+            "Los componentes de la dieta influyen en qué productos de fermentación microbiana (gases y olores) se producen en el intestino.",
+            "Las diferencias de olor reflejan metabolismo microbiano pero no son por sí solas diagnósticas de enfermedades específicas.",
+            "El artículo es educativo y aclara microbiología fundamental más que presentar nueva evidencia clínica.",
+            "Entender las interacciones dieta–microbioma puede informar la investigación, pero no implica pasos sencillos de autodiagnóstico o tratamiento."
+          ]
+        },
+        "ru": {
+          "title": "Микробиолог объясняет, как диета и кишечные микробы формируют запахи газов",
+          "summary": "Микробиолог объясняет, что запахи, возникающие при метеоризме, отражают то, как кишечные микробы расщепляют пищу; питание сильно влияет на образующиеся газы и запахи, и материал связывает эти процессы с более широкими вопросами здоровья кишечника.",
+          "whyItMatters": "Статья иллюстрирует, как взаимодействия между диетой и микробиомом порождают измеримые метаболические продукты, давая конкретный пример функций микробиома. Это объяснительная журналистика, разъясняющая механизмы, а не сообщение о новом клиническом исследовании.",
+          "takeaways": [
+            "Компоненты питания влияют на то, какие продукты микробной ферментации (газы и запахи) образуются в кишечнике.",
+            "Различия в запахе отражают микробный метаболизм, но сами по себе не являются диагностикой конкретных заболеваний.",
+            "Материал носит образовательный характер и разъясняет базовую микробиологию, а не представляет новую клиническую доказательную базу.",
+            "Понимание взаимодействий диета–микробиом может быть полезно для исследований, но не означает простых шагов для самодиагностики или лечения."
+          ]
+        },
+        "uk": {
+          "title": "Мікробіолог пояснює, як дієта і кишкові мікроби формують запахи газів",
+          "summary": "Мікробіолог пояснює, що запахи, які виробляються при метеоризмі, відображають те, як кишкові мікроби розкладають їжу; дієта сильно впливає на гази та запахи, і матеріал пов’язує ці процеси з ширшими питаннями про здоров’я кишківника.",
+          "whyItMatters": "Стаття ілюструє, як взаємодія дієти та мікробіому виробляє вимірювані метаболічні продукти, даючи конкретний приклад функції мікробіому. Це пояснювальна журналістика, яка прояснює механізми, а не повідомляє про нове клінічне випробування.",
+          "takeaways": [
+            "Компоненти дієти впливають на те, які продукти бродіння мікробів (гази й запахи) утворюються в кишківнику.",
+            "Відмінності в запахах відображають мікробний метаболізм, але самі по собі не є діагностичними для конкретних хвороб.",
+            "Матеріал є освітнім і роз’яснює фундаментальну мікробіологію, а не представляє нові клінічні докази.",
+            "Розуміння взаємодії дієти й мікробіому може допомогти дослідженням, але не означає простих самостійних діагностичних або лікувальних кроків."
+          ]
+        },
+        "fr": {
+          "title": "Un microbiologiste explique comment l'alimentation et les microbes intestinaux façonnent les odeurs des flatulences",
+          "summary": "Un microbiologiste explique que les odeurs produites par les flatulences reflètent la façon dont les microbes intestinaux décomposent les aliments ; l'alimentation influence fortement les gaz et les odeurs produites, et l'article relie ces processus à des questions plus larges sur la santé intestinale.",
+          "whyItMatters": "L'article illustre comment les interactions alimentation–microbiome produisent des produits métaboliques mesurables, fournissant un exemple concret de la fonction du microbiome. Il s'agit de journalisme explicatif qui clarifie les mécanismes plutôt que de rendre compte d'un nouvel essai clinique.",
+          "takeaways": [
+            "Les composants alimentaires influent sur les produits de fermentation microbienne (gaz et odeurs) produits dans l'intestin.",
+            "Les différences d'odeur reflètent le métabolisme microbien mais ne sont pas en elles‑mêmes diagnostiques de maladies spécifiques.",
+            "L'article est pédagogique, clarifiant la microbiologie fondamentale plutôt que présentant de nouvelles preuves cliniques.",
+            "Comprendre les interactions alimentation–microbiome peut éclairer la recherche, mais n'implique pas des démarches simples d'auto‑diagnostic ou de traitement."
+          ]
+        },
+        "de": {
+          "title": "Mikrobiologe erklärt, wie Ernährung und Darmmikroben den Geruch von Flatulenzen formen",
+          "summary": "Ein Mikrobiologe erklärt, dass die Gerüche, die durch Flatulenzen entstehen, widerspiegeln, wie Darmmikroben Nahrungsmittel abbauen; die Ernährung beeinflusst stark die produzierten Gase und Gerüche, und der Beitrag verknüpft diese Prozesse mit allgemeineren Fragen zur Darmgesundheit.",
+          "whyItMatters": "Der Artikel veranschaulicht, wie Wechselwirkungen zwischen Ernährung und Mikrobiom messbare Stoffwechselprodukte erzeugen, und liefert ein konkretes Beispiel für Mikrobiom‑Funktion. Es handelt sich um erklärenden Journalismus, der Mechanismen klärt, und nicht um Berichterstattung über eine neue klinische Studie.",
+          "takeaways": [
+            "Bestandteile der Ernährung beeinflussen, welche mikrobiellen Fermentationsprodukte (Gase und Gerüche) im Darm entstehen.",
+            "Unterschiede im Geruch spiegeln mikrobiellen Stoffwechsel wider, sind aber für sich genommen keine Diagnose bestimmter Erkrankungen.",
+            "Der Beitrag ist lehrreich und erläutert grundlegende Mikrobiologie, statt neue klinische Evidenz zu präsentieren.",
+            "Das Verständnis von Ernährung–Mikrobiom‑Wechselwirkungen kann die Forschung informieren, bedeutet aber nicht, dass man daraus einfache selbstständige Diagnosen oder Behandlungen ableiten sollte."
+          ]
+        },
+        "pt-br": {
+          "title": "Microbiologista explica como dieta e micróbios intestinais moldam o odor dos gases",
+          "summary": "Um microbiologista explica que os odores produzidos pela flatulência refletem como os micróbios intestinais degradam os alimentos; a dieta influencia fortemente os gases e odores produzidos, e o texto liga esses processos a questões mais amplas sobre a saúde intestinal.",
+          "whyItMatters": "O artigo ilustra como interações dieta–microbioma produzem produtos metabólicos mensuráveis, oferecendo um exemplo concreto da função do microbioma. Trata‑se de jornalismo explicativo que esclarece mecanismos, e não de relato sobre um novo ensaio clínico.",
+          "takeaways": [
+            "Componentes da dieta influenciam quais produtos de fermentação microbiana (gases e odores) são produzidos no intestino.",
+            "Diferenças de odor refletem metabolismo microbiano, mas não são, por si só, diagnóstico de doenças específicas.",
+            "O texto é educacional, esclarecendo microbiologia fundamental em vez de apresentar nova evidência clínica.",
+            "Entender interações dieta–microbioma pode informar pesquisas, mas não implica passos simples de autodiagnóstico ou autotratamento."
+          ]
+        },
+        "hu": {
+          "title": "Egy mikrobiológus elmagyarázza, hogyan alakítja az étrend és a bélmikrobák a szellentések szagát",
+          "summary": "Egy mikrobiológus ismerteti, hogy a bélgázok által keltett szagok azt tükrözik, hogyan bontják le a bélmikrobák az ételeket; az étrend erősen befolyásolja a keletkező gázokat és szagokat, és a cikk ezeket a folyamatokat a bél egészségével kapcsolatos szélesebb kérdésekhez köti.",
+          "whyItMatters": "A cikk bemutatja, hogyan eredményeznek az étrend–mikrobiom kölcsönhatások mérhető anyagcsere-kimeneteket, és kézzelfogható példát ad a mikrobiom működésére. Explanatív újságírásról van szó, amely mechanizmusokat tisztáz, nem pedig új klinikai vizsgálatról számol be.",
+          "takeaways": [
+            "Az étrendi összetevők befolyásolják, hogy mely mikrobális fermentációs termékek (gázok és illatok) keletkeznek a bélben.",
+            "Az illatkülönbségek a mikrobális anyagcserét tükrözik, de önmagukban nem diagnosztikusak bizonyos betegségekre nézve.",
+            "A cikk oktató jellegű, az alapvető mikrobiológiát tisztázza, nem új klinikai bizonyítékot mutat be.",
+            "Az étrend–mikrobiom kölcsönhatások megértése hasznos lehet a kutatás számára, de nem jelent egyszerű, önálló diagnosztikai vagy kezelési lépéseket."
+          ]
+        },
+        "ar": {
+          "title": "عالم ميكروبيoloji يشرح كيف يشكّل النظام الغذائي وميكروبات الأمعاء روائح الغازات المعوية",
+          "summary": "يشرح ميكروبيولوجي أن الروائح الناتجة عن الريح تعكس كيفية تحلل ميكروبات الأمعاء للأطعمة؛ يؤثر النظام الغذائي بقوة على الغازات والروائح الناتجة، ويربط المقال هذه العمليات بأسئلة أوسع حول صحة الأمعاء.",
+          "whyItMatters": "يوضّح المقال كيف تُنتج تفاعلات النظام الغذائي–الميكروبيوم نواتج أيضية قابلة للقياس، مما يقدم مثالًا ملموسًا على وظيفة الميكروبيوم. هذا تقرير توضيحي صحفي يبيّن الآليات ولا يقدّم تجربة سريرية جديدة.",
+          "takeaways": [
+            "تؤثر مكونات النظام الغذائي على نوع منتجات التخمر الميكروبية (الغازات والروائح) التي تُنتَج في الأمعاء.",
+            "اختلافات الروائح تعكس الأيض الميكروبي لكنها ليست بمثابة تشخيص لمرض محدد بحد ذاتها.",
+            "المقال تعليمي ويشرح أساسيات الميكروبيولوجيا بدلاً من عرض دليل سريري جديد.",
+            "فهم تفاعلات النظام الغذائي–الميكروبيوم يمكن أن يوجّه البحث لكنه لا يعني خطوات تشخيصية أو علاجية بسيطة يقوم بها الفرد بنفسه."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-bre-0f65be58a072",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-bre-0f65be58a072-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-do-farts-smell-so-bad-a-microbiologist-explains-the-odors-bre-0f65be58a072-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Microbiologist explains how diet and gut microbes shape flatus odors.\nStory summary: A microbiologist explains that the smells produced by flatulence reflect how gut microbes break down foods; diet strongly influences the gases and odours produced, and the piece links those processes to broader questions about gut health..\nCategory: Nutrition & gut microbiome.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "for-veterans-with-mild-traumatic-brain-injury-a-restaurant-or-oth-234259a2ed38",
@@ -130569,6 +131729,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-16-motivation-1-s1",
+      "category": "Meal Planning",
+      "languages": {
+        "en": {
+          "title": "Maya plans a calmer week",
+          "story": "Maya used to scramble at dinnertime and guess what she’d eaten all day. This week she spent Sunday listing simple meals and adding them to her tracker before Monday. Writing plans down made grocery shopping easier and logging felt less like a chore. When she checked her entries midweek she noticed which dinners left her feeling satisfied and which didn’t — information she used to tweak a recipe or reorder ingredients. Planning ahead helped Maya stay consistent without pressure and made tracking part of her routine.",
+          "habit": "Plan one meal ahead each day",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "María organiza una semana más tranquila",
+          "story": "María solía improvisar la cena y después no sabía exactamente qué había comido durante el día. Esta semana dedicó el domingo a anotar comidas sencillas y las añadió al rastreador antes de empezar la semana. Tener el plan escrito hizo las compras más fáciles y registrar las comidas ya no fue una carga. A mitad de semana revisó sus entradas y vio qué cenas la dejaban satisfecha y cuáles no, así que ajustó recetas y la lista de ingredientes. Planificar con antelación le ayudó a llevar un hábito constante sin presiones.",
+          "habit": "Planifica una comida con un día de antelación",
+          "appCta": "Abre Calorie Bank Credit y comienza a registrar hoy."
+        },
+        "ru": {
+          "title": "Ольга планирует спокойную неделю",
+          "story": "Ольга раньше импровизировала с ужином и потом не помнила точно, что ела за день. На этой неделе она посвятила воскресенье составлению простых блюд и внесла их в трекер заранее. Запись планов упростила покупки, а внесение еды перестало казаться рутиной. К середине недели Ольга заметила по записям, какие ужины оставляют ощущение сытости, а какие — нет, и немного изменила рецепты. Планирование помогло ей поддерживать регулярность без стресса и сделать отслеживание частью привычки.",
+          "habit": "Записывайте один приём пищи заранее",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Олена планує спокійніший тиждень",
+          "story": "Олена раніше імпровізувала з вечерею й потім не зовсім пам’ятала, що їла вдень. Цього тижня вона провела неділю, складаючи список простих страв і заносячи їх у трекер наперед. План на папері полегшив покупки, а внесення записів перестало бути нудним обов’язком. Поглянувши на записи в середині тижня, вона помітила, які вечері були ситними, а які — ні, і трохи змінила рецепти. Планування наперед допомогло їй бути послідовною без тиску.",
+          "habit": "Заплануйте одну страву наперед кожного дня",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Camille planifie une semaine plus sereine",
+          "story": "Camille improvisait souvent le dîner et avait du mal à se souvenir de ce qu’elle avait mangé dans la journée. Cette semaine, elle a pris le dimanche pour noter des repas simples et les ajouter à son suivi avant de commencer la semaine. Avoir un plan écrit a facilité les courses et la saisie est devenue plus naturelle. En relisant ses notes en milieu de semaine, elle a vu quels dîners la satisfaisaient et lesquels non, et a ajusté quelques recettes. Planifier lui a permis de garder une routine sans pression.",
+          "habit": "Planifiez un repas à l'avance chaque jour",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à enregistrer aujourd'hui."
+        },
+        "de": {
+          "title": "Anna plant eine ruhigere Woche",
+          "story": "Anna hat oft am Abend improvisiert und anschließend nicht genau gewusst, was sie tagsüber gegessen hatte. Diese Woche hat sie sich am Sonntag einfache Mahlzeiten notiert und vorab in den Tracker eingetragen. Das aufgeschriebene Planen erleichterte den Einkauf, und das Eintragen fühlte sich weniger wie eine lästige Aufgabe an. Mitte der Woche sah sie in ihren Einträgen, welche Abendessen sie wirklich zufriedenstellten und welche nicht, und passte ein Rezept an. Vorausplanen half ihr, beständig zu bleiben, ohne Druck.",
+          "habit": "Plane täglich mindestens eine Mahlzeit im Voraus",
+          "appCta": "Öffne Calorie Bank Credit und beginne noch heute zu verfolgen."
+        },
+        "pt-br": {
+          "title": "Maria organiza uma semana mais tranquila",
+          "story": "Maria costumava improvisar no jantar e depois não lembrava bem do que havia comido durante o dia. Nesta semana ela reservou o domingo para listar refeições simples e adicioná‑las ao app antes da segunda. Ter o plano escrito facilitou as compras e registrar as refeições deixou de ser um incômodo. No meio da semana ela revisou as anotações e percebeu quais jantas a deixavam satisfeita e quais não, ajustando receitas quando preciso. Planejar com antecedência ajudou Maria a manter a rotina sem pressão.",
+          "habit": "Planeje uma refeição com antecedência",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Mária tervez egy nyugodtabb hetet",
+          "story": "Mária korábban gyakran improvizált vacsoránál, és aztán nem tudta pontosan, mit evett napközben. Ezen a héten vasárnap leírta az egyszerű ételeket, és előre feltöltötte őket a követőjébe. A terv segített a bevásárlásban, a naplózás pedig kevésbé tűnt terhes feladatnak. A hét közepén átnézve látta, mely vacsorák voltak kielégítőek, és melyeken érdemes változtatni. Az előzetes tervezés segített következetes maradni nyomás nélkül.",
+          "habit": "Tervezd meg előre napi egy étkezésed",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezd el ma a rögzítést."
+        },
+        "ar": {
+          "title": "ليلى تخطط لأسبوع أكثر هدوءًا",
+          "story": "كانت ليلى غالبًا ما تُرتب عشاءً عفويًا ثم لا تتذكر بالضبط ما تناولته طوال اليوم. هذا الأسبوع قضت يوم الأحد في كتابة وجبات بسيطة وأضافتها إلى المتتبع قبل بدء الأسبوع. ساعدها وجود خطة مكتوبة في تسهيل التسوق، وأصبح تسجيل الوجبات أقل إجهادًا. وعندما راجعت إدخالاتها منتصف الأسبوع أدركت أي العشاءات تشعرها بالشبع وأيها لا، فقامت بتعديل وصفات بسيطة. التخطيط المسبق جعل التتبع جزءًا من روتينها دون ضغوط.",
+          "habit": "اخطط لوجبة واحدة على الأقل مسبقًا",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya plans a calmer week.\nStory: Maya used to scramble at dinnertime and guess what she’d eaten all day. This week she spent Sunday listing simple meals and adding them to her tracker before Monday. Writing plans down made grocery shopping easier and logging felt less like a chore. When she checked her entries midweek she noticed which dinners left her feeling satisfied and which didn’t — information she used to tweak a recipe or reorder ingredients. Planning ahead helped Maya stay consistent without pressure and made tracking part of her routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-16-motivation-2-s2",
+      "category": "Everyday Habits",
+      "languages": {
+        "en": {
+          "title": "Carlos notices the coffee-shop habit",
+          "story": "Carlos realized he always grabbed a pastry with his morning coffee and logged it one day out of curiosity. Seeing the pattern in his tracker helped him decide to test a small change: some mornings he swapped the pastry for a piece of fruit, other days he kept the pastry but logged it right away. Over two weeks he noticed how those little choices affected his overall intake and energy. Tracking made the habit visible without judgment, and Carlos felt empowered to try small adjustments that fit his life.",
+          "habit": "Log snacks immediately after eating",
+          "appCta": "Open Calorie Bank Credit and track what you eat today."
+        },
+        "es": {
+          "title": "Carlos detecta el hábito de la cafetería",
+          "story": "Carlos se dio cuenta de que siempre compraba una pastelería con el café de la mañana y un día lo registró por curiosidad. Ver ese patrón en el rastreador le ayudó a probar un pequeño cambio: algunas mañanas cambió la pastelería por fruta, otros días mantuvo la pastelería pero la registró de inmediato. En dos semanas notó cómo esas pequeñas decisiones influían en su sensación de energía y en su balance diario. Registrar lo hizo visible sin juzgar, y Carlos se animó a ajustar hábitos pequeños que le funcionan.",
+          "habit": "Registra los snacks justo después de comerlos",
+          "appCta": "Abre Calorie Bank Credit y registra lo que comas hoy."
+        },
+        "ru": {
+          "title": "Сергей заметил привычку в кофейне",
+          "story": "Сергей обнаружил, что всегда берет слойку с утренним кофе и однажды просто занес это в трекер. Увидев закономерность, он решил попробовать небольшие изменения: по утрам иногда менять слойку на фрукт, а в другие дни оставлять слойку, но записывать её сразу. Через пару недель он увидел, как такие мелкие решения влияют на общее самочувствие и режим питания. Отслеживание сделало привычку видимой без осуждения, и Сергей стал увереннее пробовать небольшие изменения, которые подходят ему.",
+          "habit": "Записывайте перекусы сразу после еды",
+          "appCta": "Откройте Calorie Bank Credit и записывайте сегодня."
+        },
+        "uk": {
+          "title": "Сергій помітив звичку з кав’ярні",
+          "story": "Сергій зрозумів, що завжди бере булочку з ранковою кавою, і одного дня просто заніс це в трекер. Побачивши закономірність, він вирішив протестувати невелику зміну: деякі ранки міняв булочку на фрукт, в інші — зберігав її, але одразу записував. Через два тижні помітив, як ці маленькі вибори впливають на енергію й загальний щоденний баланс. Відстеження зробило звичку помітною без осуду, і Сергій відчув упевненість експериментувати з невеликими змінами.",
+          "habit": "Записуйте перекуси відразу після їжі",
+          "appCta": "Відкрийте Calorie Bank Credit і реєструйте сьогодні."
+        },
+        "fr": {
+          "title": "Lucas remarque l'habitude de la boulangerie",
+          "story": "Lucas s’est rendu compte qu’il prenait toujours une viennoiserie avec son café du matin et l’a noté par curiosité dans son suivi. Voir ce schéma lui a permis d’essayer un petit changement : certains matins il remplaçait la viennoiserie par un fruit, d’autres il la gardait mais la saisissait immédiatement. En deux semaines, il a observé comment ces petits choix influencent son énergie et son quotidien. Le suivi a rendu l’habitude visible sans jugement, et Lucas s’est senti libre d’ajuster doucement.",
+          "habit": "Enregistrez vos en-cas immédiatement",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez ce que vous mangez aujourd'hui."
+        },
+        "de": {
+          "title": "Jonas erkennt sein Café-Gewohnheit",
+          "story": "Jonas merkte, dass er sich zum Morgenkaffee immer ein Gebäck holte und trug es eines Tages aus Neugier in den Tracker ein. Das Muster sichtbar zu haben motivierte ihn zu einem kleinen Test: an manchen Tagen tauschte er das Gebäck gegen Obst, an anderen trug er das Gebäck direkt ein. Nach zwei Wochen sah er, wie solche kleinen Entscheidungen seine Energie und seinen Tagesablauf beeinflussen. Das Tracking machte die Gewohnheit ohne Wertung sichtbar, und Jonas fühlte sich bestärkt, kleine Anpassungen zu probieren.",
+          "habit": "Trage Snacks sofort nach dem Essen ein",
+          "appCta": "Öffne Calorie Bank Credit und zeichne heute auf, was du isst."
+        },
+        "pt-br": {
+          "title": "Lucas nota o hábito da cafeteria",
+          "story": "Lucas percebeu que sempre pegava um doce com o café da manhã e registrou isso um dia por curiosidade. Ver o padrão no app o incentivou a testar uma mudança pequena: algumas manhãs trocava o doce por uma fruta, noutros dias mantinha o doce mas registrava na hora. Em duas semanas percebeu como essas escolhas afetam sua energia e o balanço diário. O registro deixou o hábito visível sem julgamentos, e Lucas se sentiu à vontade para experimentar ajustes simples que funcionam para ele.",
+          "habit": "Registre os lanches logo após comê‑los",
+          "appCta": "Abra Calorie Bank Credit e registre o que você come hoje."
+        },
+        "hu": {
+          "title": "Gábor és a reggeli péksütemény",
+          "story": "Gábor észrevette, hogy reggeli kávé mellé mindig vesz péksütit, és egyszer kíváncsiságból beírta a követőbe. A mintázat meglátása arra ösztönözte, hogy kipróbáljon egy apró változtatást: néhány reggel gyümölcsre cserélte a péksütit, máskor megtartotta, de azonnal rögzítette. Két hét után meglátta, hogyan hatnak ezek a kis döntések az energiájára és a napi összképére. A naplózás ítélkezés nélkül tette láthatóvá a szokást, és Gábor bátrabban próbált ki apró módosításokat.",
+          "habit": "Rögzítsd a nassolnivalókat azonnal",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzítsd ma, mit ettél."
+        },
+        "ar": {
+          "title": "سامر يلاحظ عادة المقهى",
+          "story": "لاحظ سامر أنه دائمًا يشتري مع قهوته الصباحية معجنات، فقام بتسجيلها يوماً بدافع الفضول. جعلته رؤية هذا النمط في المتتبع يجرب تغييرًا بسيطًا: في بعض الأيام استبدل المعجنات بفاكهة، وفي أيام أخرى أبقاها لكنه سجلها فورًا. خلال أسبوعين لاحظ كيف تؤثر هذه الخيارات الصغيرة على طاقته واليوم بشكل عام. جعل التتبع العادة مرئية دون حكم، وشعر سامر بالقدرة على إجراء تعديلات صغيرة تناسب حياته.",
+          "habit": "سجل الوجبات الخفيفة فور تناولها",
+          "appCta": "افتح Calorie Bank Credit وسجّل ما تأكله اليوم."
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Carlos notices the coffee-shop habit.\nStory: Carlos realized he always grabbed a pastry with his morning coffee and logged it one day out of curiosity. Seeing the pattern in his tracker helped him decide to test a small change: some mornings he swapped the pastry for a piece of fruit, other days he kept the pastry but logged it right away. Over two weeks he noticed how those little choices affected his overall intake and energy. Tracking made the habit visible without judgment, and Carlos felt empowered to try small adjustments that fit his life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-16-motivation-3-s3",
+      "category": "Evening Routine",
+      "languages": {
+        "en": {
+          "title": "Anna's honest two‑minute check‑in",
+          "story": "Anna found that trying to log perfectly throughout busy days made tracking feel impossible. She switched to a gentle evening routine: two minutes before bed she opens the app and honestly records the day — even if some details are fuzzy. Doing a quick, no‑pressure check‑in helped Anna spot weekly trends, like which evenings she skipped a snack or felt hungrier. The habit kept her consistent without expecting perfection, and she liked that small, honest entries gave clearer insights than occasional perfect days.",
+          "habit": "Spend 2 minutes logging at night",
+          "appCta": "Open Calorie Bank Credit and try a quick log today."
+        },
+        "es": {
+          "title": "La revisión honesta de Ana de dos minutos",
+          "story": "A Ana le resultaba imposible registrar a la perfección durante días ocupados, así que cambió a una rutina nocturna suave: dos minutos antes de acostarse abre la app y anota honestamente el día, aunque falten detalles. Esta breve comprobación sin presión le permitió a Ana ver tendencias semanales, como qué noches saltaba un snack o cuándo tenía más hambre. El hábito le ayudó a mantener la constancia sin esperar perfección, y comprobó que pequeñas entradas sinceras ofrecen mejores pistas que días perfectos esporádicos.",
+          "habit": "Dedica 2 minutos a registrar por la noche",
+          "appCta": "Abre Calorie Bank Credit y prueba un registro rápido hoy."
+        },
+        "ru": {
+          "title": "Двухминутная честная проверка Анны",
+          "story": "Анне было трудно вести идеальные записи в течение насыщенных дней, поэтому она ввела мягкую вечернюю рутину: за две минуты до сна она открывает приложение и честно вносит день, даже если что‑то забыто. Такая быстрая, без давления проверка помогла Анне заметить недельные закономерности — например, в какие вечера она пропускала перекус или сильнее чувствовала голод. Привычка поддерживала регулярность без стремления к совершенству, и небольшие честные записи давали больше информации, чем редкие «идеальные» дни.",
+          "habit": "Потратьте 2 минуты на запись вечером",
+          "appCta": "Откройте Calorie Bank Credit и сделайте быстую запись сегодня."
+        },
+        "uk": {
+          "title": "Двохвилинна чесна перевірка Анни",
+          "story": "Анні було важко ідеально записувати протягом напружених днів, тож вона ввела м’який вечірній ритуал: за дві хвилини до сну відкриває додаток і чесно фіксує день, навіть якщо не все пам’ятає. Така швидка безнатягання перевірка допомогла помітити тижневі тенденції — коли вона пропускала перекус або відчувала сильніший голод. Привичка зберігала послідовність без прагнення до досконалості, і дрібні чесні записи давали більше розуміння, ніж поодинокі «ідеальні» дні.",
+          "habit": "Проведіть 2 хвилини на вечірній запис",
+          "appCta": "Відкрийте Calorie Bank Credit і спробуйте швидкий запис сьогодні."
+        },
+        "fr": {
+          "title": "La vérification honnête de Julie en 2 minutes",
+          "story": "Julie trouvait difficile d’être parfaite dans ses enregistrements pendant des journées chargées. Elle a donc adopté une routine du soir douce : deux minutes avant de se coucher, elle ouvre l’application et saisit honnêtement sa journée, même si certains détails manquent. Ce petit check sans pression lui a permis de repérer des tendances hebdomadaires, comme les soirs où elle sautait un snack ou ressentait plus de faim. Cette habitude la maintient régulière sans viser la perfection, et de petites saisies sincères apportent souvent plus d’enseignements.",
+          "habit": "Consacrez 2 minutes au journal le soir",
+          "appCta": "Ouvrez Calorie Bank Credit et faites une saisie rapide aujourd'hui."
+        },
+        "de": {
+          "title": "Annas ehrliches Zwei‑Minuten‑Check",
+          "story": "Anna merkte, dass perfektes Eintragen an vollen Tagen unmöglich wurde. Sie wechselte zu einer sanften Abendroutine: zwei Minuten vor dem Schlafen öffnet sie die App und trägt ehrlich den Tag ein — auch wenn nicht alles klar ist. Dieser kurze, druckfreie Check half ihr, wöchentliche Muster zu erkennen, etwa an welchen Abenden sie einen Snack ausgelassen hatte oder stärkeres Hungergefühl verspürte. Die Gewohnheit hielt sie beständig, ohne Perfektion zu erwarten, und kleine ehrliche Einträge gaben oft klarere Hinweise als seltene perfekte Tage.",
+          "habit": "Nimm dir abends 2 Minuten zum Eintragen",
+          "appCta": "Öffne Calorie Bank Credit und probiere heute eine kurze Eintragung."
+        },
+        "pt-br": {
+          "title": "A checagem honesta de dois minutos da Ana",
+          "story": "Ana achava difícil registrar tudo perfeitamente nos dias corridos, então criou uma rotina noturna suave: dois minutos antes de dormir ela abre o app e registra o dia honestamente, mesmo se faltar algum detalhe. Essa checagem rápida e sem pressão ajudou Ana a notar tendências semanais, como em quais noites ela pulava um lanche ou sentia mais fome. O hábito manteve a consistência sem exigir perfeição, e entradas pequenas e sinceras deram mais clareza do que dias perfeitos esporádicos.",
+          "habit": "Gaste 2 minutos registrando à noite",
+          "appCta": "Abra Calorie Bank Credit e faça um registro rápido hoje."
+        },
+        "hu": {
+          "title": "Anna kétperces őszinte ellenőrzése",
+          "story": "Anna úgy érezte, hogy a tökéletes napló vezetése zsúfolt napokon lehetetlen. Átállt egy gyengéd esti rutinra: két perccel lefekvés előtt megnyitja az appot és őszintén rögzíti a napot, még ha egy‑két részlet homályos is. Ez a gyors, stresszmentes ellenőrzés segített heti mintázatokat látni — például mely esték voltak snack‑mentesek vagy mikor volt nagyobb éhség. A szokás következetességet hozott anélkül, hogy a tökéletességet várta volna, és a kis őszinte bejegyzések gyakran világosabb képet adtak.",
+          "habit": "Szánj 2 percet esti rögzítésre",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és próbálj ma egy gyors bejegyzést."
+        },
+        "ar": {
+          "title": "تحقق دقيقتين الصادق لدى سارة",
+          "story": "وجدت سارة أن محاولة التسجيل بشكل مثالي طوال الأيام المزدحمة تجعل المتابعة مستحيلة. فابتكرت روتينًا مسائياً لطيفًا: قبل النوم بدقيقتين تفتح التطبيق وتسجل يومها بصدق — حتى لو كانت بعض التفاصيل غير واضحة. ساعدها هذا الفحص السريع الخالي من الضغوط على ملاحظة أنماط أسبوعية، مثل الليالي التي تخطّت فيها وجبة خفيفة أو شعرت بالجوع أكثر. حافظت هذه العادة على اتساقها دون توقع الكمال، ولاحظت أن الإدخالات الصغيرة والصادقة تعطي رؤى أوضح من أيام مثالية متفرقة.",
+          "habit": "اقضِ دقيقتين في تسجيل المساء",
+          "appCta": "افتح Calorie Bank Credit وجرب تسجيلًا سريعًا اليوم."
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Anna's honest two‑minute check‑in.\nStory: Anna found that trying to log perfectly throughout busy days made tracking feel impossible. She switched to a gentle evening routine: two minutes before bed she opens the app and honestly records the day — even if some details are fuzzy. Doing a quick, no‑pressure check‑in helped Anna spot weekly trends, like which evenings she skipped a snack or felt hungrier. The habit kept her consistent without expecting perfection, and she liked that small, honest entries gave clearer insights than occasional perfect days..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-16-motivation-4-s4",
+      "category": "Small Adjustments",
+      "languages": {
+        "en": {
+          "title": "László experiments with one simple swap",
+          "story": "László wanted to feel steadier between lunch and dinner but didn’t want big changes. He logged what he usually ate for a week, then picked one small swap: switching a creamy dressing for a vinaigrette twice a week. Because he tracked his meals, he could compare how he felt on swap days versus usual days. The change was manageable, and tracking helped him see that small, realistic tweaks fit his routine. That clarity encouraged László to slowly try other tiny changes without pressure.",
+          "habit": "Try one small swap this week",
+          "appCta": "Open Calorie Bank Credit and track a swap today."
+        },
+        "es": {
+          "title": "Luis prueba un pequeño cambio",
+          "story": "Luis quería sentirse con más energía entre la comida y la cena pero no quería cambios grandes. Durante una semana registró lo que comía y luego eligió un pequeño ajuste: cambiar una salsa cremosa por una vinagreta un par de veces. Al llevar el registro pudo comparar cómo se sentía en los días del cambio frente a los días habituales. El cambio fue manejable y el seguimiento le mostró que los ajustes pequeños y realistas encajan en su rutina. Esa claridad animó a Luis a probar otros cambios lentos y sin presión.",
+          "habit": "Prueba un pequeño cambio esta semana",
+          "appCta": "Abre Calorie Bank Credit y registra un cambio hoy."
+        },
+        "ru": {
+          "title": "Дмитрий пробует простой обмен",
+          "story": "Дмитрий хотел чувствовать себя более ровно между обедом и ужином, но не стремился к большим переменам. Он неделю записывал обычные блюда, а затем выбрал одно небольшое изменение: дважды в неделю заменить сливочную заправку на винегрет. Благодаря записям он мог сравнить самочувствие в дни с заменой и без. Изменение оказалось управляемым, а трекинг показал, что небольшие реалистичные корректировки легко вписываются в распорядок. Эта ясность вдохновила Дмитрия пробовать и другие маленькие шаги без давления.",
+          "habit": "Попробуйте одну небольшую замену на неделе",
+          "appCta": "Откройте Calorie Bank Credit и зафиксируйте замену сегодня."
+        },
+        "uk": {
+          "title": "Дмитро експериментує з невеликою заміною",
+          "story": "Дмитро хотів почуватися більш рівномірно між обідом та вечерею, але не прагнув до великих змін. Він тиждень записував звичні страви, а потім обрав одну маленьку заміну: двічі на тиждень замінити кремову заправку на вінегрет. Завдяки записам міг порівняти самопочуття у дні із заміною та звичайні дні. Заміна виявилася керованою, а відстеження показало, що невеликі реалістичні коригування вписуються в режим. Це надихнуло Дмитра поступово пробувати інші дрібні зміни без тиску.",
+          "habit": "Спробуйте одну невелику зміну цього тижня",
+          "appCta": "Відкрийте Calorie Bank Credit і зафіксуйте зміну сьогодні."
+        },
+        "fr": {
+          "title": "Émilien essaie un simple changement",
+          "story": "Émilien souhaitait se sentir plus stable entre le déjeuner et le dîner sans bouleverser ses habitudes. Il a noté ce qu’il mangeait pendant une semaine, puis choisi un petit ajustement : remplacer une sauce crémeuse par une vinaigrette deux fois. En suivant ses repas, il a pu comparer son ressenti les jours de changement et les autres. La modification était facile à gérer, et le suivi lui a montré que de petits ajustements réalistes s’intègrent bien au quotidien. Cette clarté l’a encouragé à tester d’autres petites évolutions sans pression.",
+          "habit": "Essayez un petit changement cette semaine",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un changement aujourd'hui."
+        },
+        "de": {
+          "title": "Lukas probiert einen kleinen Tausch",
+          "story": "Lukas wollte sich zwischen Mittag und Abend stabiler fühlen, ohne große Veränderungen vorzunehmen. Er dokumentierte eine Woche lang seine Gewohnheiten und entschied sich dann für einen kleinen Tausch: zweimal pro Woche die cremige Soße gegen Vinaigrette zu tauschen. Durch das Tracking konnte er vergleichen, wie er sich an Tausch‑Tagen im Vergleich zu normalen Tagen fühlte. Die Änderung war handhabbar, und das Aufzeichnen zeigte ihm, dass realistische kleine Anpassungen gut in seinen Alltag passen. Diese Erkenntnis motivierte ihn, weitere kleine Schritte auszuprobieren.",
+          "habit": "Probiere diese Woche einen kleinen Austausch",
+          "appCta": "Öffne Calorie Bank Credit und verfolge heute eine Änderung."
+        },
+        "pt-br": {
+          "title": "Ricardo testa uma troca simples",
+          "story": "Ricardo queria se sentir mais estável entre o almoço e o jantar, sem mudar tudo. Ele registrou o que comia por uma semana e escolheu um pequeno ajuste: trocar um molho cremoso por vinagrete duas vezes na semana. Como ele acompanhou as refeições, conseguiu comparar como se sentia nos dias com a troca e nos dias normais. A mudança foi fácil de manter, e o registro mostrou que pequenos ajustes realistas cabem na rotina. Essa clareza encorajou Ricardo a experimentar outras alterações pequenas sem pressão.",
+          "habit": "Faça uma pequena troca nesta semana",
+          "appCta": "Abra Calorie Bank Credit e registre uma troca hoje."
+        },
+        "hu": {
+          "title": "László kipróbál egy egyszerű cserét",
+          "story": "László azt szerette volna, hogy stabilabban érezze magát ebéd és vacsora között, de nem akart nagy változtatásokat. Egy hétig vezette, mit eszik, majd választott egy apró cserét: kétszer hétente a krémes öntetet borecettel helyettesítette. A naplózásnak köszönhetően össze tudta hasonlítani a közérzetet a csere napjain és a megszokott napokon. A változtatás könnyen tartható volt, és a követés megmutatta, hogy a kicsi, reális módosítások illeszkednek a rutinjába. Ez bátorította Lászlót további apró lépések kipróbálására.",
+          "habit": "Próbálj ki egy apró cserét ezen a héten",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és rögzíts ma egy cserét."
+        },
+        "ar": {
+          "title": "كريم يجرب تبديلًا بسيطًا",
+          "story": "أراد كريم أن يشعر بثبات أكثر بين الغداء والعشاء دون إجراء تغييرات كبيرة. سجل ما يأكله لمدة أسبوع، ثم اختار تبديلًا صغيرًا: استبدال الصلصة الكريمية بصلصة خفيفة مرتين أسبوعيًا. وبفضل التتبع استطاع مقارنة شعوره في أيام التبديل مع الأيام العادية. كان التغيير سهل التطبيق، وساعده التتبع على إدراك أن التعديلات الصغيرة والواقعية تناسب روتينه. تلك الشفافية شجعته على تجربة تغييرات صغيرة أخرى تدريجيًا ودون ضغط.",
+          "habit": "جرّب تبديلًا بسيطًا هذا الأسبوع",
+          "appCta": "افتح Calorie Bank Credit وسجّل تبديلًا اليوم."
+        }
+      },
+      "generatedAt": "2026-11-16T16:14:47.761Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-16-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: László experiments with one simple swap.\nStory: László wanted to feel steadier between lunch and dinner but didn’t want big changes. He logged what he usually ate for a week, then picked one small swap: switching a creamy dressing for a vinaigrette twice a week. Because he tracked his meals, he could compare how he felt on swap days versus usual days. The change was manageable, and tracking helped him see that small, realistic tweaks fit his routine. That clarity encouraged László to slowly try other tiny changes without pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-15-motivation-1-s1",
       "category": "planning",
