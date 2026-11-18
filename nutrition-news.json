@@ -1,8 +1,971 @@
 {
-  "generatedAt": "2026-11-17T16:20:24.762Z",
+  "generatedAt": "2026-11-18T15:59:03.441Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "the-brain-s-protective-barrier-also-blocks-medicine-this-engineer-d935e24b51ad",
+      "category": "neuroscience / drug delivery",
+      "sourceName": "sciencenews.org",
+      "sourceUrl": "https://www.sciencenews.org/article/brain-protective-barrier-engineer-sn10",
+      "sourceTitle": "The brain’s protective barrier also blocks medicine. This engineer wants a way through",
+      "publishedAt": "Wed, 18 Nov 2026 14:00:00 +0000",
+      "languages": {
+        "en": {
+          "title": "The brain’s protective barrier also blocks medicine. This engineer wants a way through",
+          "summary": "Engineer Rebecca Pinals built a blood–brain barrier on a chip to study how drugs might reach the brains of people with dementia. The model is an experimental in vitro tool designed to mimic aspects of the barrier that normally restricts drug access to brain tissue.",
+          "whyItMatters": "Delivering therapeutics across the blood–brain barrier is a major obstacle for treatments for dementia and other brain disorders; improved lab models can help screen and refine approaches before human testing.",
+          "takeaways": [
+            "This is an in vitro ‘blood–brain barrier on a chip’ model, not a clinical trial.",
+            "Such models let researchers test how candidate drugs or delivery methods interact with barrier cells under controlled conditions.",
+            "Advances in barrier models can speed early-stage research but do not guarantee success in human patients."
+          ]
+        },
+        "es": {
+          "title": "La barrera protectora del cerebro también bloquea los fármacos. Esta ingeniera busca una forma de atravesarla",
+          "summary": "La ingeniera Rebecca Pinals creó una barrera hematoencefálica en un chip para estudiar cómo podrían llegar los medicamentos al cerebro de personas con demencia. El modelo es una herramienta experimental in vitro diseñada para imitar aspectos de la barrera que normalmente restringen el acceso de fármacos al tejido cerebral.",
+          "whyItMatters": "Transportar terapias a través de la barrera hematoencefálica es un gran obstáculo para los tratamientos de la demencia y otros trastornos cerebrales; mejores modelos de laboratorio pueden ayudar a cribar y refinar enfoques antes de las pruebas en humanos.",
+          "takeaways": [
+            "Se trata de un modelo in vitro de “barrera hematoencefálica en un chip”, no de un ensayo clínico.",
+            "Estos modelos permiten a los investigadores probar cómo interactúan candidatos a fármacos o métodos de entrega con las células de la barrera en condiciones controladas.",
+            "Los avances en modelos de barrera pueden acelerar la investigación en etapas tempranas, pero no garantizan éxito en pacientes humanos."
+          ]
+        },
+        "ru": {
+          "title": "Защитный барьер мозга также блокирует лекарства. Эта инженер ищет путь через него",
+          "summary": "Инженер Ребекка Пиналс создала модель гематоэнцефалического барьера на чипе, чтобы изучать, как препараты могут достигать мозга людей с деменцией. Модель — экспериментальный in vitro инструмент, разработанный для имитации тех аспектов барьера, которые обычно ограничивают доступ лекарств в мозговую ткань.",
+          "whyItMatters": "Доставка терапий через гематоэнцефалический барьер — серьёзное препятствие для лечения деменции и других заболеваний мозга; улучшенные лабораторные модели могут помочь отбирать и совершенствовать подходы до испытаний на людях.",
+          "takeaways": [
+            "Это in vitro модель «гематоэнцефалического барьера на чипе», а не клиническое испытание.",
+            "Такие модели позволяют исследователям тестировать, как кандидаты в лекарства или методы доставки взаимодействуют с клетками барьера в контролируемых условиях.",
+            "Прогресс в моделях барьера может ускорить исследования на ранних этапах, но не гарантирует успеха у людей."
+          ]
+        },
+        "uk": {
+          "title": "Захисний бар’єр мозку також блокує ліки. Інженерка шукає шлях крізь нього",
+          "summary": "Інженерка Ребекка Піналс створила модель «крово‑мозкового бар’єра на чіпі», щоб вивчати, як ліки можуть потрапляти до мозку людей з деменцією. Ця модель — експериментальний in vitro інструмент, що імітує окремі аспекти бар’єра, який зазвичай обмежує доступ ліків до мозкової тканини.",
+          "whyItMatters": "Проникнення терапевтичних засобів через крово‑мозковий бар’єр є великою перешкодою для лікування деменції й інших захворювань мозку; удосконалені лабораторні моделі можуть допомогти відсіяти та доопрацювати підходи перед дослідженнями на людях.",
+          "takeaways": [
+            "Це модель «крово‑мозкового бар’єра на чіпі» in vitro, а не клінічне випробування.",
+            "Такі моделі дозволяють дослідникам тестувати, як кандидати в ліки або методи доставки взаємодіють із клітинами бар’єра в контрольованих умовах.",
+            "Покращення моделей бар’єра можуть прискорити дослідження на ранніх стадіях, але не гарантують успіху у пацієнтів."
+          ]
+        },
+        "fr": {
+          "title": "La barrière protectrice du cerveau bloque aussi les médicaments. Cette ingénieure veut trouver un passage",
+          "summary": "L’ingénieure Rebecca Pinals a conçu une barrière hémato‑encéphalique sur puce pour étudier comment des médicaments pourraient atteindre le cerveau de personnes atteintes de démence. Le modèle est un outil expérimental in vitro conçu pour imiter certains aspects de la barrière qui limite normalement l’accès des médicaments au tissu cérébral.",
+          "whyItMatters": "Faire traverser des thérapeutiques la barrière hémato‑encéphalique est un obstacle majeur pour les traitements de la démence et d’autres troubles cérébraux ; de meilleurs modèles en laboratoire peuvent aider à sélectionner et affiner des approches avant des essais chez l’humain.",
+          "takeaways": [
+            "Il s’agit d’un modèle in vitro de « barrière hémato‑encéphalique sur puce », pas d’un essai clinique.",
+            "Ces modèles permettent aux chercheurs de tester comment des médicaments candidats ou des méthodes de délivrance interagissent avec les cellules de la barrière en conditions contrôlées.",
+            "Les progrès des modèles de barrière peuvent accélérer la recherche préclinique mais n’assurent pas le succès chez les patients."
+          ]
+        },
+        "de": {
+          "title": "Die schützende Schranke des Gehirns blockiert auch Medikamente. Diese Ingenieurin sucht einen Weg hindurch",
+          "summary": "Ingenieurin Rebecca Pinals baute eine Blut‑Hirn‑Schranke auf einem Chip, um zu untersuchen, wie Medikamente die Gehirne von Menschen mit Demenz erreichen könnten. Das Modell ist ein experimentelles in‑vitro‑Werkzeug, das entwickelt wurde, um Aspekte der Schranke nachzuahmen, die normalerweise den Zugang von Medikamenten zum Gehirngewebe einschränken.",
+          "whyItMatters": "Das Überwinden der Blut‑Hirn‑Schranke ist ein großes Hindernis für Behandlungen von Demenz und anderen Erkrankungen des Gehirns; verbesserte Labor‑Modelle können helfen, Ansätze vor Tests am Menschen zu screenen und zu verfeinern.",
+          "takeaways": [
+            "Dies ist ein in‑vitro‑Modell einer „Blut‑Hirn‑Schranke auf einem Chip“, keine klinische Studie.",
+            "Solche Modelle ermöglichen es Forschenden, unter kontrollierten Bedingungen zu testen, wie Kandidatenmedikamente oder Liefermethoden mit Zellen der Schranke interagieren.",
+            "Fortschritte bei Schrankenmodellen können die frühe Forschung beschleunigen, garantieren aber keinen Erfolg beim Menschen."
+          ]
+        },
+        "pt-br": {
+          "title": "A barreira protetora do cérebro também bloqueia medicamentos. Esta engenheira busca uma forma de atravessá‑la",
+          "summary": "A engenheira Rebecca Pinals construiu uma barreira hematoencefálica em um chip para estudar como medicamentos poderiam alcançar os cérebros de pessoas com demência. O modelo é uma ferramenta experimental in vitro projetada para imitar aspectos da barreira que normalmente restringem o acesso de fármacos ao tecido cerebral.",
+          "whyItMatters": "Atravessar a barreira hematoencefálica é um grande obstáculo para tratamentos da demência e de outros distúrbios cerebrais; modelos de laboratório aprimorados podem ajudar a triagem e o refinamento de abordagens antes dos testes em humanos.",
+          "takeaways": [
+            "Trata‑se de um modelo in vitro de “barreira hematoencefálica em um chip”, não de um ensaio clínico.",
+            "Esses modelos permitem que pesquisadores testem, em condições controladas, como candidatos a fármacos ou métodos de entrega interagem com as células da barreira.",
+            "Avanços em modelos de barreira podem acelerar a pesquisa em estágios iniciais, mas não garantem sucesso em pacientes humanos."
+          ]
+        },
+        "hu": {
+          "title": "Az agy védőgátja gyógyszereket is blokkol — ez a mérnök útat keres rajta át",
+          "summary": "Rebecca Pinals mérnök egy „vér–agy gát a chipen” modellt épített, hogy tanulmányozza, miként juthatnak gyógyszerek demenciás betegek agyába. A modell kísérleti in vitro eszköz, amely a gátnak azt a vonatkozó aspektusát igyekszik utánozni, amely általában korlátozza a gyógyszerek agyszövethez való hozzáférését.",
+          "whyItMatters": "A terápiák átjuttatása a vér–agy gáton nagy akadályt jelent a demencia és más agyi rendellenességek kezelésében; jobb laboratóriumi modellek segíthetnek a módszerek szűrésében és finomításában, mielőtt embereken tesztelnék őket.",
+          "takeaways": [
+            "Ez egy in vitro „vér–agy gát a chipen” modell, nem klinikai vizsgálat.",
+            "Az ilyen modellek lehetővé teszik a kutatók számára, hogy ellenőrzött körülmények között teszteljék, hogyan lépnek kölcsönhatásba a jelölt gyógyszerek vagy szállítási módszerek a gátrendszer sejtjeivel.",
+            "A gáta-modellek fejlesztése felgyorsíthatja a korai stádiumú kutatást, de nem garantálja a humán betegeknél való sikert."
+          ]
+        },
+        "ar": {
+          "title": "الحاجز الواقي للدماغ يمنع الأدوية أيضاً — هذه المهندسة تريد إيجاد طريق عبره",
+          "summary": "صنعت المهندسة ريبيكا بينالز نموذجاً لـ«حاجز الدم–المخ على رقاقة» لدراسة كيف قد تصل الأدوية إلى أدمغة الأشخاص المصابين بالخرف. النموذج أداة تجريبية في المختبر تهدف إلى تقليد جوانب الحاجز التي عادةً ما تحد من وصول الأدوية إلى نسيج الدماغ.",
+          "whyItMatters": "توصيل العلاجات عبر حاجز الدم–المخ يمثل عقبة رئيسية لعلاجات الخرف واضطرابات الدماغ الأخرى؛ النماذج المخبرية المحسنة قد تساعد في فرز وتحسين الاقتراحات قبل الاختبارات على البشر.",
+          "takeaways": [
+            "هذا نموذج in vitro لـ«حاجز الدم–المخ على رقاقة»، وليس تجربة سريرية.",
+            "تسمح هذه النماذج للباحثين باختبار كيفية تفاعل الأدوية المرشحة أو أساليب التوصيل مع خلايا الحاجز تحت ظروف خاضعة للسيطرة.",
+            "التقدم في نماذج الحاجز يمكن أن يسرّع البحث المبكر لكنه لا يضمن نجاحاً في المرضى البشريين."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=the-brain-s-protective-barrier-also-blocks-medicine-this-engineer-d935e24b51ad",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/the-brain-s-protective-barrier-also-blocks-medicine-this-engineer-d935e24b51ad-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/the-brain-s-protective-barrier-also-blocks-medicine-this-engineer-d935e24b51ad-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: The brain’s protective barrier also blocks medicine. This engineer wants a way through.\nStory summary: Engineer Rebecca Pinals built a blood–brain barrier on a chip to study how drugs might reach the brains of people with dementia. The model is an experimental in vitro tool designed to mimic aspects of the barrier that normally restricts drug access to brain tissue..\nCategory: neuroscience / drug delivery.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "mild-alzheimer-s-patients-benefit-from-40hz-sensory-stimulation-i-b0018a84ae33",
+      "category": "neuroscience / clinical trial",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-mild-alzheimer-patients-benefit-40hz.html",
+      "sourceTitle": "Mild Alzheimer's patients benefit from 40Hz sensory stimulation in national clinical trial",
+      "publishedAt": "Wed, 18 Nov 2026 06:20:02 EST",
+      "languages": {
+        "en": {
+          "title": "Pivotal HOPE trial reports benefits of 40Hz sensory stimulation for mild Alzheimer’s",
+          "summary": "At a conference, Cognito Therapeutics reported results from the HOPE pivotal trial of noninvasive 40Hz sensory stimulation in Alzheimer’s disease. The trial enrolled 663 participants and analyzed prespecified subgroups of people with mild and with moderate Alzheimer's disease, with reported benefits in the mild group.",
+          "whyItMatters": "This is a large device-based, noninvasive intervention reported from a pivotal trial; positive signals in a prespecified subgroup could inform further regulatory review and research, but conference announcements require full peer-reviewed data for independent assessment.",
+          "takeaways": [
+            "The HOPE trial included 663 participants and was presented at a professional meeting; details are from the company’s announcement at the conference.",
+            "Reported benefits were observed in the subgroup with mild Alzheimer’s; conference reports are preliminary until full methods and results are published and peer reviewed.",
+            "Device-based sensory stimulation is non-drug and may have different risk and implementation considerations than pharmacologic therapies."
+          ]
+        },
+        "es": {
+          "title": "El ensayo pivotal HOPE informa beneficios de la estimulación sensorial a 40 Hz en el Alzheimer leve",
+          "summary": "En una conferencia, Cognito Therapeutics presentó resultados del ensayo pivotal HOPE sobre estimulación sensorial no invasiva a 40 Hz en la enfermedad de Alzheimer. El ensayo incluyó 663 participantes y analizó subgrupos prespecificados de personas con Alzheimer leve y moderado, con beneficios reportados en el grupo leve.",
+          "whyItMatters": "Se trata de una intervención no invasiva basada en un dispositivo reportada en un ensayo pivotal; señales positivas en un subgrupo prespecificado podrían informar revisiones regulatorias y nueva investigación, pero los anuncios en conferencias requieren datos completos revisados por pares para una evaluación independiente.",
+          "takeaways": [
+            "El ensayo HOPE incluyó 663 participantes y se presentó en una reunión profesional; los detalles provienen del anuncio de la empresa en la conferencia.",
+            "Los beneficios reportados se observaron en el subgrupo con Alzheimer leve; los informes de conferencias son preliminares hasta que se publiquen métodos y resultados completos y sean revisados por pares.",
+            "La estimulación sensorial basada en dispositivos no es farmacológica y puede tener consideraciones de riesgos e implementación distintas a las terapias medicamentosas."
+          ]
+        },
+        "ru": {
+          "title": "Ключевое исследование HOPE сообщает о пользе 40‑Гц сенсорной стимуляции при лёгкой форме болезни Альцгеймера",
+          "summary": "На конференции компания Cognito Therapeutics представила результаты ключевого испытания HOPE по неинвазивной сенсорной стимуляции на частоте 40 Гц при болезни Альцгеймера. В испытании приняли участие 663 человека; были проанализированы заранее определённые подгруппы с лёгкой и умеренной формой болезни, и положительные эффекты были заявлены в группе с лёгкой формой.",
+          "whyItMatters": "Это крупное исследование с неинвазивным устройством, о результатах которого сообщается в рамках ключевого испытания; положительные сигналы в заранее определённой подгруппе могут повлиять на регуляторные решения и дальнейшие исследования, но сообщения на конференциях требуют публикации полных данных и рецензирования для независимой оценки.",
+          "takeaways": [
+            "В испытании HOPE участвовали 663 человека; информация представлена на профессиональной встрече и исходит из заявления компании.",
+            "Сообщённые преимущества наблюдались в подгруппе с лёгкой формой болезни Альцгеймера; данные с конференций являются предварительными до публикации полной методики и результатов и их рецензирования.",
+            "Сенсорная стимуляция с применением устройств не является лекарственной терапией и может иметь иные соображения по рискам и внедрению, чем фармакологические методы."
+          ]
+        },
+        "uk": {
+          "title": "Провідне випробування HOPE повідомляє про користь 40 Гц сенсорної стимуляції при легкій формі Альцгеймера",
+          "summary": "На конференції компанія Cognito Therapeutics представила результати провідного (pivotal) випробування HOPE неінвазивної 40 Гц сенсорної стимуляції при хворобі Альцгеймера. У випробування залучили 663 учасники й проаналізували передбачені підгрупи людей з легкою та помірною формою хвороби, при цьому повідомляли про користь у групі з легкою формою.",
+          "whyItMatters": "Це велике випробування пристрою з неінвазивним втручанням, представлене як провідне дослідження; позитивні сигнали в передбаченій підгрупі можуть інформувати регуляторний розгляд і подальші дослідження, але повідомлення на конференціях потребують повних рецензованих даних для незалежної оцінки.",
+          "takeaways": [
+            "У випробуванні HOPE брали участь 663 людини, а результати були представлені на професійній зустрічі; деталі походять із оголошення компанії на конференції.",
+            "Повідомлена користь спостерігалася в підгрупі з легкою формою Альцгеймера; доповіді на конференціях є попередніми до публікації повних методів і результатів та рецензування.",
+            "Сенсорна стимуляція за допомогою пристрою — не лікарський засіб і може мати відмінні ризики та питання впровадження порівняно з фармакологічними терапіями."
+          ]
+        },
+        "fr": {
+          "title": "L’essai pivot HOPE rapporte des bénéfices de la stimulation sensorielle à 40 Hz pour la maladie d’Alzheimer légère",
+          "summary": "Lors d’une conférence, Cognito Therapeutics a présenté les résultats de l’essai pivot HOPE portant sur une stimulation sensorielle non invasive à 40 Hz dans la maladie d’Alzheimer. L’essai a enrôlé 663 participants et a analysé des sous‑groupes préspécifiés de personnes atteintes de formes légères et modérées d’Alzheimer, des bénéfices ayant été rapportés dans le groupe léger.",
+          "whyItMatters": "Il s’agit d’un grand essai portant sur un dispositif non invasif présenté comme pivot ; des signaux positifs dans un sous‑groupe préspécifié peuvent orienter l’examen réglementaire et la recherche ultérieure, mais les annonces faites en conférence nécessitent des données complètes et revues par les pairs pour une évaluation indépendante.",
+          "takeaways": [
+            "L’essai HOPE a inclus 663 participants et a été présenté lors d’un congrès professionnel ; les détails proviennent de l’annonce de l’entreprise à la conférence.",
+            "Les bénéfices rapportés ont été observés dans le sous‑groupe avec une maladie d’Alzheimer légère ; les rapports de conférence sont préliminaires en attendant la publication complète des méthodes et résultats et la revue par les pairs.",
+            "La stimulation sensorielle par dispositif n’est pas un médicament et peut soulever des considérations de risques et de mise en œuvre différentes des thérapies pharmacologiques."
+          ]
+        },
+        "de": {
+          "title": "Pivotal‑HOPE‑Studie berichtet Nutzen von 40‑Hz‑Sinnesstimulation bei leichter Alzheimer‑Erkrankung",
+          "summary": "Auf einer Konferenz stellte Cognito Therapeutics Ergebnisse der HOPE‑Pivotalstudie zur nichtinvasiven 40‑Hz‑Sinnesstimulation bei Alzheimer‑Erkrankung vor. Die Studie rekrutierte 663 Teilnehmende und analysierte vorab festgelegte Subgruppen von Personen mit leichter bzw. moderater Alzheimer‑Erkrankung, wobei in der leichten Gruppe berichtete Vorteile beobachtet wurden.",
+          "whyItMatters": "Dies ist eine große gerätebasierte, nichtinvasive Intervention aus einer Pivotalstudie; positive Signale in einer vorab definierten Subgruppe könnten weitere regulatorische Prüfungen und Forschung informieren, aber Konferenzankündigungen benötigen vollständige, peer‑reviewte Daten zur unabhängigen Bewertung.",
+          "takeaways": [
+            "Die HOPE‑Studie umfasste 663 Teilnehmende und wurde auf einem Fachmeeting präsentiert; die Details stammen aus der Ankündigung des Unternehmens auf der Konferenz.",
+            "Berichtete Vorteile wurden in der Subgruppe mit leichter Alzheimer‑Erkrankung beobachtet; Berichte von Konferenzen sind vorläufig, bis Methoden und Ergebnisse vollständig publiziert und peer‑reviewt sind.",
+            "Gerätebasierte Sinnesstimulation ist nicht medikamentös und hat andere Risiken und Umsetzungsaspekte als pharmakologische Therapien."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio pivotal HOPE relata benefícios da estimulação sensorial a 40 Hz para Alzheimer leve",
+          "summary": "Em uma conferência, a Cognito Therapeutics apresentou resultados do ensaio pivotal HOPE sobre estimulação sensorial não invasiva a 40 Hz na doença de Alzheimer. O ensaio incluiu 663 participantes e analisou subgrupos pré‑especificados de pessoas com Alzheimer leve e moderado, com benefícios relatados no grupo leve.",
+          "whyItMatters": "Trata‑se de uma grande intervenção não invasiva baseada em dispositivo relatada em um ensaio pivotal; sinais positivos em um subgrupo pré‑especificado podem informar revisões regulatórias e pesquisas adicionais, mas comunicações em conferências exigem publicação completa e revisão por pares para avaliação independente.",
+          "takeaways": [
+            "O ensaio HOPE incluiu 663 participantes e foi apresentado em um congresso profissional; os detalhes vêm do anúncio da empresa na conferência.",
+            "Os benefícios relatados foram observados no subgrupo com Alzheimer leve; relatos de conferências são preliminares até que métodos e resultados completos sejam publicados e revisados por pares.",
+            "Estimulação sensorial baseada em dispositivo não é um tratamento farmacológico e pode ter considerações de risco e implementação diferentes das terapias medicamentosas."
+          ]
+        },
+        "hu": {
+          "title": "A HOPE kiemelt vizsgálat kedvező eredményeket jelent 40 Hz‑es szenzoros stimulációról enyhe Alzheimereseknél",
+          "summary": "Konferencián a Cognito Therapeutics ismertette a HOPE kiemelt vizsgálat eredményeit, amelyben nem invazív, 40 Hz‑es szenzoros stimulációt alkalmaztak Alzheimer‑kórban. A vizsgálat 663 résztvevőt vont be, és előre meghatározott alcsoportokat elemeztek enyhe és mérsékelt betegségben; a bejelentés szerint az enyhe csoportban mutattak előnyöket.",
+          "whyItMatters": "Ez egy nagy, eszközalapú, nem invazív beavatkozás kiemelt vizsgálati adatai; egy előre meghatározott alcsoportban észlelt pozitív jelzések befolyásolhatják a további szabályozói értékelést és a kutatást, de a konferencia‑bejelentésekhez szükség van teljes, lektorált adatokra az önálló értékeléshez.",
+          "takeaways": [
+            "A HOPE vizsgálat 663 résztvevőt foglalt magában, és eredményeit szakmai találkozón mutatták be; a részletek a cég konferencián tett bejelentéséből származnak.",
+            "A jelentett előnyöket az enyhe Alzheimer‑csoportban figyelték meg; a konferencia‑jelentések előzetesek, amíg a módszereket és az eredményeket teljes terjedelemben közzé nem teszik és le nem vizsgálják.",
+            "Az eszközalapú szenzoros stimuláció gyógyszermentes beavatkozás, és eltérő kockázati és megvalósítási kérdéseket vethet fel a farmakológiai terápiákkal szemben."
+          ]
+        },
+        "ar": {
+          "title": "تجربة HOPE المحورية تُبلغ عن فوائد التحفيز الحسي 40 هرتز في حالات الزهايمر الطفيفة",
+          "summary": "أعلنت شركة Cognito Therapeutics في مؤتمر عن نتائج تجربة HOPE المحورية لتحفيز حسي غير غازي بتردد 40 هرتز في مرض الزهايمر. شملت التجربة 663 مشاركاً وحللت مجموعات فرعية محددة سلفاً للأشخاص ذوي المرض الطفيف والمعتدل، مع الإبلاغ عن فوائد في مجموعة المرض الطفيف.",
+          "whyItMatters": "هذه تجربة محورية كبيرة تعتمد على جهاز وغير غازية؛ قد توجه الإشارات الإيجابية في مجموعة فرعية محددة سلفاً المراجعات التنظيمية والبحث المستقبلي، لكن إعلانات المؤتمر تبقى مبدئية حتى تتوفر البيانات الكاملة المراجعة من قبل الأقران.",
+          "takeaways": [
+            "شملت تجربة HOPE 663 مشاركاً وقد عُرضت في اجتماع مهني؛ التفاصيل مأخوذة من إعلان الشركة في المؤتمر.",
+            "لوحظت الفوائد المبلغ عنها في المجموعة الفرعية ذات الزهايمر الطفيف؛ تقارير المؤتمرات أولية حتى تُنشر الطرق والنتائج كاملة وتُراجع.",
+            "التحفيز الحسي المعتمد على الأجهزة هو تدخل غير دوائي وقد تختلف اعتبارات المخاطر والتنفيذ عنه بالنسبة للعلاجات الدوائية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mild-alzheimer-s-patients-benefit-from-40hz-sensory-stimulation-i-b0018a84ae33",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mild-alzheimer-s-patients-benefit-from-40hz-sensory-stimulation-i-b0018a84ae33-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mild-alzheimer-s-patients-benefit-from-40hz-sensory-stimulation-i-b0018a84ae33-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pivotal HOPE trial reports benefits of 40Hz sensory stimulation for mild Alzheimer’s.\nStory summary: At a conference, Cognito Therapeutics reported results from the HOPE pivotal trial of noninvasive 40Hz sensory stimulation in Alzheimer’s disease. The trial enrolled 663 participants and analyzed prespecified subgroups of people with mild and with moderate Alzheimer's disease, with reported benefits in the mild group..\nCategory: neuroscience / clinical trial.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "i-want-to-know-if-toxic-lagoon-fire-caused-my-husband-s-rare-dead-0959150f7dea",
+      "category": "environmental health / cancer risk",
+      "sourceName": "bbc.co.uk",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+      "sourceTitle": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "publishedAt": "Wed, 18 Nov 2026 10:48:49 GMT",
+      "languages": {
+        "en": {
+          "title": "Family seeks answers about a possible link between a toxic lagoon fire and a rare fatal cancer",
+          "summary": "A BBC report follows a family investigating whether exposure during a toxic lagoon fire contributed to a man’s lung cancer diagnosed 14 years later. The article is an individual case and journalistic investigation rather than a controlled scientific study linking exposure and cancer.",
+          "whyItMatters": "Environmental exposures can raise legitimate concerns about long‑term cancer risk; individual stories can prompt further epidemiological investigation, but they cannot establish causation on their own.",
+          "takeaways": [
+            "This is a journalistic case report focused on one family’s experience and questions about potential exposure effects.",
+            "A single case cannot determine whether the fire caused the cancer; epidemiologic studies are needed to assess risk in exposed populations.",
+            "Readers should interpret individual accounts cautiously and look for scientific studies or official investigations to draw conclusions about environmental cancer risks."
+          ]
+        },
+        "es": {
+          "title": "Familia busca respuestas sobre un posible vínculo entre un incendio en una laguna tóxica y un cáncer raro y fatal",
+          "summary": "Un reportaje de la BBC sigue a una familia que investiga si la exposición durante un incendio en una laguna tóxica pudo contribuir al cáncer de pulmón de un hombre diagnosticado 14 años después. El artículo es un caso individual y una investigación periodística, no un estudio científico controlado que vincule exposición y cáncer.",
+          "whyItMatters": "Las exposiciones ambientales pueden generar preocupaciones legítimas sobre el riesgo de cáncer a largo plazo; las historias individuales pueden motivar investigaciones epidemiológicas adicionales, pero por sí solas no establecen causalidad.",
+          "takeaways": [
+            "Se trata de un reportaje periodístico centrado en la experiencia de una familia y sus preguntas sobre posibles efectos de la exposición.",
+            "Un solo caso no puede determinar si el incendio causó el cáncer; hacen falta estudios epidemiológicos para evaluar el riesgo en poblaciones expuestas.",
+            "Los lectores deben interpretar relatos individuales con cautela y buscar estudios científicos o investigaciones oficiales para sacar conclusiones sobre riesgos ambientales de cáncer."
+          ]
+        },
+        "ru": {
+          "title": "Семья ищет ответы о возможной связи между пожаром на токсичной лагуне и редким смертельным раком",
+          "summary": "Репортаж BBC рассказывает о семье, которая пытается выяснить, могло ли воздействие во время пожара на токсичной лагуне способствовать развитию у мужчины рака лёгкого, диагностированного через 14 лет. Это индивидуальный случай и журналистское расследование, а не контролируемое научное исследование, устанавливающее связь между воздействием и раком.",
+          "whyItMatters": "Воздействие на окружающую среду может вызывать обоснованные опасения относительно долгосрочного риска рака; отдельные истории могут стать поводом для дальнейших эпидемиологических исследований, но сами по себе не устанавливают причинно-следственной связи.",
+          "takeaways": [
+            "Это журналистский репортаж, сосредоточенный на опыте одной семьи и их вопросах о возможных эффектах воздействия.",
+            "Один случай не может определить, вызвал ли пожар рак; для оценки риска в подвергшихся людей необходимы эпидемиологические исследования.",
+            "Читателям следует с осторожностью воспринимать индивидуальные истории и опираться на научные исследования или официальные расследования для выводов о рисках экологического происхождения и раке."
+          ]
+        },
+        "uk": {
+          "title": "Родина шукає відповіді щодо можливої зв’язку між пожежею на токсичній лагуні та рідкісним смертельним раком",
+          "summary": "Репортаж BBC слідує за родиною, яка з’ясовує, чи могло вплив під час пожежі на токсичній лагуні спричинити у чоловіка рак легень, діагностований 14 років потому. Стаття — це індивідуальний випадок і журналістське розслідування, а не контрольоване наукове дослідження, що встановлює зв’язок між експозицією і раком.",
+          "whyItMatters": "Екологічні впливи можуть викликати обґрунтовані занепокоєння щодо довгострокового ризику раку; індивідуальні історії можуть стимулювати епідеміологічні розслідування, але самі по собі вони не встановлюють причинності.",
+          "takeaways": [
+            "Це журналістський репортаж про один випадок, зосереджений на досвіді родини і питаннях про можливі наслідки впливу.",
+            "Одиничний випадок не може визначити, чи спричинила пожежа рак; для оцінки ризику в людей, які піддавалися впливу, потрібні епідеміологічні дослідження.",
+            "Читачам варто трактувати індивідуальні розповіді обережно і шукати наукові дослідження або офіційні розслідування для висновків про екологічні ризики щодо раку."
+          ]
+        },
+        "fr": {
+          "title": "Une famille cherche des réponses sur un lien possible entre un incendie dans une lagune toxique et un cancer rare mortel",
+          "summary": "Un reportage de la BBC suit une famille qui enquête pour savoir si une exposition lors d’un incendie dans une lagune toxique a contribué au cancer du poumon d’un homme, diagnostiqué 14 ans plus tard. L’article est un cas individuel et un travail journalistique, pas une étude scientifique contrôlée établissant un lien entre l’exposition et le cancer.",
+          "whyItMatters": "Les expositions environnementales peuvent légitimement susciter des inquiétudes quant au risque cancérigène à long terme ; des récits individuels peuvent inciter à des enquêtes épidémiologiques, mais ne permettent pas à eux seuls d’établir une causalité.",
+          "takeaways": [
+            "Il s’agit d’un reportage journalistique centré sur l’expérience d’une famille et ses questions sur d’éventuels effets d’exposition.",
+            "Un cas isolé ne peut déterminer si l’incendie a causé le cancer ; des études épidémiologiques sont nécessaires pour évaluer le risque dans les populations exposées.",
+            "Les lecteurs doivent interpréter ces récits individuels avec prudence et se référer à des études scientifiques ou des enquêtes officielles pour tirer des conclusions sur les risques environnementaux de cancer."
+          ]
+        },
+        "de": {
+          "title": "Familie sucht Antworten zu möglichem Zusammenhang zwischen giftigem Lagunenbrand und seltenem tödlichem Krebs",
+          "summary": "Ein BBC‑Bericht begleitet eine Familie, die untersucht, ob eine Exposition während eines giftigen Lagunenbrands zu einer Lungenkrebserkrankung des Mannes beigetragen haben könnte, die 14 Jahre später diagnostiziert wurde. Der Artikel ist ein individueller Fall und journalistische Recherche, keine kontrollierte wissenschaftliche Studie, die Exposition und Krebs verknüpft.",
+          "whyItMatters": "Umweltbelastungen können begründete Sorgen über langfristige Krebsrisiken auslösen; Einzelfallberichte können weitere epidemiologische Untersuchungen anstoßen, aber sie allein können keine Kausalität nachweisen.",
+          "takeaways": [
+            "Dies ist ein journalistischer Fallbericht, der die Erfahrungen einer Familie und Fragen zu möglichen Auswirkungen einer Exposition beleuchtet.",
+            "Ein einzelner Fall kann nicht klären, ob der Brand die Krebserkrankung verursacht hat; epidemiologische Studien sind erforderlich, um das Risiko in exponierten Populationen zu beurteilen.",
+            "Lesende sollten Einzelfälle vorsichtig interpretieren und auf wissenschaftliche Studien oder behördliche Untersuchungen achten, um Schlussfolgerungen über Umwelt‑Krebsrisiken zu ziehen."
+          ]
+        },
+        "pt-br": {
+          "title": "Família busca respostas sobre possível ligação entre incêndio em lagoa tóxica e câncer raro fatal",
+          "summary": "Uma reportagem da BBC acompanha uma família que investiga se a exposição durante um incêndio em uma lagoa tóxica contribuiu para o câncer de pulmão de um homem diagnosticado 14 anos depois. O artigo é um caso individual e uma investigação jornalística, não um estudo científico controlado que ligue exposição e câncer.",
+          "whyItMatters": "Exposições ambientais podem gerar preocupações legítimas sobre risco de câncer a longo prazo; relatos individuais podem motivar investigações epidemiológicas adicionais, mas por si só não estabelecem causalidade.",
+          "takeaways": [
+            "Trata‑se de um relato jornalístico de caso focado na experiência de uma família e em perguntas sobre possíveis efeitos de exposição.",
+            "Um único caso não pode determinar se o incêndio causou o câncer; são necessários estudos epidemiológicos para avaliar o risco em populações expostas.",
+            "Leitores devem interpretar relatos individuais com cautela e buscar estudos científicos ou investigações oficiais para tirar conclusões sobre riscos ambientais de câncer."
+          ]
+        },
+        "hu": {
+          "title": "Család válaszokat keres arra, hogy a mérgező lagúna tűz okozta‑e a férj ritka halálos rákját",
+          "summary": "A BBC riport egy családot követ, amely azt vizsgálja, hozzájárulhatott‑e egy mérgező lagúna tüze egy férfi tüdőrákjához, amelyet 14 évvel később diagnosztizáltak. A cikk egyéni esetet és újságírói vizsgálatot ismertet, nem kontrollált tudományos tanulmányt az expozíció és a rák közötti kapcsolatról.",
+          "whyItMatters": "A környezeti expozíciók jogos aggodalmakat vethetnek fel a hosszú távú rákkockázattal kapcsolatban; egyéni történetek ösztönözhetnek további epidemiológiai vizsgálatokat, de önmagukban nem állítanak fel oksági kapcsolatot.",
+          "takeaways": [
+            "Ez egy újságírói esettanulmány, amely egy család tapasztalatára és az expozícióval kapcsolatos kérdésekre összpontosít.",
+            "Egyetlen eset nem tudja megállapítani, hogy a tűz okozta‑e a rákot; a kockázat felméréséhez epidemiológiai tanulmányokra van szükség az expozíciónak kitett populációkban.",
+            "Az olvasóknak óvatosan kell értelmezniük az egyéni beszámolókat, és tudományos tanulmányokra vagy hivatalos vizsgálatokra kell támaszkodniuk a környezeti rákkockázatokról alkotott következtetésekhez."
+          ]
+        },
+        "ar": {
+          "title": "عائلة تطلب إجابات عما إذا كان حريق بحيرة سامة تسبب في إصابة زوجها بسرطان نادر قاتل",
+          "summary": "يتتبع تقرير هيئة الإذاعة البريطانية (BBC) عائلة تحقق فيما إذا كانت التعرضات أثناء حريق بحيرة سامة قد ساهمت في إصابة رجل بسرطان الرئة شخص بعد 14 عاماً. التقرير يقدّم حالة فردية وتحقيقاً صحفياً، ولا يمثل دراسة علمية محكمة تربط التعرض بالسرطان.",
+          "whyItMatters": "يمكن أن تثير التعرضات البيئية مخاوف مشروعة بشأن مخاطر السرطان على المدى الطويل؛ قد تدفع القصص الفردية إلى مزيد من التحقيق الوبائي، لكن لا يمكنها وحدها إثبات السببية.",
+          "takeaways": [
+            "هذا تقرير صحفي يركّز على تجربة عائلة واحدة وأسئلتها حول آثار التعرض المحتمل.",
+            "الحالة الفردية الواحدة لا تحدد ما إذا كان الحريق سبباً للسرطان؛ تحتاج تقييمات المخاطر إلى دراسات وبائية على السكان المعرضين.",
+            "يجب على القرّاء تفسير السرديات الفردية بحذر والبحث عن دراسات علمية أو تحقيقات رسمية قبل استخلاص استنتاجات حول مخاطر السرطان البيئي."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=i-want-to-know-if-toxic-lagoon-fire-caused-my-husband-s-rare-dead-0959150f7dea",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/i-want-to-know-if-toxic-lagoon-fire-caused-my-husband-s-rare-dead-0959150f7dea-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/i-want-to-know-if-toxic-lagoon-fire-caused-my-husband-s-rare-dead-0959150f7dea-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Family seeks answers about a possible link between a toxic lagoon fire and a rare fatal cancer.\nStory summary: A BBC report follows a family investigating whether exposure during a toxic lagoon fire contributed to a man’s lung cancer diagnosed 14 years later. The article is an individual case and journalistic investigation rather than a controlled scientific study linking exposure and cancer..\nCategory: environmental health / cancer risk.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "appetite-suppression-causes-unrecognized-severe-calorie-drops-wit-6e5d7cec3d89",
+      "category": "nutrition / clinical research",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261118/Appetite-suppression-causes-unrecognized-severe-calorie-drops-without-dietary-guidance.aspx",
+      "sourceTitle": "Appetite suppression causes unrecognized severe calorie drops without dietary guidance",
+      "publishedAt": "Wed, 18 Nov 2026 00:15:41 -0500",
+      "languages": {
+        "en": {
+          "title": "Small exploratory study links appetite‑suppressing drugs to inadequate nutrient and energy intake in some people",
+          "summary": "A small exploratory study published in BMJ Nutrition Prevention & Health found that drugs used to suppress appetite (examples named in reporting include Wegovy and Mounjaro) were associated with significant reductions in calorie intake and, in some participants, inadequate intake of key nutrients when no dietary guidance was provided.",
+          "whyItMatters": "Appetite‑suppressing medications can substantially reduce food intake; clinicians and patients may need to monitor nutrient and energy intake, especially when formal dietary guidance is not provided, but this finding stems from a small exploratory study and does not establish causation for broader populations.",
+          "takeaways": [
+            "The study was small and exploratory; results show an association, not proof of causation across all users.",
+            "Reduced appetite can lead to unintended low calorie or nutrient intake, highlighting the potential role for dietary monitoring or guidance.",
+            "Larger, controlled studies are needed to quantify frequency and clinical impact of nutrient shortfalls in people taking these medications."
+          ]
+        },
+        "es": {
+          "title": "Estudio pequeño y exploratorio vincula fármacos supresores del apetito con ingestas insuficientes de energía y nutrientes en algunas personas",
+          "summary": "Un pequeño estudio exploratorio publicado en BMJ Nutrition Prevention & Health halló que fármacos usados para suprimir el apetito (el informe menciona ejemplos como Wegovy y Mounjaro) se asociaron con reducciones significativas en la ingesta calórica y, en algunos participantes, con ingestas inadecuadas de nutrientes clave cuando no se proporcionó orientación dietética.",
+          "whyItMatters": "Los medicamentos supresores del apetito pueden reducir considerablemente la ingesta de alimentos; clínicos y pacientes pueden necesitar vigilar la ingesta energética y de nutrientes, especialmente cuando no se ofrece orientación dietética formal, pero este hallazgo proviene de un estudio pequeño y exploratorio y no establece causalidad para poblaciones más amplias.",
+          "takeaways": [
+            "El estudio fue pequeño y exploratorio; los resultados muestran una asociación, no una prueba de causalidad en todos los usuarios.",
+            "La reducción del apetito puede conducir a ingestas calóricas o de nutrientes no intencionadamente bajas, lo que subraya el posible papel de la monitorización o la orientación nutricional.",
+            "Se necesitan estudios más grandes y controlados para cuantificar la frecuencia e impacto clínico de déficits nutricionales en personas que toman estos medicamentos."
+          ]
+        },
+        "ru": {
+          "title": "Небольшое исследование показывает связь между препаратами, подавляющими аппетит, и недостаточным потреблением энергии и питательных веществ у некоторых людей",
+          "summary": "Небольшое исследование-исследование, опубликованное в BMJ Nutrition Prevention & Health, обнаружило, что препараты, применяемые для подавления аппетита (в отчёте упоминаются примеры, такие как Wegovy и Mounjaro), были связаны со значительным снижением калорийного потребления и, у некоторых участников, с недостаточным поступлением ключевых питательных веществ при отсутствии диетических рекомендаций.",
+          "whyItMatters": "Препараты, подавляющие аппетит, могут существенно уменьшать потребление пищи; клиническим специалистам и пациентам может потребоваться контролировать приём энергии и питательных веществ, особенно если не предоставляется формальная диетическая поддержка, но это наблюдение получено в небольшом исследовании и не доказывает причинно-следственную связь для широкой популяции.",
+          "takeaways": [
+            "Исследование было небольшим и исследовательским; результаты показывают ассоциацию, а не доказательство причинно-следственной связи для всех пользователей.",
+            "Снижение аппетита может привести к непреднамеренно низкому потреблению калорий или питательных веществ, что подчёркивает возможную роль мониторинга питания или консультаций по питанию.",
+            "Необходимы более крупные контролируемые исследования, чтобы определить частоту и клиническое значение дефицитов питательных веществ у людей, принимающих эти препараты."
+          ]
+        },
+        "uk": {
+          "title": "Невелике експлоративне дослідження пов’язує препарати, що пригнічують апетит, з недостатнім надходженням калорій та поживних речовин у деяких людей",
+          "summary": "Невелике експлоративне дослідження, опубліковане в BMJ Nutrition Prevention & Health, виявило, що препарати, що пригнічують апетит (в повідомленнях згадуються приклади Wegovy і Mounjaro), були пов’язані зі значним зниженням споживання калорій і в деяких учасників — з недостатнім надходженням ключових поживних речовин за відсутності дієтичного супроводу.",
+          "whyItMatters": "Препарати, які зменшують апетит, можуть суттєво скорочувати прийом їжі; клініцистам і пацієнтам може знадобитися моніторинг споживання енергії та поживних речовин, особливо коли не надається формальне дієтичне керівництво, але це висновок з невеликого експлоративного дослідження і не встановлює причинно‑наслідкового зв’язку для ширших груп.",
+          "takeaways": [
+            "Дослідження було невелике й експлоративне; результати показують асоціацію, а не доведення причини для всіх користувачів.",
+            "Зниження апетиту може призвести до ненавмисно низького споживання калорій або поживних речовин, що підкреслює можливу роль моніторингу або дієтичного супроводу.",
+            "Потрібні більші контрольовані дослідження, щоб оцінити частоту та клінічний вплив дефіцитів поживних речовин у людей, які приймають ці препарати."
+          ]
+        },
+        "fr": {
+          "title": "Petite étude exploratoire lie les médicaments coupe‑faim à des apports énergétiques et en nutriments insuffisants chez certaines personnes",
+          "summary": "Une petite étude exploratoire publiée dans BMJ Nutrition Prevention & Health a constaté que des médicaments utilisés pour supprimer l’appétit (les comptes rendus citent par exemple Wegovy et Mounjaro) étaient associés à des réductions importantes de l’apport calorique et, chez certains participants, à des apports insuffisants en nutriments clés lorsqu’aucun accompagnement diététique n’était fourni.",
+          "whyItMatters": "Les médicaments qui réduisent l’appétit peuvent diminuer fortement la consommation alimentaire ; cliniciens et patients pourraient devoir surveiller l’apport énergétique et en nutriments, surtout en l’absence de conseils diététiques formels, mais il s’agit d’une petite étude exploratoire qui n’établit pas de causalité pour des populations plus larges.",
+          "takeaways": [
+            "L’étude est de petite taille et exploratoire ; les résultats montrent une association, pas une preuve de causalité généralisable.",
+            "La réduction de l’appétit peut conduire à un apport calorique ou en nutriments involontairement bas, ce qui souligne le rôle potentiel d’une surveillance diététique ou d’un accompagnement.",
+            "Des études plus larges et contrôlées sont nécessaires pour quantifier la fréquence et l’impact clinique des carences nutritionnelles chez les personnes prenant ces médicaments."
+          ]
+        },
+        "de": {
+          "title": "Kleine explorative Studie verknüpft appetitzügelnde Medikamente mit unzureichender Nährstoff‑ und Energieaufnahme bei einigen Personen",
+          "summary": "Eine kleine explorative Studie, veröffentlicht in BMJ Nutrition Prevention & Health, fand, dass Medikamente zur Appetithemmung (in Berichten genannte Beispiele: Wegovy und Mounjaro) mit erheblichen Reduktionen der Kalorienaufnahme und bei einigen Teilnehmenden mit unzureichender Aufnahme wichtiger Nährstoffe assoziiert waren, wenn keine ernährungsbezogene Beratung gegeben wurde.",
+          "whyItMatters": "Appetitzügelnde Medikamente können die Nahrungsaufnahme stark reduzieren; Kliniker und Patienten sollten Energie‑ und Nährstoffaufnahme überwachen, besonders wenn keine formale Ernährungsberatung erfolgt, wobei diese Erkenntnis aus einer kleinen explorativen Studie stammt und keinen kausalen Befund für breitere Populationen darstellt.",
+          "takeaways": [
+            "Die Studie war klein und explorativ; die Ergebnisse zeigen eine Assoziation, aber keinen Beweis für Kausalität für alle Anwender.",
+            "Verminderter Appetit kann zu unbeabsichtigt niedriger Kalorien‑ oder Nährstoffaufnahme führen und unterstreicht die mögliche Rolle von Ernährungsüberwachung oder Beratung.",
+            "Größere, kontrollierte Studien sind nötig, um Häufigkeit und klinische Relevanz von Nährstoffdefiziten bei Personen unter diesen Medikamenten zu quantifizieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Pequeno estudo exploratório associa medicamentos supressores de apetite à ingestão inadequada de energia e nutrientes em algumas pessoas",
+          "summary": "Um pequeno estudo exploratório publicado no BMJ Nutrition Prevention & Health encontrou que medicamentos usados para suprimir o apetite (exemplos citados nas reportagens incluem Wegovy e Mounjaro) foram associados a reduções significativas na ingestão calórica e, em alguns participantes, à ingestão inadequada de nutrientes-chave quando não foi fornecida orientação dietética.",
+          "whyItMatters": "Medicamentos que reduzem o apetite podem diminuir substancialmente a ingestão alimentar; clínicos e pacientes podem precisar monitorar a ingestão de energia e nutrientes, especialmente quando não há orientação dietética formal, mas essa constatação provém de um estudo exploratório pequeno e não estabelece causalidade para populações mais amplas.",
+          "takeaways": [
+            "O estudo foi pequeno e exploratório; os resultados mostram uma associação, não prova de causalidade para todos os usuários.",
+            "A redução do apetite pode levar a ingestão calórica ou de nutrientes involuntariamente baixa, destacando o possível papel do monitoramento ou orientação nutricional.",
+            "Estudos maiores e controlados são necessários para quantificar a frequência e o impacto clínico de deficiências nutricionais em pessoas que usam esses medicamentos."
+          ]
+        },
+        "hu": {
+          "title": "Egy kis feltáró vizsgálat az étvágycsökkentő szerek és egyeseknél előforduló elégtelen kalória‑ és tápanyagbeviteli kapcsolatáról",
+          "summary": "A BMJ Nutrition Prevention & Health‑ben közölt kis feltáró tanulmány szerint az étvágycsökkentő gyógyszerek (a beszámolók példaként említik a Wegovyt és a Mounjarót) összefüggésben voltak az energiafelvétel jelentős csökkenésével, és egyes résztvevők esetében, ha nem kaptak dietetikai útmutatást, kulcsfontosságú tápanyagok bevitele is elégtelennek bizonyult.",
+          "whyItMatters": "Az étvágycsökkentő gyógyszerek jelentősen csökkenthetik az ételfogyasztást; klinikusoknak és pácienseknek érdemes lehet figyelniük a tápanyag‑ és energiabevitelt, különösen ha nincs formális étrendi útmutatás, de ez a megállapítás kis feltáró vizsgálaton alapul és nem igazol okságot szélesebb populációkra.",
+          "takeaways": [
+            "A vizsgálat kicsi és feltáró jellegű; az eredmények asszociációt mutatnak, nem bizonyítják az okságot minden használóra nézve.",
+            "Az étvágy csökkenése nem szándékolt alacsony kalória‑ vagy tápanyagbevitelt eredményezhet, ami kiemeli a táplálkozási monitorozás vagy útmutatás lehetséges szerepét.",
+            "Nagyobb, kontrollált vizsgálatok szükségesek annak meghatározására, milyen gyakoriak és klinikailag jelentősek a tápanyaghiányok az ilyen gyógyszereket szedőknél."
+          ]
+        },
+        "ar": {
+          "title": "دراسة استكشافية صغيرة تربط أدوية قمع الشهية بانخفاضات غير معترف بها في السعرات والمواد المغذية لدى بعض الأشخاص",
+          "summary": "وجدت دراسة استكشافية صغيرة نُشرت في BMJ Nutrition Prevention & Health أن الأدوية المستخدمة لقمع الشهية (ذكرت التقارير أمثلة مثل Wegovy وMounjaro) ارتبطت بانخفاضات كبيرة في تناول السعرات الحرارية، وفي بعض المشاركين أدى غياب الإرشاد الغذائي إلى تناول غير كافٍ لبعض العناصر الغذائية الأساسية.",
+          "whyItMatters": "يمكن أن تقلل أدوية قمع الشهية بشكل كبير من تناول الطعام؛ قد يحتاج الأطباء والمرضى لمراقبة تناول الطاقة والمواد المغذية، خصوصاً عند غياب إرشاد غذائي منظم، لكن هذه النتيجة مستندة إلى دراسة استكشافية صغيرة ولا تثبت السببية على نطاق أوسع من السكان.",
+          "takeaways": [
+            "الدراسة صغيرة واستكشافية؛ تُظهر النتائج ارتباطاً وليس دليلاً على السببية لدى جميع المستخدمين.",
+            "قد يؤدي انخفاض الشهية إلى تناول سعرات أو عناصر غذائية أقل من اللازم، مما يبرز دور المراقبة الغذائية أو الإرشاد المحتمل.",
+            "هناك حاجة إلى دراسات أكبر ومضبوطة لتقدير مدى وتواتر وتأثير العجز الغذائي لدى متّخذي هذه الأدوية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=appetite-suppression-causes-unrecognized-severe-calorie-drops-wit-6e5d7cec3d89",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/appetite-suppression-causes-unrecognized-severe-calorie-drops-wit-6e5d7cec3d89-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/appetite-suppression-causes-unrecognized-severe-calorie-drops-wit-6e5d7cec3d89-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Small exploratory study links appetite‑suppressing drugs to inadequate nutrient and energy intake in some people.\nStory summary: A small exploratory study published in BMJ Nutrition Prevention & Health found that drugs used to suppress appetite (examples named in reporting include Wegovy and Mounjaro) were associated with significant reductions in calorie intake and, in some participants, inadequate intake of key nutrients when no dietary guidance was provided..\nCategory: nutrition / clinical research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "tiny-magnets-deep-inside-the-brain-could-transform-parkinson-s-tr-8130628d9be1",
+      "category": "neuroscience / neuromodulation",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
+      "sourceTitle": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
+      "publishedAt": "Tue, 17 Nov 2026 22:49:24 EST",
+      "languages": {
+        "en": {
+          "title": "Magnetic nanoparticles stimulated externally improved Parkinson‑like symptoms in mice",
+          "summary": "Scientists report a technique using magnetic nanoparticles injected into deep brain regions and external wearable magnetic stimulation to improve Parkinson’s‑like movement problems in mice. The approach produced large improvements in animal models without permanently implanted electrodes.",
+          "whyItMatters": "If translatable to humans, injectable particles plus external stimulation could offer a less invasive alternative to implanted deep brain stimulation devices; at present, evidence is limited to animal studies.",
+          "takeaways": [
+            "This is a preclinical study in mice demonstrating improved movement with magnetically activated nanoparticles and external stimulation.",
+            "The method avoids permanently implanted electrodes in the animal experiments but requires extensive safety and efficacy testing before any human application.",
+            "Promising animal results are an early step; human physiology, immune responses, and long‑term effects may differ."
+          ]
+        },
+        "es": {
+          "title": "Nanopartículas magnéticas estimuladas externamente mejoraron síntomas similares al Parkinson en ratones",
+          "summary": "Científicos informan una técnica que usa nanopartículas magnéticas inyectadas en regiones profundas del cerebro y estimulación magnética externa con dispositivo portátil para mejorar los problemas de movimiento similares al Parkinson en ratones. El enfoque produjo grandes mejoras en modelos animales sin electrodos implantados de forma permanente.",
+          "whyItMatters": "Si se pudiera traducir a humanos, partículas inyectables más estimulación externa podrían ofrecer una alternativa menos invasiva a los dispositivos de estimulación cerebral profunda implantados; actualmente, la evidencia se limita a estudios en animales.",
+          "takeaways": [
+            "Este es un estudio preclínico en ratones que demuestra mejoría del movimiento con nanopartículas activadas magnéticamente y estimulación externa.",
+            "El método evita electrodos implantados de forma permanente en los experimentos animales, pero requiere pruebas exhaustivas de seguridad y eficacia antes de cualquier aplicación humana.",
+            "Resultados prometedores en animales son un paso temprano; la fisiología humana, las respuestas inmunitarias y los efectos a largo plazo pueden diferir."
+          ]
+        },
+        "ru": {
+          "title": "Магнитные наночастицы, стимулируемые извне, улучшили симптомы, похожие на болезнь Паркинсона, у мышей",
+          "summary": "Учёные описывают метод с использованием магнитных наночастиц, вводимых в глубокие структуры мозга, и внешней портативной магнитной стимуляции для улучшения моторных нарушений, похожих на паркинсонизм, у мышей. Подход дал значительные улучшения в животных моделях без постоянной имплантации электродов.",
+          "whyItMatters": "Если это удастся перенести на людей, инъектируемые частицы в сочетании с внешней стимуляцией могут стать менее инвазивной альтернативой установленным устройствам глубинной стимуляции мозга; на данный момент доказательства ограничены исследованиями на животных.",
+          "takeaways": [
+            "Это доклиническое исследование на мышах, демонстрирующее улучшение движений при использовании магнитно активируемых наночастиц и внешней стимуляции.",
+            "В экспериментах метод обходится без постоянных имплантированных электродов, но перед применением у людей необходимы обширные исследования безопасности и эффективности.",
+            "Многообещающие результаты на животных — это ранний этап; физиология человека, иммунные реакции и долгосрочные эффекты могут отличаться."
+          ]
+        },
+        "uk": {
+          "title": "Магнітні наночастинки, активовані зовні, покращили паркінсоноподібні симптоми в мишей",
+          "summary": "Вчені описали техніку, яка використовує магнітні наночастинки, введені в глибокі ділянки мозку, і зовнішню носиму магнітну стимуляцію для покращення рухових порушень, схожих на хворобу Паркінсона, у мишей. Підхід дав помітні покращення в тваринних моделях без постійно імплантованих електродів.",
+          "whyItMatters": "Якщо це буде переносимим на людей, ін’єкційні частинки разом із зовнішньою стимуляцією можуть стати менш інвазивною альтернативою імплантованому глибинному стимулятору; наразі докази обмежуються дослідженнями на тваринах.",
+          "takeaways": [
+            "Це доклінічне дослідження на мишах, яке показало покращення рухів за допомогою магнітно активованих наночастинок і зовнішньої стимуляції.",
+            "У тваринних експериментах метод уникав постійно імплантованих електродів, але перед застосуванням у людей потрібні великі дослідження безпеки й ефективності.",
+            "Обнадійливі результати у тварин — це ранній етап; людська фізіологія, імунні реакції та довгострокові ефекти можуть відрізнятися."
+          ]
+        },
+        "fr": {
+          "title": "Des nanoparticules magnétiques stimulées de l’extérieur ont amélioré des symptômes de type Parkinson chez la souris",
+          "summary": "Des chercheurs rapportent une technique utilisant des nanoparticules magnétiques injectées dans des régions profondes du cerveau et une stimulation magnétique externe portable pour améliorer des troubles moteurs similaires à la maladie de Parkinson chez la souris. L’approche a produit de fortes améliorations dans des modèles animaux sans électrodes implantées en permanence.",
+          "whyItMatters": "Si elle est transposable à l’humain, l’injection de particules associée à une stimulation externe pourrait offrir une alternative moins invasive aux dispositifs de stimulation cérébrale profonde implantés ; pour l’heure, les preuves se limitent à des études animales.",
+          "takeaways": [
+            "Il s’agit d’une étude préclinique sur souris montrant une amélioration motrice avec des nanoparticules activées magnétiquement et une stimulation externe.",
+            "La méthode évite les électrodes implantées en permanence dans les expériences animales, mais nécessite des tests approfondis de sécurité et d’efficacité avant toute application humaine.",
+            "Des résultats prometteurs chez l’animal sont une étape précoce ; la physiologie humaine, les réponses immunitaires et les effets à long terme peuvent différer."
+          ]
+        },
+        "de": {
+          "title": "Magnetische Nanopartikel, extern stimuliert, verbesserten Parkinson‑ähnliche Symptome bei Mäusen",
+          "summary": "Wissenschaftler berichten über eine Technik, bei der magnetische Nanopartikel in tiefe Hirnregionen injiziert und durch externe, tragbare Magnetstimulation aktiviert werden, was Parkinson‑ähnliche Bewegungsprobleme bei Mäusen verbesserte. Der Ansatz führte in den Tiermodellen zu großen Verbesserungen, ohne permanent implantierte Elektroden einzusetzen.",
+          "whyItMatters": "Falls auf Menschen übertragbar, könnten injizierbare Partikel kombiniert mit externer Stimulation eine weniger invasive Alternative zu implantierten Geräten für tiefe Hirnstimulation darstellen; gegenwärtig beschränken sich die Belege auf Tierstudien.",
+          "takeaways": [
+            "Dies ist eine präklinische Studie an Mäusen, die verbesserte Bewegungen mit magnetisch aktivierten Nanopartikeln und externer Stimulation zeigte.",
+            "Die Methode vermeidet in den Tierexperimenten dauerhaft implantierte Elektroden, erfordert aber umfangreiche Sicherheits‑ und Wirksamkeitstests vor einer möglichen Anwendung beim Menschen.",
+            "Vielversprechende Tierergebnisse sind ein früher Schritt; menschliche Physiologie, Immunreaktionen und Langzeiteffekte können abweichen."
+          ]
+        },
+        "pt-br": {
+          "title": "Nanopartículas magnéticas estimuladas externamente melhoraram sintomas semelhantes aos de Parkinson em camundongos",
+          "summary": "Cientistas relatam uma técnica que usa nanopartículas magnéticas injetadas em regiões profundas do cérebro e estimulação magnética externa por dispositivo vestível para melhorar problemas de movimento semelhantes aos do Parkinson em camundongos. A abordagem produziu grandes melhorias em modelos animais sem eletrodos implantados permanentemente.",
+          "whyItMatters": "Se for traduzida para humanos, partículas injetáveis combinadas com estimulação externa poderiam oferecer uma alternativa menos invasiva aos dispositivos implantados de estimulação cerebral profunda; atualmente as evidências são limitadas a estudos em animais.",
+          "takeaways": [
+            "Trata‑se de um estudo pré‑clínico em camundongos que demonstrou melhora motora com nanopartículas ativadas magneticamente e estimulação externa.",
+            "O método evita eletrodos implantados permanentemente nos experimentos animais, mas exige testes extensivos de segurança e eficácia antes de qualquer aplicação humana.",
+            "Resultados promissores em animais são um passo inicial; fisiologia humana, respostas imunes e efeitos a longo prazo podem diferir."
+          ]
+        },
+        "hu": {
+          "title": "Mágneses nanorészecskék külső ingerléssel javították a Parkinson‑szerű tüneteket egerekben",
+          "summary": "A kutatók olyan technikát írnak le, amely mágneses nanorészecskéket juttatott be mélyagyi régiókba, majd külső hordható mágneses ingerléssel javította a Parkinson‑szerű mozgászavarokat egerekben. A megközelítés jelentős javulást hozott az állatmodellekben anélkül, hogy tartósan beültetett elektródákat kellett volna használni.",
+          "whyItMatters": "Ha emberre átültethető lenne, az injektálható részecskék és külső ingerlés kevésbé invazív alternatívát nyújthatnának a beültetett mély agyi stimulációs eszközökkel szemben; jelenleg azonban a bizonyítékok csak állatkísérletekre korlátozódnak.",
+          "takeaways": [
+            "Ez egy preklinikai vizsgálat egerekben, amelyben mágnesesen aktivált nanorészecskék és külső ingerlés javította a mozgást.",
+            "Az állatkísérletekben elkerüli a tartósan beültetett elektródákat, de emberi alkalmazás előtt kiterjedt biztonsági és hatékonysági vizsgálatokra van szükség.",
+            "Ígéretes állati eredmények korai lépést jelentenek; az emberi fiziológia, immunválaszok és hosszú távú hatások eltérhetnek."
+          ]
+        },
+        "ar": {
+          "title": "جزيئات مغناطيسية صغيرة نُشطت خارجياً حسّنت الأعراض الشبيهة بالباركنسون لدى الفئران",
+          "summary": "أبلغ العلماء عن تقنية تستخدم جزيئات مغناطيسية نُحقنت في مناطق عميقة من الدماغ وتحفيز مغناطيسي خارجي عبر أجهزة قابلة للارتداء لتحسين مشاكل الحركة الشبيهة بالباركنسون لدى الفئران. أنتجت الطريقة تحسناً كبيراً في النماذج الحيوانية دون الحاجة إلى أقطاب كهربائية مزروعة بشكل دائم.",
+          "whyItMatters": "إذا أمكن نقلها إلى البشر، قد توفر الجزيئات القابلة للحقن مع التحفيز الخارجي بديلاً أقل توغلاً عن أجهزة التحفيز الدماغي العميق المزروعة؛ حالياً الأدلة محدودة على الدراسات الحيوانية فقط.",
+          "takeaways": [
+            "هذه دراسة قبل سريرية على الفئران تُظهر تحسناً في الحركة باستخدام جزيئات مغناطيسية مفعّلة وتحفيز خارجي.",
+            "تتجنب الطريقة الأقطاب المزروعة دائمًا في التجارب الحيوانية، لكنها تتطلب اختبارات سلامة وفعالية واسعة قبل أي تطبيق بشري.",
+            "النتائج الواعدة في الحيوانات خطوة مبكرة؛ قد تختلف الفيسيولوجيا البشرية والاستجابات المناعية والتأثيرات طويلة الأمد."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=tiny-magnets-deep-inside-the-brain-could-transform-parkinson-s-tr-8130628d9be1",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tiny-magnets-deep-inside-the-brain-could-transform-parkinson-s-tr-8130628d9be1-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/tiny-magnets-deep-inside-the-brain-could-transform-parkinson-s-tr-8130628d9be1-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Magnetic nanoparticles stimulated externally improved Parkinson‑like symptoms in mice.\nStory summary: Scientists report a technique using magnetic nanoparticles injected into deep brain regions and external wearable magnetic stimulation to improve Parkinson’s‑like movement problems in mice. The approach produced large improvements in animal models without permanently implanted electrodes..\nCategory: neuroscience / neuromodulation.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "comparing-plasma-p-tau217-and-plasma-p-tau217-a-42-with-csf-bioma-3e7e84c3f67f",
+      "category": "neuroscience / diagnostics",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43587-026-01259-z",
+      "sourceTitle": "Comparing plasma p-tau217 and plasma p-tau217/Aβ 42 with CSF biomarkers for assessing Alzheimer’s disease pathology",
+      "publishedAt": "2026-11-18",
+      "languages": {
+        "en": {
+          "title": "Plasma p‑tau217 tests perform similarly to CSF tests for Alzheimer’s pathology",
+          "summary": "A Nature Aging study compared blood-based biomarkers (p‑tau217 and p‑tau217/Aβ42) with authorized cerebrospinal fluid (CSF) tests for detecting Alzheimer’s disease pathology. The authors report that these blood tests performed similarly to CSF assays in identifying Alzheimer’s-related changes in patients.",
+          "whyItMatters": "Blood tests are less invasive and more accessible than CSF sampling; if validated, they could broaden diagnostic access and help identify patients for further assessment or clinical trials.",
+          "takeaways": [
+            "The study compares diagnostic test performance and reports comparable accuracy between authorized blood and CSF tests in the studied sample.",
+            "Findings support the potential role of blood biomarkers for Alzheimer’s assessment, but implementation requires clinical validation, regulatory review, and consideration of population differences.",
+            "Equivalence in one study does not imply blood tests replace CSF testing in all clinical contexts; confirmatory and longitudinal data remain important."
+          ]
+        },
+        "es": {
+          "title": "Las pruebas de p‑tau217 en plasma rinden de forma similar a las pruebas en LCR para la patología del Alzheimer",
+          "summary": "Un estudio en Nature Aging comparó biomarcadores basados en sangre (p‑tau217 y p‑tau217/Aβ42) con pruebas autorizadas en líquido cefalorraquídeo (LCR) para detectar la patología del Alzheimer. Los autores informan que estas pruebas sanguíneas funcionaron de forma similar a los ensayos en LCR para identificar cambios relacionados con el Alzheimer en los pacientes estudiados.",
+          "whyItMatters": "Las pruebas de sangre son menos invasivas y más accesibles que la toma de LCR; si se validan, podrían ampliar el acceso al diagnóstico y ayudar a identificar pacientes para evaluaciones adicionales o ensayos clínicos.",
+          "takeaways": [
+            "El estudio compara el rendimiento diagnóstico y reporta una precisión comparable entre las pruebas autorizadas en sangre y en LCR en la muestra estudiada.",
+            "Los hallazgos respaldan el papel potencial de los biomarcadores sanguíneos para la evaluación del Alzheimer, pero su implementación requiere validación clínica, revisión regulatoria y consideración de diferencias entre poblaciones.",
+            "La equivalencia en un estudio no implica que las pruebas de sangre reemplacen a las de LCR en todos los contextos clínicos; siguen siendo importantes datos confirmatorios y longitudinales."
+          ]
+        },
+        "ru": {
+          "title": "Анализы p‑tau217 в плазме показывают сопоставимые результаты с анализами в ОМН для патологии болезни Альцгеймера",
+          "summary": "В исследовании, опубликованном в Nature Aging, сравнили биомаркеры в крови (p‑tau217 и соотношение p‑tau217/Aβ42) с авторизованными тестами в спинномозговой жидкости (СМЖ) для выявления патологии болезни Альцгеймера. Авторы сообщают, что эти анализы крови показали сопоставимую с СМЖ способность выявлять изменения, связанные с болезнью Альцгеймера, у исследованных пациентов.",
+          "whyItMatters": "Анализы крови менее инвазивны и более доступны, чем забор СМЖ; при валидации они могут расширить доступ к диагностике и помочь выявлять пациентов для дальнейшей оценки или клинических испытаний.",
+          "takeaways": [
+            "Исследование сравнивало диагностическую эффективность и сообщает о сопоставимой точности между авторизованными тестами в крови и в СМЖ в изученной выборке.",
+            "Результаты поддерживают потенциальную роль кровяных биомаркеров в оценке Альцгеймера, но внедрение требует клинической валидации, регуляторной оценки и учета различий между популяциями.",
+            "Эквивалентность в одном исследовании не означает, что анализы крови заменят тесты СМЖ во всех клинических контекстах; подтверждающие и продольные данные остаются важными."
+          ]
+        },
+        "uk": {
+          "title": "Плазмові тести p‑tau217 показують результати, схожі на аналізи ОМР у виявленні патології Альцгеймера",
+          "summary": "Дослідження в Nature Aging порівняло біомаркери в крові (p‑tau217 і p‑tau217/Aβ42) з авторизованими тестами спинномозкової рідини (CSF) для виявлення патології Альцгеймера. Автори повідомляють, що ці аналізи крові показали подібну ефективність до аналізів CSF у виявленні змін, пов’язаних з Альцгеймером, у дослідженій вибірці пацієнтів.",
+          "whyItMatters": "Аналізи крові менш інвазивні й доступніші, ніж забір CSF; якщо їх підтвердять, вони можуть розширити доступ до діагностики та допомогти виявляти пацієнтів для подальшої оцінки або клінічних випробувань.",
+          "takeaways": [
+            "Дослідження порівнює діагностичну ефективність і повідомляє про порівнянну точність між авторизованими тестами в крові та в CSF у дослідженій вибірці.",
+            "Результати підтримують потенційну роль біомаркерів у крові для оцінки Альцгеймера, але впровадження вимагає клінічної валідації, регуляторного перегляду та врахування відмінностей між популяціями.",
+            "Рівність результатів в одному дослідженні не означає, що тести крові замінять аналізи CSF у всіх клінічних контекстах; підтверджувальні та лонгітюдні дані залишаються важливими."
+          ]
+        },
+        "fr": {
+          "title": "Les tests plasmatiques p‑tau217 ont des performances comparables aux tests sur LCR pour la pathologie de la maladie d’Alzheimer",
+          "summary": "Une étude publiée dans Nature Aging a comparé des biomarqueurs sanguins (p‑tau217 et p‑tau217/Aβ42) à des tests autorisés sur le liquide céphalo‑rachidien (LCR) pour détecter la pathologie de la maladie d’Alzheimer. Les auteurs rapportent que ces tests sanguins ont présenté des performances similaires aux dosages sur LCR pour identifier les changements liés à Alzheimer chez les patients étudiés.",
+          "whyItMatters": "Les tests sanguins sont moins invasifs et plus accessibles que le prélèvement de LCR ; s’ils sont validés, ils pourraient élargir l’accès au diagnostic et aider à identifier des patients pour des évaluations complémentaires ou des essais cliniques.",
+          "takeaways": [
+            "L’étude compare la performance diagnostique et rapporte une précision comparable entre les tests sanguins et ceux sur LCR autorisés dans l’échantillon étudié.",
+            "Les résultats soutiennent le rôle potentiel des biomarqueurs sanguins pour l’évaluation d’Alzheimer, mais leur mise en œuvre nécessite une validation clinique, un examen réglementaire et la prise en compte des différences entre populations.",
+            "L’équivalence observée dans une étude ne signifie pas que les tests sanguins remplacent systématiquement les analyses sur LCR dans tous les contextes cliniques ; des données de confirmation et longitudinales restent nécessaires."
+          ]
+        },
+        "de": {
+          "title": "Plasma‑p‑tau217‑Tests schneiden ähnlich ab wie Liquor‑Tests für Alzheimer‑Pathologie",
+          "summary": "Eine Studie in Nature Aging verglich blutbasierte Biomarker (p‑tau217 und p‑tau217/Aβ42) mit zugelassenen Liquor‑Tests zur Erkennung von Alzheimer‑Pathologie. Die Autoren berichten, dass diese Bluttests in der untersuchten Stichprobe ähnlich wie Liquor‑Assays bei der Identifizierung Alzheimer‑assoziierter Veränderungen abschnitten.",
+          "whyItMatters": "Bluttests sind weniger invasiv und leichter zugänglich als Liquorentnahmen; wenn sie validiert werden, könnten sie den Zugang zur Diagnostik erweitern und helfen, Patientinnen und Patienten für weitergehende Untersuchungen oder klinische Studien zu identifizieren.",
+          "takeaways": [
+            "Die Studie vergleicht die Leistungsfähigkeit diagnostischer Tests und berichtet in der untersuchten Stichprobe vergleichbare Genauigkeit zwischen zugelassenen Blut‑ und Liquor‑Tests.",
+            "Die Ergebnisse stützen die mögliche Rolle von Blutbiomarkern bei der Alzheimer‑Beurteilung, doch eine Implementierung erfordert klinische Validierung, behördliche Prüfung und die Berücksichtigung von Unterschieden zwischen Populationen.",
+            "Eine Gleichwertigkeit in einer Studie bedeutet nicht, dass Bluttests Liquor‑Tests in allen klinischen Kontexten ersetzen; konfirmatorische und longitudinale Daten bleiben wichtig."
+          ]
+        },
+        "pt-br": {
+          "title": "Testes de p‑tau217 em plasma apresentam desempenho semelhante aos testes em LCR para patologia da doença de Alzheimer",
+          "summary": "Um estudo publicado em Nature Aging comparou biomarcadores em sangue (p‑tau217 e p‑tau217/Aβ42) com testes autorizados em líquido cefalorraquidiano (LCR) para detectar patologia da doença de Alzheimer. Os autores relatam que esses testes sanguíneos tiveram desempenho semelhante aos ensaios de LCR na identificação de alterações relacionadas ao Alzheimer nos pacientes estudados.",
+          "whyItMatters": "Exames sanguíneos são menos invasivos e mais acessíveis que a punção de LCR; se validados, poderiam ampliar o acesso ao diagnóstico e ajudar a identificar pacientes para avaliações adicionais ou para ensaios clínicos.",
+          "takeaways": [
+            "O estudo compara o desempenho dos testes diagnósticos e relata precisão comparável entre testes sanguíneos autorizados e testes de LCR na amostra estudada.",
+            "Os achados apoiam o potencial de biomarcadores sanguíneos para avaliação da doença de Alzheimer, mas a implementação requer validação clínica, revisão regulatória e consideração das diferenças populacionais.",
+            "A equivalência observada em um estudo não implica que testes sanguíneos substituam o LCR em todos os contextos clínicos; dados confirmatórios e longitudinais permanecem importantes."
+          ]
+        },
+        "hu": {
+          "title": "A plazma p‑tau217 tesztek hasonlóan teljesítettek az Alzheimer‑patológia kimutatásában, mint a CSF‑tesztek",
+          "summary": "A Nature Aging vizsgálatban véralapú biomarkereket (p‑tau217 és p‑tau217/Aβ42) hasonlítottak össze engedélyezett cerebrospinális folyadék (CSF) tesztekkel az Alzheimer‑kórra jellemző elváltozások kimutatására. A szerzők azt jelentik, hogy ezek a vértesztek a vizsgált minta alapján hasonlóan teljesítettek, mint a CSF‑vizsgálatok az Alzheimerrel kapcsolatos változások azonosításában.",
+          "whyItMatters": "A vérvizsgálatok kevésbé invazívak és hozzáférhetőbbek, mint a CSF‑mintavétel; ha további vizsgálatok igazolják őket, szélesebb diagnosztikus hozzáférést biztosíthatnak, és segíthetnek a betegek kiválasztásában további értékelésre vagy klinikai vizsgálatokhoz.",
+          "takeaways": [
+            "A tanulmány a diagnosztikai tesztek teljesítményét hasonlítja össze, és a vizsgált mintában hasonló pontosságot jelentett a vér‑ és CSF‑tesztek között.",
+            "Az eredmények alátámasztják a véralapú biomarkerek potenciális szerepét az Alzheimer‑értékelésben, de alkalmazásuk klinikai validálást, szabályozói vizsgálatot és a populációk közötti különbségek mérlegelését igényli.",
+            "Egyetlen tanulmányban mért egyenértékűség nem jelenti azt, hogy a vértesztek minden klinikai helyzetben helyettesítik a CSF‑teszteket; megerősítő és longitudinális adatok továbbra is fontosak."
+          ]
+        },
+        "ar": {
+          "title": "اختبارات p‑tau217 في البلازما تؤدي بشكل مشابه لاختبارات السائل النخاعي في كشف آفات الزهايمر",
+          "summary": "في دراسة نشرت في Nature Aging، قورنت مؤشرات حيوية في الدم (p‑tau217 و p‑tau217/Aβ42) مع اختبارات مرخّصة للسائل النخاعي (CSF) لاكتشاف آفات مرض الزهايمر. أفاد المؤلفون أن اختبارات الدم هذه أدت أداءً شبيهاً باختبارات CSF في تحديد التغييرات المرتبطة بالزهايمر لدى المرضى في العينة المدروسة.",
+          "whyItMatters": "اختبارات الدم أقل تدخلاً وأكثر سهولة من سحب CSF؛ إذا تم التحقق من صلاحيتها، فقد توسع الوصول للتشخيص وتساعد في تحديد المرضى للمزيد من التقييم أو للتجارب السريرية.",
+          "takeaways": [
+            "تُقارن الدراسة أداء اختبارات التشخيص وتفيد بدقة قابلة للمقارنة بين اختبارات الدم واختبارات CSF في العينة المدروسة.",
+            "النتائج تدعم الدور المحتمل للمؤشرات الحيوية بالدم في تقييم الزهايمر، لكن التطبيق يحتاج إلى تحقق سريري ومراجعة تنظيمية ومراعاة اختلافات السكان.",
+            "التكافؤ في دراسة واحدة لا يعني أن اختبارات الدم ستحل محل فحوص CSF في جميع السياقات السريرية؛ البيانات التأكيدية والطويلة الأجل لا تزال مهمة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=comparing-plasma-p-tau217-and-plasma-p-tau217-a-42-with-csf-bioma-3e7e84c3f67f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/comparing-plasma-p-tau217-and-plasma-p-tau217-a-42-with-csf-bioma-3e7e84c3f67f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/comparing-plasma-p-tau217-and-plasma-p-tau217-a-42-with-csf-bioma-3e7e84c3f67f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Plasma p‑tau217 tests perform similarly to CSF tests for Alzheimer’s pathology.\nStory summary: A Nature Aging study compared blood-based biomarkers (p‑tau217 and p‑tau217/Aβ42) with authorized cerebrospinal fluid (CSF) tests for detecting Alzheimer’s disease pathology. The authors report that these blood tests performed similarly to CSF assays in identifying Alzheimer’s-related changes in patients..\nCategory: neuroscience / diagnostics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "engineered-protein-targets-antibiotic-resistant-bacteria-and-toxi-0184f6d7a624",
+      "category": "infectious disease / regeneration",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/engineered-protein-targets-antibiotic-resistant-bacteria-and-toxins-in-bacterial-meningitis",
+      "sourceTitle": "Engineered protein targets antibiotic-resistant bacteria and toxins in bacterial meningitis",
+      "publishedAt": "18 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Karolinska researchers engineer a protein that kills resistant bacteria and neutralises toxins in meningitis models",
+          "summary": "Researchers at Karolinska Institutet developed an engineered antibacterial protein that both kills antibiotic‑resistant bacteria and neutralises bacterial toxins. In experimental models of bacterial meningitis, the approach reduced inflammation and neuronal damage.",
+          "whyItMatters": "Antibiotic resistance and toxin-mediated damage complicate bacterial meningitis; a bifunctional engineered protein that addresses both pathogens and toxins could offer a new experimental strategy for severe infections, pending further testing.",
+          "takeaways": [
+            "Results are reported from experimental (preclinical) models, not human trials.",
+            "The engineered protein showed dual activity—antibacterial killing and toxin neutralisation—which reduced markers of inflammation and neuronal injury in the models used.",
+            "Translating such approaches to patients requires additional preclinical safety work and eventual clinical trials to assess efficacy and risks."
+          ]
+        },
+        "es": {
+          "title": "Investigadores de Karolinska diseñan una proteína que mata bacterias resistentes y neutraliza toxinas en modelos de meningitis",
+          "summary": "Investigadores del Karolinska Institutet desarrollaron una proteína antibacteriana diseñada que tanto mata bacterias resistentes a los antibióticos como neutraliza toxinas bacterianas. En modelos experimentales de meningitis bacteriana, el enfoque redujo la inflamación y el daño neuronal.",
+          "whyItMatters": "La resistencia a antibióticos y el daño mediado por toxinas complican la meningitis bacteriana; una proteína diseñada bifuncional que ataque tanto a los patógenos como a las toxinas podría ser una nueva estrategia experimental para infecciones graves, pendiente de más pruebas.",
+          "takeaways": [
+            "Los resultados proceden de modelos experimentales (preclínicos), no de ensayos en humanos.",
+            "La proteína diseñada mostró actividad doble—eliminación bacteriana y neutralización de toxinas—lo que redujo marcadores de inflamación y lesión neuronal en los modelos utilizados.",
+            "La traducción de este enfoque a pacientes requiere trabajo adicional de seguridad preclínica y ensayos clínicos para evaluar eficacia y riesgos."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи Каролинского института создали белок, убивающий устойчивые бактерии и нейтрализующий токсины в моделях менингита",
+          "summary": "Исследователи Каролинского института разработали генно-инженерный антибактериальный белок, который одновременно уничтожает антибиотикорезистентные бактерии и нейтрализует бактериальные токсины. В экспериментальных моделях бактериального менингита этот подход снизил воспаление и повреждение нейронов.",
+          "whyItMatters": "Антибиотикорезистентность и повреждения, вызванные токсинами, осложняют бактериальный менингит; бифункциональный разработанный белок, воздействующий и на патогены, и на токсины, может предложить новую экспериментальную стратегию для тяжёлых инфекций, но требует дальнейших испытаний.",
+          "takeaways": [
+            "Результаты получены в экспериментальных (доклинических) моделях, не в исследованиях на людях.",
+            "Созданный белок продемонстрировал двойную активность — бактерицидное действие и нейтрализацию токсинов — что приводило к уменьшению маркеров воспаления и повреждения нейронов в использованных моделях.",
+            "Для переноса такого подхода к пациентам необходимы дополнительные доклинические исследования по безопасности и последующие клинические испытания для оценки эффективности и рисков."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники Каролінського інституту створили білок, що вбиває стійкі бактерії й нейтралізує токсини в моделях менінгіту",
+          "summary": "Дослідники з Karolinska Institutet розробили інженерний антибактеріальний білок, який одночасно вбиває антибіотикорезистентні бактерії й нейтралізує бактеріальні токсини. В експериментальних моделях бактеріального менінгіту підхід зменшував запалення та ушкодження нейронів.",
+          "whyItMatters": "Антибіотикорезистентність і ушкодження, зумовлені токсинами, ускладнюють лікування бактеріального менінгіту; біфункціональний інженерний білок, що одночасно діє на патогени й токсини, може запропонувати нову експериментальну стратегію для серйозних інфекцій за умови подальшого тестування.",
+          "takeaways": [
+            "Результати отримані в експериментальних (доклінічних) моделях, а не в людських випробуваннях.",
+            "Інженерний білок показав подвійну активність — убивство бактерій і нейтралізацію токсинів — що зменшило маркери запалення й ушкодження нейронів у використаних моделях.",
+            "Перенесення таких підходів на пацієнтів потребує додаткових доклінічних досліджень безпеки та подальших клінічних випробувань для оцінки ефективності і ризиків."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs du Karolinska conçoivent une protéine qui tue des bactéries résistantes et neutralise des toxines dans des modèles de méningite",
+          "summary": "Des chercheurs du Karolinska Institutet ont développé une protéine antibactérienne ingénierée qui tue les bactéries résistantes aux antibiotiques et neutralise les toxines bactériennes. Dans des modèles expérimentaux de méningite bactérienne, l’approche a réduit l’inflammation et les lésions neuronales.",
+          "whyItMatters": "La résistance aux antibiotiques et les dommages liés aux toxines compliquent la méningite bactérienne ; une protéine ingénierée bifonctionnelle ciblant à la fois les agents pathogènes et les toxines pourrait offrir une nouvelle stratégie expérimentale pour les infections graves, sous réserve de tests complémentaires.",
+          "takeaways": [
+            "Les résultats proviennent de modèles expérimentaux (précliniques), pas d’essais chez l’humain.",
+            "La protéine ingénierée a montré une double activité — action antibactérienne et neutralisation des toxines — qui a réduit des marqueurs d’inflammation et de lésion neuronale dans les modèles utilisés.",
+            "La traduction de ces approches en clinique nécessite des travaux précliniques supplémentaires sur la sécurité et des essais cliniques pour évaluer l’efficacité et les risques."
+          ]
+        },
+        "de": {
+          "title": "Karolinska‑Forscher entwickeln Protein, das resistente Bakterien abtötet und Toxine in Meningitis‑Modellen neutralisiert",
+          "summary": "Forschende am Karolinska Institutet entwickelten ein modifiziertes antibakterielles Protein, das sowohl antibiotikaresistente Bakterien abtötet als auch bakterielle Toxine neutralisiert. In experimentellen Modellen der bakteriellen Meningitis verringerte der Ansatz Entzündungen und neuronale Schäden.",
+          "whyItMatters": "Antibiotikaresistenz und toxinvermittelte Schäden erschweren bakterielle Meningitis; ein bifunktionales, gentechnisch entwickeltes Protein, das sowohl Erreger als auch Toxine adressiert, könnte eine neue experimentelle Strategie für schwere Infektionen bieten, sofern weitere Tests dies unterstützen.",
+          "takeaways": [
+            "Die Ergebnisse stammen aus experimentellen (präklinischen) Modellen, nicht aus Humanstudien.",
+            "Das entwickelte Protein zeigte eine doppelte Aktivität — bakterizide Wirkung und Toxinneutralisation — und reduzierte damit in den verwendeten Modellen Marker für Entzündung und neuronale Schädigung.",
+            "Die Übertragung solcher Ansätze auf Patientinnen und Patienten erfordert zusätzliche präklinische Sicherheitsprüfungen und schließlich klinische Studien zur Bewertung von Wirksamkeit und Risiken."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores do Karolinska desenvolvem proteína que mata bactérias resistentes e neutraliza toxinas em modelos de meningite",
+          "summary": "Pesquisadores do Karolinska Institutet desenvolveram uma proteína antibacteriana engenheirada que tanto mata bactérias resistentes a antibióticos quanto neutraliza toxinas bacterianas. Em modelos experimentais de meningite bacteriana, a abordagem reduziu inflamação e danos neuronais.",
+          "whyItMatters": "Resistência a antibióticos e danos mediados por toxinas complicam a meningite bacteriana; uma proteína engenheirada bifuncional que atue sobre patógenos e toxinas poderia oferecer uma nova estratégia experimental para infecções graves, sujeita a testes adicionais.",
+          "takeaways": [
+            "Os resultados foram obtidos em modelos experimentais (pré‑clínicos), não em ensaios com humanos.",
+            "A proteína engenheirada mostrou atividade dupla — ação antibacteriana e neutralização de toxinas — reduzindo marcadores de inflamação e lesão neuronal nos modelos utilizados.",
+            "A tradução dessas abordagens para pacientes exige estudos pré‑clínicos adicionais de segurança e, eventualmente, ensaios clínicos para avaliar eficácia e riscos."
+          ]
+        },
+        "hu": {
+          "title": "A Karolinska kutatói olyan fehérjét terveztek, amely ellenálló baktériumokat öl és semlegesíti a toxinokat meningitis‑modellekben",
+          "summary": "A Karolinska Institutet kutatói egy olyan mérnöki úton létrehozott antibakteriális fehérjét fejlesztettek ki, amely egyszerre pusztítja az antibiotikum‑rezisztens baktériumokat és semlegesíti a bakteriális toxinokat. Kísérleti bakteriális meningitiszmodellekben a megközelítés csökkentette a gyulladást és az idegsejtkárosodást.",
+          "whyItMatters": "Az antibiotikum‑rezisztencia és a toxinok okozta károsodás megnehezítik a bakteriális meningitisz kezelését; egy kétfunkciós, mérnökileg előállított fehérje, amely egyszerre célozza a kórokozókat és a toxinokat, új kísérleti stratégiát kínálhat súlyos fertőzésekhez, további tesztelésig.",
+          "takeaways": [
+            "Az eredmények kísérleti (preklinikai) modellekből származnak, nem humán vizsgálatokból.",
+            "A mérnökölt fehérje kettős aktivitást mutatott—antibakteriális ölés és toxinsemlegesítés—ami csökkentette a modellekben a gyulladás és az idegi sérülés jelzőit.",
+            "Az ilyen megközelítések betegekre történő átültetése további preklinikai biztonsági vizsgálatokat és végül klinikai vizsgálatokat igényel az eredményesség és a kockázatok felméréséhez."
+          ]
+        },
+        "ar": {
+          "title": "باحثو كارولينسكا يصممون بروتيناً يقتل البكتيريا المقاومة للمضادات الحيوية ويعادل السموم في نماذج التهاب السحايا",
+          "summary": "طور باحثون في معهد كارولينسكا بروتيناً مضاداً للميكروبات بشكل هندسي يقتل البكتيريا المقاومة للمضادات الحيوية ويقضي على السموم البكتيرية. في نماذج تجريبية لالتهاب السحايا البكتيري، قلّلت الطريقة من الالتهاب والضرر العصبي.",
+          "whyItMatters": "تُعقّد مقاومة المضادات والضرر الناتج عن السموم علاج التهاب السحايا البكتيري؛ قد يوفر بروتين هندسي ثنائي الوظيفة يعالج الممرضات والسموم معاً استراتيجية تجريبية جديدة للالتهابات الشديدة، لكن ذلك يتطلب اختبارات إضافية.",
+          "takeaways": [
+            "تأتي النتائج من نماذج تجريبية (قبل سريرية)، وليست من تجارب بشرية.",
+            "أظهر البروتين المهندَس نشاطاً مزدوجاً—قتل بكتيري ومعادلة السموم—مما خفّض مؤشرات الالتهاب وإصابة الخلايا العصبية في النماذج المستخدمة.",
+            "تحويل مثل هذه المقاربات إلى مرضى يتطلب أعمال سلامة قبل سريرية إضافية وتجارب سريرية لتقييم الفعالية والمخاطر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=engineered-protein-targets-antibiotic-resistant-bacteria-and-toxi-0184f6d7a624",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/engineered-protein-targets-antibiotic-resistant-bacteria-and-toxi-0184f6d7a624-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/engineered-protein-targets-antibiotic-resistant-bacteria-and-toxi-0184f6d7a624-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Karolinska researchers engineer a protein that kills resistant bacteria and neutralises toxins in meningitis models.\nStory summary: Researchers at Karolinska Institutet developed an engineered antibacterial protein that both kills antibiotic‑resistant bacteria and neutralises bacterial toxins. In experimental models of bacterial meningitis, the approach reduced inflammation and neuronal damage..\nCategory: infectious disease / regeneration.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "fda-adds-another-player-in-alk-positive-lung-cancer-e714d910cd01",
+      "category": "cancer / treatment",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/hematologyoncology/lungcancer/123937",
+      "sourceTitle": "FDA Adds Another Player in ALK-Positive Lung Cancer",
+      "publishedAt": "Tue, 17 Nov 2026 17:29:15 -0500",
+      "languages": {
+        "en": {
+          "title": "FDA grants accelerated approval to neladalkib for previously treated ALK‑positive NSCLC",
+          "summary": "The FDA granted accelerated approval to neladalkib (Nelkarmi), a third‑generation ALK inhibitor, for patients with previously treated advanced ALK‑positive non‑small cell lung cancer. The drug is the seventh ALK‑targeted therapy approved for this indication.",
+          "whyItMatters": "Expanded treatment options can benefit patients with ALK‑positive lung cancer, particularly after progression on earlier therapies; accelerated approvals typically require confirmatory trials to verify clinical benefit and long‑term safety.",
+          "takeaways": [
+            "Approval was via the FDA’s accelerated pathway and applies to previously treated advanced ALK‑positive NSCLC.",
+            "This adds to an already crowded class of ALK inhibitors, underscoring the need to understand comparative efficacy, sequencing, resistance patterns, and side‑effect profiles.",
+            "Accelerated approval indicates ongoing confirmatory studies will be needed to establish longer‑term benefit."
+          ]
+        },
+        "es": {
+          "title": "La FDA concede aprobación acelerada a neladalkib para el NSCLC ALK‑positivo previamente tratado",
+          "summary": "La FDA otorgó la aprobación acelerada a neladalkib (Nelkarmi), un inhibidor ALK de tercera generación, para pacientes con carcinoma no microcítico de pulmón avanzado ALK‑positivo previamente tratado. El fármaco es la séptima terapia dirigida a ALK aprobada para esta indicación.",
+          "whyItMatters": "La ampliación de opciones terapéuticas puede beneficiar a pacientes con cáncer de pulmón ALK‑positivo, especialmente tras la progresión con terapias previas; las aprobaciones aceleradas suelen requerir ensayos confirmatorios para verificar el beneficio clínico y la seguridad a largo plazo.",
+          "takeaways": [
+            "La aprobación se otorgó a través de la vía acelerada de la FDA y se aplica a NSCLC avanzado ALK‑positivo previamente tratado.",
+            "Esto añade una opción más a una clase ya numerosa de inhibidores ALK, lo que subraya la necesidad de entender la eficacia comparativa, el orden de uso, los patrones de resistencia y los perfiles de efectos secundarios.",
+            "La aprobación acelerada indica que se necesitarán estudios confirmatorios continuos para establecer el beneficio a largo plazo."
+          ]
+        },
+        "ru": {
+          "title": "FDA выдала ускоренное одобрение неладалкибу для ранее лечившихся пациентов с ALK‑позитивным НМРЛ",
+          "summary": "FDA предоставила ускоренное одобрение неладалкибу (Nelkarmi), ингибитору ALK третьего поколения, для пациентов с ранее леченным распространённым ALK‑позитивным немелкоклеточным раком лёгкого. Препарат стал седьмым таргетным средством против ALK, одобренным для этой показании.",
+          "whyItMatters": "Расширение терапевтических опций может быть полезно пациентам с ALK‑позитивным раком лёгкого, особенно после прогрессирования на предыдущих терапиях; ускоренные одобрения обычно требуют подтверждающих исследований для верификации клинической пользы и долгосрочной безопасности.",
+          "takeaways": [
+            "Одобрение получено через ускоренную процедуру FDA и относится к ранее лечившимся пациентам с распространённым ALK‑позитивным НМРЛ.",
+            "Это добавляет ещё один препарат в уже многочисленный класс ингибиторов ALK, что подчёркивает необходимость понимания сравнительной эффективности, последовательности терапии, механизмов резистентности и профилей побочных эффектов.",
+            "Ускоренное одобрение означает, что будут нужны подтверждающие исследования для установления долгосрочной пользы."
+          ]
+        },
+        "uk": {
+          "title": "FDA надала прискорене затвердження неладалкибу для раніше лікуваного НМРЛ з позитивністю по ALK",
+          "summary": "FDA надала прискорене затвердження неладалкибу (Nelkarmi), інгібітора ALK третього покоління, для пацієнтів з раніше лікуваним прогресуючим ALK‑позитивним недрібноклітинним раком легень. Це вже сьомий препарат, націлений на ALK, затверджений для цієї індикації.",
+          "whyItMatters": "Розширення варіантів лікування може бути корисним для пацієнтів з ALK‑позитивним раком легень, особливо після прогресування на попередніх терапіях; при прискорених затвердженнях зазвичай потрібні підтверджувальні випробування для верифікації клінічної користі і довгострокової безпеки.",
+          "takeaways": [
+            "Затвердження відбулося через прискорену процедуру FDA і стосується раніше лікуваного прогресуючого ALK‑позитивного НМРЛ.",
+            "Це доповнює вже великий клас інгібіторів ALK, що підкреслює необхідність розуміння відносної ефективності, послідовності лікувань, патернів резистентності та профілів побічних ефектів.",
+            "Прискорене затвердження означає, що потрібні подальші підтверджувальні дослідження для встановлення довгострокової користі."
+          ]
+        },
+        "fr": {
+          "title": "La FDA accorde une approbation accélérée à neladalkib pour le CBNPC ALK‑positif déjà traité",
+          "summary": "La FDA a accordé une approbation accélérée à neladalkib (Nelkarmi), un inhibiteur ALK de troisième génération, pour les patients atteints d’un cancer du poumon non à petites cellules (CBNPC) ALK‑positif avancé ayant déjà reçu un traitement. Il s’agit du septième traitement ciblant ALK approuvé pour cette indication.",
+          "whyItMatters": "L’élargissement des options thérapeutiques peut bénéficier aux patients atteints d’un cancer du poumon ALK‑positif, en particulier après progression sous thérapies antérieures ; les approbations accélérées nécessitent généralement des essais de confirmation pour vérifier le bénéfice clinique et la sécurité à long terme.",
+          "takeaways": [
+            "L’approbation a été obtenue via la voie accélérée de la FDA et s’applique aux patients atteints d’un CBNPC ALK‑positif précédemment traités.",
+            "Cela s’ajoute à une classe déjà nombreuse d’inhibiteurs ALK, ce qui souligne la nécessité de comprendre l’efficacité comparative, l’enchaînement des traitements, les schémas de résistance et les profils d’effets indésirables.",
+            "L’approbation accélérée indique que des études de confirmation sont en cours pour établir un bénéfice à plus long terme."
+          ]
+        },
+        "de": {
+          "title": "FDA erteilt beschleunigte Zulassung für Neladalkib bei vorbehandeltem ALK‑positivem NSCLC",
+          "summary": "Die FDA erteilte eine beschleunigte Zulassung für Neladalkib (Nelkarmi), einen Dritt‑Generations‑ALK‑Inhibitor, für Patientinnen und Patienten mit vorbehandeltem fortgeschrittenem ALK‑positivem nicht‑kleinzelligem Lungenkarzinom. Das Medikament ist die siebte ALK‑gerichtete Therapie für diese Indikation.",
+          "whyItMatters": "Erweiterte Behandlungsoptionen können Betroffenen mit ALK‑positivem Lungenkrebs helfen, insbesondere nach Progression unter früheren Therapien; beschleunigte Zulassungen erfordern meist Bestätigungsstudien, um den klinischen Nutzen und die Langzeitsicherheit zu verifizieren.",
+          "takeaways": [
+            "Die Zulassung erfolgte über das beschleunigte Verfahren der FDA und gilt für vorbehandeltes fortgeschrittenes ALK‑positives NSCLC.",
+            "Dies ergänzt eine bereits große Klasse von ALK‑Inhibitoren und unterstreicht die Notwendigkeit, vergleichende Wirksamkeit, Reihenfolge der Therapien, Resistenzmuster und Nebenwirkungsprofile zu verstehen.",
+            "Die beschleunigte Zulassung deutet darauf hin, dass laufende Bestätigungsstudien erforderlich sind, um den langfristigen Nutzen zu belegen."
+          ]
+        },
+        "pt-br": {
+          "title": "FDA concede aprovação acelerada a neladalkib para NSCLC ALK‑positivo previamente tratado",
+          "summary": "A FDA concedeu aprovação acelerada a neladalkib (Nelkarmi), um inibidor de ALK de terceira geração, para pacientes com câncer de pulmão não pequenas células (NSCLC) avançado ALK‑positivo previamente tratado. O medicamento é a sétima terapia direcionada a ALK aprovada para essa indicação.",
+          "whyItMatters": "Opções de tratamento ampliadas podem beneficiar pacientes com câncer de pulmão ALK‑positivo, especialmente após progressão com terapias anteriores; aprovações aceleradas normalmente exigem estudos confirmatórios para verificar benefício clínico e segurança a longo prazo.",
+          "takeaways": [
+            "A aprovação foi concedida pelo caminho acelerado da FDA e se aplica ao NSCLC ALK‑positivo avançado previamente tratado.",
+            "Isso se soma a uma classe já numerosa de inibidores de ALK, ressaltando a necessidade de entender eficácia comparativa, sequenciamento, padrões de resistência e perfis de efeitos colaterais.",
+            "A aprovação acelerada indica que estudos confirmatórios em andamento serão necessários para estabelecer benefício a longo prazo."
+          ]
+        },
+        "hu": {
+          "title": "Az FDA gyorsított jóváhagyást adott a neladalkibnek korábban kezelt ALK‑pozitív nem‑kissejtes tüdőrákban",
+          "summary": "Az FDA gyorsított jóváhagyást adott a neladalkibnek (Nelkarmi), egy harmadik generációs ALK‑gátlónak, korábban kezelt előrehaladott ALK‑pozitív nem‑kissejtes tüdőrákos betegek számára. A szer a hetedik ALK‑irányított terápia ebben az indikációban.",
+          "whyItMatters": "A kezelési lehetőségek bővülése előnyös lehet az ALK‑pozitív tüdőrákos betegek számára, különösen korábbi terápiák után bekövetkező progresszió esetén; a gyorsított jóváhagyások általában megerősítő vizsgálatokat igényelnek a klinikai előny és a hosszú távú biztonság igazolására.",
+          "takeaways": [
+            "A jóváhagyás az FDA gyorsított eljárásán keresztül történt, és korábban kezelt előrehaladott ALK‑pozitív NSCLC‑re vonatkozik.",
+            "Ez tovább növeli az ALK‑gátlók közötti választékot, ami szükségessé teszi az összehasonlító hatékonyság, terápiás sorrend, rezisztenciaminták és mellékhatásprofilok megértését.",
+            "A gyorsított jóváhagyás azt jelzi, hogy folyamatban vannak megerősítő vizsgálatok a hosszabb távú előnyök megállapítására."
+          ]
+        },
+        "ar": {
+          "title": "الـ FDA تمنح موافقة مسرّعة لنيلادالكِيب لعلاج سرطان الرئة غير صغير الخلايا الإيجابي لـ ALK بعد علاج سابق",
+          "summary": "منحت إدارة الغذاء والدواء الأمريكية موافقة مسرّعة لنيلادالكِيب (Nelkarmi)، وهو مثبط ALK من الجيل الثالث، لمرضى سرطان الرئة غير صغير الخلايا المتقدم الإيجابي لـ ALK الذين خضعوا لعلاجات سابقة. الدواء هو سابع علاج مستهدف لـ ALK الموافق عليه لهذا الداء.",
+          "whyItMatters": "توسيع خيارات العلاج يمكن أن يفيد مرضى سرطان الرئة الإيجابي لـ ALK، خصوصاً بعد تقدم المرض على علاجات سابقة؛ الموافقات المسرّعة عادة ما تتطلب تجارب تأكيدية للتحقق من الفائدة السريرية والسلامة على المدى الطويل.",
+          "takeaways": [
+            "جرت الموافقة عبر مسار الموافقة المسرّعة لدى الـ FDA وتطبق على حالات NSCLC المتقدمة الإيجابية لـ ALK بعد علاج سابق.",
+            "يضيف هذا خياراً آخر إلى فئة عقاقير مثبطات ALK، مما يستلزم فهم الفعالية المقارنة، الترتيب العلاجي، أنماط المقاومة وملفات الآثار الجانبية.",
+            "الموافقة المسرّعة تعني أن هناك حاجة إلى دراسات تأكيدية لتحديد الفائدة على المدى الطويل."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=fda-adds-another-player-in-alk-positive-lung-cancer-e714d910cd01",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fda-adds-another-player-in-alk-positive-lung-cancer-e714d910cd01-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/fda-adds-another-player-in-alk-positive-lung-cancer-e714d910cd01-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: FDA grants accelerated approval to neladalkib for previously treated ALK‑positive NSCLC.\nStory summary: The FDA granted accelerated approval to neladalkib (Nelkarmi), a third‑generation ALK inhibitor, for patients with previously treated advanced ALK‑positive non‑small cell lung cancer. The drug is the seventh ALK‑targeted therapy approved for this indication..\nCategory: cancer / treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "young-americans-have-no-memory-of-aids-at-its-worst-they-re-still-0da8e45ee7c9",
+      "category": "public health / prevention",
+      "sourceName": "theconversation.com",
+      "sourceUrl": "https://theconversation.com/young-americans-have-no-memory-of-aids-at-its-worst-theyre-still-at-risk-of-infection-even-when-hiv-doesnt-feel-like-a-threat-296118",
+      "sourceTitle": "Young Americans have no memory of AIDS at its worst – they’re still at risk of infection, even when HIV doesn’t feel like a threat",
+      "publishedAt": "2026-11-17T13:40:42Z",
+      "languages": {
+        "en": {
+          "title": "Commentary: Younger Americans lack lived memory of the AIDS crisis and underuse prevention tools",
+          "summary": "A Conversation analysis argues that many young Americans, unfamiliar with the worst years of the AIDS epidemic, are not using available preventive tools—despite medical advances that make HIV prevention and treatment highly effective. The piece highlights gaps between medical capability and uptake of prevention measures among at‑risk groups.",
+          "whyItMatters": "Preventive tools (e.g., testing, prophylaxis, and treatment) are effective when used, so understanding and addressing social and behavioural barriers to their uptake is important for reducing new infections; this is an analysis rather than new empirical research.",
+          "takeaways": [
+            "The article is a commentary/review of trends and challenges in prevention uptake rather than a primary research study.",
+            "Medical advances have greatly improved HIV prevention and treatment, but public perception and behaviour affect real‑world protection.",
+            "Addressing barriers to prevention requires public health efforts, education, and access strategies tailored to at‑risk populations."
+          ]
+        },
+        "es": {
+          "title": "Comentario: Los jóvenes estadounidenses carecen de memoria vivida de la crisis del SIDA y subutilizan herramientas de prevención",
+          "summary": "Un análisis en The Conversation sostiene que muchos jóvenes estadounidenses, por no haber vivido los peores años de la epidemia del SIDA, no usan las herramientas preventivas disponibles, a pesar de los avances médicos que hacen la prevención y el tratamiento del VIH muy eficaces. El artículo destaca brechas entre la capacidad médica y la adopción de medidas preventivas en grupos con riesgo.",
+          "whyItMatters": "Las herramientas preventivas (p. ej., pruebas, profilaxis y tratamiento) son eficaces cuando se usan, por lo que entender y abordar las barreras sociales y de comportamiento a su uso es importante para reducir nuevas infecciones; esto es un análisis más que una investigación empírica nueva.",
+          "takeaways": [
+            "El artículo es un comentario/revisión de tendencias y retos en la adopción de la prevención, no un estudio de investigación primaria.",
+            "Los avances médicos han mejorado mucho la prevención y el tratamiento del VIH, pero la percepción pública y el comportamiento influyen en la protección real.",
+            "Abordar las barreras a la prevención requiere esfuerzos de salud pública, educación y estrategias de acceso adaptadas a poblaciones en riesgo."
+          ]
+        },
+        "ru": {
+          "title": "Комментарий: молодые американцы не помнят худшие годы эпидемии СПИДа и недостаточно используют средства профилактики",
+          "summary": "Аналитическая статья в The Conversation утверждает, что многие молодые американцы, не знакомые с самыми тяжёлыми годами эпидемии СПИДа, не пользуются доступными средствами профилактики, несмотря на медицинские достижения, которые сделали профилактику и лечение ВИЧ высокоэффективными. В материале подчеркиваются разрывы между медицинскими возможностями и уровнем использования мер профилактики среди групп риска.",
+          "whyItMatters": "Средства профилактики (например, тестирование, профилактическая терапия и лечение) эффективны при их применении, поэтому важно понимать и устранять социальные и поведенческие барьеры к их использованию для снижения числа новых инфекций; это анализ, а не новое эмпирическое исследование.",
+          "takeaways": [
+            "Статья является комментарием/обзором тенденций и проблем внедрения профилактики, а не результатом первичного исследования.",
+            "Медицинские достижения значительно улучшили профилактику и лечение ВИЧ, но общественное восприятие и поведение влияют на реальную защиту.",
+            "Для преодоления барьеров к профилактике необходимы меры общественного здравоохранения, просвещение и стратегии доступа, адаптированные к группам риска."
+          ]
+        },
+        "uk": {
+          "title": "Коментар: молоді американці не пам’ятають пік епідемії СНІДу й недостатньо користуються засобами профілактики",
+          "summary": "Аналіз у The Conversation стверджує, що багато молодих американців, які не знайомі з найгіршими роками епідемії СНІДу, не використовують доступні превентивні інструменти, хоча медичні досягнення роблять профілактику й лікування ВІЛ дуже ефективними. У матеріалі підкреслюють розрив між медичними можливостями та використанням заходів профілактики серед груп підвищеного ризику.",
+          "whyItMatters": "Профілактичні інструменти (наприклад, тестування, профілактика та лікування) ефективні за умови їх використання, тому розуміння і подолання соціальних та поведінкових бар’єрів до їх застосування важливі для зменшення нових інфекцій; це аналітична стаття, а не нове емпіричне дослідження.",
+          "takeaways": [
+            "Стаття — це коментар/огляд тенденцій і проблем у використанні заходів профілактики, а не первинне дослідження.",
+            "Медичні досягнення значно покращили профілактику й лікування ВІЛ, але сприйняття суспільством і поведінка впливають на реальний захист.",
+            "Подолання бар’єрів до профілактики вимагає зусиль у сфері охорони здоров’я, освіти та стратегій доступу, орієнтованих на групи підвищеного ризику."
+          ]
+        },
+        "fr": {
+          "title": "Tribune : les jeunes Américains n’ont pas de mémoire vécue de la crise du sida et sous‑utilisent les outils de prévention",
+          "summary": "Une analyse dans The Conversation soutient que de nombreux jeunes Américains, peu familiers avec les pires années de l’épidémie du sida, n’utilisent pas les outils préventifs disponibles — malgré des avancées médicales qui rendent la prévention et le traitement du VIH très efficaces. Le texte met en lumière l’écart entre les capacités médicales et l’adoption des mesures de prévention chez les groupes à risque.",
+          "whyItMatters": "Les outils de prévention (par ex. tests, prophylaxie, traitement) sont efficaces lorsqu’ils sont utilisés ; comprendre et lever les barrières sociales et comportementales à leur adoption est important pour réduire les nouvelles infections ; il s’agit d’une analyse et non d’une recherche empirique inédite.",
+          "takeaways": [
+            "L’article est un commentaire/une revue des tendances et défis liés à l’adoption des mesures de prévention, pas une étude primaire.",
+            "Les progrès médicaux ont considérablement amélioré la prévention et le traitement du VIH, mais la perception publique et les comportements influencent la protection dans la pratique.",
+            "Surmonter les barrières à la prévention nécessite des actions de santé publique, de l’éducation et des stratégies d’accès adaptées aux populations à risque."
+          ]
+        },
+        "de": {
+          "title": "Kommentar: Jüngere Amerikaner haben keine lebendige Erinnerung an die AIDS‑Krise und nutzen Präventionsmittel zu wenig",
+          "summary": "Eine Analyse in The Conversation argumentiert, dass viele junge Amerikaner, denen die schlimmsten Jahre der AIDS‑Epidemie unbekannt sind, verfügbare Präventionsmittel nicht nutzen, obwohl medizinische Fortschritte HIV‑Prävention und ‑Behandlung sehr effektiv machen. Der Beitrag hebt Lücken zwischen medizinischer Leistungsfähigkeit und der Nutzung von Präventionsmaßnahmen in risikobehafteten Gruppen hervor.",
+          "whyItMatters": "Präventionsmittel (z. B. Testung, Prophylaxe und Behandlung) sind wirksam, wenn sie genutzt werden, daher ist es wichtig, soziale und verhaltensbedingte Barrieren für ihre Nutzung zu verstehen und anzugehen, um neue Infektionen zu reduzieren; dies ist eine Analyse und keine neue empirische Studie.",
+          "takeaways": [
+            "Der Artikel ist ein Kommentar/Review zu Trends und Herausforderungen bei der Nutzung von Präventionsmitteln und keine primäre Forschungsstudie.",
+            "Medizinische Fortschritte haben HIV‑Prävention und ‑Behandlung stark verbessert, aber Wahrnehmung und Verhalten in der Bevölkerung beeinflussen den realen Schutz.",
+            "Die Überwindung von Barrieren zur Prävention erfordert öffentliche Gesundheitsarbeit, Aufklärung und Zugangslösungen, die auf risikogruppenspezifische Bedürfnisse zugeschnitten sind."
+          ]
+        },
+        "pt-br": {
+          "title": "Comentário: Jovens americanos não têm memória vivida da crise da AIDS e subutilizam ferramentas de prevenção",
+          "summary": "Uma análise no The Conversation argumenta que muitos jovens americanos, sem experiência dos piores anos da epidemia de AIDS, não estão usando as ferramentas preventivas disponíveis — apesar de avanços médicos que tornaram a prevenção e o tratamento do HIV altamente eficazes. O texto destaca lacunas entre a capacidade médica e a adoção de medidas preventivas por populações de risco.",
+          "whyItMatters": "Ferramentas preventivas (por exemplo, testes, profilaxia e tratamento) são eficazes quando usadas; portanto, entender e abordar barreiras sociais e comportamentais à sua adoção é importante para reduzir novas infecções — trata‑se de uma análise, não de pesquisa empírica nova.",
+          "takeaways": [
+            "O artigo é um comentário/revisão sobre tendências e desafios na adoção de prevenção, não um estudo de pesquisa primária.",
+            "Avanços médicos melhoraram muito a prevenção e o tratamento do HIV, mas percepção pública e comportamento afetam a proteção no mundo real.",
+            "Superar barreiras à prevenção requer esforços de saúde pública, educação e estratégias de acesso adaptadas a populações em risco."
+          ]
+        },
+        "hu": {
+          "title": "Kommentár: a fiatalabb amerikaiak nem élték át a AIDS‑válság legsúlyosabb éveit, és alulhasználják a megelőző eszközöket",
+          "summary": "A The Conversation elemzése azt állítja, hogy sok fiatal amerikai, aki nem ismeri az AIDS járvány legsúlyosabb éveit, nem használja a elérhető megelőző eszközöket — annak ellenére, hogy az orvosi előrelépések hatékony megelőzést és kezelést tesznek lehetővé. A cikk rámutat a orvosi képességek és a megelőzés elterjedtsége közötti résekre a veszélyeztetett csoportoknál.",
+          "whyItMatters": "A megelőző eszközök (pl. tesztelés, profilaxis és kezelés) használat esetén hatékonyak, ezért fontos a társadalmi és viselkedési akadályok megértése és kezelése az új fertőzések csökkentése érdekében; ez elemző cikk, nem új empirikus kutatás.",
+          "takeaways": [
+            "A cikk kommentár/áttekintés a megelőzés elfogadottságának trendjeiről és kihívásairól, nem elsődleges kutatás.",
+            "Az orvosi fejlődés nagyban javította a HIV megelőzését és kezelését, de a közvélekedés és a viselkedés befolyásolja a valós világban elérhető védelmet.",
+            "A megelőzés akadályainak kezelése közegészségügyi intézkedéseket, oktatást és hozzáférési stratégiákat igényel, amelyek a veszélyeztetett csoportokhoz igazodnak."
+          ]
+        },
+        "ar": {
+          "title": "تعليق: الأمريكيون الأصغر سناً يفتقرون إلى ذاكرة عيش أزمة الإيدز ويقلّلون من استخدام أدوات الوقاية",
+          "summary": "تحلل مقالة في The Conversation أن العديد من الأمريكيين الشباب، غير المألوفين بأسوأ سنوات وباء الإيدز، لا يستخدمون الأدوات الوقائية المتاحة — رغم التقدم الطبي الذي يجعل من الوقاية والعلاج منعدياًّ فعالين. تُبرز القطعة الفجوات بين القدرة الطبية وتأثيرها الفعلي على اعتماد أدوات الوقاية بين الفئات المعرضة للخطر.",
+          "whyItMatters": "أدوات الوقاية (مثل الاختبار، والوقاية ما قبل التعرض، والعلاج) فعّالة عند استخدامها، لذا فإن فهم ومعالجة الحواجز الاجتماعية والسلوكية لاعتمادها مهم لتقليل الإصابات الجديدة؛ هذا تحليل رأي وليس بحثاً تجريبياً جديداً.",
+          "takeaways": [
+            "المقال تعليق/مراجعة لاتجاهات وتحديات اعتماد الوقاية، وليس دراسة بحثية أولية.",
+            "أحدثت التقدمات الطبية تحسناً كبيراً في الوقاية وعلاج فيروس HIV، لكن الإدراك العام والسلوك يؤثران على الحماية في العالم الواقعي.",
+            "معالجة حواجز الوقاية تتطلب جهوداً في الصحة العامة والتعليم واستراتيجيات وصول موجهة للفئات المعرضة للخطر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=young-americans-have-no-memory-of-aids-at-its-worst-they-re-still-0da8e45ee7c9",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/young-americans-have-no-memory-of-aids-at-its-worst-they-re-still-0da8e45ee7c9-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/young-americans-have-no-memory-of-aids-at-its-worst-they-re-still-0da8e45ee7c9-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Commentary: Younger Americans lack lived memory of the AIDS crisis and underuse prevention tools.\nStory summary: A Conversation analysis argues that many young Americans, unfamiliar with the worst years of the AIDS epidemic, are not using available preventive tools—despite medical advances that make HIV prevention and treatment highly effective. The piece highlights gaps between medical capability and uptake of prevention measures among at‑risk groups..\nCategory: public health / prevention.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "unit-of-health-report-explores-wearables-data-as-longevity-indica-f87768a7af11",
       "category": "longevity and digital health",
@@ -564,6 +1527,113 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Phase III STEP Young trial: semaglutide (Wegovy) produced significant BMI reductions in children 6–11 with obesity.\nStory summary: MedPage Today's coverage reports that in the phase III STEP Young trial, children aged 6 to 11 with obesity lost significant weight with the GLP-1 medication semaglutide (Wegovy). The report cites outcomes at week 68 indicating mean body-mass improvements, based on the trial data presented..\nCategory: obesity and weight-management.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "sour-tastes-hijack-the-tongue-to-mute-sweetness-bitterness-and-sa-a00015fa0f84",
+      "category": "neuroscience / sensory science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/sour-tastes-serotonin-neuroscience-32422/",
+      "sourceTitle": "Sour Tastes Hijack the Tongue to Mute Sweetness, Bitterness, and Saltiness",
+      "publishedAt": "Mon, 16 Nov 2026 20:29:25 +0000",
+      "languages": {
+        "en": {
+          "title": "Study finds taste buds release serotonin in response to sourness, suppressing other taste signals",
+          "summary": "A new study reports that taste buds can act as local processing hubs: in response to sour stimuli they release serotonin, which mutes sweet, bitter, and salty taste signals before information reaches the brain. The work describes a peripheral mechanism for taste integration.",
+          "whyItMatters": "Understanding how taste signals are combined at the level of taste buds can inform basic neuroscience of taste perception and could have implications for flavor science and nutrition research, but implications for diet or health remain indirect at this stage.",
+          "takeaways": [
+            "The study describes a peripheral taste mechanism—serotonin release from taste buds in response to sourness—that suppresses competing taste modalities.",
+            "These findings are about sensory processing rather than clinical outcomes; they explain why sour flavors can overpower other tastes.",
+            "Applications to diet or behaviour are speculative and would require further research in humans."
+          ]
+        },
+        "es": {
+          "title": "Un estudio encuentra que las papilas gustativas liberan serotonina en respuesta a la acidez, suprimiendo otras señales del gusto",
+          "summary": "Un estudio reciente informa que las papilas gustativas pueden actuar como centros de procesamiento locales: en respuesta a estímulos ácidos liberan serotonina, que atenúa las señales de sabor dulce, amargo y salado antes de que la información llegue al cerebro. El trabajo describe un mecanismo periférico de integración del gusto.",
+          "whyItMatters": "Comprender cómo se combinan las señales gustativas a nivel de las papilas puede informar la neurociencia básica de la percepción del gusto y podría tener implicaciones para la ciencia del sabor y la investigación nutricional, pero las implicaciones para la dieta o la salud siguen siendo indirectas en esta etapa.",
+          "takeaways": [
+            "El estudio describe un mecanismo periférico del gusto: liberación de serotonina por las papilas en respuesta a la acidez que suprime modalidades gustativas competidoras.",
+            "Estos hallazgos se refieren al procesamiento sensorial más que a resultados clínicos; explican por qué los sabores ácidos pueden dominar otros sabores.",
+            "Las aplicaciones a la dieta o el comportamiento son especulativas y requerirían más investigación en humanos."
+          ]
+        },
+        "ru": {
+          "title": "Исследование показало, что вкусовые почки выделяют серотонин в ответ на кислое, подавляя другие вкусовые сигналы",
+          "summary": "Новое исследование сообщает, что вкусовые почки могут действовать как локальные центры обработки: в ответ на кислые стимулы они выделяют серотонин, который ослабляет сигналы сладкого, горького и солёного ещё до того, как информация достигает мозга. Работа описывает периферический механизм интеграции вкуса.",
+          "whyItMatters": "Понимание того, как объединяются вкусовые сигналы на уровне вкусовых почек, может помочь в базовой нейронауке восприятия вкуса и иметь значение для науки о вкусах и питания, но последствия для диеты или здоровья пока косвенные.",
+          "takeaways": [
+            "В исследовании описан периферический механизм вкуса — выделение серотонина вкусовыми почками в ответ на кислотность, которое подавляет конкурирующие вкусовые модальности.",
+            "Эти выводы касаются обработки ощущений, а не клинических исходов; они объясняют, почему кислые вкусы могут подавлять другие.",
+            "Применение к питанию или поведению является спекулятивным и требует дальнейших исследований на людях."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження показує, що смакові бруньки вивільняють серотонін у відповідь на кисле, пригнічуючи інші смакові сигнали",
+          "summary": "Нове дослідження повідомляє, що смакові бруньки можуть діяти як локальні центри обробки: у відповідь на кислі стимули вони вивільняють серотонін, що притлумлює солодкі, гіркі та солоні сигнали до того, як інформація дійде до мозку. Робота описує периферичний механізм інтеграції смаку.",
+          "whyItMatters": "Розуміння того, як смакові сигнали поєднуються на рівні бруньок, може інформувати базову науку про відчуття смаку і мати наслідки для науки про смак і харчування, але наслідки для дієти чи здоров’я поки що залишаються опосередкованими.",
+          "takeaways": [
+            "Дослідження описує периферичний смаковий механізм — вивільнення серотоніну смаковими бруньками у відповідь на кисле, яке пригнічує інші смакові модальності.",
+            "Ці результати стосуються обробки сенсорної інформації, а не клінічних наслідків; вони пояснюють, чому кислі смаки можуть домінувати над іншими смаковими відчуттями.",
+            "Застосування до харчової поведінки чи дієти є спекулятивним і потребує додаткових досліджень у людей."
+          ]
+        },
+        "fr": {
+          "title": "L’étude montre que les papilles gustatives libèrent de la sérotonine en réponse à l’acide, supprimant d’autres signaux gustatifs",
+          "summary": "Une nouvelle étude rapporte que les papilles gustatives peuvent fonctionner comme des centres de traitement locaux : en réponse à des stimuli acides, elles libèrent de la sérotonine, qui atténue les signaux sucrés, amers et salés avant que l’information n’atteigne le cerveau. Ce travail décrit un mécanisme périphérique d’intégration du goût.",
+          "whyItMatters": "Comprendre comment les signaux gustatifs sont combinés au niveau des papilles peut éclairer la neurosciences fondamentale de la perception du goût et pourrait avoir des implications pour la science des arômes et la recherche en nutrition, mais les implications pour le régime alimentaire ou la santé restent indirectes à ce stade.",
+          "takeaways": [
+            "L’étude décrit un mécanisme gustatif périphérique — la libération de sérotonine par les papilles en réponse à l’acide — qui supprime d’autres modalités gustatives concurrentes.",
+            "Ces résultats concernent le traitement sensoriel plutôt que des issues cliniques ; ils expliquent pourquoi les saveurs acides peuvent dominer d’autres goûts.",
+            "Les applications pour l’alimentation ou le comportement sont spéculatives et requerraient des recherches supplémentaires chez l’humain."
+          ]
+        },
+        "de": {
+          "title": "Studie findet: Geschmacksknospen setzen Serotonin als Reaktion auf Säure frei und unterdrücken andere Geschmacksignale",
+          "summary": "Eine neue Studie berichtet, dass Geschmacksknospen als lokale Verarbeitungszentren fungieren können: als Antwort auf saure Reize setzen sie Serotonin frei, das süße, bittere und salzige Signale dämpft, bevor die Information das Gehirn erreicht. Die Arbeit beschreibt einen peripheren Mechanismus der Geschmacksintegration.",
+          "whyItMatters": "Das Verständnis, wie Geschmackssignale bereits auf Ebene der Geschmacksknospen kombiniert werden, kann die Grundlagenforschung zur Geschmackswahrnehmung informieren und könnte Implikationen für Geschmackswissenschaft und Ernährungsforschung haben; die Auswirkungen auf Ernährung oder Gesundheit sind derzeit jedoch indirekt.",
+          "takeaways": [
+            "Die Studie beschreibt einen peripheren Geschmacksmechanismus — Serotoninfreisetzung aus Geschmacksknospen als Reaktion auf Säure — der konkurrierende Geschmacksmodalitäten unterdrückt.",
+            "Die Befunde betreffen sensorische Verarbeitung und nicht klinische Ergebnisse; sie erklären, warum saure Aromen andere Geschmäcker überdecken können.",
+            "Anwendungen für Ernährung oder Verhalten sind spekulativ und würden weitere Forschung am Menschen erfordern."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo encontra que papilas gustativas liberam serotonina em resposta à acidez, suprimindo outros sinais de gosto",
+          "summary": "Um novo estudo relata que papilas gustativas podem atuar como centros de processamento locais: em resposta a estímulos ácidos, elas liberam serotonina, que ameniza sinais de doce, amargo e salgado antes que a informação chegue ao cérebro. O trabalho descreve um mecanismo periférico de integração do paladar.",
+          "whyItMatters": "Compreender como os sinais do paladar são combinados já no nível das papilas gustativas pode informar a neurociência básica da percepção do gosto e ter implicações para ciência de sabores e pesquisa em nutrição, mas as implicações para dieta ou saúde permanecem indiretas neste estágio.",
+          "takeaways": [
+            "O estudo descreve um mecanismo periférico do paladar — liberação de serotonina pelas papilas em resposta à acidez — que suprime modalidades gustativas concorrentes.",
+            "Esses achados tratam de processamento sensorial, não de desfechos clínicos; explicam por que sabores ácidos podem sobrepor outros gostos.",
+            "Aplicações para dieta ou comportamento são especulativas e exigiriam mais pesquisas em humanos."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: az ízlelőbimbók sós, keserű és édes jelzéseket tompítanak savas ingerre adott szerotonin‑felszabadulással",
+          "summary": "Egy új tanulmány arról számol be, hogy az ízlelőbimbók helyi feldolgozóközpontként működhetnek: savas ingerekre szerotonint bocsátanak ki, amely elnyomja az édes, keserű és sós ízjeleket, mielőtt az információ az agyba jutna. A munka egy perifériás mechanizmust ír le az ízek integrációjára.",
+          "whyItMatters": "Az, hogy az ízjelek hogyan egyesülnek az ízlelőbimbók szintjén, hozzájárulhat az ízérzékelés alapvető neurológiájának megértéséhez, és következményekkel lehet az ízek tudománya és a táplálkozás kutatása számára, de az étrendre vagy egészségre gyakorolt hatások jelenleg közvetettek és további kutatást igényelnek.",
+          "takeaways": [
+            "A tanulmány egy perifériás ízmechanizmust ír le—savas ingerre történő szerotoninfelszabadulást az ízlelőbimbókból—amely elnyomja a versengő ízmodalitásokat.",
+            "Ezek az eredmények érzékelési folyamatokra vonatkoznak, nem klinikai kimenetekre; megmagyarázzák, miért nyomhatják el a savas ízek a többi ízt.",
+            "Az étrendre vagy viselkedésre gyakorolt alkalmazások spekulatívak, és humán vizsgálatokat igényelnének."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تجد أن براعم التذوق تفرز السيروتونين استجابة للحموضة، مما يكبح إشارات الحلاوة والمرارة والملوحة",
+          "summary": "تُبلغ دراسة جديدة أن براعم التذوق قد تعمل كمراكز معالجة محلية: استجابة للمذاق الحامض تطلق السيروتونين الذي يضعف إشارات الحلو والمر والمالح قبل أن تصل المعلومات إلى الدماغ. تصف العمل آلية طرفية لدمج المذاقات.",
+          "whyItMatters": "فهم كيفية دمج إشارات المذاق على مستوى براعم التذوق يمكن أن يثري علم الأعصاب الأساسي لإدراك الطعم، وقد يكون له دلالات لعلم النكهات وبحوث التغذية، لكن تأثيراته على النظام الغذائي أو الصحة غير مباشرة وتتطلب مزيداً من البحث.",
+          "takeaways": [
+            "تصف الدراسة آلية طَرفية للمذاق—إطلاق السيروتونين من براعم التذوق استجابةً للحموضة—والتي تقمع الأنماط الحسية المتنافسة.",
+            "النتائج تتعلق بمعالجة الحسية لا بالمخرجات السريرية؛ وتفسر لماذا قد تطغى النكهات الحامضة على النكهات الأخرى.",
+            "التطبيقات على النظام الغذائي أو السلوك تخمينية وتتطلب بحوثاً إضافية في البشر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=sour-tastes-hijack-the-tongue-to-mute-sweetness-bitterness-and-sa-a00015fa0f84",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sour-tastes-hijack-the-tongue-to-mute-sweetness-bitterness-and-sa-a00015fa0f84-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/sour-tastes-hijack-the-tongue-to-mute-sweetness-bitterness-and-sa-a00015fa0f84-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study finds taste buds release serotonin in response to sourness, suppressing other taste signals.\nStory summary: A new study reports that taste buds can act as local processing hubs: in response to sour stimuli they release serotonin, which mutes sweet, bitter, and salty taste signals before information reaches the brain. The work describes a peripheral mechanism for taste integration..\nCategory: neuroscience / sensory science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "older-brains-lose-synchronization-between-movement-and-body-tempe-3bad153ce345",
@@ -132621,6 +133691,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-18-motivation-1-story-1",
+      "category": "everyday-habits",
+      "languages": {
+        "en": {
+          "title": "Maya's Lunch Prep",
+          "story": "Maya started prepping three lunches on Sunday evening so weekday mornings felt calmer. Before she ate, she opened the app and logged each packed meal — the sandwich, fruit, and yogurt — which helped her notice which combos kept her satisfied longer. On busy days she trusted the plan she already logged instead of guessing. Tracking became a simple step in her routine, not a test, and she learned which small swaps made her feel steady through the afternoon.",
+          "habit": "Log meals when you prep them.",
+          "appCta": "Open Calorie Bank Credit and track your packed meals today."
+        },
+        "es": {
+          "title": "Los almuerzos de Maya",
+          "story": "Maya empezó a preparar tres almuerzos los domingos por la tarde para que las mañanas entre semana fueran más tranquilas. Antes de comer, abría la app y registraba cada comida preparada — sándwich, fruta y yogur — y así pudo ver qué combinaciones la mantenían satisfecha más tiempo. En los días ocupados confiaba en el plan ya registrado en lugar de adivinar. Registrar pasó a ser un paso sencillo de su rutina, sin juicios, y aprendió qué pequeños cambios la ayudaban a sentirse estable por la tarde.",
+          "habit": "Registra las comidas cuando las prepares.",
+          "appCta": "Abre Calorie Bank Credit y registra tus almuerzos hoy."
+        },
+        "ru": {
+          "title": "Обеды Майи",
+          "story": "Майя стала готовить три обеда в воскресенье вечером, чтобы будние утра были спокойнее. Перед тем как есть, она открывала приложение и записывала каждый упакованный приём пищи — бутерброд, фрукт и йогурт — и так заметила, какие сочетания дольше дают чувство сытости. В напряжённые дни она полагалась на уже занесённый план, а не догадывалась. Ведение записей стало простым шагом в её рутине, без самокритики, и помогло понять, какие небольшие изменения делают её день более ровным.",
+          "habit": "Записывайте еду при её подготовке.",
+          "appCta": "Откройте Calorie Bank Credit и начните записывать свои обеды сегодня."
+        },
+        "uk": {
+          "title": "Обіди Майї",
+          "story": "Майя почала готувати три обіди в неділю ввечері, щоб будні ранки були спокійніші. Перед тим як поїсти, вона відкривала додаток і записувала кожну запаковану страву — бутерброд, фрукт і йогурт — і помічала, які поєднання довше її насичують. У зайняті дні вона покладалася на вже внесений план, а не гадала. Ведення записів стало простим кроком у її рутині без осуду, і допомогло зрозуміти, які маленькі зміни роблять день стабільнішим.",
+          "habit": "Записуйте страви у момент підготовки.",
+          "appCta": "Відкрийте Calorie Bank Credit і відстежуйте свої обіди вже сьогодні."
+        },
+        "fr": {
+          "title": "Les repas préparés de Maya",
+          "story": "Maya a commencé à préparer trois repas le dimanche soir pour que ses matins en semaine soient plus sereins. Avant de manger, elle ouvrait l’application et consignait chaque repas préparé — sandwich, fruit, yaourt — ce qui lui a permis de repérer quelles associations la tenaient rassasiée plus longtemps. Les jours chargés, elle se fiait au plan déjà enregistré plutôt que d’improviser. Le suivi est devenu une étape simple de sa routine, sans jugement, et elle a appris quels petits ajustements lui conviennent.",
+          "habit": "Enregistrez vos repas au moment de les préparer.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez vos repas aujourd’hui."
+        },
+        "de": {
+          "title": "Mayas Mittagessen",
+          "story": "Maya bereitete sonntags drei Mahlzeiten vor, damit die Wochentage morgens ruhiger verliefen. Bevor sie aß, öffnete sie die App und trug jede vorbereitete Mahlzeit ein — Sandwich, Obst, Joghurt — und merkte, welche Kombinationen sie länger sättigten. An hektischen Tagen verließ sie sich auf den bereits eingetragenen Plan statt zu raten. Das Tracking wurde ein einfacher Schritt in ihrer Routine, ohne Druck, und half ihr herauszufinden, welche kleinen Anpassungen den Nachmittag stabiler machen.",
+          "habit": "Trage Mahlzeiten ein, wenn du sie vorbereitest.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne deine Mittagessen heute auf."
+        },
+        "pt-br": {
+          "title": "Os almoços da Maya",
+          "story": "Maya começou a preparar três almoços no domingo à noite para que as manhãs da semana ficassem mais calmas. Antes de comer, ela abria o app e registrava cada refeição — sanduíche, fruta e iogurte — e percebeu quais combinações a mantinham satisfeita por mais tempo. Nos dias corridos, ela confiava no plano já registrado em vez de chutar. Registrar virou um passo simples na rotina, sem julgamentos, e ela descobriu pequenos ajustes que a faziam sentir mais equilibrada.",
+          "habit": "Registre as refeições ao prepará‑las.",
+          "appCta": "Abra o Calorie Bank Credit e registre seus almoços hoje."
+        },
+        "hu": {
+          "title": "Maya ebédjai",
+          "story": "Maya vasárnap esténként előkészített három ebédet, hogy a hétköznapok reggele nyugodtabbak legyenek. Mielőtt evett volna, megnyitotta az appot és leírta az elkészített ételeket — szendvics, gyümölcs, joghurt — így észrevette, mely kombinációk tartották jóllakottnak tovább. Forgalmas napokon a már rögzített tervre hagyatkozott a találgatás helyett. A naplózás egyszerű lépéssé vált a rutinjában, ítélkezés nélkül, és segített felismerni apró változtatásokat, amik kiegyensúlyozottabbá tették a délutánt.",
+          "habit": "Rögzítsd az ételeket készítéskor.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el rögzíteni ma."
+        },
+        "ar": {
+          "title": "غداء مايا",
+          "story": "بدأت مايا بتحضير ثلاثة وجبات غداء مساء الأحد لتكون صباحات الأسبوع أكثر هدوءًا. قبل أن تأكل، تفتح التطبيق وتسجّل كل وجبة مُحضّرة — سندويتش، فاكهة، زبادي — ومراقبة ذلك ساعدتها على معرفة أيّ تركيبات تُبقيها شبعانة لفترة أطول. في الأيام المزدحمة اعتمدت على الخطة المسجلة بدل التخمين. أصبح التتبع خطوة بسيطة ضمن روتينها، بلا أحكام، وتعلّمت أي تعديلات صغيرة تجعل فترة بعد الظهر أكثر استقرارًا.",
+          "habit": "سجّل وجباتك عند تحضيرها.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya's Lunch Prep.\nStory: Maya started prepping three lunches on Sunday evening so weekday mornings felt calmer. Before she ate, she opened the app and logged each packed meal — the sandwich, fruit, and yogurt — which helped her notice which combos kept her satisfied longer. On busy days she trusted the plan she already logged instead of guessing. Tracking became a simple step in her routine, not a test, and she learned which small swaps made her feel steady through the afternoon..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-18-motivation-2-story-2",
+      "category": "everyday-habits",
+      "languages": {
+        "en": {
+          "title": "Liam's Weekend Pattern",
+          "story": "Liam noticed that Saturdays felt different: he tended to graze while watching football and later wondered what he'd eaten. He started making a quick note in the app for each snack and drink, even the small ones. Over a few weeks he saw a pattern — certain times and triggers led to extra bites. Instead of judging himself, he used that insight to plan a satisfying snack earlier or to set a reminder to log. Tracking helped him make clearer, kinder choices about his routine.",
+          "habit": "Note snacks and drinks as you have them.",
+          "appCta": "Open Calorie Bank Credit and start tracking your weekend snacks today."
+        },
+        "es": {
+          "title": "El patrón de fin de semana de Liam",
+          "story": "Liam se dio cuenta de que los sábados eran distintos: tendía a picar mientras veía el partido y después no recordaba bien lo que había comido. Empezó a anotar rápidamente en la app cada snack y bebida, incluso los pequeños. En unas semanas vio un patrón: ciertos momentos y disparadores llevaban a bocados extra. En lugar de juzgarse, usó esa información para planear un snack que le satisficiera antes o para ponerse un recordatorio para registrar. Registrar le ayudó a tomar decisiones más claras y amables en su rutina.",
+          "habit": "Anota snacks y bebidas al consumirlos.",
+          "appCta": "Abre Calorie Bank Credit y registra tus snacks del fin de semana hoy."
+        },
+        "ru": {
+          "title": "Уикендовые привычки Лиама",
+          "story": "Лиам заметил, что субботы у него проходят иначе: он часто перекусывает во время футбола и потом не помнит, что съел. Он стал быстро записывать в приложении каждый перекус и напиток, даже небольшие. Через несколько недель проявился закономерный шаблон — определённые моменты и триггеры приводили к лишним укусам. Вместо самокритики он использовал это наблюдение, чтобы заранее запланировать сытный перекус или поставить напоминание о записи. Трекинг помогал принимать более ясные и тёплые решения.",
+          "habit": "Записывайте перекусы и напитки по мере их появления.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать свои уикенд‑перекусы сегодня."
+        },
+        "uk": {
+          "title": "Вихідні Ліама",
+          "story": "Ліам помітив, що суботи у нього інші: він часто перекушує під час перегляду матчу й потім не пам’ятає, що з’їв. Він почав швидко занотовувати в додаток кожен перекус і напій, навіть дрібні. За кілька тижнів виявився патерн — певні часи і тригери призводили до зайвих укусів. Замість осуду він використав це знання, щоб запланувати задовольняючий перекус раніше або поставити нагадування про запис. Відстеження допомогло робити ясніші, ніжніші вибори у рутині.",
+          "habit": "Записуйте перекуси та напої одразу.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати свої вихідні перекуси сьогодні."
+        },
+        "fr": {
+          "title": "Le week‑end de Liam",
+          "story": "Liam a remarqué que ses samedis étaient différents : il grignotait en regardant le match et n’arrivait pas toujours à se souvenir de tout ce qu’il avait pris. Il a donc commencé à noter rapidement dans l’app chaque snack et boisson, mêmes les petites portions. En quelques semaines, un schéma est apparu — certains moments et déclencheurs menaient à des prises supplémentaires. Sans jugement, il a utilisé cette information pour planifier un encas plus satisfaisant ou se mettre un rappel pour enregistrer. Le suivi l’a aidé à faire des choix plus clairs et bienveillants.",
+          "habit": "Notez snacks et boissons au fur et à mesure.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre vos snacks ce week‑end."
+        },
+        "de": {
+          "title": "Liams Wochenendroutine",
+          "story": "Liam bemerkte, dass Samstage anders waren: Er griff beim Fußballschauen gerne zum Naschen und wusste später nicht genau, was er gegessen hatte. Er begann, jeden Snack und jedes Getränk schnell in der App zu notieren, auch die kleinen. Nach ein paar Wochen zeigte sich ein Muster — bestimmte Zeiten und Auslöser führten zu Extra‑Bissen. Statt sich zu verurteilen, nutzte er diese Erkenntnis, um einen sättigenderen Snack einzuplanen oder eine Erinnerung zum Eintragen zu setzen. Das Tracking half ihm, klarere, freundlichere Entscheidungen zu treffen.",
+          "habit": "Notiere Snacks und Getränke direkt.",
+          "appCta": "Öffne Calorie Bank Credit und zeichne deine Wochenendsnacks heute auf."
+        },
+        "pt-br": {
+          "title": "O padrão do fim de semana do Liam",
+          "story": "Liam percebeu que os sábados eram diferentes: ele costumava beliscar enquanto via o jogo e depois não lembrava bem do que tinha comido. Começou a anotar rápido no app cada snack e bebida, até os pequenos. Em algumas semanas percebeu um padrão — certos momentos e gatilhos levavam a petiscos extras. Em vez de se cobrar, usou essa visão para planejar um lanche mais satisfatório antes ou colocar um lembrete para registrar. O acompanhamento ajudou a tomar decisões mais claras e gentis na rotina.",
+          "habit": "Anote snacks e bebidas assim que consumi‑los.",
+          "appCta": "Abra o Calorie Bank Credit e registre seus snacks do fim de semana hoje."
+        },
+        "hu": {
+          "title": "Liam hétvégi mintája",
+          "story": "Liam észrevette, hogy a szombatok máshogy alakulnak: gyakran nassolt meccsnézés közben, és később nem emlékezett pontosan, mit evett. Elkezdte gyorsan feljegyezni az appban minden nassolást és italt, még a kis dolgokat is. Pár hét alatt mintázat jelent meg — bizonyos időpontok és kiváltók extra falatokhoz vezettek. Ahelyett, hogy hibáztatta volna magát, ezt az információt felhasználta arra, hogy előre tervezzen egy kielégítőbb nasit, vagy emlékeztetőt állítson. A követés segített tisztábban, kedvesebben dönteni a rutinról.",
+          "habit": "Jegyezd fel a nasikat és italokat azonnal.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdd el követni a hétvégi nasijaidat ma."
+        },
+        "ar": {
+          "title": "روتين نهاية الأسبوع لليام",
+          "story": "لاحظ ليام أن أيام السبت تختلف: كان يميل إلى التهام الوجبات الخفيفة أثناء مشاهدة المباراة ثم لا يتذكر ما تناوله لاحقًا. بدأ بتدوين كل وجبة خفيفة وكل مشروب بسرعة في التطبيق، حتى القطع الصغيرة. بعد أسابيع قليلة لاحظ نمطًا — أوقات ومؤثرات معينة تقود إلى لقيمات إضافية. بدلًا من أن يحكم على نفسه، استخدم هذه الملاحظة لخطط لوجبة خفيفة تُشعره بالشبع مبكرًا أو ليضع تذكيرًا بالتسجيل. ساعده التتبع على اتخاذ خيارات أوضح وأكثر لطفًا في روتينه.",
+          "habit": "دوّن الوجبات الخفيفة والمشروبات فور تناولها.",
+          "appCta": "افتح Calorie Bank Credit وابدأ تتبع وجباتك الخفيفة في عطلة نهاية الأسبوع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Liam's Weekend Pattern.\nStory: Liam noticed that Saturdays felt different: he tended to graze while watching football and later wondered what he'd eaten. He started making a quick note in the app for each snack and drink, even the small ones. Over a few weeks he saw a pattern — certain times and triggers led to extra bites. Instead of judging himself, he used that insight to plan a satisfying snack earlier or to set a reminder to log. Tracking helped him make clearer, kinder choices about his routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-18-motivation-3-story-3",
+      "category": "everyday-habits",
+      "languages": {
+        "en": {
+          "title": "Sofia's Recipe Tweaks",
+          "story": "Sofia loved cooking family dinners and wanted a clearer idea of what she was serving. When she tried a new pasta recipe, she added each ingredient into the app as she cooked — the sauce, the cheese, the olive oil — and saved it as a custom meal. A few small swaps in future versions (less oil, extra veg) showed up in her logs, and she could compare how the changes felt after dinner. Tracking helped Sofia learn from her own recipes and make practical adjustments she enjoyed.",
+          "habit": "Add ingredients while you cook and save recipes.",
+          "appCta": "Open Calorie Bank Credit and log a recipe today."
+        },
+        "es": {
+          "title": "Los ajustes de receta de Sofía",
+          "story": "A Sofía le encantaba cocinar las cenas familiares y quería tener una idea más clara de lo que servía. Al probar una nueva receta de pasta, añadió cada ingrediente en la app mientras cocinaba — la salsa, el queso, el aceite — y la guardó como comida personalizada. En versiones futuras, pequeños cambios (menos aceite, más verduras) se reflejaron en sus registros, y ella pudo comparar cómo se sentían esas variaciones después de la cena. El registro ayudó a Sofía a aprender de sus propias recetas y hacer ajustes prácticos que disfrutaba.",
+          "habit": "Añade ingredientes mientras cocinas y guarda recetas.",
+          "appCta": "Abre Calorie Bank Credit y registra una receta hoy."
+        },
+        "ru": {
+          "title": "Изменения в рецептах Софии",
+          "story": "София любила готовить семейные ужины и хотела лучше понимать, что подаёт. Попробовав новый рецепт пасты, она вносила в приложение каждый ингредиент по ходу готовки — соус, сыр, масло — и сохранила это как собственное блюдо. В следующих версиях небольшие замены (меньше масла, больше овощей) отразились в записях, и она могла сравнить, как изменения ощущаются после ужина. Ведение записей помогло Софии учиться на своих рецептах и вносить практичные изменения, которые ей нравились.",
+          "habit": "Добавляйте ингредиенты во время готовки и сохраняйте рецепты.",
+          "appCta": "Откройте Calorie Bank Credit и сегодня занесите рецепт в записи."
+        },
+        "uk": {
+          "title": "Зміни в рецептах Софії",
+          "story": "Софія обожнювала готувати сімейні вечері і хотіла краще розуміти, що саме подає. Коли вона спробувала новий рецепт пасти, вона додавала в додаток кожен інгредієнт під час готування — соус, сир, олію — і зберегла це як власну страву. У наступних варіаціях невеликі заміни (менше олії, більше овочів) відобразилися в її записах, і вона могла порівняти, як відчуття після вечері змінилося. Відстеження допомогло Софії вчитися на своїх рецептах і робити корисні зміни, які приносили задоволення.",
+          "habit": "Додавайте інгредієнти під час готування і зберігайте рецепти.",
+          "appCta": "Відкрийте Calorie Bank Credit і занотуйте рецепт сьогодні."
+        },
+        "fr": {
+          "title": "Les ajustements de Sofia",
+          "story": "Sofia aimait préparer des dîners familiaux et souhaitait mieux savoir ce qu’elle servait. En testant une nouvelle recette de pâtes, elle a ajouté chaque ingrédient dans l’app pendant la cuisson — la sauce, le fromage, l’huile — puis l’a sauvegardée comme repas personnalisé. Quelques petits changements dans les versions suivantes (moins d’huile, plus de légumes) sont apparus dans ses enregistrements, et elle a pu comparer l’effet de ces ajustements après le repas. Le suivi a permis à Sofia d’apprendre de ses recettes et d’opérer des changements pratiques et agréables.",
+          "habit": "Ajoutez les ingrédients en cuisinant et sauvegardez vos recettes.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez une recette aujourd’hui."
+        },
+        "de": {
+          "title": "Sofias Rezeptvarianten",
+          "story": "Sofia kochte gern Familienessen und wollte besser verstehen, was sie serviert. Als sie ein neues Pastarezept ausprobierte, trug sie beim Kochen jeden Bestandteil in die App ein — Sauce, Käse, Olivenöl — und speicherte es als eigenes Gericht. Bei späteren Varianten zeigten sich kleine Änderungen (weniger Öl, mehr Gemüse) in ihren Einträgen, und sie konnte vergleichen, wie sich das Dinner danach anfühlte. Das Tracking half Sofia, aus ihren Rezepten zu lernen und praktische Anpassungen vorzunehmen, die ihr gefielen.",
+          "habit": "Füge Zutaten beim Kochen hinzu und speichere Rezepte.",
+          "appCta": "Öffne Calorie Bank Credit und trage heute ein Rezept ein."
+        },
+        "pt-br": {
+          "title": "As adaptações de receita da Sofia",
+          "story": "Sofia adorava cozinhar jantares para a família e queria entender melhor o que servia. Ao testar uma nova receita de massa, ela colocou cada ingrediente no app enquanto cozinhava — o molho, o queijo, o azeite — e salvou como refeição personalizada. Em versões futuras, pequenas trocas (menos óleo, mais legumes) apareceram nos registros, e ela pôde comparar como as mudanças afetavam depois do jantar. O registro ajudou Sofia a aprender com suas receitas e fazer ajustes práticos que gostava.",
+          "habit": "Adicione ingredientes enquanto cozinha e salve receitas.",
+          "appCta": "Abra o Calorie Bank Credit e registre uma receita hoje."
+        },
+        "hu": {
+          "title": "Sofia recept‑módosításai",
+          "story": "Sofia szeretett családi vacsorákat főzni, és tisztábban akarta látni, mit szolgál fel. Amikor kipróbált egy új tésztareceptet, a főzés közben bevitte az appba az összetevőket — szósz, sajt, olívaolaj — és elmentette saját ételként. Későbbi verziókban apró cserék (kevesebb olaj, több zöldség) megjelentek a naplóban, és össze tudta hasonlítani, hogyan hatnak a változtatások az étkezés után. A követés segített Sofiának tanulni a saját receptjeiből és gyakorlatias, örömteli módosításokat végrehajtani.",
+          "habit": "Add hozzá az összetevőket főzés közben és mentsd el a receptet.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és rögzíts egy receptet ma."
+        },
+        "ar": {
+          "title": "تعديلات وصفة صوفيا",
+          "story": "تحب صوفيا طهي عشاء العائلة وكانت ترغب بمعرفة أوضح عما تُقدّم. عند تجربة وصفة مكرونة جديدة، أضافت كل مكوّن إلى التطبيق أثناء الطهي — الصلصة، الجبن، زيت الزيتون — ثم حفظتها كوجبة مخصصة. في الإصدارات التالية، ظهرت تغييرات صغيرة (زيت أقل، خضار أكثر) في سجلاتها، وتمكنت من مقارنة كيف أثّرت التعديلات بعد العشاء. ساعدها التتبع على التعلم من وصفاتها الخاصة وإجراء تعديلات عملية كانت تستمتع بها.",
+          "habit": "أضف المكونات أثناء الطهي واحتفظ بالوصفات.",
+          "appCta": "افتح Calorie Bank Credit وسجل وصفة اليوم."
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Sofia's Recipe Tweaks.\nStory: Sofia loved cooking family dinners and wanted a clearer idea of what she was serving. When she tried a new pasta recipe, she added each ingredient into the app as she cooked — the sauce, the cheese, the olive oil — and saved it as a custom meal. A few small swaps in future versions (less oil, extra veg) showed up in her logs, and she could compare how the changes felt after dinner. Tracking helped Sofia learn from her own recipes and make practical adjustments she enjoyed..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-18-motivation-4-story-4",
+      "category": "everyday-habits",
+      "languages": {
+        "en": {
+          "title": "Omar's Quick Check‑Ins",
+          "story": "Omar works late and sometimes forgets to log small bites — a handful of nuts, a quick cookie. He set a two‑minute evening check‑in to jot down anything he could remember from the day. Some nights were sparse and that was okay; other nights the list helped him see where he could add more veggies or pause before a second serving. The habit was forgiving and flexible: a short review that gave him gentle feedback and made tracking feel manageable, even on busy days.",
+          "habit": "Do a two‑minute end‑of‑day log.",
+          "appCta": "Open Calorie Bank Credit and do a quick log today."
+        },
+        "es": {
+          "title": "Las comprobaciones rápidas de Omar",
+          "story": "Omar trabaja hasta tarde y a veces olvida registrar pequeños bocados — un puñado de frutos secos, una galleta rápida. Puso un chequeo nocturno de dos minutos para anotar lo que recordara del día. Algunas noches había poco que escribir y eso estaba bien; otras noches la lista le ayudaba a ver dónde podía añadir más verduras o parar antes de repetir. El hábito era flexible y comprensivo: una breve revisión que le daba retroalimentación amable y hacía que registrar fuera manejable incluso en días ocupados.",
+          "habit": "Haz un registro rápido de dos minutos al final del día.",
+          "appCta": "Abre Calorie Bank Credit y haz un registro rápido hoy."
+        },
+        "ru": {
+          "title": "Короткие проверки Омара",
+          "story": "Омар работает допоздна и иногда забывает записать мелкие перекусы — горсть орехов, печенье. Он установил двухминутную вечернюю проверку, чтобы быстро записать то, что помнит о прошедшем дне. Некоторые вечера были пустыми — и в этом не было ничего страшного; в другие вечера список помогал увидеть, где можно добавить больше овощей или удержаться от добавки. Привычка была мягкой и гибкой: краткий обзор, дающий полезную обратную связь и делающий трекинг посильным даже в忙ые дни.",
+          "habit": "Делайте двухминутную запись в конце дня.",
+          "appCta": "Откройте Calorie Bank Credit и сделайте быструю запись сегодня."
+        },
+        "uk": {
+          "title": "Короткі перевірки Омара",
+          "story": "Омар працює допізна і іноді забуває записати дрібні перекуси — жменю горіхів, швидке печиво. Він встановив двохвилинну вечірню перевірку, щоб занотувати все, що пригадує за день. Декілька вечорів були мізерними — і це було нормально; інші вечори список допомагав побачити, де можна додати більше овочів або зупинитися перед другою порцією. Звичка була м’якою й гнучкою: короткий огляд, що давав доброзичливий зворотний зв’язок і робив відстеження керованим навіть у зайняті дні.",
+          "habit": "Зроби двохвилинний вечірній запис.",
+          "appCta": "Відкрийте Calorie Bank Credit і зробіть короткий запис сьогодні."
+        },
+        "fr": {
+          "title": "Les petits bilans d'Omar",
+          "story": "Omar travaille tard et oublie parfois d’enregistrer les petites bouchées — une poignée de noix, un biscuit. Il s’est fixé un bilan du soir de deux minutes pour noter ce dont il se souvenait de la journée. Certaines soirées étaient légères, et ça allait ; d’autres fois la liste lui permettait de voir où ajouter des légumes ou d’hésiter avant une seconde portion. L’habitude est indulgente et flexible : une courte revue qui lui apporte un retour bienveillant et rend le suivi gérable, même les jours chargés.",
+          "habit": "Faites un enregistrement de deux minutes en fin de journée.",
+          "appCta": "Ouvrez Calorie Bank Credit et faites un rapide enregistrement aujourd’hui."
+        },
+        "de": {
+          "title": "Omars kurzer Check",
+          "story": "Omar arbeitet spät und vergisst manchmal, kleine Bisschen einzutragen — eine Handvoll Nüsse, ein schneller Keks. Er legte ein zweiminütiges Abend‑Check‑In fest, um alles Notierenswerte des Tages einzutragen. Manche Abende waren überschaubar, und das war in Ordnung; an anderen half die Liste zu sehen, wo er mehr Gemüse einbauen oder vor einer zweiten Portion innehalten könnte. Die Gewohnheit ist nachsichtig und flexibel: ein kurzer Rückblick, der ihm freundliches Feedback gab und das Tracking auch an vollen Tagen handhabbar machte.",
+          "habit": "Mach ein zwei‑minütiges Abend‑Log.",
+          "appCta": "Öffne Calorie Bank Credit und mach heute ein kurzes Log."
+        },
+        "pt-br": {
+          "title": "As checagens rápidas do Omar",
+          "story": "Omar trabalha até tarde e às vezes esquece de registrar pequenos petiscos — um punhado de castanhas, um biscoito rápido. Ele criou um check‑in noturno de dois minutos para anotar o que lembrasse do dia. Algumas noites tinham poucas coisas a registrar e tudo bem; em outras, a lista o ajudava a ver onde poderia incluir mais vegetais ou esperar antes de repetir. O hábito é tolerante e flexível: uma revisão rápida que deu um feedback gentil e tornou o registro administrável, mesmo em dias corridos.",
+          "habit": "Faça um registro rápido de dois minutos ao final do dia.",
+          "appCta": "Abra o Calorie Bank Credit e faça um registro rápido hoje."
+        },
+        "hu": {
+          "title": "Omar rövid áttekintései",
+          "story": "Omar sokáig dolgozik, és néha elfelejti beírni a kis falatokat — egy marék diót, egy gyors kekszet. Beállított egy képernyő kétperces esti ellenőrzést, hogy feljegyezze, amire emlékszik a napból. Egyes estek szegényesek voltak, és ez rendben volt; máskor a lista segített észrevenni, hol lehet több zöldséget beépíteni vagy megállni egy második adag előtt. A szokás megengedő és rugalmas: egy rövid átnézés, ami kedves visszajelzést ad és kezelhetővé teszi a követést még elfoglalt napokon is.",
+          "habit": "Tegyél egy képernyő kétperces esti feljegyzést.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és készíts ma egy gyors feljegyzést."
+        },
+        "ar": {
+          "title": "تدقيقات سريعة لعمر",
+          "story": "يعمل عمر حتى وقت متأخر وأحيانًا ينسى تسجيل اللقيمات الصغيرة — قبضة من المكسرات، بسكويت سريع. وضع تذكيرًا ليلًا لمدة دقيقتين ليكتب بسرعة ما يتذكره من اليوم. بعض الليالي كانت قليلة التسجيل وهذا مقبول؛ وليالٍ أخرى ساعدته القائمة على رؤية أين يمكن إضافة المزيد من الخضار أو التوقف قبل التقديم الثاني. كانت العادة متسامحة ومرنة: مراجعة قصيرة تعطيه ملاحظات لطيفة وتجعل التتبع ممكنًا حتى في الأيام المزدحمة.",
+          "habit": "قم بتسجيل سريع لمدة دقيقتين في نهاية اليوم.",
+          "appCta": "افتح Calorie Bank Credit وقم بتسجيل سريع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-18T15:59:03.441Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-18-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Omar's Quick Check‑Ins.\nStory: Omar works late and sometimes forgets to log small bites — a handful of nuts, a quick cookie. He set a two‑minute evening check‑in to jot down anything he could remember from the day. Some nights were sparse and that was okay; other nights the list helped him see where he could add more veggies or pause before a second serving. The habit was forgiving and flexible: a short review that gave him gentle feedback and made tracking feel manageable, even on busy days..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-17-motivation-1-story-1",
       "category": "consistency",
