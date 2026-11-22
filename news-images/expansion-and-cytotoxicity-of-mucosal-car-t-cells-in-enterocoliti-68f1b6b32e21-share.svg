@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b3e5fc"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9e8ff"/>
+    </linearGradient>
+    <clipPath id="imageClip">
+      <rect x="720" y="104" width="408" height="408" rx="42"/>
+    </clipPath>
+    <style>
+      .brand{font:700 30px Arial, sans-serif;fill:#01579b}
+      .label{font:800 22px Arial, sans-serif;fill:#01579b;text-transform:uppercase;letter-spacing:.8px}
+      .title{font:800 46px Arial, sans-serif;fill:#17212b}
+      .summary{font:500 25px Arial, sans-serif;fill:#4f6472}
+      .source{font:700 25px Arial, sans-serif;fill:#17212b}
+      .watermark{font:800 28px Arial, sans-serif;fill:#01579b}
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="38" fill="#ffffff" opacity=".88"/>
+  <rect x="60" y="60" width="1080" height="510" rx="30" fill="#ffffff"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="#b3e5fc"/>
+  <rect x="720" y="104" width="408" height="408" rx="42" fill="#b3e5fc" opacity=".95"/>
+  <rect x="774" y="174" width="248" height="340" rx="38" fill="#ffffff" stroke="#01579b" stroke-width="12"/>
+  <path d="M838 246h122m-122 58h122m-122 58h88" stroke="#01579b" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="1014" cy="438" r="78" fill="#6fbf73" opacity=".88"/>
+  <path d="M974 438l30 30 60-72" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="720" y="448" width="408" height="64" rx="0" fill="#0f172a" opacity=".52" clip-path="url(#imageClip)"/>
+  <text x="72" y="100" class="brand">Calorie Bank Credit</text>
+  <text x="72" y="148" class="label">Cancer therapy / Immunotherapy safety</text>
+  <text x="72" y="204" class="title">Multimodal profiling links CAR‑T cell</text><text x="72" y="260" class="title">infiltrates to enterocolitis after</text><text x="72" y="316" class="title">BCMA CAR‑T therapy</text>
+  <text x="72" y="410" class="summary">A Nature Medicine study used multimodal profiling</text><text x="72" y="444" class="summary">in patients with biopsy‑confirmed immune effector</text>
+  <text x="72" y="528" class="source">nature.com</text>
+  <text x="756" y="490" class="watermark" fill="#ffffff">www.calorie-bank.com</text>
+</svg>
