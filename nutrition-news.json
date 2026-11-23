@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T17:49:43.338Z",
+  "generatedAt": "2026-11-23T18:37:27.368Z",
   "sourceCount": 35,
-  "availableSourceCount": 35,
+  "availableSourceCount": 34,
   "articles": [
     {
       "id": "putting-the-brakes-on-peripheral-nerve-aging-caf465b5ca66",
@@ -323,6 +323,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Case report: calf pain after a skiing collision led to emergency limb-saving care.\nStory summary: MedPage Today describes a case of a 50-year-old recreational skier who experienced calf pain after a collision and later presented to emergency services; clinicians rapidly intervened to preserve his leg. The piece is a clinical case narrative rather than a research study..\nCategory: Vascular and emergency medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "scientists-build-nearly-7-000-digital-brain-twins-to-explore-agin-1638e4b32028",
+      "category": "AI in research (neuroscience)",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-scientists-digital-brain-twins-explore.html",
+      "sourceTitle": "Scientists build nearly 7,000 'digital brain twins' to explore aging, dementia and the exposome",
+      "publishedAt": "Mon, 23 Nov 2026 10:00:01 EST",
+      "languages": {
+        "en": {
+          "title": "Nearly 7,000 'digital brain twins' created to study ageing and environment‑brain links",
+          "summary": "An international team developed biophysical computational models—termed 'digital brain twins'—for 6,986 individuals based on fMRI data to probe relationships among ageing, neurodegenerative disease and environmental exposures. The resource models underlying biological mechanisms rather than reporting clinical interventions.",
+          "whyItMatters": "Large‑scale computational brain models can help researchers explore hypotheses about ageing, dementia and environmental influences in a controlled, reproducible way. These digital twins are modelling tools and do not substitute for clinical data or trials, but may prioritise hypotheses for follow‑up studies.",
+          "takeaways": [
+            "The project built mechanistic computer models for thousands of people using fMRI to study links among ageing, neurodegeneration and the exposome.",
+            "Digital brain twins are research tools for hypothesis generation and simulation, not clinical diagnostics or proven treatments.",
+            "Model validity depends on input data quality and assumptions; findings from simulations require empirical validation.",
+            "This work may accelerate research by enabling in silico experiments that guide laboratory and clinical studies."
+          ]
+        },
+        "es": {
+          "title": "Casi 7.000 'gemelos cerebrales digitales' creados para estudiar envejecimiento y vínculos entre entorno y cerebro",
+          "summary": "Un equipo internacional desarrolló modelos computacionales biofísicos —denominados 'gemelos cerebrales digitales'— para 6.986 individuos a partir de datos de fMRI para investigar las relaciones entre el envejecimiento, las enfermedades neurodegenerativas y las exposiciones ambientales. El recurso modela mecanismos biológicos subyacentes y no reporta intervenciones clínicas.",
+          "whyItMatters": "Modelos cerebrales computacionales a gran escala pueden ayudar a los investigadores a explorar hipótesis sobre envejecimiento, demencia e influencias ambientales de forma controlada y reproducible. Estos gemelos digitales son herramientas de modelado y no sustituyen datos o ensayos clínicos, aunque pueden priorizar hipótesis para estudios posteriores.",
+          "takeaways": [
+            "El proyecto construyó modelos mecanicistas por ordenador para miles de personas usando fMRI para estudiar vínculos entre envejecimiento, neurodegeneración y el exposoma.",
+            "Los gemelos cerebrales digitales son herramientas de investigación para generar hipótesis y simular escenarios, no son diagnósticos clínicos ni tratamientos probados.",
+            "La validez de los modelos depende de la calidad de los datos de entrada y de las suposiciones; los hallazgos de las simulaciones requieren validación empírica.",
+            "Este trabajo puede acelerar la investigación al permitir experimentos in silico que guíen estudios de laboratorio y clínicos."
+          ]
+        },
+        "ru": {
+          "title": "Создали почти 7 000 «цифровых двойников мозга» для изучения старения и связей между окружением и мозгом",
+          "summary": "Международная команда разработала биофизические вычислительные модели — так называемые «цифровые двойники мозга» — для 6 986 человек на основе данных fMRI, чтобы исследовать взаимосвязи между старением, нейродегенеративными заболеваниями и воздействиями окружающей среды. Этот ресурс моделирует лежащие в основе биологические механизмы и не сообщает о клинических вмешательствах.",
+          "whyItMatters": "Крупномасштабные вычислительные модели мозга могут помочь исследователям проверять гипотезы о старении, деменции и влиянии окружения в контролируемом и воспроизводимом виде. Эти цифровые двойники — инструменты моделирования и не заменяют клинические данные или испытания, но могут помочь приоритизировать гипотезы для последующих исследований.",
+          "takeaways": [
+            "Проект создал механистические компьютерные модели для тысяч людей с использованием fMRI, чтобы изучать связи между старением, нейродегенерацией и экспозомом.",
+            "Цифровые двойники мозга — исследовательский инструмент для генерации гипотез и моделирования, а не клиническая диагностика или проверенные методы лечения.",
+            "Достоверность моделей зависит от качества входных данных и допущений; результаты симуляций нуждаются в эмпирической валидации.",
+            "Эта работа может ускорить исследования, позволяя проводить in silico эксперименты, которые направят лабораторные и клинические исследования."
+          ]
+        },
+        "uk": {
+          "title": "Створено майже 7 000 «цифрових двійників мозку» для вивчення старіння та зв’язків середовища з мозком",
+          "summary": "Міжнародна команда розробила біофізичні комп’ютерні моделі — звані «цифровими двійниками мозку» — для 6 986 осіб на основі даних функціональної МРТ, щоб досліджувати зв’язки між старінням, нейродегенерацією та впливами середовища. Ресурс моделює основні біологічні механізми, а не повідомляє про клінічні втручання.",
+          "whyItMatters": "Великі обчислювальні моделі мозку можуть допомогти дослідникам перевіряти гіпотези про старіння, деменції та впливи довкілля в контрольований та відтворюваний спосіб. Ці цифрові двійники — інструменти для досліджень і не замінюють клінічні дані або випробування, але можуть пріоритизувати гіпотези для подальших досліджень.",
+          "takeaways": [
+            "Проєкт створив механістичні комп’ютерні моделі для тисяч людей на основі функціональної МРТ, щоб вивчати зв’язки між старінням, нейродегенерацією та експозомом.",
+            "Цифрові двійники мозку — це інструменти для генерації гіпотез і симуляцій, а не клінічна діагностика чи перевірені методи лікування.",
+            "Достовірність моделей залежить від якості вхідних даних і припущень; висновки зі симуляцій потребують емпіричної перевірки.",
+            "Ця робота може прискорити дослідження, дозволяючи виконувати in silico експерименти, які спрямовують лабораторні та клінічні дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Près de 7 000 « jumeaux cérébraux numériques » créés pour étudier le vieillissement et les liens environnement‑cerveau",
+          "summary": "Une équipe internationale a développé des modèles computationnels biophysiques — appelés « jumeaux cérébraux numériques » — pour 6 986 individus à partir de données d’IRMf afin d’explorer les relations entre le vieillissement, les maladies neurodégénératives et les expositions environnementales. La ressource modélise des mécanismes biologiques sous‑jacents et ne rapporte pas d’interventions cliniques.",
+          "whyItMatters": "Les modèles cérébraux computationnels à grande échelle peuvent aider les chercheurs à explorer des hypothèses sur le vieillissement, la démence et les influences environnementales de manière contrôlée et reproductible. Ces jumeaux numériques sont des outils de recherche et ne se substituent pas aux données cliniques ou aux essais, mais peuvent prioriser des hypothèses pour des études ultérieures.",
+          "takeaways": [
+            "Le projet a construit des modèles mécanistiques pour des milliers de personnes en utilisant l’IRMf afin d’étudier les liens entre vieillissement, neurodégénérescence et exposome.",
+            "Les jumeaux cérébraux numériques sont des outils pour générer des hypothèses et réaliser des simulations, pas des diagnostics cliniques ou des traitements validés.",
+            "La validité des modèles dépend de la qualité des données d’entrée et des hypothèses ; les résultats des simulations exigent une validation empirique.",
+            "Ce travail peut accélérer la recherche en permettant des expériences in silico qui orientent les études en laboratoire et cliniques."
+          ]
+        },
+        "de": {
+          "title": "Fast 7.000 'digitale Gehirn‑Zwillinge' erstellt, um Alterung und Umwelt‑Gehirn‑Beziehungen zu untersuchen",
+          "summary": "Ein internationales Team entwickelte biophysikalische Computermodelle — sogenannte 'digitale Gehirn‑Zwillinge' — für 6.986 Personen auf Basis von fMRI‑Daten, um Beziehungen zwischen Alterung, neurodegenerativen Erkrankungen und Umwelt‑Expositionen zu erforschen. Die Ressource modelliert zugrundeliegende biologische Mechanismen und berichtet keine klinischen Interventionen.",
+          "whyItMatters": "Groß angelegte computergestützte Gehirnmodelle können Forschenden helfen, Hypothesen zu Alterung, Demenz und Umwelteinflüssen kontrolliert und reproduzierbar zu untersuchen. Diese digitalen Zwillinge sind Forschungswerkzeuge und ersetzen keine klinischen Daten oder Studien, können aber Hypothesen für Folgeuntersuchungen priorisieren.",
+          "takeaways": [
+            "Das Projekt erstellte mechanistische Computermodelle für Tausende von Personen mithilfe von fMRI, um Zusammenhänge zwischen Alterung, Neurodegeneration und dem Exposom zu untersuchen.",
+            "Digitale Gehirn‑Zwillinge sind Werkzeuge zur Hypothesengenerierung und Simulation, keine klinischen Diagnostika oder bewährten Behandlungen.",
+            "Die Gültigkeit der Modelle hängt von der Qualität der Eingangsdaten und den Annahmen ab; Simulationsergebnisse brauchen empirische Validierung.",
+            "Diese Arbeit kann die Forschung beschleunigen, indem sie in silico‑Experimente ermöglicht, die Labor‑ und klinische Studien leiten."
+          ]
+        },
+        "pt-br": {
+          "title": "Quase 7.000 'gêmeos cerebrais digitais' criados para estudar envelhecimento e ligações entre ambiente e cérebro",
+          "summary": "Uma equipe internacional desenvolveu modelos computacionais biofísicos — chamados de 'gêmeos cerebrais digitais' — para 6.986 indivíduos com base em dados de fMRI, para sondar relações entre envelhecimento, doença neurodegenerativa e exposições ambientais. O recurso modela mecanismos biológicos subjacentes e não reporta intervenções clínicas.",
+          "whyItMatters": "Modelos cerebrais computacionais em grande escala podem ajudar pesquisadores a explorar hipóteses sobre envelhecimento, demência e influências ambientais de maneira controlada e reprodutível. Esses gêmeos digitais são ferramentas de pesquisa e não substituem dados clínicos ou ensaios, mas podem priorizar hipóteses para estudos de seguimento.",
+          "takeaways": [
+            "O projeto construiu modelos computacionais mecanísticos para milhares de pessoas usando fMRI para estudar ligações entre envelhecimento, neurodegeneração e o exposoma.",
+            "Gêmeos cerebrais digitais são ferramentas de pesquisa para geração de hipóteses e simulação, não diagnósticos clínicos ou tratamentos comprovados.",
+            "A validade dos modelos depende da qualidade dos dados de entrada e das suposições; achados de simulação exigem validação empírica.",
+            "Esse trabalho pode acelerar a pesquisa ao possibilitar experimentos in silico que orientem estudos laboratoriais e clínicos."
+          ]
+        },
+        "hu": {
+          "title": "Közel 7 000 „digitális agy‑ikert” hoztak létre az öregedés és a környezeti hatások vizsgálatára",
+          "summary": "Egy nemzetközi csapat biofizikai számít modelleket — „digitális agy‑ikreket” — fejlesztett 6 986 személyre fMRI‑adatok alapján, hogy vizsgálja az öregedés, a neurodegeneratív betegségek és a környezeti expozíciók közötti összefüggéseket. Ez az erőforrás biológiai mechanizmusokat modellez, nem klinikai beavatkozásokat jelent.",
+          "whyItMatters": "A nagyszabású számítógépes agymodellek segíthetnek a kutatóknak kontrollált, reprodukálható módon feltételezések vizsgálatában az öregedésről, a demenciáról és a környezeti hatásokról. Ezek a digitális ikrek kutatóeszközök, és nem helyettesítik a klinikai adatokat vagy vizsgálatokat, de segíthetnek a kutatási hipotézisek priorizálásában a további vizsgálatok számára.",
+          "takeaways": [
+            "A projekt mechanisztikus számítógépes modelleket épített több ezer ember számára fMRI‑adatok felhasználásával az öregedés, a neurodegeneráció és az exposzóm vizsgálatára.",
+            "A digitális agy‑ikrek kutatóeszközök a hipotézisteremtést és a szimulációt szolgálják, nem klinikai diagnosztikát vagy bizonyított kezelést jelentik.",
+            "A modell érvényessége függ a bemeneti adatok minőségétől és a feltételezésektől; a szimulációkból származó eredményeket empirikus úton kell validálni.",
+            "A munka felgyorsíthatja a kutatást azáltal, hogy in silico kísérleteket tesz lehetővé, amelyek irányt adhatnak laboratóriumi és klinikai vizsgálatoknak."
+          ]
+        },
+        "ar": {
+          "title": "تم إنشاء نحو 7000 «توأم رقمي للدماغ» لدراسة الشيخوخة والروابط بين البيئة والدماغ",
+          "summary": "طور فريق دولي نماذج حيوية‑فيزيائية حاسوبية—أُطلق عليها «توأم رقمي للدماغ»—لـ 6,986 شخصًا استنادًا إلى بيانات التصوير الوظيفي بالرنين المغناطيسي (fMRI) لفحص العلاقات بين الشيخوخة، والأمراض التنكسية العصبية، والتعرّضات البيئية. المورد يحاكي آليات بيولوجية أساسية ولا يقدم تدخلات إكلينيكية.",
+          "whyItMatters": "يمكن للنماذج الحاسوبية واسعة النطاق للدماغ أن تساعد الباحثين على استكشاف فرضيات حول الشيخوخة والخرف وتأثيرات البيئة بطريقة محكمة وقابلة لإعادة الإنتاج. هذه التوائم الرقمية أدوات بحثية ولا تحل محل البيانات أو التجارب السريرية، لكنها قد تساهم في تحديد أولويات الفرضيات للدراسات اللاحقة.",
+          "takeaways": [
+            "بنَت المشروع نماذج حاسوبية آلية لآلاف الأشخاص باستخدام بيانات fMRI لدراسة الروابط بين الشيخوخة والتنكس العصبي والتأثيرات البيئية.",
+            "التوائم الرقمية للدماغ أدوات بحثية لتوليد الفرضيات والمحاكاة، وليست تشخيصات سريرية أو علاجات مثبتة.",
+            "صلاحية النماذج تعتمد على جودة بيانات الإدخال والافتراضات؛ وتستلزم نتائج المحاكاة تحققًا تجريبيًا.",
+            "قد تُسهم هذه العمل في تسريع البحث عبر تمكين تجارب محاكاة توجه الدراسات المخبرية والسريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-build-nearly-7-000-digital-brain-twins-to-explore-agin-1638e4b32028",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-build-nearly-7-000-digital-brain-twins-to-explore-agin-1638e4b32028-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-build-nearly-7-000-digital-brain-twins-to-explore-agin-1638e4b32028-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Nearly 7,000 'digital brain twins' created to study ageing and environment‑brain links.\nStory summary: An international team developed biophysical computational models—termed 'digital brain twins'—for 6,986 individuals based on fMRI data to probe relationships among ageing, neurodegenerative disease and environmental exposures. The resource models underlying biological mechanisms rather than reporting clinical interventions..\nCategory: AI in research (neuroscience).\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "scientists-discover-that-leukemia-can-begin-developing-50-years-b-bb4bae35cad7",
@@ -673,6 +789,238 @@
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: UK launches the largest AI-assisted breast screening trial.\nStory summary: Cambridge is co-leading a £10 million NIHR-funded trial that will evaluate an artificial intelligence–assisted tool in breast cancer screening. The project launches across 30 UK screening sites, starting in Cambridgeshire, and targets the usual screening population of women aged 50–71 who are invited every three years..\nCategory: AI in cancer detection and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
+      "id": "preclinical-mouse-models-reveal-how-aging-impairs-immune-threat-a-f7da3b55baaa",
+      "category": "healthy ageing and longevity",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261123/Preclinical-mouse-models-reveal-how-aging-impairs-immune-threat-adaptation.aspx",
+      "sourceTitle": "Preclinical mouse models reveal how aging impairs immune threat adaptation",
+      "publishedAt": "Mon, 23 Nov 2026 02:50:36 -0500",
+      "languages": {
+        "en": {
+          "title": "Mouse models map genetic changes in immune ageing",
+          "summary": "Researchers from Monash University used preclinical mouse models to identify genetic patterns—described as a blueprint—associated with immune ageing. The study aims to explain why older bodies are less effective at responding to infections and cancer threats.",
+          "whyItMatters": "Understanding molecular and genetic changes in immune ageing could help researchers design interventions to improve immune responses in older people, which is relevant for infection control and cancer prevention. However, results from mouse models require careful validation before translating to humans.",
+          "takeaways": [
+            "This is a preclinical study in mice identifying genetic signatures linked to age-related changes in immune adaptation.",
+            "Findings may help explain reduced immune effectiveness against infections and cancer in older individuals, but do not demonstrate clinical benefit in humans.",
+            "Translation will require follow-up studies in human tissues or clinical cohorts and functional testing of candidate mechanisms.",
+            "Interpreting implications for treatments or interventions is premature based on current preclinical evidence."
+          ]
+        },
+        "es": {
+          "title": "Modelos de ratón mapean cambios genéticos en el envejecimiento del sistema inmunitario",
+          "summary": "Investigadores de la Universidad Monash usaron modelos preclínicos en ratones para identificar patrones genéticos —descritos como un plan— asociados con el envejecimiento inmunitario. El estudio pretende explicar por qué los organismos mayores responden con menos eficacia a infecciones y amenazas cancerosas.",
+          "whyItMatters": "Comprender los cambios moleculares y genéticos en el envejecimiento inmunitario podría ayudar a diseñar intervenciones para mejorar las respuestas inmunitarias en personas mayores, lo que es relevante para el control de infecciones y la prevención del cáncer. No obstante, los resultados en modelos de ratón requieren validación cuidadosa antes de extrapolarse a humanos.",
+          "takeaways": [
+            "Es un estudio preclínico en ratones que identifica firmas genéticas vinculadas a cambios relacionados con la edad en la adaptación inmune.",
+            "Los hallazgos pueden ayudar a explicar la menor eficacia inmune frente a infecciones y cáncer en personas mayores, pero no demuestran beneficio clínico en humanos.",
+            "La traducción a humanos requerirá estudios de seguimiento en tejidos humanos o cohortes clínicas y pruebas funcionales de los mecanismos candidatos.",
+            "Interpretar implicaciones para tratamientos o intervenciones es prematuro con la actual evidencia preclínica."
+          ]
+        },
+        "ru": {
+          "title": "Мышиные модели картируют генетические изменения при старении иммунной системы",
+          "summary": "Исследователи из Университета Монаша использовали доклинические модели на мышах, чтобы выявить генетические паттерны — описываемые как «чертёж» — связанные со старением иммунной системы. Цель исследования — пояснить, почему у пожилых организмов ухудшаются ответы на инфекции и угрозы рака.",
+          "whyItMatters": "Понимание молекулярных и генетических изменений при старении иммунитета может помочь в разработке вмешательств для улучшения иммунного ответа у пожилых людей, что важно для контроля инфекций и профилактики рака. Однако результаты, полученные на мышах, требуют тщательной проверки перед переносом на людей.",
+          "takeaways": [
+            "Это доклиническое исследование на мышах, в котором выявлены генетические сигнатуры, связанные со возрастными изменениями адаптации иммунитета.",
+            "Результаты могут помочь объяснить снижение эффективности иммунитета против инфекций и рака у пожилых, но не демонстрируют клинической пользы для людей.",
+            "Перенос на человека потребует последующих исследований на человеческих тканях или в клинических когортах и функциональных проверок кандидатных механизмов.",
+            "Делать выводы о лечебных или интервенционных последствиях преждевременно на основе текущих доклинических данных."
+          ]
+        },
+        "uk": {
+          "title": "Мишачі моделі показують генетичні зміни при імунному старінні",
+          "summary": "Дослідники з Університету Монаш використали доклінічні мишачі моделі, щоб ідентифікувати генетичні патерни — описані як «план» — пов’язані з імунним старінням. Мета дослідження — пояснити, чому організм старших людей менш ефективно реагує на інфекції та загрози раку.",
+          "whyItMatters": "Розуміння молекулярних і генетичних змін при імунному старінні може допомогти в розробці інтервенцій для покращення імунної відповіді в людей старшого віку, що важливо для контролю інфекцій і профілактики раку. Однак результати мишачих моделей потребують ретельної валідації перед перенесенням на людей.",
+          "takeaways": [
+            "Це доклінічне дослідження на мишах, яке ідентифікує генетичні сигнатури, пов’язані зі змінами імунної адаптації з віком.",
+            "Результати можуть допомогти пояснити знижену ефективність імунітету проти інфекцій і раку в старших людей, але не демонструють клінічної користі для людей.",
+            "Трансляція потребуватиме подальших досліджень на людських тканинах або клінічних когортах і функціонального тестування кандидатних механізмів.",
+            "Інтерпретувати наслідки для лікування або втручань передчасно на основі нинішніх доклінічних даних."
+          ]
+        },
+        "fr": {
+          "title": "Des modèles murins cartographient les changements génétiques du vieillissement immunitaire",
+          "summary": "Des chercheurs de Monash University ont utilisé des modèles murins précliniques pour identifier des schémas génétiques — décrits comme un « plan » — associés au vieillissement immunitaire. L’étude vise à expliquer pourquoi les organismes plus âgés réagissent moins efficacement aux infections et aux menaces liées au cancer.",
+          "whyItMatters": "Comprendre les changements moléculaires et génétiques du vieillissement immunitaire pourrait aider à concevoir des interventions pour améliorer les réponses immunitaires chez les personnes âgées, ce qui est pertinent pour le contrôle des infections et la prévention du cancer. Toutefois, les résultats obtenus chez la souris nécessitent une validation soigneuse avant toute extrapolation à l’humain.",
+          "takeaways": [
+            "Il s’agit d’une étude préclinique chez la souris identifiant des signatures génétiques liées aux changements d’adaptation immunitaire liés à l’âge.",
+            "Les résultats peuvent aider à expliquer la réduction de l’efficacité immunitaire contre les infections et le cancer chez les personnes âgées, mais ne démontrent pas un bénéfice clinique chez l’humain.",
+            "La traduction nécessitera des études de suivi sur des tissus humains ou des cohortes cliniques et des tests fonctionnels des mécanismes candidats.",
+            "Il est prématuré d’interpréter ces résultats comme ayant des implications directes pour des traitements ou interventions sur la base des seules données précliniques."
+          ]
+        },
+        "de": {
+          "title": "Mausmodelle kartieren genetische Veränderungen bei Immunalterung",
+          "summary": "Forscher der Monash University verwendeten präklinische Mausmodelle, um genetische Muster — beschrieben als Blaupause — zu identifizieren, die mit der Alterung des Immunsystems verbunden sind. Die Studie zielt darauf ab zu erklären, warum ältere Körper weniger effektiv auf Infektionen und Krebsbedrohungen reagieren.",
+          "whyItMatters": "Das Verständnis molekularer und genetischer Veränderungen bei der Immunalterung könnte Forschenden helfen, Interventionen zu entwickeln, die die Immunantwort älterer Menschen verbessern — relevant für Infektionskontrolle und Krebsprävention. Ergebnisse aus Mausmodellen müssen jedoch sorgfältig validiert werden, bevor sie auf den Menschen übertragbar sind.",
+          "takeaways": [
+            "Dies ist eine präklinische Studie an Mäusen, die genetische Signaturen identifiziert, die mit altersbedingten Veränderungen der Immunanpassung verbunden sind.",
+            "Die Ergebnisse könnten helfen zu erklären, warum das Immunsystem bei älteren Menschen gegen Infektionen und Krebs weniger effektiv ist, zeigen aber keinen klinischen Nutzen beim Menschen.",
+            "Eine Übertragung erfordert Folgeuntersuchungen an menschlichem Gewebe oder klinischen Kohorten sowie funktionelle Tests der Kandidat‑Mechanismen.",
+            "Die Deutung von Implikationen für Behandlungen oder Interventionen ist auf Basis der aktuellen präklinischen Evidenz verfrüht."
+          ]
+        },
+        "pt-br": {
+          "title": "Modelos de camundongo mapeiam mudanças genéticas no envelhecimento imune",
+          "summary": "Pesquisadores da Monash University usaram modelos pré‑clínicos em camundongos para identificar padrões genéticos — descritos como um 'plano' — associados ao envelhecimento do sistema imune. O estudo busca explicar por que corpos mais velhos respondem menos eficientemente a infecções e ameaças de câncer.",
+          "whyItMatters": "Compreender mudanças moleculares e genéticas no envelhecimento imunológico pode ajudar pesquisadores a projetar intervenções para melhorar respostas imunes em pessoas idosas, o que é relevante para controle de infecções e prevenção de câncer. Contudo, resultados de modelos em camundongos precisam de validação cuidadosa antes de serem traduzidos para humanos.",
+          "takeaways": [
+            "Este é um estudo pré‑clínico em camundongos que identifica assinaturas genéticas ligadas a mudanças relacionadas à idade na adaptação imune.",
+            "Os achados podem ajudar a explicar a redução da eficácia imune contra infecções e câncer em indivíduos mais velhos, mas não demonstram benefício clínico em humanos.",
+            "A tradução exigirá estudos de seguimento em tecidos humanos ou coortes clínicas e testes funcionais dos mecanismos candidatos.",
+            "Interpretar implicações para tratamentos ou intervenções é prematuro com base nas evidências pré‑clínicas atuais."
+          ]
+        },
+        "hu": {
+          "title": "Egérmodellek feltérképezik az immunöregedés genetikai változásait",
+          "summary": "A Monash Egyetem kutatói preklinikai egérmodelleket használtak genetikai mintázatok – szerzők szerint egyfajta „tervrajz” – azonosítására, amelyek az immunöregedéssel kapcsolatosak. A tanulmány célja megmagyarázni, miért reagálnak az idősebb szervezetek kevésbé hatékonyan fertőzésekre és daganatfenyegetésekre.",
+          "whyItMatters": "A molekuláris és genetikai változások megértése az immunöregedésben segíthet a kutatóknak olyan beavatkozások tervezésében, amelyek javíthatják az idősebb emberek immunválaszát; ez releváns fertőzések és rákmegelőzés szempontjából. Azonban az egérmodellek eredményeit óvatosan kell validálni, mielőtt emberekre átültetnék.",
+          "takeaways": [
+            "Ez egy preklinikai tanulmány egerekben, amely azonosítja az életkorral összefüggő immunadaptáció genetikai aláírásait.",
+            "Az eredmények segíthetnek megérteni az idősebbek csökkent immunhatékonyságát fertőzések és rák esetén, de nem bizonyítják az emberi klinikai előnyt.",
+            "Az átültetés emberre további vizsgálatokat igényel emberi szövetekben vagy klinikai kohortokban, valamint a jelölt mechanizmusok funkcionális tesztelését.",
+            "A kezelésekre vagy beavatkozásokra vonatkozó következtetések levonása korai lenne a jelenlegi preklinikai bizonyítékok alapján."
+          ]
+        },
+        "ar": {
+          "title": "نماذج الفئران ترسم التغيرات الجينية المصاحبة لشيخوخة الجهاز المناعي",
+          "summary": "استخدم باحثون من جامعة موناش نماذج ما قبل سريرية في الفئران لتحديد أنماط جينية—وصفها المؤلفون كـ«مخطط»—مرتبطة بشيخوخة الجهاز المناعي. تهدف الدراسة إلى توضيح سبب تراجع قدرة الأجسام الكبيرة في السن على الاستجابة للعدوى وتهديدات السرطان.",
+          "whyItMatters": "فهم التغيرات الجزيئية والجينية في شيخوخة الجهاز المناعي قد يساعد الباحثين على تصميم تدخلات لتحسين الاستجابات المناعية لدى المسنين، وهو أمر ذو صلة بمكافحة العدوى والوقاية من السرطان. مع ذلك، تتطلب نتائج نماذج الفئران تحققًا دقيقًا قبل تعميمها على البشر.",
+          "takeaways": [
+            "هذه دراسة ما قبل سريرية في الفئران تحدد بصمات جينية مرتبطة بالتغيرات العمرية في تكيف الجهاز المناعي.",
+            "قد تساعد النتائج في تفسير انخفاض فعالية المناعة ضد العدوى والسرطان لدى كبار السن، لكنها لا تُظهر فائدة سريرية مثبتة لدى البشر.",
+            "يتطلب النقل إلى البشر دراسات متابعة على أنسجة بشرية أو مجموعات سريرية واختبارات وظيفية للآليات المقترحة.",
+            "من المبكر استخلاص استنتاجات علاجية أو توصيات حول تدخلات استنادًا إلى الأدلة الحالية من الدراسات ما قبل السريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=preclinical-mouse-models-reveal-how-aging-impairs-immune-threat-a-f7da3b55baaa",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/preclinical-mouse-models-reveal-how-aging-impairs-immune-threat-a-f7da3b55baaa-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/preclinical-mouse-models-reveal-how-aging-impairs-immune-threat-a-f7da3b55baaa-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Mouse models map genetic changes in immune ageing.\nStory summary: Researchers from Monash University used preclinical mouse models to identify genetic patterns—described as a blueprint—associated with immune ageing. The study aims to explain why older bodies are less effective at responding to infections and cancer threats..\nCategory: healthy ageing and longevity.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "mice-slept-70-less-after-scientists-switched-off-these-brain-cell-37ca70eaef69",
+      "category": "neuroscience and brain science",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+      "sourceTitle": "Mice slept 70% less after scientists switched off these brain cells",
+      "publishedAt": "Sun, 22 Nov 2026 21:02:10 EST",
+      "languages": {
+        "en": {
+          "title": "Turning off specific brain cells reduced sleep by about 70% in mice",
+          "summary": "A laboratory study reported that silencing a population of brain cells in mice greatly reduced sleep time—about 70% less—yet many animals did not display severe behavioural deficits usually associated with sleep loss. Authors highlight potential avenues for sleep‑mechanism research but frame results as preliminary.",
+          "whyItMatters": "The work reveals neural circuits that influence the drive to sleep, which may advance basic sleep science. Because the results come from animal experiments, their relevance to human sleep, safety and therapeutic use is speculative and requires extensive further research.",
+          "takeaways": [
+            "This is an animal/lab study identifying brain cells that contribute strongly to the urge to sleep in mice.",
+            "Silencing these cells markedly reduced sleep but did not produce expected severe short‑term behavioural harms in many animals—an observation that warrants cautious follow‑up.",
+            "Findings are preliminary and do not support any interventions in humans; translation requires substantial additional research.",
+            "The study advances understanding of sleep circuitry and may guide future basic and translational sleep research."
+          ]
+        },
+        "es": {
+          "title": "Apagar ciertas células cerebrales redujo el sueño en ratones en alrededor de un 70%",
+          "summary": "Un estudio de laboratorio informó que silenciar una población de células cerebrales en ratones redujo mucho el tiempo de sueño —aproximadamente un 70% menos—, aunque muchos animales no mostraron déficits conductuales graves que normalmente se asocian con la pérdida de sueño. Los autores presentan posibles vías para investigar mecanismos del sueño y califican los resultados como preliminares.",
+          "whyItMatters": "El trabajo revela circuitos neuronales que influyen en el impulso de dormir, lo que puede avanzar en la ciencia básica del sueño. Dado que los resultados provienen de experimentos en animales, su relevancia para el sueño humano, la seguridad o el uso terapéutico es especulativa y requiere mucha investigación adicional.",
+          "takeaways": [
+            "Es un estudio en animales/laboratorio que identifica células cerebrales que contribuyen de forma importante al impulso de dormir en ratones.",
+            "Silenciar estas células redujo marcadamente el sueño pero no produjo los daños conductuales agudos esperados en muchos animales: una observación que exige seguimientos cautelosos.",
+            "Los hallazgos son preliminares y no respaldan intervenciones en humanos; la traslación requiere investigación adicional sustancial.",
+            "El estudio mejora la comprensión de la circuitería del sueño y puede guiar futuras investigaciones básicas y traslacionales sobre el sueño."
+          ]
+        },
+        "ru": {
+          "title": "Выключение определённых нейронов сократило сон у мышей примерно на 70%",
+          "summary": "Лабораторное исследование показало, что заглушение популяции нейронов у мышей существенно сократило время сна — примерно на 70% — при этом у многих животных не наблюдалось тяжёлых поведенческих нарушений, обычно связанных с потерей сна. Авторы отмечают возможные направления для изучения механизмов сна и называют результаты предварительными.",
+          "whyItMatters": "Работа выявляет нейронные цепи, влияющие на позыв ко сну, что может продвинуть базовую науку о сне. Поскольку результаты получены в экспериментах на животных, их применимость к человеческому сну, безопасности или терапевтическому использованию является спекулятивной и требует дальнейших исследований.",
+          "takeaways": [
+            "Это исследование на животных/в лаборатории, в котором выявлены клетки мозга, существенно влияющие на стремление ко сну у мышей.",
+            "При заглушении этих клеток сон заметно сократился, но у многих животных не наблюдались ожидаемые острые поведенческие нарушения — это требует осторожной дальнейшей проверки.",
+            "Результаты предварительные и не поддерживают вмешательства у людей; для переноса на практику нужно намного больше исследований.",
+            "Исследование продвигает понимание схем регуляции сна и может направлять будущие базовые и трансляционные исследования."
+          ]
+        },
+        "uk": {
+          "title": "Вимкнення певних мозкових клітин скоротило сон у мишей приблизно на 70%",
+          "summary": "Лабораторне дослідження повідомляє, що заглушення певної популяції мозкових клітин у мишей суттєво зменшило час сну — приблизно на 70% — при цьому у багатьох тварин не спостерігалися тяжкі поведінкові порушення, які зазвичай пов’язують із втратою сну. Автори підкреслюють, що це відкриття є попереднім і відкриває можливі напрямки для дослідження механізмів сну.",
+          "whyItMatters": "Дослідження виявляє нейронні ланцюги, що впливають на потребу в сні, що може просунути базову науку про сон. Оскільки результати отримані в експериментах на тваринах, їхня релевантність для людського сну, безпеки або терапевтичного застосування є спекулятивною і потребує значно подальших досліджень.",
+          "takeaways": [
+            "Це дослідження на тваринах/в лабораторії, яке ідентифікує мозкові клітини, що сильно впливають на прагнення до сну в мишей.",
+            "Заглушення цих клітин значно зменшило сон, але в багатьох тварин не викликало очікуваних тяжких короткострокових поведінкових ушкоджень — спостереження, яке потребує обережного подальшого вивчення.",
+            "Результати є попередніми і не підтримують застосування будь‑яких втручань у людей; трансляція вимагатиме суттєвих додаткових досліджень.",
+            "Дослідження розширює розуміння схем сну і може спрямувати майбутні базові та трансляційні дослідження сну."
+          ]
+        },
+        "fr": {
+          "title": "L’extinction de certaines cellules cérébrales a réduit le sommeil d’environ 70 % chez la souris",
+          "summary": "Une étude de laboratoire rapporte que l’inactivation d’une population de cellules cérébrales chez la souris a fortement réduit le temps de sommeil — environ 70 % de moins — alors que chez de nombreux animaux on n’a pas observé de déficits comportementaux sévères généralement associés à la privation de sommeil. Les auteurs soulignent que les résultats sont préliminaires et ouvrent des pistes pour la recherche sur les mécanismes du sommeil.",
+          "whyItMatters": "Le travail révèle des circuits neuronaux qui influencent l’envie de dormir, ce qui peut faire progresser la science fondamentale du sommeil. Comme les résultats proviennent d’expériences animales, leur pertinence pour le sommeil humain, la sécurité et l’usage thérapeutique reste spéculative et nécessite des recherches beaucoup plus approfondies.",
+          "takeaways": [
+            "Il s’agit d’une étude animale/en laboratoire identifiant des cellules cérébrales qui contribuent fortement à l’envie de dormir chez la souris.",
+            "L’inactivation de ces cellules a réduit considérablement le sommeil, sans produire chez de nombreux animaux les dommages comportementaux aigus attendus — une observation qui mérite une enquête prudente.",
+            "Les résultats sont préliminaires et ne soutiennent aucune intervention chez l’humain ; la traduction nécessitera des recherches supplémentaires substantielles.",
+            "L’étude fait progresser la compréhension des circuits du sommeil et peut guider des recherches fondamentales et translationnelles futures."
+          ]
+        },
+        "de": {
+          "title": "Durch Abschalten bestimmter Gehirnzellen sank Schlaf bei Mäusen um rund 70%",
+          "summary": "Eine Laborstudie berichtete, dass das Stilllegen einer Population von Gehirnzellen bei Mäusen die Schlafdauer stark reduzierte — etwa 70% weniger —, wobei viele Tiere keine schweren Verhaltensdefizite zeigten, die üblicherweise mit Schlafverlust einhergehen. Die Autor:innen betonen mögliche Wege für die Schlafmechanismus‑Forschung, sehen die Ergebnisse aber als vorläufig an.",
+          "whyItMatters": "Die Arbeit zeigt neuronale Schaltkreise, die den Schlafantrieb beeinflussen, und kann die Grundlagenforschung zum Schlaf voranbringen. Da die Ergebnisse aus Tierversuchen stammen, ist ihre Relevanz für menschlichen Schlaf, Sicherheit und therapeutische Anwendungen spekulativ und erfordert umfangreiche weitere Forschung.",
+          "takeaways": [
+            "Dies ist eine Tier‑/Laborstudie, die Gehirnzellen identifiziert, die beim Mausmodell stark zum Schlafdrang beitragen.",
+            "Das Stilllegen dieser Zellen reduzierte den Schlaf deutlich, erzeugte aber bei vielen Tieren nicht die erwarteten schweren kurzfristigen Verhaltensschäden — eine Beobachtung, die vorsichtig weiter untersucht werden sollte.",
+            "Die Ergebnisse sind vorläufig und rechtfertigen keine Interventionen beim Menschen; die Übertragung erfordert umfangreiche zusätzliche Forschung.",
+            "Die Studie verbessert das Verständnis der Schlafschaltkreise und kann zukünftige Grundlagen‑ und translationale Schlafforschung leiten."
+          ]
+        },
+        "pt-br": {
+          "title": "Desligar células cerebrais específicas reduziu sono em cerca de 70% em camundongos",
+          "summary": "Um estudo de laboratório relatou que silenciar uma população de células cerebrais em camundongos reduziu muito o tempo de sono — cerca de 70% a menos —, e muitos animais não mostraram déficits comportamentais graves geralmente associados à privação de sono. Os autores destacam possíveis caminhos para a pesquisa sobre mecanismos do sono, mas consideram os resultados preliminares.",
+          "whyItMatters": "O trabalho revela circuitos neurais que influenciam o impulso ao sono e pode avançar a ciência básica do sono. Como os resultados vêm de experimentos animais, sua relevância para o sono humano, segurança e uso terapêutico é especulativa e exige ampla pesquisa adicional.",
+          "takeaways": [
+            "Trata‑se de um estudo em animais/laboratório que identifica células cerebrais que contribuem fortemente para o impulso de dormir em camundongos.",
+            "Silenciar essas células reduziu o sono de forma marcante, mas não produziu os prejuízos comportamentais graves esperados a curto prazo em muitos animais — observação que merece investigação cautelosa.",
+            "Os achados são preliminares e não apoiam intervenções em humanos; a tradução requer pesquisa adicional substancial.",
+            "O estudo avança a compreensão da circuitaria do sono e pode orientar futuras pesquisas básicas e translacionais sobre sono."
+          ]
+        },
+        "hu": {
+          "title": "Egyes agysejtek kikapcsolása körülbelül 70%-kal csökkentette az alvást egerekben",
+          "summary": "Egy laboratóriumi tanulmány arról számolt be, hogy egy agysejtcsoport elnémítása egerekben jelentősen csökkentette az alvással töltött időt — körülbelül 70%-kal kevesebbet —, ugyanakkor sok állatnál nem figyeltek meg súlyos viselkedési károsodást, amelyet általában az alvásmegvonással hoznak összefüggésbe. A szerzők a további alvásmechanizmus‑kutatás lehetőségeit emelik ki, és az eredményeket előzetesnek írják le.",
+          "whyItMatters": "A munka feltár olyan idegi áramköröket, amelyek befolyásolják az alvásszükséglettel kapcsolatos hajtóerőt, ami előrelépést jelenthet az alapvető alvástudományban. Mivel az eredmények állatkísérletekből származnak, emberi vonatkozásuk, biztonságuk és terápiás alkalmazhatóságuk spekulatív, és további széles körű kutatást igényel.",
+          "takeaways": [
+            "Ez egy állati/laboratóriumi tanulmány, amely olyan agysejteket azonosít, amelyek erőteljesen hozzájárulnak az alvás iránti késztetéshez egerekben.",
+            "E sejtek elnémítása jelentősen csökkentette az alvást, de sok állatnál nem jelentkeztek a várható súlyos rövid távú viselkedési károsodások — ez további óvatos vizsgálatot indokol.",
+            "Az eredmények előzetesek, és nem támasztanak alá semmilyen emberi beavatkozást; az átültetéshez jelentős további kutatás szükséges.",
+            "A tanulmány hozzájárul az alvás áramköreinek megértéséhez, és irányt adhat jövőbeli alap‑ és transzlációs alváskutatásokhoz."
+          ]
+        },
+        "ar": {
+          "title": "إيقاف مجموعة محددة من الخلايا الدماغية قلّص النوم بحوالي 70% لدى الفئران",
+          "summary": "أفادت دراسة مخبرية أن كبح نشاط مجموعة من الخلايا الدماغية لدى الفئران خفّض بشكل كبير وقت النوم — بنحو 70% أقل — ومع ذلك لم تُظهر العديد من الحيوانات عيوبًا سلوكية شديدة التي ترتبط عادةً بفقدان النوم. يبرز المؤلفون إمكانات البحث في آليات النوم، ويصفون النتائج بأنها أولية.",
+          "whyItMatters": "تكشف الدراسة دوائر عصبية تؤثر على دافع النوم، مما قد يطور العلم الأساسي عن النوم. وبما أن النتائج مستمدة من تجارب على الحيوانات، فصلةها بالبشر، والسلامة، والاستخدام العلاجي تبقى افتراضية وتستلزم أبحاثًا إضافية واسعة.",
+          "takeaways": [
+            "هذه دراسة على الحيوانات/في المختبر تحدد خلايا دماغية تساهم بقوة في الدافع إلى النوم لدى الفئران.",
+            "كبح هذه الخلايا قلّص النوم بشكل ملحوظ، لكن لم تُسجّل الأضرار السلوكية القصيرة الأجل المتوقعة في العديد من الحيوانات — ملاحظة تستدعي متابعة حذرة.",
+            "النتائج أولية ولا تدعم أي تدخلات لدى البشر؛ يتطلب النقل أبحاثًا إضافية كبيرة.",
+            "تقدّم الدراسة فهماً لدوائر النوم وقد توجه أبحاثًا أساسية وترجمية لاحقة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=mice-slept-70-less-after-scientists-switched-off-these-brain-cell-37ca70eaef69",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mice-slept-70-less-after-scientists-switched-off-these-brain-cell-37ca70eaef69-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/mice-slept-70-less-after-scientists-switched-off-these-brain-cell-37ca70eaef69-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Turning off specific brain cells reduced sleep by about 70% in mice.\nStory summary: A laboratory study reported that silencing a population of brain cells in mice greatly reduced sleep time—about 70% less—yet many animals did not display severe behavioural deficits usually associated with sleep loss. Authors highlight potential avenues for sleep‑mechanism research but frame results as preliminary..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
       "id": "can-an-ai-guided-diet-beat-healthy-eating-when-taking-metformin-b3714483aa5f",
       "category": "Nutrition and clinical trials",
       "sourceName": "news-medical.net",
@@ -1010,6 +1358,354 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Doctoral research identifies strategies to increase sarcoma visibility to immune system.\nStory summary: In a doctoral thesis, a researcher at Karolinska Institutet reports methods to alter sarcoma cells to make them easier for immune cells to recognise and attack. The work aims to inform combinations that could improve immunotherapy responses in sarcoma, a cancer type that has been less responsive to current immunotherapies..\nCategory: Cancer research and immunotherapy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "el-ni-o-amplified-food-insecurity-in-early-modern-europe-from-150-81b7e4ce9508",
+      "category": "nutrition",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43016-026-01460-8",
+      "sourceTitle": "El Niño amplified food insecurity in early modern Europe from 1500 to 1800",
+      "publishedAt": "2026-11-23",
+      "languages": {
+        "en": {
+          "title": "El Niño linked to increased famine risk in early modern Europe (1500–1800)",
+          "summary": "A Nature Food study used a dataset of 160 historical European famine episodes to examine links between El Niño/Southern Oscillation events and famine onset and duration across 1500–1800. The authors report an association between El Niño events and both the start and the length of some famine episodes in that period.",
+          "whyItMatters": "The work connects climate variability to historical food insecurity, illustrating how large-scale climate patterns have influenced famine risk in Europe over centuries. It highlights the potential for climate drivers to affect food systems, informing long-term thinking about climate impacts on nutrition and food security.",
+          "takeaways": [
+            "Researchers analysed historical records and found an association between El Niño events and famine onset/duration in early modern Europe.",
+            "This is historical/associational research and does not establish direct causal mechanisms applicable to modern food systems without further study.",
+            "Findings illustrate how climate variability can influence food security over long timescales, which may inform climate-risk thinking for present-day food supply resilience.",
+            "Limitations include the quality and completeness of historical records and differences between past and present agricultural, economic and social systems."
+          ]
+        },
+        "es": {
+          "title": "El Niño vinculado a mayor riesgo de hambruna en la Europa moderna temprana (1500–1800)",
+          "summary": "Un estudio publicado en Nature Food utilizó un conjunto de datos de 160 episodios históricos de hambruna en Europa para examinar las relaciones entre los eventos de El Niño/Oscilación del Sur y el inicio y la duración de hambrunas entre 1500 y 1800. Los autores informan una asociación entre eventos de El Niño y tanto el comienzo como la duración de algunos episodios de hambruna en ese periodo.",
+          "whyItMatters": "El trabajo conecta la variabilidad climática con la inseguridad alimentaria histórica, mostrando cómo patrones climáticos a gran escala han influido en el riesgo de hambruna en Europa a lo largo de siglos. Refuerza la idea de que los impulsos climáticos pueden afectar los sistemas alimentarios y puede ser útil para pensar a largo plazo sobre los impactos climáticos en la nutrición y la seguridad alimentaria.",
+          "takeaways": [
+            "Los investigadores analizaron registros históricos y encontraron una asociación entre eventos de El Niño y el inicio/duración de hambrunas en la Europa moderna temprana.",
+            "Se trata de investigación histórica y asociacional que no establece mecanismos causales directos aplicables a los sistemas alimentarios modernos sin estudios adicionales.",
+            "Los hallazgos ilustran cómo la variabilidad climática puede influir en la seguridad alimentaria en escalas temporales largas, lo que puede informar el pensamiento sobre riesgos climáticos y resiliencia del suministro de alimentos actual.",
+            "Las limitaciones incluyen la calidad y la completitud de los registros históricos y las diferencias entre los sistemas agrícolas, económicos y sociales del pasado y los actuales."
+          ]
+        },
+        "ru": {
+          "title": "Эль-Ниньо связано с повышенным риском голода в ранней современной Европе (1500–1800)",
+          "summary": "Исследование в Nature Food использовало базу данных из 160 исторических эпизодов голода в Европе, чтобы изучить связи между явлениями Эль‑Ниньо/Южной осцилляции и началом и длительностью голода в период 1500–1800 годов. Авторы сообщают об ассоциации между событиями Эль‑Ниньо и как началом, так и продолжительностью некоторых эпизодов голода в этот период.",
+          "whyItMatters": "Работа связывает климатическую изменчивость с исторической продовольственной небезопасностью, показывая, как крупномасштабные климатические явления влияли на риск голода в Европе на протяжении веков. Это подчёркивает возможность влияния климатических факторов на продовольственные системы и полезно для долгосрочного понимания влияния климата на питание и продовольственную безопасность.",
+          "takeaways": [
+            "Исследователи проанализировали исторические записи и обнаружили ассоциацию между событиями Эль‑Ниньо и началом/длительностью голода в ранней современной Европе.",
+            "Это историческое/ассоциативное исследование, которое не устанавливает прямых причинно‑следственных механизмов, применимых к современным продовольственным системам без дополнительной проверки.",
+            "Результаты показывают, как климатическая изменчивость может влиять на продовольственную безопасность в долгосрочной перспективе, что может помочь в оценке климатических рисков и устойчивости поставок продовольствия сегодня.",
+            "Ограничения включают качество и полноту исторических записей, а также различия между сельскохозяйственными, экономическими и социальными системами прошлого и настоящего."
+          ]
+        },
+        "uk": {
+          "title": "Ель‑Ніньйо пов’язане зі збільшеним ризиком голоду в ранньомодерній Європі (1500–1800)",
+          "summary": "Дослідження в Nature Food використало базу даних із 160 історичних випадків голоду в Європі, щоб вивчити зв’язок між явищами Ель‑Ніньйо/Південної осциляції та початком і тривалістю епізодів голоду в період 1500–1800 років. Автори повідомляють про асоціацію між подіями Ель‑Ніньйо та як початком, так і тривалістю деяких епізодів голоду в цей період.",
+          "whyItMatters": "Робота поєднує кліматичну мінливість з історичною нестачею їжі, ілюструючи, як масштабні кліматичні патерни впливали на ризик голоду в Європі протягом століть. Це підкреслює можливість того, що кліматичні фактори можуть впливати на продовольчі системи й має значення для довгострокових роздумів про вплив клімату на харчування та продовольчу безпеку.",
+          "takeaways": [
+            "Дослідники проаналізували історичні записи й виявили асоціацію між подіями Ель‑Ніньйо та початком/тривалістю голоду в ранньомодерній Європі.",
+            "Це історичне/асоціативне дослідження і воно не встановлює прямі причинно‑наслідкові механізми, які автоматично застосовувалися б до сучасних продовольчих систем без додаткових досліджень.",
+            "Результати ілюструють, як кліматична мінливість може впливати на продовольчу безпеку в довгостроковій перспективі і можуть допомогти в оцінці кліматичних ризиків для стійкості постачання продовольства сьогодні.",
+            "Обмеження включають якість і повноту історичних записів та відмінності між минулими й сучасними сільськогосподарськими, економічними й соціальними системами."
+          ]
+        },
+        "fr": {
+          "title": "El Niño associé à un risque accru de famine en Europe moderne (1500–1800)",
+          "summary": "Une étude publiée dans Nature Food a utilisé une base de données de 160 épisodes historiques de famine en Europe pour examiner les liens entre les événements El Niño/Oscillation australe et l’apparition et la durée des famines sur la période 1500–1800. Les auteurs rapportent une association entre les événements El Niño et à la fois le début et la durée de certains épisodes de famine de cette période.",
+          "whyItMatters": "Ce travail relie la variabilité climatique à l’insécurité alimentaire historique, illustrant comment des phénomènes climatiques à grande échelle ont influencé le risque de famine en Europe sur des siècles. Il souligne le potentiel des facteurs climatiques à affecter les systèmes alimentaires, utile pour la réflexion à long terme sur les impacts climatiques sur la nutrition et la sécurité alimentaire.",
+          "takeaways": [
+            "Les chercheurs ont analysé des archives historiques et trouvé une association entre les événements El Niño et l’apparition/la durée des famines en Europe moderne.",
+            "Il s’agit d’une recherche historique/associative et elle n’établit pas de mécanismes causaux directs applicables aux systèmes alimentaires contemporains sans études complémentaires.",
+            "Les conclusions montrent comment la variabilité climatique peut influencer la sécurité alimentaire sur de longues échelles temporelles, ce qui peut éclairer la gestion des risques climatiques pour la résilience de l’approvisionnement alimentaire actuel.",
+            "Les limites comprennent la qualité et l’exhaustivité des archives historiques et les différences entre les systèmes agricoles, économiques et sociaux passés et présents."
+          ]
+        },
+        "de": {
+          "title": "El Niño mit erhöhtem Hungerrisiko im frühneuzeitlichen Europa (1500–1800)",
+          "summary": "Eine Studie in Nature Food nutzte ein Datenset mit 160 historischen Hungersnot‑Episoden in Europa, um Zusammenhänge zwischen El Niño/Southern Oscillation‑Ereignissen und dem Beginn sowie der Dauer von Hungersnöten im Zeitraum 1500–1800 zu untersuchen. Die Autor:innen berichten über eine Assoziation zwischen El Niño‑Ereignissen und sowohl dem Auftreten als auch der Länge einiger Hungersnot‑Episoden in dieser Periode.",
+          "whyItMatters": "Die Arbeit verbindet Klimavariabilität mit historischer Ernährungsunsicherheit und zeigt, wie großskalige Klimamuster über Jahrhunderte das Hungerrisiko in Europa beeinflusst haben. Sie unterstreicht, dass Klimafaktoren Nahrungsmittelsysteme beeinflussen können und liefert Orientierung für langfristiges Nachdenken über Klimaauswirkungen auf Ernährung und Ernährungssicherheit.",
+          "takeaways": [
+            "Die Forschenden analysierten historische Aufzeichnungen und fanden eine Assoziation zwischen El Niño‑Ereignissen und dem Beginn bzw. der Dauer von Hungersnöten in frühneuzeitlichem Europa.",
+            "Es handelt sich um historische/assoziative Forschung; sie stellt keine direkten kausalen Mechanismen dar, die ohne weitere Untersuchungen auf moderne Nahrungsmittelsysteme übertragbar wären.",
+            "Die Ergebnisse zeigen, wie Klimavariabilität Ernährungsunsicherheit über lange Zeiträume beeinflussen kann und können das Klima‑Risikodenken für die Resilienz der heutigen Lebensmittelversorgung informieren.",
+            "Einschränkungen betreffen die Qualität und Vollständigkeit historischer Aufzeichnungen sowie Unterschiede zwischen früheren und heutigen landwirtschaftlichen, wirtschaftlichen und sozialen Systemen."
+          ]
+        },
+        "pt-br": {
+          "title": "El Niño associado a maior risco de fome na Europa da era moderna (1500–1800)",
+          "summary": "Um estudo publicado na Nature Food usou um conjunto de dados com 160 episódios históricos de fome na Europa para examinar ligações entre eventos do El Niño/OSC e o início e a duração das fomes entre 1500 e 1800. Os autores relatam uma associação entre eventos de El Niño e tanto o começo quanto a duração de alguns episódios de fome nesse período.",
+          "whyItMatters": "O trabalho conecta a variabilidade climática à insegurança alimentar histórica, ilustrando como padrões climáticos em larga escala influenciaram o risco de fome na Europa ao longo dos séculos. Isso destaca o potencial de fatores climáticos afetarem sistemas alimentares e informa reflexões de longo prazo sobre impactos climáticos na nutrição e na segurança alimentar.",
+          "takeaways": [
+            "Pesquisadores analisaram registros históricos e encontraram uma associação entre eventos de El Niño e o início/duração de fomes na Europa da era moderna.",
+            "Trata‑se de pesquisa histórica/associativa; não estabelece mecanismos causais diretos que possam ser aplicados aos sistemas alimentares modernos sem estudos adicionais.",
+            "Os achados ilustram como a variabilidade climática pode influenciar a segurança alimentar em escalas de tempo longas, podendo orientar o pensamento sobre risco climático para a resiliência do abastecimento atual.",
+            "Limitações incluem a qualidade e a completude dos registros históricos e diferenças entre os sistemas agrícolas, econômicos e sociais do passado e do presente."
+          ]
+        },
+        "hu": {
+          "title": "Az El Niño az éhínség kockázatának növekedésével hozható összefüggésbe a kora újkori Európában (1500–1800)",
+          "summary": "A Nature Food folyóiratban megjelent tanulmány 160 történelmi európai éhínség‑esemény adatbázisát használta arra, hogy vizsgálja az El Niño/Déli‑ingadozás (ENSO) események és az éhínségek kezdetének és tartamának összefüggéseit 1500–1800 között. A szerzők szerint az El Niño események összefüggésben álltak bizonyos éhínség‑epizódok kezdetével és hosszával az említett időszakban.",
+          "whyItMatters": "A munka összekapcsolja az éghajlati ingadozásokat a történelmi élelmiszer‑bizonytalansággal, bemutatva, hogy a nagy léptékű éghajlati mintázatok évszázadokon át befolyásolhatták az éhínség kockázatát Európában. Kiemeli, hogy az éghajlati hajtóerők hatással lehetnek az élelmiszer‑rendszerekre, ami hosszú távú gondolkodáshoz nyújthat támpontot az élelmezés és a táplálkozás éghajlati hatásaival kapcsolatban.",
+          "takeaways": [
+            "A kutatók történelmi feljegyzéseket elemeztek, és összefüggést találtak az El Niño események és az éhínségek kezdetének/tartamának gyakorisága között a kora újkori Európában.",
+            "Ez történelmi, asszociatív jellegű kutatás, és nem állapít meg közvetlen oksági mechanizmusokat, amelyeket modern élelmiszer‑rendszerekre automatikusan alkalmazni lehet további vizsgálatok nélkül.",
+            "Az eredmények illusztrálják, hogyan befolyásolhatja az éghajlati változékonyság az élelmezésbiztonságot hosszú időtávon, ami hasznos lehet a jelenkori éghajlati kockázatok mérlegeléséhez az ellátás ellenállóképessége szempontjából.",
+            "Korlátozások: a történelmi feljegyzések minősége és teljessége, valamint a múlt és a jelen mezőgazdasági, gazdasági és társadalmi rendszereinek különbségei befolyásolhatják az értelmezést."
+          ]
+        },
+        "ar": {
+          "title": "رُبط إل نينيو بزيادة مخاطر المجاعة في أوروبا الحديثة المبكّرة (1500–1800)",
+          "summary": "استخدمت دراسة منشورة في Nature Food مجموعة بيانات تضمّ 160 حادثة مجاعة تاريخية في أوروبا لفحص الصلات بين أحداث إل نينيو/تذبذب جنوب المحيط الهادئ وبَدء وطول فترات المجاعة في الفترة 1500–1800. أفاد المؤلفون بوجود ارتباط بين أحداث إل نينيو وكلّ من بدء وطول بعض فترات المجاعة في تلك الفترة.",
+          "whyItMatters": "تربط الدراسة تقلب المناخ بعدم أمن الغذاء التاريخي، موضحةً كيف أثّرت أنماط مناخية واسعة النطاق على خطر المجاعة في أوروبا على مدى قرون. تبرز النتائج احتمال تأثير عوامل مناخية على نظم الغذاء، مما يساعد على التفكير طويل الأمد بشأن تأثيرات المناخ على التغذية والأمن الغذائي.",
+          "takeaways": [
+            "حلّل الباحثون سجلات تاريخية ووجدوا ارتباطًا بين أحداث إل نينيو وبداية/مدة المجاعات في أوروبا الحديثة المبكرة.",
+            "هذه أبحاث تاريخية/ارتباطية ولا تثبت آليات سبب‑و‑نتيجة مباشرة يمكن تطبيقها على نظم الغذاء الحديثة دون دراسات إضافية.",
+            "النتائج توضح كيف يمكن لتقلبات المناخ أن تؤثر على الأمن الغذائي على فترات زمنية طويلة، وهو ما قد يفيد في تقييم مخاطر المناخ على مرونة الإمدادات الغذائية اليوم.",
+            "القيود تشمل جودة واكتمال السجلات التاريخية والاختلافات بين نظم الزراعة والاقتصاد والمجتمع في الماضي والحاضر."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=el-ni-o-amplified-food-insecurity-in-early-modern-europe-from-150-81b7e4ce9508",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/el-ni-o-amplified-food-insecurity-in-early-modern-europe-from-150-81b7e4ce9508-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/el-ni-o-amplified-food-insecurity-in-early-modern-europe-from-150-81b7e4ce9508-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: El Niño linked to increased famine risk in early modern Europe (1500–1800).\nStory summary: A Nature Food study used a dataset of 160 historical European famine episodes to examine links between El Niño/Southern Oscillation events and famine onset and duration across 1500–1800. The authors report an association between El Niño events and both the start and the length of some famine episodes in that period..\nCategory: nutrition.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "biological-differences-may-affect-dementia-with-lewy-bodies-0ccee1a96d2e",
+      "category": "neuroscience and brain science",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/biological-differences-may-affect-dementia-with-lewy-bodies",
+      "sourceTitle": "Biological differences may affect dementia with Lewy bodies",
+      "publishedAt": "23 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Alzheimer’s biomarkers linked to faster decline in dementia with Lewy bodies",
+          "summary": "A Karolinska Institutet study published in Alzheimer’s & Dementia reports that people diagnosed with dementia with Lewy bodies who also show biological signs of Alzheimer’s disease tend to have a faster cognitive decline. The authors suggest that biomarker profiles could help individualise prognoses.",
+          "whyItMatters": "Identifying coexisting pathological signatures could refine prognosis and clinical decision‑making for people with dementia, and may inform stratification in research. The finding is based on biomarker associations rather than treatment trials.",
+          "takeaways": [
+            "The study found associations between Alzheimer’s-type biomarkers and a faster cognitive decline in people with dementia with Lewy bodies.",
+            "This is observational/biomarker research; it suggests prognostic information but does not imply a treatment effect.",
+            "Biomarker-based assessment may contribute to more individualised predictions of disease course, pending further validation.",
+            "Clinical implications for care or therapy are limited until prospective studies link biomarker profiles to intervention responses."
+          ]
+        },
+        "es": {
+          "title": "Biomarcadores de Alzheimer asociados con un deterioro más rápido en la demencia con cuerpos de Lewy",
+          "summary": "Un estudio del Karolinska Institutet publicado en Alzheimer’s & Dementia informa que las personas con demencia por cuerpos de Lewy que también muestran indicios biológicos de enfermedad de Alzheimer tienden a experimentar un empeoramiento cognitivo más rápido. Los autores sugieren que los perfiles de biomarcadores podrían ayudar a individualizar los pronósticos.",
+          "whyItMatters": "Identificar firmas patológicas coexistentes podría afinar el pronóstico y la toma de decisiones clínicas para personas con demencia, y puede ser útil para la estratificación en investigación. El hallazgo se basa en asociaciones entre biomarcadores y no en ensayos de tratamiento.",
+          "takeaways": [
+            "El estudio encontró asociaciones entre biomarcadores de tipo Alzheimer y un declive cognitivo más rápido en personas con demencia por cuerpos de Lewy.",
+            "Es una investigación observacional/centrada en biomarcadores; sugiere información pronóstica pero no implica un efecto terapéutico.",
+            "La evaluación basada en biomarcadores puede contribuir a predicciones más individualizadas del curso de la enfermedad, pendiente de validación adicional.",
+            "Las implicaciones clínicas para el cuidado o la terapia son limitadas hasta que estudios prospectivos vinculen perfiles de biomarcadores con respuestas a intervenciones."
+          ]
+        },
+        "ru": {
+          "title": "Биомаркёры болезни Альцгеймера связаны с более быстрым ухудшением при деменции с тельцами Леви",
+          "summary": "Исследование Karolinska Institutet, опубликованное в Alzheimer’s & Dementia, сообщает, что у людей с деменцией с тельцами Леви наличие биологических признаков болезни Альцгеймера связано с более быстрым когнитивным спадом. Авторы предполагают, что профиль биомаркёров может помочь персонализировать прогнозы.",
+          "whyItMatters": "Выявление сосуществующих патологических сигналов может уточнить прогноз и клинические решения для пациентов с деменцией и быть полезным для стратификации в исследованиях. Результаты основаны на ассоциациях биомаркёров, а не на результатах лечебных испытаний.",
+          "takeaways": [
+            "Исследование обнаружило ассоциации между биомаркёрами типа Альцгеймера и более быстрым когнитивным снижением у пациентов с деменцией с тельцами Леви.",
+            "Это наблюдательное исследование/исследование биомаркёров; оно даёт прогностическую информацию, но не указывает на терапевтический эффект.",
+            "Оценка на основе биомаркёров может способствовать более индивидуализированным прогнозам течения болезни при условии дальнейшей валидации.",
+            "Клинические последствия для ухода или терапии ограничены до тех пор, пока проспективные исследования не свяжут профили биомаркёров с ответом на вмешательства."
+          ]
+        },
+        "uk": {
+          "title": "Біомаркери хвороби Альцгеймера пов’язані з більш швидким погіршенням при деменції з тілами Леві",
+          "summary": "Дослідження Каролінського інституту, опубліковане в Alzheimer’s & Dementia, повідомляє, що люди з діагнозом деменції з тілами Леві, у яких також виявлені біологічні ознаки хвороби Альцгеймера, як правило, зазнають швидшого когнітивного занепаду. Автори пропонують, що профілі біомаркерів можуть допомогти індивідуалізувати прогнози.",
+          "whyItMatters": "Виявлення співіснуючих патологічних підписів може уточнювати прогноз і клінічне прийняття рішень для людей з деменцією і може використовуватися для стратифікації в дослідженнях. Знаходження ґрунтується на асоціаціях біомаркерів, а не на результатах лікувальних випробувань.",
+          "takeaways": [
+            "Дослідження виявило асоціації між біомаркерами типу Альцгеймера та швидшим когнітивним занепадом у людей з деменцією з тілами Леві.",
+            "Це спостережне/біомаркерне дослідження; воно пропонує прогностичну інформацію, але не свідчить про лікувальний ефект.",
+            "Оцінка на основі біомаркерів може сприяти більш індивідуальним прогнозам хвороби за умови подальшої валідації.",
+            "Клінічні наслідки для догляду або терапії обмежені до проведення проспективних досліджень, які пов’язують профілі біомаркерів з відповіддю на втручання."
+          ]
+        },
+        "fr": {
+          "title": "Les biomarqueurs de la maladie d’Alzheimer associés à un déclin plus rapide dans la démence à corps de Lewy",
+          "summary": "Une étude de l’Institut Karolinska publiée dans Alzheimer’s & Dementia rapporte que les personnes diagnostiquées avec une démence à corps de Lewy qui présentent également des signes biologiques de la maladie d’Alzheimer ont tendance à présenter un déclin cognitif plus rapide. Les auteurs suggèrent que les profils de biomarqueurs pourraient aider à individualiser les pronostics.",
+          "whyItMatters": "Identifier des signatures pathologiques coexistantes pourrait affiner le pronostic et la prise de décision clinique pour les personnes atteintes de démence, et informer la stratification dans la recherche. La conclusion repose sur des associations de biomarqueurs plutôt que sur des essais thérapeutiques.",
+          "takeaways": [
+            "L’étude a trouvé des associations entre des biomarqueurs de type Alzheimer et un déclin cognitif plus rapide chez des personnes atteintes de démence à corps de Lewy.",
+            "Il s’agit d’une recherche observationnelle/biomarqueur ; elle suggère une information pronostique mais n’implique pas d’effet de traitement.",
+            "L’évaluation fondée sur les biomarqueurs peut contribuer à des prédictions de l’évolution de la maladie plus individualisées, sous réserve de validations supplémentaires.",
+            "Les implications cliniques pour les soins ou la thérapie sont limitées tant que des études prospectives ne lient pas les profils de biomarqueurs aux réponses aux interventions."
+          ]
+        },
+        "de": {
+          "title": "Alzheimer‑Biomarker mit schnellerem Abbau bei Demenz mit Lewy‑Körpern verbunden",
+          "summary": "Eine Studie des Karolinska Institutet, veröffentlicht in Alzheimer’s & Dementia, berichtet, dass Menschen mit der Diagnose Demenz mit Lewy‑Körpern, die auch biologische Hinweise auf Alzheimer‑Erkrankung zeigen, tendenziell einen schnelleren kognitiven Abbau aufweisen. Die Autor:innen schlagen vor, dass Biomarker‑Profile helfen könnten, Prognosen zu individualisieren.",
+          "whyItMatters": "Das Erkennen koexistierender pathologischer Signaturen könnte Prognosen und klinische Entscheidungen für Menschen mit Demenz verfeinern und die Stratifizierung in der Forschung informieren. Der Befund beruht auf Biomarker‑Assoziationen und nicht auf Behandlungstests.",
+          "takeaways": [
+            "Die Studie fand Assoziationen zwischen Alzheimer‑artigen Biomarkern und einem schnelleren kognitiven Abbau bei Menschen mit Demenz mit Lewy‑Körpern.",
+            "Es handelt sich um beobachtende/Biomarker‑Forschung; sie deutet auf prognostische Informationen hin, impliziert aber keinen Behandlungseffekt.",
+            "Biomarker‑basierte Untersuchungen können zu individuelleren Vorhersagen des Krankheitsverlaufs beitragen, sofern weitere Validierung erfolgt.",
+            "Klinische Implikationen für Versorgung oder Therapie sind begrenzt, bis prospektive Studien Biomarkerprofile mit Reaktionen auf Interventionen verknüpfen."
+          ]
+        },
+        "pt-br": {
+          "title": "Biomarcadores de Alzheimer associados a declínio mais rápido na demência com corpos de Lewy",
+          "summary": "Um estudo do Karolinska Institutet, publicado em Alzheimer’s & Dementia, relata que pessoas com diagnóstico de demência com corpos de Lewy que também apresentam sinais biológicos de doença de Alzheimer tendem a ter um declínio cognitivo mais rápido. Os autores sugerem que perfis de biomarcadores podem ajudar a individualizar prognósticos.",
+          "whyItMatters": "Identificar assinaturas patológicas coexistentes pode refinar o prognóstico e a tomada de decisão clínica para pessoas com demência e informar a estratificação em pesquisas. A conclusão baseia‑se em associações de biomarcadores, não em ensaios de tratamento.",
+          "takeaways": [
+            "O estudo encontrou associações entre biomarcadores do tipo Alzheimer e declínio cognitivo mais rápido em pessoas com demência com corpos de Lewy.",
+            "Trata‑se de pesquisa observacional/biomarcador; sugere informação prognóstica, mas não implica efeito de tratamento.",
+            "Avaliação baseada em biomarcadores pode contribuir para previsões mais individualizadas do curso da doença, sujeita a validação adicional.",
+            "Implicações clínicas para cuidado ou terapia são limitadas até que estudos prospectivos vinculem perfis de biomarcadores à resposta a intervenções."
+          ]
+        },
+        "hu": {
+          "title": "Az Alzheimer‑kór biomarkerei gyorsabb hanyatlással kapcsolódnak a Lewy‑testes demenciához",
+          "summary": "A Karolinska Institutet vizsgálata, amely az Alzheimer’s & Dementia folyóiratban jelent meg, arról számol be, hogy azoknál a Lewy‑testes demenciában diagnosztizált embereknél, akiknél az Alzheimer‑kór biológiai jelei is megfigyelhetők, hajlamosabbak voltak gyorsabb kognitív hanyatlásra. A szerzők azt javasolják, hogy a biomarker‑profilok segíthetnek az egyéni előrejelzések finomításában.",
+          "whyItMatters": "A párhuzamos kóros jelek azonosítása finomíthatja a prognózist és a klinikai döntéshozatalt demenciában szenvedőknél, és segíthet a kutatások sztratifikálásában. A megállapítás biomarker‑összefüggésen alapul, nem pedig kezelési vizsgálatokon.",
+          "takeaways": [
+            "A tanulmány összefüggéseket talált az Alzheimer‑szerű biomarkerek és a gyorsabb kognitív hanyatlás között Lewy‑testes demenciában szenvedőknél.",
+            "Ez megfigyelésen/alapú biomarker‑kutatás; prognosztikus információt nyújthat, de nem jelent kezelési hatást.",
+            "A biomarkerekre épülő értékelés hozzájárulhat az egyénre szabottabb betegséglefolyás‑előrejelzésekhez, további validálásig.",
+            "A klinikai következmények a gondozásra vagy terápiára korlátozottak, amíg prospektív vizsgálatok nem kapcsolják össze a biomarker‑profilokat a beavatkozásokra adott válaszokkal."
+          ]
+        },
+        "ar": {
+          "title": "مؤشرات بيولوجية للألزهايمر مرتبطة بتدهور أسرع في الخرف مع أجسام ليوي",
+          "summary": "أفادت دراسة من معهد كارولينسكا نُشرت في Alzheimer’s & Dementia أن الأشخاص المشخّصين بالخرف المصحوب بأجسام ليوي والذين يظهرون أيضًا دلائل بيولوجية لمرض ألزهايمر يميلون إلى تدهور إدراكي أسرع. يقترح المؤلفون أن ملفات المؤشرات الحيوية قد تساعد في تخصيص التنبؤات الفردية.",
+          "whyItMatters": "قد يؤدي تحديد التواقيع المرضية المتزامنة إلى تحسين التنبؤ السريري وصنع القرار للأشخاص المصابين بالخرف، وقد يساعد في تقنين مجموعات البحث. تعتمد النتيجة على ارتباطات مؤشرات حيوية وليست ناتجة عن تجارب علاجية.",
+          "takeaways": [
+            "وجدت الدراسة ارتباطًا بين مؤشرات شبيهة بالألزهايمر وتدهور إدراكي أسرع لدى المصابين بالخرف مع أجسام ليوي.",
+            "هذه أبحاث رصدية/مبنية على مؤشرات حيوية؛ تشير إلى معلومات تنبؤية لكنها لا تعني تأثيرًا علاجيًا.",
+            "قد تسهم التقييمات المستندة إلى المؤشرات الحيوية في توقعات أكثر تخصيصًا لمسار المرض، بانتظار المزيد من التحقق.",
+            "الآثار السريرية على الرعاية أو العلاج محدودة حتى تربط دراسات مستقبلية ملفات المؤشرات الحيوية باستجابات التدخلات."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=biological-differences-may-affect-dementia-with-lewy-bodies-0ccee1a96d2e",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biological-differences-may-affect-dementia-with-lewy-bodies-0ccee1a96d2e-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biological-differences-may-affect-dementia-with-lewy-bodies-0ccee1a96d2e-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Alzheimer’s biomarkers linked to faster decline in dementia with Lewy bodies.\nStory summary: A Karolinska Institutet study published in Alzheimer’s & Dementia reports that people diagnosed with dementia with Lewy bodies who also show biological signs of Alzheimer’s disease tend to have a faster cognitive decline. The authors suggest that biomarker profiles could help individualise prognoses..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "are-glp-1s-enabling-disordered-eating-5eca3c5d7ea0",
+      "category": "nutrition / behavioural health",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/opinion/second-opinions/123986",
+      "sourceTitle": "Are GLP-1s Enabling Disordered Eating?",
+      "publishedAt": "Sun, 22 Nov 2026 12:00:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Opinion: concerns raised about GLP‑1 weight‑loss drugs and disordered eating",
+          "summary": "A MedPage Today opinion piece discusses clinical observations and concerns that GLP‑1 receptor agonists—medications used for weight loss and diabetes—may in some cases enable or interact with disordered eating behaviours. The author shares clinical experience and reflects on how clinicians might assess patients.",
+          "whyItMatters": "As GLP‑1 drugs become more widely used, clinical discussion of potential unintended effects on eating behaviour is important for patient monitoring and research. Opinion pieces highlight questions but do not substitute for systematic evidence.",
+          "takeaways": [
+            "This is an opinion article based on clinical observations and discussion, not a systematic study.",
+            "Authors raise caution about possible links between GLP‑1 treatment and disordered eating in some patients and recommend awareness among clinicians.",
+            "The piece underscores the need for rigorous research to quantify risks, identify vulnerable patients and guide monitoring.",
+            "Readers should not change medications based on opinion alone; clinical decisions require evidence and personalized medical advice."
+          ]
+        },
+        "es": {
+          "title": "Opinión: inquietudes sobre los fármacos GLP‑1 para perder peso y los trastornos de la conducta alimentaria",
+          "summary": "Una columna de opinión en MedPage Today discute observaciones clínicas y preocupaciones de que los agonistas del receptor GLP‑1 —medicamentos usados para la pérdida de peso y la diabetes— podrían en algunos casos facilitar o interactuar con conductas alimentarias desordenadas. El autor comparte experiencia clínica y reflexiona sobre cómo los clínicos podrían evaluar a los pacientes.",
+          "whyItMatters": "A medida que los fármacos GLP‑1 se usan más ampliamente, la discusión clínica sobre posibles efectos no deseados en el comportamiento alimentario es importante para la vigilancia de pacientes y la investigación. Los artículos de opinión plantean preguntas pero no sustituyen la evidencia sistemática.",
+          "takeaways": [
+            "Se trata de un artículo de opinión basado en observaciones clínicas y discusión, no en un estudio sistemático.",
+            "Los autores llaman a la precaución respecto a posibles vínculos entre el tratamiento con GLP‑1 y trastornos de la conducta alimentaria en algunos pacientes y recomiendan atención por parte de los clínicos.",
+            "El artículo subraya la necesidad de investigación rigurosa para cuantificar riesgos, identificar pacientes vulnerables y orientar el seguimiento.",
+            "Los lectores no deben cambiar medicamentos basándose solo en una opinión; las decisiones clínicas requieren evidencia y consejo médico personalizado."
+          ]
+        },
+        "ru": {
+          "title": "Мнение: опасения по поводу препаратов GLP‑1 для похудения и расстройств пищевого поведения",
+          "summary": "Колонка мнения в MedPage Today обсуждает клинические наблюдения и опасения, что агонисты рецептора GLP‑1 — препараты, используемые для снижения веса и при диабете — в некоторых случаях могут способствовать или взаимодействовать с расстройствами пищевого поведения. Автор делится клиническим опытом и рассуждает о том, как клиницисты могут оценивать пациентов.",
+          "whyItMatters": "По мере широкого распространения препаратов GLP‑1 важно обсуждать возможные непреднамеренные эффекты на пищевое поведение для мониторинга пациентов и дальнейших исследований. Статьи мнений поднимают вопросы, но не заменяют систематические доказательства.",
+          "takeaways": [
+            "Это материал мнения, основанный на клинических наблюдениях и обсуждении, а не на систематическом исследовании.",
+            "Авторы выражают осторожность относительно возможных связей между лечением GLP‑1 и расстройствами пищевого поведения у некоторых пациентов и рекомендуют внимательность со стороны клиницистов.",
+            "Статья подчёркивает необходимость строгих исследований для количественной оценки рисков, выявления уязвимых пациентов и разработки рекомендаций по мониторингу.",
+            "Читателям не следует менять препараты только на основании мнения; клинические решения требуют доказательств и персонализированной медицинской консультации."
+          ]
+        },
+        "uk": {
+          "title": "Думка: підняті занепокоєння щодо препаратів GLP‑1 для схуднення та розладів харчової поведінки",
+          "summary": "Оглядна стаття в MedPage Today обговорює клінічні спостереження та занепокоєння, що агоністи рецептора GLP‑1 — ліки, які застосовують для зниження ваги та при діабеті — у деяких випадках можуть сприяти або взаємодіяти з порушеннями харчової поведінки. Автор ділиться клінічним досвідом і розмірковує, як клініцисти можуть оцінювати пацієнтів.",
+          "whyItMatters": "Оскільки препарати GLP‑1 стають ширше вживаними, клінічне обговорення потенційних небажаних ефектів на харчову поведінку важливе для моніторингу пацієнтів і подальших досліджень. Статті‑думки висвітлюють питання, але не замінюють систематичних доказів.",
+          "takeaways": [
+            "Це стаття‑думка, заснована на клінічних спостереженнях і обговоренні, а не на систематичному дослідженні.",
+            "Автори висловлюють обережність щодо можливих зв’язків між лікуванням GLP‑1 і розладами харчової поведінки у деяких пацієнтів і рекомендують увагу з боку клініцистів.",
+            "Стаття підкреслює потребу в ретельних дослідженнях для кількісної оцінки ризиків, ідентифікації вразливих пацієнтів і розробки підходів моніторингу.",
+            "Читачам не слід самостійно змінювати лікування на підставі лише думки; клінічні рішення потребують доказової бази та персоналізованої медичної поради."
+          ]
+        },
+        "fr": {
+          "title": "Opinion : inquiétudes soulevées concernant les médicaments GLP‑1 pour la perte de poids et les troubles alimentaires",
+          "summary": "Un article d’opinion dans MedPage Today discute d’observations cliniques et d’inquiétudes selon lesquelles les agonistes du récepteur GLP‑1 — des médicaments utilisés pour la perte de poids et le diabète — pourraient, dans certains cas, favoriser ou interagir avec des troubles du comportement alimentaire. L’auteur partage son expérience clinique et réfléchit à la manière dont les cliniciens pourraient évaluer les patients.",
+          "whyItMatters": "À mesure que les médicaments GLP‑1 sont davantage utilisés, la discussion clinique sur d’éventuels effets indésirables sur le comportement alimentaire est importante pour la surveillance des patients et la recherche. Les articles d’opinion soulèvent des questions mais ne remplacent pas des preuves systématiques.",
+          "takeaways": [
+            "Il s’agit d’un article d’opinion fondé sur des observations cliniques et des discussions, et non sur une étude systématique.",
+            "Les auteurs appellent à la prudence quant aux liens possibles entre le traitement par GLP‑1 et des troubles alimentaires chez certains patients et recommandent la vigilance des cliniciens.",
+            "L’article souligne le besoin de recherches rigoureuses pour quantifier les risques, identifier les patients vulnérables et guider le suivi.",
+            "Les lecteurs ne doivent pas modifier leur traitement sur la base d’une opinion seule ; les décisions cliniques nécessitent des preuves et des conseils médicaux personnalisés."
+          ]
+        },
+        "de": {
+          "title": "Meinungsartikel: Bedenken zu GLP‑1‑Gewichtsmedikamenten und gestörtem Essverhalten",
+          "summary": "Ein Meinungsbeitrag in MedPage Today diskutiert klinische Beobachtungen und Bedenken, dass GLP‑1‑Rezeptoragonisten — Medikamente zur Gewichtsreduktion und bei Diabetes — in manchen Fällen gestörtes Essverhalten begünstigen oder damit interagieren könnten. Die Autor:in teilt klinische Erfahrungen und reflektiert, wie Kliniker:innen Patient:innen beurteilen könnten.",
+          "whyItMatters": "Da GLP‑1‑Medikamente weiter verbreitet eingesetzt werden, ist die klinische Diskussion über mögliche unbeabsichtigte Effekte auf Essverhalten wichtig für Monitoring und Forschung. Meinungsartikel heben Fragen hervor, ersetzen aber keine systematischen Evidenzen.",
+          "takeaways": [
+            "Dies ist ein Meinungsartikel, basierend auf klinischen Beobachtungen und Diskussion, nicht auf einer systematischen Studie.",
+            "Die Autor:innen warnen vor möglichen Zusammenhängen zwischen GLP‑1‑Behandlung und gestörtem Essverhalten bei einigen Patient:innen und empfehlen Sensibilität bei Kliniker:innen.",
+            "Der Beitrag betont die Notwendigkeit rigoroser Forschung, um Risiken zu quantifizieren, anfällige Patientengruppen zu identifizieren und Monitoring‑Leitlinien zu entwickeln.",
+            "Leser:innen sollten Medikamente nicht allein aufgrund einer Meinungsäußerung ändern; klinische Entscheidungen erfordern Evidenz und individuelle ärztliche Beratung."
+          ]
+        },
+        "pt-br": {
+          "title": "Opinião: levantadas preocupações sobre medicamentos GLP‑1 para emagrecimento e transtornos alimentares",
+          "summary": "Um artigo de opinião no MedPage Today discute observações clínicas e preocupações de que agonistas do receptor GLP‑1 — medicamentos usados para perda de peso e diabetes — possam, em alguns casos, favorecer ou interagir com comportamentos alimentares desordenados. O autor compartilha experiência clínica e reflete sobre como clínicos podem avaliar pacientes.",
+          "whyItMatters": "À medida que medicamentos GLP‑1 se tornam mais usados, a discussão clínica sobre possíveis efeitos não intencionais no comportamento alimentar é importante para monitoramento e pesquisa. Artigos de opinião levantam questões, mas não substituem evidência sistemática.",
+          "takeaways": [
+            "Este é um artigo de opinião baseado em observações clínicas e discussão, não um estudo sistemático.",
+            "Os autores alertam sobre possíveis ligações entre tratamento com GLP‑1 e transtornos alimentares em alguns pacientes e recomendam atenção por parte dos clínicos.",
+            "O texto ressalta a necessidade de pesquisa rigorosa para quantificar riscos, identificar pacientes vulneráveis e orientar monitoramento.",
+            "Leitores não devem alterar medicações com base apenas em opinião; decisões clínicas exigem evidência e aconselhamento médico personalizado."
+          ]
+        },
+        "hu": {
+          "title": "Vélemény: aggályok a GLP‑1 fogyást segítő gyógyszerek és a táplálkozási zavarok kapcsolatáról",
+          "summary": "A MedPage Today véleménycikke klinikai megfigyeléseket és aggályokat tárgyal arról, hogy a GLP‑1 receptor agonisták — amelyeket fogyásra és cukorbetegség kezelésére használnak — egyes esetekben elősegíthetik vagy kölcsönhatásba léphetnek a táplálkozási zavarokkal. A szerző klinikai tapasztalatot oszt meg, és arról reflektál, hogyan értékelhetik a klinikusok a betegeket.",
+          "whyItMatters": "Mivel a GLP‑1 gyógyszerek egyre szélesebb körben használatosak, fontos a klinikai vita a táplálkozási viselkedésre gyakorolt lehetséges nemkívánatos hatásokról a betegek monitorozása és további kutatások szempontjából. A véleménycikkek kérdéseket vetnek fel, de nem helyettesítik a rendszeres bizonyítékokra épülő vizsgálatokat.",
+          "takeaways": [
+            "Ez egy véleménycikk klinikai megfigyeléseken és vitán alapul, nem rendszerezett tudományos vizsgálat.",
+            "A szerzők óvatosságra intenek a GLP‑1 kezelések és bizonyos betegek esetleges táplálkozási zavarai közötti kapcsolattal kapcsolatban, és a klinikusok figyelmét javasolják.",
+            "A cikk hangsúlyozza a szükségét a szigorú kutatásnak kockázatok kvantifikálására, a sérülékeny betegek azonosítására és a monitorozás irányelveinek kidolgozására.",
+            "Az olvasóknak nem ajánlott gyógyszerváltoztatást végrehajtani pusztán véleménycikk alapján; a klinikai döntésekhez bizonyítékok és személyre szabott orvosi tanács szükséges."
+          ]
+        },
+        "ar": {
+          "title": "رأي: تُثار مخاوف بشأن أدوية فقدان الوزن من فئة GLP‑1 واضطرابات الأكل",
+          "summary": "يناقش مقال رأي في MedPage Today ملاحظات سريرية ومخاوف تفيد أن ناهضات مستقبلات GLP‑1—الأدوية المستخدمة لفقدان الوزن والسكري—قد تهيئ في بعض الحالات أو تتفاعل مع سلوكيات اضطرابات الأكل. يشارك الكاتب خبرة سريرية ويتأمل كيف قد يقيم الأطباء المرضى.",
+          "whyItMatters": "مع ازدياد استخدام أدوية GLP‑1، فإن المناقشة السريرية حول التأثيرات غير المقصودة المحتملة على سلوك الأكل مهمة لمتابعة المرضى وإجراء البحوث. مقالات الرأي تطرح أسئلة لكنها لا تحلّ محل الأدلة المنهجية.",
+          "takeaways": [
+            "هذا مقال رأي مبني على ملاحظات سريرية ونقاش، وليس دراسة منهجية.",
+            "يثير المؤلفون الحذر بشأن الروابط المحتملة بين علاج GLP‑1 واضطرابات الأكل لدى بعض المرضى، ويوصون بوعي الأطباء.",
+            "يؤكد المقال على الحاجة إلى أبحاث صارمة لقياس المخاطر، وتحديد المرضى المعرضين، وتوجيه المتابعة.",
+            "لا ينبغي للقراء تغيير الأدوية استنادًا إلى رأي فقط؛ القرارات السريرية تتطلب أدلة ونصيحة طبية مخصصة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=are-glp-1s-enabling-disordered-eating-5eca3c5d7ea0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/are-glp-1s-enabling-disordered-eating-5eca3c5d7ea0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/are-glp-1s-enabling-disordered-eating-5eca3c5d7ea0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Opinion: concerns raised about GLP‑1 weight‑loss drugs and disordered eating.\nStory summary: A MedPage Today opinion piece discusses clinical observations and concerns that GLP‑1 receptor agonists—medications used for weight loss and diabetes—may in some cases enable or interact with disordered eating behaviours. The author shares clinical experience and reflects on how clinicians might assess patients..\nCategory: nutrition / behavioural health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "doctors-thought-this-was-just-a-uterus-problem-it-s-so-much-more--9cdb71978c56",
@@ -4781,6 +5477,122 @@
       "imageProvider": "openai",
       "imageModel": "gpt-image-2",
       "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Lab study finds Pten loss in developing brain stem cells increases neuron production and astrocyte size via MAPK signaling.\nStory summary: Using single-cell lineage tracing in experimental models, researchers showed that loss of the Pten gene in developing brain stem cells led to about 25% more neurons and enlarged astrocytes, with signaling redirected through the MAPK pathway. The work is described in a lab-based neuroscience report..\nCategory: Neuroscience / Developmental biology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "intolerance-of-uncertainty-surged-3x-faster-since-2012-f073a1190737",
+      "category": "neuroscience and brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/anxiety-uncertainty-psychology-32427/",
+      "sourceTitle": "Intolerance of Uncertainty Surged 3x Faster Since 2012",
+      "publishedAt": "Wed, 18 Nov 2026 20:32:58 +0000",
+      "languages": {
+        "en": {
+          "title": "Analysis finds intolerance of uncertainty rose faster in college students after 2012",
+          "summary": "A study analysing responses from over 35,000 college students between 1992 and 2023 found that intolerance of uncertainty—a psychological trait linked to anxiety—increased three times faster after 2012 compared with earlier trends. The analysis describes temporal patterns rather than testing causes.",
+          "whyItMatters": "Rising intolerance of uncertainty may reflect changing psychosocial environments or reporting trends and has implications for student mental health services and research into societal drivers of anxiety. The study is observational and cannot determine why the increase occurred.",
+          "takeaways": [
+            "Researchers analysed longitudinal survey data from a large student sample and observed an accelerated rise in intolerance of uncertainty since 2012.",
+            "The study identifies trend changes but does not establish causal explanations for the increase.",
+            "Possible contributors could include societal, technological or reporting factors; further research is needed to test specific causes.",
+            "Findings may inform mental health monitoring and support planning on campuses, while emphasizing the need for causal research."
+          ]
+        },
+        "es": {
+          "title": "Análisis encuentra que la intolerancia a la incertidumbre aumentó más rápido en estudiantes universitarios tras 2012",
+          "summary": "Un estudio que analizó respuestas de más de 35.000 estudiantes universitarios entre 1992 y 2023 halló que la intolerancia a la incertidumbre —un rasgo psicológico ligado a la ansiedad— aumentó tres veces más rápido después de 2012 en comparación con tendencias previas. El análisis describe patrones temporales y no prueba causas.",
+          "whyItMatters": "El aumento de la intolerancia a la incertidumbre puede reflejar cambios en los entornos psicosociales o en las prácticas de notificación y tiene implicaciones para los servicios de salud mental estudiantil y la investigación sobre factores sociales que influyen en la ansiedad. El estudio es observacional y no puede determinar por qué ocurrió el aumento.",
+          "takeaways": [
+            "Los investigadores analizaron datos de encuestas longitudinales de una amplia muestra estudiantil y observaron una aceleración del aumento de la intolerancia a la incertidumbre desde 2012.",
+            "El estudio identifica cambios en la tendencia pero no establece explicaciones causales para el incremento.",
+            "Posibles contribuyentes podrían incluir factores sociales, tecnológicos o de reporte; se necesita investigación adicional para probar causas específicas.",
+            "Los hallazgos pueden informar la planificación de monitorización y apoyo de salud mental en campus, al tiempo que resaltan la necesidad de estudios causales."
+          ]
+        },
+        "ru": {
+          "title": "Анализ показывает, что нетерпимость к неопределённости стала расти у студентов быстрее с 2012 года",
+          "summary": "Исследование, проанализировавшее ответы более 35 000 студентов за период 1992–2023 годов, обнаружило, что нетерпимость к неопределённости — психологическая черта, связанная с тревожностью — стала расти в три раза быстрее после 2012 года по сравнению с предыдущими тенденциями. Анализ описывает временные паттерны, но не проверяет причины.",
+          "whyItMatters": "Рост нетерпимости к неопределённости может отражать изменения в психосоциальной среде или в практиках отчётности и имеет значение для служб психического здоровья студентов и исследований общественных факторов, влияющих на тревогу. Исследование наблюдательное и не может определить, почему произошёл этот рост.",
+          "takeaways": [
+            "Исследователи проанализировали лонгитюдные данные опросов большой выборки студентов и заметили ускорение роста нетерпимости к неопределённости с 2012 года.",
+            "Исследование выявляет изменение тренда, но не устанавливает причинные объяснения роста.",
+            "Возможные факторы — социальные, технологические или связанные с отчётностью; нужны дальнейшие исследования для проверки конкретных причин.",
+            "Результаты могут помочь в планировании мониторинга и поддержки психического здоровья на кампусах, при этом подчёркивая необходимость исследований причинно‑следственных связей."
+          ]
+        },
+        "uk": {
+          "title": "Аналіз показує, що нетерпимість до невизначеності зростала швидше серед студентів після 2012 року",
+          "summary": "Дослідження, яке проаналізувало відповіді понад 35 000 студентів коледжів у період 1992–2023 років, виявило, що нетерпимість до невизначеності — психологічна риса, пов’язана з тривожністю — зростала втричі швидше після 2012 року порівняно з попередніми тенденціями. Аналіз описує часові патерни, але не перевіряє причини.",
+          "whyItMatters": "Зростання нетерпимості до невизначеності може відображати зміни соціально‑психологічного середовища або тенденції звітування й має наслідки для служб психічного здоров’я для студентів та досліджень суспільних факторів тривожності. Дослідження є спостережним і не може визначити, чому відбулося це зростання.",
+          "takeaways": [
+            "Дослідники проаналізували довгострокові опитування великої вибірки студентів і виявили прискорене зростання нетерпимості до невизначеності з 2012 року.",
+            "Дослідження виявляє зміну тенденцій, але не встановлює причинних пояснень для збільшення.",
+            "Можливі фактори включають суспільні, технологічні або зміни в звітуванні; потрібні додаткові дослідження для перевірки конкретних причин.",
+            "Висновки можуть допомогти у плануванні моніторингу та підтримки психічного здоров’я на кампусах, водночас наголошуючи на потребі каузального дослідження."
+          ]
+        },
+        "fr": {
+          "title": "Analyse : l’intolérance à l’incertitude a augmenté plus rapidement chez les étudiants après 2012",
+          "summary": "Une étude analysant les réponses de plus de 35 000 étudiants entre 1992 et 2023 a révélé que l’intolérance à l’incertitude — un trait psychologique lié à l’anxiété — a augmenté trois fois plus vite après 2012 qu’auparavant. L’analyse décrit des modèles temporels plutôt que de tester des causes.",
+          "whyItMatters": "L’augmentation de l’intolérance à l’incertitude peut refléter des changements dans l’environnement psychosocial ou des tendances de déclaration et a des implications pour les services de santé mentale étudiants et la recherche sur les facteurs sociétaux de l’anxiété. L’étude est observationnelle et ne peut déterminer pourquoi cette augmentation est survenue.",
+          "takeaways": [
+            "Les chercheurs ont analysé des données d’enquêtes longitudinales sur un large échantillon étudiant et observé une accélération de l’augmentation de l’intolérance à l’incertitude depuis 2012.",
+            "L’étude identifie des changements de tendance mais n’établit pas d’explications causales pour cette augmentation.",
+            "Des contributeurs possibles peuvent inclure des facteurs sociétaux, technologiques ou des changements de déclaration ; des recherches supplémentaires sont nécessaires pour tester des causes spécifiques.",
+            "Les résultats peuvent informer la surveillance de la santé mentale et la planification du soutien sur les campus, tout en soulignant le besoin de recherches causales."
+          ]
+        },
+        "de": {
+          "title": "Analyse: Intoleranz gegenüber Unsicherheit bei Studierenden seit 2012 dreimal schneller gestiegen",
+          "summary": "Eine Analyse von Antworten von über 35.000 Studierenden zwischen 1992 und 2023 ergab, dass die Intoleranz gegenüber Unsicherheit — ein psychologisches Merkmal, das mit Angst verbunden ist — nach 2012 dreimal schneller zunahm als in früheren Trends. Die Analyse beschreibt zeitliche Muster, testet aber keine Ursachen.",
+          "whyItMatters": "Eine steigende Intoleranz gegenüber Unsicherheit kann veränderte psychosoziale Umfelder oder Berichtsverhalten widerspiegeln und hat Implikationen für studentische psychische Gesundheitsdienste sowie für Forschungen zu gesellschaftlichen Treibern von Angst. Die Studie ist beobachtend und kann nicht erklären, warum die Zunahme stattfand.",
+          "takeaways": [
+            "Forschende analysierten longitudinale Umfragedaten einer großen Studierendenstichprobe und beobachteten seit 2012 einen beschleunigten Anstieg der Intoleranz gegenüber Unsicherheit.",
+            "Die Studie identifiziert Trendänderungen, stellt aber keine kausalen Erklärungen für den Anstieg fest.",
+            "Mögliche Beitragende könnten gesellschaftliche, technologische oder Berichtsfaktoren sein; weitere Forschung ist nötig, um spezifische Ursachen zu prüfen.",
+            "Die Ergebnisse können die Überwachung psychischer Gesundheit und die Planung von Unterstützungsangeboten auf dem Campus informieren, betonen aber den Bedarf an kausalem Forschungsansatz."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise revela aumento três vezes mais rápido da intolerância à incerteza entre estudantes após 2012",
+          "summary": "Um estudo que analisou respostas de mais de 35.000 estudantes entre 1992 e 2023 encontrou que a intolerância à incerteza — um traço psicológico ligado à ansiedade — aumentou três vezes mais rápido após 2012 em comparação com tendências anteriores. A análise descreve padrões temporais, sem testar causas.",
+          "whyItMatters": "O aumento da intolerância à incerteza pode refletir mudanças nos ambientes psicossociais ou em padrões de relato e tem implicações para serviços de saúde mental estudantil e pesquisas sobre fatores sociais que impulsionam a ansiedade. O estudo é observacional e não pode determinar por que o aumento ocorreu.",
+          "takeaways": [
+            "Pesquisadores analisaram dados longitudinais de pesquisa de uma grande amostra estudantil e observaram um aumento acelerado da intolerância à incerteza desde 2012.",
+            "O estudo identifica mudanças de tendência, mas não estabelece explicações causais para o aumento.",
+            "Contribuintes possíveis incluem fatores sociais, tecnológicos ou de relato; são necessárias mais pesquisas para testar causas específicas.",
+            "Os achados podem informar monitoramento da saúde mental e planejamento de suporte nos campi, ao mesmo tempo em que enfatizam a necessidade de pesquisas causais."
+          ]
+        },
+        "hu": {
+          "title": "Elemzés: a bizonytalansággal szembeni intolerancia gyorsabban emelkedett az egyetemistáknál 2012 után",
+          "summary": "Egy elemzés, amely több mint 35 000 egyetemi hallgató 1992–2023 közötti válaszait vizsgálta, megállapította, hogy a bizonytalansággal szembeni intolerancia — egy szorongással összefüggő pszichológiai vonás — háromszor gyorsabban nőtt 2012 után, mint korábban. Az elemzés időbeli mintákat ír le, és nem tesztel okokat.",
+          "whyItMatters": "A bizonytalanságtűrés romlása tükrözheti változó pszichoszociális környezetet vagy jelentési trendeket, és hatással lehet az egyetemi mentális egészségügyi szolgáltatásokra és a szorongás társadalmi mozgatórugóival kapcsolatos kutatásokra. A tanulmány megfigyelő jellegű, és nem tudja megállapítani, miért történt az emelkedés.",
+          "takeaways": [
+            "A kutatók hosszú távú felmérési adatokat elemeztek egy nagy hallgatói mintán, és 2012 óta gyorsuló emelkedést figyeltek meg a bizonytalansággal szembeni intoleranciában.",
+            "A tanulmány trendváltozásokat azonosít, de nem állapít meg oksági magyarázatokat az emelkedésre.",
+            "Lehetséges hozzájárulók lehetnek társadalmi, technológiai vagy jelentési tényezők; további kutatás szükséges konkrét okok teszteléséhez.",
+            "Az eredmények hasznosak lehetnek a campusok mentális egészségügyi figyelésének és támogatási tervezésének, miközben hangsúlyozzák az oksági kutatás szükségességét."
+          ]
+        },
+        "ar": {
+          "title": "تحليل: ازداد عدم التسامح مع عدم اليقين بسرعة أكبر بين طلاب الجامعات بعد 2012",
+          "summary": "وجد تحليل استجابات أكثر من 35,000 طالب جامعي في الفترة 1992–2023 أن عدم التسامح مع عدم اليقين—وهو سمة نفسية مرتبطة بالقلق—ارتفع بمعدل ثلاثة أضعاف أسرع بعد عام 2012 مقارنة بالفترات السابقة. يصف التحليل أنماطًا زمنية ولا يفحص الأسباب.",
+          "whyItMatters": "قد يعكس ازدياد عدم التسامح مع عدم اليقين تغيُّرات في البيئات النفسية‑الاجتماعية أو في أنماط التبليغ، وله انعكاسات على خدمات الصحة العقلية للطلاب وبحوث أعمدة القلق المجتمعية. الدراسة الرصدية لا تستطيع تحديد سبب الزيادة.",
+          "takeaways": [
+            "حلّل الباحثون بيانات مسح طولية من عيّنة طلابية كبيرة ولاحظوا تسارعًا في ارتفاع مستوى عدم التسامح مع عدم اليقين منذ 2012.",
+            "تحدد الدراسة تغيّرات في الاتجاهات لكنها لا تثبت تفسيرات سببية للزيادة.",
+            "قد تساهم عوامل مجتمعية أو تكنولوجية أو تغيُّرات في التبليغ؛ هناك حاجة إلى بحوث إضافية لاختبار أسباب محددة.",
+            "قد تُفيد النتائج تخطيط مراقبة ودعم الصحة العقلية في الحرم الجامعي، مع التأكيد على الحاجة لأبحاث سببية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T18:37:27.368Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=intolerance-of-uncertainty-surged-3x-faster-since-2012-f073a1190737",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/intolerance-of-uncertainty-surged-3x-faster-since-2012-f073a1190737-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/intolerance-of-uncertainty-surged-3x-faster-since-2012-f073a1190737-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Analysis finds intolerance of uncertainty rose faster in college students after 2012.\nStory summary: A study analysing responses from over 35,000 college students between 1992 and 2023 found that intolerance of uncertainty—a psychological trait linked to anxiety—increased three times faster after 2012 compared with earlier trends. The analysis describes temporal patterns rather than testing causes..\nCategory: neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
     },
     {
       "id": "novel-adc-could-expand-treatment-options-in-ovarian-cancer-c695f0c64aa2",
