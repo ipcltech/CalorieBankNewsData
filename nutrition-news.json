@@ -1,8 +1,1016 @@
 {
-  "generatedAt": "2026-11-22T14:55:39.357Z",
+  "generatedAt": "2026-11-23T17:49:43.338Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "putting-the-brakes-on-peripheral-nerve-aging-caf465b5ca66",
+      "category": "Regeneration and healthy ageing",
+      "sourceName": "lifespan.io",
+      "sourceUrl": "https://lifespan.io/putting-the-brakes-on-peripheral-nerve-aging/",
+      "sourceTitle": "Putting the Brakes on Peripheral Nerve Aging",
+      "publishedAt": "Mon, 23 Nov 2026 17:12:04 +0000",
+      "languages": {
+        "en": {
+          "title": "Researchers identify an age-related gene change in peripheral nerve repair cells",
+          "summary": "Researchers report a gene whose expression falls with age in the cells that repair peripheral nerves, suggesting it might be a potential target to counteract senescence in those cells. The coverage indicates this is a discovery of age-related molecular change that could inform future strategies to support nerve repair.",
+          "whyItMatters": "Targeting molecular drivers of cellular ageing in peripheral nerves could eventually inform therapies to improve repair and function with age, but the findings are at an early, preclinical/discovery stage and require further validation before clinical implications can be drawn.",
+          "takeaways": [
+            "A gene was identified whose expression decreases with age in peripheral nerve repair cells.",
+            "The discovery points to a possible molecular target for addressing age-related decline in nerve repair.",
+            "Current findings are preliminary and will need additional preclinical and translational research."
+          ]
+        },
+        "es": {
+          "title": "Investigadores identifican un cambio genético relacionado con la edad en las células reparadoras de nervios periféricos",
+          "summary": "Investigadores informan sobre un gen cuya expresión disminuye con la edad en las células que reparan nervios periféricos, lo que sugiere que podría ser un posible objetivo para contrarrestar la senescencia en esas células. La cobertura indica que se trata de un descubrimiento de un cambio molecular relacionado con la edad que podría informar estrategias futuras para apoyar la reparación nerviosa.",
+          "whyItMatters": "Apuntar a los impulsores moleculares del envejecimiento celular en nervios periféricos podría eventualmente informar terapias para mejorar la reparación y la función con la edad, pero los hallazgos están en una etapa temprana, preclínica/de descubrimiento, y requieren validación adicional antes de extraer implicaciones clínicas.",
+          "takeaways": [
+            "Se identificó un gen cuya expresión disminuye con la edad en las células reparadoras de nervios periféricos.",
+            "El descubrimiento apunta a un posible objetivo molecular para abordar el declive relacionado con la edad en la reparación nerviosa.",
+            "Los hallazgos son preliminares y necesitarán investigación preclínica y traslacional adicional."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи выявили изменение экспрессии гена, связанное с возрастом, в клетках восстановления периферических нервов",
+          "summary": "Исследователи сообщают о гене, экспрессия которого снижается с возрастом в клетках, участвующих в восстановлении периферических нервов, что предполагает его потенциальную роль в противодействии сенесценции этих клеток. Освещение подчеркивает, что это открытие возраст-ассоциированного молекулярного изменения, которое может быть полезно при разработке будущих стратегий поддержки восстановления нервов.",
+          "whyItMatters": "Ориентация на молекулярные драйверы клеточного старения в периферических нервах может в перспективе помочь в разработке терапий для улучшения восстановления и функции с возрастом, но результаты находятся на ранней доклинической/исследовательской стадии и требуют дальнейшей валидации перед выводами о клиническом применении.",
+          "takeaways": [
+            "Идентифицирован ген, экспрессия которого снижается с возрастом в клетках восстановления периферических нервов.",
+            "Открытие указывает на возможную молекулярную мишень для борьбы с возрастным ухудшением восстановления нервов.",
+            "Текущие результаты предварительны и потребуют дополнительной доклинической и трансляционной работы."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники виявили вікову зміну експресії гена в клітинах відновлення периферичних нервів",
+          "summary": "Дослідники повідомляють про ген, експресія якого зменшується з віком у клітинах, що беруть участь у відновленні периферичних нервів, що вказує на можливу мішень для протидії клітинному старінню. Опис указує на відкриття вікової молекулярної зміни, яка може інформувати майбутні підходи для підтримки відновлення нервів.",
+          "whyItMatters": "Таргетування молекулярних драйверів старіння клітин у периферичних нервах потенційно може допомогти розробити терапії для поліпшення відновлення та функції з віком, але ці висновки знаходяться на ранній доклінічній/відкривальній стадії і потребують додаткової верифікації перед висновками щодо клінічного застосування.",
+          "takeaways": [
+            "Ідентифіковано ген, експресія якого знижується з віком у клітинах, що відповідають за відновлення периферичних нервів.",
+            "Відкриття вказує на потенційну молекулярну мішень для боротьби зі спадом здатності до відновлення нервів із віком.",
+            "Наявні результати попередні і вимагатимуть додаткових доклінічних та трансляційних досліджень."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs identifient un changement génique lié à l’âge dans les cellules réparatrices des nerfs périphériques",
+          "summary": "Des chercheurs rapportent l’existence d’un gène dont l’expression diminue avec l’âge dans les cellules impliquées dans la réparation des nerfs périphériques, ce qui suggère une cible potentielle pour contrer la sénescence de ces cellules. La couverture indique qu’il s’agit d’une découverte d’un changement moléculaire lié à l’âge qui pourrait orienter de futures stratégies pour soutenir la réparation nerveuse.",
+          "whyItMatters": "Cibler des moteurs moléculaires du vieillissement cellulaire dans les nerfs périphériques pourrait éventuellement nourrir des thérapies visant à améliorer la réparation et la fonction avec l’âge, mais les résultats sont à un stade précoce, préclinique/découverte, et nécessitent validation avant d’en tirer des implications cliniques.",
+          "takeaways": [
+            "Un gène a été identifié dont l’expression diminue avec l’âge dans les cellules de réparation des nerfs périphériques.",
+            "La découverte indique une cible moléculaire possible pour traiter le déclin lié à l’âge dans la réparation nerveuse.",
+            "Les constatations actuelles sont préliminaires et nécessiteront des recherches précliniques et translationnelles supplémentaires."
+          ]
+        },
+        "de": {
+          "title": "Forschende identifizieren altersbedingte Genveränderung in Zellen für periphere Nervenreparatur",
+          "summary": "Forscher berichten über ein Gen, dessen Expression mit dem Alter in den Zellen, die periphere Nerven reparieren, abnimmt, und schlagen vor, dass es ein potenzielles Ziel sein könnte, um Seneszenz in diesen Zellen entgegenzuwirken. Die Berichterstattung stellt dies als Entdeckung einer altersbezogenen molekularen Veränderung dar, die zukünftige Strategien zur Unterstützung der Nervenreparatur informieren könnte.",
+          "whyItMatters": "Das Anvisieren molekularer Treiber zellulären Alterns in peripheren Nerven könnte langfristig Therapien zur Verbesserung von Reparatur und Funktion im Alter ermöglichen, doch die Befunde sind in einem frühen, präklinischen/entdeckungsorientierten Stadium und benötigen weitere Validierung, bevor klinische Aussagen getroffen werden können.",
+          "takeaways": [
+            "Ein Gen wurde identifiziert, dessen Expression in Zellen der peripheren Nervenreparatur mit dem Alter abnimmt.",
+            "Die Entdeckung weist auf ein mögliches molekulares Ziel hin, um altersbedingten Rückgang der Nervenreparatur anzugehen.",
+            "Die gegenwärtigen Befunde sind vorläufig und erfordern zusätzliche präklinische und translationale Forschung."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores identificam alteração genética relacionada à idade em células de reparo de nervos periféricos",
+          "summary": "Pesquisadores relatam um gene cuja expressão diminui com a idade nas células que reparam nervos periféricos, sugerindo que ele pode ser um alvo potencial para combater a senescência nessas células. A cobertura descreve isso como uma descoberta de alteração molecular relacionada ao envelhecimento que pode orientar estratégias futuras para apoiar a reparação nervosa.",
+          "whyItMatters": "Mirar condutores moleculares do envelhecimento celular em nervos periféricos pode, no futuro, informar terapias para melhorar reparo e função com a idade, mas os achados estão em estágio inicial, pré‑clínico/descoberta, e precisam de validação adicional antes de implicações clínicas.",
+          "takeaways": [
+            "Foi identificado um gene cuja expressão diminui com a idade em células de reparo dos nervos periféricos.",
+            "A descoberta aponta para um possível alvo molecular para lidar com o declínio relacionado à idade na reparação nervosa.",
+            "Os achados são preliminares e exigem mais pesquisa pré‑clínica e translacional."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók azonosítottak életkorhoz kötődő génváltozást a perifériás idegek javító sejtjeiben",
+          "summary": "A kutatók egy olyan gént írnak le, amelynek kifejeződése csökken az életkorral azokban a sejtekben, amelyek a perifériás idegek javításában vesznek részt, ami arra utalhat, hogy potenciális célpont lehet a sejtes öregedés elleni beavatkozások számára. A közlemény hangsúlyozza, hogy ez egy életkorral összefüggő molekuláris változás felfedezése, amely támpontot adhat jövőbeli idegregenerációs stratégiákhoz.",
+          "whyItMatters": "A perifériás idegek sejtöregedésének molekuláris hajtóereinek célzása később terápiás megközelítések alapját képezheti az életkorral kapcsolatos javulás támogatására, de az eredmények korai, preklinikai/felfedező fázisban vannak, és további validációt igényelnek, mielőtt klinikai következtetéseket lehetne levonni.",
+          "takeaways": [
+            "Azonosítottak egy gént, amelynek kifejeződése csökken a perifériás idegek javító sejtjeiben az életkor növekedésével.",
+            "A felfedezés egy lehetséges molekuláris célpontot jelez az idegek életkorral összefüggő regenerációs hanyatlásának kezelésére.",
+            "A jelenlegi eredmények előzetesek és további preklinikai és transzlációs kutatást igényelnek."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يحددون تغيرًا جينيًا متعلقًا بالعمر في خلايا إصلاح الأعصاب الطرفية",
+          "summary": "يبلغ الباحثون عن جين ينخفض التعبير عنه مع التقدم في العمر في الخلايا المسؤولة عن إصلاح الأعصاب الطرفية، مما يشير إلى أنه قد يمثل هدفًا محتملاً لمواجهة شيخوخة هذه الخلايا. يشير التقرير إلى أن هذه اكتشاف لتغير جزيئي مرتبط بالعمر يمكن أن يوجه استراتيجيات مستقبلية لدعم إصلاح الأعصاب.",
+          "whyItMatters": "قد تؤدي استهدافات المحركات الجزيئية لشيخوخة الخلايا في الأعصاب الطرفية إلى نهج علاجية في المستقبل لتحسين الإصلاح والوظيفة مع التقدم في العمر، لكن النتائج في مرحلة مبكرة ما قبل الإكلينيكية/الاكتشافية وتتطلب تحققًا إضافيًا قبل استخلاص آثار سريرية.",
+          "takeaways": [
+            "تم تحديد جين ينخفض تعبيره مع العمر في خلايا إصلاح الأعصاب الطرفية.",
+            "يشير الاكتشاف إلى هدف جزيئي محتمل لمعالجة التراجع المرتبط بالعمر في إصلاح الأعصاب.",
+            "النتائج الحالية مبدئية وستتطلب المزيد من البحوث قبل الانتقال نحو التطبيقات المترجمة والسريرية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=putting-the-brakes-on-peripheral-nerve-aging-caf465b5ca66",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/putting-the-brakes-on-peripheral-nerve-aging-caf465b5ca66-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/putting-the-brakes-on-peripheral-nerve-aging-caf465b5ca66-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers identify an age-related gene change in peripheral nerve repair cells.\nStory summary: Researchers report a gene whose expression falls with age in the cells that repair peripheral nerves, suggesting it might be a potential target to counteract senescence in those cells. The coverage indicates this is a discovery of age-related molecular change that could inform future strategies to support nerve repair..\nCategory: Regeneration and healthy ageing.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "rice-sized-wasp-brains-recognize-faces-just-like-humans-f0a3f76eb079",
+      "category": "Neuroscience and brain science",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/facial-recognition-wasp-neuroscience-32431/",
+      "sourceTitle": "Rice-Sized Wasp Brains Recognize Faces Just Like Humans",
+      "publishedAt": "Mon, 23 Nov 2026 17:11:57 +0000",
+      "languages": {
+        "en": {
+          "title": "Small-brained wasps use specialized neurons for face recognition",
+          "summary": "Researchers studying Northern paper wasps found that, despite very small brains, these insects can distinguish individual nestmates by facial patterns. The team identified specialized neurons and computations that resemble aspects of human face recognition.",
+          "whyItMatters": "The study illustrates convergent neural solutions for complex visual tasks across very different brains, informing basic neuroscience about how recognition can be implemented with limited neural resources; these are animal-lab findings and not directly translatable to humans.",
+          "takeaways": [
+            "Northern paper wasps can discriminate individual faces using specialized neural circuitry.",
+            "Researchers identified neural computations that show parallels to human face-recognition processes.",
+            "This is a comparative, animal-based neuroscience study illustrating fundamental principles of visual recognition."
+          ]
+        },
+        "es": {
+          "title": "Avispas de cerebro pequeño usan neuronas especializadas para el reconocimiento facial",
+          "summary": "Investigadores que estudiaron avispas de papel del norte encontraron que, a pesar de tener cerebros muy pequeños, estos insectos pueden distinguir a compañeros del nido por patrones faciales. El equipo identificó neuronas y cálculos especializados que muestran semejanzas con ciertos aspectos del reconocimiento facial humano.",
+          "whyItMatters": "El estudio ilustra soluciones neuronales convergentes para tareas visuales complejas en cerebros muy diferentes, aportando conocimientos básicos de neurociencia sobre cómo puede implementarse el reconocimiento con recursos neuronales limitados; son hallazgos en animales de laboratorio y no se traducen directamente a humanos.",
+          "takeaways": [
+            "Las avispas de papel del norte pueden discriminar caras individuales usando circuitos neuronales especializados.",
+            "Los investigadores identificaron cálculos neuronales que muestran paralelismos con procesos humanos de reconocimiento facial.",
+            "Se trata de un estudio comparativo en animales que ilustra principios fundamentales del reconocimiento visual."
+          ]
+        },
+        "ru": {
+          "title": "Малые осы используют специализированные нейроны для распознавания лиц",
+          "summary": "Исследователи, изучавшие северных бумажных ос, обнаружили, что несмотря на очень маленькие мозги, эти насекомые способны различать индивидуальных соседей по узорам на «лице». Команда выявила специализированные нейроны и вычислительные механизмы, которые напоминают некоторые аспекты распознавания лиц у людей.",
+          "whyItMatters": "Исследование демонстрирует конвергентные нейронные решения для сложных визуальных задач в очень разных мозгах, давая базовое представление о том, как распознавание может быть реализовано при ограниченных нейронных ресурсах; это животные лабораторные данные и не поддаются прямому переносу на человека.",
+          "takeaways": [
+            "Северные бумажные осы могут распознавать индивидуальные «лица» с помощью специализированных нейронных схем.",
+            "Исследователи выявили нейронные вычисления, показывающие параллели с процессами человеческого распознавания лиц.",
+            "Это сравнительное исследование на животных, иллюстрирующее фундаментальные принципы визуального распознавания."
+          ]
+        },
+        "uk": {
+          "title": "Маленькі оси використовують спеціалізовані нейрони для розпізнавання облич",
+          "summary": "Дослідники, які вивчали північних паперових ос, виявили, що незважаючи на дуже маленькі мозки ці комахи можуть розрізняти окремих членів гнізда за візерунками на обличчі. Команда ідентифікувала спеціалізовані нейрони та обчислення, які нагадують деякі аспекти розпізнавання облич у людей.",
+          "whyItMatters": "Дослідження ілюструє конвергентні нейронні рішення для складних візуальних завдань у дуже різних мозках і дає уявлення про те, як розпізнавання може реалізовуватися за обмежених нейронних ресурсів; це дослідження на тваринах в лабораторних умовах і не є безпосередньо переносимим на людей.",
+          "takeaways": [
+            "Північні паперові оси можуть розрізняти індивідуальні «лиця» за допомогою спеціалізованих нейронних ланцюгів.",
+            "Дослідники виявили нейронні обчислення, що мають паралелі з процесами розпізнавання облич у людей.",
+            "Це порівняльне дослідження нейронауки на тваринах, яке ілюструє фундаментальні принципи візуального розпізнавання."
+          ]
+        },
+        "fr": {
+          "title": "Des guêpes au cerveau minuscule utilisent des neurones spécialisés pour la reconnaissance des visages",
+          "summary": "Des chercheurs étudiant des guêpes papier du nord ont constaté que, malgré des cerveaux très petits, ces insectes peuvent distinguer des congénères individuels par des motifs faciaux. L’équipe a identifié des neurones spécialisés et des calculs neuronaux qui ressemblent à certains aspects de la reconnaissance faciale chez l’humain.",
+          "whyItMatters": "L’étude illustre des solutions neuronales convergentes pour des tâches visuelles complexes dans des cerveaux très différents, apportant des informations fondamentales sur la manière dont la reconnaissance peut être mise en œuvre avec peu de ressources neuronales ; il s’agit de résultats sur animaux en laboratoire non directement transposables à l’homme.",
+          "takeaways": [
+            "Les guêpes papier du nord peuvent discriminer des visages individuels grâce à des circuits neuronaux spécialisés.",
+            "Les chercheurs ont identifié des calculs neuronaux présentant des parallèles avec les processus humains de reconnaissance faciale.",
+            "C’est une étude comparative en neurosciences sur animaux qui illustre des principes fondamentaux du traitement visuel."
+          ]
+        },
+        "de": {
+          "title": "Wasps mit sehr kleinem Gehirn nutzen spezialisierte Neurone zur Gesichtserkennung",
+          "summary": "Forschende, die Nördliche Papierrupsenwespen untersuchten, fanden heraus, dass diese Insekten trotz sehr kleiner Gehirne einzelnde Nestgenossen anhand von Gesichtermustern unterscheiden können. Das Team identifizierte spezialisierte Neurone und Rechenprozesse, die Aspekten der menschlichen Gesichtserkennung ähneln.",
+          "whyItMatters": "Die Studie zeigt konvergente neuronale Lösungen für komplexe visuelle Aufgaben in sehr unterschiedlichen Gehirnen und liefert Einblicke in die Grundlagen der Neurowissenschaften, wie Erkennung mit begrenzten neuronalen Ressourcen umgesetzt werden kann; es handelt sich um Tierexperiment-Forschung, die nicht direkt auf Menschen übertragbar ist.",
+          "takeaways": [
+            "Nördliche Papierrupsenwespen können Individuen anhand von Gesichtsmustern unterscheiden und nutzen dazu spezialisierte neuronale Schaltkreise.",
+            "Die Forschenden identifizierten neuronale Berechnungen, die Parallelen zu menschlichen Prozessen der Gesichtserkennung zeigen.",
+            "Es ist eine vergleichende, tierexperimentelle Neurowissenschaftsstudie, die grundlegende Prinzipien visueller Erkennung illustriert."
+          ]
+        },
+        "pt-br": {
+          "title": "Vespas de cérebro pequeno usam neurônios especializados para reconhecimento de faces",
+          "summary": "Pesquisadores que estudaram vespas-do-papel-do-norte descobriram que, apesar de cérebros muito pequenos, esses insetos conseguem distinguir congeneres individuais por padrões faciais. A equipe identificou neurônios especializados e cálculos neurais que lembram aspectos do reconhecimento facial humano.",
+          "whyItMatters": "O estudo ilustra soluções neurais convergentes para tarefas visuais complexas em cérebros muito diferentes, informando a neurociência básica sobre como o reconhecimento pode ser implementado com recursos neurais limitados; são achados em animais de laboratório e não diretamente traduzíveis para humanos.",
+          "takeaways": [
+            "Vespas-do-papel-do-norte conseguem discriminar faces individuais usando circuitos neurais especializados.",
+            "Pesquisadores identificaram cálculos neurais que mostram paralelos com processos humanos de reconhecimento facial.",
+            "Trata‑se de um estudo comparativo em neurociência animal que ilustra princípios fundamentais de reconhecimento visual."
+          ]
+        },
+        "hu": {
+          "title": "Kis agyú darazsak specializált idegsejteket használnak az arcfelismeréshez",
+          "summary": "A kutatók északi papírdarázsokat tanulmányozva megállapították, hogy a nagyon kis agyak ellenére ezek a rovarok képesek megkülönböztetni az egyes fészektagokat az arcminták alapján. A csapat speciális idegsejteket és számítási folyamatokat azonosított, amelyek bizonyos szempontokban hasonlítanak az emberi arcfelismeréshez.",
+          "whyItMatters": "A tanulmány bemutatja a konvergens idegi megoldásokat bonyolult vizuális feladatokra nagyon különböző agyakban, és alapkutatási szempontból informál arról, hogyan valósítható meg a felismerés korlátozott idegi erőforrásokkal; ezek állatkísérletes eredmények, és nem közvetlenül átültethetők az emberekre.",
+          "takeaways": [
+            "Az északi papírdarázsok specializált idegi áramköröket használnak egyedi arcok megkülönböztetésére.",
+            "A kutatók olyan idegi számításokat azonosítottak, amelyek párhuzamokat mutatnak az emberi arcfelismerési folyamatokkal.",
+            "Ez egy összehasonlító, állatkísérletes idegtudományi tanulmány, amely az észlelés alapelveit illusztrálja."
+          ]
+        },
+        "ar": {
+          "title": "دبابير صغيرة الدماغ تستخدم خلايا عصبية متخصصة للتعرف على الوجوه",
+          "summary": "وجد باحثون يدرسون دبابير الورق الشمالية أنه بالرغم من صغر أدمغتها، يمكن لهذه الحشرات تمييز رفيقات العش الفرديات بناءً على أنماط الوجوه. حدّدت الفريق خلايا عصبية متخصصة وحسابات تشبه جوانب من آلية تعرف البشر على الوجوه.",
+          "whyItMatters": "تُظهر الدراسة حلولًا عصبية متقاربة لمهام بصرية معقدة عبر أدمغة مختلفة للغاية، وتوفر معلومات أساسية عن كيفية تنفيذ التعرف بموارد عصبية محدودة؛ هذه نتائج من دراسة حيوانية في المختبر وليست قابلة للنقل المباشر إلى البشر.",
+          "takeaways": [
+            "تستطيع دبابير الورق الشمالية التمييز بين الوجوه الفردية باستخدام دوائر عصبية متخصصة.",
+            "حدّد الباحثون عمليات عصبية تُظهر أوجه تشابه مع عمليات تعرف الوجه لدى البشر.",
+            "هذه دراسة مقارنة في علم الأعصاب على حيوانات توضح مبادئ أساسية للتعرف البصري."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=rice-sized-wasp-brains-recognize-faces-just-like-humans-f0a3f76eb079",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/rice-sized-wasp-brains-recognize-faces-just-like-humans-f0a3f76eb079-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/rice-sized-wasp-brains-recognize-faces-just-like-humans-f0a3f76eb079-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Small-brained wasps use specialized neurons for face recognition.\nStory summary: Researchers studying Northern paper wasps found that, despite very small brains, these insects can distinguish individual nestmates by facial patterns. The team identified specialized neurons and computations that resemble aspects of human face recognition..\nCategory: Neuroscience and brain science.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "he-thought-it-was-a-muscle-strain-then-doctors-raced-to-save-his--4ceff5d80d32",
+      "category": "Vascular and emergency medicine",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/casestudies/emergencymedicine/124004",
+      "sourceTitle": "He Thought It Was a Muscle Strain. Then, Doctors Raced to Save His Leg.",
+      "publishedAt": "Mon, 23 Nov 2026 10:40:46 -0500",
+      "languages": {
+        "en": {
+          "title": "Case report: calf pain after a skiing collision led to emergency limb-saving care",
+          "summary": "MedPage Today describes a case of a 50-year-old recreational skier who experienced calf pain after a collision and later presented to emergency services; clinicians rapidly intervened to preserve his leg. The piece is a clinical case narrative rather than a research study.",
+          "whyItMatters": "Case reports highlight how common symptoms can mask urgent vascular or compartment complications; they are useful for clinician awareness but cannot establish incidence or best practices on their own.",
+          "takeaways": [
+            "This is a single clinical case describing delayed presentation of limb-threatening calf injury following a skiing collision.",
+            "Rapid recognition and intervention by emergency clinicians were credited with saving the patient's leg.",
+            "Case narratives are informative for clinical vigilance but do not substitute for population-level evidence or guidelines."
+          ]
+        },
+        "es": {
+          "title": "Reporte de caso: dolor en la pantorrilla tras una colisión esquiando llevó a atención de emergencia que salvó la extremidad",
+          "summary": "MedPage Today describe el caso de un esquiador recreativo de 50 años que sintió dolor en la pantorrilla tras una colisión y que más tarde acudió a urgencias; los clínicos intervinieron rápidamente para preservar su pierna. La pieza es una narrativa clínica de caso y no un estudio de investigación.",
+          "whyItMatters": "Los reportes de caso destacan cómo síntomas comunes pueden ocultar complicaciones vasculares o de compartimiento urgentes; son útiles para la vigilancia clínica pero no pueden establecer incidencia ni prácticas óptimas por sí solos.",
+          "takeaways": [
+            "Se trata de un único caso clínico que describe una presentación diferida de una lesión en la pantorrilla con riesgo para la extremidad tras una colisión esquiando.",
+            "El reconocimiento rápido y la intervención de los clínicos de urgencias se atribuyeron a la preservación de la pierna del paciente.",
+            "Las narrativas de casos son informativas para la vigilancia clínica, pero no sustituyen la evidencia a nivel poblacional ni las guías."
+          ]
+        },
+        "ru": {
+          "title": "Клинический случай: боль в икре после столкновения на лыжах привела к экстренной помощи, спасшей конечность",
+          "summary": "MedPage Today описывает случай 50-летнего любителя лыжного спорта, который почувствовал боль в икре после столкновения и позже обратился в отделение неотложной помощи; клиницисты оперативно вмешались, чтобы сохранить ногу. Материал представляет собой клиническое описание случая, а не исследование.",
+          "whyItMatters": "Клинические случаи подчёркивают, как обычные симптомы могут маскировать серьёзные сосудистые или компартмент-синдромы; они полезны для повышения клинической бдительности, но не могут устанавливать заболеваемость или оптимальные практики сами по себе.",
+          "takeaways": [
+            "Это единичный клинический случай, описывающий позднее обращение при угрожающей конечности травме икры после лыжного столкновения.",
+            "Быстрое распознавание и вмешательство со стороны врачей неотложной помощи были названы причинами спасения ноги пациента.",
+            "Сюжеты таких случаев полезны для клинической бдительности, но не заменяют популяционные данные или руководства."
+          ]
+        },
+        "uk": {
+          "title": "Клінічний випадок: біль у литці після зіткнення на лижах призвів до невідкладної допомоги, що врятувала кінцівку",
+          "summary": "MedPage Today описує випадок 50‑річного аматорського лижника, який відчував біль у литці після зіткнення і пізніше звернувся до служби невідкладної допомоги; клініцисти швидко втрутилися, щоб зберегти йому ногу. Матеріал є клінічним наративом випадку, а не дослідженням.",
+          "whyItMatters": "Клінічні випадки підкреслюють, як поширені симптоми можуть приховувати невідкладні судинні або фасціальні ускладнення; такі описи корисні для підвищення пильності клініцистів, але самі по собі не встановлюють рівень захворюваності або найкращі практики.",
+          "takeaways": [
+            "Описано один клінічний випадок із відстроченим зверненням через загрозливу для кінцівки травму литки після зіткнення на лижах.",
+            "Швидке розпізнавання та втручання з боку невідкладних медичних працівників допомогли врятувати пацієнту ногу.",
+            "Оповідання випадку корисне для клінічної пильності, але не замінює дані популяційних досліджень або керівні настанови."
+          ]
+        },
+        "fr": {
+          "title": "Rapport de cas : une douleur au mollet après une collision à ski a conduit à des soins d’urgence ayant sauvé le membre",
+          "summary": "MedPage Today décrit le cas d’un skieur récréatif de 50 ans qui a ressenti une douleur au mollet après une collision et s’est présenté plus tard aux urgences ; les cliniciens sont intervenus rapidement pour préserver sa jambe. L’article est un récit clinique de cas et non une étude de recherche.",
+          "whyItMatters": "Les rapports de cas montrent comment des symptômes courants peuvent masquer des complications vasculaires ou de compartiment aiguës ; ils sont utiles pour la vigilance clinique mais ne permettent pas à eux seuls d’établir des incidences ou des meilleures pratiques.",
+          "takeaways": [
+            "Il s’agit d’un cas clinique isolé décrivant une présentation retardée d’une lésion menaçante pour le membre après une collision à ski.",
+            "La reconnaissance et l’intervention rapides des cliniciens d’urgence ont été créditées d’avoir sauvé la jambe du patient.",
+            "Les récits de cas sont instructifs pour la vigilance clinique mais ne remplacent pas les preuves à l’échelle de la population ou les lignes directrices."
+          ]
+        },
+        "de": {
+          "title": "Fallbericht: Wadenbeschwerden nach Ski-Zusammenstoß führten zu notfallmäßiger gliederhaltender Behandlung",
+          "summary": "MedPage Today beschreibt den Fall eines 50‑jährigen Freizeitskifahrers, der nach einer Kollision Wadenschmerzen hatte und später in die Notaufnahme kam; die behandelnden Ärztinnen und Ärzte intervenierten schnell, um sein Bein zu erhalten. Der Beitrag ist eine klinische Fallbeschreibung und keine Forschungsstudie.",
+          "whyItMatters": "Fallberichte verdeutlichen, wie häufige Symptome ernsthafte vaskuläre oder Kompartment‑Komplikationen verschleiern können; sie sind nützlich zur Sensibilisierung von Klinikern, können aber allein keine Aussagen zu Inzidenz oder besten Behandlungsstrategien treffen.",
+          "takeaways": [
+            "Ein einzelner klinischer Fall beschreibt verzögerte Vorstellung einer lebensbedrohlichen Wadenverletzung nach einem Ski-Zusammenstoß.",
+            "Schnelle Erkennung und Intervention durch Notfallteams wurden als entscheidend für den Erhalt des Beins genannt.",
+            "Fallerzählungen dienen der klinischen Wachsamkeit, ersetzen aber keine bevölkerungsbezogenen Evidenzdaten oder Leitlinien."
+          ]
+        },
+        "pt-br": {
+          "title": "Relato de caso: dor na panturrilha após colisão esquiando levou a atendimento de emergência que salvou o membro",
+          "summary": "A MedPage Today descreve o caso de um esquiador recreativo de 50 anos que sentiu dor na panturrilha após uma colisão e mais tarde procurou serviços de emergência; os clínicos intervieram rapidamente para preservar sua perna. A matéria é uma narrativa clínica de caso, não um estudo de pesquisa.",
+          "whyItMatters": "Relatos de caso destacam como sintomas comuns podem mascarar complicações vasculares ou de compartimento urgentes; eles são úteis para conscientização clínica, mas não podem estabelecer incidência ou melhores práticas por si só.",
+          "takeaways": [
+            "Trata‑se de um caso clínico único descrevendo apresentação tardia de lesão ameaçadora ao membro após colisão esquiando.",
+            "Reconhecimento e intervenção rápidos pela equipe de emergência foram creditados por salvar a perna do paciente.",
+            "Narrativas de casos são informativas para vigilância clínica, mas não substituem evidência populacional ou diretrizes."
+          ]
+        },
+        "hu": {
+          "title": "Esetismertetés: vádli fájdalom síbaleset után sürgősségi végtammentő ellátáshoz vezetett",
+          "summary": "A MedPage Today egy esetet ír le: egy 50 éves szabadidős síelő vádlifájdalmat tapasztalt ütközés után, majd később érkezett sürgősségi ellátásra; az orvosok gyors beavatkozása segített a végtag megőrzésében. A cikk klinikai esettörténet, nem kutatási vizsgálat.",
+          "whyItMatters": "Az esettanulmányok rámutatnak, hogy a gyakori tünetek mögött sürgős ér- vagy kompressziós szövődmények lehetnek; hasznosak a klinikusok figyelmének élesítésére, de önmagukban nem állapítanak meg előfordulási arányokat vagy legjobb gyakorlatokat.",
+          "takeaways": [
+            "Ez egyetlen klinikai eset, amely egy síbaleset utáni késői jelentkezésű végtagveszélyeztető vádli sérülést ír le.",
+            "A sürgősségi ellátók gyors felismerését és beavatkozását tették felelőssé a beteg lábának megmentéséért.",
+            "Az esetismertetések hasznosak a klinikai éberség növelésére, de nem helyettesítik a populációs szintű bizonyítékokat vagy irányelveket."
+          ]
+        },
+        "ar": {
+          "title": "تقرير حالة: ألم الساق بعد تصادم أثناء التزلج أدى إلى رعاية طارئة لإنقاذ الطرف",
+          "summary": "تصف ميدبيج توداي حالة متزلج ترفيهي يبلغ من العمر 50 عامًا عانى ألمًا في الساق بعد تصادم ثم قدم إلى الطوارئ لاحقًا؛ تدخل الأطباء بسرعة للحفاظ على ساقه. المقال سرد لحالة سريرية وليس دراسة بحثية.",
+          "whyItMatters": "تسلّط تقارير الحالات الضوء على أن أعراضًا شائعة قد تُخفي مضاعفات وعائية أو ضاغطة طارئة؛ هي مفيدة لزيادة وعي الأطباء لكنها لا تستطيع بمفردها تحديد معدل الحدوث أو ممارسات الرعاية المثلى.",
+          "takeaways": [
+            "هذه حالة سريرية مفردة تصف عرضًا متأخرًا لإصابة تهدّد الطرف بعد تصادم أثناء التزلج.",
+            "نُسبت النجاة الوظيفية للطرف إلى التعرف السريع والتدخل من قِبل فريق الطوارئ.",
+            "السرديات الحالة مفيدة لتيقظ الأطباء لكنها لا تغني عن الأدلة على مستوى السكان أو إرشادات علاجية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=he-thought-it-was-a-muscle-strain-then-doctors-raced-to-save-his--4ceff5d80d32",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/he-thought-it-was-a-muscle-strain-then-doctors-raced-to-save-his-4ceff5d80d32-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/he-thought-it-was-a-muscle-strain-then-doctors-raced-to-save-his-4ceff5d80d32-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Case report: calf pain after a skiing collision led to emergency limb-saving care.\nStory summary: MedPage Today describes a case of a 50-year-old recreational skier who experienced calf pain after a collision and later presented to emergency services; clinicians rapidly intervened to preserve his leg. The piece is a clinical case narrative rather than a research study..\nCategory: Vascular and emergency medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "scientists-discover-that-leukemia-can-begin-developing-50-years-b-bb4bae35cad7",
+      "category": "Cancer prevention and treatment",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
+      "sourceTitle": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
+      "publishedAt": "Mon, 23 Nov 2026 05:26:07 EST",
+      "languages": {
+        "en": {
+          "title": "Study suggests some acute myeloid leukemia mutations arise decades before diagnosis",
+          "summary": "A new study reports that acute myeloid leukemia (AML) can begin developing more than 50 years before clinical diagnosis. The researchers found that the first cancer-driving mutation appeared before age 20 in about two-thirds of cases and that mutated cell populations followed predictable growth patterns, accelerating as further mutations accumulated.",
+          "whyItMatters": "Understanding when and how AML clones arise could influence efforts to detect high-risk clones earlier and to study the biology of disease progression, but early mutation detection does not itself establish a proven screening or prevention strategy.",
+          "takeaways": [
+            "Investigators detected evidence that key AML mutations can emerge many decades before diagnosis.",
+            "In roughly two-thirds of cases the initial mutation occurred before age 20, per the study description.",
+            "Mutated cell populations showed predictable growth trajectories, with acceleration as more mutations accumulated.",
+            "These findings are relevant to research on early detection and the natural history of AML, but do not imply an established clinical screening protocol."
+          ]
+        },
+        "es": {
+          "title": "Estudio sugiere que algunas mutaciones de la leucemia mieloide aguda surgen décadas antes del diagnóstico",
+          "summary": "Un nuevo estudio informa que la leucemia mieloide aguda (LMA) puede comenzar a desarrollarse más de 50 años antes del diagnóstico clínico. Los investigadores hallaron que la primera mutación impulsora apareció antes de los 20 años en alrededor de dos tercios de los casos y que las poblaciones celulares mutadas siguieron patrones de crecimiento previsibles, acelerándose a medida que se acumulaban más mutaciones.",
+          "whyItMatters": "Entender cuándo y cómo surgen los clones de LMA podría influir en los esfuerzos por detectar clones de alto riesgo antes y en el estudio de la biología de la progresión de la enfermedad, pero la detección temprana de mutaciones por sí sola no establece una estrategia de cribado o prevención probada.",
+          "takeaways": [
+            "Los investigadores detectaron evidencias de que mutaciones clave de LMA pueden surgir varias décadas antes del diagnóstico.",
+            "En aproximadamente dos tercios de los casos la mutación inicial ocurrió antes de los 20 años, según la descripción del estudio.",
+            "Las poblaciones celulares mutadas mostraron trayectorias de crecimiento previsibles, con aceleración a medida que se acumulaban más mutaciones.",
+            "Estos hallazgos son relevantes para la investigación sobre detección temprana y la historia natural de la LMA, pero no implican un protocolo clínico de cribado establecido."
+          ]
+        },
+        "ru": {
+          "title": "Исследование указывает, что некоторые мутации острой миелоидной лейкемии возникают за десятки лет до диагноза",
+          "summary": "Новое исследование сообщает, что острая миелоидная лейкемия (ОМЛ) может начинать развиваться более чем за 50 лет до клинического диагноза. Исследователи обнаружили, что первая драйверная мутация появилась до 20 лет примерно в двух третях случаев, а популяции мутировавших клеток следовали предсказуемым траекториям роста, ускоряясь по мере накопления дополнительных мутаций.",
+          "whyItMatters": "Понимание того, когда и как возникают клоны ОМЛ, может повлиять на усилия по более раннему выявлению клонов высокого риска и на изучение биологии прогрессирования болезни, но раннее обнаружение мутаций само по себе не устанавливает проверенную стратегию скрининга или профилактики.",
+          "takeaways": [
+            "Исследователи обнаружили свидетельства того, что ключевые мутации ОМЛ могут появляться за десятилетия до диагноза.",
+            "Примерно в двух третях случаев начальная мутация произошла до 20 лет, согласно описанию исследования.",
+            "Мутировавшие популяции клеток демонстрировали предсказуемые траектории роста с ускорением при накоплении дополнительных мутаций.",
+            "Эти результаты важны для исследований раннего выявления и естественной истории ОМЛ, но не означают наличие установленного клинического протокола скрининга."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження свідчить, що деякі мутації при гострому мієлоїдному лейкозі з'являються десятиліттями до діагнозу",
+          "summary": "Нове дослідження повідомляє, що гострий мієлоїдний лейкоз (ГМЛ) може починати розвиватися більше ніж за 50 років до клінічного встановлення діагнозу. Дослідники виявили, що перша мутація, що сприяє раку, з’являлася до 20 років приблизно в двох третинах випадків, а популяції мутованих клітин мали передбачувані траєкторії зростання, які прискорювалися в міру накопичення додаткових мутацій.",
+          "whyItMatters": "Розуміння того, коли й як виникають клональні популяції ГМЛ, може впливати на зусилля з раннього виявлення високоризикових клонів та вивчення біології прогресування хвороби, але виявлення ранніх мутацій саме по собі не встановлює доведеної стратегії скринінгу або профілактики.",
+          "takeaways": [
+            "Дослідники виявили ознаки того, що ключові мутації ГМЛ можуть з’являтися за багато десятиліть до діагнозу.",
+            "Приблизно в двох третинах випадків початкова мутація сталася до 20 років, за даними дослідження.",
+            "Популяції мутованих клітин показували передбачувані траєкторії зростання з прискоренням при накопиченні нових мутацій.",
+            "Ці висновки мають значення для досліджень раннього виявлення і природної історії ГМЛ, але не свідчать про наявність усталеного клінічного протоколу скринінгу."
+          ]
+        },
+        "fr": {
+          "title": "Une étude suggère que certaines mutations de la leucémie myéloïde aiguë surviennent des décennies avant le diagnostic",
+          "summary": "Une nouvelle étude rapporte que la leucémie myéloïde aiguë (LMA) peut commencer à se développer plus de 50 ans avant le diagnostic clinique. Les chercheurs ont trouvé que la première mutation oncogénique apparaissait avant 20 ans dans environ deux tiers des cas et que les populations cellulaires mutées suivaient des trajectoires de croissance prévisibles, s’accélérant à mesure que d’autres mutations s’accumulaient.",
+          "whyItMatters": "Comprendre quand et comment les clones de LMA apparaissent pourrait orienter les efforts visant à détecter plus tôt les clones à haut risque et à étudier la biologie de la progression de la maladie, mais la détection précoce de mutations n’établit pas à elle seule une stratégie de dépistage ou de prévention éprouvée.",
+          "takeaways": [
+            "Les investigateurs ont détecté des preuves que des mutations clés de la LMA peuvent émerger plusieurs décennies avant le diagnostic.",
+            "Dans environ deux tiers des cas, la mutation initiale est survenue avant l’âge de 20 ans, selon la description de l’étude.",
+            "Les populations cellulaires mutées ont montré des trajectoires de croissance prévisibles, avec une accélération à mesure que d’autres mutations s’accumulaient.",
+            "Ces résultats sont pertinents pour la recherche sur la détection précoce et l’histoire naturelle de la LMA, mais n’impliquent pas l’existence d’un protocole de dépistage clinique établi."
+          ]
+        },
+        "de": {
+          "title": "Studie deutet an, dass einige AML-Mutationen Jahrzehnte vor der Diagnose entstehen",
+          "summary": "Eine neue Studie berichtet, dass akute myeloische Leukämie (AML) sich mehr als 50 Jahre vor der klinischen Diagnose zu entwickeln beginnen kann. Die Forschenden fanden heraus, dass die erste treibende Krebsmutation in etwa zwei Dritteln der Fälle vor dem 20. Lebensjahr auftrat und dass sich die Populationen mutierter Zellen vorhersehbaren Wachstumsmustern folgend entwickelten und beschleunigten, als weitere Mutationen hinzukamen.",
+          "whyItMatters": "Zu verstehen, wann und wie AML-Klone entstehen, könnte Bemühungen beeinflussen, Hochrisiko-Klone früher zu erkennen und die Biologie des Krankheitsverlaufs zu untersuchen; das frühe Auffinden von Mutationen begründet jedoch nicht automatisch eine etablierte Screening- oder Präventionsstrategie.",
+          "takeaways": [
+            "Die Untersuchenden fanden Hinweise darauf, dass Schlüsselmutationen der AML viele Jahrzehnte vor der Diagnose entstehen können.",
+            "In etwa zwei Dritteln der Fälle trat die erste Mutation laut Studie vor dem 20. Lebensjahr auf.",
+            "Mutierte Zellpopulationen zeigten vorhersehbare Wachstumsverläufe mit Beschleunigung, wenn weitere Mutationen hinzukamen.",
+            "Die Ergebnisse sind relevant für die Forschung zu Früherkennung und zur natürlichen Geschichte der AML, implizieren aber kein etabliertes klinisches Screening-Protokoll."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo sugere que algumas mutações da leucemia mieloide aguda surgem décadas antes do diagnóstico",
+          "summary": "Um novo estudo relata que a leucemia mieloide aguda (LMA) pode começar a se desenvolver mais de 50 anos antes do diagnóstico clínico. Os pesquisadores descobriram que a primeira mutação promotora de câncer apareceu antes dos 20 anos em cerca de dois terços dos casos e que as populações de células mutadas seguiram padrões de crescimento previsíveis, acelerando à medida que mais mutações se acumulavam.",
+          "whyItMatters": "Entender quando e como clones de LMA surgem pode influenciar esforços para detectar clones de alto risco mais cedo e estudar a biologia da progressão da doença; porém, a detecção precoce de mutações por si só não estabelece uma estratégia comprovada de rastreamento ou prevenção.",
+          "takeaways": [
+            "Os pesquisadores detectaram evidências de que mutações-chave da LMA podem surgir muitas décadas antes do diagnóstico.",
+            "Em cerca de dois terços dos casos, a mutação inicial ocorreu antes dos 20 anos, segundo a descrição do estudo.",
+            "As populações de células mutadas mostraram trajetórias de crescimento previsíveis, com aceleração conforme mais mutações se acumulavam.",
+            "Essas descobertas são relevantes para pesquisas em detecção precoce e história natural da LMA, mas não implicam um protocolo clínico de rastreamento estabelecido."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány szerint egyes akut mieloid leukémia-mutációk évtizedekkel a diagnózis előtt keletkezhetnek",
+          "summary": "Egy új tanulmány arról számol be, hogy az akut mieloid leukémia (AML) fejlődése több mint 50 évvel a klinikai diagnózis előtt megkezdődhet. A kutatók azt találták, hogy az első daganatot hajtó mutáció a vizsgált esetek körülbelül kétharmadában 20 éves kor előtt jelent meg, és a mutálódott sejtcsoportok előre jelezhető növekedési mintákat mutattak, amelyek gyorsultak, ahogy további mutációk halmozódtak.",
+          "whyItMatters": "Az, hogy mikor és hogyan keletkeznek AML-klónok, befolyásolhatja a magas kockázatú klónok korábbi kimutatására irányuló kutatásokat és a betegség progressziójának tanulmányozását, de az korai mutációk kimutatása önmagában nem jelent bevált szűrési vagy megelőzési stratégiát.",
+          "takeaways": [
+            "A kutatók olyan nyomokat találtak, amelyek szerint fontos AML-mutációk évtizedekkel a diagnózis előtt megjelenhetnek.",
+            "A tanulmány leírása szerint az esetek nagyjából kétharmadában az első mutáció 20 éves kor előtt történt.",
+            "A mutálódott sejtcsoportok előre jelezhető növekedési pályákat mutattak, és gyorsabban növekedtek, ahogy több mutáció halmozódott.",
+            "Az eredmények relevánsak az AML korai felismerését és természetrajzát vizsgáló kutatások számára, de nem jelentenek egy kialakult klinikai szűrőprotokollt."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تشير إلى أن بعض طفرات اللوكيميا النخاعية الحادة تنشأ قبل عقود من التشخيص",
+          "summary": "تُفيد دراسة جديدة أن سرطان الدم النخاعي الحاد (AML) قد يبدأ في التطور قبل أكثر من 50 سنة من التشخيص السريري. وجد الباحثون أن الطفرة المبدئية الدافعة للسرطان ظهرت قبل سن 20 تقريبًا في ثلثي الحالات، وأن تجمّعات الخلايا المطعّرة أظهرت أنماط نمو متوقعة تتسارع مع تراكم طفرات إضافية.",
+          "whyItMatters": "فهم توقيت وطريقة نشوء الكلونات المسببة للـ AML قد يؤثر على جهود اكتشاف الكلونات عالية المخاطر مبكرًا ودراسة بيولوجيا تقدم المرض، لكن اكتشاف الطفرات المبكرة بحد ذاته لا يضع استراتيجية فحص أو وقاية مثبتة.",
+          "takeaways": [
+            "رصد الباحثون دلالات على أن طفرات رئيسية في الـ AML يمكن أن تظهر قبل عقود من التشخيص.",
+            "وفقًا لوصف الدراسة، حدثت الطفرة الأولى قبل سن 20 في نحو ثلثي الحالات.",
+            "أظهرت مجموعات الخلايا المطعّرة مسارات نمو متوقعة مع تسارعها كلما تراكمت طفرات إضافية.",
+            "هذه النتائج ذات صلة ببحوث الكشف المبكر والتاريخ الطبيعي للـ AML، لكنها لا تعني وجود بروتوكول فحص سريري مُعتمد."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=scientists-discover-that-leukemia-can-begin-developing-50-years-b-bb4bae35cad7",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-that-leukemia-can-begin-developing-50-years-b-bb4bae35cad7-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/scientists-discover-that-leukemia-can-begin-developing-50-years-b-bb4bae35cad7-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study suggests some acute myeloid leukemia mutations arise decades before diagnosis.\nStory summary: A new study reports that acute myeloid leukemia (AML) can begin developing more than 50 years before clinical diagnosis. The researchers found that the first cancer-driving mutation appeared before age 20 in about two-thirds of cases and that mutated cell populations followed predictable growth patterns, accelerating as further mutations accumulated..\nCategory: Cancer prevention and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "metabolic-health-and-body-composition-linked-to-alzheimer-s-disea-b48fc857589a",
+      "category": "Healthy ageing and dementia research",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-metabolic-health-body-composition-linked.html",
+      "sourceTitle": "Metabolic health and body composition linked to Alzheimer's disease",
+      "publishedAt": "Mon, 23 Nov 2026 05:00:11 EST",
+      "languages": {
+        "en": {
+          "title": "Study links midlife metabolic health and body composition to Alzheimer's biomarkers",
+          "summary": "A large study presented at RSNA found that midlife body composition and metabolic health measures—beyond simple BMI—are associated with differences in Alzheimer’s disease–related brain biomarkers. The authors suggest these measures could help identify people who may be at higher risk and might benefit from earlier prevention efforts.",
+          "whyItMatters": "If confirmed, tracking detailed metabolic and body-composition measures in midlife could improve risk stratification for Alzheimer's research and prevention studies; however, observational associations do not prove causation.",
+          "takeaways": [
+            "Midlife metabolic status and body composition showed associations with AD-related brain biomarkers in a large study.",
+            "The findings emphasize looking beyond BMI alone when studying dementia risk.",
+            "Results were presented at a radiology meeting and suggest potential for improved risk identification, but causality isn’t established.",
+            "Further research is needed to determine whether modifying these factors changes long-term dementia outcomes."
+          ]
+        },
+        "es": {
+          "title": "Estudio vincula la salud metabólica y la composición corporal en la mediana edad con marcadores de Alzheimer",
+          "summary": "Un gran estudio presentado en la RSNA encontró que medidas de composición corporal y salud metabólica en la mediana edad —más allá del simple IMC— se asocian con diferencias en biomarcadores cerebrales relacionados con la enfermedad de Alzheimer. Los autores sugieren que estas medidas podrían ayudar a identificar a personas que podrían estar en mayor riesgo y beneficiarse de esfuerzos de prevención más tempranos.",
+          "whyItMatters": "Si se confirma, el seguimiento de medidas metabólicas detalladas y de composición corporal en la mediana edad podría mejorar la estratificación de riesgo para la investigación y los estudios de prevención del Alzheimer; no obstante, las asociaciones observacionales no prueban causalidad.",
+          "takeaways": [
+            "El estado metabólico y la composición corporal en la mediana edad mostraron asociaciones con biomarcadores cerebrales relacionados con la enfermedad de Alzheimer en un estudio amplio.",
+            "Los hallazgos enfatizan la necesidad de mirar más allá del IMC al estudiar el riesgo de demencia.",
+            "Los resultados se presentaron en una reunión de radiología y sugieren potencial para mejorar la identificación de riesgo, pero no establecen causalidad.",
+            "Se necesita más investigación para determinar si modificar estos factores altera los resultados de demencia a largo plazo."
+          ]
+        },
+        "ru": {
+          "title": "Исследование связывает метаболическое здоровье и состав тела в среднем возрасте с биомаркерами болезни Альцгеймера",
+          "summary": "Большое исследование, представленное на RSNA, обнаружило, что показатели состава тела и метаболического здоровья в среднем возрасте — помимо простого ИМТ — связаны с различиями в биомаркерах мозга, связанных с болезнью Альцгеймера. Авторы предполагают, что эти показатели могут помочь выявить людей с повышенным риском и которые могли бы получить выгоду от более ранних профилактических мер.",
+          "whyItMatters": "Если подтвердится, отслеживание детализированных мер метаболизма и состава тела в среднем возрасте может улучшить стратификацию риска для исследований и профилактических исследований Альцгеймера; однако наблюдательные ассоциации не доказывают причинно-следственную связь.",
+          "takeaways": [
+            "Метаболическое состояние и состав тела в среднем возрасте показали ассоциации с биомаркерами, связанными с болезнью Альцгеймера, в крупном исследовании.",
+            "Результаты подчеркивают необходимость смотреть дальше ИМТ при изучении риска деменции.",
+            "Выводы были представлены на радиологическом собрании и указывают на потенциальную возможность улучшения выявления риска, но причинность не установлена.",
+            "Необходимо дальнейшее исследование, чтобы определить, изменяет ли модификация этих факторов долгосрочные исходы по деменции."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження пов’язує метаболічне здоров’я та композицію тіла в середньому віці з біомаркерами Альцгеймера",
+          "summary": "Велике дослідження, представлене на RSNA, виявило, що показники композиції тіла та метаболічного здоров’я в середньому віці — виходячи за межі простого ІМТ — пов’язані з відмінностями в біомаркерах мозку, пов’язаних з хворобою Альцгеймера. Автори припускають, що ці виміри можуть допомогти ідентифікувати людей із підвищеним ризиком, які можуть отримати користь від раніших профілактичних заходів.",
+          "whyItMatters": "Якщо ці зв’язки підтвердяться, відстеження детальніших метаболічних і параметрів композиції тіла в середньому віці може покращити стратифікацію ризику для досліджень і профілактичних програм щодо Альцгеймера; однак спостережні асоціації не доводять причинно‑наслідкового зв’язку.",
+          "takeaways": [
+            "Статус метаболізму та композиція тіла в середньому віці показали асоціації з біомаркерами, пов’язаними з хворобою Альцгеймера, у великому дослідженні.",
+            "Результати підкреслюють необхідність дивитися далі за простий ІМТ при вивченні ризику деменції.",
+            "Результати були представлені на радіологічній конференції і натякають на потенціал кращої ідентифікації ризику, але причинність не встановлена.",
+            "Потрібні додаткові дослідження, щоб з’ясувати, чи зміна цих факторів впливає на довгострокову захворюваність на деменцію."
+          ]
+        },
+        "fr": {
+          "title": "Une étude relie la santé métabolique et la composition corporelle en milieu de vie à des biomarqueurs de la maladie d’Alzheimer",
+          "summary": "Une vaste étude présentée à la RSNA a trouvé que la composition corporelle et les mesures de santé métabolique en milieu de vie — au‑delà de l’IMC simple — sont associées à des différences dans des biomarqueurs cérébraux liés à la maladie d’Alzheimer. Les auteurs suggèrent que ces mesures pourraient aider à identifier des personnes potentiellement à plus haut risque et susceptibles de bénéficier d’efforts de prévention plus précoces.",
+          "whyItMatters": "Si ces résultats sont confirmés, le suivi de mesures métaboliques et de composition corporelle détaillées en milieu de vie pourrait améliorer la stratification du risque pour la recherche et les études de prévention contre Alzheimer ; toutefois, les associations observationnelles n’établissent pas de causalité.",
+          "takeaways": [
+            "Le statut métabolique et la composition corporelle en milieu de vie ont montré des associations avec des biomarqueurs liés à la maladie d’Alzheimer dans une grande étude.",
+            "Les résultats insistent sur l’importance de regarder au‑delà de l’IMC lors de l’étude du risque de démence.",
+            "Les résultats ont été présentés lors d’un congrès de radiologie et suggèrent un potentiel d’amélioration de l’identification du risque, sans établir la causalité.",
+            "Des recherches supplémentaires sont nécessaires pour déterminer si la modification de ces facteurs change les issues à long terme en matière de démence."
+          ]
+        },
+        "de": {
+          "title": "Studie verknüpft Stoffwechselgesundheit und Körperzusammensetzung im mittleren Lebensalter mit Alzheimer-Biomarkern",
+          "summary": "Eine große Studie, vorgestellt auf der RSNA, fand, dass Maße zur Körperzusammensetzung und Stoffwechselgesundheit im mittleren Lebensalter — über den einfachen BMI hinaus — mit Unterschieden bei Alzheimer-assoziierten Hirnbiomarkern verbunden sind. Die Autorinnen und Autoren schlagen vor, dass diese Messgrößen helfen könnten, Personen zu identifizieren, die ein höheres Risiko haben und von früheren Präventionsmaßnahmen profitieren könnten.",
+          "whyItMatters": "Wenn bestätigt, könnte die Erfassung detaillierterer metabolischer und körperzusammensetzungsbezogener Maße im mittleren Lebensalter die Risiko-Stratifizierung in der Alzheimer-Forschung und in Präventionsstudien verbessern; beobachtende Zusammenhänge beweisen jedoch keine Kausalität.",
+          "takeaways": [
+            "Maße zur Stoffwechselgesundheit und Körperzusammensetzung im mittleren Lebensalter zeigten Assoziationen mit AD-bezogenen Hirnbiomarkern in einer großen Studie.",
+            "Die Ergebnisse betonen, über den BMI hinauszublicken, wenn man das Demenzrisiko untersucht.",
+            "Die Resultate wurden auf einer radiologischen Tagung präsentiert und deuten auf Potenzial für eine bessere Risikoidentifikation hin, aber Kausalität ist nicht belegt.",
+            "Weitere Forschung ist nötig, um zu klären, ob Änderungen dieser Faktoren langfristig die Demenzentwicklung beeinflussen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo relaciona saúde metabólica e composição corporal na meia-idade a biomarcadores de Alzheimer",
+          "summary": "Um grande estudo apresentado na RSNA encontrou que medidas de composição corporal e saúde metabólica na meia-idade — além do IMC simples — estão associadas a diferenças em biomarcadores cerebrais relacionados à doença de Alzheimer. Os autores sugerem que essas medidas podem ajudar a identificar pessoas que podem ter risco mais alto e se beneficiar de esforços de prevenção precoce.",
+          "whyItMatters": "Se confirmadas, o acompanhamento de medidas metabólicas detalhadas e de composição corporal na meia-idade pode melhorar a estratificação de risco em pesquisas e estudos de prevenção do Alzheimer; contudo, associações observacionais não comprovam causalidade.",
+          "takeaways": [
+            "Estado metabólico e composição corporal na meia-idade mostraram associações com biomarcadores cerebrais relacionados ao Alzheimer em um grande estudo.",
+            "Os achados enfatizam a importância de olhar além do IMC ao estudar risco de demência.",
+            "Os resultados foram apresentados em um encontro de radiologia e sugerem potencial para melhor identificação de risco, mas a causalidade não está estabelecida.",
+            "Mais pesquisas são necessárias para determinar se modificar esses fatores altera resultados de demência a longo prazo."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány összekapcsolja a középkori metabolikus egészséget és testösszetételt az Alzheimer-biomarkerekkel",
+          "summary": "Egy nagy tanulmány, amelyet az RSNA-n mutattak be, azt találta, hogy a középkori testösszetétel és metabolikus egészségi mutatók—több mint az egyszerű BMI—összefüggnek az Alzheimer-kórhoz kapcsolódó agyi biomarkerek különbségeivel. A szerzők azt javasolják, hogy ezek a mérések segíthetnek azonosítani azokat, akik nagyobb kockázatúnak tűnnek és esetleg korábbi prevenciót igényelnének.",
+          "whyItMatters": "Ha megerősítik, a középkori részletes metabolikus és testösszetételi mérőszámok követése javíthatja a kockázatstratifikációt Alzheimer-kutatásban és prevenciós vizsgálatokban; azonban megfigyelési összefüggések nem bizonyítanak oksági kapcsolatot.",
+          "takeaways": [
+            "Egy nagy tanulmányban a középkori metabolikus állapot és testösszetétel összefüggéseket mutatott AD-hez kapcsolódó agyi biomarkerekkel.",
+            "Az eredmények hangsúlyozzák, hogy a demencia kockázatának vizsgálatakor érdemes a BMI-n túllépni.",
+            "Az eredményeket egy radiológiai konferencián mutatták be, és potenciált jeleznek a jobb kockázat-azonosításra, de az okság nincs bizonyítva.",
+            "További kutatások szükségesek annak megértéséhez, hogy ezen tényezők módosítása megváltoztatja-e a hosszú távú demencia-kimeneteleket."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تربط الصحة الأيضية والتركيبة الجسمانية في منتصف العمر بمؤشرات ألزهايمر",
+          "summary": "وجدت دراسة كبيرة عُرضت في مؤتمر RSNA أن مقاييس التركيبة الجسمانية والصحة الأيضية في منتصف العمر—خارج مؤشر كتلة الجسم فقط—مرتبطة باختلافات في مؤشرات الدماغ المتعلقة بمرض ألزهايمر. يقترح المؤلفون أن هذه المقاييس قد تساعد في تحديد الأشخاص الذين قد يكونون أكثر عرضة للخطر وقد يستفيدون من جهود وقائية مبكرة.",
+          "whyItMatters": "إذا تأكدت هذه النتائج، قد يؤدي تتبّع مقاييس أيضية وتكوّن جسمي مفصّلة في منتصف العمر إلى تحسين تصنيف المخاطر في أبحاث ألزهايمر ودراسات الوقاية؛ ومع ذلك، الارتباطات الرصدية لا تثبت السببية.",
+          "takeaways": [
+            "أظهرت الحالة الأيضية والتركيبة الجسمانية في منتصف العمر ارتباطات مع مؤشرات دماغية متعلقة بمرض ألزهايمر في دراسة كبيرة.",
+            "تؤكد النتائج أهمية النظر إلى ما هو أبعد من مؤشر كتلة الجسم عند دراسة مخاطر الخرف.",
+            "عُرضت النتائج في اجتماع للأشعة وتقترح إمكانية تحسين تحديد المخاطر، لكن السببية غير مثبتة.",
+            "هناك حاجة لمزيد من البحوث لتحديد ما إذا كان تعديل هذه العوامل يغير النتائج طويلة الأمد للخرف."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=metabolic-health-and-body-composition-linked-to-alzheimer-s-disea-b48fc857589a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metabolic-health-and-body-composition-linked-to-alzheimer-s-disea-b48fc857589a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/metabolic-health-and-body-composition-linked-to-alzheimer-s-disea-b48fc857589a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study links midlife metabolic health and body composition to Alzheimer's biomarkers.\nStory summary: A large study presented at RSNA found that midlife body composition and metabolic health measures—beyond simple BMI—are associated with differences in Alzheimer’s disease–related brain biomarkers. The authors suggest these measures could help identify people who may be at higher risk and might benefit from earlier prevention efforts..\nCategory: Healthy ageing and dementia research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "cambridge-co-leading-world-s-largest-trial-to-use-ai-to-help-dete-63e8c6a698a0",
+      "category": "AI in cancer detection and treatment",
+      "sourceName": "cam.ac.uk",
+      "sourceUrl": "https://www.cam.ac.uk/research/news/cambridge-co-leading-worlds-largest-trial-to-use-ai-to-help-detect-breast-cancers-earlier",
+      "sourceTitle": "Cambridge co-leading world’s largest trial to use AI to help detect breast cancers earlier",
+      "publishedAt": "Mon, 23 Nov 2026 08:24:11 +0000",
+      "languages": {
+        "en": {
+          "title": "UK launches the largest AI-assisted breast screening trial",
+          "summary": "Cambridge is co-leading a £10 million NIHR-funded trial that will evaluate an artificial intelligence–assisted tool in breast cancer screening. The project launches across 30 UK screening sites, starting in Cambridgeshire, and targets the usual screening population of women aged 50–71 who are invited every three years.",
+          "whyItMatters": "If validated at scale, AI-assisted reading could change how screening programs allocate human reviewers and potentially affect earlier detection; this trial is the largest real-world evaluation to date and is positioned to provide evidence on benefits and harms in routine screening.",
+          "takeaways": [
+            "The trial is NIHR-funded and will run at 30 breast screening sites in the UK, beginning in Cambridgeshire.",
+            "It tests an AI tool within existing screening workflows for women aged 50–71 invited every three years.",
+            "Results will provide large-scale evidence on whether AI can safely improve or streamline breast-screen reading in real-world settings.",
+            "Findings will be relevant to policy decisions about deploying AI in national screening programs."
+          ]
+        },
+        "es": {
+          "title": "Reino Unido lanza el mayor ensayo de cribado mamario asistido por IA",
+          "summary": "Cambridge co-lidera un ensayo financiado por NIHR de £10 millones que evaluará una herramienta asistida por inteligencia artificial en el cribado de cáncer de mama. El proyecto se desplegará en 30 centros de cribado del Reino Unido, comenzando en Cambridgeshire, y se dirige a la población habitual de cribado: mujeres de 50 a 71 años que son invitadas cada tres años.",
+          "whyItMatters": "Si se valida a gran escala, la lectura asistida por IA podría cambiar cómo los programas de cribado asignan revisores humanos y potencialmente influir en la detección temprana; este ensayo es la mayor evaluación en el mundo real hasta la fecha y está diseñado para aportar evidencia sobre beneficios y daños en el cribado de rutina.",
+          "takeaways": [
+            "El ensayo está financiado por NIHR y se realizará en 30 centros de cribado mamario del Reino Unido, empezando en Cambridgeshire.",
+            "Prueba una herramienta de IA dentro de los flujos de trabajo existentes para mujeres de 50 a 71 años invitadas cada tres años.",
+            "Los resultados aportarán evidencia a gran escala sobre si la IA puede mejorar o simplificar de forma segura la lectura de mamografías en entornos reales.",
+            "Los hallazgos serán relevantes para decisiones de política sobre la implementación de IA en programas nacionales de cribado."
+          ]
+        },
+        "ru": {
+          "title": "Великобритания запускает крупнейшее испытание скрининга груди с поддержкой ИИ",
+          "summary": "Кембридж со-руководит испытанием, финансируемым NIHR на £10 млн, которое оценит инструмент, поддерживаемый искусственным интеллектом, в скрининге рака молочной железы. Проект стартует на 30 площадках скрининга в Великобритании, начиная с Кембриджшира, и ориентирован на обычную популяцию скрининга — женщин в возрасте 50–71 года, которых приглашают каждые три года.",
+          "whyItMatters": "Если подтвердится масштабно, чтение с поддержкой ИИ может изменить распределение работы между людьми и потенциально повлиять на более раннее выявление; это крупнейшая на сегодняшний день оценка в реальных условиях и она призвана дать данные о выгодах и вредах в рутинном скрининге.",
+          "takeaways": [
+            "Испытание финансируется NIHR и будет проводиться на 30 площадках скрининга груди в Великобритании, начиная с Кембриджшира.",
+            "Оценивает инструмент ИИ в рамках существующих рабочих процессов для женщин 50–71 года, приглашаемых каждые три года.",
+            "Результаты дадут крупномасштабные данные о том, может ли ИИ безопасно улучшить или упростить чтение скрининговых изображений в реальных условиях.",
+            "Выводы будут важны для политических решений по внедрению ИИ в национальные программы скрининга."
+          ]
+        },
+        "uk": {
+          "title": "У Великій Британії запускають найбільше випробування скринінгу молочної залози за допомогою ШІ",
+          "summary": "Кембридж співкерує випробуванням на £10 млн, профінансованим NIHR, яке оцінюватиме інструмент із підтримкою штучного інтелекту для скринінгу раку молочної залози. Проєкт розгортається на 30 пунктах скринінгу в межах Великої Британії, починаючи в Кембриджширі, і спрямований на звичайну популяцію жінок віком 50–71 року, яких запрошують кожні три роки.",
+          "whyItMatters": "Якщо інструмент ШІ підтвердить свою ефективність у великих масштабах, читання з підтримкою ШІ може змінити розподіл роботи між людськими рецензентами в програмах скринінгу і потенційно вплинути на ранню діагностику; це наймасштабніша оцінка в реальних умовах на сьогодні і має надати докази щодо вигод і ризиків у рутинному скринінгу.",
+          "takeaways": [
+            "Випробування фінансується NIHR і проводитиметься на 30 пунктах скринінгу молочної залози в Великій Британії, починаючи в Кембриджширі.",
+            "Воно тестує інструмент ШІ в існуючих робочих процесах скринінгу для жінок віком 50–71 року, яких запрошують кожні три роки.",
+            "Результати дадуть масштабні докази щодо того, чи може ШІ безпечно покращити або спростити читання скринінгових знімків у реальних умовах.",
+            "Висновки будуть релевантні для політичних рішень щодо впровадження ШІ в національні програми скринінгу."
+          ]
+        },
+        "fr": {
+          "title": "Royaume‑Uni : lancement du plus grand essai de dépistage du sein assisté par IA",
+          "summary": "Cambridge co‑dirige un essai à hauteur de 10 millions de livres sterling financé par le NIHR, qui évaluera un outil assisté par intelligence artificielle pour le dépistage du cancer du sein. Le projet se déploie dans 30 sites de dépistage au Royaume‑Uni, à partir du Cambridgeshire, et vise la population habituelle de femmes de 50 à 71 ans invitées tous les trois ans.",
+          "whyItMatters": "Si l’outil IA est validé à grande échelle, la lecture assistée par IA pourrait modifier la répartition du travail des lecteurs humains dans les programmes de dépistage et potentiellement favoriser une détection plus précoce ; il s’agit de la plus grande évaluation en conditions réelles à ce jour et elle est destinée à fournir des preuves sur les bénéfices et les risques dans le dépistage de routine.",
+          "takeaways": [
+            "L’essai est financé par le NIHR et se déroulera sur 30 sites de dépistage du sein au Royaume‑Uni, en commençant par le Cambridgeshire.",
+            "Il teste un outil d’IA dans les parcours de dépistage existants pour les femmes de 50 à 71 ans invitées tous les trois ans.",
+            "Les résultats apporteront des preuves à grande échelle sur la capacité de l’IA à améliorer ou à rationaliser la lecture des dépistages en conditions réelles.",
+            "Les conclusions seront pertinentes pour les décisions politiques concernant le déploiement de l’IA dans les programmes nationaux de dépistage."
+          ]
+        },
+        "de": {
+          "title": "Großbritannien startet die bislang größte KI-gestützte Brustscreening-Studie",
+          "summary": "Cambridge ko-leitet eine vom NIHR mit £10 Millionen finanzierte Studie, die ein KI-gestütztes Werkzeug beim Brustkrebs-Screening evaluieren soll. Das Projekt beginnt an 30 Screening-Standorten im Vereinigten Königreich, startet in Cambridgeshire, und richtet sich an die übliche Screening-Population von Frauen im Alter von 50–71 Jahren, die alle drei Jahre eingeladen werden.",
+          "whyItMatters": "Wird die KI-gestützte Befundung in großem Maßstab validiert, könnte das Einfluss darauf haben, wie Screening-Programme menschliche Gutachter einsetzen und möglicherweise zu früherer Erkennung führen; diese Studie ist die bislang größte Echtwelt-Evaluierung und soll Belege zu Nutzen und möglichen Schäden im Routine-Screening liefern.",
+          "takeaways": [
+            "Die Studie wird vom NIHR finanziert und an 30 Brustscreening-Standorten im UK durchgeführt, beginnend in Cambridgeshire.",
+            "Getestet wird ein KI-Werkzeug innerhalb bestehender Screening-Abläufe für Frauen im Alter von 50–71 Jahren, die alle drei Jahre eingeladen werden.",
+            "Die Ergebnisse werden groß angelegte Evidenz dazu liefern, ob KI das Brustscreening in realen Settings sicher verbessern oder vereinfachen kann.",
+            "Die Befunde werden für politische Entscheidungen zur Einführung von KI in nationalen Screening-Programmen relevant sein."
+          ]
+        },
+        "pt-br": {
+          "title": "Reino Unido lança o maior ensaio de rastreamento mamário assistido por IA até hoje",
+          "summary": "Cambridge co-lidera um ensaio financiado pelo NIHR de £10 milhões que avaliará uma ferramenta assistida por IA no rastreamento do câncer de mama. O projeto será realizado em 30 locais de rastreamento no Reino Unido, começando em Cambridgeshire, e tem como alvo a população usual de rastreamento de mulheres de 50–71 anos, convidadas a cada três anos.",
+          "whyItMatters": "Se validada em grande escala, a leitura assistida por IA poderia alterar a forma como os programas de rastreamento alocam revisores humanos e potencialmente contribuir para detecções mais precoces; este ensaio é a maior avaliação em contexto real até o momento e está posicionado para fornecer evidência sobre benefícios e danos no rastreamento rotineiro.",
+          "takeaways": [
+            "O ensaio é financiado pelo NIHR e será conduzido em 30 locais de rastreamento no Reino Unido, começando por Cambridgeshire.",
+            "Testa uma ferramenta de IA dentro dos fluxos de trabalho de rastreamento existentes para mulheres de 50–71 anos, convidadas a cada três anos.",
+            "Os resultados fornecerão evidência em larga escala sobre se a IA pode melhorar ou otimizar com segurança a leitura de rastreamento mamário em cenários reais.",
+            "As descobertas serão relevantes para decisões de política sobre o uso de IA em programas nacionais de rastreamento."
+          ]
+        },
+        "hu": {
+          "title": "Az Egyesült Királyság elindítja a legnagyobb, MI-vel támogatott emlőszűrési vizsgálatot",
+          "summary": "Cambridge társszerzőként vezet egy 10 millió font összegű, NIHR által finanszírozott vizsgálatot, amely egy mesterséges intelligencia által segített eszközt értékel az emlőrákszűrésben. A projekt 30 brit szűrőhelyen indul, Cambridgeshire-rel kezdve, és a megszokott, háromévente behívott 50–71 éves nők szűrési populációját célozza.",
+          "whyItMatters": "Ha nagyléptékben érvényesíthető, az MI-vezérelt leolvasás megváltoztathatja, hogyan osztják be az emberi értékelőket a szűrőprogramok, és potenciálisan korábbi felismerést eredményezhet; ez a vizsgálat a legnagyobb valós világban végzett értékelés eddig, és alkalmas arra, hogy bizonyítékot szolgáltasson a rutin szűrés előnyeiről és kockázatairól.",
+          "takeaways": [
+            "A vizsgálatot az NIHR finanszírozza, és 30 emlőszűrő helyszínen zajlik az Egyesült Királyságban, Cambridgeshire-rel kezdve.",
+            "Az AI-eszközt a meglévő szűrési munkafolyamatokba illesztik a háromévente behívott 50–71 éves nők körében.",
+            "Az eredmények nagyléptékű bizonyítékot adhatnak arról, hogy az MI biztonságosan javíthatja-e vagy egyszerűsítheti az emlőszűrés leolvasását a valós körülmények között.",
+            "A megállapítások relevánsak lehetnek a nemzeti szűrőprogramokban történő MI-alkalmazásról szóló döntéshozatalhoz."
+          ]
+        },
+        "ar": {
+          "title": "المملكة المتحدة تطلق أكبر تجربة فحص للثدي بمساعدة الذكاء الاصطناعي",
+          "summary": "تشارك جامعة كامبريدج في قيادة تجربة بتمويل 10 ملايين جنيه إسترليني من NIHR لتقييم أداة مدعومة بالذكاء الاصطناعي في فحص سرطان الثدي. يُطلق المشروع عبر 30 موقع فحص في المملكة المتحدة، بدءًا من كامبريجشير، ويستهدف الفئة المعتادة للفحص من النساء البالغات 50–71 سنة اللائي يُدعَين كل ثلاث سنوات.",
+          "whyItMatters": "إذا ثبتت فاعليتها على نطاق واسع، قد يغيّر الاعتماد على الذكاء الاصطناعي طريقة تخصيص المراجعين البشريين في برامج الفحص وقد يؤثر على الكشف المبكر؛ هذه التجربة هي أكبر تقييم عملي حتى الآن ومصممة لتقديم أدلة حول الفوائد والأضرار في الفحص الروتيني.",
+          "takeaways": [
+            "التجربة ممولة من NIHR وستُجرى في 30 موقع فحص للثدي في المملكة المتحدة، تبدأ من كامبريجشير.",
+            "تختبر الأداة المدعومة بالذكاء الاصطناعي داخل سير عمل الفحص القائم للنساء البالغات 50–71 سنة المدعوات كل ثلاث سنوات.",
+            "ستوفر النتائج أدلة واسعة النطاق حول ما إذا كان يمكن للذكاء الاصطناعي أن يحسّن أو يبسّط قراءة فحوصات الثدي بشكل آمن في الظروف الواقعية.",
+            "ستكون النتائج ذات أهمية لقرارات السياسات المتعلقة بنشر الذكاء الاصطناعي في برامج الفحص الوطنية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=cambridge-co-leading-world-s-largest-trial-to-use-ai-to-help-dete-63e8c6a698a0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cambridge-co-leading-world-s-largest-trial-to-use-ai-to-help-dete-63e8c6a698a0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/cambridge-co-leading-world-s-largest-trial-to-use-ai-to-help-dete-63e8c6a698a0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: UK launches the largest AI-assisted breast screening trial.\nStory summary: Cambridge is co-leading a £10 million NIHR-funded trial that will evaluate an artificial intelligence–assisted tool in breast cancer screening. The project launches across 30 UK screening sites, starting in Cambridgeshire, and targets the usual screening population of women aged 50–71 who are invited every three years..\nCategory: AI in cancer detection and treatment.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "can-an-ai-guided-diet-beat-healthy-eating-when-taking-metformin-b3714483aa5f",
+      "category": "Nutrition and clinical trials",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261122/Can-an-AI-guided-diet-beat-healthy-eating-when-taking-metformin.aspx",
+      "sourceTitle": "Can an AI-guided diet beat healthy eating when taking metformin?",
+      "publishedAt": "Sun, 22 Nov 2026 19:23:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Randomized trial finds AI-guided personalized diet performed similarly to standard healthy diet on metformin",
+          "summary": "In a randomized clinical trial of 138 adults with prediabetes or early-stage type 2 diabetes, a machine-learning–guided personalized diet offered no significant advantage over a standard low-fat, high-fiber diet for glucose control, weight, or cardiometabolic health when both were combined with metformin. The personalized approach slightly reduced short-term glucose fluctuations, and gut microbiome changes did not consistently correspond to metabolic improvements.",
+          "whyItMatters": "This randomized evidence suggests that, in the studied population and context (with metformin), an ML-guided diet may not outperform a conventional healthy diet for core metabolic outcomes, highlighting the importance of randomized trials to test personalized nutrition claims.",
+          "takeaways": [
+            "Trial randomized 138 adults with prediabetes or early-stage diabetes to an ML-guided diet versus a standard low-fat, high-fiber diet, all on metformin.",
+            "No significant differences were observed in major outcomes like average glucose control, weight, or cardiometabolic measures.",
+            "The personalized diet slightly reduced short-term glucose variability but did not produce clear overall benefits.",
+            "Microbiome changes did not consistently predict metabolic improvements in this trial."
+          ]
+        },
+        "es": {
+          "title": "Ensayo aleatorizado encuentra que una dieta personalizada guiada por IA rindió de forma similar a una dieta saludable estándar en personas con metformina",
+          "summary": "En un ensayo clínico aleatorizado con 138 adultos con prediabetes o diabetes tipo 2 en estadios iniciales, una dieta personalizada guiada por aprendizaje automático no ofreció una ventaja significativa frente a una dieta estándar baja en grasas y rica en fibra para el control glucémico, el peso o la salud cardiometabólica cuando ambas se combinaron con metformina. El enfoque personalizado redujo ligeramente las fluctuaciones glucémicas a corto plazo, y los cambios en el microbioma intestinal no se correspondieron de manera consistente con mejoras metabólicas.",
+          "whyItMatters": "Esta evidencia aleatorizada sugiere que, en la población y el contexto estudiados (con metformina), una dieta guiada por ML puede no superar a una dieta saludable convencional en resultados metabólicos principales, lo que subraya la importancia de ensayos aleatorizados para probar las afirmaciones sobre nutrición personalizada.",
+          "takeaways": [
+            "El ensayo aleatorizó a 138 adultos con prediabetes o diabetes temprana a dieta guiada por ML versus una dieta estándar baja en grasa y alta en fibra, todos con metformina.",
+            "No se observaron diferencias significativas en resultados principales como control glucémico medio, peso o medidas cardiometabólicas.",
+            "La dieta personalizada redujo ligeramente la variabilidad glucémica a corto plazo, pero no produjo beneficios claros en general.",
+            "Los cambios en el microbioma no predijeron de forma consistente las mejoras metabólicas en este ensayo."
+          ]
+        },
+        "ru": {
+          "title": "Рандомизированное исследование: диета, персонализованная с помощью ИИ, показала сопоставимые результаты со стандартной здоровой диетой при приеме метформина",
+          "summary": "В рандомизированном клиническом исследовании 138 взрослых с предиабетом или ранней стадией диабета 2 типа диета, персонализированная с помощью машинного обучения, не показала значимого преимущества по сравнению со стандартной низкожировой, богатой клетчаткой диетой для контроля глюкозы, веса или кардиометаболического здоровья при условии, что обе диеты сочетались с метформином. Персонализированный подход слегка снизил кратковременные колебания глюкозы, а изменения микробиома кишечника не всегда соответствовали метаболическим улучшениям.",
+          "whyItMatters": "Эти рандомизированные данные указывают, что в изученной популяции и контексте (при приеме метформина) диета, управляемая ML, может не превосходить обычную здоровую диету по основным метаболическим показателям, что подчеркивает важность рандомизированных испытаний для проверки заявлений о персонализированном питании.",
+          "takeaways": [
+            "В исследовании рандомизировали 138 взрослых с предиабетом или ранней стадией диабета 2 типа на диету, управляемую ML, и стандартную низкожировую, высококлетчатую диету, все — на метформине.",
+            "Не было обнаружено значимых различий по основным исходам, таким как средний контроль глюкозы, вес или кардиометаболические показатели.",
+            "Персонализированная диета немного снизила краткосрочную вариабельность глюкозы, но не дала явных общих преимуществ.",
+            "Изменения микробиоты кишечника не последовательно предсказывали метаболические улучшения в этом исследовании."
+          ]
+        },
+        "uk": {
+          "title": "Рандомізоване дослідження: дієта, керована ШІ, показала подібні результати до стандартної здорової дієти при прийомі метформіну",
+          "summary": "У рандомізованому клінічному дослідженні за участю 138 дорослих з предіабетом або раннім типом 2 діабету дієта, персоналізована за допомогою машинного навчання, не надала значної переваги над стандартною низькожировою, багатою на клітковину дієтою щодо контролю глюкози, ваги чи кардіометаболічного здоров’я за умови, що обидві дієти поєднувалися з прийомом метформіну. Персоналізований підхід трохи зменшив короткострокові коливання глюкози, а зміни мікробіому кишечника не завжди відповідали метаболічним покращенням.",
+          "whyItMatters": "Ці рандомізовані дані свідчать, що в досліджуваній популяції та контексті (на фоні метформіну) дієта, керована ML, може не перевершувати звичайну здорову дієту щодо основних метаболічних показників, що підкреслює важливість рандомізованих випробувань для перевірки тверджень про персоналізоване харчування.",
+          "takeaways": [
+            "У дослідженні 138 дорослих з предіабетом або раннім діабетом рандомізували між дієтою, керованою ML, та стандартною низькожировою, багатою на клітковину дієтою, усі на фоні метформіну.",
+            "Не виявлено суттєвих відмінностей у основних результатах, таких як середній рівень глюкози, вага чи кардіометаболічні показники.",
+            "Персоналізована дієта трохи зменшила короткострокову варіабельність глюкози, але не дала очевидних загальних переваг.",
+            "Зміни мікробіому не послідовно передбачали метаболічні покращення у цьому випробуванні."
+          ]
+        },
+        "fr": {
+          "title": "Essai randomisé : un régime personnalisé guidé par l’IA a donné des résultats similaires à un régime sain standard chez des personnes sous metformine",
+          "summary": "Dans un essai clinique randomisé portant sur 138 adultes présentant un prédiabète ou un diabète de type 2 débutant, un régime personnalisé guidé par apprentissage automatique n’a apporté aucun avantage significatif par rapport à un régime standard pauvre en graisses et riche en fibres pour le contrôle glycémique, le poids ou la santé cardiométabolique lorsque les deux étaient associés à la metformine. L’approche personnalisée a légèrement réduit les fluctuations glycémiques à court terme, et les changements du microbiote intestinal ne se sont pas systématiquement traduits par des améliorations métaboliques.",
+          "whyItMatters": "Ces preuves issues d’un essai randomisé suggèrent que, dans la population et le contexte étudiés (avec metformine), un régime guidé par ML peut ne pas surpasser un régime sain conventionnel pour les principaux paramètres métaboliques, soulignant l’importance des essais randomisés pour tester les affirmations sur la nutrition personnalisée.",
+          "takeaways": [
+            "L’essai a randomisé 138 adultes avec prédiabète ou diabète de stade précoce entre un régime guidé par ML et un régime standard pauvre en graisses et riche en fibres, tous sous metformine.",
+            "Aucune différence significative n’a été observée pour les principaux résultats comme le contrôle glycémique moyen, le poids ou les paramètres cardiométaboliques.",
+            "Le régime personnalisé a légèrement réduit la variabilité glycémique à court terme sans bénéfices clairs globaux.",
+            "Les modifications du microbiome n’ont pas systématiquement prédit les améliorations métaboliques dans cet essai."
+          ]
+        },
+        "de": {
+          "title": "Randomisierte Studie: ML-geführte personalisierte Diät schnitt ähnlich ab wie Standard‑Gesundheitsdiät bei Metformin",
+          "summary": "In einer randomisierten klinischen Studie mit 138 Erwachsenen mit Prädiabetes oder frühem Typ‑2‑Diabetes bot eine durch maschinelles Lernen geleitete personalisierte Diät keinen signifikanten Vorteil gegenüber einer standardmäßigen fettarmen, ballaststoffreichen Diät in Bezug auf Glukosekontrolle, Gewicht oder kardiometabolische Gesundheit, wenn beide Ansätze mit Metformin kombiniert wurden. Der personalisierte Ansatz reduzierte kurzzeitig leichte Glukose‑Schwankungen, und Veränderungen im Darmmikrobiom korrespondierten nicht konsistent mit metabolischen Verbesserungen.",
+          "whyItMatters": "Diese randomisierte Evidenz deutet darauf hin, dass eine ML-geführte Diät in der untersuchten Population und dem Kontext (mit Metformin) eine konventionelle gesunde Diät bei zentralen metabolischen Endpunkten möglicherweise nicht übertrifft, und unterstreicht die Wichtigkeit randomisierter Studien zur Überprüfung personalisierter Ernährungsansprüche.",
+          "takeaways": [
+            "Die Studie randomisierte 138 Erwachsene mit Prädiabetes oder frühem Diabetes in eine ML-geführte Diät versus eine standardisierte fettarme, ballaststoffreiche Diät; alle erhielten Metformin.",
+            "Kein signifikanter Unterschied in wichtigen Ergebnissen wie durchschnittlicher Glukosekontrolle, Gewicht oder kardiometabolischen Messgrößen wurde beobachtet.",
+            "Die personalisierte Diät verringerte leicht kurzfristige Glukosevariabilität, brachte aber keinen klaren Gesamtnutzen.",
+            "Veränderungen des Mikrobioms sagten in dieser Studie nicht konsistent metabolische Verbesserungen voraus."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio randomizado mostra que dieta personalizada guiada por IA teve desempenho similar à dieta saudável padrão em uso com metformina",
+          "summary": "Em um ensaio clínico randomizado com 138 adultos com pré‑diabetes ou diabetes tipo 2 em estágio inicial, uma dieta personalizada orientada por aprendizado de máquina não ofereceu vantagem significativa sobre uma dieta padrão pobre em gordura e rica em fibras para controle glicêmico, peso ou saúde cardiometabólica quando ambas foram combinadas com metformina. A abordagem personalizada reduziu ligeiramente flutuações glicêmicas de curto prazo, e mudanças no microbioma intestinal não corresponderam de forma consistente a melhorias metabólicas.",
+          "whyItMatters": "Essa evidência randomizada sugere que, na população e no contexto estudados (com metformina), uma dieta guiada por ML pode não superar uma dieta saudável convencional para desfechos metabólicos principais, ressaltando a importância de ensaios randomizados para testar alegações de nutrição personalizada.",
+          "takeaways": [
+            "O ensaio randomizou 138 adultos com pré‑diabetes ou diabetes inicial para dieta guiada por ML versus dieta padrão pobre em gordura e rica em fibras; todos com metformina.",
+            "Não foram observadas diferenças significativas em desfechos principais como controle glicêmico médio, peso ou medidas cardiometabólicas.",
+            "A dieta personalizada reduziu ligeiramente a variabilidade glicêmica de curto prazo, mas não trouxe benefícios gerais claros.",
+            "Mudanças no microbioma não previram de forma consistente melhorias metabólicas neste ensaio."
+          ]
+        },
+        "hu": {
+          "title": "Randomizált vizsgálat: az MI-vezérelt személyre szabott étrend hasonlóan teljesített a hagyományos egészséges étrendhez metformin mellett",
+          "summary": "Egy 138 felnőttet bevonó randomizált klinikai vizsgálatban, akik prediabéteszesek vagy a 2-es típusú cukorbetegség korai stádiumában voltak, a gépi tanulás által vezetett személyre szabott étrend nem mutatott jelentős előnyt a standard, alacsony zsír- és magas rosttartalmú étrendhez képest a glükózszabályozás, testsúly vagy kardiometabolikus egészség tekintetében, amikor mindkettőt metforminnal kombinálták. A személyre szabott megközelítés enyhén csökkentette a rövid távú vércukoringadozásokat, és a bélmikrobiom változásai nem mutattak következetes összefüggést a metabolikus javulásokkal.",
+          "whyItMatters": "Ez a randomizált bizonyíték azt sugallja, hogy a vizsgált populációban és kontextusban (metfomin mellett) az ML-irányított étrend nem feltétlenül jobb egy hagyományos egészséges étrendnél a fő metabolikus kimenetek tekintetében, és kiemeli a randomizált vizsgálatok fontosságát a személyre szabott táplálkozási állítások tesztelésében.",
+          "takeaways": [
+            "A vizsgálat 138 prediabéteszes vagy korai stádiumú diabéteszes felnőttet randomizált ML-vezérelt étrendre vagy standard alacsony zsír-, magas rosttartalmú étrendre, mindkettőt metforminnal kiegészítve.",
+            "Nagyobb kimenetekben, mint az átlagos glükózszabályozás, testsúly vagy kardiometabolikus mutatók, nem figyeltek meg jelentős különbségeket.",
+            "A személyre szabott étrend enyhe csökkenést eredményezett a rövid távú glükózingadozásban, de nem hozott egyértelmű általános előnyt.",
+            "A mikrobiomváltozások nem jósolták következetesen a metabolikus javulásokat ebben a vizsgálatban."
+          ]
+        },
+        "ar": {
+          "title": "تجربة عشوائية تجد أن حمية موجهة بالذكاء الاصطناعي الشخصي آداؤها مماثل للحمية الصحية القياسية عند استخدام الميتفورمين",
+          "summary": "في تجربة سريرية عشوائية شملت 138 بالغًا يعانون من مرحلة ما قبل السكري أو مرحلة مبكرة من داء السكري من النوع 2، لم تُظهر حمية مخصصة موجهة بتعلم الآلة أفضلية كبيرة على حمية قياسية منخفضة الدهن وغنية بالألياف فيما يتعلق بالتحكم في الجلوكوز والوزن أو الصحة القلبية الأيضية عندما جمعت كلتاهما مع الميتفورمين. قللت المقاربة المخصصة قليلاً من تقلبات الجلوكوز قصيرة المدى، ولم تتطابق تغييرات ميكروبيوم الأمعاء باستمرار مع التحسينات الأيضية.",
+          "whyItMatters": "تشير هذه الأدلة العشوائية إلى أنه في العينة والسياق المدروسين (مع الميتفورمين)، قد لا تتفوق الحمية الموجهة بتعلم الآلة على الحمية الصحية التقليدية بالنسبة للمؤشرات الأيضية الأساسية، مما يبرز أهمية التجارب العشوائية لاختبار ادعاءات التغذية الشخصية.",
+          "takeaways": [
+            "عَقَدَت التجربة عشوائيًا 138 بالغًا مع مرحلة ما قبل السكري أو داء سكري مبكر إلى حمية موجهة بتعلم الآلة مقابل حمية قياسية منخفضة الدهن وعالية الألياف، جميعهم على الميتفورمين.",
+            "لم تُلاحظ فروق ذات دلالة في نتائج رئيسية مثل متوسط ضبط الجلوكوز أو الوزن أو المؤشرات القلبية الأيضية.",
+            "قلّلت الحمية المخصصة تقلبات الجلوكوز قصيرة الأمد قليلاً لكنها لم تُظهر فوائد واضحة عامة.",
+            "لم تتنبّأ تغييرات الميكروبيوم بشكل ثابت بالتحسينات الأيضية في هذه التجربة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=can-an-ai-guided-diet-beat-healthy-eating-when-taking-metformin-b3714483aa5f",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-an-ai-guided-diet-beat-healthy-eating-when-taking-metformin-b3714483aa5f-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/can-an-ai-guided-diet-beat-healthy-eating-when-taking-metformin-b3714483aa5f-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Randomized trial finds AI-guided personalized diet performed similarly to standard healthy diet on metformin.\nStory summary: In a randomized clinical trial of 138 adults with prediabetes or early-stage type 2 diabetes, a machine-learning–guided personalized diet offered no significant advantage over a standard low-fat, high-fiber diet for glucose control, weight, or cardiometabolic health when both were combined with metformin. The personalized approach slightly reduced short-term glucose fluctuations, and gut microbiome changes did not consistently correspond to metabolic improvements..\nCategory: Nutrition and clinical trials.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "biodiversity-footprints-of-food-consumption-decouple-from-economi-d8ef51faf2d8",
+      "category": "Nutrition and environmental health",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s43016-026-01465-3",
+      "sourceTitle": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
+      "publishedAt": "2026-11-23",
+      "languages": {
+        "en": {
+          "title": "Global analysis finds biodiversity impacts of diets can decouple from economic growth in wealthier countries",
+          "summary": "An analysis covering 158 countries over 25 years found that the biodiversity footprints associated with food consumption are more likely to decouple from economic growth at higher income levels. The decoupling trend was stronger for plant-based foods than for animal-based foods, particularly ruminant meat.",
+          "whyItMatters": "This cross-country, multi-decade analysis highlights how dietary patterns and production choices relate to biodiversity impact; it informs policy discussions linking nutrition, agricultural practices and biodiversity conservation but does not prescribe specific interventions.",
+          "takeaways": [
+            "Researchers analyzed 158 countries across 25 years to study how food consumption affects biodiversity footprints.",
+            "Higher-income countries showed greater likelihood of decoupling biodiversity impact from economic growth.",
+            "Decoupling was stronger for plant-based foods than for animal-based foods, with ruminant meat showing large impacts.",
+            "Policy and production choices, alongside dietary patterns, appear important for reducing biodiversity pressures."
+          ]
+        },
+        "es": {
+          "title": "Análisis global encuentra que los impactos sobre la biodiversidad de las dietas pueden desvincularse del crecimiento económico en países más ricos",
+          "summary": "Un análisis que abarcó 158 países durante 25 años halló que las huellas sobre la biodiversidad asociadas al consumo de alimentos tienen más probabilidades de desvincularse del crecimiento económico en niveles de renta más altos. La tendencia de desvinculación fue más fuerte para los alimentos de origen vegetal que para los de origen animal, especialmente la carne de rumiantes.",
+          "whyItMatters": "Este análisis entre países y a lo largo de varias décadas destaca cómo los patrones dietéticos y las decisiones de producción se relacionan con el impacto sobre la biodiversidad; aporta información a las discusiones de políticas que vinculan nutrición, prácticas agrícolas y conservación de la biodiversidad, pero no prescribe intervenciones concretas.",
+          "takeaways": [
+            "Los investigadores analizaron 158 países a lo largo de 25 años para estudiar cómo el consumo de alimentos afecta las huellas sobre la biodiversidad.",
+            "Los países de mayores ingresos mostraron mayor probabilidad de desvincular el impacto sobre la biodiversidad del crecimiento económico.",
+            "La desvinculación fue más fuerte para los alimentos de origen vegetal que para los de origen animal, destacando grandes impactos de la carne de rumiantes.",
+            "Las decisiones de política y de producción, junto con los patrones dietéticos, parecen importantes para reducir las presiones sobre la biodiversidad."
+          ]
+        },
+        "ru": {
+          "title": "Глобальный анализ показывает, что влияние диет на биологическое разнообразие может разрываться с экономическим ростом в более богатых странах",
+          "summary": "Анализ, охвативший 158 стран за 25 лет, показал, что экологический след в отношении биоразнообразия, связанный с потреблением продовольствия, с большей вероятностью разрывается с экономическим ростом на более высоких уровнях дохода. Тенденция разрыва была сильнее для растительных продуктов, чем для животноводческой продукции, особенно для мяса жвачных животных.",
+          "whyItMatters": "Этот многолетний сравнительный анализ подчеркивает, как пищевые привычки и производственные решения соотносятся с воздействием на биоразнообразие; он информирует политические обсуждения, связывающие питание, сельское хозяйство и сохранение биоразнообразия, но не предписывает конкретные вмешательства.",
+          "takeaways": [
+            "Исследователи проанализировали 158 стран в течение 25 лет, чтобы изучить, как потребление пищи влияет на следы в отношении биоразнообразия.",
+            "В странах с более высокими доходами чаще наблюдается разрыв между воздействием на биоразнообразие и экономическим ростом.",
+            "Разрыв был сильнее для растительной пищи, чем для продуктов животного происхождения, при этом мясо жвачных животных оказывает значительное воздействие.",
+            "Политические и производственные решения вместе с диетическими паттернами кажутся важными для снижения давления на биоразнообразие."
+          ]
+        },
+        "uk": {
+          "title": "Глобальний аналіз виявляє, що вплив дієт на біорізноманіття може відділятися від економічного зростання в багатших країнах",
+          "summary": "Аналіз 158 країн за 25 років показав, що сліди впливу на біорізноманіття, пов’язані зі споживанням їжі, частіше відокремлюються від економічного зростання на вищих рівнях доходу. Тренд відокремлення був сильнішим для продуктів рослинного походження, ніж для тваринних продуктів, особливо для м’яса жуйних тварин.",
+          "whyItMatters": "Цей міжкраїнний аналіз за кілька десятиліть підкреслює, як харчові звички і виробничі рішення пов’язуються з впливом на біорізноманіття; він інформує політичні дискусії на перетині харчування, аграрної практики та збереження біорізноманіття, але не призначений пропонувати конкретні втручання.",
+          "takeaways": [
+            "Дослідники проаналізували 158 країн за 25 років, щоб вивчити, як споживання їжі впливає на сліди біорізноманіття.",
+            "Країни з вищими доходами мали більшу ймовірність відокремлення впливу на біорізноманіття від економічного зростання.",
+            "Відокремлення було сильнішим для продуктів рослинного походження ніж для тваринних, при цьому м’ясо жуйних тварин мало значніший вплив.",
+            "Політичні та виробничі рішення разом із дієтичними звичками, здаються, важливі для зниження тиску на біорізноманіття."
+          ]
+        },
+        "fr": {
+          "title": "Analyse mondiale : les impacts des régimes alimentaires sur la biodiversité peuvent se découpler de la croissance économique dans les pays plus riches",
+          "summary": "Une analyse couvrant 158 pays sur 25 ans a montré que les empreintes biodiversité associées à la consommation alimentaire sont plus susceptibles de se découpler de la croissance économique à des niveaux de revenu plus élevés. Le découplage était plus marqué pour les aliments d’origine végétale que pour les aliments d’origine animale, en particulier la viande de ruminants.",
+          "whyItMatters": "Cette analyse transnationale sur plusieurs décennies met en lumière la manière dont les habitudes alimentaires et les choix de production se rapportent à l’impact sur la biodiversité ; elle éclaire les discussions politiques liant nutrition, pratiques agricoles et conservation de la biodiversité, sans prescrire d’interventions spécifiques.",
+          "takeaways": [
+            "Les chercheurs ont analysé 158 pays sur 25 ans pour étudier comment la consommation alimentaire affecte les empreintes biodiversité.",
+            "Les pays à plus hauts revenus ont montré une plus grande probabilité de découpler l’impact sur la biodiversité de la croissance économique.",
+            "Le découplage était plus fort pour les aliments d’origine végétale que pour les aliments d’origine animale, la viande de ruminants montrant de forts impacts.",
+            "Les choix politiques et de production, ainsi que les modèles alimentaires, semblent importants pour réduire les pressions sur la biodiversité."
+          ]
+        },
+        "de": {
+          "title": "Globale Analyse: Biodiversitätsfolgen von Ernährung können sich in wohlhabenderen Ländern vom Wirtschaftswachstum entkoppeln",
+          "summary": "Eine Analyse mit Daten aus 158 Ländern über 25 Jahre ergab, dass die mit dem Nahrungsverbrauch verbundenen Biodiversitäts-Fußabdrücke auf höheren Einkommensniveaus eher vom Wirtschaftswachstum entkoppelt werden. Der Entkopplungstrend war für pflanzliche Lebensmittel stärker als für tierische Produkte, insbesondere bei Fleisch von Wiederkäuern.",
+          "whyItMatters": "Diese länderübergreifende, multidekaden Analyse macht deutlich, wie Ernährungsgewohnheiten und Produktionsentscheidungen mit Biodiversitätsauswirkungen zusammenhängen; sie liefert Grundlagen für politische Diskussionen, die Ernährung, landwirtschaftliche Praktiken und Biodiversitätsschutz verknüpfen, ohne konkrete Maßnahmen vorzuschreiben.",
+          "takeaways": [
+            "Untersucht wurden 158 Länder über 25 Jahre, um zu analysieren, wie Nahrungsverbrauch Biodiversitäts-Fußabdrücke beeinflusst.",
+            "Höhere Einkommensländer zeigten eine größere Wahrscheinlichkeit, dass sich Biodiversitätsauswirkungen vom Wirtschaftswachstum entkoppeln.",
+            "Die Entkopplung war bei pflanzlichen Lebensmitteln stärker als bei tierischen Lebensmitteln; Fleisch von Wiederkäuern wies starke Auswirkungen auf.",
+            "Politik- und Produktionsentscheidungen sowie Ernährungsgewohnheiten scheinen wichtig zu sein, um Biodiversitätsdruck zu reduzieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Análise global encontra que impactos de biodiversidade de dietas podem se desacoplar do crescimento econômico em países mais ricos",
+          "summary": "Uma análise abrangendo 158 países ao longo de 25 anos constatou que as pegadas de biodiversidade associadas ao consumo de alimentos têm mais probabilidade de se desacoplar do crescimento econômico em níveis de renda mais elevados. A tendência de desacoplamento foi mais forte para alimentos de origem vegetal do que para alimentos de origem animal, especialmente carne de ruminantes.",
+          "whyItMatters": "Esta análise transnacional e multidecenal destaca como padrões alimentares e escolhas de produção se relacionam com o impacto sobre a biodiversidade; ela informa discussões de políticas que conectam nutrição, práticas agrícolas e conservação da biodiversidade, sem prescrever intervenções específicas.",
+          "takeaways": [
+            "Pesquisadores analisaram 158 países ao longo de 25 anos para estudar como o consumo de alimentos afeta pegadas de biodiversidade.",
+            "Países de maior renda mostraram maior probabilidade de desacoplar o impacto sobre a biodiversidade do crescimento econômico.",
+            "O desacoplamento foi mais forte para alimentos à base de plantas do que para alimentos de origem animal, com carne de ruminantes mostrando grandes impactos.",
+            "Decisões de política e de produção, junto com padrões alimentares, parecem importantes para reduzir as pressões sobre a biodiversidade."
+          ]
+        },
+        "hu": {
+          "title": "Globális elemzés: a gazdagabb országokban az étrendek biodiverzitásra gyakorolt hatása leválhat a gazdasági növekedésről",
+          "summary": "Egy, 158 országra kiterjedő, 25 évet felölelő elemzés azt találta, hogy az élelmiszerfogyasztáshoz kapcsolódó biodiverzitás-lábnyomok nagyobb valószínűséggel válnak le a gazdasági növekedésről a magasabb jövedelmi szinteken. A leválás erősebb volt a növényi alapú élelmiszerek esetében, mint az állati eredetűeknél, különösen a kérődző húsoknál.",
+          "whyItMatters": "Ez az országok közötti, több évtizedes elemzés rámutat arra, hogy az étrendi minták és a termelési választások hogyan kapcsolódnak a biodiverzitásra gyakorolt hatáshoz; ez tájékoztathatja a táplálkozásra, mezőgazdasági gyakorlatokra és biodiverzitás-megőrzésre vonatkozó politikai vitákat, de nem ír elő konkrét beavatkozásokat.",
+          "takeaways": [
+            "A kutatók 158 ország 25 éves adatait elemezték, hogy vizsgálják az élelmiszerfogyasztás biodiverzitásra gyakorolt hatását.",
+            "A magasabb jövedelmű országoknál nagyobb eséllyel vált le a biodiverzitás-hatás a gazdasági növekedésről.",
+            "A leválás kifejezettebb volt a növényi alapú élelmiszereknél, míg az állati eredetű élelmiszerek – különösen a kérődzők húsa – nagyobb hatást mutattak.",
+            "A politikai és termelési döntések, valamint az étrendi minták fontos szerepet játszhatnak a biodiverzitásra nehezedő nyomás csökkentésében."
+          ]
+        },
+        "ar": {
+          "title": "تحليل عالمي يجد أن تأثيرات التنوع البيولوجي المرتبطة بالأنظمة الغذائية قد تنفصل عن النمو الاقتصادي في البلدان الأكثر ثراءً",
+          "summary": "أظهر تحليل يشمل 158 دولة على مدى 25 عامًا أن بصمات التنوع البيولوجي المرتبطة باستهلاك الغذاء أكثر ميلاً للانفصال عن النمو الاقتصادي عند مستويات الدخل الأعلى. وكان اتجاه الانفصال أقوى للغذاء النباتي مقارنة بالمنتجات الحيوانية، وبالأخص لحوم المجترات.",
+          "whyItMatters": "يسلط هذا التحليل العابر للدول والمتعدد العقود الضوء على كيفية ارتباط أنماط الاستهلاك والخيارات الإنتاجية بتأثيرات التنوع البيولوجي؛ يمكن أن يزود ذلك مناقشات السياسة التي تربط التغذية والممارسات الزراعية وحفظ التنوع البيولوجي بالمعلومات اللازمة، لكنه لا يصف تدخلات محددة.",
+          "takeaways": [
+            "حلّل الباحثون 158 دولة عبر 25 سنة لدراسة كيف يؤثر استهلاك الغذاء على بصمات التنوع البيولوجي.",
+            "أظهرت البلدان ذات الدخل الأعلى قابلية أكبر لانفصال أثر التنوع البيولوجي عن النمو الاقتصادي.",
+            "كان الانفصال أقوى بالنسبة للأغذية النباتية، بينما أظهرت الأطعمة الحيوانية—وخاصة لحوم المجترات—تأثيرات كبيرة.",
+            "تبدو القرارات السياسية والقرارات الإنتاجية، إلى جانب أنماط النظام الغذائي، مهمة لتقليل الضغوط على التنوع البيولوجي."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=biodiversity-footprints-of-food-consumption-decouple-from-economi-d8ef51faf2d8",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biodiversity-footprints-of-food-consumption-decouple-from-economi-d8ef51faf2d8-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/biodiversity-footprints-of-food-consumption-decouple-from-economi-d8ef51faf2d8-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Global analysis finds biodiversity impacts of diets can decouple from economic growth in wealthier countries.\nStory summary: An analysis covering 158 countries over 25 years found that the biodiversity footprints associated with food consumption are more likely to decouple from economic growth at higher income levels. The decoupling trend was stronger for plant-based foods than for animal-based foods, particularly ruminant meat..\nCategory: Nutrition and environmental health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "new-ways-to-make-sarcoma-more-visible-to-the-immune-system-93e5223c3189",
+      "category": "Cancer research and immunotherapy",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/new-ways-to-make-sarcoma-more-visible-to-the-immune-system",
+      "sourceTitle": "New ways to make sarcoma more visible to the immune system",
+      "publishedAt": "23 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Doctoral research identifies strategies to increase sarcoma visibility to immune system",
+          "summary": "In a doctoral thesis, a researcher at Karolinska Institutet reports methods to alter sarcoma cells to make them easier for immune cells to recognise and attack. The work aims to inform combinations that could improve immunotherapy responses in sarcoma, a cancer type that has been less responsive to current immunotherapies.",
+          "whyItMatters": "Sarcomas often respond poorly to available immunotherapies; approaches that increase tumour immunogenicity could expand treatment options, but findings from a thesis need validation in further preclinical and clinical studies before informing practice.",
+          "takeaways": [
+            "The doctoral thesis explores ways to modify sarcoma cells to enhance immune detection.",
+            "Findings are positioned as foundational and could guide the development of combination immunotherapies.",
+            "This work represents early-stage research that requires further validation and testing."
+          ]
+        },
+        "es": {
+          "title": "Investigación doctoral identifica estrategias para aumentar la visibilidad del sarcoma ante el sistema inmunitario",
+          "summary": "En una tesis doctoral, una investigadora del Instituto Karolinska informa métodos para alterar células de sarcoma y hacerlas más fáciles de reconocer y atacar por las células inmunitarias. El trabajo pretende informar combinaciones que podrían mejorar las respuestas de inmunoterapia en sarcomas, un tipo de cáncer que ha respondido menos a las inmunoterapias actuales.",
+          "whyItMatters": "Los sarcomas a menudo responden de forma limitada a las inmunoterapias disponibles; los enfoques que aumenten la inmunogenicidad tumoral podrían ampliar las opciones de tratamiento, pero los hallazgos de una tesis necesitan validación en estudios preclínicos y clínicos adicionales antes de influir en la práctica.",
+          "takeaways": [
+            "La tesis doctoral explora maneras de modificar células de sarcoma para mejorar su detección por el sistema inmune.",
+            "Los hallazgos se presentan como base que podría orientar el desarrollo de inmunoterapias combinadas.",
+            "Este trabajo representa investigación en fase temprana que requiere mayor validación y pruebas."
+          ]
+        },
+        "ru": {
+          "title": "Диссертационная работа выявляет стратегии повышения видимости саркомы для иммунной системы",
+          "summary": "В диссертационной работе исследователь из Каролинского института описывает методы изменения клеток саркомы, чтобы сделать их более распознаваемыми и уязвимыми для иммунных клеток. Работа направлена на то, чтобы информировать о комбинациях, которые могли бы улучшить ответ на иммунотерапию при саркомах — типе рака, который чаще отвечает хуже на доступные иммунотерапии.",
+          "whyItMatters": "Саркомы часто плохо реагируют на имеющиеся иммунотерапии; подходы, повышающие иммуногенность опухолей, могут расширить варианты лечения, но выводы диссертации требуют подтверждения в дополнительных доклинических и клинических исследованиях прежде, чем они смогут повлиять на практику.",
+          "takeaways": [
+            "Диссертационная работа исследует способы модификации клеток саркомы для улучшения их обнаружения иммунной системой.",
+            "Результаты позиционируются как основа, которая может направлять разработку комбинированных иммунотерапий.",
+            "Это исследование на ранней стадии, требующее дальнейшей валидации и тестирования."
+          ]
+        },
+        "uk": {
+          "title": "Докторська робота виявила стратегії підвищити помітність саркоми для імунної системи",
+          "summary": "У дисертації дослідник з Karolinska Institutet описує методи модифікації клітин саркоми, щоб зробити їх легшими для розпізнавання й ураження імунними клітинами. Робота має на меті інформувати про комбінування підходів, які могли б покращити відповіді імунотерапії при саркомах — типі раку, який наразі менше відповідає на доступні імунотерапії.",
+          "whyItMatters": "Саркоми часто слабо відповідають на наявні імунотерапії; підходи, що підвищують імуногенність пухлини, могли б розширити варіанти лікування, але результати дисертації потребують подальшої верифікації в доклінічних та клінічних дослідженнях перед застосуванням на практиці.",
+          "takeaways": [
+            "Дисертація досліджує способи модифікації клітин саркоми для підвищення їхнього розпізнавання імунною системою.",
+            "Результати позиціонуються як фундаментальні і можуть спрямувати розробку комбінованих імунотерапій.",
+            "Це дослідження на ранній стадії, яке вимагає подальшої перевірки і тестування."
+          ]
+        },
+        "fr": {
+          "title": "Thèse de doctorat identifie des stratégies pour rendre la sarcome plus visible au système immunitaire",
+          "summary": "Dans une thèse, un chercheur de Karolinska Institutet rapporte des méthodes pour modifier les cellules de sarcome afin de les rendre plus faciles à reconnaître et à attaquer par les cellules immunitaires. Ce travail vise à alimenter le développement de combinaisons susceptibles d’améliorer les réponses aux immunothérapies dans les sarcomes, un type de cancer moins réceptif aux immunothérapies actuelles.",
+          "whyItMatters": "Les sarcomes répondent souvent mal aux immunothérapies disponibles ; des approches augmentant l’immunogénicité tumorale pourraient élargir les options de traitement, mais les résultats tirés d’une thèse nécessitent validation dans des études précliniques et cliniques supplémentaires avant d’informer la pratique.",
+          "takeaways": [
+            "La thèse explore des moyens de modifier les cellules de sarcome pour améliorer leur détection par le système immunitaire.",
+            "Les résultats sont présentés comme fondamentaux et peuvent guider le développement d’immunothérapies combinées.",
+            "Il s’agit de recherches à un stade précoce, nécessitant une validation et des tests complémentaires."
+          ]
+        },
+        "de": {
+          "title": "Dissertation identifiziert Strategien, um Sarkome für das Immunsystem sichtbarer zu machen",
+          "summary": "In einer Doktorarbeit berichtet eine Forschende des Karolinska Institutet über Methoden, Sarkomzellen so zu verändern, dass sie für Immunzellen leichter erkenn- und angreifbar werden. Die Arbeit zielt darauf ab, Kombinationen zu informieren, die Immuntherapie-Antworten bei Sarkomen verbessern könnten, einer Krebsart, die auf aktuelle Immuntherapien oft weniger gut anspricht.",
+          "whyItMatters": "Sarkome sprechen häufig schlecht auf verfügbare Immuntherapien an; Ansätze, die die Tumorimmunogenität erhöhen, könnten Behandlungsoptionen erweitern, aber Befunde aus einer Dissertation müssen in weiteren präklinischen und klinischen Studien validiert werden, bevor sie die Praxis beeinflussen.",
+          "takeaways": [
+            "Die Doktorarbeit untersucht Wege, Sarkomzellen so zu modifizieren, dass die Immunerkennung verbessert wird.",
+            "Die Ergebnisse werden als Grundlagenforschung dargestellt und könnten die Entwicklung kombinatorischer Immuntherapien leiten.",
+            "Es handelt sich um frühe Forschung, die weitere Validierung und Tests erfordert."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisa de doutorado identifica estratégias para tornar sarcomas mais visíveis ao sistema imune",
+          "summary": "Em uma tese de doutorado, um pesquisador do Karolinska Institutet relata métodos para alterar células de sarcoma para torná‑las mais facilmente reconhecíveis e atacáveis por células imunes. O trabalho pretende informar combinações que possam melhorar respostas à imunoterapia em sarcomas, um tipo de câncer que tem sido menos responsivo a imunoterapias atuais.",
+          "whyItMatters": "Sarcomas frequentemente respondem mal às imunoterapias disponíveis; abordagens que aumentem a imunogenicidade tumoral podem ampliar opções de tratamento, mas achados de uma tese precisam ser validados em estudos pré-clínicos e clínicos adicionais antes de informar a prática.",
+          "takeaways": [
+            "A tese explora formas de modificar células de sarcoma para aumentar a detecção pelo sistema imune.",
+            "Os achados são apresentados como fundamentais e podem guiar o desenvolvimento de imunoterapias em combinação.",
+            "Trata‑se de pesquisa em estágio inicial que requer validação e testes adicionais."
+          ]
+        },
+        "hu": {
+          "title": "Doktori kutatás stratégiákat azonosít a szarkóma immunrendszer általi észlelésének növelésére",
+          "summary": "Egy Karolinska Institutet-en készült doktori értekezés módszereket ír le arra, hogyan lehet módosítani a szarkóma sejtek jellemzőit, hogy az immunsejtek számára könnyebben felismerhetőek és megtámadhatóak legyenek. A munka célja, hogy támpontot adjon kombinációk kidolgozásához, amelyek javíthatják az immunterápia hatékonyságát olyan szarkómákban, amelyekre a jelenlegi immunterápiák kevésbé hatékonyak.",
+          "whyItMatters": "A szarkómák gyakran rosszul reagálnak a rendelkezésre álló immunterápiákra; az olyan megközelítések, amelyek növelik a daganat immunogenitását, bővíthetik a kezelési lehetőségeket, de egy értekezés eredményeit további preklinikai és klinikai vizsgálatoknak kell megerősíteniük, mielőtt klinikai gyakorlatra vonatkozó következtetések vonhatók le.",
+          "takeaways": [
+            "A doktori dolgozat a szarkóma sejtek olyan módosításait vizsgálja, amelyek fokozhatják az immunrendszer általi észlelést.",
+            "Az eredményeket alapkutatási szintűnek tekintik, és iránymutatást adhatnak kombinációs immunterápiák fejlesztéséhez.",
+            "A munka korai fázisú kutatás, amely további validációt és tesztelést igényel."
+          ]
+        },
+        "ar": {
+          "title": "أبحاث الدكتوراه تحدد استراتيجيات لزيادة وضوح الساركوما أمام الجهاز المناعي",
+          "summary": "في رسالة دكتوراه بجامعة كارولينسكا، يورد الباحث طرقًا لتغيير خلايا الساركوما لجعلها أسهل في تعرفها ومهاجمتها من قبل الخلايا المناعية. يهدف العمل إلى إعلام تطوير تراكيب قد تحسّن استجابة المناعة للعلاج في حالات الساركوما التي استجابت أقل للعلاجات المناعية الحالية.",
+          "whyItMatters": "غالبًا ما تستجيب الساركومات بشكل ضعيف للعلاجات المناعية المتاحة؛ قد توسع النهج التي تزيد من مناعة الورم خيارات العلاج، لكن نتائج رسالة دكتوراه بحاجة إلى التحقق في دراسات ما قبل السريرية والسريرية قبل أن تؤثر على الممارسة السريرية.",
+          "takeaways": [
+            "تستكشف رسالة الدكتوراه طرق تعديل خلايا الساركوما لتعزيز اكتشافها من قبل الجهاز المناعي.",
+            "تُعرض النتائج كأُسس قد تُوجّه تطوير تراكيب مناعية مشتركة.",
+            "هذا البحث في مرحلة مبكرة ويتطلب مزيدًا من التحقق والاختبارات."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=new-ways-to-make-sarcoma-more-visible-to-the-immune-system-93e5223c3189",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-ways-to-make-sarcoma-more-visible-to-the-immune-system-93e5223c3189-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/new-ways-to-make-sarcoma-more-visible-to-the-immune-system-93e5223c3189-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Doctoral research identifies strategies to increase sarcoma visibility to immune system.\nStory summary: In a doctoral thesis, a researcher at Karolinska Institutet reports methods to alter sarcoma cells to make them easier for immune cells to recognise and attack. The work aims to inform combinations that could improve immunotherapy responses in sarcoma, a cancer type that has been less responsive to current immunotherapies..\nCategory: Cancer research and immunotherapy.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "doctors-thought-this-was-just-a-uterus-problem-it-s-so-much-more--9cdb71978c56",
       "category": "Women's health / Clinical awareness",
@@ -137899,6 +138907,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-23-motivation-1-story-1",
+      "category": "meal_planning",
+      "languages": {
+        "en": {
+          "title": "Maya’s weekly lunch plan",
+          "story": "Maya started prepping simple lunches on Sunday evenings so she wouldn’t rely on whatever was closest during busy weekdays. She logs those planned meals in the app and updates them if plans change. Over a few weeks she noticed fewer rushed choices and felt more in control of her days. Tracking became a small planning tool rather than a chore — a way to save time and make mindful decisions when life gets busy.",
+          "habit": "Plan and log one lunch each evening.",
+          "appCta": "Open Calorie Bank Credit and track your next meal today."
+        },
+        "es": {
+          "title": "El plan de almuerzos de Maya",
+          "story": "Maya empezó a preparar almuerzos sencillos los domingos para no depender de lo más rápido durante las semanas ocupadas. Registra esos menús en la app y los ajusta si cambian los planes. En pocas semanas notó menos decisiones improvisadas y se sintió con más control. Para ella, el registro se convirtió en una herramienta de planificación en lugar de una tarea: ahorra tiempo y ayuda a tomar decisiones más conscientes cuando todo se complica.",
+          "habit": "Planifica y registra un almuerzo cada noche.",
+          "appCta": "Abre Calorie Bank Credit y registra tu próxima comida hoy."
+        },
+        "ru": {
+          "title": "План обедов Майи",
+          "story": "Майя стала готовить простые обеды по воскресеньям, чтобы не выбирать первое попавшееся в загруженные будни. Она вносит эти блюда в приложение и обновляет записи, если планы меняются. Через несколько недель у неё стало меньше спонтанных решений, и она почувствовала больше контроля над расписанием. Ведение записей превратилось в удобный инструмент планирования, который экономит время и помогает принимать осознанные решения в напряжённые дни.",
+          "habit": "Планируй и записывай один обед вечером.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать сегодня."
+        },
+        "uk": {
+          "title": "План обідів Майї",
+          "story": "Майя почала готувати прості обіди в неділю, щоб не брати перше-ліпше в зайняті будні. Вона вносить план у додаток і коригує його, якщо щось змінюється. Через кілька тижнів стало менше поспішних виборів, і Майя відчула більше контролю над днем. Відстеження перетворилося на невеликий інструмент планування, що економить час і допомагає робити усвідомлені рішення, коли графік напружений.",
+          "habit": "Плануй і записуй один обід щовечора.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Le plan déjeuner de Maya",
+          "story": "Maya a commencé à préparer des déjeuners simples le dimanche pour éviter les choix improvisés en semaine. Elle note ces repas dans l’application et les adapte si son emploi du temps change. Au bout de quelques semaines, elle faisait moins de choix précipités et avait l’impression d’avoir plus de maîtrise. Le suivi est devenu un petit outil de planification, pas une corvée — il lui fait gagner du temps et aide à décider en conscience quand la semaine est chargée.",
+          "habit": "Planifiez et enregistrez un déjeuner chaque soir.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez votre prochain repas aujourd’hui."
+        },
+        "de": {
+          "title": "Mayas Wochen-Lunch",
+          "story": "Maya bereitet sonntags einfache Mittagessen vor, damit sie an stressigen Werktagen nicht zur schnellen Lösung greift. Sie trägt die geplanten Mahlzeiten in die App ein und passt sie bei Bedarf an. Nach einigen Wochen machte sie weniger hektische Entscheidungen und fühlte sich organisierter. Das Protokollieren wurde zum praktischen Planungswerkzeug statt zur Pflicht — es spart Zeit und hilft, in vollen Tagen bewusstere Entscheidungen zu treffen.",
+          "habit": "Plane und protokolliere jeden Abend ein Mittagessen.",
+          "appCta": "Öffne Calorie Bank Credit und notiere dein nächstes Essen heute."
+        },
+        "pt-br": {
+          "title": "O plano de almoços da Maya",
+          "story": "Maya começou a preparar almoços simples aos domingos para não depender da opção mais rápida durante a semana cheia. Ela registra os pratos no app e ajusta quando os planos mudam. Em algumas semanas reparou que fez menos escolhas por impulso e se sentiu mais organizada. O registro virou uma ferramenta prática de planejamento, não uma obrigação — economiza tempo e ajuda a tomar decisões mais conscientes nos dias corridos.",
+          "habit": "Planeje e registre um almoço toda noite.",
+          "appCta": "Abra Calorie Bank Credit e registre sua próxima refeição hoje."
+        },
+        "hu": {
+          "title": "Maya heti ebédje",
+          "story": "Maya vasárnaponként egyszerű ebédeket készít elő, hogy a zsúfolt hétköznapokon ne a leggyorsabb megoldásra essen. Ezeket a tervezett ételeket bejegyzi az alkalmazásba, és frissíti, ha változik a terv. Néhány hét után kevesebb kapkodó választás volt, és jobban érezte a napjai irányítását. A naplózás számára praktikus tervezési eszközzé vált, ami időt spórol és segít tudatosabb döntéseket hozni a sűrű napokon.",
+          "habit": "Tervezd meg és jegyezd fel az egyik ebédet esténként.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni."
+        },
+        "ar": {
+          "title": "خطة غداء مايا الأسبوعية",
+          "story": "بدأت مايا بتحضير غداءات بسيطة مساء الأحد حتى لا تضطر للاختيار السريع في أيام الأسبوع المزدحمة. تُسجل تلك الوجبات في التطبيق وتعدلها إذا تغيرت خططها. بعد بضعة أسابيع لاحظت أنها اتخذت قرارات أقل اندفاعاً وشعرت بمزيد من السيطرة على يومها. أصبح التتبع أداة صغيرة للتخطيط بدلاً من عبء — يوفر وقتاً ويساعد على اتخاذ خيارات واعية عندما تضيق الظروف.",
+          "habit": "خطط وسجّل غداء واحد كل مساء.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-1-story-1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-1-story-1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Maya’s weekly lunch plan.\nStory: Maya started prepping simple lunches on Sunday evenings so she wouldn’t rely on whatever was closest during busy weekdays. She logs those planned meals in the app and updates them if plans change. Over a few weeks she noticed fewer rushed choices and felt more in control of her days. Tracking became a small planning tool rather than a chore — a way to save time and make mindful decisions when life gets busy..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-23-motivation-2-story-2",
+      "category": "honest_logging",
+      "languages": {
+        "en": {
+          "title": "Carlos learns honest logging",
+          "story": "Carlos used to skip noting small bites he grabbed between meetings because he thought they didn’t matter. One week he tried logging everything without judging the entries — coffee, handfuls of nuts, and the occasional cookie. Seeing the full picture helped him understand when cravings struck and which moments led to mindless snacking. He didn’t aim for perfection; he aimed for awareness. That small honest habit made it easier to make practical tweaks to his routine.",
+          "habit": "Log every snack within an hour of eating.",
+          "appCta": "Open Calorie Bank Credit and try tracking honestly today."
+        },
+        "es": {
+          "title": "Carlos y el registro honesto",
+          "story": "Carlos solía no apuntar los bocados que tomaba entre reuniones porque pensaba que no importaban. Una semana decidió registrar todo sin juzgar — el café, un puñado de frutos secos o una galleta ocasional. Ver la imagen completa le ayudó a identificar cuándo aparecían los antojos y qué situaciones llevaban a comer sin pensar. No buscó la perfección, sino la consciencia. Ese pequeño hábito honesto le permitió ajustar su rutina de manera práctica.",
+          "habit": "Registra cada snack dentro de la hora siguiente.",
+          "appCta": "Abre Calorie Bank Credit y prueba registrar con honestidad hoy."
+        },
+        "ru": {
+          "title": "Честные записи Карлоса",
+          "story": "Карлос раньше не записывал мелкие перекусы между совещаниями, считая, что они не важны. Одна неделя — и он решил фиксировать всё без оценок: кофе, горсть орехов, случайное печенье. Полная картина помогла понять, когда возникают тяги и какие ситуации ведут к невдумчивому перекусыванию. Он не стремился к идеалу, а к осознанности. Эта небольшая честная привычка позволила внести практичные изменения в распорядок.",
+          "habit": "Записывай каждый перекус в течение часа.",
+          "appCta": "Открой Calorie Bank Credit и начни честно отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Чесні записи Карлоса",
+          "story": "Карлос раніше не записував маленькі перекуси між зустрічами, бо вважав їх несуттєвими. Протягом тижня він почав фіксувати все без оцінок — каву, жменю горіхів, випадкове печиво. Повна картина допомогла помітити, коли з’являються бажання і які ситуації призводять до невдумливого перекушування. Він не прагнув досконалості, а до усвідомленості. Ця невелика чесна звичка допомогла зробити практичні корективи в розкладі.",
+          "habit": "Записуй кожен перекус протягом години.",
+          "appCta": "Відкрий Calorie Bank Credit і почни чесно відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "L'enregistrement honnête de Carlos",
+          "story": "Carlos notait rarement les petites bouchées prises entre deux réunions, pensant que cela n’avait pas d’importance. Pendant une semaine, il a tout enregistré sans jugement — café, poignée de noix, biscuit occasionnel. Voir l’ensemble lui a permis de repérer les moments où il craque et les situations propices aux grignotages automatiques. Il n’a pas cherché la perfection, mais la conscience. Cette petite habitude honnête lui a permis d’ajuster son quotidien de façon concrète.",
+          "habit": "Enregistrez chaque snack dans l’heure qui suit.",
+          "appCta": "Ouvrez Calorie Bank Credit et essayez d’enregistrer honnêtement aujourd’hui."
+        },
+        "de": {
+          "title": "Carlos und das ehrliche Protokoll",
+          "story": "Carlos hat kleine Happen zwischen Meetings oft nicht notiert, weil sie ihm unwichtig erschienen. Eine Woche lang protokollierte er alles ohne Bewertung — Kaffee, eine Handvoll Nüsse, ein Keks. Das vollständige Bild zeigte ihm, wann Heißhunger auftaucht und welche Situationen zu gedankenlosem Naschen führen. Er strebte nicht nach Perfektion, sondern nach Bewusstheit. Diese kleine ehrliche Gewohnheit machte es leichter, praktische Anpassungen im Alltag vorzunehmen.",
+          "habit": "Protokolliere jeden Snack innerhalb einer Stunde.",
+          "appCta": "Öffne Calorie Bank Credit und probiere heute ehrliches Tracking."
+        },
+        "pt-br": {
+          "title": "O registro honesto de Carlos",
+          "story": "Carlos costumava não anotar pequenos lanches entre reuniões porque achava que não contavam. Uma semana ele registrou tudo sem julgar — café, um punhado de oleaginosas, um biscoito ocasional. Ver o quadro completo ajudou-o a perceber quando surgiam os desejos e quais situações levavam ao petisco sem pensar. Ele não buscou perfeição, mas consciência. Esse pequeno hábito honesto tornou mais fácil fazer ajustes práticos na rotina.",
+          "habit": "Registre cada lanche dentro de uma hora.",
+          "appCta": "Abra Calorie Bank Credit e experimente registrar com honestidade hoje."
+        },
+        "hu": {
+          "title": "Carlos és az őszinte napló",
+          "story": "Carlos gyakran nem jegyezte fel a találkozók közti apró falatokat, mert úgy gondolta, nem számítanak. Egy hétig mindent rögzített ítélkezés nélkül — kávé, egy marék dió, néha egy süti. A teljes kép segített észrevenni, mikor tör rá az édességvágy és mely helyzetek vezetnek figyelmetlen nassoláshoz. Nem a tökéletességet kereste, hanem a tudatosságot. Ez a kis, őszinte szokás megkönnyítette a gyakorlati változtatásokat.",
+          "habit": "Jegyezd fel minden nassolást egy órán belül.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma őszintén követni."
+        },
+        "ar": {
+          "title": "تدوين صادق مع كارلوس",
+          "story": "كان كارلوس يتجاهل تسجيل اللقم الصغيرة بين الاجتماعات ظناً منها أنها غير مهمة. جرب أسبوعاً أن يسجل كل شيء دون حكم — القهوة، قبضة من المكسرات، قطعة بسكويت أحيانية. رؤية الصورة الكاملة ساعدته على معرفة متى تظهر الرغبات وما هي المواقف التي تؤدي إلى الأكل بدون انتباه. لم يسعَ إلى الكمال بل إلى الوعي. هذه العادة الصادقة الصغيرة جعلت من الأسهل إدخال تعديلات عملية في روتينه.",
+          "habit": "سجل كل وجبة خفيفة خلال ساعة من تناولها.",
+          "appCta": "افتح Calorie Bank Credit وجرب التتبع بصراحة اليوم."
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-2-story-2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-2-story-2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Carlos learns honest logging.\nStory: Carlos used to skip noting small bites he grabbed between meetings because he thought they didn’t matter. One week he tried logging everything without judging the entries — coffee, handfuls of nuts, and the occasional cookie. Seeing the full picture helped him understand when cravings struck and which moments led to mindless snacking. He didn’t aim for perfection; he aimed for awareness. That small honest habit made it easier to make practical tweaks to his routine..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-23-motivation-3-story-3",
+      "category": "spot_patterns",
+      "languages": {
+        "en": {
+          "title": "Aisha spots a pattern",
+          "story": "Aisha noticed that she often felt hungry late in the evening after a long workday. By tracking her meals and energy levels for a few weeks she saw a pattern: lighter dinners left her reaching for snacks while a slightly larger balanced meal kept her satisfied. Rather than judging her choices, she experimented with one simple change — adding a vegetable or protein to dinner — and tracked how she felt. That small test gave her clear feedback she could use going forward.",
+          "habit": "Review your weekly summary for one pattern.",
+          "appCta": "Open Calorie Bank Credit and start tracking to spot your patterns today."
+        },
+        "es": {
+          "title": "Aisha detecta un patrón",
+          "story": "Aisha se dio cuenta de que a menudo tenía hambre tarde por la noche tras un día largo de trabajo. Al registrar comidas y niveles de energía durante unas semanas vio un patrón: cenas ligeras la dejaban picando, mientras que una cena un poco más completa la mantenía satisfecha. En lugar de juzgar, probó un cambio sencillo — añadir una verdura o una fuente de proteína — y comprobó cómo se sentía. Esa pequeña prueba le dio información útil para adelante.",
+          "habit": "Revisa tu resumen semanal en busca de un patrón.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar para detectar tus patrones hoy."
+        },
+        "ru": {
+          "title": "Аиша заметила закономерность",
+          "story": "Аиша заметила, что часто испытывает голод поздно вечером после длинного рабочего дня. Ведя учёт питания и самочувствия несколько недель, она увидела закономерность: лёгкие ужины приводили к перекусам, а чуть более сытный и сбалансированный ужин удерживал от этого. Вместо самокритики она попробовала небольшое изменение — добавила овощ или белок — и отслеживала свои ощущения. Это небольшое испытание дало ей полезную обратную связь для будущих решений.",
+          "habit": "Просмотри недельный отчёт, чтобы найти один паттерн.",
+          "appCta": "Открой Calorie Bank Credit и начни отслеживать, чтобы заметить паттерны сегодня."
+        },
+        "uk": {
+          "title": "Аїша помітила закономірність",
+          "story": "Аїша помітила, що часто відчуває голод пізно ввечері після довгого робочого дня. Відстежуючи їжу і рівень енергії кілька тижнів, вона помітила закономірність: легкі вечері призводили до перекусів, а трохи поживніша їжа тримала ситість. Замість осуду вона випробувала просту зміну — додала овоч або білок — і дивилася, як змінюються відчуття. Це невелике тестування дало корисний зворотний зв’язок для майбутнього.",
+          "habit": "Переглянь тижневий звіт і знайди один паттерн.",
+          "appCta": "Відкрий Calorie Bank Credit і почни відстежувати, щоб помічати патерни сьогодні."
+        },
+        "fr": {
+          "title": "Aisha repère un schéma",
+          "story": "Aisha a remarqué qu’elle avait souvent faim tard le soir après une longue journée. En suivant ses repas et son niveau d’énergie pendant quelques semaines, elle a repéré un schéma : les dîners légers la poussaient au grignotage, alors qu’un repas un peu plus équilibré la rassasiait. Plutôt que de se blâmer, elle a testé un changement simple — ajouter un légume ou une source de protéines — et noté ses sensations. Ce petit essai lui a donné un retour clair pour la suite.",
+          "habit": "Consultez votre résumé hebdomadaire pour repérer un schéma.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre pour repérer vos schémas aujourd’hui."
+        },
+        "de": {
+          "title": "Aisha erkennt ein Muster",
+          "story": "Aisha stellte fest, dass sie nach langen Arbeitstagen oft abends hungrig wurde. Indem sie ein paar Wochen Mahlzeiten und Energielevel notierte, entdeckte sie ein Muster: leichte Abendessen führten zu Snacks, ein etwas ausgewogeneres Essen hielt sie satter. Statt sich Vorwürfe zu machen, probierte sie eine einfache Änderung — ein Gemüse oder Eiweiß mehr — und beobachtete, wie sie sich fühlte. Dieser kleine Test gab ihr klare Hinweise für die Zukunft.",
+          "habit": "Schau dir deine Wochenübersicht an und finde ein Muster.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking, um Muster zu erkennen."
+        },
+        "pt-br": {
+          "title": "Aisha percebe um padrão",
+          "story": "Aisha notou que frequentemente tinha fome tarde da noite depois de um longo dia de trabalho. Ao acompanhar refeições e nível de energia por algumas semanas, ela viu um padrão: jantares leves a faziam beliscar, enquanto uma refeição um pouco mais completa a deixava satisfeita. Em vez de se cobrar, ela testou uma mudança simples — acrescentar um vegetal ou proteína — e acompanhou como se sentia. Esse pequeno teste lhe deu um feedback claro para seguir adiante.",
+          "habit": "Revise seu resumo semanal em busca de um padrão.",
+          "appCta": "Abra Calorie Bank Credit e comece a registrar para identificar seus padrões hoje."
+        },
+        "hu": {
+          "title": "Aisha felismer egy mintát",
+          "story": "Aisha észrevette, hogy hosszú munkanap után gyakran éhes este. Pár hétig követte az étkezéseit és energiaszintjét, és felfedezett egy mintát: a könnyű vacsorák nassoláshoz vezettek, míg egy kicsit tartalmasabb, kiegyensúlyozott vacsora tovább tartó teltségérzetet adott. Ahelyett, hogy hibáztatta volna magát, kipróbált egy egyszerű módosítást — egy zöldség vagy fehérje hozzáadását — és figyelte, hogyan érzi magát. Ez a kis próba világos visszajelzést adott.",
+          "habit": "Nézd át a heti összegzést, és keresd meg az egy mintát.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és kezdj el ma követni, hogy felismerd a mintáidat."
+        },
+        "ar": {
+          "title": "أيشا تلاحظ نمطًا",
+          "story": "لاحظت أيشا أنها غالبًا ما تشعر بالجوع في المساء بعد يوم عمل طويل. بتتبع وجباتها ومستوى طاقتها لعدة أسابيع رصدت نمطًا: الوجبات الخفيفة تتركها تتناول وجبات خفيفة لاحقًا بينما وجبة متوازنة أكبر قليلاً تبقيها مشبعة. بدلاً من لوم نفسها، جربت تغييرًا بسيطًا — إضافة خضار أو مصدر بروتين — وتتبع شعورها بعد ذلك. هذه التجربة الصغيرة منحتها ملاحظات واضحة يمكن أن تعتمدها مستقبلًا.",
+          "habit": "راجع ملخصك الأسبوعي للعثور على نمط.",
+          "appCta": "افتح Calorie Bank Credit وابدأ بالتتبع لاكتشاف أنماطك اليوم."
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-3-story-3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-3-story-3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Aisha spots a pattern.\nStory: Aisha noticed that she often felt hungry late in the evening after a long workday. By tracking her meals and energy levels for a few weeks she saw a pattern: lighter dinners left her reaching for snacks while a slightly larger balanced meal kept her satisfied. Rather than judging her choices, she experimented with one simple change — adding a vegetable or protein to dinner — and tracked how she felt. That small test gave her clear feedback she could use going forward..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-23-motivation-4-story-4",
+      "category": "small_changes",
+      "languages": {
+        "en": {
+          "title": "Simon’s one small swap",
+          "story": "Simon liked his evening toast but realized the toppings varied wildly. Instead of overhauling his routine he chose one small swap: switching from a buttery spread to avocado or hummus a few nights a week. He logged the change and noticed it kept him satisfied for longer without feeling restrictive. That tiny, intentional swap felt doable and taught him that small adjustments — tracked over time — add up to clearer habits and less guesswork about what works for him.",
+          "habit": "Make one small ingredient swap this week.",
+          "appCta": "Open Calorie Bank Credit and log one small change today."
+        },
+        "es": {
+          "title": "El pequeño cambio de Simón",
+          "story": "A Simón le gustaba su tostada nocturna, pero notó que los acompañamientos eran muy variados. En lugar de cambiar todo su hábito, probó un pequeño cambio: reemplazar la mantequilla por aguacate o hummus algunas noches. Registró el cambio y vio que le mantenía más satisfecho sin sentirse limitado. Ese ajuste mínimo fue fácil de mantener y le demostró que pequeñas modificaciones —cuando se registran— ayudan a crear hábitos más claros y menos intuición improvisada.",
+          "habit": "Haz un pequeño intercambio de ingrediente esta semana.",
+          "appCta": "Abre Calorie Bank Credit y registra un pequeño cambio hoy."
+        },
+        "ru": {
+          "title": "Небольшая замена Симона",
+          "story": "Симону нравился вечерний тост, но он заметил, что топпинги у него бывают разные. Вместо кардинальных перемен он сделал небольшую замену: несколько вечеров в неделю заменил масляную намазку на авокадо или хумус. Он записал это изменение и заметил, что чувствует себя более сытым дольше, не испытывая ограничений. Эта маленькая и реалистичная замена показала, что небольшие корректировки, при систематическом учёте, дают понятные привычки и меньше догадок о том, что работает.",
+          "habit": "Сделай одну небольшую замену ингредиента на этой неделе.",
+          "appCta": "Открой Calorie Bank Credit и запиши одно небольшое изменение сегодня."
+        },
+        "uk": {
+          "title": "Невелика заміна Саймона",
+          "story": "Саймону подобався вечірній тост, але він помітив, що добавки були різними. Замість радикальної зміни звички він зробив одну невелику заміну: декілька вечорів на тиждень замінив масляну намазку на авокадо або хумус. Він зафіксував цю зміну і помітив, що надовше відчуває ситість без відчуття обмеження. Така маленька, реалістична заміна показала, що невеликі корективи, зафіксовані з часом, формують ясніші звички.",
+          "habit": "Зроби одну невелику заміну інгредієнта цього тижня.",
+          "appCta": "Відкрий Calorie Bank Credit і зафіксуй сьогодні одну невелику зміну."
+        },
+        "fr": {
+          "title": "Le petit changement de Simon",
+          "story": "Simon aimait son toast du soir mais a remarqué que les garnitures variaient beaucoup. Plutôt que de tout changer, il a tenté une petite substitution : remplacer le beurre par de l’avocat ou du houmous quelques soirs par semaine. Il a noté ce changement et s’est rendu compte qu’il se sentait rassasié plus longtemps sans se priver. Ce petit ajustement, facile à tenir, lui a montré que les micro-changements — suivis dans le temps — donnent des habitudes plus claires.",
+          "habit": "Faites une petite substitution d’ingrédient cette semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et enregistrez un petit changement aujourd’hui."
+        },
+        "de": {
+          "title": "Simons kleiner Tausch",
+          "story": "Simon mochte seinen Abendtoast, stellte aber fest, dass die Aufstriche stark variierten. Statt alles umzuwerfen, wählte er einen kleinen Tausch: an ein paar Abenden in der Woche ersetzte er die butterige Aufstrich durch Avocado oder Hummus. Er dokumentierte die Änderung und merkte, dass er länger satt blieb, ohne sich eingeschränkt zu fühlen. Dieser kleine, machbare Tausch zeigte ihm, dass kleine Anpassungen, wenn sie verfolgt werden, zu klareren Gewohnheiten führen.",
+          "habit": "Mach diese Woche einen kleinen Zutatenwechsel.",
+          "appCta": "Öffne Calorie Bank Credit und protokolliere heute eine kleine Veränderung."
+        },
+        "pt-br": {
+          "title": "A pequena troca do Simon",
+          "story": "Simon gostava de sua torrada à noite, mas percebeu que as coberturas variavam demais. Em vez de mudar tudo, escolheu uma pequena troca: substituir a manteiga por abacate ou homus algumas noites. Registrou a mudança e percebeu que ficava satisfeito por mais tempo sem se sentir restrito. Essa pequena alteração foi viável e mostrou que ajustes mínimos — quando registrados ao longo do tempo — constroem hábitos mais claros e reduzem a incerteza sobre o que funciona.",
+          "habit": "Faça uma pequena troca de ingrediente esta semana.",
+          "appCta": "Abra Calorie Bank Credit e registre uma pequena mudança hoje."
+        },
+        "hu": {
+          "title": "Simon kis cseréje",
+          "story": "Simon szerette az esti pirítósát, de észrevette, hogy a feltétek nagyon változóak. Ahelyett, hogy mindent megváltoztatott volna, egy apró cserét választott: néhány esténként vaj helyett avokádót vagy hummuszt használt. Feljegyezte a változtatást, és azt látta, hogy hosszabb ideig érzi magát tele anélkül, hogy korlátozva érezte volna magát. Ez a kis, könnyen megvalósítható csere megmutatta, hogy az apró beállítások — ha nyomon követjük őket — tisztább szokásokat eredményeznek.",
+          "habit": "Cserélj ki egy hozzávalót ezen a héten.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet és jegyezd fel ma az egy kis változtatást."
+        },
+        "ar": {
+          "title": "تبديل صغير لسيمون",
+          "story": "كان سيمون يحب توسته المسائي لكنه لاحظ أن الإضافات تختلف كثيرًا. بدلاً من تغيير روتينه كله، اختار تبديلًا صغيرًا: استبدال الزبدة بالأفوكادو أو الحمص لعدة ليالٍ في الأسبوع. سجّل التغيير ولاحظ أنه بقي مشبعًا لفترة أطول دون شعور بالحرمان. بدا ذلك التبديل البسيط قابلاً للتطبيق وأظهر له أن التعديلات الصغيرة — عند تتبعها مع الوقت — تُترجم إلى عادات أوضح وتقلل التخمين بشأن ما يناسبه.",
+          "habit": "قم بتبديل مكوّن واحد صغير هذا الأسبوع.",
+          "appCta": "افتح Calorie Bank Credit وسجل تغييرًا صغيرًا اليوم."
+        }
+      },
+      "generatedAt": "2026-11-23T17:49:43.338Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-4-story-4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-23-motivation-4-story-4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Simon’s one small swap.\nStory: Simon liked his evening toast but realized the toppings varied wildly. Instead of overhauling his routine he chose one small swap: switching from a buttery spread to avocado or hummus a few nights a week. He logged the change and noticed it kept him satisfied for longer without feeling restrictive. That tiny, intentional swap felt doable and taught him that small adjustments — tracked over time — add up to clearer habits and less guesswork about what works for him..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-22-motivation-1-story-01",
       "category": "everyday-habits",
