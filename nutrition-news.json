@@ -1,8 +1,873 @@
 {
-  "generatedAt": "2026-11-24T18:12:30.207Z",
+  "generatedAt": "2026-11-25T17:35:56.582Z",
   "sourceCount": 35,
   "availableSourceCount": 35,
   "articles": [
+    {
+      "id": "why-nerve-pain-lingers-e86b7bdd6570",
+      "category": "neuroscience / pain research",
+      "sourceName": "neurosciencenews.com",
+      "sourceUrl": "https://neurosciencenews.com/neuropathic-pain-spinal-cord-32442/",
+      "sourceTitle": "Why Nerve Pain Lingers",
+      "publishedAt": "Wed, 25 Nov 2026 16:37:11 +0000",
+      "languages": {
+        "en": {
+          "title": "Preclinical study identifies a spinal-cord molecular pathway that limits pain-neuron firing",
+          "summary": "Researchers described a Nono–Kcnq2 molecular pathway in the spinal cord that acts to brake firing of pain neurons; in laboratory models, restoring this pathway relieved neuropathic pain, providing a potential target for treatment development.",
+          "whyItMatters": "The work is preclinical (laboratory/animal) and identifies a mechanistic target that could inform future therapeutics for chronic neuropathic pain, but effects in humans are untested and drug development will require extensive further research.",
+          "takeaways": [
+            "The study uncovers a specific molecular pathway in the spinal cord involved in controlling pain-neuron excitability.",
+            "Restoring the pathway relieved neuropathic pain in preclinical models, suggesting a possible drug target.",
+            "Clinical relevance remains speculative until safety and efficacy are demonstrated in human studies."
+          ]
+        },
+        "es": {
+          "title": "Estudio preclínico identifica una vía molecular medular que limita la actividad de las neuronas del dolor",
+          "summary": "Los investigadores describieron una vía molecular Nono–Kcnq2 en la médula espinal que actúa como freno de la actividad de las neuronas del dolor; en modelos de laboratorio, restaurar esta vía alivió el dolor neuropático, lo que propone un posible objetivo para el desarrollo de tratamientos.",
+          "whyItMatters": "El trabajo es preclínico (laboratorio/animal) y identifica un objetivo mecanístico que podría orientar futuros fármacos para el dolor neuropático crónico, pero sus efectos en humanos no se han probado y el desarrollo de medicamentos requerirá mucha investigación adicional.",
+          "takeaways": [
+            "El estudio descubre una vía molecular específica en la médula espinal implicada en el control de la excitabilidad de las neuronas del dolor.",
+            "Restaurar la vía alivió el dolor neuropático en modelos preclínicos, lo que sugiere un posible objetivo farmacológico.",
+            "La relevancia clínica sigue siendo especulativa hasta que se demuestre seguridad y eficacia en estudios humanos."
+          ]
+        },
+        "ru": {
+          "title": "Пре-клиническое исследование выявляет молекулярный путь в спинном мозге, который ограничивает активность болевых нейронов",
+          "summary": "Исследователи описали молекулярный путь Nono–Kcnq2 в спинном мозге, действующий как «тормоз» для активности болевых нейронов; в лабораторных моделях восстановление этого пути облегчало невропатическую боль, предлагая потенциальную мишень для разработки терапии.",
+          "whyItMatters": "Работа является преклинической (лабораторной/на животных) и выявляет механистическую мишень, которая может быть полезна при разработке будущих терапий хронической невропатической боли, но эффекты на людях не проверены, и разработка лекарств потребует значительных дополнительных исследований.",
+          "takeaways": [
+            "Исследование выявляет конкретный молекулярный путь в спинном мозге, участвующий в контроле возбудимости болевых нейронов.",
+            "Восстановление пути облегчало невропатическую боль в преклинических моделях, что указывает на возможную цель для лекарств.",
+            "Клиническая значимость остается спекулятивной до подтверждения безопасности и эффективности в исследованиях на людях."
+          ]
+        },
+        "uk": {
+          "title": "Преклінічне дослідження виявляє молекулярний шлях у спинному мозку, який обмежує збуджуваність болевих нейронів",
+          "summary": "Дослідники описали молекулярний шлях Nono–Kcnq2 у спинному мозку, який діє як гальмо для розрядження болевих нейронів; у лабораторних моделях відновлення цього шляху полегшувало невропатичний біль, що робить його потенційною мішенню для розробки лікування.",
+          "whyItMatters": "Робота є преклінічною (лабораторні/тваринні моделі) і виявляє механістичну мішень, яка може інформувати про майбутні терапевтичні підходи до хронічного невропатичного болю, але ефекти у людей не доведені й розробка препаратів вимагатиме значних подальших досліджень.",
+          "takeaways": [
+            "Дослідження виявляє специфічний молекулярний шлях у спинному мозку, що контролює збудливість болевих нейронів.",
+            "Відновлення цього шляху полегшувало невропатичний біль у преклінічних моделях, вказуючи на можливу мішень для ліків.",
+            "Клінічна релевантність лишається спекулятивною до демонстрації безпеки та ефективності в дослідженнях на людях."
+          ]
+        },
+        "fr": {
+          "title": "Une étude préclinique identifie une voie moléculaire de la moelle épinière qui limite l'activité des neurones de la douleur",
+          "summary": "Des chercheurs ont décrit une voie moléculaire Nono–Kcnq2 dans la moelle épinière qui agit comme un frein à l'excitabilité des neurones de la douleur ; dans des modèles de laboratoire, la restauration de cette voie a soulagé la douleur neuropathique, offrant une cible potentielle pour le développement thérapeutique.",
+          "whyItMatters": "Le travail est préclinique (modèles de laboratoire/animaux) et identifie une cible mécanistique qui pourrait orienter de futures thérapeutiques pour la douleur neuropathique chronique, mais les effets chez l'humain ne sont pas testés et le développement de médicaments nécessitera de nombreuses recherches supplémentaires.",
+          "takeaways": [
+            "L'étude met au jour une voie moléculaire spécifique dans la moelle épinière impliquée dans le contrôle de l'excitabilité des neurones de la douleur.",
+            "La restauration de cette voie a soulagé la douleur neuropathique dans des modèles précliniques, suggérant une cible possible pour des médicaments.",
+            "La pertinence clinique reste hypothétique tant que la sécurité et l'efficacité n'ont pas été démontrées chez l'humain."
+          ]
+        },
+        "de": {
+          "title": "Präklinische Studie identifiziert spinalen molekularen Weg, der das Feuern von Schmerzneuronen begrenzt",
+          "summary": "Forscher beschrieben einen Nono–Kcnq2 molekularen Signalweg im Rückenmark, der als Bremse für das Feuern von Schmerzneuronen wirkt; in Labor- und Tiermodellen führte die Wiederherstellung dieses Wegs zu Linderung neuropathischer Schmerzen und liefert einen potenziellen Zielmechanismus für die Wirkstoffentwicklung.",
+          "whyItMatters": "Die Arbeit ist präklinisch (Labor/Tiere) und identifiziert einen mechanistischen Ansatz, der künftige Therapeutika gegen chronische neuropathische Schmerzen informieren könnte, doch Effekte beim Menschen sind ungeprüft und die Medikamentenentwicklung erfordert umfangreiche weitere Forschung.",
+          "takeaways": [
+            "Die Studie beschreibt einen spezifischen molekularen Weg im Rückenmark, der die Erregbarkeit von Schmerzneuronen steuert.",
+            "Die Wiederherstellung dieses Wegs linderte neuropathische Schmerzen in präklinischen Modellen und deutet auf ein mögliches Therapieziel hin.",
+            "Die klinische Relevanz bleibt spekulativ, bis Sicherheit und Wirksamkeit in Studien am Menschen nachgewiesen sind."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo pré-clínico identifica via molecular na medula espinhal que limita disparo de neurônios da dor",
+          "summary": "Pesquisadores descreveram uma via molecular Nono–Kcnq2 na medula espinhal que atua como freio ao disparo de neurônios dolorosos; em modelos de laboratório, restaurar essa via aliviou dor neuropática, oferecendo um alvo potencial para desenvolvimento de tratamentos.",
+          "whyItMatters": "O trabalho é pré-clínico (laboratório/animais) e identifica um alvo mecanístico que poderia orientar futuros medicamentos para dor neuropática crônica, mas os efeitos em humanos não foram testados e o desenvolvimento de fármacos exigirá muita pesquisa adicional.",
+          "takeaways": [
+            "O estudo revela uma via molecular específica na medula espinhal envolvida no controle da excitabilidade dos neurônios da dor.",
+            "Restaurar essa via aliviou dor neuropática em modelos pré-clínicos, sugerindo um possível alvo farmacológico.",
+            "A relevância clínica permanece especulativa até que segurança e eficácia sejam demonstradas em estudos humanos."
+          ]
+        },
+        "hu": {
+          "title": "Preklinikai tanulmány azonosít egy gerincvelői molekuláris útvonalat, amely korlátozza a fájdalomideg-sejtek tüzelését",
+          "summary": "A kutatók leírtak egy Nono–Kcnq2 molekuláris útvonalat a gerincvelőben, amely fékezi a fájdalomérzékelő idegsejtek tüzelését; laboratóriumi modellekben az útvonal helyreállítása enyhítette a neuropátiás fájdalmat, így potenciális célpontot adva a kezelésfejlesztéshez.",
+          "whyItMatters": "A munka preklinikai (laboratóriumi/állati) és egy mechanisztikus célpontot azonosít, amely befolyásolhatja a krónikus neuropátiás fájdalom jövőbeli terápiáit, de az emberi hatásai ismeretlenek, és a gyógyszerfejlesztés további kiterjedt kutatást igényel.",
+          "takeaways": [
+            "A tanulmány feltárt egy konkrét molekuláris útvonalat a gerincvelőben, amely a fájdalomideg-sejtek excitabilitását szabályozza.",
+            "Az útvonal helyreállítása preklinikai modellekben enyhítette a neuropátiás fájdalmat, ami lehetséges gyógyszercélt jelez.",
+            "A klinikai relevancia spekulatív marad mindaddig, amíg biztonságot és hatékonyságot nem mutatnak emberi vizsgálatok."
+          ]
+        },
+        "ar": {
+          "title": "دراسة ما قبل السريرية تحدد مسارًا جزيئيًا في الحبل الشوكي يحدّ من إطلاق العصبونيات المؤلمة",
+          "summary": "وصف الباحثون مسارًا جزيئيًا Nono–Kcnq2 في الحبل الشوكي يعمل كنوع من المكبح لإطلاق الخلايا العصبية المسؤولة عن الألم؛ في نماذج معملية أدى استعادة هذا المسار إلى تخفيف الألم العصبي، مما يوفر هدفًا محتملاً لتطوير علاجات مستقبلية.",
+          "whyItMatters": "العمل ما قبل سريري (معمل/حيواني) ويحدد هدفًا آليًا قد يوجه تطوير علاجات للألم العصبي المزمن، لكن تأثيره على البشر غير مختبر وتطوير أدوية يتطلب أبحاثًا إضافية واسعة النطاق.",
+          "takeaways": [
+            "تكشف الدراسة عن مسار جزيئي محدد في الحبل الشوكي يشارك في التحكم في قابلية إثارة الخلايا العصبية المسؤولة عن الألم.",
+            "أدى استعادة المسار إلى تخفيف الألم العصبي في النماذج قبل السريرية، ما يوحي بوجود هدف دوائي محتمل.",
+            "تظل الأهمية السريرية افتراضية حتى تُظهر الدراسات البشرية السلامة والفعالية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=why-nerve-pain-lingers-e86b7bdd6570",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-nerve-pain-lingers-e86b7bdd6570-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/why-nerve-pain-lingers-e86b7bdd6570-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Preclinical study identifies a spinal-cord molecular pathway that limits pain-neuron firing.\nStory summary: Researchers described a Nono–Kcnq2 molecular pathway in the spinal cord that acts to brake firing of pain neurons; in laboratory models, restoring this pathway relieved neuropathic pain, providing a potential target for treatment development..\nCategory: neuroscience / pain research.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "food-delivery-apps-an-emerging-public-health-challenge-ef34014ed892",
+      "category": "nutrition / public health",
+      "sourceName": "medicalxpress.com",
+      "sourceUrl": "https://medicalxpress.com/news/2026-11-food-delivery-apps-emerging-health.html",
+      "sourceTitle": "Food delivery apps: An emerging public health challenge",
+      "publishedAt": "Wed, 25 Nov 2026 10:10:01 EST",
+      "languages": {
+        "en": {
+          "title": "Study flags food delivery platforms as a growing source of junk-food exposure",
+          "summary": "Research reported by Medical Xpress suggests major food delivery platforms may disproportionately promote energy-dense, low-nutrient options and encourage unhealthy purchase patterns, potentially contributing to rising obesity trends in Australia.",
+          "whyItMatters": "Digital food environments are increasingly shaping diets; evidence that delivery apps amplify unhealthy food marketing could inform public health policy and platform-level interventions, though publication describes observational patterns rather than proved causal impact on population obesity.",
+          "takeaways": [
+            "Delivery apps' promotion and user-interface design may bias consumers toward less healthy choices.",
+            "Findings are based on observed marketing and availability patterns; they do not by themselves demonstrate that apps caused weight gain.",
+            "Policy responses could include platform-level restrictions on junk-food promotion, but further research is needed to link app exposure to health outcomes."
+          ]
+        },
+        "es": {
+          "title": "Estudio señala a las apps de entrega de alimentos como una fuente creciente de exposición a comida poco saludable",
+          "summary": "Una investigación recogida por Medical Xpress sugiere que las principales plataformas de entrega de comida pueden promover desproporcionadamente opciones densas en energía y bajas en nutrientes y fomentar patrones de compra poco saludables, lo que potencialmente contribuiría al aumento de la obesidad en Australia.",
+          "whyItMatters": "Los entornos alimentarios digitales influyen cada vez más en las dietas; la evidencia de que las apps de entrega amplifican el marketing de alimentos no saludables podría informar políticas de salud pública e intervenciones a nivel de plataforma, aunque el informe describe patrones observacionales y no un impacto causal probado sobre la obesidad poblacional.",
+          "takeaways": [
+            "La promoción y el diseño de la interfaz de las apps de entrega pueden sesgar a los consumidores hacia opciones menos saludables.",
+            "Los hallazgos se basan en patrones observados de marketing y disponibilidad; por sí solos no demuestran que las apps hayan causado aumento de peso.",
+            "Las respuestas de política podrían incluir restricciones a la promoción de comida poco saludable en las plataformas, pero se necesita más investigación para vincular la exposición en apps con resultados de salud."
+          ]
+        },
+        "ru": {
+          "title": "Исследование указывает на сервисы доставки еды как растущий источник воздействия нездоровой пищи",
+          "summary": "Исследование, представленное Medical Xpress, указывает, что крупные платформы доставки еды могут непропорционально продвигать высококалорийные, бедные питательными веществами варианты и поощрять нездоровые модели покупок, что потенциально способствует росту уровня ожирения в Австралии.",
+          "whyItMatters": "Цифровая пищевая среда все сильнее формирует рацион; данные о том, что приложения доставки усиливают маркетинг нездоровой пищи, могут послужить основой для мер в области общественного здравоохранения и изменений на уровне платформ, хотя публикация описывает наблюдаемые закономерности, а не доказанный причинно-следственный эффект для населения.",
+          "takeaways": [
+            "Продвижение и дизайн интерфейса приложений доставки могут смещать выбор потребителей в сторону менее здоровых вариантов.",
+            "Результаты основаны на наблюдаемых моделях маркетинга и доступности; они не доказывают, что приложения вызвали увеличение веса.",
+            "Политические меры могут включать ограничения на продвижение нездоровой пищи на платформах, но требуется дополнительное исследование, связывающее воздействие приложений с показателями здоровья."
+          ]
+        },
+        "uk": {
+          "title": "Дослідження вказує, що платформи доставки їжі стають зростаючим джерелом впливу шкідливої їжі",
+          "summary": "Матеріал у Medical Xpress повідомляє, що великі платформи доставки їжі можуть непропорційно просувати енергетично щільні, малопоживні варіанти та заохочувати нездорові моделі покупок, що потенційно сприяє зростанню тенденцій до ожиріння в Австралії.",
+          "whyItMatters": "Цифрові харчові середовища все більше формують дієти; докази того, що додатки доставки посилюють маркетинг нездорової їжі, можуть лягти в основу політики громадського здоров’я та втручань на рівні платформ, хоча публікація описує спостережні патерни, а не доведений каузальний вплив на популяційне ожиріння.",
+          "takeaways": [
+            "Просування та дизайн інтерфейсу додатків доставки можуть схиляти споживачів до менш здорових виборів.",
+            "Висновки базуються на спостережних моделях маркетингу та доступності; самі по собі вони не доводять, що додатки спричинили набір ваги.",
+            "Політичні реакції можуть включати обмеження просування шкідливої їжі на рівні платформ, але потрібні додаткові дослідження, щоб пов’язати експозицію в додатках зі здоров’ям."
+          ]
+        },
+        "fr": {
+          "title": "Une étude signale que les plateformes de livraison alimentaire sont une source croissante d'exposition à la malbouffe",
+          "summary": "Un article de Medical Xpress suggère que les grandes plateformes de livraison alimentaire peuvent promouvoir de manière disproportionnée des options riches en énergie et pauvres en nutriments et encourager des habitudes d'achat peu saines, contribuant potentiellement aux tendances d'augmentation de l'obésité en Australie.",
+          "whyItMatters": "Les environnements alimentaires numériques influencent de plus en plus les régimes ; la preuve que les applications de livraison amplifient le marketing de la malbouffe pourrait éclairer les politiques de santé publique et des interventions au niveau des plateformes, bien que la publication décrive des schémas observationnels plutôt qu'un impact causal prouvé sur l'obésité populationnelle.",
+          "takeaways": [
+            "La promotion et la conception d'interface des applications de livraison peuvent biaiser les consommateurs vers des choix moins sains.",
+            "Les conclusions reposent sur des observations de marketing et de disponibilité ; elles ne démontrent pas à elles seules que les applications causent une prise de poids.",
+            "Les réponses politiques pourraient inclure des restrictions au niveau des plateformes sur la promotion de la malbouffe, mais des recherches supplémentaires sont nécessaires pour lier l'exposition via les applications aux résultats de santé."
+          ]
+        },
+        "de": {
+          "title": "Studie sieht Essenslieferplattformen als wachsende Quelle für Junk-Food-Exposition",
+          "summary": "Recherchen, berichtet bei Medical Xpress, deuten darauf hin, dass große Essenslieferplattformen überproportional energiedichte, nährstoffarme Optionen bewerben und ungesunde Kaufmuster fördern könnten, was möglicherweise zu steigenden Adipositas-Trends in Australien beiträgt.",
+          "whyItMatters": "Digitale Ernährungsumgebungen prägen zunehmend Essgewohnheiten; Hinweise darauf, dass Liefer-Apps ungesunde Lebensmittelvermarktung verstärken, könnten die öffentliche Gesundheitspolitik und Maßnahmen auf Plattformebene informieren, wobei die Publikation beobachtete Muster beschreibt und keinen kausalen Einfluss auf Bevölkerungsadipositas nachweist.",
+          "takeaways": [
+            "Werbung und Benutzeroberflächendesign von Liefer-Apps könnten Verbraucherinnen und Verbraucher zu weniger gesunden Entscheidungen lenken.",
+            "Die Ergebnisse basieren auf beobachteten Marketing- und Verfügbarkeitsmustern; sie zeigen nicht allein, dass Apps Gewichtszunahme verursacht haben.",
+            "Politische Maßnahmen könnten Einschränkungen der Junk-Food-Bewerbung auf Plattformen umfassen, aber weitere Forschung ist nötig, um App-Exposition mit Gesundheitsergebnissen zu verknüpfen."
+          ]
+        },
+        "pt-br": {
+          "title": "Estudo aponta plataformas de entrega de comida como fonte crescente de exposição a junk food",
+          "summary": "Pesquisa reportada pela Medical Xpress sugere que grandes plataformas de entrega podem promover desproporcionalmente opções ricas em energia e pobres em nutrientes e incentivar padrões de compra não saudáveis, possivelmente contribuindo para o aumento das tendências de obesidade na Austrália.",
+          "whyItMatters": "Ambientes alimentares digitais estão cada vez mais moldando dietas; evidências de que apps de entrega ampliam o marketing de alimentos não saudáveis podem orientar políticas de saúde pública e intervenções nas plataformas, embora a publicação descreva padrões observacionais e não um impacto causal comprovado sobre a obesidade populacional.",
+          "takeaways": [
+            "A promoção e o design da interface das apps de entrega podem sesgar consumidores para escolhas menos saudáveis.",
+            "Os achados baseiam-se em padrões observados de marketing e disponibilidade; não demonstram isoladamente que os apps causaram ganho de peso.",
+            "Respostas políticas poderiam incluir restrições a promoções de junk food nas plataformas, mas são necessárias mais pesquisas para ligar a exposição via app a desfechos de saúde."
+          ]
+        },
+        "hu": {
+          "title": "Tanulmány: ételszállító platformok növekvő forrásai lehetnek a junk foodnak való kitettségnek",
+          "summary": "A Medical Xpress által ismertetett kutatás szerint a nagy ételfutáros platformok aránytalanul népszerűsíthetik az energia-dús, tápanyagban szegény opciókat és ösztönözhetik az egészségtelen vásárlási mintákat, ami hozzájárulhat az Ausztráliában növekvő elhízási trendekhez.",
+          "whyItMatters": "A digitális élelmiszerkörnyezetek egyre inkább alakítják az étrendet; ha a futáros alkalmazások felerősítik az egészségtelen ételek marketingjét, az befolyásolhatja a közegészségületi politikát és platformszintű beavatkozásokat, bár a közlemény megfigyelési mintákat ír le, nem pedig bizonyított oksági hatást a népességi elhízásra.",
+          "takeaways": [
+            "A futáros alkalmazások promóciói és felhasználói felülete torzíthatja a fogyasztókat kevésbé egészséges választások felé.",
+            "Az eredmények megfigyelt marketing- és elérhetőségi mintákon alapulnak; önmagukban nem bizonyítják, hogy az alkalmazások súlygyarapodást okoztak.",
+            "A politikai válaszok tartalmazhatnak platformszintű korlátozásokat a junk-food promóciójára, de további kutatás szükséges az app-kitettség és az egészségi kimenetek közötti kapcsolatra."
+          ]
+        },
+        "ar": {
+          "title": "دراسة تشير إلى أن منصات توصيل الطعام مصدر متزايد للتعرّض للأطعمة غير الصحية",
+          "summary": "تشير أبحاث ذكرتها Medical Xpress إلى أن منصات توصيل الطعام الكبرى قد تروّج بشكل غير متناسب للخيارات عالية السعرات وقليلة المغذيات وتُشجع عادات شراء غير صحية، مما قد يساهم في ارتفاع معدلات السمنة في أستراليا.",
+          "whyItMatters": "تشكّل البيئات الغذائية الرقمية السلوك الغذائي بشكل متزايد؛ وإذا كانت التطبيقات تعزّز تسويق الأطعمة غير الصحية فقد يؤثر ذلك على سياسات الصحة العامة وإجراءات على مستوى المنصات، رغم أن التوصيف المنشور يصف أنماطًا رصدية وليس تأثيرًا سببيًا مثبتًا على سمنة السكان.",
+          "takeaways": [
+            "قد تدفع ترويجات وواجهات المستخدم في تطبيقات التوصيل المستهلكين نحو خيارات أقل صحة.",
+            "النتائج مبنية على أنماط تسويقية وتوفّر مُلاحظة؛ ولا تثبت بمفردها أن التطبيقات تسبّبت في زيادة الوزن.",
+            "قد تشمل الاستجابات السياسية فرض قيود على ترويج الوجبات السريعة في المنصات، لكن ثمة حاجة لمزيد من البحث لربط التعرض عبر التطبيقات بالنتائج الصحية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=food-delivery-apps-an-emerging-public-health-challenge-ef34014ed892",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/food-delivery-apps-an-emerging-public-health-challenge-ef34014ed892-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/food-delivery-apps-an-emerging-public-health-challenge-ef34014ed892-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Study flags food delivery platforms as a growing source of junk-food exposure.\nStory summary: Research reported by Medical Xpress suggests major food delivery platforms may disproportionately promote energy-dense, low-nutrient options and encourage unhealthy purchase patterns, potentially contributing to rising obesity trends in Australia..\nCategory: nutrition / public health.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "oral-nutrition-supplements-prove-cost-effective-for-malnourished--dc16f28156c0",
+      "category": "nutrition / healthy ageing / health economics",
+      "sourceName": "news-medical.net",
+      "sourceUrl": "https://www.news-medical.net/news/20261125/Oral-nutrition-supplements-prove-cost-effective-for-malnourished-older-adults.aspx",
+      "sourceTitle": "Oral nutrition supplements prove cost-effective for malnourished older adults",
+      "publishedAt": "Wed, 25 Nov 2026 09:23:20 -0500",
+      "languages": {
+        "en": {
+          "title": "ISPOR report finds oral nutrition supplements cost-effective for older adults at risk of malnutrition",
+          "summary": "An ISPOR Special Interest Group report published in Value in Health reviewed available evidence on oral nutrition supplements for older adults (most malnourished or at risk) and concluded these supplements can provide both health benefits and economic value in this population.",
+          "whyItMatters": "Addressing malnutrition in older adults can improve outcomes and may be economically justified; the report synthesizes economic and clinical studies but conclusions depend on the quality and heterogeneity of the underlying evidence.",
+          "takeaways": [
+            "The report combines clinical and economic evidence suggesting oral nutrition supplements can be cost-effective for older adults with or at risk of malnutrition.",
+            "Cost-effectiveness findings depend on specific patient groups, settings, and study assumptions; results may not generalize to all older adults.",
+            "Implementation should consider clinical assessment, monitoring, and integration with broader nutrition care rather than relying solely on supplements."
+          ]
+        },
+        "es": {
+          "title": "Informe de ISPOR concluye que suplementos nutricionales orales son coste-efectivos para adultos mayores en riesgo de malnutrición",
+          "summary": "Un informe del Grupo de Interés Especial de ISPOR publicado en Value in Health revisó la evidencia disponible sobre suplementos nutricionales orales para adultos mayores (la mayoría malnutridos o en riesgo) y concluyó que estos suplementos pueden aportar beneficios en salud y valor económico en esta población.",
+          "whyItMatters": "Abordar la malnutrición en adultos mayores puede mejorar resultados y puede justificarse económicamente; el informe sintetiza estudios económicos y clínicos, pero sus conclusiones dependen de la calidad y heterogeneidad de la evidencia subyacente.",
+          "takeaways": [
+            "El informe combina evidencia clínica y económica que sugiere que los suplementos nutricionales orales pueden ser coste-efectivos para adultos mayores con malnutrición o en riesgo de ella.",
+            "Los resultados sobre coste-efectividad dependen de grupos de pacientes concretos, contextos y supuestos de los estudios; las conclusiones pueden no generalizarse a todos los adultos mayores.",
+            "La implementación debería considerar la evaluación clínica, el seguimiento e integración con la atención nutricional más amplia en lugar de basarse únicamente en suplementos."
+          ]
+        },
+        "ru": {
+          "title": "Отчет ISPOR: пероральные пищевые добавки экономически эффективны для пожилых людей с риском недоедания",
+          "summary": "Отчет специализированной группы интересов ISPOR, опубликованный в Value in Health, рассмотрел имеющиеся данные по пероральным пищевым добавкам для пожилых людей (в основном с недоеданием или в группе риска) и пришел к выводу, что такие добавки могут приносить как клинические, так и экономические выгоды в этой популяции.",
+          "whyItMatters": "Решение проблемы недоедания у пожилых людей может улучшить исходы и быть экономически оправданным; отчет синтезирует экономические и клинические исследования, но выводы зависят от качества и гетерогенности исходных данных.",
+          "takeaways": [
+            "Отчет объединяет клинические и экономические данные, указывающие на то, что пероральные пищевые добавки могут быть экономически эффективны для пожилых с недоеданием или риском его развития.",
+            "Выводы об экономической эффективности зависят от конкретных групп пациентов, условий и допущений исследований; результаты не обязательно применимы ко всем пожилым людям.",
+            "Реализация должна учитывать клиническую оценку, мониторинг и интеграцию с широкой программой нутритивной помощи, а не полагаться исключительно на добавки."
+          ]
+        },
+        "uk": {
+          "title": "Звіт ISPOR: пероральні харчові добавки економічно виправдані для літніх людей із ризиком недоїдання",
+          "summary": "Звіт спеціальної групи ISPOR, опублікований у Value in Health, переглянув наявні дані про пероральні харчові добавки для літніх людей (більшість — недоїдаючі або в групі ризику) і дійшов висновку, що ці добавки можуть приносити як клінічну, так і економічну вигоду в цій популяції.",
+          "whyItMatters": "Подолання недоїдання у літніх може покращити результати і бути економічно виправданим; звіт синтезує економічні й клінічні дослідження, але висновки залежать від якості та неоднорідності підґрунтовних доказів.",
+          "takeaways": [
+            "Звіт поєднує клінічні та економічні дані, які свідчать, що пероральні харчові добавки можуть бути економічно виправданими для літніх з недоїданням або ризиком його.",
+            "Висновки щодо рентабельності залежать від конкретних груп пацієнтів, умов і припущень досліджень; результати можуть не поширюватися на всіх літніх людей.",
+            "Впровадження має враховувати клінічну оцінку, моніторинг і інтеграцію в ширшу систему харчової допомоги, а не покладатися лише на добавки."
+          ]
+        },
+        "fr": {
+          "title": "Un rapport de l'ISPOR conclut que les compléments nutritionnels oraux sont rentables pour les personnes âgées à risque de malnutrition",
+          "summary": "Un rapport d'un groupe d'intérêt spécial de l'ISPOR, publié dans Value in Health, a passé en revue les preuves disponibles sur les compléments nutritionnels oraux pour les personnes âgées (la plupart malnutries ou à risque) et a conclu que ces compléments peuvent apporter des bénéfices de santé et une valeur économique dans cette population.",
+          "whyItMatters": "Traiter la malnutrition chez les personnes âgées peut améliorer les résultats et être économiquement justifié ; le rapport synthétise des études économiques et cliniques, mais les conclusions dépendent de la qualité et de l'hétérogénéité des preuves sous-jacentes.",
+          "takeaways": [
+            "Le rapport combine des preuves cliniques et économiques suggérant que les compléments nutritionnels oraux peuvent être rentables pour les personnes âgées souffrant de malnutrition ou à risque.",
+            "Les résultats de rentabilité dépendent des groupes de patients spécifiques, des contextes et des hypothèses des études ; ils peuvent ne pas être généralisables à toutes les personnes âgées.",
+            "La mise en œuvre doit prendre en compte l'évaluation clinique, le suivi et l'intégration dans une prise en charge nutritionnelle plus large plutôt que de se reposer uniquement sur des compléments."
+          ]
+        },
+        "de": {
+          "title": "ISPOR-Bericht: orale Nahrungsergänzungen kosteneffektiv für ältere, mangelernährte Personen",
+          "summary": "Ein Bericht einer ISPOR Special Interest Group, veröffentlicht in Value in Health, fasst verfügbare Evidenz zu oralen Nahrungsergänzungen für ältere Erwachsene (mehrheitlich mangelernährt oder gefährdet) zusammen und kommt zu dem Schluss, dass diese Supplemente in dieser Population sowohl gesundheitliche Vorteile als auch wirtschaftlichen Nutzen bieten können.",
+          "whyItMatters": "Die Behandlung von Mangelernährung bei älteren Menschen kann Ergebnisse verbessern und wirtschaftlich gerechtfertigt sein; der Bericht synthetisiert ökonomische und klinische Studien, wobei die Schlussfolgerungen von Qualität und Heterogenität der zugrunde liegenden Evidenz abhängen.",
+          "takeaways": [
+            "Der Bericht kombiniert klinische und ökonomische Evidenz und legt nahe, dass orale Nahrungsergänzungen für ältere Menschen mit oder gefährdet durch Mangelernährung kosteneffektiv sein können.",
+            "Die Ergebnisse zur Kosteneffektivität hängen von konkreten Patientengruppen, Versorgungssettings und Studienannahmen ab; sie sind möglicherweise nicht auf alle älteren Personen übertragbar.",
+            "Die Umsetzung sollte klinische Beurteilung, Überwachung und Integration in eine umfassendere Ernährungsversorgung berücksichtigen und sich nicht allein auf Supplemente stützen."
+          ]
+        },
+        "pt-br": {
+          "title": "Relatório da ISPOR conclui que suplementos nutricionais orais são custo-efetivos para idosos em risco de desnutrição",
+          "summary": "Um relatório de um Grupo de Interesse Especial da ISPOR, publicado na Value in Health, revisou a evidência disponível sobre suplementos nutricionais orais para adultos mais velhos (em sua maioria desnutridos ou em risco) e concluiu que esses suplementos podem oferecer benefícios de saúde e valor econômico nessa população.",
+          "whyItMatters": "Abordar a desnutrição em idosos pode melhorar desfechos e pode ser economicamente justificável; o relatório sintetiza estudos econômicos e clínicos, mas as conclusões dependem da qualidade e heterogeneidade da evidência subjacente.",
+          "takeaways": [
+            "O relatório combina evidência clínica e econômica sugerindo que suplementos nutricionais orais podem ser custo-efetivos para idosos com desnutrição ou em risco.",
+            "As conclusões de custo-efetividade dependem de grupos de pacientes específicos, contextos e pressupostos dos estudos; os resultados podem não se generalizar a todos os idosos.",
+            "A implementação deve considerar avaliação clínica, monitoramento e integração com cuidados nutricionais mais amplos, em vez de depender apenas de suplementos."
+          ]
+        },
+        "hu": {
+          "title": "ISPOR-jelentés: szájon át szedett táplálékkiegészítők költséghatékonyak a malnutrícióval veszélyeztetett idősek számára",
+          "summary": "Az ISPOR Special Interest Group jelentése a Value in Health folyóiratban áttekintette a szájon át adott táplálékkiegészítők rendelkezésre álló bizonyítékait idős felnőttek körében (többnyire malnourished vagy kockázatnak kitett) és arra a következtetésre jutott, hogy ezek a kiegészítők egészségügyi előnyt és gazdasági értéket is nyújthatnak ebben a csoportban.",
+          "whyItMatters": "Az időskori alultápláltság kezelése javíthatja az eredményeket és gazdaságilag is indokoltnak tűnhet; a jelentés klinikai és gazdasági tanulmányokat szintetizál, de a következtetések a mögöttes bizonyítékok minőségétől és heterogenitásától függenek.",
+          "takeaways": [
+            "A jelentés klinikai és gazdasági bizonyítékokat egyesítve azt sugallja, hogy szájon át adott táplálékkiegészítők költséghatékonyak lehetnek az alultáplált vagy kockázatnak kitett idősek számára.",
+            "A költséghatékonyság függ a konkrét betegek csoportjától, a környezettől és a vizsgálati feltételezésektől; az eredmények nem feltétlenül általánosíthatók minden idősre.",
+            "A bevezetéskor figyelembe kell venni a klinikai értékelést, a monitorozást és a kiterjedtebb táplálkozási ellátásba való integrációt, nem csak a kiegészítőkre támaszkodva."
+          ]
+        },
+        "ar": {
+          "title": "تقرير ISPOR: المكملات الغذائية الفموية فعّالة من حيث التكلفة لكبار السن المعرضين لسوء التغذية",
+          "summary": "راجع تقرير مجموعة اهتمام خاصة في ISPOR نُشر في Value in Health الأدلة المتاحة حول المكملات الغذائية الفموية لكبار البالغين (غالبًا ممن هم ناقصو تغذية أو عرضة لذلك) وخلص إلى أن هذه المكملات يمكن أن تحقق فوائد صحية وقيمة اقتصادية في هذه الفئة.",
+          "whyItMatters": "معالجة سوء التغذية لدى كبار السن قد تحسّن النتائج الصحية وقد تكون مبررة اقتصاديًا؛ يلخّص التقرير دراسات سريرية واقتصادية، لكن الاستنتاجات تعتمد على جودة وتغاير الأدلة الأساسية.",
+          "takeaways": [
+            "يجمع التقرير أدلة سريرية واقتصادية تشير إلى أن المكملات الغذائية الفموية قد تكون فعّالة من حيث التكلفة لكبار السن المصابين بسوء تغذية أو المعرضين له.",
+            "تعتمد نتائج الجدوى الاقتصادية على مجموعات المرضى المحددة والبيئات وافتراضات الدراسات؛ وقد لا تنطبق على جميع كبار السن.",
+            "ينبغي عند التنفيذ مراعاة التقييم السريري والمتابعة ودمج المكملات ضمن رعاية تغذوية أوسع بدلاً من الاعتماد عليها فقط."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=oral-nutrition-supplements-prove-cost-effective-for-malnourished--dc16f28156c0",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oral-nutrition-supplements-prove-cost-effective-for-malnourished-dc16f28156c0-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/oral-nutrition-supplements-prove-cost-effective-for-malnourished-dc16f28156c0-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: ISPOR report finds oral nutrition supplements cost-effective for older adults at risk of malnutrition.\nStory summary: An ISPOR Special Interest Group report published in Value in Health reviewed available evidence on oral nutrition supplements for older adults (most malnourished or at risk) and concluded these supplements can provide both health benefits and economic value in this population..\nCategory: nutrition / healthy ageing / health economics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "peppermint-oil-significantly-lowers-blood-pressure-in-just-20-day-35a438538568",
+      "category": "cardiovascular health / complementary medicine",
+      "sourceName": "sciencedaily.com",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+      "sourceTitle": "Peppermint oil significantly lowers blood pressure in just 20 days",
+      "publishedAt": "Wed, 25 Nov 2026 05:53:00 EST",
+      "languages": {
+        "en": {
+          "title": "Small randomized study reports short-term systolic blood pressure reduction with peppermint oil",
+          "summary": "A randomized trial of 40 adults reported that low-dose peppermint oil taken twice daily for 20 days reduced systolic blood pressure by an average of 8.5 mmHg versus placebo. The press summary frames this as a promising, low-cost approach to managing mildly elevated blood pressure.",
+          "whyItMatters": "The trial is small and short-term; while results are of interest, they are preliminary and insufficient to change clinical practice. Larger, longer studies are needed to confirm efficacy, safety, and durability.",
+          "takeaways": [
+            "This was a small (n≈40) randomized study with a 20-day intervention and showed an average systolic reduction versus placebo.",
+            "Results are preliminary — small size and short duration limit conclusions about long-term benefit and safety.",
+            "People should not substitute unproven supplements for prescribed blood-pressure treatments without medical guidance."
+          ]
+        },
+        "es": {
+          "title": "Pequeño estudio aleatorizado informa reducción a corto plazo de la presión sistólica con aceite de menta",
+          "summary": "Un ensayo aleatorizado con 40 adultos reportó que una dosis baja de aceite de menta tomada dos veces al día durante 20 días redujo la presión arterial sistólica en promedio 8,5 mmHg frente a placebo. El resumen de prensa lo presenta como un enfoque prometedor y de bajo coste para manejar la presión ligeramente elevada.",
+          "whyItMatters": "El ensayo es pequeño y de corta duración; aunque los resultados son interesantes, son preliminares e insuficientes para cambiar la práctica clínica. Se requieren estudios más amplios y a más largo plazo para confirmar eficacia, seguridad y durabilidad.",
+          "takeaways": [
+            "Se trató de un estudio aleatorizado pequeño (n≈40) con una intervención de 20 días que mostró una reducción media de la presión sistólica frente a placebo.",
+            "Los resultados son preliminares: el tamaño pequeño y la corta duración limitan las conclusiones sobre beneficio y seguridad a largo plazo.",
+            "Las personas no deben sustituir tratamientos prescritos para la presión arterial por suplementos no probados sin la orientación de un profesional médico."
+          ]
+        },
+        "ru": {
+          "title": "Небольшое рандомизированное исследование сообщает о краткосрочном снижении систолического давления при употреблении масла мяты",
+          "summary": "Рандомизированное исследование 40 взрослых показало, что низкая доза мяты, принимаемая дважды в день в течение 20 дней, снизила систолическое артериальное давление в среднем на 8,5 мм рт. ст. по сравнению с плацебо. В пресс-аннотации это представлено как перспективный, недорогой подход к управлению слегка повышенным давлением.",
+          "whyItMatters": "Исследование небольшое и краткосрочное; хотя результаты интересны, они предварительные и недостаточны для изменения клинической практики. Необходимы более крупные и продолжительные исследования для подтверждения эффективности, безопасности и устойчивости эффекта.",
+          "takeaways": [
+            "Это было небольшое (≈40 участников) рандомизированное исследование с 20-дневным вмешательством, показавшее среднее снижение систолического давления по сравнению с плацебо.",
+            "Результаты предварительные — небольшой размер выборки и короткая продолжительность ограничивают выводы о долгосрочной пользе и безопасности.",
+            "Людям не следует заменять назначенные лекарства от давления непроверенными добавками без консультации с врачом."
+          ]
+        },
+        "uk": {
+          "title": "Невелике рандомізоване дослідження повідомляє про короткочасне зниження систолічного тиску при застосуванні олії м’яти",
+          "summary": "Рандомізоване дослідження 40 дорослих показало, що низька доза олії м’яти, призначена двічі на добу протягом 20 днів, знизила систолічний артеріальний тиск у середньому на 8,5 мм рт. ст. порівняно з плацебо. Прес‑висновок подає це як перспективний недорогий підхід до контролю помірно підвищеного тиску.",
+          "whyItMatters": "Дослідження маленьке і короткочасне; хоча результати цікаві, вони попередні і недостатні для зміни клінічної практики. Потрібні більші й триваліші дослідження для підтвердження ефективності, безпеки та тривалості ефекту.",
+          "takeaways": [
+            "Це було невелике (≈40 осіб) рандомізоване дослідження з 20‑денним втручанням, яке показало середнє зниження систолічного тиску порівняно з плацебо.",
+            "Результати попередні — малий розмір вибірки та коротка тривалість обмежують висновки щодо довгострокової користі й безпеки.",
+            "Не слід замінювати перевірені призначення від лікаря неперевіреними добавками без консультації медичного фахівця."
+          ]
+        },
+        "fr": {
+          "title": "Une petite étude randomisée rapporte une réduction à court terme de la pression systolique avec l'huile de menthe poivrée",
+          "summary": "Un essai randomisé de 40 adultes a rapporté que de faibles doses d'huile de menthe poivrée prises deux fois par jour pendant 20 jours ont réduit la pression systolique en moyenne de 8,5 mmHg par rapport au placebo. Le résumé de presse présente cela comme une approche peu coûteuse et prometteuse pour gérer une pression artérielle légèrement élevée.",
+          "whyItMatters": "L'essai est de petite taille et de courte durée ; bien que les résultats soient intéressants, ils restent préliminaires et insuffisants pour modifier la pratique clinique. Des études plus larges et plus longues sont nécessaires pour confirmer l'efficacité, la sécurité et la pérennité.",
+          "takeaways": [
+            "Il s'agissait d'une petite étude randomisée (≈40 participants) avec une intervention de 20 jours montrant une réduction moyenne de la pression systolique par rapport au placebo.",
+            "Les résultats sont préliminaires — la petite taille et la courte durée limitent les conclusions sur les bénéfices et la sécurité à long terme.",
+            "Il ne faut pas remplacer des traitements antihypertenseurs prescrits par des compléments non prouvés sans avis médical."
+          ]
+        },
+        "de": {
+          "title": "Kleine randomisierte Studie berichtet kurzzeitige systolische Blutdrucksenkung mit Pfefferminzöl",
+          "summary": "Eine randomisierte Studie mit 40 Erwachsenen berichtete, dass eine niedrig dosierte Gabe von Pfefferminzöl zweimal täglich über 20 Tage den systolischen Blutdruck im Mittel um 8,5 mmHg gegenüber Placebo senkte. Die Pressemeldung stellt dies als vielversprechende, kostengünstige Vorgehensweise zur Behandlung leicht erhöhter Blutdruckwerte dar.",
+          "whyItMatters": "Die Studie ist klein und kurzzeitig; obwohl die Ergebnisse von Interesse sind, sind sie vorläufig und reichen nicht aus, um die klinische Praxis zu verändern. Größere, längerfristige Studien sind nötig, um Wirksamkeit, Sicherheit und Dauerhaftigkeit zu bestätigen.",
+          "takeaways": [
+            "Es handelte sich um eine kleine (n≈40) randomisierte Studie mit einer 20-tägigen Intervention, die eine durchschnittliche systolische Reduktion gegenüber Placebo zeigte.",
+            "Die Ergebnisse sind vorläufig — geringe Teilnehmerzahl und kurze Dauer begrenzen Aussagen zu langfristigem Nutzen und Sicherheit.",
+            "Menschen sollten ungeprüfte Nahrungsergänzungen nicht ohne ärztliche Rücksprache anstelle verschriebener blutdrucksenkender Behandlungen verwenden."
+          ]
+        },
+        "pt-br": {
+          "title": "Pequeno estudo randomizado relata redução de pressão arterial sistólica em curto prazo com óleo de hortelã-pimenta",
+          "summary": "Um ensaio randomizado com 40 adultos relatou que uma dose baixa de óleo de hortelã-pimenta tomada duas vezes ao dia por 20 dias reduziu a pressão arterial sistólica em média 8,5 mmHg versus placebo. O resumo de imprensa apresenta isso como uma abordagem promissora e de baixo custo para manejar pressão arterial ligeiramente elevada.",
+          "whyItMatters": "O estudo é pequeno e de curta duração; embora os resultados sejam interessantes, são preliminares e insuficientes para mudar a prática clínica. Estudos maiores e mais longos são necessários para confirmar eficácia, segurança e durabilidade.",
+          "takeaways": [
+            "Foi um pequeno estudo randomizado (n≈40) com intervenção de 20 dias e mostrou redução média da pressão sistólica versus placebo.",
+            "Os resultados são preliminares — tamanho reduzido e curta duração limitam conclusões sobre benefício e segurança a longo prazo.",
+            "Pessoas não devem substituir tratamentos prescritos para pressão arterial por suplementos não comprovados sem orientação médica."
+          ]
+        },
+        "hu": {
+          "title": "Kis randomizált vizsgálat rövid távú szisztolés vérnyomáscsökkenést jelent borsmentaolajjal",
+          "summary": "Egy 40 felnőtt bevonásával végzett randomizált vizsgálat közölte, hogy alacsony dózisú borsmentaolaj napi kétszeri szedése 20 napon át átlagosan 8,5 mmHg-os szisztolés vérnyomáscsökkenéssel járt a placebohoz képest. A sajtóösszefoglaló ígéretes, alacsony költségű megközelítésként mutatja be az enyhén emelkedett vérnyomás kezelésére.",
+          "whyItMatters": "A vizsgálat kicsi és rövid távú; bár az eredmények érdekesek, ezek előzetesek és nem elegendőek a klinikai gyakorlat megváltoztatásához. Nagyobb, hosszabb idejű vizsgálatok szükségesek az eredmény, a biztonság és a tartósság megerősítéséhez.",
+          "takeaways": [
+            "Ez egy kis (kb. 40 fő) randomizált tanulmány volt, 20 napos beavatkozással, és átlagos szisztolés csökkenést mutatott a placebóhoz képest.",
+            "Az eredmények előzetesek — a kis minta és a rövid időtartam korlátozza a hosszú távú haszonról és biztonságról levonható következtetéseket.",
+            "Ne helyettesítsék az igazolt gyógyszeres vérnyomáskezelést nem bizonyított kiegészítőkkel orvosi útmutatás nélkül."
+          ]
+        },
+        "ar": {
+          "title": "دراسة عشوائية صغيرة تشير إلى انخفاض قصير الأمد في الضغط الانقباضي مع زيت النعناع",
+          "summary": "أفادت تجربة عشوائية شملت 40 بالغًا أن جرعة منخفضة من زيت النعناع تؤخذ مرتين يوميًا لمدة 20 يومًا قلّصت الضغط الانقباضي بمعدل متوسط 8.5 مم زئبق مقارنةً بالدواء الوهمي. تصوّر الملخص الصحفي هذا كمقاربة واعدة ومنخفضة التكلفة لإدارة ارتفاع الضغط البسيط.",
+          "whyItMatters": "التجربة صغيرة وقصيرة الأمد؛ رغم أن النتائج مثيرة للاهتمام، إلا أنها أولية وغير كافية لتغيير الممارسة السريرية. هناك حاجة إلى دراسات أكبر وأطول لتأكيد الفعالية والسلامة واستمراريتها.",
+          "takeaways": [
+            "كانت هذه دراسة عشوائية صغيرة (نحو 40 مشاركًا) بتدخل لمدة 20 يومًا وأظهرت انخفاضًا متوسطًا في الضغط الانقباضي مقارنةً بالوهمي.",
+            "النتائج أولية — صغر حجم العينة وقصر المدة يحدان من استخلاص استنتاجات حول الفوائد والسلامة على المدى الطويل.",
+            "لا ينبغي استبدال علاجات ضغط الدم الموصوفة بمكملات غير مثبتة دون استشارة طبية."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=peppermint-oil-significantly-lowers-blood-pressure-in-just-20-day-35a438538568",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/peppermint-oil-significantly-lowers-blood-pressure-in-just-20-day-35a438538568-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/peppermint-oil-significantly-lowers-blood-pressure-in-just-20-day-35a438538568-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Small randomized study reports short-term systolic blood pressure reduction with peppermint oil.\nStory summary: A randomized trial of 40 adults reported that low-dose peppermint oil taken twice daily for 20 days reduced systolic blood pressure by an average of 8.5 mmHg versus placebo. The press summary frames this as a promising, low-cost approach to managing mildly elevated blood pressure..\nCategory: cardiovascular health / complementary medicine.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "holiday-weight-talk-at-thanksgiving-isn-t-funny-unless-you-want-i-5219e09544d3",
+      "category": "social determinants / mental health and eating culture",
+      "sourceName": "cnn.com",
+      "sourceUrl": "https://www.cnn.com/2026/11/25/health/diet-culture-bingo-thanksgiving-wellness",
+      "sourceTitle": "Holiday weight talk at Thanksgiving isn’t funny, unless you want it to be",
+      "publishedAt": "2026-11-25T09:00:15.913Z",
+      "languages": {
+        "en": {
+          "title": "Advice piece suggests using humor to deflect unwanted weight and body comments at holiday meals",
+          "summary": "A CNN feature recommends a light-hearted 'diet culture bingo' game as one strategy people can use to respond to intrusive or stigmatizing comments about weight and body size during holiday gatherings.",
+          "whyItMatters": "Social interactions around food and body size can affect mental well-being and engagement with healthy behaviours; suggested interpersonal strategies may help some people manage stress but are not clinical interventions.",
+          "takeaways": [
+            "The article offers communication tools, using humor, to deflect or cope with weight-focused comments in social settings.",
+            "Approaches like this may reduce stress in the moment but are not a substitute for professional support for eating disorders or mental health concerns.",
+            "Readers should consider personal safety and cultural context when choosing how to respond to intrusive comments."
+          ]
+        },
+        "es": {
+          "title": "Artículo de consejos sugiere usar el humor para desviar comentarios no deseados sobre el peso en comidas festivas",
+          "summary": "Una pieza de CNN recomienda un juego ligero de 'bingo de la cultura de la dieta' como una estrategia que algunas personas pueden usar para responder a comentarios intrusivos o estigmatizantes sobre el peso y el cuerpo durante reuniones festivas.",
+          "whyItMatters": "Las interacciones sociales en torno a la comida y el tamaño corporal pueden afectar el bienestar mental y la implicación en comportamientos saludables; las estrategias interpersonales sugeridas pueden ayudar a algunas personas a manejar el estrés, pero no son intervenciones clínicas.",
+          "takeaways": [
+            "El artículo ofrece herramientas de comunicación, usando el humor, para desviar o sobrellevar comentarios centrados en el peso en entornos sociales.",
+            "Enfoques como este pueden reducir el estrés momentáneo, pero no sustituyen el apoyo profesional para trastornos de la conducta alimentaria o problemas de salud mental.",
+            "Los lectores deben considerar la seguridad personal y el contexto cultural al decidir cómo responder a comentarios intrusivos."
+          ]
+        },
+        "ru": {
+          "title": "Советует использовать юмор, чтобы отбиваться от нежелательных комментариев о весе за праздничным столом",
+          "summary": "Материал CNN рекомендует легкий «бингo культуры диет» как одну из стратегий, которую люди могут применять, чтобы ответить на навязчивые или стигматизирующие замечания о весе и внешности во время праздничных встреч.",
+          "whyItMatters": "Социальные взаимодействия, связанные с едой и размером тела, могут влиять на психическое благополучие и вовлеченность в здоровое поведение; предлагаемые межличностные стратегии могут помочь некоторым людям справиться со стрессом, но не являются клиническими вмешательствами.",
+          "takeaways": [
+            "Статья предлагает коммуникативные приемы с использованием юмора, чтобы отбиваться от или справляться с комментариями о весе в социальных ситуациях.",
+            "Такие подходы могут снизить стресс в моменте, но не заменяют профессиональную помощь при расстройствах пищевого поведения или проблемах с психическим здоровьем.",
+            "Читателям следует учитывать личную безопасность и культурный контекст при выборе способа ответа на навязчивые замечания."
+          ]
+        },
+        "uk": {
+          "title": "Поради пропонують використовувати гумор, щоб відхилити небажані коментарі про вагу й тіло під час святкових обідів",
+          "summary": "Матеріал CNN рекомендує легку гру «дієт‑культура бінго» як одну зі стратегій, які люди можуть використати, щоб відповісти на нав’язливі або стигматизуючі коментарі про вагу й розмір тіла під час святкових зустрічей.",
+          "whyItMatters": "Соціальні взаємодії навколо їжі й тіла можуть впливати на психічне благополуччя та залучення до здорової поведінки; запропоновані міжособистісні стратегії можуть допомогти деяким людям справлятися зі стресом, але не є клінічними втручаннями.",
+          "takeaways": [
+            "Стаття пропонує комунікаційні інструменти з використанням гумору, щоб відбити або впоратися з коментарями, орієнтованими на вагу, у соціальних ситуаціях.",
+            "Такі підходи можуть зменшити стрес у конкретній ситуації, але не замінюють професійну допомогу при розладах харчової поведінки чи психічних проблемах.",
+            "Читачам варто враховувати власну безпеку та культурний контекст при виборі способу реагування на нав’язливі коментарі."
+          ]
+        },
+        "fr": {
+          "title": "Un article de conseils suggère d'utiliser l'humour pour détourner les commentaires non désirés sur le poids et le corps lors des repas de fête",
+          "summary": "Une chronique de CNN recommande un jeu léger de « bingo de la culture des régimes » comme stratégie que certaines personnes peuvent utiliser pour répondre aux commentaires intrusifs ou stigmatisants sur le poids et la taille du corps pendant les rassemblements de fête.",
+          "whyItMatters": "Les interactions sociales autour de la nourriture et du corps peuvent affecter le bien‑être mental et l'engagement dans des comportements sains ; les stratégies interpersonnelles suggérées peuvent aider certaines personnes à gérer le stress, mais ne constituent pas des interventions cliniques.",
+          "takeaways": [
+            "L'article offre des outils de communication, utilisant l'humour, pour détourner ou faire face aux commentaires axés sur le poids en contexte social.",
+            "De telles approches peuvent réduire le stress sur le moment, mais ne remplacent pas un soutien professionnel pour les troubles alimentaires ou les problèmes de santé mentale.",
+            "Les lecteurs doivent tenir compte de leur sécurité personnelle et du contexte culturel lorsqu'ils choisують, як реагувати на нав'язливі коментарі."
+          ]
+        },
+        "de": {
+          "title": "Meinungsbeitrag empfiehlt Humor, um unerwünschte Gewichtskommentare bei Feiertagsessen abzuwehren",
+          "summary": "Ein CNN-Beitrag empfiehlt ein leichtes 'Diet-Culture-Bingo'-Spiel als eine Strategie, die Menschen nutzen können, um auf aufdringliche oder stigmatisierende Kommentare zu Gewicht und Körpergröße bei Feiertagstreffen zu reagieren.",
+          "whyItMatters": "Soziale Interaktionen rund um Essen und Körpergröße können das psychische Wohlbefinden und die Bereitschaft zu gesundem Verhalten beeinflussen; vorgeschlagene zwischenmenschliche Strategien können einigen Menschen helfen, Stress zu bewältigen, sind aber keine klinischen Interventionen.",
+          "takeaways": [
+            "Der Artikel bietet Kommunikationswerkzeuge, die Humor nutzen, um gewichtsbezogene Kommentare in sozialen Situationen abzuwehren oder zu bewältigen.",
+            "Solche Ansätze können kurzfristig Stress reduzieren, sind jedoch kein Ersatz für professionelle Unterstützung bei Essstörungen oder psychischen Problemen.",
+            "Lesende sollten persönliche Sicherheit und kulturellen Kontext berücksichtigen, wenn sie entscheiden, wie sie auf aufdringliche Kommentare reagieren."
+          ]
+        },
+        "pt-br": {
+          "title": "Texto aconselha usar humor para desviar comentários indesejados sobre peso nas festas de fim de ano",
+          "summary": "Uma matéria da CNN recomenda um jogo bem-humorado de ‘bingo da cultura da dieta’ como uma estratégia que pessoas podem usar para responder a comentários intrusivos ou estigmatizantes sobre peso e corpo durante reuniões de fim de ano.",
+          "whyItMatters": "Interações sociais relacionadas à comida e ao tamanho do corpo podem afetar o bem‑estar mental e o engajamento em comportamentos saudáveis; estratégias interpessoais sugeridas podem ajudar algumas pessoas a lidar com o estresse, mas não são intervenções clínicas.",
+          "takeaways": [
+            "O artigo oferece ferramentas de comunicação, usando humor, para desviar ou lidar com comentários focados no peso em contextos sociais.",
+            "Abordagens como essa podem reduzir o estresse momentaneamente, mas não substituem apoio profissional para transtornos alimentares ou problemas de saúde mental.",
+            "Leitores devem considerar segurança pessoal e contexto cultural ao escolher como responder a comentários intrusivos."
+          ]
+        },
+        "hu": {
+          "title": "Tanács: használj humort, hogy eltereld a nem kívánt súlyról vagy testméretről szóló hozzászólásokat ünnepi étkezéseknél",
+          "summary": "A CNN-ben megjelent írás egy könnyed 'diétakultúra bingó' játékot javasol lehetséges stratégiaként azok számára, akik intruzív vagy stigmázó megjegyzéseket kapnak testsúllyal és testmérettel kapcsolatban ünnepi összejöveteleken.",
+          "whyItMatters": "Az ételekkel és testmérettel kapcsolatos társas interakciók befolyásolhatják a mentális jóllétet és az egészséges viselkedést; az ajánlott interperszonális stratégiák segíthetnek egyeseknek a stressz kezelésében, de nem minősülnek klinikai beavatkozásnak.",
+          "takeaways": [
+            "A cikk kommunikációs eszközöket kínál, humor használatával, hogy elterelje vagy kezelje a súlyra fókuszáló megjegyzéseket társas helyzetekben.",
+            "Ilyen megközelítések csökkenthetik a pillanatnyi stresszt, de nem helyettesítik a szakmai segítséget étkezési zavarok vagy mentális egészségi problémák esetén.",
+            "Az olvasóknak figyelembe kell venniük személyes biztonságukat és kulturális kontextust, amikor eldöntik, hogyan reagálnak az intruzív megjegyzésekre."
+          ]
+        },
+        "ar": {
+          "title": "مقالة تقدم نصيحة باستخدام الدعابة لصد تعليقات الوزن أو الجسم غير المرغوب فيها في وجبات العيد",
+          "summary": "تقترح مقالة على CNN لعبة 'بنغو ثقافة الحميات' خفيفة كإحدى الاستراتيجيات التي قد يستخدمها الأشخاص للرد على التعليقات المتطفلة أو الموصمة بالعار حول الوزن وحجم الجسم أثناء التجمعات الاحتفالية.",
+          "whyItMatters": "يمكن للتفاعلات الاجتماعية حول الطعام وحجم الجسم أن تؤثر على الصحة النفسية والانخراط في سلوكيات صحية؛ قد تساعد استراتيجيات التعامل المقترحة بعض الأشخاص على ضبط التوتر، لكنها ليست تدخلات علاجية.",
+          "takeaways": [
+            "تقدّم المقالة أدوات تواصُلية تستخدم الدعابة لصرف الانتباه أو التأقلم مع التعليقات المركزة على الوزن في المواقف الاجتماعية.",
+            "قد تقلل هذه الأساليب التوتر مؤقتًا لكنها ليست بديلاً عن الدعم المهني لحالات اضطرابات الأكل أو مشكلات الصحة النفسية.",
+            "ينبغي على القارئ مراعاة السلامة الشخصية والسياق الثقافي عند اختيار كيفية الرد على التعليقات المتطفلة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=holiday-weight-talk-at-thanksgiving-isn-t-funny-unless-you-want-i-5219e09544d3",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/holiday-weight-talk-at-thanksgiving-isn-t-funny-unless-you-want-i-5219e09544d3-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/holiday-weight-talk-at-thanksgiving-isn-t-funny-unless-you-want-i-5219e09544d3-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Advice piece suggests using humor to deflect unwanted weight and body comments at holiday meals.\nStory summary: A CNN feature recommends a light-hearted 'diet culture bingo' game as one strategy people can use to respond to intrusive or stigmatizing comments about weight and body size during holiday gatherings..\nCategory: social determinants / mental health and eating culture.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "later-born-generations-have-better-memory-and-lose-it-more-slowly-63dad79228d4",
+      "category": "healthy ageing / dementia epidemiology",
+      "sourceName": "nature.com",
+      "sourceUrl": "https://www.nature.com/articles/s41591-026-04758-z",
+      "sourceTitle": "Later-born generations have better memory and lose it more slowly",
+      "publishedAt": "2026-11-25",
+      "languages": {
+        "en": {
+          "title": "Later-born generations start old age with stronger memory and decline more slowly",
+          "summary": "A large longitudinal analysis (~219,000 people followed up to 30 years) reported in Nature Medicine found that more recently born cohorts enter older age with higher cognitive capacity and experience slower cognitive decline than earlier cohorts. The authors estimate this combined generational advantage can account for much of the observed fall in dementia incidence over recent decades.",
+          "whyItMatters": "If robust, cohort-level gains in cognitive reserve and slower decline could help explain falling dementia rates and point to population-level factors (education, health, environment) that influence brain ageing; however observational cohort trends cannot pinpoint specific causes.",
+          "takeaways": [
+            "The study analyzes long-term data spanning many birth cohorts and finds generational improvements in cognition and slower decline in later-born groups.",
+            "These are population-level associations; they do not prove which factors caused the improvements.",
+            "Understanding which social, medical or environmental changes drove the effect could inform dementia prevention strategies, but further causal research is needed.",
+            "Findings help contextualize declines in dementia incidence but do not change individual clinical recommendations."
+          ]
+        },
+        "es": {
+          "title": "Cohortes nacidas más recientemente comienzan la vejez con mejor memoria y un declive más lento",
+          "summary": "Un gran análisis longitudinal (~219.000 personas seguidas hasta 30 años) publicado en Nature Medicine encontró que las cohortes nacidas más recientemente llegan a la edad avanzada con mayor capacidad cognitiva y experimentan un declive cognitivo más lento que cohortes anteriores. Los autores estiman que esta ventaja generacional combinada podría explicar gran parte de la disminución observada en la incidencia de demencia en las últimas décadas.",
+          "whyItMatters": "Si los resultados son robustos, las mejoras a nivel de cohorte en la reserva cognitiva y un declive más lento podrían ayudar a explicar la caída en las tasas de demencia y señalar factores poblacionales (educación, salud, medio ambiente) que influyen en el envejecimiento cerebral; sin embargo, las tendencias observacionales en cohortes no permiten identificar causas específicas.",
+          "takeaways": [
+            "El estudio analiza datos a largo plazo que abarcan muchas cohortes de nacimiento y observa mejoras generacionales en la cognición y un declive más lento en los grupos nacidos más recientemente.",
+            "Se trata de asociaciones a nivel poblacional; no demuestran qué factores causaron las mejoras.",
+            "Comprender qué cambios sociales, médicos o ambientales provocaron el efecto podría orientar estrategias de prevención de la demencia, pero se necesita investigación causal adicional.",
+            "Los hallazgos ayudan a contextualizar la disminución de la incidencia de demencia, pero no modifican las recomendaciones clínicas individuales."
+          ]
+        },
+        "ru": {
+          "title": "Позднее рожденные поколения входят в пожилой возраст с лучшей памятью и более медленным снижением",
+          "summary": "Крупный продольный анализ (~219 000 человек, наблюдавшихся до 30 лет), опубликованный в Nature Medicine, показал, что более поздние по рождению когорты достигают старости с более высокой когнитивной способностью и испытывают более медленное когнитивное снижение по сравнению с прежними когортами. Авторы оценивают, что это комбинированное поколенческое преимущество может объяснять значительную часть наблюдаемого снижения заболеваемости деменцией за последние десятилетия.",
+          "whyItMatters": "Если данные устойчивы, прирост когнитивного резерва на уровне когорт и более медленное снижение могут помочь объяснить падение показателей деменции и указать на факторы на уровне населения (образование, здоровье, окружающая среда), влияющие на старение мозга; однако наблюдательные тенденции по когортам не позволяют установить конкретные причины.",
+          "takeaways": [
+            "В исследовании использованы долгосрочные данные, охватывающие множество когорт по годам рождения, и выявлены поколенческие улучшения когнитивных показателей и более медленное снижение у более поздних когорт.",
+            "Это ассоциации на популяционном уровне; они не доказывают, какие факторы стали причиной улучшений.",
+            "Понимание того, какие социальные, медицинские или экологические изменения вызвали эффект, может помочь в разработке мер по предупреждению деменции, но нужны дальнейшие каузальные исследования.",
+            "Результаты помогают объяснить снижение заболеваемости деменцией, но не изменяют клинические рекомендации для отдельных людей."
+          ]
+        },
+        "uk": {
+          "title": "Пізніші покоління входять у старість із кращою пам’яттю й повільнішим її погіршенням",
+          "summary": "Великий продольний аналіз (≈219 000 людей, спостереження до 30 років), опублікований у Nature Medicine, показав, що нещодавно народжені когорти вступають у старший вік з вищою когнітивною спроможністю і зазнають повільнішого когнітивного зниження, ніж ранні когорти. Автори оцінюють, що ця сукупна поколіннєва перевага може пояснити значну частину спостережуваного зниження захворюваності на деменцію за останні десятиліття.",
+          "whyItMatters": "Якщо це підтвердиться, когортивні прирости когнітивного резерву та повільніше зниження можуть допомогти пояснити падіння рівнів деменції й вказати на фактори на рівні населення (освіта, здоров’я, довкілля), які впливають на старіння мозку; однак спостережні когортивні тренди не дозволяють встановити конкретні причини.",
+          "takeaways": [
+            "Дослідження аналізує довготривалі дані багатьох когор і виявляє покращення когнітивних показників і повільніше зниження в пізніших поколінь.",
+            "Це асоціації на рівні населення; вони не доводять, які саме фактори спричинили покращення.",
+            "Розуміння того, які соціальні, медичні або екологічні зміни викликали ефект, могло б інформувати стратегії профілактики деменції, але потрібні додаткові каузальні дослідження.",
+            "Висновки допомагають інтерпретувати зниження захворюваності на деменцію, але не змінюють індивідуальні клінічні рекомендації."
+          ]
+        },
+        "fr": {
+          "title": "Les générations nées plus récemment commencent la vieillesse avec une mémoire plus solide et un déclin plus lent",
+          "summary": "Une vaste analyse longitudinale (≈219 000 personnes suivies jusqu'à 30 ans) rapportée dans Nature Medicine a trouvé que les cohortes nées plus récemment arrivent à l'âge avancé avec une capacité cognitive supérieure et subissent un déclin cognitif plus lent que les cohortes antérieures. Les auteurs estiment que cet avantage générationnel combiné peut expliquer une grande partie de la baisse observée de l'incidence de la démence au cours des dernières décennies.",
+          "whyItMatters": "Si cela est robuste, des gains au niveau des cohortes en réserve cognitive et un déclin plus lent pourraient aider à expliquer la baisse des taux de démence et pointer vers des facteurs populationnels (éducation, santé, environnement) influençant le vieillissement cérébral ; toutefois, les tendances observationnelles de cohortes ne permettent pas d'identifier des causes spécifiques.",
+          "takeaways": [
+            "L'étude analyse des données longues couvrant de nombreuses cohortes et relève des améliorations générationnelles de la cognition et un déclin plus lent dans les groupes nés plus récemment.",
+            "Il s'agit d'associations au niveau populationnel ; elles ne prouvent pas quels facteurs ont causé les améliorations.",
+            "Comprendre quelles modifications sociales, médicales ou environnementales ont produit l'effet pourrait éclairer des stratégies de prévention de la démence, mais des recherches causales supplémentaires sont nécessaires.",
+            "Les résultats aident à contextualiser la baisse de l'incidence de la démence, sans modifier les recommandations cliniques individuelles."
+          ]
+        },
+        "de": {
+          "title": "Jüngere Geburtsjahrgänge beginnen das Alter mit besserem Gedächtnis und langsameren Rückgängen",
+          "summary": "Eine große Längsschnittanalyse (~219.000 Personen, bis zu 30 Jahre Nachbeobachtung), berichtet in Nature Medicine, fand, dass später geborene Kohorten im höheren Lebensalter mit höherer kognitiver Leistungsfähigkeit starten und einen langsameren kognitiven Abbau zeigen als früher geborene Kohorten. Die Autorinnen und Autoren schätzen, dass dieser kombinierte generationsbezogene Vorteil einen großen Teil des beobachteten Rückgangs der Demenzinzidenz in den letzten Jahrzehnten erklären könnte.",
+          "whyItMatters": "Wenn sich die Ergebnisse als robust erweisen, könnten kohortenbezogene Zuwächse an kognitiver Reserve und langsamerer Abbau helfen, fallende Demenzraten zu erklären und auf bevölkerungsbezogene Faktoren (Bildung, Gesundheit, Umwelt) hinweisen, die das Gehirnalter beeinflussen; beobachtende Kohorten-Trends können jedoch keine spezifischen Ursachen nachweisen.",
+          "takeaways": [
+            "Die Studie wertet langfristige Daten über viele Geburtskohorten aus und findet generationsbezogene Verbesserungen der Kognition sowie langsameren Abbau in später geborenen Gruppen.",
+            "Es handelt sich um Assoziationen auf Bevölkerungsebene; sie beweisen nicht, welche Faktoren die Verbesserungen verursacht haben.",
+            "Zu verstehen, welche sozialen, medizinischen oder Umweltveränderungen den Effekt bewirkt haben, könnte Strategien zur Demenzprävention informieren, aber dafür sind zusätzliche ursachenbegründende Studien erforderlich.",
+            "Die Ergebnisse helfen, Rückgänge der Demenzinzidenz einzuordnen, ändern jedoch keine individuellen klinischen Empfehlungen."
+          ]
+        },
+        "pt-br": {
+          "title": "Gerações mais novas entram na velhice com memória mais forte e declínio mais lento",
+          "summary": "Uma grande análise longitudinal (~219.000 pessoas acompanhadas por até 30 anos), reportada na Nature Medicine, encontrou que coortes nascidas mais recentemente chegam à idade avançada com capacidade cognitiva mais alta e apresentam declínio cognitivo mais lento do que coortes anteriores. Os autores estimam que essa vantagem geracional combinada pode explicar grande parte da queda observada na incidência de demência nas últimas décadas.",
+          "whyItMatters": "Se robustos, ganhos a nível de coorte em reserva cognitiva e declínio mais lento poderiam ajudar a explicar a queda nas taxas de demência e indicar fatores populacionais (educação, saúde, meio ambiente) que influenciam o envelhecimento cerebral; no entanto, tendências observacionais de coortes não identificam causas específicas.",
+          "takeaways": [
+            "O estudo analisa dados de longo prazo cobrindo muitas coortes de nascimento e encontra melhorias geracionais na cognição e declínio mais lento em grupos nascidos mais recentemente.",
+            "São associações em nível populacional; não provam quais fatores causaram as melhorias.",
+            "Entender quais mudanças sociais, médicas ou ambientais impulsionaram o efeito poderia orientar estratégias de prevenção da demência, mas são necessárias pesquisas causais adicionais.",
+            "As descobertas ajudam a contextualizar a queda na incidência de demência, mas não alteram recomendações clínicas individuais."
+          ]
+        },
+        "hu": {
+          "title": "Későbbi nemzedékek erősebb memóriával lépnek az időskorba és lassabban hanyatlanak",
+          "summary": "A Nature Medicine-ben közölt nagyszabású longitudinális elemzés (~219 000 embert követve akár 30 évig) azt találta, hogy a később született kohorszok magasabb kognitív kapacitással lépnek az időskorba és lassabb kognitív hanyatlást tapasztalnak, mint a korábbi kohorszok. A szerzők becslése szerint ez a generációs előny nagyrészt magyarázhatja a demencia előfordulásának több évtizedes csökkenését.",
+          "whyItMatters": "Ha megerősítik, a kohorszszintű kognitív tartalék növekedése és a lassabb hanyatlás hozzájárulhat a demencia arányainak csökkenésének magyarázatához, és rámutathat olyan népességszintű tényezőkre (oktatás, egészség, környezet), amelyek befolyásolják az agy öregedését; ugyanakkor a megfigyeléses kohorsztrendek nem tudják egyértelműen azonosítani az okozó tényezőket.",
+          "takeaways": [
+            "A tanulmány hosszú távú adatokat elemez több születési kohorszon át, és generációs javulást talál a kognitív teljesítményben és későbbi hanyatlásban a később születetteknél.",
+            "Ezek népességszintű összefüggések; nem bizonyítják, mely tényezők okozták a javulást.",
+            "Annak megismerése, hogy mely társadalmi, egészségügyi vagy környezeti változások vezettek az effektushoz, segíthet a demenciamegelőzés irányításában, de további ok-okozati kutatások szükségesek.",
+            "Az eredmények segítenek kontextusba helyezni a demencia előfordulásának csökkenését, de nem változtatják meg az egyéni klinikai ajánlásokat."
+          ]
+        },
+        "ar": {
+          "title": "الأجيال المولودة لاحقًا تدخل الشيخوخة بذاكرة أقوى وتتراجع إدراكياً بشكل أبطأ",
+          "summary": "أظهرت مراجعة طولية كبيرة نُشرت في Nature Medicine (حوالي 219,000 شخص تمت متابعتهم حتى 30 سنة) أن الفئات المولودة حديثًا تدخل مرحلة الشيخوخة بقدرة إدراكية أعلى وتُظهر تراجعًا إدراكيًا أبطأ مقارنة بالفئات الأقدم سنًا. يقدّر المؤلفون أن هذا التفوق الجيلي المجمّع قد يفسّر جزئيًا الانخفاض الملحوظ في معدل انتشار الخرف خلال العقود الأخيرة.",
+          "whyItMatters": "إذا كانت النتائج متينة، فقد يوضح ازدياد الاحتياطي المعرفي على مستوى الجماعة والتراجع الأبطأ أسباب انخفاض معدلات الخرف ويشير إلى عوامل على مستوى السكان (التعليم، الصحة، البيئة) التي تؤثر على شيخوخة الدماغ؛ ومع ذلك لا تستطيع اتجاهات الدراسات الرصدية تحديد الأسباب المحددة.",
+          "takeaways": [
+            "تحلل الدراسة بيانات طويلة المدى تغطي أجيالاً متعددة وتجد تحسّناً جيلياً في القدرات المعرفية وتراجعاً أبطأ لدى المولودين لاحقًا.",
+            "هذه ارتباطات على مستوى السكان؛ ولا تثبت أي عوامل سببية محددة.",
+            "فهم التغيرات الاجتماعية أو الطبية أو البيئية المسؤولة قد يساعد في توجيه استراتيجيات الوقاية من الخرف، لكن هناك حاجة إلى أبحاث سببية لاحقة.",
+            "تساعد النتائج في وضع انخفاض معدلات الخرف في سياقه، لكنها لا تغيّر التوصيات السريرية للأفراد."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=later-born-generations-have-better-memory-and-lose-it-more-slowly-63dad79228d4",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/later-born-generations-have-better-memory-and-lose-it-more-slowly-63dad79228d4-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/later-born-generations-have-better-memory-and-lose-it-more-slowly-63dad79228d4-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Later-born generations start old age with stronger memory and decline more slowly.\nStory summary: A large longitudinal analysis (~219,000 people followed up to 30 years) reported in Nature Medicine found that more recently born cohorts enter older age with higher cognitive capacity and experience slower cognitive decline than earlier cohorts. The authors estimate this combined generational advantage can account for much of the observed fall in dementia incidence over recent decades..\nCategory: healthy ageing / dementia epidemiology.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "how-ai-can-transform-the-future-of-radiation-therapy-f2e1022e465a",
+      "category": "AI in cancer treatment / medical physics",
+      "sourceName": "news.ki.se",
+      "sourceUrl": "https://news.ki.se/how-ai-can-transform-the-future-of-radiation-therapy",
+      "sourceTitle": "How AI can transform the future of radiation therapy",
+      "publishedAt": "25 November, 2026",
+      "languages": {
+        "en": {
+          "title": "Researchers outline aims to speed and personalize radiation therapy using AI",
+          "summary": "A Karolinska-affiliated researcher describes efforts to apply artificial intelligence to automate planning steps in clinical radiation therapy, with goals of reducing manual workload, shortening planning time, and tailoring dose distributions to individual patients.",
+          "whyItMatters": "AI could streamline technical tasks in radiotherapy and free staff time for clinical decision-making, but real-world benefits, safety, and regulatory acceptance depend on robust validation and clinical trials.",
+          "takeaways": [
+            "Projects are focused on automating and accelerating parts of radiotherapy planning rather than replacing clinicians.",
+            "Potential benefits include faster treatment planning and more individualized dose distributions, but implementation requires careful validation.",
+            "Adoption will depend on demonstrating that AI-based workflows are as safe and effective as current standards and on addressing clinical, regulatory and workforce issues."
+          ]
+        },
+        "es": {
+          "title": "Investigadores describen objetivos para acelerar y personalizar la radioterapia usando IA",
+          "summary": "Un investigador vinculado a Karolinska explica los esfuerzos por aplicar inteligencia artificial para automatizar pasos de planificación en la radioterapia clínica, con metas de reducir la carga de trabajo manual, acortar el tiempo de planificación y adaptar las distribuciones de dosis a pacientes individuales.",
+          "whyItMatters": "La IA podría optimizar tareas técnicas en radioterapia y liberar tiempo del personal para la toma de decisiones clínicas, pero los beneficios reales, la seguridad y la aceptación regulatoria dependen de una validación sólida y ensayos clínicos.",
+          "takeaways": [
+            "Los proyectos se centran en automatizar y acelerar partes de la planificación de radioterapia, no en sustituir a los clínicos.",
+            "Los beneficios potenciales incluyen planificación más rápida y distribuciones de dosis más individualizadas, pero la implementación requiere validación cuidadosa.",
+            "La adopción dependerá de demostrar que los flujos de trabajo basados en IA son tan seguros y efectivos como los estándares actuales y de abordar cuestiones clínicas, regulatorias y de personal."
+          ]
+        },
+        "ru": {
+          "title": "Исследователи обозначают цели по ускорению и персонализации радиотерапии с помощью ИИ",
+          "summary": "Исследователь, связанный с Каролинским институтом, описывает усилия по применению искусственного интеллекта для автоматизации этапов планирования в клинической радиотерапии с целью уменьшения ручной работы, сокращения времени планирования и адаптации распределения дозы для отдельных пациентов.",
+          "whyItMatters": "ИИ может упростить технические задачи в радиотерапии и освободить время персонала для клинических решений, но реальные выгоды, безопасность и регуляторное признание зависят от надежной валидации и клинических испытаний.",
+          "takeaways": [
+            "Проекты сосредоточены на автоматизации и ускорении отдельных этапов планирования радиотерапии, а не на замене клиницистов.",
+            "Потенциальные преимущества включают более быстрое планирование и более индивидуализированное распределение дозы, но внедрение требует тщательной валидации.",
+            "Принятие будет зависеть от подтверждения, что рабочие процессы на базе ИИ столь же безопасны и эффективны, как действующие стандарты, а также от решения клинических, регуляторных и кадровых вопросов."
+          ]
+        },
+        "uk": {
+          "title": "Дослідники окреслюють цілі щодо прискорення та персоналізації радіотерапії з допомогою ШІ",
+          "summary": "Дослідник, пов'язаний з Каралінським інститутом, описує зусилля з застосування штучного інтелекту для автоматизації етапів планування в клінічній радіотерапії з метою зменшення ручного навантаження, скорочення часу планування та адаптації розподілу дози до окремих пацієнтів.",
+          "whyItMatters": "ШІ може спростити технічні завдання в радіотерапії і звільнити час персоналу для клінічних рішень, але реальні переваги, безпека та регуляторне визнання залежать від ретельної валідації і клінічних випробувань.",
+          "takeaways": [
+            "Проєкти зосереджені на автоматизації та прискоренні частин процесу планування радіотерапії, а не на заміні клініцистів.",
+            "Потенційні переваги включають швидше планування лікування та більш індивідуалізовані розподіли дози, але впровадження потребує ретельної валідації.",
+            "Прийняття залежатиме від демонстрації, що робочі процеси на основі ШІ є такою ж безпечними та ефективними, як існуючі стандарти, а також від вирішення клінічних, регуляторних і кадрових питань."
+          ]
+        },
+        "fr": {
+          "title": "Des chercheurs exposent des objectifs pour accélérer et personnaliser la radiothérapie grâce à l'IA",
+          "summary": "Un chercheur affilié au Karolinska décrit des efforts pour appliquer l'intelligence artificielle à l'automatisation des étapes de planification en radiothérapie clinique, visant à réduire la charge de travail manuelle, raccourcir le temps de planification et adapter les distributions de dose aux patients individuellement.",
+          "whyItMatters": "L'IA pourrait rationaliser des tâches techniques en radiothérapie et libérer du temps pour la prise de décision clinique, mais les bénéfices réels, la sécurité et l'acceptation réglementaire dépendent d'une validation robuste et d'essais cliniques.",
+          "takeaways": [
+            "Les projets visent à automatiser et accélérer des parties de la planification en radiothérapie plutôt qu'à remplacer les cliniciens.",
+            "Les avantages potentiels incluent une planification plus rapide et des distributions de dose plus individualisées, mais la mise en œuvre exige une validation soigneuse.",
+            "L'adoption dépendra de la démonstration que les flux de travail basés sur l'IA sont aussi sûrs et efficaces que les normes actuelles, et de la gestion des enjeux cliniques, réglementaires et relatifs aux effectifs."
+          ]
+        },
+        "de": {
+          "title": "Forscher skizzieren Ziele zur Beschleunigung und Personalisation der Strahlentherapie mithilfe von KI",
+          "summary": "Ein an der Karolinska-Institution tätiger Forscher beschreibt Bemühungen, künstliche Intelligenz zur Automatisierung von Planungsschritten in der klinischen Strahlentherapie einzusetzen, mit dem Ziel, manuelle Arbeitsbelastung zu reduzieren, Planungszeiten zu verkürzen und Dosisverteilungen besser an einzelne Patientinnen und Patienten anzupassen.",
+          "whyItMatters": "KI könnte technische Aufgaben in der Strahlentherapie vereinfachen und Personal zeitlich für klinische Entscheidungen entlasten, doch reale Nutzen, Sicherheit und regulatorische Akzeptanz hängen von robuster Validierung und klinischen Studien ab.",
+          "takeaways": [
+            "Die Projekte zielen darauf ab, Teile der Strahlentherapieplanung zu automatisieren und zu beschleunigen, nicht darauf, Kliniker zu ersetzen.",
+            "Mögliche Vorteile sind schnellere Behandlungsplanung und individuellere Dosisverteilungen, aber die Implementierung erfordert sorgfältige Validierung.",
+            "Die Einführung hängt davon ab, nachzuweisen, dass KI-gestützte Abläufe genauso sicher und effektiv sind wie aktuelle Standards, und davon, klinische, regulatorische und personelle Fragen zu klären."
+          ]
+        },
+        "pt-br": {
+          "title": "Pesquisadores descrevem objetivos para acelerar e personalizar a radioterapia usando IA",
+          "summary": "Um pesquisador afiliado à Karolinska descreve esforços para aplicar inteligência artificial na automação de etapas de planejamento na radioterapia clínica, com metas de reduzir o trabalho manual, encurtar o tempo de planejamento e ajustar as distribuições de dose a cada paciente.",
+          "whyItMatters": "A IA poderia simplificar tarefas técnicas na radioterapia e liberar tempo da equipe para decisões clínicas, mas benefícios reais, segurança e aceitação regulatória dependem de validação robusta e de ensaios clínicos.",
+          "takeaways": [
+            "Os projetos focam em automatizar e acelerar partes do planejamento da radioterapia, e não em substituir os clínicos.",
+            "Benefícios potenciais incluem planejamento de tratamento mais rápido e distribuições de dose mais individualizadas, mas a implementação exige validação cuidadosa.",
+            "A adoção dependerá de demonstrar que fluxos de trabalho baseados em IA são tão seguros e eficazes quanto os padrões atuais e de abordar questões clínicas, regulatórias e de força de trabalho."
+          ]
+        },
+        "hu": {
+          "title": "Kutatók célkitűzései: az AI gyorsíthatja és személyre szabhatja a sugárkezelés tervezését",
+          "summary": "Egy Karolinska-kapcsolódású kutató ismerteti azokat az erőfeszítéseket, amelyek mesterséges intelligenciát kívánnak alkalmazni a klinikai sugárterápia tervezési lépéseinek automatizálására, azzal a céllal, hogy csökkentsék a kézi munkát, rövidítsék a tervezési időt és egyénre szabják a dózeloszlásokat.",
+          "whyItMatters": "Az AI egyszerűsítheti a sugárterápiás technikai feladatokat és felszabadíthatja a személyzet idejét a klinikai döntéshozatalra, de a valós előnyök, a biztonság és a szabályozási elfogadás erős validáláson és klinikai vizsgálatokon múlnak.",
+          "takeaways": [
+            "A projektek elsősorban a sugárterápia tervezésének automatizálására és gyorsítására fókuszálnak, nem a klinikusok helyettesítésére.",
+            "Potenciális előnyök a gyorsabb kezeléstervezés és a személyre szabottabb dózeloszlások, de a bevezetés gondos validálást igényel.",
+            "Az elfogadottság attól függ, hogy az AI-alapú munkafolyamatok biztonságosak és hatékonyak-e a jelenlegi szabványokkal, valamint a klinikai, szabályozási és munkavállalói kérdések kezelésétől."
+          ]
+        },
+        "ar": {
+          "title": "باحثون يحددون أهدافًا لتسريع وتخصيص العلاج الإشعاعي باستخدام الذكاء الاصطناعي",
+          "summary": "يصف باحث مرتبط بجامعة كارولينسكا جهود تطبيق الذكاء الاصطناعي لأتمتة خطوات التخطيط في العلاج الإشعاعي السريري، بهدف تقليل العبء اليدوي، وتقليص وقت التخطيط، وتفصيل توزيع الجرعات ليتناسب مع كل مريض على حدة.",
+          "whyItMatters": "قد يبسط الذكاء الاصطناعي المهام التقنية في العلاج الإشعاعي ويُتيح وقتًا للطاقم لاتخاذ قرارات سريرية، لكن المنافع الواقعية والسلامة والقبول التنظيمي تعتمد على تحقق قوي وتجارب سريرية.",
+          "takeaways": [
+            "تركز المشاريع على أتمتة وتسريع أجزاء من تخطيط العلاج الإشعاعي بدلاً من استبدال الأطباء.",
+            "تشمل الفوائد المحتملة تخطيط علاج أسرع وتوزيعات جرعات أكثر تكييفًا، لكن التطبيق يتطلب تحققًا دقيقًا.",
+            "سيعتمد التبنّي على إثبات أن الإجراءات المعتمدة على الذكاء الاصطناعي آمنة وفعالة مثل المعايير الحالية، ومعالجة قضايا سريرية وتنظيمية وقوى عاملة."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=how-ai-can-transform-the-future-of-radiation-therapy-f2e1022e465a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/how-ai-can-transform-the-future-of-radiation-therapy-f2e1022e465a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/how-ai-can-transform-the-future-of-radiation-therapy-f2e1022e465a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Researchers outline aims to speed and personalize radiation therapy using AI.\nStory summary: A Karolinska-affiliated researcher describes efforts to apply artificial intelligence to automate planning steps in clinical radiation therapy, with goals of reducing manual workload, shortening planning time, and tailoring dose distributions to individual patients..\nCategory: AI in cancer treatment / medical physics.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
+    {
+      "id": "less-intensive-follow-up-of-lung-nodules-may-result-in-larger-can-cbdf4c17ee4a",
+      "category": "cancer screening / clinical trial",
+      "sourceName": "medpagetoday.com",
+      "sourceUrl": "https://www.medpagetoday.com/hematologyoncology/lungcancer/124025",
+      "sourceTitle": "Less Intensive Follow-Up of Lung Nodules May Result in Larger Cancers",
+      "publishedAt": "Tue, 24 Nov 2026 17:00:00 -0500",
+      "languages": {
+        "en": {
+          "title": "Pragmatic cluster randomized trial found less intensive lung nodule monitoring may lead to larger cancers",
+          "summary": "A cluster randomized pragmatic study compared less intensive versus more intensive follow-up strategies for newly detected small lung nodules and failed to demonstrate noninferiority; the less intensive approach may be associated with larger cancers at diagnosis.",
+          "whyItMatters": "The trial raises concerns about reducing surveillance intensity for small lung nodules without clear evidence that less monitoring is safe; screening and follow-up policies need careful balancing of harms, benefits and resource use.",
+          "takeaways": [
+            "A pragmatic, cluster randomized design tested follow-up intensity for small lung nodules and did not show that less intensive monitoring was noninferior.",
+            "Less intensive follow-up could result in larger tumors at diagnosis, highlighting potential trade-offs in surveillance protocols.",
+            "Policy or guideline changes to reduce imaging frequency should consider these trial results and patient-centered risk assessment."
+          ]
+        },
+        "es": {
+          "title": "Ensayo pragmático aleatorizado por conglomerados encontró que un seguimiento menos intensivo de nódulos pulmonares puede dar lugar a cánceres de mayor tamaño",
+          "summary": "Un estudio pragmático aleatorizado por conglomerados comparó estrategias de seguimiento menos intensivas frente a más intensivas para nódulos pulmonares pequeños recién detectados y no logró demostrar no inferioridad; el enfoque menos intensivo puede asociarse con tumores más grandes en el momento del diagnóstico.",
+          "whyItMatters": "El ensayo plantea inquietudes sobre reducir la intensidad de la vigilancia de nódulos pulmonares pequeños sin evidencia clara de seguridad; las políticas de cribado y seguimiento deben equilibrar con cuidado daños, beneficios y uso de recursos.",
+          "takeaways": [
+            "Un diseño pragmático aleatorizado por conglomerados evaluó la intensidad del seguimiento de nódulos pulmonares pequeños y no mostró que el seguimiento menos intensivo fuera no inferior.",
+            "El seguimiento menos intensivo podría resultar en tumores más grandes al diagnóstico, lo que subraya compensaciones potenciales en los protocolos de vigilancia.",
+            "Los cambios en políticas o guías para reducir la frecuencia de imágenes deberían tener en cuenta estos resultados de ensayo y una evaluación del riesgo centrada en el paciente."
+          ]
+        },
+        "ru": {
+          "title": "Прагматическое кластерное рандомизированное исследование показало, что менее интенсивное наблюдение за легочными узелками может приводить к более крупным опухолям",
+          "summary": "Прагматическое кластерное рандомизированное исследование сравнило менее интенсивные и более интенсивные стратегии наблюдения за недавно выявленными небольшими легочными узелками и не смогло доказать не ниже эффективность менее интенсивного подхода; менее интенсивное наблюдение может быть связано с обнаружением более крупных опухолей.",
+          "whyItMatters": "Исследование вызывает опасения по поводу сокращения интенсивности наблюдения за небольшими легочными узелками без убедительных доказательств безопасности; политика скрининга и схемы последующего наблюдения должны тщательно учитывать соотношение вреда и пользы и использование ресурсов.",
+          "takeaways": [
+            "Прагматическое кластерное рандомизированное исследование проверяло интенсивность наблюдения за мелкими легочными узелками и не показало, что менее интенсивное наблюдение не хуже.",
+            "Менее интенсивное наблюдение может привести к выявлению более крупных опухолей на момент диагноза, что подчеркивает возможные компромиссы в протоколах наблюдения.",
+            "Изменения в руководствах или политике по сокращению частоты обследований должны учитывать результаты этого испытания и оценку риска, ориентированную на пациента."
+          ]
+        },
+        "uk": {
+          "title": "Практичне кластерне рандомізоване дослідження виявило, що менш інтенсивний нагляд за легеневими вузликами може призводити до більш великих пухлин",
+          "summary": "Кластерне рандомізоване прагматичне дослідження порівнювало менш інтенсивні та більш інтенсивні стратегії нагляду за недавно виявленими дрібними легеневими вузликами і не продемонструвало непогіршення; менш інтенсивний підхід може бути пов’язаний із більшими пухлинами при діагнозі.",
+          "whyItMatters": "Дослідження викликає занепокоєння щодо зниження інтенсивності спостереження за дрібними легеневими вузликами без чітких доказів безпеки меншого нагляду; політика скринінгу й нагляду повинна ретельно зважувати шкоду, користь та використання ресурсів.",
+          "takeaways": [
+            "Прагматичне кластерне рандомізоване дослідження протестувало інтенсивність нагляду за дрібними легеневими вузликами і не показало непогіршення при менш інтенсивному підході.",
+            "Менш інтенсивний нагляд може призвести до виявлення більших пухлин, підкреслюючи потенційні компроміси в протоколах спостереження.",
+            "Зміни політики або рекомендацій щодо скорочення частоти візуалізацій мають враховувати ці результати та оцінку ризику, орієнтовану на пацієнта."
+          ]
+        },
+        "fr": {
+          "title": "Un essai pragmatique randomisé en grappes a montré qu'une surveillance moins intensive des nodules pulmonaires peut conduire à des cancers plus volumineux",
+          "summary": "Une étude pragmatique randomisée en grappes a comparé des stratégies de suivi moins intensives et plus intensives pour des nodules pulmonaires petits nouvellement détectés et n'a pas démontré la non‑infériorité ; l'approche moins intensive pourrait être associée à des cancers de plus grande taille au moment du diagnostic.",
+          "whyItMatters": "L'essai soulève des inquiétudes quant à la réduction de l'intensité de surveillance des petits nodules pulmonaires sans preuves claires que moins de suivi est sûr ; les politiques de dépistage et de suivi doivent équilibrer soigneusement les préjudices, les bénéfices et l'utilisation des ressources.",
+          "takeaways": [
+            "Un essai pragmatique randomisé en grappes a testé l'intensité du suivi pour les petits nodules pulmonaires et n'a pas montré que le suivi moins intensif était non inférieur.",
+            "Un suivi moins intensif pourrait aboutir à des tumeurs plus volumineuses au diagnostic, mettant en évidence des compromis potentiels dans les protocoles de surveillance.",
+            "Les changements de politique ou de lignes directrices visant à réduire la fréquence d'imagerie doivent prendre en compte ces résultats et une évaluation des risques centrée sur le patient."
+          ]
+        },
+        "de": {
+          "title": "Pragmatische Cluster-Randomisierte Studie: Weniger intensive Nachsorge von Lungenknoten kann zu größeren Tumoren führen",
+          "summary": "Eine pragmatische, cluster-randomisierte Studie verglich weniger intensive mit intensiverer Nachsorge bei neu entdeckten kleinen Lungenknoten und konnte Nichtunterlegenheit nicht nachweisen; der weniger intensive Ansatz könnte mit größeren Tumoren bei Diagnosestellung einhergehen.",
+          "whyItMatters": "Die Studie wirft Bedenken auf, die Überwachungsintensität für kleine Lungenknoten ohne klare Evidenz für Sicherheit zu reduzieren; Screening- und Nachsorge-Politiken müssen Nutzen, Schäden und Ressourceneinsatz sorgfältig abwägen.",
+          "takeaways": [
+            "Ein pragmatisches, cluster-randomisiertes Design testete die Intensität der Nachsorge bei kleinen Lungenknoten und zeigte keine Nichtunterlegenheit für die weniger intensive Überwachung.",
+            "Weniger intensive Nachsorge könnte zu größeren Tumoren bei Diagnosestellung führen, was mögliche Zielkonflikte in Überwachungsprotokollen aufzeigt.",
+            "Politische oder Leitlinienänderungen zur Reduktion von Bildgebungshäufigkeit sollten diese Studienergebnisse und individuelle Risikobewertungen beachten."
+          ]
+        },
+        "pt-br": {
+          "title": "Ensaio pragmático randomizado por cluster indica que acompanhamento menos intensivo de nódulos pulmonares pode resultar em cânceres maiores",
+          "summary": "Um estudo pragmático, randomizado por cluster, comparou estratégias de acompanhamento menos intensivo versus mais intensivo para nódulos pulmonares pequenos recém-detectados e não demonstrou não-inferioridade; a abordagem menos intensiva pode estar associada a tumores maiores no momento do diagnóstico.",
+          "whyItMatters": "O ensaio levanta preocupações sobre reduzir a intensidade de vigilância para nódulos pulmonares pequenos sem evidência clara de que menos acompanhamento seja seguro; políticas de rastreamento e acompanhamento precisam equilibrar cuidadosamente danos, benefícios e uso de recursos.",
+          "takeaways": [
+            "Um desenho pragmático, randomizado por cluster testou a intensidade do acompanhamento de pequenos nódulos pulmonares e não mostrou que o monitoramento menos intensivo fosse não-inferior.",
+            "Acompanhamento menos intensivo pode resultar em tumores maiores ao diagnóstico, destacando trade-offs potenciais em protocolos de vigilância.",
+            "Mudanças em políticas ou diretrizes para reduzir a frequência de imagens devem considerar estes resultados e a avaliação de risco centrada no paciente."
+          ]
+        },
+        "hu": {
+          "title": "Egy pragmatikus klaszter-randomizált vizsgálat szerint az enyhébb tüdőcsomó-ellenőrzés nagyobb daganatokhoz vezethet",
+          "summary": "Egy klaszter-randomizált pragmatikus tanulmány összehasonlította az újonnan észlelt kis tüdőcsomók kevésbé intenzív és intenzívebb követését, és nem tudta igazolni a kevésbé intenzív megközelítés nem alacsonyabb hatékonyságát; a kevésbé intenzív követés összefüggésbe hozható nagyobb daganatokkal a diagnóziskor.",
+          "whyItMatters": "A vizsgálat aggályokat vet fel a kis tüdőcsomók megfigyelésének intenzitásának csökkentésével kapcsolatban anélkül, hogy egyértelmű bizonyíték lenne a biztonságosságra; a szűrési és követési irányelveknek gondosan kell mérlegelniük a kárt, az előnyt és az erőforrás-használatot.",
+          "takeaways": [
+            "Egy pragmatikus, klaszter-randomizált vizsgálat azonosította a követés intenzitásának tesztelését kis tüdőcsomóknál, és nem igazolta, hogy a kevésbé intenzív monitoring nem alacsonyabb hatékonyságú.",
+            "A kevésbé intenzív követés nagyobb tumorokhoz vezethet a diagnóziskor, ami rávilágít a megfigyelési protokollok lehetséges kompromisszumaira.",
+            "A képalkotási gyakoriság csökkentésére irányuló irányelvváltoztatásokat ezekre a vizsgálati eredményekre és a betegközpontú kockázatértékelésre alapozva kell megfontolni."
+          ]
+        },
+        "ar": {
+          "title": "تجربة عشوائية عنقودية براغماتية وجدت أن المتابعة الأقل كثافة للعقد الرئوية قد تؤدي إلى أورام أكبر",
+          "summary": "قارنة دراسة عشوائية عنقودية براغماتية استراتيجيات متابعة أقل كثافة مقابل أكثر كثافة للعقد الرئوية الصغيرة المكتشفة حديثًا وفشلت في إثبات عدم الرداءة للمتابعة الأقل كثافة؛ وقد تكون المتابعة الأقل مرتبطة بوجود أورام أكبر عند التشخيص.",
+          "whyItMatters": "تثير التجربة مخاوف بشأن خفض شدة المراقبة للعقد الرئوية الصغيرة دون دليل واضح على أن المتابعة الأقل أمانًا؛ يجب أن توازن سياسات الفحص والمتابعة بعناية بين الأضرار والفوائد واستخدام الموارد.",
+          "takeaways": [
+            "اختبرت الدراسة تصميمًا براغماتيًا عشوائيًا عنقوديًا شدة المتابعة للعقد الرئوية الصغيرة ولم تظهر أن المتابعة الأقل كثافة غير أدنى فعالية.",
+            "قد تؤدي المتابعة الأقل كثافة إلى اكتشاف أورام أكبر عند التشخيص، مما يبرز المقايضات المحتملة في بروتوكولات المراقبة.",
+            "ينبغي أن تأخذ التغييرات في السياسات أو الإرشادات لتقليل تكرار التصوير هذه النتائج التجريبية ومبادئ تقييم الخطر المرتكزة على المريض في الحسبان."
+          ]
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "articleUrl": "https://www.calorie-bank.com/nutrition-news.html?article=less-intensive-follow-up-of-lung-nodules-may-result-in-larger-can-cbdf4c17ee4a",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/less-intensive-follow-up-of-lung-nodules-may-result-in-larger-can-cbdf4c17ee4a-news.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/less-intensive-follow-up-of-lung-nodules-may-result-in-larger-can-cbdf4c17ee4a-news.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality editorial image for a consumer nutrition news story on the Calorie Bank Credit website.\nUse a clean, modern, realistic-but-polished style suitable for health science and nutrition readers.\nStory title: Pragmatic cluster randomized trial found less intensive lung nodule monitoring may lead to larger cancers.\nStory summary: A cluster randomized pragmatic study compared less intensive versus more intensive follow-up strategies for newly detected small lung nodules and failed to demonstrate noninferiority; the less intensive approach may be associated with larger cancers at diagnosis..\nCategory: cancer screening / clinical trial.\nThe image should visually relate to the story using food, grocery, kitchen, research, lifestyle, or calorie-tracking cues where appropriate.\nAvoid readable text, logos, app screenshots, watermarks, medical devices, pills as the main subject unless the story is specifically about supplements, before-and-after bodies, body shaming, dramatic illness imagery, or exaggerated health claims.\nLandscape 3:2 composition, bright natural light, strong subject clarity, premium website thumbnail quality."
+    },
     {
       "id": "flu-vaccine-might-help-stave-off-early-signs-of-alzheimer-s-ff5dd35e7cd8",
       "category": "healthy ageing",
@@ -141387,6 +142252,270 @@
     }
   ],
   "motivationalStories": [
+    {
+      "id": "2026-11-25-motivation-1-s1",
+      "category": "calorie_bank_credit",
+      "languages": {
+        "en": {
+          "title": "Plan one meal ahead",
+          "story": "Maya started packing lunches twice a week to avoid last-minute choices. She used Calorie Bank Credit to note ingredients and portion sizes before cooking, so she felt less rushed at noon. Planning helped her balance meals across the day without aiming for perfection — she made more mindful swaps and remembered snacks. When she revisited the log, she saw which meals kept her full longer and which left her hungry, and used that info to tweak recipes. The habit of planning and pre-logging made tracking simple and steady, one small step at a time.",
+          "habit": "Pre-log one meal each week.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Planea una comida",
+          "story": "Maya empezó a preparar almuerzos dos veces por semana para evitar decisiones apresuradas. Usó Calorie Bank Credit para anotar ingredientes y tamaños de ración antes de cocinar, así no se sentía agobiada al mediodía. Planificar le ayudó a equilibrar el día sin buscar la perfección: hizo cambios más conscientes y recordó los tentempiés. Al revisar sus registros vio qué comidas la mantenían satisfecha más tiempo y cuáles no, y ajustó recetas. El hábito de planificar y pre-registrar hizo que el seguimiento fuera sencillo y constante.",
+          "habit": "Pre-registra una comida a la semana.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Запланируйте один приём",
+          "story": "Маша начала собирать обеды два раза в неделю, чтобы не принимать решения в последнюю минуту. Она пользовалась Calorie Bank Credit, чтобы записывать ингредиенты и размеры порций перед готовкой, и в обед она уже не торопилась. Планирование помогло ей равномерно распределять приёмы пищи в течение дня без стремления к идеалу — она делала более осознанные замены и помнила про перекусы. Просматривая записи, Маша увидела, какие блюда долго насыщают, а какие — нет, и немного корректировала рецепты. Привычка планировать и предварительно записывать сделала ведение журнала проще и стабильнее.",
+          "habit": "Предварительно записывайте один приём пищи в неделю.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Заплануйте одну їжу",
+          "story": "Майя почала готувати обіди двічі на тиждень, щоб не доводилося ухвалювати рішення в останню хвилину. Вона користувалася Calorie Bank Credit, щоб записувати інгредієнти й розміри порцій до приготування, тож удень не поспішала. Планування допомогло їй рівномірніше розподілити прийоми їжі без прагнення до ідеалу — вона робила продумані заміни і пам’ятала про перекуси. Переглядаючи записи, Майя бачила, які страви довше насичують, а які — ні, і трохи коригувала рецепти. Звичка планувати й попередньо записувати зробила відстеження простішим і стабільнішим.",
+          "habit": "Попередньо записуйте один прийом їжі на тиждень.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Planifiez un repas",
+          "story": "Maya a commencé à préparer ses déjeuners deux fois par semaine pour éviter les choix de dernière minute. Elle a utilisé Calorie Bank Credit pour noter ingrédients et portions avant de cuisiner, ce qui laissait ses pauses déjeuner moins stressées. Planifier lui a permis d'équilibrer ses repas sur la journée sans viser la perfection — elle a fait des substitutions plus conscientes et pensé aux encas. En relisant ses enregistrements, elle a vu quels repas la tenaient rassasiée plus longtemps et lesquels moins, puis a ajusté quelques recettes. L'habitude de planifier et préenregistrer a rendu le suivi simple et régulier.",
+          "habit": "Préenregistrez un repas par semaine.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Plane eine Mahlzeit",
+          "story": "Maya begann, zweimal pro Woche ihr Mittagessen vorzubereiten, um nicht in letzter Minute Entscheidungen treffen zu müssen. Sie nutzte Calorie Bank Credit, um Zutaten und Portionsgrößen vor dem Kochen zu notieren, sodass die Mittagszeit entspannter wurde. Durch das Planen konnte sie ihre Mahlzeiten über den Tag ausbalancieren, ohne nach Perfektion zu streben — sie traf bewusstere Ersatzentscheidungen und dachte an Snacks. Beim Durchschauen der Einträge sah sie, welche Mahlzeiten länger satt machten und welche nicht, und passte Rezepte etwas an. Die Gewohnheit, vorauszuplanen und vorab zu protokollieren, machte das Tracking einfach und beständig.",
+          "habit": "Trage eine Mahlzeit pro Woche vorab ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Plane uma refeição",
+          "story": "Mariana passou a preparar almoços duas vezes por semana para evitar escolhas de última hora. Ela usava o Calorie Bank Credit para anotar ingredientes e o tamanho das porções antes de cozinhar, assim não precisava decidir correndo na hora do almoço. Planejar ajudou a equilibrar as refeições ao longo do dia sem buscar perfeição — ela fez trocas mais conscientes e lembrou dos lanchinhos. Ao revisar os registros, percebeu quais refeições a deixavam mais satisfeita e ajustou algumas receitas. O hábito de planejar e pré-registrar tornou o acompanhamento simples e consistente.",
+          "habit": "Pré-registre uma refeição por semana.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Tervezd meg egy étkezést",
+          "story": "Maja elkezdett hetente kétszer ebédet készíteni, hogy ne kelljen utolsó pillanatban döntéseket hoznia. A Calorie Bank Creditet használta az összetevők és az adagok előzetes rögzítésére, így ebédidőben kevésbé sürgős volt minden. A tervezés segített kiegyensúlyozni a napot anélkül, hogy a tökéletességre törekedett — tudatosabb cseréket vezetett be és emlékezett az uzsonnákra. Amikor visszanézte a bejegyzéseket, látta, mely ételek tartották tovább jóllakottnak, és finomított a recepteken. A tervezés és előzetes feljegyzés szokása egyszerűbbé és stabilabbá tette a nyomon követést.",
+          "habit": "Előre rögzíts egy étkezést hetente.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el követni ma."
+        },
+        "ar": {
+          "title": "خطط لوجبة واحدة",
+          "story": "مايا بدأت تحضير وجبات الغداء مرتين في الأسبوع لتتجنب القرارات في اللحظة الأخيرة. استخدمت Calorie Bank Credit لتدوين المكونات وحجم الحصص قبل الطهي، فلم تعد تشعر بالعجلة في وقت الغداء. ساعدها التخطيط على موازنة وجباتها خلال اليوم دون السعي للكمال — قامت بتبديلات أكثر وعيًا وتذكرت الوجبات الخفيفة. عندما راجعت السجلات رأت أي الوجبات أشعرتها بالشبع لفترة أطول وأيها لا، فقامت بتعديل الوصفات قليلًا. جعلت عادة التخطيط والتسجيل المسبق المتابعة أبسط وأكثر ثباتًا.",
+          "habit": "سجل وجبة مسبقًا مرة أسبوعيًا.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-1-s1-motivation-1.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-1-s1-motivation-1.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Plan one meal ahead.\nStory: Maya started packing lunches twice a week to avoid last-minute choices. She used Calorie Bank Credit to note ingredients and portion sizes before cooking, so she felt less rushed at noon. Planning helped her balance meals across the day without aiming for perfection — she made more mindful swaps and remembered snacks. When she revisited the log, she saw which meals kept her full longer and which left her hungry, and used that info to tweak recipes. The habit of planning and pre-logging made tracking simple and steady, one small step at a time..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-25-motivation-2-s2",
+      "category": "calorie_bank_credit",
+      "languages": {
+        "en": {
+          "title": "Be honest about snacks",
+          "story": "Carlos realized midday snacking added up. Instead of ignoring small bites, he started logging them honestly in the app—even the handful of nuts or the extra spoonful of sauce. Writing everything down felt awkward first, but it built a clearer picture of where his intake came from. Over time he spotted a few repeat moments (like afternoon coffee breaks) and made tiny swaps. He still enjoyed treats; logging simply helped him be aware and make choices with more information, not pressure.",
+          "habit": "Log every snack, even small ones.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Sé honesto con los tentempiés",
+          "story": "Carlos se dio cuenta de que los picoteos de media mañana sumaban. En vez de ignorarlos, empezó a registrarlos con honestidad en la app, incluso el puñado de frutos secos o la cucharada extra de salsa. Al principio resultaba incómodo, pero pronto tuvo una imagen más clara de dónde provenían sus calorías. Con el tiempo detectó momentos recurrentes (como las pausas de café) y realizó pequeños cambios. Seguía disfrutando caprichos; registrar solo le ayudó a tomar decisiones con más información, sin presión.",
+          "habit": "Registra todos los tentempiés, incluso los pequeños.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Будьте честны со перекусами",
+          "story": "Сергей заметил, что перекусы к середине дня складываются в заметную сумму. Вместо того чтобы их игнорировать, он стал честно фиксировать всё в приложении — даже горсть орехов или лишнюю ложку соуса. Сначала было неловко, но постепенно у него сложилась ясная картина источников калорий. Со временем он обнаружил повторяющиеся ситуации (например, кофейные перерывы) и сделал небольшие замены. Он по‑прежнему позволял себе угощения; записи просто помогли принимать более информированные решения без давления.",
+          "habit": "Записывайте все перекусы, даже мелкие.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Будьте чесними з перекусами",
+          "story": "Сергій помітив, що перекуси в середині дня накопичуються. Замість того щоб їх ігнорувати, він почав чесно записувати все в додатку — навіть жменю горіхів чи зайву ложку соусу. Спочатку це здавалося незвично, але з часом він отримав чіткішу картину джерел калорій. Згодом виявилися повторювані моменти (наприклад, кава‑перерви) і йому вдалося зробити невеликі заміни. Він і надалі насолоджувався приємними смаколиками; запис допоміг приймати рішення на підставі інформації, без тиску.",
+          "habit": "Записуйте всі перекуси, навіть невеликі.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Notez les grignotages",
+          "story": "Thomas a réalisé que les grignotages de la journée s'accumulaient. Plutôt que de les ignorer, il a commencé à les enregistrer honnêtement dans l'application — même la poignée de noix ou la cuillerée supplémentaire de sauce. Au début, cela le gênait, mais il a rapidement obtenu une image plus claire des sources de calories. Avec le temps, il a repéré des moments récurrents (comme les pauses café) et opéré de petits ajustements. Il continue de se faire plaisir ; l'enregistrement l'aide simplement à choisir en connaissance de cause, sans pression.",
+          "habit": "Notez tous les encas, même petits.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Sei ehrlich bei Snacks",
+          "story": "Lukas bemerkte, dass sich Zwischenmahlzeiten im Laufe des Tages summierten. Statt sie zu ignorieren, begann er, alles ehrlich in der App zu erfassen — selbst die Handvoll Nüsse oder den zusätzlichen Löffel Soße. Zunächst fühlte es sich ungewohnt an, doch bald bekam er ein klareres Bild, woher die Kalorien kamen. Mit der Zeit entdeckte er wiederkehrende Situationen (zum Beispiel Kaffeepausen) und nahm kleine Anpassungen vor. Er genoss weiterhin hin und wieder Leckereien; das Aufzeichnen half ihm, bewusstere Entscheidungen zu treffen, ohne Druck.",
+          "habit": "Trage auch kleine Snacks immer ein.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Registre os lanches",
+          "story": "Carlos percebeu que os lanchinhos do dia somavam. Em vez de ignorá‑los, começou a registrá‑los com honestidade no app — até o punhadinho de castanhas ou a colherada extra de molho. No começo era estranho, mas logo teve uma visão mais clara de onde vinham as calorias. Com o tempo, notou momentos recorrentes (como as pausas para café) e fez pequenas substituições. Ele continuou curtindo seus mimos; registrar apenas o ajudou a escolher com mais informação, sem pressão.",
+          "habit": "Registre todos os lanches, mesmo os pequenos.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Légy őszinte a nassolásoknál",
+          "story": "Péter észrevette, hogy a napközbeni nassolások összeadódnak. Ahelyett, hogy figyelmen kívül hagyta volna őket, őszintén kezdte rögzíteni mindet az alkalmazásban — még a marék diót vagy a plusz kanál szószt is. Eleinte kényelmetlen volt, de gyorsan világosabb képet kapott a kalóriaforrásokról. Idővel ismétlődő helyzeteket fedezett fel (például kávészünetek), és apró változtatásokat vezetett be. Továbbra is élvezte a jutalmakat; a feljegyzés egyszerűen segített tájékozottabb döntéseket hozni, nyomás nélkül.",
+          "habit": "Jegyezd fel az összes nassolást, még a kicsiket is.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el követni ma."
+        },
+        "ar": {
+          "title": "كن صادقًا مع الوجبات الخفيفة",
+          "story": "أحمد لاحظ أن الوجبات الخفيفة خلال اليوم تتراكم. بدلًا من تجاهلها، بدأ بتسجيل كل شيء بصراحة في التطبيق — حتى حفنة من المكسرات أو ملعقة إضافية من الصلصة. بدا الأمر محرجًا في البداية، لكنه سرعان ما حصل على صورة أوضح عن مصادر السعرات. مع الوقت لاحظ لحظات متكررة (مثل فترات استراحة القهوة) وأجرى تعديلات بسيطة. لا يزال يستمتع بمكافآته، لكن التسجيل ساعده على اتخاذ قرارات مبنية على معلومات دون ضغط.",
+          "habit": "سجل كل الوجبات الخفيفة، حتى الصغيرة.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-2-s2-motivation-2.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-2-s2-motivation-2.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Be honest about snacks.\nStory: Carlos realized midday snacking added up. Instead of ignoring small bites, he started logging them honestly in the app—even the handful of nuts or the extra spoonful of sauce. Writing everything down felt awkward first, but it built a clearer picture of where his intake came from. Over time he spotted a few repeat moments (like afternoon coffee breaks) and made tiny swaps. He still enjoyed treats; logging simply helped him be aware and make choices with more information, not pressure..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-25-motivation-3-s3",
+      "category": "calorie_bank_credit",
+      "languages": {
+        "en": {
+          "title": "Look for patterns",
+          "story": "Anna tracked for a month and noticed a pattern: weekdays were steady, weekends were different. Seeing the trend in her Calorie Bank Credit log helped her plan evening meals and Sunday grocery trips without judgment. She started packing a simple weekend snack box and choosing a few go-to meals that fit her routine. The insight didn't demand perfection—just awareness. That pattern-finding made tracking feel rewarding, because she could make small adjustments that matched her real life.",
+          "habit": "Review one week of logs to spot patterns.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Detecta patrones",
+          "story": "Anna llevó un registro un mes y notó un patrón: entre semana todo era estable y los fines de semana diferente. Ver la tendencia en Calorie Bank Credit le ayudó a planear cenas y las compras del domingo sin juzgarse. Empezó a llevar una caja de snacks para el fin de semana y a tener un par de platos repetidos que encajaran con su rutina. La observación no pedía perfección, solo atención. Encontrar ese patrón hizo que registrar fuera satisfactorio, porque podía ajustar cosas pequeñas que funcionaban en su vida.",
+          "habit": "Revisa una semana de registros para ver patrones.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Ищите закономерности",
+          "story": "Анна вела записи месяц и заметила закономерность: будни были более предсказуемыми, а выходные — иначе. Видя эту тенденцию в Calorie Bank Credit, она стала планировать ужины и воскресные покупки продуктов без упрёков. Она начала брать с собой простой набор перекусов на выходные и держать пару любимых блюд, которые вписывались в её распорядок. Осознание не требовало идеальности — только внимания. Выявление паттернов сделало отслеживание более полезным, потому что можно было внести небольшие изменения, соответствующие её жизни.",
+          "habit": "Просмотрите неделю записей, чтобы найти закономерности.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Знайдіть закономірності",
+          "story": "Анна вела записи місяць і помітила закономірність: будні були стабільними, а вихідні — інакші. Побачивши цю тенденцію в Calorie Bank Credit, вона навчилася планувати вечері й недільні покупки продуктів без самосуду. Вона почала брати з собою просту коробку‑перекус на вихідні і мати пару улюблених страв, що пасували до її ритму. Усвідомлення не вимагало досконалості — лише уваги. Виявлення патернів зробило відстеження кориснішим, бо дозволяло вносити малі зміни під свій реальний розклад.",
+          "habit": "Перегляньте тиждень записів, щоб знайти патерни.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Repérez les tendances",
+          "story": "Anna a tenu un suivi pendant un mois et a repéré un schéma : les jours de semaine étaient réguliers, les week‑ends différents. Voir cette tendance dans Calorie Bank Credit l'a aidée à planifier ses dîners et ses courses du dimanche sans se juger. Elle a commencé à préparer une boîte d'encas pour le week‑end et à conserver quelques plats faciles qui correspondaient à sa routine. Repérer ce schéma ne demandait pas la perfection, seulement de l'attention. Cela a rendu le suivi gratifiant, car elle pouvait ajuster légèrement ses habitudes pour mieux les intégrer.",
+          "habit": "Consultez une semaine d'enregistrements pour trouver un schéma.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Erkenne Muster",
+          "story": "Anna zeichnete einen Monat lang ihre Mahlzeiten auf und entdeckte ein Muster: unter der Woche war alles gleichmäßiger, am Wochenende anders. Die Erkenntnis in Calorie Bank Credit half ihr, Abendessen und den Sonntagseinkauf ohne Selbstvorwürfe zu planen. Sie begann, für das Wochenende einen einfachen Snack-Behälter mitzunehmen und hielt ein paar Lieblingsgerichte bereit, die zu ihrem Rhythmus passten. Das Erkennen des Musters erforderte keine Perfektion, nur Aufmerksamkeit. Das machte das Tracking lohnend, weil sie kleine Anpassungen vornehmen konnte, die zu ihrem Leben passten.",
+          "habit": "Schau dir eine Woche Einträge an, um Muster zu erkennen.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Observe padrões",
+          "story": "Ana acompanhou por um mês e identificou um padrão: durante a semana tudo era mais estável, nos fins de semana era diferente. Ver essa tendência no Calorie Bank Credit a ajudou a planejar jantares e as compras de domingo sem se julgar. Ela passou a levar um lanche simples para o fim de semana e a ter alguns pratos práticos que se encaixavam na rotina. Observar o padrão não exigia perfeição — apenas atenção. Isso tornou o acompanhamento recompensador, pois permitiu pequenos ajustes que funcionavam no dia a dia.",
+          "habit": "Revise uma semana de registros para identificar padrões.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Keress mintázatokat",
+          "story": "Anna egy hónapig vezette a naplót, és mintát fedezett fel: a hétköznapok egyenletesek voltak, a hétvégék pedig mások. A Calorie Bank Creditben látott tendencia segített neki vacsorákat és a vasárnapi bevásárlást megtervezni ítélkezés nélkül. Elkezdett egy egyszerű hétvégi nassolódobozt vinni magával, és tartott néhány könnyű ételt, amelyek illeszkedtek a ritmusához. A minták felismerése nem követelte meg a tökéletességet, csak a figyelmet. Ezért volt kifizetődő a nyomon követés: kis, az életehez igazított módosításokat tehetett.",
+          "habit": "Nézz át egy hét bejegyzéseit mintákért.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el követni ma."
+        },
+        "ar": {
+          "title": "ابحث عن أنماط",
+          "story": "سارة تابعت تسجيلاتها لشهر ولاحظت نمطًا: أيام الأسبوع كانت منتظمة أما عطلات نهاية الأسبوع فكانت مختلفة. رؤيتها لهذا النمط في Calorie Bank Credit ساعدتها على التخطيط لوجبات العشاء ومشتريات يوم الأحد دون لوم ذاتي. بدأت تحمل صندوقًا بسيطًا للوجبات الخفيفة في عطلات نهاية الأسبوع واحتفظت ببعض الأطباق السهلة التي تناسب روتينها. لم يتطلب ملاحظة هذا النمط الكمال، بل الانتباه فقط. جعل اكتشاف الأنماط المتابعة مجزية لأنها سمحت بتعديلات صغيرة تتناسب مع حياتها.",
+          "habit": "راجع أسبوعًا من السجلات لتكتشف نمطًا واحدًا.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-3-s3-motivation-3.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-3-s3-motivation-3.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Look for patterns.\nStory: Anna tracked for a month and noticed a pattern: weekdays were steady, weekends were different. Seeing the trend in her Calorie Bank Credit log helped her plan evening meals and Sunday grocery trips without judgment. She started packing a simple weekend snack box and choosing a few go-to meals that fit her routine. The insight didn't demand perfection—just awareness. That pattern-finding made tracking feel rewarding, because she could make small adjustments that matched her real life..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
+    {
+      "id": "2026-11-25-motivation-4-s4",
+      "category": "calorie_bank_credit",
+      "languages": {
+        "en": {
+          "title": "Try tiny adjustments",
+          "story": "Sam liked trying new recipes but found portions varied. He began noting portion sizes and a quick photo in Calorie Bank Credit. Seeing before-and-after entries made it easy to experiment: swap an ingredient, halve a drizzle, or add more veggies. Each tiny change felt manageable and reversible, and tracking was simply a way to record results. Sam appreciated that tracking supported small, sustainable tweaks—no all-or-nothing thinking, just steady adjustments based on what he actually ate.",
+          "habit": "Photo your plate and note portions.",
+          "appCta": "Open Calorie Bank Credit and start tracking today."
+        },
+        "es": {
+          "title": "Haz pequeños ajustes",
+          "story": "Sam disfrutaba probar recetas nuevas, pero las raciones variaban. Empezó a anotar tamaños de porción y tomar una foto rápida en Calorie Bank Credit. Ver las entradas antes y después le permitió experimentar: cambiar un ingrediente, reducir una pizca o añadir más verduras. Cada pequeño cambio le parecía manejable y reversible, y registrar era una forma de guardar los resultados. Sam valoró que el seguimiento facilitara ajustes graduales, sin pensar en todo o nada, solo cambios constantes según lo que realmente comía.",
+          "habit": "Haz una foto del plato y anota las porciones.",
+          "appCta": "Abre Calorie Bank Credit y empieza a registrar hoy."
+        },
+        "ru": {
+          "title": "Маленькие изменения",
+          "story": "Илья любил пробовать новые рецепты, но порции часто отличались. Он стал отмечать размер порций и фотографировать тарелку в Calorie Bank Credit. Сравнение записей «до» и «после» упростило эксперименты: поменять ингредиент, уменьшить немного соуса или добавить овощей. Каждый маленький шаг казался выполнимым и обратимым, а записи служили способом фиксировать результат. Илья оценил, что отслеживание поддерживает постепенные изменения — без крайностей, просто последовательные корректировки.",
+          "habit": "Фотографируйте тарелку и отмечайте порции.",
+          "appCta": "Откройте Calorie Bank Credit и начните отслеживать сегодня."
+        },
+        "uk": {
+          "title": "Спробуйте дрібні зміни",
+          "story": "Ілля любив експериментувати з рецептами, але порції часто були різними. Він став фіксувати розміри порцій і робити швидке фото в Calorie Bank Credit. Порівняння записів «до» та «після» спростило експерименти: замінити інгредієнт, трохи зменшити соус або додати овочів. Кожна маленька зміна виглядала здійсненною і зворотною, а відстеження було способом зберегти результати. Ілля цінував, що відстеження підтримувало поступові корективи — без крайнощів, просто крок за кроком.",
+          "habit": "Фотографуйте тарілку й записуйте порції.",
+          "appCta": "Відкрийте Calorie Bank Credit і почніть відстежувати сьогодні."
+        },
+        "fr": {
+          "title": "Adoptez de petits ajustements",
+          "story": "Lucas aimait tester de nouvelles recettes, mais les portions variaient. Il a donc commencé à noter les tailles de portion et à prendre une photo rapide dans Calorie Bank Credit. Voir les entrées avant/après lui a permis d'expérimenter : remplacer un ingrédient, réduire un filet, ajouter des légumes. Chaque petit changement lui semblait réalisable et réversible, et le suivi était juste un moyen d'enregistrer les résultats. Lucas a apprécié que le suivi soutienne des ajustements progressifs — pas d'extrêmes, juste des modifications constantes selon ce qu'il mangeait.",
+          "habit": "Prenez une photo de votre assiette et notez les portions.",
+          "appCta": "Ouvrez Calorie Bank Credit et commencez à suivre aujourd'hui."
+        },
+        "de": {
+          "title": "Kleine Anpassungen testen",
+          "story": "Max probierte gern neue Rezepte aus, merkte aber, dass die Portionsgrößen schwankten. Er begann, Portionsmengen zu notieren und schnell ein Foto in Calorie Bank Credit zu machen. Der Vergleich von Einträgen vorher/nachher erleichterte Experimente: eine Zutat tauschen, eine Portion Soße reduzieren oder mehr Gemüse hinzufügen. Jede kleine Änderung erschien machbar und reversibel, und das Tracking war einfach eine Möglichkeit, die Ergebnisse festzuhalten. Max schätzte, dass das Tracking schrittweise Anpassungen unterstützte — kein Alles‑oder‑Nichts, sondern konstante Feinjustierungen.",
+          "habit": "Fotografiere deinen Teller und notiere Portionen.",
+          "appCta": "Öffne Calorie Bank Credit und beginne heute mit dem Tracking."
+        },
+        "pt-br": {
+          "title": "Ajustes pequenos",
+          "story": "Lucas gostava de testar receitas novas, mas as porções variavam. Ele começou a anotar o tamanho das porções e tirar uma foto rápida no Calorie Bank Credit. Ver as entradas antes e depois facilitou os experimentos: trocar um ingrediente, reduzir um fio de molho ou acrescentar mais legumes. Cada pequena mudança parecia factível e reversível, e o registro era só uma forma de guardar os resultados. Lucas valorizou que o acompanhamento apoiasse ajustes graduais — sem extremos, apenas mudanças constantes conforme o que ele realmente comia.",
+          "habit": "Tire uma foto do prato e registre as porções.",
+          "appCta": "Abra o Calorie Bank Credit e comece a registrar hoje."
+        },
+        "hu": {
+          "title": "Próbálj kis változtatásokat",
+          "story": "Tamás szeretett új recepteket kipróbálni, de gyakran eltértek az adagok. Elkezdte feljegyezni a porcióméreteket és gyors fotót készíteni a tányérról a Calorie Bank Creditben. A korábbi és utólagos bejegyzések összehasonlítása megkönnyítette a kísérletezést: összetevő cseréje, egy kevés szósz csökkentése vagy több zöldség hozzáadása. Minden apró változtatás megvalósíthatónak és visszafordíthatónak tűnt, és a rögzítés egyszerűen az eredmények tárolása volt. Tamás értékelte, hogy a nyomon követés apró, következetes igazításokat tett lehetővé — nem fekete‑fehér megoldásokat, csak folyamatos finomhangolást.",
+          "habit": "Fotózd le a tányért és jegyezd fel az adagokat.",
+          "appCta": "Nyisd meg a Calorie Bank Creditet, és kezdj el követni ma."
+        },
+        "ar": {
+          "title": "جرّب تعديلات صغيرة",
+          "story": "سام كان يحب تجربة وصفات جديدة لكنه لاحظ تفاوتًا في أحجام الحصص. بدأ بتدوين أحجام الحصص والتقاط صورة سريعة للطبق في Calorie Bank Credit. مقارنة الإدخالات قبل/بعد سهلت التجارب: استبدال مكوّن، تقليل القليل من الصلصة، أو إضافة المزيد من الخضار. بدا كل تغيير صغير قابلاً للتنفيذ وقابلًا للعكس، وكان التسجيل وسيلة لتوثيق النتائج. قدر سام أن المتابعة تدعم تعديلات تدريجية — لا كل شيء أو لا شيء، بل تحسينات متواصلة بسيطة.",
+          "habit": "صوّر طبقك وسجل الحصص.",
+          "appCta": "افتح Calorie Bank Credit وابدأ التتبع اليوم."
+        }
+      },
+      "generatedAt": "2026-11-25T17:35:56.582Z",
+      "imageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-4-s4-motivation-4.webp",
+      "shareImageUrl": "https://raw.githubusercontent.com/ipcltech/CalorieBankNewsData/main/news-images/2026-11-25-motivation-4-s4-motivation-4.webp",
+      "imageProvider": "openai",
+      "imageModel": "gpt-image-2",
+      "imagePrompt": "Create a high-quality motivational lifestyle image for the Calorie Bank Credit website.\nStory title: Try tiny adjustments.\nStory: Sam liked trying new recipes but found portions varied. He began noting portion sizes and a quick photo in Calorie Bank Credit. Seeing before-and-after entries made it easy to experiment: swap an ingredient, halve a drizzle, or add more veggies. Each tiny change felt manageable and reversible, and tracking was simply a way to record results. Sam appreciated that tracking supported small, sustainable tweaks—no all-or-nothing thinking, just steady adjustments based on what he actually ate..\nShow an encouraging, everyday moment around meal planning, grocery choices, portion awareness, cooking, walking, journaling, or checking progress.\nThe tone must be practical, positive, and non-judgmental.\nAvoid readable text, logos, app screenshots, weighing-scale obsession, before-and-after bodies, body shaming, medical claims, or extreme fitness imagery.\nLandscape 3:2 composition, bright natural light, premium website thumbnail quality."
+    },
     {
       "id": "2026-11-24-motivation-1-story-1",
       "category": "calorie-tracking",
