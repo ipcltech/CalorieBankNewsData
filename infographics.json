@@ -1,7 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T01:57:58.835Z",
+  "generatedAt": "2026-11-26T17:30:29.944Z",
   "items": [
+    {
+      "id": "2026-11-26-pm",
+      "publishedAt": "2026-11-26T17:30:29.944Z",
+      "format": "summary",
+      "source": {
+        "id": "article:barcode-scanner-versus-database",
+        "kind": "article",
+        "name": "Calorie Bank Credit",
+        "title": "Barcode Scanner Versus Database: What Matters?",
+        "urls": {
+          "en": "https://www.calorie-bank.com/articles/barcode-scanner-versus-database.html",
+          "es": "https://www.calorie-bank.com/articles/es/barcode-scanner-versus-database.html",
+          "ru": "https://www.calorie-bank.com/articles/ru/barcode-scanner-versus-database.html",
+          "uk": "https://www.calorie-bank.com/articles/uk/barcode-scanner-versus-database.html",
+          "fr": "https://www.calorie-bank.com/articles/fr/barcode-scanner-versus-database.html",
+          "de": "https://www.calorie-bank.com/articles/de/barcode-scanner-versus-database.html",
+          "pt-br": "https://www.calorie-bank.com/articles/pt-br/barcode-scanner-versus-database.html",
+          "hu": "https://www.calorie-bank.com/articles/hu/barcode-scanner-versus-database.html",
+          "ar": "https://www.calorie-bank.com/articles/ar/barcode-scanner-versus-database.html"
+        },
+        "originalUrl": "https://www.calorie-bank.com/articles/barcode-scanner-versus-database.html",
+        "imageUrl": "/article-images/barcode-scanner-versus-database.webp"
+      },
+      "languages": {
+        "en": {
+          "title": "Scan Smart: Use Barcodes + Database to Log Calories",
+          "intro": "Scan packaged items for speed, but use the food database and the product label to confirm calories. Aim for a routine that trades perfect precision for consistent, usable logging.",
+          "points": [
+            "Scan packaged staples for a quick, specific starting point, then confirm the app entry matches the label.",
+            "Use search, photo recognition or recipes for fresh, loose or homemade foods; combine methods as needed.",
+            "Before saving a scan, confirm the exact product, whether calories are per serving or per pack, and the amount you ate."
+          ],
+          "takeaway": "Make a simple system: scan what’s packaged, use the database for non-packaged foods, check labels when unsure, and prioritise consistent logging over chasing tiny differences.",
+          "imageUrl": "/infographic-images/2026-11-26-pm-en.jpg"
+        },
+        "es": {
+          "title": "Escanea con criterio: usa códigos de barras y base de datos para registrar calorías",
+          "intro": "Escanea productos envasados para rapidez, pero verifica las calorías con la base de datos y la etiqueta del producto. Busca una rutina que cambie la precisión absoluta por un registro consistente y útil.",
+          "points": [
+            "Escanea básicos envasados para un inicio rápido y específico; luego confirma que la entrada en la app coincide con la etiqueta.",
+            "Para alimentos frescos, sueltos o caseros usa búsqueda, reconocimiento de fotos o recetas; combina métodos según haga falta.",
+            "Antes de guardar un escaneo, confirma el producto exacto, si las calorías son por ración o por envase, y la cantidad que comiste."
+          ],
+          "takeaway": "Haz un sistema sencillo: escanea lo envasado, usa la base de datos para lo no envasado, comprueba etiquetas si dudas, y prioriza registrar con constancia sobre perseguir mínimas diferencias.",
+          "imageUrl": "/infographic-images/2026-11-26-pm-es.jpg"
+        },
+        "ru": {
+          "title": "Сканируй с умом: используй штрихкоды и базу данных для учёта калорий",
+          "intro": "Сканируйте упакованные продукты для быстроты, но подтверждайте калории по базе данных и этикетке продукта. Стремитесь к рутине, которая меняет абсолютную точность на последовательный, пригодный для пользования ",
+          "points": [
+            "Сканируйте упакованные основные продукты для быстрого и конкретного старта; затем убедитесь, что запись в приложении совпадает с этикеткой.",
+            "Для свежих, рассыпных или домашних блюд используйте поиск, распознавание фото или рецепты; при необходимости комбинируйте методы.",
+            "Перед сохранением скана подтвердите точный продукт, указано ли число калорий на порцию или на упаковку, и количество, которое вы съели."
+          ],
+          "takeaway": "Сделайте простую систему: сканируйте упакованное, используйте базу данных для неупакованного, сверяйте этикетки при сомнениях и отдавайте приоритет последовательному учёту, а не погоне за малыми разнм",
+          "imageUrl": "/infographic-images/2026-11-26-pm-ru.jpg"
+        },
+        "uk": {
+          "title": "Скануй розумно: використовуйте штрих-коди та базу даних для реєстрації калорій",
+          "intro": "Скануйте упаковані продукти для швидкості, але використовуйте базу даних і етикетку продукту, щоб підтвердити калорії. Намітьте рутину, яка обмінює абсолютну точність на послідовне, придатне для використання вi",
+          "points": [
+            "Скануйте упаковані основні продукти, щоб швидко отримати конкретну відправну точку, потім перевірте, чи запис у додатку відповідає етикетці.",
+            "Для свіжих, насипних або домашніх страв використовуйте пошук, розпізнавання фото або рецепти; комбінуйте методи за потреби.",
+            "Перш ніж зберегти скан, підтвердьте точний продукт, чи калорії вказані за порцію чи за упаковку, і яку кількість ви з'їли."
+          ],
+          "takeaway": "Створіть просту систему: скануйте упаковане, використовуйте базу для неупакованих продуктів, перевіряйте етикетки при сумніві і віддавайте перевагу послідовному веденню записів над гонитвою за дрібним",
+          "imageUrl": "/infographic-images/2026-11-26-pm-uk.jpg"
+        },
+        "fr": {
+          "title": "Scannez malin : utilisez codes-barres et base de données pour enregistrer les calories",
+          "intro": "Scannez les produits emballés pour la rapidité, mais utilisez la base alimentaire et l'étiquette pour confirmer les calories. Visez une routine qui échange la précision parfaite contre un enregistrement cohé",
+          "points": [
+            "Scannez les produits emballés de base pour un point de départ rapide et précis, puis vérifiez que l'entrée dans l'application correspond à l'étiquette.",
+            "Pour les aliments frais, en vrac ou faits maison, utilisez la recherche, la reconnaissance photo ou les recettes ; combinez les méthodes si nécessaire.",
+            "Avant d'enregistrer un scan, confirmez le produit exact, si les calories sont indiquées par portion ou par paquet, et la quantité que vous avez consommée."
+          ],
+          "takeaway": "Mettez en place un système simple : scannez les produits emballés, utilisez la base pour les aliments non emballés, vérifiez les étiquettes en cas de doute et privilégiez un enregistrement cohérent à ",
+          "imageUrl": "/infographic-images/2026-11-26-pm-fr.jpg"
+        },
+        "de": {
+          "title": "Clever scannen: Barcodes + Datenbank zum Kalorien erfassen",
+          "intro": "Bei verpackten Artikeln scannen für Geschwindigkeit, aber zur Bestätigung der Kalorien die Lebensmitteldatenbank und das Produktetikett prüfen. Ziel ist eine Routine, die perfekte Präzision gegen konsistentes, ",
+          "points": [
+            "Verpackte Grundnahrungsmittel scannen als schnellen, konkreten Startpunkt, dann prüfen, ob der App‑Eintrag mit dem Etikett übereinstimmt.",
+            "Für frische, unverpackte oder hausgemachte Speisen Suche, Fotoerkennung oder Rezepte nutzen; bei Bedarf Methoden kombinieren.",
+            "Vor dem Speichern eines Scans das genaue Produkt, ob die Kalorien pro Portion oder pro Packung angegeben sind, und die verzehrte Menge bestätigen."
+          ],
+          "takeaway": "Ein einfaches System: Verpacktes scannen, für Unverpacktes die Datenbank nutzen, bei Unsicherheit Etiketten prüfen; konsistentes Erfassen Priorität geben statt winziger Unterschiede nachzujagen.",
+          "imageUrl": "/infographic-images/2026-11-26-pm-de.jpg"
+        },
+        "pt-br": {
+          "title": "Escaneie com inteligência: códigos de barras + banco de dados para registrar calorias",
+          "intro": "Escaneie itens embalados para rapidez, mas use o banco de dados de alimentos e o rótulo do produto para confirmar as calorias. Busque uma rotina que troque precisão perfeita por registros consistentes e úteis.",
+          "points": [
+            "Escaneie itens embalados básicos como ponto de partida rápido e específico, depois confirme se a entrada no app corresponde ao rótulo.",
+            "Para alimentos frescos, soltos ou caseiros, use busca, reconhecimento por foto ou receitas; combine métodos conforme necessário.",
+            "Antes de salvar um escaneamento, confirme o produto exato, se as calorias são por porção ou por embalagem, e a quantidade que você consumiu."
+          ],
+          "takeaway": "Faça um sistema simples: escaneie o que vem embalado, use o banco de dados para o que não é embalado, verifique rótulos ao duvidar e priorize registros consistentes em vez de perseguir pequenas dife",
+          "imageUrl": "/infographic-images/2026-11-26-pm-pt-br.jpg"
+        },
+        "hu": {
+          "title": "Okos scannelés: vonalkód + adatbázis a kalóriák naplózásához",
+          "intro": "Csomagolt termékek beolvasása gyors megoldás; ellenőrizd a kalóriákat az ételadatbázissal és a termékcímkével. Törekedj olyan rutinra, amely a tökéletes pontosságot a következetes, használható naplózás javára c",
+          "points": [
+            "Csomagolt alapélelmiszereket szkenneld gyors, konkrét kiindulópontként, majd ellenőrizd, hogy az alkalmazás bejegyzése megfelel-e a címkének.",
+            "Friss, ömlesztett vagy házi készítésű ételekhez használj keresést, fotófelismerést vagy receptadatokat; szükség szerint kombináld a módszereket.",
+            "A szkennelés mentése előtt ellenőrizd a pontos terméket, hogy a kalóriák adagonként vagy csomagra vonatkoznak-e, és az elfogyasztott mennyiséget."
+          ],
+          "takeaway": "Alakíts ki egyszerű rendszert: szkenneld a csomagoltakat, az adatbázist használd a csomagolatlan ételekhez, ellenőrizd a címkéket bizonytalanság esetén, és részesítsd előnyben a következetes naplózást",
+          "imageUrl": "/infographic-images/2026-11-26-pm-hu.jpg"
+        },
+        "ar": {
+          "title": "امسح بذكاء: استخدم الباركود + قاعدة البيانات لتسجيل السعرات",
+          "intro": "امسح المنتجات المعبأة للحصول على السرعة، لكن استخدم قاعدة بيانات الطعام وملصق المنتج لتأكيد السعرات الحرارية. استهدف روتينًا يفضّل تسجيلًا ثابتًا وقابلاً للاستخدام على حساب الدقة المطلقة.",
+          "points": [
+            "امسح المواد المعبأة الأساسية كنقطة انطلاق سريعة ومحددة، ثم تأكد أن إدخال التطبيق يتطابق مع الملصق.",
+            "للطعام الطازج، السائب أو المنزلي الصنع استخدم البحث أو التعرف على الصور أو بيانات الوصفات؛ وادمج الطرق حسب الحاجة.",
+            "قبل حفظ المسح، تحقق من المنتج الدقيق، وما إذا كانت السعرات الحرارية لكل حصة أم لكل عبوة، ومقدار ما أكلته."
+          ],
+          "takeaway": "كوّن نظامًا بسيطًا: امسح المعبأ، واستخدم قاعدة البيانات للأطعمة غير المعبأة، وافحص الملصقات عند الشك، وأعطِ أولوية للتسجيل المنتظم بدل ملاحقة فروق ضئيلة",
+          "imageUrl": "/infographic-images/2026-11-26-pm-ar.jpg"
+        }
+      },
+      "slug": "scan-smart-use-barcodes-database-to-log-calories"
+    },
     {
       "id": "2026-11-26-am",
       "publishedAt": "2026-11-26T01:57:58.835Z",
